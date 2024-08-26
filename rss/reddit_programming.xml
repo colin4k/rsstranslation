@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 26 Aug 2024 10:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>预测分布式系统的未来</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1mdy4/predicting_the_future_of_distributed_systems/</link>
+      <description><![CDATA[  由    /u/lutzh-reddit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1mdy4/predicting_the_future_of_distributed_systems/</guid>
+      <pubDate>Mon, 26 Aug 2024 11:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Timru Monitor: 实时 API/网站监控应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1m9tj/timru_monitor_realtime_apiwebsites_monitoring_app/</link>
+      <description><![CDATA[  由    /u/Similar_Bad_3120  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1m9tj/timru_monitor_realtime_apiwebsites_monitoring_app/</guid>
+      <pubDate>Mon, 26 Aug 2024 11:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>C 编程 - 模式 C 编程模式 1</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1m45k/চ_পৰগৰম_পটৰণ_c_programming_pattern_1/</link>
+      <description><![CDATA[  由    /u/itzrafiq  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1m45k/চ_পৰগৰম_পটৰণ_c_programming_pattern_1/</guid>
+      <pubDate>Mon, 26 Aug 2024 11:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valhalla - 我们在哪里？#JVMLS 与 Brian Goetz 对话</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1liv7/valhalla_where_are_we_jvmls_with_brian_goetz/</link>
+      <description><![CDATA[  由    /u/dhlowrents  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1liv7/valhalla_where_are_we_jvmls_with_brian_goetz/</guid>
+      <pubDate>Mon, 26 Aug 2024 11:09:22 GMT</pubDate>
+    </item>
     <item>
       <title>正则表达式越来越好：JavaScript 中正则表达式的历史和未来</title>
       <link>https://www.reddit.com/r/programming/comments/1f1kirm/regexes_got_good_the_history_and_future_of/</link>
@@ -34,7 +62,7 @@
       <pubDate>Mon, 26 Aug 2024 08:29:58 GMT</pubDate>
     </item>
     <item>
-      <title>借助人工智能编码，我变成了“评论员”</title>
+      <title>人工智能辅助编码让我变成了“评论员”</title>
       <link>https://www.reddit.com/r/programming/comments/1f1ip9w/coding_with_ai_assistance_has_turned_me_into_a/</link>
       <description><![CDATA[  由    /u/still_sitter_g  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f1ip9w/coding_with_ai_assistance_has_turned_me_into_a/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/hongminhee  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f1dynh/js_dates_are_about_to_be_fixed/</guid>
       <pubDate>Mon, 26 Aug 2024 02:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔍 释放隐藏的力量：每个初学者都应该知道的基本但被忽视的 JavaScript 概念 💡</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1dxqq/unlocking_hidden_power_essential_yet_overlooked/</link>
-      <description><![CDATA[  由    /u/vivek7405  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1dxqq/unlocking_hidden_power_essential_yet_overlooked/</guid>
-      <pubDate>Mon, 26 Aug 2024 02:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>很多人都在谈论 RAG，所以我创建了 r/Rag</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1bj82/so_many_people_were_talking_about_rag_so_i/</link>
-      <description><![CDATA[  由    /u/dhj9817  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1bj82/so_many_people_were_talking_about_rag_so_i/</guid>
-      <pubDate>Mon, 26 Aug 2024 00:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员讨厌文档</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1amnm/developers_hate_documentation/</link>
-      <description><![CDATA[  由    /u/asdev24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1amnm/developers_hate_documentation/</guid>
-      <pubDate>Sun, 25 Aug 2024 23:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将 serde_json 字符串速度提高了 20%</title>
-      <link>https://www.reddit.com/r/programming/comments/1f18ra7/i_sped_up_serde_json_strings_by_20/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f18ra7/i_sped_up_serde_json_strings_by_20/</guid>
-      <pubDate>Sun, 25 Aug 2024 22:28:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
