@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>拥抱脸 - 博客</title>
+    <link>https://huggingface.co/blog</link>
+    <description>拥抱的脸博客</description>
+    <lastBuildDate>Mon, 26 Aug 2024 08:21:08 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 上最被低估的 5 种工具</title>
+      <link>https://huggingface.co/blog/unsung-heroes</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/unsung-heroes</guid>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 Flash Attention 提升 Hugging Face 训练效率</title>
+      <link>https://huggingface.co/blog/packing-with-FA2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/packing-with-FA2</guid>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Google Cloud Vertex AI 上部署 Meta Llama 3.1 405B</title>
+      <link>https://huggingface.co/blog/llama31-on-vertex-ai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/llama31-on-vertex-ai</guid>
+      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>一次失败的实验：Infini-Attention，为什么我们应该继续尝试？</title>
+      <link>https://huggingface.co/blog/infini-attention</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/infini-attention</guid>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ggml 简介</title>
+      <link>https://huggingface.co/blog/introduction-to-ggml</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/introduction-to-ggml</guid>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎 FalconMamba：第一个强大的无注意 7B 模型</title>
+      <link>https://huggingface.co/blog/falconmamba</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/falconmamba</guid>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>工具使用，统一</title>
+      <link>https://huggingface.co/blog/unified-tool-use</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/unified-tool-use</guid>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>XetHub 将加入 Hugging Face！</title>
+      <link>https://huggingface.co/blog/xethub-joins-hf</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/xethub-joins-hf</guid>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年安全功能亮点</title>
+      <link>https://huggingface.co/blog/2024-security-features</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/2024-security-features</guid>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>引入针对文档图像的 TextImage 增强功能</title>
+      <link>https://huggingface.co/blog/doc_aug_hf_alb</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/doc_aug_hf_alb</guid>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌发布 Gemma 2 2B、ShieldGemma 和 Gemma Scope</title>
+      <link>https://huggingface.co/blog/gemma-july-update</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gemma-july-update</guid>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有 Quanto 和扩散器的内存高效扩散变压器</title>
+      <link>https://huggingface.co/blog/quanto-diffusers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/quanto-diffusers</guid>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Hugging Face 和 NVIDIA NIM 进行无服务器推理</title>
+      <link>https://huggingface.co/blog/inference-dgx-cloud</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inference-dgx-cloud</guid>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAVE：使用 LLM 在 Docmatix 上进行零样本 VQA 评估——我们还需要微调吗？</title>
+      <link>https://huggingface.co/blog/zero-shot-vqa-docmatix</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/zero-shot-vqa-docmatix</guid>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Llama 3.1 - 405B、70B 和 8B，具有多语言和长上下文</title>
+      <link>https://huggingface.co/blog/llama31</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/llama31</guid>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>WWDC 24：使用 Core ML 运行 Mistral 7B</title>
+      <link>https://huggingface.co/blog/mistral-coreml</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/mistral-coreml</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docmatix - 用于文档视觉问答的庞大数据集</title>
+      <link>https://huggingface.co/blog/docmatix</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/docmatix</guid>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TGI Multi-LoRA：一次部署，服务 30 种型号</title>
+      <link>https://huggingface.co/blog/multi-lora-serving</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/multi-lora-serving</guid>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SmolLM - 速度极快，功能强大</title>
+      <link>https://huggingface.co/blog/smollm</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smollm</guid>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何利用 distilabel 创建 Argilla 2.0 聊天机器人</title>
+      <link>https://huggingface.co/blog/argilla-chatbot</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/argilla-chatbot</guid>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

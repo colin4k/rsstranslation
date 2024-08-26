@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：开源</title>
+    <link>https://www.reddit.com/r/opensource/new</link>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Mon, 26 Aug 2024 08:22:41 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Photos 的最佳替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1hyn7/the_best_alternative_to_microsoft_photos/</link>
+      <description><![CDATA[哪个是 Microsoft Photos 的最佳开源替代品，理想情况下具有很多功能？    提交人    /u/Pain5203   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1hyn7/the_best_alternative_to_microsoft_photos/</guid>
+      <pubDate>Mon, 26 Aug 2024 07:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>随附 - 用于发送私人和安全笔记的简约网络应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1hxhd/enclosed_minimalistic_web_app_for_sending_private/</link>
+      <description><![CDATA[  由    /u/cthmsst  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1hxhd/enclosed_minimalistic_web_app_for_sending_private/</guid>
+      <pubDate>Mon, 26 Aug 2024 07:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CNN 的 XRayAnalyzer</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1hfm0/xrayanalyzer_using_cnn/</link>
+      <description><![CDATA[大家好， 我一直在做一个项目，旨在帮助医疗专业人员诊断和控制X射线和其他医学图像（未来）。  https://github.com/mihaibundea1/XRayAnalyzerPython 我正在寻找可以分叉此项目并继续工作的贡献者。我致力于研究开发用于多类分类的CNN的方法。我目前一直在与一位教授一起研究二分类。我很快就会公开训练代码。我尝试了不同的预训练CNN，例如DenseNet121，DenseNet169和DenseNet201，后者的性能最佳。  期待共同贡献，Mihai    提交人    /u/mihaib17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1hfm0/xrayanalyzer_using_cnn/</guid>
+      <pubDate>Mon, 26 Aug 2024 06:26:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>sw - 记录历史执行时间的 CLI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1d9w2/sw_a_cli_that_records_historical_execution_timings/</link>
+      <description><![CDATA[        提交人    /u/jer1uc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1d9w2/sw_a_cli_that_records_historical_execution_timings/</guid>
+      <pubDate>Mon, 26 Aug 2024 02:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于有用的开源网站分析器和导出器（SiteOne Crawler）的反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1alhi/feedback_on_a_useful_opensource_website_analyzer/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1alhi/feedback_on_a_useful_opensource_website_analyzer/</guid>
+      <pubDate>Sun, 25 Aug 2024 23:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个开源项目，我用 Sveltekit 制作了一个地图管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f18nxk/my_first_open_source_project_i_made_a_map/</link>
+      <description><![CDATA[       由    /u/calinvladth  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f18nxk/my_first_open_source_project_i_made_a_map/</guid>
+      <pubDate>Sun, 25 Aug 2024 22:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究数据库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f112y7/research_database/</link>
+      <description><![CDATA[我不确定是否有东西可以满足我的所有需求，但我认为问问也无妨！ 我有很多兴趣，因此有很多学习和研究内容（pdf、图像、文档等）。我正在寻找软件（在 Windows 笔记本电脑上，如果可能的话，不要基于网络），它可以帮助我以更简化的方式组织所有这些内容，而不仅仅是笔记本电脑上的文件夹。我目前使用 Zotero 进行学术引用，我非常喜欢它，我可以稍微玩一下并添加非学术内容，但如果有任何其他软件可以帮助我更好地组织这些内容，请告诉我！ 如果需要更多信息，请向我提问：)    提交人    /u/newbiebuddhist1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f112y7/research_database/</guid>
+      <pubDate>Sun, 25 Aug 2024 16:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>stto - Go 语言中快速准确的代码行计数器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f0up5i/stto_a_fast_accurate_line_of_code_counter_in_go/</link>
+      <description><![CDATA[嘿，Gophers 和开源爱好者们！ 我很高兴与大家分享我的副项目 stto，一个用 Go 构建的代码行 (LOC) 计数器。 stto 在设计时充分考虑了并发性，可提供闪电般的结果。 特点：  轻松计算代码行、注释和空白 支持多种文件扩展名 使用 Go 构建，具有出色的性能和可扩展性  stto 非常适合：  寻求准确代码指标的开发人员 跟踪进度的项目经理 分析代码库的研究人员  在 GitHub 上为 stto 的发展做出贡献：https://github.com/mainak55512/stto 欢迎您的贡献、反馈和建议！  分叉并加注代码库 提交拉取请求 分享您的用例和想法  编辑：欢迎提出有关新功能和改进的建议！    提交人    /u/Mainak1224x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f0up5i/stto_a_fast_accurate_line_of_code_counter_in_go/</guid>
+      <pubDate>Sun, 25 Aug 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>你把你的开源贡献列在项目下还是工作经历下</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f0tt50/do_you_list_your_open_source_contribution_under/</link>
+      <description><![CDATA[标题是这么说的，但如果我没有说清楚，当你为一个开源项目做出贡献时，你是把它列为工作经历还是项目经历。  谢谢    提交人    /u/just_something_tbh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f0tt50/do_you_list_your_open_source_contribution_under/</guid>
+      <pubDate>Sun, 25 Aug 2024 11:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go Open Graph 抓取工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f0kyh2/go_open_graph_scraper/</link>
+      <description><![CDATA[嗨，我正在构建我的第一个开源项目来学习 go，这是一个开放图形抓取工具，可以重新解析 og:data 并添加我存储在云中的徽标，该项目还有一个 api，我将在另一个项目中使用它，我也会让它开源，repo 的链接是：https://github.com/pedrosouza458/go-open-graph-scraper    提交人    /u/Rude-Box6334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f0kyh2/go_open_graph_scraper/</guid>
+      <pubDate>Sun, 25 Aug 2024 01:25:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quiblr（Lemmy 客户端）获得开源更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f0dfmj/quiblr_lemmy_client_gets_opensource_update/</link>
+      <description><![CDATA[       由    /u/devforfuntimes  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f0dfmj/quiblr_lemmy_client_gets_opensource_update/</guid>
+      <pubDate>Sat, 24 Aug 2024 19:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 Snapcast-Gui，一个用于管理和控制 snapcast 的 GUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f09g4r/introducing_snapcastgui_a_gui_to_manage_and/</link>
+      <description><![CDATA[https://github.com/chicco-carone/Snapcast-Gui    由   提交  /u/Chiccocarone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f09g4r/introducing_snapcastgui_a_gui_to_manage_and/</guid>
+      <pubDate>Sat, 24 Aug 2024 16:32:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>供应商管理解决方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f095ad/vendor_management_solution/</link>
+      <description><![CDATA[我一直在寻找一个开源的、自托管的供应商管理系统，主要用于跟踪合同（结束日期、预定的费率变化、常青条款、重要通信等），但一无所获。有这样的系统吗？我更喜欢基于 docker 的解决方案，但这不是必须的。市面上有很多封闭的解决方案。我肯定会为这个项目做出贡献，特别是因为这是业务需要。任何帮助都将不胜感激。    提交人    /u/Legitimate-Tank-9393   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f095ad/vendor_management_solution/</guid>
+      <pubDate>Sat, 24 Aug 2024 16:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>NoMachine 的替代品：FreeRDP</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f070p8/alternative_to_nomachine_freerdp/</link>
+      <description><![CDATA[我看到 reddit 上多次提到 NoMachine，虽然我已经使用它多年（以及 X2Go），但我之前从未听说过 FreeRDP。我在网上手册页上偶然发现了它。 我最近在 Fedora 40 的 HiDPI 显示器上使用 NoMachine 时遇到了问题。如果您遇到同样的问题，请尝试一下。 Fedora 上的软件包是用于客户端的 freerdp 和用于服务器的 freerdp-server。 我通过 SSH 像这样运行它。首先在服务器上： freerdp-shadow-cli -auth /ipc-socket:/run/user/1000/rdp  然后在客户端： ssh server -L /run/user/1000/rdp:/run/user/1000/rdp &#39;sleep 1&#39; setsid -f ssh server -L /run/user/1000/rdp:/run/user/1000/rdp &#39;sleep 20&#39; sleep 1 expect -c &#39; set timeout -1 spawn xfreerdp -authentication +clipboard +auto-reconnect -audio -decorations /v:/run/user/1000/rdp /network:broadband-low /smart-sizing /workarea /rfx /gfx:AVC420,thin-client,progressive,rfx /compression-level:2 期望“域：”发送“\r”期望“密码：”发送“\r”期望 eof &#39;  您也可以使用 TCP，但我喜欢文件套接字。我运行它时没有窗口装饰，但如果您想要它们，请删除 -decorations    提交人    /u/BuonaparteII   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f070p8/alternative_to_nomachine_freerdp/</guid>
+      <pubDate>Sat, 24 Aug 2024 14:48:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了无用的网站拦截器？使用 FocusCLI [无需切换标签 + 每个会话仅允许 1 个网站]</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f06xzg/tired_of_useless_website_blockers_use_focuscli/</link>
+      <description><![CDATA[        提交人    /u/Apprehensive-Key9995   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f06xzg/tired_of_useless_website_blockers_use_focuscli/</guid>
+      <pubDate>Sat, 24 Aug 2024 14:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源日语学习门户 - 类似于 lingq.com</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f054lz/opensource_japanese_language_learning_portal/</link>
+      <description><![CDATA[您好， 我正在独自开发日语（最终是韩语）学习门户，名为 https://hanabira.org/ 目前处于早期 Alpha 阶段，有很多错误（我只是在空闲时间开发它）。 但可以在您的服务器上或甚至在 PC 上自行托管 - 在 docker 容器中运行，因此应该是通用可移植的。 代码在 GitHub 上完全开源：https://github.com/tristcoil/hanabira.org 我们的想法是拥有完全免费的自托管语言学习门户替代方案，例如 LingQ、BunPro、WaniKani、Mirinae 等。 特点：  自定义文本和 YouTube 视频的阅读器助手（带字幕）：https://hanabira.org/text-parser 词汇和句子挖掘 汉字和部首分解、词汇音频、翻译、情感分析 句子图可视化：https://hanabira.org/grammar-graph 语法解释、词汇卡片、例句 以及我在其他学习应用中没有见过的许多其他小功能 - 例如简化的汉字阅读方法  这是非常早期的 Alpha 版本，但在这里发布它以防有人有一些反馈或希望在将来某个时候将其作为自托管解决方案运行。我计划在未来几年内继续努力（直到我学会了日语和韩语）。    提交人    /u/tcoil_443   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f054lz/opensource_japanese_language_learning_portal/</guid>
+      <pubDate>Sat, 24 Aug 2024 13:20:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于时间轴的轻量级视频编辑</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f05131/lightweight_timeline_based_video_editing/</link>
+      <description><![CDATA[您好，我正在寻找一款视频编辑软件。 我来自 Adob​​e Premiere Pro，因此基于时间线的软件或具有类似 UI 的软件会更受欢迎。 开源非常受欢迎（我是在开源 subreddit 上问的），但是嘿，一次性付款也可以。 我也想要一款合理的轻量级软件，因为我需要在笔记本电脑上使用它来做简单的编辑，尤其是音频清理。 我知道 DaVinci Resolve 有一个免费版本，基本上可以满足大多数人的需求的 99%，但我只是做简单的编辑，所以如果我能得到一个轻量级的软件来做这件事，那就太好了！ 我需要什么功能：  剪切、复制、粘贴和删除视频和音频的一部分 移动全部或部分视频和音频 添加图像、文本和音频添加到当前视频  最重要的是音频清理。类似于 Premiere Pro 中的降噪、去噪器、去嗡嗡声器和更改音频级别。 我知道有一个更专业的音频工具，例如 audacity 或 tenacity，但我更希望我的视频编辑器也有清理音频的功能，这样我就可以同时看到视觉和音频。    提交人    /u/DBrave24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f05131/lightweight_timeline_based_video_editing/</guid>
+      <pubDate>Sat, 24 Aug 2024 13:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 推出 VividCut-AI：使用 AI 自动编辑视频的终极工具！🎬</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f03e5d/introducing_vividcutai_the_ultimate_tool_for/</link>
+      <description><![CDATA[大家好， 我很高兴与大家分享我的最新项目 VividCut-AI，这是一款功能强大的工具，旨在使用尖端 AI 技术自动执行视频编辑任务！ 什么是 VividCut-AI？ VividCut-AI 通过使用 AI 自动执行以下任务，从而简化了视频编辑过程：  视频剪辑：根据 AI 识别的相关内容自动剪辑视频。 人脸跟踪和裁剪：精确检测并聚焦视频中的人脸。 内容提取：使用由 Alibaba-NLP/gte-large-en-v1.5 构建的 Faiss 索引，根据用户查询提取和处理视频片段嵌入。  为什么使用 VividCut-AI？ 如果您是内容创建者、编辑者或任何从事视频制作的人，VividCut-AI 可以通过自动执行重复的编辑任务为您节省大量时间。无论您处理的是 YouTube 视频、TikToks 还是任何其他视频项目，此工具都将帮助您简化工作流程并将更多精力放在创意方面。 查看实际效果！ 查看 repo 的 Sample 文件夹中的 之前 和 之后 视频：  处理前： downloaded_video_segment_1.mp4 处理后： 0_final_video.mp4  这些示例展示了 VividCut-AI 如何将原始视频片段转换为精美的、可随时共享的内容。 支持项目 如果您喜欢所看到的内容并希望支持进一步开发，请考虑请我喝杯咖啡。您的支持意义重大，并有助于使项目继续进行！☕️ 立即开始 准备好了吗？前往 VividCut-AI GitHub repo 开始使用。安装很简单，我已将您需要的所有内容都包含在 README 中。无论您是在本地运行还是在云环境中运行，您都可以立即启动并运行。 感谢您关注 VividCut-AI！我迫不及待地想看看你会用它创造出什么精彩的内容。🎉    提交人    /u/ManagementNo5153   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f03e5d/introducing_vividcutai_the_ultimate_tool_for/</guid>
+      <pubDate>Sat, 24 Aug 2024 11:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个具有语义归档功能的 Zettelkasten 笔记应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f029hp/i_created_a_zettelkasten_notes_app_with_semantic/</link>
+      <description><![CDATA[       由    /u/Fleischkluetensuppe  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f029hp/i_created_a_zettelkasten_notes_app_with_semantic/</guid>
+      <pubDate>Sat, 24 Aug 2024 10:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>想法：社区维护废弃的存储库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f00ajd/idea_community_to_maintain_abandoned_repos/</link>
+      <description><![CDATA[我正在考虑创建一个自治组织，专注于分叉和维护未维护的开源存储库。在处理最新项目时，我不得不分叉几个非常有用但未维护的存储库，然后手动合并其他分叉和最新修复。之后，我们必须构建自己的工件并维护它们。可能我并不孤单，为什么不创建一个“共享”的 GitHub 组织并尝试创建一个开放治理模型呢。 该组织的结构类似于 Kubernetes SIG（特别兴趣小组），每个 SIG 专用于特定领域（例如，Web 框架、DevOps 工具、机器学习库）。这些 SIG 将有自己的负责人和维护者，负责管理存储库、审查贡献以及处理构建和发布包的过程。目标是防止有价值的项目变得默默无闻，并确保即使在原始维护者离开后，它们也能继续获得更新、错误修复和新功能。 该组织将由社区驱动，核心管理机构负责监督总体方向、决策过程和遵守行为准则。我们将为存储库选择、分叉和入职制定明确的指导方针，并设置自动化 CI/CD 管道以简化开发和发布流程。我很想听听你对这个概念的看法，特别是关于潜在挑战、兴趣水平以及任何入门建议。 这种举措是否对开源社区有益，你认为自己或其他人会参与其中吗？ 或者也许存在类似的项目？ 任何反馈和想法都值得赞赏！    提交人    /u/yegortokmakov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f00ajd/idea_community_to_maintain_abandoned_repos/</guid>
+      <pubDate>Sat, 24 Aug 2024 08:13:15 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
