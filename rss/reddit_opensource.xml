@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 26 Aug 2024 12:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 15:02:03 GMT</lastBuildDate>
     <item>
-      <title>需要文件转换帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1lx78/need_file_conversion_help/</link>
-      <description><![CDATA[大家好。正在寻找可以批量离线转换 mp3 为 mp3 并添加任何视觉效果的免费软件。 有什么想法吗？已经尝试过 Handbrake 和 Windows Movie Maker。    由    /u/hardupharlot  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1lx78/need_file_conversion_help/</guid>
-      <pubDate>Mon, 26 Aug 2024 11:32:39 GMT</pubDate>
+      <title>从 HTML 创建文档 - 新版本 - v1.9.6 @TurboDocx/html-to-docx</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1oet1/create_documents_from_html_new_release_v196/</link>
+      <description><![CDATA[大家好，我们维护 html-to-docx 的硬分叉，并努力随着使用量的增长不断改进该库。在此当前维护版本中，我们做出了以下几项改进。 我们欢迎开源贡献，因为它为使世界更容易生成文档提供了动力。 https://github.com/TurboDocx/html-to-docx https://www.npmjs.com/package/@turbodocx/html-to-docx 发行说明 新功能和增强功能  增加了对 Apple Pages 的支持。现在可以在 Apple Pages 中打开 Word 文档  贡献者  非常感谢 Github 用户AudunWA 协助开发 Apple Pages 功能！     由    /u/nicolascoding 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1oet1/create_documents_from_html_new_release_v196/</guid>
+      <pubDate>Mon, 26 Aug 2024 13:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>Anidey - 一个动漫流媒体网站</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1jdeo/anidey_an_anime_streaming_website/</link>
-      <description><![CDATA[      这是一个开源项目，我很乐意对此做出贡献的人。我们可以构建一些非常漂亮和奇特的东西。您可以联系我获取更多信息/我们的路线图。 网站链接位于 repo 本身中。    提交人    /u/retarDEYd   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1jdeo/anidey_an_anime_streaming_website/</guid>
-      <pubDate>Mon, 26 Aug 2024 08:46:10 GMT</pubDate>
+      <title>开源硬件协会需要你的帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f1odr2/the_open_source_hardware_association_needs_your/</link>
+      <description><![CDATA[        提交人    /u/wiki_me   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f1odr2/the_open_source_hardware_association_needs_your/</guid>
+      <pubDate>Mon, 26 Aug 2024 13:36:41 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Photos 的最佳替代品？</title>
@@ -34,13 +34,6 @@
       <pubDate>Mon, 26 Aug 2024 07:01:24 GMT</pubDate>
     </item>
     <item>
-      <title>使用 CNN 的 XRayAnalyzer</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1hfm0/xrayanalyzer_using_cnn/</link>
-      <description><![CDATA[大家好， 我一直在做一个项目，旨在帮助医疗专业人员诊断和控制X射线和其他医学图像（未来）。  https://github.com/mihaibundea1/XRayAnalyzerPython 我正在寻找可以分叉此项目并继续工作的贡献者。我致力于研究开发用于多类分类的CNN的方法。我目前一直在与一位教授一起研究二分类。我很快就会公开训练代码。我尝试了不同的预训练CNN，例如DenseNet121，DenseNet169和DenseNet201，后者的性能最佳。  期待共同贡献，Mihai    提交人    /u/mihaib17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1hfm0/xrayanalyzer_using_cnn/</guid>
-      <pubDate>Mon, 26 Aug 2024 06:26:02 GMT</pubDate>
-    </item>
-    <item>
       <title>sw - 记录历史执行时间的 CLI</title>
       <link>https://www.reddit.com/r/opensource/comments/1f1d9w2/sw_a_cli_that_records_historical_execution_timings/</link>
       <description><![CDATA[        提交人    /u/jer1uc   [链接] [评论] ]]></description>
@@ -53,13 +46,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f1alhi/feedback_on_a_useful_opensource_website_analyzer/</guid>
       <pubDate>Sun, 25 Aug 2024 23:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个开源项目，我用 Sveltekit 制作了一个地图管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f18nxk/my_first_open_source_project_i_made_a_map/</link>
-      <description><![CDATA[       由    /u/calinvladth  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f18nxk/my_first_open_source_project_i_made_a_map/</guid>
-      <pubDate>Sun, 25 Aug 2024 22:24:09 GMT</pubDate>
     </item>
     <item>
       <title>研究数据库</title>
@@ -144,6 +130,20 @@
       <description><![CDATA[大家好， 我很高兴与大家分享我的最新项目 VividCut-AI，这是一款功能强大的工具，旨在使用尖端 AI 技术自动执行视频编辑任务！ 什么是 VividCut-AI？ VividCut-AI 通过使用 AI 自动执行以下任务，从而简化了视频编辑过程：  视频剪辑：根据 AI 识别的相关内容自动剪辑视频。 人脸跟踪和裁剪：精确检测并聚焦视频中的人脸。 内容提取：使用由 Alibaba-NLP/gte-large-en-v1.5 构建的 Faiss 索引，根据用户查询提取和处理视频片段嵌入。  为什么使用 VividCut-AI？ 如果您是内容创建者、编辑者或任何从事视频制作的人，VividCut-AI 可以通过自动执行重复的编辑任务为您节省大量时间。无论您处理的是 YouTube 视频、TikToks 还是任何其他视频项目，此工具都将帮助您简化工作流程并将更多精力放在创意方面。 查看实际效果！ 查看 repo 的 Sample 文件夹中的 之前 和 之后 视频：  处理前： downloaded_video_segment_1.mp4 处理后： 0_final_video.mp4  这些示例展示了 VividCut-AI 如何将原始视频片段转换为精美的、可随时共享的内容。 支持项目 如果您喜欢所看到的内容并希望支持进一步开发，请考虑请我喝杯咖啡。您的支持意义重大，并有助于使项目继续进行！☕️ 立即开始 准备好了吗？前往 VividCut-AI GitHub repo 开始使用。安装很简单，我已将您需要的所有内容都包含在 README 中。无论您是在本地运行还是在云环境中运行，您都可以立即启动并运行。 感谢您关注 VividCut-AI！我迫不及待地想看看你会用它创造出什么精彩的内容。🎉    提交人    /u/ManagementNo5153   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f03e5d/introducing_vividcutai_the_ultimate_tool_for/</guid>
       <pubDate>Sat, 24 Aug 2024 11:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个具有语义归档功能的 Zettelkasten 笔记应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f029hp/i_created_a_zettelkasten_notes_app_with_semantic/</link>
+      <description><![CDATA[       由    /u/Fleischkluetensuppe  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f029hp/i_created_a_zettelkasten_notes_app_with_semantic/</guid>
+      <pubDate>Sat, 24 Aug 2024 10:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>想法：社区维护废弃的存储库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f00ajd/idea_community_to_maintain_abandoned_repos/</link>
+      <description><![CDATA[我正在考虑创建一个自治组织，专注于分叉和维护未维护的开源存储库。在处理最新项目时，我不得不分叉几个非常有用但未维护的存储库，然后手动合并其他分叉和最新修复。之后，我们必须构建自己的工件并维护它们。可能我并不孤单，为什么不创建一个“共享”的 GitHub 组织并尝试创建一个开放治理模型呢。 该组织的结构类似于 Kubernetes SIG（特别兴趣小组），每个 SIG 专用于特定领域（例如，Web 框架、DevOps 工具、机器学习库）。这些 SIG 将有自己的负责人和维护者，负责管理存储库、审查贡献以及处理构建和发布包的过程。目标是防止有价值的项目变得默默无闻，并确保即使在原始维护者离开后，它们也能继续获得更新、错误修复和新功能。 该组织将由社区驱动，核心管理机构负责监督总体方向、决策过程和遵守行为准则。我们将为存储库选择、分叉和入职制定明确的指导方针，并设置自动化 CI/CD 管道以简化开发和发布流程。我很想听听你对这个概念的看法，特别是关于潜在挑战、兴趣水平以及任何入门建议。 这种举措是否对开源社区有益，你认为自己或其他人会参与其中吗？ 或者也许存在类似的项目？ 任何反馈和想法都值得赞赏！    提交人    /u/yegortokmakov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f00ajd/idea_community_to_maintain_abandoned_repos/</guid>
+      <pubDate>Sat, 24 Aug 2024 08:13:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
