@@ -24,7 +24,6 @@
  - source011 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
  - source012 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
  - source013 [https://allainews.com/feed/](https://allainews.com/feed/) -> [allainews-posts](rss/allainews-posts.xml)
- - source014 [https://rsshub.txn.us.kg/economist/latest](https://rsshub.txn.us.kg/economist/latest) -> [economits-latest](rss/economist-latest.xml)
+ - source014 [https://rsshub.txn.us.kg/economist/latest](https://rsshub.txn.us.kg/economist/latest) -> [economits-latest](rss/economits-latest.xml)
  - source015 [https://rsshub.txn.us.kg/appleinsider](https://rsshub.txn.us.kg/appleinsider) -> [Apple-AppleInsider](rss/Apple-AppleInsider.xml)
  - source016 [https://martinfowler.com/feed.atom](https://martinfowler.com/feed.atom) -> [martinfowler](rss/martinfowler.xml)
- 
