@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 08:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 08:58:30 GMT</lastBuildDate>
+    <item>
+      <title>帮助找到合适的 CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f1jfhn/help_finding_the_right_cms/</link>
+      <description><![CDATA[      嗨！  在圣诞节前后的业余时间里，我使用 Visual Studio 开发了一个网站，并使用 Firebase 发布了。  该网站已经开始获得一些自然搜索，每周只有 50 次，但仍然如此。  这只是一个业余项目，但我希望从编写 html、java 和 css 切换到某种 CMS。  有一些小标准：  每月最多 10 美元 需要能够在特定部分（如屏幕截图）中创建页面的自动列表。这几乎是我网站的主要内容。 A 部分有 500 页，我使用 Java 脚本根据页面标题的首字母自动对 A、B、C 等下的页面进行排序。 需要能够向文本添加自定义 HTML（例如 FAQ 架构标记） 需要能够添加 Google Adsense 加载时间快，移动响应能力好   提前致谢 /vexxan    提交人    /u/fredricthorn   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f1jfhn/help_finding_the_right_cms/</guid>
+      <pubDate>Mon, 26 Aug 2024 08:50:20 GMT</pubDate>
+    </item>
     <item>
       <title>操。。我才刚刚开始！</title>
       <link>https://www.reddit.com/r/webdev/comments/1f1is5c/fck_it_i_just_start/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 26 Aug 2024 08:02:34 GMT</pubDate>
     </item>
     <item>
-      <title>他们是如何逃避惩罚的？</title>
+      <title>他们是如何逃脱惩罚的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f1iqt7/how_do_they_get_away_with_this/</link>
       <description><![CDATA[      基本上，自从我的域名从 Google Domains 迁移到 Squarespace 后，就一直麻烦不断。  首先，它不断随机将我的设置从第三方托管区域更改回其名称服务器。现在我的网站、电子邮件帐户和 API 都从地球上消失了，因为 Squarespace 基本上窃取了我的域名。  从今天到昨天，我已经损失了 2000 美元，我的客户可能损失更多。我只能想象它会给大公司造成的损害。 从声誉上讲，我可以说它已经造成了很大的影响，出现了一些退款，人们在我的个人推特上向我提供信息，新客户认为我在某种骗局中骗取他们的钱。 如果您曾经使用过 Google Domains，我强烈建议您转移您的域名。Squarespace 显然不堪重负，试图让我们使用他们的产品。 我知道很多人都受到了影响……这是正在酝酿的集体诉讼吗？我怎样才能让他们为此赔偿我？    提交人    /u/Kan3-   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f1iqt7/how_do_they_get_away_with_this/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>数字海洋还是铁路还是渲染？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f1halq/digital_ocean_or_railway_or_render/</link>
-      <description><![CDATA[从我目前所见，数字海洋似乎有一点学习曲线，但铁路似乎有很多非常好的插件，我还没有过多地研究渲染。  我的流量大约是每月 10,000 名用户。我在 Heroku 上，但从中寻找更多。  我的使用主要是存储和网络带宽，而不是太多的计算，显然我有一个数据库。我还需要发送电子邮件并托管一些分析，如 plausible。  上述哪一个是我的最佳选择，并且不会被意外账单所困扰？此外，应该有一些基本的备份和 DDOS 保护。     提交人    /u/WittyOnReddit   [链接] [评论]]]></description>
+      <description><![CDATA[从我目前所见，数字海洋似乎有一点学习曲线，但铁路似乎有很多非常好的插件，我还没有过多地研究渲染。  我的流量大约是每月 10,000 名用户。我在 Heroku 上，但从中寻找更多。  我的使用主要是存储和网络带宽，而不是太多的计算，显然我有一个数据库。我还需要发送电子邮件并托管一些分析，如 plausible。  上述哪一个是我的最佳选择，并且不会受到意外账单的打击？此外，应该有一些基本的备份和 DDOS 保护。     提交人    /u/WittyOnReddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f1halq/digital_ocean_or_railway_or_render/</guid>
       <pubDate>Mon, 26 Aug 2024 06:16:03 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 26 Aug 2024 04:59:59 GMT</pubDate>
     </item>
     <item>
-      <title>审查/批判我的投资组合网站</title>
+      <title>审阅/批评我的投资组合网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1f1g5pm/reviewroast_my_portfolio_website/</link>
       <description><![CDATA[大家好， 我为自己创建了一个简单的作品集网站，因为我正在寻找 AIML 领域的职位：https://astronights.github.io/ 对 Web 开发还很陌生，但通过学习一些简单的 React 构建了这个网站。 组件主要使用 ChakraUI 构建，所有数据都静态保存在文本文件中。 希望得到关于此的反馈！谢谢！    提交人    /u/astronights   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f1g5pm/reviewroast_my_portfolio_website/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>您最喜欢的网络抓取文章、指南和技巧是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f19bf2/what_are_your_favorite_web_scraping_articles/</link>
-      <description><![CDATA[我心中有一个网页抓取项目，但我不知道从哪里开始，也不知道最佳做法是什么。 你最喜欢的文章或指南是什么？最佳做法和工具是什么？ 非常感谢！ PS。我计划始终使用 JavaScript    提交人    /u/dittospin   [link] [评论]]]></description>
+      <description><![CDATA[我心中有一个网页抓取项目，但我不知道从哪里开始，也不知道最佳做法是什么。 您最喜欢的文章或指南是什么？最佳做法和工具是什么？ 非常感谢！ PS。我计划始终使用 JavaScript    提交人    /u/dittospin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f19bf2/what_are_your_favorite_web_scraping_articles/</guid>
       <pubDate>Sun, 25 Aug 2024 22:55:01 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，想问一下你们是如何托管项目的。 是使用 ngnix 和 docker compose 以及 rds for db 的 aws ec2 吗？ 是 eks 吗？ 是 render 的免费托管还是 fly io？ 也许是一些 digital ocean vps？ 你们在哪里托管，如何托管，费用是多少？如果愿意，也可以提及你们的堆栈    提交人    /u/Dreezoos   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f18ns1/infra_thread_how_and_where_are_you_hosting_your/</guid>
       <pubDate>Sun, 25 Aug 2024 22:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f18mt8/opinion_needed/</link>
-      <description><![CDATA[因此，我想申请当地技术学院为期 20 个月的网页设计和开发副学士学位课程。我的背景介绍如下：过去 10 年我一直是全职妈妈，拥有计算机科学学士学位（2012 年毕业）。曾担任网页开发人员 1.5 年（2013-14 年） 如果我完成此课程，是否会帮助我重新进入网页开发领域？    提交人    /u/DegreeBroad2250   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f18mt8/opinion_needed/</guid>
-      <pubDate>Sun, 25 Aug 2024 22:22:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
