@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 26 Aug 2024 18:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 21:01:54 GMT</lastBuildDate>
     <item>
-      <title>文本转为图表 (可使用 drawio 编辑)</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1upc7/text_to_diagram_editable_with_drawio/</link>
-      <description><![CDATA[  由    /u/hadiazzouni  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1upc7/text_to_diagram_editable_with_drawio/</guid>
-      <pubDate>Mon, 26 Aug 2024 17:58:53 GMT</pubDate>
+      <title>工程设计不够理想，因为没有人采取任何措施来改善项目——惯性、思维模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1xgf3/engineering_is_suboptimal_because_no_one_has/</link>
+      <description><![CDATA[  由    /u/dmp0x7c5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1xgf3/engineering_is_suboptimal_because_no_one_has/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>“GitHub” 开始感觉像遗留软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1wegd/github_is_starting_to_feel_like_legacy_software/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1wegd/github_is_starting_to_feel_like_legacy_software/</guid>
+      <pubDate>Mon, 26 Aug 2024 19:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是在 Java 中使用 Jigsaw 的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1vvgq/this_is_how_you_can_use_jigsaw_in_java/</link>
+      <description><![CDATA[  由    /u/Infobip  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1vvgq/this_is_how_you_can_use_jigsaw_in_java/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想到的一个非常快速的排序算法（Ocksort）</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1vpep/a_really_fast_sorting_algorithm_i_came_up_with/</link>
+      <description><![CDATA[  由    /u/OcksDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1vpep/a_really_fast_sorting_algorithm_i_came_up_with/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OpenAI 进行数据分析和可视化</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1viuq/using_openai_for_data_analysis_and_visualization/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1viuq/using_openai_for_data_analysis_and_visualization/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 时代的软件工程</title>
+      <link>https://www.reddit.com/r/programming/comments/1f1ve12/software_engineering_in_the_age_of_llm/</link>
+      <description><![CDATA[从组织角度来看，关于 LLM 职业如何发展的几点思考。    提交人    /u/siscia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f1ve12/software_engineering_in_the_age_of_llm/</guid>
+      <pubDate>Mon, 26 Aug 2024 18:25:50 GMT</pubDate>
     </item>
     <item>
       <title>用于管理 GitHub 中堆叠 PR 的开源 CLI</title>
@@ -90,13 +125,6 @@
       <pubDate>Mon, 26 Aug 2024 11:58:55 GMT</pubDate>
     </item>
     <item>
-      <title>C 编程 - 模式 C 编程模式 1</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1m45k/চ_পৰগৰম_পটৰণ_c_programming_pattern_1/</link>
-      <description><![CDATA[  由    /u/itzrafiq  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1m45k/চ_পৰগৰম_পটৰণ_c_programming_pattern_1/</guid>
-      <pubDate>Mon, 26 Aug 2024 11:43:47 GMT</pubDate>
-    </item>
-    <item>
       <title>Valhalla - 我们在哪里？#JVMLS 与 Brian Goetz 对话</title>
       <link>https://www.reddit.com/r/programming/comments/1f1liv7/valhalla_where_are_we_jvmls_with_brian_goetz/</link>
       <description><![CDATA[  由    /u/dhlowrents  提交  [链接] [评论]]]></description>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f1j986/using_event_metadata_in_eventdriven_projections/</guid>
       <pubDate>Mon, 26 Aug 2024 08:37:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能辅助编码让我变成了“评论员”</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1ip9w/coding_with_ai_assistance_has_turned_me_into_a/</link>
-      <description><![CDATA[  由    /u/still_sitter_g  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1ip9w/coding_with_ai_assistance_has_turned_me_into_a/</guid>
-      <pubDate>Mon, 26 Aug 2024 07:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 实现枯燥工作的自动化 — Quora 自动化示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1i1rb/automating_the_boring_stuff_with_python_quora/</link>
-      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1i1rb/automating_the_boring_stuff_with_python_quora/</guid>
-      <pubDate>Mon, 26 Aug 2024 07:09:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>UV：为 Python 程序员提供 100 倍速度更快的 pip 替代品</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1gkct/uv_100x_faster_pip_alternate_for_python/</link>
-      <description><![CDATA[我刚刚遇到了 uv，它是 pip、pipx、venv 等的一站式解决方案，速度甚至快 10 到 100 倍。在此处查看教程：    提交人    /u/mehul_gupta1997   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1gkct/uv_100x_faster_pip_alternate_for_python/</guid>
-      <pubDate>Mon, 26 Aug 2024 05:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 进行编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1f1gdp5/programming_with_chatgpt/</link>
-      <description><![CDATA[  由    /u/henrik_w  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f1gdp5/programming_with_chatgpt/</guid>
-      <pubDate>Mon, 26 Aug 2024 05:12:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
