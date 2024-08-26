@@ -27,4 +27,3 @@
  - source014 [https://rsshub.app/economist/latest](https://rsshub.txn.us.kg/economist/latest) -> [economits-latest](rss/economist-latest.xml)
  - source015 [https://rsshub.app/appleinsider](https://rsshub.txn.us.kg/appleinsider) -> [Apple-AppleInsider](rss/Apple-AppleInsider.xml)
  - source016 [https://martinfowler.com/feed.atom](https://martinfowler.com/feed.atom) -> [martinfowler](rss/martinfowler.xml)
- 

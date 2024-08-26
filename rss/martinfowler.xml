@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>马丁·福勒</title>
+    <link>https://martinfowler.com</link>
+    <description>来自 martinfowler.com 的主要新闻和更新信息</description>
+    <lastBuildDate>Mon, 26 Aug 2024 10:11:44 GMT</lastBuildDate>
+    <item>
+      <title>加入 LinkedIn</title>
+      <link>https://martinfowler.com/articles/2024-joining-linkedin.html</link>
+      <description><![CDATA[随着 Twitter 的持续发展，我听说越来越多的人使用 LinkedIn 来了解新的专业材料。因此，几周前，我建立了 LinkedIn 帐户，以便人们可以在该平台上关注我。
+我一直避免使用 LinkedIn - 我发现整个联系氛围相当令人反感。我收到了太多想要联系的人发来的垃圾邮件。但 LinkedIn 增加了“创建者模式”，鼓励人们关注某人的帖子，而不是双向联系。到目前为止，它似乎运行得相当好，所以我决定也将所有更新发布到该帐户。但是我仍然在避免建立联系，所以请不要向我发送联系请求，除非我们一起做了一些实质性的工作。
+我仍然在 X（Twitter）上发帖，但随着它逐渐恶化，我的注意力也越来越少。如果你在那里关注我，我建议你尽可能切换到我的其他提要之一。
+我不太喜欢 LinkedIn 的提要，因为我对它几乎没有控制权。我从不喜欢网站建议，更喜欢简单的人员提要。遗憾的是，LinkedIn 没有列表，并将某人喜欢的所有内容都推送到单个连接提要中。这导致帖子太多，这意味着我不会关注太多。]]></description>
+      <guid>https://martinfowler.com/articles/2024-joining-linkedin.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>在大型机的批处理管道中创建接缝</title>
+      <link>https://martinfowler.com/articles/uncovering-mainframe-seams.html#batch-pipeline</link>
+      <description><![CDATA[
+大型机处理通常被组织成批处理管道，使用和创建数据文件。 Alessio Ferri 和 Tom Coggrave 展示了他们发现的几种在这些管道中引入接缝的方法，这样处理就可以被替换平台中的步骤所取代。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/uncovering-mainframe-seams.html#batch-pipeline</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现大型机外部接口的接缝</title>
+      <link>https://martinfowler.com/articles/uncovering-mainframe-seams.html#InternalInterfaces</link>
+      <description><![CDATA[
+Alessio Ferri 和 Tom Coggrave 继续通过将数据库视为粗粒度接缝来分析应用程序的内部接缝。他们描述了如何将接缝引入数据库读取器和写入器。
+
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/uncovering-mainframe-seams.html#InternalInterfaces</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>照片流 130</title>
+      <link>https://martinfowler.com/photos/130.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://martinfowler.com/photos/130.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>在遗留置换中使用数据复制</title>
+      <link>https://martinfowler.com/articles/uncovering-mainframe-seams.html#DataReplicationToEnableNewProductDevelopment</link>
+      <description><![CDATA[
+Alessio Ferri 和 Tom Coggrave
+完成了关于将接缝引入大型机系统的文章，
+介绍了如何使用数据复制。如果做得好，它可以为替代工作提供
+快速启动，但我们必须警惕
+将新系统与遗留模式耦合 
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/uncovering-mainframe-seams.html#DataReplicationToEnableNewProductDevelopment</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>并行数据获取</title>
+      <link>https://martinfowler.com/articles/data-fetch-spa.html#ImplementTheFriendsList</link>
+      <description><![CDATA[Juntao Qiu 的数据获取系列文章中的第二个模式是关于如何避免可怕的请求瀑布。并行数据获取 并行查询多个源，因此整体获取的延迟是查询中最大的一个，而不是查询的总和。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/data-fetch-spa.html#ImplementTheFriendsList</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页应用程序中的数据获取模式</title>
+      <link>https://martinfowler.com/articles/data-fetch-spa.html</link>
+      <description><![CDATA[Juntao Qiu 是一位深思熟虑的前端开发人员，熟悉 React 编程环境。他为本网站贡献了几篇有用的文章，描述了有用的前端编程模式。在本文中，他描述了单页应用程序如何获取数据的模式。第一部分描述了如何将异步查询包装在处理程序中以提供有关查询状态的信息。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/data-fetch-spa.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>照片流 131</title>
+      <link>https://martinfowler.com/photos/131.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://martinfowler.com/photos/131.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>获取数据时使用标记进行回退</title>
+      <link>https://martinfowler.com/articles/data-fetch-spa.html#fallback-markup</link>
+      <description><![CDATA[Juntao Qiu 的下一个数据获取模式着眼于如何指定
+使用标记的后备行为。这允许开发人员
+将此类声明从 JavaScript 组件中拉出并放入他们在布局页面其余部分时使用的
+标记中。Juntao 的 React
+示例展示了它如何与 Suspense 元素配合使用，并在 vue.js 中使用了类似的
+方法。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/data-fetch-spa.html#fallback-markup</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试 HTML 模板</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html</link>
+      <description><![CDATA[
+在构建服务器端呈现的 Web 应用程序时，测试通过模板生成的 HTML 很有价值。虽然可以通过在浏览器中运行的端到端测试来测试这些 HTML，但此类测试比单元测试更慢且维护工作更多。我的同事
+Matteo Vaccari 写了一篇关于如何使用 TDD
+测试这些模板的文章，使用 xunit 风格的工具，可以轻松从命令行或作为构建脚本的一部分运行。
+在第一部分中，Matteo 描述了此类测试如何检查生成的 HTML 的有效性，并使用 Java 和 Go 中的示例。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我如何使用和呈现脚注的简短说明</title>
+      <link>https://martinfowler.com/articles/2024-footnote-rendering.html</link>
+      <description><![CDATA[上周，我为本网站添加了一个小功能，改变了它呈现脚注的方式。这促使我写下这篇关于我如何使用脚注以及脚注如何影响呈现脚注的最佳方式的简短说明。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/2024-footnote-rendering.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试生成的 HTML 的内容</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#Level2TestingHtmlStructure</link>
+      <description><![CDATA[
+Matteo Vaccari 继续测试模板生成的 HTML，描述该 HTML 内容的测试。他展示了如何使用 Go 和 Java 中的测试驱动开发逐步构建模板。 
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Level2TestingHtmlStructure</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>参数化 HTML 模板测试</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</link>
+      <description><![CDATA[
+用于生成 HTML 的测试模板会导致非常相似的测试。Matteo Vaccari 明智地喜欢将测试的共同元素与不同的元素分开。他继续在他的文章中展示了他如何通过参数化测试来做到这一点。由此产生的测试
+更容易编写，更重要的是，理解和修改起来更快。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页应用程序中的预取</title>
+      <link>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</link>
+      <description><![CDATA[Juntao Qiu 完成了单页应用程序的数据获取模式集。预获取 涉及在应用程序流程中调用数据之前获取数据。虽然这可能意味着不必要地获取数据，但如果需要数据，它可以减少延迟。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页应用程序中的代码分割</title>
+      <link>https://martinfowler.com/articles/data-fetch-spa.html#IntroducingUserdetailcardComponent</link>
+      <description><![CDATA[单页应用程序通常需要将大量代码下载到浏览器，这可能会延迟页面的初始显示。Juntao Qiu 的下一个模式，代码拆分，
+
+描述了如何拆分这些代码，以便仅在需要时才加载模块，以及这样做的危险。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/data-fetch-spa.html#IntroducingUserdetailcardComponent</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>在生成的 HTML 中测试服务器调用</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</link>
+      <description><![CDATA[
+Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研究如何在调用服务器的页面中使用 TDD。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试生成的 HTML 的行为</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#Level3TestingHtmlBehaviour</link>
+      <description><![CDATA[
+在目前为止的故事中，Matteo Vaccari 已经展示了如何
+通过检查生成的 HTML 的结构
+来测试 HTML 模板的行为。这很好，但是如果我们想测试 HTML 本身的行为，以及它可能使用的任何 CSS 和 JavaScript，该怎么办？
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Level3TestingHtmlBehaviour</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在人工智能的帮助下加入“遗留”代码库</title>
+      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</link>
+      <description><![CDATA[软件开发中对生成式人工智能的关注主要集中在生成代码上。但它在帮助我们理解现有代码方面可能发挥着更有用的作用。对于难以维护（“遗留”）的旧代码库，或在波动性很大的团队中改善入职培训尤其如此。
+Birgitta Böckeler 通过从开源医院管理系统中挑选一个问题并探索人工智能如何帮助她处理这个问题，展示了这里的可能性。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新 PoEAA 目录页面</title>
+      <link>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</link>
+      <description><![CDATA[我会不时查看我的网站分析，看看这个网站的各个部分获得了多少流量。在这样做的时候，我发现我继续为企业应用程序架构模式目录带来大量流量。我在写完这本书后不久就整理了这个目录，而且内容相当少。由于它仍然有流量，我觉得是时候进行一些修饰了。内容是一样的，即书中模式的摘要。我更改了主目录页面以包含模式意图。我还在oreilly.com上添加了这本书的深层链接，因此如果您订阅了该网站，它将直接跳转到该文本。希望这些更改能让目录页面更有用一些。]]></description>
+      <guid>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>重写 Strangler Fig</title>
+      <link>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</link>
+      <description><![CDATA[二十年前，我发帖说我发现绞杀榕植物是逐步取代遗留系统的有趣比喻。从那以后，我再也没有提到过这个比喻，但与此同时，它却有了自己的生命。其他人越来越多地提到绞杀榕现代化方法，该帖子的流量稳步增加：目前每月页面浏览量约为 5000 次，是本网站最受欢迎的页面之一。所以我决定我需要更新该页面，并重写了它，重点关注我们需要做的核心活动，以使这样的冒险取得成功。
+（这总结了 Ian Cartwright、Rob Horn 和 James Lewis 的更详细的文字。）]]></description>
+      <guid>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:11:35 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
