@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 03:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 06:01:41 GMT</lastBuildDate>
+    <item>
+      <title>寻找能够简单分析图像的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1f28by9/looking_for_software_to_analyze_an_image_very/</link>
+      <description><![CDATA[我有一个相机，它观察天空，每隔几秒钟拍摄一次同一部分天空的图像。假设没有云，我希望能够检测并标记图像中发生的变化。这是一张非常干净的照片，除了这些白色的东西（飞机？气象气球？）之外，应该没有任何物体在移动。 作为参考，这就是我要标记的。请注意，右上角有一个白点。它在移动，我希望能够从高质量静态图像中检测到这些白点。 我同意它是一个库或其他东西，我只是不知道有什么可以做这种（我认为）简单的图像分析。Linux、Mac、Windows 都可以。需要某种方式以编程方式分析这些。    提交人    /u/CobblerYm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f28by9/looking_for_software_to_analyze_an_image_very/</guid>
+      <pubDate>Tue, 27 Aug 2024 04:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Google 文件智能搜索</title>
+      <link>https://www.reddit.com/r/software/comments/1f2889v/about_files_by_google_smart_search/</link>
+      <description><![CDATA[文件应用程序如何能够准确读取手写内容、执行 OCR 并从 PDF 或图像中索引它们？我读到它使用 Google 的 mlkit，每个人都可以使用它，而且它是离线的。如果是这样，为什么没有其他好的 OCR 应用程序？我有很多很多的屏幕截图，我希望任何应用程序都可以读取其中的文本并在 xmp 中标记它们，以便我可以使用任何支持 aves libre 等标签的应用程序搜索这些图像。我搜索了很长时间，但找不到任何应用程序    提交人    /u/Sartaj9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f2889v/about_files_by_google_smart_search/</guid>
+      <pubDate>Tue, 27 Aug 2024 04:13:00 GMT</pubDate>
+    </item>
     <item>
       <title>寻找适用于 Android 平板电脑的学生版 Microsoft Office 的最佳免费替代品</title>
       <link>https://www.reddit.com/r/software/comments/1f25rtg/looking_for_best_free_alternatives_for_microsoft/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Sebikve  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f1j1yl/hardlocksys/</guid>
       <pubDate>Mon, 26 Aug 2024 08:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件专利</title>
-      <link>https://www.reddit.com/r/software/comments/1f1i7zw/software_patents/</link>
-      <description><![CDATA[我有涉及物理设备的软件，但我首先接触的是信息软件。有谁知道软件专利的先例吗？我想开放软件，但保留物理衍生品的权利。    提交人    /u/nobodyinparticular_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f1i7zw/software_patents/</guid>
-      <pubDate>Mon, 26 Aug 2024 07:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量文件名翻译软件</title>
-      <link>https://www.reddit.com/r/software/comments/1f1dvnf/batch_file_name_translation_software/</link>
-      <description><![CDATA[我有一堆文件/文件夹想要翻译成英语，但考虑到它们数量太多，我正在寻找一种自动化的方法。有什么建议吗？    提交人    /u/WarmasterCain55   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f1dvnf/batch_file_name_translation_software/</guid>
-      <pubDate>Mon, 26 Aug 2024 02:46:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
