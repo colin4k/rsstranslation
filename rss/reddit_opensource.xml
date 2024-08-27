@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 27 Aug 2024 15:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:02:13 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个盒子制作工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f2l56s/i_made_a_box_making_tool/</link>
+      <description><![CDATA[      大家好！ 我制作了一个工具它为您提供了用平板纸板制作定制盒子的尺寸。我做这个是因为我正在为一份兼职工作制作盒子，并且厌倦了手动计算尺寸。我认为这可能会帮助其他需要快速制作盒子的人。 这里是 repo，您可以在发布部分找到 Windows、Linux 和 Android 二进制文件。 请注意，这是我第一次尝试制作带有 GUI 的程序，以及使用视频游戏引擎。事情可能有点混乱，但它有效！ 我希望有人会觉得它有用！    提交人    /u/armeatball   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f2l56s/i_made_a_box_making_tool/</guid>
+      <pubDate>Tue, 27 Aug 2024 16:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很高兴向您介绍我的桌面播客应用程序 - Cardo</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f2jtp2/i_am_happy_to_introduce_you_to_my_desktop_podcast/</link>
+      <description><![CDATA[       由    /u/tejonaco  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f2jtp2/i_am_happy_to_introduce_you_to_my_desktop_podcast/</guid>
+      <pubDate>Tue, 27 Aug 2024 15:23:56 GMT</pubDate>
+    </item>
     <item>
       <title>VLC 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1f2ipp4/alternatives_to_vlc/</link>
-      <description><![CDATA[我真的不喜欢 VLC 的 UI。虽然它非常实用，但我想要一个更漂亮的选项。即使只是 VLC 的主题对我来说也很好。一个分支，一个基于 VLC 的播放器，甚至一个完全独立的媒体播放器。    由   提交  /u/GalaxyPlayz_   [link] [评论]]]></description>
+      <description><![CDATA[我真的不喜欢 VLC 的 UI。虽然它非常实用，但我想要一个更漂亮的选项。即使只是 VLC 的主题对我来说也很好。一个分支，一个基于 VLC 的播放器，甚至一个完全独立的媒体播放器。    提交人    /u/GalaxyPlayz_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f2ipp4/alternatives_to_vlc/</guid>
       <pubDate>Tue, 27 Aug 2024 14:38:57 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[       由    /u/devforfuntimes  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f0dfmj/quiblr_lemmy_client_gets_opensource_update/</guid>
       <pubDate>Sat, 24 Aug 2024 19:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Snapcast-Gui，一个用于管理和控制 snapcast 的 GUI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f09g4r/introducing_snapcastgui_a_gui_to_manage_and/</link>
-      <description><![CDATA[https://github.com/chicco-carone/Snapcast-Gui    由   提交  /u/Chiccocarone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f09g4r/introducing_snapcastgui_a_gui_to_manage_and/</guid>
-      <pubDate>Sat, 24 Aug 2024 16:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>供应商管理解决方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f095ad/vendor_management_solution/</link>
-      <description><![CDATA[我一直在寻找一个开源的、自托管的供应商管理系统，主要用于跟踪合同（结束日期、预定的费率变化、常青条款、重要通信等），但一无所获。有这样的系统吗？我更喜欢基于 docker 的解决方案，但这不是必须的。市面上有很多封闭的解决方案。我肯定会为这个项目做出贡献，特别是因为这是业务需要。任何帮助都将不胜感激。    提交人    /u/Legitimate-Tank-9393   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f095ad/vendor_management_solution/</guid>
-      <pubDate>Sat, 24 Aug 2024 16:20:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
