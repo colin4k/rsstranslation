@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 00:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 03:01:37 GMT</lastBuildDate>
+    <item>
+      <title>使用 AI 代理和 LangGraph 的 ATS 简历检查系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f26lyp/ats_resume_checker_system_using_ai_agents_and/</link>
+      <description><![CDATA[我尝试开发一个 ATS 简历系统，该系统根据 5 个标准（还有进一步的子标准）检查 pdf 简历，并最终使用多代理编排和 LangGraph 对简历进行 1-10 的评分。在此处查看演示和代码说明：https://youtu.be/2q5kGHsYkeU    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f26lyp/ats_resume_checker_system_using_ai_agents_and/</guid>
+      <pubDate>Tue, 27 Aug 2024 02:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用大型语言模型进行金融分析和算法交易</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f26dga/how_i_use_large_language_models_for_financial/</link>
+      <description><![CDATA[事实证明，法学硕士 (LLM) 在进行财务分析方面比专业人士要好得多。 然而，很多人对如何使用人工智能进行财务分析和算法交易感到非常困惑。 这是一个如何逐步使用人工智能的具体示例。 你可以从本次对话中断的地方继续，也可以开始一个全新的对话。 该应用程序 100% 免费试用，我希望显着提高聊天功能。现在，您可以  通过聊天创建交易策略 根据历史数据进行测试 将不同的公司进行比较 将它们保存到您的投资组合中，然后实时部署它们进行实时纸上交易 寻找符合您论文的投资机会  还有更多！ 很高兴回答以下问题！    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f26dga/how_i_use_large_language_models_for_financial/</guid>
+      <pubDate>Tue, 27 Aug 2024 02:33:38 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能作为教育工具第 2 部分！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f22jsl/ai_as_an_educational_tool_part_2/</link>
@@ -62,13 +76,6 @@
       <pubDate>Mon, 26 Aug 2024 20:19:25 GMT</pubDate>
     </item>
     <item>
-      <title>你太忙了，无暇担心做什么菜</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1x5c3/your_too_busy_to_be_worried_about_what_to_cook/</link>
-      <description><![CDATA[您可能不需要花时间去杂货店购物或担心要做什么菜。这个网站向您展示了您现在可以用厨房里的任何食材烹饪什么。仍然可以烹饪出戈登·拉姆齐 (Gorden Ramsey) 式的美食 我以前经常使用它，但现在它只是我偶尔用到的东西    提交人    /u/Infinite_Method_5174   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1x5c3/your_too_busy_to_be_worried_about_what_to_cook/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:36:13 GMT</pubDate>
-    </item>
-    <item>
       <title>与手机上的角色聊天。​​离线、私密且免费。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1vu0r/chat_with_characters_on_your_phone_offline/</link>
       <description><![CDATA[我的朋友和我对当前聊天平台的审查制度、缺乏隐私和缺乏控制感到沮丧。我们看到了所有用于在本地运行 LLM 的优秀工具，例如 SillyTavern。我们意识到使用本地 LLM 打造出色的移动角色扮演体验会很棒。 因此，我们制作了一款离线角色扮演应用，它：  100% 免费 完全私密（不使用服务器。所有数据都保留在您的手机上） 运行离线 LLM（我们对 Gemma 2B 进行了微调）。无需互联网。 让您创建并拥有自己的角色  以下是下载链接和我们的 Discord： Appstore 链接：https://apps.apple.com/us/app/yap-ai/id6633414696 Discord 邀请：https://discord.com/invite/CVKQa5mpnS 快速提示：目前仅适用于 iPhone 13 及更高版本（iPhone 15+ 上性能更快）。我们正在努力让更多设备可以使用此功能。 我们非常感谢您的反馈和想法。我们希望您像我们一样喜欢使用它 :)。接下来我们正在考虑进行以下工作：  写作风格选项 图像生成功能 整体速度改进     提交人    /u/unluckybusinessowner   [link] [评论]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[“人工智能会让我们变得更笨。”这句话我已经听了很多年了。我注意到人工智能实际上让我变得更聪明了。 例如：当你有一个问题时——与编码或编程无关，而是关于某些东西是如何工作的，为什么人们会以某种方式行事，或者食物或生活方式等方面的最佳选择是什么。 每当我使用它时，我都会确保在我的提示中包含“从不同的角度和参考资料为我提供资源”。通过这样做，我不断接触到新的信息和见解，这丰富了我的理解并扩展了我的知识。每次我问一个问题，我都会带走一些有价值的东西，一些我以前不知道的东西。还有其他人觉得人工智能也在提升他们的知识吗？    提交人    /u/GodBlessYouNow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1qmu6/will_ai_make_you_smarter_or_dumber/</guid>
       <pubDate>Mon, 26 Aug 2024 15:12:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就是快速工程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f1q29v/heres_what_prompt_engineering_is/</link>
-      <description><![CDATA[提示工程是 AI 技术下的一个有趣主题。它的关键在于创建正确的输入/问题/提示，以便从 AI 模型中获得最准确、最有用的响应。 例如，如果您正在从 AI 中寻找想法，那么您提出问题的方式可能会决定一个想法是好想法还是好想法。这不仅关乎问题本身，还关乎您如何表达它。随着 AI 在写作、客户支持甚至创意项目中得到越来越多的应用，这个想法变得越来越重要。 通过了解提示工程的核心概念，您可以让 AI 工具更好地为您服务。  请查看并了解如何使您与 AI 的互动更有效。     提交人    /u/Pavithra_23   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f1q29v/heres_what_prompt_engineering_is/</guid>
-      <pubDate>Mon, 26 Aug 2024 14:48:45 GMT</pubDate>
     </item>
     <item>
       <title>我有数百条数字日记条目 - 我该如何将其提供给人工智能？</title>
