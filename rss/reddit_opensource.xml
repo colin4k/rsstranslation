@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 27 Aug 2024 21:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 00:03:19 GMT</lastBuildDate>
     <item>
-      <title>Zillow 太烂了！让我们建立一个不烂的房地产搜索引擎吧！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2rpve/zillow_sucks_lets_build_a_real_estate_search/</link>
-      <description><![CDATA[嗨 r/opensource  只是想分享一个我们一直在进行的、严重依赖开源工具的项目！我们正在构建一个更好的房地产搜索引擎和伴侣，名为 Investince ，它使您能够在 1/10 的时间内找到您想要的房子，并确保您在整个过程中都有第二种意见。毕竟，你会相信汽车销售员 100% 诚实吗？那么为什么要盲目地相信房地产经纪人呢？ 我们使用 OpenStreetMap (OSM) 数据来支持我们的搜索功能，确保您获得最灵活的搜索。通过集成开源工具，我们能够提供专注于您真正关心的搜索体验 — 无论是靠近学校、公共交通还是消防栓（如果您感兴趣）。 我们的目标是消除噪音，为您提供所需的信息。我们不仅仅是一个房地产网站；我们是那些想要就一生中最大的投资之一做出明智决定的人的工具。 如果您有兴趣了解我们如何使用开源技术改变游戏规则，请访问 Investince。我们很乐意听取您的反馈和任何有关我们如何进一步改进的建议。 TL;DR：我们正在使用 OpenStreetMap (OSM) 和开源工具构建一个房地产搜索引擎，以帮助您更快地找到房屋并获得更好的信息。我们专注于让您在搜索过程中拥有控制权和第二意见。查看 Investince 并分享您的反馈！    提交人    /u/Investince   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2rpve/zillow_sucks_lets_build_a_real_estate_search/</guid>
-      <pubDate>Tue, 27 Aug 2024 20:44:43 GMT</pubDate>
+      <title>8 月份“HN 正在开发什么”主题中的所有开源工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f2v41d/every_open_source_tool_from_the_august_whats_hn/</link>
+      <description><![CDATA[        由    /u/Tylernator  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f2v41d/every_open_source_tool_from_the_august_whats_hn/</guid>
+      <pubDate>Tue, 27 Aug 2024 23:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>repo2vec：一个可以与网络上任何代码库进行聊天的开源库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f2u3i0/repo2vec_an_opensource_library_to_chat_with_any/</link>
+      <description><![CDATA[        由    /u/MusingEtMachina 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f2u3i0/repo2vec_an_opensource_library_to_chat_with_any/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建了一个开源 Loom 替代方案，用于录制和共享视频，只需要与 S3 兼容的存储。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f2tgoa/we_built_an_opensource_loom_alternative_for/</link>
+      <description><![CDATA[  由    /u/Plus-Conference2001  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f2tgoa/we_built_an_opensource_loom_alternative_for/</guid>
+      <pubDate>Tue, 27 Aug 2024 21:58:01 GMT</pubDate>
     </item>
     <item>
       <title>我应该选择 VLC 还是 MPV</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f1alhi/feedback_on_a_useful_opensource_website_analyzer/</guid>
       <pubDate>Sun, 25 Aug 2024 23:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f112y7/research_database/</link>
-      <description><![CDATA[我不确定是否有东西可以满足我的所有需求，但我认为问问也无妨！ 我有很多兴趣，因此有很多学习和研究内容（pdf、图像、文档等）。我正在寻找软件（在 Windows 笔记本电脑上，如果可能的话，不要基于网络），它可以帮助我以更简化的方式组织所有这些内容，而不仅仅是笔记本电脑上的文件夹。我目前使用 Zotero 进行学术引用，我非常喜欢它，我可以稍微玩一下并添加非学术内容，但如果有任何其他软件可以帮助我更好地组织这些内容，请告诉我！ 如果需要更多信息，请向我提问：)    提交人    /u/newbiebuddhist1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f112y7/research_database/</guid>
-      <pubDate>Sun, 25 Aug 2024 16:58:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>stto - Go 语言中快速准确的代码行计数器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f0up5i/stto_a_fast_accurate_line_of_code_counter_in_go/</link>
-      <description><![CDATA[嘿，Gophers 和开源爱好者们！ 我很高兴与大家分享我的副项目 stto，一个用 Go 构建的代码行 (LOC) 计数器。 stto 在设计时充分考虑了并发性，可提供闪电般的结果。 特点：  轻松计算代码行、注释和空白 支持多种文件扩展名 使用 Go 构建，具有出色的性能和可扩展性  stto 非常适合：  寻求准确代码指标的开发人员 跟踪进度的项目经理 分析代码库的研究人员  在 GitHub 上为 stto 的发展做出贡献：https://github.com/mainak55512/stto 欢迎您的贡献、反馈和建议！  分叉并加注代码库 提交拉取请求 分享您的用例和想法  编辑：欢迎提出有关新功能和改进的建议！    提交人    /u/Mainak1224x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f0up5i/stto_a_fast_accurate_line_of_code_counter_in_go/</guid>
-      <pubDate>Sun, 25 Aug 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
