@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 28 Aug 2024 09:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 12:02:41 GMT</lastBuildDate>
+    <item>
+      <title>Linkedin 简历生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f37yp9/linkedin_to_resume_builder/</link>
+      <description><![CDATA[我正在寻找一个从 linkedin 个人资料构建简历的开源项目。简历的格式应该类似于：https://github.com/sb2nov/resume?tab=readme-ov-file#preview     提交人    /u/Cheap_Watch_152   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f37yp9/linkedin_to_resume_builder/</guid>
+      <pubDate>Wed, 28 Aug 2024 11:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 应用程序可以查看 CPU、RAM、GPU……手机的使用情况，是否免费、开源且尊重隐私？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f36zq6/android_app_to_see_cpu_ram_gpu_usage_of_the_phone/</link>
+      <description><![CDATA[基本上类似于适用于 Android 的 Windows 任务管理器。免费、开源且尊重隐私。    由   提交  /u/EstidEstiloso   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f36zq6/android_app_to_see_cpu_ram_gpu_usage_of_the_phone/</guid>
+      <pubDate>Wed, 28 Aug 2024 10:44:06 GMT</pubDate>
+    </item>
     <item>
       <title>关于如何开始使用开源软件的提示？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f31gaa/tips_on_getting_started_in_open_source/</link>
@@ -41,7 +55,7 @@
       <pubDate>Tue, 27 Aug 2024 22:24:34 GMT</pubDate>
     </item>
     <item>
-      <title>我们构建了一个开源 Loom 替代方案，用于录制和共享只需要 S3 兼容存储的视频。</title>
+      <title>我们构建了一个开源 Loom 替代方案，用于录制和共享视频，只需要与 S3 兼容的存储。</title>
       <link>https://www.reddit.com/r/opensource/comments/1f2tgoa/we_built_an_opensource_loom_alternative_for/</link>
       <description><![CDATA[  由    /u/Plus-Conference2001  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f2tgoa/we_built_an_opensource_loom_alternative_for/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我们维护 html-to-docx 的硬分叉，并努力随着使用量的增长不断改进该库。在此当前维护版本中，我们做出了以下几项改进。 我们欢迎开源贡献，因为它为使世界更容易生成文档提供了动力。 https://github.com/TurboDocx/html-to-docx https://www.npmjs.com/package/@turbodocx/html-to-docx 发行说明 新功能和增强功能  增加了对 Apple Pages 的支持。现在可以在 Apple Pages 中打开 Word 文档  贡献者  非常感谢 Github 用户AudunWA 协助开发 Apple Pages 功能！     由    /u/nicolascoding 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f1oet1/create_documents_from_html_new_release_v196/</guid>
       <pubDate>Mon, 26 Aug 2024 13:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源硬件协会需要你的帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1odr2/the_open_source_hardware_association_needs_your/</link>
-      <description><![CDATA[        提交人    /u/wiki_me   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1odr2/the_open_source_hardware_association_needs_your/</guid>
-      <pubDate>Mon, 26 Aug 2024 13:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Photos 的最佳替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1hyn7/the_best_alternative_to_microsoft_photos/</link>
-      <description><![CDATA[哪个是 Microsoft Photos 的最佳开源替代品，理想情况下具有很多功能？    提交人    /u/Pain5203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1hyn7/the_best_alternative_to_microsoft_photos/</guid>
-      <pubDate>Mon, 26 Aug 2024 07:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

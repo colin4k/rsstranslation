@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 28 Aug 2024 09:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 12:02:34 GMT</lastBuildDate>
+    <item>
+      <title>5 分钟内使用 Nextjs 设置 Fumadocs</title>
+      <link>https://www.reddit.com/r/programming/comments/1f37lor/setup_fumadocs_with_nextjs_in_5_minutes/</link>
+      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f37lor/setup_fumadocs_with_nextjs_in_5_minutes/</guid>
+      <pubDate>Wed, 28 Aug 2024 11:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护用户数据免受人工智能训练爬虫的侵害</title>
+      <link>https://www.reddit.com/r/programming/comments/1f374x7/protecting_users_data_from_ai_training_crawlers/</link>
+      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f374x7/protecting_users_data_from_ai_training_crawlers/</guid>
+      <pubDate>Wed, 28 Aug 2024 10:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官驳回 GitHub Copilot 的大多数版权主张</title>
+      <link>https://www.reddit.com/r/programming/comments/1f360xd/judge_dismisses_majority_of_github_copilot/</link>
+      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f360xd/judge_dismisses_majority_of_github_copilot/</guid>
+      <pubDate>Wed, 28 Aug 2024 09:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>确保多云策略面向未来：为 Google Cloud 工作负载提供安全的 AWS 访问</title>
+      <link>https://www.reddit.com/r/programming/comments/1f35xau/futureproof_your_multicloud_strategy_secure_aws/</link>
+      <description><![CDATA[  由    /u/Lightricks_Tech  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f35xau/futureproof_your_multicloud_strategy_secure_aws/</guid>
+      <pubDate>Wed, 28 Aug 2024 09:35:37 GMT</pubDate>
+    </item>
     <item>
       <title>PSA：LummaC2 木马窃取程序在 GitHub 上传播问题</title>
       <link>https://www.reddit.com/r/programming/comments/1f358uc/psa_lummac2_trojan_stealer_spreading_on_github/</link>
@@ -13,7 +41,7 @@
       <pubDate>Wed, 28 Aug 2024 08:46:11 GMT</pubDate>
     </item>
     <item>
-      <title>Booktest 和基于机器学习/LLM 软件的评论驱动测试</title>
+      <title>Booktest 和机器学习/LLM 软件的评论驱动测试</title>
       <link>https://www.reddit.com/r/programming/comments/1f358jn/booktest_and_the_review_driven_testing_for/</link>
       <description><![CDATA[  由    /u/arauhala  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f358jn/booktest_and_the_review_driven_testing_for/</guid>
@@ -27,18 +55,11 @@
       <pubDate>Wed, 28 Aug 2024 07:36:37 GMT</pubDate>
     </item>
     <item>
-      <title>我们的 OpenSearch 为何突然夭折</title>
+      <title>我们的 OpenSearch 为何消亡</title>
       <link>https://www.reddit.com/r/programming/comments/1f33xie/on_how_our_opensearch_just_died/</link>
       <description><![CDATA[  由    /u/radekmie  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f33xie/on_how_our_opensearch_just_died/</guid>
       <pubDate>Wed, 28 Aug 2024 07:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>StackOverflow 的衰落：数据驱动的分析</title>
-      <link>https://www.reddit.com/r/programming/comments/1f33uhy/the_fall_of_stackoverflow_a_datadriven_analysis/</link>
-      <description><![CDATA[  由    /u/sh_tomer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f33uhy/the_fall_of_stackoverflow_a_datadriven_analysis/</guid>
-      <pubDate>Wed, 28 Aug 2024 07:05:11 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个简单的记忆游戏</title>
@@ -50,7 +71,7 @@
     <item>
       <title>使用 Lua 代替 Bash 进行自动化</title>
       <link>https://www.reddit.com/r/programming/comments/1f33qut/using_lua_instead_of_bash_for_automation/</link>
-      <description><![CDATA[  由   提交  /u/delvin0   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f33qut/using_lua_instead_of_bash_for_automation/</guid>
       <pubDate>Wed, 28 Aug 2024 06:58:10 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f2w4h4/books_for_programmers/</guid>
       <pubDate>Tue, 27 Aug 2024 23:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 月份“HN 正在开发什么”主题中的所有开源工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2v55y/every_open_source_tool_from_the_august_whats_hn/</link>
-      <description><![CDATA[  由    /u/Tylernator  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2v55y/every_open_source_tool_from_the_august_whats_hn/</guid>
-      <pubDate>Tue, 27 Aug 2024 23:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我希望铁锈不会氧化一切</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2uzo9/why_i_hope_rust_does_not_oxidize_everything/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2uzo9/why_i_hope_rust_does_not_oxidize_everything/</guid>
-      <pubDate>Tue, 27 Aug 2024 23:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>持续革新：AWS 块存储简史</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2uu2o/continuous_reinvention_a_brief_history_of_block/</link>
-      <description><![CDATA[  由    /u/sputterbutter99  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2uu2o/continuous_reinvention_a_brief_history_of_block/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:57:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
