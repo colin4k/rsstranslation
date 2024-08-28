@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 03:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 06:02:04 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找一款可以无延迟地从台式电脑远程播放到笔记本电脑的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1f306ie/im_looking_for_a_software_to_remote_play_from/</link>
+      <description><![CDATA[  由    /u/Due-Blackberry7898  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f306ie/im_looking_for_a_software_to_remote_play_from/</guid>
+      <pubDate>Wed, 28 Aug 2024 03:16:29 GMT</pubDate>
+    </item>
     <item>
       <title>用于编写自填充缝纫图案的程序</title>
       <link>https://www.reddit.com/r/software/comments/1f2yxsb/program_to_write_selffilling_sewing_patterns/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我有一个相机，它观察天空，每隔几秒钟拍摄一次同一部分天空的图像。假设没有云，我希望能够检测并标记图像中发生的变化。这是一张非常干净的照片，除了这些白色的东西（飞机？气象气球？）之外，应该没有任何物体在移动。 作为参考，这就是我要标记的。请注意，右上角有一个白点。它在移动，我希望能够从高质量静态图像中检测到这些白点。 我同意它是一个库或其他东西，我只是不知道有什么可以做这种（我认为）简单的图像分析。Linux、Mac、Windows 都可以。需要某种方式以编程方式分析这些。    提交人    /u/CobblerYm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f28by9/looking_for_software_to_analyze_an_image_very/</guid>
       <pubDate>Tue, 27 Aug 2024 04:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Google 文件智能搜索</title>
-      <link>https://www.reddit.com/r/software/comments/1f2889v/about_files_by_google_smart_search/</link>
-      <description><![CDATA[文件应用程序如何能够准确读取手写内容、执行 OCR 并从 PDF 或图像中索引它们？我读到它使用 Google 的 mlkit，每个人都可以使用它，而且它是离线的。如果是这样，为什么没有其他好的 OCR 应用程序？我有很多很多的屏幕截图，我希望任何应用程序都可以读取其中的文本并在 xmp 中标记它们，以便我可以使用任何支持 aves libre 等标签的应用程序搜索这些图像。我搜索了很长时间，但找不到任何应用程序    提交人    /u/Sartaj9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f2889v/about_files_by_google_smart_search/</guid>
-      <pubDate>Tue, 27 Aug 2024 04:13:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
