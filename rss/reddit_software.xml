@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 15:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:02:38 GMT</lastBuildDate>
+    <item>
+      <title>有人知道名为 WindowsTask 的隐藏文件夹吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1f3gl2a/does_anyone_know_of_a_hidden_folder_called/</link>
+      <description><![CDATA[我在电脑上运行了杀毒软件，它把 Windowstask 文件夹及其文件指向为比特币矿工，所以我去了本地磁盘上的文件夹，但它被隐藏了。我不得不更改磁盘上的所有权限，直到我能够访问这个文件夹，里面有一个名为 opencl.dll 的文件。我删除了文件夹和文件。有人知道这个文件夹或这个文件吗？我这样做是因为我从 Tribe Gamer 下载了一个翻译，我发现 exe 的行为非常可疑，安装翻译后，我的电脑上确实有一些病毒。     提交人    /u/Lucitown   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3gl2a/does_anyone_know_of_a_hidden_folder_called/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:48:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成软件而不是搜索软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1f3gjvc/generating_software_instead_of_searching_for_it/</link>
+      <description><![CDATA[我不知道有多少次我在 Google 上搜索特定工具时遇到了付费墙、广告或其他问题。我的朋友今天制作了这个 pdf 合并工具，无需编码，只需提示。这让我觉得我们正在接近某种可以按需生成任何我们想要的工具的东西。    提交人    /u/minifjurt123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3gjvc/generating_software_instead_of_searching_for_it/</guid>
+      <pubDate>Wed, 28 Aug 2024 17:47:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Windows 10 上模仿 Apple OS 音量控制的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1f3ekk1/software_that_mimics_apple_os_volume_controls_on/</link>
+      <description><![CDATA[您好， 我以前在电脑上安装过一款软件，按 f6 可以调高 Windows 音量，然后会弹出类似 mac OS 音量图标的图标，按 f5 可以调低音量。我不记得这款软件的名字了，大概是 3CRX。    提交人    /u/arapoibus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3ekk1/software_that_mimics_apple_os_volume_controls_on/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:26:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe Acrobat Pro 替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1f3dw7k/adobe_acrobat_pro_alternatives/</link>
+      <description><![CDATA[随着 Adob​​e Acrobat Pro 价格大幅上涨，有人可以推荐我应该考虑的替代方案吗？  注意：这是针对我公司约 115 名用户的。     提交人    /u/ScranwellTarly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3dw7k/adobe_acrobat_pro_alternatives/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>什么是调查？目的、好处、类型和最佳实践</title>
       <link>https://www.reddit.com/r/software/comments/1f3azph/what_is_a_survey_purpose_benefits_types_best/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>是否有可以像图像查看器一样控制的视频播放器？</title>
       <link>https://www.reddit.com/r/software/comments/1f35dzr/is_there_a_video_player_that_can_be_controlled/</link>
-      <description><![CDATA[我想要的是具有适合宽度/高度设置的功能，使视频的其余部分移出屏幕，而不是挤压自身以匹配或产生黑条填充，并且能够将视频定位到最不重要的部分移出屏幕的位置。 由于我的 Microsoft Surface 具有 3：2 的宽高比，因此询问，几乎没有视频与之匹配。    提交人    /u/ChocodiIe   [link] [评论]]]></description>
+      <description><![CDATA[我想要的是具有适合宽度/高度设置的功能，使视频的其余部分移出屏幕，而不是挤压自身以匹配或产生黑条填充，并且能够将视频定位到最不重要的部分移出屏幕的位置。 因为我的 Microsoft Surface 具有 3：2 的宽高比，所以询问，几乎没有视频与之匹配。    提交人    /u/ChocodiIe   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f35dzr/is_there_a_video_player_that_can_be_controlled/</guid>
       <pubDate>Wed, 28 Aug 2024 08:56:30 GMT</pubDate>
     </item>
@@ -106,44 +134,16 @@
     <item>
       <title>Gmail 与 Proton Mail：哪一个最适合特定情况？</title>
       <link>https://www.reddit.com/r/software/comments/1f2wn7e/gmail_vs_proton_mail_which_one_is_best_for/</link>
-      <description><![CDATA[我同时拥有 Gmail 和 Proton 电子邮件地址，想知道哪个更适合用作我的主要电子邮件。我知道这个问题可能没有明确的答案，但我希望你能给我指明正确的方向。我使用两个电子邮件提供商，这样如果其中一个提供商或我的一个电子邮件帐户出现问题，我就不会有事。您对这两个电子邮件提供商有什么看法，哪一个最适合用作主要和次要电子邮件提供商？    提交者    /u/AnonymousPigeon0   [链接] [评论]]]></description>
+      <description><![CDATA[我同时拥有 Gmail 和 Proton 电子邮件地址，想知道哪个更适合用作我的主要电子邮件。我知道这个问题可能没有明确的答案，但我希望你能给我指明正确的方向。我使用两个电子邮件提供商，这样如果其中一个提供商或我的一个电子邮件帐户出现问题，我就不会有事。您对这两个电子邮件提供商有什么看法，哪一个最适合用作主要和次要电子邮件提供商？    提交人    /u/AnonymousPigeon0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f2wn7e/gmail_vs_proton_mail_which_one_is_best_for/</guid>
       <pubDate>Wed, 28 Aug 2024 00:19:35 GMT</pubDate>
     </item>
     <item>
       <title>背景实时噪音消除软件</title>
       <link>https://www.reddit.com/r/software/comments/1f2w27j/background_real_time_noise_cancellation_software/</link>
-      <description><![CDATA[我的意思是，它就像你从一个普通的东西中下载的东西，而不是一个你需要在一个 1990 年代的奥地利论坛上得到的东西中运行的 github 插件，也不是在 SourceForge 上发布的官方版本中的东西。 就像，ffs。 是的，它需要是实时的，通过我可以将音频输入的东西，所以从 Discord 到随机的间谍软件（我希望没有），任何东西都会在我便宜的麦克风的故障电缆到达它之前就被过滤掉。 （windows）    提交人    /u/666Lucifer999_   [链接] [评论]]]></description>
+      <description><![CDATA[我的意思是，它就像你从一个普通的东西中下载的东西，而不是一个你需要在一个 1990 年代的奥地利论坛上得到的东西中运行的 github 插件，也不是在 SourceForge 上发布的官方版本中的东西。 就像，ffs。 是的，它需要是实时的，通过我可以将音频输入的东西，所以从 Discord 到随机的间谍软件（我希望没有），任何东西在我便宜的麦克风的故障电缆到达它之前就已经被过滤掉了。 （windows）    提交人    /u/666Lucifer999_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f2w27j/background_real_time_noise_cancellation_software/</guid>
       <pubDate>Tue, 27 Aug 2024 23:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>完美的软件，无需维护</title>
-      <link>https://www.reddit.com/r/software/comments/1f2uw9a/perfect_software_not_requiring_maintenance/</link>
-      <description><![CDATA[嗨！我最近想到了一个“完美”软件，即在最终发布后不需要更新的软件。 想象一下某个小程序，它的版本号为“1.08”。它有这样的版本很多年了。很多人都在使用它。为什么它不更新？因为它不需要。这个软件是完美的。它甚至没有任何分支（除了一些装饰性的 UI 增强）。 在思考哪个实际软件可能是它时，我发现自己连一个都记不住。 因此，我们可以从找出可能适合的软件类别开始。例如，归档软件不会成功，因为经常发现的归档方法太多了。存档器的过时版本将不再像以前那样有用。 所以这就是我想要找出的：哪些类别的软件可能包含“完美”程序；以及此类软件的一些示例是什么？    提交人    /u/Hammerill   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f2uw9a/perfect_software_not_requiring_maintenance/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:59:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 JPEG 拼接在一起</title>
-      <link>https://www.reddit.com/r/software/comments/1f2tm14/stitching_jpegs_together/</link>
-      <description><![CDATA[我正在运行 Windows，但如果需要也可以使用 Mac。 因此，我拍摄了我最近几本护照上每一张盖章页面的照片，以制作海报。 我旅行了很多地方，签证和邮票等都很有趣。  因此，我正在寻找一个软件，可以让我轻松地将这些多个 JPEG 转换为 A1 左右的图像，然后发送以进行打印。 我假设用于打印的图像最终需要是 PDF。 如果有帮助，我可以返回并将 JPEG 转换为 PDF。 有没有关于我可以使用的免费（理想情况下，因为这是一个一次性项目）软件的建议？ 编辑：因为有大约 100 页，我希望有一个可以自动拼接的程序，而不是让我拖动到像素完美的位置。    提交人    /u/RagingMassif   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f2tm14/stitching_jpegs_together/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线通话和使用其他应用程序时 Wi-Fi 速度很慢。</title>
-      <link>https://www.reddit.com/r/software/comments/1f2rccd/slow_wifi_during_online_calls_and_using_another/</link>
-      <description><![CDATA[我家的 Wi-Fi 非常好，我从来没有遇到过任何问题。我的互联网数据有限，月底还剩下大约 50%。当我进入任何在线通话时，无论是 Discord 还是 Facebook Messenger、ZOOM，以及使用任何其他应用程序（如 Youtube、Amazon）、Roblox 等在线游戏等。Wi-Fi 会出现很多互联网延迟峰值，并且会无缘无故地变慢。一旦我结束通话，互联网就会恢复正常状态。    提交人    /u/l_1os   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f2rccd/slow_wifi_during_online_calls_and_using_another/</guid>
-      <pubDate>Tue, 27 Aug 2024 20:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何改变这一点？</title>
-      <link>https://www.reddit.com/r/software/comments/1f2pk45/how_do_i_change_this/</link>
-      <description><![CDATA[我以前用的是普通主题，只是去旅行，然后换了个国家，现在除了它选择的内容，其他什么都不能播放，只有按下它时才能预览歌曲，我使用的是免费计划，不是那样的    提交人    /u/GlitteringTrust69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f2pk45/how_do_i_change_this/</guid>
-      <pubDate>Tue, 27 Aug 2024 19:15:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
