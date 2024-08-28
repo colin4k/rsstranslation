@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 28 Aug 2024 12:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 15:02:18 GMT</lastBuildDate>
+    <item>
+      <title>大家好！我正考虑在印度班加罗尔的大学里举办一次开源研讨会！你们有什么建议吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f39jkt/hi_all_i_am_thinking_to_conduct_an_open_source/</link>
+      <description><![CDATA[所以这样的事情在我们大学从来没有发生过，所以我不知道该怎么做，但我当时想邀请一些演讲者！那么我该如何主要接近他们呢！？     提交人    /u/False_Bother8783   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f39jkt/hi_all_i_am_thinking_to_conduct_an_open_source/</guid>
+      <pubDate>Wed, 28 Aug 2024 12:59:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对 Hacktoberfest 有何看法？是开源的庆典还是垃圾邮件盛会？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f39jhm/whats_your_take_on_hacktoberfest_a_celebration_of/</link>
+      <description><![CDATA[再过一个多月，2024 年 Hacktoberfest 又将再次到来。 对于那些可能不知道的人来说，Hacktoberfest 是每年 10 月举行的年度活动，鼓励全球开发人员为 GitHub 和 GitLab 上的开源项目做出贡献。其目的是庆祝开源文化并回馈社区。听起来很棒，对吧？ 然而，像每个活动一样，Hacktoberfest 多年来引发了一些争议。 一方面，它被视为让人们参与开源、学习新技能和与其他开发人员建立联系的绝佳方式。另一方面，一些维护者对这个月感到恐惧，担心那些只想抢一件免费 T 恤或一些赃物的人会大量发送低质量或垃圾拉取请求。 所以，我很好奇：  您对 Hacktoberfest 有何看法？ 您以前参加过吗，或者您今年打算参加吗？ 如果您是项目维护者，您对 Hacktoberfest 有什么看法？它对您的项目来说是好事还是负担？ 您认为有什么方法可以改进活动以使所有参与者受益？  期待听到大家的经验和观点..    提交人    /u/Sudden_​​Profit_2840   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f39jhm/whats_your_take_on_hacktoberfest_a_celebration_of/</guid>
+      <pubDate>Wed, 28 Aug 2024 12:59:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AppTimer – 我制作了一个开源 Linux 工具，用于限制应用程序的使用，具有灵活的计时器和暂停/停止功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f38war/apptimer_ive_made_an_open_source_linux_tool_for/</link>
+      <description><![CDATA[        提交人    /u/Thin_Explorer_4153   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f38war/apptimer_ive_made_an_open_source_linux_tool_for/</guid>
+      <pubDate>Wed, 28 Aug 2024 12:27:33 GMT</pubDate>
+    </item>
     <item>
       <title>Linkedin 简历生成器</title>
       <link>https://www.reddit.com/r/opensource/comments/1f37yp9/linkedin_to_resume_builder/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[老式办公套件的典型例子是 Microsoft Office。它笨重，以可疑的排列方式包含大量选项卡和切换按钮。LibreOffice 和 OpenOffice 在某种程度上也存在同样的问题（在其所有主题中）。 现代设计的（专有）办公套件的一个例子是 iWork。视图中有几个大按钮，大多数选项仅在需要时才可见（例如，如果没有选择文本，大画笔按钮将打开一个菜单以自定义整个页面；如果选择了某些文本，则打开文本选项；如果选择了图像，则打开图像选项）。 我喜欢 GNOME Circle 应用程序的美感，但除了 Apostrophe（针对已经了解 Markdown 基础知识的人的 Markdown 编辑应用程序）之外，那里没有办公应用程序。是否有（已准备好或正在开发）具有直观界面的 FOSS 现代化办公应用程序？    提交人    /u/Qwert-4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f20lpb/is_there_a_foss_office_suite_that_follows_modern/</guid>
       <pubDate>Mon, 26 Aug 2024 22:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Statamic 是开源的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1xhon/is_statamic_open_source/</link>
-      <description><![CDATA[编辑：Statamic repo 中的讨论：https://github.com/statamic/cms/discussions/10706 原始帖子： 你好， 我对 Statamic CMS 有点困惑。https://statamic.com/ 这里声称它是开源的： “Statamic 是一个开源”https://github.com/statamic Statamic 有两种不同的风格，但有一个出色的代码库。 Statamic Solo 是免费和开源的，可供个人和业余爱好者使用 https://statamic.dev/licensing Statamic Core 是免费和开源的。我们的仓库是开放的，您可以看到我们正在进行的所有内容，提交 PR，协作和讨论问题，并就新想法和功能请求提供反馈。https://statamic.com/laravel-cms 当您为自己、朋友或业余爱好者建立网站时，Statamic Core 是开源的，完全免费。https://statamic.com/get-started 这里声称它是专有的开源： Statamic 不是 FOSS。Statamic 不是“免费开源软件”。它是专有开源软件。 https://statamic.dev/contributing#statamic-isnt-foss 在这里我看到他们使用一些自定义许可证，而不是任何标准开源许可证： https://github.com/statamic/cms?tab=License-1-ov-file#readme 当我尝试谷歌搜索“statamic 开源”时，我发现多篇文章声称它是开源的。但当我看到它实际上是“专有开源”并且也是自定义许可证时，我只是不确定。 所以我很困惑 Statamic 是否是开源的。 你能帮我吗？谢谢    由   提交  /u/Simple-Minute-5331   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1xhon/is_statamic_open_source/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>会员通讯 – 2024 年 8 月</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1r07z/members_newsletter_august_2024/</link>
-      <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1r07z/members_newsletter_august_2024/</guid>
-      <pubDate>Mon, 26 Aug 2024 15:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 HTML 创建文档 - 新版本 - v1.9.6 @TurboDocx/html-to-docx</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f1oet1/create_documents_from_html_new_release_v196/</link>
-      <description><![CDATA[大家好，我们维护 html-to-docx 的硬分叉，并努力随着使用量的增长不断改进该库。在此当前维护版本中，我们做出了以下几项改进。 我们欢迎开源贡献，因为它为使世界更容易生成文档提供了动力。 https://github.com/TurboDocx/html-to-docx https://www.npmjs.com/package/@turbodocx/html-to-docx 发行说明 新功能和增强功能  增加了对 Apple Pages 的支持。现在可以在 Apple Pages 中打开 Word 文档  贡献者  非常感谢 Github 用户AudunWA 协助开发 Apple Pages 功能！     由    /u/nicolascoding 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f1oet1/create_documents_from_html_new_release_v196/</guid>
-      <pubDate>Mon, 26 Aug 2024 13:37:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
