@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 28 Aug 2024 06:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 09:02:29 GMT</lastBuildDate>
+    <item>
+      <title>PSA：LummaC2 木马窃取程序在 GitHub 上传播问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1f358uc/psa_lummac2_trojan_stealer_spreading_on_github/</link>
+      <description><![CDATA[  由    /u/thenickdude  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f358uc/psa_lummac2_trojan_stealer_spreading_on_github/</guid>
+      <pubDate>Wed, 28 Aug 2024 08:46:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Booktest 和基于机器学习/LLM 软件的评论驱动测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1f358jn/booktest_and_the_review_driven_testing_for/</link>
+      <description><![CDATA[  由    /u/arauhala  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f358jn/booktest_and_the_review_driven_testing_for/</guid>
+      <pubDate>Wed, 28 Aug 2024 08:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过可视化图表生成 AWS Terraform 代码的工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1f34ah5/tool_for_generating_terraform_code_for_aws_from/</link>
+      <description><![CDATA[  由    /u/neifn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f34ah5/tool_for_generating_terraform_code_for_aws_from/</guid>
+      <pubDate>Wed, 28 Aug 2024 07:36:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的 OpenSearch 为何突然夭折</title>
+      <link>https://www.reddit.com/r/programming/comments/1f33xie/on_how_our_opensearch_just_died/</link>
+      <description><![CDATA[  由    /u/radekmie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f33xie/on_how_our_opensearch_just_died/</guid>
+      <pubDate>Wed, 28 Aug 2024 07:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>StackOverflow 的衰落：数据驱动的分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1f33uhy/the_fall_of_stackoverflow_a_datadriven_analysis/</link>
+      <description><![CDATA[  由    /u/sh_tomer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f33uhy/the_fall_of_stackoverflow_a_datadriven_analysis/</guid>
+      <pubDate>Wed, 28 Aug 2024 07:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的记忆游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1f33u1v/i_built_a_simple_memory_game/</link>
+      <description><![CDATA[  由    /u/Beast_4460  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f33u1v/i_built_a_simple_memory_game/</guid>
+      <pubDate>Wed, 28 Aug 2024 07:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Lua 代替 Bash 进行自动化</title>
+      <link>https://www.reddit.com/r/programming/comments/1f33qut/using_lua_instead_of_bash_for_automation/</link>
+      <description><![CDATA[  由   提交  /u/delvin0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f33qut/using_lua_instead_of_bash_for_automation/</guid>
+      <pubDate>Wed, 28 Aug 2024 06:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有趣的生物可视化会议和研讨会</title>
+      <link>https://www.reddit.com/r/programming/comments/1f33fuy/fun_conferences_workshops_for_biological/</link>
+      <description><![CDATA[  由    /u/mokasquarl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f33fuy/fun_conferences_workshops_for_biological/</guid>
+      <pubDate>Wed, 28 Aug 2024 06:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Deepmind：在你玩游戏时生成游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1f33712/google_deepmind_generating_a_game_as_you_play/</link>
+      <description><![CDATA[  由    /u/FoamythePuppy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f33712/google_deepmind_generating_a_game_as_you_play/</guid>
+      <pubDate>Wed, 28 Aug 2024 06:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 FFmpeg 从 Opencv 程序获取 HLS 视频</title>
+      <link>https://www.reddit.com/r/programming/comments/1f336xn/hls_video_from_opencv_program_using_ffmpeg/</link>
+      <description><![CDATA[Opencv 能够通过视频编写器创建传输流段 .ts 文件。播放列表很容易创建。这种方法的问题是生成的时间戳使此选项变得无关紧要。正确的方法是使用从 Opencv Mat 帧创建 HLS 的 FFmpeg。在 Medium 上检查此实现并让我在这里鼓掌。祝你有美好的一天。     提交人    /u/-ok-vk-fv-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f336xn/hls_video_from_opencv_program_using_ffmpeg/</guid>
+      <pubDate>Wed, 28 Aug 2024 06:19:13 GMT</pubDate>
+    </item>
     <item>
       <title>Uber 的 Kafka 分层存储及其作为记录系统或数据库的使用</title>
       <link>https://www.reddit.com/r/programming/comments/1f32hgt/kafka_tieredstorage_at_uber_and_using_it_as_a/</link>
@@ -74,76 +144,6 @@
       <description><![CDATA[  由    /u/sputterbutter99  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f2uu2o/continuous_reinvention_a_brief_history_of_block/</guid>
       <pubDate>Tue, 27 Aug 2024 22:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡西迪·威廉姆斯 (Cassidy Williams)：在科技行业中探索职业丛林</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2urgq/cassidy_williams_navigating_the_career_jungle_gym/</link>
-      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2urgq/cassidy_williams_navigating_the_career_jungle_gym/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Obie Fernandez：Ruby on Rails 开发中的人工智能先驱</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2uqst/obie_fernandez_pioneering_ai_in_ruby_on_rails/</link>
-      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2uqst/obie_fernandez_pioneering_ai_in_ruby_on_rails/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>速度提高 5000 倍的 CRDT：优化之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2ukov/5000x_faster_crdts_an_adventure_in_optimization/</link>
-      <description><![CDATA[  由    /u/mitousa  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2ukov/5000x_faster_crdts_an_adventure_in_optimization/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们为 GitHub 开源存储库和社区建设构建了一个搜索引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2ujse/we_built_a_search_engine_for_github_open_source/</link>
-      <description><![CDATA[  由    /u/Apart_Lobster000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2ujse/we_built_a_search_engine_for_github_open_source/</guid>
-      <pubDate>Tue, 27 Aug 2024 22:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将 Mono 项目捐赠给 Wine 团队 | GamingOnLinux</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2sols/microsoft_donates_the_mono_project_to_the_wine/</link>
-      <description><![CDATA[  由    /u/pakoito  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2sols/microsoft_donates_the_mono_project_to_the_wine/</guid>
-      <pubDate>Tue, 27 Aug 2024 21:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 简易指南 | 剧透警告：您将快速掌握它</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2qxz0/the_nofuss_guide_to_git_spoiler_alert_youll_get/</link>
-      <description><![CDATA[  由   提交  /u/Infinite-Essay-1343   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2qxz0/the_nofuss_guide_to_git_spoiler_alert_youll_get/</guid>
-      <pubDate>Tue, 27 Aug 2024 20:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>localhost/127.0.0.1 和环回</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2qloz/localhost127001_and_loopbacks/</link>
-      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2qloz/localhost127001_and_loopbacks/</guid>
-      <pubDate>Tue, 27 Aug 2024 19:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peter Levels 启发我重新思考我的基础设施。以下是我现在部署应用程序的方式</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2qg2f/peter_levels_inspired_me_to_rethink_my/</link>
-      <description><![CDATA[  由    /u/dadamssg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2qg2f/peter_levels_inspired_me_to_rethink_my/</guid>
-      <pubDate>Tue, 27 Aug 2024 19:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gaudi 处理器和英特尔的 AI 产品组合</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2ppgc/gaudi_processors_intels_ai_portfolio/</link>
-      <description><![CDATA[  由    /u/WolfofIntel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2ppgc/gaudi_processors_intels_ai_portfolio/</guid>
-      <pubDate>Tue, 27 Aug 2024 19:21:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有基于 AI 的块编辑器的 Nodejs CMS 和网站构建器</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2p0ys/cms_site_builder_for_nodejs_with_ai_based_block/</link>
-      <description><![CDATA[  由    /u/thehadiahmadi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2p0ys/cms_site_builder_for_nodejs_with_ai_based_block/</guid>
-      <pubDate>Tue, 27 Aug 2024 18:54:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
