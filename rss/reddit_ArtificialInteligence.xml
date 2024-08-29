@@ -4,13 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 21:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 00:03:03 GMT</lastBuildDate>
     <item>
-      <title>我使用 GPT 创建了一个可以自动申请互联网职位的平台</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f3jr70/i_used_gpt_to_create_a_platform_that/</link>
-      <description><![CDATA[我在这里看到过人们使用 GPT 创建招聘板的精彩帖子，但我相信 GPT 可以走得更远，完成最后一英里——在表现得像你一样的同时真正申请工作。 背景 -- 大约 6 个月前，当我的两个前同事受到裁员浪潮的影响时，我开始开发 JobGPT。他们想在 H1B 赞助结束前迅速找到工作，并反对倒计时。 虽然有很多很棒的求职网站，包括远程网站，但你仍然必须定期搜索和申请它们，这是最痛苦的部分。 JobGPT 的工作原理 -  用户指定他们的工作过滤器并配置 AI 代理。然后，你可以手动浏览匹配的工作和触发 AI 申请或打开自动模式，每天自动开始搜索和申请相关工作。 在后台，该平台使用候选人的简历 + GPT 模型（当前为 gpt-4o）根据简历/个人资料回答申请问题。这是通过浏览器自动化来模拟真实用户来处理的。  结果相当令人满意 - 到目前为止已申请了 36k 个工作岗位 - 一些统计数据： 每自动申请的 42 个工作岗位中，就有 1-2 个面试官打电话来。 23% 的申请工作是远程职位  目前可以免费试用，批量申请需要购买积分 - 这是为了保持 GPT 和服务器成本得到控制。 只是想在这里展示一下......这是我迄今为止最大的技术挑战，如果没有 GPT 肯定是不可能的 - 我爱上这项技术了    提交人    /u/captainjackrana   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f3jr70/i_used_gpt_to_create_a_platform_that/</guid>
-      <pubDate>Wed, 28 Aug 2024 19:59:16 GMT</pubDate>
+      <title>我需要帮助来弄清楚这是如何做到的。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f3n4wu/i_need_help_sorting_out_how_this_was_done/</link>
+      <description><![CDATA[这里有两张图片...第一张，我在让那只小狗正常工作以雕刻它时遇到了麻烦。有人帮我编辑了它，并给了我右边的图片，效果很好。 我问他是怎么做到的，他说他在这个项目中使用了人工智能，我问他使用了什么以及他给了它什么提示，但是...他不肯告诉我。说这是个秘密。好的。 第二张图片是我需要做的下一张，我需要它与第一张相似。你们能不能给我一些指导，告诉我应该寻找什么，应该看什么程序，以及我应该如何提示它们？可以免费做的东西很好，但我需要经常这样做，所以付费程序也很好...假设它可以完成工作。你们能给出的任何指导都将非常棒！    提交人    /u/makenzie71   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f3n4wu/i_need_help_sorting_out_how_this_was_done/</guid>
+      <pubDate>Wed, 28 Aug 2024 22:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt 4o 竞赛</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f3lbbi/chatgpt_4o_competition/</link>
+      <description><![CDATA[我一直在使用 https://www.perplexity.ai/，我认为在某些情况下它比 chatgpt 4o 更好。（例如，它提供了它从哪里获得提示答案的来源）但根据我在任何与数学相关方面的经验，chatgpt 更好。还有另一个来自 NAT 的 chatgpt 4o 竞争对手，但我不记得名字了    提交人    /u/Infinite_Method_5174   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f3lbbi/chatgpt_4o_competition/</guid>
+      <pubDate>Wed, 28 Aug 2024 21:42:09 GMT</pubDate>
     </item>
     <item>
       <title>求职的未来？</title>
@@ -76,18 +83,11 @@
       <pubDate>Wed, 28 Aug 2024 14:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>关于使用 AI 混合声音的问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f3awyj/a_question_about_blending_voices_using_ai/</link>
-      <description><![CDATA[大家好， 我有这个想法已经有一段时间了，但是我缺乏技能和时间来真正尝试实现它，因为我太忙于其他项目了。 我遇到过很多比较晦涩的学术文本，它们没有任何有声读物，这使我无法访问它们，因为我经常在户外工作或在实验室环境中工作，这意味着我没有很多时间坐在电脑前或沙发上阅读，真遗憾。所以我通过有声读物、播客等获取大部分信息。 我知道有很多文本转语音程序都很不错，但它们需要源声音来读出来。我真的不想为此使用自己的声音，而且我觉得使用一些陌生人或名人的声音很奇怪，所以我有了一个主意。  如果有人读过《Animorphs》系列丛书，就会知道书中有一个外星人角色，他的人类形态是他遇到的 6 个朋友的合成体，这使他能够创造一个全新的人，这个人身上有每个人的一点特质，可以创造出独一无二的东西。我想知道是否可以用人工智能实现语音方面的相同功能。我说的不是创造某种奇怪的蜂巢思维合唱团声音，就像《System Shock》中的那种声音，或者只是所有独立的声音相互叠加；更像是将多个声音平均化，使其平滑混合，以至于无法识别它们的原始来源。 已经存在可以做到这一点的东西了吗？还是这是一个愚蠢的想法？     提交人    /u/Ok_Impression5272   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f3awyj/a_question_about_blending_voices_using_ai/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:59:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM 围绕模型选择进行微调最佳实践（OpenAI 与开源、大型与小型、Hparams 调整）。在调整数千个模型的过程中学习！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f39k76/llm_finetuning_best_practices_around_model/</link>
-      <description><![CDATA[嗨，Reddit！我一直在撰写一系列文章，介绍制作精细调整的 LLM 的行业最佳实践。我们的第一篇文章介绍了训练数据准备，而这篇文章我们将讨论如何选择基础模型和超参数，涵盖封闭和开放模型以及不同大小的模型。这是与 OpenPipe (YC23) 的 Kyle Corbitt 合作创建的 我们涵盖：  专有（主要是 OpenAI）与开源模型：OAI 在相对较小的训练数据集上具有非常出色的性能，但与开源模型相比，您会更快地达到最大性能的上限。我们不确定是什么原因导致了这种情况，但很可能是 OAI 在幕后做出了一些倾向于这种“Red Mage”的技术决策方法，以便服务更广泛的受众（即训练数据较少的用户）。 大型模型与小型模型：最重要的是，在所有条件相同的情况下，大型模型通常可以让您“摆脱”较少的训练数据。但如果可能，您希望部署在生产中实现可接受性能的最小模型。小模型在各个维度上（不仅仅是价格）的“成本”更低。 超参数调整：我们为那些好奇的人详细介绍了这一点，但坦率地说，hparam 调整通常不是您工程时间的高投资回报率用途。将那些时间投入到数据集管理中 :)  希望这对大家有用！很高兴在这里回答问题（并且希望也能学到一些新东西） https://openpipe.ai/blog/fine-tuning-best-practices-chapter-2-models    提交人    /u/billmalarky   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f39k76/llm_finetuning_best_practices_around_model/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:00:00 GMT</pubDate>
+      <title>控制警察人工智能系统？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f37zzx/control_over_police_ai_systems/</link>
+      <description><![CDATA[这是个真正的问题。 我有一份兼职工作，负责审查警方提出的新型人工智能警务系统提案。他们通常希望赋予警方追踪他们认为“可疑”的人的能力。 但是，“可疑”并不是可以正式定义的东西。因此，所有这些系统都将依靠单个警察来判断某人是否可疑。 他们提议使用的一些标准很愚蠢，比如我看到的一个系统使用花哨的术语基本上说它想要追踪眼睛靠得太近的人。步态分析也很受欢迎，因为你可以通过一个人走路的方式来判断他是否会犯罪。这很危险，因为我认为它很容易被滥用。我看过美国内部边境警卫的报告，边境安全部门曾将某人标记为可疑人员，因为在被问及他们是因公还是因私抵达美国时，他们看了看鞋子。因此，我不确定个别警察是否受过完美的训练。 我关心的是谁将在个案中决定什么是“可疑”，以及警察部队中应该有哪一级权力来决定是否需要跟踪某人。 我想听听你对此的看法。我相信这里没有人认为任何警察都应该能够在不控制系统的情况下跟踪他们喜欢的任何人。我想听听你对此的看法，需要什么样的控制以及由谁来控制？这是否需要法院命令？当地警官可以决定吗？或者每个警察都有这种权力来决定某人是否可疑，也许只需填写几张表格就可以了？ 说他们不应该拥有这些能力是没有用的，他们现在就拥有这些能力，并将继续发展这些能力。问题是我们对这些权力设置了什么限制。 这是一个真正的研究人员提出的真正问题，我真的对您的意见感兴趣。如果我认为这些系统太松懈，我的工作赋予我权力阻止这些系统的建立。所以请认真对待这个问题，这是一个尝试影响我们未来关键部分的机会。非常感谢。    提交人    /u/Comfortable-Web9455   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f37zzx/control_over_police_ai_systems/</guid>
+      <pubDate>Wed, 28 Aug 2024 11:41:47 GMT</pubDate>
     </item>
     <item>
       <title>医疗保健领域的人工智能</title>

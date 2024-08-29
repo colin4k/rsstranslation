@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 28 Aug 2024 21:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 00:03:42 GMT</lastBuildDate>
     <item>
       <title>好吧，我终于做到了——我根据 MIT 许可证完全开源了 PoliScore.us。如果你对美国政治感到不安，但又对法学硕士感到兴奋，请查看我的项目，让政治更加透明和负责</title>
       <link>https://www.reddit.com/r/opensource/comments/1f3j1yv/well_i_finally_did_it_i_fully_opensourced/</link>
       <description><![CDATA[  由    /u/ring2ding  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f3j1yv/well_i_finally_did_it_i_fully_opensourced/</guid>
       <pubDate>Wed, 28 Aug 2024 19:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDB Labs“宣布与 Hydra 合作”将 DuckDB 嵌入 Postgres</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f3g006/duckdb_labs_announcing_the_hydra_partnership_to/</link>
-      <description><![CDATA[        由    /u/JHydras 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f3g006/duckdb_labs_announcing_the_hydra_partnership_to/</guid>
-      <pubDate>Wed, 28 Aug 2024 17:25:02 GMT</pubDate>
     </item>
     <item>
       <title>使用此开源库轻松获取 RAG PDF 和其他文档</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[很多人告诉我 utorrent 不安全。我已经用了 3 年了（只用过网页版），我不是个固执的人，但我想要一个像 Utorrent Web 一样好用且有网页版的下载器。    提交人    /u/VetreeleekYT   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f2gqab/any_torrent_downloaders_that_has_web_versions/</guid>
       <pubDate>Tue, 27 Aug 2024 13:12:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 Lisp 代码方面的帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f2fxwb/need_help_with_lisp_code/</link>
+      <description><![CDATA[您好， 我正在尝试创建一个 Lisp 脚本，该脚本选择我当前的图层并在每个对象周围创建边界。我编写的所有代码都不起作用，包括 GPT 和 Gemini 的代码。边界似乎无论如何都不起作用。最终目标是围绕对象并偏移轮廓。这是为了在电场中创建安全区。顺便说一下，我正在使用 AutoCAD 2025。 更技术性的表述： 我正在寻找开发一个 AutoCAD Lisp 脚本来：  定位活动层。 识别该层上的所有对象。 在每个单独的对象周围生成一个封闭的边界。 将这些边界偏移指定的距离以创建安全区。  我尝试了各种方法，包括 boundary 命令，但都没有成功。我正在使用 AutoCAD 2025。 你好， 我正在寻找一个 Lisp 脚本来选择我的活动调用并跟随我一个对象。所有这些代码都不能使用，gpt 和双子座都不能使用。边界与 aucun cas 功能无关。最后是物体的装饰和轮廓的装饰。这是在电力领域创建安全区域的举措。使用 AutoCAD 2025 法语版，我可以更改其他语言。   由   提交 /u/Star-Plutonium   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f2fxwb/need_help_with_lisp_code/</guid>
+      <pubDate>Tue, 27 Aug 2024 12:35:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
