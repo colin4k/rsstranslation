@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 03:01:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 06:02:12 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个程序可以将输入声音（如麦克风拾取的乐器）转换为按键/鼠标移动？</title>
+      <link>https://www.reddit.com/r/software/comments/1f3v1tb/is_there_a_program_that_can_turn_an_input_sound/</link>
+      <description><![CDATA[我不确定我是否表述正确 - 所以如果你需要澄清，请询问！    由    /u/BrilliantDifferent  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3v1tb/is_there_a_program_that_can_turn_an_input_sound/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 JavaScript 日 [10 月 24 日]</title>
+      <link>https://www.reddit.com/r/software/comments/1f3t5z4/javascript_day_2024_oct_24/</link>
+      <description><![CDATA[Jetbrains 今年将再次在线举办此活动。涵盖的主题包括：Vite 和 JavaScript 工具的未来、TypeScript 泛型、在合理的情况下使用 CSS 代替 JavaScript、WebStorm AMA、React 19、不断发展的 Angular 等。 https://lp.jetbrains.com/javascript-day-2024/?lidx=3    提交人    /u/Enrique-M   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3t5z4/javascript_day_2024_oct_24/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:49:51 GMT</pubDate>
+    </item>
     <item>
       <title>4DDIG 视频增强器是骗局吗？</title>
       <link>https://www.reddit.com/r/software/comments/1f3qxns/4ddig_video_enhancer_a_scam/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>案例管理/利用率审查案例记录软件解决方案</title>
       <link>https://www.reddit.com/r/software/comments/1f3izmc/case_managementutilization_review_case_notes/</link>
-      <description><![CDATA[背景 我在一家小型行为健康（住院药物和酒精治疗）机构从事利用率管理工作 我所寻找内容的摘要  我正在寻找一种具有预制模板或允许我创建模板的软件，该模板将为每个评论生成某些字段 我认为解释我的工作会更容易，以便了解我想要的潜在软件解决方案做什么 问题定义 我基本上每 7、10、14 或 21 天按照脚本进行一次，我向保险公司提交客户的案例，以授权额外的治疗天数，基本上是提交案例记录来证明他们仍在接受治疗的原因。我们的图表软件负责处理授权日期和日历方面，但不负责案例记录部分。  这是我在评论中被问到的问题：  客户的触发因素、动机、支持是什么，他们如何参加小组活动，有任何行为问题，他们为谁签署了释放令，他们的药物是否有变化，等等。这些字段几乎从不改变，我设想实现这一点的最佳方法是只让行或列与空文本框相关，我可以在其中写入更新。   关于理想流程的想法  因此，我将在一张表格或一个窗口等中填写这些字段的答案 然后，下次他们接受审查时，我希望相同的字段能够填充上面的标题，以及旧数据（他们上次审查的触发因素、动机等），但要清楚地标出旧数据字段，以表明它来自上次审查，现在在与上述字段相同的字段下有额外的数据输入字段，以添加自上次审查以来发生的变化（输入触发因素的更新、动机的更新等） 这就像一个活文件，直到他们基本上解散为止，每次我生成新的表格或表单时，它都会填充以前审查中的旧内容，并允许我在旧内容之上/之后输入新的更新信息  在结束 我希望我解释清楚了。我现在所做的只是为每个客户保存一个庞大而笨重的 word 文档，然后自由地输入信息，没有结构，重复性很强。 我每天最多要审阅 12 位客户，每次审阅 45 分钟，来来回回问了很多问题，也回答了很多问题。我真的需要一个解决方案，我在想一个不太理想（但稍微好一点的解决方案）可能是在 excel 中实现这个，但这有点超出了我的范围。我很讨厌 excel，而且我不完全确定我上面寻找的功能是否能够实现。 接受任何关于解决方案的建议，比如自制、免费和开源、私人和付费/订阅等，任何可能有用的想法。    提交人    /u/ryancnap   [链接] [评论]]]></description>
+      <description><![CDATA[背景 我在一家小型行为健康（住院药物和酒精治疗）机构从事利用率管理工作 我所寻找内容的摘要  我正在寻找一种具有预制模板或允许我创建模板的软件，该模板将为每个评论生成某些字段 我认为解释我的工作会更容易，以便了解我想要的潜在软件解决方案做什么 问题定义 我基本上每 7、10、14 或 21 天按照脚本进行一次，我向保险公司提交客户的案例，以授权额外的治疗天数，基本上是提交案例记录来证明他们仍在接受治疗的原因。我们的图表软件负责处理授权日期和日历方面，但不负责案例记录部分。  这是我在评论中被问到的问题：  客户的触发因素、动机、支持是什么，他们如何参加小组活动，有任何行为问题，他们为谁签署了释放令，他们的药物是否有变化，等等。这些字段几乎从不改变，我设想实现这一点的最佳方法是只让行或列与空文本框相关，我可以在其中写入更新。   关于理想流程的想法  因此，我将在一张表格或一个窗口等中填写这些字段的答案 然后，下次他们接受审查时，我希望相同的字段能够填充上面的标题，以及旧数据（他们上次审查的触发因素、动机等），但要清楚地标出旧数据字段，以表明它来自上次审查，现在在与上述字段相同的字段下有额外的数据输入字段，以添加自上次审查以来发生的变化（输入触发因素的更新、动机的更新等） 这就像一个活文件，直到他们基本上解散为止，每次我生成新的表格或表单时，它都会填充以前审查中的旧内容，并允许我在旧内容之上/之后输入新的更新信息  在结束 我希望我解释清楚了。我现在所做的只是为每个客户保存一个庞大而笨重的 word 文档，然后自由地输入信息，没有结构，重复性很强。 我每天要审阅多达 12 个客户，每次审阅 45 分钟，来来回回问了很多问题，也回答了很多问题。我真的需要一个解决方案，我在想一个不太理想（但稍微好一点的解决方案）可能是在 excel 中实现这个，但这有点超出了我的范围。我很讨厌 excel，而且我不完全确定我上面寻找的功能是否能够实现。 接受任何关于解决方案的建议，比如自制、免费和开源、私人和付费/订阅等，任何可能有用的想法。    提交人    /u/ryancnap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f3izmc/case_managementutilization_review_case_notes/</guid>
       <pubDate>Wed, 28 Aug 2024 19:27:37 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>在 Windows 10 上模仿 Apple OS 音量控制的软件</title>
       <link>https://www.reddit.com/r/software/comments/1f3ekk1/software_that_mimics_apple_os_volume_controls_on/</link>
-      <description><![CDATA[您好， 我以前在电脑上安装过一款软件，按 f6 可以调高 Windows 音量，然后会弹出类似 mac OS 音量图标的图标，按 f5 可以调低音量。我不记得这款软件的名字了，大概是 3CRX。    提交人    /u/arapoibus   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我以前在电脑上安装过一款软件，按 f6 可以调高 Windows 音量，然后会像 mac OS 音量图标一样弹出，按 f5 可以调低。我不记得软件的名字了。类似于 3CRX。    提交人    /u/arapoibus   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f3ekk1/software_that_mimics_apple_os_volume_controls_on/</guid>
       <pubDate>Wed, 28 Aug 2024 16:26:54 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在寻找一种可以根据打开的 URL 启动不同 Web 浏览器的软件。 大多数操作系统只允许您将单个程序与某些文件类型或 URL 关联，因此该软件将被注册为默认浏览器应用程序，启动时它会在映射列表中查找传递给它的 URL，然后在指定的真实浏览器中打开它，如果 URL 没有映射，它会在默认浏览器中打开。 例如，我可以添加所有 Google 网站的映射以在 Chrome/Chromium 中打开它们，所有 Microsoft 网站的映射以在 Edge 中打开，所有其他网站的映射将在 Firefox 中打开。 有人知道 Linux 和 Windows 上是否存在类似的东西吗？    提交人    /u/ChunkyBezel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f35wb1/browser_chooser_based_on_url/</guid>
       <pubDate>Wed, 28 Aug 2024 09:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用Bluehost吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1f35j0j/should_i_use_bluehost/</link>
-      <description><![CDATA[bluehost 真的那么糟糕吗？ 我正在为我的网站寻找托管服务，由于 Bluehost 给我发了很多广告，我研究了一下并购买了它。但是他们提供的服务质量太高了。 我决定查看 Reddit，因为我需要一些可靠的网络托管服务的建议。我的 WordPress 网站整天都处于宕机状态，这是一次令人沮丧的经历。我最初注册了 Bluehost，因为所有好评都说它是性价比最高的选择，但现在我开始怀疑这是否真的如此，或者我只是反应过度了？ 无论如何，我真的很感激一些关于 WordPress 的优秀托管服务提供商的建议。如果有人有建议...    提交人    /u/ev0envy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f35j0j/should_i_use_bluehost/</guid>
-      <pubDate>Wed, 28 Aug 2024 09:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可以像图像查看器一样控制的视频播放器？</title>
-      <link>https://www.reddit.com/r/software/comments/1f35dzr/is_there_a_video_player_that_can_be_controlled/</link>
-      <description><![CDATA[我想要的是具有适合宽度/高度设置的功能，使视频的其余部分移出屏幕，而不是挤压自身以匹配或产生黑条填充，并且能够将视频定位到最不重要的部分移出屏幕的位置。 因为我的 Microsoft Surface 具有 3：2 的宽高比，所以询问，几乎没有视频与之匹配。    提交人    /u/ChocodiIe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f35dzr/is_there_a_video_player_that_can_be_controlled/</guid>
-      <pubDate>Wed, 28 Aug 2024 08:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

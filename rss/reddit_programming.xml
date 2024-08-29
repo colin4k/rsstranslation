@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 29 Aug 2024 03:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 06:02:20 GMT</lastBuildDate>
+    <item>
+      <title>我是世界上最蠢的人 AMA</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3v9e6/i_am_the_dumbest_person_alive_ama/</link>
+      <description><![CDATA[大家好，今天我来这里是为了承认我的失败和我使用 Linux 的濒死体验。当时我正在开发一个 vulkan 项目，然后我决定安装一个新的软件包来解决我遇到的问题，长话短说，在运行了几个 bash 命令之后，我不知怎么地开始删除 python3，惊慌失措的我不知怎么地关闭了终端，我惊恐地看着我的应用程序从屏幕上消失，我再也无法打开终端了 :)。不管怎样，我的救命稻草是一个终端窗口不知怎么地仍然打开着，我可以重新安装 Ubuntu 桌面并挽救操作系统。不管怎样，我不知道我怎么会这么愚蠢地走到这一步，希望大家度过一个美好的夜晚。    提交人    /u/Disastrous-Shock2771   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3v9e6/i_am_the_dumbest_person_alive_ama/</guid>
+      <pubDate>Thu, 29 Aug 2024 06:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>高性能二分查找</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3ule5/highperformance_binary_search/</link>
+      <description><![CDATA[  由    /u/noblex33  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3ule5/highperformance_binary_search/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 150 行 C 代码击败 OpenBLAS 和 MKL：高性能矩阵乘法教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3uk54/beating_openblas_and_mkl_in_150_lines_of_c_code_a/</link>
+      <description><![CDATA[  由    /u/noblex33  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3uk54/beating_openblas_and_mkl_in_150_lines_of_c_code_a/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:13:34 GMT</pubDate>
+    </item>
     <item>
       <title>破解 Electron：为什么 Electron 对于付费 macOS 应用来说并不安全</title>
       <link>https://www.reddit.com/r/programming/comments/1f3qg5g/cracking_electron_why_electron_is_not_secure_for/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Lightricks_Tech  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f35xau/futureproof_your_multicloud_strategy_secure_aws/</guid>
       <pubDate>Wed, 28 Aug 2024 09:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSA：LummaC2 木马窃取程序在 GitHub 上传播问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1f358uc/psa_lummac2_trojan_stealer_spreading_on_github/</link>
-      <description><![CDATA[  由    /u/thenickdude  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f358uc/psa_lummac2_trojan_stealer_spreading_on_github/</guid>
-      <pubDate>Wed, 28 Aug 2024 08:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Booktest 和机器学习/LLM 软件的评论驱动测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1f358jn/booktest_and_the_review_driven_testing_for/</link>
-      <description><![CDATA[  由    /u/arauhala  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f358jn/booktest_and_the_review_driven_testing_for/</guid>
-      <pubDate>Wed, 28 Aug 2024 08:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过可视化图表生成 AWS Terraform 代码的工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1f34ah5/tool_for_generating_terraform_code_for_aws_from/</link>
-      <description><![CDATA[  由    /u/neifn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f34ah5/tool_for_generating_terraform_code_for_aws_from/</guid>
-      <pubDate>Wed, 28 Aug 2024 07:36:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
