@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 29 Aug 2024 18:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:02:03 GMT</lastBuildDate>
+    <item>
+      <title>不记录，返回错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1f4cd3p/dont_log_return_errors/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f4cd3p/dont_log_return_errors/</guid>
+      <pubDate>Thu, 29 Aug 2024 20:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crowdstrike 全球中断：不再有蓝色星期五</title>
+      <link>https://www.reddit.com/r/programming/comments/1f4amwm/crowdstrike_global_outage_no_more_blue_fridays/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f4amwm/crowdstrike_global_outage_no_more_blue_fridays/</guid>
+      <pubDate>Thu, 29 Aug 2024 19:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>NervTerraGen：一款使用 WebGPU 在线生成地形的简单免费工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1f49q7d/nervterragen_a_simple_and_free_tool_for_online/</link>
+      <description><![CDATA[  由    /u/magik_engineer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f49q7d/nervterragen_a_simple_and_free_tool_for_online/</guid>
+      <pubDate>Thu, 29 Aug 2024 18:28:15 GMT</pubDate>
+    </item>
     <item>
       <title>NES 系统时序 (CPU + PPU + APU)</title>
       <link>https://www.reddit.com/r/programming/comments/1f48tl5/nes_system_timing_cpu_ppu_apu/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/punkpeye  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f3yt2j/using_chatgpt_to_reverse_engineer_minified/</guid>
       <pubDate>Thu, 29 Aug 2024 10:15:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>CI 中的性能测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3yqvp/performance_testing_in_ci/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3yqvp/performance_testing_in_ci/</guid>
-      <pubDate>Thu, 29 Aug 2024 10:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>函数与容器：无服务器格局 • Marcia Villalba 和 Julian Wood</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3xsnt/functions_vs_containers_the_serverless_landscape/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3xsnt/functions_vs_containers_the_serverless_landscape/</guid>
-      <pubDate>Thu, 29 Aug 2024 09:04:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务设计模式 - 每个服务一个数据库模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3xmly/microservices_design_patterns_database_per/</link>
-      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3xmly/microservices_design_patterns_database_per/</guid>
-      <pubDate>Thu, 29 Aug 2024 08:52:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
