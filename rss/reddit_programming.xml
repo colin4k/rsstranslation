@@ -4,20 +4,69 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 29 Aug 2024 09:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>需要有关删除 Windows 10 臃肿软件的批处理脚本的反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1f40d5s/need_feedback_on_my_batch_script_for_removing/</link>
+      <description><![CDATA[  由    /u/WarRopeCore  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f40d5s/need_feedback_on_my_batch_script_for_removing/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>8核和14核差别很大吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1f40ba5/is_8_core_and_14core_that_big_of_a_difference/</link>
+      <description><![CDATA[嘿，我即将进入大学信息技术专业的第一年，我需要建议我应该买什么笔记本电脑，预算不是那么令人担心，只要是我可以带上大学并且可能在毕业后工作而不会过时的东西就可以了。  我选择了 16gb ram 8core 笔记本电脑或 16gb ram 14core 笔记本电脑，它们的价格差距很大，我很好奇差距是否和成本一样大，是否值得为 14core 掏钱。 感谢您的任何见解！    提交人    /u/definietlynotalessi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f40ba5/is_8_core_and_14core_that_big_of_a_difference/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[无代码]运行时C++ json序列化（调试）</title>
+      <link>https://www.reddit.com/r/programming/comments/1f40a2z/no_code_c_json_serialization_at_runtime_debug/</link>
+      <description><![CDATA[  由    /u/ovidiuvio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f40a2z/no_code_c_json_serialization_at_runtime_debug/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:43:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>mup：一个微型网络文件上传器，可轻松通过 LAN 共享文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1f400nz/mup_a_micro_web_file_uploader_to_easily_share/</link>
+      <description><![CDATA[  由    /u/aziis98  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f400nz/mup_a_micro_web_file_uploader_to_easily_share/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:29:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试自动化陷阱：常见错误及其避免方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3zll0/test_automation_pitfalls_common_mistakes_and_how/</link>
+      <description><![CDATA[  由    /u/fiberstrings  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3zll0/test_automation_pitfalls_common_mistakes_and_how/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ChatGPT 对压缩后的 JavaScript 进行逆向工程</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3yt2j/using_chatgpt_to_reverse_engineer_minified/</link>
+      <description><![CDATA[  由    /u/punkpeye  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3yt2j/using_chatgpt_to_reverse_engineer_minified/</guid>
+      <pubDate>Thu, 29 Aug 2024 10:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>CI 中的性能测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3yqvp/performance_testing_in_ci/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3yqvp/performance_testing_in_ci/</guid>
+      <pubDate>Thu, 29 Aug 2024 10:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>函数与容器：无服务器格局 • Marcia Villalba 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3xsnt/functions_vs_containers_the_serverless_landscape/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3xsnt/functions_vs_containers_the_serverless_landscape/</guid>
+      <pubDate>Thu, 29 Aug 2024 09:04:19 GMT</pubDate>
+    </item>
     <item>
       <title>微服务设计模式 - 每个服务一个数据库模式</title>
       <link>https://www.reddit.com/r/programming/comments/1f3xmly/microservices_design_patterns_database_per/</link>
       <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f3xmly/microservices_design_patterns_database_per/</guid>
       <pubDate>Thu, 29 Aug 2024 08:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎉 我们在 GitHub 上刚刚获得 500 颗星！谢谢你们，了不起的社区！🌟</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3xkpz/we_just_hit_500_stars_on_github_thank_you_amazing/</link>
-      <description><![CDATA[  由    /u/stosssik  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3xkpz/we_just_hit_500_stars_on_github_thank_you_amazing/</guid>
-      <pubDate>Thu, 29 Aug 2024 08:48:29 GMT</pubDate>
     </item>
     <item>
       <title>当正则表达式出错时</title>
@@ -32,13 +81,6 @@
       <description><![CDATA[  由    /u/Apart_Act_9260  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f3wt7y/beginner_friendly_game_engine_series_in_progress/</guid>
       <pubDate>Thu, 29 Aug 2024 07:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试用 C++ 编写一个线程安全代码，并想锁定映射中的键值对，有没有办法实现这一点？</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3w0jq/im_trying_to_write_a_thread_safe_code_in_c_and/</link>
-      <description><![CDATA[  由    /u/WearOk7141  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3w0jq/im_trying_to_write_a_thread_safe_code_in_c_and/</guid>
-      <pubDate>Thu, 29 Aug 2024 06:54:18 GMT</pubDate>
     </item>
     <item>
       <title>高性能二分查找</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/linschn  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f3e7z1/the_next_international_workshop_on_plan_9_will_be/</guid>
       <pubDate>Wed, 28 Aug 2024 16:12:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[PHP] 我为 symfony 制作了一个 docker 镜像，以便不在主机上安装特定要求</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3dfdz/php_i_made_a_docker_image_for_symfony_to_not/</link>
-      <description><![CDATA[  由    /u/Kodoyosa  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3dfdz/php_i_made_a_docker_image_for_symfony_to_not/</guid>
-      <pubDate>Wed, 28 Aug 2024 15:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>你和 Linus Torvalds 的距离是多少度？[第二次迭代]</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3co15/how_many_degrees_away_from_linus_torvalds_are_you/</link>
-      <description><![CDATA[  由    /u/tobiadefami  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3co15/how_many_degrees_away_from_linus_torvalds_are_you/</guid>
-      <pubDate>Wed, 28 Aug 2024 15:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Pi-Hole 构建广告拦截工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3b4dy/building_an_ad_blocking_tool_with_pihole/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3b4dy/building_an_ad_blocking_tool_with_pihole/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 HTML5 Canvas 在 React 中编辑多页文档。（类似 Google DOC）</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3avcz/multipage_document_editing_in_react_with_html5/</link>
-      <description><![CDATA[  由    /u/lakinmohapatra  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3avcz/multipage_document_editing_in_react_with_html5/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Docker 在本地测试 Ansible Playbooks</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3a9tg/how_to_test_your_ansible_playbooks_locally_using/</link>
-      <description><![CDATA[  由    /u/scosio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3a9tg/how_to_test_your_ansible_playbooks_locally_using/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>打字</title>
-      <link>https://www.reddit.com/r/programming/comments/1f39p04/typst/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f39p04/typst/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:05:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
