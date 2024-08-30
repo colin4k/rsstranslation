@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 00:03:47 GMT</lastBuildDate>
+    <item>
+      <title>RunBash：在 Windows 上无缝运行 Bash 脚本和 Linux 二进制文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1f4h4tg/runbash_seamlessly_run_bash_scripts_and_linux/</link>
+      <description><![CDATA[  由    /u/Ok-Relation-8323  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f4h4tg/runbash_seamlessly_run_bash_scripts_and_linux/</guid>
+      <pubDate>Thu, 29 Aug 2024 23:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Selenium 和 Streamlit 构建 Web 爬虫</title>
+      <link>https://www.reddit.com/r/programming/comments/1f4go20/building_a_web_scraper_with_selenium_and_streamlit/</link>
+      <description><![CDATA[  由    /u/databot_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f4go20/building_a_web_scraper_with_selenium_and_streamlit/</guid>
+      <pubDate>Thu, 29 Aug 2024 23:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>C2PA 和 CBC</title>
+      <link>https://www.reddit.com/r/programming/comments/1f4gkqq/c2pa_and_the_cbc/</link>
+      <description><![CDATA[  由    /u/lood9phee2Ri  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f4gkqq/c2pa_and_the_cbc/</guid>
+      <pubDate>Thu, 29 Aug 2024 23:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elasticsearch 再次开源</title>
+      <link>https://www.reddit.com/r/programming/comments/1f4ealr/elasticsearch_is_open_source_again/</link>
+      <description><![CDATA[TLDR：现在可在 AGPL 下使用    由    /u/nicholashairs 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f4ealr/elasticsearch_is_open_source_again/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:38:32 GMT</pubDate>
+    </item>
     <item>
       <title>不记录，返回错误</title>
       <link>https://www.reddit.com/r/programming/comments/1f4cd3p/dont_log_return_errors/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/carterdmorgan  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f41wix/carl_brown_internet_of_bugs_shares_his_favorite/</guid>
       <pubDate>Thu, 29 Aug 2024 13:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据上的 GenAI：什么是 RAG 和语义搜索以及为什么这对代码来说很难</title>
-      <link>https://www.reddit.com/r/programming/comments/1f4153r/genai_on_your_data_what_is_rag_and_semantic/</link>
-      <description><![CDATA[  由    /u/levyastrebov  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f4153r/genai_on_your_data_what_is_rag_and_semantic/</guid>
-      <pubDate>Thu, 29 Aug 2024 12:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>mup：一个微型网络文件上传器，可轻松通过 LAN 共享文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1f400nz/mup_a_micro_web_file_uploader_to_easily_share/</link>
-      <description><![CDATA[  由    /u/aziis98  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f400nz/mup_a_micro_web_file_uploader_to_easily_share/</guid>
-      <pubDate>Thu, 29 Aug 2024 11:29:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试自动化陷阱：常见错误及其避免方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3zll0/test_automation_pitfalls_common_mistakes_and_how/</link>
-      <description><![CDATA[  由    /u/fiberstrings  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3zll0/test_automation_pitfalls_common_mistakes_and_how/</guid>
-      <pubDate>Thu, 29 Aug 2024 11:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 对压缩后的 JavaScript 进行逆向工程</title>
-      <link>https://www.reddit.com/r/programming/comments/1f3yt2j/using_chatgpt_to_reverse_engineer_minified/</link>
-      <description><![CDATA[  由    /u/punkpeye  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f3yt2j/using_chatgpt_to_reverse_engineer_minified/</guid>
-      <pubDate>Thu, 29 Aug 2024 10:15:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

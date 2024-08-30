@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 00:03:54 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个开源 AI 壁纸应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4fmx1/i_made_an_opensource_ai_wallpaper_app/</link>
+      <description><![CDATA[        提交人    /u/dkaloger2   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4fmx1/i_made_an_opensource_ai_wallpaper_app/</guid>
+      <pubDate>Thu, 29 Aug 2024 22:36:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elasticsearch 再次开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4e9gr/elasticsearch_is_open_source_again/</link>
+      <description><![CDATA[      TLDR：现已在 AGPL 下可用    由    /u/nicholashairs 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4e9gr/elasticsearch_is_open_source_again/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>现场语音分析工具包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4e7cd/live_voice_analysis_toolkit/</link>
+      <description><![CDATA[作为我创建开源 AI 助手框架 https://github.com/00Julian00/Nova 之旅的一部分（我知道现在的代码库很乱），我开发了一个语音分析管道，它可以从麦克风录制音频，然后实时转录音频并为您提供语音嵌入，以根据他们的声音了解当前正在说话的人。我可能会向管道添加更多功能，但现在您可以获得转录、单词时间戳和语音嵌入。请随时查看：https://github.com/00Julian00/Voice-Analysis-Toolkit    提交人    /u/Darkboy5000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4e7cd/live_voice_analysis_toolkit/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:34:37 GMT</pubDate>
+    </item>
     <item>
       <title>OPTIC - 用于在 Windows 和 ChromeOS 中控制和优化网络摄像头设置的 Google Chrome 扩展程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1f488jn/optic_google_chrome_extension_for_webcam_settings/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        由    /u/MusingEtMachina 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f2u3i0/repo2vec_an_opensource_library_to_chat_with_any/</guid>
       <pubDate>Tue, 27 Aug 2024 22:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建了一个开源 Loom 替代方案，用于录制和共享视频，只需要与 S3 兼容的存储。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2tgoa/we_built_an_opensource_loom_alternative_for/</link>
-      <description><![CDATA[  由    /u/Plus-Conference2001  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2tgoa/we_built_an_opensource_loom_alternative_for/</guid>
-      <pubDate>Tue, 27 Aug 2024 21:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该选择 VLC 还是 MPV</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2q98l/should_i_choose_vlc_or_mpv/</link>
-      <description><![CDATA[大家好。首先，我要为我上一篇帖子道歉，因为帖子本身不够具体，而且对 VLC 有主题一无所知。对此深表歉意。 我其实并不讨厌 VLC，我只是不喜欢它的用户界面（以及没有逐帧向后播放选项），所以我真的很想知道这里的人是否认为有更好的选择。我收到了很多回复，但我最终选择的参赛者是 MPV，因为我听说过很多关于它的事情，现在发现它也有主题。 我想听听你们的意见，我应该选择哪一个，因为我不确定该选择哪个选项。那么，我应该保留 VLC 并只安装一个主题，还是卸载 VLC 并安装 MPV？  （如果觉得这篇文章重复了，请见谅）    提交人    /u/GalaxyPlayz_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2q98l/should_i_choose_vlc_or_mpv/</guid>
-      <pubDate>Tue, 27 Aug 2024 19:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mer Joyce 和 Anni Lai 介绍了开源人工智能定义（v.0.0.9）和模型开放框架的新草案。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f2nxjb/mer_joyce_and_anni_lai_introduced_the_new_draft/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f2nxjb/mer_joyce_and_anni_lai_introduced_the_new_draft/</guid>
-      <pubDate>Tue, 27 Aug 2024 18:11:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

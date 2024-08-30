@@ -4,93 +4,98 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 00:01:43 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Poly 的使命是通过基于云的应用程序设计彻底改变文件存储 [...]</title>
-      <link>https://t.me/hn_summary/106125</link>
-      <description><![CDATA[Poly (YC S22) 正在旧金山招聘 Rust 专家来构建“Arc 文件浏览器”
-Poly 的使命是通过一款基于云的应用程序彻底改变文件存储，该应用程序旨在取代 Finder 和 File Explorer 等传统文件系统。Poly 获得了来自知名投资者的 800 万美元支持，旨在创建一款智能、轻量级、跨平台的文件管理解决方案。该平台拥有自主开发的 LLM，具有高级文件索引和搜索功能，并且每两天更新一次，这与与操作系统升级周期相关的传统系统不同。Poly 正在寻求 Rust 专家加入其位于旧金山的创始团队，以帮助构建和扩展这款创新产品。申请人应具有全栈开发、桌面 Web 框架方面的经验，并对 Rust 充满热情。该职位需要在旧金山 SoMa 进行面对面合作。 
+      <title>[媒体] 著名 Wow! 的来源</title>
+      <link>https://t.me/hn_summary/106149</link>
+      <description><![CDATA[可能发现了著名的 Wow! 信号来源
+1977 年 8 月 15 日，俄亥俄州立大学的大耳朵射电望远镜探测到了一个强窄带信号，天文学家 Jerry R. Ehman 将其命名为著名的“Wow! 信号”。该信号的强度标记为“6EQUJ5”，比背景噪声高出 30 个标准差，这引发了对其外星起源的猜测。然而，阿雷西博波多黎各大学行星宜居性实验室的一个团队现在提出了一个更平凡的解释：由于磁星耀斑或软伽马中继器等瞬态辐射源，冷氢云突然变亮。这一假设可能会重新定义我们对此类信号的理解，凸显了寻找外星生命的新误报来源。因此，它最终只是正常的太空现象，而不是来自其他生命形式的信号，但搜索仍在继续……]]></description>
+      <guid>https://t.me/hn_summary/106149</guid>
+      <pubDate>Fri, 30 Aug 2024 00:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 布莱切利园是二战期间英国秘密破译密码活动的历史遗址 [...]</title>
+      <link>https://t.me/hn_summary/106148</link>
+      <description><![CDATA[参观布莱切利园
+布莱切利园是二战期间英国秘密破译密码活动的历史遗址，它为人们提供了一窥过去的迷人视角。游客可以探索经过修复的小屋和街区，包括著名的艾伦·图灵在内的密码破译者曾在这里不知疲倦地破译敌人的通信。该遗址设有互动展览、历史文物和引人入胜的展示，让战时的努力栩栩如生。参观布莱切利园不仅具有教育意义，而且是对为盟军胜利做出贡献的人的聪明才智和毅力的致敬。历史和技术的独特融合使其成为必游之地。]]></description>
+      <guid>https://t.me/hn_summary/106148</guid>
+      <pubDate>Thu, 29 Aug 2024 23:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 大众汽车 (VW) 的子公司大众金融服务公司 (VWFS) 计划将 [...]</title>
+      <link>https://t.me/hn_summary/106147</link>
+      <description><![CDATA[大众汽车计划从销售汽车转向提供“按需汽车”
+大众汽车 (VW) 的子公司大众金融服务 (VWFS) 计划到 2025 年从传统汽车销售转向“按需汽车”模式。这个新的移动平台将通过应用程序提供租赁、租用、订阅和汽车共享服务，标志着大众商业战略的重大变化。大众将保留车辆的所有权，使他们能够收集有关汽车及其驾驶员的大量数据。这些数据将帮助大众优化营销和定价策略，特别是二手车，旨在成为全球领先的二手车经销商。具有讽刺意味的是，大众从生产可购买的平价汽车转变为所有权已过时的模式。 
 
-争议：无突出之处。
-独特/巧妙：平台快速的更新周期和先进的 AI 驱动文件管理系统。]]></description>
-      <guid>https://t.me/hn_summary/106125</guid>
-      <pubDate>Thu, 29 Aug 2024 21:01:37 GMT</pubDate>
+争议：对驾驶员和车辆的大量数据收集引发了隐私担忧。
+独特：从销售汽车到按需提供汽车的转变是汽车行业的重大变化。]]></description>
+      <guid>https://t.me/hn_summary/106147</guid>
+      <pubDate>Thu, 29 Aug 2024 23:51:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 范畴论是数学的一个丰富的领域，而“逻辑问题”上的这个页面提供了[...]</title>
-      <link>https://t.me/hn_summary/106124</link>
-      <description><![CDATA[范畴论
-范畴论是数学的一个丰富领域，Logic Matters 上的此页面为初级或中级水平的人们提供了精选的免费在线资源。作者重点介绍了三本优秀的入门书籍：Robert Goldblatt 的《Topoi》、Tom Leinster 的《基本范畴论》和 Emily Riehl 的《范畴论背景》，每本书都适合不同水平的数学背景。此外，作者还提到了他们自己修订的入门笔记《范畴论入门》，为该主题提供了一个温和的切入点。该页面还列出了精选的讲义和书籍，强调了官方提供的资料。值得注意的是，尽管作者的个人笔记最初“杂乱无章”，但出人意料地受欢迎，现在有了一个更完善的版本。该页面对于任何想要深入研究类别理论的人来说都是宝贵的资源，其中包含各种材料，以满足不同的学习偏好。]]></description>
-      <guid>https://t.me/hn_summary/106124</guid>
-      <pubDate>Thu, 29 Aug 2024 20:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Elasticsearch 和 Kibana 再次正式开源，Elastic 的喜悦令人 [...]</title>
-      <link>https://t.me/hn_summary/106123</link>
-      <description><![CDATA[Elasticsearch 再次开源
-Elasticsearch 和 Kibana 再次正式开源，Elastic 的喜悦显而易见。通过在 ELv2 和 SSPL 之外添加 AGPL 许可证，Elastic 现在可以自豪地使用“开源”一词，没有任何歧义。这一变化解决了过去与 AWS 和市场混乱有关的问题，这些问题导致了三年前的许可证变更。尽管面临挑战，但这一策略奏效了，Elastic 与 AWS 的合作关系比以往任何时候都更加牢固。用户可以继续使用他们喜欢的许可证，但现在有了 AGPL 选项。此举旨在与 OSI 合作促进更多开源选择。Elastic 对创新和用户满意度的承诺始终坚定不移。]]></description>
-      <guid>https://t.me/hn_summary/106123</guid>
-      <pubDate>Thu, 29 Aug 2024 20:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 库珀斯敦全明星村（CASV）坐落在风景秀丽的卡茨基尔山麓[...]</title>
-      <link>https://t.me/hn_summary/106122</link>
-      <description><![CDATA[私募股权即将进军青少年体育
-库珀斯敦全明星村 (CASV) 坐落在纽约州奥尼昂塔风景秀丽的卡茨基尔山麓，距离库珀斯敦的国家棒球名人堂仅 20 英里。尽管名为库珀斯敦，但 CASV 并不位于库珀斯敦，而是利用了该名字的名气。在七月的一个潮湿的早晨，CASV 首席执行官 Rick Abbott 自豪地展示了该场地令人惊叹的地形，其中包括毗邻奥尼昂塔乡村俱乐部高尔夫球场的 12 个棒球场。每年夏天，来自美国各地的数千名年轻棒球运动员都会参加 14 场连续的锦标赛。去年，CASV 创纪录地接待了来自 763 支球队的 12,000 名球员，预计今年夏天这一数字将超过。]]></description>
-      <guid>https://t.me/hn_summary/106122</guid>
-      <pubDate>Thu, 29 Aug 2024 20:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 利比亚中央银行政变演变成闹剧，要求提供密码</title>
-      <link>https://t.me/hn_summary/106121</link>
-      <description><![CDATA[利比亚中央银行政变演变为闹剧，要求提供密码
-（彭博社）——试图从陷入困境的行长手中夺取利比亚中央银行控制权的尝试变成了一场闹剧，因为新领导层在该国两个敌对政府之一的支持下，发现自己没有操作银行所需的密码。尽管有行政命令和警察在场，但的黎波里的新团队仍在努力管理付款和解决流动性危机。临时副行长阿卜杜勒-法塔赫·加法尔公开向被罢免的萨迪克·卡比尔索要密码，后者下落不明。这一事件凸显了利比亚东部和西部政府之间围绕中​​央银行的危险权力斗争，中央银行是控制数十亿美元石油收入的关键机构。僵局始于利比亚东部支持的卡比尔拒绝下台，尽管西政府总理阿卜杜勒·哈米德·德贝巴下令下台。新任管理者目前正在紧急恢复银行业务，以确保利比亚 680 万人的生计。]]></description>
-      <guid>https://t.me/hn_summary/106121</guid>
-      <pubDate>Thu, 29 Aug 2024 20:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]据报道，苹果正在就投资 OpenAI 进行谈判，并加入新一轮融资[...]</title>
-      <link>https://t.me/hn_summary/106120</link>
-      <description><![CDATA[随着 ChatGPT 登陆 iOS 18，苹果正就投资 OpenAI 进行谈判
-据《华尔街日报》报道，苹果正就投资 OpenAI 进行谈判，加入新一轮融资，该轮融资对该人工智能公司的估值超过 1000 亿美元。虽然苹果或微软的具体投资金额细节尚不清楚，但微软已经持有 OpenAI 49% 的利润。风险投资公司 Thrive Capital 预计将以 10 亿美元的投资领投此轮融资。此外，苹果计划将 ChatGPT 集成到 iOS 18 中，使其能够与 Siri 一起处理全球知识请求。有趣的是，两家公司都没有为此次整合向对方付费，因为苹果认为 OpenAI 的曝光价值等于或高于现金。苹果未来还可能在 iOS 18 中添加类似 Google Gemini 的其他 AI 模型。]]></description>
-      <guid>https://t.me/hn_summary/106120</guid>
-      <pubDate>Thu, 29 Aug 2024 20:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 摩托罗拉移动，曾经是美国创新巨头，经历了一段艰难的历程[...]</title>
-      <link>https://t.me/hn_summary/106119</link>
-      <description><![CDATA[摩托罗拉发生了什么
-摩托罗拉移动曾是美国创新巨头，但经历了公司拆分、收购和重大财务损失等动荡历程。2011 年 4 月，摩托罗拉移动从摩托罗拉公司分拆出来，被谷歌收购，但不到两年后又被联想收购。尽管开局良好，但该公司举步维艰，仅占全球智能手机市场 2% 的份额，2014 年第一季度亏损 1.98 亿美元。本文强调了摩托罗拉衰落的讽刺性，因为它拥有开创性技术的历史，例如第一款汽车收音机和手持移动电话。激烈竞争的内部文化曾经是一种优势，但最终导致了破坏性的内斗和战略失误，尤其是在从模拟技术向数字技术的过渡中。出售给联想给摩托罗拉芝加哥就业和领导层的未来带来了不确定性。这个故事强调了这家曾经是美国工业实力和创新典范的公司急剧衰落。（基于 37% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106119</guid>
-      <pubDate>Thu, 29 Aug 2024 20:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Colin Maykish 的周末项目 VR65C02 是一款简约的双芯片八位计算机 [...]</title>
-      <link>https://t.me/hn_summary/106118</link>
-      <description><![CDATA[65C02 加上 ATmega4809 等于 Colin Maykish 的 VR65C02，一款功能齐全的双芯片 PC
-Colin Maykish 的周末项目 VR65C02 是一款极简主义的双芯片 8 位计算机，配备 65C02 微处理器和 ATmega4809 AVR 微控制器。65C02 用作 CPU，运行原生 6502 代码，而 AVR 则模拟 RAM、ROM 和 I/O 设备。ATmega4809 也用于 Arduino Nano Every，具有 6 KB RAM、48 KB 闪存和最多 31 个 GPIO。为 VR65C02 构建代码需要将 65C02 代码汇编成二进制文件，然后使用 Python 脚本将其转换为 C 头文件。此文件通过 Arduino 草图编译并上传到 AVR。AVR 模拟 65C02 的总线控制信号，但设置将 CPU 的时钟速度限制为 183 kHz。未来的增强功能可能包括使用外部 RAM 来提高时钟速度或采用 ATmega4809 的 48 针 QFP 变体。该项目的构建脚本、Arduino 草图和 Python 实用程序可在 VR65C02 GitHub 存储库中找到，其中还包括有关 AVR 和 65C02 交互的详细说明。]]></description>
-      <guid>https://t.me/hn_summary/106118</guid>
-      <pubDate>Thu, 29 Aug 2024 19:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在本文中，作者通过 op 深入探讨了性能工程的迷人世界 [...]</title>
-      <link>https://t.me/hn_summary/106117</link>
-      <description><![CDATA[高性能二分搜索
-在本文中，作者通过优化众所周知的二分搜索算法，深入研究了性能工程的迷人世界。虽然典型的软件优化只能带来适度的改进，但作者展示了如何显着增强教科书算法。本文介绍了两种优化的二分搜索变体，它们的速度可以比 std::lower_bound 快四倍，并且代码不到 15 行。第一个变体删除了分支以避免管道停顿，而第二个变体优化了内存布局以获得更好的缓存性能。虽然后者需要预处理数组，但作者认为这通常是可行的。性能改进是在使用 Clang 10 的 Zen 2 CPU 上测试的，带有 DDR4-2666 RAM，鼓励读者在自己的系统上进行测试。预测和预取技术的巧妙运用凸显了算法效率大幅提升的潜力。
+      <title>[媒体] 网站：infinitecanvas.cc</title>
+      <link>https://t.me/hn_summary/106146</link>
+      <description><![CDATA[构建无限画布
+标题：构建无限画布
+网站：infinitecanvas.cc
 
-争议点：在第二个变体中预处理数组的必要性可能被视为一种限制，因为它使其无法成为 std::lower_bound 的直接替代品。
-
-独特/巧妙的方面：使用预测来删除分支和显式预取数据以弥补无分支实现中缺乏推测执行，这尤其具有创新性。（基于 32% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/106117</guid>
-      <pubDate>Thu, 29 Aug 2024 19:53:37 GMT</pubDate>
+通过我们全面的分步教程，了解如何创建无限画布。本指南将引导您完成构建无限数字工作空间的过程，非常适合需要无限制空间进行项目的艺术家、设计师和创意人士。本教程涵盖了基本技巧、工具和技巧，可帮助您最大限度地发挥您的创造潜力。无论您是初学者还是经验丰富的专业人士，我们简单易懂的说明都能让您立即上手。拥抱无限画布的自由，改变您的工作和创作方式。]]></description>
+      <guid>https://t.me/hn_summary/106146</guid>
+      <pubDate>Thu, 29 Aug 2024 23:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 1986 年 7 月的 SPIN 杂志上，罗伯特·基廷 (Robert Keating) 揭露了 Live Ai 背后的残酷现实 [...]</title>
-      <link>https://t.me/hn_summary/106116</link>
-      <description><![CDATA[Live Aid：可怕的真相
-在 1986 年 7 月的 SPIN 杂志上，罗伯特·基廷 (Robert Keating) 揭露了 Live Aid 在埃塞俄比亚努力背后的残酷现实。尽管 Live Aid 的初衷是高尚的，但它却无意中加剧了数百万人的苦难。人类学家 Jason Clay 和无国界医生组织的 Claude Malhuret 博士认为，包括 Live Aid 在内的西方援助支持了腐败的埃塞俄比亚政府，该政府应对大规模侵犯人权行为负责。埃塞俄比亚政府滥用援助来推进其军事议程，导致残酷的重新安置和大规模死亡。文章强调了援助组织面临的道德困境，并将其与历史暴行进行了比较。令人震惊的事实是，Live Aid 的善意努力却悲剧性地导致了 20 世纪最大的屠杀之一。（基于 60% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106116</guid>
-      <pubDate>Thu, 29 Aug 2024 19:46:31 GMT</pubDate>
+      <title>Asahi Lina 讨论了 Rust 开发人员面临的挑战，强调一些个人[...]</title>
+      <link>https://t.me/hn_summary/106145</link>
+      <description><![CDATA[Asahi Lina：“一些人决心让 Rust 开发者的生活变得尽可能困难”
+Asahi Lina 讨论了 Rust 开发者面临的挑战，强调一些人故意让他们的生活变得尽可能困难。文章强调了社区内持续存在的障碍和对抗行为，这些阻碍了进步和创新。这场争议凸显了努力改进的开发者与抵制变革的开发者之间的紧张关系。文章呼吁建立一个更具协作性和支持性的环境，以促进 Rust 生态系统的增长和发展。]]></description>
+      <guid>https://t.me/hn_summary/106145</guid>
+      <pubDate>Thu, 29 Aug 2024 23:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] EcoFlow 售价 200 美元的 PowerStream 盒子旨在提高便携式太阳能发电机的实用性 [...]</title>
+      <link>https://t.me/hn_summary/106144</link>
+      <description><![CDATA[EcoFlow 售价 200 美元的 PowerStream
+EcoFlow 售价 200 美元的 PowerStream 盒子旨在通过将便携式太阳能发电机改造成 DIY“阳台太阳能系统”来提高其实用性，该系统甚至可以安装在出租公寓中。由于能源成本上升和太阳能价格下降，该系统在欧洲很受欢迎，它通过标准墙壁插孔将太阳能反馈回家中。多余的能量存储在电池中以备后用。作者用价值 1,500 美元的 EcoFlow 太阳能电池板和 2,599 美元的 Delta Pro 电池测试了该系统，发现它很容易安装，但一开始在安全性方面令人望而生畏。PowerStream 目前仅在欧洲销售，限制了它的广泛吸引力。该系统降低能源费用和提供备用电源的能力受到称赞，尽管其 800W 最大输入和仅与 EcoFlow 电池兼容是值得注意的缺点。作者强调了巧妙使用 EcoFlow 智能插头来管理能源流和系统实现能源独立的潜力。然而，将电力反馈到插座的安全性以及在当地能源供应商处进行适当注册的必要性是令人担忧的问题。PowerStream 无法在停电期间自动切换到电池也是一个限制。尽管存在这些问题，作者认为 PowerStream 是迈向能源独立的宝贵而节俭的一步。]]></description>
+      <guid>https://t.me/hn_summary/106144</guid>
+      <pubDate>Thu, 29 Aug 2024 23:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：美国政府资助为中国研究人员带来专利</title>
+      <link>https://t.me/hn_summary/106143</link>
+      <description><![CDATA[美国政府资助为中国研究人员带来专利
+标题：美国政府资助为中国研究人员带来专利
+
+华盛顿，8 月 29 日（路透社）——美国专利局的数据显示，自 2010 年以来，美国政府资助已为中国发明家带来了 1,000 多项专利，包括生物技术和半导体等敏感领域。这一此前从未报道过的披露可能会加剧取消或重新谈判《中美科技协议》的呼声。批评者认为，中国不公平地从该协议中获益，而支持者则认为终止该协议将阻碍学术和商业合作。提交给众议院中国问题特别委员会的数据显示，国防部和美国国家航空航天局等机构做出了重大贡献，引发了国家安全担忧。]]></description>
+      <guid>https://t.me/hn_summary/106143</guid>
+      <pubDate>Thu, 29 Aug 2024 23:35:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 防火墙规则：没有你想象的那么安全</title>
+      <link>https://t.me/hn_summary/106142</link>
+      <description><![CDATA[防火墙规则：没有您想象的那么安全
+防火墙规则：没有您想象的那么安全
+
+本文探讨了绕过企业防火墙以通过任何协议实现不受限制的入站和出站请求的技术。这些方法对于在具有受限网络环境的客户数据中心部署软件的供应商特别有用。客户通常拒绝打开防火墙端口，即使是 SSH 访问等必要的维护任务。本文详细介绍了四个主要技巧，其中最具争议的技巧是：在出站 HTTPS 请求中隧道传输入站 SSH 连接。该技术利用看似无害的防火墙权限来授予完整的命令行访问权限。随附的存储库 holepunch 提供了 NixOS 模块来自动化此过程。该帖子还讨论了代理、反向隧道以及 stunnel 和 corkscrew 等工具，用于伪装流量和逃避检测。
+
+争议：该帖子中绕过防火墙的方法，尤其是通过 HTTPS 隧道传输 SSH，在某些情况下可能被视为道德上有问题，甚至是非法的。（基于 88% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/106142</guid>
+      <pubDate>Thu, 29 Aug 2024 23:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 介绍 Voggle，这是一款独特的文字游戏，具有精心制作的谜题和 [...]</title>
+      <link>https://t.me/hn_summary/106141</link>
+      <description><![CDATA[展示 HN：Voggle，一款独特的文字游戏，具有手工制作的谜题和隐藏的主题
+介绍 Voggle，一款独特的文字游戏，具有精心制作的谜题和隐藏的主题。每个谜题都旨在挑战您的词汇量和解决问题的能力，使每场游戏都成为独特的体验。请继续关注更新和额外提示，以增强您的游戏体验。请记住，文字是有力量的——请慎重使用它们。访问 voggle.com 了解更多详情并开始游戏。]]></description>
+      <guid>https://t.me/hn_summary/106141</guid>
+      <pubDate>Thu, 29 Aug 2024 23:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 70 年代末和 80 年代初，对小型个人电脑的需求导致了 [...]</title>
+      <link>https://t.me/hn_summary/106140</link>
+      <description><![CDATA[Radio Shack 袖珍电脑 – Paul Lefebvre 著
+70 年代末和 80 年代初，对小型个人电脑的需求导致了袖珍设备的诞生，例如 Radio Shack 在 1980 年销售的 TRS-80 袖珍电脑。这是来自日本的 Sharp PC-1211 的改名版。Radio Shack 是一家深受电子爱好者喜爱的商店，提供各种电脑，尽管它们的型号众多且通常不兼容是一个缺点。TRS-80 袖珍电脑售价 230 美元，采用单行 LCD 显示屏和有限的 BASIC 编程功能。后续型号如 PC-2、PC-3 等在尺寸、价格和功能上各不相同，而 PC-3 则价格实惠且紧凑。作者深情回忆了在 Radio Shack 工作的经历以及探索这些小玩意儿的乐趣。有关使用 PC-3 进行 BASIC 编程的更多信息，请访问 Goto 10。]]></description>
+      <guid>https://t.me/hn_summary/106140</guid>
+      <pubDate>Thu, 29 Aug 2024 22:54:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
