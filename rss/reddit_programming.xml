@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 31 Aug 2024 03:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 06:02:00 GMT</lastBuildDate>
+    <item>
+      <title>C（和 C++）中多维、动态大小数组的正确方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5e412/multidimensional_dynamically_sized_arrays_in_c/</link>
+      <description><![CDATA[  由    /u/equationsofmotion  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5e412/multidimensional_dynamically_sized_arrays_in_c/</guid>
+      <pubDate>Sat, 31 Aug 2024 03:35:21 GMT</pubDate>
+    </item>
     <item>
       <title>NextJS 表单验证 Zod 示例 - NextJS 教程</title>
       <link>https://www.reddit.com/r/programming/comments/1f5d5yf/next_js_form_validation_zod_example_nextjs/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f4yga0/discover_byte_magazine_archives_at_world_radio/</guid>
       <pubDate>Fri, 30 Aug 2024 15:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 和 Zigbee 构建您自己的温度监控系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1f4wkys/build_your_own_temperature_monitoring_system_with/</link>
-      <description><![CDATA[我建立了一个系统来存储我家每个房间的温度！    提交人    /u/btb331   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f4wkys/build_your_own_temperature_monitoring_system_with/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:25:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
