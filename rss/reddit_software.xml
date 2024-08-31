@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 31 Aug 2024 00:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 03:01:58 GMT</lastBuildDate>
+    <item>
+      <title>锦标赛括号模板网站至少可容纳 314 个参赛作品？</title>
+      <link>https://www.reddit.com/r/software/comments/1f5cu75/tournament_bracket_templates_stie_that_fits_at/</link>
+      <description><![CDATA[正如标题所说，我需要创建一个可以同时容纳至少那么多战斗人员的锦标赛括号。至少需要 314，我希望这能得到验证。我也很感激有可发布的图像，这不是必需的，但它将是理想的 Ty    提交人    /u/Short-Woodpecker6971   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f5cu75/tournament_bracket_templates_stie_that_fits_at/</guid>
+      <pubDate>Sat, 31 Aug 2024 02:24:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似于 windows sandbox 的替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1f5bc61/alterternatives_to_something_like_windows_sandbox/</link>
+      <description><![CDATA[我正在寻找 Windows 沙盒的替代方案（基本上我想在单独的地方运行设置）但我需要 Windows 沙盒和 Sandboxie 的管理员，所以有没有不需要管理员的替代方案或者没有管理员就可以下载它们的方法    提交人    /u/Agreeable-Cycle6438   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f5bc61/alterternatives_to_something_like_windows_sandbox/</guid>
+      <pubDate>Sat, 31 Aug 2024 01:04:39 GMT</pubDate>
+    </item>
     <item>
       <title>奇怪的黑匣子、游戏安全违规和声音错误</title>
       <link>https://www.reddit.com/r/software/comments/1f59o8y/wierd_black_boxes_game_security_violations_and/</link>
@@ -113,7 +127,7 @@
     <item>
       <title>使用 Natomic 让日常写作变得轻松！</title>
       <link>https://www.reddit.com/r/software/comments/1f4qxa6/daily_writing_made_easy_with_natomic/</link>
-      <description><![CDATA[Natomic 现已在 Product Hunt  上亮相！此工具旨在帮助您轻松养成日常写作习惯。享受安全简单的登录，并使用超过 50 个模板来组织和分享您的想法。每天的小步骤可以带来巨大的变化 - 查看 Natomic 并开始写作！ 下载： 下载 Natomic    提交人    /u/toppo_prema   [链接] [评论]]]></description>
+      <description><![CDATA[Natomic 现已在 Product Hunt  上亮相！此工具旨在帮助您轻松养成日常写作习惯。享受安全简单的登录，并使用超过 50 个模板来组织和分享您的想法。每天的小步骤可以带来巨大的变化 - 查看 Natomic 并开始写作！ 下载： 下载 Natomic    由   提交 /u/toppo_prema   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f4qxa6/daily_writing_made_easy_with_natomic/</guid>
       <pubDate>Fri, 30 Aug 2024 09:23:28 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[在会议上，我需要编写某种协议并将其实时投影到屏幕上。我对屏幕的视角太差，以至于我看不到投影的内容，而且我无法使用屏幕镜像，因为我还需要打开其他几个窗口。 因此，我需要一个解决方案 - 镜像一个窗口（例如 Word），这样我就可以看到我正在写的内容 - 一个可以执行此操作的独立软件。 - 或者一种方法，通过链接滚动在第二个屏幕上更新同一个 Word 文档的第二个实例，以便查看者能够看到我所看到的内容。 您有什么想法吗？    提交人    /u/drehwurm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f4pirr/a_software_for_projecting_text_on_second_screen/</guid>
       <pubDate>Fri, 30 Aug 2024 07:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>打印前条形码标签卷轴</title>
-      <link>https://www.reddit.com/r/software/comments/1f4p96x/barcode_label_spooling_before_print/</link>
-      <description><![CDATA[我需要一个像文档假脱机程序一样工作的软件。 基本上，我必须从我们基于云的预定义软件和我们的合作伙伴供应商处打印条形码标签（因此无法控制那里的编码） 条形码标签都是不同的，并且是单独的，因为所有产品都是独一无二的。 挑战 - 我希望它们一次打印在 A4 尺寸的纸上。但我只能单独打印命令，这很耗时。 我想要的是打印命令基本上是“打印到软件”（如 Microsoft 打印到 pdf 命令）。并且软件应该将其分配到“虚拟 A4”上标签适合的位置，一旦设定的标签数量填满 A4（例如 10 个），它就会自动保存或一次打印出这 10 个标签。 我遇到了打印问题，然后将纸张放回打印机并每次调整下一次打印的位置。  请提供建议并给出解决方案。我只想要一个虚拟打印后台处理程序，它可以有效地按页分配打印    提交人    /u/ninjanish01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f4p96x/barcode_label_spooling_before_print/</guid>
-      <pubDate>Fri, 30 Aug 2024 07:22:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试从视频中提取字幕</title>
-      <link>https://www.reddit.com/r/software/comments/1f4p547/trying_to_extract_subtitles_from_video/</link>
-      <description><![CDATA[TL;DR：是否有一个程序可以读取视频字幕并将其输入到记事本中并带有时间戳？ 我想要做的是访问一个网站，启用一个程序，该程序将读取该网站上某个系列剧集的字幕，并将字幕输入 srt 格式（或任何类型的文本格式），最好带有时间戳，以便我可以编辑它。有这样的事吗？我通过下载剧集来观看更高质量的节目，并且不喜欢流媒体网站在角落里有像广告一样的徽标，所以基本上去这样的网站并提取他们的字幕就是我想要做的。提前感谢你们的支持    提交人    /u/Specialist-Vast4377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f4p547/trying_to_extract_subtitles_from_video/</guid>
-      <pubDate>Fri, 30 Aug 2024 07:14:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
