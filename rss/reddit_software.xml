@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 31 Aug 2024 18:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 21:01:47 GMT</lastBuildDate>
+    <item>
+      <title>DragWin，一种无需 Alt 或其他键即可轻松移动窗口的方法</title>
+      <link>https://www.reddit.com/r/software/comments/1f5vkfa/dragwin_an_easier_way_to_move_windows_around/</link>
+      <description><![CDATA[这是一个应用程序，可让您无需按住 Alt 或 Control即可移动窗口，并且不会影响右键单击。 功能：  右键单击移动窗口 从侧面和边缘调整窗口大小 滚动浏览您开始滚动的窗口后面的每个窗口（按住鼠标中键单击） 不影响全屏应用程序  链接：https://github.com/PinchToDebug/DragWin    提交人    /u/Reddit_Bazsi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f5vkfa/dragwin_an_easier_way_to_move_windows_around/</guid>
+      <pubDate>Sat, 31 Aug 2024 19:37:30 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么软件可以推荐来帮助我的业余项目组织想法、资源、管理和任务？</title>
       <link>https://www.reddit.com/r/software/comments/1f5pvel/any_recommendations_on_software_that_can_help/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有没有一种软件可以自动从成千上万张照片中挑选出最好看的照片？比如婚礼照片等。它不一定是免费软件    提交人    /u/Sanker_Janis   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f4z5qt/pictures_software/</guid>
       <pubDate>Fri, 30 Aug 2024 16:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notezilla 替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1f4ya4e/notezilla_alternative/</link>
-      <description><![CDATA[因此，我尝试寻找一些应用程序，可用于在本地网络上的计算机之间发送笔记（或者更确切地说是消息），这些笔记会在接收端自动弹出。我尝试过 cmd 的 msg 命令，但对我的团队来说太麻烦了。 有什么建议吗？    提交人    /u/YG_LS   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f4ya4e/notezilla_alternative/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:35:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
