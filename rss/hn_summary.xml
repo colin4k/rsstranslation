@@ -4,130 +4,112 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 31 Aug 2024 11:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 17:57:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：blocks.md</title>
-      <link>https://t.me/hn_summary/106356</link>
-      <description><![CDATA[显示 HN：Typeform 替代方案，将 Markdown 转换为表单
-标题：显示 HN：Typeform 替代方案，将 Markdown 转换为表单
-网站：blocks.md
+      <title>[媒体] 标题：Nvidia 近一半的收入来自四位神秘鲸鱼，每人购买价值超过 30 亿美元</title>
+      <link>https://t.me/hn_summary/106386</link>
+      <description><![CDATA[Nvidia 近一半的收入来自四位神秘的鲸鱼，每人购买 30 亿美元以上
+标题：Nvidia 近一半的收入来自四位神秘的鲸鱼，每人购买 30 亿美元以上
 
-Blocks.md 通过将 Markdown 转换为交互式表单，提供了一种独特的 Typeform 替代方案。用户可以创建包装  元素，内容位于 ::: 对内。此内容可以包括标题、段落、列表和表单字段，所有这些都通过 [...] 支持类名和属性。一个突出的功能是能够使用 {$...$ 将字段绑定到  元素，确保在字段值更改时自动重新呈现。该平台使用 Nunjucks 进行模板化，支持 if-else 语句、循环和过滤器。此外，单个字段可以绑定到  元素，以实现更简单的用例。这种创新方法简化了表单创建并增强了交互性。]]></description>
-      <guid>https://t.me/hn_summary/106356</guid>
-      <pubDate>Sat, 31 Aug 2024 11:59:46 GMT</pubDate>
+令人惊讶的是，Nvidia 披露，四位匿名客户共同贡献了其 300 亿美元收入的 46%，总额约为 138 亿美元。这些客户可能包括亚马逊、Meta、微软、Alphabet、OpenAI 或特斯拉等科技巨头，他们正在大力投资 Nvidia 的数据中心 AI 芯片。这种依赖性引发了人们对 Nvidia 快速增长可持续性的担忧，尤其是考虑到半导体行业兴衰周期的历史。值得注意的是，“客户 B”一人贡献的收入就超过了 Nvidia 整个游戏部门的收入。尽管首席执行官黄仁勋声称要实现多元化，但 Nvidia 的数据却表明情况并非如此。投资者对这种增长能否持续仍持怀疑态度。]]></description>
+      <guid>https://t.me/hn_summary/106386</guid>
+      <pubDate>Sat, 31 Aug 2024 17:57:50 GMT</pubDate>
     </item>
     <item>
-      <title>网站：passwordrequirementschecker.com</title>
-      <link>https://t.me/hn_summary/106355</link>
-      <description><![CDATA[显示 HN：我创建了一个扩展程序，用于在登录页面上向您提供密码要求
-标题：显示 HN：我创建了一个扩展程序，用于在登录页面上向您提供密码要求
-网站：passwordrequirementschecker.com
-
-密码要求检查器是一款方便的工具，旨在通过告知用户每个登录页面所需的特定密码标准（例如字符类型、小写、大写等）来消除猜测或重置密码的烦恼。此扩展旨在简化登录过程，确保用户可以快速准确地输入密码，而无需反复试验。该工具特别有用，因为大多数人要同时使用 5 到 10 个不同的密码，经常忘记每个网站的确切要求。
-
-在线试用：链接
-
-隐私政策：链接]]></description>
-      <guid>https://t.me/hn_summary/106355</guid>
-      <pubDate>Sat, 31 Aug 2024 11:41:35 GMT</pubDate>
+      <title>[媒体] 你能通过书架来判断科技兄弟吗？</title>
+      <link>https://t.me/hn_summary/106385</link>
+      <description><![CDATA[你能根据书架判断科技大佬吗？
+8 月，博主 Tanner Greer 向硅谷提出了一个有趣的问题：什么构成了“模糊的科技经典”？Stripe 联合创始人 Patrick Collison 回应道，列出了 43 本有影响力的书籍，包括艾萨克·阿西莫夫、理查德·道金斯和艾茵·兰德的作品。这份名单引发了争论，一些人，如马克·安德森，认为它是“励志的”，而另一些人则建议增加更多书名。值得注意的是，只有三位女性作家上榜，凸显了性别不平衡。Greer 将这些书分为五个主题，反映了“伟人”历史理论。为了获得更深入的见解，阿德里安·道布 (Adrian Daub) 的《科技如何称呼思考》批判了硅谷的思想基础，认为其中很大一部分是美德信号。]]></description>
+      <guid>https://t.me/hn_summary/106385</guid>
+      <pubDate>Sat, 31 Aug 2024 17:46:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.mrlacey.com</title>
-      <link>https://t.me/hn_summary/106354</link>
-      <description><![CDATA[您只添加了两行代码 - 为什么花了两天时间
-标题：您只添加了两行代码 - 为什么花了两天时间
-网站：www.mrlacey.com
-
-质疑看似简单的修复为何花费两天时间似乎是合理的，但这种假设是有缺陷的。代码行数并不等同于工作量、价值或平等。该问题的描述很模糊，需要数小时才能可靠地重现。与某些开发人员不同，我会尝试使用提供的信息，而不是立即要求提供更多详细信息。该错误出现在一个不熟悉的功能中，需要额外的时间来了解它。我调查了根本原因，而不仅仅是症状，并探索了问题可能出现的所有方式。我还检查了代码中其他地方的类似问题，并致力于将风险降至最低。彻底的测试确保问题在所有受影响的代码路径中得到解决。修复错误令人沮丧，但我确保它们得到完全解决，以避免重复修复。
-
-争议：对以信息不足为由避免修复错误的开发人员的批评可能会引起争议。
-令人惊讶/聪明：修复错误的详细、有条不紊的方法，强调彻底性和面向未来，既令人惊讶又值得称赞。]]></description>
-      <guid>https://t.me/hn_summary/106354</guid>
-      <pubDate>Sat, 31 Aug 2024 11:33:30 GMT</pubDate>
+      <title>[媒体] 在文章“我们可以拥有民主，也可以拥有 Facebook，但我们不能同时拥有两者”中 [...]</title>
+      <link>https://t.me/hn_summary/106384</link>
+      <description><![CDATA[我们可以拥有民主，也可以拥有 Facebook，但我们不能同时拥有两者（2020 年）
+在 the.ink 上的文章“我们可以拥有民主，也可以拥有 Facebook，但我们不能同时拥有两者”中，作者描述了与 Matt Stoller 讨论针对 Facebook 的重大反垄断案件的超现实体验，将其比作在第二次降临期间给教皇发短信。作者一直渴望与 Stoller 交谈，尤其是在被教皇拒绝采访之后。这篇文章提出了对 Facebook 对民主影响的批判性观点，暗示该平台的权力和做法从根本上与民主原则相悖。巧妙的比喻和作者坦率的语气为讨论增添了独特的气息。]]></description>
+      <guid>https://t.me/hn_summary/106384</guid>
+      <pubDate>Sat, 31 Aug 2024 17:39:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Wush 是一个命令行工具，旨在简单、快速地传输文件和访问 shell [...]</title>
-      <link>https://t.me/hn_summary/106353</link>
-      <description><![CDATA[Wush：通过 WireGuard 在计算机之间传输文件的最简单、最快捷的方式
-Wush 是一个命令行工具，旨在使用点对点 WireGuard 连接在计算机之间进行简单、快速的文件传输和 shell 访问。与 magic-wormhole 等类似工具不同，Wush 不需要中继服务器进行身份验证，而是利​​用 WireGuard 实现安全可靠的连接。它支持通过 UDP 进行自动点对点连接，可用于各种任务，例如 rsync 和 ssh。Wush 使用 Tailscale 的 tsnet 包，但不需要 Tailscale 帐户。它旨在通过避免速度慢和第三方服务器信任问题来克服现有工具的局限性，提供增强的功能。]]></description>
-      <guid>https://t.me/hn_summary/106353</guid>
-      <pubDate>Sat, 31 Aug 2024 11:32:26 GMT</pubDate>
+      <title>[媒体] 东京（美联社）——日本是一个如此热衷于工作的民族，甚至有专门术语来形容工作超过 [...]</title>
+      <link>https://t.me/hn_summary/106383</link>
+      <description><![CDATA[日本希望勤劳的公民尝试每周工作 4 天
+东京（美联社）——日本是一个如此致力于工作的国家，甚至有“过劳致死”的术语，该国正在鼓励转向每周工作 4 天以应对劳动力短缺问题。尽管自 2021 年以来政府一直提供支持，但采用速度缓慢，只有 8% 的公司每周提供三天或三天以上的休息时间。政府的“hatarakikata kaikaku”运动提倡灵活的工作安排，但采用率仍然很低。例如，在 63,000 名松下员工中，只有 150 人选择了四天工作制。批评人士认为，减少工作周通常会导致工作量相同但工资更低。然而，支持者认为，它可以帮助解决日本出生率下降的问题，改善工作与生活的平衡。
+
+争议：批评者声称，每周工作四天会导致工作量相同，但工资更低。
+
+独特见解：日本工作狂坚忍不拔的文化根深蒂固，这使得转向灵活的工作时间安排尤其具有挑战性。]]></description>
+      <guid>https://t.me/hn_summary/106383</guid>
+      <pubDate>Sat, 31 Aug 2024 17:37:35 GMT</pubDate>
     </item>
     <item>
-      <title>网站：jonathancarter.org</title>
-      <link>https://t.me/hn_summary/106352</link>
-      <description><![CDATA[在 Debian 中孤立 bcachefs-tools
-标题：在 Debian 中孤立 bcachefs-tools 
-网站：jonathancarter.org
-
-大约十年前，我对 bcache 感到非常兴奋，这是一个在 Linux 上引入了分层存储的 Linux 块缓存系统。当时，Linux 上的 ZFS 尚未开发，因此任何类似 ZFS 功能的进展都值得欢迎。快进到 2015 年，bcache 发展成为自己的文件系统 bcachefs，并承诺提供内置压缩、加密、校验和和 RAID 等功能。但是，它缺少 dkms 模块，这使得测试变得繁琐。到 2019 年，我为 Debian 打包了 bcachefs-tools，预计它会合并到 Linux 中。尽管最初取得了成功，但由于依赖关系不匹配，1.2 版中引入的 Rust 实用程序使问题变得复杂。Rust 团队放松依赖关系的方法让我感到不安，尽管它有效。在 Debian 稳定版中维护 bcachefs-tools 变得站不住脚，导致我将该软件包孤立起来。由于长期支持挑战，我建议任何考虑将 bcachefs 用于生产用途的人都要谨慎。
-
-争议：Rust 社区对放松依赖关系的信心以及上游开发人员对供应商依赖关系的坚持引发了维护 bcachefs-tools 的不适和挑战。]]></description>
-      <guid>https://t.me/hn_summary/106352</guid>
-      <pubDate>Sat, 31 Aug 2024 11:22:20 GMT</pubDate>
+      <title>[媒体] 1998 年，我开始了一份奇怪的工作，在安达信会计师事务所担任分析师，这家公司以 [...]</title>
+      <link>https://t.me/hn_summary/106382</link>
+      <description><![CDATA[我在 Y2K 准备工作中的虚假工作
+1998 年，我开始在安达信会计师事务所担任分析师，这是一份奇怪的工作，这家公司因后来卷入安然丑闻而臭名昭著。我的角色是一家全球广告集团的 Y2K 准备项目的一部分，但很快我就发现我的工作本质上是假的。安达信也在伪造，因为 Y2K 问题被夸大了，而且该公司更注重记录过去的努力，而不是解决未来的问题。20 世纪 90 年代末的劳动力市场紧张，即使是像我这样背景非同寻常的人也会被聘用。这项工作繁琐而超现实，涉及对数据输入进行无休止的质量保证检查，所有这些都在安达信神秘而专有的“流程”下进行。整个努力就像一个企业漏洞，由绝望和迫在眉睫但基本毫无根据的技术末日恐惧所驱动。（基于 32% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/106382</guid>
+      <pubDate>Sat, 31 Aug 2024 17:37:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我早期版本的 Fortran 语言条目中，我提到了“著名的” Fortr [...]</title>
-      <link>https://t.me/hn_summary/106351</link>
-      <description><![CDATA[Fortran Bug 都市传说
-在我 Fortran 语言条目的早期版本中，我提到了一个“众所周知的”Fortran Bug，据说它导致一艘航天器丢失。该 Bug 涉及一个未声明的变量，导致基于其首字母的隐式类型分配。这导致了臭名昭著的情况，即使用“DO I = 1.100”而不是“DO I = 1,100”，导致编译器误解。然而，1999 年 2 月 25 日，Brian Blank 告诉我这个故事实际上是一个都市传说。错误是在测试过程中发现的，拯救了火箭并揭穿了神话。这凸显了即使是被广泛接受的“事实”也可能具有误导性。 
-
-参考文献：Fortran 故事 - 真实内幕，计算机和相关系统对公众的风险论坛，第 9 卷第 54 期，ACM 计算机和公共政策委员会，1989 年。
-
-Brian Blank
-数学系
-圣路易斯华盛顿大学
-密苏里州圣路易斯 63130
-电子邮件：brian@math.wustl.edu
-http://ascc.artsci.wustl.edu/~bblank/]]></description>
-      <guid>https://t.me/hn_summary/106351</guid>
-      <pubDate>Sat, 31 Aug 2024 11:18:14 GMT</pubDate>
+      <title>[媒体] Equatic 正在率先推出一项商业规模的海洋二氧化碳去除 (CDR) 计划 [...]</title>
+      <link>https://t.me/hn_summary/106381</link>
+      <description><![CDATA[碳去除工厂吸收二氧化碳的速度是地球所有海洋的 99,000 倍
+Equatic 正在率先推出一种商业规模的海洋二氧化碳去除 (CDR) 工厂，该工厂吸收二氧化碳的速度是世界海洋的 99,000 倍。该工厂利用海水电解捕获二氧化碳并产生碳负氢。Equatic 的首席运营官 Edward Sanders 设想在全球范围内建立这样的工厂，每年能够去除数亿吨二氧化碳。然而，人们对破坏海洋生物和 CDR 技术高成本的担忧仍不确定。尽管 CDR 前景光明，但它无法取代减少排放和脱碳的努力。在我们推进 CDR 技术的过程中，平衡全球利益与本地风险至关重要。]]></description>
+      <guid>https://t.me/hn_summary/106381</guid>
+      <pubDate>Sat, 31 Aug 2024 17:30:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 亚历山大·格罗滕迪克：被遗忘的天才——还是孤独的疯子？</title>
-      <link>https://t.me/hn_summary/106350</link>
-      <description><![CDATA[亚历山大·格罗滕迪克：一位被遗忘的天才——还是一个孤独的疯子？
-亚历山大·格罗滕迪克是一位彻底改变了战后数学的数学天才，他晚年隐居在法国比利牛斯山。他出生于 1928 年，1939 年作为难民逃离德国，后来改变了几何、代数和拓扑等领域。尽管他做出了开创性的工作，但格罗滕迪克在 1970 年放弃了他的高水平职业生涯，抗议法国高等科学研究所的军事资助。他过着与世隔绝的生活，努力解决哲学和神秘问题，并于 2014 年去世。他后来的作品充满了深奥且常常是黑暗的沉思，仍然是人们好奇和争论的主题。他的遗产很复杂，融合了深刻的智力贡献和麻烦的个人生活。
-
-争议：格罗滕迪克要求用左轮手枪结束自己的生命，随后他的精神衰退引发了关于老年知识分子的治疗和支持的伦理问题。
-
-独特/聪明：他对数学的态度就像把核桃浸泡在水中而不是用锤子敲碎它，突出了他的哲学和直觉方法论。（基于 46% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106350</guid>
-      <pubDate>Sat, 31 Aug 2024 10:42:00 GMT</pubDate>
+      <title>[媒体] Aaron Greenspan 最近针对 Elon Musk 和特斯拉提起的诉讼披露了大量 [...]</title>
+      <link>https://t.me/hn_summary/106380</link>
+      <description><![CDATA[特斯拉档案揭露的会计欺诈比想象的还要多
+亚伦·格林斯潘最近针对埃隆·马斯克和特斯拉提起的诉讼揭露了该公司内部的大量会计欺诈行为，这些欺诈行为基于“特斯拉档案”中的内部数据。这份爆炸性报告是本周特斯拉周刊的核心，详述了众多旨在夸大特斯拉市值以触发马斯克 556 亿美元奖金的财务操纵行为。关键披露包括特斯拉欺骗性地将二手车销售记为新车、夸大交付量以及操纵全自动驾驶 (FSD) 收入。争议在于涉嫌故意欺诈以提高市值，让马斯克和特斯拉董事会受益。令人惊讶的是，特斯拉首席财务官对现金余额的含糊回应进一步加剧了人们对财务不当行为的怀疑。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/106380</guid>
+      <pubDate>Sat, 31 Aug 2024 17:20:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Google Cloud 的区域持久磁盘和超磁盘平衡高可用性提供 [...]</title>
-      <link>https://t.me/hn_summary/106349</link>
-      <description><![CDATA[Google Cloud：同步磁盘复制
-Google Cloud 的区域持久磁盘和 Hyperdisk 平衡高可用性为 Compute Engine 中的高可用性 (HA) 服务提供了强大的存储解决方案。这些存储选项可在同一区域的两个区域之间同步复制数据，即使在发生区域故障时也能确保数据的持久性和可用性。这些磁盘专为需要低恢复点目标 (RPO) 和恢复时间目标 (RTO) 的工作负载而设计，非常适合区域托管实例组。
-
-该文档概述了架构，包括数据复制的主要区域和次要区域，并详细说明了磁盘副本的状态 - 同步、追赶和不同步。它还涵盖了磁盘的复制状态（完全复制、追赶和降级），并提供了监控和管理这些状态的指导。
-
-一个独特的功能是副本恢复检查点，它允许从最近的崩溃一致点恢复数据。如果发生区域中断，故障转移机制（包括强制连接）通过将磁盘数据迁移到健康区域来确保继续运行。
-
-争议：该文档强调了两个磁盘副本同时不可用的潜在风险，这可能导致数据丢失，强调了维护快照以进行恢复的重要性。
-
-独特/巧妙：自动创建副本恢复检查点和在不到一分钟的时间内执行强制连接操作的能力是显着的功能，可增强 HA 解决方案的可靠性和效率。
-
-有关更多详细信息，包括限制和特定用例，请参阅 Google Cloud 网站上的完整文档。 （基于 96% 的故事文本摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106349</guid>
-      <pubDate>Sat, 31 Aug 2024 10:18:50 GMT</pubDate>
+      <title>[媒体] SLAC-斯坦福电池中心的科学家们发现了一种突破性的方法[...]</title>
+      <link>https://t.me/hn_summary/106379</link>
+      <description><![CDATA[科学家发现了一种让电池使用寿命更长的方法
+SLAC-斯坦福电池中心的科学家发现了一种将锂离子电池使用寿命延长 50% 的突破性方法。关键在于首次充电，当以异常高的电流进行充电时，不仅可以将初始充电时间从 10 小时缩短到仅 20 分钟，而且还能显著提高电池寿命。这种违反直觉的方法涉及在首次充电期间故意损失大量锂以在负极上形成保护层，从而随着时间的推移提高性能。这项研究由 Will Chueh 教授领导，涉及多个机构，可能会彻底改变电池制造，使智能手机和相机等电子产品更加耐用。这项研究的结果发表在《焦耳》杂志上，强调了该行业取得重大进步的潜力。]]></description>
+      <guid>https://t.me/hn_summary/106379</guid>
+      <pubDate>Sat, 31 Aug 2024 16:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欧盟聊天控制（ChatControl）再次提上议事日程，引发了严重的隐私问题。</title>
-      <link>https://t.me/hn_summary/106348</link>
-      <description><![CDATA[欧盟聊天控制重新提上日程
-欧盟聊天控制重新提上日程，引发了严重的隐私问题。该提案旨在监控私人通信以打击虐待儿童行为，但批评者认为它侵犯了基本权利。Digitalcourage 强调了大规模监视和侵犯隐私的可能性。争议在于平衡儿童保护与公民自由。这场辩论的独特之处在于使用先进的人工智能来扫描消息，一些人认为这是一种聪明但危险的越权行为。随着利益相关者权衡此类侵入性措施的影响，讨论仍在继续。]]></description>
-      <guid>https://t.me/hn_summary/106348</guid>
-      <pubDate>Sat, 31 Aug 2024 10:17:44 GMT</pubDate>
+      <title>[媒体] 网站：bombich.com</title>
+      <link>https://t.me/hn_summary/106378</link>
+      <description><![CDATA[文件复制奥运会：文件大小如何影响性能金牌的竞争
+标题：文件复制奥运会：文件大小如何影响性能金牌的竞争
+网站：bombich.com
+
+我最近评估了 Oyen 的新款 U34 Bolt，虽然它不会发出刺耳的声音或烧穿桌子，但它提供了令人印象深刻的 3.1GB/s 持续吞吐量，保持安静，温度只有一杯咖啡那么高。这让我开始探索为什么存储设备并不总是能达到峰值性能。 
+
+我们从不接受产品推荐的报酬；我们唯一的好处是使用我们软件的积极体验。
+
+性能可能受界面、设备、文件系统和软件的影响。例如，Thunderbolt 的 40Gb/s (5GB/s) 营销数字并未考虑编码开销。基于 NVMe 的存储更接近这一潜力，但性能差异很大。
+
+由于文件系统事务众多，复制较小的文件需要更长的时间。例如，复制 10GB 的 1GB 文件比复制 10GB 的 10KB 文件更快。高效的软件对于最大化硬件速度至关重要。
+
+我在 Apple Silicon (M1) MacBook Air 上使用各种文件复制应用程序测试了 U34 Bolt。CCC 是唯一一款能够维持 &gt;3GB/s 大文件速度的软件。较小的文件凸显了文件系统性能差异，CCC 再次胜过其他文件。
+
+Black Magic 速度测试适用于大文件，但不适用于小文件。对于备份，像 U34 Bolt 这样的更快的磁盘可以显著减少恢复时间，尤其是对于大文件。
+
+令人惊讶：U34 Bolt 的性能和温度管理。
+独特：文件复制应用程序的详细比较。
+巧妙：用尤塞恩·博尔特类比来解释文件复制中断。]]></description>
+      <guid>https://t.me/hn_summary/106378</guid>
+      <pubDate>Sat, 31 Aug 2024 16:28:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] PodSnap.AI 是一款创新工具，旨在提供自动 AI 生成的摘要 [...]</title>
-      <link>https://t.me/hn_summary/106347</link>
-      <description><![CDATA[显示 HN：PodSnap.AI – 自动为您喜爱的播客生成 AI 摘要
-PodSnap.AI 是一款创新工具，旨在为您喜爱的播客提供自动 AI 生成的摘要。通过利用先进的人工智能，PodSnap.AI 为用户提供了快速了解播客内容的便利，而无需收听整个剧集。该服务每月最多可生成 100 条精选播客摘要，对于那些想要随时了解最新信息但又时间紧迫的播客狂热听众来说，这是一种高效的解决方案。这种巧妙的 AI 技术应用不仅节省了时间，而且还通过从冗长的音频内容中提炼出关键点和见解来增强播客的消费体验。]]></description>
-      <guid>https://t.me/hn_summary/106347</guid>
-      <pubDate>Sat, 31 Aug 2024 09:36:30 GMT</pubDate>
+      <title>[媒体] 网站：vt.social</title>
+      <link>https://t.me/hn_summary/106377</link>
+      <description><![CDATA[Rust 解决了内核 Linux API 文档不完整的问题
+标题：Rust 解决了内核 Linux API 文档不完整的问题
+网站：vt.social
+
+在内核 Linux 开发领域，API 文档不完整一直是困扰开发人员的难题。Rust 凭借其强大而精确的文档功能，成为解决这一长期问题的方案。通过利用 Rust 的功能，开发人员现在可以享受更全面、更准确的 API 文档，从而简化开发流程并减少错误。这种转变不仅提高了生产力，而且还促进了更可靠、更安全的编码环境。在这种情况下采用 Rust 是一个改变游戏规则的举措，有望显著提高内核 Linux API 文档的质量和可访问性。]]></description>
+      <guid>https://t.me/hn_summary/106377</guid>
+      <pubDate>Sat, 31 Aug 2024 16:08:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

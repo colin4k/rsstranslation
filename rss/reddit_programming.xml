@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 31 Aug 2024 15:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 18:02:19 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 的诱惑之歌和听从它的初级开发人员</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5tcqp/the_siren_song_of_chatgpt_and_junior_devs_that/</link>
+      <description><![CDATA[  由    /u/Infobip  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5tcqp/the_siren_song_of_chatgpt_and_junior_devs_that/</guid>
+      <pubDate>Sat, 31 Aug 2024 17:59:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究表明，人工智能开发与敏捷开发并不相容</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5t2vb/ai_development_and_agile_dont_mix_well_study_shows/</link>
+      <description><![CDATA[  由    /u/civicode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5t2vb/ai_development_and_agile_dont_mix_well_study_shows/</guid>
+      <pubDate>Sat, 31 Aug 2024 17:47:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>一周内用 C 语言制作 3D 建模器</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5szuo/making_a_3d_modeler_in_c_in_a_week/</link>
+      <description><![CDATA[  由    /u/turtle_dragonfly  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5szuo/making_a_3d_modeler_in_c_in_a_week/</guid>
+      <pubDate>Sat, 31 Aug 2024 17:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了股票市场</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5szjf/i_made_a_stock_market/</link>
+      <description><![CDATA[我刚刚写了一篇开发日志，解释了如何用 Python 制作我自己的股票市场/股票游戏版本。如果你们能看看，我将不胜感激！    提交人    /u/Traditional_Flan5231   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5szjf/i_made_a_stock_market/</guid>
+      <pubDate>Sat, 31 Aug 2024 17:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unreal Engine 5 使用 WebAssembly 和 WebGPU 在浏览器中运行多线程 - 演示请见下面的评论！</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5sd49/unreal_engine_5_running_multithreaded_in_the/</link>
+      <description><![CDATA[  由    /u/astlouis44  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5sd49/unreal_engine_5_running_multithreaded_in_the/</guid>
+      <pubDate>Sat, 31 Aug 2024 17:15:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建了 acemate.ai——一个免费的 AI 学习平台，可将您的讲座幻灯片转变为交互式考试、思维导图等，已经受到 2000 多名学生的喜爱！</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5rgnj/we_built_acemateai_a_free_ai_learning_platform/</link>
+      <description><![CDATA[  由    /u/longdongcinnamon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5rgnj/we_built_acemateai_a_free_ai_learning_platform/</guid>
+      <pubDate>Sat, 31 Aug 2024 16:36:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么工程师应该关注所有权，而不仅仅是代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5r0l3/why_engineers_should_focus_on_ownership_not_just/</link>
+      <description><![CDATA[  由    /u/sidwyn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5r0l3/why_engineers_should_focus_on_ownership_not_just/</guid>
+      <pubDate>Sat, 31 Aug 2024 16:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 解决了内核 Linux API 文档不完整的问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1f5qbhv/rust_solves_the_problem_of_incomplete_kernel/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f5qbhv/rust_solves_the_problem_of_incomplete_kernel/</guid>
+      <pubDate>Sat, 31 Aug 2024 15:46:25 GMT</pubDate>
+    </item>
     <item>
       <title>有趣又荒诞的矢量数据库介绍 • Alexander Chatzizacharias</title>
       <link>https://www.reddit.com/r/programming/comments/1f5maql/a_fun_absurd_introduction_to_vector_databases/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f57nfb/essential_tips_to_become_a_successful_platform/</guid>
       <pubDate>Fri, 30 Aug 2024 22:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>单击即可设置 Nextjs 登陆页面</title>
-      <link>https://www.reddit.com/r/programming/comments/1f57eu2/setup_a_nextjs_landing_page_with_a_single_click/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f57eu2/setup_a_nextjs_landing_page_with_a_single_click/</guid>
-      <pubDate>Fri, 30 Aug 2024 21:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Python 抓取亚马逊动态网站数据</title>
-      <link>https://www.reddit.com/r/programming/comments/1f560eh/how_to_scrape_dynamic_website_amazon_with_python/</link>
-      <description><![CDATA[  由    /u/AccomplishedSea1424  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f560eh/how_to_scrape_dynamic_website_amazon_with_python/</guid>
-      <pubDate>Fri, 30 Aug 2024 20:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最常用的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1f5513m/most_used_programming_languages_2024/</link>
-      <description><![CDATA[  由    /u/bravehub  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f5513m/most_used_programming_languages_2024/</guid>
-      <pubDate>Fri, 30 Aug 2024 20:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>wush：在计算机之间传输文件的最简单、最快捷的方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1f54s2h/wush_simplest_fastest_way_to_transfer_files/</link>
-      <description><![CDATA[  由    /u/ammarbandukwala  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f54s2h/wush_simplest_fastest_way_to_transfer_files/</guid>
-      <pubDate>Fri, 30 Aug 2024 20:07:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的 http 代理。厌倦了不努力配置代理。也许它会有所帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1f54rmx/simple_http_proxy_tired_of_not_working_hard_to/</link>
-      <description><![CDATA[  由    /u/morglod  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f54rmx/simple_http_proxy_tired_of_not_working_hard_to/</guid>
-      <pubDate>Fri, 30 Aug 2024 20:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stonebraker 警告称，不要相信大型数据库的炒作</title>
-      <link>https://www.reddit.com/r/programming/comments/1f53655/dont_believe_the_big_database_hype_stonebraker/</link>
-      <description><![CDATA[  由    /u/turtle_dragonfly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f53655/dont_believe_the_big_database_hype_stonebraker/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管服务器设置基础知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1f514d9/server_setup_basics_for_self_hosting/</link>
-      <description><![CDATA[  由    /u/jrexbyird  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f514d9/server_setup_basics_for_self_hosting/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>smd 介绍：一个用于终端的极简 Markdown 渲染器，具有语法高亮、表情符号支持和图像渲染功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1f510re/introducing_smd_a_minimalistic_markdown_renderer/</link>
-      <description><![CDATA[  由    /u/AnIndependentFish  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f510re/introducing_smd_a_minimalistic_markdown_renderer/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:30:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
