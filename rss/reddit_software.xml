@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 00:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 03:07:32 GMT</lastBuildDate>
+    <item>
+      <title>使用便携软件真的能让系统更稳定吗？有人和我一样有这样的经历吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1f64c6w/is_it_true_using_portable_softwares_make_system/</link>
+      <description><![CDATA[这是我的个人经历，所以可能是确认偏差。自从我将大部分软件从安装版改为便携版（大约 2 年前）以来，感觉我的电脑更流畅，更稳定。 就我个人而言，我认为这是因为便携软件包含在我单独的 D 盘中的一个文件夹中。同时，对于安装的软件，我将它们安装在我的操作系统驱动器 - C 盘上，它们会生成很多文件夹、文件、注册表等... 这里有人有和我一样的经历吗？    提交人    /u/wsrvnar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f64c6w/is_it_true_using_portable_softwares_make_system/</guid>
+      <pubDate>Sun, 01 Sep 2024 02:46:34 GMT</pubDate>
+    </item>
     <item>
       <title>是否有任何程序允许我为某些程序映射按键？</title>
       <link>https://www.reddit.com/r/software/comments/1f5zrgw/are_there_any_programs_that_allow_me_to_map_keys/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我需要一个系统来高效管理我所经营的食品银行的客户队列。 主要功能  虚拟队列管理： 客户访问：客户可以通过移动应用程序、网站或现场信息亭加入队列。 数字票证：发行带有队列号的虚拟票证。  实时更新： 状态跟踪：客户可以看到他们在队列中的位置和预计等待时间。 通知：在轮到他们时通过短信、电子邮件或推送通知发送更新。  员工界面： 队列管理：允许工作人员管理队列、呼叫下一位顾客以及处理异常情况。 实时监控：工作人员可以查看当前队列状态和顾客详细信息。  显示屏： 可视队列信息：显示服务区中当前和即将到来的票号。      提交人    /u/Worldly_Turnip7042   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f50o61/queue_management_software/</guid>
       <pubDate>Fri, 30 Aug 2024 17:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 .csv 添加到 Google 联系人时出错</title>
-      <link>https://www.reddit.com/r/software/comments/1f50e05/error_while_adding_csv_to_google_contact/</link>
-      <description><![CDATA[我的朋友需要本地数据来将其添加到谷歌联系人中。很多 .csv 文件。但是当尝试添加到谷歌联系人时，每次都会出现问题。我不擅长 Excel。需要有 Excel 知识的人来指导。     提交人    /u/garry2london   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f50e05/error_while_adding_csv_to_google_contact/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:03:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

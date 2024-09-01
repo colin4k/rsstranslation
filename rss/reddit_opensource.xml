@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 00:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 03:07:46 GMT</lastBuildDate>
+    <item>
+      <title>FOSS 笔记应用程序，具有轻松的 Git 兼容性和超链接功能，适合笨蛋用户</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6464f/foss_note_taking_app_with_easy_git_compatibility/</link>
+      <description><![CDATA[目前正在使用 Obsidian，喜欢它的 Git 插件。我的笔记每分钟都会同步到我的仓库，不需要任何工作，也不需要 cmd。但我更喜欢开源和免费的东西。 我试过 Joplin，但我遇到的两个问题是笔记在数据库中，而不是单独的 .md 文件中，而且没有插件可以像 Obsidian 那样每分钟自动同步。 除了简单的 Git 兼容性和可能简化到其他笔记的超链接之外，我不太关心我的笔记的任何东西。除此之外，我愿意使用任何 FOSS。 有什么建议吗？    提交人    /u/_Ferns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6464f/foss_note_taking_app_with_easy_git_compatibility/</guid>
+      <pubDate>Sun, 01 Sep 2024 02:37:22 GMT</pubDate>
+    </item>
     <item>
       <title>重新制作 Windows Awesome 列表</title>
       <link>https://www.reddit.com/r/opensource/comments/1f61908/remake_of_windows_awesome_list/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/AdminSuggestion  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4s8l7/agevault_directory_encryption_tool_using_age_file/</guid>
       <pubDate>Fri, 30 Aug 2024 10:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 查看器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4r4w0/instagram_viewer/</link>
-      <description><![CDATA[还有吗？我知道它们过去曾被关闭过，但我想知道是否还有可以运行的？或者甚至是浏览器扩展程序或其他东西，让你可以在没有账户的情况下浏览公共 Instagram 账户。     提交人    /u/Total_Chemistry6568   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4r4w0/instagram_viewer/</guid>
-      <pubDate>Fri, 30 Aug 2024 09:38:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
