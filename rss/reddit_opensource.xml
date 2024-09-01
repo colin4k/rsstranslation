@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 06:02:09 GMT</lastBuildDate>
+    <item>
+      <title>DragWin，无需 Alt 或其他键即可移动窗口</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f67bpn/dragwin_move_windows_without_alt_or_other_keys/</link>
+      <description><![CDATA[这是一个应用程序，可让您无需按住 Alt 或 Control即可移动窗口，并且不会影响右键单击。 功能：  右键单击移动窗口 从侧面和边缘调整窗口大小 滚动浏览您开始滚动的窗口后面的每个窗口（按住鼠标中键单击） 不影响全屏应用程序  链接：https://github.com/PinchToDebug/DragWin    提交人    /u/Reddit_Bazsi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f67bpn/dragwin_move_windows_without_alt_or_other_keys/</guid>
+      <pubDate>Sun, 01 Sep 2024 05:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>FOSS 笔记应用程序，具有轻松的 Git 兼容性和超链接功能，适合笨蛋用户</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6464f/foss_note_taking_app_with_easy_git_compatibility/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿，我主要为 Windows 构建了一个剪贴板管理器，但它也支持 Linux。  原因很简单，我不喜欢默认的 Windows 剪贴板管理器，它没有搜索功能，它很滞后，它没有无限的历史记录等等。  所以我构建了 Qopy 来修复所有这些问题。 它仍处于早期开发阶段，我计划了许多功能。 https://github.com/0PandaDEV/Qopy    提交人    /u/PandaDEV_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4sfmz/the_fixed_clipboard_manager_for_windows/</guid>
       <pubDate>Fri, 30 Aug 2024 11:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>agevault - 使用 age 文件加密的目录加密工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4s8l7/agevault_directory_encryption_tool_using_age_file/</link>
-      <description><![CDATA[  由    /u/AdminSuggestion  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4s8l7/agevault_directory_encryption_tool_using_age_file/</guid>
-      <pubDate>Fri, 30 Aug 2024 10:50:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
