@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 15:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 18:01:57 GMT</lastBuildDate>
+    <item>
+      <title>LineupX，一款开源社交媒体网络应用，帮助游戏玩家了解阵容</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</link>
+      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的游戏玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找一个开源的 Flacbox 或者可以在 iPhone 或至少 Linux 上运行的东西。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6ibwl/i_am_looking_for_a_open_source_flacbox_or/</link>
+      <description><![CDATA[我正在寻找一款类似于 Flacbox 的应用，至少支持 flac、高分辨率，并且可以从我的驱动器或谷歌驱动器播放高分辨率音乐。谢谢     提交人    /u/Minconerold   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6ibwl/i_am_looking_for_a_open_source_flacbox_or/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:18:23 GMT</pubDate>
+    </item>
     <item>
       <title>寻找合作伙伴来打造围绕移动机器人的产品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6ff0e/searching_for_partners_to_build_products_around/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[📂🔍TRACE 是我为最后一年的项目开发的数字取证分析工具，设计有用于分析磁盘映像的用户友好界面。 💡 为什么尝试 TRACE？  简单：易于使用的界面。 VirusTotal API 集成：立即检查文件哈希中是否存在恶意软件。 跨平台：适用于 macOS、Linux 和 Windows。 * 映像安装（Windows）：轻松安装和探索取证磁盘映像。  🌟 特点：  映像安装🗂️️ EXIF 数据提取📷 * 注册表查看器🗂️ 文件雕刻 - 未完全集成🔪 E01 图像验证✅ 还有更多！  🔗 在 GitHub 上探索 TRACE：https://github.com/Gadzhovski/TRACE-Forensic-Toolkit/?abc    提交人    /u/ZealousidealBat9474   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4ws8c/introducing_trace_toolkit_for_retrieval_and/</guid>
       <pubDate>Fri, 30 Aug 2024 14:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Street Map 维护者 Bryan Housel 阐述地图绘制的特殊之处</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4ve6d/bryan_housel_maintainer_for_open_street_map_on/</link>
-      <description><![CDATA[       由    /u/rubiesordiamonds  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4ve6d/bryan_housel_maintainer_for_open_street_map_on/</guid>
-      <pubDate>Fri, 30 Aug 2024 13:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS 价值的缓慢蒸发</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4tw19/the_slow_evaporation_of_the_foss_value/</link>
-      <description><![CDATA[  由    /u/openmedianetwork  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4tw19/the_slow_evaporation_of_the_foss_value/</guid>
-      <pubDate>Fri, 30 Aug 2024 12:22:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 15:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 18:01:43 GMT</lastBuildDate>
+    <item>
+      <title>好奇/尝试开发一款没有 gafam 产品/代码的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1f6jrad/curiousattempt_to_develop_a_software_without/</link>
+      <description><![CDATA[我经常在 gafam 环境中工作（团队 GCP 等）。 出于好奇，我想尝试开发一款业余软件（某种监控工具，前端渲染网络，后端从基础设施获取健康检查）。 在这种情况下，我放弃了 vscode，因为我不喜欢 JB 商业模式，所以我安装了 neovim 并开始享受它。我使用 JS/Sigma.js 作为前端技术，使用 python 作为后端。 Neovim 是 foss，它很棒，不是 gafam，但您可能使用的 lsp 可能是由微软开发/维护的（例如没有 javascript vanilla lsp，因此您将使用 tsscript 语言服务器）。甚至 lsp 标准也是由 Microsoft 等开发的协议。大多数主流（从我有限的角度来看） js 框架来自 Google（angular）Meta（react）或 Microsoft（typescript）或它们的混合，例如用 TS 编写的 vue.js。 您是否知道社区/人正在寻找（有点像我）完全在没有 gafam 参与的情况下开发软件，即不使用由 gafam 直接开发的工具（例如 typescript）或使用他们开发的工具（如使用 LSP 的 IDE）的工具？或者你有这种软件的例子，你使用了什么技术和什么工具？ PS：如果我写的某些内容不准确，请原谅我，如果我错了，请纠正我。    提交人    /u/astryox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f6jrad/curiousattempt_to_develop_a_software_without/</guid>
+      <pubDate>Sun, 01 Sep 2024 17:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>理想软件的建议</title>
+      <link>https://www.reddit.com/r/software/comments/1f6j1yy/advice_on_ideal_software/</link>
+      <description><![CDATA[大家好，在此先向回复的各位表示感谢！我正在寻找一款或多款软件来完成以下任务：  抓取/收集与某些行业（如承包商和房地产经纪人）相关的人员的电子邮件。 一款管理群发电子邮件营销的软件（我知道 Mailchimp） 一款可以处理群发语音邮件分发的软件。  谢谢！    提交人    /u/goat_like__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f6j1yy/advice_on_ideal_software/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻量级截图工具/截图工具替代品正在更新吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1f6iywa/lightweight_screenshot_toolsnipping_tool/</link>
+      <description><![CDATA[更新 = 今年或去年收到 ShareX 不在考虑范围内，因为它的功能太多。它的许多功能已经在 Windows 或 PowerToys 中提供。 如果应用程序是开源的，则有奖励 +。    由   提交  /u/nvggmne   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f6iywa/lightweight_screenshot_toolsnipping_tool/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要软件来重命名多个文件</title>
+      <link>https://www.reddit.com/r/software/comments/1f6iksh/need_software_to_rename_multiple_files/</link>
+      <description><![CDATA[嗨。我需要一个软件来重命名我所有 iPhone 图像格式的图像，即 IMG_XXXX，其中 X 是随机数字。我使用的是 Windows 10。    提交人    /u/PeaSpirited3078   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f6iksh/need_software_to_rename_multiple_files/</guid>
+      <pubDate>Sun, 01 Sep 2024 16:29:00 GMT</pubDate>
+    </item>
     <item>
       <title>PC 上的 .mpg 到 .mp4 编码问题</title>
       <link>https://www.reddit.com/r/software/comments/1f6g3am/mpg_to_mp4_encoding_issue_on_pc/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/Thin_Teacher_Pro  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f5loft/i_made_black_screen_for_productivity/</guid>
       <pubDate>Sat, 31 Aug 2024 12:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似 Raycast 的东西（仅适用于某些功能）</title>
-      <link>https://www.reddit.com/r/software/comments/1f5kvgt/looking_for_something_like_raycastish_only_for/</link>
-      <description><![CDATA[嗨！ 首先，我想我的解决方案可能是更好地使用 Windows 的搜索菜单。但由于我使用多台 PC，我想知道是否有这样的工具。 不久前，我在 YouTube 视频中发现了 Raycast。我对它的一些功能非常感兴趣（即使不是全部，有些东西对我来说太多了），我开始寻找类似的东西（更适合我的需求）用于 Windows，但什么也没出现。 对于上下文，我正在寻找：  可以创建一组要运行的程序并在搜索一个单词时启动它们的工具。我要举一个愚蠢的例子，但例如输入“Doc”可以打开 Word + 快捷方式到您正在寻找特定资源的互联网页面 能够轻松搜索任何文件。我找不到文件夹中特定文件夹 (.exe) 中存储的任何工具。我想按类别和标签对它们进行分组。 允许快捷方式启动一些收藏夹，甚至显示这些收藏夹的东西。 Windows 显示屏中非常原生的东西？比如替换搜索菜单？  再举个例子，我正在使用 Playnite，它在这方面做得很好，但事实上它更面向游戏，特定于设置而不是真正的原生，这使得它不是 100% 可靠。 如果你有类似的东西（或者我在做梦），我真的很好奇。 谢谢！&lt;3    提交人    /u/Aligatueur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5kvgt/looking_for_something_like_raycastish_only_for/</guid>
-      <pubDate>Sat, 31 Aug 2024 11:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>良好、低调的 EXPLORER.EXE 替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1f5km23/good_low_profile_explorerexe_alternative/</link>
-      <description><![CDATA[我已经使用 Win 多年了，所以我不打算在近期换成 Linux。它的操作系统还不错，但有些功能很糟糕。例如，像 EXPLORER 或 SEARCH FUNCTION 这样的简单功能。 我不再使用 SEARCH FUNCTION - 我将其更改为 Everything（免费软件），它工作得更好。 现在是时候摆脱那个可恶的 EXPLORER 了 - 延迟混乱，有 50 多个文件时，它的延迟非常严重，我尝试过许多不同的方法来解决它，但没有成功。 TLDR：有人可以推荐 WIN10 Explorer 的好用且低调的替代品吗？我受够了那种延迟混乱，它有时会让我的工作时间延长 50%。我更喜欢简单的东西，没有很多功能，可以完美运行而没有任何延迟 - 只需基本功能：  浏览文件，可以查看其所有详细信息，如大小、类型、ID3v2 标签等 + 排序 复制、删除等 更改为图像视图  不需要历史记录，不需要任何会减慢速度或使其出现错误等的疯狂功能。    提交人    /u/SorrowlessMess   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5km23/good_low_profile_explorerexe_alternative/</guid>
-      <pubDate>Sat, 31 Aug 2024 10:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>opera gx 的最佳替代品是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1f5jexu/what_is_the_best_alternative_to_opera_gx/</link>
-      <description><![CDATA[  由    /u/WeaknessMaster410  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5jexu/what_is_the_best_alternative_to_opera_gx/</guid>
-      <pubDate>Sat, 31 Aug 2024 09:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>那个旧的百科全书应用程序叫什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1f5g5pc/whats_that_old_encyclopedia_app_called/</link>
-      <description><![CDATA[2000 年代/2010 年代，我还是孩子的时候，经常在 Windows 笔记本电脑上玩百科全书应用程序。它不是“大英百科全书”或“Encarta”，而是一个更奇怪/更便宜的版本。我相信用户界面由一个地球仪组成，你可以点击某些部分来阅读一些关于某只鸟的信息，例如播放它唱歌的音频片段。也许这是一个德国应用程序。我不确定。有人知道我在说什么吗？看到它会勾起很多回忆。提前谢谢！    提交人    /u/Flaky-Bank7010   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5g5pc/whats_that_old_encyclopedia_app_called/</guid>
-      <pubDate>Sat, 31 Aug 2024 05:40:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
