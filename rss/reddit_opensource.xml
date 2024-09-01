@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 31 Aug 2024 21:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:04:09 GMT</lastBuildDate>
+    <item>
+      <title>重新制作 Windows Awesome 列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f61908/remake_of_windows_awesome_list/</link>
+      <description><![CDATA[大家好，我开始重新制作 GitHub 上的 Awesome Windows 列表，因为原始列表已经 3 年没有更新了，而且所有者也没有兴趣维护它。 请看这里，我感谢每一颗星。 https://github.com/0PandaDEV/awesome-windows    提交人    /u/PandaDEV_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f61908/remake_of_windows_awesome_list/</guid>
+      <pubDate>Sun, 01 Sep 2024 00:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源平面图软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f5ysgo/open_source_floor_plan_software/</link>
+      <description><![CDATA[我想知道是否有任何 OS 软件可以创建平面图和房间测量等。    提交人    /u/corruptboomerang   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f5ysgo/open_source_floor_plan_software/</guid>
+      <pubDate>Sat, 31 Aug 2024 22:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助 - 如何改进 Github Repo（开源矢量数据库）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f5yhna/help_how_to_improve_github_repo_opensource_vector/</link>
+      <description><![CDATA[大家好， 我希望创建一个基于 C++ 的完整本地、快速且免费使用的矢量数据库。这是 repo： https://github.com/anirudlappathi/burdock 我正在寻找有关如何改进代码布局的意见。这是我创建它的初始版本，到目前为止它几乎没有优化。以下是有关 repo 布局的一些问题。  我应该如何布局文件结构？ 我没有遵循的 C++ 代码行业标准是什么？ 在开发过程中，有哪些方法可以改进代码库？  感谢您的帮助，如果您也可以留下一颗星就太好了！    提交人    /u/Ok-Woodpecker9665   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f5yhna/help_how_to_improve_github_repo_opensource_vector/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 Windows 的开源 YouTube 音乐客户端？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f5sg0b/open_source_youtube_music_client_for_windows/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[还有吗？我知道它们过去曾被关闭过，但我想知道是否还有可以运行的？或者甚至是浏览器扩展程序或其他东西，让你可以在没有账户的情况下浏览公共 Instagram 账户。     提交人    /u/Total_Chemistry6568   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4r4w0/instagram_viewer/</guid>
       <pubDate>Fri, 30 Aug 2024 09:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>将静态视频转变为交互式旅程的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4qmfj/opensource_tool_that_turns_static_videos_into/</link>
-      <description><![CDATA[大家好！我一直在研究一个开源项目，该项目将静态视频转换为交互式旅程，我很高兴与大家分享。 我可以想象出各种不同的用例。想想 Netflix Bandersnatch 和寓教于乐的东西。 到目前为止，最大的用户正在运行一个 24/7交互式购物频道。 您可以点击浏览更多详细信息，获取有关镜头内容的更多信息，甚至进行购买 - 所有这些都无需离开流。总而言之，感觉像是一种相当新颖的购物体验。 代码仍然很粗糙，尚未准备好投入生产，但它解决了一些复杂的挑战，例如实时流更新和定时元数据。我很乐意收到任何反馈，并在这里回答问题！ GitHub：https://github.com/james-a-rob/KodaStream 技术栈：TypeScript | FFmpeg | HLS    提交人    /u/james-r-90   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4qmfj/opensource_tool_that_turns_static_videos_into/</guid>
-      <pubDate>Fri, 30 Aug 2024 09:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试从视频中提取字幕</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4p83s/trying_to_extract_subtitles_from_video/</link>
-      <description><![CDATA[TL;DR：是否有一个程序可以读取视频字幕并将其输入到记事本中并带有时间戳？ 我想要做的是访问一个网站，启用一个程序，该程序将读取该网站上某个系列剧集的字幕，并将字幕输入 srt 格式（或任何类型的文本格式），最好带有时间戳，以便我可以编辑它。有这样的事吗？我通过下载剧集来观看更高质量的节目，并且不喜欢流媒体网站在角落里有像广告一样的徽标，所以基本上去这样的网站并提取他们的字幕就是我想要做的。提前感谢你们的支持    提交人    /u/Specialist-Vast4377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4p83s/trying_to_extract_subtitles_from_video/</guid>
-      <pubDate>Fri, 30 Aug 2024 07:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找高级样式 CSS 的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4owgf/finding_open_source_projects_for_advanced_styling/</link>
-      <description><![CDATA[我非常擅长使用 css（无论是普通 css、tailwind、material、scss 还是其他什么），但我不知道如何在现实世界中使用这项技能。 还有什么项目我可以做样式工作或者改进网站的整体设计系统吗？ 我想在 github 上做出贡献（因为我也想做出一些贡献）。 如果您知道任何项目或任何建议，请放弃    提交人    /u/TechArtist7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4owgf/finding_open_source_projects_for_advanced_styling/</guid>
-      <pubDate>Fri, 30 Aug 2024 06:58:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
