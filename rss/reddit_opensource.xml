@@ -4,11 +4,32 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 18:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 21:02:16 GMT</lastBuildDate>
+    <item>
+      <title>我在命名我的 GitHub 项目时是否需要担心版权问题？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6orin/do_i_need_to_worry_about_copyright_when_naming_my/</link>
+      <description><![CDATA[我想在 GitHub 上发布一个项目，只是一个我时不时开发的笔记应用程序。我需要担心项目名称中的版权问题吗？ 我目前不打算自己做太多版权方面的工作，我可能会在 MIT 或 GNU 许可下发布它，我会尝试想出一个原创的名字。如果最终有另一个应用程序或类似名称的东西，我是否会面临任何法律诉讼的风险？ 抱歉，我对版权不太了解 (。﹏。*)    提交人    /u/ever-ella77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6orin/do_i_need_to_worry_about_copyright_when_naming_my/</guid>
+      <pubDate>Sun, 01 Sep 2024 20:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>RemindAI - 你的人工智能记忆代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6o2ob/remindai_your_ai_memory_agent/</link>
+      <description><![CDATA[        提交人    /u/DonTizi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6o2ob/remindai_your_ai_memory_agent/</guid>
+      <pubDate>Sun, 01 Sep 2024 20:19:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Algora TV：开发者直播 — 1000 美元以上 Elixir 赏金！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6lz65/algora_tv_livestreaming_for_devs_1k_elixir/</link>
+      <description><![CDATA[存储库 • 网站 嗨，Reddit！从今年年初开始，我就一直致力于 Algora.TV，一个面向开发者的开源直播平台。 在过去的几个月里，Daniel Roe（Nuxt.com 维护者）、Chris Griffing、Andras Bacsai（Coolify.io 维护者）等开发者一直使用 Algora 直播他们的编码会议、办公时间、产品发布、播客等。 Algora TV 支持免费的多流传输到 Twitch、X、YouTube、自定义 RTMP，并汇总来自这些平台的实时评论。 我选择在 Elixir 中构建 Algora 出于以下几个原因：1) 作为个人开发人员，使用 Phoenix LiveView 带来的生产力提升是无与伦比的 2) OTP 对处理复杂的流媒体管道非常有帮助。多流、镜像聊天消息、捕获缩略图等操作随时都可能失败，而 OTP 可以更轻松地构建容错流程 3) BEAM 集群可以轻松地将系统分布在多个节点上，这有助于减少流媒体和观众之间的延迟。 作为项目的唯一维护者，我很乐意得到您的帮助来改进 Algora！如果您愿意做出贡献，我已经提出了一堆赏金来优先解决一些问题。 无论如何，如果您有任何反馈或只是好奇，我很乐意听取您的意见:)    提交人    /u/mgcrimhead   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6lz65/algora_tv_livestreaming_for_devs_1k_elixir/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:53:39 GMT</pubDate>
+    </item>
     <item>
       <title>LineupX，一款开源社交媒体网络应用，帮助游戏玩家了解阵容</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</link>
-      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的游戏玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</guid>
       <pubDate>Sun, 01 Sep 2024 17:11:20 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>DragWin，无需 Alt 或其他键即可移动窗口</title>
       <link>https://www.reddit.com/r/opensource/comments/1f67bpn/dragwin_move_windows_without_alt_or_other_keys/</link>
-      <description><![CDATA[这是一个应用程序，可让您无需按住 Alt 或 Control即可移动窗口，并且不会影响右键单击。 功能：  右键单击移动窗口 从侧面和边缘调整窗口大小 滚动浏览您开始滚动的窗口后面的每个窗口（按住鼠标中键单击） 不影响全屏应用程序  链接：https://github.com/PinchToDebug/DragWin    提交人    /u/Reddit_Bazsi   [链接] [评论]]]></description>
+      <description><![CDATA[这是一款适用于 Windows 的应用程序，可让您无需按住 Alt 或 Control即可移动窗口，并且不会影响右键单击。 功能：  右键单击移动窗口 从侧面和边缘调整窗口大小 滚动浏览您开始滚动的窗口后面的每个窗口（按住鼠标中键单击） 不影响全屏应用程序  链接：https://github.com/PinchToDebug/DragWin    提交人    /u/Reddit_Bazsi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f67bpn/dragwin_move_windows_without_alt_or_other_keys/</guid>
       <pubDate>Sun, 01 Sep 2024 05:45:12 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在编写 Puppet 的开源替代方案。我需要管理用户、Authn/Authz 和 API 令牌。您会推荐什么来管理这些？我可以自己动手，但我想知道是否有人有建议？    提交人    /u/fluffy-samurai   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f536kt/how_to_handle_users_and_auth_in_an_open_source/</guid>
       <pubDate>Fri, 30 Aug 2024 19:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>smd 介绍：适用于终端的简单 Markdown 查看器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f513dy/introducing_smd_a_simple_markdown_viewer_for_your/</link>
-      <description><![CDATA[        提交人    /u/AnIndependentFish   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f513dy/introducing_smd_a_simple_markdown_viewer_for_your/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>感谢 /r/opensource！我的开源活动管理和票务应用程序现在处于测试阶段 🎊</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4xoxp/thanks_ropensource_my_opensource_event_management/</link>
-      <description><![CDATA[嗨 r/opensource 👋 几个月前，我分享了 Hi.Events，这是我一直在开发的一个活动票务应用程序。今天，我很高兴地宣布 Hi.Events 正式进入测试阶段！ 🚀 感谢所有支持初始帖子、报告错误和分享反馈的人。 您可以在 GitHub repo 上查看所有新功能和改进。 谢谢 😁    提交人    /u/Caseyrover   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4xoxp/thanks_ropensource_my_opensource_event_management/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:11:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>TRACE 简介：网络证据检索和分析工具包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4ws8c/introducing_trace_toolkit_for_retrieval_and/</link>
-      <description><![CDATA[📂🔍TRACE 是我为最后一年的项目开发的数字取证分析工具，设计有用于分析磁盘映像的用户友好界面。 💡 为什么尝试 TRACE？  简单：易于使用的界面。 VirusTotal API 集成：立即检查文件哈希中是否存在恶意软件。 跨平台：适用于 macOS、Linux 和 Windows。 * 映像安装（Windows）：轻松安装和探索取证磁盘映像。  🌟 特点：  映像安装🗂️️ EXIF 数据提取📷 * 注册表查看器🗂️ 文件雕刻 - 未完全集成🔪 E01 图像验证✅ 还有更多！  🔗 在 GitHub 上探索 TRACE：https://github.com/Gadzhovski/TRACE-Forensic-Toolkit/?abc    提交人    /u/ZealousidealBat9474   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4ws8c/introducing_trace_toolkit_for_retrieval_and/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:34:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
