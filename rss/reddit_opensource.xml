@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 06:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 09:02:20 GMT</lastBuildDate>
+    <item>
+      <title>mpvKt 是一款基于 mpv-android 的 Android 新型开源媒体播放器，旨在提供比原版更出色的用户界面，使用 Jetpack Compose 构建。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f69pov/mpvkt_is_a_new_open_source_media_player_for/</link>
+      <description><![CDATA[        提交人    /u/foundfootagefan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f69pov/mpvkt_is_a_new_open_source_media_player_for/</guid>
+      <pubDate>Sun, 01 Sep 2024 08:32:47 GMT</pubDate>
+    </item>
     <item>
       <title>DragWin，无需 Alt 或其他键即可移动窗口</title>
       <link>https://www.reddit.com/r/opensource/comments/1f67bpn/dragwin_move_windows_without_alt_or_other_keys/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[目前正在使用 Obsidian，喜欢它的 Git 插件。我的笔记每分钟都会同步到我的仓库，不需要任何工作，也不需要 cmd。但我更喜欢开源和免费的东西。 我试过 Joplin，但我遇到的两个问题是笔记在数据库中，而不是单独的 .md 文件中，而且没有插件可以像 Obsidian 那样每分钟自动同步。 除了简单的 Git 兼容性和可能简化到其他笔记的超链接之外，我不太关心我的笔记的任何东西。除此之外，我愿意使用任何 FOSS。 有什么建议吗？    提交人    /u/_Ferns   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6464f/foss_note_taking_app_with_easy_git_compatibility/</guid>
       <pubDate>Sun, 01 Sep 2024 02:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新制作 Windows Awesome 列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f61908/remake_of_windows_awesome_list/</link>
-      <description><![CDATA[大家好，我开始重新制作 GitHub 上的 Awesome Windows 列表，因为原始列表已经 3 年没有更新了，而且所有者也没有兴趣维护它。 请看这里，我感谢每一颗星。 https://github.com/0PandaDEV/awesome-windows    提交人    /u/PandaDEV_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f61908/remake_of_windows_awesome_list/</guid>
-      <pubDate>Sun, 01 Sep 2024 00:02:17 GMT</pubDate>
     </item>
     <item>
       <title>开源平面图软件？</title>
@@ -139,11 +139,11 @@
       <pubDate>Fri, 30 Aug 2024 11:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Windows 的修复剪贴板管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4sfmz/the_fixed_clipboard_manager_for_windows/</link>
-      <description><![CDATA[嘿，我主要为 Windows 构建了一个剪贴板管理器，但它也支持 Linux。  原因很简单，我不喜欢默认的 Windows 剪贴板管理器，它没有搜索功能，它很滞后，它没有无限的历史记录等等。  所以我构建了 Qopy 来修复所有这些问题。 它仍处于早期开发阶段，我计划了许多功能。 https://github.com/0PandaDEV/Qopy    提交人    /u/PandaDEV_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4sfmz/the_fixed_clipboard_manager_for_windows/</guid>
-      <pubDate>Fri, 30 Aug 2024 11:02:08 GMT</pubDate>
+      <title>agevault - 使用 age 文件加密的目录加密工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4s8l7/agevault_directory_encryption_tool_using_age_file/</link>
+      <description><![CDATA[  由    /u/AdminSuggestion  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4s8l7/agevault_directory_encryption_tool_using_age_file/</guid>
+      <pubDate>Fri, 30 Aug 2024 10:50:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
