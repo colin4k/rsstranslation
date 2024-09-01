@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 12:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 15:01:56 GMT</lastBuildDate>
+    <item>
+      <title>寻找合作伙伴来打造围绕移动机器人的产品。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6ff0e/searching_for_partners_to_build_products_around/</link>
+      <description><![CDATA[  由    /u/shandy_bhaiya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6ff0e/searching_for_partners_to_build_products_around/</guid>
+      <pubDate>Sun, 01 Sep 2024 14:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为非技术用户，靠欧洲的开源技术谋生。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6fdv0/make_a_living_out_of_opensource_in_europe_as_a/</link>
+      <description><![CDATA[我想知道像我这样的非技术人员（没有计算机科学学位的修补匠）是否真的可以进入该领域。我正在认真考虑申请桌面支持角色或类似职位，但我想确保自己先接受扎实的培训（也许在明年离开我目前乏味的办公室工作之前）。 我对开源工具充满热情，并希望从事一份能够帮助他人充分利用这些解决方案的职业。我已经使用各种开源工具有一段时间了，我认为这对我来说是完美的选择。关于哪些公司或职位可以帮助我实现这些目标，您有什么建议吗？ 谢谢！    提交人    /u/psomifilo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6fdv0/make_a_living_out_of_opensource_in_europe_as_a/</guid>
+      <pubDate>Sun, 01 Sep 2024 14:11:58 GMT</pubDate>
+    </item>
     <item>
       <title>Scribo - 一个简单、高效、内容优先的静态站点生成器（SSG）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6c1pg/scribo_a_simple_efficient_and_contentfirst_static/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/openmedianetwork  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4tw19/the_slow_evaporation_of_the_foss_value/</guid>
       <pubDate>Fri, 30 Aug 2024 12:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moviez——一个简单的 macOS 应用程序，用于管理电影、电视节目等的观看列表。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4t59h/moviez_a_simple_macos_application_to_manage_watch/</link>
-      <description><![CDATA[        由    /u/Sensitive_Plenty2649   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4t59h/moviez_a_simple_macos_application_to_manage_watch/</guid>
-      <pubDate>Fri, 30 Aug 2024 11:43:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个开源股票分析平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4skv5/i_made_an_open_source_stock_analysis_platform/</link>
-      <description><![CDATA[大家好， 在过去的两年里，我一直在致力于我的开源项目 stocknear。我们的想法是获取尽可能多的数据并简化它以了解市场走向。 目前我的平台支持以下功能：  Wallstreetbets 追踪器 Jim Cramer 追踪器 散户投资者追踪器（通过纳斯达克交易所） 企业游说 卖空最多的股票 实时期权流阅读器 股息、收益、拆分和经济日历 股票筛选器 社区页面 华尔街分析师、国会和对冲基金数据库 机器学习寻找趋势 长达 30 年的财务历史  您可以在此处查看 repo：https://github.com/stocknear 现场演示：https://stocknear.com 如果您有任何反馈或疑问，请告诉我。    提交人    /u/realstocknear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4skv5/i_made_an_open_source_stock_analysis_platform/</guid>
-      <pubDate>Fri, 30 Aug 2024 11:10:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
