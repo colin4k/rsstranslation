@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Sep 2024 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 18:02:20 GMT</lastBuildDate>
+    <item>
+      <title>Linux 在 Statcounter 上打破了 2024 年 8 月的另一项市场份额记录</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7cawb/linux_smashes_another_market_share_record_for/</link>
+      <description><![CDATA[        由    /u/testus_maximus  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7cawb/linux_smashes_another_market_share_record_for/</guid>
+      <pubDate>Mon, 02 Sep 2024 17:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 .NET 库：ZoneTree.FullTextSearch - 高性能全文搜索引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7ca80/new_net_library_zonetreefulltextsearch/</link>
+      <description><![CDATA[  由    /u/CallSoft6324  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7ca80/new_net_library_zonetreefulltextsearch/</guid>
+      <pubDate>Mon, 02 Sep 2024 17:18:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>一名正在寻找可以贡献的项目的技术作家</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7a8fj/a_technical_writer_looking_for_projects_to/</link>
+      <description><![CDATA[嗨， 我是一名转行做技术作家的机械工程师。我曾为 Liquid Web、Klaviyo 和 Klaviyo 等品牌撰写过用户指南、知识库文章和技术白皮书。 现在，我希望更多地转向后端 API 文档、用户指南和入门教程。 我正在尝试为自己建立一个投资组合，所以我想知道我是否可以为一些开源项目做出贡献。 语言专业知识：Python（中级）、HTML（初学者）、CSS（初学者）和 C（语法）。 如果我可以帮助你们中的任何人编写文档，请告诉我。    提交人    /u/Cool_Cloud_8215   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7a8fj/a_technical_writer_looking_for_projects_to/</guid>
+      <pubDate>Mon, 02 Sep 2024 15:56:11 GMT</pubDate>
+    </item>
     <item>
       <title>ChessLock - 允许你使用棋步作为密码的扩展程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1f77d71/chesslock_extension_that_allows_you_to_use_chess/</link>
@@ -71,7 +92,7 @@
     <item>
       <title>LineupX，一款开源社交媒体网络应用，帮助游戏玩家了解阵容</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</link>
-      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的游戏玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</guid>
       <pubDate>Sun, 01 Sep 2024 17:11:20 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[目前正在使用 Obsidian，喜欢它的 Git 插件。我的笔记每分钟都会同步到我的仓库，不需要任何工作，也不需要 cmd。但我更喜欢开源和免费的东西。 我试过 Joplin，但我遇到的两个问题是笔记在数据库中，而不是单独的 .md 文件中，而且没有插件可以像 Obsidian 那样每分钟自动同步。 除了简单的 Git 兼容性和可能简化到其他笔记的超链接之外，我不太关心我的笔记的任何东西。除此之外，我愿意使用任何 FOSS。 有什么建议吗？    提交人    /u/_Ferns   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6464f/foss_note_taking_app_with_easy_git_compatibility/</guid>
       <pubDate>Sun, 01 Sep 2024 02:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源平面图软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f5ysgo/open_source_floor_plan_software/</link>
-      <description><![CDATA[我想知道是否有任何 OS 软件可以创建平面图和房间测量等。    提交人    /u/corruptboomerang   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f5ysgo/open_source_floor_plan_software/</guid>
-      <pubDate>Sat, 31 Aug 2024 22:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的开源 YouTube 音乐客户端？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f5sg0b/open_source_youtube_music_client_for_windows/</link>
-      <description><![CDATA[是否有适用于 Windows 的 YouTube 音乐客户端？YouTube 音乐网站速度太慢，无法使用。    提交者    /u/Main_Worth_7606   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f5sg0b/open_source_youtube_music_client_for_windows/</guid>
-      <pubDate>Sat, 31 Aug 2024 17:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>use-magic-grid：magic-grid 库的官方 React 端口</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f5ipii/usemagicgrid_official_react_port_of_the_magicgrid/</link>
-      <description><![CDATA[几年前，我创建了 magic-grid，作为一种设置 pinterest 风格网格布局的超级简单方法。该库是用纯 js 编写的，没有任何依赖项，但从那时起，React 变得越来越流行，我看到人们努力制作该库的 react 版本，并取得不同程度的成功。  use-magic-grid 是 magic-grid 的一个漂亮端口，它通过钩子提供了原始库的所有功能和简单性。尝试一下，如果发现错误，请打开问题。尽情享受吧！    提交人    /u/e-oj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f5ipii/usemagicgrid_official_react_port_of_the_magicgrid/</guid>
-      <pubDate>Sat, 31 Aug 2024 08:40:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

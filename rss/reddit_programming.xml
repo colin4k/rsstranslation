@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 02 Sep 2024 15:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 18:02:13 GMT</lastBuildDate>
+    <item>
+      <title>忘记 Pip、Poetry 和 Virtualenv：这个由 Rust 提供支持的工具是唯一一款您将使用的 Python 包管理器……</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7cq8d/forget_pip_poetry_virtualenv_this_rustpowered/</link>
+      <description><![CDATA[  由    /u/TheDeadlyPretzel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7cq8d/forget_pip_poetry_virtualenv_this_rustpowered/</guid>
+      <pubDate>Mon, 02 Sep 2024 17:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>倦怠和远程工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7cfmx/burnout_and_remote_work/</link>
+      <description><![CDATA[前几天我浏览了这个话题，发现自己开始讨厌接下来 30 年每周坐 40 小时以上并修修补补的想法。我想我曾经更喜欢它，或者至少能更好地忍受它。 我的职位很棒，家人和朋友肯定会帮助我换工作并在下班后获得一些多巴胺。但远程工作似乎成了我日常生活的基石。另一方面，我看到那些永远不会去办公室的人，似乎像我从未有过的那样享受着他们的日常生活。这让我很沮丧。无论出于什么原因，真正花费这么多时间和精力来开发东西的整个想法开始让我感到沮丧。我开始觉得我之所以能得到报酬（或者为什么这份工作很难）是因为它需要很多孤独的问题解决。  对于远程工作或目前正在从事基本上 0 人际互动项目的人们和工程师来说，您如何享受生活？您真的会承认 5 年坐在桌子后面喝茶、不说一句话似乎是一个令人愉快的想法吗？（极端的例子，但我认为这里有必要夸大一下，以强调我们所有人都有的神经偏差） 提前谢谢您    提交人    /u/Own_Opportunity7475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7cfmx/burnout_and_remote_work/</guid>
+      <pubDate>Mon, 02 Sep 2024 17:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>模数排序：以线性时间对整数数组进行排序，而不必担心数据的分布</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7bo5a/modulosort_sorting_integer_arrays_in_linear_time/</link>
+      <description><![CDATA[  由    /u/AlgoWithNoRhythm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7bo5a/modulosort_sorting_integer_arrays_in_linear_time/</guid>
+      <pubDate>Mon, 02 Sep 2024 16:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过打造工艺和精通来解锁无与伦比的产品团队自主权</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7ayaf/how_i_unlock_unmatched_product_team_autonomy_by/</link>
+      <description><![CDATA[  由    /u/ToddLankford  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7ayaf/how_i_unlock_unmatched_product_team_autonomy_by/</guid>
+      <pubDate>Mon, 02 Sep 2024 16:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>NES 控制器的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1f79mcb/how_the_nes_controller_works/</link>
+      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f79mcb/how_the_nes_controller_works/</guid>
+      <pubDate>Mon, 02 Sep 2024 15:30:53 GMT</pubDate>
+    </item>
     <item>
       <title>在浏览器中使用 C# 和 WebAssembly</title>
       <link>https://www.reddit.com/r/programming/comments/1f78hh1/using_c_in_browser_using_webassembly/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f6wxoa/the_webs_clipboard_and_how_it_stores_data_of/</guid>
       <pubDate>Mon, 02 Sep 2024 03:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：文摘 #31</title>
-      <link>https://www.reddit.com/r/programming/comments/1f6s6p3/engineering_with_java_digest_31/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f6s6p3/engineering_with_java_digest_31/</guid>
-      <pubDate>Sun, 01 Sep 2024 23:21:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何仅使用 8GB RAM 实现出色的编码能力</title>
-      <link>https://www.reddit.com/r/programming/comments/1f6r6kd/how_to_excel_in_coding_with_just_8gb_of_ram/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f6r6kd/how_to_excel_in_coding_with_just_8gb_of_ram/</guid>
-      <pubDate>Sun, 01 Sep 2024 22:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们需要可视化编程。不，不是那样的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1f6p2dl/we_need_visual_programming_no_not_like_that/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f6p2dl/we_need_visual_programming_no_not_like_that/</guid>
-      <pubDate>Sun, 01 Sep 2024 21:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github-dlr：从 Github 递归下载单个文件和文件夹。</title>
-      <link>https://www.reddit.com/r/programming/comments/1f6ow68/githubdlr_download_individual_files_and_folders/</link>
-      <description><![CDATA[  由    /u/rocktim20  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f6ow68/githubdlr_download_individual_files_and_folders/</guid>
-      <pubDate>Sun, 01 Sep 2024 20:53:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Node JS 和 Express 创建自己的 URL 缩短器</title>
-      <link>https://www.reddit.com/r/programming/comments/1f6mdd4/create_your_own_url_shortener_using_node_js_and/</link>
-      <description><![CDATA[  由    /u/Heavy_Fly_4976  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f6mdd4/create_your_own_url_shortener_using_node_js_and/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:10:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
