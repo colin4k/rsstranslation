@@ -4,18 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Sep 2024 06:02:16 GMT</lastBuildDate>
-    <item>
-      <title>立即访问 AI 网站？试试这款 Chrome 侧面板扩展程序吧！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f6y80i/instant_access_to_ai_sites_try_this_chrome_side/</link>
-      <description><![CDATA[大家好！ 今天，我每次都无聊地访问流行的 AI 网站来做简单的事情，而且切换需要时间，因此我创建了一个扩展程序。 我认为你会发现它非常有用。AI 侧面板扩展程序为 chrome 添加了侧面板，可快速轻松地访问流行的 AI 网站。 功能：  侧面板访问：只需单击一下即可访问您最喜爱的 AI 工具。 轻松切换：使用扩展图标或 ALT + Q 快捷方式显示或隐藏面板。 无缝工作流程：将 AI 工具顺利集成到您的浏览体验中。  如果您希望提高工作效率并让 AI 工具更易于访问，请查看它！  🔗 https://github.com/creosB/AI-Side-Panel-Extension 请告诉我您的想法或任何反馈！    提交人    /u/baris0631   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f6y80i/instant_access_to_ai_sites_try_this_chrome_side/</guid>
-      <pubDate>Mon, 02 Sep 2024 04:38:57 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Sep 2024 09:02:31 GMT</lastBuildDate>
     <item>
       <title>我们应该更新开源许可证吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6x05b/should_we_update_open_source_licences/</link>
-      <description><![CDATA[通常在开源许可证中，问题在于在商业产品中重用代码的自由。但是，我们现在应该谈论使用源代码来训练人工智能模型吗？在开发人员之间共享源代码是一个好主意，但是使用这些代码库来训练人工智能并最终取代开发人员对我来说是无稽之谈。     提交人    /u/RB91400   [link] [评论]]]></description>
+      <description><![CDATA[通常在开源许可中，问题在于在商业产品中重用代码的自由。但是，我们现在应该谈论使用源代码来训练人工智能模型吗？在开发人员之间共享源代码是一个好主意，但是使用这些代码库来训练人工智能并最终取代开发人员对我来说是无稽之谈。     提交人    /u/RB91400   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6x05b/should_we_update_open_source_licences/</guid>
       <pubDate>Mon, 02 Sep 2024 03:29:47 GMT</pubDate>
     </item>
@@ -78,7 +71,7 @@
     <item>
       <title>我正在寻找一个开源的 Flacbox 或者可以在 iPhone 或至少 Linux 上运行的东西。</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6ibwl/i_am_looking_for_a_open_source_flacbox_or/</link>
-      <description><![CDATA[我正在寻找一款类似于 Flacbox 的应用，至少支持 flac、高分辨率，并且可以从我的驱动器或谷歌驱动器播放高分辨率音乐。谢谢     提交人    /u/Minconerold   [link] [comments]]]></description>
+      <description><![CDATA[我正在寻找一款类似于 Flacbox 的应用，该应用至少支持 flac、高分辨率，并且可以从我的驱动器或谷歌驱动器流式传输高分辨率音乐。谢谢     由   提交  /u/Minconerold   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6ibwl/i_am_looking_for_a_open_source_flacbox_or/</guid>
       <pubDate>Sun, 01 Sep 2024 16:18:23 GMT</pubDate>
     </item>
@@ -144,6 +137,13 @@
       <description><![CDATA[几年前，我创建了 magic-grid，作为一种设置 pinterest 风格网格布局的超级简单方法。该库是用纯 js 编写的，没有任何依赖项，但从那时起，React 变得越来越流行，我看到人们努力制作该库的 react 版本，并取得不同程度的成功。  use-magic-grid 是 magic-grid 的一个漂亮端口，它通过钩子提供了原始库的所有功能和简单性。尝试一下，如果发现错误，请打开问题。尽情享受吧！    提交人    /u/e-oj   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f5ipii/usemagicgrid_official_react_port_of_the_magicgrid/</guid>
       <pubDate>Sat, 31 Aug 2024 08:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 OpenHabitTracker - FOSS 和注重隐私的习惯追踪器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f5igrd/i_created_openhabittracker_foss_and/</link>
+      <description><![CDATA[大家好， 我想分享一个我一直在做的项目，叫做 OpenHabitTracker。这是一个简单的、注重隐私的习惯追踪器，在努力寻找一个不依赖云存储或包含广告的工具后，我决定构建它。 项目详情：  开源：代码可在 GitHub 上获得。欢迎贡献和反馈。GitHub 存储库 免费且无广告：无需任何费用或广告。 隐私：所有用户数据都本地存储在设备上。不涉及云同步。 跨平台：该应用程序可在 Windows、Linux、macOS、iOS、Android 和 Web 应用程序上使用。  特点：  支持 Markdown 笔记。 允许对任务和习惯进行分类和优先排序。 提供高级搜索、过滤和排序。 支持 JSON、YAML、TSV、Markdown 等格式的数据导出/导入。 可以从 Google Keep 导入笔记。 包含 26 个具有深色和浅色模式的主题。  该项目使用 .NET、MAUI 和 Blazor 等技术。我特别想听听开源社区其他人对您可能发现哪些功能有用的意见或任何改进建议。 感谢您花时间阅读本文。我很乐意回答任何问题或听取您的任何建议。    提交人    /u/Jinjinov   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f5igrd/i_created_openhabittracker_foss_and/</guid>
+      <pubDate>Sat, 31 Aug 2024 08:22:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

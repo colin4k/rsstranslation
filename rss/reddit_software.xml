@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 06:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 09:02:14 GMT</lastBuildDate>
+    <item>
+      <title>[Win/And] 寻找软件来同步桌面和手机之间的音频播放位置</title>
+      <link>https://www.reddit.com/r/software/comments/1f70prh/winand_looking_for_software_to_sync_audio/</link>
+      <description><![CDATA[我的笔记本电脑和手机上都有相同的有声读物。如果我在笔记本电脑上在 1:45:36 处暂停，我希望手机上自动从该点继续播放，反之亦然。 我并不想将 文件 托管在我的网络上，因为我经常会将手机带出网络（和数据，消除了流媒体的可能性）范围，只是最后一个已知位置。我也无法只在手机上收听它，因为我还需要听到笔记本电脑的声音，因此切换功能是必要的。 谢谢    提交人    /u/SundownShiningIn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f70prh/winand_looking_for_software_to_sync_audio/</guid>
+      <pubDate>Mon, 02 Sep 2024 07:18:23 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有基本功能的 PDF 软件建议</title>
       <link>https://www.reddit.com/r/software/comments/1f6zh3j/looking_for_pdf_software_suggestion_with/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[这是一个应用程序，可让您无需按住 Alt 或 Control即可移动窗口，并且不会影响右键单击。 功能：  右键单击移动窗口 从侧面和边缘调整窗口大小 滚动浏览您开始滚动的窗口后面的每个窗口（按住鼠标中键单击） 不影响全屏应用程序  链接：https://github.com/PinchToDebug/DragWin    提交人    /u/Reddit_Bazsi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f5vkfa/dragwin_an_easier_way_to_move_windows_around/</guid>
       <pubDate>Sat, 31 Aug 2024 19:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么软件可以推荐来帮助我的业余项目组织想法、资源、管理和任务？</title>
-      <link>https://www.reddit.com/r/software/comments/1f5pvel/any_recommendations_on_software_that_can_help/</link>
-      <description><![CDATA[我目前将 Google Keep 和 Toodledo 结合使用来处理我的项目。我发现以这种方式整理想法和信息相当困难。当涉及到项目研究时，我最终会将大量文件保存到各处。任务列表保存在 Toodledo 中，快速笔记或想法保存在 google keep 中。当我有大量项目时，Google Keep 很难做到这一点。因此，使用手机伴侣也不错。  我发现了这个帖子，它涵盖了我想要的很多其他功能：https://www.reddit.com/r/selfhosted/comments/qwm1iz/personal_hobby_project_management_tool/ 它有一些很棒的建议，但我想知道那里列出的任何一个是否集成了文件。如果我处于项目研究阶段，我可以做笔记，并将特定图像/文档保存到一个项目的中心位置？ 我开始在这里查看的当前候选名单：Quire Vikunja.io Notion Anytype.io Obsidian.md Openproject.org    提交人    /u/Ddraig   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5pvel/any_recommendations_on_software_that_can_help/</guid>
-      <pubDate>Sat, 31 Aug 2024 15:27:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
