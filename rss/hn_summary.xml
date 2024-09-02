@@ -4,112 +4,107 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 11:45:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 15:01:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 三年前，Bungie 起诉《命运 2》作弊卖家 AimJunkies.com，指控其版权和 [...]</title>
-      <link>https://t.me/hn_summary/106582</link>
-      <description><![CDATA[法院拒绝对作弊者 AimJunkies 进行重新审判，确认 Bungie 赢得 430 万美元
-三年前，Bungie 起诉《命运 2》作弊者 AimJunkies.com 侵犯版权和商标权。该案还牵涉到 Phoenix Digital Group 和开发商 James May，最终 Bungie 胜诉。西雅图陪审团裁定被告对各种形式的版权侵权负有责任，并判给 Bungie 63,210 美元的赔偿金。 AimJunkies 要求重新审判，辩称他们没有侵犯 Bungie 的版权，但法官 Thomas Zilly 驳回了这一请求，维持了陪审团的裁决。
+      <title>[媒体] 网站：www.nbcnews.com</title>
+      <link>https://t.me/hn_summary/106605</link>
+      <description><![CDATA[即使是以坚韧著称的沙漠植物，也会在高温下燃烧死亡
+标题：即使是以坚韧著称的沙漠植物，也会在高温下燃烧死亡
+网站：www.nbcnews.com
 
-此外，早前的一次仲裁裁定 Bungie 因违反 DMCA 而获得近 440 万美元的赔偿，AimJunkies 对此提出异议。第九巡回法院维持了这一裁决，驳回了 AimJunkies 对不公平仲裁程序的指控。Bungie 仍然是明显的赢家，而 AimJunkies 则面临黯淡的未来。]]></description>
-      <guid>https://t.me/hn_summary/106582</guid>
-      <pubDate>Mon, 02 Sep 2024 11:45:26 GMT</pubDate>
+摘要：
+西南部越来越频繁和严重的热浪正在破坏坚韧的沙漠植物，如巨人柱仙人掌和龙舌兰。经营莫哈韦花卉苗圃的当地园艺家诺姆·席林 (Norm Schilling) 发现，各种物种都受到了严重的热应激，包括他多年前拯救的一株非洲漆树。拉斯维加斯经历了创纪录的高温，使情况更加恶化。凤凰城沙漠植物园的 Kevin Hultine 等生态学家正在研究持续极端高温对沙漠生态系统的影响。令人惊讶和独特的是，即使是适应恶劣条件的植物也在苦苦挣扎，这凸显了气候变化影响的新范式。]]></description>
+      <guid>https://t.me/hn_summary/106605</guid>
+      <pubDate>Mon, 02 Sep 2024 15:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Motiff 利用人工智能将自己定位为人工智能时代的首要设计工具 [...]</title>
-      <link>https://t.me/hn_summary/106581</link>
-      <description><![CDATA[专用 UI​​ 多模态模型
-Motiff 利用 AI 创造创新功能并确保这些技术稳健，将自己定位为 AI 时代的顶级设计工具。该团队确定了两个关键见解：语言用户界面 (LUI) 对于处理复杂任务至关重要，大型语言模型可以经济高效地开发 AI 功能。然而，一般的大型模型在专用 UI​​ 领域往往不够用，这促使 Motiff 开发自己的专用模型。他们的 MLLM（多模态大型语言模型）集成了文本、图像和视频，灵感来自医疗保健和法律等领域的进步。Motiff 的独特之处在于他们专注于特定于 UI 的数据收集和模型训练，从而提高了模型在 UI 设计任务中的性能。他们的方法在多个指标上都优于现有的解决方案，如苹果的 Ferret UI 和谷歌的 ScreenAI，展示了其专业模型的有效性。
-
-争议：声称通用大型模型在专业 UI 领域表现不佳可能会引发相信通用模型多功能性的 AI 开发人员的争论。
-
-独特/巧妙：Motiff 结合专家模型进行数据生成的方法以及他们对高分辨率视觉编码器以捕捉 UI 细节的关注尤其具有创新性。（基于 86% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/106581</guid>
-      <pubDate>Mon, 02 Sep 2024 11:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 作为一名软件工程师和首席执行官，决策是我职责中的一个重要方面。</title>
-      <link>https://t.me/hn_summary/106580</link>
-      <description><![CDATA[如何更好地做出决策
-决策是我作为软件工程师和首席执行官角色的一个重要方面。为了提高我的决策能力，我开发了一个决策日志模板并记录了我的学习成果。写下决策可以澄清思路并揭示差距。关键要素包括按优先顺序列出评估标准、考虑选项的优缺点以及陈述首选选项并说明理由。至少与一个人分享决策日志可确保彻底思考。反思过去的决定有助于从错误中吸取教训。有趣的是，Tobi Lütke 建议使用扑克进行决策刻意练习。以下是我的结构化决策决策日志模板。如果您有其他技巧，请分享！]]></description>
-      <guid>https://t.me/hn_summary/106580</guid>
-      <pubDate>Mon, 02 Sep 2024 11:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 事实证明，ChatGPT 倾向于过度使用某些单词和短语，包括“delve”。</title>
-      <link>https://t.me/hn_summary/106579</link>
-      <description><![CDATA[深入研究“Delve”
-事实证明，ChatGPT 倾向于过度使用某些单词和短语，包括“delve”。根据一篇帖子，“delve”是 ChatGPT 返回的文本中最常见的 10 个单词之一。如果科学作者使用 ChatGPT 来协助他们撰写论文，那么这些常见的 ChatGPT 单词很可能会出现，尤其是在介绍、摘要和可能的标题中。事实上，Jeremy Nguyen (@JeremyNguyenPhD) 发现自 2023 年（ChatGPT 出现时）以来，PubMed 论文中对“delve”的提及大大增加。他发推文谈到了这一点。这激起了我的好奇心。但似乎需要对这些计数进行标准化，才能了解使用“delve”的论文比例是如何增长的。因此，我使用 OpenAlex（一个索引论文和其他学术成果的开源平台）进行了查看。以下是我发现的情况。尽管“delve”的使用量在 2022 年之前一直在逐渐增加，但它在 2023 年（ChatGPT 广泛可用时）显着增加，并在 2024 年继续增加（数据为部分年份，即分析时可用的最新时间点）。见图 1。该图表按出版年份显示了标题或摘要中包含“delve”的论文数量和标准化百分比。来源是 OpenAlex，按文章（包括同行评审的期刊论文和预印本）进行筛选。 1990 年至 2024 年 3 月 31 日期间，OpenAlex 上发布了 66,158 篇提及“delve”的论文，其中约有 30,276 篇（占 46%）是在 2023 年 1 月至 2024 年 3 月底的 15 个月内发表的。图 1 中的分析针对所有主题，即 OpenAlex 中收录的论文记录总量（1.683 亿篇文章，1990-2024 年至今）。技术要点：此数据集存在重复，例如，一些预印本随后可能会出现在期刊中。分子和分母都存在重复。请注意这一点，特别是在解释计数时。为什么 ChatGPT 在回复时使用“delve”？有人认为这是为了显得“权威”。这是个问题吗？也许不是，如果研究人员使用 ChatGPT 来润色他们的语言或协助准备摘要，它可能会有所帮助。作者应表明他们曾使用 ChatGPT 协助修改文本（并尊重在期刊投稿中使用 AI 的编辑指南）。作者使用 ChatGPT 协助写作的所有论文的比例可能高于使用常见 ChatGPT 词（例如“delve”）的论文比例。但是，如果“delve”的提及越来越多地表明作者越来越多地使用 ChatGPT 来撰写（或实质撰写）论文，而不是润色论文，这确实会引起担忧，特别是如果这些论文没有明确承认使用了 ChatGPT 或其他生成式 AI 模型。但是，要小心。在聚合级别搜索“delve”的提及确实显示出与 ChatGPT 使用一致的模式。然而，对于一篇特定的论文，标题或摘要中使用“delve”并不能证明那些特定的作者使用过 ChatGPT，他们可能只是喜欢这个词！在科学著作中，“delve” 也有非常常见的用法，例如，delve 可用于指代某些星团、暗物质星系搜索、研究档案名称、软件应用程序或调试器以及区域或人名。因此，这里感兴趣的不是“delve”的正常或“基本”使用水平，根据 OpenAlex 分析，在 2018 年至 2022 年（ChatGPT 广泛使用之前的 5 年期间）期间，“delve”的使用率从每 1000 篇论文 0.31-0.56 缓慢增长。相反，从 2023 年开始，“深入研究”提及次数迅速增加，到 2024 年第一季度 (Q1)，平均每 1000 篇论文提及 7.9 次。在一些国家，到 2024 年第一季度，深入研究的提及率上升得更快（见下图 2），远高于 2022 年的“基准”水平。科学论文中“深入研究”的提及次数似乎将在不久的将来增长]]></description>
-      <guid>https://t.me/hn_summary/106579</guid>
-      <pubDate>Mon, 02 Sep 2024 11:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 欢迎来到“碎片整理游戏”！</title>
-      <link>https://t.me/hn_summary/106578</link>
-      <description><![CDATA[显示 HN：碎片整理游戏
-欢迎来到“碎片整理游戏”！这种互动体验可让您选择要进行碎片整理的驱动器，从大小为 128Kb（正常）的驱动器 D 开始。深入了解对虚拟驱动器进行碎片整理的怀旧过程，让人想起经典的计算机维护任务。单击“开始”开始优化您的驱动器，并观察碎片数据如何重新组织以获得更好的性能。这是一种重温计算历史的有趣且有教育意义的方式。享受碎片整理良好的驱动器带来的满足感！]]></description>
-      <guid>https://t.me/hn_summary/106578</guid>
-      <pubDate>Mon, 02 Sep 2024 11:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：www.voxtodo.com</title>
-      <link>https://t.me/hn_summary/106577</link>
-      <description><![CDATA[显示 HN：我构建了一个免费工具，用于将任务分解为可管理的子任务
-标题：显示 HN：我构建了一个免费工具，用于将任务分解为可管理的子任务
-网站：www.voxtodo.com
-
-Voxtodo 诞生于一位父亲致力于帮助儿子应对执行功能挑战。此应用通过使用高级语言 AI ​​将任务分解为更小、更易于管理的步骤，从而简化了任务管理。它与 Google 日历等工具无缝集成，提供任务提醒，并包含时间跟踪功能。 Voxtodo 旨在提高生产力并支持面临类似挑战的个人。我们致力于不断改进 Voxtodo，使用户能够有效地管理任务并实现目标。]]></description>
-      <guid>https://t.me/hn_summary/106577</guid>
-      <pubDate>Mon, 02 Sep 2024 11:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：最好的离线电子书阅读器？</title>
-      <link>https://t.me/hn_summary/106576</link>
-      <description><![CDATA[问 HN：最好的离线电子书阅读器？
-标题：问 HN：最好的离线电子书阅读器？
+      <title>问HN：微软为什么禁止员工个人开源项目？</title>
+      <link>https://t.me/hn_summary/106604</link>
+      <description><![CDATA[问 HN：微软为何禁止员工个人开源项目？
+标题：问 HN：微软为何禁止员工个人开源项目？
 网站：news.ycombinator.com
 
-在一次徒步旅行中不小心损坏了我心爱的 Kobo Aura HD 后，我开始寻找一款可以完全离线运行的新电子书阅读器。我的旧设备从来不需要互联网连接，我想用新设备保持同样的体验。具体来说，我正在寻找一款专门用于阅读书籍且不需要任何在线连接的电子墨水屏幕阅读器。如有任何关于 2024 年此类设备的推荐，我们将不胜感激。]]></description>
-      <guid>https://t.me/hn_summary/106576</guid>
-      <pubDate>Mon, 02 Sep 2024 10:42:27 GMT</pubDate>
+在 Hacker News 的讨论中，用户质疑微软为何限制员工参与个人开源项目，尤其是当这些项目不与微软的商业产品直接竞争时。对话深入探讨了知识产权问题、法律责任和利益冲突等潜在原因。一些用户对一家拥有大量开源业务的公司实施此类限制感到惊讶。这场争论凸显了企业政策和开源社区价值观之间的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/106604</guid>
+      <pubDate>Mon, 02 Sep 2024 15:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.paywallskip.com</title>
-      <link>https://t.me/hn_summary/106575</link>
-      <description><![CDATA[使用 Paywallskip 解锁文章
-标题：使用 Paywallskip 解锁文章
-网站：www.paywallskip.com
-
-优质新闻需要付出代价，但获取信息不应花费太多。将顶级新闻网站的每月订阅费用与我们的免费 Paywall Skip 服务进行比较。Paywall Skip 可让您访问来自各种来源的文章，无需单独订阅，每月最多可为您节省 199.00 美元。但是，我们鼓励尽可能地支持优质新闻。
-
-争议：该服务可能被视为破坏了依赖订阅来资助优质新闻的新闻机构的财务模式。
-
-独特/巧妙：该服务巧妙地突出了潜在的节省，同时仍然提倡支持优质新闻。]]></description>
-      <guid>https://t.me/hn_summary/106575</guid>
-      <pubDate>Mon, 02 Sep 2024 10:19:18 GMT</pubDate>
+      <title>[媒体] LuneForge 是一款开源软件，旨在创建精确的 3D 可打印吕讷堡 [...]</title>
+      <link>https://t.me/hn_summary/106603</link>
+      <description><![CDATA[显示 HN：用于设计射频 3D 可打印 Luneburg 透镜的开源软件
+LuneForge 是一款开源软件，旨在为射频 (RF) 应用创建精确的 3D 可打印 Luneburg 透镜，并针对 SLA 3D 打印进行了优化。它旨在通过提供用户友好的功能和可自定义的参数来简化 RF 工程师、业余爱好者和研究人员的设计流程。该工具通过改善信号聚焦和方向性来增强 RF 项目。主要功能包括轻量级设计、基于 Web 的 UI 以及导出到 .stl 和 .obj 文件的选项。未来计划包括在线演示、材料 DRC 检查、多镜头生成以及与 CST Studio 的集成。该项目使用 HTMX、DaisyUI、Flask 和 Pymesh，可通过 DockerHub 轻松安装。]]></description>
+      <guid>https://t.me/hn_summary/106603</guid>
+      <pubDate>Mon, 02 Sep 2024 14:55:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mouse 是一种解释型、面向堆栈的语言，由 Peter Grogono 于 1975 年创建，设计用于 [...]</title>
-      <link>https://t.me/hn_summary/106574</link>
-      <description><![CDATA[CP/M 上的 Mouse 编程语言
-Mouse 是一种解释型、面向堆栈的语言，由 Peter Grogono 于 1975 年创建，旨在成为微型计算机中 Forth 的更简单替代品。与 Forth 不同，Mouse 解释单字符命令流，并且更多地依赖于变量而不是堆栈操作。Walnut Creek CD 上的 CP/M 版本非常紧凑，只有 2k。Mouse 结合了数组、函数和递归等高级语言功能，但所需的资源更少。示例程序使用循环输出“Hello, World!”十次。Mouse 还支持宏和递归宏，本地和全局变量按大小写区分。可以从 Walnut Creek CD 下载该语言，.LBR 文件中提供了其他资源。还提供了视频演示。
-
-独特/巧妙的方面：
-- 鼠标的紧凑尺寸（2k）和对单字符命令的有效使用。
-- 该语言能够以最少的资源实现高级功能。
-
-令人惊讶的方面：
-- 巧妙地使用基于字符的命令和变量来实现复杂的编程任务。]]></description>
-      <guid>https://t.me/hn_summary/106574</guid>
-      <pubDate>Mon, 02 Sep 2024 10:18:13 GMT</pubDate>
+      <title>[媒体] AceVocab 是一款创新工具，旨在帮助您掌握学习所需的词汇 [...]</title>
+      <link>https://t.me/hn_summary/106602</link>
+      <description><![CDATA[显示 HN：AceVocab - 学习和掌握 GRE/GMAT 中的词汇
+AceVocab 是一种创新工具，旨在帮助您掌握 GRE 和 GMAT 考试所需的词汇。该平台提供全面且用户友好的学习方法，确保您在考试准备中表现出色。使用 AceVocab，您可以有效地建立和保留强大的词汇量，这对于获得高分至关重要。该网站提供各种定制功能，以增强您的学习体验，使其成为任何想要在这些竞争性考试中脱颖而出的人的必备资源。此内容中没有争议元素，但对词汇掌握的独特关注使 AceVocab 有别于其他考试准备工具。]]></description>
+      <guid>https://t.me/hn_summary/106602</guid>
+      <pubDate>Mon, 02 Sep 2024 14:54:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Jocelyn Gecker 在 medicalxpress.com 上发表的一篇文章中指出，年轻女孩 [...]</title>
-      <link>https://t.me/hn_summary/106573</link>
-      <description><![CDATA[社交媒体上出现年轻女孩使用抗衰老产品导致不良后果
-Jocelyn Gecker 在 medicalxpress.com 上发表的一篇文章探讨了社交媒体上年轻女孩使用成人抗衰老产品的令人担忧的趋势，文章通过 11 岁女孩 Scarlett Goddard Strahan 的经历进行了探讨，她因使用成人抗衰老产品而遭受了严重的皮肤损伤。受到 TikTok 和 YouTube 等平台上的美容影响者的影响，青春期前的青少年正在养成复杂的护肤习惯，导致皮疹、化学灼伤和长期皮肤问题。专家警告说，这些产品可能会导致过早衰老和永久性疤痕。这一趋势引起了人们对年轻女孩心理健康影响的严重担忧，因为她们被高不可攀的美容标准所轰炸。尽管该行业承认存在风险，但几乎没有采取任何措施阻止儿童购买这些产品。加州一项禁止向 13 岁以下儿童销售抗衰老产品的法案失败了，但人们仍在努力推动行业问责制。（基于 79% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106573</guid>
-      <pubDate>Mon, 02 Sep 2024 09:38:54 GMT</pubDate>
+      <title>[媒体] 在 hynek.me 上，作者为在 Docker c 中使用 Python 虚拟环境辩护 [...]</title>
+      <link>https://t.me/hn_summary/106601</link>
+      <description><![CDATA[我仍然在 Docker 中使用 Python 虚拟环境
+在 hynek.me 上，作者为在 Docker 容器中使用 Python 虚拟环境辩护，尽管经常遇到挑战。他们认为虚拟环境在管理依赖项方面提供了可预测性、一致性和简单性，这超过了感知到的复杂性。作者赞赏虚拟环境的明确结构及其在标准化团队间沟通方面的作用。他们批评 pip install --user 等替代方法增加了不必要的复杂性，并赞扬了项目本地的 .venv 标准。作者承认，尽管他们的理由似乎难以捉摸，但其根源在于实践经验和对可维护、可预测的工作流程的渴望。最终，他们鼓励读者选择最适合自己的方法，但强烈支持继续使用 Docker 中的虚拟环境。]]></description>
+      <guid>https://t.me/hn_summary/106601</guid>
+      <pubDate>Mon, 02 Sep 2024 14:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：exit-insights.com</title>
+      <link>https://t.me/hn_summary/106600</link>
+      <description><![CDATA[显示 HN：退出洞察：揭示访客为何在未转化的情况下退出您的网站
+标题：显示 HN：退出洞察：揭示访客为何在未转化的情况下退出您的网站
+网站：exit-insights.com
+
+退出洞察提供了一个强大的工具，可帮助网站所有者了解访客为何在未转化的情况下离开。通过提供清晰、可操作的洞察，您可以对着陆页进行明智的更改，解决关键问题并增强整体用户体验。这反过来又会提高转化率并帮助您更有效地实现业务目标。]]></description>
+      <guid>https://t.me/hn_summary/106600</guid>
+      <pubDate>Mon, 02 Sep 2024 14:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 他将整个加密货币交易所清空到拇指驱动器上。</title>
+      <link>https://t.me/hn_summary/106599</link>
+      <description><![CDATA[他将整个加密货币交易所的资金都转移到拇指驱动器上。然后他就消失了
+加密货币交易所 Thodex 的创始人 Faruk Fatih Özer 告诉法庭，在得知他的兄弟姐妹面临欺诈指控后，他伪装自己并逃跑了。他声称自己有 Thodex 冷钱包，并在帮助下向大约 1,000 名索赔人偿还了约 1000 万美元。Özer 辩称，初创公司创始人应承担所有责任，并否认有任何不当行为，声称他不是第一个或最后一个在加密货币市场套利的人。当他嘲笑法庭时，他的反抗变成了苦涩。2023 年 9 月，Özer 和他的兄弟姐妹因管理犯罪组织和洗钱资产被判处土耳其最长的刑期：11,196 年。此案凸显了土耳其的经济困境，通货膨胀率飙升迫使许多土耳其人转向加密货币。尽管奥泽尔下台，但土耳其的加密货币狂热仍在持续。]]></description>
+      <guid>https://t.me/hn_summary/106599</guid>
+      <pubDate>Mon, 02 Sep 2024 14:47:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在本文中，作者哀叹 3.5 毫米耳机接口的逐渐消失 [...]</title>
+      <link>https://t.me/hn_summary/106598</link>
+      <description><![CDATA[现在不再是 3.5 毫米耳机插孔了
+
+在本文中，作者对现代智能手机中 3.5 毫米耳机插孔逐渐消失表示遗憾，认为取消该插孔并不是为了消费者的利益，而是苹果、三星和谷歌等大型科技公司为了推广其无线音频产品而采取的玩世不恭的举措。作者讲述了自己在医院病危的个人经历，当时有线耳机的简单性和可靠性为他带来了安慰。本文重点介绍了 3.5 毫米插孔的几个实际优势，例如更好的音质、通用兼容性以及在听音频的同时给手机充电的能力。作者批评了制造商为取消耳机插孔给出的站不住脚的理由，例如让手机更薄或更防水，并指出这些公司在推广无线耳机方面有经济利益。文章最后敦促消费者支持仍提供 3.5 毫米插孔的品牌，如摩托罗拉、华硕和索尼，并考虑保留此功能的主要品牌的旧款机型。
+
+争议点：作者断言，取消耳机插孔是大型科技公司强迫消费者购买无线音频产品的玩世不恭的策略，而不是真正的技术改进。
+
+独特/巧妙的见解：文章巧妙地强调了 3.5 毫米插孔的实际、经常被忽视的好处，尤其是在医院等意外情况下，并鼓励消费者通过支持仍提供此功能的品牌来“用钱包投票”。]]></description>
+      <guid>https://t.me/hn_summary/106598</guid>
+      <pubDate>Mon, 02 Sep 2024 14:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在大学里，我被复利的力量所吸引，经常使用 SIP Cal [...]</title>
+      <link>https://t.me/hn_summary/106597</link>
+      <description><![CDATA[通货膨胀是金融工具中的一等公民
+在大学期间，我被复利的力量所吸引，经常使用 SIP 计算器来梦想未来的财富。然而，我忽略了通货膨胀的影响。例如，每月 100,000 卢比的 SIP，30 年，利率为 15%，在没有通货膨胀的情况下，将产生 70 千万卢比，但在 5% 的通货膨胀率下，只能产生 20 千万卢比。这种差异至关重要，因为我们倾向于将未来的钱想象成今天的钱，这是误导。大多数计算器还忽略了年度 SIP 增量及其最终稳定等因素，这些因素反映了真实的劳动力市场状况。
+
+在考虑住房贷款时，通货膨胀更为关键。在高通胀环境下借贷是有利的，因为未来可以用更便宜的钱来偿还。例如，一笔 2 千万卢比的贷款，利率为 8.5%，期限为 30 年，其 EMI 为 1,53,782 卢比，总计 5.53 千万卢比。在 4% 的通胀率下，实际偿还金额为 3.23 千万卢比，最后一笔 EMI 的现值仅为 46,565 卢比。
+
+我建议使用政府通胀数据，资产增加 2%，负债减少 2%，遵循保守的商业原则。这种方法对我很有用。然而，金融策略无法取代为世界提供不可替代的价值的需要。]]></description>
+      <guid>https://t.me/hn_summary/106597</guid>
+      <pubDate>Mon, 02 Sep 2024 14:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：如何自动发布到您的 WordPress 网站</title>
+      <link>https://t.me/hn_summary/106596</link>
+      <description><![CDATA[如何自动发布到您的 WordPress
+标题：如何自动发布到您的 WordPress 网站
+
+恭喜！您的文章正在生成。在等待期间，您可以生成另一篇文章，甚至可以选择批量生成文章。每篇文章（中等长度）大约需要一分钟，长篇文章最多需要两分钟。如果您选择自动发布，您的文章将直接出现在您的 WordPress 网站上。您可以在“生成的文章”页面上监控文章的状态。这一简化流程可确保高效创建和发布内容，从而节省您宝贵的时间。]]></description>
+      <guid>https://t.me/hn_summary/106596</guid>
+      <pubDate>Mon, 02 Sep 2024 14:40:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

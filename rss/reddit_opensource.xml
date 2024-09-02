@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Sep 2024 12:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 15:02:03 GMT</lastBuildDate>
+    <item>
+      <title>ChessLock - 允许你使用棋步作为密码的扩展程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f77d71/chesslock_extension_that_allows_you_to_use_chess/</link>
+      <description><![CDATA[       由    /u/N014P  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f77d71/chesslock_extension_that_allows_you_to_use_chess/</guid>
+      <pubDate>Mon, 02 Sep 2024 13:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>我们应该更新开源许可证吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6x05b/should_we_update_open_source_licences/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>LineupX，一款开源社交媒体网络应用，帮助游戏玩家了解阵容</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</link>
-      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的游戏玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6jksk/lineupx_opensource_socialmedia_feel_webapp_for/</guid>
       <pubDate>Sun, 01 Sep 2024 17:11:20 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[几年前，我创建了 magic-grid，作为一种设置 pinterest 风格网格布局的超级简单方法。该库是用纯 js 编写的，没有任何依赖项，但从那时起，React 变得越来越流行，我看到人们努力制作该库的 react 版本，并取得不同程度的成功。  use-magic-grid 是 magic-grid 的一个漂亮端口，它通过钩子提供了原始库的所有功能和简单性。尝试一下，如果发现错误，请打开问题。尽情享受吧！    提交人    /u/e-oj   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f5ipii/usemagicgrid_official_react_port_of_the_magicgrid/</guid>
       <pubDate>Sat, 31 Aug 2024 08:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 OpenHabitTracker - FOSS 和注重隐私的习惯追踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f5igrd/i_created_openhabittracker_foss_and/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在做的项目，叫做 OpenHabitTracker。这是一个简单的、注重隐私的习惯追踪器，在努力寻找一个不依赖云存储或包含广告的工具后，我决定构建它。 项目详情：  开源：代码可在 GitHub 上获得。欢迎贡献和反馈。GitHub 存储库 免费且无广告：无需任何费用或广告。 隐私：所有用户数据都本地存储在设备上。不涉及云同步。 跨平台：该应用程序可在 Windows、Linux、macOS、iOS、Android 和 Web 应用程序上使用。  特点：  支持 Markdown 笔记。 允许对任务和习惯进行分类和优先排序。 提供高级搜索、过滤和排序。 支持 JSON、YAML、TSV、Markdown 等格式的数据导出/导入。 可以从 Google Keep 导入笔记。 包含 26 个具有深色和浅色模式的主题。  该项目使用 .NET、MAUI 和 Blazor 等技术。我特别想听听开源社区其他人对您可能发现哪些功能有用的意见或任何改进建议。 感谢您花时间阅读本文。我很乐意回答任何问题或听取您的任何建议。    提交人    /u/Jinjinov   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f5igrd/i_created_openhabittracker_foss_and/</guid>
-      <pubDate>Sat, 31 Aug 2024 08:22:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
