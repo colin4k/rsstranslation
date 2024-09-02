@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Sep 2024 21:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 00:03:42 GMT</lastBuildDate>
+    <item>
+      <title>y-fire 为您的无服务器 (Firebase) Web 应用添加协作功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6ruy7/yfire_adds_collaborative_features_to_your/</link>
+      <description><![CDATA[y-fire 是一个开源 Firestore (Firebase) 和基于 WebRTC 的提供程序，专为无服务器基础架构构建，可为您的 Firebase 应用程序提供协作功能。它消除了对对等发现的单独服务器的需求，并使用 Firebase 和 WebRTC 在用户之间交换实时数据。y-fi​​re 非常高效，并试图减少您的 Firebase 调用。    提交人    /u/holduphusky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6ruy7/yfire_adds_collaborative_features_to_your/</guid>
+      <pubDate>Sun, 01 Sep 2024 23:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找 APK 文件来为手机上正在播放的任何视频制作实时字幕/标题。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6pnmq/looking_for_apk_file_to_produce_live/</link>
+      <description><![CDATA[必须是开源的，无需订阅，无需一次性购买。谢谢。     由   提交  /u/TrackRound4807   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6pnmq/looking_for_apk_file_to_produce_live/</guid>
+      <pubDate>Sun, 01 Sep 2024 21:26:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smartcut：比 FFmpeg 更快地剪切和修剪视频</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f6plxd/smartcut_cut_and_trim_videos_much_faster_than/</link>
+      <description><![CDATA[我已经开发自己的视频编辑软件 8 个月了。这段旅程的一部分是编写最强大的“智能剪辑”实现，即剪切视频，同时仅对剪切点周围的小片段进行重新编码以拼接整个视频。 现在我决定将这个项目的智能剪辑部分开源！ 虽然这不是一个新想法，并且已经有几个开源实现，但我相信我的是第一个真正尝试彻底解决问题的实现，而不仅仅是将其视为一种好奇心来尝试。 我还编写了一个测试套件，用于验证该实现是否适用于各种编解码器（h264、h265、vp9、av1）、容器格式（.mp4、.mkv）和音频编解码器（mp3、vorbis、opus、aac、flac、wav）。 https://github.com/skeskinen/smartcut 我还制作了这个演示视频（带有略带挑衅性但准确的声明）“比 FFmpeg 快 6000%”： https://youtu.be/_OBDNVxydB4    提交人    /u/Lesser_Scholar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f6plxd/smartcut_cut_and_trim_videos_much_faster_than/</guid>
+      <pubDate>Sun, 01 Sep 2024 21:24:48 GMT</pubDate>
+    </item>
     <item>
       <title>我在命名我的 GitHub 项目时是否需要担心版权问题？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f6orin/do_i_need_to_worry_about_copyright_when_naming_my/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[你好！ 我正在寻找一款优秀的手写笔记程序，以及刚刚从朋友那里了解到的 kilonotes 的替代品。 这些是我想要的具体要点： [#] 基本手写工具（笔、荧光笔、选择器等） [#] 触控笔和笔压支持 [#] pdf 导入（如果它还支持 powerpoint 就好了） [#] 良好的防手掌误触功能 [#] 无限画布 [#] 良好的打字/键盘支持（即，你可以像其他键盘笔记应用程序一样正常使用它） [#] 将手写文本转换为数字文本 可选： [~] 流程图元素（箭头、方框、等） [~] 通过 flathub 安装 我目前正在使用 Rnote，它很棒，但是它没有我想要的一些功能，我希望您能推荐一些程序。提前谢谢您！ 我的系统是联想 Yoga 6，运行 Fedora Linux：&gt;    提交人    /u/UncodedJargon   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f5fnmr/finding_for_handwriting_notetaking_program/</guid>
       <pubDate>Sat, 31 Aug 2024 05:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源和 AI 代码生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f56m2c/opensource_and_ai_code_generators/</link>
-      <description><![CDATA[只是想知道，但是一些开源和免费许可证（例如 GPL）基本上规定，如果您使用代码，也应该是 GPL，因此，如果某些 AI 模型在 GPL 和其他数据上进行训练并将这些知识提供给某人，他们也应该在使用该代码的每个应用程序上声明并强制使用 GPL。 这是对的吗？假设一个旧的 BSD 许可证：如果我在 github 上的代码是 BSD 许可证，而我是作者，并且某些东西是在我的代码上进行训练的，那么很抱歉，但是这个 AI 模型提供的每个代码都包含我的代码的部分，应该是 BSD 的，我作为作者 :)  或者假设有一个 MPL 许可证版本 1.1，但是 AI 建议从 apache 许可证代码中提取代码，很抱歉它们不兼容应该告诉你，你必须升级到 MPL 2 无论如何我是对的吗？为什么是艺术家？配音演员和其他人对等级产品拥有权利，但我们的代码没有受到同样的保护？    提交人    /u/jNayden   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f56m2c/opensource_and_ai_code_generators/</guid>
-      <pubDate>Fri, 30 Aug 2024 21:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在 GitHub 中管理 Stacked PR 的开源 CLI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f53pm3/an_opensource_cli_for_managing_stacked_prs_within/</link>
-      <description><![CDATA[        提交人    /u/CuriousNewbie101   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f53pm3/an_opensource_cli_for_managing_stacked_prs_within/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在开源服务中处理用户和身份验证？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f536kt/how_to_handle_users_and_auth_in_an_open_source/</link>
-      <description><![CDATA[我正在编写 Puppet 的开源替代方案。我需要管理用户、Authn/Authz 和 API 令牌。您会推荐什么来管理这些？我可以自己动手，但我想知道是否有人有建议？    提交人    /u/fluffy-samurai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f536kt/how_to_handle_users_and_auth_in_an_open_source/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:00:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
