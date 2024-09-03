@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Sep 2024 06:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 09:01:57 GMT</lastBuildDate>
+    <item>
+      <title>AD0-E717：Adobe Commerce Developer Professional - 问题转储 有没有人有 AD0-E717：Adobe Commerce Developer Professional 转储或建议任何网站来查看所有问题。谢谢。</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7uld2/ad0e717_adobe_commerce_developer_professional/</link>
+      <description><![CDATA[  由    /u/Chill-Bytes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7uld2/ad0e717_adobe_commerce_developer_professional/</guid>
+      <pubDate>Tue, 03 Sep 2024 08:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速迈向未来</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7u1g8/quickly_leap_into_the_future/</link>
+      <description><![CDATA[  由    /u/DelphiParser  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7u1g8/quickly_leap_into_the_future/</guid>
+      <pubDate>Tue, 03 Sep 2024 07:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>pgllm：通过嵌入 Python llm 库，在 Postgres 中实现 LLM</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7tyyg/pgllm_llms_in_postgres_by_embedding_the_python/</link>
+      <description><![CDATA[  由    /u/Florents  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7tyyg/pgllm_llms_in_postgres_by_embedding_the_python/</guid>
+      <pubDate>Tue, 03 Sep 2024 07:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>stto (转发)</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7tody/stto_repost/</link>
+      <description><![CDATA[stto：用 go 编写的简单代码行计数器（如 tokei、scc、gocloc 等）。 最近在本地代码库上运行，其中有超过 70k 个文件分散在 19k 个子目录中，tokei 需要 1 分 52 秒才能提供输出，而 stto 仅需 6 秒。虽然 stto 远不及 tokei 等更成熟的选项，但由于其并发文件读取，它的表现优于 tokei。 查看 repo：https://github.com/mainak55512/stto ** 非常感谢 github 上的 Stars、pull 和 fork 👍    提交人    /u/Mainak1224x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7tody/stto_repost/</guid>
+      <pubDate>Tue, 03 Sep 2024 07:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何构建开源社交媒体调度工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7tmwm/how_i_built_my_opensource_social_media_scheduling/</link>
+      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7tmwm/how_i_built_my_opensource_social_media_scheduling/</guid>
+      <pubDate>Tue, 03 Sep 2024 07:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿迪达斯平台团队如何降低运行 Kubernetes 集群的成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1f7stf9/how_the_adidas_platform_team_reduced_the_cost_of/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f7stf9/how_the_adidas_platform_team_reduced_the_cost_of/</guid>
+      <pubDate>Tue, 03 Sep 2024 06:08:38 GMT</pubDate>
+    </item>
     <item>
       <title>像专业人士一样配置：Python configparser 的综合指南</title>
       <link>https://www.reddit.com/r/programming/comments/1f7se7d/configuring_like_a_pro_a_comprehensive_guide_to/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/foobuzz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f7dqb3/solving_redactle_with_decision_trees/</guid>
       <pubDate>Mon, 02 Sep 2024 18:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>StackOverflow 禁止生成式人工智能</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7dptx/generative_ai_banned_on_stackoverflow/</link>
-      <description><![CDATA[  由    /u/atthereallicebear  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7dptx/generative_ai_banned_on_stackoverflow/</guid>
-      <pubDate>Mon, 02 Sep 2024 18:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>倦怠和远程工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7cfmx/burnout_and_remote_work/</link>
-      <description><![CDATA[前几天我浏览了这个话题，发现自己开始讨厌接下来 30 年每周坐 40 小时以上并修修补补的想法。我想我曾经更喜欢它，或者至少能更好地忍受它。 我的职位很棒，家人和朋友肯定会帮助我换工作并在下班后获得一些多巴胺。但远程工作似乎成了我日常生活的基石。另一方面，我看到那些永远不会去办公室的人，似乎像我从未有过的那样享受着他们的日常生活。这让我很沮丧。无论出于什么原因，真正花费这么多时间和精力来开发东西的整个想法开始让我感到沮丧。我开始觉得我之所以能得到报酬（或者为什么这份工作很难）是因为它需要很多孤独的问题解决。  对于远程工作或目前正在从事基本上 0 人际互动项目的人们和工程师来说，您如何享受生活？您真的会承认 5 年坐在桌子后面喝茶、不说一句话似乎是一个令人愉快的想法吗？（极端的例子，但我认为这里有必要夸大一下，以强调我们所有人都有的神经偏差） 提前谢谢您    提交人    /u/Own_Opportunity7475   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7cfmx/burnout_and_remote_work/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:24:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>模数排序：以线性时间对整数数组进行排序，而不必担心数据的分布</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7bo5a/modulosort_sorting_integer_arrays_in_linear_time/</link>
-      <description><![CDATA[  由    /u/AlgoWithNoRhythm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7bo5a/modulosort_sorting_integer_arrays_in_linear_time/</guid>
-      <pubDate>Mon, 02 Sep 2024 16:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过打造工艺和精通来解锁无与伦比的产品团队自主权</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7ayaf/how_i_unlock_unmatched_product_team_autonomy_by/</link>
-      <description><![CDATA[  由    /u/ToddLankford  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7ayaf/how_i_unlock_unmatched_product_team_autonomy_by/</guid>
-      <pubDate>Mon, 02 Sep 2024 16:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>NES 控制器的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1f79mcb/how_the_nes_controller_works/</link>
-      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f79mcb/how_the_nes_controller_works/</guid>
-      <pubDate>Mon, 02 Sep 2024 15:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在浏览器中使用 C# 和 WebAssembly</title>
-      <link>https://www.reddit.com/r/programming/comments/1f78hh1/using_c_in_browser_using_webassembly/</link>
-      <description><![CDATA[  由    /u/NilayBarot  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f78hh1/using_c_in_browser_using_webassembly/</guid>
-      <pubDate>Mon, 02 Sep 2024 14:44:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
