@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Sep 2024 18:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 21:01:59 GMT</lastBuildDate>
+    <item>
+      <title>Bugzilla 5.2、5.0.4.1 和 4.4.14 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f87d0z/release_of_bugzilla_52_5041_and_4414/</link>
+      <description><![CDATA[        由    /u/buovjaga 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f87d0z/release_of_bugzilla_52_5041_and_4414/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:27:59 GMT</pubDate>
+    </item>
     <item>
       <title>开源电动车 (L7e)：寻求社区意见和合作者</title>
       <link>https://www.reddit.com/r/opensource/comments/1f85sw8/open_source_electric_utility_vehicle_l7e_seeking/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>FB/IG Reel 下载器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1f817lw/fbig_reel_downloader/</link>
-      <description><![CDATA[我正在寻找一款移动应用来从 Facebook 和 Instagram 下载 reels。Play Store 中有很多，但都充斥着广告。    提交人    /u/Sergio2304   [link] [comments]]]></description>
+      <description><![CDATA[我正在寻找一款移动应用来从 Facebook 和 Instagram 下载 reels。Play Store 中有很多，但它们都充斥着广告。    由   提交  /u/Sergio2304   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f817lw/fbig_reel_downloader/</guid>
       <pubDate>Tue, 03 Sep 2024 14:22:43 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>fooyin - 可定制的音乐播放器</title>
       <link>https://www.reddit.com/r/opensource/comments/1f7wza9/fooyin_a_customisable_music_player/</link>
-      <description><![CDATA[我想开始分享这个，因为它仍然是一个相对不为人知的项目，而且过去几年我一直在默默地致力于它。 几年前我毕业时，很难找到入门级职位，所以我决定开始另一个项目。一段时间以来，我一直在使用 Linux 和 Windows，但阻止我全职切换的少数几个原因之一是音乐播放器的选择。 我有一个相当大的本地库，我使用过的所有播放器在可定制性方面都无法与 foobar2000 等 Windows 播放器相媲美。或者即使可以，它也不那么好用。 我开始使用 fooyin 是为了学习 Qt 并在 foobar2000 中复制我的旧设置，这严重依赖于 Facets 插件。最初只是一个小项目，但很快就发展成为更大的项目。 几年后，fooyin 发布了当前的 v0.6.2 版本。它仍处于开发的早期阶段，还有很长的路线图，但随着新贡献者的加入，它正在快速成熟。目前缺少一般文档和开发文档，但正在努力。 它已在 Flathub 上正式发布，并且已在几个存储库中。我很乐意听到您的任何反馈或建议。 https://www.fooyin.org    提交人    /u/ludouzi   [链接] [评论]]]></description>
+      <description><![CDATA[我想开始分享这个，因为它仍然是一个相对不为人知的项目，而且过去几年我一直在默默地致力于它。 几年前我毕业时，很难找到入门级职位，所以我决定开始另一个项目。一段时间以来，我一直在使用 Linux 和 Windows，但阻止我全职切换的少数几个原因之一是音乐播放器的选择。 我有一个相当大的本地库，我使用过的所有播放器在可定制性方面都无法与 foobar2000 等 Windows 播放器相媲美。或者即使可以，它也不那么好用。 我开始使用 fooyin 的目的是学习 Qt 并在 foobar2000 中复制我的旧设置，这严重依赖于 Facets 插件。最初只是一个小项目，但很快就发展成为更大的项目。 几年后，fooyin 发布了当前的 v0.6.2 版本。它仍处于开发的早期阶段，还有很长的路线图，但随着新贡献者的加入，它正在快速成熟。目前缺少一般文档和开发文档，但正在努力。 它已在 Flathub 上正式发布，并且已在几个存储库中。我很乐意听到您的任何反馈或建议。 https://www.fooyin.org    提交人    /u/ludouzi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f7wza9/fooyin_a_customisable_music_player/</guid>
       <pubDate>Tue, 03 Sep 2024 10:57:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我想在 GitHub 上发布一个项目，只是一个我时不时开发的笔记应用程序。我需要担心项目名称中的版权问题吗？ 我目前不打算自己做太多版权方面的工作，我可能会在 MIT 或 GNU 许可下发布它，我会尝试想出一个原创的名字。如果最终有另一个应用程序或类似名称的东西，我是否会面临任何法律诉讼的风险？ 抱歉，我对版权不太了解 (。﹏。*)    提交人    /u/ever-ella77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6orin/do_i_need_to_worry_about_copyright_when_naming_my/</guid>
       <pubDate>Sun, 01 Sep 2024 20:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>RemindAI - 你的人工智能记忆代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f6o2ob/remindai_your_ai_memory_agent/</link>
-      <description><![CDATA[        提交人    /u/DonTizi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f6o2ob/remindai_your_ai_memory_agent/</guid>
-      <pubDate>Sun, 01 Sep 2024 20:19:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

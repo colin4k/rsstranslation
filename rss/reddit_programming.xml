@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Sep 2024 18:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 21:01:52 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript 有多快？模拟 20,000,000 个粒子</title>
+      <link>https://www.reddit.com/r/programming/comments/1f8b7py/how_fast_is_javascript_simulating_20000000/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f8b7py/how_fast_is_javascript_simulating_20000000/</guid>
+      <pubDate>Tue, 03 Sep 2024 21:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Spring Retry 代替 do-while</title>
+      <link>https://www.reddit.com/r/programming/comments/1f89lbv/use_spring_retry_instead_of_dowhile/</link>
+      <description><![CDATA[  由    /u/jupiter_traveller  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f89lbv/use_spring_retry_instead_of_dowhile/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何仅使用一个互斥锁在 Rust 中使 Tokio 应用程序死锁</title>
+      <link>https://www.reddit.com/r/programming/comments/1f89do2/how_to_deadlock_tokio_application_in_rust_with/</link>
+      <description><![CDATA[  由    /u/simon_o  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f89do2/how_to_deadlock_tokio_application_in_rust_with/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿迪达斯平台团队如何降低运行 Kubernetes 集群的成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1f8831j/how_the_adidas_platform_team_reduced_the_cost_of/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f8831j/how_the_adidas_platform_team_reduced_the_cost_of/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 中不可能实现的优化！</title>
+      <link>https://www.reddit.com/r/programming/comments/1f87rqe/an_optimization_thats_impossible_in_rust/</link>
+      <description><![CDATA[  由    /u/UnclHoe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f87rqe/an_optimization_thats_impossible_in_rust/</guid>
+      <pubDate>Tue, 03 Sep 2024 18:44:04 GMT</pubDate>
+    </item>
     <item>
       <title>如何让你的应用默认可观察</title>
       <link>https://www.reddit.com/r/programming/comments/1f85q3n/how_to_make_your_apps_observable_by_default/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f7x50s/stop_perfecting_your_config/</guid>
       <pubDate>Tue, 03 Sep 2024 11:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>转变开发者体验：复苏与创新的故事 • Michaela Greiler</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7www3/transforming_developer_experience_a_tale_of/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7www3/transforming_developer_experience_a_tale_of/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:53:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 生成的代码与 DevSecOps。通过代码扫描向左移动</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7w5e2/ai_generated_code_vs_devsecops_shift_left_with/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7w5e2/ai_generated_code_vs_devsecops_shift_left_with/</guid>
-      <pubDate>Tue, 03 Sep 2024 10:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greppability 是一个被低估的代码指标</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7voin/greppability_is_an_underrated_code_metric/</link>
-      <description><![CDATA[  由    /u/warkollons0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7voin/greppability_is_an_underrated_code_metric/</guid>
-      <pubDate>Tue, 03 Sep 2024 09:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>pgllm：通过嵌入 Python llm 库，在 Postgres 中实现 LLM</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7tyyg/pgllm_llms_in_postgres_by_embedding_the_python/</link>
-      <description><![CDATA[  由    /u/Florents  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7tyyg/pgllm_llms_in_postgres_by_embedding_the_python/</guid>
-      <pubDate>Tue, 03 Sep 2024 07:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建开源社交媒体调度工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7tmwm/how_i_built_my_opensource_social_media_scheduling/</link>
-      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7tmwm/how_i_built_my_opensource_social_media_scheduling/</guid>
-      <pubDate>Tue, 03 Sep 2024 07:04:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
