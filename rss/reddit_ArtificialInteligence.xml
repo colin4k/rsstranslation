@@ -4,7 +4,63 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:01:40 GMT</lastBuildDate>
+    <item>
+      <title>本地 IA 用于测量距离吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f81kdd/local_ia_for_measuring_distances/</link>
+      <description><![CDATA[我想知道是否有一个可以在本地运行的 IA 模型，以便使用图像或视频比较或测量距离，例如，可以根据物体的深度检测物体并测量它们之间的距离或从相机的角度测量距离。谢谢。     提交人    /u/yeso126   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f81kdd/local_ia_for_measuring_distances/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>在个人游戏开发中利用人工智能：我的经验。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f81gfo/utilizing_ai_in_solo_game_development_my/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f81gfo/utilizing_ai_in_solo_game_development_my/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:33:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁曾致力于嵌入生成并愿意帮助我吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f81a9h/has_anyone_worked_with_embeddings_generation_and/</link>
+      <description><![CDATA[我需要有关嵌入框架的帮助和反馈。如果您有几分钟的空闲时间，有人愿意联系我并提供帮助吗？    提交人    /u/Aromatic_Ad9700   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f81a9h/has_anyone_worked_with_embeddings_generation_and/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:25:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>PoliScore 将于周四推出！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7zphy/poliscore_launches_on_thursday/</link>
+      <description><![CDATA[大家好！ 一个月前，在这个子版块，我第一次发布了关于 PoliScore 的帖子： https://www.reddit.com/r/ArtificialInteligence/comments/1eeccwk/i_spent_300_processing_80_million_tokens_with/ 这个社区令人难以置信地鼓舞人心，也非常热情。本周四，我终于发布了新闻稿，并向公众宣布 PoliScore v1 终于完成了。 对于那些不知道的人，PoliScore.us 是世界上第一个 AI 立法评级服务，我的使命是让政治更加透明和负责。我正在使用 AI 来对法案进行评级，生成绩效指标，然后将这些指标汇总给立法者。结果非常令人鼓舞。访问关于页面了解更多信息。 感谢大家对我上一篇文章的反馈！考虑到您的意见，我已开展以下工作：  我重新解释了所有法案和立法者，再次使用完全新法案和立法者提示，可在关于页面上找到。虽然这个新提示并没有真正改变立法者得分（这展示了分数聚合的力量），但我对最佳法案和最差法案列表感到更满意，现在所有法案都有更长的摘要和标题（如有必要，由人工智能生成）。 我完全在 MIT 许可下在 Github 上开源该项目，这确保任何感兴趣的人都可以自由地分叉该项目并开发自己的衍生产品。 我在 fiverr 上聘请了一名自由职业者来制作信息丰富的解释视频 我创建了一个 Ko-Fi，希望借助“像您这样的观众”的帮助，让该项目能够获得资金，而无需在网站的任何地方嵌入广告或付费墙 我花了大量时间思考我的结果是否显示出人工智能偏见，我终于在我的关于页面上找到了一个让我满意的答案。 我尝试使用人工智能来识别附加条款，但成功与否参半。有相当 少数个例子表明，AI 成功识别了附加条款，也有一些例子表明，AI 将事物归类为附加条款而我不同意这些观点。总体而言，我认为这基本上是成功的，但我还认为它还需要进一步努力。  至于下一步，9 月 11 月 5 日之前国会将再通过一轮法案，我将对其进行解读，然后 12 月将再通过一轮法案，然后我就可以开始在第 118 届国会会议前后创建统计数据了。我也不介意处理一些数字，将两党直接进行比较。 谢谢阅读！    提交人    /u/ring2ding   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7zphy/poliscore_launches_on_thursday/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>GenAI 的变革力量正在彻底改变医疗保健行业</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7zhd6/genais_transformative_power_revolutionizing/</link>
+      <description><![CDATA[生成式人工智能 (Gen AI) 是一种尖端的人工智能 (AI) 形式，可以生成新的数据，如图像、文本甚至代码。与用于分析的传统人工智能不同，Gen AI 可以更深入地研究以产生新的见解和可能性。详细了解生成式人工智能及其技术、应用和对企业的影响。 有没有想过 Baymax 如何毫不费力地扫描身体，提供人体的重要统计数据和诊断，并采取预防措施来预防任何医疗问题？ 阅读：https://www.seaflux.tech/blogs/genai-impact-in-healthcare-industry    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7zhd6/genais_transformative_power_revolutionizing/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在本地举办的最佳法学硕士 (LLM)</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ygrz/best_llm_i_can_locally_host/</link>
+      <description><![CDATA[哪个是具有直观用户界面的最佳本地托管 LLM？ 我有几台 RTX 3080 可以使用。 谢谢！    提交人    /u/imedmactavish   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ygrz/best_llm_i_can_locally_host/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>有感知的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ydg3/sentient_ai/</link>
+      <description><![CDATA[您认为人工智能具有感知能力的可能性有多大？这是一个真实的前景还是一个空想？我最近看到一个视频，视频中表达了对具有感知能力的人工智能可能成为人类的主人甚至毁灭人类的极大恐惧。这个人是不是科幻小说看得太多了？ 您如何看待预测？我确信人工智能程序已经存在，它们从网络上抓取社交媒体和新闻报道并做出非常准确的预测。这是好事吗？    提交人    /u/Curious-Prior4500   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ydg3/sentient_ai/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用这些 AI 工具让你的研究变得快速而简单</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7yaej/make_your_research_fast_and_super_easy_using/</link>
+      <description><![CDATA[我花了很多时间研究和撰写论文，在此过程中，我发现自己尝试了各种工具来简化这一过程。其中一些工具是朋友推荐的，还有一些是我在阅读一些评论、博客等后自己找到的……在使用各种不同的工具后，我将我最喜欢的工具缩小到对我的研究非常有帮助的工具。我很高兴与您分享这些工具，因为我相信它们在您撰写自己的研究论文时会同样有用。 共识 共识是一个学术搜索引擎，允许您提出问题并根据学术界的共识获得答案。它搜索了超过 2 亿篇跨科学领域的研究论文。 Recall Recall 可让您总结任何内容并将其存储在知识图谱中，这有助于您发现不同信息之间的联系，并在相关时重新显示过去的内容。此工具可用于研究，或仅用于个人知识管理。 Blainy Blainy 是一款专为学术写作设计的写作助手。它可以帮助进行文献综述、方法论部分甚至整篇研究论文。Blainy AI 的与众不同之处在于它注重学术诚信，并能够为其生成的内容提供引用。 Research Rabbit Research rabbit 被称为“研究的 Spotify”，它允许用户创建学术论文集。然后，AI 会了解您的兴趣并推荐相关新闻和研究论文。 ChatGPT ChatGPT 是一款由 AI 驱动的工具，可以帮助产生想法、纠正语法和句子结构，甚至协助写作。它是一个很棒的工具，但我个人不建议使用它来撰写研究报告，而建议在您遇到困难或需要新视角时使用它。    提交人    /u/rapinemx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7yaej/make_your_research_fast_and_super_easy_using/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:10:15 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能无法绘画：在 Kickstarter 扑克牌项目中检测文本到图像的生成人工智能图像</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7xy25/artificial_intelligence_cannot_draw_detecting/</link>
@@ -41,20 +97,6 @@
       <pubDate>Tue, 03 Sep 2024 06:55:53 GMT</pubDate>
     </item>
     <item>
-      <title>如何让AI生成的照片真实地说话？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7t5gw/how_to_get_ai_generated_photo_talking/</link>
-      <description><![CDATA[所以我有通过 flux 生成的自己的照片。我怎样才能让它说话并做出逼真的手势？到目前为止，我已经尝试了 HeyGen 和 Mango Animate。对我来说，它还没有完全达到那个水平。    提交人    /u/siriusblackprat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7t5gw/how_to_get_ai_generated_photo_talking/</guid>
-      <pubDate>Tue, 03 Sep 2024 06:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能真的变得越来越笨了吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ro6c/is_ai_actually_getting_dumber/</link>
-      <description><![CDATA[我看过一个 Etymology Nerd 的视频，视频中说当 AI 试图绘制某些东西时，它会模仿它，如果你在 AI 上使用 AI，那么 30 次之后它就只是胡言乱语了。这最终不会发生在所有 AI 身上吗？例如 ChatGPT 这样的聊天机器人，如果它不断在网上写作和发布内容，然后再次“模仿”它，那么一切不是都会变成胡言乱语吗？这也会发生在图像和视频上吗？    提交人    /u/ab_aakrann07   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ro6c/is_ai_actually_getting_dumber/</guid>
-      <pubDate>Tue, 03 Sep 2024 04:54:55 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 9 月 2 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7rmuh/oneminute_daily_ai_news_922024/</link>
       <description><![CDATA[ 自学 AI 揭晓 2024 年第一周每场比赛的 NFL 让分盘、大小分盘和货币线选择。[1] 委内瑞拉最新的通讯社表示，在政府打击期间，AI 主播保护记者。[2] 英国首个由 AI 授课的“无教师”教室中的学生。伦敦金融城一所私立学校的 20 名学生将通过电脑上的 AI 平台和 VR 耳机进行授课。[3] 《黑神话：悟空》的成功告诉我们投资 AI 初创企业的意义。[4]  来源包括：https://bushaicave.com/2024/09/02/9-2-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
@@ -62,32 +104,11 @@
       <pubDate>Tue, 03 Sep 2024 04:52:41 GMT</pubDate>
     </item>
     <item>
-      <title>我需要关于从哪里开始一个项目的建议。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7r992/i_need_advice_on_where_to_start_on_a_project/</link>
-      <description><![CDATA[好的，我想在 Raspberry PI 或类似设备上加载一个 AI，专门用于运行 CO Grader 等评分软件。它是为了标记论文以供审查。我应该从哪里开始？    提交人    /u/Puzzleheaded_Post555   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7r992/i_need_advice_on_where_to_start_on_a_project/</guid>
-      <pubDate>Tue, 03 Sep 2024 04:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人助理适合哪个平台？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7oirg/which_platform_for_a_personal_assistant/</link>
-      <description><![CDATA[好吧，我是 AI 新手，所以这个问题可能非常愚蠢。 我想随着时间的推移训练一个 AI 来帮助我的个人生活 - 例如，创建购物清单。 这是否更适合 Chat-GPT/Claude/Gemini？不同的平台似乎对长期对话/任务有不同的能力。还是我完全搞错了该怎么做？ 编辑后添加：在这种情况下 - 增加上下文长度是否重要，还是我应该寻找其他东西？    提交人    /u/tortadepatti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7oirg/which_platform_for_a_personal_assistant/</guid>
-      <pubDate>Tue, 03 Sep 2024 02:07:36 GMT</pubDate>
-    </item>
-    <item>
       <title>关于人工智能的一些思考</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7o5z8/just_a_quick_thought_on_ai/</link>
-      <description><![CDATA[LLM 可以制作出一款非常棒的俄罗斯方块游戏，而用户根本不需要了解任何代码。这是因为 GitHub 上有 7 万个俄罗斯方块代码库。但对于原创的东西，比如如果你想制作一个使用 meme 生成可定制生日贺卡网站的平台，如果你对编码一无所知，那就很难了。高价值的产品是原创和有创意的，是人工智能在你制作之前无法访问的东西。我想真正的变化是，一旦人工智能开始使用它，它的价值就会迅速降低。有创意、优秀的开发人员仍然需要，而且同样有价值。他们的生产力会提高，工资会下降，而且会有更多看起来像初级开发人员但其实只是菜鸟的人。    提交人    /u/Round_Imagination_77   [链接] [评论]]]></description>
+      <description><![CDATA[LLM 可以制作出一款非常棒的俄罗斯方块游戏，而用户根本不需要了解任何代码。这是因为 GitHub 上有 7 万个俄罗斯方块代码库。但对于原创的东西，比如如果你想制作一个使用 meme 生成可定制生日贺卡网站的平台，如果你对编码一无所知，那就很难了。高价值的产品是原创和有创意的，是人工智能在你制作之前无法访问的东西。我想真正的变化是，一旦人工智能开始使用它，它的价值就会迅速降低。有创意、优秀的开发人员仍然需要，而且同样有价值。他们的生产力会提高，他们的工资会下降，而且会有更多看起来像初级开发人员但其实只是菜鸟的人。    提交人    /u/Round_Imagination_77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7o5z8/just_a_quick_thought_on_ai/</guid>
       <pubDate>Tue, 03 Sep 2024 01:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 9 月 2 日人工智能创新每日纪事：🤖 初创公司推出迄今为止最逼真的机器人 📦 亚马逊的 Alexa 获得 Claude 增强功能 💡 如何使用 Claude 的新“解释”功能 🌐 使用家用电脑训练人工智能 🤖 1X 的 NEO 机器人表现得像人类一样，甚至更多</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7m9yz/a_daily_chronicle_of_ai_innovations_on_september/</link>
-      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7m9yz/a_daily_chronicle_of_ai_innovations_on_september/</guid>
-      <pubDate>Tue, 03 Sep 2024 00:17:47 GMT</pubDate>
     </item>
     <item>
       <title>AI = 伙伴，帮助做所有事情。</title>
@@ -104,32 +125,11 @@
       <pubDate>Mon, 02 Sep 2024 21:32:24 GMT</pubDate>
     </item>
     <item>
-      <title>我错过了什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7i2mx/what_have_i_missed/</link>
-      <description><![CDATA[你好 大约在 2023 年 2 月，我每天都在关注 AI，但生活和旅行让我几乎不可能跟上步伐。  上次我在这个领域时，AI 新闻和创新几乎每天都在变化，我怀疑它是否会放慢速度，而且我担心现在已经过去很久了，我可能会脱离圈子。 当我从事项目时，我主要关注语音克隆和 AI 机器人，而目前质量最好的语音克隆软件是 11labs [大多数本地模型无法竞争]，但 11labs 的 API 感觉使其在聊天机器人中使用不切实际。 从那时起，是否有任何最新创新使 11labs 高质量语音克隆成为可能，但 API 费用低廉？ [和/或可以在 16GB VRAM 下以相同质量在本地运行？]。 此外，有没有新的 LLM 具有与 GPT-3 的 Davinci 模型相同的质量并且价格不是特别昂贵？上次我离开之前，GPT-3 Davinci 模型被弃用了，GPT-3.5 turbo 被吹捧为“同样好但更便宜”，但实际上它在对话持久性方面遇到了严重的困难，通常会在几句话之后忘记对话的内容 [这在 GPT-3 Davinci 上从来都不是问题]。有没有一种新的模型实际上适用于与 GPT-3 Davinci 相同的对话聊天框？ 如果有任何其他新事物极大地改变了这个领域，请告诉我，以便我自己去研究它们。我很感激任何信息。 我正在进行的最后一个项目： VR 聊天机器人    提交人    /u/Cneqfilms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7i2mx/what_have_i_missed/</guid>
-      <pubDate>Mon, 02 Sep 2024 21:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试 AMD Amuse - 在 AMD 硬件上使用稳定扩散模型进行本地图像生成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7bllt/testing_amd_amuse_local_image_generation_with/</link>
-      <description><![CDATA[应用程序：https://www.amuse-ai.com/ 我的评论/示例图像混合和生成：https://rkblog.dev/posts/programming-general/amd-amuse-image-generation/  这是一种 AMD 的展示应用程序，但可用于生成和混合图像，在使用付费 API 处理一些更高级的模型之前，先在本地使用提示播放。该应用程序是免费的 :) 我在配备 32GB RAM 的 Radeon RX 6950 XT 和 Ryzen 5900X 上测试了该应用程序，在高质量下，生成图像需要 15-30 秒。低质量模型几乎是即时的。据称 Flux.1 需要 24GB VRAM，因此只能使用 RX 7900 XTX。更改纵横比选项可能需要重新启动应用程序，因为它可以随机开始忽略源图像（对于混合）。 图像生成相当“基础”，而图像混合可以更有趣 - 将现有图像转换为不同的风格 - 比如默认情况下它有赛博朋克风格提示，而且它似乎做得很好。通常存在文本、身体部位真实感等问题 ;) 模型并不是应用程序独有的，因此对于 Linux 或自定义应用程序需要，可以重新创建它。    提交人    /u/riklaunim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7bllt/testing_amd_amuse_local_image_generation_with/</guid>
-      <pubDate>Mon, 02 Sep 2024 16:51:21 GMT</pubDate>
-    </item>
-    <item>
       <title>微软、苹果和 NVIDIA 投资 OpenAI，使其免于破产并将其价值提升至 1000 亿美元以上。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f70caw/microsoft_apple_and_nvidia_invest_in_openai/</link>
       <description><![CDATA[文章链接：https://medium.com/@sadozye86/microsoft-apple-and-nvidia-invest-in-openai-saving-it-from-bankruptcy-and-boosting-its-value-to-40cff13d032a?sk=v2%2F4c2f192c-8572-4b06-901d-dd7b8da39404   由    /u/zain017  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f70caw/microsoft_apple_and_nvidia_invest_in_openai/</guid>
       <pubDate>Mon, 02 Sep 2024 06:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>“克隆人战争：人工智能如何窃取我们的声音——我们的界限在哪里？”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f6y8vk/clone_wars_how_ai_stole_our_voices_where_do_we/</link>
-      <description><![CDATA[在最近的一场诉讼中，配音演员 Paul Skye Lehrman 和 Linnea Sage 发现一家科技公司使用人工智能克隆了他们的声音并未经许可出售。据称，这家名为 Lovo 的公司使用欺骗手段通过 Fiverr 获取他们的录音，后来创建了人工智能生成的语音克隆并进行商业销售。这种情况凸显了人工智能对创意产业影响的主要法律和道德问题。https://www.bbc.com/news/articles/c3d9zv50955o 从事创意行业的个人如何保护自己的作品免遭未经授权的人工智能复制？    提交人    /u/Express_Fan7016   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f6y8vk/clone_wars_how_ai_stole_our_voices_where_do_we/</guid>
-      <pubDate>Mon, 02 Sep 2024 04:40:21 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
