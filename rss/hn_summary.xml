@@ -4,96 +4,107 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 18:01:08 GMT</lastBuildDate>
     <item>
-      <title>在即将发布的 astcenc 2.5 版本中，重点是确保不同 [...] 之间的输出一致性。</title>
-      <link>https://t.me/hn_summary/106746</link>
-      <description><![CDATA[创建不变浮点累加器
-在即将发布的 astcenc 2.5 版本中，尽管性能会略有下降，但重点是确保跨不同指令集（如 NEON、SSE4.1 和 AVX2 SIMD）的输出一致性。对于需要统一构建的游戏开发者来说，这种一致性至关重要，无论使用哪种机器。该博客深入探讨了实现浮点不变性的复杂性，强调了浮点算术对操作顺序的敏感性如何导致不一致。作者详细解释了如何编写不变的向量长度独立累加器，解决了可变宽度累加器和循环尾等常见陷阱。巧妙的解决方案涉及标准化 vec4 累加器并管理循环尾以保持一致性。这种方法虽然速度稍慢，但可确保跨不同 SIMD 实现的不变输出。该博客还暗示了遇到的其他不变性问题，并承诺在出现新挑战时进行更新。（基于 58% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106746</guid>
-      <pubDate>Tue, 03 Sep 2024 12:02:06 GMT</pubDate>
+      <title>[媒体] 在我们的研究中，我们发现了加密系统中一个重大的侧信道漏洞 [...]</title>
+      <link>https://t.me/hn_summary/106805</link>
+      <description><![CDATA[EUCLEAK 侧信道攻击 YubiKey 5 系列
+在我们的研究中，我们发现了 Infineon Technologies 加密库中存在一个重大侧信道漏洞，影响 YubiKey 5 系列和其他安全元件。通过分析类似的 Infineon SLE78 JavaCard 平台，我们发现 ECDSA 实现中存在一个非恒定时间模块反转缺陷。这个漏洞在 14 年来一直未被发现，并经过了多次高级安全评估，它允许具有物理访问权限的攻击者提取 ECDSA 密钥，从而可能克隆 FIDO 设备。虽然攻击需要专门的设备和技能，但它凸显了一个关键的安全漏洞。值得注意的是，YubiKey 固件版本 5.7 及更新的产品不受影响。]]></description>
+      <guid>https://t.me/hn_summary/106805</guid>
+      <pubDate>Tue, 03 Sep 2024 18:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mineflow (YC S24) 正在寻找机器学习工程师加入我们的创新团队。</title>
-      <link>https://t.me/hn_summary/106745</link>
-      <description><![CDATA[Mineflow (YC S24) 正在招聘机器学习工程师
-Mineflow (YC S24) 正在寻找机器学习工程师加入我们的创新团队。我们的 AI 平台允许地质学家上传他们的数据，从而彻底改变了矿产勘探，然后我们使用这些数据生成预测矿床形状和位置的自定义模型。这个职位提供了一个在 AI 和地质学交叉领域工作的独特机会，为该领域的突破性进步做出了贡献。如果您对机器学习充满热情并渴望产生重大影响，我们希望听到您的声音。立即申请成为我们改变矿产勘探之旅的一部分。]]></description>
-      <guid>https://t.me/hn_summary/106745</guid>
-      <pubDate>Tue, 03 Sep 2024 12:02:01 GMT</pubDate>
+      <title>[媒体] 谷歌与加州达成价值 1.725 亿美元的协议，以支持新闻业和人工智能，这是 [...]</title>
+      <link>https://t.me/hn_summary/106804</link>
+      <description><![CDATA[谷歌与加州达成的协议未能达到数据税应有的效果
+谷歌与加州达成的 1.725 亿美元协议旨在支持新闻业和人工智能，这只是一个暂时的解决方案，它避开了更有效的税收和监管政策。立法者不应该达成短期协议和向企业支付报酬，而应该对谷歌等公司实施更广泛的数据税。该税将针对用于广告的用户数据和用于人工智能培训的第三方数据的收入，为新闻业提供持续支持。目前由议员 Buffy Wicks 谈判达成的协议取代了谷歌反对的更复杂的立法。加拿大和澳大利亚的类似协议表明，科技巨头正在避免严格的监管。全面的数据税将更加公平和可持续，使税收政策与科技行业在加州的重要作用保持一致。税收应该有明确的定义和执行机制，以确保合规。尽管谷歌与加州的协议有短期效益，但其长期效果值得怀疑，尤其是免税贡献降低了其对税收的积极影响。纳税人最终可能会补贴谷歌的大部分贡献，这凸显了制定更公平政策的必要性。]]></description>
+      <guid>https://t.me/hn_summary/106804</guid>
+      <pubDate>Tue, 03 Sep 2024 17:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GIMP 曾被认为是 Photoshop 的潜在开源替代品，但现在已不再是 [...]</title>
-      <link>https://t.me/hn_summary/106744</link>
-      <description><![CDATA[Gimp 不再是 Photoshop 的可行替代品
-GIMP 曾被认为是 Photoshop 的潜在开源替代品，但对于专业的视觉和图形设计师来说，它已不再可行。作者讲述了与 GIMP 项目成员在 Twitter 上的辩论，强调该软件未能跟上智能对象等行业标准，而智能对象对于非破坏性编辑至关重要。尽管 GIMP 的路线图以非破坏性编辑功能为特色，但实施效果不佳，用户体验繁琐，缺乏专业反馈。虽然 GIMP 仍然提供独特的功能，但其停滞不前和与专业需求脱节限制了其在现代工作流程中的作用。作者呼吁开发一种新的、社区驱动的图像处理程序来弥补 Linux 设计师的差距。令人惊讶的是提到了 PhotoPea，这是一款由单个开发人员创建的现代工具，它成功地融合了 Photoshop 的功能，这引发了人们对 GIMP 的技术债务和开发重点的质疑。]]></description>
-      <guid>https://t.me/hn_summary/106744</guid>
-      <pubDate>Tue, 03 Sep 2024 11:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 丹麦司法部长因在使用加密的同时推行加密禁令而受到批评</title>
-      <link>https://t.me/hn_summary/106743</link>
-      <description><![CDATA[丹麦司法部长因在使用加密的同时推行加密禁令而受到批评
-丹麦司法部长因在使用加密的同时推行加密禁令而受到批评
+      <title>[媒体] PHP 是长期业务的最佳选择</title>
+      <link>https://t.me/hn_summary/106803</link>
+      <description><![CDATA[PHP 是长期业务的最佳选择
+PHP 是长期业务的最佳选择
 
-丹麦司法部长 Peter Hummelgaard 因提倡禁止加密而受到批评，据报道他自己也在使用加密通信。批评者认为，这种立场是虚伪的，破坏了公众的信任。争议的焦点是部长推动立法限制加密以打击犯罪，尽管个人也使用同样的技术。这引发了关于隐私、安全以及国家监督与个人权利之间平衡的争论。这种情况很独特，因为它凸显了数字隐私政策制定的复杂性和潜在的双重标准。]]></description>
-      <guid>https://t.me/hn_summary/106743</guid>
-      <pubDate>Tue, 03 Sep 2024 11:48:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在“图形语言模型”中，Moritz Plenz 和 Anette Frank 探索了 L [...] 的整合。</title>
-      <link>https://t.me/hn_summary/106742</link>
-      <description><![CDATA[图形语言模型
-在“图形语言模型”中，Moritz Plenz 和 Anette Frank 探索了语言模型 (LM) 与结构化知识图谱 (KG) 的集成，这是 NLP 中一个活跃的研究主题。传统方法要么将图形线性化以嵌入 LM，从而丢失结构细微差别，要么使用图形神经网络 (GNN)，而这在处理文本特征时会遇到困难。他们新颖的图形语言模型 (GLM) 结合了两种方法的优势，从预训练的 LM 初始化参数以更好地理解图形概念，并结合图形偏差以实现有效的知识分配。实证评估表明，GLM 在关系分类任务中的表现优于基于 LM 和 GNN 的基线，凸显了它们的多功能性。这种创新方法可以显著推动 NLP 应用的发展。]]></description>
-      <guid>https://t.me/hn_summary/106742</guid>
-      <pubDate>Tue, 03 Sep 2024 11:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：lwn.net</title>
-      <link>https://t.me/hn_summary/106741</link>
-      <description><![CDATA[Elasticsearch 和 Kibana 再次成为免费软件
-标题：Elasticsearch 和 Kibana 再次成为免费软件
-网站：lwn.net
+2024-08-27
 
-2024 年 8 月 30 日由 corbet 发布
+受 Pieter Levels 在 Lex Friedman 播客上的讨论启发，我认为 PHP 是长期业务可持续性的最佳选择。Pieter 对原始 PHP、jQuery 和 SQLite 的使用凸显了炒作驱动开发的陷阱。​​与需要频繁重写的 JavaScript 框架不同，PHP 通过 Symfony 和 Laravel 等框架提供了稳定性，这两个框架分别自 2007 年和 2011 年以来一直很可靠。 PHP 的生态系统促进了良性竞争和创新，PHPStan 和 Rector 等工具可实现自我改进和无缝升级。这使得 PHP 非常适合长期业务需求，尽管它没有最华丽的语法或速度。
 
-Elastic（ElasticSearch 和 Kibana 背后的公司）采取了一项重要举措，宣布这两个项目现在将在 Affero GPL（AGPL）许可下提供。这一变化标志着这些工具回归免费软件，这些工具于 2021 年重新获得非免费服务器端公共许可证 (SSPL) 的许可。Elastic 强调，他们一直以开源社区的心态运营，但采用 OSI 批准的许可证 AGPL 明确了他们对开源的承诺，并消除了任何疑虑或误解。鉴于之前围绕 SSPL 许可证的争议，这一转变尤其值得注意。]]></description>
-      <guid>https://t.me/hn_summary/106741</guid>
-      <pubDate>Tue, 03 Sep 2024 11:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shelly 是一个基于 Web 的、类似 shell 的界面，旨在提供纯粹、原始的体验。</title>
-      <link>https://t.me/hn_summary/106740</link>
-      <description><![CDATA[显示 HN：Shelly – 一个纯粹的、类似于 shell 的 Web 界面
-Shelly 是一个基于 Web 的、类似于 shell 的界面，旨在提供纯粹的、类似于 shell 的体验。该项目旨在创建一个简单、可自定义的 shell 界面，可以集成到任何 HTML 文档中。对于需要直接与 HTTP 后端交互的开发人员来说，它特别有用，无论是在同一台机器上还是通过 CORS。Shelly 通过名为 SHELLY-INPUT 的 HTTP 标头传输用户输入，要求服务器解析、验证和处理命令。作者强调了它的简单性和易于集成是关键的区别因素。很快将提供一个示例实现。]]></description>
-      <guid>https://t.me/hn_summary/106740</guid>
-      <pubDate>Tue, 03 Sep 2024 11:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站：utcc.utoronto.ca</title>
-      <link>https://t.me/hn_summary/106739</link>
-      <description><![CDATA[Apache 对以点结尾的域名的请求的奇怪行为
-标题：Apache 对以点结尾的域名的请求的奇怪行为
-网站：utcc.utoronto.ca
+争议点：对炒作驱动的开发和 JavaScript 框架中频繁重写的批评可能会在支持这些技术的开发人员中引起争议。
 
-在之前的帖子中，我提到域名可以以点结尾以及这会如何影响 URL，并自信地指出对“utcc.utoronto.ca。&#39;（带点）会重定向到不带点的规范形式。然而，Alex 报告说收到了 Apache 的“400 错误请求”响应。这个问题令人困惑且不一致，具体取决于用于访问 URL 的工具。例如，GNU Wget2 因 TLS 证书不匹配而失败，而某些 Apache 配置默认为错误的 TLS 证书。有趣的是，lynx、curl 和 iOS 上的 Safari 等工具成功到达服务器并重定向。然而，Firefox 和可能的 Chrome 会遇到“400 错误请求”错误，可能是由于现代网络安全标头。这种行为在不同的设置和浏览器中仍然令人困惑和不一致。]]></description>
-      <guid>https://t.me/hn_summary/106739</guid>
-      <pubDate>Tue, 03 Sep 2024 11:44:32 GMT</pubDate>
+独特/聪明的见解：PHP 的“自我反思技术”和可以自动进行代码升级的 Rector 等工具被强调为革命性的，使 PHP 有别于其他语言。]]></description>
+      <guid>https://t.me/hn_summary/106803</guid>
+      <pubDate>Tue, 03 Sep 2024 17:51:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 惠普企业（HPE）宣布打算继续高等法院的诉讼[...]</title>
-      <link>https://t.me/hn_summary/106738</link>
-      <description><![CDATA[惠普将追索迈克·林奇的遗产，索赔金额高达 40 亿美元
-惠普企业 (HPE) 宣布，将继续对已故科技大亨迈克·林奇的遗产提起高等法院诉讼，要求赔偿高达 40 亿美元。此前，林奇上个月在意大利海岸沉没，不幸丧生。HPE 此前曾在 2022 年赢得对林奇的民事诉讼，指控他及其前财务总监在 2011 年斥资 110 亿美元收购 Autonomy 时存在欺诈行为。尽管林奇在另一场美国刑事审判中被宣告无罪，但 HPE 决心完成法律程序。法律专家指出，尽管 HPE 对股东负有受托责任，但向林奇遗孀追讨损失在道德上可能值得商榷，而且可能会损害公司的声誉。]]></description>
-      <guid>https://t.me/hn_summary/106738</guid>
-      <pubDate>Tue, 03 Sep 2024 11:42:28 GMT</pubDate>
+      <title>[媒体] 微软已确认 Windows 11 用户将无法卸载该控件 [...]</title>
+      <link>https://t.me/hn_summary/106802</link>
+      <description><![CDATA[微软 Windows 11 上的 Recall 功能终究无法移除
+微软已确认 Windows 11 用户将无法卸载备受争议的“Recall”功能，尽管早前的报道表明并非如此。Recall 是 5 月份发布的 Copilot+ 套件的一部分，它会自动捕获用户活动的屏幕截图以帮助检索过去的工作。早先的一个错误误导用户认为他们可以卸载 Recall，但微软澄清这是不正确的。批评者认为，Recall 通过存储敏感数据构成网络安全风险。在公众强烈反对后，微软让 Recall 成为可选功能，并推迟了其发布以解决安全问题。英国 ICO 正在调查潜在的隐私侵犯行为。该功能将于 10 月由 Windows Insiders 进行测试。]]></description>
+      <guid>https://t.me/hn_summary/106802</guid>
+      <pubDate>Tue, 03 Sep 2024 17:50:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《雇佣比你聪明的人是坏建议》一书中，作者对流行的不 [...]</title>
-      <link>https://t.me/hn_summary/106737</link>
-      <description><![CDATA[“雇佣比你聪明的人”是个坏建议 (2018)
-在《雇佣比你聪明的人”是个坏建议》一书中，作者挑战了史蒂夫·乔布斯和理查德·布兰森等人物所认可的流行观念，即雇佣最聪明的人可以保证企业成功。对于小型企业来说，由于成本高昂且顶尖人才稀缺，这种策略是不切实际且不可持续的。相反，作者主张建立一种责任感和主动性的文化，在这种文化中，明确的指示和有效的沟通优先于雇佣“最优秀”的人才。这种方法使企业能够持续增长，并减少对关键人员的依赖。作者还强调了战略性地使用顾问来提供专家建议，明确指出对于大多数企业来说，雇佣最聪明的人既不可行也没有必要。]]></description>
-      <guid>https://t.me/hn_summary/106737</guid>
-      <pubDate>Tue, 03 Sep 2024 11:42:24 GMT</pubDate>
+      <title>[媒体] 减少卡路里摄入：可以延长寿命吗？</title>
+      <link>https://t.me/hn_summary/106801</link>
+      <description><![CDATA[减少卡路里：能延长寿命吗？（2003 年）
+在“减少卡路里：能延长寿命吗？”一文中，Julia Sommerfeld 探讨了限制卡路里饮食对延长寿命的潜在益处，重点研究了微软工程师 Micky Snir，他每天摄入的卡路里约为 2,000 卡路里，比推荐量少 30%。对各种动物的研究表明，减少 30% 的卡路里摄入量可以将寿命延长相同的百分比，并避免与年龄相关的疾病。然而，这种饮食也有缺点，比如饥饿感和低能量。研究人员对其对人类的适用性存在分歧，有些人担心骨骼脆弱等潜在风险。尽管面临挑战，Snir 仍然坚持不懈，将他的饮食视为对更长寿、更健康生活的投资。文章强调了这种饮食的长期效果的争议以及维持这种饮食习惯所需的独特奉献精神。]]></description>
+      <guid>https://t.me/hn_summary/106801</guid>
+      <pubDate>Tue, 03 Sep 2024 17:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 安全公告 YSA-2024-03：英飞凌 ECDSA 私钥恢复</title>
+      <link>https://t.me/hn_summary/106800</link>
+      <description><![CDATA[Yubikey 安全公告 YSA-2024-03 Infineon Ecdsa 私钥恢复
+安全公告 YSA-2024-03：Infineon ECDSA 私钥恢复
+
+此公告于 2024 年 9 月 3 日发布，解决了 Infineon 加密库中的一个中等漏洞，该漏洞影响 YubiKey 5 系列、安全密钥系列和 YubiHSM 2，固件版本分别低于 5.7.0 和 2.4.0。该漏洞允许具有物理访问权限和专用设备的高级攻击者恢复私钥。这主要影响 FIDO 用例，但也可能影响 PIV 和 OpenPGP 应用程序。Yubico 已通过在较新的固件版本中过渡到自己的加密库来缓解此问题。建议用户将设备更新至最新固件，以避免潜在的漏洞。有关详细的缓解步骤，请参阅公告中链接的支持文章。]]></description>
+      <guid>https://t.me/hn_summary/106800</guid>
+      <pubDate>Tue, 03 Sep 2024 17:37:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] gRPC：5 年过去了，它仍然值得吗？</title>
+      <link>https://t.me/hn_summary/106799</link>
+      <description><![CDATA[gRPC：5 年后，它还值得吗？
+在 kostyay.com 上的“gRPC：5 年后，它还值得吗？”中，作者回顾了使用 gRPC 和 Protobuf 作为 Torq 技术栈的决定，这一选择是为了避免在以前的项目中使用 OpenAPI/Swagger 时遇到的陷阱。作者强调了 gRPC 的好处，例如保持向后兼容性、通过 linting 强制执行标准以及减少客户端和服务器之间的差异。本文赞扬了 gRPC 生态系统的进步，尤其是 buf.build 的贡献，这些贡献简化了代码生成和依赖项管理。作者还讨论了在前端开发中使用 gRPC-web 所面临的挑战和解决方案，以及使用 linkerd 等服务网格实现适当负载平衡和增强安全性的优势。尽管面临一些挑战，作者仍然是 gRPC 的坚定支持者，并指出其持续改进和强大的生态系统。
+
+争议点：作者提到使用 gRPC-web 会使前端调试复杂化，并可能减慢前端工程师的速度，这可能被视为一个缺点。
+
+独特/聪明的见解：作者强调使用 buf.build 及其工具，例如 buf generate 和 Buf Schema Registry (BSR)，它们显着改善了开发人员的体验并简化了管理 proto 文件和依赖项的过程。]]></description>
+      <guid>https://t.me/hn_summary/106799</guid>
+      <pubDate>Tue, 03 Sep 2024 17:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Go 1.23 及更高版本中的遥测</title>
+      <link>https://t.me/hn_summary/106798</link>
+      <description><![CDATA[Go 1.23 及以后版本中的遥测
+Go 1.23 及以后版本中的遥测
+
+Robert Findley，2024 年 9 月 3 日
+
+Go 1.23 引入了一个新的遥测系统，通过允许用户共享有关工具链程序及其使用情况的数据来增强 Go 工具链。这些数据可帮助 Go 团队修复错误、避免回归并做出明智的决策。默认情况下，遥测数据存储在本地，但用户可以使用命令 go telemetry on 启用远程上传。最初的设计旨在默认启用遥测，但在公众关注后被更改为需要用户明确同意。gopls v0.14 中的第一次遥测迭代导致重大错误修复。尽管最初参与人数较少，但 VS Code Go 插件的推出使每周参与人数增加到 1800 人左右。然而，这导致 VS Code 用户人数偏多。未来计划包括将遥测扩展到其他工具并改善用户体验指标。事实证明，遥测在识别和修复原本会被忽视的错误方面非常有价值。]]></description>
+      <guid>https://t.me/hn_summary/106798</guid>
+      <pubDate>Tue, 03 Sep 2024 17:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：linktomarkdown.com</title>
+      <link>https://t.me/hn_summary/106797</link>
+      <description><![CDATA[显示 HN：LinkToMarkdown – 一键提取网页内容以清理 Markdown
+标题：显示 HN：LinkToMarkdown – 一键提取网页内容以清理 Markdown
+网站：linktomarkdown.com
+
+欢迎使用 LinkToMarkdown！此工具可让您轻松提取网页内容，只需单击一下即可将其转换为干净的 Markdown 格式。主要功能包括从链接中提取文档、生成 Markdown 和实时预览。要使用，只需将链接粘贴到输入框中，单击“解析”，然后查看生成的 Markdown。您还可以在左侧编辑 Markdown，右侧会显示实时更新。支持的格式包括代码块。尽情使用 LinkToMarkdown 吧！]]></description>
+      <guid>https://t.me/hn_summary/106797</guid>
+      <pubDate>Tue, 03 Sep 2024 17:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Formance (YC S21) 正在寻找一名技术作家远程加入其团队，并具备 [...]</title>
+      <link>https://t.me/hn_summary/106796</link>
+      <description><![CDATA[Formance (YC S21) 正在招聘一名技术作家
+Formance (YC S21) 正在寻找一名技术作家远程加入其团队，可选择现场入职一周。该职位涉及创建、改进和维护技术文档，例如用户手册、API 文档、教程和技术博客文章。作家将与产品、工程和营销团队合作，确保文档清晰、用户友好且与产品保持一致。主要职责包括成为主要文档所有者、制定内容策略、收集用户反馈以及管理多个项目。应聘者应具有 3-4 年的技术写作经验、英语流利以及熟悉记录 API 和开发人员工具。优先资格包括具有开源项目、云服务和 SEO 最佳实践的经验。薪资范围为 70-78K 美元，申请人必须提交近期作品集。]]></description>
+      <guid>https://t.me/hn_summary/106796</guid>
+      <pubDate>Tue, 03 Sep 2024 17:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
