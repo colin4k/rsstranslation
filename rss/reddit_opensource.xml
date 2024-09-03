@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Sep 2024 03:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 06:02:14 GMT</lastBuildDate>
+    <item>
+      <title>重制版 Awesome Windows 列表（转载）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7serr/remake_of_awesome_windows_list_repost/</link>
+      <description><![CDATA[大家好，我开始重新制作 GitHub 上的 Awesome Windows 列表，因为原始列表已经 3 年没有更新了，而且所有者也没有兴趣维护它。 看看这里，我感谢每一颗星。 https://github.com/0PandaDEV/awesome-windows 最后一篇文章被删除了，因为该项目有“非开源”许可证。    提交人    /u/PandaDEV_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7serr/remake_of_awesome_windows_list_repost/</guid>
+      <pubDate>Tue, 03 Sep 2024 05:41:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>电缆规划软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7qc9d/cable_plan_software/</link>
+      <description><![CDATA[可能太小众了，但我正在寻找类似这样的电缆规划/图表软件：https://www.vectorworks.net/en-US/connectcad 有没有对 CAD 这个领域有信心的人推荐一个不错的开源替代方案？    提交人    /u/GreasyBogs   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7qc9d/cable_plan_software/</guid>
+      <pubDate>Tue, 03 Sep 2024 03:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>电缆规划软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f7qc3m/cable_plan_software/</link>
+      <description><![CDATA[可能太小众了，但我正在寻找类似这样的电缆规划/图表软件：https://www.vectorworks.net/en-US/connectcad 有没有对 CAD 这个领域有信心的人推荐一个不错的开源替代方案？    提交人    /u/GreasyBogs   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f7qc3m/cable_plan_software/</guid>
+      <pubDate>Tue, 03 Sep 2024 03:39:54 GMT</pubDate>
+    </item>
     <item>
       <title>Loadr，一种在 HTML 中无缝加载大图像的有效解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1f7jl7t/loadr_an_efficient_solution_for_seamlessly/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/shandy_bhaiya  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f6ff0e/searching_for_partners_to_build_products_around/</guid>
       <pubDate>Sun, 01 Sep 2024 14:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为非技术用户，靠欧洲的开源技术谋生。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f6fdv0/make_a_living_out_of_opensource_in_europe_as_a/</link>
-      <description><![CDATA[我想知道像我这样的非技术人员（没有计算机科学学位的修补匠）是否真的可以进入该领域。我正在认真考虑申请桌面支持角色或类似职位，但我想确保自己先接受扎实的培训（也许在明年离开我目前乏味的办公室工作之前）。 我对开源工具充满热情，并希望从事一份能够帮助他人充分利用这些解决方案的职业。我已经使用各种开源工具有一段时间了，我认为这对我来说是完美的选择。关于哪些公司或职位可以帮助我实现这些目标，您有什么建议吗？ 谢谢！    提交人    /u/psomifilo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f6fdv0/make_a_living_out_of_opensource_in_europe_as_a/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scribo - 一个简单、高效、内容优先的静态站点生成器（SSG）。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f6c1pg/scribo_a_simple_efficient_and_contentfirst_static/</link>
-      <description><![CDATA[大家好，我正在研究一个小型开源项目，想与大家分享。我使用 Python 构建了一个简单的静态站点生成器，它使用 Markdown 进行内容和基于文件系统的路由。您可以使用 pip 安装它。 如果您感兴趣，我希望您在 GitHub 上查看它！另外，作为一点小奖励，该项目的文档站点也是用 Scribo 构建的，因此您可以看到它的实际效果。 该项目完全开放供大家贡献和建议，所以如果您有任何想法或想伸出援手，请不要犹豫，加入我们，帮助将 Scribo 塑造成一个很棒的项目！ Github：https://github.com/sujaudd1n/scribo    提交人    /u/sujaudd1n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f6c1pg/scribo_a_simple_efficient_and_contentfirst_static/</guid>
-      <pubDate>Sun, 01 Sep 2024 11:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 PC 和模拟器游戏的游戏时间跟踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f6a58n/gameplay_time_tracker_for_pc_and_emulator_games/</link>
-      <description><![CDATA[        提交人    /u/kulvind3r   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f6a58n/gameplay_time_tracker_for_pc_and_emulator_games/</guid>
-      <pubDate>Sun, 01 Sep 2024 09:04:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

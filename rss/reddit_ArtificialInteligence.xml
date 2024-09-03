@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 03:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 06:01:41 GMT</lastBuildDate>
+    <item>
+      <title>我讨厌写论文：成功完成作业的有效技巧</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7slns/i_hate_essays_effective_tips_for_successful/</link>
+      <description><![CDATA[  由    /u/Leonidas_suk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7slns/i_hate_essays_effective_tips_for_successful/</guid>
+      <pubDate>Tue, 03 Sep 2024 05:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能真的变得越来越笨了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ro6c/is_ai_actually_getting_dumber/</link>
+      <description><![CDATA[我看过一个 Etymology Nerd 的视频，视频中说当 AI 试图绘制某些东西时，它会模仿它，如果你在 AI 上使用 AI，那么 30 次之后它就只是胡言乱语了。这最终不会发生在所有 AI 身上吗？例如 ChatGPT 这样的聊天机器人，如果它不断在网上写作和发布内容，然后再次“模仿”它，那么一切不是都会变成胡言乱语吗？这也会发生在图像和视频上吗？    提交人    /u/ab_aakrann07   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7ro6c/is_ai_actually_getting_dumber/</guid>
+      <pubDate>Tue, 03 Sep 2024 04:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 9 月 2 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7rmuh/oneminute_daily_ai_news_922024/</link>
+      <description><![CDATA[ 自学 AI 揭晓 2024 年第一周每场比赛的 NFL 让分盘、大小分盘和货币线选择。[1] 委内瑞拉最新的通讯社表示，在政府打击期间，AI 主播保护记者。[2] 英国首个由 AI 授课的“无教师”教室中的学生。伦敦金融城一所私立学校的 20 名学生将通过电脑上的 AI 平台和 VR 耳机进行授课。[3] 《黑神话：悟空》的成功告诉我们关于投资 AI 初创企业的意义。[4]  来源包括：https://bushaicave.com/2024/09/02/9-2-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7rmuh/oneminute_daily_ai_news_922024/</guid>
+      <pubDate>Tue, 03 Sep 2024 04:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要关于从哪里开始一个项目的建议。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7r992/i_need_advice_on_where_to_start_on_a_project/</link>
+      <description><![CDATA[好的，我想在 Raspberry PI 或类似设备上加载一个 AI，专门用于运行 CO Grader 等评分软件。它是为了标记论文以供审查。我应该从哪里开始？    提交人    /u/Puzzleheaded_Post555   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7r992/i_need_advice_on_where_to_start_on_a_project/</guid>
+      <pubDate>Tue, 03 Sep 2024 04:30:27 GMT</pubDate>
+    </item>
     <item>
       <title>个人助理适合哪个平台？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7oirg/which_platform_for_a_personal_assistant/</link>
@@ -69,27 +97,6 @@
       <pubDate>Mon, 02 Sep 2024 20:24:39 GMT</pubDate>
     </item>
     <item>
-      <title>用于组织 RAG 模型集成的知识库的最佳工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7glb6/best_tools_for_organizing_knowledge_bases_for_rag/</link>
-      <description><![CDATA[大家好， 我们需要一个工具来帮助我们组织知识库，以便它与检索增强生成 (RAG) 模型配合良好。目前，我们的信息分散在 Confluence 和 Google Docs 中，而且组织性不强；内容重复，有些内容不清楚。 我们正在寻找：  SSO 集成：需要与我们的单点登录 (SSO) 系统配合使用。 角色管理：应支持创建者、审批者和策展人等角色，并提供内容审批工作流程。 内容指导和质量控制：该工具应指导内容创建者遵循最佳实践并检查重复或冲突信息等问题。我们想要一些有助于确保新内容高质量且一致的东西。 特别适合与 RAG 配合使用。 轻松更新和警报：它应该可以轻松保持内容最新，并在用户关心的内容更新时通知用户。 AI 友好：需要针对与 AI 模型一起使用进行优化，尤其是在 RAG 设置中组织和检索知识时。  我想知道：  工具建议：有没有适合这些需求的工具建议？您是否使用过效果良好的类似工具？ 最佳实践：组织和维护知识库的最佳方法是什么，以便轻松与 AI（尤其是 RAG）一起使用？  非常感谢您的帮助！我期待您的想法。    提交人    /u/ButterscotchEarly729   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7glb6/best_tools_for_organizing_knowledge_bases_for_rag/</guid>
-      <pubDate>Mon, 02 Sep 2024 20:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AGI 是否仅适用于分布式网络？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7fmmg/is_agi_possible_only_on_distributed_networks/</link>
-      <description><![CDATA[我注意到有一些分布式网络，例如 Folding@Home、SETI@Home、Golem 和 BOINC，它们利用用户的消费级 GPU 执行各种任务，包括机器学习，我很好奇为什么类似的系统尚未普及。假设全球云数据中心有 100 万个机器学习 GPU 提供给消费者，每个 GPU 的平均 GPU 内存被高估为 60GB。总计约为 58.6 PB。相比之下，全球大约有 3 亿到 4 亿个消费级 GPU，每个 GPU 的平均 VRAM 为 6-8GB，总计约为 2,340 PB。这意味着全球仅 2.5% 的消费级 GPU 就能提供比所有当前基于云的机器学习服务总和还要多的 GPU 内存。 如果云服务提供的 58.6 PB 的 GPU 内存不足以训练 AGI，那么是否可以想象，利用消费级 GPU 的分布式网络可能是唯一能够满足这种需求的技术？    提交人    /u/Crafty-Feed8941   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7fmmg/is_agi_possible_only_on_distributed_networks/</guid>
-      <pubDate>Mon, 02 Sep 2024 19:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么 AI 工具可以根据文本创建文章 PDF 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7d3a3/ai_tool_to_create_article_pdfs_from_text/</link>
-      <description><![CDATA[嘿，大家好，想知道是否有一种工具可以根据我提供的文本（文章正文）创建文章并创建设计精美的文章 pdf？    提交人    /u/YoungAsian123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7d3a3/ai_tool_to_create_article_pdfs_from_text/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:50:30 GMT</pubDate>
-    </item>
-    <item>
       <title>测试 AMD Amuse - 在 AMD 硬件上使用稳定扩散模型进行本地图像生成</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f7bllt/testing_amd_amuse_local_image_generation_with/</link>
       <description><![CDATA[应用程序：https://www.amuse-ai.com/ 我的评论/示例图像混合和生成：https://rkblog.dev/posts/programming-general/amd-amuse-image-generation/  这是一种 AMD 的展示应用程序，但可用于生成和混合图像，在使用付费 API 处理一些更高级的模型之前，先在本地使用提示播放。该应用程序是免费的 :) 我在配备 32GB RAM 的 Radeon RX 6950 XT 和 Ryzen 5900X 上测试了该应用程序，在高质量下，生成图像需要 15-30 秒。低质量模型几乎是即时的。据称 Flux.1 需要 24GB VRAM，因此只能使用 RX 7900 XTX。更改纵横比选项可能需要重新启动应用程序，因为它可以随机开始忽略源图像（对于混合）。 图像生成相当“基础”，而图像混合可以更有趣 - 将现有图像转换为不同的风格 - 比如默认情况下它有赛博朋克风格提示，而且它似乎做得很好。通常存在文本、身体部位真实感等问题 ;) 模型并不是应用程序独有的，因此对于 Linux 或自定义应用程序需要，可以重新创建它。    提交人    /u/riklaunim   [链接] [评论]]]></description>
@@ -109,13 +116,6 @@
       <description><![CDATA[我正在为一个竞赛项目开发一个深度学习模型，该模型可以分析个人的写作语法和语义，以检测抑郁迹象和自残可能性。但是，我在这方面没有太多经验，而且我还有一个月的时间来完成这个项目，所以我真的需要一些指导。 目标是建立一个可以处理文本数据（如社交媒体帖子或日记条目）的模型，并识别可能表明某人正在与心理健康问题作斗争并可能面临自残风险的语言模式。我正在考虑使用双向 LSTM 架构，因为通过我所做的一些基础研究，它似乎对此很有效。 如果有人可以指导我完成这项工作需要了解的事情、我应该使用什么样的数据进行训练以及如何评估模型的性能，我将不胜感激。 如果有人有类似项目的经验并且可以为我提供关于完成这项工作需要采取哪些步骤的建议，我将不胜感激您的意见。谢谢！    提交人    /u/bobthebuilder0204   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f7b0ut/deep_learning_model_that_uses_syntax_and/</guid>
       <pubDate>Mon, 02 Sep 2024 16:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果没有计算机科学学位，我该如何在人工智能领域开创职业道路？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f70k7m/how_can_i_make_a_career_path_in_ai_without_a_cs/</link>
-      <description><![CDATA[我是一名来自其他国家的 21 岁环境工程专业学生。发生了一些事情，我不得不选择这个我不满意的学位。我无法改变它 - 我要么退学，要么完成我的学位，我打算完成它。我对人工智能感兴趣，我想在这个行业工作。这可能吗？如果可能，我应该如何开始？ 谢谢。抱歉我的英语不是我的母语。    提交人    /u/idkidkidkidk7777799   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f70k7m/how_can_i_make_a_career_path_in_ai_without_a_cs/</guid>
-      <pubDate>Mon, 02 Sep 2024 07:07:33 GMT</pubDate>
     </item>
     <item>
       <title>微软、苹果和 NVIDIA 投资 OpenAI，使其免于破产并将其价值提升至 1000 亿美元以上。</title>
