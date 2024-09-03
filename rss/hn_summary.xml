@@ -4,95 +4,96 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 05:27:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 12:02:06 GMT</lastBuildDate>
     <item>
-      <title>在对 IPMI（智能平台管理接口）进行详细探讨的过程中，作者 [...]</title>
-      <link>https://t.me/hn_summary/106710</link>
-      <description><![CDATA[IPMI
-在对 IPMI（智能平台管理接口）的详细探索中，作者讨论了服务器管理的演变和现状，特别关注带外 (OOB) 管理。叙述从作者为“计算机很糟糕”企业云升级服务器的个人经历开始。本文深入探讨了服务器架构的历史背景，强调了从专用服务器系统向更标准化的 PC 类架构的转变。本文的核心是深入研究 IPMI、其功能以及它在戴尔和惠普等不同供应商中的实现。作者解释了 IPMI 的细微差别，包括其网络接口和安全问题，并将其与英特尔 AMT 等类似技术进行了比较。令人惊讶的是 IPMI 实现的复杂性和多变性，如果管理不当，可能会导致安全漏洞。作者还谈到了在非企业环境中使用 IPMI 的挑战，并指出英特尔 AMT 对消费设备的适用性有限。（基于 89% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106710</guid>
-      <pubDate>Tue, 03 Sep 2024 05:27:29 GMT</pubDate>
+      <title>在即将发布的 astcenc 2.5 版本中，重点是确保不同 [...] 之间的输出一致性。</title>
+      <link>https://t.me/hn_summary/106746</link>
+      <description><![CDATA[创建不变浮点累加器
+在即将发布的 astcenc 2.5 版本中，尽管性能会略有下降，但重点是确保跨不同指令集（如 NEON、SSE4.1 和 AVX2 SIMD）的输出一致性。对于需要统一构建的游戏开发者来说，这种一致性至关重要，无论使用哪种机器。该博客深入探讨了实现浮点不变性的复杂性，强调了浮点算术对操作顺序的敏感性如何导致不一致。作者详细解释了如何编写不变的向量长度独立累加器，解决了可变宽度累加器和循环尾等常见陷阱。巧妙的解决方案涉及标准化 vec4 累加器并管理循环尾以保持一致性。这种方法虽然速度稍慢，但可确保跨不同 SIMD 实现的不变输出。该博客还暗示了遇到的其他不变性问题，并承诺在出现新挑战时进行更新。（基于 58% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/106746</guid>
+      <pubDate>Tue, 03 Sep 2024 12:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 富国银行员工 Denise Prudhomme 被发现死在亚利桑那州坦佩市的一家公司的办公桌上 [...]</title>
-      <link>https://t.me/hn_summary/106709</link>
-      <description><![CDATA[富国银行员工上班几天后被发现死在办公桌上
-富国银行员工 Denise Prudhomme 于 8 月 16 日上班四天后被发现死在亚利桑那州坦佩市的办公室办公桌上。Prudhomme 的死因于 8 月 20 日被保安发现，促使富国银行审查其内部安全和健康程序。尽管有全天候安保，但 Prudhomme 的尸体却无人发现，这引起了员工的担忧，他们报告说有恶臭，但认为这是由于管道问题造成的。富国银行强调，在通知其他员工之前，必须先通知 Prudhomme 的家人。死因仍在调查中，目前没有谋杀的迹象。]]></description>
-      <guid>https://t.me/hn_summary/106709</guid>
-      <pubDate>Tue, 03 Sep 2024 05:18:22 GMT</pubDate>
+      <title>[媒体] Mineflow (YC S24) 正在寻找机器学习工程师加入我们的创新团队。</title>
+      <link>https://t.me/hn_summary/106745</link>
+      <description><![CDATA[Mineflow (YC S24) 正在招聘机器学习工程师
+Mineflow (YC S24) 正在寻找机器学习工程师加入我们的创新团队。我们的 AI 平台允许地质学家上传他们的数据，从而彻底改变了矿产勘探，然后我们使用这些数据生成预测矿床形状和位置的自定义模型。这个职位提供了一个在 AI 和地质学交叉领域工作的独特机会，为该领域的突破性进步做出了贡献。如果您对机器学习充满热情并渴望产生重大影响，我们希望听到您的声音。立即申请成为我们改变矿产勘探之旅的一部分。]]></description>
+      <guid>https://t.me/hn_summary/106745</guid>
+      <pubDate>Tue, 03 Sep 2024 12:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1987 年，约翰·诺尔 (John Knoll) 为当时的女友詹妮弗 (Jennife) 拍摄了一张看似普通的照片 [...]</title>
-      <link>https://t.me/hn_summary/106708</link>
-      <description><![CDATA[天堂里的珍妮弗：第一张 Photoshop 图像的故事 (2014)
-1987 年，约翰·诺尔 (John Knoll) 拍摄了一张看似普通的照片，照片中的他当时的女友珍妮弗上身裸露，站在波拉波拉岛的海滩上。这张照片后来被命名为“天堂里的珍妮弗”，成为第一张用来展示 Photoshop 的彩色照片，Photoshop 是由约翰和他的兄弟托马斯开发的一款开创性的软件。这款软件最初只是一种业余爱好，后来演变成一种革命性的图像处理工具。荷兰艺术家康斯坦特·杜拉特 (Constant Dullaart) 后来探索了这张照片的文化意义，他在自己的艺术展上对这张照片进行了颇具争议的重建，突出了物化和技术对视觉文化的影响的主题。虽然约翰·诺尔对 Photoshop 的影响感到自豪，但他仍然对杜拉特的重新诠释持怀疑态度。然而，詹妮弗对互联网的变革力量持更积极的看法。]]></description>
-      <guid>https://t.me/hn_summary/106708</guid>
-      <pubDate>Tue, 03 Sep 2024 04:50:11 GMT</pubDate>
+      <title>[媒体] GIMP 曾被认为是 Photoshop 的潜在开源替代品，但现在已不再是 [...]</title>
+      <link>https://t.me/hn_summary/106744</link>
+      <description><![CDATA[Gimp 不再是 Photoshop 的可行替代品
+GIMP 曾被认为是 Photoshop 的潜在开源替代品，但对于专业的视觉和图形设计师来说，它已不再可行。作者讲述了与 GIMP 项目成员在 Twitter 上的辩论，强调该软件未能跟上智能对象等行业标准，而智能对象对于非破坏性编辑至关重要。尽管 GIMP 的路线图以非破坏性编辑功能为特色，但实施效果不佳，用户体验繁琐，缺乏专业反馈。虽然 GIMP 仍然提供独特的功能，但其停滞不前和与专业需求脱节限制了其在现代工作流程中的作用。作者呼吁开发一种新的、社区驱动的图像处理程序来弥补 Linux 设计师的差距。令人惊讶的是提到了 PhotoPea，这是一款由单个开发人员创建的现代工具，它成功地融合了 Photoshop 的功能，这引发了人们对 GIMP 的技术债务和开发重点的质疑。]]></description>
+      <guid>https://t.me/hn_summary/106744</guid>
+      <pubDate>Tue, 03 Sep 2024 11:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>网站：news.ycombinator.com</title>
-      <link>https://t.me/hn_summary/106707</link>
-      <description><![CDATA[告诉 HN：Vimeo 的免费试用是掠夺性的
-标题：告诉 HN：Vimeo 的免费试用是掠夺性的
-网站：news.ycombinator.com
+      <title>[媒体] 丹麦司法部长因在使用加密的同时推行加密禁令而受到批评</title>
+      <link>https://t.me/hn_summary/106743</link>
+      <description><![CDATA[丹麦司法部长因在使用加密的同时推行加密禁令而受到批评
+丹麦司法部长因在使用加密的同时推行加密禁令而受到批评
 
-Vimeo 的免费试用做法是掠夺性的，如果您在试用结束前降级，即使新计划具有相同的存储限制，也会扣留您的视频可用性。他们还会在试用结束前向您收费。以下是我的经验：我注册了年度标准免费试用，计划在试用结束前切换到按月计费。尽管有一封电子邮件保证在 2024 年 9 月 3 日之前不会向我收费，但我的账户在 9 月 2 日就被扣除了 240 美元。Vimeo 仪表板显示没有收费，禁用自动续订也无济于事。支持人员告诉我，降级需要在续订前 24 小时联系他们，而且我不能切换到按月付费，否则服务会失效，有可能无法观看视频。Vimeo 的设计似乎故意复杂化和掠夺性，与他们之前支持独立电影制作人的声誉形成鲜明对比。]]></description>
-      <guid>https://t.me/hn_summary/106707</guid>
-      <pubDate>Tue, 03 Sep 2024 03:58:51 GMT</pubDate>
+丹麦司法部长 Peter Hummelgaard 因提倡禁止加密而受到批评，据报道他自己也在使用加密通信。批评者认为，这种立场是虚伪的，破坏了公众的信任。争议的焦点是部长推动立法限制加密以打击犯罪，尽管个人也使用同样的技术。这引发了关于隐私、安全以及国家监督与个人权利之间平衡的争论。这种情况很独特，因为它凸显了数字隐私政策制定的复杂性和潜在的双重标准。]]></description>
+      <guid>https://t.me/hn_summary/106743</guid>
+      <pubDate>Tue, 03 Sep 2024 11:48:47 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：拉里·佩奇 (Larry Page) 怎么了？</title>
-      <link>https://t.me/hn_summary/106706</link>
-      <description><![CDATA[问 HN：拉里·佩奇怎么了？
-作者是一名机器人专家，他对谷歌联合创始人拉里·佩奇目前的行踪和活动表示了深深的好奇。受佩奇在斯坦福大学发表的演讲的启发，作者将自己的职业生涯奉献给了打造智能自主机器人。他们将自己的成功和动力归功于佩奇，尤其是通过谷歌的时代精神演讲和采访。尽管有传言称佩奇已经退居新西兰的一个岛屿，但作者很难相信他已经完全退出了科技界，尤其是在人工智能如此关键的时期。他们寻求超越佩奇交出控制权并退缩的典型叙述的见解，并对他对他们生活的影响表示衷心的感谢。]]></description>
-      <guid>https://t.me/hn_summary/106706</guid>
-      <pubDate>Tue, 03 Sep 2024 03:52:46 GMT</pubDate>
+      <title>[媒体] 在“图形语言模型”中，Moritz Plenz 和 Anette Frank 探索了 L [...] 的整合。</title>
+      <link>https://t.me/hn_summary/106742</link>
+      <description><![CDATA[图形语言模型
+在“图形语言模型”中，Moritz Plenz 和 Anette Frank 探索了语言模型 (LM) 与结构化知识图谱 (KG) 的集成，这是 NLP 中一个活跃的研究主题。传统方法要么将图形线性化以嵌入 LM，从而丢失结构细微差别，要么使用图形神经网络 (GNN)，而这在处理文本特征时会遇到困难。他们新颖的图形语言模型 (GLM) 结合了两种方法的优势，从预训练的 LM 初始化参数以更好地理解图形概念，并结合图形偏差以实现有效的知识分配。实证评估表明，GLM 在关系分类任务中的表现优于基于 LM 和 GNN 的基线，凸显了它们的多功能性。这种创新方法可以显著推动 NLP 应用的发展。]]></description>
+      <guid>https://t.me/hn_summary/106742</guid>
+      <pubDate>Tue, 03 Sep 2024 11:48:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在维护不熟悉的代码库时，我经常发现自己在 grep 类似的字符串 [...]</title>
-      <link>https://t.me/hn_summary/106705</link>
-      <description><![CDATA[可搜索性是一种被低估的代码指标
+      <title>网站：lwn.net</title>
+      <link>https://t.me/hn_summary/106741</link>
+      <description><![CDATA[Elasticsearch 和 Kibana 再次成为免费软件
+标题：Elasticsearch 和 Kibana 再次成为免费软件
+网站：lwn.net
 
-在维护不熟悉的代码库时，我经常会发现自己在搜索字符串，如函数名称、错误消息和类名称。这种必要性促使我制定规则来增强代码库的可搜索性。首先，避免拆分或动态构造标识符，因为这会使搜索变得复杂。例如，动态创建表名可能看起来很枯燥，但却妨碍了可维护性。其次，在整个堆栈中使用一致的名称以避免多个搜索词。最后，为了更容易进行键和组件搜索，最好使用扁平结构而不是嵌套结构。这些做法可确保代码仍然易于搜索和维护。
+2024 年 8 月 30 日由 corbet 发布
 
-令人惊讶/聪明：强调可搜索性是代码可维护性的关键指标，这是独特而有见地的。]]></description>
-      <guid>https://t.me/hn_summary/106705</guid>
-      <pubDate>Tue, 03 Sep 2024 03:34:37 GMT</pubDate>
+Elastic（ElasticSearch 和 Kibana 背后的公司）采取了一项重要举措，宣布这两个项目现在将在 Affero GPL（AGPL）许可下提供。这一变化标志着这些工具回归免费软件，这些工具于 2021 年重新获得非免费服务器端公共许可证 (SSPL) 的许可。Elastic 强调，他们一直以开源社区的心态运营，但采用 OSI 批准的许可证 AGPL 明确了他们对开源的承诺，并消除了任何疑虑或误解。鉴于之前围绕 SSPL 许可证的争议，这一转变尤其值得注意。]]></description>
+      <guid>https://t.me/hn_summary/106741</guid>
+      <pubDate>Tue, 03 Sep 2024 11:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 富国银行员工丹尼斯·普鲁多姆 (Denise Prudhomme)（60 岁）被发现死在亚利桑那州坦佩的办公桌上 [...]</title>
-      <link>https://t.me/hn_summary/106704</link>
-      <description><![CDATA[富国银行员工上班四天后被发现死在办公桌上
-富国银行员工 Denise Prudhomme（60 岁）上班四天后被发现死在亚利桑那州坦佩的办公桌上。她最后一次上班是在 8 月 16 日，8 月 20 日被现场保安发现，保安随即报警。消防员于下午 4:55 宣布她死亡。初步调查未发现任何谋杀迹象，但死因尚待确定。员工报告有恶臭，最初认为是管道问题。有人质疑富国银行为何没有立即通知员工死因。富国银行表示，他们优先通知 Prudhomme 的家人，并表示哀悼。该公司正在审查其内部程序并为受影响的员工提供支持。]]></description>
-      <guid>https://t.me/hn_summary/106704</guid>
-      <pubDate>Tue, 03 Sep 2024 03:31:33 GMT</pubDate>
+      <title>Shelly 是一个基于 Web 的、类似 shell 的界面，旨在提供纯粹、原始的体验。</title>
+      <link>https://t.me/hn_summary/106740</link>
+      <description><![CDATA[显示 HN：Shelly – 一个纯粹的、类似于 shell 的 Web 界面
+Shelly 是一个基于 Web 的、类似于 shell 的界面，旨在提供纯粹的、类似于 shell 的体验。该项目旨在创建一个简单、可自定义的 shell 界面，可以集成到任何 HTML 文档中。对于需要直接与 HTTP 后端交互的开发人员来说，它特别有用，无论是在同一台机器上还是通过 CORS。Shelly 通过名为 SHELLY-INPUT 的 HTTP 标头传输用户输入，要求服务器解析、验证和处理命令。作者强调了它的简单性和易于集成是关键的区别因素。很快将提供一个示例实现。]]></description>
+      <guid>https://t.me/hn_summary/106740</guid>
+      <pubDate>Tue, 03 Sep 2024 11:45:36 GMT</pubDate>
     </item>
     <item>
-      <title>IANA 的域名系统 (DNS) 参数列表提供了 DNS 的综合目录 [...]</title>
-      <link>https://t.me/hn_summary/106703</link>
-      <description><![CDATA[IANA 域名系统 (DNS) 参数列表
-IANA 域名系统 (DNS) 参数列表提供了 DNS 资源记录类型的综合目录，每种记录类型都由唯一的数字代码标识，并描述了其功能和相关的 RFC 文档。例如，“A”（代码 1）表示主机地址，而“MX”（代码 15）用于邮件交换。一些条目被标记为过时，例如“MD”和“MF”，建议改用“MX”。还记录了实验性和弃用的记录，例如“MB”和“NSAP”。唯一条目包括 IPv6 地址的“AAAA”和 HTTP 的 SVCB 兼容类型的“HTTPS”。该列表对于理解 DNS 操作和确保正确实施 DNS 协议至关重要。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/106703</guid>
-      <pubDate>Tue, 03 Sep 2024 03:31:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：mashable.com</title>
-      <link>https://t.me/hn_summary/106702</link>
-      <description><![CDATA[微软的“Recall”功能终究无法卸载
-标题：微软的“Recall”功能终究无法卸载
-网站：mashable.com
+      <title>网站：utcc.utoronto.ca</title>
+      <link>https://t.me/hn_summary/106739</link>
+      <description><![CDATA[Apache 对以点结尾的域名的请求的奇怪行为
+标题：Apache 对以点结尾的域名的请求的奇怪行为
+网站：utcc.utoronto.ca
 
-尽管早先的报道表明微软备受争议的“Recall”功能无法卸载，但 Windows 11 用户将无法卸载该功能。Copilot+ 于 5 月宣布的一项功能 Recall 可以不断截取用户活动的屏幕截图，以帮助检索过去的工作。Deskmodder 的一份报告指出，最近的 Windows 11 更新允许用户卸载 Recall，但微软澄清这是一个错误。包括前微软安全专家 Kevin Beaumont 在内的批评者称该功能是网络安全“灾难”，因为它可能会保存敏感信息。公众的强烈反对导致微软选择加入 Recall，英国 ICO 正在调查其侵犯隐私行为。最初被推迟的 Recall 将于 10 月面向 Windows Insiders 测试人员推出。]]></description>
-      <guid>https://t.me/hn_summary/106702</guid>
-      <pubDate>Tue, 03 Sep 2024 03:01:17 GMT</pubDate>
+在之前的帖子中，我提到域名可以以点结尾以及这会如何影响 URL，并自信地指出对“utcc.utoronto.ca。&#39;（带点）会重定向到不带点的规范形式。然而，Alex 报告说收到了 Apache 的“400 错误请求”响应。这个问题令人困惑且不一致，具体取决于用于访问 URL 的工具。例如，GNU Wget2 因 TLS 证书不匹配而失败，而某些 Apache 配置默认为错误的 TLS 证书。有趣的是，lynx、curl 和 iOS 上的 Safari 等工具成功到达服务器并重定向。然而，Firefox 和可能的 Chrome 会遇到“400 错误请求”错误，可能是由于现代网络安全标头。这种行为在不同的设置和浏览器中仍然令人困惑和不一致。]]></description>
+      <guid>https://t.me/hn_summary/106739</guid>
+      <pubDate>Tue, 03 Sep 2024 11:44:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 1992 年 12 月，ATR 向运营商发布了一份名为“全天候运营”的手册 [...]</title>
-      <link>https://t.me/hn_summary/106701</link>
-      <description><![CDATA[美国鹰航空 4184 号航班坠毁事件和 ATR 结冰事件
-1992 年 12 月，ATR 向包括 Simmons Airlines 在内的 ATR 42 和 72 运营商发布了一本名为“全天候运营”的手册。该手册详细介绍了结冰类型和影响，但误导性地将冻雨标记为“罕见”。它讨论了水平稳定器结冰的处理问题，并含糊地提到了副翼等无动力控制装置中可能出现的异常。尽管声称有全面的手册描述，但它省略了铰链力矩反转细节。该手册建议飞行员在结冰条件下保持最低空速，并表示冻雨是可以预测和避免的，这与 NTSB 的警告相矛盾。随后发生的事故，包括大陆快运航班遭遇严重结冰，凸显了持续存在的问题。美国国家运输安全委员会批评 ATR 没有充分解决铰链力矩逆转风险并提供误导性信息，而 ATR 和美国联邦航空管理局则淡化了严重性。争议的焦点在于 ATR 未能预测和缓解结冰引起的副翼铰链力矩逆转，尽管有早期警告和事故发生。（基于 24% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/106701</guid>
-      <pubDate>Tue, 03 Sep 2024 02:34:06 GMT</pubDate>
+      <title>[媒体] 惠普企业（HPE）宣布打算继续高等法院的诉讼[...]</title>
+      <link>https://t.me/hn_summary/106738</link>
+      <description><![CDATA[惠普将追索迈克·林奇的遗产，索赔金额高达 40 亿美元
+惠普企业 (HPE) 宣布，将继续对已故科技大亨迈克·林奇的遗产提起高等法院诉讼，要求赔偿高达 40 亿美元。此前，林奇上个月在意大利海岸沉没，不幸丧生。HPE 此前曾在 2022 年赢得对林奇的民事诉讼，指控他及其前财务总监在 2011 年斥资 110 亿美元收购 Autonomy 时存在欺诈行为。尽管林奇在另一场美国刑事审判中被宣告无罪，但 HPE 决心完成法律程序。法律专家指出，尽管 HPE 对股东负有受托责任，但向林奇遗孀追讨损失在道德上可能值得商榷，而且可能会损害公司的声誉。]]></description>
+      <guid>https://t.me/hn_summary/106738</guid>
+      <pubDate>Tue, 03 Sep 2024 11:42:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在《雇佣比你聪明的人是坏建议》一书中，作者对流行的不 [...]</title>
+      <link>https://t.me/hn_summary/106737</link>
+      <description><![CDATA[“雇佣比你聪明的人”是个坏建议 (2018)
+在《雇佣比你聪明的人”是个坏建议》一书中，作者挑战了史蒂夫·乔布斯和理查德·布兰森等人物所认可的流行观念，即雇佣最聪明的人可以保证企业成功。对于小型企业来说，由于成本高昂且顶尖人才稀缺，这种策略是不切实际且不可持续的。相反，作者主张建立一种责任感和主动性的文化，在这种文化中，明确的指示和有效的沟通优先于雇佣“最优秀”的人才。这种方法使企业能够持续增长，并减少对关键人员的依赖。作者还强调了战略性地使用顾问来提供专家建议，明确指出对于大多数企业来说，雇佣最聪明的人既不可行也没有必要。]]></description>
+      <guid>https://t.me/hn_summary/106737</guid>
+      <pubDate>Tue, 03 Sep 2024 11:42:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
