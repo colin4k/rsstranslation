@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Sep 2024 12:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 15:02:03 GMT</lastBuildDate>
+    <item>
+      <title>无代码/低代码 Python？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f8ro0k/no_codelow_code_python/</link>
+      <description><![CDATA[还有人需要无代码/低代码的 Python 编程解决方案吗？ 我主要从事 Python 数据科学工作，并创建大量图表来解释数据是如何被操纵的。我见过一些像 alteryx 这样的东西做这种事情，但我认为一个可以无缝地从可视化切换到 Python 代码编程的工具会很有用。 还有人这么想吗？已经有类似的东西了吗？我试过 airflow，但它不一定是无缝的代码/无代码集成。它更像是在图表中表示的工作流中进行编码，而不是相反。    提交人    /u/Competitive-Fun-5969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f8ro0k/no_codelow_code_python/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:10:55 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个 AI 工具来处理我妈妈的发票，节省了她数小时的手动工作！</title>
       <link>https://www.reddit.com/r/opensource/comments/1f8r26c/i_built_an_ai_tool_to_handle_my_mums_invoices_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我们刚刚发布了 k-inv demo 的新版本，这是一个用于 Kubernetes 的混沌工程工具，我们不断改进其新功能！ 想看看 k-inv 的实际效果吗？请在此处查看演示：https://kubeinvaders.platformengineering.it/ 该项目是 100% 开源的（Apache 2.0 许可证），因此请随意贡献并帮助我们构建真正了不起的东西。如果您有兴趣参与，请查看我们的 Git 仓库：https://github.com/lucky-sideburn/kubeinvaders 我们是一家专注于平台工程的初创公司，您可以在这里了解有关我们的更多信息：https://platformengineering.it/    提交人    /u/luckysideburn2   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f7dn86/join_us_in_developing_kinv_chaos_engineering_for/</guid>
       <pubDate>Mon, 02 Sep 2024 18:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 .NET 库：ZoneTree.FullTextSearch - 高性能全文搜索引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f7ca80/new_net_library_zonetreefulltextsearch/</link>
-      <description><![CDATA[  由    /u/CallSoft6324  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f7ca80/new_net_library_zonetreefulltextsearch/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:18:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
