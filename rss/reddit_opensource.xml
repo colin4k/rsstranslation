@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 18:02:16 GMT</lastBuildDate>
+    <item>
+      <title>用户脚本用于自定义 letterboxd 背景，无需 letterboxd PATRON。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f9sipt/userscript_to_customize_letterboxd_backdrops/</link>
+      <description><![CDATA[       由    /u/Raghavan_Rave10  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f9sipt/userscript_to_customize_letterboxd_backdrops/</guid>
+      <pubDate>Thu, 05 Sep 2024 17:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的语音通话平台？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f9rmow/simple_voice_call_platform/</link>
+      <description><![CDATA[嗨， 我有一个 wifi 网络，其中有两个路由器的 Linux 客户端，它们需要相互发起语音呼叫。我正在寻找一种可以作为服务器运行的简单软件，以在带宽非常受限（1 mbps）的情况下调解两者之间的 voip 呼叫。大多数 SIP 和 voip 软件都有复杂的 GUI 站点，并且需要带有 gui 或初始注册过程的客户端应用程序。我正在寻找一种只需在 Linux 上运行的简单 API 或 CLI 方法，并且实际上只需要将两个声音发送给对方。 有什么建议吗？提前谢谢！    提交人    /u/Jack_12221   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f9rmow/simple_voice_call_platform/</guid>
+      <pubDate>Thu, 05 Sep 2024 17:06:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以分发经过 IP 修改的开源软件而不发布修改后的代码吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f9rcb2/can_i_distribute_open_source_thats_been_modified/</link>
+      <description><![CDATA[我希望将一些开源代码实现到设备中。设备本身有一些不能向公众发布的 IP。设备将有不同的软件版本可供使用，所有软件版本都是免费的（客户只需为设备付费）。某些版本的软件没有开源代码。 相关许可证是 GPL-3.0。 我是否能够在不向公众发布整个代码库的情况下分发修改后的软件？    提交人    /u/QuPsi22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f9rcb2/can_i_distribute_open_source_thats_been_modified/</guid>
+      <pubDate>Thu, 05 Sep 2024 16:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我只是在 Canvas Vector 和 Raster Graphics Engine 上展示一些我的作品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f9r6zh/just_me_showing_some_of_my_work_on_a_canvas/</link>
+      <description><![CDATA[       由    /u/hendrixstring  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f9r6zh/just_me_showing_some_of_my_work_on_a_canvas/</guid>
+      <pubDate>Thu, 05 Sep 2024 16:49:15 GMT</pubDate>
+    </item>
     <item>
       <title>可嵌入的开源 Signign 小部件</title>
       <link>https://www.reddit.com/r/opensource/comments/1f9km34/embeddable_open_source_signign_widget/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>寻找可以从复制的链接中删除跟踪器的软件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1f9cf3d/searching_for_software_that_will_remove_trackers/</link>
-      <description><![CDATA[谢谢    提交人    /u/TrackRound4807   [链接] [评论]]]></description>
+      <description><![CDATA[谢谢    由   提交  /u/TrackRound4807   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9cf3d/searching_for_software_that_will_remove_trackers/</guid>
       <pubDate>Thu, 05 Sep 2024 03:06:37 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好。 因此，我构建了一个 AI 自动化系统，该系统可以处理来自 Gmail 的所有发票，并在 Google 表格中记录基本属性。 我妈妈经营着一家小公司，通常会收到很多发票，手动管理它们很累， 因此，我创建了一个 Python 脚本来自动提取带有发票的电子邮件并在 Google 表格中更新它们。 技术栈  Composio - 用于 Gmail 和 Google 表格集成。 Nanonet - 用于从 PDF 中提取数据。 CrewAI - 代理编排。 React +Vite - 用于前端  工作流程概述  首先，添加一些用于查找包含发票的潜在电子邮件的单词。然后，创建一个 JSON 文件或类似文件。此外，命名需要从发票中提取的属性。 接下来，设置事件监听器以轮询 Gmail 收件箱中的电子邮件。获取与关键字匹配的电子邮件。 使用使用 GPT-4o 和 CrewAI 构建的代理根据提供的属性名称处理 PDF 附件。 最后，我们使用 Nanonet 从发票 PDF 中提取数据点，并使用 Google Sheet 集成将它们更新到 Google Sheet。  它仍然有粗糙的角落，我需要弄清楚如何让它更可靠。 您可以在此处查看完整代码：https://github.com/abhishekpatil4/GmailGenius。    提交人    /u/SunilKumarDash   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f8r26c/i_built_an_ai_tool_to_handle_my_mums_invoices_and/</guid>
       <pubDate>Wed, 04 Sep 2024 11:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为 UX 设计师，我可以如何提供帮助来改善开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8pzi4/how_can_i_offer_my_help_to_improve_open_source/</link>
-      <description><![CDATA[你好！我是一名 UX 设计师，非常喜欢开源项目。我有一个男朋友，他向我展示了这个世界，并且总是以全职开发人员的身份提供帮助，我也想在项目中提供帮助，但要制作原型、审计等... 我该怎么做？我是否应该与负责该项目的开发小组交谈并询问他们是否需要我提供什么帮助？或者我是否应该直接制作并将交接发送给他们？    提交人    /u/aphrvwnus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8pzi4/how_can_i_offer_my_help_to_improve_open_source/</guid>
-      <pubDate>Wed, 04 Sep 2024 10:37:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>nxs-数据匿名器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8pkce/nxsdataanonymizer/</link>
-      <description><![CDATA[      大家好！我们的团队已经在这个项目上工作了很长时间，但我们正在寻找改进和开发它的新想法。  最近，我们为 nxs-data-anonymizer 添加了其他变量。此功能允许您使用带有捕获组的正则表达式来表示不同的列数据类型。过滤器中的其他变量（例如 Raw 列数据类型和 Regex 的捕获组）现在可以解决此问题。 nxs-data-anonymizer 将在列中搜索匹配项，同时考虑相应列的数据类型特征，以便为单元格生成正确的值。并且在最新的补丁中，我们添加了对具有 GENERATED 字段类型的列的正确处理。  由于我们非常希望使该工具尽可能舒适和有用 - 任何反馈、贡献或只是一颗星都会非常有帮助和激励！     提交人    /u/marasypale   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8pkce/nxsdataanonymizer/</guid>
-      <pubDate>Wed, 04 Sep 2024 10:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 React 网站上托管文档的最简单方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8p0wg/simplest_way_for_hosting_documentation_on_a_react/</link>
-      <description><![CDATA[大家好！ 我最近开源了一个用于网页抓取的 Python 库，但实际上并没有编写抓取工具（github：Parsera），我目前正在编写文档。我希望将文档托管在与基于 React 的网站（parsera.org）相同的域中。 创建文档页面的最佳工具或框架有哪些，这样我可以更专注于编写，而较少关注管理页面的技术细节？您有没有成功使用过的工具或框架建议？    提交人    /u/Financial-Article-12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8p0wg/simplest_way_for_hosting_documentation_on_a_react/</guid>
-      <pubDate>Wed, 04 Sep 2024 09:33:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP Toolkit 正在加入开源承诺</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8oav2/http_toolkit_is_joining_the_open_source_pledge/</link>
-      <description><![CDATA[        提交人    /u/pimterry   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8oav2/http_toolkit_is_joining_the_open_source_pledge/</guid>
-      <pubDate>Wed, 04 Sep 2024 08:42:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
