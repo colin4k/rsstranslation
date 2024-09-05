@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Sep 2024 03:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 06:01:50 GMT</lastBuildDate>
+    <item>
+      <title>无需 ETL，即可在 S3 中使用 Parquet 实现 Postgres 物化视图</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9f8ly/postgres_materialized_views_from_parquet_in_s3/</link>
+      <description><![CDATA[  由    /u/mslot  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9f8ly/postgres_materialized_views_from_parquet_in_s3/</guid>
+      <pubDate>Thu, 05 Sep 2024 05:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件架构的目标是什么？ - Robert C. Martin（鲍勃大叔）</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9e86h/what_is_the_goal_of_software_architecture_robert/</link>
+      <description><![CDATA[  由    /u/Feisty_Tooth_8219  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9e86h/what_is_the_goal_of_software_architecture_robert/</guid>
+      <pubDate>Thu, 05 Sep 2024 04:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于移动、桌面和 Web 开发的最佳 HTML 和 XML 解析库</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9e246/best_html_xml_parsing_libraries_for_mobile/</link>
+      <description><![CDATA[  由    /u/Distinct_Resolve_924  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9e246/best_html_xml_parsing_libraries_for_mobile/</guid>
+      <pubDate>Thu, 05 Sep 2024 04:38:07 GMT</pubDate>
+    </item>
     <item>
       <title>我对不测试的开发人员的数量和不测试的开发人员的故事感到震惊</title>
       <link>https://www.reddit.com/r/programming/comments/1f9blvf/im_dumbfounded_by_the_number_of_devs_that_dont/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/passiveobserver012  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f8vnqf/niche_talk_naming_things_is_easy/</guid>
       <pubDate>Wed, 04 Sep 2024 15:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么要为 Notion 的 AI 付费？我在一周内就构建了自己的自动标记工具！</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8vciq/why_pay_for_notions_ai_i_built_my_own_autotagging/</link>
-      <description><![CDATA[  由    /u/AJ12AY  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8vciq/why_pay_for_notions_ai_i_built_my_own_autotagging/</guid>
-      <pubDate>Wed, 04 Sep 2024 14:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>沉迷字节：过度加工工程内容的危险</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8v8s8/binging_on_bytes_the_danger_of_overprocessed/</link>
-      <description><![CDATA[  由    /u/jpmmcb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8v8s8/binging_on_bytes_the_danger_of_overprocessed/</guid>
-      <pubDate>Wed, 04 Sep 2024 14:49:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>[OpenGL图形编程] 使用凹凸贴图和图像拼接算法改进地图渲染</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8u977/opengl_graphics_programming_improving_map/</link>
-      <description><![CDATA[  由    /u/shizaep  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8u977/opengl_graphics_programming_improving_map/</guid>
-      <pubDate>Wed, 04 Sep 2024 14:08:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
