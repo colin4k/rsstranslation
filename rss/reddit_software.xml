@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 05 Sep 2024 00:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 03:01:41 GMT</lastBuildDate>
+    <item>
+      <title>具有预设进程的合成器式音调发生器</title>
+      <link>https://www.reddit.com/r/software/comments/1f9af3k/synthesizerstyle_tone_generator_with_preset/</link>
+      <description><![CDATA[寻找工具时，我发现一些浏览器应用很接近。它们让我选择一个和弦并弹奏它。有些会让我设置和弦的进行，有些会让我逐步完成它们，但我找不到一个可以满足我所有需求的工具。上下文（不是必需的，但它可能有助于理解请求）：我正在运行一个以谜题为主题的 RPG 任务，我正在写一个大结局，他们将收集的所有钥匙和文物带到首都，随着他们越来越近，钥匙开始慢慢地一个接一个地哼唱和弦。一旦他们到达市中心，这些魔法物品就会一个接一个地融合（改变和弦）到钥匙所在的箱子里 我希望该工具能做的事情： 1）我需要同时播放 4 个音调（我希望能够像合成器一样改变声音。也许选择一个声音“哦”或者排箫什么的，但这不是绝对必要的） 2）我需要能够一次打开一个音符 3）我需要能够同步控制所有 4 个音符的音量 4）我需要音符无限期地播放而不淡出 5）我需要能够有 5 个不同的预设和弦，并且我可以同时切换所有 4 个音符，同时它们都继续播放    提交人    /u/dimonium_anonimo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f9af3k/synthesizerstyle_tone_generator_with_preset/</guid>
+      <pubDate>Thu, 05 Sep 2024 01:27:43 GMT</pubDate>
+    </item>
     <item>
       <title>强制 FTP 视频文件链接仅预览而不下载。</title>
       <link>https://www.reddit.com/r/software/comments/1f95trb/force_ftp_video_file_link_to_preview_only_without/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我有一个朋友，她的网站 cookies 无法保持登录状态，因此她遇到了问题，我想知道我可以向她推荐什么低成本软件，以便查看她的服务是否存在防火墙问题或其他网络问题。我不知道这是否属实，但我怀疑有线服务存在与其他类型的互联网不同的问题，因为有线服务中多个人通过一根同轴电缆连接在一起，因此存在的问题与其他类型的互联网不同，因此她最好使用一个月，看看网络层面发生了什么，以便纠正问题。也许防火墙阻止或重置了她的 cookies。 如果有人有其他想法，我告诉她将路由器重置为出厂设置，并致电提供商的技术人员并告诉他们问题，以便他们能够进行测试。 有可能其中一个室友的防火墙会影响它，我们不知道，但她说这种情况不太可能，因为其他人不像她这样精通技术。它仍然可能意外发生，或者可能有间谍软件。 如果我走错了路，请对软件或服务提出任何建议。 也许您可以建议目前最好的免费间谍软件追踪器。 我认为这些都是很好的第一手资料。    提交人    /u/warriorjoe007   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f8qout/looking_for_personal_firewall_detector_softare/</guid>
       <pubDate>Wed, 04 Sep 2024 11:19:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla Thunderbird 电子邮件客户端的更好替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1f8q1lf/better_alternative_for_mozilla_thunderbird_email/</link>
-      <description><![CDATA[我已经使用 Thunderbird 多年了，但我已经受够了它大部分时间的糟糕表现。我一直收到 1970 年的电子邮件，获取邮件总是冻结，标签和帐户无法在计算机之间同步（尽管应该同步），并且它的所有三个搜索门户都很糟糕，因为它们甚至无法找到最明显的电子邮件。 所以...有人知道有什么好的电子邮件客户端软件吗？ 它需要处理带有合并文件夹的多个帐户，让我标记或以其他方式组织电子邮件，并且它应该与多台机器同步。如果有必要，我会付钱购买的。    提交人    /u/S0k0n0mi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f8q1lf/better_alternative_for_mozilla_thunderbird_email/</guid>
-      <pubDate>Wed, 04 Sep 2024 10:41:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
