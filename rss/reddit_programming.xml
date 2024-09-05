@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Sep 2024 06:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 09:02:11 GMT</lastBuildDate>
+    <item>
+      <title>工厂网络 x {科技：柏林} AI 黑客马拉松</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9hpot/factory_network_x_tech_berlin_ai_hackathon/</link>
+      <description><![CDATA[  由    /u/Repulsive_News1717  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9hpot/factory_network_x_tech_berlin_ai_hackathon/</guid>
+      <pubDate>Thu, 05 Sep 2024 08:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubernetes 十周年：一首献给容器编排十年的小曲</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9h5ky/kubernetes_turns_10_a_ditty_dedicated_to_a_decade/</link>
+      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9h5ky/kubernetes_turns_10_a_ditty_dedicated_to_a_decade/</guid>
+      <pubDate>Thu, 05 Sep 2024 08:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开了一个关于创意编码和编程的博客。我正在寻找反馈，所以请随时查看它，看看它如何帮助您使用代码创建炫酷的数字艺术。</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9h19a/i_started_a_blog_about_creative_coding_and/</link>
+      <description><![CDATA[  由    /u/alex-codes-art  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9h19a/i_started_a_blog_about_creative_coding_and/</guid>
+      <pubDate>Thu, 05 Sep 2024 08:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认识的最佳程序员 • Daniel Terhorst-North</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9h0ws/the_best_programmer_i_know_daniel_terhorstnorth/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9h0ws/the_best_programmer_i_know_daniel_terhorstnorth/</guid>
+      <pubDate>Thu, 05 Sep 2024 07:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GoLang 中空结构体有什么用</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9ggt2/what_is_the_use_of_empty_struct_in_golang/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9ggt2/what_is_the_use_of_empty_struct_in_golang/</guid>
+      <pubDate>Thu, 05 Sep 2024 07:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统设计 - 食品配送应用 Zomato、Uber Eats</title>
+      <link>https://www.reddit.com/r/programming/comments/1f9g5ts/system_design_food_delivery_app_zomato_uber_eats/</link>
+      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f9g5ts/system_design_food_delivery_app_zomato_uber_eats/</guid>
+      <pubDate>Thu, 05 Sep 2024 06:55:27 GMT</pubDate>
+    </item>
     <item>
       <title>无需 ETL，即可在 S3 中使用 Parquet 实现 Postgres 物化视图</title>
       <link>https://www.reddit.com/r/programming/comments/1f9f8ly/postgres_materialized_views_from_parquet_in_s3/</link>
@@ -39,13 +81,6 @@
       <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9bjr5/software_estimation_is_hard_do_it_anyway/</guid>
       <pubDate>Thu, 05 Sep 2024 02:23:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻量级 NGRX signalStore 与 Angular — 完整指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1f95yv3/lightweight_ngrx_signalstore_with_angular/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f95yv3/lightweight_ngrx_signalstore_with_angular/</guid>
-      <pubDate>Wed, 04 Sep 2024 22:02:41 GMT</pubDate>
     </item>
     <item>
       <title>GitOps 真的有用吗？</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[我遵循 u/jaskij、u/Nimnu_、u/AnnoyedVelociraptor、u/mccoyn 以及无数在我之前的人的方式。我是圣殿程序员，这些是我的信条：我不会抓住；我不会屈服；例外将是我的耶稣受难地。    提交人    /u/Queder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f8ydcq/exceptions_are_hidden_control_flow/</guid>
       <pubDate>Wed, 04 Sep 2024 16:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 和行为驱动开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8y2k5/chatgpt_and_behaviourdriven_development/</link>
-      <description><![CDATA[  由    /u/Master-Region-140  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8y2k5/chatgpt_and_behaviourdriven_development/</guid>
-      <pubDate>Wed, 04 Sep 2024 16:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顾我在现任组织担任 EA 职位的 5 年</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8w13x/reflecting_on_my_5_years_in_the_ea_role_the/</link>
-      <description><![CDATA[  由    /u/desi_guy11  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8w13x/reflecting_on_my_5_years_in_the_ea_role_the/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 50 多岁时学习了计算机编程语言——以下是我的发现 | 技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8vz4o/i_learned_the_language_of_computer_programming_in/</link>
-      <description><![CDATA[  由    /u/Change_petition  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8vz4o/i_learned_the_language_of_computer_programming_in/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 Cursor AI 的 Composer 模式赞叹不已</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8vy8g/i_am_in_awe_with_cursor_ais_composer_mode/</link>
-      <description><![CDATA[  由    /u/Igor_Victor  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8vy8g/i_am_in_awe_with_cursor_ais_composer_mode/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>小众话题：“命名很简单”</title>
-      <link>https://www.reddit.com/r/programming/comments/1f8vnqf/niche_talk_naming_things_is_easy/</link>
-      <description><![CDATA[  由    /u/passiveobserver012  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f8vnqf/niche_talk_naming_things_is_easy/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:06:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

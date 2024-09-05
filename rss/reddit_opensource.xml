@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 05 Sep 2024 06:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 09:02:17 GMT</lastBuildDate>
+    <item>
+      <title>针对非结构化数据和实时功能的开源数据库建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f9gqc4/opensource_database_recommendations_for/</link>
+      <description><![CDATA[  由    /u/2Tate  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f9gqc4/opensource_database_recommendations_for/</guid>
+      <pubDate>Thu, 05 Sep 2024 07:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f9fs7j/looking_for_contributors/</link>
+      <description><![CDATA[大家好 :) 我一直在做一个名为 PartPilot 的项目，这是一个电子零件管理解决方案。由于我目前忙于工作和学习，无法跟上功能请求和问题。  该项目基于 NextJs、Postgres（带有 Prisma ORM）和 Mantine。 如果您有兴趣提供帮助，请随时联系我 - 项目如下：https://github.com/PartPilotLab/PartPilot     提交人    /u/Len_Ki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f9fs7j/looking_for_contributors/</guid>
+      <pubDate>Thu, 05 Sep 2024 06:29:16 GMT</pubDate>
+    </item>
     <item>
       <title>开源代码和安全问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1f9f7ce/open_source_code_and_security_issue/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>寻找可以从复制的链接中删除跟踪器的软件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1f9cf3d/searching_for_software_that_will_remove_trackers/</link>
-      <description><![CDATA[谢谢    提交人    /u/TrackRound4807   [链接] [评论]]]></description>
+      <description><![CDATA[谢谢    由   提交  /u/TrackRound4807   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9cf3d/searching_for_software_that_will_remove_trackers/</guid>
       <pubDate>Thu, 05 Sep 2024 03:06:37 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/pimterry   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f8oav2/http_toolkit_is_joining_the_open_source_pledge/</guid>
       <pubDate>Wed, 04 Sep 2024 08:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找任何开源项目来研究和重构我的大学课程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8mz32/looking_for_any_open_source_projects_to_study_and/</link>
-      <description><![CDATA[如果有人正在做一些事情（无论范围如何）并且愿意分享，我将不胜感激。唯一的标准是项目代码不应该完美无缺。提前致谢！    提交人    /u/PepegaFromLithuania   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8mz32/looking_for_any_open_source_projects_to_study_and/</guid>
-      <pubDate>Wed, 04 Sep 2024 07:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elastic 意外重返开源背后的原因是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8idap/whats_behind_elastics_unexpected_return_to_open/</link>
-      <description><![CDATA[       由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8idap/whats_behind_elastics_unexpected_return_to_open/</guid>
-      <pubDate>Wed, 04 Sep 2024 02:32:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
