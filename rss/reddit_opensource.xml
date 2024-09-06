@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 06 Sep 2024 00:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 03:02:50 GMT</lastBuildDate>
+    <item>
+      <title>LineupX，一款开源社交媒体网络应用，帮助游戏玩家了解阵容</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fa43hr/lineupx_opensource_socialmedia_feel_webapp_for/</link>
+      <description><![CDATA[我很高兴与大家分享 LineupX，这是一款专为希望通过完美阵容提升游戏水平的游戏玩家设计的网络应用。我们的噱头是，您无需观看视频来学习阵容，只需通过三张图片（站立位置、着陆位置和瞄准位置）即可学习阵容。我们目前支持 CS2 和 Valorant。 https://www.lineupx.net/ Github    提交人    /u/Kagiri13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fa43hr/lineupx_opensource_socialmedia_feel_webapp_for/</guid>
+      <pubDate>Fri, 06 Sep 2024 02:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人们只点赞却从不贡献？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fa3tml/why_people_upvote_and_never_contribute/</link>
+      <description><![CDATA[我是 reddit 新手，刚刚发布了几篇 r/Python 展示帖子，这些帖子非常火爆（第一天有 100 多篇）。我收到了很多评论，其中有详细的解决方案建议，也得到了数十个赞同和高度赞扬，大多数时候来自同一个评论者。 但是没有一个人在 github 上按过几个按钮将他们解决方案的评论复制到 github 问题或 README 上的 PR 我不明白这一点——感觉自己是唯一有用的傻瓜。真正的根本原因是什么？    提交人    /u/Embarrassed-Mix6420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fa3tml/why_people_upvote_and_never_contribute/</guid>
+      <pubDate>Fri, 06 Sep 2024 01:58:56 GMT</pubDate>
+    </item>
     <item>
       <title>我想加入一个对初学者友好的组织。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fa07qm/i_want_to_join_an_beginner_friendly_organisation/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f8zewg/members_newsletter_september_2024/</guid>
       <pubDate>Wed, 04 Sep 2024 17:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>本次活动是开源非营利社区重要人物的聚会，旨在促进生态系统内的协作、创新和战略发展。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8zahi/this_event_was_a_gathering_for_key_individuals_in/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8zahi/this_event_was_a_gathering_for_key_individuals_in/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽车租赁管理软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f8yubi/car_rental_management_software/</link>
-      <description><![CDATA[嗨，有 CMS 开源吗？据我所知，有一些试用版的东西，谢谢！     提交人    /u/crisdc   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f8yubi/car_rental_management_software/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:13:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
