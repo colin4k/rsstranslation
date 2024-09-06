@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Sep 2024 09:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 12:02:07 GMT</lastBuildDate>
+    <item>
+      <title>GoScrapy：利用 Go 的强大功能实现极快的网页抓取，灵感来自 Python 的 Scrapy 框架 - 仍处于初始阶段，还有许多改进空间</title>
+      <link>https://www.reddit.com/r/programming/comments/1fac3ci/goscrapy_harnessing_gos_power_for_blazingly_fast/</link>
+      <description><![CDATA[  由    /u/strapengine  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fac3ci/goscrapy_harnessing_gos_power_for_blazingly_fast/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发用笔记本电脑</title>
+      <link>https://www.reddit.com/r/programming/comments/1faax3d/laptop_for_development/</link>
+      <description><![CDATA[我可以在两个选项之间进行选择，而且我不会付费。 选项 1：HP Z book Studio G10、i9 第 13 代、64 GB RAM 和 2 TB 存储空间 选项 2：Mac Pro 16 英寸、M3 Pro、18 GB RAM（为什么是 18？）、512 GB、rtx 4080 用例：专业开发，主要是云微服务（over kill，哈哈）。也许以后会用到机器学习，但现在它还是一种爱好。 我个人更喜欢 Mac 操作系统而不是 Windows，到目前为止我都用过这两种操作系统，还有 WSL。我也喜欢我的老款 m1 Mac 的质量和稳定性。你有什么建议吗，尽管有 Windows 操作系统，但我还是倾向于 HP。    提交人    /u/WrapKey69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faax3d/laptop_for_development/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>PGlite - 在 Node、Bun 以及浏览器中本地运行 PostgreSQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1faaqz0/pglite_run_postgresql_locally_in_node_bun_and/</link>
+      <description><![CDATA[  由    /u/ram-foss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faaqz0/pglite_run_postgresql_locally_in_node_bun_and/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:12:09 GMT</pubDate>
+    </item>
     <item>
       <title>街头霸王 PLUS，鲜为人知的 DOS 韩国格斗游戏移植版</title>
       <link>https://www.reddit.com/r/programming/comments/1faam2q/street_fighter_the_road_plus_obscure_dos_korean/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f9yqdg/the_list_of_architectural_metapatterns/</guid>
       <pubDate>Thu, 05 Sep 2024 21:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理遗留项目中的技术债务</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9wewm/how_to_deal_with_technical_debt_in_legacy_projects/</link>
-      <description><![CDATA[  由    /u/milanm08  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9wewm/how_to_deal_with_technical_debt_in_legacy_projects/</guid>
-      <pubDate>Thu, 05 Sep 2024 20:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年最佳 Web 开发技术堆栈</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9v0mk/best_tech_stack_for_web_development_in_2025/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9v0mk/best_tech_stack_for_web_development_in_2025/</guid>
-      <pubDate>Thu, 05 Sep 2024 19:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - mindfiredigital/react-text-igniter，使用 React.js 构建的强大且直观的 HTML 编辑器。</title>
-      <link>https://www.reddit.com/r/programming/comments/1f9tj5d/github_mindfiredigitalreacttextigniter_a_powerful/</link>
-      <description><![CDATA[  由    /u/lakinmohapatra  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f9tj5d/github_mindfiredigitalreacttextigniter_a_powerful/</guid>
-      <pubDate>Thu, 05 Sep 2024 18:24:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
