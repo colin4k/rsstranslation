@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 05 Sep 2024 21:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 00:03:03 GMT</lastBuildDate>
+    <item>
+      <title>寻找类似 Phone Link 的允许添加联系人的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1fa1eyu/looking_for_a_software_similar_to_phone_link_that/</link>
+      <description><![CDATA[您好，有谁知道有什么软件可以让人通过 Windows PC 拨打电话和发短信，就像使用手机（特别是 iPhone）一样，还可以添加联系人？Windows Phone Link 可以实现前者，但不能实现后者。    提交人    /u/Taraponion   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fa1eyu/looking_for_a_software_similar_to_phone_link_that/</guid>
+      <pubDate>Thu, 05 Sep 2024 23:58:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺顿安全 VPN</title>
+      <link>https://www.reddit.com/r/software/comments/1f9zy7c/norton_secure_vpn/</link>
+      <description><![CDATA[我找不到安装程序，好像它被 Norton360（整个包）取代了。我想找到单独的一个，因为它在很多方面都更好（只是 vpn 没有别的）。  它看起来就是这样    提交人    /u/Dupliss18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f9zy7c/norton_secure_vpn/</guid>
+      <pubDate>Thu, 05 Sep 2024 22:51:19 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法上传 PDF 并大声听取？我只见过一款应用，但你需要拍几张照片，而这款 Microsoft Edge 无法使用</title>
       <link>https://www.reddit.com/r/software/comments/1f9x93m/is_there_a_way_to_upload_a_pdf_and_hear_it_out/</link>
@@ -104,7 +118,7 @@
       <pubDate>Wed, 04 Sep 2024 21:56:55 GMT</pubDate>
     </item>
     <item>
-      <title>这款游戏不允许我在打开时做任何事情</title>
+      <title>这款游戏在打开时不允许我做任何事情</title>
       <link>https://www.reddit.com/r/software/comments/1f91wti/this_game_wont_allow_me_to_do_anything_while_its/</link>
       <description><![CDATA[我正在玩一款游戏（Driver San Francisco）。它以全屏模式启动。我没有遇到任何问题。当我尝试退出全屏模式时，什么都不起作用。即使我尝试按下 Windows 键。 现在，当我将设置更改为窗口模式时，它仍然不允许我使用其他应用程序。我尝试将光标移出屏幕，但它不允许我这样做。我选择其他应用程序的唯一方法是关闭它。 这几乎就像游戏作为操作系统启动一样。在游戏关闭之前，我无法做任何与 Windows 相关的事情。我试了又试，但我不知道该怎么做。我从未见过这样的情况    提交人    /u/RiverHe1ghts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f91wti/this_game_wont_allow_me_to_do_anything_while_its/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[我目前通过在 word 或 canva 中创建文档，然后使用 adobe acrobat 编辑表单并使其可填写来制作 pdf 表单。但这太乏味了。当我在 adobe 中编辑时，它经常会破坏原始设计中的某些内容，或者花费大量时间来快速执行某些操作（例如修复拼写错误），因为它会破坏我之前创建的美观。 有没有更好的方法来做到这一点？一定有更简单、更熟练的方法。教我你的方法！哈哈     提交人    /u/Affectionate_Cap4149   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f8yve3/design_friendly_tillable_pdf_editor/</guid>
       <pubDate>Wed, 04 Sep 2024 17:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 windows 图像查看器软件</title>
-      <link>https://www.reddit.com/r/software/comments/1f8ypp7/looking_for_windows_image_viewer_software/</link>
-      <description><![CDATA[我觉得默认的 Windows 版本很慢而且不好用，所以想换一个。一位朋友建议我使用 Imageglass，但要使用最新版本就必须付费...有没有什么好的图像查看器推荐？    提交人    /u/Santoryu_Zoro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f8ypp7/looking_for_windows_image_viewer_software/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅供参考，新的 PowerToys 实用程序工作区可用于快速启动一组应用程序到自定义位置和配置。</title>
-      <link>https://www.reddit.com/r/software/comments/1f8yfgk/fyi_new_powertoys_utility_workspaces_for/</link>
-      <description><![CDATA[&quot;您可以使用编辑器将桌面状态捕获为新工作区，向应用添加参数以在启动时配置其状态，并将工作区固定为桌面快捷方式以便快速启动。启动工作区将把所有应用启动到其指定位置。&quot; https://learn.microsoft.com/en-us/windows/powertoys/workspaces    提交人    /u/dtallee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f8yfgk/fyi_new_powertoys_utility_workspaces_for/</guid>
-      <pubDate>Wed, 04 Sep 2024 16:57:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
