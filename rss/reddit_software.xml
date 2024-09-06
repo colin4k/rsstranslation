@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 15:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 18:01:43 GMT</lastBuildDate>
+    <item>
+      <title>OneDrive 个人保管库备份？</title>
+      <link>https://www.reddit.com/r/software/comments/1faicln/onedrive_personal_vault_backup/</link>
+      <description><![CDATA[我使用 OneDrive 进行云访问/备份我的文件，并使用 Macrium Reflect 在外部驱动器上创建我的文件的本地备份。我想使用个人保管库进行云访问我更敏感的文件，但我担心本地备份。我知道在保管库锁定时无法做到这一点，但是我想知道如果保管库解锁，Macrium Reflect 等备份实用程序是否可以看到保管库的内容。也许他们只能看到文件夹结构，但实际上无法访问文件？    提交人    /u/HighSierras13   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1faicln/onedrive_personal_vault_backup/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:42:54 GMT</pubDate>
+    </item>
     <item>
       <title>Monorepos 和最多 N 名开发人员的许可</title>
       <link>https://www.reddit.com/r/software/comments/1fagjgo/monorepos_and_licenses_up_to_n_developers/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>正在寻找个人防火墙检测器。</title>
       <link>https://www.reddit.com/r/software/comments/1f9qldm/looking_for_a_personal_firewall_detector/</link>
-      <description><![CDATA[我有一个朋友，她的网站 cookie 无法保持登录状态，因此她遇到了问题，我想知道我可以向她推荐什么低成本软件，以便查看她的服务是否存在防火墙问题或其他网络问题。我不知道这是否属实，但我怀疑有线服务存在与其他类型的互联网不同的问题，因为有线服务中多个人通过一根同轴电缆连接在一起，因此存在的问题与其他类型的互联网不同，因此她最好使用一个月，看看网络层面发生了什么，以便纠正问题。也许防火墙阻止或重置了她的 cookie。 如果有人有其他想法，我告诉她将路由器重置为出厂设置，并致电提供商的技术人员并告诉他们问题，以便他们能够进行测试。 有可能其中一个室友的防火墙会影响它，我们不知道，但她说这不太可能，因为其他人不像她这样精通技术。它仍然可能意外发生，或者可能有间谍软件。 如果我走错了路，请对软件或服务提出任何建议。 也许您可以建议目前最好的免费间谍软件追踪器。 我认为这些都是很好的第一张照片。    提交人    /u/warriorjoe007   [link] [评论]]]></description>
+      <description><![CDATA[我有一个朋友，她的网站 cookies 无法保持登录状态，因此她遇到了问题，我想知道我可以向她推荐什么低成本软件，以便查看她的服务是否存在防火墙问题或其他网络问题。我不知道这是否属实，但我怀疑有线服务存在与其他类型的互联网不同的问题，因为有线服务中多个人通过一根同轴电缆连接在一起，因此存在的问题与其他类型的互联网不同，因此她最好使用一个月，看看网络层面发生了什么，以便纠正问题。也许防火墙阻止或重置了她的 cookies。 如果有人有其他想法，我告诉她将路由器重置为出厂设置，并致电提供商的技术人员并告诉他们问题，以便他们能够进行测试。 有可能其中一个室友的防火墙会影响它，我们不知道，但她说这种情况不太可能，因为其他人不像她这样精通技术。它仍然可能意外发生，或者可能有间谍软件。 如果我走错了路，请对软件或服务提出任何建议。 也许您可以建议目前最好的免费间谍软件追踪器。 我认为这些都是很好的第一张照片。    提交人    /u/warriorjoe007   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f9qldm/looking_for_a_personal_firewall_detector/</guid>
       <pubDate>Thu, 05 Sep 2024 16:24:43 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有人知道类似 Microsoft journal 的应用吗，但适用于 Android 和 Linux？我猜它可以有一个适用于 Linux 的 Web 应用程序，但我绝对希望它是 Android 的原生应用程序。必须支持笔。如果它可以自行托管，那就太好了。    提交人    /u/zippy-boy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f9p5pu/journalnote_taking_for_linux_and_android/</guid>
       <pubDate>Thu, 05 Sep 2024 15:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款本地离线软件，用于存储我的 mp3 文件并创建音乐播放列表</title>
-      <link>https://www.reddit.com/r/software/comments/1f9om0e/a_local_offline_software_to_store_and_create/</link>
-      <description><![CDATA[我喜欢你如何在 spotify 中存储音乐和制作播放列表，但我讨厌广告和需要 wifi 的事实。我只想要文件夹和播放列表功能。（抱歉我的英语不好）    提交人    /u/-SunnyDee-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9om0e/a_local_offline_software_to_store_and_create/</guid>
-      <pubDate>Thu, 05 Sep 2024 15:02:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
