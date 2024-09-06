@@ -4,13 +4,13 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 12:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 15:01:49 GMT</lastBuildDate>
     <item>
-      <title>如何知道新软件何时发布？</title>
-      <link>https://www.reddit.com/r/software/comments/1fad97d/how_to_know_when_a_new_software_has_released/</link>
-      <description><![CDATA[我擅长尝试不同的软件。有没有什么网站可以让我们跟踪刚刚发布或未来几天将发布的新软件？    提交人    /u/TheRealistDude   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fad97d/how_to_know_when_a_new_software_has_released/</guid>
-      <pubDate>Fri, 06 Sep 2024 11:53:05 GMT</pubDate>
+      <title>Monorepos 和最多 N 名开发人员的许可</title>
+      <link>https://www.reddit.com/r/software/comments/1fagjgo/monorepos_and_licenses_up_to_n_developers/</link>
+      <description><![CDATA[大家好， 我经常遇到一些软件，这些软件有最多 N 名开发人员的许可选项，但下一层级的许可非常昂贵，我的公司通常无法接受。棘手的部分是，我们的应用程序通常由少数开发人员开发，但我们有一个 monorepo 设置，有数十名用户可以访问该 repo。 鉴于这种设置，我想知道处理许可的正确方法是什么？许可证通常是计算所有有访问权限的人，还是只计算那些积极开发的人？ 很想听听你的经历！    提交人    /u/mareksk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fagjgo/monorepos_and_licenses_up_to_n_developers/</guid>
+      <pubDate>Fri, 06 Sep 2024 14:28:06 GMT</pubDate>
     </item>
     <item>
       <title>您喜欢如何组织团队对话？</title>
@@ -120,7 +120,7 @@
     <item>
       <title>正在寻找个人防火墙检测器。</title>
       <link>https://www.reddit.com/r/software/comments/1f9qldm/looking_for_a_personal_firewall_detector/</link>
-      <description><![CDATA[我有一个朋友，她的网站 cookies 无法保持登录状态，因此她遇到了问题，我想知道我可以向她推荐什么低成本软件，以便查看她的服务是否存在防火墙问题或其他网络问题。我不知道这是否属实，但我怀疑有线服务存在与其他类型的互联网不同的问题，因为有线服务中多个人通过一根同轴电缆连接在一起，因此存在的问题与其他类型的互联网不同，因此她最好使用一个月，看看网络层面发生了什么，以便纠正问题。也许防火墙阻止或重置了她的 cookies。 如果有人有其他想法，我告诉她将路由器重置为出厂设置，并致电提供商的技术人员并告诉他们问题，以便他们能够进行测试。 有可能其中一个室友的防火墙会影响它，我们不知道，但她说这种情况不太可能，因为其他人不像她这样精通技术。它仍然可能意外发生，或者可能有间谍软件。 如果我走错了路，请对软件或服务提出任何建议。 也许您可以建议目前最好的免费间谍软件追踪器。 我认为这些都是很好的第一张照片。    提交人    /u/warriorjoe007   [link] [评论]]]></description>
+      <description><![CDATA[我有一个朋友，她的网站 cookie 无法保持登录状态，因此她遇到了问题，我想知道我可以向她推荐什么低成本软件，以便查看她的服务是否存在防火墙问题或其他网络问题。我不知道这是否属实，但我怀疑有线服务存在与其他类型的互联网不同的问题，因为有线服务中多个人通过一根同轴电缆连接在一起，因此存在的问题与其他类型的互联网不同，因此她最好使用一个月，看看网络层面发生了什么，以便纠正问题。也许防火墙阻止或重置了她的 cookie。 如果有人有其他想法，我告诉她将路由器重置为出厂设置，并致电提供商的技术人员并告诉他们问题，以便他们能够进行测试。 有可能其中一个室友的防火墙会影响它，我们不知道，但她说这不太可能，因为其他人不像她这样精通技术。它仍然可能意外发生，或者可能有间谍软件。 如果我走错了路，请对软件或服务提出任何建议。 也许您可以建议目前最好的免费间谍软件追踪器。 我认为这些都是很好的第一张照片。    提交人    /u/warriorjoe007   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f9qldm/looking_for_a_personal_firewall_detector/</guid>
       <pubDate>Thu, 05 Sep 2024 16:24:43 GMT</pubDate>
     </item>
