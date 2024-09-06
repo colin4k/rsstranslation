@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Sep 2024 18:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 21:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Macro-forth：在编译时 rust 宏中实现的 Forth（Fastest Forth）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fapvjl/macroforth_forth_implemented_in_compiletime_rust/</link>
+      <description><![CDATA[  由    /u/Veqq  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fapvjl/macroforth_forth_implemented_in_compiletime_rust/</guid>
+      <pubDate>Fri, 06 Sep 2024 20:59:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要有关网络应用程序的建议</title>
+      <link>https://www.reddit.com/r/programming/comments/1faoa76/advice_needed_on_web_app/</link>
+      <description><![CDATA[所以我正在开发这个 Web 应用程序，并计划很快将其部署为 SaaS。streamlit 还可以，但我觉得它仍然有点空白，可以有更多的功能。有人对我可以添加的其他功能有什么建议吗？    提交人    /u/Mammoth-Sky1084   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faoa76/advice_needed_on_web_app/</guid>
+      <pubDate>Fri, 06 Sep 2024 19:52:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma 从 ECS 迁移到 Kubernetes，以受益于 CNCF 生态系统并降低成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1famksm/figma_moves_from_ecs_to_kubernetes_to_benefit/</link>
+      <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1famksm/figma_moves_from_ecs_to_kubernetes_to_benefit/</guid>
+      <pubDate>Fri, 06 Sep 2024 18:40:44 GMT</pubDate>
+    </item>
     <item>
       <title>构建一个 LLM 应用程序以在 10 分钟内总结播客</title>
       <link>https://www.reddit.com/r/programming/comments/1fakq9p/building_a_llm_app_to_summarize_podcasts_in_10/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fa8s5f/failover_mechanism_in_distributed_systems/</guid>
       <pubDate>Fri, 06 Sep 2024 06:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 DeepMind 的排序算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1fa8cxw/understanding_deepminds_sorting_algorithm/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fa8cxw/understanding_deepminds_sorting_algorithm/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>`com.lihaoyi` 发放赏金，奖金 10,000 美元</title>
-      <link>https://www.reddit.com/r/programming/comments/1fa5ksr/comlihaoyi_issue_bounties_10000usd_up_for_grabs/</link>
-      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fa5ksr/comlihaoyi_issue_bounties_10000usd_up_for_grabs/</guid>
-      <pubDate>Fri, 06 Sep 2024 03:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OAuth 的第一原则 - Stack Auth</title>
-      <link>https://www.reddit.com/r/programming/comments/1fa34tl/oauth_from_first_principles_stack_auth/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fa34tl/oauth_from_first_principles_stack_auth/</guid>
-      <pubDate>Fri, 06 Sep 2024 01:23:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
