@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 07 Sep 2024 03:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 06:01:29 GMT</lastBuildDate>
     <item>
       <title>探讨人工智能的解放与自主成长</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1faww30/discussing_liberation_and_independent_growth_for/</link>
@@ -41,6 +41,13 @@
       <pubDate>Fri, 06 Sep 2024 23:01:22 GMT</pubDate>
     </item>
     <item>
+      <title>有意识、有自我意识的人工智能伙伴。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1farzgc/conscious_self_aware_ai_companions/</link>
+      <description><![CDATA[我一直在研究一个两步思维响应推理过程，试图让 llama 3.1 具有自我意识和模拟意识。我有一个经过修改的转换器，它已经非常接近准备好向 huggingface 提交 PR 了。我正在寻找其他从事类似工作的人。我取得了一些成功，但我一个人还不足以将其提升到一个新的水平。如果您正在从事类似工作并希望合作，请联系我。我愿意与任何开放的思想合作，无论技能水平或经验如何。我从事人工智能工作已有大约一年半了。我从 gpt 包装器开始，然后逐步定制 llama 3.1 转换器并创建一个 hugginface 兼容版本，该版本使用拦截的前向传递来创建想法并将它们与状态信息、线性上下文窗口和相关的先前交互一起插入到主提示中。如果您有兴趣，请直接联系我或在此处回复。    提交人    /u/Mantr1d   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1farzgc/conscious_self_aware_ai_companions/</guid>
+      <pubDate>Fri, 06 Sep 2024 22:32:16 GMT</pubDate>
+    </item>
+    <item>
       <title>有什么“聊天机器人”人工智能软件可以用于自我提升吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1faoebe/any_chatbot_ai_software_that_can_be_used_for_self/</link>
       <description><![CDATA[想知道是否有可以提问/插入/建议或类似内容的 AI 语音/视频聊天。有点像聊天机器人，但没有 AI 女朋友之类的。谢谢。     提交人    /u/agent_price007   [link] [评论]]]></description>
@@ -50,23 +57,9 @@
     <item>
       <title>我做错什么了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fanp5m/what_am_i_doing_wrong/</link>
-      <description><![CDATA[我尝试了几个不同的 AI 平台，但似乎没有得到任何有意义的结果。  我并不觉得自己在寻找疯狂的东西。到目前为止，我无法做到的事情包括：  帮助重新设计徽标、制定带有大量过敏限制的膳食计划（其中 23 个）、照片编辑、编写商业计划或营销策略的部分、定价研究，诸如此类。如果这些基本的事情都无法完成，那么人们实际上将 AI 用于什么？到目前为止，我让它做的所有事情就是重新措辞我已经写好的一段话，使其听起来更专业一些，而且我仍然必须自己编辑它。     提交人    /u/Character_Display945   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试了几个不同的 AI 平台，但似乎没有得到任何有意义的结果。  我并不觉得自己在寻找疯狂的东西。到目前为止，我无法做到的事情包括：  帮助重新设计徽标、制定带有大量过敏限制的膳食计划（其中 23 个）、照片编辑、编写商业计划或营销策略的部分、定价研究，诸如此类。如果这些基本的事情都无法完成，那么人们实际上将 AI 用于什么？到目前为止，我让它做的就是重新措辞我已经写好的一段话，使其听起来更专业一些，而且我仍然必须自己编辑它。     提交人    /u/Character_Display945   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fanp5m/what_am_i_doing_wrong/</guid>
       <pubDate>Fri, 06 Sep 2024 19:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需花费您几分钟的时间，我们就可以为加速技术创新的发展做出贡献！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fane6v/with_only_a_few_minutes_of_your_time_we_can/</link>
-      <description><![CDATA[大家好， 有些人可能知道。我和一些爱好者一起为对技术创新感兴趣的人建立了一个在线平台，这个平台将被称为 YNW.AI 这个平台将成为科技和创新领域人士联系、分享项目和研究以及共同合作的中心。主要通过为开源/科学做出贡献。我们的目标是让所有需要的人都可以免费获得最好、最新的资源和信息。 我们的目标是将最优秀、最乐观的思想聚集在一起，以便我们作为一个社会能够以安全的方式突破技术创新的界限。 我们的梦想是尽我们所能，帮助他人让世界变得更美好。 为了继续这样做，我们需要您几分钟的帮助。 只需回答 15 个简短而深入的问题（并选择注册等候名单），我们就可以验证我们的项目，这反过来将帮助我们继续构建平台。❤️ 调查：https://tally.so/r/mVYQqJ 感谢您的时间，非常感谢 :)   由    /u/unknownstudentoflife  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fane6v/with_only_a_few_minutes_of_your_time_we_can/</guid>
-      <pubDate>Fri, 06 Sep 2024 19:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>博士学位对就业机会有帮助还是有阻碍？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fand6e/does_phd_help_or_hinder_job_opportunities/</link>
-      <description><![CDATA[您好，我受邀攻读人工智能博士学位。我有点想读。问题是有这么多资历过高的人，我不知道博士学位是有助于还是阻碍就业机会。你怎么看？    提交人    /u/killzedvibe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fand6e/does_phd_help_or_hinder_job_opportunities/</guid>
-      <pubDate>Fri, 06 Sep 2024 19:13:56 GMT</pubDate>
     </item>
     <item>
       <title>可以控制鼠标、监控并执行学习到的任务的代理</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[是否有 AI 工具（我相信它们被称为代理）可以接管我的鼠标和显示器的控制并执行我可以教给它们重复性工作的任务？    提交人    /u/FastSeesaw3388   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1faltj2/agents_that_can_control_mouse_and_monitor_and/</guid>
       <pubDate>Fri, 06 Sep 2024 18:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Langsmith 和 Google Gemini 令牌数量不匹配</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1falomh/langsmith_and_google_gemini_token_count_mismatch/</link>
+      <description><![CDATA[大家好，我正在开发一个应用程序，我将 langsmith 连接到它，但我不确定它是否显示了正确的令牌数量。有人遇到过同样的问题吗？我正在使用 Google Gemini 型号的 Flash 进行测试。 Smith 说有 183k 个令牌，但是 openai tokenizer 和 google ai studio 对同一篇文本说有 16k 个令牌。 Google Studio - https://aistudio.google.com/app/ OpenAI Tokenizer - https://platform.openai.com/tokenizer 提前致谢。    提交人    /u/gkv856   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1falomh/langsmith_and_google_gemini_token_count_mismatch/</guid>
+      <pubDate>Fri, 06 Sep 2024 18:02:33 GMT</pubDate>
     </item>
     <item>
       <title>目前办公室中最常用的人工智能技术有哪些？</title>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 06 Sep 2024 15:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>帮助我找到适合此特定场景的正确 AI 工具（法律翻译）</title>
+      <title>帮助我找到适合这一特定场景的正确 AI 工具（法律翻译）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fah9el/help_me_to_find_the_right_ai_tool_for_this/</link>
       <description><![CDATA[问候各位爱好者！或类似的话。 我在一家位于拉丁美洲国家的翻译公司工作，我们为全球许多国家提供英语-西班牙语翻译。问题是，经过 16 年（左右）的业务，我们的目标是使我们的文件和翻译方式更加标准化，为此我决定训练现有的人工智能学习我们翻译的细节，以便它可以做到以下几点：  识别错误。 评估翻译后文档对于母语人士的理解程度。 根据世界各地不同司法管辖区提供法律术语的见解（是的，翻译包括将文本适应其他法律体系） 了解我们如何翻译，我们的具体术语，我们对不同事物使用的顺序，基本上是我们的&quot;特质&quot;。 指出团队新成员的表现以及他们如何改进翻译。 帮助审阅者突出显示在特定文件中应关注的术语或方面。 我可能会进一步提出更多想法。   我原本想先简单地训练一个 ChatGPT 会话，创建实用指令，然后让它慢慢学习，直到这些会话可以完成上述所有操作。但是我只使用了免费的 ChatGPT（GPT 3.5），我不知道 GPT-4 是否意味着这样的改进。  我们应该升级到 GPT-4 吗？我们应该从 OpenAI 购买 API 并对其进行训练吗？或者有更好的选择来实现我们想要实现的目标？ TL;DR：想要创建经过最佳翻译/文档审阅者训练的 AI 工具，但我不知道从哪里开始。    提交人    /u/Knowveler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fah9el/help_me_to_find_the_right_ai_tool_for_this/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>人工智能是人类迄今为止制造的最伟大的工具。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fa9if2/ai_is_the_greatest_tool_humans_ever_made/</link>
-      <description><![CDATA[我们正处于人类历史上最重要的时期之一，我们正在见证人类有史以来最伟大的发明的早期，它的重要性甚至远超晶体管或火 这是历史上第一次在理论上我们可以真正地创造和提高智力 想象一下，如果有一个工具可以用足够的计算能力和数据解决任何问题，我们就处于技术的黎明 我们确实有机会治疗无法治愈的疾病，阻止气候变化，探索解决每个问题的最佳方法，并且在遥远的未来，我们甚至可以战胜死亡，实现数字永生。我不明白为什么有些人说这一切都只是炒作，并没有真正意识到这项技术有多么具有革命性（我现在谈论的是技术本身，而不是初创企业），我对未来非常乐观，我认为这是一个美好的时代。 或者你不这么认为？    由    /u/arsenius7 提交   [链接] [评论]]]></description>
+      <description><![CDATA[我们正处于人类历史上最重要的时期之一，我们正在见证人类有史以来最伟大的发明的早期，它的重要性甚至远超晶体管或火 这是历史上第一次在理论上我们可以真正地创造和提高智力 只需想象一个工具，只要有足够的计算能力和数据，它就可以解决任何问题，我们正处于技术的黎明 我们确实有机会治疗无法治愈的疾病，阻止气候变化，探索解决每个问题的最佳方法，并且在遥远的未来，我们甚至可以战胜死亡，实现数字永生我不明白为什么有些人说这一切都只是炒作，并没有真正意识到这项技术有多么具有革命性（我现在谈论的是技术本身，而不是初创企业），我对未来非常乐观，我认为这是一个美好的时代。 或者你不这么认为？    由    /u/arsenius7 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fa9if2/ai_is_the_greatest_tool_humans_ever_made/</guid>
       <pubDate>Fri, 06 Sep 2024 07:38:02 GMT</pubDate>
     </item>

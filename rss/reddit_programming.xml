@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Sep 2024 03:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 06:01:51 GMT</lastBuildDate>
     <item>
-      <title>Python 与 Swift 是否适用于 macOS CLI 工具？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fawpen/python_vs_swift_for_macos_cli_tool/</link>
-      <description><![CDATA[我们有一个完全用 Python 构建的内部 CLI 工具，可帮助我们完成操作系统级工作流程。它非常出色，但我们遇到了一些成长的烦恼。 我们遇到了一种情况，我们想使用 Apple 的 Authorization Plugin，但我们无法直接在 Python 中使用它。 由于我怀疑这不会是我们最后一次遇到 Swift 或 Obj-C 特定工具，我开始怀疑是否应该完全重写为 Swift。 替代方案包括用 Swift 编写一个包装器，仅用于 Auth Plugin 并公开我们将在 Python 中使用的 API。  由于这永远只是一个 macOS 工具，我开始觉得使用 Python 从一开始就是一个愚蠢的想法。  很想知道你们的想法。    提交人    /u/BatPlack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fawpen/python_vs_swift_for_macos_cli_tool/</guid>
-      <pubDate>Sat, 07 Sep 2024 02:30:06 GMT</pubDate>
+      <title>系统设计 - 食品配送应用 Zomato、Uber Eats</title>
+      <link>https://www.reddit.com/r/programming/comments/1fazpmu/system_design_food_delivery_app_zomato_uber_eats/</link>
+      <description><![CDATA[  由    /u/Constant_Event_4917  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fazpmu/system_design_food_delivery_app_zomato_uber_eats/</guid>
+      <pubDate>Sat, 07 Sep 2024 05:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>减少 Flutter 应用大小的终极指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1faypqh/ultimate_guide_to_reduce_the_app_size_in_flutter/</link>
+      <description><![CDATA[正如上一篇文章所做的那样，假设大多数开发人员都面临着同样的问题，通过互联网搜索来提供在 Flutter 中最小化应用程序大小的方法。 我在我的 Medium 文章中提到了所有细节。 如果您知道任何其他在 Flutter 中减小应用程序大小的方法，我很乐意在下面的评论部分听到您的意见。 感谢您阅读本文 🙏    提交人    /u/Saurabh7973   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faypqh/ultimate_guide_to_reduce_the_app_size_in_flutter/</guid>
+      <pubDate>Sat, 07 Sep 2024 04:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Squeak 的代码贡献</title>
+      <link>https://www.reddit.com/r/programming/comments/1faxqs3/code_contributions_to_squeak/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faxqs3/code_contributions_to_squeak/</guid>
+      <pubDate>Sat, 07 Sep 2024 03:27:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canva 如何每天收集 250 亿个事件</title>
+      <link>https://www.reddit.com/r/programming/comments/1faxd4y/how_canva_collects_25_billion_events_per_day/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1faxd4y/how_canva_collects_25_billion_events_per_day/</guid>
+      <pubDate>Sat, 07 Sep 2024 03:05:28 GMT</pubDate>
     </item>
     <item>
       <title>Docker 和 Docker Compose 备忘单 + 包含 6 个实践项目的免费课程</title>
@@ -69,7 +90,7 @@
       <pubDate>Fri, 06 Sep 2024 16:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>异步 IO：下一个价值十亿美元的错误？</title>
+      <title>异步 IO：下一个十亿美元的错误？</title>
       <link>https://www.reddit.com/r/programming/comments/1faim1l/asynchronous_io_the_next_billiondollar_mistake/</link>
       <description><![CDATA[  由    /u/yorickpeterse  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1faim1l/asynchronous_io_the_next_billiondollar_mistake/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Privann  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1faak45/implementing_v7_uuid_in_postgres/</guid>
       <pubDate>Fri, 06 Sep 2024 08:57:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 LLM 的编码经历</title>
-      <link>https://www.reddit.com/r/programming/comments/1fa9y49/my_coding_experience_with_llm/</link>
-      <description><![CDATA[  由    /u/oatridbed  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fa9y49/my_coding_experience_with_llm/</guid>
-      <pubDate>Fri, 06 Sep 2024 08:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为移动设备和 Web 构建包含 400 多个屏幕的服务器驱动入门指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fa98ga/how_to_build_serverdriven_onboarding_with_400/</link>
-      <description><![CDATA[  由    /u/FluffyBus9437  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fa98ga/how_to_build_serverdriven_onboarding_with_400/</guid>
-      <pubDate>Fri, 06 Sep 2024 07:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>ImageToSpectrogram，是我花了 10 个小时完成的一个小项目。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fa8yrl/imagetospectrogram_a_little_project_i_did_over/</link>
-      <description><![CDATA[  由    /u/rafa_br34  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fa8yrl/imagetospectrogram_a_little_project_i_did_over/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:58:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
