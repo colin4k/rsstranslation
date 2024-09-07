@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 07 Sep 2024 18:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 21:01:22 GMT</lastBuildDate>
+    <item>
+      <title>用人工智能改编书籍的电影</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbe4zj/movies_from_books_with_ai/</link>
+      <description><![CDATA[我认为我们距离利用人工智能将一本书改编成一部电影并不遥远。我刚刚读了 H. P. Lovecraft 的《疯狂山》，这本书讲述了在南极洲发现古代外星文明遗迹的故事。这将是一部令人惊叹的电影，Guillermo del Toro 一直在尝试这样做，但由于这样的项目非常昂贵，他无法将各个部分拼凑在一起。人工智能可以制作出原本无法制作的电影。也许它可以即兴为我制作一部。我可以告诉它我喜欢《末日危途》的恐怖元素风格，它会为我制作这部电影。    提交人    /u/jmugan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbe4zj/movies_from_books_with_ai/</guid>
+      <pubDate>Sat, 07 Sep 2024 18:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助查找微调数据</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbdmun/help_finding_finetuning_data/</link>
+      <description><![CDATA[我想要对模型进行微调，使其擅长两件事：  历史（例如，我可以问“这段时间发生了哪些有趣的事情”） 引用生成（特别是芝加哥）  对于这两件事，有哪些好的数据集？    提交人    /u/_ethqnol_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbdmun/help_finding_finetuning_data/</guid>
+      <pubDate>Sat, 07 Sep 2024 18:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的全民基本收入</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbdbvc/universal_basic_income_for_ais/</link>
+      <description><![CDATA[  由    /u/Lesterpaintstheworld  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbdbvc/universal_basic_income_for_ais/</guid>
+      <pubDate>Sat, 07 Sep 2024 18:13:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找离线模型来生成随机词</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbdbjt/looking_for_offline_models_to_generate_random/</link>
+      <description><![CDATA[我正在寻找模型来生成不存在的单词，这些单词听起来像是英语、波兰语和德语（我需要这 3 种语言） 我对输出有以下要求：  单词不能存在于标准语言词典中，也不能是 2 个或 2 个以上现有单词拼凑在一起。 单词必须遵循语言规则。 任何使用目标语言的人都应能轻松发音。 单词在标准语言中不应具有任何含义。 最好不是公司/youtuber/IG 用户名。 然后我向 DuckDuckGo 询问这些单词，最好找不到任何结果。  我当前的要求是生成 20 个不存在的发音像英语的名词，少于 6 个音节 我尝试过使用 Ollama 的 phi3 模型。该模型对英语有点用（为了真正得到一些未通过上述列表中最后 2 分的单词，我不得不运行大约 10 次才能得到其中的 20 个。 对于波兰语，它不起作用，并且任何附加功能（例如 shuffle 或 random）都使模型递归和无限运行。 当我要求德语时，它开始输出 UUID，这也不太理想。    提交人    /u/ukindom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbdbjt/looking_for_offline_models_to_generate_random/</guid>
+      <pubDate>Sat, 07 Sep 2024 18:12:41 GMT</pubDate>
+    </item>
     <item>
       <title>生成式人工智能对高技能工作的影响：对软件开发人员而言结果喜忧参半</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbau4n/generative_ais_impact_on_highskilled_work_mixed/</link>
@@ -48,32 +76,11 @@
       <pubDate>Sat, 07 Sep 2024 12:11:55 GMT</pubDate>
     </item>
     <item>
-      <title>如果所有人工智能的训练数据都可以向公众开放，作为全世界的中心信息来源，世界会变得更好吗？来自 llama 3.1 70b 的发人深省的回答</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb57i0/would_it_be_better_for_the_world_if_the_training/</link>
-      <description><![CDATA[这是一个发人深省的问题！将所有 AI 训练数据作为中央信息源公开可能会产生积极和消极的后果。以下是需要考虑的一些要点： 优点：  透明度：公开访问训练数据将促进人工智能开发的透明度，使研究人员能够了解模型的训练方式并做出明智的决策。 协作：共享数据集可以促进研究人员之间的协作，加速人工智能进程并减少重复工作。 包容性：公开访问可以使人工智能开发民主化，使来自不同背景和机构的研究人员能够做出贡献并参与其中。 问责制：公开审查训练数据可以帮助识别和减轻偏见、错误或有害内容。  缺点：  隐私：公开发布敏感或个人数据可能会损害个人隐私和机密性。 安全性：大型数据集的集中存储可能会创建一个故障点，容易受到网络攻击或数据泄露。 质量控制：公开可用的数据可能包含错误、偏差或低质量内容，这可能会对 AI 模型性能产生负面影响。 知识产权：某些数据源可能是专有的或受版权保护的，因此公开发布存在问题。 信息过载：庞大的集中式数据集可能会让人不知所措，这使得研究人员很难找到相关且有用的信息。  一个潜在的解决方案可能是创建一个分散的联合系统来共享 AI 训练数据，其中数据提供者可以控制他们的贡献，同时允许授权访问以用于研究目的。这种方法可以平衡透明度、协作和隐私问题。    提交人    /u/user13131111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb57i0/would_it_be_better_for_the_world_if_the_training/</guid>
-      <pubDate>Sat, 07 Sep 2024 11:56:23 GMT</pubDate>
-    </item>
-    <item>
       <title>欧盟对人工智能的定义毫无意义</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb53yc/the_eu_definition_of_ai_is_pointless/</link>
       <description><![CDATA[这里是“AI系统”的定义摘自欧盟最近的人工智能法案（粗体部分由我加粗）：  “人工智能系统”是指一种基于机器的系统，该系统旨在以不同的自主性水平运行，并且可能在部署后表现出自适应性，并且，对于明确或隐含的目标，从其收到的输入中推断出如何生成输出例如预测、内容、建议或决策，这些输出可以影响物理或虚拟环境；  当删除这些示例时，这些示例并不是系统被标识为&quot;人工智能&quot;的强制性要求，该定义听起来如下：  “人工智能系统”是指一种基于机器的系统，该系统旨在以不同的自主性水平运行，并且，对于明确或隐含的目标，从其收到的输入中推断出如何生成输出。  现在，这个定义可以包括任何自大学第一年基础课程以来开发的软件编程。 为了开始讨论，我注意到以下几点：  “推断”可能指的是统计领域，但它是有限的。此外，“推断”一词不是“统计推断”：后者与不确定性、置信度等有关，而前者是一种推理方法（来自 Merriam-Webster 词典：“从事实或前提得出结论”）。 “如何”这个词也是错误的：大多数人工智能系统不会决定如何生成输出，它们不会在运行时修改算法。 “不同程度的自主性”没有设定最低水平：人工智能系统需要的最低自主性是多少？     提交人    /u/ResilientSpider   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb53yc/the_eu_definition_of_ai_is_pointless/</guid>
       <pubDate>Sat, 07 Sep 2024 11:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alex Kim 不为人知的故事 – 使用大型语言模型进行财务报表分析</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb48pk/the_untold_story_of_alex_kim_financial_statement/</link>
-      <description><![CDATA[这是 Alex Kim 的故事。他的研究破解了股市。 在 YouTube 上观看完整视频 Alex 是芝加哥大学的博士生，他想看看大型语言模型（如 ChatGPT）是否可用于进行财务分析。他的结果令人震惊。 Alex 在他的论文使用大型语言模型进行财务报表分析中分享了他的结果。这篇论文长达 50 多页，上面的视频总结了他的发现。 实验方法 为了研究 LLM 是否能有效地进行财务分析，Alex 将其与两种替代方法进行了比较。 朴素方法 朴素方法采用一年的 EPS 变化，并预测第二年的 EPS 变化将完全相同。 分析师方法 分析师方法采用财务分析师对一年的共识评级，并衡量他们预测第二年的准确程度。 LLM 方法 LLM 方法采用一年的股票财务报表，并要求 LLM 执行思维链提示来预测第二年的收益变化。 结果如何？  朴素方法：他发现朴素方法方法在预测股票每股收益变化时的准确率为 49%。 分析师方法：他发现专业分析师在预测股票每股收益变化时的准确率为 53% LLM 方法：LLM 方法是迄今为止最准确的，仅使用财务报表数据，准确率就超过 60%。  想象一下，有了更多的数据，行业平均值、回测等等，一切皆有可能。人工智能正在从根本上改变我们对待市场的方式，您有机会站在这场革命的最前沿。 我正在创建 NexusTrade，这是一个由人工智能驱动的算法交易平台，旨在帮助散户投资者创建、回测、优化和部署自动交易策略，而无需编写任何代码。我的目标是为用户提供遗传优化和人工智能驱动的股票筛选等高级工具，以便他们可以轻松发现新的投资机会并改进他们的策略。借助 NexusTrade，即使是非技术用户也可以像专业人士一样进行复杂的财务研究并参与算法交易。    提交人    /u/NextgenAITrading   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb48pk/the_untold_story_of_alex_kim_financial_statement/</guid>
-      <pubDate>Sat, 07 Sep 2024 10:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们是如何制作出像这样的人声和嘴巴动作的假 AI 视频的？......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb3gc7/how_are_people_making_fake_ai_video_with_a/</link>
-      <description><![CDATA[https://www.youtube.com/watch?v=TYEJofbDUbw 人们用什么来实现这个？谢谢    提交人    /u/SeveralArm2714   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb3gc7/how_are_people_making_fake_ai_video_with_a/</guid>
-      <pubDate>Sat, 07 Sep 2024 09:59:29 GMT</pubDate>
     </item>
     <item>
       <title>我无法跟上，这是关于政府监管创新、研发 + 推广以及各国采取的各种方法领域发生的一切。自从伊隆·马斯克写下他著名的“6 个月暂停”信以来，发生了什么</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[我们正处于人类历史上最重要的时期之一，我们正在见证人类有史以来最伟大的发明的早期，它的重要性甚至远超晶体管或火 这是历史上第一次在理论上我们可以真正地创造和提高智力 只需想象一个工具，只要有足够的计算能力和数据，它就可以解决任何问题，我们正处于技术的黎明 我们确实有机会治疗无法治愈的疾病，阻止气候变化，探索解决每个问题的最佳方法，并且在遥远的未来，我们甚至可以战胜死亡，实现数字永生我不明白为什么有些人说这一切都只是炒作，并没有真正意识到这项技术有多么具有革命性（我现在谈论的是技术本身，而不是初创企业），我对未来非常乐观，我认为这是一个美好的时代。 或者你不这么认为？    由    /u/arsenius7 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fa9if2/ai_is_the_greatest_tool_humans_ever_made/</guid>
       <pubDate>Fri, 06 Sep 2024 07:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
-      <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>

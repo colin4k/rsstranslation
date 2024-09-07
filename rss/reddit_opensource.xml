@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Sep 2024 18:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 21:01:51 GMT</lastBuildDate>
+    <item>
+      <title>用于打印结构的 C 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fbfw0e/c_library_for_printing_structs/</link>
+      <description><![CDATA[大家好， 你有没有想过用 C 语言打印一个结构体？我曾经想过，所以我决定为此建立一个库。 介绍 uprintf，一个用于打印结构体的单头 C 库（在 Linux 上）。 它旨在用于原型设计和调试，特别是对于具有大量状态和/或数据结构的程序。 创建它的实际原因是证明这个概念，因为它听起来不像是可以用 C 语言实现的东西。 除了一些限制外，它几乎可以打印任何东西。 最大的限制是无法打印动态分配的数组。这似乎是不可能的，所以如果你有什么想法，我很乐意听听。 第二个是它要求使用调试信息构建可执行文件，但考虑到它的预期用途，我认为这没有问题。 最后，它只适用于 Linux。虽然我还没有研究过其他操作系统，但可能可以扩展它，但我没有时间（现在）。 如果您有兴趣，请查看存储库。 如果您想知道它是如何工作的（并且不想阅读源代码），请告诉我。如果有足够多的人关心，我会写一个关于它的博客或视频。 感谢阅读！    提交人    /u/NaiveProcedure755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fbfw0e/c_library_for_printing_structs/</guid>
+      <pubDate>Sat, 07 Sep 2024 20:05:37 GMT</pubDate>
+    </item>
     <item>
       <title>简历生成器，带有 Claude Made 定制模板</title>
       <link>https://www.reddit.com/r/opensource/comments/1fbcrpr/resume_builder_with_custom_claude_made_templates/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好 :) 我一直在做一个名为 PartPilot 的项目，这是一个电子零件管理解决方案。由于我目前忙于工作和学习，无法跟上功能请求和问题。  该项目基于 NextJs、Postgres（带有 Prisma ORM）和 Mantine。 如果您有兴趣提供帮助，请随时联系我 - 项目如下：https://github.com/PartPilotLab/PartPilot     提交人    /u/Len_Ki   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9fs7j/looking_for_contributors/</guid>
       <pubDate>Thu, 05 Sep 2024 06:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源代码和安全问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9f7ce/open_source_code_and_security_issue/</link>
-      <description><![CDATA[我目前正在开发一个个人项目，我想将其作为开源项目，但这个项目的主要重点是安全和加密，因此，就我在这方面的无知而言，如果我想让我的应用程序以安全和防入侵为中心，我不知道共享所有代码供免费使用是否是一种坏方法。更有经验的人如何评估这种情况？    提交人    /u/ArgiopeTrifasciata   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9f7ce/open_source_code_and_security_issue/</guid>
-      <pubDate>Thu, 05 Sep 2024 05:50:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
