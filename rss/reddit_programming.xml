@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Sep 2024 09:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:02:00 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我 14 岁，刚刚创建了我的第一个工作项目，它运行正常，可能需要进行一些完善，但困难的事情已经完成，让 google 身份验证工作正常，托管网站，并使帖子即使您重新加载页面也能保存</title>
+      <link>https://www.reddit.com/r/programming/comments/1fb58rc/hey_guys_im_14_and_i_just_build_my_first_working/</link>
+      <description><![CDATA[  由    /u/EventSad4944  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fb58rc/hey_guys_im_14_and_i_just_build_my_first_working/</guid>
+      <pubDate>Sat, 07 Sep 2024 11:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>结合函数指针、lambda 表达式和 switch 语句在我的脚本语言 DeltaScript 中创建模式匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1fb4unp/combining_function_pointers_lambda_expressions/</link>
+      <description><![CDATA[  由    /u/flinkerflitzer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fb4unp/combining_function_pointers_lambda_expressions/</guid>
+      <pubDate>Sat, 07 Sep 2024 11:34:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建金融系统的工程原则</title>
+      <link>https://www.reddit.com/r/programming/comments/1fb2rrg/engineering_principles_for_building_financial/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fb2rrg/engineering_principles_for_building_financial/</guid>
+      <pubDate>Sat, 07 Sep 2024 09:07:15 GMT</pubDate>
+    </item>
     <item>
       <title>具有 IM 风格界面的归档工具，集成了包括 Internet Archive、archive.today、Ghostarchive、IPFS、Telegraph 和文件系统在内的各种归档服务。</title>
       <link>https://www.reddit.com/r/programming/comments/1fb1ek3/an_archiving_tool_with_an_imstyle_interface/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fag1o9/scalability_cheat_sheet_1_from_basics_to/</guid>
       <pubDate>Fri, 06 Sep 2024 14:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一篇关于实际实践的文章，以 Unix 创建日期后的秒数来存储日期。人们就是这么做的。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fae0c4/on_article_on_the_real_practice_of_storing_dates/</link>
-      <description><![CDATA[  由    /u/WSBJosh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fae0c4/on_article_on_the_real_practice_of_storing_dates/</guid>
-      <pubDate>Fri, 06 Sep 2024 12:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoScrapy：利用 Go 的强大功能实现极快的网页抓取，灵感来自 Python 的 Scrapy 框架 - 仍处于初始阶段，还有许多改进空间</title>
-      <link>https://www.reddit.com/r/programming/comments/1fac3ci/goscrapy_harnessing_gos_power_for_blazingly_fast/</link>
-      <description><![CDATA[  由    /u/strapengine  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fac3ci/goscrapy_harnessing_gos_power_for_blazingly_fast/</guid>
-      <pubDate>Fri, 06 Sep 2024 10:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>PGlite - 在 Node、Bun 以及浏览器中本地运行 PostgreSQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1faaqz0/pglite_run_postgresql_locally_in_node_bun_and/</link>
-      <description><![CDATA[  由    /u/ram-foss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1faaqz0/pglite_run_postgresql_locally_in_node_bun_and/</guid>
-      <pubDate>Fri, 06 Sep 2024 09:12:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
