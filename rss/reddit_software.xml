@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 21:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 00:03:05 GMT</lastBuildDate>
+    <item>
+      <title>HERMES Paige 发布 - 寻找可以合作的 Windows 文本编辑器开发人员</title>
+      <link>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</link>
+      <description><![CDATA[我所在的一家小型软件公司 Team HERMES 收购了 Paige，这是一个非常出色、文档齐全、功能齐全的 C 语言库，用于在 Windows 下处理富文本。我们正在寻找目前正在编写或计划编写样式化文本应用程序的开发人员（从 Markdown 编辑器到帮助文件查看器的任何应用程序都可以使用 - 甚至是轻量级文字处理应用程序），以便为我们的产品提供内部以外的用户群。这是一款开源产品，因此如果它缺少您需要的功能，您可以自由改进它（我们在这方面有几个建议）。公共存储库位于 https://github.com/nmatavka/HERMES-Paige。    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</guid>
+      <pubDate>Fri, 06 Sep 2024 23:57:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 音频混音器有替代品吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</link>
+      <description><![CDATA[我想我正在寻找的是专门用于应用程序的音频路由器。像 WAM 这样的东西会强制将应用程序的音频发送到特定的音频设备。我已经使用 Voicemeeter 进行设备输入到输出混合，使用虚拟音频电缆，但我找不到像 WAM 那样强制应用程序使用特定输出的程序。 我对 WAM 的问题是，几乎每次我完全关闭电脑并重新打开时，应用程序的音频设置都会重置为默认设置。我试过 音频路由器，但它是一个如此古老的程序，它不会将程序识别为“真实的”并禁用路由功能。  如果 Voicemeeter 能够做到这一点，那么另一个问题就是如何去做，但现在我想我只是在寻找 WAM 的替代品。    提交人    /u/RealSyloktheDefiled   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</guid>
+      <pubDate>Fri, 06 Sep 2024 23:16:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳默认应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1fassks/the_best_default_apps/</link>
+      <description><![CDATA[https://preview.redd.it/zqfqua39t9nd1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=60dedf654e37385a82588d5a586d7cf0c08283d8    提交人    /u/Xandeath75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fassks/the_best_default_apps/</guid>
+      <pubDate>Fri, 06 Sep 2024 23:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的硬件欺骗软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1farhvw/free_hwid_spoofing_software/</link>
+      <description><![CDATA[是否存在非基于订阅的硬件欺骗器？    提交人    /u/ReapersYTIsHere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1farhvw/free_hwid_spoofing_software/</guid>
+      <pubDate>Fri, 06 Sep 2024 22:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务管理器</title>
+      <link>https://www.reddit.com/r/software/comments/1far4bq/task_manager/</link>
+      <description><![CDATA[三个月前我创建了一个供个人使用的 Chrome 扩展程序，最近决定添加一些新功能。我意识到它对其他人真的很有帮助，所以我决定将 GitHub repo 公开。这是一个安全有效的工具。希望大家喜欢这个，如果你有任何建议、问题或批评，请跳到回复中！ 你可以在这里在 GitHub 上查看它：https://github.com/DrDead0/Task-Manager_Chrome-Extension    提交人    /u/Anxious-Ad8269   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1far4bq/task_manager/</guid>
+      <pubDate>Fri, 06 Sep 2024 21:53:47 GMT</pubDate>
+    </item>
     <item>
       <title>有用的软件</title>
       <link>https://www.reddit.com/r/software/comments/1fanwnm/useful_software/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由   提交  /u/Which-Option-7056   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f9x93m/is_there_a_way_to_upload_a_pdf_and_hear_it_out/</guid>
       <pubDate>Thu, 05 Sep 2024 20:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据人口统计数据进行筛选的投票/投票软件</title>
-      <link>https://www.reddit.com/r/software/comments/1f9ukji/pollingvoting_software_that_filters_by/</link>
-      <description><![CDATA[寻找某种民意调查/投票软件，该软件可以实时按人口统计数据进行过滤，类似于 CNN 在选举期间使用的 John Kings Magic Wall。我不需要它那么强大。但我想对现场观众进行民意调查，然后实时显示按年龄、性别、政党等过滤的结果。 这存在吗？Google 搜索无果而终，并试图避免雇用某人为我们创建自定义软件。提前致谢！    提交人    /u/AnyVeterinarian5691   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9ukji/pollingvoting_software_that_filters_by/</guid>
-      <pubDate>Thu, 05 Sep 2024 19:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>海外短信</title>
-      <link>https://www.reddit.com/r/software/comments/1f9sjr0/sms_while_over_seas/</link>
-      <description><![CDATA[长话短说，我要上网课，然后去欧洲待一个月，拜访朋友。但是，要进入我的学校帐户，需要两步验证器。这就是它发送短信的问题。我有 wifi，但仍然无法收到登录代码。我已经和学校的 IT 部门谈过了，不会删除它。有没有什么办法可以将短信转发到我的电脑上？     提交人    /u/brosiedon7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9sjr0/sms_while_over_seas/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:43:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您好，有没有什么可以安全下载 YouTube MP3/4 的应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1f9s18p/hello_any_safe_app_for_youtube_mp34_download/</link>
-      <description><![CDATA[我需要一些来自 YT 的视频，但我不想付费，你知道有什么应用程序吗？    提交人    /u/ambassinn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9s18p/hello_any_safe_app_for_youtube_mp34_download/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找个人防火墙检测器。</title>
-      <link>https://www.reddit.com/r/software/comments/1f9qldm/looking_for_a_personal_firewall_detector/</link>
-      <description><![CDATA[我有一个朋友，她的网站 cookie 无法保持登录状态，因此她遇到了问题，我想知道我可以向她推荐什么低成本软件，以便查看她的服务是否存在防火墙问题或其他网络问题。我不知道这是否属实，但我怀疑有线服务存在与其他类型的互联网不同的问题，因为有线服务中多个人通过一根同轴电缆连接在一起，因此存在的问题与其他类型的互联网不同，因此她最好使用一个月，看看网络层面发生了什么，以便纠正问题。也许防火墙阻止或重置了她的 cookie。 如果有人有其他想法，我告诉她将路由器重置为出厂设置，并致电提供商的技术人员并告诉他们问题，以便他们能够进行测试。 有可能其中一个室友的防火墙会影响它，我们不知道，但她说这不太可能，因为其他人不像她这样精通技术。它仍然可能意外发生，或者可能有间谍软件。 如果我走错了路，请对软件或服务提出任何建议。 也许您可以建议目前最好的免费间谍软件追踪器。 我认为这些都是很好的第一张照片。    提交人    /u/warriorjoe007   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9qldm/looking_for_a_personal_firewall_detector/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:24:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows explorer.exe 替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1f9psy6/windows_explorerexe_alternative/</link>
-      <description><![CDATA[有没有适用于 Windows 的 explorer.exe 的替代品？不是文件管理器，而是桌面本身？我的学校笔记本电脑有管理员权限，但运行起来很糟糕。Explorer.exe 通常是最大的问题，按下 Windows 键通常会使计算机冻结几秒钟，使用任务栏/托盘也是如此。Taskilling explorer.exe 使其稍微可用，但不实用。 我只是在寻找一种可以替代 explorer.exe 功能的工具，但没有可怕的稳定性和性能。 谢谢！    提交人    /u/lilyeatssoup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9psy6/windows_explorerexe_alternative/</guid>
-      <pubDate>Thu, 05 Sep 2024 15:52:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
