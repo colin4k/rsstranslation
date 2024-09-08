@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 06:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 09:01:22 GMT</lastBuildDate>
+    <item>
+      <title>他们使用什么软件？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbt9m6/what_software_did_they_use/</link>
+      <description><![CDATA[嘿，我刚刚遇到这个问题，不久前我已经尝试创建类似的东西，我想知道他们使用什么软件来做到这一点，你可以在 insta 帖子的幻灯片中看到屏幕截图： https://www.instagram.com/p/C_L3th8yo6y/?igsh=MWpzYTlpc3RmMXc5bA==    提交人    /u/MaryLee18   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbt9m6/what_software_did_they_use/</guid>
+      <pubDate>Sun, 08 Sep 2024 08:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Loom 为你的 Python 可视化制作动画</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbr57a/animate_your_python_visualization_using_loom/</link>
+      <description><![CDATA[我刚刚导出了 loom，这是一个 Python 库，可以为您的图表和图形添加动画效果，使其更加引人注目。在此处查看演示：https://youtu.be/5eZqREtMW_Y?si=hJCJbt7sXdWAnCdQ    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbr57a/animate_your_python_visualization_using_loom/</guid>
+      <pubDate>Sun, 08 Sep 2024 06:11:58 GMT</pubDate>
+    </item>
     <item>
       <title>攻读法学硕士学位会带来哪些技术难题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbqx27/what_kind_of_technical_complications_come_with/</link>
@@ -92,7 +106,7 @@
     <item>
       <title>人工智能用于转录乐器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb78am/ai_for_transcribing_instruments/</link>
-      <description><![CDATA[我一直在寻找可以让我上传音乐文件并让 AI 以乐谱转录乐器部分的东西。当我为乐队配乐时，我会花几个小时转录歌曲。能够做到这一点可以让我专注于学习部分而不是编写它们。有人知道这样的东西吗？    提交人    /u/webDevPM   [link] [评论]]]></description>
+      <description><![CDATA[我一直在寻找可以让我上传音乐文件并让 AI 以乐谱形式转录乐器部分的东西。当我为乐队配乐时，我会花几个小时转录歌曲。能够做到这一点可以让我专注于学习部分而不是编写它们。有人知道类似的东西吗？    提交人    /u/webDevPM   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb78am/ai_for_transcribing_instruments/</guid>
       <pubDate>Sat, 07 Sep 2024 13:43:52 GMT</pubDate>
     </item>
@@ -113,16 +127,9 @@
     <item>
       <title>欧盟对人工智能的定义毫无意义</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb53yc/the_eu_definition_of_ai_is_pointless/</link>
-      <description><![CDATA[这里是“AI系统”的定义摘自欧盟最近的人工智能法案（粗体部分由我加粗）：  “人工智能系统”是指一种基于机器的系统，该系统旨在以不同的自主性水平运行，并且可能在部署后表现出自适应性，并且，对于明确或隐含的目标，从其收到的输入中推断出如何生成输出例如预测、内容、建议或决策，这些输出可以影响物理或虚拟环境；  当删除这些示例时，这些示例并不是系统被标识为&quot;人工智能&quot;的强制性要求，该定义听起来如下：  “人工智能系统”是指一种基于机器的系统，该系统旨在以不同的自主性水平运行，并且，对于明确或隐含的目标，从其收到的输入中推断出如何生成输出。  现在，这个定义可以包括任何自大学第一年基础课程以来开发的软件编程。 为了开始讨论，我注意到以下几点：  “推断”可能指的是统计领域，但它是有限的。此外，“推断”一词不是“统计推断”：后者与不确定性、置信度等有关，而前者是一种推理方法（来自 Merriam-Webster 词典：“从事实或前提得出结论”）。 “如何”这个词也是错误的：大多数人工智能系统不会决定如何生成输出，它们不会在运行时修改算法。 “不同程度的自主性”没有设定最低水平：人工智能系统需要的最低自主性是多少？     提交人    /u/ResilientSpider   [链接] [评论]]]></description>
+      <description><![CDATA[这里是“AI系统”的定义摘自欧盟最近的人工智能法案（粗体部分由我加粗）：  “人工智能系统”是指一种基于机器的系统，该系统旨在以不同的自主性水平运行，并且可能在部署后表现出自适应性，并且，对于明确或隐含的目标，从其收到的输入中推断出如何生成输出例如预测、内容、建议或决策，这些输出可以影响物理或虚拟环境；  当删除这些示例时，这些示例并不是将系统标识为&quot;人工智能&quot; 的强制性要求，该定义听起来如下：  “人工智能系统”是指一种基于机器的系统，该系统旨在以不同的自主性水平运行，并且，对于明确或隐含的目标，从其收到的输入中推断出如何生成输出。  现在，这个定义可以包括任何自大学第一年基础课程以来开发的软件编程。 为了开始讨论，我注意到以下几点：  “推断”可能指的是统计领域，但它是有限的。此外，“推断”一词不是“统计推断”：后者与不确定性、置信度等有关，而前者是一种推理方法（来自 Merriam-Webster 词典：“从事实或前提得出结论”）。 “如何”这个词也是错误的：大多数人工智能系统不会决定如何生成输出，它们不会在运行时修改算法。 “不同程度的自主性”没有设定最低水平：人工智能系统需要的最低自主性是多少？     提交人    /u/ResilientSpider   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb53yc/the_eu_definition_of_ai_is_pointless/</guid>
       <pubDate>Sat, 07 Sep 2024 11:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>柏林人工智能黑客马拉松</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb2ix5/ai_hackathon_in_berlin/</link>
-      <description><![CDATA[大家好！我们很高兴于 9 月 28 日上午 10:00 至 9 月 29 日晚上 8:00 在 Factory Berlin Mitte 举办 Factory Network x {Tech: Berlin} AI Hackathon。对于企业家、初创团队和建设者来说，这是一个深入研究 AI 项目的绝佳机会，无论您是改进现有想法还是开始新事物。    提交人    /u/Repulsive_News1717   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb2ix5/ai_hackathon_in_berlin/</guid>
-      <pubDate>Sat, 07 Sep 2024 08:48:41 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[我们的子版块需要社区的帮助。我们需要一个子版块的徽标！ 我相信你们一定会想出比我们目前拥有的大脑更好的东西。 获得最多点赞的徽标将用作 r/ArtificialInteligence 的徽标 Reddit，做你自己！    提交人    /u/mcr55   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fb0j0e/help_rartificialinteligence_get_a_new_logo/</guid>
       <pubDate>Sat, 07 Sep 2024 06:20:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我确实需要一个个人人工智能助理/教练</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fawvo4/i_really_need_a_personal_ai_assistantcoach/</link>
-      <description><![CDATA[我现在处境非常糟糕，感觉只有有人命令我才能完成任何事情。有没有个性化的人工智能助手工具可以帮助我？ 我需要人工智能能够向我的手机发送通知、设置闹钟和安排工作时间，以及聊天 GPT 等人工智能已经可以做的任何事。我在网上查过，但所有模型在我看来都一样，我不知道从哪里开始。我真的觉得我需要帮助。 编辑：顺便说一句，感谢大家的所有建议和帮助，你们太棒了    提交人    /u/trolledwolf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fawvo4/i_really_need_a_personal_ai_assistantcoach/</guid>
-      <pubDate>Sat, 07 Sep 2024 02:39:40 GMT</pubDate>
     </item>
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
