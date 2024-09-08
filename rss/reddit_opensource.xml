@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Sep 2024 09:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 12:02:09 GMT</lastBuildDate>
+    <item>
+      <title>我应该将我的开源项目视为 SaaS 产品吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fbw0h0/should_i_see_my_open_source_project_as_saas/</link>
+      <description><![CDATA[大家好， 我一直在研究一个名为 RateShield 的开源项目，这是一个多功能的速率限制解决方案，旨在帮助开发人员管理 API 使用情况并防止滥用。它最初是一个附带项目，但已经发展成为我认为具有真正潜力的东西。我正在考虑是否将其进一步开发为 SaaS 产品，并希望得到您的反馈！ 🎯 为什么选择 RateShield？ 我构建 RateShield 是为了探索 API 的自定义速率限制，对于希望轻松实现速率限制策略的开发人员来说，它已成为一种方便的工具。 🌟 主要特点：  可自定义的限制：根据您的需要为每个 API 端点定制速率限制规则。 直观的仪表板：一个用户友好的界面，用于监控和管理速率限制。 轻松集成：可无缝集成到您现有基础架构中的中间件。  ⚙️ 用例：  防止 API 滥用：控制对 API 的请求数量，以避免滥用或恶意活动。 成本管理：帮助有效管理第三方 API 调用，以防止意外的超额成本。  🚀 支持的速率限制算法：  令牌桶 固定窗口计数器 （更多算法正在开发中！）  我的问题：&gt; 鉴于其功能和潜在用例，您是否认为将 RateShield 转变为 SaaS 产品具有足够的价值？还是我应该继续关注开源版本并围绕它建立一个社区？    提交人    /u/Sushant098123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fbw0h0/should_i_see_my_open_source_project_as_saas/</guid>
+      <pubDate>Sun, 08 Sep 2024 11:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS Code 不为人知的故事——一部迷你纪录片</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fbv7dz/the_untold_story_of_vs_code_a_mini_documentary/</link>
+      <description><![CDATA[嗨，开源爱好者们！我刚刚发布了一部简短的纪录片，揭示了 VS Code 鲜为人知的历史，追溯了它的发展以及使其成为如今开源强国的关键时刻。 这是一部快速而深入的纪录片，从它的创建到沿途的一些争议。如果您对 VS Code 的幕后花絮感到好奇，或者只是喜欢了解更多有关开源工具的信息，我很乐意让您查看！ 这是迷你纪录片的链接：VS Code 不为人知的故事 如果能得到您的反馈或听听您自己使用 VS Code 的经历，那就太好了。让我们聊聊吧！   提交者    /u/deven_rathore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fbv7dz/the_untold_story_of_vs_code_a_mini_documentary/</guid>
+      <pubDate>Sun, 08 Sep 2024 11:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于查看和比较技术图纸的 FOSS 替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fbukvp/foss_alternative_for_viewing_and_comparing/</link>
+      <description><![CDATA[是否有免费的开源替代软件可用于查看和比较不同的技术图纸？ 类似 ZG-View (https://zg-view.com) 的软件可以打开技术图纸文件 (TIFF、PDF、SVG 等)，对它们进行分层、导航、缩放、测量，并比较不同版本的变化？    提交人    /u/matiwi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fbukvp/foss_alternative_for_viewing_and_comparing/</guid>
+      <pubDate>Sun, 08 Sep 2024 10:19:54 GMT</pubDate>
+    </item>
     <item>
       <title>寻求 RSS 提要源的建议。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fbpoo7/seeking_suggestions_for_rss_feed_sources/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>我想在其他浏览器中使用 Edge 的工作区，所以我制作了一个 FOSS 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</link>
-      <description><![CDATA[我非常喜欢 Microsoft Edge 的工作区，但我喜欢使用 Google Chrome。因此，我决定制作一个扩展程序，无需使用 Edge 即可复制大部分行为。 演示 gif 链接  Github repo Chrome 网上应用店 Firefox 插件商店     由   提交  /u/Elec0   [链接] [评论]]]></description>
+      <description><![CDATA[我非常喜欢 Microsoft Edge 的工作区，但我喜欢使用 Google Chrome。因此，我决定制作一个无需使用 Edge 即可复制大部分行为的扩展程序。 演示 gif 链接  Github repo Chrome 网上应用店 Firefox 插件商店     由   提交  /u/Elec0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</guid>
       <pubDate>Sat, 07 Sep 2024 23:35:06 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我们喜欢 gitbook，但讨厌它的价格不可预测 + 它不是 FOSS :(，所以我们构建了一些可以用于我们文档需求的东西。我们是 docusaurus 和 RsPress 的忠实粉丝（像 docusaurus 但使用基于 rust 的工具构建），但让非技术人员使用它很麻烦。 介绍 kalmia！它是免费的（就像使用 AGPLv3 的自由一样），它很漂亮，它的速度非常快。如果您想了解有关它的更多详细信息，您可以在我们的博客上阅读有关它的信息，或者直接转到 github/文档。 PS：这是一个非常早期的产品，因此可能会有一些错误/重大更改！    提交人    /u/fazelesswhite   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9v95b/we_built_a_foss_alternative_to_gitbook/</guid>
       <pubDate>Thu, 05 Sep 2024 19:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户脚本用于自定义 letterboxd 背景，无需 letterboxd PATRON。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9sipt/userscript_to_customize_letterboxd_backdrops/</link>
-      <description><![CDATA[       由    /u/Raghavan_Rave10  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9sipt/userscript_to_customize_letterboxd_backdrops/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的语音通话平台？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9rmow/simple_voice_call_platform/</link>
-      <description><![CDATA[嗨， 我有一个 wifi 网络，其中有两个路由器的 Linux 客户端，它们需要相互发起语音呼叫。我正在寻找一种可以作为服务器运行的简单软件，以在带宽非常受限（1 mbps）的情况下调解两者之间的 voip 呼叫。大多数 SIP 和 voip 软件都有复杂的 GUI 站点，并且需要带有 gui 或初始注册过程的客户端应用程序。我正在寻找一种只需在 Linux 上运行的简单 API 或 CLI 方法，并且实际上只需要将两个声音发送给对方。 有什么建议吗？提前谢谢！    提交人    /u/Jack_12221   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9rmow/simple_voice_call_platform/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以分发经过 IP 修改的开源软件而不发布修改后的代码吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9rcb2/can_i_distribute_open_source_thats_been_modified/</link>
-      <description><![CDATA[我希望将一些开源代码实现到设备中。设备本身有一些不能向公众发布的 IP。设备将有不同的软件版本可供使用，所有软件版本都是免费的（客户只需为设备付费）。某些版本的软件没有开源代码。 相关许可证是 GPL-3.0。 我是否能够在不向公众发布整个代码库的情况下分发修改后的软件？ 编辑：我在下面的评论中添加了更多详细信息。    提交人    /u/QuPsi22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9rcb2/can_i_distribute_open_source_thats_been_modified/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:55:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
