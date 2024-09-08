@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 12:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 15:01:43 GMT</lastBuildDate>
+    <item>
+      <title>Gyazo 是 gif 屏幕截图的替代品吗？（ShareX？）</title>
+      <link>https://www.reddit.com/r/software/comments/1fbwh53/gyazo_alternative_for_gif_screen_capture_sharex/</link>
+      <description><![CDATA[Gyazo 最近更改了其 gif 捕获的工作方式，除非您付费订阅，否则其徽标会出现在您保存的每个 gif 的末尾。 我正在寻找一个屏幕捕获程序，可以以 +30 fps 为我制作大约 7 秒的 mp4/gif。 从我在网上查找的内容来看，每个人似乎都在推荐 ShareX，虽然它看起来像一个可靠的程序，但我无法将 gif/mp4 大小缩小到合理的大小，就像 Gyazo 能够做到的那样，作为参考，我能够从 Gyazo 获得大约 5 mb 的 7 秒 gif，而在 ShareX 上，它似乎总是很容易超过 100 mb，即使在调整视频编码设置并更改为 x265 等之后也是如此。 有人有好的替代方案吗？    由    /u/bsgapollo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fbwh53/gyazo_alternative_for_gif_screen_capture_sharex/</guid>
+      <pubDate>Sun, 08 Sep 2024 12:20:40 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 滞后</title>
       <link>https://www.reddit.com/r/software/comments/1fbr54a/premiere_pro_lags/</link>
-      <description><![CDATA[我需要一些有关 Premiere 的帮助 -- 所以我基本上有 ryzen 5 3600 和 rtx 3060、16 GB 内存，并且我在 Premiere 中遇到了应用程序本身的问题，因为它在编辑 1-2 分钟后冻结了一个项目，这不是播放的问题，而是应用程序本身冻结了，如果我尝试打开任何窗口，它不喜欢它完全停止    提交人    /u/purpleyura   [link] [评论]]]></description>
+      <description><![CDATA[我需要一些有关 premiere 的帮助 -- 我基本上有 ryzen 5 3600 和 rtx 3060、16 gb ram，我在使用 premiere 时遇到了应用程序本身的问题，因为它在编辑 1-2 分钟后冻结了一个项目，这不是播放的问题，而是应用程序本身冻结了，如果我尝试打开任何窗口，它不喜欢它完全停止    提交人    /u/purpleyura   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fbr54a/premiere_pro_lags/</guid>
       <pubDate>Sun, 08 Sep 2024 06:11:50 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我使用 OneDrive 进行云访问/备份我的文件，并使用 Macrium Reflect 在外部驱动器上创建我的文件的本地备份。我想使用个人保管库进行云访问我更敏感的文件，但我担心本地备份。我知道在保管库锁定时无法做到这一点，但是我想知道如果保管库解锁，Macrium Reflect 等备份实用程序是否可以看到保管库的内容。也许他们只能看到文件夹结构，但实际上无法访问文件？    提交人    /u/HighSierras13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1faicln/onedrive_personal_vault_backup/</guid>
       <pubDate>Fri, 06 Sep 2024 15:42:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monorepos 和最多 N 名开发人员的许可</title>
-      <link>https://www.reddit.com/r/software/comments/1fagjgo/monorepos_and_licenses_up_to_n_developers/</link>
-      <description><![CDATA[大家好， 我经常遇到一些软件，这些软件有最多 N 名开发人员的许可选项，但下一层级的许可非常昂贵，我的公司通常无法接受。棘手的部分是，我们的应用程序通常由少数开发人员开发，但我们有一个 monorepo 设置，有数十名用户可以访问该 repo。 鉴于这种设置，我想知道处理许可的正确方法是什么？许可证通常是计算所有有访问权限的人，还是只计算那些积极开发的人？ 很想听听你的经历！    提交人    /u/mareksk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fagjgo/monorepos_and_licenses_up_to_n_developers/</guid>
-      <pubDate>Fri, 06 Sep 2024 14:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
