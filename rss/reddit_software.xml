@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 15:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 18:01:48 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 评选的 2024 年最佳防病毒软件是？</title>
+      <link>https://www.reddit.com/r/software/comments/1fc3yy1/best_antivirus_according_to_reddit_in_2024/</link>
+      <description><![CDATA[  由    /u/DarkKurmoNeko  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fc3yy1/best_antivirus_according_to_reddit_in_2024/</guid>
+      <pubDate>Sun, 08 Sep 2024 18:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要适用于 Windows 和 Android 的简单数据库程序或应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fc2nb1/need_a_simple_database_program_or_app_for_windows/</link>
+      <description><![CDATA[我需要一个易于使用和安装的数据库，既可以在 Windows 台式电脑上使用，也可以在 Android 手机上使用。用于保存个人物品清单，如工具、书籍、收据等。以前在 Ipad 中有一个，但停止工作并且不再受支持，我不介意为它付费，但便宜或免费更好。我开始用谷歌搜索，发现它很复杂。我甚至尝试下载一个名为 sqlite 的数据库，但不知道如何获取它。我不懂电脑。    提交人    /u/chankilyn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fc2nb1/need_a_simple_database_program_or_app_for_windows/</guid>
+      <pubDate>Sun, 08 Sep 2024 17:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较文件大小</title>
+      <link>https://www.reddit.com/r/software/comments/1fc18o4/compare_file_sizes/</link>
+      <description><![CDATA[我正在 Power Automation 中构建工作流，想知道是否有可能以某种方式在 .bat 或 .ps1 或 Power Automate 中比较具有相同名称的两个文件，即 Folder1\1.mp4 和 folder2\1.mp4，然后删除两个文件中较大的一个，将较小的一个移动到第三个文件夹中。对 200 个文件重复此操作。到目前为止，我还没有找到/构建（在 chatgpt 中）任何类似的工具。    提交人    /u/Impressive_Oil_2828   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fc18o4/compare_file_sizes/</guid>
+      <pubDate>Sun, 08 Sep 2024 16:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个 YouTube 视频下载器。如果它有分割和下载视频片段的选项，那就太好了！</title>
+      <link>https://www.reddit.com/r/software/comments/1fbzy06/need_a_youtube_video_downloader_if_it_has_an/</link>
+      <description><![CDATA[我想下载 YouTube 视频，但由于我的网速很慢，有时我不得不下载整个视频，而不是我需要的实际剪辑。 有没有什么程序可以让我下载视频的一部分以及整个视频（如果需要）？     提交人    /u/Qlienism_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fbzy06/need_a_youtube_video_downloader_if_it_has_an/</guid>
+      <pubDate>Sun, 08 Sep 2024 15:06:58 GMT</pubDate>
+    </item>
     <item>
       <title>Gyazo 是 gif 屏幕截图的替代品吗？（ShareX？）</title>
       <link>https://www.reddit.com/r/software/comments/1fbwh53/gyazo_alternative_for_gif_screen_capture_sharex/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[https://preview.redd.it/zqfqua39t9nd1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=60dedf654e37385a82588d5a586d7cf0c08283d8    提交人    /u/Xandeath75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fassks/the_best_default_apps/</guid>
       <pubDate>Fri, 06 Sep 2024 23:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的硬件欺骗软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1farhvw/free_hwid_spoofing_software/</link>
-      <description><![CDATA[是否存在非基于订阅的硬件欺骗器？    提交人    /u/ReapersYTIsHere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1farhvw/free_hwid_spoofing_software/</guid>
-      <pubDate>Fri, 06 Sep 2024 22:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>任务管理器</title>
-      <link>https://www.reddit.com/r/software/comments/1far4bq/task_manager/</link>
-      <description><![CDATA[三个月前我创建了一个供个人使用的 Chrome 扩展程序，最近决定添加一些新功能。我意识到它对其他人真的很有帮助，所以我决定将 GitHub repo 公开。这是一个安全有效的工具。希望大家喜欢这个，如果你有任何建议、问题或批评，请跳到回复中！ 你可以在这里在 GitHub 上查看它：https://github.com/DrDead0/Task-Manager_Chrome-Extension    提交人    /u/Anxious-Ad8269   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1far4bq/task_manager/</guid>
-      <pubDate>Fri, 06 Sep 2024 21:53:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有用的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fanwnm/useful_software/</link>
-      <description><![CDATA[您经常使用哪些软件，哪些软件不常用，但想分享有关它的信息？我非常有兴趣为自己发现一些新程序，我想我们中有很多）    提交人    /u/FRAMESCOPE   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fanwnm/useful_software/</guid>
-      <pubDate>Fri, 06 Sep 2024 19:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneDrive 个人保管库备份？</title>
-      <link>https://www.reddit.com/r/software/comments/1faicln/onedrive_personal_vault_backup/</link>
-      <description><![CDATA[我使用 OneDrive 进行云访问/备份我的文件，并使用 Macrium Reflect 在外部驱动器上创建我的文件的本地备份。我想使用个人保管库进行云访问我更敏感的文件，但我担心本地备份。我知道在保管库锁定时无法做到这一点，但是我想知道如果保管库解锁，Macrium Reflect 等备份实用程序是否可以看到保管库的内容。也许他们只能看到文件夹结构，但实际上无法访问文件？    提交人    /u/HighSierras13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1faicln/onedrive_personal_vault_backup/</guid>
-      <pubDate>Fri, 06 Sep 2024 15:42:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
