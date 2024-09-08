@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:01:58 GMT</lastBuildDate>
+    <item>
+      <title>寻求 RSS 提要源的建议。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fbpoo7/seeking_suggestions_for_rss_feed_sources/</link>
+      <description><![CDATA[我正在重建我的 RSS 源，想要获取有关开源的新闻和内容（更新、趋势、GNU 和 Linux 内容、法律事务、新应用、小工具、正在发生的运动等各类内容）。 我正在寻找信噪比高的可靠来源。 这里有人有什么建议吗？ 谢谢！    提交人    /u/_Floydimus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fbpoo7/seeking_suggestions_for_rss_feed_sources/</guid>
+      <pubDate>Sun, 08 Sep 2024 04:35:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>handy-messaging-framework4j（hmf4j）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fbp14d/handymessagingframework4jhmf4j/</link>
+      <description><![CDATA[HMF4J 是一个从应用程序中抽象出消息传递层的框架。它抽象了如何与不同的消息传递系统（如 Apache Kafka、Google Pubsub、MQTT 等）交互的细节……因此，该框架使您能够专注于核心应用程序细节，而无需花费精力与消息传递层集成。这还使您能够无缝地从一种消息传递服务切换到另一种消息传递服务。除了标准化消息层的核心功能外，HMF4J 还提供以下功能：  非常高效的调度程序，为开发人员在处理传入数据方面提供不同级别的灵活性 与多个消息系统无缝互操作 按顺序排列消息以避免竞争条件情况 标准化消息类型 使用打包的测试工具包和名为 Photon Messaging System 的内存消息系统对应用程序进行无缝测试  更多详细信息请点击此处 - https://handy-messaging-framework.github.io/handy-messaging4j-docs/     提交人    /u/aronsajan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fbp14d/handymessagingframework4jhmf4j/</guid>
+      <pubDate>Sun, 08 Sep 2024 03:54:49 GMT</pubDate>
+    </item>
     <item>
       <title>我想在其他浏览器中使用 Edge 的工作区，所以我制作了一个 FOSS 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>为什么人们只点赞却从不贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fa3tml/why_people_upvote_and_never_contribute/</link>
-      <description><![CDATA[我是 reddit 新手，刚刚发布了几篇 r/Python 展示帖子，这些帖子非常火爆（第一天有 100 多篇）。我收到了很多评论，其中有详细的解决方案建议，也得到了数十个点赞和大量好评，大多数时候都来自同一个评论者。 但是没有一个人在 github 上按过几个按钮将他们解决方案的评论复制到 github 问题或 README 上的 PR 我不明白这一点——感觉自己是唯一有用的傻瓜。真正的根本原因是什么？    提交人    /u/Embarrassed-Mix6420   [链接] [评论]]]></description>
+      <description><![CDATA[我是 reddit 新手，刚刚发布了几篇 r/Python 展示帖子，这些帖子非常火爆（第一天有 100 多篇）。我收到了很多评论，其中有详细的解决方案建议，也得到了数十个赞同和高度赞扬，大多数时候来自同一个评论者。 但是没有一个人在 github 上按过几个按钮将他们解决方案的评论复制到 github 问题或 README 上的 PR 我不明白这一点——感觉自己是唯一有用的傻瓜。真正的根本原因是什么？    提交人    /u/Embarrassed-Mix6420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fa3tml/why_people_upvote_and_never_contribute/</guid>
       <pubDate>Fri, 06 Sep 2024 01:58:56 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我希望将一些开源代码实现到设备中。设备本身有一些不能向公众发布的 IP。设备将有不同的软件版本可供使用，所有软件版本都是免费的（客户只需为设备付费）。某些版本的软件没有开源代码。 相关许可证是 GPL-3.0。 我是否能够在不向公众发布整个代码库的情况下分发修改后的软件？ 编辑：我在下面的评论中添加了更多详细信息。    提交人    /u/QuPsi22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f9rcb2/can_i_distribute_open_source_thats_been_modified/</guid>
       <pubDate>Thu, 05 Sep 2024 16:55:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只是在 Canvas Vector 和 Raster Graphics Engine 上展示一些我的作品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9r6zh/just_me_showing_some_of_my_work_on_a_canvas/</link>
-      <description><![CDATA[       由    /u/hendrixstring  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9r6zh/just_me_showing_some_of_my_work_on_a_canvas/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:49:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>可嵌入的开源 Signign 小部件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f9km34/embeddable_open_source_signign_widget/</link>
-      <description><![CDATA[大家好， 我们向 Documenso 生态系统添加了一个新的可嵌入小部件： https://github.com/documenso/embeds 就像我们发布的所有东西一样，它是完全开放的。 当然欢迎反馈 :)    提交人    /u/timurercan31   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f9km34/embeddable_open_source_signign_widget/</guid>
-      <pubDate>Thu, 05 Sep 2024 11:57:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

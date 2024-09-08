@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:01:52 GMT</lastBuildDate>
     <item>
-      <title>在企业丛林中征服 Git：开发人员必备的 18 个命令。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbmj85/conquer_git_in_the_corporate_jungle_18_essential/</link>
-      <description><![CDATA[  由    /u/Saurabh7973  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbmj85/conquer_git_in_the_corporate_jungle_18_essential/</guid>
-      <pubDate>Sun, 08 Sep 2024 01:29:55 GMT</pubDate>
+      <title>Stripes 收购 Lemon Squeezy 是 Adob​​e 重蹈覆辙吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fbqj7h/stripes_acquisition_of_lemon_squeezy_a_repeat_of/</link>
+      <description><![CDATA[  由    /u/Real_Young7886  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fbqj7h/stripes_acquisition_of_lemon_squeezy_a_repeat_of/</guid>
+      <pubDate>Sun, 08 Sep 2024 05:29:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于过度工程；找到正确的平衡</title>
+      <link>https://www.reddit.com/r/programming/comments/1fbq8c6/on_overengineering_finding_the_right_balance/</link>
+      <description><![CDATA[  由    /u/Missics  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fbq8c6/on_overengineering_finding_the_right_balance/</guid>
+      <pubDate>Sun, 08 Sep 2024 05:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Parcel 到 Vite：100K LOC 迁移的简短故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1fbpbn7/from_parcel_to_vite_a_short_story_of_a_100k_loc/</link>
+      <description><![CDATA[  由    /u/Formal_Tree2535  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fbpbn7/from_parcel_to_vite_a_short_story_of_a_100k_loc/</guid>
+      <pubDate>Sun, 08 Sep 2024 04:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有权威的影响力</title>
+      <link>https://www.reddit.com/r/programming/comments/1fbohdx/influence_without_authority/</link>
+      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fbohdx/influence_without_authority/</guid>
+      <pubDate>Sun, 08 Sep 2024 03:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向对象编程的历史 - Bob 大叔</title>
+      <link>https://www.reddit.com/r/programming/comments/1fbog05/the_history_of_objectoriented_programming_uncle/</link>
+      <description><![CDATA[  由    /u/Feisty_Tooth_8219  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fbog05/the_history_of_objectoriented_programming_uncle/</guid>
+      <pubDate>Sun, 08 Sep 2024 03:19:16 GMT</pubDate>
     </item>
     <item>
       <title>Monorepos 与 Many repos：有好的答案吗？</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fb5i23/my_architecture_drivers_oskar_dudycz/</guid>
       <pubDate>Sat, 07 Sep 2024 12:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>结合函数指针、lambda 表达式和 switch 语句在我的脚本语言 DeltaScript 中创建模式匹配</title>
-      <link>https://www.reddit.com/r/programming/comments/1fb4unp/combining_function_pointers_lambda_expressions/</link>
-      <description><![CDATA[  由    /u/flinkerflitzer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fb4unp/combining_function_pointers_lambda_expressions/</guid>
-      <pubDate>Sat, 07 Sep 2024 11:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建金融系统的工程原则</title>
-      <link>https://www.reddit.com/r/programming/comments/1fb2rrg/engineering_principles_for_building_financial/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fb2rrg/engineering_principles_for_building_financial/</guid>
-      <pubDate>Sat, 07 Sep 2024 09:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 IM 风格界面的归档工具，集成了包括 Internet Archive、archive.today、Ghostarchive、IPFS、Telegraph 和文件系统在内的各种归档服务。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fb1ek3/an_archiving_tool_with_an_imstyle_interface/</link>
-      <description><![CDATA[  由    /u/waybackarchiver  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fb1ek3/an_archiving_tool_with_an_imstyle_interface/</guid>
-      <pubDate>Sat, 07 Sep 2024 07:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计 - 食品配送应用 Zomato、Uber Eats</title>
-      <link>https://www.reddit.com/r/programming/comments/1fazpmu/system_design_food_delivery_app_zomato_uber_eats/</link>
-      <description><![CDATA[  由    /u/Constant_Event_4917  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fazpmu/system_design_food_delivery_app_zomato_uber_eats/</guid>
-      <pubDate>Sat, 07 Sep 2024 05:25:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
