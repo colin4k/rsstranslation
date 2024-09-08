@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 18:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 21:01:50 GMT</lastBuildDate>
+    <item>
+      <title>Macrium Reflect 与 Acronis True Image</title>
+      <link>https://www.reddit.com/r/software/comments/1fc7v1d/macrium_reflect_vs_acronis_true_image/</link>
+      <description><![CDATA[如果您必须在我提到的两者之间做出选择，您会选择哪一个？    提交人    /u/trparky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fc7v1d/macrium_reflect_vs_acronis_true_image/</guid>
+      <pubDate>Sun, 08 Sep 2024 20:46:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>小巧快速的图像查看器软件</title>
+      <link>https://www.reddit.com/r/software/comments/1fc6n6l/image_viewer_software_that_is_small_and_fast/</link>
+      <description><![CDATA[有人能推荐一个小而快的图像查看器程序吗，它可以查看很多不同的格式，特别是 avif/webp/heif？它只需要查看图像，不需要其他任何东西。 我已经开始讨厌臃肿的 acdsee，它需要很长时间才能加载，并且有一个小托盘应用程序，只要 Windows 启动就会运行。    提交人    /u/TommyTFam   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fc6n6l/image_viewer_software_that_is_small_and_fast/</guid>
+      <pubDate>Sun, 08 Sep 2024 19:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于整理我的手机的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fc6b4w/app_for_organizing_my_phone/</link>
+      <description><![CDATA[好吧，我的问题是我的手机存储空间已达到 95%，其中大多数是重复的和无组织的文件和照片，我想要一个可以帮助我通过 PC 组织它们的应用程序  注意：使用 USB 电缆的常规方法对我无效并且非常慢，我有 win 10     提交人    /u/Spirited-Decision-50   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fc6b4w/app_for_organizing_my_phone/</guid>
+      <pubDate>Sun, 08 Sep 2024 19:40:44 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit 评选的 2024 年最佳防病毒软件是？</title>
       <link>https://www.reddit.com/r/software/comments/1fc3yy1/best_antivirus_according_to_reddit_in_2024/</link>
@@ -53,13 +74,6 @@
       <description><![CDATA[我正在从 icloud 下载照片，需要将它们从 heic 转换为 jpg 或 png，我厌倦了使用在线转换器，而且我认为它们也不安全。有没有安全又免费的应用程序可以转换它们？    提交人    /u/limpbizkitvitu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fboem0/app_to_convert_heic_into_jpg_or_png/</guid>
       <pubDate>Sun, 08 Sep 2024 03:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDM 病毒扫描程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1fbnbpe/fdm_virus_scanner/</link>
-      <description><![CDATA[您好，我想通过 Windows Defender 使用病毒扫描程序功能，但不确定如何使用。     提交人    /u/jaxssy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fbnbpe/fdm_virus_scanner/</guid>
-      <pubDate>Sun, 08 Sep 2024 02:14:04 GMT</pubDate>
     </item>
     <item>
       <title>将 PDF/电子书转换为有声读物</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[我所在的一家小型软件公司 Team HERMES 收购了 Paige，这是一个非常出色、文档齐全、功能齐全的 C 语言库，用于在 Windows 下处理富文本。我们正在寻找目前正在编写或计划编写样式化文本应用程序的开发人员（从 Markdown 编辑器到帮助文件查看器的任何应用程序都可以使用 - 甚至是轻量级文字处理应用程序），以便为我们的产品提供内部以外的用户群。这是一款开源产品，因此如果它缺少您需要的功能，您可以自由改进它（我们在这方面有几个建议）。公共存储库位于 https://github.com/nmatavka/HERMES-Paige。    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</guid>
       <pubDate>Fri, 06 Sep 2024 23:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 音频混音器有替代品吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</link>
-      <description><![CDATA[我想我正在寻找的是专门用于应用程序的音频路由器。像 WAM 这样的东西会强制将应用程序的音频发送到特定的音频设备。我已经使用 Voicemeeter 进行设备输入到输出混合，使用虚拟音频电缆，但我找不到像 WAM 那样强制应用程序使用特定输出的程序。 我对 WAM 的问题是，几乎每次我完全关闭电脑并重新打开时，应用程序的音频设置都会重置为默认设置。我试过 音频路由器，但它是一个如此古老的程序，它不会将程序识别为“真实的”并禁用路由功能。  如果 Voicemeeter 能够做到这一点，那么另一个问题就是如何去做，但现在我想我只是在寻找 WAM 的替代品。    提交人    /u/RealSyloktheDefiled   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</guid>
-      <pubDate>Fri, 06 Sep 2024 23:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳默认应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1fassks/the_best_default_apps/</link>
-      <description><![CDATA[https://preview.redd.it/zqfqua39t9nd1.png?width=1000&amp;format=png&amp;auto=webp&amp;s=60dedf654e37385a82588d5a586d7cf0c08283d8    提交人    /u/Xandeath75   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fassks/the_best_default_apps/</guid>
-      <pubDate>Fri, 06 Sep 2024 23:10:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
