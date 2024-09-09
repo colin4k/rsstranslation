@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 15:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 18:01:58 GMT</lastBuildDate>
+    <item>
+      <title>法学硕士 (LLM) 能否产生新颖的研究想法？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcuf8u/can_llms_generate_novel_research_ideas/</link>
+      <description><![CDATA[LLM 非常适合集思广益。这是我很久以来就想到的一个理论。通过使用 ChatGPT、Cohere、Mistral 或 Anthropic 等工具，我很快意识到语言模型在集思广益项目或想法时非常有用。现在，我们有一些研究支持该理论。斯坦福大学最近发表了一篇题为“LLM 能否产生新颖的研究想法？”的论文。这是一项引人入胜的研究，我建议大家看看；我刚刚读过它。 在这篇论文中，研究人员使用 LLM 来产生研究想法，并请专家评估这些想法是否新颖、令人兴奋、可行和有效。然后，他们将 AI 产生的想法与人类产生的想法进行了比较。他们发现，AI 产生的想法得分始终高于人类产生的想法，尤其是在新颖性、令人兴奋和有效性方面。然而，AI 产生的想法被评为可行性略低。这就是问题所在。即使人工智能和人类产生的想法在可行性上的差异并不大，但值得注意的是，人工智能的想法被认为比人类产生的想法更不可行。是因为人工智能产生的想法更雄心勃勃或更新颖吗？这是一个有待进一步研究的问题。 https://www.lycee.ai/blog/can-llms-generate-novel-research-ideas    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcuf8u/can_llms_generate_novel_research_ideas/</guid>
+      <pubDate>Mon, 09 Sep 2024 16:59:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>不想打字？使用这款只需说话即可使用的 AI 键盘。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcsssq/dont_feel_like_typing_use_this_ai_keyboard_that/</link>
+      <description><![CDATA[Dictate 是一款易于使用的转录和听写键盘。该应用程序在后台使用 OpenAI Whisper，它使用 GPT-4 Omni 对许多不同语言的标点符号和自定义改写提供极其准确的结果。 您可以从 Google Play 商店下载该应用程序： https://play.google.com/store/apps/details?id=net.devemperor.dictate 您可以在这里看到它的实际效果： https://www.youtube.com/watch?v=F6C1hRi1PSI 这是包含源代码的存储库： https://github.com/DevEmperor/Dictate    由   提交  /u/Dev_Emperor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcsssq/dont_feel_like_typing_use_this_ai_keyboard_that/</guid>
+      <pubDate>Mon, 09 Sep 2024 15:53:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能聚合网站</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcsoji/ai_aggregator_websites/</link>
+      <description><![CDATA[我正在编制一个网站列表，这些网站汇集了人工智能工具、应用程序以及与人工智能相关的任何内容。我开始将它们用于个人和商业用途。然而，在 Tiktok、Instagram、Facebook 等网站上，所有关于人工智能的提及对我来说实在是太过令人不知所措了。所以我想我应该有一个可以去的地方列表，将人工智能全部聚合在一个地方。我知道聚合器不会在任何一个特定的网站上列出所有内容，但至少其中大多数都是可搜索的，而且有很多可供选择。  以下是我目前拥有的： futurepedia.io thaiexchange.com topapps.ai topai.tools dothatchat.com aitoptools.com aizones.io theresanaiforthat.com 有人可以建议其他或更好的方法来跟踪 AI（似乎每天出来多次！）？    提交人    /u/rkeller1373   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcsoji/ai_aggregator_websites/</guid>
+      <pubDate>Mon, 09 Sep 2024 15:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>新法案将迫使人工智能公司披露人工智能艺术的来源</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcrncq/new_bill_would_force_ai_companies_to_reveal/</link>
+      <description><![CDATA[ 美国国会提出的一项法案旨在迫使人工智能公司披露其用于生成式人工智能模型的受版权保护的材料。 这项被称为《生成式人工智能版权披露法案》的立法要求公司在推出新的人工智能系统之前，将其训练数据集中的受版权保护的作品提交给版权登记处。 如果公司不遵守规定，他们可能面临经济处罚。 该法案得到了各种娱乐行业组织和工会的支持。 像 OpenAI 这样的人工智能公司正面临涉嫌使用受版权保护作品的诉讼，他们声称以合理使用作为辩护。  来源：https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art    由   提交  /u/NuseAI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcrncq/new_bill_would_force_ai_companies_to_reveal/</guid>
+      <pubDate>Mon, 09 Sep 2024 15:05:34 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助 - 为长视频提供免费的 Voice Over AI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcpxb6/help_needed_free_voice_over_ai_for_long_videos/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>正如他们所说，在 API 中使用敏感/机密数据真的存在安全隐患吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fco2kr/is_using_sensitiveconfidential_data_in_api_really/</link>
-      <description><![CDATA[我们公司有一项政策，即不允许与 AI 提供商共享任何机密数据或内部信息。无论是通过 API 还是 Web UI。对我来说，我很难相信这是一个问题。我知道数据到达了 API 中的某个地方并且没有加密。但真正的问题是什么？这不像竞争对手会要求 chat gpt 提供公司 X 的所有内部策略，或者用户会要求 chat gpt 向他们提供平台 Y 的用户 X 密码。安全和一致性不是可以防止这种情况发生的原因吗？你们中有人在处理内部数据/文档的工作中使用这些 AI 模型吗？     提交人    /u/Warm_Shelter1866   [链接] [评论]]]></description>
+      <description><![CDATA[我们公司有一项政策，即不允许与 AI 提供商共享任何机密数据或内部信息。无论是通过 API 还是 Web UI。对我来说，我很难相信这是一个问题。我知道数据到达 API 中的某个地方并且未加密。但真正的问题是什么？这不像竞争对手会要求 chat gpt 提供公司 X 的所有内部策略，或者用户会要求 chat gpt 向他们提供平台 Y 的用户 X 密码。安全和一致性不是可以防止这种情况发生的原因吗？你们中有人在处理内部数据/文档的工作中使用这些 AI 模型吗？     提交人    /u/Warm_Shelter1866   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fco2kr/is_using_sensitiveconfidential_data_in_api_really/</guid>
       <pubDate>Mon, 09 Sep 2024 12:20:53 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>需要通过语音 AI 改变口音</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcna0l/help_required_to_change_accent_through_voice_ai/</link>
-      <description><![CDATA[帮助 - 我需要为一些长视频使用免费语音 [克隆器/转换器/口音转换器] AI，并且口音需要改为美式。我请求你们指导我哪个免费语音 AI 可以帮助我完成必要的操作。非常感谢。    提交人    /u/biblehousemates   [link] [评论]]]></description>
+      <description><![CDATA[帮助 - 我需要为我的一些长视频使用免费语音 [克隆器/转换器/口音转换器] AI，并且口音需要改为美式。我请求你们指导我哪个免费语音 AI 可以帮助我完成必要的操作。非常感谢。    提交人    /u/biblehousemates   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcna0l/help_required_to_change_accent_through_voice_ai/</guid>
       <pubDate>Mon, 09 Sep 2024 11:38:21 GMT</pubDate>
     </item>
@@ -83,20 +111,6 @@
       <pubDate>Mon, 09 Sep 2024 08:27:29 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能在房地产中的应用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjtxy/ai_applications_in_real_estate/</link>
-      <description><![CDATA[人工智能驱动的房地产估价和定价 房地产应用、房地产实施、人工智能对房地产的影响 在房地产领域，准确的房地产估价可以促成或破坏交易。传统上，估价依赖于人工评估，这是一种耗时且容易出现人为错误的方法。房地产人工智能正在通过分析包括历史房地产特征、销售数据和市场趋势在内的大型数据集来改变传统的估价方法。 例如，Zillow 等公司使用人工智能来估算房地产价值。它可以帮助买家和卖家获得公平的价格，并提高房地产市场的透明度和效率。 使用人工智能算法增强房地产搜索 房地产应用、房地产实施、人工智能对房地产的影响 由于可用的房源数量庞大，您需要花很长时间才能找到完美的房产。 AI 通过使用高级算法将用户与最符合他们偏好的房产进行匹配，从而缩短了这一时间。为了简化此过程，AI 会分析位置、价格范围、大小和便利设施。 Realtor.com 和 Redfin 等平台使用 AI 根据用户行为（例如以前的搜索、查看过的房产和喜欢的功能）提供个性化的房产推荐，以完善未来的建议。这种个性化的用户体验方法提高了房产搜索效率。 阅读：https://www.seaflux.tech/blogs/ai-real-estate-application-and-implementation    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjtxy/ai_applications_in_real_estate/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>AgentM Pulse：自我修改的用户体验</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcipmi/agentm_pulse_a_self_modifying_user_experience/</link>
-      <description><![CDATA[只是想分享一个我一直在做的项目，以征求反馈。我已经开始构建一个名为 AgentM 的 OSS 库，它引入了一个新的概念“微代理”。微代理是作为函数出现的小型代理，它们使用 AI 做得非常好。您可以将 AgentM 视为 AI 的 Lodash。如果您只想向您的应用程序添加摘要，只需导入两个函数即可实现，因此，如果您想为应用程序添加一点智能，您可以做到这一点，而无需使用像 LangChain 或 AutoGen 这样的繁重工作。 不过，我今天想分享的是一个名为 Pulse 的应用程序体验，它最初只是 AgentM 的一个示例，但正在迅速发展成为更多。AgentM Pulse 是一个在您的本地机器上运行的网络服务器，它会显示一个 100% 由 AI 生成的网站。它不仅仅是一个由人工智能生成的 UI，还是一个自我修改的 UI。你可以把它想象成 Claude Artifacts，但每次你发送新消息时，整个 UI 都会重新编写。安装说明在这里，您只需尝试一下即可了解它的功能： https://www.npmjs.com/package/agentm 您还可以在此处查看我创建的示例页面的更多屏幕截图： https://community.openai.com/t/installing-and-self-hosting-agentm-pulse/933799 它与 websim 有一些相似之处，但也有不同之处。例如，Pulse 有自己的 API，可以利用它来存储对象并使用 dall-e 生成图像。与 websim 不同，您可以使用它来构建真正有用的实际应用程序。设置非常简单，您只需要一个 OpenAI API 密钥即可开始使用（即将提供 Claude 支持）。感谢您的时间，我期待您的反馈。    提交人    /u/OwnKing6338   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcipmi/agentm_pulse_a_self_modifying_user_experience/</guid>
-      <pubDate>Mon, 09 Sep 2024 06:09:31 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么斯嘉丽约翰逊能跻身《时代》杂志人工智能领域最具影响力的 100 人之列，而埃隆马斯克却没有呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fci0ra/why_is_scarlett_johansson_part_of_time_magazines/</link>
       <description><![CDATA[科技大亨、人工智能先驱埃隆·马斯克没有入选《时代》杂志 2024 年“人工智能领域最具影响力的 100 人”榜单，而女演员斯嘉丽·约翰逊则名列前茅。这一决定在网上引发了广泛的争论和批评。  阅读全文：https://www.ibtimes.co.uk/why-scarlett-johansson-part-time-magazines-100-most-influential-people-ai-elon-musk-isnt-1726756    提交人    /u/vinaylovestotravel   [链接] [评论]]]></description>
@@ -111,25 +125,11 @@
       <pubDate>Mon, 09 Sep 2024 03:37:29 GMT</pubDate>
     </item>
     <item>
-      <title>利用人工智能掌握个人发展和效率的秘诀</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fc4u5y/tips_on_utilising_ai_to_master_personal/</link>
-      <description><![CDATA[我刚刚开始使用 Google Gemini，它对我 9-5 日常工作效率的提高非常有用，这让我想要学习如何将人工智能的使用从公司生活转变为我自己的发展。 这包括生活中的一般效率、自我业务发展和个人发展。 有没有人有任何技巧、窍门、他们会推荐或不推荐的课程、分步过程等，以便在利用人工智能更熟练地工作方面更加聪明，而不是在生活的各个方面更加努力    提交人    /u/Old_Raspberry_2649   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fc4u5y/tips_on_utilising_ai_to_master_personal/</guid>
-      <pubDate>Sun, 08 Sep 2024 18:37:50 GMT</pubDate>
-    </item>
-    <item>
       <title>男子因制作虚假 AI 音乐并通过机器人收听赚取 1000 万美元而被捕</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbuunz/man_arrested_for_creating_fake_ai_music_and/</link>
       <description><![CDATA[ 一名男子因使用人工智能制作虚假音乐并通过欺诈性流媒体赚取数百万美元而被捕。 他与同伙合作制作了数十万首歌曲，并使用机器人生成虚假流媒体。 这些歌曲被上传到各种流媒体平台，名称包括“Zygotes”和“Calorie Event”。 这些机器人播放了数十亿次歌曲，为肇事者带来了版税收入。 尽管有证据，该男子仍否认欺诈指控。  来源：https://futurism.com/man-arrested-fake-bands-streams-ai    由   提交  /u/NuseAI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbuunz/man_arrested_for_creating_fake_ai_music_and/</guid>
       <pubDate>Sun, 08 Sep 2024 10:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么法学硕士在战略和规划方面较弱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fbobai/why_are_llms_weak_in_strategy_and_planning/</link>
-      <description><![CDATA[  由    /u/moonbunR  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fbobai/why_are_llms_weak_in_strategy_and_planning/</guid>
-      <pubDate>Sun, 08 Sep 2024 03:11:15 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
