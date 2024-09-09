@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Sep 2024 00:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 03:04:03 GMT</lastBuildDate>
     <item>
-      <title>catbox.moe 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcatg2/catboxmoe_alternatives/</link>
-      <description><![CDATA[我是某些网站论坛的活跃成员，这些论坛不允许上传图片，只能通过 [img] 标签嵌入图片，我需要类似 catbox.moe 的东西，有推荐吗？谢谢     提交人    /u/asapprivacy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcatg2/catboxmoe_alternatives/</guid>
-      <pubDate>Sun, 08 Sep 2024 22:59:57 GMT</pubDate>
+      <title>速度——以思维速度进行财务分析</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fceovp/velocity_financial_analysis_at_the_speed_of/</link>
+      <description><![CDATA[        提交人    /u/Blotter-fyi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fceovp/velocity_financial_analysis_at_the_speed_of/</guid>
+      <pubDate>Mon, 09 Sep 2024 02:13:09 GMT</pubDate>
     </item>
     <item>
       <title>PostgreSQL 备份工具 - PG Back Web v0.3.0 发布！</title>
@@ -76,13 +76,6 @@
       <pubDate>Sun, 08 Sep 2024 13:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>我应该将我的开源项目视为 SaaS 产品吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fbw0h0/should_i_see_my_open_source_project_as_saas/</link>
-      <description><![CDATA[大家好， 我一直在研究一个名为 RateShield 的开源项目，这是一个多功能的速率限制解决方案，旨在帮助开发人员管理 API 使用情况并防止滥用。它最初是一个附带项目，但已经发展成为我认为具有真正潜力的东西。我正在考虑是否将其进一步开发为 SaaS 产品，并希望得到您的反馈！ 🎯 为什么选择 RateShield？ 我构建 RateShield 是为了探索 API 的自定义速率限制，对于希望轻松实现速率限制策略的开发人员来说，它已成为一种方便的工具。 🌟 主要特点：  可自定义的限制：根据您的需要为每个 API 端点定制速率限制规则。 直观的仪表板：一个用户友好的界面，用于监控和管理速率限制。 轻松集成：可无缝集成到您现有基础架构中的中间件。  ⚙️ 用例：  防止 API 滥用：控制对 API 的请求数量，以避免滥用或恶意活动。 成本管理：帮助有效管理第三方 API 调用，以防止意外的超额成本。  🚀 支持的速率限制算法：  令牌桶 固定窗口计数器 （更多算法正在开发中！）  我的问题：&gt; 鉴于其功能和潜在用例，您是否认为将 RateShield 转变为 SaaS 产品具有足够的价值？还是我应该继续关注开源版本并围绕它建立一个社区？    提交人    /u/Sushant098123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fbw0h0/should_i_see_my_open_source_project_as_saas/</guid>
-      <pubDate>Sun, 08 Sep 2024 11:53:57 GMT</pubDate>
-    </item>
-    <item>
       <title>VS Code 不为人知的故事——一部迷你纪录片</title>
       <link>https://www.reddit.com/r/opensource/comments/1fbv7dz/the_untold_story_of_vs_code_a_mini_documentary/</link>
       <description><![CDATA[嗨，开源爱好者们！我刚刚发布了一部简短的纪录片，揭示了 VS Code 鲜为人知的历史，追溯了它的发展以及使其成为如今开源强国的关键时刻。 这是一部快速而深入的纪录片，从它的创建到沿途的一些争议。如果您对 VS Code 的幕后花絮感到好奇，或者只是喜欢了解更多有关开源工具的信息，我很乐意让您查看！ 这是迷你纪录片的链接：VS Code 不为人知的故事 如果能得到您的反馈或听听您自己使用 VS Code 的经历，那就太好了。让我们聊聊吧！   提交者    /u/deven_rathore   [链接] [评论]]]></description>
@@ -144,6 +137,13 @@
       <description><![CDATA[是否有任何工具像视频播放器一样具有内置时间戳功能（有点像 Youtube），可以快速导航到当前时间和其他内容（我不介意手动写入时间戳的内容）    提交人    /u/General-Carrot-4624   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fb4ezo/video_timstamper/</guid>
       <pubDate>Sat, 07 Sep 2024 11:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源项目背后的面孔：Tim Jones 和 pg-boss</title>
+      <link>https://www.reddit.com/r/opensource/comments/1faoqjh/the_faces_behind_open_source_projects_tim_jones/</link>
+      <description><![CDATA[       由    /u/Martinsos  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1faoqjh/the_faces_behind_open_source_projects_tim_jones/</guid>
+      <pubDate>Fri, 06 Sep 2024 20:11:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Sep 2024 00:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 03:03:56 GMT</lastBuildDate>
+    <item>
+      <title>“取消剥离”二进制文件：使用 Pwndbg 恢复 GDB 中的调试信息</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcficf/unstripping_binaries_restoring_debugging/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcficf/unstripping_binaries_restoring_debugging/</guid>
+      <pubDate>Mon, 09 Sep 2024 02:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>雄伟的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcfgzu/majestic_code/</link>
+      <description><![CDATA[  由    /u/GamerXZEN  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcfgzu/majestic_code/</guid>
+      <pubDate>Mon, 09 Sep 2024 02:52:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 如何休眠</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcfb02/how_linux_hibernates/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcfb02/how_linux_hibernates/</guid>
+      <pubDate>Mon, 09 Sep 2024 02:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 的 Laravel 类 Gophers Web 框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1fccf8i/phps_laravel_like_web_framework_for_gophers/</link>
+      <description><![CDATA[  由    /u/saalik_m  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fccf8i/phps_laravel_like_web_framework_for_gophers/</guid>
+      <pubDate>Mon, 09 Sep 2024 00:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款完全在 BIOS 中制作的贪吃蛇游戏，无需任何操作系统或引导加载程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1fccbd7/a_snake_game_made_entirely_in_the_bios_without/</link>
+      <description><![CDATA[当我制作最初的贪吃蛇游戏时，有些人认为唯一可行的原因是 PC 上已经有 BIOS 和 OS，所以我称之为“58 字节贪吃蛇游戏”不仅仅是 58 个字节，因为 BIOS 和 OS 各自都有成千上万个字节。 虽然如果没有这些包装器，程序不会那么小，但我不认为这是一个有效的论点，但无论如何，我制作了一个可以在没有任何 BIOS、引导加载程序或操作系统的情况下工作的 POC 贪吃蛇游戏，所有代码，包括硬件初始化，都适合 114 个字节（和填充符）并在 QEMU 上运行。 我还评论了代码中的每一行，以便您可以使用它来了解 BIOS 如何初始化硬件，尽管我尝试将其做得非常简约（就像原始的贪吃蛇游戏一样），所以没有太多可看的。 制作这个时我遇到的主要问题是 icount。 icount 是一个可选的 QEMU 参数，它允许您为模拟机器设置特定的速度。 我想使用 icount=20，但是 QEMU 团队中的某个人将 icount 限制为最大值 10，尽管 icount&lt;=30 时一切正常。 我向 QEMU 项目提交了一个 PR 来修复它，方法是将 icount 的最大值提高到 30，并对代码进行必要的调整，使其能够与更高的 icount 一起工作。 但是，QEMU 的一位开发人员指出 icount 已被弃用，所以我应该使用 ips 插件。现在的问题是我的 QEMU 版本 (5.2.0) 与插件不兼容，我尝试更改为 9.1.0，插件就可以正常工作了！但是现在我的 BIOS 没有在屏幕上输出任何东西。 我预感到问题与这些版本之间对 QEMU 的 VGA 协议所做的更改有关，因此我在各个版本之间进行了二进制搜索，发现我的程序在 v9.0.0-rc0 之前运行良好。 所以现在我要做的就是浏览版本 8.2.6 和 9.0.0-rc0 之间的更改，并找到可能导致屏幕保持空白的原因。 我花了整整一个小时查看差异，最后，我找到了它，我不敢相信我一直都错过了它，有人开始使用图形寄存器的字节掩码属性。 我迅速将 0xFF08 的输出添加到端口 0x3CE，它确实解决了该问题，我能够成功使用 ips。    提交人    /u/Perfect-Highlight964   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fccbd7/a_snake_game_made_entirely_in_the_bios_without/</guid>
+      <pubDate>Mon, 09 Sep 2024 00:11:13 GMT</pubDate>
+    </item>
     <item>
       <title>REST 和 HTTP 语义</title>
       <link>https://www.reddit.com/r/programming/comments/1fcbfr3/rest_and_http_semantics/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/alodiasaradith07  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fbxj8s/software_estimation_is_hard_do_it_anyway/</guid>
       <pubDate>Sun, 08 Sep 2024 13:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>恐龙黑客</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbuwb9/phacking_with_dinosaurs/</link>
-      <description><![CDATA[  由    /u/civicode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbuwb9/phacking_with_dinosaurs/</guid>
-      <pubDate>Sun, 08 Sep 2024 10:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于过度工程；找到正确的平衡</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbq8c6/on_overengineering_finding_the_right_balance/</link>
-      <description><![CDATA[  由    /u/Missics  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbq8c6/on_overengineering_finding_the_right_balance/</guid>
-      <pubDate>Sun, 08 Sep 2024 05:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Parcel 到 Vite：100K LOC 迁移的简短故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbpbn7/from_parcel_to_vite_a_short_story_of_a_100k_loc/</link>
-      <description><![CDATA[  由    /u/Formal_Tree2535  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbpbn7/from_parcel_to_vite_a_short_story_of_a_100k_loc/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有权威的影响力</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbohdx/influence_without_authority/</link>
-      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbohdx/influence_without_authority/</guid>
-      <pubDate>Sun, 08 Sep 2024 03:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向对象编程的历史 - Bob 大叔</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbog05/the_history_of_objectoriented_programming_uncle/</link>
-      <description><![CDATA[  由    /u/Feisty_Tooth_8219  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbog05/the_history_of_objectoriented_programming_uncle/</guid>
-      <pubDate>Sun, 08 Sep 2024 03:19:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
