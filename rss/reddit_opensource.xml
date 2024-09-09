@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Sep 2024 09:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 12:02:33 GMT</lastBuildDate>
+    <item>
+      <title>提取和分析公司财务状况的工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fcn7th/a_tool_for_extracting_and_analyzing_a_companys/</link>
+      <description><![CDATA[       由    /u/NextgenAITrading  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fcn7th/a_tool_for_extracting_and_analyzing_a_companys/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Firebase 备忘单</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fcmw10/i_made_a_firebase_cheat_sheet/</link>
+      <description><![CDATA[  由    /u/Rutter_Boy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fcmw10/i_made_a_firebase_cheat_sheet/</guid>
+      <pubDate>Mon, 09 Sep 2024 11:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>停车场和人工智能初创公司未能开源其代码。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fcmk19/failed_parking_lot_ai_startup_to_open_source/</link>
+      <description><![CDATA[大家好！ 我今年 19 岁，两年前我开始开发一款应用，旨在帮助司机在拥挤繁忙的城市中找到可用的停车位。我的想法是使用 AI 和 CCTV 摄像头来找到它们。 几个月后，AI 模型开始在波兰的第一批停车场上工作，很快我开始在年轻人的比赛中赢得一些奖项，今年 5 月，我被派往洛杉矶参加世界上最大的科学与技术竞赛。技术竞赛——ISEF Regeneron。 然而，事实证明现实完全不同，没有一个城市愿意合作并共享摄像头访问权限。 我在 5 月份的比赛结束后就放弃了，学到了很多教训，但现在是时候转向其他事情了。 今天，9 月 9 日，我想通过将其开源与大家分享。 Github：https://github.com/gbaranski/wheretopark 如果您有兴趣，我还写了一篇关于该项目的博客文章。    提交人    /u/gbaranski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fcmk19/failed_parking_lot_ai_startup_to_open_source/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>精选 400 多个日常使用的开源项目列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fcl1jh/curated_list_of_400_open_source_projects_for/</link>
+      <description><![CDATA[过去 6 个月，我一直在断断续续地收集大量开源项目列表。我浏览过许多类似的“很棒”列表，但其中很多都包含一些我不会使用的东西，因为它们具有“开发”性质。这意味着此列表中没有与开发相关的项目，例如框架、API 和库。 该列表包括与不同操作系统、修改后的应用程序、游戏、注重隐私的应用程序/工具等相关的项目。我可以向你保证，此列表中至少有一两个你从未听说过但对你有用的项目。 请随时查看列表，如果我可能错过了任何精华，请告诉我，以及 repo 的更好的名称，因为我认为当前名称有点糟糕。 Github：https://github.com/Furthir/awesome-useful-projects    提交人    /u/Furthir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fcl1jh/curated_list_of_400_open_source_projects_for/</guid>
+      <pubDate>Mon, 09 Sep 2024 09:07:29 GMT</pubDate>
+    </item>
     <item>
       <title>DUG#7 和 vPub 0xC——9 月 12 日激动人心的开源在线活动！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fckwly/dug7_vpub_0xc_an_exciting_opensource_online_event/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>SyncStar 简介 - 在社区会议亭创建可启动的 USB 存储设备</title>
       <link>https://www.reddit.com/r/opensource/comments/1fck1g2/introducing_syncstar_creating_bootable_usb/</link>
-      <description><![CDATA[我的项目做什么 SyncStar 让用户使用自己选择的操作系统创建可启动的 USB 存储设备。此应用程序旨在部署在信息亭设备和电子标牌上，会议嘉宾和展位访客可利用其服务。 特点  异步多处理允许同时刷新多个存储设备 尽可能维护编程标准和工程方法 前端可适应各种视口类型和浏览器端辅助技术 随时提供用于消费和开发目的的详细文档 基于命令行界面的配置最少，具有广泛的可自定义选项 通过 100% 覆盖功能后端代码，确保出色的整体代码库质量 提供超过 46 项检查，用于基于单元、基于端到端集成的代码库测试 启用 GitHub Actions 和 Pre-Commit CI 来自动维护代码库质量  插图  https://raw.githubusercontent.com/gridhead/syncstar/main/data/dash.png https://raw.githubusercontent.com/gridhead/syncstar/main/data/expo.png  尝试 如果这看起来令人兴奋，请考虑尝试一下该项目。该项目可在官方 Fedora Linux 存储库和 Python 软件包索引中找到。请支持我的努力，提交软件错误或功能请求的问题单、加星标项目存储库或贡献代码库。 目标受众 该项目旨在供会议信息亭供会议与会者和会议组织者使用。以下是代表 GNU/Linux 发行版社区参加 FOSS 会议的场景，例如。在 FOSDEM 会议上代表 CentOS 项目 社区的人员。  在您的 GNU/Linux 发行版展位笔记本电脑或 Raspberry Pi 上设置 SyncStar 服务 在展位笔记本电脑或智能手机上打开 SyncStar 仪表板 在展位桌子上摆放诸如 GNU/Linux 发行版品牌 USB 闪存驱动器之类的饰物 让会议与会者询问展位桌子上的 USB 闪存驱动器是否可以带走 告诉他们，只要他们获得您的 GNU/Linux 发行版的副本就可以 让他们开始创建实时可启动媒体并与他们交谈 允许其他与会者使用他们自己的 USB 闪存驱动器discretion 并行 通过将他们的产品保留在集合中来为侧流社区做广告  比较  Fedorator  该项目目前自过去七年来一直未维护 该项目依赖于某些可能昂贵的硬件   资源  介绍 SyncStar - Fedora 杂志 SyncStar - GitHub SyncStar Wiki - GitHub SyncStar - PyPI SyncStar - 软件包源     提交人    /u/t0xic0der   [link] [评论]]]></description>
+      <description><![CDATA[我的项目做什么 SyncStar 让用户使用自己选择的操作系统创建可启动的 USB 存储设备。此应用程序旨在部署在信息亭设备和电子标牌上，会议嘉宾和展位访客可利用其服务。 特点  异步多处理允许同时刷新多个存储设备 尽可能维护编程标准和工程方法 前端可适应各种视口类型和浏览器端辅助技术 随时提供用于消费和开发目的的详细文档 基于命令行界面的配置最少，具有广泛的可自定义选项 通过 100% 覆盖功能后端代码，确保出色的整体代码库质量 提供超过 46 项检查，用于基于单元、基于端到端集成的代码库测试 启用 GitHub Actions 和 Pre-Commit CI 来自动维护代码库质量  插图  https://raw.githubusercontent.com/gridhead/syncstar/main/data/dash.png https://raw.githubusercontent.com/gridhead/syncstar/main/data/expo.png  尝试 如果这看起来令人兴奋，请考虑尝试一下该项目。该项目可在官方 Fedora Linux 存储库和 Python 软件包索引中找到。请支持我的努力，提交软件错误或功能请求的问题单、加星标项目存储库或贡献代码库。 目标受众 该项目旨在供会议信息亭供会议与会者和会议组织者使用。以下是代表 GNU/Linux 发行版社区参加 FOSS 会议的场景，例如。在 FOSDEM 会议上代表 CentOS 项目 社区的人员。  在您的 GNU/Linux 发行版展位笔记本电脑或 Raspberry Pi 上设置 SyncStar 服务 在展位笔记本电脑或智能手机上打开 SyncStar 仪表板 在展位桌子上摆放诸如 GNU/Linux 发行版品牌 USB 闪存驱动器之类的饰物 让会议与会者询问展位桌子上的 USB 闪存驱动器是否可以带走 告诉他们，只要他们获得您的 GNU/Linux 发行版的副本就可以 让他们开始创建实时可启动媒体并与他们交谈 允许其他与会者使用他们自己的 USB 闪存驱动器discretion 并行 通过将他们的产品保留在集合中来为侧流社区做广告  比较  Fedorator  该项目目前自过去七年来一直无人维护 该项目依赖于某些可能昂贵的硬件   资源  介绍 SyncStar - Fedora 杂志 SyncStar - GitHub SyncStar Wiki - GitHub SyncStar - PyPI SyncStar - 软件包源     提交人    /u/t0xic0der   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fck1g2/introducing_syncstar_creating_bootable_usb/</guid>
       <pubDate>Mon, 09 Sep 2024 07:50:14 GMT</pubDate>
     </item>
@@ -78,12 +106,12 @@
     <item>
       <title>为什么人类不为 Android 制作一个简单的开源 IP 摄像头？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc0xbq/why_does_humanity_not_make_a_simple_open_source/</link>
-      <description><![CDATA[我找不到一个没有以某种方式故意破坏的。难道真的没有一个人具备将这些软件组件组装成免费/开放/安全解决方案所需的技能吗？我真的对此感到沮丧，希望我只是瞎了眼。我在 fdroid 上搜索“cam”，似乎 FOSS 世界根本就没有将相机输出到 IP 的能力。但付费项目并不缺乏，人们希望我从他们那里租用我自己的手机相机。 请告诉我我错过了一些简单的事情。 编辑：是的，每次都是：“没有你！” 所以我想我的答案是：每一个有能力做到这一点的人都宁愿尝试成为数字房东。    提交人    /u/Innomen   [链接] [评论]]]></description>
+      <description><![CDATA[我找不到一个没有以某种方式故意破坏的。难道真的没有一个人具备将这些软件组件组装成免费/开放/安全解决方案所需的技能吗？我真的对此感到沮丧，希望我只是瞎了眼。我在 fdroid 上搜索“cam”，似乎 FOSS 世界直接缺乏将相机输出到 IP 的能力。但付费项目并不缺乏，人们希望我从他们那里租用我自己的手机相机。 请告诉我我错过了一些简单的事情。 编辑：是的，每次都是：“没有你！” 所以我想我的答案是：每一个有能力做到这一点的人都宁愿尝试成为数字房东。    提交人    /u/Innomen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc0xbq/why_does_humanity_not_make_a_simple_open_source/</guid>
       <pubDate>Sun, 08 Sep 2024 15:49:52 GMT</pubDate>
     </item>
     <item>
-      <title>让开源项目支持付费！！</title>
+      <title>让开源项目支持付费！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc0oxo/make_opensource_projects_support_paid/</link>
       <description><![CDATA[只是想讨论一个想法。 如果任何开源项目所有者都对问题提供支持，比如如果有人希望他们解决某个问题，他们可以向他们支付少量费用（例如 10 美元）以优先处理他们的问题。并且所有者可以为他们提供解决问题的时间表等。 这会起作用吗？我还有其他一些想法，例如开源软件包提供商，例如 npm、pub.dev 等， 可以根据其产品的受欢迎程度和使用量向其合作者付费，并且在免费试用后，例如第一年是免费的，然后，将需要付费安装软件包，或者每月订阅使用他们的服务，每月订阅费用为 1 美元，然后他们可以使用这笔钱来适当地支付每个软件包的开发人员？基于他们项目的受欢迎程度？ 我相信这也将使我们拥有更多强大的开源应用程序。    提交人    /u/ViLSaBly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc0oxo/make_opensource_projects_support_paid/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[是否有免费的开源替代软件可用于查看和比较不同的技术图纸？ 类似 ZG-View (https://zg-view.com) 的软件可以打开技术图纸文件 (TIFF、PDF、SVG 等)，对它们进行分层、导航、缩放、测量，并比较不同版本的变化？    提交人    /u/matiwi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fbukvp/foss_alternative_for_viewing_and_comparing/</guid>
       <pubDate>Sun, 08 Sep 2024 10:19:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求 RSS 提要源的建议。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fbpoo7/seeking_suggestions_for_rss_feed_sources/</link>
-      <description><![CDATA[我正在重建我的 RSS 源，想要获取有关开源的新闻和内容（更新、趋势、GNU 和 Linux 内容、法律事务、新应用、小工具、正在发生的运动等各类内容）。 我正在寻找信噪比高的可靠来源。 这里有人有什么建议吗？ 谢谢！    提交人    /u/_Floydimus   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fbpoo7/seeking_suggestions_for_rss_feed_sources/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>handy-messaging-framework4j（hmf4j）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fbp14d/handymessagingframework4jhmf4j/</link>
-      <description><![CDATA[HMF4J 是一个从应用程序中抽象出消息传递层的框架。它抽象了如何与不同的消息传递系统（如 Apache Kafka、Google Pubsub、MQTT 等）交互的细节……因此，该框架使您能够专注于核心应用程序细节，而无需花费精力与消息传递层集成。这还使您能够无缝地从一种消息传递服务切换到另一种消息传递服务。除了标准化消息层的核心功能外，HMF4J 还提供以下功能：  非常高效的调度程序，为开发人员在处理传入数据方面提供不同级别的灵活性 与多个消息系统无缝互操作 按顺序排列消息以避免竞争条件情况 标准化消息类型 使用打包的测试工具包和名为 Photon Messaging System 的内存消息系统对应用程序进行无缝测试  更多详细信息请点击此处 - https://handy-messaging-framework.github.io/handy-messaging4j-docs/     提交人    /u/aronsajan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fbp14d/handymessagingframework4jhmf4j/</guid>
-      <pubDate>Sun, 08 Sep 2024 03:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想在其他浏览器中使用 Edge 的工作区，所以我制作了一个 FOSS 扩展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</link>
-      <description><![CDATA[我非常喜欢 Microsoft Edge 的工作区，但我喜欢使用 Google Chrome。因此，我决定制作一个扩展程序，无需使用 Edge 即可复制大部分行为。 演示 gif 链接  Github repo Chrome 网上应用店 Firefox 插件商店     由   提交  /u/Elec0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fbkcek/i_wanted_edges_workspaces_in_other_browsers_so_i/</guid>
-      <pubDate>Sat, 07 Sep 2024 23:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于打印结构的 C 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fbfw0e/c_library_for_printing_structs/</link>
-      <description><![CDATA[大家好， 你有没有想过用 C 语言打印一个结构体？我曾经想过，所以我决定为此建立一个库。 介绍 uprintf，一个用于打印结构体的单头 C 库（在 Linux 上）。 它旨在用于原型设计和调试，特别是对于具有大量状态和/或数据结构的程序。 创建它的实际原因是证明这个概念，因为它听起来不像是可以用 C 语言实现的东西。 除了一些限制外，它几乎可以打印任何东西。 最大的限制是无法打印动态分配的数组。这似乎是不可能的，所以如果你有什么想法，我很乐意听听。 第二个是它要求使用调试信息构建可执行文件，但考虑到它的预期用途，我认为这没有问题。 最后，它只适用于 Linux。虽然我还没有研究过其他操作系统，但可能可以扩展它，但我没有时间（现在）。 如果您有兴趣，请查看存储库。 如果您想知道它是如何工作的（并且不想阅读源代码），请告诉我。如果有足够多的人关心，我会写一个关于它的博客或视频。 感谢阅读！    提交人    /u/NaiveProcedure755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fbfw0e/c_library_for_printing_structs/</guid>
-      <pubDate>Sat, 07 Sep 2024 20:05:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
