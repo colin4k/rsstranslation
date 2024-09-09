@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Sep 2024 18:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 21:02:19 GMT</lastBuildDate>
+    <item>
+      <title>是否是时候用专门针对代码生成和模式优先设计的东西来取代 Open API Spec 了？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fd0ba6/is_it_time_to_replace_open_api_spec_with/</link>
+      <description><![CDATA[  由    /u/whkelvin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fd0ba6/is_it_time_to_replace_open_api_spec_with/</guid>
+      <pubDate>Mon, 09 Sep 2024 20:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>GUI 框架的新架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcyigx/a_new_architecture_for_a_gui_framework/</link>
+      <description><![CDATA[  由    /u/honungsburk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcyigx/a_new_architecture_for_a_gui_framework/</guid>
+      <pubDate>Mon, 09 Sep 2024 19:45:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>uLaunch v1.0：了解和替换 Nintendo Switch HOME 菜单</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcy0hr/ulaunch_v10_understanding_and_replacing_the/</link>
+      <description><![CDATA[博客文章解释 uLaunch 的开发（Nintendo Switch HOME 菜单的自定义替代品） Repo：https://github.com/XorTroll/uLaunch    由   提交  /u/NXGZ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcy0hr/ulaunch_v10_understanding_and_replacing_the/</guid>
+      <pubDate>Mon, 09 Sep 2024 19:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开通了一个 discord 频道（目前有 30 名成员），人们可以在这里分享和评论技术论文和书籍。也许这会激励你阅读更多内容！我这样做是因为我想记录我的旅程，并认为其他人也会对阅读感兴趣！所以这对我们所有人都有好处！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcx4gm/started_a_discord_channel_30_members_now_where/</link>
+      <description><![CDATA[  由    /u/JrJaro18  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcx4gm/started_a_discord_channel_30_members_now_where/</guid>
+      <pubDate>Mon, 09 Sep 2024 18:50:45 GMT</pubDate>
+    </item>
     <item>
       <title>我想通过这篇文章分享我对 RESTful API 的知识。</title>
       <link>https://www.reddit.com/r/programming/comments/1fcvanx/i_would_like_to_share_my_knowledge_about_restful/</link>
@@ -34,13 +62,6 @@
       <pubDate>Mon, 09 Sep 2024 16:48:22 GMT</pubDate>
     </item>
     <item>
-      <title>使用光标进行 AI 代码破解！💻✨ | 快速提升你的编码游戏！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fctwbf/ai_code_hacks_with_cursor_boost_your_coding_game/</link>
-      <description><![CDATA[  由    /u/Wise-Assignment1478  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fctwbf/ai_code_hacks_with_cursor_boost_your_coding_game/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:37:52 GMT</pubDate>
-    </item>
-    <item>
       <title>让困难的事情变得简单</title>
       <link>https://www.reddit.com/r/programming/comments/1fctulv/making_hard_things_easy/</link>
       <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
@@ -53,13 +74,6 @@
       <description><![CDATA[  由    /u/Nadaralp  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fctknn/mastering_pipes_and_filters_a_messaging_system/</guid>
       <pubDate>Mon, 09 Sep 2024 16:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>沟通清晰，更快晋升</title>
-      <link>https://www.reddit.com/r/programming/comments/1fctg8w/communicate_clearly_and_get_promoted_faster/</link>
-      <description><![CDATA[  由    /u/sidwyn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fctg8w/communicate_clearly_and_get_promoted_faster/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:19:27 GMT</pubDate>
     </item>
     <item>
       <title>proctrace - 流程生命周期事件的高级分析器</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fcpbbn/a_new_giant_software_market_the_rise_of_software/</guid>
       <pubDate>Mon, 09 Sep 2024 13:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 有多快？模拟 20,000,000 个粒子</title>
-      <link>https://www.reddit.com/r/programming/comments/1fcp02d/how_fast_is_javascript_simulating_20000000/</link>
-      <description><![CDATA[  由    /u/atgemsip  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fcp02d/how_fast_is_javascript_simulating_20000000/</guid>
-      <pubDate>Mon, 09 Sep 2024 13:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是联合搜索？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fcoxj4/what_is_federated_search/</link>
-      <description><![CDATA[  由    /u/ggStrift  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fcoxj4/what_is_federated_search/</guid>
-      <pubDate>Mon, 09 Sep 2024 13:03:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
