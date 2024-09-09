@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 06:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 09:02:02 GMT</lastBuildDate>
+    <item>
+      <title>利用生成式 AI 视频重现《黑客帝国》中的场景</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fckit3/recreating_scenes_from_the_matrix_with_generative/</link>
+      <description><![CDATA[https://youtu.be/Kj8hyg2uXcc 我第四次尝试制作 AI 视频。我认为重现《黑客帝国》中的场景会很讽刺。很高兴回答有关我使用的工具以及制作此类视频的整个过程的任何问题。 以下是我用来制作视频的工具。 脚本和图像/视频提示指导：ChatGPT 图像生成：Fooocus（将每幅图像放大 2 倍） 图像到视频生成：Runway Gen-3 Alpha Turbo、Immersity AI、Minimax 如果您有兴趣关注我在生成式 AI 实验中的进展，请关注或发送消息（如果有兴趣合作）。    提交人    /u/Efficient_Egg_8637   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fckit3/recreating_scenes_from_the_matrix_with_generative/</guid>
+      <pubDate>Mon, 09 Sep 2024 08:27:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能在房地产中的应用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjtxy/ai_applications_in_real_estate/</link>
+      <description><![CDATA[人工智能驱动的房地产估价和定价 房地产应用、房地产实施、人工智能对房地产的影响 在房地产领域，准确的房地产估价可以促成或破坏交易。传统上，估价依赖于人工评估，这是一种耗时且容易出现人为错误的方法。房地产人工智能正在通过分析包括历史房地产特征、销售数据和市场趋势在内的大型数据集来改变传统的估价方法。 例如，Zillow 等公司使用人工智能来估算房地产价值。它可以帮助买家和卖家获得公平的价格，并提高房地产市场的透明度和效率。 使用人工智能算法增强房地产搜索 房地产应用、房地产实施、人工智能对房地产的影响 由于可用的房源数量庞大，您需要花很长时间才能找到完美的房产。 AI 通过使用高级算法将用户与最符合他们偏好的房产进行匹配，从而缩短了这一时间。为了简化此过程，AI 会分析位置、价格范围、大小和便利设施。 Realtor.com 和 Redfin 等平台使用 AI 根据用户行为（例如以前的搜索、查看过的房产和喜欢的功能）提供个性化的房产推荐，以完善未来的建议。这种个性化的用户体验方法提高了房产搜索效率。 阅读：https://www.seaflux.tech/blogs/ai-real-estate-application-and-implementation    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjtxy/ai_applications_in_real_estate/</guid>
+      <pubDate>Mon, 09 Sep 2024 07:33:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士 (LLM) 的反射调优是什么？解释</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjonw/what_is_reflection_tuning_for_llms_explained/</link>
+      <description><![CDATA[反思是一种新的微调技术，其中微调提示略有改变，在训练 LLM 时融入自我反思，从而大大提高结果。看看它是如何工作的：https://youtu.be/I1JTytW56Y4?si=htN7S-vXklWqg1wa     提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcjonw/what_is_reflection_tuning_for_llms_explained/</guid>
+      <pubDate>Mon, 09 Sep 2024 07:21:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>AgentM Pulse：自我修改的用户体验</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcipmi/agentm_pulse_a_self_modifying_user_experience/</link>
+      <description><![CDATA[只是想分享一个我一直在做的项目，以征求反馈。我已经开始构建一个名为 AgentM 的 OSS 库，它引入了一个新的概念“微代理”。微代理是作为函数出现的小型代理，它们使用 AI 做得非常好。您可以将 AgentM 视为 AI 的 Lodash。如果您只想向您的应用程序添加摘要，只需导入两个函数即可实现，因此，如果您想为应用程序添加一点智能，您可以做到这一点，而无需使用像 LangChain 或 AutoGen 这样的繁重工作。 不过，我今天想分享的是一个名为 Pulse 的应用程序体验，它最初只是 AgentM 的一个示例，但正在迅速发展成为更多。AgentM Pulse 是一个在您的本地机器上运行的网络服务器，它会显示一个 100% 由 AI 生成的网站。它不仅仅是一个由人工智能生成的 UI，还是一个自我修改的 UI。你可以把它想象成 Claude Artifacts，但每次你发送新消息时，整个 UI 都会重新编写。安装说明在这里，您只需尝试一下即可了解它的功能： https://www.npmjs.com/package/agentm 您还可以在此处查看我创建的示例页面的更多屏幕截图： https://community.openai.com/t/installing-and-self-hosting-agentm-pulse/933799 它与 websim 有一些相似之处，但也有不同之处。例如，Pulse 有自己的 API，可以利用它来存储对象并使用 dall-e 生成图像。与 websim 不同，您可以使用它来构建真正有用的实际应用程序。设置非常简单，您只需要一个 OpenAI API 密钥即可开始使用（即将提供 Claude 支持）。感谢您的时间，我期待您的反馈。    提交人    /u/OwnKing6338   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcipmi/agentm_pulse_a_self_modifying_user_experience/</guid>
+      <pubDate>Mon, 09 Sep 2024 06:09:31 GMT</pubDate>
+    </item>
     <item>
       <title>为什么斯嘉丽约翰逊能跻身《时代》杂志人工智能领域最具影响力的 100 人之列，而埃隆马斯克却没有呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fci0ra/why_is_scarlett_johansson_part_of_time_magazines/</link>
@@ -67,34 +95,6 @@
       <description><![CDATA[我想知道目前是否有任何项目在做这件事，或者是否有可能。我猜这也不太合法，但我认为这些数据值得一谈。     提交人    /u/jacubwastaken   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcc2qm/could_we_use_youtube_caption_data_for_machine/</guid>
       <pubDate>Sun, 08 Sep 2024 23:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用桌面对话机器人的 API 并寻找比 OpenAI 更多的选择</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcab1j/using_an_api_for_a_desktop_conversational_bot_and/</link>
-      <description><![CDATA[所以，我基本上一直在从事一个夏季项目，这是一个可以在桌面上运行的机器人，它使用了一些 API 资源（OpenAI、Elevenlabs、Azure STT 和一个开源情绪检测模型）。这个项目的目标是能够键入或说出您的提示并让它做出相应的响应，但您可以插入不同的参数，如角色/个性数据和语音模型来个性化交互。该应用程序还在发出 API 请求时利用短期和长期记忆，这样除非明确删除，否则对话和知识不会丢失。该应用程序还具有一个头像，可以根据响应中检测到最多的情绪改变表情。 现在，尽管如此，OpenAI 和 Elevenlabs API 调用当然是需要付费的，我使用这两种 API 都是按使用量付费的，但需要注意的是，随着我制作更复杂的角色数据以及短期和长期记忆的积累，每个 OpenAI API 调用中用于上下文的令牌数量变得过于昂贵而无法维护。从理论上讲，随着积累的增加，甚至进行一次对话的成本都可能变得太高，而且成本的增加呈对数级增长。在解决了所有这些背景问题之后，我正在寻找解决这个问题的方法，因为我现在只是一个勉强度日的大学生。如果我可以不再使用 OpenAI，我非常乐意使用开源替代方案（谁知道呢，也许在本地而不是通过 API 保存这样的模型会更好）。我不知道我的游戏笔记本电脑如何处理创建我自己的模型，因此任何有关此事的帮助都将不胜感激。 要查看源代码，请查看 repo（自述文件仍在进行中）：https://github.com/L4w1i3t/Alter-Ego-AI?tab=readme-ov-file    提交人    /u/L4w1i3t   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcab1j/using_an_api_for_a_desktop_conversational_bot_and/</guid>
-      <pubDate>Sun, 08 Sep 2024 22:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在家制作一个 AI 克隆体来帮我接电话？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fc9r22/home_brewing_an_ai_clone_to_take_calls_for_me/</link>
-      <description><![CDATA[长话短说，我希望有一个 AI 版本来接听我无法接听或不想接听的电话。我不知道这是否可能，但我想如果可以的话，这个子版块的优秀 Reddit 用户会知道如何做以及使用什么程序。指望你们所有人，提前谢谢大家。    提交人    /u/Hour-Necessary2781   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fc9r22/home_brewing_an_ai_clone_to_take_calls_for_me/</guid>
-      <pubDate>Sun, 08 Sep 2024 22:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能在社交媒体上模仿现实生活（讨论）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fc9ibg/using_ai_to_fake_real_life_on_social_media/</link>
-      <description><![CDATA[https://www.facebook.com/profile.php?id=61562589010559  一个使用人工智能生成内容伪造真实生活的个人资料示例。人们非常无知，非常相信这些照片。互联网流量被路由到这些个人资料，就像偷窃一样。  我非常讨厌在我们的游戏中使用人工智能，当我们非常清楚我们使用人工智能时，我们不会伪造现实生活场景，这是一种完全抽象和富有想象力的体验，具有独特的概念和游戏玩法。  不幸的是，伪造在互联网上大多数时候都会获胜。    提交人    /u/Cyber​​SoulWriter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fc9ibg/using_ai_to_fake_real_life_on_social_media/</guid>
-      <pubDate>Sun, 08 Sep 2024 21:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳人工智能成像工具，实现个性化冷触达</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fc6gtg/best_ai_imaging_tools_for_personalised_cold_out/</link>
-      <description><![CDATA[我正在着手进行冷拓展，并且有一张 SAAS 仪表板的屏幕截图，其中包含各种图表、图形、用户名、用户公司徽标等。 我已经拥有包含相关数据的冷电子邮件数据集。 是否有一个或多个人工智能工具可以与我的数据集结合使用，以快速修改我现有的图像以匹配每个公司的详细信息？ 如能提供任何帮助我将不胜感激？（任何冷拓展人工智能内容）：）    提交人    /u/Admirable-County-809   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fc6gtg/best_ai_imaging_tools_for_personalised_cold_out/</guid>
-      <pubDate>Sun, 08 Sep 2024 19:47:18 GMT</pubDate>
     </item>
     <item>
       <title>利用人工智能掌握个人发展和效率的秘诀</title>
