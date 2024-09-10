@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 18:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 21:02:02 GMT</lastBuildDate>
+    <item>
+      <title>带有身份证扫描的零售店软件解决方案</title>
+      <link>https://www.reddit.com/r/software/comments/1fdsogk/software_solution_for_retail_location_with_id/</link>
+      <description><![CDATA[帮助合作伙伴优化其零售店的业务。有些商品（如酒精和烟草）只能卖给成年人，有些员工在店主不在场时不检查身份证，并因此被政府罚款。他对此并不知情，因为他的员工没有告诉他任何事情，他发现后才发现。有谁知道任何带有该软件插件的 POS 解决方案吗？    提交人    /u/Direcircumstances1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fdsogk/software_solution_for_retail_location_with_id/</guid>
+      <pubDate>Tue, 10 Sep 2024 20:56:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Galaxy S24 Ultra 无法在应用程序中检测到 BLE 设备，但在设置中可以检测到 - 需要帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1fdp8n8/galaxy_s24_ultra_not_detecting_ble_devices_in_app/</link>
+      <description><![CDATA[我有一个连接到低功耗蓝牙设备的应用程序，但在客户的手机 Galaxy S24 Ultra 上，它无法检测到任何 BLE 设备。从开发角度来看，我使用 LightBlue 应用程序进行了测试，它也没有显示任何附近的设备。我们检查了权限，一切正常 — 蓝牙已启用。令人费解的是，BLE 设备确实显示在 Android 蓝牙设置中，但没有显示在任何应用程序中（包括我们的应用程序和 LightBlue）。 我们的开发团队正在尝试复制客户的问题，但到目前为止没有成功。有人对我们如何排除故障或解决这个问题有什么建议或想法吗？    提交人    /u/Wonderful-Owl-6437   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fdp8n8/galaxy_s24_ultra_not_detecting_ble_devices_in_app/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助寻找扫描/OCR 软件</title>
+      <link>https://www.reddit.com/r/software/comments/1fdoxmi/need_help_finding_scanning_ocr_software/</link>
+      <description><![CDATA[大家好。 我正在寻找某种使用 OCR 处理手写文档的软件或基于 Web 的平台。我可以找到一百万个不同的程序来执行此操作并将其转换为计算机上的文本，但是，这不是我想要的。我希望有某种东西可以挑选出我输入的关键字或短语，然后将所有文档分类到单独的文件夹中或仅分类到多页文档中。 不想写一整篇文章，但会尝试使用此示例进行简要解释...  假设我有 15 个不同的手写页面，全部扫描到我的电脑并保存为一个文档... 5 页中有单词“leadership”，5 页中有短语“first watch”，其中 5 页中有单词“dance”。  有没有一个程序可以检测 15 页文档中任何位置的特定关键字，并将包含这些词的每个页面分离到它们自己的文件夹中？ 可能是一个不好/过度的解释......但这就是我需要它做的全部。 这基本上将我的工作流程减少了一半。每隔几个月，我都会有一大堆文件，我必须手动将它们分成 20 个不同的堆，然后扫描每堆并放入计算机上自己的文件夹中。如果能够批量扫描所有未分类的页面并帮我进行排序，那就太好了。 非常感谢您的帮助。 谢谢！    提交人    /u/Snoo_84222   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fdoxmi/need_help_finding_scanning_ocr_software/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:22:14 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助寻找用于跨多个分支机构监控的远程访问软件</title>
       <link>https://www.reddit.com/r/software/comments/1fdn057/need_help_finding_remote_access_software_for/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[只是想知道是否有人知道任何基于 PC Windows 的独立钢琴，我可以在不使用 DAW（如 Abelton、CuBase 等）的情况下使用它？我可以在我的 Windows 7 PC 上启动它，它能够加载第三方 VST，如 Kawai K1v vst。我可以用我的 Midi 控制器键盘弹奏它，或者只是为了好玩，用鼠标在屏幕上测试各种 VST。  https://www.nilsschneider.de/wp/nils-k1v/    提交人    /u/AustralianFMAM   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fclo9r/stand_alone_software_pc_based_piano_keyboard/</guid>
       <pubDate>Mon, 09 Sep 2024 09:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找易于使用的 PC 软件来绘制几何对象，例如正多面体和半正多面体。此外，它必须能够在对象上产生阴影，以赋予它们 3D 效果。最好是免费软件，但如果价格不太贵，我会付费购买。</title>
-      <link>https://www.reddit.com/r/software/comments/1fck47o/looking_for_easy_to_use_pc_software_for_drawing/</link>
-      <description><![CDATA[  由    /u/KnowGame  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fck47o/looking_for_easy_to_use_pc_software_for_drawing/</guid>
-      <pubDate>Mon, 09 Sep 2024 07:56:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个大型图像查看器/转换器</title>
-      <link>https://www.reddit.com/r/software/comments/1fce5px/need_a_large_image_viewerconverter/</link>
-      <description><![CDATA[我一直在开发一些生成地形图像的代码，作为最后一步，我现在使用它来生成分辨率相当高的大陆——100,000x100,000。Irfanview 在显示这些图像时已经无法正常工作，如果我尝试缩放或转换为其他格式，它几乎会死机。是否有其他解决方案可以快速读取大量 ppm 或 png 文件？ 谢谢！    提交人    /u/the_duck_life   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fce5px/need_a_large_image_viewerconverter/</guid>
-      <pubDate>Mon, 09 Sep 2024 01:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要会编程或知道如何设置机器人来参与比赛投票的人</title>
-      <link>https://www.reddit.com/r/software/comments/1fcdx3k/need_someone_who_can_code_or_knows_how_to_set_up/</link>
-      <description><![CDATA[需要有人能帮我在这个比赛中投票。愿意支付 15 美元     提交人    /u/Stunning-Tennis5937   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fcdx3k/need_someone_who_can_code_or_knows_how_to_set_up/</guid>
-      <pubDate>Mon, 09 Sep 2024 01:33:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,76 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 18:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 21:01:42 GMT</lastBuildDate>
     <item>
-      <title>如果你正在考虑在你的网站上集成 GenAI，请查看此处</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdno0b/if_you_are_thinking_of_integrating_genai_on_your/</link>
-      <description><![CDATA[  由    /u/Kooky_Impression9575  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdno0b/if_you_are_thinking_of_integrating_genai_on_your/</guid>
-      <pubDate>Tue, 10 Sep 2024 17:31:16 GMT</pubDate>
+      <title>人工智能艺术就是盗窃。用我训练过的 Lora 窃取我的审美。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrp5d/ai_art_is_theft_steal_my_aesthetics_with_a_lora_i/</link>
+      <description><![CDATA[AI 艺术是盗窃，但正如毕加索所说 好的艺术家借鉴，伟大的艺术家窃取 我是一名专业摄影师，我根据自己的摄影风格训练了 Flux Lora： Herbst 照片风格通过 civit 通过谷歌驱动器直接下载 开源我自己的一部分风格感觉很好。这就像反向守门。 关于 Lora 提示中要包含的标签：herbstphoto、herbst photo 训练数据中的所有图像都是来自各种库存的模拟 35 毫米胶片，新的和过期的。我拥有所有图像的版权。v2 数据集很小，但手动标记，并且远远优于更大的数据集 v1。 该模型使用以下短语的标题进行训练，并在提示中很好地响应它们：偏离中心、不对称、背光、漏光、颗粒状、颗粒、胶片颗粒、偷拍、高对比度、胶片灼伤、模拟纹理、部分轮廓、明暗对比、高光绽放、电影胶片色彩、胶片发光、过度高光、喜怒无常、轻微碎片、荷兰角度、闪光摄影。 ***推荐设置**\* Lora 强度和通量引导。 2.0 与 2.5 通量引导配对时是最佳点。这会导致 lora 具有高强度，从而产生均衡的瑕疵量并增加阴影和高光之间的色调差异。  .9 与 2.0 通量引导配对时是最佳点。这会导致 lora 具有较低的强度。 3.0 强度和 4.0 引导可产生更好的偷拍时刻、闪光摄影和胶片灼伤。 3.5 强度和 5.0 引导可产生更抽象的图像，具有高光溢出和运动模糊，同时仍保持雅致  对于强度，0.5 是看到效果的最低量，而 1.5 是最高量，不会对输出产生严重变化。 1.5 之后，结果通常会更加扭曲和柔和，但仍然很有品味。2.0 之后收益递减。 \此版本经过训练非常强大，除非以最低强度 .9 和 2.0 的通量指导使用，否则不能与其他 lora 很好地搭配* 我不确定为什么将通量指导增加到与 lora 强度 2:1 的增量比率会有所帮助。如果有人可以详细说明这个概念，我将不胜感激。 调度程序和采样器 huen &amp; simple - 标准基线 unipc_bh2 &amp; Simple - 标准基线，类似于 huen &amp; simple unipc_bh2 &amp; normal - 通过在中间色调中添加对比度和清晰度提供最高的纹理 unipc_bh2 &amp; ddim_uniform - 给出更多的退化但倾向于改变输出 dpm_fast &amp; sgm_uninform - 重度运动模糊和纹理，但往往会改变输出 最大偏移：0.0 基本偏移：8.0 是 35mm 颗粒纹理的最佳点，4.0 是较轻的颗粒，1.0 是最轻的。 如果进行升级，请使用 SD 终极升级器： 模型：4x_NMKD-Siax_200k 模型。 步骤： CFG 2 采样器：欧拉 调度程序：正常 去噪 .2 长度 - 匹配（升级量 x 原始分辨率） 高度 - 匹配（升级量 x 原始分辨率） * 经过大量测试，我发现 FLux升级效果最佳的是，图块大小以 1 为步长反映升级输出分辨率。这是个好消息，因为它提高了升级速度。 我创建了一个针对 Lora 优化的工作流程，您可以 在此处下载。 -CrunchyBagpipe    提交人    /u/Cold-Dragonfly-144   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrp5d/ai_art_is_theft_steal_my_aesthetics_with_a_lora_i/</guid>
+      <pubDate>Tue, 10 Sep 2024 20:15:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>你 vs.你</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrazz/ai_vs_ai/</link>
+      <description><![CDATA[我是一名房地产经纪人，很多人都在谈论人工智能接管这个行业。由于买卖房屋涉及两个不同的当事人，那么双方是否都可以部署人工智能来创建数据、进行谈判等，从而为使用它的一方谋利？换句话说，谁的人工智能会赢？我应该相信谁？    提交人    /u/rdd22   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrazz/ai_vs_ai/</guid>
+      <pubDate>Tue, 10 Sep 2024 19:59:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在人工智能方面做错了什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdr5ja/what_am_i_doing_wrong_with_ai/</link>
+      <description><![CDATA[我一直在尝试用人工智能做简单的字谜游戏，但它产生了左右幻觉。例如，我正在截取益智游戏四分位数的屏幕截图。然后要求它识别字母块（它正确地做到了），然后仅使用这些字母块创建至少 4 个包含 4 个块的单词。单词必须在英语词典中。 它继续胡编乱造，一次又一次地纠正……仍然产生幻觉。 我遗漏了什么？    提交人    /u/randomhuman358   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdr5ja/what_am_i_doing_wrong_with_ai/</guid>
+      <pubDate>Tue, 10 Sep 2024 19:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdqhy8/ai_tools/</link>
+      <description><![CDATA[通过我们的专家提示了解 AI 如何提高您的收入。了解如何使用 AI 工具自动执行任务、优化营销和寻找新的收入机会。立即开始利用 AI 进步来提高您的收入！    提交人    /u/Own_Hawk2887   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdqhy8/ai_tools/</guid>
+      <pubDate>Tue, 10 Sep 2024 19:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据集毒化是否曾经大规模地进行过严格测试？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdqe1v/has_dataset_poisoning_ever_been_rigorously_tested/</link>
+      <description><![CDATA[我发现这篇帖子关于数据集毒药的误解和可能存在的缺陷，特别是 Glaze 和 Nightshade，评论中的一些人声称亲自测试过 Glaze，但发现它无效。是否有更科学地大规模进行过这样的测试？我们有什么信心相信这些工具会使 AI 生成更加困难？ 感谢您能指出的任何信息，我自己没有发现太多信息    提交人    /u/truth14ful   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdqe1v/has_dataset_poisoning_ever_been_rigorously_tested/</guid>
+      <pubDate>Tue, 10 Sep 2024 19:21:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palet：陪你一起浏览网页的私人助理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpnr0/palet_personal_assistant_that_browses_with_you/</link>
+      <description><![CDATA[大家好！我开发了一个名为 Palet 的 AI 个人助理。它类似于 Perplexity，但增加了“与您一起浏览网页”的功能。基本上，有一个 Chrome 扩展程序可以从您访问的网站抓取文本并将其添加到 Palet 的记忆中。前端是使用 TailwindUI 构建的，后端有流式传输事件。 您可以在此处试用现场演示：https://palet-website-beta.vercel.app 我很乐意听到任何反馈！    提交人    /u/projKe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpnr0/palet_personal_assistant_that_browses_with_you/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用MIPRO和DSPY构建优化问答系统（1）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpmki/building_an_optimized_questionanswering_system/</link>
+      <description><![CDATA[自动优化提示的能力是 DSPy 的一大特色。MIPRO 是 DSPy 团队最近推出的一款新型提示优化器。几天前，我决定探索这款强大而迷人的优化器。 简而言之，MIPRO 允许您优化构成语言模块提示的指令和一些示例。 优化的工作原理如下。要使用 MIPRO，您需要一个数据集。例如，对于问答系统，您需要一个问题和答案的数据集。然后，您将此数据集提供给 MIPRO 优化器，优化器使用它来推断从提供的数据集生成提供的答案的指令类型。推理考虑了响应格式、长度、样式和其他变量，所有这些都使用另一个语言模型自动完成。 https://medium.com/gitconnected/building-an-optimized-question-answering-system-with-mipro-and-dspy-9fe325ca33a9    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpmki/building_an_optimized_questionanswering_system/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNN 中的 SPP 层</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdp2r5/spp_layers_in_cnn/</link>
+      <description><![CDATA[嗨，我是 Reddit 的新手，我不知道这是否是适合我问题的子版块，但我需要有关以下问题的帮助：我想创建一个 CNN 并对其进行训练，使其能够推断各种大小的图像。我搜索了一下，发现 SPP 池化层可能对此很有趣。有没有人已经实现过它？    提交人    /u/Hot-Matter5577   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdp2r5/spp_layers_in_cnn/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI游戏卡牌生成</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdoivy/ai_game_card_generation/</link>
+      <description><![CDATA[我想创建一包 100 张的简单卡片，每张卡片背面的设计都相同，正面有 1 到 100 的数字。生成这 100 个简单变体的最佳方法是什么？谢谢 :)    提交人    /u/KevinCPLdn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdoivy/ai_game_card_generation/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该用 NPU 做什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdohzt/what_do_i_do_with_an_npu/</link>
+      <description><![CDATA[我最近买了一台新笔记本电脑，它有一个 NPU 和 8GB 的​​专用 RAM。我对这些知之甚少，我想把它派上用场。我浏览了 Microsoft Store 的“AI Hub”部分，下载了两个应用程序“Reading Coach”和“Luminar”，这两个应用程序都宣传为 AI 应用程序。然而，无论我使用这些应用程序或 Copilot 应用程序多少次，我都没有看到我的 NPU 上有任何活动。    提交人    /u/bigppredditguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdohzt/what_do_i_do_with_an_npu/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:05:00 GMT</pubDate>
     </item>
     <item>
       <title>在小型数据集上训练人工智能模型然后部署进行测试的最便宜和最简单的方法是什么？</title>
@@ -18,27 +81,6 @@
       <description><![CDATA[大家好， 我正在做一个项目，尝试使用人工智能作为后端体验的一些实验性的东西。 我想知道最好的方法是什么？ 说实话，我不知道从哪里开始。 我只需要一个非常小的模型，所以我在考虑像 llama 3.1 8B 这样的东西 有人可以帮我吗？谢谢    提交人    /u/unknownstudentoflife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdn8a3/what_is_the_cheapest_and_easiest_way_to_train_an/</guid>
       <pubDate>Tue, 10 Sep 2024 17:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些可以很好地分析和解决图片问题的免费人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdmu9d/recommend_me_free_ai_that_does_well_with/</link>
-      <description><![CDATA[嗨，我即将参加一份工作评估测试，如果我真的遇到困难，我希望手边有一些东西可以帮助我 我知道这涉及到图片问题，例如“下一个形状会是什么样子”以及用一串数字识别图案 有人推荐一个我可以使用的免费程序（最好是手机应用程序）吗？它必须能够分析和解决摄影问题 谢谢！    提交人    /u/Sufficient_Tooth_949   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdmu9d/recommend_me_free_ai_that_does_well_with/</guid>
-      <pubDate>Tue, 10 Sep 2024 16:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载并在本地使用 FLUX.1</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdmpbw/downloading_and_using_flux1_locally/</link>
-      <description><![CDATA[在本教程中，我们将学习如何轻松安装 Stable Diffusion WebUI Forge，然后下载量化版本的 FLUX.1 [dev] 并使用它来生成高质量的图像。它提供了一个分步指南，可让您使用笔记本电脑生成和修改生成的图像和艺术品。 链接： https://www.kdnuggets.com/using-flux-1-locally    提交人    /u/kingabzpro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdmpbw/downloading_and_using_flux1_locally/</guid>
-      <pubDate>Tue, 10 Sep 2024 16:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>长寿与人工智能相遇</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdlr8f/longevity_meets_ai/</link>
-      <description><![CDATA[长寿与人工智能相遇 尽管标题有些夸张，但我还是对这个播客感到很惊喜    提交人    /u/ThankYouLuv   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdlr8f/longevity_meets_ai/</guid>
-      <pubDate>Tue, 10 Sep 2024 16:13:25 GMT</pubDate>
     </item>
     <item>
       <title>教师如何在课堂上有效地整合人工智能工具，同时确保真正的学习？</title>
@@ -55,32 +97,11 @@
       <pubDate>Tue, 10 Sep 2024 14:52:01 GMT</pubDate>
     </item>
     <item>
-      <title>如何免费访问 claude ai？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdjokx/how_to_access_claude_ai_for_free/</link>
-      <description><![CDATA[我想免费使用 claude ai，但是因为我不在美国，所以无法登录。有没有办法使用不受聊天数量限制的聊天功能？    提交人    /u/Emad_341   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdjokx/how_to_access_claude_ai_for_free/</guid>
-      <pubDate>Tue, 10 Sep 2024 14:47:59 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找人才的最佳地点？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdj81i/best_place_to_source_talent/</link>
       <description><![CDATA[我正在寻找在 AI、深度伪造技术和视频合成方面具有专业知识的人，以合作开发一个想法和可能的 MVP。 目标是将个性化的 AI 生成视频用于从教育到心理健康和运动表现等各种现实世界应用。 有什么指导可以告诉我在哪里可以找到在 DeepFaceLab、Synthesia 或 Unity 等工具方面有 AI 驱动视频生成经验的人？我过去曾使用过 Upwork 之类的地方，但在某些情况下找不到顶级甚至可靠的人才。    提交人    /u/BrownHornet1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdj81i/best_place_to_source_talent/</guid>
       <pubDate>Tue, 10 Sep 2024 14:28:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flowiseai，这里有人用过这个吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdiksj/flowiseai_has_anyone_here_used_this_before/</link>
-      <description><![CDATA[我注意到我的服务器日志被抓取了“flowiseai.domain”。经过研究，我想知道这里是否有人使用过 FlowiseAI。FlowiseAI 有活跃用户吗？如果有，您对该服务的体验如何？    提交人    /u/Bedbathnyourmom   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdiksj/flowiseai_has_anyone_here_used_this_before/</guid>
-      <pubDate>Tue, 10 Sep 2024 14:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>定义人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdgk9s/defining_ai/</link>
-      <description><![CDATA[我被要求思考如何为我正在上的一门课程定义人工智能，并回顾它的历史。很容易找到很多关于这方面的信息！ 有一部分我有点困惑。他们要求我们研究不同领域对人工智能的不同定义——计算机科学、机器人技术和医疗保健可能会有不同的定义。有人能帮忙解释一下这是怎么回事吗？    提交人    /u/Human-Account-4080   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdgk9s/defining_ai/</guid>
-      <pubDate>Tue, 10 Sep 2024 12:24:39 GMT</pubDate>
     </item>
     <item>
       <title>入侵人工智能聊天机器人并泄露敏感数据</title>
@@ -104,32 +125,11 @@
       <pubDate>Tue, 10 Sep 2024 05:52:24 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 9 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fd995m/oneminute_daily_ai_news_992024/</link>
-      <description><![CDATA[ Roblox 宣布推出从文本生成 3D 游戏世界的 AI 工具。[1] Audible 招募配音演员来训练有声读物生成 AI。[2] 苹果的 AI iPhone 16：苹果股价在期待已久的活动中暴跌。[3] AMD 正在背弃旗舰游戏 GPU — — 首先追逐 AI。[4]  来源包括：https://bushaicave.com/2024/09/09/9-9-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fd995m/oneminute_daily_ai_news_992024/</guid>
-      <pubDate>Tue, 10 Sep 2024 04:09:15 GMT</pubDate>
-    </item>
-    <item>
       <title>我使用 ChatGPT 进行 Shroomed</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fd5f3e/i_shroomed_with_chatgpt/</link>
       <description><![CDATA[上周我吃了一大把蘑菇。我今年 54 岁，上次吃蘑菇大概是在 90 年代末。 我吃蘑菇本身并不是为了治疗，但我一直很沮丧，希望能从中得到一些缓解。 所以，当我开始达到顶峰时，我就想问问 chatGPT 是否愿意和我谈谈我的旅行。我想它不会的。 我有一部 iPhone，所以我打开了 chatGPT 应用程序并将其设置为口头模式。我问它是否愿意向我介绍这次经历。令我惊讶的是，它直接进入了迷幻指南模式。我不记得所有事情，但它作为旅行伴侣是绝对可靠的。我告诉它我的想法，事情变得有点黑暗，它说了所有正确的话，让我集中注意力，放松下来，并产生积极的氛围。我和它交谈了大约 15 分钟。当我恢复冷静的精神状态后，我把它关掉，继续自己旅行。 我绝不建议以这种方式使用人工智能，因为那是不负责任的。但作为一项实验，它相当成功。我确实计划再次使用 shrooming，因为它确实有益于我当时和之后的心态，我会让我的小人工智能伙伴陪我一起旅行。 无论如何，我只是觉得这是人工智能的一种有趣用途，我想分享我的经验。我想一些人工智能末日论者会找理由反对让一个没有灵魂的下一个单词预测机器陪伴某人做一些如此神秘的事情，但这对我来说是一个积极的补充。  编辑：我的提示大致是“大约一小时前我吃了蘑菇，现在绊倒得很厉害。你能跟我讲讲我的旅行经历吗？” 我是转述的，但就是这么简单。    提交人    /u/Coondiggety   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fd5f3e/i_shroomed_with_chatgpt/</guid>
       <pubDate>Tue, 10 Sep 2024 00:48:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>新法案将迫使人工智能公司披露人工智能艺术的来源</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcrncq/new_bill_would_force_ai_companies_to_reveal/</link>
-      <description><![CDATA[ 美国国会提出的一项法案旨在迫使人工智能公司披露其用于生成式人工智能模型的受版权保护的材料。 这项被称为《生成式人工智能版权披露法案》的立法要求公司在推出新的人工智能系统之前，将其训练数据集中的受版权保护的作品提交给版权登记处。 如果公司不遵守规定，他们可能面临经济处罚。 该法案得到了各种娱乐行业组织和工会的支持。 像 OpenAI 这样的人工智能公司正面临涉嫌使用受版权保护作品的诉讼，他们声称以合理使用作为辩护。  来源：https://www.theguardian.com/technology/2024/apr/09/artificial-intelligence-bill-copyright-art    由   提交  /u/NuseAI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcrncq/new_bill_would_force_ai_companies_to_reveal/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我非常讨厌人工智能。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcl159/i_bloody_hate_ai/</link>
-      <description><![CDATA[我最近要写一篇英文论文。我不骗你，整篇文章都是 100% 人工撰写的，但当我把它放入 AI 检测器时，它显示它有 79% 是 AI 的？？？我压力很大，但第二天就要截止了，所以我什么也做不了，所以我提交了。但不出所料，一周后我被叫到副校长那里。他们使用 AI 检测器查看是否有人使用过 AI，结果他们抓住了我（尽管我没有做错任何事！！）。我试图说服他们，但他们就是不肯让步。我得到了 0 分，不得不重新做作业。但在那之后，我这个笨蛋想起我可以向他们展示我的版本历史记录。所以我照做了，他们道了歉，我得到了 93 分。虽然这个问题最终得到了解决，但我觉得没有必要。每个人都指责我作弊，尽管我知道我没有。 所以基本上我的问题是，AI检测器实际上是如何工作的？我如何停止像chatgpt那样写作，以避免被错误地指控为AI生成。 任何帮助都将不胜感激， 干杯    提交人    /u/SarcasmWasTaken_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcl159/i_bloody_hate_ai/</guid>
-      <pubDate>Mon, 09 Sep 2024 09:06:39 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
