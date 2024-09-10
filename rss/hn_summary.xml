@@ -4,115 +4,104 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 15:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 17:55:37 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Umbra Space 是一家成立 9 年的公司，运营着一批合成孔径雷达 (SAR) [...]</title>
-      <link>https://t.me/hn_summary/107806</link>
-      <description><![CDATA[卫星侦察机
-Umbra Space 是一家成立 9 年的公司，运营着一支合成孔径雷达 (SAR) 卫星舰队，这些卫星能够穿透云层和伪装等各种障碍物捕捉高分辨率图像。Umbra 最初由 SpaceX 于 2021 年发射，目前已有 10 颗卫星在轨道上运行。他们的 SAR 技术使用雷达波而不是光学方法，可以生成分辨率高达 16 厘米的图像，甚至可以捕捉视频。Umbra 提供了一个开放数据程序，共享来自全球 500 多个地点的 SAR 图像，包括 140 多张曼谷机场的图像。这些数据价值 400 万美元，可免费使用。
-
-新数据集 SARDet-100K 和带滤波器增强的多级 (MSFA) 框架旨在增强 SAR 图像中的物体检测，缩小 RGB 和 SAR 图像之间的差距。该数据集包括 117K 张 SAR 图像和 246K 张带注释的物体。作者详细介绍了他们的高性能工作站设置和用于分析 SAR 数据的软件工具，包括 Python、PyTorch 和 DuckDB。
-
-争议：该帖子巧妙地批评了使用 SAR 图像跟踪已经发送 ADS-B 消息的飞机的成本效益，并表明它更适合检测关闭应答器的飞机。
-
-独特/巧妙：作者对高性能工作站的详细设置以及使用各种先进的工具和框架进行 SAR 数据分析特别有见地，并展示了高水平的技术专长。（基于 22% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107806</guid>
-      <pubDate>Tue, 10 Sep 2024 15:04:34 GMT</pubDate>
+      <title>[媒体] 在medium.com的文章《Apache Kafka的本质》中，作者解释了Apache Kafka的核心思想。</title>
+      <link>https://t.me/hn_summary/107834</link>
+      <description><![CDATA[Apache Kafka 的本质
+在 medium.com 上的文章“Apache Kafka 的本质”中，作者解释了软件架构中对强大消息传递系统的需求，并将其与咖啡店的订餐板进行了类比。最初，使用简单的队列来处理服务之间的消息，但是当多个服务需要使用相同的消息时，这种方法就不够了。作者引入了事件日志的概念，它可以持久地存储消息，允许多个服务按照自己的节奏使用它们。随着系统的扩展，对分布式架构的需求变得显而易见，从而引入了分区和偏移量来管理跨多个节点的数据。这种可扩展、容错系统以 Apache Kafka 为代表，由 Jay Kreps、Neha Narkhede 和 Jun Rao 在 LinkedIn 开发，目前已广泛用于实时数据流。本文重点介绍了 Kafka 在现代分布式系统中的骨干作用及其工程卓越性。]]></description>
+      <guid>https://t.me/hn_summary/107834</guid>
+      <pubDate>Tue, 10 Sep 2024 17:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>网站：www.et.byu.edu</title>
-      <link>https://t.me/hn_summary/107805</link>
-      <description><![CDATA[有一位顾问工程师
-标题：有一位顾问工程师
-网站：www.et.byu.edu
+      <title>[媒体] 花式是一种简洁的符号系统，用于表示花朵的结构 [...]</title>
+      <link>https://t.me/hn_summary/107833</link>
+      <description><![CDATA[花卉公式
+花卉公式是一种简洁的符号系统，用于表示花卉结构，使用数字、字母和符号来传达有关花卉成分的详细信息。这些公式由 Cassel 和 Martius 等植物学家于 19 世纪初开发，描述了花卉器官的排列和数量、它们的融合和对称性。值得注意的是，格式可能因作者和时期而异，但核心信息保持一致。花卉公式通常与花卉图一起使用，以提供对花卉形态的全面了解。Prenner 等人的最新进展扩展了这些公式的描述能力，表明它们被纳入正式的分类描述中。 
 
-顾问工程师
+争议：正如 Prenner 等人所指出的，花卉配方格式的复杂性和多变性可能会使标准化变得具有挑战性。
 
-一位在修复机械问题方面具有非凡天赋的工程师在为公司服务了 30 多年后退休了。多年后，他的前公司遇到了一台价值数百万美元的机器无法解决的问题，他绝望地寻求他的帮助。这位退休工程师经过一天的细致检查，在一个特定的部件上标记了一个 X，确定了问题所在。零件更换后，机器运行正常。该公司收到了 50,000 美元的账单，促使他们要求逐项列出明细。工程师的回答很简洁：1 美元用于粉笔标记，49,999 美元用于知道在哪里标记。]]></description>
-      <guid>https://t.me/hn_summary/107805</guid>
-      <pubDate>Tue, 10 Sep 2024 15:04:27 GMT</pubDate>
+独特/巧妙：在许多情况下使用“∞”等符号以及使用各种括号来表示器官融合，展示了简洁地传达复杂植物学信息的巧妙之处。（基于 85% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/107833</guid>
+      <pubDate>Tue, 10 Sep 2024 17:52:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：undb.io</title>
-      <link>https://t.me/hn_summary/107804</link>
-      <description><![CDATA[Show HN：Undb – 开源无代码平台现在提供云服务
-标题：Show HN：Undb – 开源无代码平台现在提供云服务
-网站：undb.io
-
-开源无代码平台 Undb 推出了一项新的云服务。该服务旨在让用户更轻松地构建和部署应用程序，而无需编写代码。该平台提供简单、实惠的定价计划，不施加任何功能限制，只施加数量限制。这种方法确保用户无论订阅级别如何都可以访问所有功能，使其成为满足各种需求的多功能选项。云服务的推出标志着 Undb 实现软件开发民主化使命迈出了重要一步。]]></description>
-      <guid>https://t.me/hn_summary/107804</guid>
-      <pubDate>Tue, 10 Sep 2024 15:03:17 GMT</pubDate>
+      <title>[媒体] 2017 年，马克·扎克伯格雄心勃勃地提出，到 2025 年，让 10 亿人体验虚拟现实 (VR) [...]</title>
+      <link>https://t.me/hn_summary/107832</link>
+      <description><![CDATA[为什么 VR 游戏仍未流行
+2017 年，马克·扎克伯格雄心勃勃地计划到 2027 年让 10 亿人体验 VR，但迄今为止仅售出 3400 万台 VR 耳机，这一目标似乎难以实现。VR 游戏有望推动这一增长，但由于开发商坚持“硬核”玩家文化，专注于高级图形和沉浸式游戏，因此受到阻碍。这种方法植根于《毁灭战士》和《德军总部》等游戏的传统，导致游戏体验狭窄、强度高，经常导致晕动症和身体疲惫。《Superhot VR》和《Beat Saber》等游戏强调体现和休闲游戏，展现了 VR 的真正潜力。然而，对硬核游戏的关注形成了一个反馈循环，限制了 VR 的更广泛吸引力。讽刺的是，像 Farmville VR 这样的游戏可能正是该行业吸引更多受众所需要的。争议在于铁杆游戏社区对休闲、强度较低的 VR 体验的抵制。]]></description>
+      <guid>https://t.me/hn_summary/107832</guid>
+      <pubDate>Tue, 10 Sep 2024 17:52:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.soc-2-compliance.com</title>
-      <link>https://t.me/hn_summary/107803</link>
-      <description><![CDATA[SoC 2 合规性检查表
-标题：SoC 2 合规性检查表
-网站：www.soc-2-compliance.com
-
-在开始 SOC 2 合规性之旅时，最初的决定是是否先从 SOC 2 类型 1 审计开始，然后再进行更全面的 SOC 2 类型 2 审计。SOC 2 类型 1 审计评估您的政策、程序和控制是否适合在特定时间点满足 SOC 2 标准。这种审计耗时较少，并提供了一种更快的方式来证明初始合规性。相反，SOC 2 第 2 类审计更为严格，需要提供证据表明控制措施在一段时间内（通常为 3-6 个月或更长时间）一直有效运行。这为客户提供了更深的保证。虽然许多组织将第 1 类审计作为垫脚石，但它并不是第 2 类审计的先决条件——如果准备就绪，您可以直接进行 SOC 2 第 2 类审计。]]></description>
-      <guid>https://t.me/hn_summary/107803</guid>
-      <pubDate>Tue, 10 Sep 2024 15:03:13 GMT</pubDate>
+      <title>“Anthropic React Native Client” GitHub 项目旨在促进与 [...] 的直接互动</title>
+      <link>https://t.me/hn_summary/107831</link>
+      <description><![CDATA[显示 HN：Anthropic React Native Client
+“Anthropic React Native Client”GitHub 项目旨在使用服务器发送事件 (SSE) 而不是 polyfill 来促进 React Native 应用程序与 Anthropic API 的直接交互。此库尽可能接近 Anthropic Node SDK 的类型和 API。一个关键特性是它依赖代理服务器（例如 Backmesh）来防止暴露 Anthropic API 密钥，从而确保安全通信。该项目通过强调安全的 API 密钥管理和提供用于实时数据处理的流式 API 来脱颖而出。鼓励通过 Discord 或 GitHub 进行贡献和功能请求。该软件包已获得 MIT 许可。]]></description>
+      <guid>https://t.me/hn_summary/107831</guid>
+      <pubDate>Tue, 10 Sep 2024 17:46:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Ngscopeclient：高级 T&M 远程控制和分析套件</title>
-      <link>https://t.me/hn_summary/107802</link>
-      <description><![CDATA[Ngscopeclient：高级 T&amp;M 远程控制和分析套件
-Ngscopeclient：高级 T&amp;M 远程控制和分析套件
+      <title>[媒体] 高碳水化合物饮食会让你更饱吗？</title>
+      <link>https://t.me/hn_summary/107830</link>
+      <description><![CDATA[吃高碳水化合物饮食会让你更饱吗？
 
-Ngscopeclient 是一款用于远程控制和分析测试与测量 (T&amp;M) 硬件的高级工具。它允许用户通过拖放式过滤器图形编辑器创建复杂的 GPU 加速分析管道，从而简化硬件测试。此开源工具链与 Windows、Linux 和 MacOS 兼容，并且可以轻松扩展以支持任何具有 SCPI 接口或本机 API 的 T&amp;M 仪器。用户可以将多台仪器组合成一个统一的测试平台，并使用 C++ API 自动化生产测试。值得注意的是，ngscopeclient 在高速链路（例如 5 Gbps QSGMII 链路）的协议解码和信号完整性分析方面表现出色。]]></description>
-      <guid>https://t.me/hn_summary/107802</guid>
-      <pubDate>Tue, 10 Sep 2024 15:01:08 GMT</pubDate>
+该研究探讨了高脂肪/低碳水化合物 (HFLC) 和低脂肪/高碳水化合物 (LFHC) 膳食如何影响超重和肥胖个体的饱腹感和食物享乐感。参与者在交叉试验中食用了两种膳食类型，膳食的感官特性相匹配。结果表明，与 HFLC 膳食相比，LFHC 膳食可提高饱腹感，平均减少 990 卡路里的热量摄入。此外，LFHC 膳食降低了对 HFLC 食物的明确喜好和隐性需求。该研究表明，LFHC 饮食可能有助于减少总体热量摄入并增加饱腹感，尽管它是短期的并且专注于超重个体，限制了长期适用性。值得注意的是，该研究使用了精制食品，这可能无法反映全食饮食的结果。（基于 90% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/107830</guid>
+      <pubDate>Tue, 10 Sep 2024 17:35:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bitwarden 宣布其原生 iOS 应用程序正式上市 (GA)，提供 [...]</title>
-      <link>https://t.me/hn_summary/107801</link>
-      <description><![CDATA[Bitwarden：原生移动应用
-Bitwarden 宣布其原生 iOS 应用正式发布 (GA)，提供增强的性能和更好的用户体验。此更新允许 iOS 用户享受尖端功能、更好的应用性能以及与原生硬件功能（如生物识别和多设备支持）的更深入集成。创始人兼首席技术官 Kyle Spearrin 讨论了 Bitwarden 移动开发的发展，强调了转向原生应用的好处。iOS 和 Android 的 Beta 版发布正在进行中，每个阶段都会引入新的功能和优化。用户可以期待更流畅的用户界面、更快的屏幕转换、更直观的界面以及增强的安全性和隐私性。有关更多详细信息，请查看 Bitwarden 网站上链接的 Reddit 帖子。]]></description>
-      <guid>https://t.me/hn_summary/107801</guid>
-      <pubDate>Tue, 10 Sep 2024 15:01:06 GMT</pubDate>
+      <title>[媒体] 耦合振荡器是一种复杂的动力系统，人们正在对它进行计算探索，[...]</title>
+      <link>https://t.me/hn_summary/107829</link>
+      <description><![CDATA[用于计算的耦合振荡器
+耦合振荡器是一种复杂的动态系统，受到神经网络和哺乳动物大脑等生物系统的启发，人们正在探索将其用于计算。本文研究了基于振荡器的计算 (OBC)，重点研究了纳米级振荡系统的物理特性及其在下一代计算中的潜力。与传统的基于级别的计算不同，OBC 使用振荡信号的相位和频率来表示信息，从而可能提供更丰富的数据表示。受神经形态计算的启发，OBC 旨在模仿互连神经元的集体状态。虽然前景光明，但寻找合适的低功耗、稳健的振荡器仍然具有挑战性。该评论强调了 OBC 在 AI 硬件和解决计算难题方面的潜力，强调了对合适的振荡器和同步现象的需求。 
+
+争议：本文指出，在计算中使用振荡器的最佳方式缺乏共识，并且很少有人尝试将 OBC 与传统电路进行对比。
+
+独特/巧妙：受生物系统的启发，OBC 中使用相位和频率来表示信息，与传统的基于级别的计算相比，它提供了一种新颖的方法。（基于 18% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/107829</guid>
+      <pubDate>Tue, 10 Sep 2024 17:16:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Viam 的本教程将指导您如何使用 Raspberry Pi 使 LED 闪烁，s [...]</title>
-      <link>https://t.me/hn_summary/107800</link>
-      <description><![CDATA[使用按钮和代码使 LED 闪烁
-Viam 的本教程将指导您使用 Raspberry Pi 使 LED 闪烁，从基本电路构建开始，然后逐步进行编码。最初，您通过 Viam 应用程序界面控制 LED，然后使用 Viam 的 SDK（Python 或 Go）来自动化该过程。本指南涵盖了设置 Raspberry Pi、了解 GPIO 引脚排列以及配置 Viam 应用程序。它强调安全性，例如在接线前断开电源。一个独特的技巧是使用打印的 Raspberry Pi Leaf 来更轻松地识别引脚。本教程还强调了保护 API 密钥以防止未经授权的访问的重要性。（基于 73% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107800</guid>
-      <pubDate>Tue, 10 Sep 2024 14:51:59 GMT</pubDate>
+      <title>[媒体] 由 42 个州和地区总检察长组成的联盟正在敦促国会授权 [...]</title>
+      <link>https://t.me/hn_summary/107828</link>
+      <description><![CDATA[近 40 个州支持卫生局局长的社交媒体警告标签
+由 42 个州和领地总检察长组成的联盟敦促国会强制在社交媒体平台上贴上警告标签，以强调它们对儿童造成的风险。这项倡议最初由美国卫生局局长 Vivek Murthy 博士于 6 月提出，旨在解决青少年的心理健康危机。这封信由 39 个州的检察长和美属萨摩亚、哥伦比亚特区和美属维尔京群岛的总检察长签署，引用了将社交媒体的使用与儿童焦虑、抑郁和睡眠中断联系起来的研究。拟议的标签类似于酒精和烟草产品上的标签。然而，一些关于社交媒体影响的研究存在争议，这将是在通信平台上强制警告的罕见例子。总检察长强调，虽然这些标签不是一个完整的解决方案，但这是保护青少年的重要一步。最近的立法努力包括参议院的《儿童在线安全法案》和《儿童在线隐私保护法》2.0，以及州一级的措施，如纽约禁止青少年使用“令人上瘾”的信息流，佛罗里达州即将要求 16 岁以下儿童获得父母同意。许多州的规定面临法律挑战，例如德克萨斯州的一名法官阻止了防止未成年人看到有害内容的要求。此外，各州还起诉 Meta 和 TikTok，指控它们剥削和伤害年轻用户。]]></description>
+      <guid>https://t.me/hn_summary/107828</guid>
+      <pubDate>Tue, 10 Sep 2024 17:06:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.promptotype.io</title>
-      <link>https://t.me/hn_summary/107799</link>
-      <description><![CDATA[显示 HN：JSON 模式编辑器 UI
-标题：显示 HN：JSON 模式编辑器 UI
-网站：www.promptotype.io
-
-介绍 JSON 模式编辑器 UI，这是一款用户友好的工具，旨在简化 JSON 模式的创建和编辑。此直观的界面允许用户轻松定义对象类型、属性和验证规则。编辑器默认强制执行严格的模式定义，确保数据结构稳健并减少错误。一个独特的功能是能够切换其他属性，为各种用例提供​​灵活性。此工具非常适合希望简化工作流程并保持高标准数据验证的开发人员。这里没有争议，只是 JSON 模式管理中常见问题的巧妙解决方案。]]></description>
-      <guid>https://t.me/hn_summary/107799</guid>
-      <pubDate>Tue, 10 Sep 2024 14:46:52 GMT</pubDate>
+      <title>介绍 Martinup.app，专为 soloprene 设计的终极 API 监控工具 [...]</title>
+      <link>https://t.me/hn_summary/107827</link>
+      <description><![CDATA[Show HN：面向 solopreneurs 和独立黑客的 API 监控
+推出 Martinup.app，这是专为 solopreneurs 和独立黑客设计的终极 API 监控工具。我们的平台可确保您始终掌握 API 的性能，并在出现问题时提供实时警报。加入 100 多名信赖 Martinup.app 的 solopreneurs，以确保他们的项目顺利运行。立即注册开始使用，不再错过关键 API 问题！]]></description>
+      <guid>https://t.me/hn_summary/107827</guid>
+      <pubDate>Tue, 10 Sep 2024 17:02:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：saasavant-saas-boilerplate.hookerhillstudios.com</title>
-      <link>https://t.me/hn_summary/107798</link>
-      <description><![CDATA[SaaSavant – SaaS Boilerplate
-标题：SaaSavant – SaaS Boilerplate
-网站：saasavant-saas-boilerplate.hookerhillstudios.com
+      <title>[媒体] 网站：cra.mr</title>
+      <link>https://t.me/hn_summary/107826</link>
+      <description><![CDATA[开源不是一种商业模式
+标题：开源不是一种商业模式
+网站：cra.mr
 
-在为自己的产品反复开发相同的核心功能后，我意识到需要一种更有效的方法。这促使我创建了一个全面的解决方案。在此过程中，我发现对 SaaS 样板的需求很大，并决定与社区分享我的独特版本。]]></description>
-      <guid>https://t.me/hn_summary/107798</guid>
-      <pubDate>Tue, 10 Sep 2024 14:45:48 GMT</pubDate>
+以开源商业模式创办公司是一个既合理又荒谬的复杂想法。本文受到旨在平衡软件访问和维护者保护的 Fair Source 的启发，解决了关于企业选择开源许可证的原因的误解。与普遍看法相反，创始人开源产品不是为了欺骗社区或赢得商誉，而是为了扩大市场潜力并降低客户采用风险。开源不是一种商业模式，而是产品包装的一个组成部分。许可证的选择（如 FSL）应与业务目标保持一致，确保用户和维护者互利互惠。本文强调了将价值观编码到许可证中以及理解许可证选择的更广泛影响的重要性。]]></description>
+      <guid>https://t.me/hn_summary/107826</guid>
+      <pubDate>Tue, 10 Sep 2024 17:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文章“200 年以来地球能量不平衡变化的观测评估 [...]</title>
-      <link>https://t.me/hn_summary/107797</link>
-      <description><![CDATA[自 2000 年以来地球能量不平衡变化的观测评估
-文章“自 2000 年以来地球能量不平衡变化的观测评估”回顾了近几十年来研究地球能量平衡变化的各种研究。主要发现包括由于云控制因素导致东北太平洋低云减少（Andersen 等人，2022 年）以及历史海面温度模式对辐射反馈的影响（Andrews 等人，2022 年）。值得注意的是，最近气溶胶排放量的减少加剧了地球的能量不平衡（Hodnebrog 等人，2024 年）。文章还重点介绍了 2023 年海洋温度的新纪录（Cheng 等人，2024 年）以及南大洋冷却对全球气候反馈的影响（Kang 等人，2023 年）。
+      <title>[媒体] 当我 12 岁左右的时候，我的数学老师有一个非常规的要求：不仅要解决 [...]</title>
+      <link>https://t.me/hn_summary/107825</link>
+      <description><![CDATA[如何编写数学问题
+当我 12 岁左右时，我的数学老师提出了一个非常规的要求：不仅要解决数学问题，还要编写它们。这种方法培养了创造力和批判性思维，加深了我们对几何和代数的理解。我们的一些作品甚至发表在一本现在不太知名的数学杂志上。随着时间的推移，我开始喜欢我认为“美丽”的数学问题：简洁、对称、易于理解。例如，考虑不等式：
 
-争议：本文涉及有争议的“全球变暖停滞”（Kosaka &amp; Xie，2013 年；Lewandowsky 等人，2015 年），这一直是气候科学中一个有争议的话题。
+[\frac{a}{b+2c+d}+\frac{b}{c+2d+a}+\frac{c}{d+2a+b}+\frac{d}{a+2b+c} \ge 1\]
 
-独特/巧妙：由于国际海事组织 2020 年燃料硫含量规定（Diamond，2023 年）而检测到的云微物理变化是一个巧妙的例子，说明政策变化如何产生可衡量的环境影响。（基于 32% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/107797</guid>
-      <pubDate>Tue, 10 Sep 2024 14:43:44 GMT</pubDate>
+[\forall a,b,c,d \gt 0.\]
+
+创建数学问题需要从简单问题开始，识别核心模式，然后迭代以达到美观和复杂性。例如，将涉及对数和素数的问题转换为更通用和优雅的形式。即使最终的问题并不总是具有开创性，这个过程也可以揭示隐藏的模式并带来更深刻的数学见解。]]></description>
+      <guid>https://t.me/hn_summary/107825</guid>
+      <pubDate>Tue, 10 Sep 2024 16:52:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
