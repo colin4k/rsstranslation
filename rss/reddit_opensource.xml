@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 10 Sep 2024 06:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 09:02:25 GMT</lastBuildDate>
+    <item>
+      <title>我为 Node.js 构建了一个比 ELK 更好的开源完整记录器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fdbw7u/i_built_an_opensource_complete_logger_thats/</link>
+      <description><![CDATA[       由    /u/Rishi-Errsole  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fdbw7u/i_built_an_opensource_complete_logger_thats/</guid>
+      <pubDate>Tue, 10 Sep 2024 07:07:12 GMT</pubDate>
+    </item>
     <item>
       <title>资产保留软件/应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1fd3mik/asset_reservation_software_application/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[👋 大家好 👋， 🎉 今天对我来说是一个非常特殊的日子：就在一年前的今天，我独自踏上了一段冒险之旅，心中只有一个想法：让创建应用程序的过程变得更轻松、更快捷。我厌倦了花几天时间重新编码同样的东西（基本端点、身份验证、权限等）。今天，经过 365 天的编码、挑战和数百小时的思考和开发，我很自豪地向你们介绍 Wabe 🚀 Wabe 是一个完全开源的后端即服务 (BaaS)，用 TypeScript 编写，我设计它的目的是让开发人员的生活更轻松。有了 Wabe，一切都变得更简单：管理身份验证、数据库访问、自动 GraphQL API 生成、细粒度权限设置、增强的安全性、Stripe 支持、重新发送（用于发送电子邮件）支持等等。 我们才刚刚开始 Wabe 的旅程，因为许多功能都在计划中（添加仪表板、支持 PostgreSQL 等等）。 每一行代码都经过精心设计，为您提供一个强大而灵活的工具，我希望它能为您节省宝贵的时间。我非常期待听到您的想法！ 🙏 Wabe 可在 Node 和 Bun 上使用！ GitHub：https://github.com/palixir/wabe 网站：https://wabe.dev PS：如果您喜欢该项目并希望支持它，请随时在 GitHub 上用星星关注它😁😁    提交人    /u/mrpalixir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc3utu/wabe_create_your_backend_in_minutes/</guid>
       <pubDate>Sun, 08 Sep 2024 17:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供通用云 API 集成的样板 Ktor 项目。欢迎使用并贡献您自己的集成。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fc2z2u/a_boilerplate_ktor_project_providing_common_cloud/</link>
-      <description><![CDATA[        由    /u/madafuka  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fc2z2u/a_boilerplate_ktor_project_providing_common_cloud/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:17:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
