@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Sep 2024 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 18:02:14 GMT</lastBuildDate>
+    <item>
+      <title>开发一款可以陪你浏览网页的开源 Perplexity</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fegdbj/working_on_an_open_source_perplexity_that_browses/</link>
+      <description><![CDATA[大家好，我正在开发一个类似 Perplexity 的个人助理，名为 Palet，它可以索引您的浏览历史记录，以便于搜索。基本上，它就是 Perplexity，但增加了一个功能，即它可以只搜索您浏览过/访问过的网站。 将来，我希望它还能够索引外部上下文源，例如您的电子邮件收件箱或日历。但目前，它只是您访问的网站。 我考虑过使用 Mem0，但目前我选择只构建自己的 Mem0。我认为从 ActivityPub 和 Mem0 中汲取灵感来创建一个“联合内存层”会很酷将来某个时候，Palet 会成为其客户，但其他应用程序/代理也可能是其客户。 无论如何，您可以在此处使用现场演示：https://palet-website-beta.vercel.app 我很乐意听到任何反馈！    提交人    /u/projKe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fegdbj/working_on_an_open_source_perplexity_that_browses/</guid>
+      <pubDate>Wed, 11 Sep 2024 17:47:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于假开源的问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</link>
+      <description><![CDATA[新手。有没有已知的案例，看似开源的软件（带有 github 等）如果不更改一些小东西，就会人为地变得难以（或不可能）构建？    由    /u/BobbyBronkers  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</guid>
+      <pubDate>Wed, 11 Sep 2024 16:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>使用版本控制平台使文档开源的最佳方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdhzbh/jordan_maris_joins_osi/</guid>
       <pubDate>Tue, 10 Sep 2024 13:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telnet 上的贪吃蛇游戏</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdfzkm/snake_game_over_telnet/</link>
-      <description><![CDATA[        提交人    /u/der_gopher   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdfzkm/snake_game_over_telnet/</guid>
-      <pubDate>Tue, 10 Sep 2024 11:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postman 很糟糕 - 非嵌入化（OSS？）替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdfnqd/postman_is_shit_nonenshittificated_oss_alternative/</link>
-      <description><![CDATA[好吧：邮递员很烂。 我可以克服它在 Electron 中造成的问题，但它对于它提供的功能来说太重了。 让我感到厌烦的是，他们将很多功能绑定到共享的云工作区中，更糟糕的是，如果你不想付费，他们还会限制团队规模。 我不想让我的收藏在线，需要登录（我不知道为什么，通常它也会取消我的会话，我必须再次登录）。 我想要一些没有被复杂化到无法辨认的东西。 我想要一些可以离线工作的东西 一些 OSS，这样它就可以免受硅谷风险投资家无法抗拒每个月购买一艘新游艇的诱惑。 可以与他妈的 yaml/json/whatever 一起使用的东西，可以离线工作并归档基于（您还记得 git 对版本控制有多好吗？我记得。这就足够了，白痴们） 一切为了进行简单的 http 调用（是的，我可以使用 curl，事实上我正在使用，但是来吧......） 有任何“生产级”替代方案吗？    提交人    /u/MioCuggino   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdfnqd/postman_is_shit_nonenshittificated_oss_alternative/</guid>
-      <pubDate>Tue, 10 Sep 2024 11:35:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
