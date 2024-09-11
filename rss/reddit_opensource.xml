@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Sep 2024 18:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 21:02:03 GMT</lastBuildDate>
     <item>
-      <title>开发一款可以陪你浏览网页的开源 Perplexity</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fegdbj/working_on_an_open_source_perplexity_that_browses/</link>
-      <description><![CDATA[大家好，我正在开发一个类似 Perplexity 的个人助理，名为 Palet，它可以索引您的浏览历史记录，以便于搜索。基本上，它就是 Perplexity，但增加了一个功能，即它可以只搜索您浏览过/访问过的网站。 将来，我希望它还能够索引外部上下文源，例如您的电子邮件收件箱或日历。但目前，它只是您访问的网站。 我考虑过使用 Mem0，但目前我选择只构建自己的 Mem0。我认为从 ActivityPub 和 Mem0 中汲取灵感来创建一个“联合内存层”会很酷将来某个时候，Palet 会成为其客户，但其他应用程序/代理也可能是其客户。 无论如何，您可以在此处使用现场演示：https://palet-website-beta.vercel.app 我很乐意听到任何反馈！    提交人    /u/projKe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fegdbj/working_on_an_open_source_perplexity_that_browses/</guid>
-      <pubDate>Wed, 11 Sep 2024 17:47:20 GMT</pubDate>
+      <title>构建昂贵的员工认可 Slack Bot 开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fei8l2/building_an_expensive_employee_recognition_slack/</link>
+      <description><![CDATA[我知道许多 Slack 机器人非常昂贵，尤其是员工识别 Slack 机器人，它们非常昂贵。所以我和我的朋友决定构建该工具的开源版本，现在我们已经完成了一半，我们构建了我们的第一个工作 MVP。所以如果你真的对此感到好奇，不要犹豫，浏览我的个人资料，你一定会在任何相关帖子中找到该视频    提交人    /u/Charming_You_8285   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fei8l2/building_an_expensive_employee_recognition_slack/</guid>
+      <pubDate>Wed, 11 Sep 2024 19:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Echo：一款新的开源发现工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1feha4o/echo_a_new_open_source_discovery_tool/</link>
+      <description><![CDATA[  由    /u/Longjumping-Spend  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1feha4o/echo_a_new_open_source_discovery_tool/</guid>
+      <pubDate>Wed, 11 Sep 2024 18:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - guilhermeprokisch/see：用于终端的一只可爱的猫（1），具有高级代码查看、Markdown 渲染、🌳 tree-sitter 语法突出显示、图像视图等功能。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1feh272/github_guilhermeprokischsee_a_cute_cat1_for_the/</link>
+      <description><![CDATA[        提交人    /u/AnIndependentFish   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1feh272/github_guilhermeprokischsee_a_cute_cat1_for_the/</guid>
+      <pubDate>Wed, 11 Sep 2024 18:15:28 GMT</pubDate>
     </item>
     <item>
       <title>关于假开源的问题</title>
@@ -22,7 +36,7 @@
     <item>
       <title>使用版本控制平台使文档开源的最佳方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份能源效率计划的技术参考/资源手册 (TRM)，用于标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
       <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我发现了一个名为 Rhino 的库，由一家名为 Picovoice 的公司制作。它获取音频数据，并根据开发人员定义的一组操作输出离散结果。例如，如果应用程序控制咖啡机，选项可能是“煮咖啡”、“安排冲泡”或“关机”。该库将获取音频并输出其中一个选项或“无法识别”。在某种程度上，它可以处理自然语言歧义，因此如果用户说“关机”或“关闭电源”，它将输出相同的结果。 我想知道是否还有其他库具有此功能，或者是否有可以接受文本而不是音频作为输入的东西。我搜索“文本到意图”没有找到任何内容，但也许这是错误的短语，或者可能有一个库将此功能作为一组更广泛的 NLP 操作的一部分。有人有什么建议吗？    提交人    /u/ekcrisp   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdp1gd/does_anyone_know_of_a_good_texttointent_library/</guid>
       <pubDate>Tue, 10 Sep 2024 18:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>大学编码项目想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdlow8/college_coding_project_ideas/</link>
-      <description><![CDATA[嗨，我现在是最后一年，我必须开始做一个项目。我期待您对我的项目提出一些建议。 我学过的语言：Java、C、C++、SQL、Python。（如有需要，愿意学习新语言）    提交人    /u/codeXjs002   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdlow8/college_coding_project_ideas/</guid>
-      <pubDate>Tue, 10 Sep 2024 16:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jordan Maris 加入 OSI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdhzbh/jordan_maris_joins_osi/</link>
-      <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdhzbh/jordan_maris_joins_osi/</guid>
-      <pubDate>Tue, 10 Sep 2024 13:33:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
