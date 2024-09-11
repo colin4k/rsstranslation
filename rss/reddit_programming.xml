@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 11 Sep 2024 00:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 03:01:44 GMT</lastBuildDate>
+    <item>
+      <title>动态 JSON API 生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdztsp/dynamic_json_api_generator/</link>
+      <description><![CDATA[  由    /u/Imaginary-Meet9412  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdztsp/dynamic_json_api_generator/</guid>
+      <pubDate>Wed, 11 Sep 2024 02:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个人都可以写科技博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdzij7/everyone_can_write_tech_blogs/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdzij7/everyone_can_write_tech_blogs/</guid>
+      <pubDate>Wed, 11 Sep 2024 02:24:26 GMT</pubDate>
+    </item>
     <item>
       <title>PHP 的 Laravel 类 Golang Web 框架</title>
       <link>https://www.reddit.com/r/programming/comments/1fdwpja/phps_laravel_like_web_framework_for_golang/</link>
@@ -34,13 +48,6 @@
       <pubDate>Tue, 10 Sep 2024 20:45:04 GMT</pubDate>
     </item>
     <item>
-      <title>帮我解决这个问题！！！？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdru7e/help_me_solve_this_project/</link>
-      <description><![CDATA[任务是使用以下工具自动计数所附图片 (cell_nuclei.png) 中的细胞核 编程语言：Python 图像分析包：理想情况下为 scikit-image 连接的细胞核应该分开 接触边界的细胞核不应该被计数 如何呈现代码 使用 jupyter notebook 比较理想 显示中间结果，例如图像 我还需要记录代码 请帮忙？    提交人    /u/Loose_Dream2284   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdru7e/help_me_solve_this_project/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:20:59 GMT</pubDate>
-    </item>
-    <item>
       <title>代码签名证书：一种劫持自动化的数字诈骗</title>
       <link>https://www.reddit.com/r/programming/comments/1fdqill/code_signing_certificates_a_digital_racket_thats/</link>
       <description><![CDATA[略带讽刺，但绝对是事实！    由    /u/Trollercoasterke 提交   [link] [comments]]]></description>
@@ -53,27 +60,6 @@
       <description><![CDATA[  由    /u/prospero  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fdpzc6/the_simplicity_of_a_limb/</guid>
       <pubDate>Tue, 10 Sep 2024 19:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upstash 正在弃用 kafka - 需要替代方案（参见第一条评论）</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdprxz/upstash_is_deprecating_kafka_need_alternative_see/</link>
-      <description><![CDATA[  由    /u/leurs247  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdprxz/upstash_is_deprecating_kafka_need_alternative_see/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费学习 Python 的资源。嗨，我正在寻找一个可以教我如何学习 Python 的网站或书籍，一些交互式资源会很好。很容易找到不好的教程并走上错误的道路。感谢您的指导和建议。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdpean/resources_to_learn_python_for_free_hi_i_am/</link>
-      <description><![CDATA[  由    /u/According_Caramel_21  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdpean/resources_to_learn_python_for_free_hi_i_am/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您有使用过 Wiz Code 的经验吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdp05k/any_experiences_with_wiz_code/</link>
-      <description><![CDATA[  由    /u/peatedstift  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdp05k/any_experiences_with_wiz_code/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:25:00 GMT</pubDate>
     </item>
     <item>
       <title>为什么我更喜欢异常而不是错误值</title>
@@ -144,6 +130,20 @@
       <description><![CDATA[Sage 最近进行了许多真正重大更新，包括 const 泛型、模块等等！ 查看网站了解有关 Sage 的更多信息！ Sage 很可能会在不久的将来更名，因为 SageMath 已经存在。如果您有任何名称建议，请加入 Discord 并告诉我们！    提交人    /u/adamthekiwi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fdl1dg/the_sage_programming_language/</guid>
       <pubDate>Tue, 10 Sep 2024 15:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Git Pulse 探索开源项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdkwfi/exploring_open_source_projects_with_git_pulse/</link>
+      <description><![CDATA[  由    /u/cylo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdkwfi/exploring_open_source_projects_with_git_pulse/</guid>
+      <pubDate>Tue, 10 Sep 2024 15:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>良好的软件开发习惯</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdkv8n/good_software_development_habits/</link>
+      <description><![CDATA[  由    /u/iloveafternoonnaps  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdkv8n/good_software_development_habits/</guid>
+      <pubDate>Tue, 10 Sep 2024 15:37:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

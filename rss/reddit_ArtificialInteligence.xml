@@ -3,12 +3,26 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 00:02:59 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 11 Sep 2024 03:01:23 GMT</lastBuildDate>
+    <item>
+      <title>我和人工智能玩家一起玩 DnD！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdyzcc/i_played_dnd_with_ai_players/</link>
+      <description><![CDATA[我和 Ai 玩家一起玩了 DnD！第 1 节 https://youtu.be/VzviC8O21z4 我已经使用 ChatGPT 并用它为 dnd 战役 Vecna：Nest of the Eldritch Eye 创建了一些玩家。我将担任 DM，AI 将控制玩家的角色创建、角色扮演和战斗！ 查看包含角色创建的播放列表：https://www.youtube.com/watch?v=Aa7ZMLowlQA&amp;list=PLVVIHVUN3st9sRfRO4_1uSPBtA242JE0k    提交人    /u/deadmanfred2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdyzcc/i_played_dnd_with_ai_players/</guid>
+      <pubDate>Wed, 11 Sep 2024 01:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能不是一个平台</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdxzhr/ai_is_not_a_platform/</link>
+      <description><![CDATA[AI 不是像网络或移动设备这样的平台。 它是一个催化剂，而不是一个舞台。 https://www.lycee.ai/blog/ai-is-not-a-platform    提交人    /u/franckeinstein24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdxzhr/ai_is_not_a_platform/</guid>
+      <pubDate>Wed, 11 Sep 2024 01:01:49 GMT</pubDate>
+    </item>
     <item>
       <title>文档或非文档分类器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdvgo7/document_or_not_a_document_classifier/</link>
-      <description><![CDATA[我正在寻找一种模型或技术（尽可能便宜），以区分文档（以图像形式输入）与其他任何内容（如图标、Outlook 签名等）。  我的第一个想法是布局模型，并使用文本分类器检查输出。这感觉很笨拙。 有什么建议吗？     提交人    /u/TheGonadWarrior   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一种模型或技术（尽可能便宜），可以将文档（以图像形式输入）与其他任何内容（如图标、Outlook 签名等）区分开来。  我的第一个想法是布局模型，并使用文本分类器检查输出。这感觉很笨拙。 有什么建议吗？     提交人    /u/TheGonadWarrior   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdvgo7/document_or_not_a_document_classifier/</guid>
       <pubDate>Tue, 10 Sep 2024 22:59:32 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>每天总结 AI 研究论文 #3</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdt44y/summarising_ai_research_papers_everyday_3/</link>
-      <description><![CDATA[标题：每天总结 AI 研究论文 #3 我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“大型语言模型对编程平台构成威胁吗？一项探索性研究”，作者是 Md Mustakim Billah、Palash Ranjan Roy、Zadia Codabux 和 Banani Roy。 这项探索性研究调查了大型语言模型 (LLM) 在 LeetCode、Codeforces 和 HackerRank 等知名编程平台上的解决问题的能力。本文提出了有关 AI 和竞技编程不断发展的交集的相关问题，仔细研究了这些高级模型是否对人类程序员和平台本身构成了挑战。作者使用多种编程挑战（包括在线竞赛和实时问题解决测试）对 LLM 进行了系统评估。 以下是本文的一些主要发现：  多样化的能力表现：LLM 表现出不同的性能水平，在 LeetCode 上的成功率明显更高 - ChatGPT 解决了超过 71% 的测试问题。相比之下，它们在 Codeforces 上表现出中等成功率，显示出模型在处理更复杂或更长的问题陈述时遇到困难。 比较优势：尽管在 HackerRank 的自动认证测试中表现出色，但 LLM 在现场竞赛中表现一般，尤其是由 Codeforces 管理的竞赛。这表明，虽然 LLM 可以有效地处理结构化挑战，但它们在动态竞赛环境中面临局限性。 统计见解：研究发现 LLM 使用的不同编程语言之间没有显着的性能差异。这表明，无论使用什么语言，LLM 的解决问题能力都是一致的，但在问题难度级别和接受率方面，表现存在显著差异。 人类与人工智能：与人类竞争对手相比，LLM 在特定场景中表现出竞争优势，尤其是在时间效率和内存使用方面。然而，他们在本质上更为复杂的考试和竞赛中苦苦挣扎。 呼吁平台创新：结果促使编程平台需要在管理 LLM 的方法上进行创新，同时招聘实践必须适应，纳入超越书面测试或认证的更严格的评估方法。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #3 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“大型语言模型对编程平台构成威胁吗？一项探索性研究”，作者是 Md Mustakim Billah、Palash Ranjan Roy、Zadia Codabux 和 Banani Roy。 这项探索性研究调查了大型语言模型 (LLM) 在 LeetCode、Codeforces 和 HackerRank 等知名编程平台上的解决问题的能力。本文提出了有关 AI 和竞技编程不断发展的交集的相关问题，仔细研究了这些高级模型是否对人类程序员和平台本身构成了挑战。作者使用多种编程挑战（包括在线竞赛和实时问题解决测试）对 LLM 进行了系统评估。 以下是本文的一些主要发现：  多样化的能力表现：LLM 表现出不同的性能水平，在 LeetCode 上的成功率明显更高 - ChatGPT 解决了超过 71% 的测试问题。相比之下，它们在 Codeforces 上表现出中等成功率，显示出模型在处理更复杂或更长的问题陈述时遇到困难。 比较优势：尽管在 HackerRank 的自动认证测试中表现出色，但 LLM 在现场竞赛中表现一般，尤其是由 Codeforces 管理的竞赛。这表明，虽然 LLM 可以有效地处理结构化挑战，但它们在动态竞赛环境中面临局限性。 统计见解：研究发现 LLM 使用的不同编程语言之间没有显着的性能差异。这表明，无论使用什么语言，LLM 的解决问题能力都是一致的，但在问题难度级别和接受率方面，表现存在显著差异。 人类与人工智能：与人类竞争对手相比，LLM 在特定场景中表现出竞争优势，尤其是在时间效率和内存使用方面。然而，他们在本质上更为复杂的考试和竞赛中苦苦挣扎。 呼吁平台创新：结果促使编程平台需要在管理 LLM 的方法上进行创新，同时招聘实践必须适应，纳入超越书面测试或认证的更严格的评估方法。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdt44y/summarising_ai_research_papers_everyday_3/</guid>
       <pubDate>Tue, 10 Sep 2024 21:14:28 GMT</pubDate>
     </item>
@@ -55,25 +69,18 @@
       <pubDate>Tue, 10 Sep 2024 19:21:41 GMT</pubDate>
     </item>
     <item>
-      <title>Palet：陪你一起浏览网页的私人助理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpnr0/palet_personal_assistant_that_browses_with_you/</link>
-      <description><![CDATA[大家好！我开发了一个名为 Palet 的 AI 个人助理。它类似于 Perplexity，但增加了“与您一起浏览网页”的功能。基本上，有一个 Chrome 扩展程序可以从您访问的网站抓取文本并将其添加到 Palet 的记忆中。前端是使用 TailwindUI 构建的，后端有流式传输事件。 您可以在此处试用现场演示：https://palet-website-beta.vercel.app 我很乐意听到任何反馈！    提交人    /u/projKe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpnr0/palet_personal_assistant_that_browses_with_you/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用MIPRO和DSPY构建优化问答系统（1）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpmki/building_an_optimized_questionanswering_system/</link>
-      <description><![CDATA[自动优化提示的能力是 DSPy 的一大特色。MIPRO 是 DSPy 团队最近推出的一款新型提示优化器。几天前，我决定探索这款强大而迷人的优化器。 简而言之，MIPRO 允许您优化构成语言模块提示的指令和一些示例。 优化的工作原理如下。要使用 MIPRO，您需要一个数据集。例如，对于问答系统，您需要一个问题和答案的数据集。然后，您将此数据集提供给 MIPRO 优化器，优化器使用它来推断从提供的数据集生成提供的答案的指令类型。推理考虑了响应格式、长度、样式和其他变量，所有这些都使用另一个语言模型自动完成。 https://medium.com/gitconnected/building-an-optimized-question-answering-system-with-mipro-and-dspy-9fe325ca33a9    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdpmki/building_an_optimized_questionanswering_system/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:50:40 GMT</pubDate>
-    </item>
-    <item>
       <title>CNN 中的 SPP 层</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdp2r5/spp_layers_in_cnn/</link>
       <description><![CDATA[嗨，我是 Reddit 的新手，我不知道这是否是适合我问题的子版块，但我需要有关以下问题的帮助：我想创建一个 CNN 并对其进行训练，使其能够推断各种大小的图像。我搜索了一下，发现 SPP 池化层可能对此很有趣。有没有人已经实现过它？    提交人    /u/Hot-Matter5577   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdp2r5/spp_layers_in_cnn/</guid>
       <pubDate>Tue, 10 Sep 2024 18:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该用 NPU 做什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdohzt/what_do_i_do_with_an_npu/</link>
+      <description><![CDATA[我最近买了一台新笔记本电脑，它有一个 NPU 和 8GB 的​​专用 RAM。我对这些知之甚少，我想把它派上用场。我浏览了 Microsoft Store 的“AI Hub”部分，下载了两个应用程序“Reading Coach”和“Luminar”，这两个应用程序都宣传为 AI 应用程序。然而，无论我使用这些应用程序或 Copilot 应用程序多少次，我都没有看到我的 NPU 上有任何活动。    提交人    /u/bigppredditguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdohzt/what_do_i_do_with_an_npu/</guid>
+      <pubDate>Tue, 10 Sep 2024 18:05:00 GMT</pubDate>
     </item>
     <item>
       <title>在小型数据集上训练人工智能模型然后部署进行测试的最便宜和最简单的方法是什么？</title>
@@ -125,13 +132,6 @@
       <pubDate>Tue, 10 Sep 2024 00:48:26 GMT</pubDate>
     </item>
     <item>
-      <title>我非常讨厌人工智能。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcl159/i_bloody_hate_ai/</link>
-      <description><![CDATA[我最近要写一篇英文论文。我不骗你，整篇文章都是 100% 人工撰写的，但当我把它放入 AI 检测器时，它显示它有 79% 是 AI 的？？？我压力很大，但第二天就要截止了，所以我什么也做不了，所以我提交了。但不出所料，一周后我被叫到副校长那里。他们使用 AI 检测器查看是否有人使用过 AI，结果他们抓住了我（尽管我没有做错任何事！！）。我试图说服他们，但他们就是不肯让步。我得到了 0 分，不得不重新做作业。但在那之后，我这个笨蛋想起我可以向他们展示我的版本历史记录。所以我照做了，他们道了歉，我得到了 93 分。虽然这个问题最终得到了解决，但我觉得没有必要。每个人都指责我作弊，尽管我知道我没有。 所以基本上我的问题是，AI检测器实际上是如何工作的？我如何停止像chatgpt那样写作，以避免被错误地指控为AI生成。 任何帮助都将不胜感激， 干杯    提交人    /u/SarcasmWasTaken_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcl159/i_bloody_hate_ai/</guid>
-      <pubDate>Mon, 09 Sep 2024 09:06:39 GMT</pubDate>
-    </item>
-    <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fb0j0e/help_rartificialinteligence_get_a_new_logo/</link>
       <description><![CDATA[我们的子版块需要社区的帮助。我们需要一个子版块的徽标！ 我相信你们一定会想出比我们目前拥有的大脑更好的东西。 获得最多点赞的徽标将用作 r/ArtificialInteligence 的徽标 Reddit，做你自己！    提交人    /u/mcr55   [链接] [评论]]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Sep 2024 00:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 03:01:51 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Mist（一种用于去中心化身份的 IAM）的贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fdzu9x/looking_for_contributors_for_mist_an_iam_for/</link>
+      <description><![CDATA[Mist 是一个开源身份和访问管理 (IAM) 平台，旨在弥合自主主权身份 (SSI) 领域内的新兴技术与传统 Web 应用程序之间的差距。传统 OIDC（使用 Facebook 登录）需要第三方（例如 Facebook），而这个不需要。您可以充当自己的提供商并控制自己的数据。 更多信息可以在 GitHub 上找到。简而言之，它旨在成为类似于 Auth0 的去中心化身份。 它还处于开发的早期阶段，现在或多或少是一个概念验证。我非常高兴能够继续致力于此，但我希望能找到其他愿意提供帮助的人。 我意识到这里和 README 中有很多术语，因此如果您有任何疑问，请随时在评论或 DM 中与我们联系。 https://github.com/mist-id/mist    提交人    /u/danny-devs-things   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fdzu9x/looking_for_contributors_for_mist_an_iam_for/</guid>
+      <pubDate>Wed, 11 Sep 2024 02:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我得到了梦想的工作，开发一个开源 Rust 游戏引擎。现在该做什么呢？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fdy2ts/i_landed_my_dream_job_making_an_open_source_rust/</link>
+      <description><![CDATA[       由    /u/alice_i_cecile  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fdy2ts/i_landed_my_dream_job_making_an_open_source_rust/</guid>
+      <pubDate>Wed, 11 Sep 2024 01:06:49 GMT</pubDate>
+    </item>
     <item>
       <title>大家好，我需要你们的智慧</title>
       <link>https://www.reddit.com/r/opensource/comments/1fdwcj2/hello_community_i_need_your_brains/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>我刚刚开源了 Yaak（Postman 的替代品）</title>
       <link>https://www.reddit.com/r/opensource/comments/1fdr9se/i_just_opensourced_yaak_postman_alternative/</link>
-      <description><![CDATA[不久前，我在这个 subreddit 上发布了一篇关于 Yaak 为何不开源的文章。反馈大多是不同意，认为我对 OSS 的看法不是开源而是开放贡献。 经过几个月的思考，我认为这是正确的，所以 Yaak 现在是开源的！（https://github.com/yaakapp/app） 如果您感兴趣的话，这里有一个更长篇幅的推理版本 https://yaak.app/blog/now-open-source    提交人    /u/gschier2   [链接] [评论]]]></description>
+      <description><![CDATA[不久前，我在这个 subreddit 上发布了一篇关于 Yaak 为何不开源的文章。反馈大多是不同意，认为我对 OSS 的看法不是由于开源而是由于开放贡献。 经过几个月的思考，我认为这是正确的，所以 Yaak 现在是开源的！（https://github.com/yaakapp/app） 如果您感兴趣的话，这里有一个更长篇幅的推理版本 https://yaak.app/blog/now-open-source    提交人    /u/gschier2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdr9se/i_just_opensourced_yaak_postman_alternative/</guid>
       <pubDate>Tue, 10 Sep 2024 19:57:49 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>我的新开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1fdljhv/my_new_opensource_project/</link>
-      <description><![CDATA[      嗨，我刚刚分享了一个我制作的新项目，欢迎大家测试和使用它。 我喜欢反馈。  另外不要因为速度慢而讨厌它，它使用所有免费服务。     提交人    /u/ajmal_pro   [链接] [评论] ]]></description>
+      <description><![CDATA[      嗨，我刚刚分享了一个我制作的新项目，欢迎大家测试和使用它。 我喜欢反馈。  也不要因为速度慢而讨厌它，它使用所有免费服务。     提交人    /u/ajmal_pro   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdljhv/my_new_opensource_project/</guid>
       <pubDate>Tue, 10 Sep 2024 16:04:30 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/SleetyWhistle   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fcudl9/were_a_community_building_open_source_evtol/</guid>
       <pubDate>Mon, 09 Sep 2024 16:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>peepDB：开源 CLI 工具，用于快速查看 MySQL、PostgreSQL、MariaDB 数据库表。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcsksc/peepdb_opensource_cli_tool_to_quickly_view_mysql/</link>
-      <description><![CDATA[在从事其他项目时，我发现自己总是必须连接并使用 SELECT * 来查看虚拟条目或新用户。  因此，我构建了 peepDB，这是一个命令行工具和 Python 库（即将推出），旨在快速检查数据库，而无需编写选择 SQL 查询。它支持 MySQL、PostgreSQL 和 MariaDB。如果您有兴趣做出贡献或只是想查看它：  GitHub：https://github.com/evangelosmeklis/peepdb 此外，如果您对项目有任何建议或关于如何改进的意见，请告诉我    提交人    /u/_twelvechess   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcsksc/peepdb_opensource_cli_tool_to_quickly_view_mysql/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:44:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有工作区功能的 Slack 免费替代品（最好不是 Discord）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcrnn5/free_alternative_to_slack_with_workspaces/</link>
-      <description><![CDATA[您好， 我目前负责管理大学社团的通讯，我们正在寻找 Slack 的免费替代方案。Slack 的定价模式对我们来说相当高，免费模式限制颇多，尤其是考虑到其 90 天的消息历史记录限制。 我们正在寻找一种提供与 Slack 的工作区类似功能的工具。我喜欢 Discord 的功能和用户友好界面，但它的不足之处在于 Discord 服务器不提供 Slack 的工作区那样的用户配置文件分离。我们需要每个成员在每个工作区中都有唯一的配置文件，而 Discord 不支持这一点。 根据之前的建议，我研究了其他替代方案，例如 MatterMost 和 RocketChat，但它们也有自己的问题，例如缺乏对频道和类别的适当权限控制，这使得它们不太适合我们的需求。 目前，自托管对我们来说不是一种选择，因此我们希望找到一个免费的基于云的解决方案。 所以，我的问题是：  有没有免费工具提供与 Slack 类似的功能集，具有适当的工作区分离并且成本不高？ 如果我们必须在 Slack 和 Discord 之间做出选择，您会推荐哪一个用于大学俱乐部环境？我个人更喜欢 Discord，因为它的功能和社区方面，但我知道 Slack 可能提供更专业的方法，这也是人们更习惯的，但 90 天的消息限制是一个巨大的限制。  提前感谢您的建议和意见！    提交人    /u/EliteTrainedPro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcrnn5/free_alternative_to_slack_with_workspaces/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:05:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
