@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 11 Sep 2024 12:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:01:51 GMT</lastBuildDate>
+    <item>
+      <title>你应该知道的 5 个 Python 怪异行为</title>
+      <link>https://www.reddit.com/r/programming/comments/1fec644/5_python_weird_behaviours_you_should_know_about/</link>
+      <description><![CDATA[  由    /u/ranacseruet  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fec644/5_python_weird_behaviours_you_should_know_about/</guid>
+      <pubDate>Wed, 11 Sep 2024 14:56:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>现金代码：2024 年全球开发者薪酬大比拼</title>
+      <link>https://www.reddit.com/r/programming/comments/1febi89/code_for_cash_the_2024_global_developer_salary/</link>
+      <description><![CDATA[  由    /u/Complete_Cry2743  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1febi89/code_for_cash_the_2024_global_developer_salary/</guid>
+      <pubDate>Wed, 11 Sep 2024 14:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Copilot 会让程序员的编程水平变得更差</title>
+      <link>https://www.reddit.com/r/programming/comments/1feb9qd/why_copilot_is_making_programmers_worse_at/</link>
+      <description><![CDATA[  由    /u/bizzehdee  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1feb9qd/why_copilot_is_making_programmers_worse_at/</guid>
+      <pubDate>Wed, 11 Sep 2024 14:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>撤销已失效</title>
+      <link>https://www.reddit.com/r/programming/comments/1feb2r5/revocation_is_broken/</link>
+      <description><![CDATA[  由    /u/yawara25  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1feb2r5/revocation_is_broken/</guid>
+      <pubDate>Wed, 11 Sep 2024 14:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>大规模调查 TCP 超时</title>
+      <link>https://www.reddit.com/r/programming/comments/1featdq/investigating_tcp_timeouts_at_scale/</link>
+      <description><![CDATA[  由    /u/itachi_amaterasu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1featdq/investigating_tcp_timeouts_at_scale/</guid>
+      <pubDate>Wed, 11 Sep 2024 13:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试到黎明：Git Bisect 如何拯救我的演示</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe9v4o/debugging_till_dawn_how_git_bisect_saved_my_demo/</link>
+      <description><![CDATA[  由    /u/mikebuss89  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe9v4o/debugging_till_dawn_how_git_bisect_saved_my_demo/</guid>
+      <pubDate>Wed, 11 Sep 2024 13:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 完善架构框架如何支持节俭型架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe99sz/how_aws_wellarchitected_framework_supports_frugal/</link>
+      <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe99sz/how_aws_wellarchitected_framework_supports_frugal/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Puppeteer 创建 Reddit 登录机器人（2024 年更新）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe8hx3/creating_a_reddit_login_bot_with_puppeteer_2024/</link>
+      <description><![CDATA[  由    /u/thro-away145  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe8hx3/creating_a_reddit_login_bot_with_puppeteer_2024/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:07:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mosaico：一个用于自定义 LED 矩阵小部件的免费开源平台！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe8ejn/mosaico_a_free_opensource_platform_for_custom_led/</link>
+      <description><![CDATA[  由    /u/murkrow02  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe8ejn/mosaico_a_free_opensource_platform_for_custom_led/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:02:46 GMT</pubDate>
+    </item>
     <item>
       <title>您对新兴概念“来自代码的基础设施”有何看法？</title>
       <link>https://www.reddit.com/r/programming/comments/1fe7xbe/what_are_your_thoughts_on_the_new_emerging/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/Imaginary-Meet9412  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fdztsp/dynamic_json_api_generator/</guid>
       <pubDate>Wed, 11 Sep 2024 02:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都可以写科技博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdzij7/everyone_can_write_tech_blogs/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdzij7/everyone_can_write_tech_blogs/</guid>
-      <pubDate>Wed, 11 Sep 2024 02:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 的 Laravel 类 Golang Web 框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdwpja/phps_laravel_like_web_framework_for_golang/</link>
-      <description><![CDATA[什么是 goravel？您可以在这里查看：https://github.com/saalikmubeen/goravel 但它基本上是一个像 Laravel for Gophers 一样的固执己见的 Web 框架  Goravel 建立在 Go 的标准库和一些 Go 社区喜爱的流行第三方软件包之上： 用于路由的 Chi Router 用于数据库操作的 Upper/db ORM Jet 模板引擎 用于会话管理的 alexedwards/scs 用于迁移的 golang-migrate  因此，您无需学习任何新知识即可开始使用 Goravel。它是一些已经在 Go 社区中流行的最佳 Go 软件包的集合。 Goravel 将它们包装在一个漂亮的包中，这样您就可以轻松构建 Web 应用程序，而无需从头开始设置所有内容。  这是一个使用 goravel 生成的项目：https://github.com/saalikmubeen/goravel-demo-app 展示如何使用 Goravel 构建具有用户身份验证、缓存管理、发送 JSON 和 XML 响应、发送电子邮件、密码重置、使用 cookie 记住我的功能、API 路由等的应用程序。它将帮助您快速开始使用 Goravel。 它还有一个 cli 工具，可以简化构建 Web 应用程序的过程，只需单击几下即可配置整个后端。 对于那些有时间来看看的人，我很乐意提供一些反馈。   由    /u/saalik_m  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdwpja/phps_laravel_like_web_framework_for_golang/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prediction Guard 如何在英特尔 Gaudi 2 AI 加速器上提供值得信赖的 AI</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdtbxy/how_prediction_guard_delivers_trustworthy_ai_on/</link>
-      <description><![CDATA[  由    /u/WolfofIntel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdtbxy/how_prediction_guard_delivers_trustworthy_ai_on/</guid>
-      <pubDate>Tue, 10 Sep 2024 21:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于搜索命令的命令行工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdt8gg/a_command_line_tool_to_search_for_commands/</link>
-      <description><![CDATA[我制作了这个命令行工具，它允许您按名称或描述搜索命令及其标志。如果您像我一样，在墙上钉了“备忘单”，或者您是终端新手，那么这个工具可能对您有用！ 它是用 Go 编写的，是跨平台的，但技术上并不复杂，但希望有用。它受到 which-key 和 lazygit 的启发，这应该是显而易见的。尝试一下，如果您有任何反馈，请随时提供！    提交人    /u/opusmag_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdt8gg/a_command_line_tool_to_search_for_commands/</guid>
-      <pubDate>Tue, 10 Sep 2024 21:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在多语言项目中结合 Java 和 Rust 代码覆盖率</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdsewc/combine_java_and_rust_code_coverage_in_a_polyglot/</link>
-      <description><![CDATA[  由    /u/kavb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdsewc/combine_java_and_rust_code_coverage_in_a_polyglot/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码签名证书：一种劫持自动化的数字诈骗</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdqill/code_signing_certificates_a_digital_racket_thats/</link>
-      <description><![CDATA[略带讽刺，但绝对是事实！    由    /u/Trollercoasterke 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdqill/code_signing_certificates_a_digital_racket_thats/</guid>
-      <pubDate>Tue, 10 Sep 2024 19:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>肢体的简单性</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdpzc6/the_simplicity_of_a_limb/</link>
-      <description><![CDATA[  由    /u/prospero  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdpzc6/the_simplicity_of_a_limb/</guid>
-      <pubDate>Tue, 10 Sep 2024 19:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我更喜欢异常而不是错误值</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdow27/why_i_prefer_exceptions_to_error_values/</link>
-      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdow27/why_i_prefer_exceptions_to_error_values/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP/2 速度快但增加了复杂性</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdos65/http2_is_fast_but_adds_complexity/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdos65/http2_is_fast_but_adds_complexity/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:16:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
