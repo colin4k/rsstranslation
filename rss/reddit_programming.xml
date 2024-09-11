@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Sep 2024 21:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:03:23 GMT</lastBuildDate>
     <item>
-      <title>我是新手，需要建议</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdsk1j/im_new_and_i_want_advice/</link>
-      <description><![CDATA[你好，我来自叙利亚，我真的很想在编程方面建立自己的事业，但是在这个国家，几乎所有的网站都被屏蔽了，这很难，我想要一些关于如何从零开始的建议，除了一台笔记本电脑和 WiFi 连接外，没有任何资源，任何帮助或建议都将不胜感激👍    提交人    /u/samerrooooo21   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdsk1j/im_new_and_i_want_advice/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:51:03 GMT</pubDate>
+      <title>PHP 的 Laravel 类 Golang Web 框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdwpja/phps_laravel_like_web_framework_for_golang/</link>
+      <description><![CDATA[什么是 goravel？您可以在这里查看：https://github.com/saalikmubeen/goravel 但它基本上是一个像 Laravel for Gophers 一样的固执己见的 Web 框架  Goravel 建立在 Go 的标准库和一些 Go 社区喜爱的流行第三方软件包之上： 用于路由的 Chi Router 用于数据库操作的 Upper/db ORM Jet 模板引擎 用于会话管理的 alexedwards/scs 用于迁移的 golang-migrate  因此，您无需学习任何新知识即可开始使用 Goravel。它是一些已经在 Go 社区中流行的最佳 Go 软件包的集合。 Goravel 将它们包装在一个漂亮的包中，这样您就可以轻松构建 Web 应用程序，而无需从头开始设置所有内容。  这是一个使用 goravel 生成的项目：https://github.com/saalikmubeen/goravel-demo-app 展示如何使用 Goravel 构建具有用户身份验证、缓存管理、发送 JSON 和 XML 响应、发送电子邮件、密码重置、使用 cookie 记住我的功能、API 路由等的应用程序。它将帮助您快速开始使用 Goravel。 它还有一个 cli 工具，可以简化构建 Web 应用程序的过程，只需单击几下即可配置整个后端。 对于那些有时间来看看的人，我很乐意提供一些反馈。   由    /u/saalik_m  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdwpja/phps_laravel_like_web_framework_for_golang/</guid>
+      <pubDate>Tue, 10 Sep 2024 23:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prediction Guard 如何在英特尔 Gaudi 2 AI 加速器上提供值得信赖的 AI</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdtbxy/how_prediction_guard_delivers_trustworthy_ai_on/</link>
+      <description><![CDATA[  由    /u/WolfofIntel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdtbxy/how_prediction_guard_delivers_trustworthy_ai_on/</guid>
+      <pubDate>Tue, 10 Sep 2024 21:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于搜索命令的命令行工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1fdt8gg/a_command_line_tool_to_search_for_commands/</link>
+      <description><![CDATA[我制作了这个命令行工具，它允许您按名称或描述搜索命令及其标志。如果您像我一样，在墙上钉了“备忘单”，或者您是终端新手，那么这个工具可能对您有用！ 它是用 Go 编写的，是跨平台的，但技术上并不复杂，但希望有用。它受到 which-key 和 lazygit 的启发，这应该是显而易见的。尝试一下，如果您有任何反馈，请随时提供！    提交人    /u/opusmag_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fdt8gg/a_command_line_tool_to_search_for_commands/</guid>
+      <pubDate>Tue, 10 Sep 2024 21:19:50 GMT</pubDate>
     </item>
     <item>
       <title>在多语言项目中结合 Java 和 Rust 代码覆盖率</title>
@@ -76,13 +90,6 @@
       <pubDate>Tue, 10 Sep 2024 18:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>Prediction Guard 如何在英特尔® Gaudi® 2 人工智能加速器上提供值得信赖的人工智能</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdoram/how_prediction_guard_delivers_trustworthy_ai_on/</link>
-      <description><![CDATA[  由    /u/WolfofIntel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdoram/how_prediction_guard_delivers_trustworthy_ai_on/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:15:15 GMT</pubDate>
-    </item>
-    <item>
       <title>strtod 很疯狂！</title>
       <link>https://www.reddit.com/r/programming/comments/1fdnwnc/strtod_is_wild/</link>
       <description><![CDATA[  由    /u/turtle_dragonfly  提交  [链接] [评论]]]></description>
@@ -137,13 +144,6 @@
       <description><![CDATA[Sage 最近进行了许多真正重大更新，包括 const 泛型、模块等等！ 查看网站了解有关 Sage 的更多信息！ Sage 很可能会在不久的将来更名，因为 SageMath 已经存在。如果您有任何名称建议，请加入 Discord 并告诉我们！    提交人    /u/adamthekiwi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fdl1dg/the_sage_programming_language/</guid>
       <pubDate>Tue, 10 Sep 2024 15:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Git Pulse 探索开源项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdkwfi/exploring_open_source_projects_with_git_pulse/</link>
-      <description><![CDATA[  由    /u/cylo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdkwfi/exploring_open_source_projects_with_git_pulse/</guid>
-      <pubDate>Tue, 10 Sep 2024 15:38:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

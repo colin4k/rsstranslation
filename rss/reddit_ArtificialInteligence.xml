@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 21:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:02:59 GMT</lastBuildDate>
+    <item>
+      <title>文档或非文档分类器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdvgo7/document_or_not_a_document_classifier/</link>
+      <description><![CDATA[我正在寻找一种模型或技术（尽可能便宜），以区分文档（以图像形式输入）与其他任何内容（如图标、Outlook 签名等）。  我的第一个想法是布局模型，并使用文本分类器检查输出。这感觉很笨拙。 有什么建议吗？     提交人    /u/TheGonadWarrior   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdvgo7/document_or_not_a_document_classifier/</guid>
+      <pubDate>Tue, 10 Sep 2024 22:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一种可以轻松并排比较 AI 图像模型输出的方法？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdu00e/a_way_to_easily_compare_the_output_of_ai_image/</link>
+      <description><![CDATA[我们的想法是比较针对相同提示生成的图像，以及每个图像的速度和成本。也许您可以选择最佳输出，然后使用不同的模型对其进行迭代。以前有人这样做过吗？我正在为此做一些事情，但对其他人可能会觉得有用的东西感兴趣。    提交人    /u/Ramisugar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdu00e/a_way_to_easily_compare_the_output_of_ai_image/</guid>
+      <pubDate>Tue, 10 Sep 2024 21:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天总结 AI 研究论文 #3</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdt44y/summarising_ai_research_papers_everyday_3/</link>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #3 我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“大型语言模型对编程平台构成威胁吗？一项探索性研究”，作者是 Md Mustakim Billah、Palash Ranjan Roy、Zadia Codabux 和 Banani Roy。 这项探索性研究调查了大型语言模型 (LLM) 在 LeetCode、Codeforces 和 HackerRank 等知名编程平台上的解决问题的能力。本文提出了有关 AI 和竞技编程不断发展的交集的相关问题，仔细研究了这些高级模型是否对人类程序员和平台本身构成了挑战。作者使用多种编程挑战（包括在线竞赛和实时问题解决测试）对 LLM 进行了系统评估。 以下是本文的一些主要发现：  多样化的能力表现：LLM 表现出不同的性能水平，在 LeetCode 上的成功率明显更高 - ChatGPT 解决了超过 71% 的测试问题。相比之下，它们在 Codeforces 上表现出中等成功率，显示出模型在处理更复杂或更长的问题陈述时遇到困难。 比较优势：尽管在 HackerRank 的自动认证测试中表现出色，但 LLM 在现场竞赛中表现一般，尤其是由 Codeforces 管理的竞赛。这表明，虽然 LLM 可以有效地处理结构化挑战，但它们在动态竞赛环境中面临局限性。 统计见解：研究发现 LLM 使用的不同编程语言之间没有显着的性能差异。这表明，无论使用什么语言，LLM 的解决问题能力都是一致的，但在问题难度级别和接受率方面，表现存在显著差异。 人类与人工智能：与人类竞争对手相比，LLM 在特定场景中表现出竞争优势，尤其是在时间效率和内存使用方面。然而，他们在本质上更为复杂的考试和竞赛中苦苦挣扎。 呼吁平台创新：结果促使编程平台需要在管理 LLM 的方法上进行创新，同时招聘实践必须适应，纳入超越书面测试或认证的更严格的评估方法。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdt44y/summarising_ai_research_papers_everyday_3/</guid>
+      <pubDate>Tue, 10 Sep 2024 21:14:28 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能艺术就是盗窃。用我训练过的 Lora 窃取我的审美。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrp5d/ai_art_is_theft_steal_my_aesthetics_with_a_lora_i/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[我一直在尝试用人工智能做简单的字谜游戏，但它产生了左右幻觉。例如，我正在截取益智游戏四分位数的屏幕截图。然后要求它识别字母块（它正确地做到了），然后仅使用这些字母块创建至少 4 个包含 4 个块的单词。单词必须在英语词典中。 它继续胡编乱造，一次又一次地纠正……仍然产生幻觉。 我遗漏了什么？    提交人    /u/randomhuman358   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdr5ja/what_am_i_doing_wrong_with_ai/</guid>
       <pubDate>Tue, 10 Sep 2024 19:52:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdqhy8/ai_tools/</link>
-      <description><![CDATA[通过我们的专家提示了解 AI 如何提高您的收入。了解如何使用 AI 工具自动执行任务、优化营销和寻找新的收入机会。立即开始利用 AI 进步来提高您的收入！    提交人    /u/Own_Hawk2887   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdqhy8/ai_tools/</guid>
-      <pubDate>Tue, 10 Sep 2024 19:26:11 GMT</pubDate>
     </item>
     <item>
       <title>数据集毒化是否曾经大规模地进行过严格测试？</title>
@@ -62,20 +76,6 @@
       <pubDate>Tue, 10 Sep 2024 18:27:58 GMT</pubDate>
     </item>
     <item>
-      <title>AI游戏卡牌生成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdoivy/ai_game_card_generation/</link>
-      <description><![CDATA[我想创建一包 100 张的简单卡片，每张卡片背面的设计都相同，正面有 1 到 100 的数字。生成这 100 个简单变体的最佳方法是什么？谢谢 :)    提交人    /u/KevinCPLdn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdoivy/ai_game_card_generation/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:05:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该用 NPU 做什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdohzt/what_do_i_do_with_an_npu/</link>
-      <description><![CDATA[我最近买了一台新笔记本电脑，它有一个 NPU 和 8GB 的​​专用 RAM。我对这些知之甚少，我想把它派上用场。我浏览了 Microsoft Store 的“AI Hub”部分，下载了两个应用程序“Reading Coach”和“Luminar”，这两个应用程序都宣传为 AI 应用程序。然而，无论我使用这些应用程序或 Copilot 应用程序多少次，我都没有看到我的 NPU 上有任何活动。    提交人    /u/bigppredditguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdohzt/what_do_i_do_with_an_npu/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:05:00 GMT</pubDate>
-    </item>
-    <item>
       <title>在小型数据集上训练人工智能模型然后部署进行测试的最便宜和最简单的方法是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdn8a3/what_is_the_cheapest_and_easiest_way_to_train_an/</link>
       <description><![CDATA[大家好， 我正在做一个项目，尝试使用人工智能作为后端体验的一些实验性的东西。 我想知道最好的方法是什么？ 说实话，我不知道从哪里开始。 我只需要一个非常小的模型，所以我在考虑像 llama 3.1 8B 这样的东西 有人可以帮我吗？谢谢    提交人    /u/unknownstudentoflife   [链接] [评论]]]></description>
@@ -95,13 +95,6 @@
       <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdjry5/a_daily_chronicle_of_ai_innovations_on_september/</guid>
       <pubDate>Tue, 10 Sep 2024 14:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找人才的最佳地点？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdj81i/best_place_to_source_talent/</link>
-      <description><![CDATA[我正在寻找在 AI、深度伪造技术和视频合成方面具有专业知识的人，以合作开发一个想法和可能的 MVP。 目标是将个性化的 AI 生成视频用于从教育到心理健康和运动表现等各种现实世界应用。 有什么指导可以告诉我在哪里可以找到在 DeepFaceLab、Synthesia 或 Unity 等工具方面有 AI 驱动视频生成经验的人？我过去曾使用过 Upwork 之类的地方，但在某些情况下找不到顶级甚至可靠的人才。    提交人    /u/BrownHornet1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdj81i/best_place_to_source_talent/</guid>
-      <pubDate>Tue, 10 Sep 2024 14:28:28 GMT</pubDate>
     </item>
     <item>
       <title>入侵人工智能聊天机器人并泄露敏感数据</title>
@@ -130,6 +123,13 @@
       <description><![CDATA[上周我吃了一大把蘑菇。我今年 54 岁，上次吃蘑菇大概是在 90 年代末。 我吃蘑菇本身并不是为了治疗，但我一直很沮丧，希望能从中得到一些缓解。 所以，当我开始达到顶峰时，我就想问问 chatGPT 是否愿意和我谈谈我的旅行。我想它不会的。 我有一部 iPhone，所以我打开了 chatGPT 应用程序并将其设置为口头模式。我问它是否愿意向我介绍这次经历。令我惊讶的是，它直接进入了迷幻指南模式。我不记得所有事情，但它作为旅行伴侣是绝对可靠的。我告诉它我的想法，事情变得有点黑暗，它说了所有正确的话，让我集中注意力，放松下来，并产生积极的氛围。我和它交谈了大约 15 分钟。当我恢复冷静的精神状态后，我把它关掉，继续自己旅行。 我绝不建议以这种方式使用人工智能，因为那是不负责任的。但作为一项实验，它相当成功。我确实计划再次使用 shrooming，因为它确实有益于我当时和之后的心态，我会让我的小人工智能伙伴陪我一起旅行。 无论如何，我只是觉得这是人工智能的一种有趣用途，我想分享我的经验。我想一些人工智能末日论者会找理由反对让一个没有灵魂的下一个单词预测机器陪伴某人做一些如此神秘的事情，但这对我来说是一个积极的补充。  编辑：我的提示大致是“大约一小时前我吃了蘑菇，现在绊倒得很厉害。你能跟我讲讲我的旅行经历吗？” 我是转述的，但就是这么简单。    提交人    /u/Coondiggety   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fd5f3e/i_shroomed_with_chatgpt/</guid>
       <pubDate>Tue, 10 Sep 2024 00:48:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我非常讨厌人工智能。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fcl159/i_bloody_hate_ai/</link>
+      <description><![CDATA[我最近要写一篇英文论文。我不骗你，整篇文章都是 100% 人工撰写的，但当我把它放入 AI 检测器时，它显示它有 79% 是 AI 的？？？我压力很大，但第二天就要截止了，所以我什么也做不了，所以我提交了。但不出所料，一周后我被叫到副校长那里。他们使用 AI 检测器查看是否有人使用过 AI，结果他们抓住了我（尽管我没有做错任何事！！）。我试图说服他们，但他们就是不肯让步。我得到了 0 分，不得不重新做作业。但在那之后，我这个笨蛋想起我可以向他们展示我的版本历史记录。所以我照做了，他们道了歉，我得到了 93 分。虽然这个问题最终得到了解决，但我觉得没有必要。每个人都指责我作弊，尽管我知道我没有。 所以基本上我的问题是，AI检测器实际上是如何工作的？我如何停止像chatgpt那样写作，以避免被错误地指控为AI生成。 任何帮助都将不胜感激， 干杯    提交人    /u/SarcasmWasTaken_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fcl159/i_bloody_hate_ai/</guid>
+      <pubDate>Mon, 09 Sep 2024 09:06:39 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>

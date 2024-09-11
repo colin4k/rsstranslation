@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 10 Sep 2024 21:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:03:31 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我需要你们的智慧</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fdwcj2/hello_community_i_need_your_brains/</link>
+      <description><![CDATA[开源数据在全球范围内被广泛使用，原因有很多。  有没有关于开源数据对公众意识的负面用途的研究。 健康、交通、天气、新闻、信息、教育、日常生活……等等。 附言：重要问题。  谢谢。     提交人    /u/monkey_sigh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fdwcj2/hello_community_i_need_your_brains/</guid>
+      <pubDate>Tue, 10 Sep 2024 23:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 SDK 和协议来构建联合应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fduktk/i_made_an_sdk_and_protocol_to_build_federated_apps/</link>
+      <description><![CDATA[我对构建连接应用程序（托管、身份验证、数据库......）所需的样板感到沮丧，而且我的数据在我使用的所有不同服务之间如此孤立，所以我构建了解决这个问题的工具！它被称为BAQ，我今天发布了第一个版本。 它包括一个 React SDK，可以无缝构建 Web 和移动应用程序，并在客户端之间进行实时同步，并且很快会有一个开源服务器来托管您自己的数据。 让我知道你的想法！ GitHub：https://github.com/baqhub/baq 主页：https://baq.dev/   由    /u/quentez2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fduktk/i_made_an_sdk_and_protocol_to_build_federated_apps/</guid>
+      <pubDate>Tue, 10 Sep 2024 22:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - ariasql/ariasql：AriaSQL 关系数据库管理系统。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fdtkbt/github_ariasqlariasql_the_ariasql_relational/</link>
+      <description><![CDATA[       由    /u/diagraphic  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fdtkbt/github_ariasqlariasql_the_ariasql_relational/</guid>
+      <pubDate>Tue, 10 Sep 2024 21:34:01 GMT</pubDate>
+    </item>
     <item>
       <title>对使用文本转语音的开源 RSS 阅读器感兴趣吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fdsjek/interest_in_an_open_source_rss_reader_that_uses/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>愚蠢的菜鸟问题：开源是否更容易受到黑客攻击？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</link>
-      <description><![CDATA[我想知道，由于代码是公开可见的，漏洞是否应该更容易被发现？提前致谢，抱歉，这是新手的问题。:)    提交人    /u/Longjumping-Bar393   [link] [评论]]]></description>
+      <description><![CDATA[我想知道，如果代码是公开可见的，漏洞会不会更容易被发现？提前致谢，抱歉，这是新手的问题。:)    提交人    /u/Longjumping-Bar393   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</guid>
       <pubDate>Tue, 10 Sep 2024 20:42:57 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[您好， 我目前负责管理大学社团的通讯，我们正在寻找 Slack 的免费替代方案。Slack 的定价模式对我们来说相当高，免费模式限制颇多，尤其是考虑到其 90 天的消息历史记录限制。 我们正在寻找一种提供与 Slack 的工作区类似功能的工具。我喜欢 Discord 的功能和用户友好界面，但它的不足之处在于 Discord 服务器不提供 Slack 的工作区那样的用户配置文件分离。我们需要每个成员在每个工作区中都有唯一的配置文件，而 Discord 不支持这一点。 根据之前的建议，我研究了其他替代方案，例如 MatterMost 和 RocketChat，但它们也有自己的问题，例如缺乏对频道和类别的适当权限控制，这使得它们不太适合我们的需求。 目前，自托管对我们来说不是一种选择，因此我们希望找到一个免费的基于云的解决方案。 所以，我的问题是：  有没有免费工具提供与 Slack 类似的功能集，具有适当的工作区分离并且成本不高？ 如果我们必须在 Slack 和 Discord 之间做出选择，您会推荐哪一个用于大学俱乐部环境？我个人更喜欢 Discord，因为它的功能和社区方面，但我知道 Slack 可能提供更专业的方法，这也是人们更习惯的，但 90 天的消息限制是一个巨大的限制。  提前感谢您的建议和意见！    提交人    /u/EliteTrainedPro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fcrnn5/free_alternative_to_slack_with_workspaces/</guid>
       <pubDate>Mon, 09 Sep 2024 15:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>提取和分析公司财务状况的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcn7th/a_tool_for_extracting_and_analyzing_a_companys/</link>
-      <description><![CDATA[       由    /u/NextgenAITrading  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcn7th/a_tool_for_extracting_and_analyzing_a_companys/</guid>
-      <pubDate>Mon, 09 Sep 2024 11:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Firebase 备忘单</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcmw10/i_made_a_firebase_cheat_sheet/</link>
-      <description><![CDATA[  由    /u/Rutter_Boy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcmw10/i_made_a_firebase_cheat_sheet/</guid>
-      <pubDate>Mon, 09 Sep 2024 11:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>停车场和人工智能初创公司未能开源其代码。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fcmk19/failed_parking_lot_ai_startup_to_open_source/</link>
-      <description><![CDATA[大家好！ 我今年 19 岁，两年前我开始开发一款应用，旨在帮助司机在拥挤繁忙的城市中找到可用的停车位。我的想法是使用 AI 和 CCTV 摄像头来找到它们。 几个月后，AI 模型开始在波兰的第一批停车场上工作，很快我开始在年轻人的比赛中赢得一些奖项，今年 5 月，我被派往洛杉矶参加世界上最大的科学与技术竞赛。技术竞赛——ISEF Regeneron。 然而，事实证明现实完全不同，没有一个城市愿意合作并共享摄像头访问权限。 我在 5 月份的比赛结束后就放弃了，学到了很多教训，但现在是时候转向其他事情了。 今天，9 月 9 日，我想通过将其开源与大家分享。 Github：https://github.com/gbaranski/wheretopark 如果您有兴趣，我还写了一篇关于该项目的博客文章。    提交人    /u/gbaranski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fcmk19/failed_parking_lot_ai_startup_to_open_source/</guid>
-      <pubDate>Mon, 09 Sep 2024 10:55:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

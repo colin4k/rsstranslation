@@ -4,107 +4,99 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 20:58:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 23:50:58 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 标题：Stratovision</title>
-      <link>https://t.me/hn_summary/107866</link>
-      <description><![CDATA[Stratovision
-标题：Stratovision
+      <title>问 HN：对于可拆卸、可充电电池标准有什么希望吗？</title>
+      <link>https://t.me/hn_summary/107886</link>
+      <description><![CDATA[问 HN：可拆卸、可充电电池标准还有希望吗？
+标题：问 HN：可拆卸、可充电电池标准还有希望吗？
+网站：news.ycombinator.com
 
-网站：en.wikipedia.org
-
-Stratovision 是一种创新的机载电视传输中继系统，由 Glenn L. Martin 公司和西屋电气公司于 1945 年开发。该概念涉及使用高空飞行的飞机为美国各地的农村和大都市地区提供电视覆盖。虽然从未全面实施，但 Stratovision 已在国内广播和军事行动中使用，尤其是在越南战争期间的南越。 1948-1949 年的测试证明了其潜力，一架 B-29 超级堡垒轰炸机从巴尔的摩的 WMAR-TV 转播信号。尽管前景光明，但该系统面临着技术和法律挑战，导致其随着光纤和卫星广播的兴起而衰落。值得注意的是，在 1999 年北约轰炸南斯拉夫期间，EC-130 突击队 Solo 使用 Stratovision 进行宣传，但收效甚微。]]></description>
-      <guid>https://t.me/hn_summary/107866</guid>
-      <pubDate>Tue, 10 Sep 2024 20:58:55 GMT</pubDate>
+作者对各种家用物品（如电动工具、吸尘器和儿童玩具）的可拆卸、可充电电池缺乏标准化表示沮丧。尽管许多电池具有相似的电压和电流，但由于适配器不同，它们无法互换。作者质疑我们是否会看到类似于 AA/AAA 电池的标准化电池组，从而简化使用和更换。与没有标准化 AA/AAA 电池的世界相比，突出了当前情况的荒谬性。这种标准化的呼吁既实用又发人深省，强调了当前系统的不便和低效。]]></description>
+      <guid>https://t.me/hn_summary/107886</guid>
+      <pubDate>Tue, 10 Sep 2024 23:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>Unicode 标准 16.0 版已经发布，其中有 5 个重要更新，[...]</title>
-      <link>https://t.me/hn_summary/107865</link>
-      <description><![CDATA[Unicode 标准，版本 16.0
-Unicode 标准版本 16.0 已发布，包含 5,185 个新字符，这是一次重大更新。其中包括 3,995 个额外的埃及象形文字、7 个新脚本、7 个新表情符号以及来自传统计算环境的 700 多个符号，使总数达到 154,998 个字符。值得注意的是，已添加超过 36,000 个 CJK 统一表意文字的新日语源参考。核心规范现已在线提供，导航功能得到增强。已引入两个新附件，UAX #53（阿拉伯标记渲染）和 UAX #57（Unicode 埃及象形文字数据库）。有关更多详细信息，请访问 Unicode 网站。此外，您可以采用一个角色或表情符号来支持 Unicode 的使命，并且捐款可能有资格获得减税。]]></description>
-      <guid>https://t.me/hn_summary/107865</guid>
-      <pubDate>Tue, 10 Sep 2024 20:50:46 GMT</pubDate>
+      <title>语义书签管理器是一个 Web 应用程序，旨在使用语义来管理书签 [...]</title>
+      <link>https://t.me/hn_summary/107885</link>
+      <description><![CDATA[显示 HN：语义书签管理器
+语义书签管理器是一款 Web 应用程序，旨在使用语义搜索管理书签，解决传统书签管理器混乱且难以导航的常见问题。与分类系统不同，它通过消除手动组织来简化用户体验。它使用 Flask 和最少的 CSS/JavaScript 构建，设置快速且易于使用。主要功能包括添加多个书签、自动抓取内容、生成摘要、使用 RAG 技术进行语义搜索以及用于集成的 API 端点。它支持 Google Gemini 和 Ollama 模型进行嵌入和语言处理。该项目根据 MIT 许可开源，欢迎贡献。]]></description>
+      <guid>https://t.me/hn_summary/107885</guid>
+      <pubDate>Tue, 10 Sep 2024 23:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 题为“Pixhell 攻击：通过‘Singing Pix’从气隙计算机泄露信息”的论文 [...]</title>
-      <link>https://t.me/hn_summary/107864</link>
-      <description><![CDATA[Pixhell 攻击：通过“唱歌像素”从隔离计算机泄露信息
-arxiv.org 上的论文“Pixhell 攻击：通过“唱歌像素”从隔离计算机泄露信息”探讨了一种新颖的网络攻击方法，攻击者可以使用屏幕像素从隔离计算机窃取数据。通过以特定模式操纵像素的亮度，屏幕会发出高频声音，附近的智能手机或麦克风可以捕捉到这些声音。这种被称为“唱歌像素”的方法独特而巧妙，因为它利用视觉显示绕过了传统的安全措施。争议在于，此类攻击可能会破坏依赖隔离系统保护的高度安全环境。]]></description>
-      <guid>https://t.me/hn_summary/107864</guid>
-      <pubDate>Tue, 10 Sep 2024 20:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器渴望：适用于带有两个 SID 芯片的改进型 C64 的 4 KB 音乐盘</title>
-      <link>https://t.me/hn_summary/107863</link>
-      <description><![CDATA[Machine Yearning：适用于配备两个 SID 芯片的改进型 C64 的 4 KB 音乐盘
-“Machine Yearning”是一款 4 KB 音乐盘，专为配备两个 SID 芯片的改进型 Commodore 64 (C64) 设计。这张专辑在 Creative Commons CC-BY-NC 4.0 下可用，探索了人类创造力与机器限制之间的相互作用。由 SID FX 等第三方硬件支持的双 SID 设置允许同时使用旧 (6581) 和新 (8580) SID 芯片，从而增强了音乐的复杂性。这七首歌曲被压缩成一个可执行文件，利用共享的播放程序和数据相似性来适应 4 KB 的限制。音乐是通过虚拟机生成的，节奏和旋律来自数据表和移位寄存器。歌曲标题源自 C64 错误消息，增加了一个象征层，反映了机器内部的“不安的灵魂”。这个项目证明了技术与艺术之间错综复杂的关系。
+      <title>[媒体] 标题：佛罗里达州政府派出警察恐吓投票倡议请愿支持者</title>
+      <link>https://t.me/hn_summary/107884</link>
+      <description><![CDATA[佛罗里达州政府派出警察恐吓投票倡议请愿书支持者
+标题：佛罗里达州政府派出警察恐吓投票倡议请愿书支持者
 
-争议：双 SID 芯片的使用及其所涉及的技术复杂性可能不会得到纯粹主义者的普遍认可，正如对假立体声的评论所表明的那样。
+网站：www.techdirt.com
 
-独特/巧妙：使用 C64 错误消息作为歌曲标题以及将复杂音乐压缩到 4 KB 的压缩技术特别巧妙。]]></description>
-      <guid>https://t.me/hn_summary/107863</guid>
-      <pubDate>Tue, 10 Sep 2024 20:47:38 GMT</pubDate>
+据报道，在州长罗恩·德桑蒂斯的领导下，佛罗里达州政府派出警察前往签署支持堕胎选择权投票倡议请愿书的个人家中。该倡议旨在推翻佛罗里达州目前的六周堕胎禁令。李县的多名居民报告称，执法人员曾上门拜访，他们掌握了他们的详细个人信息。这种针对疑似请愿欺诈的强硬态度非常不寻常，与通过传票或法庭诉讼处理此类问题的更常见做法形成鲜明对比。批评者认为，这是公然恐吓和压制反对德桑蒂斯反堕胎立场的人的企图。争议在于执法人员被用作政治恐吓手段，引发了人们对民主进程和公民自由受到侵蚀的担忧。]]></description>
+      <guid>https://t.me/hn_summary/107884</guid>
+      <pubDate>Tue, 10 Sep 2024 23:16:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.wired.com</title>
-      <link>https://t.me/hn_summary/107862</link>
-      <description><![CDATA[为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕
-标题：为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕
-网站：www.wired.com
-
-埃隆·马斯克最近在 X 上分享了一张卡玛拉·哈里斯打扮成“共产主义独裁者”的人工智能生成的拙劣图像，突显了人工智能在准确描绘副总统方面所面临的困难。这幅图像很可能是由 X 的 Grok 工具创建的，与哈里斯几乎没有相似之处，许多用户指出，它看起来更像是一个随机的拉丁裔女性或女演员伊娃·朗格利亚。这一问题还延伸到哈里斯的其他 AI 生成图像，这些图像通常具有不一致的外观，而唐纳德·特朗普的图像则更准确。这种差异归因于与特朗普相比，可用于 AI 训练的哈里斯标记良好的图像较少。尽管哈里斯是一位知名人物，但她并没有被广泛拍摄，这使她成为 AI 界的“新名人”。这凸显了当前 AI 图像生成技术的一个重大局限性。]]></description>
-      <guid>https://t.me/hn_summary/107862</guid>
-      <pubDate>Tue, 10 Sep 2024 20:33:29 GMT</pubDate>
+      <title>[媒体] 我们很高兴推出 Chai-1，这是一种突破性的多模式基础模型 [...]</title>
+      <link>https://t.me/hn_summary/107883</link>
+      <description><![CDATA[Chai-1 击败 AlphaFold 3
+我们很高兴推出 Chai-1，这是一种用于分子结构预测的突破性多模态基础模型，在药物发现的关键任务中表现出色。Chai-1 支持对蛋白质、小分子、DNA、RNA 等的统一预测，并且可以通过 Web 界面免费访问以供商业使用。值得注意的是，Chai-1 在 PoseBusters 基准测试中的成功率超过 AlphaFold 3，为 77%，并且在多聚体折叠方面实现了卓越的准确性，而无需进行多次序列比对 (MSA)。这种独特的功能使其与现有工具区别开来。此外，Chai-1 可以整合实验室数据，以显著提高性能，特别是在抗体-抗原结构预测方面。我们正在发布该模型及其代码以供非商业使用，以促进研究和工业界的合作。我们的使命是将生物学转化为工程学，而我们才刚刚起步。有关更多详细信息，请访问我们的技术报告，并在 lab.chaidiscovery.com 或 github.com/chaidiscovery/chai-lab 上试用 Chai-1。]]></description>
+      <guid>https://t.me/hn_summary/107883</guid>
+      <pubDate>Tue, 10 Sep 2024 22:53:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 向所有阅读列表的实体问好！</title>
-      <link>https://t.me/hn_summary/107861</link>
-      <description><![CDATA[最近 Tor 出口节点运营商在德国的突袭和法律骚扰
-大家好！
-
-2024 年 8 月 16 日，德国警方再次突袭了我们组织 Artikel 5 e.V. 的家和办公室，因为他们误以为骚扰 Tor 出口节点运营商会导致 Tor 用户匿名化。这是继 2017 年的一次类似突袭之后的又一次突袭。幸运的是，突袭小组这次得到了更多信息，没有查获任何硬件，尽管他们确实拿走了一些账单文件。尽管如此，武装警察的存在还是威胁到了非营利组织董事会成员的生计。因此，我不再愿意为我们的非政府组织提供我的个人地址。我们呼吁在 2024 年 9 月 21 日召开一次大会，讨论未来的选择，包括可能停止运营或清算该组织。活动和流程的详细信息将在我们的网站上提供。
-
-此致，
-Gero Kühn
-代表 Artikel 5 e.V.]]></description>
-      <guid>https://t.me/hn_summary/107861</guid>
-      <pubDate>Tue, 10 Sep 2024 20:33:26 GMT</pubDate>
+      <title>[媒体] 最好的指针标记方法是什么？</title>
+      <link>https://t.me/hn_summary/107882</link>
+      <description><![CDATA[最佳指针标记方法是什么？
+在这篇文章中，我们深入研究了指针标记，这是一种将元数据编码为字大小的指针的技术，允许在机器寄存器中高效传递紧凑的表示。这在动态编程语言中特别有用，但可以广泛应用。我们探索了各种标记方法：低位、低字节、高字节、高位和 NaN 装箱，每种方法都有自己的优点和权衡。基准测试显示，虽然对齐位标记由于编译器优化而优于零标记，但其他标记根据所使用的指令集和编译器显示出不同的结果。值得注意的是，GCC 比 LLVM 更好地优化了某些操作，从而导致性能差异。这篇文章强调，虽然这些微优化可能很重要，但内存访问模式和缓存行为通常对整体性能有更大的影响。因此，真实世界的基准测试对于确定特定工作负载的最佳方法至关重要。（基于 92% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/107882</guid>
+      <pubDate>Tue, 10 Sep 2024 22:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国国家公路交通安全管理局（NHTSA）提出了一项突破性的[...]</title>
-      <link>https://t.me/hn_summary/107860</link>
-      <description><![CDATA[美国终于瞄准卡车膨胀问题
-美国国家公路交通安全管理局 (NHTSA) 提出了具有突破性的新车辆规则，旨在减少行人死亡，针对 SUV 和卡车越来越大的趋势。这是 50 多年来 NHTSA 首次要求改变车辆设计以增强行人安全。拟议的规则将更新联邦机动车安全标准 (FMVSS)，包括模拟头部与引擎盖碰撞的测试程序，每年可能挽救多达 67 人的生命。安全倡导者，如 David Zipper 和 Angie Schmitt，对这一举措表示赞赏，但强调这只是解决行人死亡人数不断上升问题所需的更广泛解决方案的一部分，2013 年至 2022 年间，行人死亡人数激增了 57%。争议在于汽车行业更注重技术而非设计变革，这是由大型车辆的更高利润率推动的。批评者认为，美国在行人安全措施方面仍落后于欧洲。]]></description>
-      <guid>https://t.me/hn_summary/107860</guid>
-      <pubDate>Tue, 10 Sep 2024 20:26:18 GMT</pubDate>
+      <title>[媒体] 甲骨文公司董事长兼联合创始人拉里·埃里森在 [...] 期间发表了令人惊讶的声明。</title>
+      <link>https://t.me/hn_summary/107881</link>
+      <description><![CDATA[Oracle 设计由核反应堆驱动的数据中心
+Oracle 董事长兼联合创始人拉里·埃里森 (Larry Ellison) 在公司财报电话会议上宣布了一项令人惊讶的消息，透露计划设计一个由下一代核技术驱动的数据中心。埃里森强调了人工智能对电力的“疯狂”需求，并表示数据中心将需要超过 1 千兆瓦的电力，由三个小型模块化核反应堆提供。这些反应堆仍处于开发阶段，预计要到 2030 年代才会在美国商业化，有望提供可靠的无碳能源。数据中心和反应堆的位置仍未公开。此举凸显了数据中心日益增长的能源需求以及正在考虑满足这些需求的创新解决方案。]]></description>
+      <guid>https://t.me/hn_summary/107881</guid>
+      <pubDate>Tue, 10 Sep 2024 22:36:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“成像和视觉扩散模型教程”中，Stanley H.</title>
-      <link>https://t.me/hn_summary/107859</link>
-      <description><![CDATA[成像和视觉扩散模型教程
-在“成像和视觉扩散模型教程”中，Stanley H. Chan 探讨了生成工具的快速进步，特别是侧重于文本到图像和文本到视频的生成。本教程深入探讨了扩散的概念，这是一种解决了以前方法的几个局限性的采样机制。本教程面向本科生和研究生，为那些有兴趣研究或将扩散模型应用于各种问题的人提供了全面的指南。本文强调了扩散模型在成像和视觉领域的变革潜力，强调了它们在克服过去挑战方面的重要性。]]></description>
-      <guid>https://t.me/hn_summary/107859</guid>
-      <pubDate>Tue, 10 Sep 2024 20:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] DJI Neo 是一款多功能无人机，其核心概念借鉴了 [...]</title>
-      <link>https://t.me/hn_summary/107858</link>
-      <description><![CDATA[DJI Neo 评测——一款无所不能、可轻松降落的无人机
-DJI Neo 是一款多功能无人机，其核心概念借鉴了 HoverAir X1 等竞争对手，但旨在通过大量功能超越它们。虽然不是革命性的，但它提供了 4K 摄像头、AI 驱动的“自拍”功能以及通过 DJI 的 RC-N3 控制器进行手动控制的选项。这种灵活性使其有别于竞争对手。这款无人机坚固耐用，具有坚固的框架和可拆卸的螺旋桨护罩，设计易于使用，即使是儿童也可以使用。然而，它的图像质量不错但并不出众，而且 AI 跟踪在快速移动的物体上可能会遇到困难。Neo 的价值主张很强，尤其是它的价格实惠且功能丰富。尽管软件方面有些问题，飞行时间也比较平均，但其性价比还是很高，因此对于初学者和普通用户来说都是一个不错的选择。
+      <title>[媒体] Ceph：边缘存储领域 20 年的领先者</title>
+      <link>https://t.me/hn_summary/107880</link>
+      <description><![CDATA[Ceph：20 年尖端边缘存储
+Ceph：20 年尖端边缘存储
 
-争议：这款无人机的人工智能跟踪有时会在快速移动的物体上失败，这可能会让一些用户望而却步。
-
-独特/巧妙：这款无人机既可以作为“自拍无人机”控制，也可以作为传统无人机控制，在同类产品中具有无与伦比的灵活性。]]></description>
-      <guid>https://t.me/hn_summary/107858</guid>
-      <pubDate>Tue, 10 Sep 2024 20:07:06 GMT</pubDate>
+在 OpenInfra 亚洲峰会的主题演讲中，CLYSO 首席技术官兼 Ceph 执行委员会成员 Dan van der Ster 强调，截至 2023 年，82% 的开放基础设施用户使用 Ceph 进行数据存储。Ceph 最初是加州大学圣克鲁斯分校 Sage Weil 的一个学生项目，现已发展成为一个全面的存储解决方案。Ceph 最初得到劳伦斯利弗莫尔国家实验室等主要机构的支持，引入了分布式对象存储、解耦数据和元数据以及 CRUSH 算法等创新功能。DreamHost 和 Red Hat 在其开发和企业采用中发挥了关键作用。 Ceph 独特的数据复制和可靠性方法可确保高可用性和快速恢复。Linux 基金会于 2018 年成立的 Ceph 基金会继续推动其成功。随着 Ceph 进入第三个十年，它有望成为人工智能和机器学习领域的关键参与者，使其成为现代数据存储需求不可或缺的一部分。]]></description>
+      <guid>https://t.me/hn_summary/107880</guid>
+      <pubDate>Tue, 10 Sep 2024 22:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] SQLite 经常被视为“玩具”数据库，但事实远非如此。</title>
-      <link>https://t.me/hn_summary/107857</link>
-      <description><![CDATA[SQLite 不是玩具数据库
-SQLite 经常被认为是“玩具”数据库，但事实并非如此。它是全球部署最广泛的 DBMS，集成到所有主要操作系统中。SQLite 是无服务器的，可以直接嵌入到应用程序中，这对开发人员来说非常方便。对于数据分析师和其他人员，它提供了一个强大的控制台 (REPL)，支持以各种格式（如 SQL、CSV、JSON、Markdown 和 HTML）导入/导出数据。它擅长处理 JSON，支持高级 SQL 功能（如 CTE、集合操作和生成的列），并且可以使用扩展执行复杂的统计计算。SQLite 的多功能性和性能使其成为各种数据任务的强大工具，挑战了它仅仅是“玩具”数据库的误解。 （根据 61% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/107857</guid>
-      <pubDate>Tue, 10 Sep 2024 20:02:00 GMT</pubDate>
+      <title>[媒体] 在 cedardb.com 上的“为什么我更喜欢异常而不是错误值”一文中，作者认为 [...]</title>
+      <link>https://t.me/hn_summary/107879</link>
+      <description><![CDATA[为什么我更喜欢异常而不是错误值
+在cedardb.com上的“为什么我更喜欢异常而不是错误值”中，作者认为在处理编程中的错误时，异常优于错误值。他们强调，传统的面向对象语言使用异常来中断控制流并立即报告错误，而 Go 和 Rust 等较新的语言则使用函数式错误报告，将错误嵌入返回类型中。作者发现异常更易于使用，从而可以更好地向用户显示错误消息并提高代码性能。他们提供了比较 C++ 异常和 Rust 错误处理的示例，显示了异常的显著性能优势。作者还批评了函数式错误处理的冗长和套路，指出异常简化了错误管理并减少了代码混乱。他们强调异常允许优雅地处理错误，尤其是在服务器端应用程序中，并认为异常不应该像它们经常那样名声不好。
+
+争议：作者挑战了函数式错误处理的流行趋势，认为它比异常效率低且更麻烦。
+
+令人惊讶/聪明：性能比较显示 C++ 异常比 Rust 的错误处理快 5 倍，这一点尤其引人注目。（基于 78% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/107879</guid>
+      <pubDate>Tue, 10 Sep 2024 22:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] K1 Investment Management 收购了企业数据库解决方案领导者 MariaDB [...]</title>
+      <link>https://t.me/hn_summary/107878</link>
+      <description><![CDATA[K1 收购 MariaDB
+K1 Investment Management 收购了企业数据库解决方案领域的领导者 MariaDB，旨在加速其增长和创新。MariaDB 为德意志银行和美国国防部等近 700 家客户提供服务，以其可扩展且可靠的数据库产品而闻名。此次收购带来了新的领导层，Rohit de Souza 出任首席执行官，接替 Paul O&#39;Brien，后者将继续担任顾问。K1 的投资将支持 MariaDB 即将发布的产品，例如矢量搜索和 Kubernetes Operator，以满足 AI 和云原生趋势。此举是 K1 投资高增长软件公司的更广泛战略的一部分。]]></description>
+      <guid>https://t.me/hn_summary/107878</guid>
+      <pubDate>Tue, 10 Sep 2024 22:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在评估 Gerrit Code Review 时，作者强调了“interdiff”协作的好处 [...]</title>
+      <link>https://t.me/hn_summary/107877</link>
+      <description><![CDATA[为什么我们中的一些人喜欢“interdiff”代码审查系统（而不是 GitHub）
+在评估 Gerrit 代码审查时，作者强调了“interdiff”代码审查系统相对于 GitHub 的“diff soup”方法的优势。Gerrit 是一种开源工具，它允许对更改和增量审查进行逻辑分离，从而简化了对代码的理解和维护。GitHub 的方法鼓励在现有提交之上添加新的提交，这通常会导致提交历史混乱，从而使 git blame 和 git bisect 等工具变得复杂。作者认为，“interdiff”审查（提交新版本的补丁而不是额外的提交）保持了清晰度和出处，使代码更易于审查和调试。对 GitHub 的用户体验和工作流程设计的批评是一个值得注意的争论点。（基于 81% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/107877</guid>
+      <pubDate>Tue, 10 Sep 2024 21:59:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
