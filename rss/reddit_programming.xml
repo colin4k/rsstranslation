@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 11 Sep 2024 03:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 06:01:57 GMT</lastBuildDate>
+    <item>
+      <title>使用 CMake 编写和运行第一个 C++ 项目的指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe33cs/guide_to_writing_and_running_your_first_c_project/</link>
+      <description><![CDATA[  由    /u/Apart_Act_9260  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe33cs/guide_to_writing_and_running_your_first_c_project/</guid>
+      <pubDate>Wed, 11 Sep 2024 05:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Python 和 Ruby 中注入系统调用故障</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe2s0e/injecting_syscall_faults_in_python_and_ruby/</link>
+      <description><![CDATA[  由    /u/sYnfo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe2s0e/injecting_syscall_faults_in_python_and_ruby/</guid>
+      <pubDate>Wed, 11 Sep 2024 05:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>OAuth 2.1 已发布：你需要了解的内容</title>
+      <link>https://www.reddit.com/r/programming/comments/1fe1upd/oauth_21_is_here_what_you_need_to_know/</link>
+      <description><![CDATA[  由    /u/Reasonable-Ice6455  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fe1upd/oauth_21_is_here_what_you_need_to_know/</guid>
+      <pubDate>Wed, 11 Sep 2024 04:34:18 GMT</pubDate>
+    </item>
     <item>
       <title>动态 JSON API 生成器</title>
       <link>https://www.reddit.com/r/programming/comments/1fdztsp/dynamic_json_api_generator/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/thewritingwallah  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fdl8z7/how_shopify_manages_its_petabyte_scale_mysql/</guid>
       <pubDate>Tue, 10 Sep 2024 15:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sage 编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdl1dg/the_sage_programming_language/</link>
-      <description><![CDATA[Sage 最近进行了许多真正重大更新，包括 const 泛型、模块等等！ 查看网站了解有关 Sage 的更多信息！ Sage 很可能会在不久的将来更名，因为 SageMath 已经存在。如果您有任何名称建议，请加入 Discord 并告诉我们！    提交人    /u/adamthekiwi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdl1dg/the_sage_programming_language/</guid>
-      <pubDate>Tue, 10 Sep 2024 15:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Git Pulse 探索开源项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdkwfi/exploring_open_source_projects_with_git_pulse/</link>
-      <description><![CDATA[  由    /u/cylo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdkwfi/exploring_open_source_projects_with_git_pulse/</guid>
-      <pubDate>Tue, 10 Sep 2024 15:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>良好的软件开发习惯</title>
-      <link>https://www.reddit.com/r/programming/comments/1fdkv8n/good_software_development_habits/</link>
-      <description><![CDATA[  由    /u/iloveafternoonnaps  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fdkv8n/good_software_development_habits/</guid>
-      <pubDate>Tue, 10 Sep 2024 15:37:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
