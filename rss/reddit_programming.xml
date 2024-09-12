@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 12 Sep 2024 00:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 03:02:08 GMT</lastBuildDate>
+    <item>
+      <title>pipefunc：纯 Python 中的基于 DAG 的极简管道管理</title>
+      <link>https://www.reddit.com/r/programming/comments/1fesek8/pipefunc_minimalist_dagbased_pipeline_management/</link>
+      <description><![CDATA[  由    /u/basnijholt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fesek8/pipefunc_minimalist_dagbased_pipeline_management/</guid>
+      <pubDate>Thu, 12 Sep 2024 02:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制粘贴敏捷的时代已经结束</title>
+      <link>https://www.reddit.com/r/programming/comments/1feqk2x/the_era_of_copypaste_agile_is_over/</link>
+      <description><![CDATA[  由   ​​ /u/signalbound  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1feqk2x/the_era_of_copypaste_agile_is_over/</guid>
+      <pubDate>Thu, 12 Sep 2024 01:15:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我选择 Node.js 作为我的副业（尽管 .NET C# 仍然是我的日常工作）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fep75s/why_i_chose_nodejs_for_my_side_project_even/</link>
+      <description><![CDATA[  由    /u/twistorino  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fep75s/why_i_chose_nodejs_for_my_side_project_even/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:08:18 GMT</pubDate>
+    </item>
     <item>
       <title>伪造密码管理器编码测试用于攻击 Python 开发人员</title>
       <link>https://www.reddit.com/r/programming/comments/1femdu2/fake_password_manager_coding_test_used_to_hack/</link>
@@ -55,7 +76,7 @@
       <pubDate>Wed, 11 Sep 2024 18:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>是时候实现可观察性版本了吗？（迹象表明是）• Charity Majors</title>
+      <title>是时候实现可观察性版本了吗？（迹象表明是的）• Charity Majors</title>
       <link>https://www.reddit.com/r/programming/comments/1fehlk4/is_it_time_to_version_observability_signs_point/</link>
       <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fehlk4/is_it_time_to_version_observability_signs_point/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/mikebuss89  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fe9v4o/debugging_till_dawn_how_git_bisect_saved_my_demo/</guid>
       <pubDate>Wed, 11 Sep 2024 13:15:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 完善架构框架如何支持节俭型架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1fe99sz/how_aws_wellarchitected_framework_supports_frugal/</link>
-      <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fe99sz/how_aws_wellarchitected_framework_supports_frugal/</guid>
-      <pubDate>Wed, 11 Sep 2024 12:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Puppeteer 创建 Reddit 登录机器人（2024 年更新）</title>
-      <link>https://www.reddit.com/r/programming/comments/1fe8hx3/creating_a_reddit_login_bot_with_puppeteer_2024/</link>
-      <description><![CDATA[  由    /u/thro-away145  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fe8hx3/creating_a_reddit_login_bot_with_puppeteer_2024/</guid>
-      <pubDate>Wed, 11 Sep 2024 12:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mosaico：一个用于自定义 LED 矩阵小部件的免费开源平台！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fe8ejn/mosaico_a_free_opensource_platform_for_custom_led/</link>
-      <description><![CDATA[  由    /u/murkrow02  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fe8ejn/mosaico_a_free_opensource_platform_for_custom_led/</guid>
-      <pubDate>Wed, 11 Sep 2024 12:02:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

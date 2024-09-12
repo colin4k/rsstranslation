@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Sep 2024 00:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 03:02:14 GMT</lastBuildDate>
+    <item>
+      <title>寻找兼容 Android 11 的开源健身追踪器和计步器以替代 Google Fit</title>
+      <link>https://www.reddit.com/r/opensource/comments/1feqzj7/looking_for_an_open_source_android_11_compatible/</link>
+      <description><![CDATA[正如标题所述 - 寻找 google fit 的开源替代应用程序，因为 google 不再支持。对 google fit 的支持将于 2024 年结束。我最感兴趣的功能是计步器、卡路里计数器、体重跟踪器和距离跟踪器。 我完全没有信心 Health Connect 会避免变得低劣（就这一点而言，google 也是如此。） 如果有人碰巧知道并且不介意分享，我将不胜感激。    提交人    /u/thedesertwolf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1feqzj7/looking_for_an_open_source_android_11_compatible/</guid>
+      <pubDate>Thu, 12 Sep 2024 01:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>密钥管理器符合 KMIP 标准</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fep655/key_manager_kmip_compliant/</link>
+      <description><![CDATA[大家好，我正在尝试实现 MongoDB 可查询加密，它需要符合 KMIP 的密钥管理器，但他们的建议是付费的，我找不到开源替代方案。有人知道吗？ 他们的付费建议：  Amazon Web Services KMS Azure Key Vault Google Cloud Platform KMS  MongoDB 文档：https://www.mongodb.com/docs/v7.0/core/queryable-encryption/fundamentals/kms-providers/#std-label-qe-fundamentals-kms-providers    提交人    /u/a_lost_cake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fep655/key_manager_kmip_compliant/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:06:53 GMT</pubDate>
+    </item>
     <item>
       <title>跟踪 Maven 存储库使用情况</title>
       <link>https://www.reddit.com/r/opensource/comments/1fems1i/track_maven_repository_usage/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>使用版本控制平台使文档开源的最佳方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份能源效率计划的技术参考/资源手册 (TRM)，用于标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
       <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[       由    /u/diagraphic  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdtkbt/github_ariasqlariasql_the_ariasql_relational/</guid>
       <pubDate>Tue, 10 Sep 2024 21:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>对使用文本转语音的开源 RSS 阅读器感兴趣吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdsjek/interest_in_an_open_source_rss_reader_that_uses/</link>
-      <description><![CDATA[大家好！ 我正在考虑创建一个开源 RSS 阅读器，让您可以阅读您喜爱的博客，并将这些帖子转换为音频，以便您随时随地收听。随着音频内容越来越受欢迎，我认为这会非常方便！ 我还在考虑添加对 SponsorBlock 的支持，这将让您跳过 Feed 中链接的 YouTube 视频中那些烦人的赞助片段。 你们觉得怎么样？你会觉得这样的应用有用吗？如果有的话，你愿意为它付费吗？ 我很乐意听到您的想法、创意或您希望看到的任何功能！ 谢谢！    提交人    /u/konado_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdsjek/interest_in_an_open_source_rss_reader_that_uses/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>愚蠢的菜鸟问题：开源是否更容易受到黑客攻击？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</link>
-      <description><![CDATA[我想知道，如果代码是公开可见的，漏洞会不会更容易被发现？提前致谢，抱歉，这是新手的问题。:)    提交人    /u/Longjumping-Bar393   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:42:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
