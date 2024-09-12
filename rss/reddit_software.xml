@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 03:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 06:02:15 GMT</lastBuildDate>
+    <item>
+      <title>有任何移动注释应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fev8tx/any_mobile_annotation_apps/</link>
+      <description><![CDATA[我主要使用 Web 应用程序，而 JustBeepIt 或 Superglow 等工具对于在实时网站上创建任务和收集反馈非常有用。然而，最近我参与了移动应用程序开发，发现很难找到类似的工具或替代品。    提交人    /u/Subject_You_4636   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fev8tx/any_mobile_annotation_apps/</guid>
+      <pubDate>Thu, 12 Sep 2024 05:38:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rocketdock/Winstep Nexus 应用程序底座替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1fesubz/rocketdockwinstep_nexus_application_dock/</link>
+      <description><![CDATA[我正在寻找一个类似于 Winstep Nexus Dock、Rocketdock 和 Objectdock 的当前应用程序坞。它可以是付费/免费/开源的，因为我是那种为自己喜欢的软件支付永久许可的人——订阅许可的费用非常低。我使用 Windows 10，没有升级计划（并且可能在遥远的未来转向 Linux Mint Cinnamon 或 Mac OS）。 自从 alternativeto 于 2009 年左右问世以来，我一直在使用它，所以自从 rocketdock 或 rainmeter 以来，我测试过的无数软件都没有真正满足我的需求。DOPUS 有浮动工具栏，但也许我只是没有充分利用它的功能。  我已经使用了 Flow Launcher/Powertoys/Listary/Everything/Rainmeter，所以这个不行 - 请允许我澄清一下，我正在寻找一个可视化 GUI dock/menu 来启动和打开选择、策划的应用程序、文件和目录，从中我可以看到它们被分组/嵌套在一起，而不仅仅是一个开放式的应用程序启动器。 我希望能够更轻松地访问每个类别中的所有软件，而不必尝试记住名称、路径或在我的文件中搜索它。有时它只是一个小型的便携式应用程序。 我不寻找像 Flow Launcher、Powertoys、Listary、ueli、Wox、RecentX、Launchy、Keypirinha 等的东西。我也不需要根据配置文件启动一组应用程序，因为我有一个实用程序。 Nexus 的动画相当臃肿。 我将 Dock 分类为以下类别： 目录、下载、构建、音频、视觉媒体、游戏、实用程序、脚本、资源 我正在停靠的示例项目： 文件夹、网络链接、脚本、笔记、书籍、VS Code、ObsidianMD、Anki、heynote、Treesheets、Quod Libet、scrpy、Unified Remote、SyncThing、Blender、RawTherapee、OBS、 Bleachbit、BCUninstaller、Bitwarden、游戏库、calibre、PDFGear、Krita、Aseprite、VLC、Affinity Designer、Libreoffice、Excel、各种数字艺术和 3D 艺术工具、各种小型实用程序 &amp;更多 要求： - 多显示器、高 DPI 和超宽支持 - 多个 Dock 支持，无论是顶部、底部、左侧/右侧 - 保持顶部选项并通过鼠标悬停触发器自动隐藏/弹出 - 可自定义的图标和文本（最好是 PNG。ICO 和 JPG 也可以） - 自定义热键、组合键和键序列 - 键盘导航友好（即不需要用鼠标单击即可导航。对于 RSI/腕管/人体工程学，因为我已经患有中度至重度 RSI） - “堆叠 Docklets”、分组项目和选项卡，和/或嵌套 动画、小部件和最小化窗口停靠不是必需的。我使用透明/清晰的背景，因此自定义背景也不是必需的。 如果我必须在 rainmeter 和 autohokey 中破解一个，我会的，但我想看看社区是否有其他选择。我每年都花太多时间寻找一个。Nexus 和 DOPUS 浮动工具栏是我能找到的最接近的。如果您对 Linux 有建议，您也可以提出建议。    提交人    /u/Luminathe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fesubz/rocketdockwinstep_nexus_application_dock/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:14:10 GMT</pubDate>
+    </item>
     <item>
       <title>办公电脑键盘宏</title>
       <link>https://www.reddit.com/r/software/comments/1feoyt1/keyboard_macro_for_office_pc/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[我有一个外部 SSD，里面有 exe 文件、照片、视频、文档等所有内容。现在上面全是乱七八糟的东西，我想看看是否有人能帮我找到一种方法，根据文件类型、日期等将其整齐地分类到文件夹中。有什么软件可以帮助我吗？我希望我的电脑上现在有一个 AI 助手……    提交人    /u/kentiiboyy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fememm/how_to_sort_many_files_on_external_ssd/</guid>
       <pubDate>Wed, 11 Sep 2024 21:59:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量程序卸载程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1fejksa/bulk_program_uninstaller/</link>
-      <description><![CDATA[我的一个家庭成员送给了我一台笔记本电脑，但他们甚至懒得事先清理一下 我发现这台笔记本电脑上安装了太多垃圾，但是我又懒得重新安装。 有没有一种软件可以让我检查所有要删除的程序，点击“卸载”，它就会自动运行？    提交人    /u/outerzenith   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fejksa/bulk_program_uninstaller/</guid>
-      <pubDate>Wed, 11 Sep 2024 19:59:34 GMT</pubDate>
     </item>
     <item>
       <title>寻找公告栏/新闻通讯程序</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[Emojify 它允许您一次批量上传最多 10 张图片。还有一个主页选项卡视图，其中列出了组织中所有已上传的自定义表情符号，并允许您删除表情符号。 由于 Slack API 限制，它仅适用于 Enterprise Grid。正在寻找 beta 测试人员！🙌 您可以在此处试用。    提交人    /u/jamzislo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fe5jdk/i_made_a_slack_app_to_easily_bulk_upload_emojis/</guid>
       <pubDate>Wed, 11 Sep 2024 08:56:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一款适用于 windows 10 的精简版屏幕录像机给我</title>
-      <link>https://www.reddit.com/r/software/comments/1fe2n5g/recommend_me_a_lite_screen_recorder_for_windows_10/</link>
-      <description><![CDATA[我的 Windows 10 需要一个免费的屏幕录像机，仅用于正常录制，例如电影、电视剧或游戏中的一些片段。    提交人    /u/noor_abdullaal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fe2n5g/recommend_me_a_lite_screen_recorder_for_windows_10/</guid>
-      <pubDate>Wed, 11 Sep 2024 05:23:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

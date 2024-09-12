@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Sep 2024 03:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 06:02:31 GMT</lastBuildDate>
+    <item>
+      <title>请对此项目提供一些反馈：用于构建分布式系统的 Python 框架。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fetsik/please_kindly_gives_some_feedback_to_this_project/</link>
+      <description><![CDATA[项目：Jetmaker 这是一个 Python 开发人员将多个分布式节点连接到一个系统中的框架，因此分布式应用程序可以访问彼此的数据和服务。它还提供了同步所有节点的工具，就像在多线程和多处理中所做的那样 Github 链接： https://github.com/gavinwei121/Jetmaker 文档： 文档    提交人    /u/Affectionate_Set_326   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fetsik/please_kindly_gives_some_feedback_to_this_project/</guid>
+      <pubDate>Thu, 12 Sep 2024 04:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>QuarkPhysics：2D 物理引擎 - 发布 v1.0。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fetfpn/quarkphysics_2d_physics_engine_released_v10/</link>
+      <description><![CDATA[QuarkPhysics 是一款专为游戏设计的 2D 物理引擎，其目标是提供一种合理的方法来同时模拟刚体、软体和不同的物理模型。 Github：https://github.com/erayzesen/QuarkPhysics    提交人    /u/erayzesen   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fetfpn/quarkphysics_2d_physics_engine_released_v10/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于狗身份标记的自托管 AI 图像扫描仪？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1feszwb/self_hosted_ai_image_scanner_for_dog_id_tagging/</link>
+      <description><![CDATA[嗨，我正在寻找是否有一种解决方案可以扫描多只狗的照片并根据狗的身份标记它们或将它们移动到不同的文件夹？这个想法是自动扫描照片并为每只狗分组。这是为了帮助狗日托地点。 我不是这个领域的专家，但任何建议或提示都非常感谢 谢谢！    提交人    /u/ksteink   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1feszwb/self_hosted_ai_image_scanner_for_dog_id_tagging/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:22:34 GMT</pubDate>
+    </item>
     <item>
       <title>寻找兼容 Android 11 的开源健身追踪器和计步器以替代 Google Fit</title>
       <link>https://www.reddit.com/r/opensource/comments/1feqzj7/looking_for_an_open_source_android_11_compatible/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>使用版本控制平台使文档开源的最佳方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份能源效率计划的技术参考/资源手册 (TRM)，用于标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
       <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[       由    /u/alice_i_cecile  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdy2ts/i_landed_my_dream_job_making_an_open_source_rust/</guid>
       <pubDate>Wed, 11 Sep 2024 01:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我需要你们的智慧</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdwcj2/hello_community_i_need_your_brains/</link>
-      <description><![CDATA[开源数据在全球范围内被广泛使用，原因有很多。  有没有关于开源数据对公众意识的负面用途的研究。 健康、交通、天气、新闻、信息、教育、日常生活……等等。 附言：重要问题。  谢谢。     提交人    /u/monkey_sigh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdwcj2/hello_community_i_need_your_brains/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 SDK 和协议来构建联合应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fduktk/i_made_an_sdk_and_protocol_to_build_federated_apps/</link>
-      <description><![CDATA[我对构建连接应用程序（托管、身份验证、数据库......）所需的样板感到沮丧，而且我的数据在我使用的所有不同服务之间如此孤立，所以我构建了解决这个问题的工具！它被称为BAQ，我今天发布了第一个版本。 它包括一个 React SDK，可以无缝构建 Web 和移动应用程序，并在客户端之间进行实时同步，并且很快会有一个开源服务器来托管您自己的数据。 让我知道你的想法！ GitHub：https://github.com/baqhub/baq 主页：https://baq.dev/   由    /u/quentez2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fduktk/i_made_an_sdk_and_protocol_to_build_federated_apps/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - ariasql/ariasql：AriaSQL 关系数据库管理系统。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdtkbt/github_ariasqlariasql_the_ariasql_relational/</link>
-      <description><![CDATA[       由    /u/diagraphic  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdtkbt/github_ariasqlariasql_the_ariasql_relational/</guid>
-      <pubDate>Tue, 10 Sep 2024 21:34:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
