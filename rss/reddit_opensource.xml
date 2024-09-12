@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Sep 2024 18:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 21:02:19 GMT</lastBuildDate>
+    <item>
+      <title>SusCode 启动！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</link>
+      <description><![CDATA[如果您是 VS Code 用户，请查看此 OSP - SusCode，这是一个可以扫描其他扩展中是否存在恶意类型代码的扩展。 https://www.reddit.com/r/vscode/comments/1ff9uk6/suscode_an_open_source_solution_to_rising_vs_code/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button    提交人    /u/AchillesHeir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 地图位置共享替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffb9sm/google_maps_location_sharing_alternative/</link>
+      <description><![CDATA[Google 地图具有与朋友/家人分享位置的功能，我的家人需要我与他们分享我的位置。 我知道您可以关闭定位功能，但他们想知道我在哪里，这是可以理解的。有没有真正注重隐私的替代方案？    提交人    /u/Guilty_Debt_6768   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffb9sm/google_maps_location_sharing_alternative/</guid>
+      <pubDate>Thu, 12 Sep 2024 19:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找文本转语音程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffa63h/looking_for_texttospeech_program/</link>
+      <description><![CDATA[正如标题所暗示的，我正在寻找一个文本转语音程序，最好是开源的，并且不是自然的 AI 生成的声音。 互联网上充斥着这些自然的基于 AI 的文本转语音生成器，所以我很难找到听起来更像人造的东西，比如旧的文本转语音引擎或 vocaloids。 编辑；我找到了一个基于在线的文本转语音工具，它具有我想要的感觉，但我更喜欢可以下载并在自己的计算机上运行的东西。    提交人    /u/randomgamenerd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffa63h/looking_for_texttospeech_program/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:48:36 GMT</pubDate>
+    </item>
     <item>
       <title>开源剪贴板历史记录 chrome 扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1ff89ec/an_opensource_clipboard_history_chrome_extension/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/AnIndependentFish   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feh272/github_guilhermeprokischsee_a_cute_cat1_for_the/</guid>
       <pubDate>Wed, 11 Sep 2024 18:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于假开源的问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</link>
-      <description><![CDATA[新手。有没有已知的案例，看似开源的软件（带有 github 等）如果不更改一些小东西，就会人为地变得难以（或不可能）构建？    由    /u/BobbyBronkers  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</guid>
-      <pubDate>Wed, 11 Sep 2024 16:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用版本控制平台使文档开源的最佳方式</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
-      <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源数据网格4年经验和我的收获</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fea66y/open_source_data_grid_4_years_of_experience_and/</link>
-      <description><![CDATA[大家好！ 自从我第一次将 RevoGrid 作为开源电子表格推出以来，已经过去了 4 年。那时，这对我来说是一次全新的体验。我带着一些成果回来了，非常希望得到您的指导和想法。 主要目标是 为 Handsontable 和 Ag-Grid 等知名商业解决方案提供经济实惠的替代方案，同时让社区参与进来，帮助我们更好地构建它并获得反馈。 开源结论：  这很难：无论您多么努力，要达到让每个人都满意的水平都是很复杂的。 这是利他主义：没有人会感谢你；您将被要求提供更多功能，或者想知道为什么您交付的功能没有达到他们的期望。 获得贡献很难：我收到了数百封甚至数千封电子邮件和消息，其中有疑问和帮助承诺。但当你跟进这些承诺时，只有大约 10% 的人回应。 来自公司的有限支持：我们接到过大大小小的公司的电话，询问各种功能，但只有少数公司真正支持该项目（我们感谢您！）。但正如您所猜测的，他们不是大多数。 集成是关键：最后，对我们来说最好的策略是我们开始的策略：将您的项目集成到一个更大的项目中，这就是您开始获得关注的时候。这是我们的主要动力。  新的技术目标和版本 4+： 定制和完整性至关重要。我们直接在单元格内构建我们最喜欢的组件，并自定义所有内容，而无需深入网格核心或从主分支分叉。 在最新版本的 RevoGrid 中，我们专注于两件主要的事情：  使用插件、事件和自定义类型进行高级定制 为需要更多支持的人提供专业版。  我们在网格内开发了一个高度适应性的事件系统，允许您在不更改核心的情况下实现功能。您可以添加公式、在主行中创建子表以及进行任何高级选择。 import { BasePlugin, type PluginProviders } from &#39;@revolist/revogrid&#39;; /** * 应用“odd”的插件类到网格中的每个奇数行。 * * 该插件使用 `beforerowrender` 事件通过 * “odd” 类扩展虚拟节点。 然后可以在 CSS 中使用此类来设置奇数行的样式。 */ export class RowOddPlugin extends BasePlugin { /** * 提供程序使您可以访问网格核心功能，如选择、数据顺序、行/单元格大小、视口 */ constrained(revogrid: HTMLRevoGridElement, provider: PluginProviders) { super(revogrid, provider); /** * 订阅 `beforerowrender` 事件并扩展虚拟节点 * 渲染属性。 */ this.addEventListener( &#39;beforerowrender&#39;, ({ detail, }: CustomEvent&lt;HTMLRevogrDataElementEventMap[&#39;beforerowrender&#39;]&gt;) =&gt; { // 为每个奇数行添加 odd 类 detail.node.$attrs$ = { ...detail.node.$attrs$, odd: detail.item.itemIndex % 2 !== 0, }; } ); } }  大创意 我们希望构建一个电子表格框架（而不仅仅是另一个库），以便每个人都可以在其上创建高级组件。 问题： 您将如何将其集成到您的项目中？您觉得哪些功能最有趣？    提交人    /u/kumakint   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fea66y/open_source_data_grid_4_years_of_experience_and/</guid>
-      <pubDate>Wed, 11 Sep 2024 13:30:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
