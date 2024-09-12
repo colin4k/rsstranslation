@@ -4,18 +4,39 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 21:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:03:18 GMT</lastBuildDate>
+    <item>
+      <title>有没有可以制作简单漫画艺术的人工智能艺术生成器？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fep36v/are_there_any_ai_art_generators_that_can_make/</link>
+      <description><![CDATA[特别免费。只要是免费的，我不在乎你是否可以每天制作 5 张图片。想想 meme 模板或旧海绵宝宝剧集中常见的简单漫画。我找不到，所以如果有人知道，请告诉我。    提交人    /u/Somber_Soul888   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fep36v/are_there_any_ai_art_generators_that_can_make/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日总结 AI 研究论文 #5</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1felg9a/summarising_ai_research_papers_everyday_5/</link>
+      <description><![CDATA[每天总结 AI 研究论文 #5 我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“推理就是你所需要的：使用 ChatGPT 进行跨域对话状态跟踪的自示例检索器”，作者是 Jihyun Lee 和 Gary Geunbae Lee。 本文探讨了一种新颖的对话状态跟踪 (DST) 方法，该方法利用语言模型 ChatGPT 来增强跨域对话状态预测，而无需额外的模型训练。该方法称为自示例检索器，它使用推理和上下文学习来执行域转移，解决了传统模型中固有的需要大量数据和针对新域进行再训练的问题。 要点：1. 基于推理的方法：该方法独特地利用 ChatGPT 的推理功能来预测不同领域的对话状态，从而无需进行传统模型训练阶段。  竞争性能：在 MultiWOZ 数据集上进行测试时，所提出的方法表现出竞争性能，挑战了现有的对话状态跟踪最先进模型。 自示例检索：与仅依赖槽描述和对话历史的模型相比，该模型采用自检索的示例，发现这些示例可显着增强其预测能力。 错误分析启示：本文重点介绍了具体错误模式，尤其是“虚假”错误的增加，表明模型倾向于提供任务未明确要求的额外响应。 模型洞察：研究表明，某些领域（如“火车”和“酒店”）有利于知识转移，与人类对跨领域学习的直觉相一致。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1felg9a/summarising_ai_research_papers_everyday_5/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>入站呼叫代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fel3re/inbound_calling_agent/</link>
+      <description><![CDATA[大家好， 我希望设置一个人工智能机器人来响应和接听我公司下班后的电话。 您最喜欢使用哪些工具来设置这样的机器人？ 理想情况下，它会向来电者提示问题，然后将该信息记录在电子表格中，以便我们在下一个工作日做出回应。    提交人    /u/FillyCheez   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fel3re/inbound_calling_agent/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:03:29 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能外拨电话 + 导航电话树 + 记录通话记录</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fel006/ai_outbound_callers_naviagating_phone_trees/</link>
-      <description><![CDATA[大家好， 我想尝试使用 AI 进行外拨电话/潜在客户开发。除了 Vapi 和 Bland 之外，还有你们喜欢的工具吗？ 这些工具能够浏览电话树吗，还是主要用于直接拨号？ AI 是否也可以记录通话内容，并在电子表格的预定义列中填写注释？ 谢谢！    提交人    /u/FillyCheez   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我想尝试使用 AI 进行外拨电话/潜在客户开发。除了 Vapi 和 Bland 之外，你们还喜欢其他什么工具吗？ 这些工具是否能够浏览电话树，还是主要用于直接拨号？ AI 是否也可以记录通话内容，并在电子表格的预定义列中填写注释？ 谢谢！    提交人    /u/FillyCheez   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fel006/ai_outbound_callers_naviagating_phone_trees/</guid>
       <pubDate>Wed, 11 Sep 2024 20:59:11 GMT</pubDate>
     </item>
     <item>
       <title>如何让你的工作或职业不受人工智能影响？哪些领域或技能最有可能受到人工智能的影响最小？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fekeun/how_can_you_make_your_work_or_career_airesistant/</link>
-      <description><![CDATA[大家好， 随着人工智能能力的不断增强和自动化的普及，我们许多人都在想如何确保我们的职业或企业面向未来。我很好奇，想知道你们对哪些行业、工作或技能最有可能受到人工智能的影响最小的看法。    提交人    /u/masm33   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 随着人工智能能力的不断增强和自动化的普及，我们许多人都在思考如何确保我们的职业和企业面向未来。我很想听听你对哪些初创公司、行业或白领工作（尤其是技术相关职位）最有可能受到人工智能的影响最小或完全取代的看法。虽然我相信将人工智能融入工作流程可以保持领先地位，但我特别想问的是白领工作，而不是蓝领职位。我很好奇哪些职位可能会被人工智能完全取代或影响最大。期待您的真知灼见！    提交人    /u/masm33   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fekeun/how_can_you_make_your_work_or_career_airesistant/</guid>
       <pubDate>Wed, 11 Sep 2024 20:34:14 GMT</pubDate>
     </item>
@@ -104,32 +125,11 @@
       <pubDate>Wed, 11 Sep 2024 09:36:38 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 10 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fe1jdg/oneminute_daily_ai_news_9102024/</link>
-      <description><![CDATA[ 泰勒·斯威夫特支持卡马拉·哈里斯和蒂姆·沃尔兹，谴责特朗普竞选团队对人工智能的误导。[1] 美国、中国和其他国家在首尔召开军事人工智能应用峰会。[2] 会见GovGPT：卡拉汉创新公司试行对话式人工智能伴侣。[3] 亚马逊在英国投资 80 亿英镑建设云计算和人工智能基础设施。[4] Meta承认抓取澳大利亚数据来训练人工智能工具。[5]  来源包括：https://bushaicave.com/2024/09/10/9-10-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fe1jdg/oneminute_daily_ai_news_9102024/</guid>
-      <pubDate>Wed, 11 Sep 2024 04:15:11 GMT</pubDate>
-    </item>
-    <item>
       <title>我和人工智能玩家一起玩 DnD！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdyzcc/i_played_dnd_with_ai_players/</link>
       <description><![CDATA[我和 Ai 玩家一起玩了 DnD！第 1 节 https://youtu.be/VzviC8O21z4 我已经使用 ChatGPT 并用它为 dnd 战役 Vecna：Nest of the Eldritch Eye 创建了一些玩家。我将担任 DM，AI 将控制玩家的角色创建、角色扮演和战斗！ 查看包含角色创建的播放列表：https://www.youtube.com/watch?v=Aa7ZMLowlQA&amp;list=PLVVIHVUN3st9sRfRO4_1uSPBtA242JE0k    提交人    /u/deadmanfred2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdyzcc/i_played_dnd_with_ai_players/</guid>
       <pubDate>Wed, 11 Sep 2024 01:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能艺术就是盗窃。用我训练过的 Lora 窃取我的审美。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrp5d/ai_art_is_theft_steal_my_aesthetics_with_a_lora_i/</link>
-      <description><![CDATA[AI 艺术是盗窃，但正如毕加索所说 好的艺术家借鉴，伟大的艺术家窃取 我是一名专业摄影师，我根据自己的摄影风格训练了 Flux Lora： Herbst 照片风格通过 civit 通过谷歌驱动器直接下载 开源我自己的一部分风格感觉很好。这就像反向守门。 关于 Lora 提示中要包含的标签：herbstphoto、herbst photo 训练数据中的所有图像都是来自各种库存的模拟 35 毫米胶片，新的和过期的。我拥有所有图像的版权。v2 数据集很小，但手动标记，并且远远优于更大的数据集 v1。 该模型使用以下短语的标题进行训练，并在提示中很好地响应它们：偏离中心、不对称、背光、漏光、颗粒状、颗粒、胶片颗粒、偷拍、高对比度、胶片灼伤、模拟纹理、部分轮廓、明暗对比、高光绽放、电影胶片色彩、胶片发光、过度高光、喜怒无常、轻微碎片、荷兰角度、闪光摄影。 ***推荐设置**\* Lora 强度和通量引导。 2.0 与 2.5 通量引导配对时是最佳点。这会导致 lora 具有高强度，从而产生均衡的瑕疵量并增加阴影和高光之间的色调差异。  .9 与 2.0 通量引导配对时是最佳点。这会导致 lora 具有较低的强度。 3.0 强度和 4.0 引导可产生更好的偷拍时刻、闪光摄影和胶片灼伤。 3.5 强度和 5.0 引导可产生更抽象的图像，具有高光溢出和运动模糊，同时仍保持雅致  对于强度，0.5 是看到效果的最低量，而 1.5 是最高量，不会对输出产生严重变化。 1.5 之后，结果通常会更加扭曲和柔和，但仍然很有品味。2.0 之后收益递减。 \此版本经过训练非常强大，除非以最低强度 .9 和 2.0 的通量指导使用，否则不能与其他 lora 很好地搭配* 我不确定为什么将通量指导增加到与 lora 强度 2:1 的增量比率会有所帮助。如果有人可以详细说明这个概念，我将不胜感激。 调度程序和采样器 huen &amp; simple - 标准基线 unipc_bh2 &amp; Simple - 标准基线，类似于 huen &amp; simple unipc_bh2 &amp; normal - 通过在中间色调中添加对比度和清晰度提供最高的纹理 unipc_bh2 &amp; ddim_uniform - 给出更多的退化但倾向于改变输出 dpm_fast &amp; sgm_uninform - 重度运动模糊和纹理，但往往会改变输出 最大偏移：0.0 基本偏移：8.0 是 35mm 颗粒纹理的最佳点，4.0 是较轻的颗粒，1.0 是最轻的。 如果进行升级，请使用 SD 终极升级器： 模型：4x_NMKD-Siax_200k 模型。 步骤： CFG 2 采样器：欧拉 调度程序：正常 去噪 .2 长度 - 匹配（升级量 x 原始分辨率） 高度 - 匹配（升级量 x 原始分辨率） * 经过大量测试，我发现 FLux升级效果最佳的是，图块大小以 1 为步长反映升级输出分辨率。这是个好消息，因为它提高了升级速度。 我创建了一个针对 Lora 优化的工作流程，您可以 在此处下载。 -CrunchyBagpipe    提交人    /u/Cold-Dragonfly-144   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fdrp5d/ai_art_is_theft_steal_my_aesthetics_with_a_lora_i/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 ChatGPT 进行 Shroomed</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fd5f3e/i_shroomed_with_chatgpt/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fd5f3e/i_shroomed_with_chatgpt/</guid>
-      <pubDate>Tue, 10 Sep 2024 00:48:26 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>

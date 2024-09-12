@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 11 Sep 2024 21:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:03:46 GMT</lastBuildDate>
+    <item>
+      <title>伪造密码管理器编码测试用于攻击 Python 开发人员</title>
+      <link>https://www.reddit.com/r/programming/comments/1femdu2/fake_password_manager_coding_test_used_to_hack/</link>
+      <description><![CDATA[  由    /u/john217  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1femdu2/fake_password_manager_coding_test_used_to_hack/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 SQL 中使用 GUID/UUID 主键如何使应用程序性能翻倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1feligt/how_we_doubled_the_performance_of_our_app_when/</link>
+      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1feligt/how_we_doubled_the_performance_of_our_app_when/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 GitHub + Liquibase 自动化数据库变更管理（直播时间为 9 月 26 日星期四上午 11 点（中部时间））</title>
+      <link>https://www.reddit.com/r/programming/comments/1fel3jm/how_to_automate_database_change_management_using/</link>
+      <description><![CDATA[  由    /u/liquibase  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fel3jm/how_to_automate_database_change_management_using/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:03:12 GMT</pubDate>
+    </item>
     <item>
       <title>分形的简单性</title>
       <link>https://www.reddit.com/r/programming/comments/1fekzxg/the_simplicity_of_a_fractal/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/murkrow02  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fe8ejn/mosaico_a_free_opensource_platform_for_custom_led/</guid>
       <pubDate>Wed, 11 Sep 2024 12:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对新兴概念“来自代码的基础设施”有何看法？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fe7xbe/what_are_your_thoughts_on_the_new_emerging/</link>
-      <description><![CDATA[  由    /u/cotigao  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fe7xbe/what_are_your_thoughts_on_the_new_emerging/</guid>
-      <pubDate>Wed, 11 Sep 2024 11:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQLite 测试方法——9200 万行测试代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1fe7v9l/how_sqlite_is_teated_92_million_lines_of_test_code/</link>
-      <description><![CDATA[相当有趣    提交人    /u/Ok-Bit8726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fe7v9l/how_sqlite_is_teated_92_million_lines_of_test_code/</guid>
-      <pubDate>Wed, 11 Sep 2024 11:33:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>可扩展性备忘单 #2 - 出现问题时进行分区</title>
-      <link>https://www.reddit.com/r/programming/comments/1fe7m8g/scalability_cheat_sheet_2_when_things_go_wrong/</link>
-      <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fe7m8g/scalability_cheat_sheet_2_when_things_go_wrong/</guid>
-      <pubDate>Wed, 11 Sep 2024 11:18:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

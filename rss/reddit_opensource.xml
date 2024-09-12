@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Sep 2024 21:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:03:54 GMT</lastBuildDate>
+    <item>
+      <title>跟踪 Maven 存储库使用情况</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fems1i/track_maven_repository_usage/</link>
+      <description><![CDATA[嗨， 有没有办法跟踪托管在 Maven Central 中的 Java 库的下载统计信息或使用情况？    提交人    /u/aronsajan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fems1i/track_maven_repository_usage/</guid>
+      <pubDate>Wed, 11 Sep 2024 22:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>NPM 充斥着拉丁文本垃圾库？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1felabf/npm_flooded_with_latin_text_junk_libraries/</link>
+      <description><![CDATA[在 npmjs.com 中搜索“CSS 验证”，你会发现一堆拉丁文乱码。发生了什么事，我们如何阻止这种乱码的涌入？    由   提交  /u/The_Game_Genie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1felabf/npm_flooded_with_latin_text_junk_libraries/</guid>
+      <pubDate>Wed, 11 Sep 2024 21:11:03 GMT</pubDate>
+    </item>
     <item>
       <title>构建昂贵的员工认可 Slack Bot 开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fei8l2/building_an_expensive_employee_recognition_slack/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我想知道，如果代码是公开可见的，漏洞会不会更容易被发现？提前致谢，抱歉，这是新手的问题。:)    提交人    /u/Longjumping-Bar393   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fdsczb/stupid_noob_question_is_opensource_more/</guid>
       <pubDate>Tue, 10 Sep 2024 20:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚开源了 Yaak（Postman 的替代品）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdr9se/i_just_opensourced_yaak_postman_alternative/</link>
-      <description><![CDATA[不久前，我在这个 subreddit 上发布了一篇关于 Yaak 为何不开源的文章。反馈大多是不同意，认为我对 OSS 的看法不是由于开源而是由于开放贡献。 经过几个月的思考，我认为这是正确的，所以 Yaak 现在是开源的！（https://github.com/yaakapp/app） 如果您感兴趣的话，这里有一个更长篇幅的推理版本 https://yaak.app/blog/now-open-source    提交人    /u/gschier2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdr9se/i_just_opensourced_yaak_postman_alternative/</guid>
-      <pubDate>Tue, 10 Sep 2024 19:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道好的文本转意图库吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fdp1gd/does_anyone_know_of_a_good_texttointent_library/</link>
-      <description><![CDATA[我发现了一个名为 Rhino 的库，由一家名为 Picovoice 的公司制作。它获取音频数据，并根据开发人员定义的一组操作输出离散结果。例如，如果应用程序控制咖啡机，选项可能是“煮咖啡”、“安排冲泡”或“关机”。该库将获取音频并输出其中一个选项或“无法识别”。在某种程度上，它可以处理自然语言歧义，因此如果用户说“关机”或“关闭电源”，它将输出相同的结果。 我想知道是否还有其他库具有此功能，或者是否有可以接受文本而不是音频作为输入的东西。我搜索“文本到意图”没有找到任何内容，但也许这是错误的短语，或者可能有一个库将此功能作为一组更广泛的 NLP 操作的一部分。有人有什么建议吗？    提交人    /u/ekcrisp   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fdp1gd/does_anyone_know_of_a_good_texttointent_library/</guid>
-      <pubDate>Tue, 10 Sep 2024 18:26:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
