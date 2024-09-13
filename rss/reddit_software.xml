@@ -4,11 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 03:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 06:02:14 GMT</lastBuildDate>
+    <item>
+      <title>发布了一款开源闹钟软件，具有每月或每年特定日期闹钟、闹钟执行命令的功能，并包含计时器和秒表</title>
+      <link>https://www.reddit.com/r/software/comments/1ffn3v7/released_an_open_source_alarm_software_with/</link>
+      <description><![CDATA[https://preview.redd.it/d10xzd52hiod1.png?width=1221&amp;format=png&amp;auto=webp&amp;s=c78532fd3ca90f1f8d33060805f2ac5baf60bb57    提交人    /u/ILoveBirds01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ffn3v7/released_an_open_source_alarm_software_with/</guid>
+      <pubDate>Fri, 13 Sep 2024 05:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Windows 10] 使用 Android 手机作为接近触发器的基于接近的睡眠模式？</title>
+      <link>https://www.reddit.com/r/software/comments/1ffm7v7/windows_10_proximity_based_sleep_mode_using/</link>
+      <description><![CDATA[我正在寻找一种方法，当它检测到我的 Android 手机在大约 30 分钟后不再靠近它时，让我的电脑进入睡眠模式，并在我的手机回到范围时唤醒它。    提交人    /u/IdealIdeas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ffm7v7/windows_10_proximity_based_sleep_mode_using/</guid>
+      <pubDate>Fri, 13 Sep 2024 04:24:52 GMT</pubDate>
+    </item>
     <item>
       <title>寻找能够用操作系统来标记分区的分区软件（用于双启动管理）。例如标记由 Windows 或 Linux 创建和使用的所有分区</title>
       <link>https://www.reddit.com/r/software/comments/1ffi3o2/searching_for_partitioning_software_that_will/</link>
-      <description><![CDATA[我正在考虑任何类似自动 GUID 类型验证和标记的东西，但我不知道是否存在。    提交人    /u/Manjandro_M4nuEK07   [link] [comments]]]></description>
+      <description><![CDATA[喜欢自动 GUID 类型验证和相应的标记，但我不知道是否存在。    提交人    /u/Manjandro_M4nuEK07   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ffi3o2/searching_for_partitioning_software_that_will/</guid>
       <pubDate>Fri, 13 Sep 2024 00:45:54 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我有一个外部 SSD，里面有 exe 文件、照片、视频、文档等所有内容。现在上面全是乱七八糟的东西，我想看看是否有人能帮我找到一种方法，根据文件类型、日期等将其整齐地分类到文件夹中。有什么软件可以帮助我吗？我希望我的电脑上现在有一个 AI 助手……    提交人    /u/kentiiboyy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fememm/how_to_sort_many_files_on_external_ssd/</guid>
       <pubDate>Wed, 11 Sep 2024 21:59:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找公告栏/新闻通讯程序</title>
-      <link>https://www.reddit.com/r/software/comments/1fejddl/looking_for_bulletin_boardnewsletteresqe_program/</link>
-      <description><![CDATA[大家好！感谢您的阅读！ 我正在尝试寻找一个具有以下（或大多数）功能的程序：  所有内容都在一个可滚动的页面上 可以在网站/程序上访问 按发布顺序显示公司信息，其中最重要的项目堆叠在顶部 可以发布（嵌入）视频，照片，pdf 文件以供点击和查看 存档旧帖子 收集发布分析 公告板可以有多个编辑器*非常重要 有一个不断更新的实时版本 可以勾选活动（不太重要） 可以标记为已读（不太重要） 具有专业的外观  有什么想法吗？    提交人    /u/RockLobsterPupper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fejddl/looking_for_bulletin_boardnewsletteresqe_program/</guid>
-      <pubDate>Wed, 11 Sep 2024 19:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>禁用 SaneAR 后 MPC-HC 声音太低，启用后 DVD 菜单速度加快。</title>
-      <link>https://www.reddit.com/r/software/comments/1fei0xo/mpchc_sound_way_too_low_with_sanear_disabled_dvd/</link>
-      <description><![CDATA[嗨，我正在尝试设置 MPC-HC 2.3.5 64 位以在我的 Windows 10 PC 上播放 DVD，但是我的音频出现了问题。 使用默认设置，菜单中的音量太大，播放时音量太低。 我尝试转到“查看”-&gt;“选项”-&gt;“音频渲染器”，并勾选“已启用 SaneAR 音频渲染器”，这解决了音量问题，但现在 DVD 菜单播放速度加快了，而且没有声音。 在 VLC 上一切都播放正常，但对于 DVD，如果可能的话，我更喜欢 MPC-HC。 那么有什么办法可以解决这个问题吗？ 提前谢谢您。    提交人    /u/newoldboye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fei0xo/mpchc_sound_way_too_low_with_sanear_disabled_dvd/</guid>
-      <pubDate>Wed, 11 Sep 2024 18:55:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

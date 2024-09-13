@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 13 Sep 2024 03:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 06:02:29 GMT</lastBuildDate>
+    <item>
+      <title>🚀 隆重推出 Call-Me：即时视频通话的首选！🌐</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffkwzn/introducing_callme_your_goto_for_instant_video/</link>
+      <description><![CDATA[告别复杂的设置和应用。使用 Call-Me，您可以直接从浏览器开始顺畅的一对一视频通话！由尖端的 WebRTC 技术提供支持，它比以往更快、更简单。  Repo：https://github.com/miroslavpejic85/call-me    提交人    /u/mirotalk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffkwzn/introducing_callme_your_goto_for_instant_video/</guid>
+      <pubDate>Fri, 13 Sep 2024 03:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>一种以网格方式编码的编程语言，你听说过吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ffk83d/a_programming_language_coding_in_a_grid_have_you/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨， 有没有办法跟踪托管在 Maven Central 中的 Java 库的下载统计信息或使用情况？    提交人    /u/aronsajan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fems1i/track_maven_repository_usage/</guid>
       <pubDate>Wed, 11 Sep 2024 22:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>NPM 充斥着拉丁文本垃圾库？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1felabf/npm_flooded_with_latin_text_junk_libraries/</link>
-      <description><![CDATA[在 npmjs.com 中搜索“CSS 验证”，你会发现一堆拉丁文乱码。发生了什么事，我们如何阻止这种乱码的涌入？    由   提交  /u/The_Game_Genie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1felabf/npm_flooded_with_latin_text_junk_libraries/</guid>
-      <pubDate>Wed, 11 Sep 2024 21:11:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
