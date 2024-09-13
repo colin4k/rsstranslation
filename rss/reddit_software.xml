@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 12:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 15:09:00 GMT</lastBuildDate>
+    <item>
+      <title>关于 VLC、MPC-HC、MPV、Lavfilters 等视频播放器的问题。</title>
+      <link>https://www.reddit.com/r/software/comments/1ffvv9e/question_regarding_video_players_like_vlc_mpchc/</link>
+      <description><![CDATA[好的，我读了一些帖子，说 VLC 在 UI 方面并不是最好的，还提到了视频质量和其他所有类型的东西…… 我想知道的是，即使你用这些播放器播放完全相同的文件，它们是否都显示不同的视频质量？ 人们只谈论这个和那个软件更好，因为它支持不同的格式、更好的 UI、插件……我所做的就是在其中打开一个 .mkv 文件电影（非 hdr），我需要的是让它们有左右键来跳过视频，有上下键来调整音量，那么哪个是最好的，同时提供最好的视频质量？    提交人    /u/Previous_Tailor7569   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ffvv9e/question_regarding_video_players_like_vlc_mpchc/</guid>
+      <pubDate>Fri, 13 Sep 2024 14:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找简单且用户友好的手动字幕同步</title>
+      <link>https://www.reddit.com/r/software/comments/1ffvhxy/looking_for_easy_and_user_friendly_manual/</link>
+      <description><![CDATA[我正在寻找一种软件，它可以根据声音通过视觉点手动同步字幕，并根据此点移动所有字幕。我想避免所有自动化软件，我已经尝试了 subsync 但失败了。我尝试了 sublet 但从 vlc 中找到确切的点太难了。我尝试了 aegisub，这正是我想要做的，但我讨厌你必须选择和移动所有字幕的方式......似乎非常复杂，而且没有找到相关教程。我尝试了字幕编辑，但你需要在小视频屏幕上检查......不容易。 也许我错过了什么，但我无法使用这些软件轻松执行以下操作：1. 选择第一个字幕 2. 选择视频上应该开始的位置，错误率非常低，为 0.5 秒。 3. 点击按钮，所有字幕都会同步。 如果有人可以推荐一些东西，请。    提交人    /u/True-Entrepreneur851   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ffvhxy/looking_for_easy_and_user_friendly_manual/</guid>
+      <pubDate>Fri, 13 Sep 2024 14:01:53 GMT</pubDate>
+    </item>
     <item>
       <title>打开任务栏固定文件夹（如系统托盘）</title>
       <link>https://www.reddit.com/r/software/comments/1ffslc7/opening_a_taskbar_pinned_folder_like_system_tray/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在寻找一个类似于 Winstep Nexus Dock、Rocketdock 和 Objectdock 的当前应用程序坞。它可以是付费/免费/开源的，因为我是那种为自己喜欢的软件支付永久许可的人——订阅许可的费用非常低。我使用 Windows 10，没有升级计划（并且可能在遥远的未来转向 Linux Mint Cinnamon 或 Mac OS）。 自从 alternativeto 于 2009 年左右问世以来，我一直在使用它，所以自从 rocketdock 或 rainmeter 以来，我测试过的无数软件都没有真正满足我的需求。DOPUS 有浮动工具栏，但也许我只是没有充分利用它的功能。  我已经使用了 Flow Launcher/Powertoys/Listary/Everything/Rainmeter，所以这个不行 - 请允许我澄清一下，我正在寻找一个可视化 GUI dock/menu 来启动和打开选择、策划的应用程序、文件和目录，从中我可以看到它们被分组/嵌套在一起，而不仅仅是一个开放式的应用程序启动器。 我希望能够更轻松地访问每个类别中的所有软件，而不必尝试记住名称、路径或在我的文件中搜索它。有时它只是一个小型的便携式应用程序。 我不寻找像 Flow Launcher、Powertoys、Listary、ueli、Wox、RecentX、Launchy、Keypirinha 等的东西。我也不需要根据配置文件启动一组应用程序，因为我有一个实用程序。 Nexus 的动画相当臃肿。 我将 Dock 分类为以下类别： 目录、下载、构建、音频、视觉媒体、游戏、实用程序、脚本、资源 我正在停靠的示例项目： 文件夹、网络链接、脚本、笔记、书籍、VS Code、ObsidianMD、Anki、heynote、Treesheets、Quod Libet、scrpy、Unified Remote、SyncThing、Blender、RawTherapee、OBS、 Bleachbit、BCUninstaller、Bitwarden、游戏库、calibre、PDFGear、Krita、Aseprite、VLC、Affinity Designer、Libreoffice、Excel、各种数字艺术和 3D 艺术工具、各种小型实用程序 &amp;更多 要求： - 多显示器、高 DPI 和超宽支持 - 多个 Dock 支持，无论是顶部、底部、左侧/右侧 - 保持顶部选项并通过鼠标悬停触发器自动隐藏/弹出 - 可自定义的图标和文本（最好是 PNG。ICO 和 JPG 也可以） - 自定义热键、组合键和键序列 - 键盘导航友好（因为不需要用鼠标单击即可导航。对于 RSI/腕管/人体工程学，因为我已经患有中度至重度 RSI） - “堆叠 Docklets”、分组项目和选项卡，和/或嵌套 动画、小部件和最小化窗口停靠不是必需的。我使用透明/清晰的背景，因此自定义背景也不是必需的。 如果我必须在 rainmeter 和 autohokey 中破解一个，我会的，但我想看看社区是否有其他选择。我每年都花太多时间寻找一个。Nexus 和 DOPUS 浮动工具栏是我能找到的最接近的。如果您对 Linux 有建议，您也可以提出建议。    提交人    /u/Luminathe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fesubz/rocketdockwinstep_nexus_application_dock/</guid>
       <pubDate>Thu, 12 Sep 2024 03:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>办公电脑键盘宏</title>
-      <link>https://www.reddit.com/r/software/comments/1feoyt1/keyboard_macro_for_office_pc/</link>
-      <description><![CDATA[是否有任何不需要管理员访问权限的键盘宏软件，以便我可以在办公室电脑上使用它们？我会使用 AHK，但你知道，需要管理员权限。    提交人    /u/Xyphuz_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1feoyt1/keyboard_macro_for_office_pc/</guid>
-      <pubDate>Wed, 11 Sep 2024 23:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>终身人工智能工具——省钱还是只是炒作？</title>
-      <link>https://www.reddit.com/r/software/comments/1feop1k/lifetime_ai_toolsmoney_saver_or_just_hype/</link>
-      <description><![CDATA[最近一直在研究 AI 工具，偶然发现了 Oncely AI，它提供终身优惠。我总是对任何“终身”的东西都持怀疑态度，但我决定尝试一些项目管理工具。不得不说，不用每月付款的感觉真好。还有人试过 Oncely 或类似的交易吗？我想知道这是否真的是长期更明智的选择，或者我只是在避免以后不可避免地切换回订阅。你们觉得怎么样？    提交人    /u/KevinRiveran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1feop1k/lifetime_ai_toolsmoney_saver_or_just_hype/</guid>
-      <pubDate>Wed, 11 Sep 2024 23:44:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

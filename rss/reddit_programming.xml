@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Sep 2024 12:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 15:09:08 GMT</lastBuildDate>
+    <item>
+      <title>使用 Squeak 进行射线投射</title>
+      <link>https://www.reddit.com/r/programming/comments/1ffwkv0/ray_casting_with_squeak/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ffwkv0/ray_casting_with_squeak/</guid>
+      <pubDate>Fri, 13 Sep 2024 14:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[视频] 如何自费出版一本编程书籍</title>
+      <link>https://www.reddit.com/r/programming/comments/1ffwfv7/video_how_to_selfpublish_a_programming_book/</link>
+      <description><![CDATA[  由    /u/Philip1209  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ffwfv7/video_how_to_selfpublish_a_programming_book/</guid>
+      <pubDate>Fri, 13 Sep 2024 14:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 分钟内解决 CORS 问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1ffw96b/resolve_cors_issue_under_5_min/</link>
+      <description><![CDATA[  由    /u/Distinct-Curve-660  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ffw96b/resolve_cors_issue_under_5_min/</guid>
+      <pubDate>Fri, 13 Sep 2024 14:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>PaaScout：使用 40 多个标准比较现代平台即服务提供商</title>
+      <link>https://www.reddit.com/r/programming/comments/1fftw6k/paascout_compare_modern_platform_as_a_service/</link>
+      <description><![CDATA[  由    /u/ugros  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fftw6k/paascout_compare_modern_platform_as_a_service/</guid>
+      <pubDate>Fri, 13 Sep 2024 12:48:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装时出现 Stemroller 错误 -Mac</title>
+      <link>https://www.reddit.com/r/programming/comments/1fftw58/stemroller_error_on_install_mac/</link>
+      <description><![CDATA[我在安装时收到以下错误 - 您能提供建议吗？ &quot;StemRoller.app&quot; 未打开 Apple 无法验证&quot;StemRoller.app* 不含可能损害您的 Mac 或泄露您的隐私的恶意软件。 完成 移至垃圾箱    提交人    /u/lammyboyzzzz   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fftw58/stemroller_error_on_install_mac/</guid>
+      <pubDate>Fri, 13 Sep 2024 12:48:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 类中使用“self”的原因？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fftjfz/the_reason_why_self_is_used_in_python_classes/</link>
+      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fftjfz/the_reason_why_self_is_used_in_python_classes/</guid>
+      <pubDate>Fri, 13 Sep 2024 12:30:48 GMT</pubDate>
+    </item>
     <item>
       <title>可扩展性——备忘单🚀</title>
       <link>https://www.reddit.com/r/programming/comments/1ffsv73/scalability_the_cheat_sheet/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ffodw1/reasons_i_still_love_the_fish_shell/</guid>
       <pubDate>Fri, 13 Sep 2024 06:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有产品意识的软件工程师</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffjgm2/the_productminded_software_engineer/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffjgm2/the_productminded_software_engineer/</guid>
-      <pubDate>Fri, 13 Sep 2024 01:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的开放式 AI 模型在 Codeforces 上取得第 96 个百分位</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffftv5/new_open_ai_model_achieves_96th_percentile_on/</link>
-      <description><![CDATA[请就此发表您的看法，以及这将如何影响就业市场。    提交人    /u/Uni_Applicant_1688   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffftv5/new_open_ai_model_achieves_96th_percentile_on/</guid>
-      <pubDate>Thu, 12 Sep 2024 22:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI/ML 中的大 O 符号：它如何成就或毁掉你的项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffex4k/big_o_notation_in_aiml_how_it_can_make_or_break/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffex4k/big_o_notation_in_aiml_how_it_can_make_or_break/</guid>
-      <pubDate>Thu, 12 Sep 2024 22:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Webhooks 状况报告</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffcypm/state_of_webhooks_report_2024/</link>
-      <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffcypm/state_of_webhooks_report_2024/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:45:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Belt & Suspenders 让功能标记系统更加可靠</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffca2m/making_a_feature_flag_system_more_reliable_with_a/</link>
-      <description><![CDATA[  由    /u/jeffdwyer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffca2m/making_a_feature_flag_system_more_reliable_with_a/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open AI 刚刚发布了其新模型 o1 的性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffc4re/open_ai_just_released_the_performance_of_their/</link>
-      <description><![CDATA[  由    /u/arsenius7  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffc4re/open_ai_just_released_the_performance_of_their/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:11:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
