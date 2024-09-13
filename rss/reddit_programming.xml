@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 12 Sep 2024 21:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:04:10 GMT</lastBuildDate>
+    <item>
+      <title>新的开放式 AI 模型在 Codeforces 上取得第 96 个百分位</title>
+      <link>https://www.reddit.com/r/programming/comments/1ffftv5/new_open_ai_model_achieves_96th_percentile_on/</link>
+      <description><![CDATA[请就此发表您的看法，以及这将如何影响就业市场。    提交人    /u/Uni_Applicant_1688   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ffftv5/new_open_ai_model_achieves_96th_percentile_on/</guid>
+      <pubDate>Thu, 12 Sep 2024 22:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI/ML 中的大 O 符号：它如何成就或毁掉你的项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1ffex4k/big_o_notation_in_aiml_how_it_can_make_or_break/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ffex4k/big_o_notation_in_aiml_how_it_can_make_or_break/</guid>
+      <pubDate>Thu, 12 Sep 2024 22:11:29 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Webhooks 状况报告</title>
       <link>https://www.reddit.com/r/programming/comments/1ffcypm/state_of_webhooks_report_2024/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/mrjbq7  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ff3mdt/factor_0100_now_available/</guid>
       <pubDate>Thu, 12 Sep 2024 14:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>GuidedRose Kata - 我的 C# 解决方案 - 请提供反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1ff2xae/guidedrose_kata_my_solution_in_c_please_provide/</link>
-      <description><![CDATA[  由    /u/Vast_Reality993  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ff2xae/guidedrose_kata_my_solution_in_c_please_provide/</guid>
-      <pubDate>Thu, 12 Sep 2024 13:44:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Semantix：在 LLM 的帮助下创建超级函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1ff2s4n/semantix_create_super_functions_with_the_help_of/</link>
-      <description><![CDATA[Semantix 的作用 当前从 LLM 中提取结构化输出的方法通常依赖于 DSPy、OpenAI Structured Outputs 和 Langchain JSON Schema 等库。这些库通常使用 Pydantic Models 来创建表示类、枚举和类型的 JSON 模式。但是，这种方法成本高昂，因为许多 LLM 将 JSON 模式的每个元素（例如 {、:、&quot;$&quot;）视为单独的标记，从而导致成本增加，因为 JSON 模式中存在大量标记。 Semantix 提供了一种不同且更具成本效益的解决方案。Semantix 不使用 JSON 模式，而是以更文本化的方式表示类、枚举和对象，从而减少标记数量并降低推理成本。此外，Semantix 利用 Python 的内置类型系统，并进行了一些小的修改，为参数、函数签名、类、枚举和函数提供了含义。这种方法消除了对不必要的 Pydantic 模型和用于不同提示方法的各种类的需求。Semantix 还使开发人员可以轻松创建由 GenAI 驱动的函数。 目标受众 Semantix 专为使用过 Langchain 和 DSPy 等库并厌倦了处理 Pydantic 模型和 JSON 模式的开发人员而设计。它也是那些想要在不学习大量新库的情况下向现有或新应用程序添加 AI 功能的人的理想选择。 比较 Semantix 支持多模式输入，让您轻松使用图像和视频。与其他库不同，Semantix 只需进行最少的代码更改即可获得出色的结果。 准备好尝试了吗？查看我们的 Colab 笔记本 此处 并浏览我们的 GitHub 存储库 此处 了解更多详情。    提交人    /u/No-Base-1700   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ff2s4n/semantix_create_super_functions_with_the_help_of/</guid>
-      <pubDate>Thu, 12 Sep 2024 13:37:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
