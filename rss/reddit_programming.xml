@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Sep 2024 18:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 21:02:15 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的新“深度思考”o1 模型在编码基准测试中胜出</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg58tt/openais_new_deepthinking_o1_model_crushes_coding/</link>
+      <description><![CDATA[  由    /u/Thisisntsteve  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg58tt/openais_new_deepthinking_o1_model_crushes_coding/</guid>
+      <pubDate>Fri, 13 Sep 2024 20:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>prldel：并行删除 Windows 目录</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg4sgm/prldel_parallel_delete_of_windows_directories/</link>
+      <description><![CDATA[  由    /u/gabrielszt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg4sgm/prldel_parallel_delete_of_windows_directories/</guid>
+      <pubDate>Fri, 13 Sep 2024 20:34:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 grgry 管理多个仓库</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg4j2a/manage_multiple_repos_with_grgry/</link>
+      <description><![CDATA[大家好 作为一家大公司的 DevOps 工程师，我反复遇到必须管理大量 Gitlab / Github 存储库的问题，其中许多存储库是 k8s 的 ops 配置，但也是操作员和服务。我很难管理大量存储库的手动更改，例如重构、新版本的服务等，因此我编写了 grgry。grgry 是一个简单的 CLI 工具，它应该支持克隆、推送和基本管理 git 存储库。因此，可以使用一个命令克隆整个组或组织，并且可以同时在多个 git 存储库上完成所需的 git 操作，当然所有这些都由正则表达式包含/排除支持。 如果有人遇到与我相同的问题或只是想尝试该工具，获得反馈会很有趣。   由    /u/Yingrjimsch  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg4j2a/manage_multiple_repos_with_grgry/</guid>
+      <pubDate>Fri, 13 Sep 2024 20:23:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 锁定 0 到 100</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg354c/postgresql_locking_0_to_100/</link>
+      <description><![CDATA[  由    /u/ayrusk8  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg354c/postgresql_locking_0_to_100/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统设计草图</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg32k7/system_design_sketches/</link>
+      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg32k7/system_design_sketches/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:21:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>紧凑 JSON 中的 DOM 树表示——规范、库和 CLI</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg2zpo/dom_tree_representation_in_compact_json_spec/</link>
+      <description><![CDATA[  由    /u/Last_Establishment_1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg2zpo/dom_tree_representation_in_compact_json_spec/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了编码之外，高级工程师还需要以下不完整技能清单</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg1uot/an_incomplete_list_of_skills_senior_engineers/</link>
+      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg1uot/an_incomplete_list_of_skills_senior_engineers/</guid>
+      <pubDate>Fri, 13 Sep 2024 18:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么全局变量不好</title>
+      <link>https://www.reddit.com/r/programming/comments/1fg1uig/why_global_variables_are_bad/</link>
+      <description><![CDATA[  由    /u/ayrusk8  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fg1uig/why_global_variables_are_bad/</guid>
+      <pubDate>Fri, 13 Sep 2024 18:28:55 GMT</pubDate>
+    </item>
     <item>
       <title>将 SBCL 移植到 Nintendo Switch</title>
       <link>https://www.reddit.com/r/programming/comments/1fg0aoi/porting_sbcl_to_the_nintendo_switch/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[  由    /u/Pioneer_X  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ffssq2/why_i_prefer_exceptions_to_error_values/</guid>
       <pubDate>Fri, 13 Sep 2024 11:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>价值飞轮效应：现代云策略 • David Anderson 和 Charles Humble</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffskla/the_value_flywheel_effect_a_modern_cloud_strategy/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffskla/the_value_flywheel_effect_a_modern_cloud_strategy/</guid>
-      <pubDate>Fri, 13 Sep 2024 11:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>实用程序员：通往精通的旅程（书籍）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffrpcw/pragmatic_programmer_the_your_journey_to_mastery/</link>
-      <description><![CDATA[  由    /u/davinci-code  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffrpcw/pragmatic_programmer_the_your_journey_to_mastery/</guid>
-      <pubDate>Fri, 13 Sep 2024 10:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好！我一直在开发一款由 VLM 驱动的应用程序，它可以处理监控视频，自动提取帧，并生成详细的注释以突出显示值得注意的事件、动作和物体。它由经过微调的 Florence-2 VLM 提供支持，我专门针对 SPHAR 数据集对其进行了训练</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffrgkb/hey_everyone_ive_been_working_on_an_vlm_driven/</link>
-      <description><![CDATA[  由    /u/BriefAd4761  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffrgkb/hey_everyone_ive_been_working_on_an_vlm_driven/</guid>
-      <pubDate>Fri, 13 Sep 2024 10:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>CEL 和 Kubescape：改变 Kubernetes 准入控制</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffqz7a/cel_and_kubescape_transforming_kubernetes/</link>
-      <description><![CDATA[  由    /u/oatridbed  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffqz7a/cel_and_kubescape_transforming_kubernetes/</guid>
-      <pubDate>Fri, 13 Sep 2024 10:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 Ctrl-C：Unix 信号处理的黑暗角落 :: sunshowers</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffqtdn/beyond_ctrlc_the_dark_corners_of_unix_signal/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffqtdn/beyond_ctrlc_the_dark_corners_of_unix_signal/</guid>
-      <pubDate>Fri, 13 Sep 2024 09:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>MySQL 索引合并优化实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffqm7o/mysql_index_merge_optimization_practices/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffqm7o/mysql_index_merge_optimization_practices/</guid>
-      <pubDate>Fri, 13 Sep 2024 09:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Res-Unet 分割皮肤黑色素瘤</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffpta8/how_to_segment_skin_melanoma_using_resunet/</link>
-      <description><![CDATA[  由    /u/Feitgemel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffpta8/how_to_segment_skin_melanoma_using_resunet/</guid>
-      <pubDate>Fri, 13 Sep 2024 08:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>教程：在 Mac 上自行托管 Yi-Coder 以支持 Cursor</title>
-      <link>https://www.reddit.com/r/programming/comments/1ffphtq/tutorial_self_host_yicoder_on_mac_to_power_cursor/</link>
-      <description><![CDATA[  由    /u/smileymileycoin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ffphtq/tutorial_self_host_yicoder_on_mac_to_power_cursor/</guid>
-      <pubDate>Fri, 13 Sep 2024 08:10:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
