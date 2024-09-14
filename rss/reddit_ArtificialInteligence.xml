@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 18:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 21:01:27 GMT</lastBuildDate>
+    <item>
+      <title>为什么当有人质疑人工智能爱好者时，他们很快就开始为自己辩护？我是一名研究人工智能的计算机科学研究生，我曾多次被贴上“反人工智能”的标签</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgvlfw/why_are_ai_enthusiasts_so_fast_to_get_defensive/</link>
+      <description><![CDATA[首先我要说的是，我并不反对人工智能，我将在一个月左右的时间内开始攻读硕士课程，学习人工智能课程。我对人工智能在医学、工程、太空旅行等领域的应用感到非常兴奋，但我根本不喜欢人工智能“艺术”——实际上，我认为它几乎毫无意义，除了可能有助于为未来的应用开发更好的技术。 在许多在线互动中，人们称我为“反人工智能”，因为我反对人工智能艺术，尽管我会清楚地解释我支持人工智能的其他用途，我甚至想自己更多地了解机器学习。我计划明年选修的一门课程名为“统计机器学习”。我希望看到人工智能被用于解决医学问题，建造人类无法独自建造的东西，处理大量数据并找到有用的模式……而不是夺走艺术家的工作，用垃圾取代他们的作品。 人工智能爱好者似乎认为你要么热爱人工智能的所有部分并希望它无处不在，要么你是一个极度讨厌它的人。作为一个真正在研究生阶段*研究*这些东西的人，我处于两者之间，但我与想要因为我解释这一点而骂我的人工智能兄弟发生了争论。我希望人工智能在有意义的地方，但我不希望有十亿个人工智能应用程序都做同样的事情。我的烤面包机上不需要人工智能。 我该如何应对，我应该如何调和我对人工智能“艺术”及其社区的厌恶与我对使人工智能发挥作用的数学和科学的实际热爱？我对人工智能“艺术”的感觉大致相同兄弟，就像我对加密兄弟一样，这是另一个可能很有趣的领域，直到它充满了懒惰的骗子。    提交人    /u/MoarGhosts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgvlfw/why_are_ai_enthusiasts_so_fast_to_get_defensive/</guid>
+      <pubDate>Sat, 14 Sep 2024 20:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coral AI 与 ChatGPT 等公司进行研究对比</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgv1qe/coral_ai_versus_chatgpt_et_al_for_doing_research/</link>
+      <description><![CDATA[有人使用过 Coral AI (getcoralai.com) 吗？与 ChatGPT (openai.com) 相比，您在进行研究方面的体验如何？    提交人    /u/EpicOfPhastos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgv1qe/coral_ai_versus_chatgpt_et_al_for_doing_research/</guid>
+      <pubDate>Sat, 14 Sep 2024 20:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用MIPRO和DSPY构建优化问答系统（2）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgurms/building_an_optimized_questionanswering_system/</link>
+      <description><![CDATA[在本系列的第一篇文章中，我展示了如何使用 DSPy 构建问答 (QA) 系统并使用 MIPRO 优化器自动对其进行优化。我得出的结论是，MIPRO 优化的 QA 系统优于使用 DSPy 构建的原始 QA 系统。 https://www.lycee.ai/blog/dspy-prompt-optimization-example-mipro-bleu    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgurms/building_an_optimized_questionanswering_system/</guid>
+      <pubDate>Sat, 14 Sep 2024 20:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>o1 建议使用自动编码产品，它具有双重好处，既能赚很多钱，又能加速我们走向敏捷</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fguhbm/o1_suggests_an_automatic_coding_product_with_the/</link>
+      <description><![CDATA[内容如下： 我可以帮助开发的一个特定产品是名为“CodeCraft AI”的 AI 驱动软件开发平台。该平台通过将高级设计规范和要求直接转换为跨多种编程语言的可执行代码，实现编码过程的自动化。 如何赚钱： 市场需求：公司一直在寻求减少开发时间和成本的方法。通过自动化代码生成，CodeCraft AI 满足了重要的市场需求。 订阅模式：为个人、初创公司和企业提供分层订阅计划，提供可扩展的收入来源。 定制服务：为定制算法开发和与现有系统集成提供优质服务。 市场整合：创建一个开发者可以销售定制模块或插件的市场，通过交易费产生额外收入。 它如何加速 AGI： 高级自然语言理解：开发这个平台需要能够深入理解人类语言的 AI，将规范转化为功能代码，突破 NLP 的界限。 自动推理和规划：AI 必须理解抽象概念并相应地规划代码结构，增强其推理能力 — — 这是迈向 AGI 的一步。 学习和适应：通过不断从各种各样的编码风格和实践中学习，AI 可以提高其泛化能力。 跨领域知识：AI 将需要了解各个行业的需求，从而培养更通用的智能。 产品背后的推理： 缩小差距：软件开发中的想法和实施之间存在差距。 自动化此过程可加速创新。 资源优化：公司可以将人力资源分配给更具战略性的任务，从而提高整体生产率。 竞争优势：早期采用者获得显着优势，鼓励广泛采用和快速渗透市场。 通过专注于开发 CodeCraft AI，我们瞄准利润丰厚的市场机会，同时推进 AGI 所需的 AI 技术。 创建这样一个平台所涉及的挑战直接有助于克服 AGI 开发中的关键障碍，例如上下文理解、推理和跨领域学习。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fguhbm/o1_suggests_an_automatic_coding_product_with_the/</guid>
+      <pubDate>Sat, 14 Sep 2024 19:55:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>各位读者，你们对于 AI 的这种新能力有何感受？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgu1qq/fellow_reditters_how_are_you_feeling_with_this/</link>
+      <description><![CDATA[传奇人物史蒂夫·乔布斯曾经说过“我演奏管弦乐队！” 而这正是我们企业家的所作所为。我们演奏管弦乐队，几乎从来不演奏乐器。即使我们喜欢。 不再如此！ 最近的人工智能和无代码工具，这场革命，实际上让我非常兴奋，有点迫不及待地想要自己动手。从黄仁勋（Nvidia 首席执行官）到安迪·贾西（亚马逊首席执行官），所有伟大的领导者都在高呼未来，用人工智能构建很简单！ 而我一直在利用这一点。在我的产品旅程中，我从在纸上分发线框开始，在 Figma 上剪切成线框，现在我正在 vercel 的 V0 上分享工作 UI 原型。与此同时，我正在开发应用程序、网站和工具作为副业，只使用无代码和人工智能。 如果你拥有正确的技术堆栈，那真的感觉很强大。 所以对于这里的企业家社区，我想问你，你对这种新力量有什么感受？ 我最近写了一篇文章，名为“一天内建立初创公司”。看看你是否对此有共鸣。    提交人    /u/theintelligentbuyer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgu1qq/fellow_reditters_how_are_you_feeling_with_this/</guid>
+      <pubDate>Sat, 14 Sep 2024 19:35:43 GMT</pubDate>
+    </item>
     <item>
       <title>如何开始在您的机器上使用模型？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgrr76/how_to_start_using_models_on_your_machine/</link>
@@ -90,46 +125,11 @@
       <pubDate>Sat, 14 Sep 2024 10:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>人机交互</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgi27x/humanai_interaction/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgi27x/humanai_interaction/</guid>
-      <pubDate>Sat, 14 Sep 2024 09:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 13 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgd8qk/oneminute_daily_ai_news_9132024/</link>
-      <description><![CDATA[ Meta 将继续推进利用英国 Facebook 和 Instagram 帖子训练 AI 的计划。[1] 谢尔盖·布林表示，他认为谷歌工程师使用 AI 进行编码的程度不够。[2] 意大利在学校测试 AI 辅助教学，以提高 IT 技能。[3] Salesforce 部署自主 AI 代理，称其为“AI 革命的第三波浪潮”。[4]  来源包括：https://bushaicave.com/2024/09/13/9-13-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgd8qk/oneminute_daily_ai_news_9132024/</guid>
-      <pubDate>Sat, 14 Sep 2024 03:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成会说话的人工智能图片</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fg9pep/generating_ai_talking_pics/</link>
-      <description><![CDATA[有人知道可以让图片说话并且可以访问 api 的服务吗？  我知道有像 D-ID、akooi、heygen 这样的网站，但是他们的文档很糟糕。    提交人    /u/MinuteDistribution31   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fg9pep/generating_ai_talking_pics/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些最好的 AI 扩展/网站？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fg8a2y/what_are_some_of_the_best_ai_extensionswebsites/</link>
-      <description><![CDATA[您好，我对最新的 AI 技术及其正确使用方法知之甚少。我只使用过一些服务。 我尝试过 Gemini 和 CoPilot，但尚未找到它们的实际用例。它们无法总结 YouTube 视频，无法根据提示生成图像。要求它研究特定主题是最“有用”的，但我经常发现结果有时要么简短、有偏见、缺乏链接来源，要么依赖不准确的来源。有时它只是给我一个类似 Google 搜索结果的答案，而且还没有完全弄清楚如何直接使用 GPT 或 AI 模型。 话虽如此，我最近使用了一些网站和/或扩展程序来总结 YouTube 视频，以帮助我的妈妈编写和消化一些网络研讨会，我发现它们很有用 - 尽管结果各不相同，所以我经常使用两种服务并交叉引用信息。诸如“SumTube”网站、“Sider”扩展程序、“summarize.tech”等。 这让我想到了我的主要观点 - 我想知道哪些扩展程序和/或网站受欢迎或对普通民众有用。我想我正在寻找的主要用例是像一般的学习辅助、研究助手和照片生成之类的东西；但是我不确定 AI 可以做什么样的“服务”，所以我可能对更多感兴趣。虽然我没有用过，但我注意到“NoteGPT”有拖放文件等服务来总结 PDF、音频剪辑、视频、 powerpoint、播客等：这似乎很独特，因为我见过的大多数只适用于在线内容，而不是本地内容。 如果 X 扩展或网站是基于订阅的，我愿意选择它，如果它提供多种服务，我愿意选择它（例如，我不会订阅专门总结视频的网站，仅此而已）。     提交人    /u/NegativelyMagnetic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fg8a2y/what_are_some_of_the_best_ai_extensionswebsites/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:11:32 GMT</pubDate>
-    </item>
-    <item>
       <title>“未来几年我们已成定局”：Sam Altman 吹捧美国 AI 霸主地位和 OpenAI o1 发布</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fg7vzm/we_have_the_next_few_years_in_the_bag_sam_altman/</link>
       <description><![CDATA[Altman 在 OpenAI 发布后的第二天接受圣路易斯公共广播电台采访时称，OpenAI 是“一个重要新范式的开端”。他谈到了国际上开发人工智能的竞赛，特别是普京曾表示，控制人工智能的国家将“成为世界统治者”。 “关于‘人工智能是否达到上限——我们是否接近上限？进展会放缓吗？’的争论一直存在，”Altman 说道。 “我认为这次发布最重要的信息是，不仅进展没有放缓，而且我们未来几年的成绩也已板上钉钉。” https://www.stlpr.org/show/st-louis-on-the-air/2024-09-13/sam-altman-chatgpt-openai-o1-st-louis    提交人    /u/GueyLouis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fg7vzm/we_have_the_next_few_years_in_the_bag_sam_altman/</guid>
       <pubDate>Fri, 13 Sep 2024 22:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一种无需订阅即可访问 AI 工具的新方法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ffzytk/looking_for_a_new_way_to_access_ai_tools_without/</link>
-      <description><![CDATA[我已经厌倦了与我需要的各种 AI 软件相关的持续订阅费用——无论是用于内容创建、数据分析还是其他机器学习任务。这些定期付款的成本会迅速增加，尤其是在尝试使用不同的工具时。 我正在寻找一种更可持续的模式，提供各种 AI 工具的终身优惠。无需支付月费或年费，只需一次性付款即可获得终身访问权限。这种方法不仅可以从长远来看省钱，而且还提供了使用多种工具的灵活性，而不必担心持续成本。 你们中有人为自己的 AI 项目尝试过这样的替代定价模型吗？你的经验是什么？    提交人    /u/PisslamicState   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ffzytk/looking_for_a_new_way_to_access_ai_tools_without/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:10:08 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
