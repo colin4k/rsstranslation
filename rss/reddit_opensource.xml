@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 14 Sep 2024 09:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 12:02:27 GMT</lastBuildDate>
     <item>
-      <title>Swiftide 0.12 增加了混合搜索、搜索过滤器、拼花加载器和巨大的减速带</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fggj57/swiftide_012_adds_hybrid_search_search_filters/</link>
-      <description><![CDATA[  由    /u/timonvonk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fggj57/swiftide_012_adds_hybrid_search_search_filters/</guid>
-      <pubDate>Sat, 14 Sep 2024 07:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Paramiko 和 xterm.js 构建了一个免费、安全、开源、移动就绪的 websocket SSH 客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fgf30t/i_built_a_free_secure_open_source_mobile_ready/</link>
-      <description><![CDATA[        由    /u/jeanjaspermusic 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fgf30t/i_built_a_free_secure_open_source_mobile_ready/</guid>
-      <pubDate>Sat, 14 Sep 2024 05:31:21 GMT</pubDate>
+      <title>yTui，ytfzf 的 Golang 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</link>
+      <description><![CDATA[        提交人    /u/NghangPho   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</guid>
+      <pubDate>Sat, 14 Sep 2024 09:34:42 GMT</pubDate>
     </item>
     <item>
       <title>开源全民医疗保健系统</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由    /u/NterpriseCEO 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffhu16/looking_for_open_source_collaborators/</guid>
       <pubDate>Fri, 13 Sep 2024 00:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SusCode 启动！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</link>
+      <description><![CDATA[如果您是 VS Code 用户，请查看此 OSP - SusCode，这是一个可以扫描其他扩展中是否存在恶意类型代码的扩展。 https://www.reddit.com/r/vscode/comments/1ff9uk6/suscode_an_open_source_solution_to_rising_vs_code/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button    提交人    /u/AchillesHeir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:15:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

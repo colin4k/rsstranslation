@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 14 Sep 2024 09:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 12:02:19 GMT</lastBuildDate>
+    <item>
+      <title>探索替代方案：纯 HTML 实时在线聊天，无需 JavaScript</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgkeu0/exploring_alternatives_pure_html_real_time_chat/</link>
+      <description><![CDATA[  由    /u/EDBC_REPO  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgkeu0/exploring_alternatives_pure_html_real_time_chat/</guid>
+      <pubDate>Sat, 14 Sep 2024 11:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pongo 获得强类型客户端、迁移和命令行工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgkemy/pongo_gets_stronglytyped_client_migrations_and/</link>
+      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgkemy/pongo_gets_stronglytyped_client_migrations_and/</guid>
+      <pubDate>Sat, 14 Sep 2024 11:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>思想树：利用新数据集推进人工智能推理</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgje31/tree_of_thoughts_advancing_ai_reasoning_with_a/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgje31/tree_of_thoughts_advancing_ai_reasoning_with_a/</guid>
+      <pubDate>Sat, 14 Sep 2024 10:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以在 Apachi 服务器中托管除 webapp 或 html 文件之外的其他内容</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgiyzm/is_it_possible_to_host_anything_other_than_webapp/</link>
+      <description><![CDATA[  由    /u/BeginningAd7095  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgiyzm/is_it_possible_to_host_anything_other_than_webapp/</guid>
+      <pubDate>Sat, 14 Sep 2024 10:18:26 GMT</pubDate>
+    </item>
     <item>
       <title>FetchPHP – 一个受 JavaScript 的 `fetch` 启发的简单、开源 PHP HTTP 库</title>
       <link>https://www.reddit.com/r/programming/comments/1fghtdc/fetchphp_a_simple_open_source_http_library_for/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/gabrielszt  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fg4sgm/prldel_parallel_delete_of_windows_directories/</guid>
       <pubDate>Fri, 13 Sep 2024 20:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 grgry 管理多个仓库</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg4j2a/manage_multiple_repos_with_grgry/</link>
-      <description><![CDATA[大家好 作为一家大公司的 DevOps 工程师，我反复遇到必须管理大量 Gitlab / Github 存储库的问题，其中许多存储库是 k8s 的 ops 配置，但也是操作员和服务。我很难管理大量存储库的手动更改，例如重构、新版本的服务等，因此我编写了 grgry。grgry 是一个简单的 CLI 工具，它应该支持克隆、推送和基本管理 git 存储库。因此，可以使用一个命令克隆整个组或组织，并且可以同时在多个 git 存储库上完成所需的 git 操作，当然所有这些都由正则表达式包含/排除支持。 如果有人遇到与我相同的问题或只是想尝试该工具，获得反馈会很有趣。   由    /u/Yingrjimsch  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg4j2a/manage_multiple_repos_with_grgry/</guid>
-      <pubDate>Fri, 13 Sep 2024 20:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 锁定 0 到 100</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg354c/postgresql_locking_0_to_100/</link>
-      <description><![CDATA[  由    /u/ayrusk8  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg354c/postgresql_locking_0_to_100/</guid>
-      <pubDate>Fri, 13 Sep 2024 19:23:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计草图</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg32k7/system_design_sketches/</link>
-      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg32k7/system_design_sketches/</guid>
-      <pubDate>Fri, 13 Sep 2024 19:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>紧凑 JSON 中的 DOM 树表示——规范、库和 CLI</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg2zpo/dom_tree_representation_in_compact_json_spec/</link>
-      <description><![CDATA[  由    /u/Last_Establishment_1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg2zpo/dom_tree_representation_in_compact_json_spec/</guid>
-      <pubDate>Fri, 13 Sep 2024 19:17:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
