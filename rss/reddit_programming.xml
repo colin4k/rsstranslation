@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 14 Sep 2024 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 18:02:07 GMT</lastBuildDate>
+    <item>
+      <title>陶哲轩谈 OpenAI 的新 o1 模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgrxx0/terence_tao_on_openais_new_o1_model/</link>
+      <description><![CDATA[  由    /u/mitousa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgrxx0/terence_tao_on_openais_new_o1_model/</guid>
+      <pubDate>Sat, 14 Sep 2024 17:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 ECS：存储图片</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgrggr/building_an_ecs_storage_in_pictures/</link>
+      <description><![CDATA[  由    /u/ajmmertens  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgrggr/building_an_ecs_storage_in_pictures/</guid>
+      <pubDate>Sat, 14 Sep 2024 17:33:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在远程 Linux 服务器上使用 Visual Studio Code 创建 Spring Boot 应用程序。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgq6lx/create_a_spring_boot_app_with_visual_studio_code/</link>
+      <description><![CDATA[  由    /u/Ill-Lack-7195  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgq6lx/create_a_spring_boot_app_with_visual_studio_code/</guid>
+      <pubDate>Sat, 14 Sep 2024 16:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>“整体优先”是更好的方法吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgphit/is_monolith_first_the_better_approach/</link>
+      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgphit/is_monolith_first_the_better_approach/</guid>
+      <pubDate>Sat, 14 Sep 2024 16:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从堆栈上的字节中解开损坏的调用堆栈 - 专家级调试</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgoq7c/how_to_unwind_a_corrupted_calllstack_from_bytes/</link>
+      <description><![CDATA[  由    /u/ReDucTor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgoq7c/how_to_unwind_a_corrupted_calllstack_from_bytes/</guid>
+      <pubDate>Sat, 14 Sep 2024 15:31:39 GMT</pubDate>
+    </item>
     <item>
       <title>模拟 8 位微处理器并使用它来模拟 Apple ][</title>
       <link>https://www.reddit.com/r/programming/comments/1fgn1uq/simulating_an_8bit_microprocessor_and_using_it_to/</link>
@@ -46,13 +81,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fglds2/harnessing_local_resources_generating_cot/</guid>
       <pubDate>Sat, 14 Sep 2024 12:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Rust 体素引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgl471/how_to_go_about_a_rust_voxel_engine/</link>
-      <description><![CDATA[  由    /u/BorysTheGreat  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgl471/how_to_go_about_a_rust_voxel_engine/</guid>
-      <pubDate>Sat, 14 Sep 2024 12:38:06 GMT</pubDate>
     </item>
     <item>
       <title>我从推动开发者主导的增长产品中学到的 5 条上市经验</title>
@@ -97,32 +125,11 @@
       <pubDate>Sat, 14 Sep 2024 10:48:55 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以在 Apachi 服务器中托管除 webapp 或 html 文件之外的任何内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgiyzm/is_it_possible_to_host_anything_other_than_webapp/</link>
-      <description><![CDATA[  由    /u/BeginningAd7095  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgiyzm/is_it_possible_to_host_anything_other_than_webapp/</guid>
-      <pubDate>Sat, 14 Sep 2024 10:18:26 GMT</pubDate>
-    </item>
-    <item>
       <title>FetchPHP – 一个受 JavaScript 的 `fetch` 启发的简单、开源 PHP HTTP 库</title>
       <link>https://www.reddit.com/r/programming/comments/1fghtdc/fetchphp_a_simple_open_source_http_library_for/</link>
       <description><![CDATA[  由    /u/thavarshan95  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fghtdc/fetchphp_a_simple_open_source_http_library_for/</guid>
       <pubDate>Sat, 14 Sep 2024 08:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的项目放在 USB 密钥上是一个好主意吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fghqcd/it_is_a_good_idea_to_put_my_project_on_usb_key/</link>
-      <description><![CDATA[将我的不同项目放在 USB 密钥上是个好主意吗？我的项目占用了电脑的大量空间，我想将它们放在 USB 密钥上。 如果这是一个好主意，我需要使用哪个文件系统来支持 Windows；Linux；macOS，并且速度快？    提交人    /u/Paolog__   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fghqcd/it_is_a_good_idea_to_put_my_project_on_usb_key/</guid>
-      <pubDate>Sat, 14 Sep 2024 08:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我计划为 AI 应用程序构建后端，以处理数据和 mlops。假设 Python 是此类用例的最佳语言，我应该使用 Django 还是 FastAPI，或者你会建议使用其他语言作为后端？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgh20t/i_am_planning_to_build_backends_for_ai/</link>
-      <description><![CDATA[  由    /u/fitvibesyt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgh20t/i_am_planning_to_build_backends_for_ai/</guid>
-      <pubDate>Sat, 14 Sep 2024 07:52:54 GMT</pubDate>
     </item>
     <item>
       <title>GPU 架构的动画分解</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fggp99/introduction_to_css_doodle_creating_patterns_with/</guid>
       <pubDate>Sat, 14 Sep 2024 07:24:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全 C++ - 内存安全 C++ 提案</title>
-      <link>https://www.reddit.com/r/programming/comments/1fggg8k/safe_c_a_memory_safe_c_proposal/</link>
-      <description><![CDATA[  由    /u/zsaleeba  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fggg8k/safe_c_a_memory_safe_c_proposal/</guid>
-      <pubDate>Sat, 14 Sep 2024 07:06:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
