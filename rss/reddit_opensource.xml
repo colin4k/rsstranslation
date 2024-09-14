@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 14 Sep 2024 00:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 03:02:50 GMT</lastBuildDate>
     <item>
       <title>miniconda 是 foss 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fg76mg/is_miniconda_foss/</link>
       <description><![CDATA[我不这么认为，但我不确定？如果没有，有什么替代方案    提交人    /u/FluffyBrudda   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fg76mg/is_miniconda_foss/</guid>
       <pubDate>Fri, 13 Sep 2024 22:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地人工智能聊天机器人朋友？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fg6xhr/local_ai_chat_bot_friend/</link>
-      <description><![CDATA[是否有本地可用的“朋友”聊天机器人，例如 Replika？    提交人    /u/Yanni_in_Lotus_Pose   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fg6xhr/local_ai_chat_bot_friend/</guid>
-      <pubDate>Fri, 13 Sep 2024 22:08:02 GMT</pubDate>
     </item>
     <item>
       <title>有没有适用于 Linux 的 Windows Photos 替代品，可以在同一个图库中同时显示照片和视频？并且可以用一个键旋转视频。</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[Google 地图具有与朋友/家人分享位置的功能，我的家人需要我与他们分享我的位置。 我知道您可以关闭定位功能，但他们想知道我在哪里，这是可以理解的。有没有真正注重隐私的替代方案？    提交人    /u/Guilty_Debt_6768   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffb9sm/google_maps_location_sharing_alternative/</guid>
       <pubDate>Thu, 12 Sep 2024 19:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找文本转语音程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ffa63h/looking_for_texttospeech_program/</link>
+      <description><![CDATA[正如标题所暗示的，我正在寻找一个文本转语音程序，最好是开源的，并且不是自然的 AI 生成的声音。 互联网上充斥着这些自然的基于 AI 的文本转语音生成器，所以我很难找到听起来更像人造的东西，比如旧的文本转语音引擎或 vocaloids。 编辑；我找到了一个基于在线的文本转语音工具，它具有我想要的感觉，但我更喜欢可以下载并在自己的计算机上运行的东西。    提交人    /u/randomgamenerd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ffa63h/looking_for_texttospeech_program/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:48:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
