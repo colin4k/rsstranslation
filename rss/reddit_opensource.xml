@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 14 Sep 2024 12:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 15:02:05 GMT</lastBuildDate>
+    <item>
+      <title>Diffumon - 一个简单的开源图像扩散模型</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgnvfv/diffumon_a_simple_open_source_diffusion_model_for/</link>
+      <description><![CDATA[       由    /u/RogueStargun  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgnvfv/diffumon_a_simple_open_source_diffusion_model_for/</guid>
+      <pubDate>Sat, 14 Sep 2024 14:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>将电子竞技比赛同步到您的日历。Liquipedia 到 iCal URL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgnmpc/sync_esport_matches_to_your_calendar_liquipedia/</link>
+      <description><![CDATA[       由    /u/snwfdhmp  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgnmpc/sync_esport_matches_to_your_calendar_liquipedia/</guid>
+      <pubDate>Sat, 14 Sep 2024 14:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化 PC、桌面 Windows 10 的最佳替代软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgkon7/best_alternative_software_for_optimising_pc/</link>
+      <description><![CDATA[嗨，优化台式电脑的最佳替代方案是什么，Windows 10 设置不是很好，这导致了混乱和存储空间不足。如果它是免费的，那就更好了，但只要软件能用，没有狡猾的骗局，那么付费功能就行。？     由   提交  /u/Mammoth-Courage4974   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgkon7/best_alternative_software_for_optimising_pc/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:13:49 GMT</pubDate>
+    </item>
     <item>
       <title>yTui，ytfzf 的 Golang 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[       由    /u/Vast_Lab8278  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffk83d/a_programming_language_coding_in_a_grid_have_you/</guid>
       <pubDate>Fri, 13 Sep 2024 02:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>maestro-cli，一个命令行音乐播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffi6e0/maestrocli_a_commandline_music_player/</link>
-      <description><![CDATA[https://github.com/PrajwalVandana/maestro-cli maestro 是一个命令行工具，用于在终端中播放歌曲（或任何音频）。其理念是在一个地方提供您能想到的所有音乐体验。 特点：  跨平台！ 有人在他们的 Linux 手机上运行它了吗？？疯狂的东西  从 YouTube、YouTube Music 或 Spotify 添加歌曲！ 流式传输您的音乐！  在此处阅读技术细节：https://github.com/PrajwalVandana/maestro-cli/blob/master/data/maestro_listen_along.pdf  歌词！  将外语歌词罗马化 翻译歌词！  剪辑！（您可以定义和播放歌曲的剪辑，而不是整首歌曲） 按标签过滤！ （取代传统的播放列表设计） 收听统计！（按年份和总体，可以按标签、艺术家、专辑等进行筛选） 随机播放！ （以及对重复时随机播放行为的精确控制）  还有“有界随机播放”，即保证一首歌曲在原来位置的 N 个位置之内  直接在终端中实现音频可视化！  在此处阅读技术细节：https://github.com/PrajwalVandana/maestro-cli/blob/master/data/maestro_vis.pdf  Discord 集成！ 音乐发现！     提交人    /u/Colts_Fan10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffi6e0/maestrocli_a_commandline_music_player/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源合作者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffhu16/looking_for_open_source_collaborators/</link>
-      <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由    /u/NterpriseCEO 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffhu16/looking_for_open_source_collaborators/</guid>
-      <pubDate>Fri, 13 Sep 2024 00:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SusCode 启动！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</link>
-      <description><![CDATA[如果您是 VS Code 用户，请查看此 OSP - SusCode，这是一个可以扫描其他扩展中是否存在恶意类型代码的扩展。 https://www.reddit.com/r/vscode/comments/1ff9uk6/suscode_an_open_source_solution_to_rising_vs_code/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button    提交人    /u/AchillesHeir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:15:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

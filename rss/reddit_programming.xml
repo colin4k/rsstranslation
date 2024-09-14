@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 14 Sep 2024 12:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 15:01:58 GMT</lastBuildDate>
+    <item>
+      <title>模拟 8 位微处理器并使用它来模拟 Apple ][</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgn1uq/simulating_an_8bit_microprocessor_and_using_it_to/</link>
+      <description><![CDATA[我从 MOS 6502 的维基百科页面开始。我最终得到了 Apple ][ 的周期精确模拟。现在，我正在用汇编语言编写 VisiCalc 的克隆版。 有时，这种爱好真的会让你陷入困境……    提交人    /u/AndThatsCrufts   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgn1uq/simulating_an_8bit_microprocessor_and_using_it_to/</guid>
+      <pubDate>Sat, 14 Sep 2024 14:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么要“设计两次”？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgmw9k/why_you_should_design_it_twice/</link>
+      <description><![CDATA[  由    /u/Missics  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgmw9k/why_you_should_design_it_twice/</guid>
+      <pubDate>Sat, 14 Sep 2024 14:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Netlify、Docker 和本地托管的 LLM 创建了一个免费的、AI 增强的 Jekyll 博客 - 您也可以这样做！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgmjcd/i_created_a_free_aienhanced_jekyll_blog_using/</link>
+      <description><![CDATA[  由    /u/KonradFreeman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgmjcd/i_created_a_free_aienhanced_jekyll_blog_using/</guid>
+      <pubDate>Sat, 14 Sep 2024 13:51:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyDPainter 2.0.0 发布——受 Deluxe Paint 启发的开源像素艺术编辑器</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgluk2/pydpainter_200_release_opensource_pixel_art/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgluk2/pydpainter_200_release_opensource_pixel_art/</guid>
+      <pubDate>Sat, 14 Sep 2024 13:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何保护基于 Ktor 的 Slack 机器人</title>
+      <link>https://www.reddit.com/r/programming/comments/1fglgfv/how_to_protect_your_ktor_based_slack_bot/</link>
+      <description><![CDATA[  由    /u/theapache64  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fglgfv/how_to_protect_your_ktor_based_slack_bot/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用本地资源：使用 Ollama 生成 COT 合成数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1fglds2/harnessing_local_resources_generating_cot/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fglds2/harnessing_local_resources_generating_cot/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Rust 体素引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgl471/how_to_go_about_a_rust_voxel_engine/</link>
+      <description><![CDATA[  由    /u/BorysTheGreat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgl471/how_to_go_about_a_rust_voxel_engine/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:38:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从推动开发者主导的增长产品中学到的 5 条上市经验</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgkx5o/5_gotomarket_lessons_i_learned_from_driving_a/</link>
+      <description><![CDATA[  由    /u/ClassicStrange6271  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgkx5o/5_gotomarket_lessons_i_learned_from_driving_a/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握数据科学的 SQL：按经验水平划分的热门 SQL 面试问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgkkjw/mastering_sql_for_data_science_top_sql_interview/</link>
+      <description><![CDATA[  由    /u/shyamcody  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgkkjw/mastering_sql_for_data_science_top_sql_interview/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全代码审查：如何在代码中查找 XSS（适合初学者）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fgkjyq/secure_code_review_how_to_find_xss_in_codefor/</link>
+      <description><![CDATA[  由    /u/Electronic_Village_8  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fgkjyq/secure_code_review_how_to_find_xss_in_codefor/</guid>
+      <pubDate>Sat, 14 Sep 2024 12:06:29 GMT</pubDate>
+    </item>
     <item>
       <title>探索替代方案：纯 HTML 实时在线聊天，无需 JavaScript</title>
       <link>https://www.reddit.com/r/programming/comments/1fgkeu0/exploring_alternatives_pure_html_real_time_chat/</link>
@@ -27,7 +97,7 @@
       <pubDate>Sat, 14 Sep 2024 10:48:55 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以在 Apachi 服务器中托管除 webapp 或 html 文件之外的其他内容</title>
+      <title>是否可以在 Apachi 服务器中托管除 webapp 或 html 文件之外的任何内容</title>
       <link>https://www.reddit.com/r/programming/comments/1fgiyzm/is_it_possible_to_host_anything_other_than_webapp/</link>
       <description><![CDATA[  由    /u/BeginningAd7095  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fgiyzm/is_it_possible_to_host_anything_other_than_webapp/</guid>
@@ -74,76 +144,6 @@
       <description><![CDATA[  由    /u/zsaleeba  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fggg8k/safe_c_a_memory_safe_c_proposal/</guid>
       <pubDate>Sat, 14 Sep 2024 07:06:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Express.js 5.0 经过长时间的延迟后发布，但由于项目呼吁贡献者，因此尚未成为默认版本 • DEVCLASS</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgel69/expressjs_50_released_after_long_delay_though_not/</link>
-      <description><![CDATA[  由    /u/stronghup  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgel69/expressjs_50_released_after_long_delay_though_not/</guid>
-      <pubDate>Sat, 14 Sep 2024 04:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我正在创建一个页面来记录一个 C++ 框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgdyiu/hey_guys_im_creating_a_page_to_document_a_c/</link>
-      <description><![CDATA[  由    /u/EDBC_REPO  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgdyiu/hey_guys_im_creating_a_page_to_document_a_c/</guid>
-      <pubDate>Sat, 14 Sep 2024 04:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发人员应该了解的 10 件事</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgdqx4/10_things_software_developers_should_learn_about/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgdqx4/10_things_software_developers_should_learn_about/</guid>
-      <pubDate>Sat, 14 Sep 2024 04:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>多态性是否依赖于继承？ - 鲍勃大叔</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgd1yp/does_polymorphism_depend_on_inheritance_uncle_bob/</link>
-      <description><![CDATA[  由    /u/Feisty_Tooth_8219  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgd1yp/does_polymorphism_depend_on_inheritance_uncle_bob/</guid>
-      <pubDate>Sat, 14 Sep 2024 03:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 框架理念 (Rust)</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgcwfx/web_framework_idea_rust/</link>
-      <description><![CDATA[  由    /u/nelrafa13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgcwfx/web_framework_idea_rust/</guid>
-      <pubDate>Sat, 14 Sep 2024 03:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node 22.5.0 中的 5 个为什么以及“退出处理程序从未调用”的修复</title>
-      <link>https://www.reddit.com/r/programming/comments/1fgcs3z/5_whys_and_the_fix_for_exit_handler_never_called/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fgcs3z/5_whys_and_the_fix_for_exit_handler_never_called/</guid>
-      <pubDate>Sat, 14 Sep 2024 03:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typescript 的行为会让你感到畏缩</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg7ba5/this_typescript_behavior_will_make_you_cringe/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg7ba5/this_typescript_behavior_will_make_you_cringe/</guid>
-      <pubDate>Fri, 13 Sep 2024 22:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头编写物理引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg5twa/writing_a_physics_engine_from_scratch/</link>
-      <description><![CDATA[  由    /u/theapache64  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg5twa/writing_a_physics_engine_from_scratch/</guid>
-      <pubDate>Fri, 13 Sep 2024 21:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的新“深度思考”o1 模型在编码基准测试中胜出</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg58tt/openais_new_deepthinking_o1_model_crushes_coding/</link>
-      <description><![CDATA[  由    /u/Thisisntsteve  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg58tt/openais_new_deepthinking_o1_model_crushes_coding/</guid>
-      <pubDate>Fri, 13 Sep 2024 20:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>prldel：并行删除 Windows 目录</title>
-      <link>https://www.reddit.com/r/programming/comments/1fg4sgm/prldel_parallel_delete_of_windows_directories/</link>
-      <description><![CDATA[  由    /u/gabrielszt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fg4sgm/prldel_parallel_delete_of_windows_directories/</guid>
-      <pubDate>Fri, 13 Sep 2024 20:34:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
