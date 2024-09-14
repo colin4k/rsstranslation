@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 14 Sep 2024 03:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 06:02:22 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个开源 chrome 扩展，只需选择文本即可立即弹出翻译，无需任何其他点击，也不需要额外的点击。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgf672/i_build_a_open_source_chrome_extension_that/</link>
+      <description><![CDATA[        由    /u/waa007 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgf672/i_build_a_open_source_chrome_extension_that/</guid>
+      <pubDate>Sat, 14 Sep 2024 05:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Paramiko 和 xterm.js 构建了一个免费、安全、开源、移动就绪的 websocket SSH 客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgf30t/i_built_a_free_secure_open_source_mobile_ready/</link>
+      <description><![CDATA[        由    /u/jeanjaspermusic 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgf30t/i_built_a_free_secure_open_source_mobile_ready/</guid>
+      <pubDate>Sat, 14 Sep 2024 05:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源全民医疗保健系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fgcxc4/open_source_universal_healthcare_system/</link>
+      <description><![CDATA[  由    /u/Asleep_Window6901  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fgcxc4/open_source_universal_healthcare_system/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>miniconda 是 foss 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fg76mg/is_miniconda_foss/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[[ 由于违反 内容政策，已被 Reddit 删除。 ]    由    /u/NterpriseCEO 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffhu16/looking_for_open_source_collaborators/</guid>
       <pubDate>Fri, 13 Sep 2024 00:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SusCode 启动！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</link>
-      <description><![CDATA[如果您是 VS Code 用户，请查看此 OSP - SusCode，这是一个可以扫描其他扩展中是否存在恶意类型代码的扩展。 https://www.reddit.com/r/vscode/comments/1ff9uk6/suscode_an_open_source_solution_to_rising_vs_code/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button    提交人    /u/AchillesHeir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffc8yf/suscode_launch/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:15:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 地图位置共享替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffb9sm/google_maps_location_sharing_alternative/</link>
-      <description><![CDATA[Google 地图具有与朋友/家人分享位置的功能，我的家人需要我与他们分享我的位置。 我知道您可以关闭定位功能，但他们想知道我在哪里，这是可以理解的。有没有真正注重隐私的替代方案？    提交人    /u/Guilty_Debt_6768   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffb9sm/google_maps_location_sharing_alternative/</guid>
-      <pubDate>Thu, 12 Sep 2024 19:34:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找文本转语音程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffa63h/looking_for_texttospeech_program/</link>
-      <description><![CDATA[正如标题所暗示的，我正在寻找一个文本转语音程序，最好是开源的，并且不是自然的 AI 生成的声音。 互联网上充斥着这些自然的基于 AI 的文本转语音生成器，所以我很难找到听起来更像人造的东西，比如旧的文本转语音引擎或 vocaloids。 编辑；我找到了一个基于在线的文本转语音工具，它具有我想要的感觉，但我更喜欢可以下载并在自己的计算机上运行的东西。    提交人    /u/randomgamenerd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffa63h/looking_for_texttospeech_program/</guid>
-      <pubDate>Thu, 12 Sep 2024 18:48:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
