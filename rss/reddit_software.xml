@@ -4,16 +4,37 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 15:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 18:05:31 GMT</lastBuildDate>
+    <item>
+      <title>推荐一些离线 Markdown 笔记应用？</title>
+      <link>https://www.reddit.com/r/software/comments/1fhiuz9/recommended_offline_markdown_note_taking_apps/</link>
+      <description><![CDATA[Markdown 在软件开发中变得非常方便，现在我也想在笔记中使用它。问题是我不知道有任何笔记应用程序具有 markdown 并且具有 Github 式的自由，例如链接其自身文件夹或互联网上的图片、标题链接或 Github 的所有特殊 markdown 扩展，包括特殊引用块、颜色编码代码块，甚至是使用 HTML 格式和 markdown 的选项。    提交人    /u/Eldeston   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fhiuz9/recommended_offline_markdown_note_taking_apps/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道可以做字幕和基本剪辑的免费/开源编辑软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fhi5v0/does_anyone_know_of_a_freeopen_source_editing/</link>
+      <description><![CDATA[由于 Capcut 的自动字幕功能有限，我想知道是否有人知道可以做字幕和基本剪切的免费/开源编辑软件。用例是我将精彩片段上传到 tiktok    提交人    /u/bellavoue   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fhi5v0/does_anyone_know_of_a_freeopen_source_editing/</guid>
+      <pubDate>Sun, 15 Sep 2024 17:33:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF-XChange 编辑器颜色苍白 - 已解决 [某种程度上]</title>
+      <link>https://www.reddit.com/r/software/comments/1fhgbpn/pdfxchange_editor_pale_color_solved_sort_of/</link>
+      <description><![CDATA[我正在使用 PDF-XChange Editor 查看带有彩色图像的 PDF。由于某种原因，有时颜色会“变灰”，这意味着有一些颜色，但看起来很糟糕。 解决方案：文件 &gt; 首选项 &gt; 颜色管理 &gt; 转换选项 更改引擎和/或选中/取消选中“使用黑点补偿” 最初我使用的引擎是：Little CMS，并选中使用黑点补偿。将引擎更改为 Microsoft ICM 可使颜色正常。继续测试，现在在选择不同的选项时，它会随机地恢复为灰色。但至少我可以再次看到 PDF 中正常的图像。    提交人    /u/Pathos675   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fhgbpn/pdfxchange_editor_pale_color_solved_sort_of/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:16:50 GMT</pubDate>
+    </item>
     <item>
       <title>软件和过山车……</title>
       <link>https://www.reddit.com/r/software/comments/1fhd7xm/software_and_roller_coasters/</link>
-      <description><![CDATA[我怀疑，这么多软件之所以如此糟糕，是因为它们的创造者拒绝使用他们创建的程序。强迫过山车制造商乘坐他们自己的过山车，过山车就不会出轨了。强迫飞机制造商乘坐他们的飞机，飞机可能就不会再从天上掉下来了。    提交人    /u/Many_Coconut7638   [link] [评论]]]></description>
+      <description><![CDATA[我怀疑，很多软件之所以如此糟糕，是因为它们的创造者拒绝使用他们创建的程序。强迫过山车制造商乘坐他们自己的过山车，过山车就不会飞出轨道。强迫飞机制造商乘坐他们的飞机，飞机可能就不会再从天上掉下来了。    提交人    /u/Many_Coconut7638   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fhd7xm/software_and_roller_coasters/</guid>
       <pubDate>Sun, 15 Sep 2024 14:02:33 GMT</pubDate>
     </item>
     <item>
-      <title>我可以将其保留在外部硬盘中的便携式软件，该软件填充了与硬盘中文件夹中更改相关的所有日志</title>
+      <title>我可以将便携式软件保存在外部硬盘中，该软件可将所有与硬盘文件夹中的更改相关的日志存储起来</title>
       <link>https://www.reddit.com/r/software/comments/1fhcbgq/a_portable_software_that_i_can_keep_in_my/</link>
       <description><![CDATA[更改复制、剪切、粘贴、删除、重命名和所有相关细节。    提交人    /u/the-sneaky_gar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fhcbgq/a_portable_software_that_i_can_keep_in_my/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[我想找到一个从播放列表链接下载的 YouTube 播放列表下载器。我需要下载每个视频，以便它们的顺序在文件资源管理器中保存，例如将它们列为 1、2、3、4 等，或者具有一些执行相同操作的元数据。 它可以是一个软件，但网站也可以。无论哪种方式都可以。    提交人    /u/otterfeet69   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fgd2zs/need_a_specific_youtube_downloader/</guid>
       <pubDate>Sat, 14 Sep 2024 03:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于特定文件夹的 RAID 样式软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1fgbr5l/raid_style_software_for_specific_folders/</link>
-      <description><![CDATA[我今天丢失了一个驱动器，上面有一些我没有备份的图片和文档。我通常很擅长保存它们，但这次不行，现在它们都不见了。  我的问题是：有没有软件可以只对特定文件夹而不是整个驱动器运行 RAID 样式备份？比如我希望能够在 Windows 上指定我的用户文件夹，并且只要对该文件夹进行更改，它就会自动将其镜像到我的其他 HDD 和外部驱动器。这样的东西一定存在，我只是不知道用什么词来搜索它。     提交人    /u/Impossible__Joke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fgbr5l/raid_style_software_for_specific_folders/</guid>
-      <pubDate>Sat, 14 Sep 2024 02:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 和 Bitbucket 的 AI 代码审查 | Korbit AI</title>
-      <link>https://www.reddit.com/r/software/comments/1fg9ufa/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</link>
-      <description><![CDATA[大家好！ 我是 Korbit AI 的开发人员，我们最近对我们的 AI 代码审阅者发布了一些重大更新（自动 Pr 描述、与 Korbit 协作的内联聊天、问题生成和演示的重大改进）！ https://www.korbit.ai 我们现在正式支持 Bitbucket 和 GitHub。 如果能得到我和团队努力工作的反馈，那将是一件不可思议的事情。 如果您有任何问题，请直接给我发问题，我希望您喜欢我们所有的辛勤工作，让您的代码审查变得更好。    提交人    /u/ItsRyeGuyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fg9ufa/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPC-HC 字幕无法自动加载</title>
-      <link>https://www.reddit.com/r/software/comments/1fg9nhm/mpchc_subtitles_wont_load_automatically/</link>
-      <description><![CDATA[救命！请温柔一点，我是个技术白痴。 有一段时间，我的 MPC-HC 不会自动加载字幕，即使勾选了“如果本地没有找到字幕，则自动搜索并下载字幕”。当我播放文件时，会出现一条信息“正在在线搜索字幕，请稍候”，一两秒后就会消失，没有添加字幕。每次打开新文件时，我都必须手动添加字幕，这很烦人。有时，带有可用字幕的窗口会在开始时弹出，但我必须手动选择并下载字幕。如果我不选择任何字幕，那么该窗口将保持打开状态，电影将继续在其下播放。 我也尝试了 MPC-BE，但只有音频，根本没有视频。 Win 11 Home，安装了 k-lite 编解码器包。     由    /u/TheNihilistic-Badger 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fg9nhm/mpchc_subtitles_wont_load_automatically/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:19:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
