@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 18:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 21:01:36 GMT</lastBuildDate>
+    <item>
+      <title>我可以使用什么 AI 聊天从网络链接编译本地事件？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeic/what_ai_chat_can_i_use_to_compile_local_events/</link>
+      <description><![CDATA[我尝试了一些方法，甚至是这个 subreddit 上其他类似帖子中提到的方法。下面是我想使用的提示： “这里是列出本地发生的事件的网页列表。您能否将不同网页上的所有事件编译成按日期排序的 1 个列表？忽略已经过去的日期。” [链接 1] [链接 2] [链接 3]  ...&quot; Chat GPT 无法访问链接。我试过 Aaron 浏览器插件。它告诉我自己从每个站点收集事件数据并在提示中提供。Bing AI 只给我一般事件，没有实际信息。肯定有一个工具可以做到这一点，对吧？看起来很简单。我提供的每个链接都有易于识别的事件，标题和日期以及基本文本的简短描述。我的想法是，每次尝试查看我所在地区我特别感兴趣的不同企业、地点和组织的本地动态时，就重新生成该提示。我的手机上有一个文件夹，里面有这些网站的链接，一次打开一个真的很繁琐。所以我想找到一种方法来在一个地方查看所有这些信息。    提交人    /u/conn250   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeic/what_ai_chat_can_i_use_to_compile_local_events/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:31:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>1,250 名出租车司机已被自动驾驶 Waymo 取代：他们能多快取代所有司机？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeg8/1250_taxi_drivers_already_replaced_by_autonomous/</link>
+      <description><![CDATA[Waymo 宣布每周打车 10 万次，这意味着： 每小时打车 2 次： 10 万次打车 ÷ 每周 80 次 = 1,250 名全职司机流失 随着 Waymo 迅速扩张，我想知道在美国，所有出租车司机要多久才能被取代。2 年？5 年？ 所有被取代的司机会怎样？（例如，美国有 150 万名 Uber 司机）    提交人    /u/Excellent_Box_8216   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeg8/1250_taxi_drivers_already_replaced_by_autonomous/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对人工智能的预测——它将如何解决“草莓”问题以及几乎所有你向它抛出的问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhjlsk/my_prediction_for_ai_how_it_could_solve_the/</link>
+      <description><![CDATA[人工智能在编码方面已经比以前好得多了。众所周知，如果你问法学硕士“strawberry”中有多少个 R，它很可能会告诉你错误的答案（根据 YouTuber Fireship 的说法，即使是 OpenAI 的新 o1 模型也是如此）。这可以通过人工智能的编码能力来解决。如果您向聊天机器人提出一个 LLM 不太适合回答的问题，那么在底层，它可以提示自己类似以下内容：  设计一个算法来回答该问题： &lt;您的提示或它的某些变体 - 例如，“strawberry”中有多少个 R？&gt;  然后，开发聊天机器人的公司可以让它向它自己提供的提示中添加任何他们想要的额外样板内容（例如，“确定哪种编程语言最适合这项任务”等）。OpenAI 的 o1 模型使用的思路链方法可以增加算法起作用的可能性。 之后，它会有一个算法。例如，该算法可能声明一个名为 count 的变量并将其初始化为 0，将“strawberry”的每个字符存储为在数组中，遍历数组，检查每个索引处的字符是否等于“r”或“R”，如果是，则将计数增加 1。然后，它可能会打印计数的值。 一旦编写完成，它就会执行该算法（输出 3）。接下来，它会获取其算法的输出，将其打包成答案，并为您提供该答案。 通过这种方法，LLM 将能够做很多他们目前无法做的事情。这将非常强大且具有潜在危险（尤其是让 AI 自由地编写和执行代码），但这似乎是合乎逻辑的一步，假设他们设置了许多保护措施并进行了广泛的测试。 它基本上能够编写满足您的提示所需的功能。它可以为自己提供工具来做它需要做的事情。 无论如何，这是我的预测。我只是想说出来以防它成真。我还想讨论一下这种方法的可行性。这样的事情有可能发生吗？或者有充分的理由说明为什么它永远不会发生？ Tl;dr：我预测，AI 聊天机器人有一天将能够提示自己编写和执行代码，从而以更高的准确度满足您的提示。您的看法是什么？    提交人    /u/DugFreely   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhjlsk/my_prediction_for_ai_how_it_could_solve_the/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>打造最便宜的人工智能视频平台——寻找另一位创始工程师</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhjc7n/building_the_cheapest_ai_video_platform_looking/</link>
+      <description><![CDATA[就某些情况而言，它将是市场上最便宜的长篇 AI 视频平台（目前价格为 4 美元/小时）+ 未经审查。本质上，我和我的团队正在寻找另一位愿意与我们一起努力并利用这个市场的开发人员。最近获得了一些合作机会，并意识到有另一个人加入会很棒。如果您有任何问题，请给我发私信或发表评论 :)    提交人    /u/cobalt1137   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhjc7n/building_the_cheapest_ai_video_platform_looking/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌人工智能广告</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhj7pn/i_hate_ai_advertisements/</link>
+      <description><![CDATA[好奇是否有人有这种感觉…… 我看到的所有这些 AI 广告归根结底都是“利用 AI 的力量撒谎和/或不诚实！” 示例： 奥运会广告中，小女孩告诉法学硕士给运动员写一封信，告诉运动员对她的启发。 新的苹果广告：  《怪奇物语》女孩在聚会上遇到一个男人。忘记了他的名字。AI 提醒了她他的名字。她假装记得他。他被骗了，以为她在乎他。 《怪奇物语》女孩正在和给她发邮件推销的女士共进午餐。《怪奇物语》女孩从未阅读过它/根本不在乎。 AI 告诉她宣传的内容，她假装读过，并欺骗其他女士认为她感兴趣。  我并不反对人工智能，但我觉得这些都是人工智能的负面用途，公司基本上都在推广对社会有害的人工智能用途。在我看来，人们使用人工智能来表达自己的情感或让人们认为他们比实际更有能力是有问题的。就像这些广告对我来说实际上是在宣传使用人工智能来欺骗人们，用人工智能来代替人类思想/情感的真正表达。 人工智能有很多强大而有益的用途，我知道这些都是人们想用人工智能做的非常低级的事情，但这些是人们应该用人工智能做的事情吗？我真的不喜欢公司采取这种角度。让我感到非常不舒服。 /rant    提交人    /u/Hot_Competition724   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhj7pn/i_hate_ai_advertisements/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:17:46 GMT</pubDate>
+    </item>
     <item>
       <title>StrawberryPi、o1 和一切：AGI 的曙光</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhgujk/strawberrypi_o1_and_everything_dawn_of_agi/</link>
@@ -41,18 +76,11 @@
       <pubDate>Sun, 15 Sep 2024 11:26:20 GMT</pubDate>
     </item>
     <item>
-      <title>为什么人工智能在药物开发方面未能达到预期</title>
+      <title>为何人工智能在药物研发领域未能达到预期</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh9zcc/why_ai_has_failed_to_live_up_to_the_hype_in_drug/</link>
       <description><![CDATA[ AI 在药物研发中面临挑战，Deep Genomics 等公司尽管最初承诺彻底改变该领域，但仍遭遇挫折。 药物开发本质上很困难，临床试验的失败率很高，而 AI 无法消除耗时且昂贵的试验。 专家们对 AI 可以在多大程度上加速药物开发存在争议，一些人认为它可能只会略微缩短时间。 AI 驱动的药物开发遭遇的挫折让我们了解到在充满挑战的行业中应用新技术的复杂性。 尽管存在障碍，AI 仍然是药物开发的有力工具，促使 Deep Genomics 等公司转变方法。  来源：https://www.theglobeandmail.com/business/article-artificial-intelligence-drug-research-hype/    由   提交  /u/NuseAI   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh9zcc/why_ai_has_failed_to_live_up_to_the_hype_in_drug/</guid>
       <pubDate>Sun, 15 Sep 2024 11:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 LoRA 通过 FluxLoRA.pro 拍摄的令人惊叹的 iPhone 16 产品照片。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh886p/stunning_iphone_16_product_shot_created_with/</link>
-      <description><![CDATA[  由    /u/Few-Huckleberry9656  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh886p/stunning_iphone_16_product_shot_created_with/</guid>
-      <pubDate>Sun, 15 Sep 2024 08:57:36 GMT</pubDate>
     </item>
     <item>
       <title>评论：Hoody.com AI（测试版）以及我为什么认为 AI 中的隐私很重要</title>
@@ -64,23 +92,9 @@
     <item>
       <title>FastAgency 简介：从 AutoGen 工作流程部署控制台或 Web 应用程序的最快方法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7m0h/introducing_fastagency_the_fastest_way_to_deploy/</link>
-      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需更改一行！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎贡献者:)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需一行更改！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎贡献者:)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7m0h/introducing_fastagency_the_fastest_way_to_deploy/</guid>
       <pubDate>Sun, 15 Sep 2024 08:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始在您的机器上使用模型？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7hci/how_to_start_using_models_on_your_machine/</link>
-      <description><![CDATA[我觉得自己开始使用 AI 有点晚了（除了使用 chatgpt 进行基本操作外），我想学习如何更多地使用它。例如，我目前正在寻找一个好的文本转语音模型，但我真的不知道从哪里找。你建议我今天如何开始使用 AI，我在哪里可以找到材料？    提交人    /u/VladTbk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7hci/how_to_start_using_models_on_your_machine/</guid>
-      <pubDate>Sun, 15 Sep 2024 08:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能指出这个 deepfake 程序吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh4sx7/can_anyone_pick_point_this_deepfake_program/</link>
-      <description><![CDATA[YouTube 上一个名为 @fake_ortega 的帐户有 Jenna Ortega 的深度伪造视频。看起来太棒了，我都没有意识到这是假的。她的帐户很快就吸引了超过 800 万订阅者。  有人知道她用什么程序制作视频吗？  https://youtube.com/shorts/wPFyOhlLlO8?si=6jGo5OtKIlSv3vBi    提交人    /u/AccordingEstimate563   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh4sx7/can_anyone_pick_point_this_deepfake_program/</guid>
-      <pubDate>Sun, 15 Sep 2024 04:56:26 GMT</pubDate>
     </item>
     <item>
       <title>使用 Cursor.ai 在几分钟内构建仪表板</title>
@@ -90,25 +104,11 @@
       <pubDate>Sun, 15 Sep 2024 04:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 14 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh4l4k/oneminute_daily_ai_news_9142024/</link>
-      <description><![CDATA[ 埃隆·马斯克和拉里·埃里森在晚餐时恳求Nvidia首席执行官黄仁勋提供 AI GPU。[1] 被许多人视为“人工智能教母”的斯坦福大学教授李飞飞为她的新创业公司 World Labs 筹集了 2.3 亿美元。[2] OpenAI 发布了其首款具有“推理”能力的模型 o1。[3] 这个人工智能聊天机器人让阴谋论者质疑他们的信念。[4]  来源包括：https://bushaicave.com/2024/09/14/9-14-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh4l4k/oneminute_daily_ai_news_9142024/</guid>
-      <pubDate>Sun, 15 Sep 2024 04:42:38 GMT</pubDate>
-    </item>
-    <item>
       <title>我花了 3 年时间打造一个人工智能投资平台。我希望得到您的反馈</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh3mi9/i_spent_3_years_making_an_aipowered_investing/</link>
-      <description><![CDATA[我创建了NexusTrade，一个由人工智能驱动的算法交易平台。 NexusTrade 让散户投资者可以轻松制定算法交易策略并进行财务研究。它的一些功能包括：  算法交易：允许用户创建、回测和部署自动交易策略，而无需编写代码。 无代码平台：专为非技术用户设计，提供用户友好的界面来配置和实施交易策略。 遗传优化引擎：结合先进的遗传算法来优化交易策略。 纸上交易：支持纸上交易，在实时部署之前在模拟环境中测试策略。 股票研究与分析：直接在平台内提供深入财务研究和分析的工具。 AI 股票筛选器：使用 LLM 驱动的股票筛选器根据自然语言查询识别有利可图的股票。 可自定义的监视列表：允许用户跟踪和监控他们最喜欢的股票和加密货币，以快速和易于参考。 每日股票新闻摘要：提供人工智能生成的每日股票新闻摘要。 数据驱动方法：推广数据驱动的交易和投资决策方法。 独特的投资机会：帮助用户根据数据找到新颖的投资机会。  我有一个很长（3 分钟）的演示和1 分钟速成课程。我很乐意收到有关该应用程序的反馈。   由    /u/NextgenAITrading  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我创建了NexusTrade，一个由人工智能驱动的算法交易平台。 NexusTrade 让散户投资者可以轻松制定算法交易策略并进行财务研究。它的一些功能包括：  算法交易：允许用户创建、回测和部署自动交易策略，而无需编写代码。 无代码平台：专为非技术用户设计，提供用户友好的界面来配置和实施交易策略。 遗传优化引擎：结合先进的遗传算法来优化交易策略。 纸上交易：支持纸上交易，在实时部署之前在模拟环境中测试策略。 策略库：允许用户从预先存在的策略库中复制。 股票研究与分析：提供直接在平台内进行深入财务研究和分析的工具。 AI 股票筛选器：用途一个由 LLM 驱动的股票筛选器，可根据自然语言查询识别有利可图的股票。 可自定义的监视列表：允许用户跟踪和监控他们最喜欢的股票和加密货币，以便快速轻松地参考。 每日股票新闻摘要：提供 AI 生成的每日股票新闻摘要。 数据驱动的方法：推广数据驱动的交易和投资决策方法。 独特的投资机会：帮助用户根据数据找到新颖的投资机会。  我有一个很长（3 分钟）的演示和1 分钟速成课程。我很乐意获得有关该应用程序的反馈。 编辑：感谢大家的喜爱！如果您对算法交易感兴趣，但不想使用某人的平台，我有一个开源平台，您可以下载并在计算机上运行！ 欢迎探索我的 GitHub！那里有很多很酷的东西。    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh3mi9/i_spent_3_years_making_an_aipowered_investing/</guid>
       <pubDate>Sun, 15 Sep 2024 03:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>电池材料和制造的人工智能/机器学习/深度学习研究项目</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh22pm/research_project_on_aimldeep_learning_for_battery/</link>
-      <description><![CDATA[大家好， 希望获得一些关于使用这些技术来改进电池的公司的想法。例如，Monolith AI 开发了一个用于研究和测试电池的 AI 模型。霍尼韦尔有一些很酷的 AI 集成制造软件。 有什么我可以研究的吗？谢谢     提交人    /u/Jewald   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh22pm/research_project_on_aimldeep_learning_for_battery/</guid>
-      <pubDate>Sun, 15 Sep 2024 02:13:42 GMT</pubDate>
     </item>
     <item>
       <title>如果人工智能为企业带来了巨大的增长，但同时也导致许多人因自动化而失业，那么股票市场将会怎样？</title>
@@ -141,7 +141,7 @@
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>

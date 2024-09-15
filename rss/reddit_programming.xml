@@ -4,7 +4,112 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 15 Sep 2024 18:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 21:02:02 GMT</lastBuildDate>
+    <item>
+      <title>无缝扩展 Redis：从蓝绿部署到持久数据集群 - 第 1 部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhmz5b/seamlessly_scaling_redis_from_bluegreen/</link>
+      <description><![CDATA[  由    /u/moses_88  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhmz5b/seamlessly_scaling_redis_from_bluegreen/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我们在编程语言中使用空格来分隔标识符？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhmeu8/why_do_we_use_whitespace_to_separate_identifiers/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhmeu8/why_do_we_use_whitespace_to_separate_identifiers/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全基础设施即代码 GitHub Actions 工作流，带有 PR Lock</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhm9rn/safe_infrastructure_as_code_github_actions/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhm9rn/safe_infrastructure_as_code_github_actions/</guid>
+      <pubDate>Sun, 15 Sep 2024 20:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化如何让《马里奥 64》变慢</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhkgio/how_optimizations_made_mario_64_slower/</link>
+      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhkgio/how_optimizations_made_mario_64_slower/</guid>
+      <pubDate>Sun, 15 Sep 2024 19:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握管道和过滤器：消息系统模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhk466/mastering_pipes_and_filters_a_messaging_system/</link>
+      <description><![CDATA[  由    /u/Nadaralp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhk466/mastering_pipes_and_filters_a_messaging_system/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 React 中制作我自己的 2D 物理模拟器！</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjff6/making_my_own_2d_physics_simulator_in_react/</link>
+      <description><![CDATA[  由    /u/Zestyclose-Ad6874  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjff6/making_my_own_2d_physics_simulator_in_react/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Toybox 中全局结构大小的影响</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjezo/impact_of_global_struct_size_in_toybox/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjezo/impact_of_global_struct_size_in_toybox/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>推断人体工程学对象能力的隐式参数</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjdoy/inferred_implicit_parameters_for_ergonomic_object/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjdoy/inferred_implicit_parameters_for_ergonomic_object/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>fair：一个用于公平提供资源的 Go 库</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjco9/fair_a_go_library_for_serving_resources_fairly/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjco9/fair_a_go_library_for_serving_resources_fairly/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiniLang：类型安全的 C 继任者</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjch4/minilang_a_typesafe_c_successor/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjch4/minilang_a_typesafe_c_successor/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:23:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fractran 是一种完全基于分数乘法的计算机架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjc1a/fractran_is_a_computer_architecture_based/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjc1a/fractran_is_a_computer_architecture_based/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 错误处理实际上是完美的</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjbey/rust_error_handling_is_perfect_actually/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjbey/rust_error_handling_is_perfect_actually/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSCI 181G PO：游戏引擎编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhjaj2/csci_181g_po_game_engine_programming/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhjaj2/csci_181g_po_game_engine_programming/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何验证电子表格引擎的正确性</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhj9l5/how_we_verify_the_correctness_of_a_spreadsheet/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhj9l5/how_we_verify_the_correctness_of_a_spreadsheet/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>压缩字典传输</title>
+      <link>https://www.reddit.com/r/programming/comments/1fhj7o2/compression_dictionary_transport/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fhj7o2/compression_dictionary_transport/</guid>
+      <pubDate>Sun, 15 Sep 2024 18:17:43 GMT</pubDate>
+    </item>
     <item>
       <title>处理不同语言中的大量字符串构造</title>
       <link>https://www.reddit.com/r/programming/comments/1fhif2c/handling_extensive_string_constructions_in/</link>
@@ -39,111 +144,6 @@
       <description><![CDATA[  由    /u/xxjcutlerxx  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fhfcx4/7_mustknow_lessons_to_be_a_better_engineer_from/</guid>
       <pubDate>Sun, 15 Sep 2024 15:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>新毕业生 vs 高级开发人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhfc0g/new_grad_vs_senior_dev/</link>
-      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhfc0g/new_grad_vs_senior_dev/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Kubernetes 需要 LTS</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhf18m/why_kubernetes_needs_an_lts/</link>
-      <description><![CDATA[  由    /u/parski841  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhf18m/why_kubernetes_needs_an_lts/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天如何开始 Delphi 现代化！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fheyzc/how_to_get_started_on_delphi_modernization_today/</link>
-      <description><![CDATA[  由    /u/DelphiParser  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fheyzc/how_to_get_started_on_delphi_modernization_today/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个开源 CLI 工具，无需 SQL 即可快速监控数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhevqz/an_open_source_cli_tool_to_monitor_your_databases/</link>
-      <description><![CDATA[  由    /u/_twelvechess  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhevqz/an_open_source_cli_tool_to_monitor_your_databases/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 和使用 Django REST 框架的 React 身份验证 | 分步指南 (2024) | Brokly Master</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhe2p1/nextjs_react_authentication_with_django_rest/</link>
-      <description><![CDATA[  由    /u/Ok-Look3220  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhe2p1/nextjs_react_authentication_with_django_rest/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 WebAssembly 中实现闭包和一等函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhdy2s/implementing_closures_and_firstclass_functions_in/</link>
-      <description><![CDATA[  由    /u/BigBallsOnABaby  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhdy2s/implementing_closures_and_firstclass_functions_in/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 中 void 类型的奇怪行为</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhdihg/the_strange_behavior_of_the_void_type_in/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhdihg/the_strange_behavior_of_the_void_type_in/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 DSPy 改进 AI 代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhdafv/how_to_improve_ai_agents_using_dspy/</link>
-      <description><![CDATA[  由    /u/phicreative1997  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhdafv/how_to_improve_ai_agents_using_dspy/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊节俭架构详解</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhbnhb/amazon_frugal_architecture_explained/</link>
-      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhbnhb/amazon_frugal_architecture_explained/</guid>
-      <pubDate>Sun, 15 Sep 2024 12:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - Insta2000：抓取并重新呈现您的 Instagram 信息流。本地、无广告、按日期排序，超级复古。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhb4q0/github_insta2000_scrape_and_rerender_your/</link>
-      <description><![CDATA[  由    /u/benrules2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhb4q0/github_insta2000_scrape_and_rerender_your/</guid>
-      <pubDate>Sun, 15 Sep 2024 12:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>专注于学习一门编程语言并加速你的 SWE 职业生涯</title>
-      <link>https://www.reddit.com/r/programming/comments/1fhau85/focus_on_learning_one_programming_language_and/</link>
-      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fhau85/focus_on_learning_one_programming_language_and/</guid>
-      <pubDate>Sun, 15 Sep 2024 11:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的 RNG Git Hash Bug | Tim Mendez 博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1fh9wy2/our_rng_git_hash_bug_tim_mendez_blog/</link>
-      <description><![CDATA[  由    /u/arshidwahga  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fh9wy2/our_rng_git_hash_bug_tim_mendez_blog/</guid>
-      <pubDate>Sun, 15 Sep 2024 10:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码可视化：优势、最佳实践和流行工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1fh9gvs/code_visualization_benefits_best_practices/</link>
-      <description><![CDATA[  由    /u/warkollons0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fh9gvs/code_visualization_benefits_best_practices/</guid>
-      <pubDate>Sun, 15 Sep 2024 10:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Passknight：多保险库、自托管密码管理器</title>
-      <link>https://www.reddit.com/r/programming/comments/1fh8yem/passknight_multivault_self_hosted_password_manager/</link>
-      <description><![CDATA[  由    /u/KryXus05  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fh8yem/passknight_multivault_self_hosted_password_manager/</guid>
-      <pubDate>Sun, 15 Sep 2024 09:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源数据库匿名化工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1fh8pnz/opensource_database_anonymization_tool/</link>
-      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fh8pnz/opensource_database_anonymization_tool/</guid>
-      <pubDate>Sun, 15 Sep 2024 09:34:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
