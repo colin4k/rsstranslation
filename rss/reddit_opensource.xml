@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Sep 2024 12:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 15:02:56 GMT</lastBuildDate>
+    <item>
+      <title>Freecad已进入1.0 RC1，任何人都可以测试他们的下一个大版本！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhdby5/freecad_has_gone_into_10_rc1_for_anyone_to_test/</link>
+      <description><![CDATA[        由    /u/ivosaurus 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhdby5/freecad_has_gone_into_10_rc1_for_anyone_to_test/</guid>
+      <pubDate>Sun, 15 Sep 2024 14:07:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trello s*cks！我可以用什么来替代它？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhcbzo/trello_scks_with_what_can_i_to_replace_it/</link>
+      <description><![CDATA[我正在运营一个小型非营利性开源团队。我们致力于一个项目，偶尔也会为邻近社区做贡献。我们希望以结构化的方式组织我们的任务。这包括明确的截止日期（我们使用 SCRUM）、子任务（用于跟踪大型功能同时打破其复杂性）以及带有代码语法突出显示的线程讨论，以便将所有相关信息汇总到单个位置。该工具还必须是公开的（互联网上的任何人都应该可以访问我们的论坛），因此我们对社区保持透明。  我一直在努力寻找满足上述所有要求的产品。您能推荐一些足够接近我们团队需求的应用程序吗？    提交人    /u/owl_from_hogvarts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhcbzo/trello_scks_with_what_can_i_to_replace_it/</guid>
+      <pubDate>Sun, 15 Sep 2024 13:19:08 GMT</pubDate>
+    </item>
     <item>
       <title>音频剪辑转AI语音开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1fh79se/audio_clip_to_ai_voice_open_source/</link>
@@ -99,7 +113,7 @@
     <item>
       <title>具有 C/C++ 背景的高级全栈人员正在寻找可以贡献的项目。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ffyi6v/senior_fullstack_guy_with_cc_background_looking/</link>
-      <description><![CDATA[大家好， 我每个月大约有 6-8 天的时间可以投入到开源项目中，但我真的不想在考虑贡献之前先阅读大量文档/书籍，因为我在工作中已经看到了足够多的内容。  但同时，我希望我的贡献能够造福开源社区，而不会直接使贪婪的公司受益。（例如，没有 React 库工作） 你们能给我一些需要额外帮助的有影响力的项目吗？  我知道“做你自己的研究”但我想我应该问问，以防万一有人已经知道需要帮助🤷‍♂️ 按信任顺序排列的语言：type/javascript、c、python、c++、java、c#、ocaml、rust    提交人    /u/yoinktomyyeet   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我每个月大约有 6-8 天的时间可以投入到开源项目中，但我真的不想在考虑贡献之前先阅读大量文档/书籍，因为我在工作中已经看到了足够多的内容。  但同时，我希望我的贡献能够造福开源社区，而不会直接使贪婪的公司受益。（例如，没有 React 库工作） 你们能给我一些需要额外帮助的有影响力的项目吗？  我知道“做你自己的研究”但我想我应该问问，以防万一有人已经知道需要帮助🤷‍♂️ 按信任顺序排列的语言：type/javascript、c、python、c++、java、c#、ocaml、rust    提交人    /u/yoinktomyyeet   [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffyi6v/senior_fullstack_guy_with_cc_background_looking/</guid>
       <pubDate>Fri, 13 Sep 2024 16:07:47 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[您好， 我和一些朋友（软件工程和计算机科学专业大二学生）最近启动了一个小项目 - 有点像“初创企业”，但我们并不寻求投资者。我们已经确定了想法，规划了项目，设计了架构和 UI/UX，并开始开发。我们决定在 AGPLv3 许可下将整个项目开源。 为了资助我们的项目、最终产品和开源代码，我们正在考虑使用 GitHub Sponsors 来接受捐赠，因为我们的项目是完全开源的。这样，我们可以支持该项目，甚至可以为公司提供双重许可等福利，例如私人源代码商业用途。 我的问题是，向我们的 GitHub 赞助商提供应用内福利，作为表示感谢并可能增加捐赠的方式，是否是一个好主意，并且符合相关规则、法律和服务条款。我们正在考虑的一些好处包括：  用户个人资料中的赞助商徽章 无广告体验 优先支持 访问私人聊天频道以获得支持/反馈 在应用程序的赞助商墙上展示 访问测试版功能 移动设备上的自定义应用程序图标  提前感谢您的支持！    提交人    /u/sillypotatouser   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ffr9ln/offering_inapp_benefits_for_github_sponsors_in_an/</guid>
       <pubDate>Fri, 13 Sep 2024 10:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在 Ruby on Rails 中使用 API 设计优先方法吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffpgr8/anyone_using_an_api_design_first_approach_with/</link>
-      <description><![CDATA[我一直在寻找一个不错的解决方案来实现这一点，但找不到很多。我最终创建了这个 https://github.com/apicraft-dev/apicraft-rails 目前可用的大多数解决方案都不是端到端解决方案，或者是像 rswag 等代码优先方法    提交人    /u/EcstaticDog4946   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffpgr8/anyone_using_an_api_design_first_approach_with/</guid>
-      <pubDate>Fri, 13 Sep 2024 08:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获取未在线进行的对话的记录和摘要？（开源，本地运行）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffobqo/how_can_you_capture_the_transcription_and_summary/</link>
-      <description><![CDATA[        由    /u/Matthew_heartful 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffobqo/how_can_you_capture_the_transcription_and_summary/</guid>
-      <pubDate>Fri, 13 Sep 2024 06:43:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
