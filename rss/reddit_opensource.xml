@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 06:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 09:02:41 GMT</lastBuildDate>
+    <item>
+      <title>Opensearch 正式加入 Linux 基金会</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhzszy/opensearch_officially_joins_the_linux_foundation/</link>
+      <description><![CDATA[刚刚在维也纳的开源峰会上宣布。 这可能会对类似的解决方案造成毁灭性的打击。鉴于此公告，您如何看待 Elasticsearch 许可证撤销的时机？ https://www.linuxfoundation.org/press/linux-foundation-announces-opensearch-software-foundation-to-foster-open-collaboration-in-search-and-analytics    提交人    /u/vicenormalcrafts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhzszy/opensearch_officially_joins_the_linux_foundation/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个开源 saas 目录。正在寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhz0vv/created_an_open_source_saas_directory_looking_for/</link>
+      <description><![CDATA[寻找可以 fork 并为这个分类和开源 saas 目录做 PR 的贡献者，并以 json 格式添加 saas 及其详细信息。 我也创建了一个 API（文档待定），因此任何人都可以使用它来托管所有/类别的 Saas 目录。 项目：https://github.com/theonlyanil/Saas-Directory/ 示例墙页：https://theonlyanil.github.io/Saas-Directory/ 包含所有 Saas 的示例 API：https://theonlyanil.github.io/Saas-Directory/dir/all.json 示例子类别 api：https://theonlyanil.github.io/Saas-Directory/dir/ecommerce/platforms.json    提交人    /u/convicted_redditor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhz0vv/created_an_open_source_saas_directory_looking_for/</guid>
+      <pubDate>Mon, 16 Sep 2024 07:46:38 GMT</pubDate>
+    </item>
     <item>
       <title>Filestash - 利用我的 OSS 软件创建一家公司</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhxgu1/filestash_building_a_company_from_my_oss_software/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[       由    /u/snwfdhmp  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fgnmpc/sync_esport_matches_to_your_calendar_liquipedia/</guid>
       <pubDate>Sat, 14 Sep 2024 14:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>yTui，ytfzf 的 Golang 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</link>
-      <description><![CDATA[        提交人    /u/NghangPho   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fgidy3/ytui_ytfzf_alternative_in_golang/</guid>
-      <pubDate>Sat, 14 Sep 2024 09:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>miniconda 是 foss 吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fg76mg/is_miniconda_foss/</link>
-      <description><![CDATA[我不这么认为，但我不确定？如果没有，有什么替代方案    提交人    /u/FluffyBrudda   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fg76mg/is_miniconda_foss/</guid>
-      <pubDate>Fri, 13 Sep 2024 22:19:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
