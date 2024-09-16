@@ -4,107 +4,102 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 17:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 23:09:06 GMT</lastBuildDate>
     <item>
-      <title>[媒体] PlayStation 5 Pro 凸显了无休止的电子游戏图形竞赛的徒劳性。</title>
-      <link>https://t.me/hn_summary/108497</link>
-      <description><![CDATA[PlayStation 5 Pro 展示了视频游戏图形竞赛的徒劳
-PlayStation 5 Pro 强调了无休止的视频游戏图形竞赛的徒劳。尽管技术取得了进步，但视觉保真度的边际提升对整体游戏体验的提升作用不大。对图形的关注往往会掩盖其他关键方面，例如讲故事和游戏机制。这种趋势引发了人们对该行业优先事项以及消费者是否真正从这些渐进式升级中受益的质疑。文章指出，对图形改进的痴迷可能更多是出于营销目的，而不是有意义的创新，这突显了一个挑战游戏行业传统观念的有争议的观点。]]></description>
-      <guid>https://t.me/hn_summary/108497</guid>
-      <pubDate>Sun, 15 Sep 2024 17:57:19 GMT</pubDate>
+      <title>[媒体] ETH 和瑞士联邦森林、雪和景观研究研究所的研究人员 [...]</title>
+      <link>https://t.me/hn_summary/108536</link>
+      <description><![CDATA[纳米塑料给树木带来压力并损害光合作用
+来自 ETH 和瑞士联邦森林、雪和景观研究所的研究人员发现，水中的纳米塑料可以被树根吸收，对光合作用产生负面影响。他们使用一种新颖的检测方法发现，野生山楂树和挪威云杉都积累了纳米塑料，几周内光合作用效率显著降低。令人惊讶的是，吸收的纳米塑料量与水吸收量无关，这表明吸收机制不同。虽然对生长的短期影响微乎其微，但该研究强调了潜在的长期压力，尤其是对于已经面临环境挑战的城市树木而言。该研究使用了高浓度的纳米塑料，因此现实世界的影响可能会有所不同。]]></description>
+      <guid>https://t.me/hn_summary/108536</guid>
+      <pubDate>Sun, 15 Sep 2024 23:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：renomad.com</title>
-      <link>https://t.me/hn_summary/108496</link>
-      <description><![CDATA[Show HN：超简约 Web 框架，发布一年后
-标题：Show HN：超简约 Web 框架，发布一年后
-网站：renomad.com
+      <title>[媒体] 我最近创造了两个世界第一：我发布了有史以来第一个 HTML 语言服务器 [...]</title>
+      <link>https://t.me/hn_summary/108535</link>
+      <description><![CDATA[第一个报告语法错误的 HTML LSP
+我最近实现了两项世界第一：我发布了有史以来第一个报告语法错误的 HTML 语言服务器 (SuperHTML)，然后发布了第一个 WASM VSCode LSP 扩展。与其他依赖 Microsoft HTML 语言服务器的编辑器不同，SuperHTML 会立即反馈 HTML 错误，即使是 item 等常见拼写错误也是如此。它还具有“zig fmt”样式的自动格式化功能，允许灵活对齐 HTML 元素和属性。虽然 SuperHTML 并不完全符合规范，但它优先考虑实际的错误检测。新的 WASM 扩展简化了安装，无需单独的 CLI 工具。欢迎大家做出贡献，我会继续增强 SuperHTML。]]></description>
+      <guid>https://t.me/hn_summary/108535</guid>
+      <pubDate>Sun, 15 Sep 2024 23:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] “g1”项目利用 Groq 硬件上的 Llama-3.1 70B 模型来增强逻辑 [...]</title>
+      <link>https://t.me/hn_summary/108534</link>
+      <description><![CDATA[g1：在 Groq 上使用 Llama-3.1 70B 创建类似 o1 的推理链
+“g1”项目利用 Groq 硬件上的 Llama-3.1 70B 模型，通过类似 o1 的推理链增强语言模型中的逻辑推理。其目的是通过使用详细的逐步推理来提高 LLM 解决通常挑战领先模型的逻辑问题的能力。与 o1 不同，g1 显示所有推理标记并使用开源模型。该项目旨在激励开源社区开发新的推理策略。初步测试表明，g1 可以在 60-80% 的时间内解决简单的逻辑问题。该项目包括详细的提示策略，以指导法学硕士 (LLM) 制定彻底而准确的推理步骤。]]></description>
+      <guid>https://t.me/hn_summary/108534</guid>
+      <pubDate>Sun, 15 Sep 2024 22:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我非常悲痛地告诉大家，长期的 Hacker News 用户 DanBC 于上个月去世了 [...]</title>
+      <link>https://t.me/hn_summary/108533</link>
+      <description><![CDATA[告诉 HN：DanBC 已去世
+我非常悲痛地告诉大家，长期使用 Hacker News 的 DanBC 上个月因病去世。DanBC，又名 Dan Beale Cocks，是格洛斯特郡心理健康和福祉伙伴关系委员会备受爱戴的联合主席。他不懈的努力极大地推动了该地区的心理健康和联合制作计划。为了纪念他的遗产，正在计划一年一度的 Dan Beale Cocks 联合制作最佳实践庆祝活动，这是 Dan 去世前热情支持的一项项目。Dan 对 Hacker News 社区和更广阔世界的贡献将被人们深情铭记。安息吧，Dan。]]></description>
+      <guid>https://t.me/hn_summary/108533</guid>
+      <pubDate>Sun, 15 Sep 2024 22:16:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：CSSnano</title>
+      <link>https://t.me/hn_summary/108532</link>
+      <description><![CDATA[CSSnano
+标题：CSSnano
 
-发布一年后，事实证明，这款超简约 Web 框架改变了追求简单性和效率的开发人员的游戏规则。 Renomad.com 强调了该框架的核心理念：极简主义，强调其轻量级特性和易用性。该框架的成功归功于其精简的功能，这些功能消除了不必要的复杂性，同时又不牺牲功能性。这种方法在开发者社区中引起了强烈反响，并培养了越来越多的用户群。如需了解更多信息或分享您的经验，请通过 byronka (at) msn.com 与我联系。]]></description>
-      <guid>https://t.me/hn_summary/108496</guid>
-      <pubDate>Sun, 15 Sep 2024 17:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] GQ.com 上有一篇有趣的文章，题为“如何作为一名职业口哨手赚取数百万美元 [...]</title>
-      <link>https://t.me/hn_summary/108495</link>
-      <description><![CDATA[如何成为一名职业告密者赚取数百万美元
-在 GQ.com 上一篇名为《如何成为一名职业告密者赚取数百万美元》的有趣文章中，作者讲述了 Overum 的经历，他是一名在投资欺诈的浑水中摸索的告密者。Overum 的旅程始于与 King 的一次可疑会面，King 是一名承诺以最小风险获得高回报的开发商。随着 King 紧急为土地开发项目寻求数百万美元资金，Overum 的怀疑情绪日益加深。故事重点讲述了奥弗鲁姆娴熟的卧底技巧、对现代监控的警惕性以及在压力下保持隐身的能力。奥弗鲁姆的动机非常个人化，源于他的家庭因欺诈而陷入经济困境，这让他从事销售工作，并磨练了他洞察人心的能力。故事强调了举报的复杂性和风险，将个人经历与专业知识融为一体。]]></description>
-      <guid>https://t.me/hn_summary/108495</guid>
-      <pubDate>Sun, 15 Sep 2024 17:32:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：您什么时候会抽出时间来学习新事物？</title>
-      <link>https://t.me/hn_summary/108494</link>
-      <description><![CDATA[问 HN：你什么时候会腾出时间学习新事物？
-标题：问 HN：你什么时候会腾出时间学习新事物？
-网站：news.ycombinator.com
+网站：cssnano.github.io
 
-当我坐在这里争论是否要在这个美丽的秋日星期天呆在家里学习数据库时，一个问题浮现在我的脑海中。在周末，我觉得我应该离开电脑，探索其他爱好，并进行社交。在工作日，我需要取得成果，因为我的雇主希望我取得切实的成果，以证明我的薪水是合理的。工作日的晚上很艰难，因为我经常因为白天的工作而感到疲惫。感觉变化的速度和掌握最新技术的期望比以往任何时候都要高。考虑到竞争激烈的就业市场，落后是很难承受的。]]></description>
-      <guid>https://t.me/hn_summary/108494</guid>
-      <pubDate>Sun, 15 Sep 2024 17:26:57 GMT</pubDate>
+摘要：
+
+CSSnano 通过对结构良好的 CSS 进行各种有针对性的优化来优化它，确保最终输出尽可能紧凑以适应生产环境。例如，它将冗长的 CSS 输入转换为精简版本，删除不必要的空格，压缩标识符，清除冗余定义，同时保持相同的语义。默认情况下，CSSnano 会应用安全优化，但可以使用高级预设来实现最大程度的压缩。结果是 CSS 文件明显变小，从 325 B 减少到 177 B，减少了 54.46%。有关更多详细信息，请参阅优化指南。]]></description>
+      <guid>https://t.me/hn_summary/108532</guid>
+      <pubDate>Sun, 15 Sep 2024 22:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：还有谁非常讨厌体育运动吗？</title>
-      <link>https://t.me/hn_summary/108493</link>
-      <description><![CDATA[问 HN：还有谁非常讨厌运动吗？
-标题：问 HN：还有谁非常讨厌运动吗？
-网站：news.ycombinator.com
+      <title>[媒体] 网上约会可能是导致美国收入不平等加剧的部分原因[...]</title>
+      <link>https://t.me/hn_summary/108531</link>
+      <description><![CDATA[研究报告显示，网络约会导致美国收入不平等加剧
 
-我在东海岸一个没有主要运动队的城市长大，我的家人或朋友从未让我接触过体育运动。在学校，我被迫参加体育运动，并因无法发挥出他们的水平或理解规则而受到成绩较差的学生和教练的欺凌。教练和官员的武断判罚只会增加我的困惑和沮丧。因此，除了体育运动，我发现几乎所有事情都很有趣。
-
-争议：这篇文章触及了强迫参加体育运动和欺凌的负面影响，这可能会引发关于体育运动在教育和个人发展中的作用的争论。]]></description>
-      <guid>https://t.me/hn_summary/108493</guid>
-      <pubDate>Sun, 15 Sep 2024 17:18:51 GMT</pubDate>
+一篇研究报告显示，网络约会可能是近几十年来美国收入不平等加剧的部分原因。这项由达拉斯和圣路易斯联邦储备银行和哈弗福德学院的研究人员进行的研究表明，约会应用程序允许用户根据教育等标准搜索伴侣，这导致美国人越来越多地与与自己相似的人结婚。这一趋势约占 1980 年至 2020 年家庭收入不平等增加的一半。这一发现令人惊讶，因为它将现代技术与重大的社会经济转变联系起来。]]></description>
+      <guid>https://t.me/hn_summary/108531</guid>
+      <pubDate>Sun, 15 Sep 2024 22:14:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 萨沙·卢乔尼 (Sasha Luccioni) 警告说，生成式人工智能正在显著加速气候危机，[...]</title>
-      <link>https://t.me/hn_summary/108492</link>
-      <description><![CDATA[专家警告称，人工智能正在“加速气候危机”
-该领域的领先研究人员 Sasha Luccioni 警告称，生成式人工智能正在显著加速气候危机。Luccioni 强调，由于训练和操作这些模型需要巨大的计算能力，生成式人工智能消耗的能源是传统搜索引擎的 30 倍。她强调人工智能开发需要透明度和能源效率，并提议建立一个认证系统来评估人工智能模型的能耗。尽管微软和谷歌等科技巨头承诺实现碳中和，但由于人工智能，它们的温室气体排放量激增。Luccioni 提倡“节约能源”，并明智地使用人工智能来减轻其对环境的影响。 
-
-争议：谷歌和 OpenAI 等公司不愿让其 AI 模型透明化，这引发了人们对问责制的担忧。
-
-独特/聪明：Luccioni 创建的“CodeCarbon”是一种量化代码碳足迹的工具，她提出的 AI 模型能耗认证系统是解决这一问题的创新步骤。]]></description>
-      <guid>https://t.me/hn_summary/108492</guid>
-      <pubDate>Sun, 15 Sep 2024 17:16:48 GMT</pubDate>
+      <title>[媒体] 在《男性排尿的不幸物理学》中，Priceonomics 探讨了普遍存在的 [...]</title>
+      <link>https://t.me/hn_summary/108530</link>
+      <description><![CDATA[男性排尿的不幸物理学 (2016)
+在《男性排尿的不幸物理学》中，Priceonomics 探讨了男性站立小便时溅水这一普遍问题。尽管马桶设计取得了进步，但溅水仍然是一个问题，导致尿液溅到地板、裤子甚至附近的人身上。室内设计师 Debbie Wiener 和 BYU 溅水实验室的物理学家强调了这个问题，后者建议站得更近，瞄准低角度以减少溅水。令人惊讶的是，杜拉维特等主要马桶制造商声称溅水不是问题，将任何问题归咎于用户错误。这篇文章强调了讨论卫生间习惯的更广泛的社会禁忌，这阻碍了马桶设计的创新和反馈。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/108530</guid>
+      <pubDate>Sun, 15 Sep 2024 21:52:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.freyaindia.co.uk</title>
-      <link>https://t.me/hn_summary/108491</link>
-      <description><![CDATA[我们的新宗教还不够
-标题：我们的新宗教还不够
-网站：www.freyaindia.co.uk
+      <title>[媒体] 微软计划终止内核级反作弊机制，这可能会彻底改变 Linux 游戏。</title>
+      <link>https://t.me/hn_summary/108529</link>
+      <description><![CDATA[微软计划终止内核级反作弊功能，这对 Linux 游戏来说意义重大
+微软计划终止内核级反作弊功能，这可能会彻底改变 Linux 游戏。继 7 月 Crowdstrike 中断导致全球中断之后，微软正专注于增强 Windows 内核之外的安全性。这一转变在 Windows 端点安全生态系统峰会上进行了讨论，旨在为没有内核访问权限的解决方案提供商提供更多安全功能。对于 Linux 游戏玩家来说，这意味着反作弊软件的侵入性会降低，更容易通过 WINE 或 Valve 的 Proton 等工具进行模拟，从而有可能在 Steam Deck 等设备上启用 Paladins 和 Fortnite 等游戏。尽管如此，微软仍强调防篡改，这表明反作弊供应商可能仍会找到排除 Linux 游戏玩家的方法。]]></description>
+      <guid>https://t.me/hn_summary/108529</guid>
+      <pubDate>Sun, 15 Sep 2024 21:34:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]摘要：</title>
+      <link>https://t.me/hn_summary/108528</link>
+      <description><![CDATA[《节目制作的十一条法则》（2016 年）[pdf](https://news.ycombinator.com/item?id=41547976)
+摘要：
 
-在当今世界，社会正义、气候行动主义甚至人工智能等各种运动经常被描述为新宗教。然而，治疗文化的兴起最为突出，尤其是在 Z 世代中，他们通过治疗的视角来解读自己的生活。这种转变已经用治疗语言和健康仪式取代了传统的宗教习俗。虽然治疗和自我护理是有益的，但对心理健康和自我实现的痴迷往往是以牺牲他人为代价的。这种新信仰缺乏道德指导和对他人的责任感，导致了一种以自我为中心的文化。尽管健康产业蓬勃发展，但心理健康问题正在恶化，尤其是在宗教信仰最少的人群中，比如年轻女性。作者认为，年轻人真正渴望的是道德方向、稳定和与持久事物的更深层次的联系。目前对自爱和心理健康的关注不足以填补这一空白。]]></description>
-      <guid>https://t.me/hn_summary/108491</guid>
-      <pubDate>Sun, 15 Sep 2024 17:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 美国</title>
-      <link>https://t.me/hn_summary/108490</link>
-      <description><![CDATA[美国舰队欢迎最新的 USS New Jersey，这是第一艘性别中立的潜艇
-周六在桑迪胡克湾举行的仪式标志着 USS New Jersey 的服役，这是美国海军第一艘性别中立的潜艇。这艘弗吉尼亚级潜艇旨在让男女水手完全融合，在海军武器站厄尔举行了庆祝活动，近 4,000 人出席，包括退伍军人、家庭成员以及州长菲尔墨菲和海军部长卡洛斯德尔托罗等官员。这艘潜艇绰号为“泽西女孩”，采用新泽西主题装饰，包括罗格斯大学和新泽西魔鬼队的纪念品，以及乔恩邦乔维的吉他。这艘船是第三艘以该州命名的船只，也是海军增加性别融合船员的一项更广泛计划的一部分。新泽西号预计在其使用寿命内执行 14 至 15 次部署。]]></description>
-      <guid>https://t.me/hn_summary/108490</guid>
-      <pubDate>Sun, 15 Sep 2024 17:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：arstechnica.com</title>
-      <link>https://t.me/hn_summary/108489</link>
-      <description><![CDATA[人类司机不断追尾 Waymos
-标题：人类司机不断追尾 Waymos
-网站：arstechnica.com
+在《节目制作的十一条法则》中，Javier Grillo-Marxuach 将二十年的经验提炼为电视节目制作人的指南，强调专业精神比自我更重要。他批评了电视管理中普遍存在的怪癖和有害行为文化，认为节目制作的成功不在于拥有创意天才，而在于有效、人性化的管理。 Grillo-Marxuach 的第一条法则是“一切都围绕着你，别让一切都围绕着你”，强调节目制作人需要在自己的愿景和授权员工之间取得平衡。他强调清晰的沟通、早期决策和定义成功之路是必不可少的做法。
 
-去年 11 月的一个周五晚上，旧金山的一场警方追捕导致一辆无人驾驶的 Waymo 机器人出租车发生撞车事故。尽管 Waymo 的车辆行驶里程超过 2200 万英里，但截至 6 月，这起事故还是 Waymo 报告的 20 起造成人员受伤的撞车事故之一。Waymo 的数据显示，其无人驾驶汽车比人类驾驶的汽车安全得多，每英里的撞车次数更少，严重事故更少。值得注意的是，在 23 起最严重的事故中，有 16 起涉及人类驾驶员追尾 Waymo。Waymo 的安全分析得到了专家的支持，表明与人类驾驶员相比，Waymo 的受伤事故减少了 70-73%。然而，我们发现了一些数据差异，Waymo 正在解决这些问题。尽管存在这些错误，但总体数据支持 Waymo 声称的道路安全性有所提高。]]></description>
-      <guid>https://t.me/hn_summary/108489</guid>
-      <pubDate>Sun, 15 Sep 2024 17:09:32 GMT</pubDate>
+争议点：
+- Grillo-Marxuach 对“个人崇拜”和电视管理中对有害行为的容忍的批评可能被视为对行业现状的直接挑战。
+
+独特/聪明的见解：
+- 将电视编剧的数量与职业 NBA 球员的数量进行比较，突显了该职业的稀缺性和竞争性。
+- “简单”的管理策略往往是最难实施的，因为需要自我让步，这是一个深刻的观察。 （根据 26% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/108528</guid>
+      <pubDate>Sun, 15 Sep 2024 21:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 作为一名患有老花眼的女性，我最近尝试了日本品牌的 ViXion01 眼镜 [...]</title>
-      <link>https://t.me/hn_summary/108488</link>
-      <description><![CDATA[高科技双光眼镜改善了我的视力，但让我看起来像个呆子
-作为一名患有老花眼的女性，我最近尝试了日本初创公司 ViXiON 推出的 ViXion01 眼镜，它被誉为世界上第一款自动对焦眼镜。这些眼镜可以实时调整镜片以确保最佳对焦，无需多副或双光眼镜。虽然它们不是最时尚的，但它们非常有效，尤其是可以减轻因使用屏幕而导致的眼睛疲劳。它们的价格为 555 美元，也可以每月 30.11 美元租用。设置它们很简单，它们显著改善了我对远处物体的视力，但对小文本的视力没有改善。请注意，这些眼镜未通过医学认证，不应在驾驶时使用。尽管它们的外观有些呆板，但却让我们对眼镜的未来有了迷人的认识。]]></description>
-      <guid>https://t.me/hn_summary/108488</guid>
-      <pubDate>Sun, 15 Sep 2024 17:06:28 GMT</pubDate>
+      <title>[媒体] GitLab 已修补 17 个漏洞，包括一个严重漏洞（CVE-2024-6678），该漏洞 [...]</title>
+      <link>https://t.me/hn_summary/108527</link>
+      <description><![CDATA[Gitlab 修补了可能使 CI/CD 管道暴露于供应链攻击的漏洞
+GitLab 已修补 17 个漏洞，包括一个 CVSS 评分为 9.9 的严重漏洞 (CVE-2024-6678)，该漏洞可能允许攻击者以任意用户身份触发 CI/CD 管道。此漏洞可能导致权限提升、数据泄露和软件供应链受损。安全专家强调 CI/CD 管道漏洞的严重性，因为它们在自动化开发流程和及早发现漏洞方面发挥着作用。GitLab 的公告指出，该漏洞影响从 8.14 到 17.3.2 的版本。Critical Start 的 Callie Guenther 强调了与 2021 年 CodeCov 漏洞等备受瞩目的攻击的相似性，该漏洞具有广泛的下游影响。前美国国家安全局专家埃文·多恩布什 (Evan Dornbush) 警告称，知识产权盗窃、恶意代码引入和操作系统入侵的可能性。他强调，除了修补之外，还需要采取全面的安全措施，包括确保交易对手的安全。]]></description>
+      <guid>https://t.me/hn_summary/108527</guid>
+      <pubDate>Sun, 15 Sep 2024 21:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
