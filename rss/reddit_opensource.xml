@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 09:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 12:02:32 GMT</lastBuildDate>
+    <item>
+      <title>我刚刚发布了 ThreadsPipePy，这是一个使用官方 Meta 的 Threads API 的 Threads API 开源 Python 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fi1pl9/i_just_launched_threadspipepy_an_open_source/</link>
+      <description><![CDATA[    /u/paulos_ab  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fi1pl9/i_just_launched_threadspipepy_an_open_source/</guid>
+      <pubDate>Mon, 16 Sep 2024 11:02:42 GMT</pubDate>
+    </item>
     <item>
       <title>Opensearch 正式加入 Linux 基金会</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhzszy/opensearch_officially_joins_the_linux_foundation/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>经过 3 个多月的工作，我刚刚推出了一个开源表单后端，它是 formspree、getform、formspark 等服务的替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</link>
-      <description><![CDATA[此工具可让您在电子邮件、电报等中接收表单提交。 GitHub 存储库位于此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
+      <description><![CDATA[此工具允许您在电子邮件、电报等中接收表单提交。 GitHub 存储库在此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</guid>
       <pubDate>Mon, 16 Sep 2024 01:36:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[       由    /u/RogueStargun  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fgnvfv/diffumon_a_simple_open_source_diffusion_model_for/</guid>
       <pubDate>Sat, 14 Sep 2024 14:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>将电子竞技比赛同步到您的日历。Liquipedia 到 iCal URL</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fgnmpc/sync_esport_matches_to_your_calendar_liquipedia/</link>
-      <description><![CDATA[       由    /u/snwfdhmp  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fgnmpc/sync_esport_matches_to_your_calendar_liquipedia/</guid>
-      <pubDate>Sat, 14 Sep 2024 14:42:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
