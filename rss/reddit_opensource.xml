@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 18:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 21:02:10 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个开源宗教/道德哲学</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fiea00/ive_created_an_open_source_religionmoral/</link>
+      <description><![CDATA[写得不好——抱歉。这只是我花了大约一周时间拼凑起来的东西。我对它的工作原理有一个直观的概念，但不能很好地表达出来。 请在评论中留下所有批评，并附上解释。希望听到其他人的道德反对意见。 https://github.com/ki4jgt/Truism/    提交人    /u/ki4jgt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fiea00/ive_created_an_open_source_religionmoral/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>在为企业使用而分叉开源时预计会出现哪些错误？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fiboy5/what_mistakes_are_expected_when_forking/</link>
+      <description><![CDATA[去年，我在一家公司工作，那里的“平台”开发人员痴迷于克隆和“改进”一些开源项目。我的职责是 vault。整个 vault 事件（使其成为多主）从一开始就非常错误，但现在我想列出一些常见错误，这些错误发生在 X 公司决定使用修改版（而不是原始版）的开源项目时。我现在的印象很模糊，但希望你能补充一下，这样我（和其他人）将来就有了备忘录 :) 因此，以下是我的一些观察结果：  不正确的克隆（例如使用“depth=1”） - 这使得从上游进行进一步合并非常痛苦，因为文件历史记录会丢失，而且并不总是能够找出“我们”添加了哪些文件而这些只是从上游移除，但仍然保留在我们的副本中。 对现有代码进行过多修改。为了将来能轻松合并来自上游的更新，最好尽可能少地更改现有文件。例如，传递配置参数并将其添加到数十个函数签名中是一个坏主意。总体而言，最好向现有代码添加单行调用，从而导致在添加的“我们的”中定义的函数文件。 忽略及时从上游更新项目的需要——通常是由于上述问题导致的合并困难。 破坏和忽略测试——因为原始项目可能有复杂的测试设置并且测试需要很长时间——如果它们只是因为主代码中的签名更改等而中断，情况就更糟了。通常有一种感觉，“它们无论如何都在上游工作，我们的更改没有触及那部分”，但这种感觉似乎可能具有误导性，特别是在代码没有被很好地理解的情况下。 误解或违反许可条款。当项目在内部使用时，很难判断这会导致什么后果——所以欢迎提供任何好的例子。  总的来说，我有时认为分叉实时项目在做这件事之前是“三思而后行，不，七思而后行”，因为它需要从开始就不断进行开发。我很确定有些情况下这样做是合理的，但我经常看到“只是因为我们能做到”的动机。当然，对于不期望更新的陈旧项目来说，情况并非如此。    提交人    /u/RodionGork   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fiboy5/what_mistakes_are_expected_when_forking/</guid>
+      <pubDate>Mon, 16 Sep 2024 18:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>使用单个命令从给定的网站列表获取电子邮件</title>
       <link>https://www.reddit.com/r/opensource/comments/1fi9tk9/get_emails_from_a_given_list_of_websites_with_a/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好。 您知道如何在 Microsoft Word 中的 .docx 文件中按 Ctrl+F，单击“标题”，然后通过其标题快速浏览文件吗？ 我看过一些文章，指出您可以使用 Adob​​e Acrobat DC Pro 在 PDF 文件中执行相同的操作。 某些文件默认具有标签结构（它们以这种方式创建），但在其他文件中，您可以要求 Adob​​e Acrobat DC Pro 自动生成标签结构（基于文档的字体），然后您就可以自由地以这种方式浏览它们。 我必须研究数百个大型 PDF 文件（每个文件 100 多页），我认为允许我执行此类任务的 PDF 阅读器将使我的学习效率更高。 但是，Adobe Acrobat DC Pro 价格昂贵。 您知道任何也具有此功能的开源 PDF 阅读器替代品吗？ 提前感谢您的帮助。    提交人    /u/MatteoPeccato   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fgxxpp/opensource_pdf_viewer_which_allows_you_to_browse/</guid>
       <pubDate>Sat, 14 Sep 2024 22:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于桌面 Linux 的自动文本校正和翻译开源工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fgwuqm/automatic_text_correction_and_translation_open/</link>
-      <description><![CDATA[嗨！ 我想知道是否有人知道桌面 Linux 的项目，它与 Android 版 Google 键盘类似，会自动更正文本并在您输入时自动翻译为您想要的语言，在任何程序中都可以工作，就像 Google 键盘在任何应用程序中工作一样。 这看起来很简单，但我找不到这样的项目（Android 有 FUTO 键盘……但是我只想要自动更正和自动翻译功能，而不是虚拟键盘本身）。 如果没有这样的东西，有谁知道 Firefox 这样的工具吗？在许多网站上，我经常需要与使用我不熟练的语言的人在线交谈，每次我不得不这样做时，我都必须拿出手机或以非常麻烦的方式手动翻译 Google 翻译或 DeepL 中的每条消息并将其粘贴回去……这使得交互非常令人沮丧。     由    /u/revannld 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fgwuqm/automatic_text_correction_and_translation_open/</guid>
-      <pubDate>Sat, 14 Sep 2024 21:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>jw - 速度极快的文件系统遍历器和海量文件哈希器，支持差异，由 jwalk 和 xxh3 提供支持！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fgta4l/jw_blazingly_fast_filesystem_traverser_and_mass/</link>
-      <description><![CDATA[      TL;DR - 只是背景故事。 这是我第一次在公共平台上主动推广我的作品。我总是创造一些东西，把它们放到世界上，然后祈祷有人有一天会偶然发现它并从中得到一些用处。我从来都不是那种把项目推到别人面前的人，因为我总是认为“如果有人想要这个，他们会搜索它，然后找到它”，而且只有当有人不辞辛劳地使用我创造的东西，因为这会让他们的生活变得更好一点时，我才真正觉得我成功了。而不是回购流量。当然，这很好，但它并没有告诉我我是否真的设法让某人的一天变得更轻松，是否有人真的经常使用我创建的东西，因为它对他们真的有帮助，或者他们只是查看了存储库，甚至可能留下一颗星，因为他们认为它在概念上很棒，但第二天就完全忘记了它。 回顾我最引以为豪的存储库，是托管在其他网站上的项目，如 NexusMods，那里有超越数字的真正互动。如果有人告诉我我的代码中有一个错误，我甚至会感到欣喜若狂，因为这意味着它足够有用，以至于那个人使用它足以遇到这个错误。 很久以前，当我几乎不了解 Rust 时，我制作了这个实用程序的初始版本，以解决个人的小问题。最近，我开始意识到这个古老的 Rust 程序在我日常工具包中的重要性。它一直是我工作流程的一部分；如果我在不知不觉中如此频繁地使用它，那么......也许它实际上对其他人有价值？ 这个想法激励我从头开始重新制作整个东西，使用我一直想要但直到现在才足够在意实现的功能。 我现在在这里公开推广一个项目的原因，不是因为它是什么巨作或什么。很难用语言表达。虽然我知道我的一部分只是在寻求肯定。 我只是希望有人觉得它有用。它是可安装的，但如果你没有 Cargo，我只发布了一个预编译的 ELF 二进制文件，因为我目前没有 Windows 环境。我打算设置一个 VM 来提供预编译的可执行文件。 欢迎任何 PR。我确信这里有一些 Rust 奇才更了解 :)    提交人    /u/Fedowa   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fgta4l/jw_blazingly_fast_filesystem_traverser_and_mass/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:01:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
