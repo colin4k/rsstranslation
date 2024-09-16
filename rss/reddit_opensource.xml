@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 03:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 06:02:28 GMT</lastBuildDate>
+    <item>
+      <title>Filestash - 利用我的 OSS 软件创建一家公司</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhxgu1/filestash_building_a_company_from_my_oss_software/</link>
+      <description><![CDATA[        提交人    /u/mickael-kerjean   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhxgu1/filestash_building_a_company_from_my_oss_software/</guid>
+      <pubDate>Mon, 16 Sep 2024 05:52:12 GMT</pubDate>
+    </item>
     <item>
       <title>类似于 Laravel 路由器的 PHP 路由库</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhtt54/php_routing_library_similar_to_laravels_router/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>经过 3 个多月的工作，我刚刚推出了一个开源表单后端，它是 formspree、getform、formspark 等服务的替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</link>
-      <description><![CDATA[此工具允许您在电子邮件、电报等中接收表单提交。 GitHub 存储库在此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
+      <description><![CDATA[此工具可让您在电子邮件、电报等中接收表单提交。 GitHub 存储库位于此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</guid>
       <pubDate>Mon, 16 Sep 2024 01:36:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我不这么认为，但我不确定？如果没有，有什么替代方案    提交人    /u/FluffyBrudda   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fg76mg/is_miniconda_foss/</guid>
       <pubDate>Fri, 13 Sep 2024 22:19:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适用于 Linux 的 Windows Photos 替代品，可以在同一个图库中同时显示照片和视频？并且可以用一个键旋转视频。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fg66t3/is_there_a_windows_photos_alternative_for_linux/</link>
-      <description><![CDATA[我不想要一个分别显示视频和照片的应用。比如当我点击一张照片并移动到下一个媒体时，它必须在同一图库中包含视频。    提交人    /u/skincr   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fg66t3/is_there_a_windows_photos_alternative_for_linux/</guid>
-      <pubDate>Fri, 13 Sep 2024 21:35:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
