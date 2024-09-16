@@ -4,20 +4,34 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 12:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 15:02:08 GMT</lastBuildDate>
+    <item>
+      <title>自动鼠标和键盘通过剪贴板中的字符串设置变量</title>
+      <link>https://www.reddit.com/r/software/comments/1fi6etf/automatic_mouse_and_keyboard_set_variable_by/</link>
+      <description><![CDATA[嗨，我使用 AMK，我有一个单词要处理。它出现在游戏中，我可以复制它，当我复制它时，我该如何设置一个变量 = 我复制的字符串？帮帮我    提交人    /u/Wise-Custard-3284   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fi6etf/automatic_mouse_and_keyboard_set_variable_by/</guid>
+      <pubDate>Mon, 16 Sep 2024 14:43:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道可以增加视频声音的免费软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fi5t3f/anyone_know_a_free_software_that_can_increase_the/</link>
+      <description><![CDATA[我发现了一个旧的 iPhone 屏幕录制功能，可以使用麦克风录制视频，但音量太低了。当我查找软件时，它总是付费或要求订阅。有人知道可以增加视频声音的免费应用或软件吗？    提交人    /u/Indomie_UwU   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fi5t3f/anyone_know_a_free_software_that_can_increase_the/</guid>
+      <pubDate>Mon, 16 Sep 2024 14:18:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>识别不同设备（键盘）的宏应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fi30gn/macro_app_that_recognize_different_devices/</link>
+      <description><![CDATA[我知道 HID Macros，我对此应用的问题是，打开时重音符号无法正常工作（它们像这样：´´ ~~）作为在 PC 上打字的巴西人，这变成了一个问题。我使用 Windows 识别为数字键盘的宏键盘，因此是否有一个应用可以识别不同的设备，以免与主键盘的数字键盘冲突？    提交人    /u/Nosde_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fi30gn/macro_app_that_recognize_different_devices/</guid>
+      <pubDate>Mon, 16 Sep 2024 12:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>下载包含所有街道名称的完整地图</title>
       <link>https://www.reddit.com/r/software/comments/1fi2nm9/download_full_map_with_all_street_names/</link>
       <description><![CDATA[大家好， 我需要一张非常高分辨率的塞维利亚（西班牙）地图（分辨率足够高，可以看到所有街道的名称）。我需要为一些官方考试学习这张地图，并希望能够使用我的 iPad 进行学习和做笔记。 问题是，我发现的唯一选择是放大 Google 地图以查看我需要的所有详细信息，然后截取数百张屏幕截图，然后将它们编辑成一张大图像，但这个过程非常耗时费力。有没有什么工具可以做到这一点或帮助我更快地完成它？ 非常感谢！    提交人    /u/carloscos96   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fi2nm9/download_full_map_with_all_street_names/</guid>
       <pubDate>Mon, 16 Sep 2024 11:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[招聘] 虚拟管理助理</title>
-      <link>https://www.reddit.com/r/software/comments/1fi24mn/for_hire_virtual_admin_assistant/</link>
-      <description><![CDATA[寻找虚拟管理助理？ 我的每小时费率为 3 美元，但我可以灵活满足您的需求。如果您有兴趣，请给我留言！ 作为虚拟助理，这些是我的关键技能 -电子邮件管理 -平面设计 -照片编辑 -研究 -演示文稿 -潜在客户生成 -应收账款 -应付账款 -结算和收款 -基本会计 -日期输入 软件 -Photoshop -Corel Draw -Canva -Microsoft 应用程序（Excel 公式、Powerpoint、Outlook、OneNote、Access、Teams、Visio） -Google Workspace -即时 -Notion -LottieFiles    提交人    /u/angeiouwu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fi24mn/for_hire_virtual_admin_assistant/</guid>
-      <pubDate>Mon, 16 Sep 2024 11:26:26 GMT</pubDate>
     </item>
     <item>
       <title>基于图像的剪贴板管理器</title>
@@ -78,7 +92,7 @@
     <item>
       <title>使用 ChatGPT API（或其他 LLM）自动组织文件？</title>
       <link>https://www.reddit.com/r/software/comments/1fhoq9k/automate_file_organization_with_chatgpt_api_or/</link>
-      <description><![CDATA[似乎应该有一些软件可以使用 LLM 的功能（例如 ChatGPT 的 API）自动将文件组织到定义的目标目录结构中，但我没有看到任何这样的软件。有人知道吗？我的目标要求：  跨平台（Windows、Mac、Linux） 观看/监控输入文件夹 输出到预定义的文件夹结构 扫描每个文件的内容并选择最匹配的目标文件夹 移动文件 记录其更改  我尝试过这些，但它们都要求我手动配置标准，这对于各种各样的文件来说很难维护：  Organize（开源） DropIt（开源） FileFlows（免费增值版） Easy File Organizer（$） FileJuggler（仅限 Windows）     由   提交  /u/MinerTwenty49er   [link] [评论]]]></description>
+      <description><![CDATA[似乎应该有一些软件可以使用 LLM 的功能（例如 ChatGPT 的 API）自动将文件组织到定义的目标目录结构中，但我没有看到任何这样的软件。有人知道吗？我的目标要求：  跨平台（Windows、Mac、Linux） 查看/监控输入文件夹 输出到预定义的文件夹结构 扫描每个文件的文本内容/元数据并选择最匹配的目标文件夹 移动文件 记录其更改  我已经探索过这些，但它们都要求我手动配置标准，这对于各种各样的文件来说很难维护：  Organize（开源） DropIt（开源） FileFlows （免费增值版） Easy File Organizer（$） FileJuggler（仅限 Windows）     由   提交  /u/MinerTwenty49er   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fhoq9k/automate_file_organization_with_chatgpt_api_or/</guid>
       <pubDate>Sun, 15 Sep 2024 22:12:25 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[更改复制、剪切、粘贴、删除、重命名和所有相关细节。    提交人    /u/the-sneaky_gar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fhcbgq/a_portable_software_that_i_can_keep_in_my/</guid>
       <pubDate>Sun, 15 Sep 2024 13:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该升级到较新版本的 Endnote 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1fha24o/should_i_upgrade_to_a_newer_version_of_endnote/</link>
-      <description><![CDATA[从 Endnote v9 升级到 20 值得吗？新功能值得花一百多美元吗？任何帮助都将不胜感激。     提交人    /u/Holiday-Plum-8054   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fha24o/should_i_upgrade_to_a_newer_version_of_endnote/</guid>
-      <pubDate>Sun, 15 Sep 2024 11:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道一种可以检测运营商的商业电话号码是否干净的服务吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1fh3gut/anyone_know_a_service_to_detect_if_business_phone/</link>
-      <description><![CDATA[有人知道有什么服务可以检测运营商的商业电话号码是否干净吗？    提交人    /u/Heavy_Race_3253   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fh3gut/anyone_know_a_service_to_detect_if_business_phone/</guid>
-      <pubDate>Sun, 15 Sep 2024 03:35:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
