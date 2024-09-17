@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Sep 2024 18:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 21:02:53 GMT</lastBuildDate>
+    <item>
+      <title>使用 Postgres 进行数据分析的窗口函数</title>
+      <link>https://www.reddit.com/r/programming/comments/1fjarc7/window_functions_for_data_analysis_with_postgres/</link>
+      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fjarc7/window_functions_for_data_analysis_with_postgres/</guid>
+      <pubDate>Tue, 17 Sep 2024 21:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLVM 19.1.0 发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1fjadod/llvm_1910_released/</link>
+      <description><![CDATA[  由    /u/c0r3ntin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fjadod/llvm_1910_released/</guid>
+      <pubDate>Tue, 17 Sep 2024 20:46:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 200 行 JavaScript 从头开始​​进行 OpenTelemetry 跟踪</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj9mto/opentelemetry_tracing_from_scratch_in_200_lines/</link>
+      <description><![CDATA[  由    /u/masterJ  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj9mto/opentelemetry_tracing_from_scratch_in_200_lines/</guid>
+      <pubDate>Tue, 17 Sep 2024 20:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是异构 SLI 和同构 SLI？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj8on7/what_is_heterogeneous_sli_and_homogeneous_sli/</link>
+      <description><![CDATA[  由    /u/ayrusk8  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj8on7/what_is_heterogeneous_sli_and_homogeneous_sli/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>职业生涯终结的错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj8ez7/a_career_ending_mistake/</link>
+      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj8ez7/a_career_ending_mistake/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:30:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>两个线程，一个核心：同步多线程的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj7r4z/two_threads_one_core_how_simultaneous/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj7r4z/two_threads_one_core_how_simultaneous/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Swift 6</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj7p97/swift_6/</link>
+      <description><![CDATA[  由    /u/dagmx  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj7p97/swift_6/</guid>
+      <pubDate>Tue, 17 Sep 2024 19:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>提交 Interop 2025 提案</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj6w6m/submit_your_proposals_for_interop_2025/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj6w6m/submit_your_proposals_for_interop_2025/</guid>
+      <pubDate>Tue, 17 Sep 2024 18:32:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wabe——版本 0.5.3</title>
+      <link>https://www.reddit.com/r/programming/comments/1fj6b4q/wabe_release_053/</link>
+      <description><![CDATA[  由    /u/mrpalixir  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fj6b4q/wabe_release_053/</guid>
+      <pubDate>Tue, 17 Sep 2024 18:07:56 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 如何使用 LLM 解释 LLM 内部的神经元：视觉指南</title>
       <link>https://www.reddit.com/r/programming/comments/1fj64ck/how_openai_uses_llms_to_explain_neurons_inside/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fj028d/css_clamp_adjust_values_responsively_makemychance/</guid>
       <pubDate>Tue, 17 Sep 2024 14:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义 GitHub Actions 如何帮助我们简化数千条 CI/CD 管道</title>
-      <link>https://www.reddit.com/r/programming/comments/1fizzv2/how_custom_github_actions_enabled_us_to/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fizzv2/how_custom_github_actions_enabled_us_to/</guid>
-      <pubDate>Tue, 17 Sep 2024 13:59:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>从挫折到突破：一位小规模人工智能研究人员的历程</title>
-      <link>https://www.reddit.com/r/programming/comments/1fiz53n/from_frustration_to_breakthrough_a_smallscale_ai/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fiz53n/from_frustration_to_breakthrough_a_smallscale_ai/</guid>
-      <pubDate>Tue, 17 Sep 2024 13:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 TI-84 计算器中启用 ChatGPT</title>
-      <link>https://www.reddit.com/r/programming/comments/1fixigh/enabling_chatgpt_in_a_ti84_calculator/</link>
-      <description><![CDATA[  由    /u/RamboCambo15  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fixigh/enabling_chatgpt_in_a_ti84_calculator/</guid>
-      <pubDate>Tue, 17 Sep 2024 12:10:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 DOM？面向初级开发人员的完整指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fix4h4/what_is_the_dom_the_complete_guide_for_beginner/</link>
-      <description><![CDATA[  由    /u/michasv  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fix4h4/what_is_the_dom_the_complete_guide_for_beginner/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:51:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用最新版本的 Dart 增强你的 Flutter 应用</title>
-      <link>https://www.reddit.com/r/programming/comments/1fiw54y/boost_your_flutter_app_with_the_newest_dart/</link>
-      <description><![CDATA[  由   提交  /u/Consistent-Jicama932   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fiw54y/boost_your_flutter_app_with_the_newest_dart/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Phantom Note：VScode 上最好的注释工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1fiv39h/phantom_note_me_the_best_comment_tool_for_vscode/</link>
-      <description><![CDATA[  由    /u/Individual-Device-91  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fiv39h/phantom_note_me_the_best_comment_tool_for_vscode/</guid>
-      <pubDate>Tue, 17 Sep 2024 09:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP QUERY 方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1fiu5dr/the_http_query_method/</link>
-      <description><![CDATA[  由    /u/oatridbed  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fiu5dr/the_http_query_method/</guid>
-      <pubDate>Tue, 17 Sep 2024 08:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raylib 的 Ada 绑定</title>
-      <link>https://www.reddit.com/r/programming/comments/1fitlrc/ada_binding_for_raylib/</link>
-      <description><![CDATA[  由    /u/Fabien_C  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fitlrc/ada_binding_for_raylib/</guid>
-      <pubDate>Tue, 17 Sep 2024 08:18:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 NestJS 的 REST API + 使用 Auth0 的 JWT 身份验证 - 简单教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1fitb3e/rest_api_with_nestjs_jwt_authentication_with/</link>
-      <description><![CDATA[  由    /u/KindsonTheGenius  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fitb3e/rest_api_with_nestjs_jwt_authentication_with/</guid>
-      <pubDate>Tue, 17 Sep 2024 07:59:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
