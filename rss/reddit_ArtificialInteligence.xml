@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 00:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 03:01:36 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Python 程序，使本地运行的 LLM 能够在互联网上搜索通过 Llama.cpp 运行的 LLM！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1finlvk/i_made_a_python_program_that_gives_llms_running/</link>
+      <description><![CDATA[嘿 Reddit！ 我很高兴与大家分享一个我投入了无数时间的项目：Web-LLM Assistant。它是一个 Python 程序，使通过 llama.cpp 运行的本地 LLM 能够搜索互联网并提供最新的答案。 它的工作原理是：  您向 LLM 提出问题。 LLM 制作搜索查询并选择一个时间范围。 它执行网络搜索，收集前 10 个结果。 LLM 挑选出 2 个最相关的结果并对其进行完全网络抓取。 如果信息足够，它会回答您的问题。 如果信息不足，它会将搜索细化多达 5 次以找到最佳答案。  这意味着您的本地 LLM 现在可以解决有关其训练数据之外的近期事件或主题的问题！ 主要特点：  实时网络搜索 智能结果选择 对所选结果进行完整的网页抓取 迭代搜索优化 与您当地的 LLM 设置配合使用  我希望您能查看并试用一下！您可以在 GitHub 上找到该项目： https://github.com/TheBlewish/Web-LLM-Assistant-Llama-cpp 请告诉我您的想法，如有任何问题请随时提问。非常感谢您的反馈！    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1finlvk/i_made_a_python_program_that_gives_llms_running/</guid>
+      <pubDate>Tue, 17 Sep 2024 02:34:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proto 创始人谈论 Noche UFC AI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fineta/founder_of_proto_talks_noche_ufc_ai/</link>
+      <description><![CDATA[与 Proto 创始人兼首席执行官 David Nussbaum 进行了一次精彩的对话。Noche UFC 于周六晚在内华达州拉斯维加斯的 Sphere 举行。Proto 整晚都与比赛卡上的所有特色选手以及 UFC 总裁 Dana White 一起亮相。Nussbaum 先生不仅讨论了 Noche UFC 以及他们如何参与混合武术推广，还讨论了他们是如何起步的、他们参与过的其他运动、在本季《老大哥》中亮相等等。点击此处的链接查看对 Proto 首席执行官兼创始人 David Nussbaum 的完整采访。  https://youtu.be/44v3jJBTg9w?si=Wlab7begzpIs56W8    由   提交  /u/Brazen604   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fineta/founder_of_proto_talks_noche_ufc_ai/</guid>
+      <pubDate>Tue, 17 Sep 2024 02:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[寻找测试人员！] 构建具有极其逼真功能的 AI 角色聊天网站</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiml0c/seeking_testers_building_an_ai_character_chatting/</link>
+      <description><![CDATA[首先，非常感谢这个 subreddit 的朋友们，上次我在这里发帖时，他们接受了我的免费高级优惠。我收到了很多反馈，你们的参与对改进产品非常有用（是的，免费高级计划仍在运行，如果有兴趣，请直接发信息给我）。 我目前正在构建 http://secretdesires.ai/，这是一个未经审查的平台，可提供逼真的角色聊天体验。我正在寻找两件事：  愿意在我们的测试网站上对我们的新现实功能进行 QA 测试的人们，以及 对本主题中提到的现实功能提出批评/建议。  我们决定开发一套我认为人们会喜欢的现实功能。以下是一些正在筹备中的计划（我不会分享最酷的功能，您必须自己在测试网站上找到它们）：  主动行动：您的角色将在上下文适当时发送图像、电话和语音便笺。当您不在时，他们会给您发短信并给您打电话。 不再基于交换的聊天：与聊天机器人交谈时，我们通常会“轮流”，但这是不自然的，也不是真实对话发生的方式。使用我们的系统，您可以发送多条消息而无需等待回复，您的角色也将发送多条消息而无需等待回复。 群聊：不言自明 时间意识：角色将与用户的当地时间保持一致（除非指定了其他时间）。他们会知道早上、晚上、夜间（不，还不会“入睡”，哈哈）。 图像共享：当您向角色发送图像时，他们会确认您发送的内容，并在上下文合适时使用图片回复。 情绪多样性和动态特征：您的角色可以在不同的日子表达不同的情绪，既可以自发地表达，也可以基于用户操作表达。您的角色的个性和身体特征可能会随着时间的推移而改变，同样，既可以自发地表达，也可以基于用户操作表达。 一些更多绝密功能，您只有参与我们的测试计划才能发现。  因此，如果有兴趣测试这些功能 &amp;提供批评/建议，请直接发私信给我，我会将您添加到我们的测试小组。提供免费高级订阅。     提交人    /u/SecretDesiresAI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fiml0c/seeking_testers_building_an_ai_character_chatting/</guid>
+      <pubDate>Tue, 17 Sep 2024 01:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>不同语言的播客？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fil04t/podcasts_in_different_languages/</link>
+      <description><![CDATA[最近有很多关于使用 NotebookLM 创建播客的新闻，我发现 gigbee.ai 也非常适合。但这些播客似乎仅限于英语。有人知道用其他语言创建播客的方法吗？其他网站？或者有没有一个 AI 音频翻译网站可以保留两个说话者声音的自然性？    提交人    /u/NodeTraverser   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fil04t/podcasts_in_different_languages/</guid>
+      <pubDate>Tue, 17 Sep 2024 00:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一种 AI 工具可以改变物体的颜色同时保持其保真度？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fikam4/is_there_an_ai_tool_to_change_the_color_of/</link>
+      <description><![CDATA[大家好，我正在寻找一个工具，最好是免费的，使用它我可以用提示符更改对象的颜色。例如，我想将捷豹汽车的颜色从黑色更改为红色，当我使用 inpaint 时，reusltado 非常强大但仍然会改变事物。如果我在 pothoshop 中执行此操作，结果会非常慢且很差（也许我不太好）。    由   提交  /u/SantiagoCV   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fikam4/is_there_an_ai_tool_to_change_the_color_of/</guid>
+      <pubDate>Tue, 17 Sep 2024 00:03:52 GMT</pubDate>
+    </item>
     <item>
       <title>公共网络上对人工智能生成器缺乏监管和审核</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiicya/lack_of_regulations_and_moderation_for_ai/</link>
@@ -20,20 +55,6 @@
       <pubDate>Mon, 16 Sep 2024 21:52:00 GMT</pubDate>
     </item>
     <item>
-      <title>开始学习人工智能的第一步是什么？R、Python？数据科学？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fig51k/whats_the_firts_step_to_start_studying_artificial/</link>
-      <description><![CDATA[你好，我正在开始研究人工智能，我想知道最好的开始方式是什么，我应该研究什么？    提交人    /u/German-Nostrach   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fig51k/whats_the_firts_step_to_start_studying_artificial/</guid>
-      <pubDate>Mon, 16 Sep 2024 21:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像 + 提示工具转 3D 图像/视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fifwka/tools_for_image_prompt_to_3d_imagevideo/</link>
-      <description><![CDATA[我正在寻找可以拍摄图像并将其转换为 3D 图像或视频（可选择使用提示输入）的 AI 工具。结果应使用完全相同的图像，而不是生成新图像。  我发现的一个工具是 Luma Dream Machine。它将图像和描述对象应如何移动的提示作为输入，并返回对象执行该操作的 5 秒视频。  我正在寻找具有廉价演示（10 美元或更少）并且可以在桌面上在线完成的工具（无需通过电子邮件发送图像并等待几天）。 您建议使用哪些工具？    提交人    /u/FriesMatter462   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fifwka/tools_for_image_prompt_to_3d_imagevideo/</guid>
-      <pubDate>Mon, 16 Sep 2024 21:03:26 GMT</pubDate>
-    </item>
-    <item>
       <title>我对人工智能时代的数字识别（以及可能的成人内容审核）的建议是：</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fifg6g/my_proposal_for_digital_identification_in_the_age/</link>
       <description><![CDATA[  由    /u/PlzDontBlame  提交  [链接] [评论]]]></description>
@@ -41,16 +62,9 @@
       <pubDate>Mon, 16 Sep 2024 20:45:29 GMT</pubDate>
     </item>
     <item>
-      <title>能学习你的风格的最佳 AI 工具？例如：帮助制作播客节目和内容创作。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fieimk/best_ai_tools_that_learn_your_style_ex_helping/</link>
-      <description><![CDATA[大家好 -- 我正在寻找一种可以了解我的风格（声音）并帮助我创建社交媒体内容和计划播客剧集等内容的工具。 理想情况下，该工具最好具有以下内容：  我喜欢的概述 我的“声音” - 如专业/休闲/权威/等 我的业务详情 我的头像详情 额外内容，例如在创建内容时巧妙地加入“如果您需要帮助，请联系我们的团队”  有类似的东西吗？ 提前致谢！    提交人    /u/zfly9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fieimk/best_ai_tools_that_learn_your_style_ex_helping/</guid>
-      <pubDate>Mon, 16 Sep 2024 20:08:34 GMT</pubDate>
-    </item>
-    <item>
       <title>求职变得简单：Jobsolv 介绍</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fiahb3/job_hunting_made_easy_introducing_jobsolv/</link>
-      <description><![CDATA[大家好，r/ArtificialInteligence 社区！ 我们的故事： Jobsolv 诞生于个人经历。我们的创始人被一家大型美国银行解雇，面临着在竞争激烈的市场中寻找新工作的艰巨任务。受自身奋斗经历的启发，他创建了 Jobsolv，以简化其他人的求职过程。 关于我们的应用程序 Jobsolv 是一个 SaaS 平台，可以自动化求职的许多方面。只需点击几下，您就可以：  创建个性化个人资料：突出显示您的技能、经验和职业目标。 发现相关工作：我们的 AI 算法根据您的个人资料推荐量身定制的职位空缺。 按薪水过滤：查找起薪 10 万美元的高薪职位。 专注于远程工作：我们专门为美国申请人提供远程工作，提供灵活性和工作与生活的平衡。 建立强大的简历：使用我们的模板创建通过 ATS 的专业简历。 有效地自动申请：我们的智能自动申请功能可使您的简历适应每一份工作，确保发挥最大影响力。 免费试用：新用户可以享受 30 积分试用（3 天 10 个积分）来探索我们的功能。即使使用免费帐户，您也可以完全访问该应用程序的功能。  下一步： 随着我们的不断发展，我们致力于改善您的体验。我们正在重新设计 UX/UI，并探索 CRM 选项以增强我们的沟通和参与度。 我们很乐意听到您的想法！您对像我们这样的公司（工作委员会）的 CRM 软件有什么建议吗？您对 Jobsolv 有什么看法？感谢您的任何反馈。    提交人    /u/Jobsolv_RemoteJobs   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，r/ArtificialInteligence 社区！ 我们的故事： Jobsolv 诞生于个人经历。我们的创始人被一家大型美国银行解雇，面临着在竞争激烈的市场中寻找新工作的艰巨任务。受自身奋斗经历的启发，他创建了 Jobsolv，以简化其他人的求职过程。 关于我们的应用程序 Jobsolv 是一个 SaaS 平台，可以自动化求职的许多方面。只需点击几下，您就可以：  创建个性化个人资料：突出显示您的技能、经验和职业目标。 发现相关工作：我们的 AI 算法根据您的个人资料推荐量身定制的职位空缺。 按薪水过滤：查找起薪 10 万美元的高薪职位。 专注于远程工作：我们专门为美国申请人提供远程工作，提供灵活性和工作与生活的平衡。 建立强大的简历：使用我们的模板创建通过 ATS 的专业简历。 有效地自动申请：我们的智能自动申请功能可使您的简历适应每项工作，确保发挥最大影响力。 免费试用：新用户可以享受 30 积分试用（3 天 10 个积分）来探索我们的功能。即使使用免费帐户，您也可以完全访问该应用程序的功能。  下一步： 随着我们的不断发展，我们致力于改善您的体验。我们正在重新设计 UX/UI，并探索 CRM 选项以增强我们的沟通和参与度。 我们很乐意听到您的想法！您对像我们这样的公司（工作委员会）的 CRM 软件有什么建议吗？您对 Jobsolv 有什么看法？感谢您的任何反馈。    提交人    /u/Jobsolv_RemoteJobs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fiahb3/job_hunting_made_easy_introducing_jobsolv/</guid>
       <pubDate>Mon, 16 Sep 2024 17:24:52 GMT</pubDate>
     </item>
@@ -104,13 +118,6 @@
       <pubDate>Mon, 16 Sep 2024 11:39:03 GMT</pubDate>
     </item>
     <item>
-      <title>通过 AI 和 VR 实现健身转型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi22z5/fitness_transform_with_ai_and_vr/</link>
-      <description><![CDATA[我见证了健身行业的变革，AI 和 VR 在其中发挥了巨大作用。由 AI 提供支持的个性化计划和沉浸式 VR 锻炼改变了游戏规则。我最近尝试了 VR 锻炼，感觉就像是一次令人兴奋的冒险，而不仅仅是锻炼。对心理健康和营养的整合也令人兴奋。您认为哪些趋势将塑造健身的未来？您自己体验过这些创新吗？ 我找到了一篇文章。想分享：https://www.ispo.com/en/health/sport-health-retail-9-game-changing-mindshifts-future    提交人    /u/Ancient_Relief2160   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fi22z5/fitness_transform_with_ai_and_vr/</guid>
-      <pubDate>Mon, 16 Sep 2024 11:23:50 GMT</pubDate>
-    </item>
-    <item>
       <title>这将是开始研究人工智能代理的一个好地方。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fi0ior/this_would_be_a_good_place_to_get_started_on_ai/</link>
       <description><![CDATA[这是免费 SmythOS AI 代理工程师认证课程的课程大纲。它涵盖了从 LLM 简介到 RAG 等更高级主题的所有内容。我认为，如果您想提高 AI 代理开发技能，这是一个很好的起点。 课程大纲  LLM、AI 代理和 SmythOS 工作室简介 高级提示和数据处理 集成组件和 API 掌握 数据池、代理和高级功能 高级概念和实际应用     提交人    /u/baron_quinn_02486   [链接] [评论]]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[现在已经 2024 年了，我仍然无法与我的电脑对话。我们获得法学硕士学位已经将近 2 年了。我们从 2011 年开始使用 Siri，从 2014 年开始使用 Cortana。然而，你仍然无法要求你的电脑做你想做的事情。在大多数情况下，你仍然需要点击鼠标并键入才能在电脑上执行操作。 这看起来太像 1999 年了。为什么会这样？    提交者    /u/FranklinSealAljezur   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhw4ns/its_2024_and_i_still_cant_talk_to_my_computer/</guid>
       <pubDate>Mon, 16 Sep 2024 04:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>1,250 名出租车司机已被自动驾驶 Waymo 取代：他们能多快取代所有司机？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeg8/1250_taxi_drivers_already_replaced_by_autonomous/</link>
-      <description><![CDATA[Waymo 宣布每周打车 10 万次，这意味着： 每小时打车 2 次： 10 万次打车 ÷ 每周 80 次 = 1,250 名全职司机流失 随着 Waymo 迅速扩张，我想知道在美国，所有出租车司机要多久才能被取代。2 年？5 年？ 所有被取代的司机会怎样？（例如，美国有 150 万名 Uber 司机）    提交人    /u/Excellent_Box_8216   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeg8/1250_taxi_drivers_already_replaced_by_autonomous/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:31:26 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
