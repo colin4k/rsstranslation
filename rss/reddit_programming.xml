@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Sep 2024 03:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 06:02:07 GMT</lastBuildDate>
+    <item>
+      <title>Nyxpsi – 应对极端数据包丢失的下一代网络协议</title>
+      <link>https://www.reddit.com/r/programming/comments/1fiom5w/nyxpsi_a_nextgen_network_protocol_for_extreme/</link>
+      <description><![CDATA[在 UDP 上拼凑了一个新的网络协议。  我们在 UDP 上构建了一个简洁的 RaptorQ 实现，以应对具有挑战性的环境。它能够在传统方法失败的情况下保持连接，即使数据包丢失率为 50%，也能实现 100% 的传输成功率。可能改变游戏规则的应用程序：  运动中不间断的 VR/AR 体验 视频/语音通话的无缝通信 灾区的可靠数据传输 农村地区的超低延迟流媒体等等！  周末完成了，希望能做得比来回喵喵叫更好。欢迎任何 PR。     提交人    /u/Dax0628   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fiom5w/nyxpsi_a_nextgen_network_protocol_for_extreme/</guid>
+      <pubDate>Tue, 17 Sep 2024 03:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>入侵克莱姆森大学</title>
+      <link>https://www.reddit.com/r/programming/comments/1fiolgz/hacking_clemson_university/</link>
+      <description><![CDATA[  由    /u/p0xq  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fiolgz/hacking_clemson_university/</guid>
+      <pubDate>Tue, 17 Sep 2024 03:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>小规模人工智能研究的艰苦战斗：令人失望的一天</title>
+      <link>https://www.reddit.com/r/programming/comments/1fiod6p/the_uphill_battle_of_smallscale_ai_research_a_day/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fiod6p/the_uphill_battle_of_smallscale_ai_research_a_day/</guid>
+      <pubDate>Tue, 17 Sep 2024 03:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>Rewind AI 的开源替代品，用 Rust 编写，适用于 MacOS、Windows、Linux</title>
       <link>https://www.reddit.com/r/programming/comments/1fio3sw/open_source_alternative_to_rewind_ai_written_in/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/pcouy  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fi5si9/mitosis_in_the_grayscott_model_an_introduction_to/</guid>
       <pubDate>Mon, 16 Sep 2024 14:17:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>小规模人工智能研究：期望与现实——局限性的鲜明例证</title>
-      <link>https://www.reddit.com/r/programming/comments/1fi5p4v/small_scale_ai_research_expectations_vs_reality_a/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fi5p4v/small_scale_ai_research_expectations_vs_reality_a/</guid>
-      <pubDate>Mon, 16 Sep 2024 14:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>全世界都在运行 60 年前的代码，这是一个巨大的问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1fi5jh3/the_world_is_running_on_60yearold_code_and_its_a/</link>
-      <description><![CDATA[  由    /u/pinkpen_net  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fi5jh3/the_world_is_running_on_60yearold_code_and_its_a/</guid>
-      <pubDate>Mon, 16 Sep 2024 14:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>以正确的方式构建通知偏好模块</title>
-      <link>https://www.reddit.com/r/programming/comments/1fi4zb0/building_notification_preferences_module_in_the/</link>
-      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fi4zb0/building_notification_preferences_module_in_the/</guid>
-      <pubDate>Mon, 16 Sep 2024 13:43:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
