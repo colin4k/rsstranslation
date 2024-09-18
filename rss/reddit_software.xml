@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 00:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:02:29 GMT</lastBuildDate>
+    <item>
+      <title>Screenpipe：开源 24/7 屏幕和音频捕获</title>
+      <link>https://www.reddit.com/r/software/comments/1fjfwg0/screenpipe_open_source_247_screen_audio_capture/</link>
+      <description><![CDATA[嘿r/software，我想分享一个我一直在研究的开源项目，名为 Screenpipe。它是 Rewind AI 的一个开源替代品。 一些主要功能：  连续屏幕捕获和 OCR 录音、转录和会议摘要 本地存储和处理（您拥有自己的数据） 跨平台支持（MacOS、Windows、Linux） 与 Ollama、OpenAI、Obsidian 等工具集成  目标是提供可靠的数据流，开发人员可以在其基础上构建各种用例，例如：  个人知识管理 生产力跟踪和优化 会议摘要和记录 情境感知 AI 助手  现在还为时过早，但我们有一个可运行的端到端系统。核心是用 Rust 编写的，以提高性能。我们还有一个桌面应用程序，以便于设置。 如果您有兴趣查看或贡献，您可以在 GitHub 上找到更多详细信息： https://github.com/mediar-ai/screenpipe 或网站： https://screenpi.pe/ 很想听听大家的想法！    提交人    /u/louis3195   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fjfwg0/screenpipe_open_source_247_screen_audio_capture/</guid>
+      <pubDate>Wed, 18 Sep 2024 00:35:57 GMT</pubDate>
+    </item>
     <item>
       <title>如何检查 Chrome/ium（或任何兼容 WebExt 的 Web 浏览器）是否支持 Manifest v2 或 v3 或两者？</title>
       <link>https://www.reddit.com/r/software/comments/1fjd4lp/how_to_check_whether_chromeium_or_any_webext/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>使用元数据或利用磁盘上其他类型的缓存等的快速文件搜索程序</title>
       <link>https://www.reddit.com/r/software/comments/1fixlb9/fast_file_search_program_using_meta_data_or/</link>
-      <description><![CDATA[所以我记得从 Windows XP 到 Windows 7 我一直使用一个程序，即使我的生命依赖它，我也记不起它的名字了 它基本上是一个文件资源管理器窗口，用户界面简单，没有太多的视觉效果（我认为主要的默认颜色是按钮上的银灰色或其他什么的，但可能是错的，它只是默认的 MSWindows 窗口外观），它的主要功能是快速搜索文件（我记得在它的网站上说过，它比 Windows 资源管理器做了更多的事情，比如利用元数据或利用文件系统中的某种技术？不记得具体是什么了） 我所知道的是，它可以在几秒钟内搜索我的整个磁盘，它还有方便的复选框，不仅可以按名称进行过滤，还可以按名称 + 仅照片（比如不仅仅是 jpeg，这也是可能的，而且任何照片文件格式） 或日期范围名称和类型等，所有这些都非常快，特别是在寻找媒体时，感觉就像一部安卓手机哈哈。 但出于某种原因，我没有在后来作为主力机使用的电脑上继续下载它，但现在我很想念它，也记不起它的名字了哈哈    提交人    /u/papajo_r   [link] [comments]]]></description>
+      <description><![CDATA[所以我记得从 Windows XP 到 Windows 7 都使用过一个程序，即使我的生命依赖它，我也记不起它的名字了 它基本上是一个文件资源管理器窗口，用户界面简单，没有太多的视觉效果（我认为主要的默认颜色是按钮上的银灰色或其他什么的，但可能是错的，它只是具有默认的 MSWindows 窗口外观），其主要功能是快速搜索文件（我记得在其网站上说过，它比 Windows 资源管理器做了更多的事情，比如利用元数据或利用文件系统中的某种技术？不记得具体是什么了） 我所知道的是，它可以在几秒钟内搜索我的整个磁盘，它还有方便的复选框，不仅可以按名称进行过滤，还可以按名称 + 仅照片（比如不仅仅是 jpeg，这也是可能的，而且任何照片文件格式） 或日期范围名称和类型等，所有这些都非常快，特别是在寻找媒体时，感觉就像一部安卓手机哈哈。 但出于某种原因，我没有在后来作为主力机构建的电脑上继续下载它，但现在我很想念它，也记不起它的名字了哈哈    提交人    /u/papajo_r   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fixlb9/fast_file_search_program_using_meta_data_or/</guid>
       <pubDate>Tue, 17 Sep 2024 12:14:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[您好，我有一个问题，是否可以通过添加音频样本来克隆声音？ 因为我有一段录音，我想克隆声音，然后只需输入新单词并使用之前添加的相同声音生成新音频。 我不知道是否可以使用人工智能或软件来实现 如果不可能，那也没关系，但如果您可以上传声音并使用相同声音生成新音频，那将会很有趣。    提交人    /u/SpectyteCovelight   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fiwbdx/clone_voice_with_an_audio_sample/</guid>
       <pubDate>Tue, 17 Sep 2024 11:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求将手写文本转换为数字格式的 OCR 解决方案的建议</title>
-      <link>https://www.reddit.com/r/software/comments/1fitum2/seeking_recommendations_for_ocr_solutions_to/</link>
-      <description><![CDATA[我希望将手写文本转换为数字格式以用于各种目的。实现此目的的最佳方法似乎是使用光学字符识别 (OCR) 技术。具体来说，我需要一个可靠的 OCR 解决方案，可以准确检测手写文本并将其转换为可编辑的数字格式。 目前，我正在使用 UPDF，它具有 AI 驱动的 OCR，可以识别 38 种语言的文本。但是，我正在探索具有强大 OCR 技术的其他编辑器以扩展我的选择。 有没有推荐的 OCR 解决方案，它们擅长以高精度转换手写文本？    提交人    /u/KnowledgeSharing90   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fitum2/seeking_recommendations_for_ocr_solutions_to/</guid>
-      <pubDate>Tue, 17 Sep 2024 08:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

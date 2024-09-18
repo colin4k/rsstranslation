@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 00:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:02:11 GMT</lastBuildDate>
+    <item>
+      <title>您需要了解的有关 Openai o1 的一切</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjitpa/everything_you_need_to_know_about_openai_o1/</link>
+      <description><![CDATA[OpenAI 推出了一种名为“o1”的新模型，它是计划中的一系列“推理”模型的一部分，旨在比人类更快地解决复杂问题。除了 o1，OpenAI 还发布了一个更小、更实惠的版本，名为“o1-mini”。这个模型被广泛传言为“草莓模型”，代表着 OpenAI 向类人 AI 目标迈出了重大一步。O1 擅长编码和解决多步骤问题，表现优于之前的模型，但它比 GPT-4o 更昂贵、更慢。它以“预览版”的形式提供对于某些 ChatGPT 用户，开发人员访问的价格高达每百万输入令牌 15 美元，每百万输出令牌 60 美元 - 远高于 GPT-4o。 https://www.lycee.ai/blog/openai-o1-model-summary    提交人    /u/franckeinstein24   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjitpa/everything_you_need_to_know_about_openai_o1/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢的利用人工智能的区块链项目有哪些？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjipce/what_are_your_favorite_blocchain_projects/</link>
+      <description><![CDATA[我的是 Neurolana。他们使用 NLP 根据白皮书质量、社交媒体存在等对项目进行评分，同时还索引历史区块链数据以预测未来交易和设计机会。对我来说，作为一名 web3 开发人员，这非常令人兴奋，因为自己编写这样的机器人并在数学方面制定正确的策略确实很困难。你呢？我想尽可能多地了解，因为我可以看到他们会在 2024 年第四季度大获成功    提交人    /u/Easy_Dig_88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjipce/what_are_your_favorite_blocchain_projects/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能视频创作者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjhoq4/ai_video_creator/</link>
+      <description><![CDATA[大家好， 我想知道是否有人有一个好的 AI 视频创建工具？例如，使用提示上传图像，然后该工具会根据图像渲染视频？存在类似或接近它的东西吗？    提交人    /u/Xeon888   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fjhoq4/ai_video_creator/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>IT 领域的未来职业</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fjejr3/future_careers_in_it/</link>
@@ -62,7 +83,7 @@
       <pubDate>Tue, 17 Sep 2024 18:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>我的工作流程应该如何才能使用 Ultimate Vocal Remover 5 获得最佳效果？</title>
+      <title>我的工作流程应该怎样才能使用 Ultimate Vocal Remover 5 获得最佳效果？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj68u4/what_should_my_workflow_be_like_to_get_the_best/</link>
       <description><![CDATA[我只有几天摆弄软件的经验，而且我对自己所做的事情没有任何技术知识。我只是尝试不同的设置，并用耳朵判断哪种听起来最好。 目前，我只是在合奏模式下加载一首歌曲，选择所有内容，以了解每个模型对给定歌曲的作用。我经常在这个阶段忽略“最终”合奏输出，因为我不指望它是最好的，因为没有考虑模型的组合。然后我将重新运行合奏模式，但这次只运行我认为能产生良好结果的模型。我认为这样做有两个原因： (1) 适用于一首特定歌曲甚至特定流派的模型组合可能不适用于另一首歌曲。一会儿我用摇滚乐得到干净的结果，一会儿我用原声民谣得到垃圾。  (2) 我想获得两种不同风格的器乐曲目：一种是适合个人卡拉 OK 翻唱的伴唱，另一种是真正的器乐，最终输出中完全听不到人声。这两项工作所需的模型组不一样。我打算为我最喜欢的艺术家的完整唱片做这件事，其中包含数百个单独的曲目，因此我想要一种更有效的方法。  我能想到的唯一最大化利用时间的方法是在 Audacity 的一个实例中打开各个模型的输出，这样我就可以正确地进行比较和对比，而不必仅在音乐播放器应用中切换歌曲。    提交人    /u/ignoremesenpie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj68u4/what_should_my_workflow_be_like_to_get_the_best/</guid>
@@ -74,27 +95,6 @@
       <description><![CDATA[分享一个易于理解的较小版本的过去一周人工智能世界的主要更新。  认识 Pixtral 12B - Mistral 的新型多模态人工智能模型- Mistral 发布了一种可以处理图像和文本的新型人工智能模型。该模型可能会改变图像字幕和对象计数等任务。 OpenAI 首次推出拥有博士级性能的 O-1 模型- o1-preview 和 o1-mini 可以推理复杂的任务，通过投入更多时间思考和改进来解决问题，就像博士生一样。 Google AI Studio 推出模型比较模式-该功能让用户可以轻松查看不同的人工智能模型和参数如何影响输出，并评估模型进度和速度差异。  Meta Connect 2024：期待什么？- 为期两天的活动将展示最新的 Meta AI，包括其 Orion AR 眼镜、Quest-3 变体以及据报道的 RayBan 智能眼镜。 Luma 在 Runway 推出数小时后就放弃了 Dream Machine API- 随着 Luma 的 API 允许用户在 Runway 的 API 发布后在 Dream Machine 上快速构建应用程序和服务，人工智能战争不断升级。 OpenAI 的新“安全委员会”可以暂停模型发布- 独立董事会监督委员会将监督主要模型的发布，对发布进行监督，并因安全问题推迟发布。  还有更多……  谷歌的新机器人 - Aloha Unleashed 和 DemoStart 展示了令人印象深刻的灵活性，可以执行系鞋带、挂衬衫和打扫厨房等任务。 Salesforce 发布了 Agentforce，这是一套低代码工具，用于构建自主 AI 代理，可以执行销售、营销和商业相关任务的推理。 Hume AI 推出了 EVI-2，这是一种语音对语音模型，可以模拟不同的个性、口音、说话风格和多种语速。 Adobe Firefly 将在 2024 年底前获得视频生成功能，例如 Generative Extend、Text to Video 和 Image to Video。 亚马逊已开始在其 Rufus 聊天机器人中试验广告。基于亚马逊搜索和对话上下文，这些广告可能很快就会出现在美国用户面前。  由消防员、工程师和科学家组成的团队领导的一项英国新研究表明，人工智能驾驶的无人机可能能够通过发现和扑灭火焰来防止野火。 SambaNova Systems 提供了一种高速开源替代方案来替代 OpenAI 的 o-1 模型，并通过 Hugging Face 演示展现了快速的处理能力。 微软推出了新的 Copilot 功能，例如 Excel 中的 Python 支持、PowerPoint 中的叙述构建器、Teams 的文本摘要以及 Word 和 OneDrive 的改进。 Slack 推出了由人工智能驱动的笔记工具，能够使用人工智能或 Google Meet 总结会议内容。 人工智能初创公司 World Labs 计划构建具有空间智能的人工智能模型，旨在生成、感知和与 3D 环境交互并导航物理空间。   有关这些新闻和创新的更详细分类，请参阅时事通讯。    提交人    /u/RohitAkki   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4y4p/weekly_ai_updates_sept_11_to_sept_17_major_news/</guid>
       <pubDate>Tue, 17 Sep 2024 17:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[新手]请问这是什么AI语音？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4u9v/newbie_may_i_ask_what_ai_voice_is_this/</link>
-      <description><![CDATA[嗨，  请问这是哪个 AI 语音人？我试过 ElevenLabs 检测工具，但它说不是他们家的。 有什么想法吗？  https://www.youtube.com/shorts/KXvobbCxeRQ 谢谢    提交人    /u/bentraje   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4u9v/newbie_may_i_ask_what_ai_voice_is_this/</guid>
-      <pubDate>Tue, 17 Sep 2024 17:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于将 Outlook 元素转换为 PDF 并按日期排序的 AI 工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4tcl/ai_tool_for_converting_outlookelements_to_pdf_and/</link>
-      <description><![CDATA[标题。我的工作中会收到很多来自客户的非结构化电子邮件和其他文档。我想要一个工具，可以将它们转换为 PDF 并自动按日期在文件夹中对它们进行排序。有这样的工具吗？    提交人    /u/eliasknutsen   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4tcl/ai_tool_for_converting_outlookelements_to_pdf_and/</guid>
-      <pubDate>Tue, 17 Sep 2024 17:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个人工智能工具，帮助你通过阅读来学习语言</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4m9t/building_an_ai_tool_that_helps_you_learn_a/</link>
-      <description><![CDATA[https://drive.google.com/file/d/1eRBXFti_nlGBs2n5fuynP19sESbP5kKC/view?usp=sharing    提交人    /u/alexander_vladimir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fj4m9t/building_an_ai_tool_that_helps_you_learn_a/</guid>
-      <pubDate>Tue, 17 Sep 2024 17:03:44 GMT</pubDate>
     </item>
     <item>
       <title>您对哪些鲜为人知的人工智能应用最感兴趣？</title>

@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 18 Sep 2024 00:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 03:02:36 GMT</lastBuildDate>
     <item>
-      <title>通过这个稳定扩散研讨会尝试文本到图像 GenAI！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fjds8f/try_out_texttoimage_genai_with_this_stable/</link>
-      <description><![CDATA[  由    /u/sonya-ai  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fjds8f/try_out_texttoimage_genai_with_this_stable/</guid>
-      <pubDate>Tue, 17 Sep 2024 23:04:14 GMT</pubDate>
+      <title>人工智能研究人员的困境：进步意味着重新开始</title>
+      <link>https://www.reddit.com/r/programming/comments/1fjhy8g/the_ai_researchers_dilemma_when_progress_means/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fjhy8g/the_ai_researchers_dilemma_when_progress_means/</guid>
+      <pubDate>Wed, 18 Sep 2024 02:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作动态昼夜过渡效果 - <FrontBackGeek/></title>
+      <link>https://www.reddit.com/r/programming/comments/1fjhkyt/crafting_a_dynamic_daynight_transition_effect/</link>
+      <description><![CDATA[  由    /u/codeagencyblog  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fjhkyt/crafting_a_dynamic_daynight_transition_effect/</guid>
+      <pubDate>Wed, 18 Sep 2024 01:55:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 Wiz Code 集成的第三方 SAST 扫描器和云环境来增强应用程序安全态势，从而更快地确定风险优先级并采取补救措施</title>
+      <link>https://www.reddit.com/r/programming/comments/1fjh79c/enhancing_application_security_posture_with_wiz/</link>
+      <description><![CDATA[  由    /u/picturesaria01  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fjh79c/enhancing_application_security_posture_with_wiz/</guid>
+      <pubDate>Wed, 18 Sep 2024 01:36:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenJDK Java 23 发布，默认采用 ZGC 分代模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1fjgsi9/openjdk_java_23_released_with_zgc_generational/</link>
+      <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fjgsi9/openjdk_java_23_released_with_zgc_generational/</guid>
+      <pubDate>Wed, 18 Sep 2024 01:16:47 GMT</pubDate>
     </item>
     <item>
       <title>如果我们希望 PWA 得到重视，我们就需要认真对待它们</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fj1htp/build_responsible_web_experiences_with_generative/</guid>
       <pubDate>Tue, 17 Sep 2024 15:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opik：开源 LLM 评估框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1fj13qx/opik_opensource_llm_evaluation_framework/</link>
-      <description><![CDATA[  由    /u/killthecloud  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fj13qx/opik_opensource_llm_evaluation_framework/</guid>
-      <pubDate>Tue, 17 Sep 2024 14:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们编写了一个开源 API 代理，以实现可靠性和可观察性，您的想法是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fj0ks7/we_wrote_an_opensource_api_proxy_for_reliability/</link>
-      <description><![CDATA[  由    /u/rdorgueil  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fj0ks7/we_wrote_an_opensource_api_proxy_for_reliability/</guid>
-      <pubDate>Tue, 17 Sep 2024 14:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关生成式人工智能代理的教程金矿！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fj0dar/a_goldmine_of_tutorials_about_generative_ai_agents/</link>
-      <description><![CDATA[您将在此存储库中找到与代理相关的任何内容。从简单的解释到最先进的主题。  内容分为以下类别：  适合初学者的代理 特定于任务的代理 创意和生成代理 高级代理架构 特殊的高级技术  目前包含 16 个不同的教程，并且会定期更新！    提交人    /u/Diamant-AI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fj0dar/a_goldmine_of_tutorials_about_generative_ai_agents/</guid>
-      <pubDate>Tue, 17 Sep 2024 14:15:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
