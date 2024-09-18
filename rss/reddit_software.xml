@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 03:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 06:01:44 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一些视频翻录/编辑软件，需要建议。请帮忙？</title>
+      <link>https://www.reddit.com/r/software/comments/1fjkyex/looking_for_some_video_rippingediting_software/</link>
+      <description><![CDATA[大家好。 我正在寻找一个工作场所问题的解决方案，我希望这个聪明人的子版块可以帮助我指明正确的方向。 作为我所在的（政府，而非警察/执法）团队的一员，我们经常需要查看视频和闭路电视录像。大约 60% 的时间，VLC 可以满足我们的需求并播放文件。通常，有问题的闭路电视录像带有自己的嵌入式播放器。例如，我们可能收到的闭路电视文件长达 12 小时，大小超过 10 GB。一旦我们尝试存档录像或将其存储在我们的内部系统中，文件就会变得太大而无法处理并看起来像损坏的文件，或者嵌入式播放器被不会更改的内部 IT 策略阻止。我们的解决方法是使用隔离计算机，但我想要一个更好的解决方案，可以更好地与我们的工作实践和政策相结合。 我只需要从 12 小时的文件中取出半小时，所以我想知道，是否有一个视频翻录软件可以在屏幕上的原生播放器中播放视频时翻录（部分）视频？ 对该软件的一些考虑。 它需要离线工作，任何时候都不能上传视频文件，无论是全部还是部分。 它必须是“合适的”软件。我的意思是由一个有信誉的组织（Adobe 等）创建的，而不仅仅是一些自制的开发。 它需要相当容易使用。我需要教几个非常简单的人如何使用它（我可以制作分步文档） 单一许可证比订阅更好，但是虽然我想降低成本，但我花的是工作钱，所以它的成本就是它的成本。 谢谢大家，请在下面提出任何问题，我会回复您，我很感激和所有的回应    提交人    /u/Quiet_calm_99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fjkyex/looking_for_some_video_rippingediting_software/</guid>
+      <pubDate>Wed, 18 Sep 2024 04:57:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据查询帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1fjj3ew/data_query_help/</link>
+      <description><![CDATA[这太随机了，我不确定这是否是我应该在的地方，但我试图查找相对于其他位置的位置。例如，我想找到密西西比州距离 AMC 电影院 10 英里以内的所有公寓。或者假设我每天开车一小时上班，我想知道上班路上的每个加油站。我该怎么做？    提交人    /u/Mountain_Mud_4720   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fjj3ew/data_query_help/</guid>
+      <pubDate>Wed, 18 Sep 2024 03:12:10 GMT</pubDate>
+    </item>
     <item>
       <title>Screenpipe：开源 24/7 屏幕和音频捕获</title>
       <link>https://www.reddit.com/r/software/comments/1fjfwg0/screenpipe_open_source_247_screen_audio_capture/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[所以我记得从 Windows XP 到 Windows 7 都使用过一个程序，即使我的生命依赖它，我也记不起它的名字了 它基本上是一个文件资源管理器窗口，用户界面简单，没有太多的视觉效果（我认为主要的默认颜色是按钮上的银灰色或其他什么的，但可能是错的，它只是具有默认的 MSWindows 窗口外观），其主要功能是快速搜索文件（我记得在其网站上说过，它比 Windows 资源管理器做了更多的事情，比如利用元数据或利用文件系统中的某种技术？不记得具体是什么了） 我所知道的是，它可以在几秒钟内搜索我的整个磁盘，它还有方便的复选框，不仅可以按名称进行过滤，还可以按名称 + 仅照片（比如不仅仅是 jpeg，这也是可能的，而且任何照片文件格式） 或日期范围名称和类型等，所有这些都非常快，特别是在寻找媒体时，感觉就像一部安卓手机哈哈。 但出于某种原因，我没有在后来作为主力机构建的电脑上继续下载它，但现在我很想念它，也记不起它的名字了哈哈    提交人    /u/papajo_r   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fixlb9/fast_file_search_program_using_meta_data_or/</guid>
       <pubDate>Tue, 17 Sep 2024 12:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 鼠标按钮控制设置仅当鼠标光标在屏幕上时才有效，而不是在游戏中（当您移动角色并且屏幕上没有鼠标时）</title>
-      <link>https://www.reddit.com/r/software/comments/1fix54p/x_mouse_button_control_settings_works_only_when_a/</link>
-      <description><![CDATA[在浏览网页或游戏菜单中时它可以完美运行，但是当我在玩游戏并且鼠标不在屏幕上（第三人称游戏）时它就不起作用了。    提交人    /u/MixDrix   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fix54p/x_mouse_button_control_settings_works_only_when_a/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用音频样本克隆声音</title>
-      <link>https://www.reddit.com/r/software/comments/1fiwbdx/clone_voice_with_an_audio_sample/</link>
-      <description><![CDATA[您好，我有一个问题，是否可以通过添加音频样本来克隆声音？ 因为我有一段录音，我想克隆声音，然后只需输入新单词并使用之前添加的相同声音生成新音频。 我不知道是否可以使用人工智能或软件来实现 如果不可能，那也没关系，但如果您可以上传声音并使用相同声音生成新音频，那将会很有趣。    提交人    /u/SpectyteCovelight   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fiwbdx/clone_voice_with_an_audio_sample/</guid>
-      <pubDate>Tue, 17 Sep 2024 11:09:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
