@@ -4,109 +4,111 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 12:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 15:00:30 GMT</lastBuildDate>
     <item>
-      <title>问 HN：目前最好的、对电脑爱好者最友好、可 root 的 Android 手机是什么？</title>
-      <link>https://t.me/hn_summary/109012</link>
-      <description><![CDATA[问 HN：目前最好的、对技术宅友好的、可 root 的 Android 手机是什么？
-我的网络提供商已禁用 3G，尽管我的设备支持 VoLTE，但由于其型号名称而被列入黑名单，导致无法拨打电话。我更喜欢 root 的 Android 设备，用于全系统广告拦截、运行 Frida 等工具以及修改应用程序。理想情况下，我想要一台可以为 Monzo 等银行应用程序实现 CTSBASICINTEGRITY 的设备，但我也看重绕过远程认证和 DRM 的能力。root 设备的安全问题对我来说微不足道；我优先考虑切换安全 DoH、更改 SIP 路由和出于合法目的欺骗地理位置的自由。我使用过 /e/ OS 和 CyanogenMod，正在寻找一款注重隐私的开源操作系统。虽然基于 Linux 的手机操作系统尚未准备就绪，但我正在寻找用于本机 root 或运行 LineageOS 的最佳或“最不差”的硬件。目前，我正在考虑 Fairphone 5，但也愿意听取其他建议。]]></description>
-      <guid>https://t.me/hn_summary/109012</guid>
-      <pubDate>Thu, 19 Sep 2024 12:01:50 GMT</pubDate>
+      <title>[媒体] Selectable 是一款为现代设计的移动友好型 Postgres 客户端。</title>
+      <link>https://t.me/hn_summary/109057</link>
+      <description><![CDATA[显示 HN：Selectable – 移动友好型 Postgres 客户端
+Selectable 是一款专为现代时代设计的移动友好型 Postgres 客户端。该应用程序提供了一个时尚、针对移动设备优化的界面，使用户能够轻松地在其 Postgres 数据库上编写和执行复杂的 SQL 查询。使用 Selectable，随时随地管理数据库从未如此简单或直观。]]></description>
+      <guid>https://t.me/hn_summary/109057</guid>
+      <pubDate>Thu, 19 Sep 2024 15:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，我们挑战了传统金融理论关于多元化的观点[...]</title>
-      <link>https://t.me/hn_summary/109011</link>
-      <description><![CDATA[多元化是负价格午餐
-在本文中，我们挑战了传统金融理论对多元化的看法，特别是它与优先考虑复合回报的长期投资者的相关性。虽然传统金融认为多元化是“免费午餐”，因为它可以降低风险而不影响预期回报，但这仅适用于算术（单期）回报。对于专注于几何（复合）回报的长期投资者来说，可分散的风险不仅得不到补偿，而且成本高昂，这使得多元化成为“负价格午餐”。
-
-关键区别在于方差拖累的影响，与算术回报相比，它降低了平均年化几何回报。这种拖累因特质（公司特定）方差而加剧，而多元化可以缓解这种方差，从而提高预期几何回报。经验数据支持这一点，表明多元化程度较低的投资组合通常表现不如完全多元化的投资组合，尤其是在涉及杠杆的情况下。
-
-令人惊讶的是，文章表明，对于多元化程度很差的投资组合，减少股票配置并投资于无风险资产（如国库券）实际上可以提高几何预期回报。这一违反直觉的发现强调了多元化的重要性，特别是对于高杠杆或由小盘股或微型股组成的投资组合。（基于 55% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/109011</guid>
-      <pubDate>Thu, 19 Sep 2024 11:25:35 GMT</pubDate>
+      <title>[媒体] 东南亚科幻现状如何？</title>
+      <link>https://t.me/hn_summary/109056</link>
+      <description><![CDATA[东南亚科幻小说的现状如何？—— Kontinentalist
+东南亚科幻小说是一个新兴的流派，反映了该地区丰富的文化背景和复杂的社会政治格局。来自菲律宾、印度尼西亚和马来西亚等国家的作家因其将传统民间传说与未来主题融合在一起的独特叙事而日益受到认可。这一流派不仅涉及富有想象力的世界，而且还可作为探索殖民主义、身份和环境危机等当代问题的镜头。令人惊讶的是，这些故事经常融入当地语言和方言，为故事叙述增添了真实感。然而，该流派仍然面临挑战，包括有限的出版机会和缺乏主流认可。]]></description>
+      <guid>https://t.me/hn_summary/109056</guid>
+      <pubDate>Thu, 19 Sep 2024 14:55:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 印度武器制造商生产的炮弹被欧洲转移[...]</title>
-      <link>https://t.me/hn_summary/109010</link>
-      <description><![CDATA[印度制造的弹药进入乌克兰，激怒国防合作伙伴俄罗斯
-尽管俄罗斯提出抗议，但欧洲客户仍将印度武器制造商生产的炮弹转运至乌克兰。根据印度和欧洲官员以及路透社分析的海关数据，这种情况已经持续了一年多。印度出口法规禁止未经授权的转让，但新德里并未干预。俄罗斯多次提出这一问题，包括在俄罗斯外交部长谢尔盖·拉夫罗夫和印度外交部长 S. 杰尚卡尔会晤期间。与俄罗斯和西方都有密切联系的印度将这场冲突视为扩大其武器出口部门的机会。值得注意的是，意大利和捷克共和国在向乌克兰转移印度弹药方面发挥了关键作用。这种情况使印度能够平衡其地缘政治立场，向西方表明其并不与俄罗斯结盟，而莫斯科对德里的影响力似乎有限。]]></description>
-      <guid>https://t.me/hn_summary/109010</guid>
-      <pubDate>Thu, 19 Sep 2024 11:22:29 GMT</pubDate>
+      <title>[媒体] 被悔恨折磨？</title>
+      <link>https://t.me/hn_summary/109055</link>
+      <description><![CDATA[后悔让你痛苦不堪？一项新研究详细介绍了如何最好地克服后悔
+在最近一项题为“控制后悔：情绪调节调节决策中的后悔”的研究中，来自天普大学的研究人员 Crystal Reeck 和来自杜克大学的研究人员 Kevin LaBar 探索了如何克服后悔情绪。该研究发表在《认知与情绪》杂志上，使用赌博框架分析了参与者的决策过程及其对后悔的情绪反应。鼓励参与者采用两种情绪调节策略：关注大局的“投资组合方法”和将每个决策视为孤立决策的“全押”方法。研究发现，投资组合方法可以减少后悔，情绪反应更加平衡。Reeck 建议，可以通过重新想象过去的选择并关注整体收益而不是个人损失，将这一策略应用于现实生活中的决策。这种方法旨在帮助人们在当下做出更好的选择，减少遗憾。]]></description>
+      <guid>https://t.me/hn_summary/109055</guid>
+      <pubDate>Thu, 19 Sep 2024 14:54:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一家创新型初创公司 Neurode 旨在通过非侵入式方式彻底改变 ADHD 管理 [...]</title>
-      <link>https://t.me/hn_summary/109009</link>
-      <description><![CDATA[ADHD 头带每天 20 分钟即可治疗症状
-创新型初创公司 Neurode 旨在通过一款非侵入式头带彻底改变 ADHD 管理，该头带每天只需 20 分钟即可向前额皮质提供轻度脑电刺激。这家澳大利亚公司由神经科学家 Nathalie Gouailhardou 和工程师 Damian Sofrevski 创立，已筹集 530 万澳元，目前有数千人渴望测试该设备。传统的 ADHD 治疗主要是药物治疗，通常需要漫长而具有挑战性的反复试验过程。然而，Neurode 的头带提供了一种有希望的替代方案，它可以增强注意力、记忆力和冲动控制，而不会产生药物的副作用。该设备连接到智能手机应用程序，通过名为 Rae 的 AI 助手提供实时大脑活动数据和个性化支持。虽然该设备的成本和广泛的临床研究仍未确定，但作为一种新方法治疗 ADHD 的潜力正在引起人们的极大兴趣。
+      <title>[媒体] 网站：www.evanjones.ca</title>
+      <link>https://t.me/hn_summary/109054</link>
+      <description><![CDATA[JVM 统计数据导致垃圾收集暂停 (2015)
+标题：JVM 统计数据导致垃圾收集暂停 (2015)
+网站：www.evanjones.ca
 
-争议：与传统药物和疗法相比，头带的有效性仍有待广泛研究。
-
-独特/巧妙：头带与智能手机应用程序和 AI 助手的集成提供了一种个性化、实时的方法来管理 ADHD 症状。]]></description>
-      <guid>https://t.me/hn_summary/109009</guid>
-      <pubDate>Thu, 19 Sep 2024 11:18:24 GMT</pubDate>
+摘要：
+2015 年，Evan Jones 发现 JVM 通过 /tmp (hsperfdata) 中的内存映射文件导出统计数据的默认行为会导致 Linux 上出现严重的垃圾收集暂停。发生这种情况的原因是修改内存映射文件可能会阻塞，直到磁盘 I/O 完成，从而导致数百毫秒的暂停。这个问题尤其令人惊讶，因为它似乎与代码中的磁盘 I/O 无关。为了缓解这种情况，Jones 建议使用 -XX:+PerfDisableSharedMem JVM 标志，尽管它会禁用 jstat 等工具。他的发现在各种文件系统上进行了测试，导致 Twitter 对延迟敏感的服务的暂停延迟减少。根本原因尚不清楚，但它可能是 Linux 内核在重负载下管理写入 I/O 的方法。]]></description>
+      <guid>https://t.me/hn_summary/109054</guid>
+      <pubDate>Thu, 19 Sep 2024 14:52:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 上个月，我需要一本很难找到的在线课程推荐的教科书。</title>
-      <link>https://t.me/hn_summary/109008</link>
-      <description><![CDATA[使用 1DollarScan 进行远程图书扫描并优化扫描的 PDF
-上个月，我需要一本在线课程推荐的难找的教科书。鉴于其 600 页的批量和非连续格式，我选择了通过 1DollarScan.com 获取数字版本，这是 Hacker News 上称赞的一项服务。他们扫描书籍并提供 PDF，但成本高于预期：每 100 页 1.2 美元，外加各种附加组件。我以每月 19 美元的价格订阅以获得更好的价值。扫描过程很慢，花了一周多的时间才扫描完我的书。最终的 PDF 质量很好，但也存在一些小问题，例如对比度低和页面倾斜。总体而言，1DollarScan 兑现了承诺，但在定价和效率方面缺乏透明度。图书扫描的合法性仍不明确，取决于合理使用考虑。（基于 26% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/109008</guid>
-      <pubDate>Thu, 19 Sep 2024 11:04:14 GMT</pubDate>
+      <title>[媒体] 网站：www.theverge.com</title>
+      <link>https://t.me/hn_summary/109053</link>
+      <description><![CDATA[GTA V，最受欢迎的 Steam Deck 游戏之一，现在“不受支持”
+标题：GTA V，最受欢迎的 Steam Deck 游戏之一，现在“不受支持”
+网站：www.theverge.com
+
+
+Grand Theft Auto V 是过去两年 Valve 的 Steam Deck 上最受欢迎的 20 款游戏中的必备游戏，现在已被 Valve 标记为“不受支持”。这一变化源于 Rockstar 决定因新的反作弊软件而中断与 GTA Online 的 Steam Deck 的兼容性。与从未支持 Steam Deck 的 Fortnite 和 Roblox 不同，Rockstar 正在从现有玩家中删除多人游戏功能，并指责 Valve，声称“Steam Deck 不支持 GTA Online 的 BattlEye”。这引起了争议，因为 Valve 之前已经为 Steam Deck 启用了 BattlEye，这表明这个问题可以轻松解决。尽管遭遇了这一挫折，但 GTA V 的单人游戏模式仍然有效。]]></description>
+      <guid>https://t.me/hn_summary/109053</guid>
+      <pubDate>Thu, 19 Sep 2024 14:41:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Open Research Europe 旨在建立一个集体开放获取出版服务，提供 [...]</title>
-      <link>https://t.me/hn_summary/109007</link>
-      <description><![CDATA[开放研究欧洲：迈向集体开放获取出版服务
-开放研究欧洲旨在建立集体开放获取出版服务，为研究人员提供一个自由、公开地发表研究成果的平台。这一举措旨在提高透明度、加速知识传播并促进整个科学界的合作。该服务满足了对可访问研究成果日益增长的需求，并与更广泛的开放科学运动保持一致。通过消除获取障碍，开放研究欧洲寻求使知识民主化并支持创新。该倡议的独特之处在于其集体方法，涉及多个利益相关者，以确保全面和包容的出版服务。 
-
-ISBN：978-92-68-20059-9
-DOI：10.2777/204155
-目录编号：KI-05-24-625-EN-N]]></description>
-      <guid>https://t.me/hn_summary/109007</guid>
-      <pubDate>Thu, 19 Sep 2024 10:30:01 GMT</pubDate>
+      <title>[媒体] “Show HN：Shamir 的秘密分享的 CLI 应用程序” GitHub 项目提供了一个命令行界面 [...]</title>
+      <link>https://t.me/hn_summary/109052</link>
+      <description><![CDATA[Show HN：用于 Shamir 秘密共享的 CLI 应用程序
+“Show HN：用于 Shamir 秘密共享的 CLI 应用程序”GitHub 项目提供了一个用于实现 Shamir 秘密共享方案的命令行工具。此工具允许用户将秘密字符串或文件拆分为多个共享，其中需要最少数量的共享 (k) 来重建原始秘密。如果可用的共享少于 k 个，则秘密将保持未泄露状态。该项目支持二维码生成，以便于共享分发，并且可以处理字符串和文件。独特的功能包括使用随机生成的 ID 进行共享关联以及适用于 Windows、Linux 和 macOS 的跨平台构建脚本。]]></description>
+      <guid>https://t.me/hn_summary/109052</guid>
+      <pubDate>Thu, 19 Sep 2024 14:35:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：对比学习深度指南：技术、模型和应用</title>
-      <link>https://t.me/hn_summary/109006</link>
-      <description><![CDATA[对比学习深度指南：技术、模型和应用
-标题：对比学习深度指南：技术、模型和应用
+      <title>标题：改进 Robots.txt 的一些建议</title>
+      <link>https://t.me/hn_summary/109051</link>
+      <description><![CDATA[改进 Robots.txt 的一些建议
+标题：改进 Robots.txt 的一些建议
 
-网站：myscale.com
+网站：datatracker.ietf.org
 
-机器学习 (ML) 传统上分为监督学习和无监督学习。监督学习使用标记数据进行训练，而无监督学习则探索没有标签的模式，这使其具有挑战性但又很有吸引力。自监督学习 (SSL) 通过使用未标记数据模仿监督学习，将其划分为正样本和负样本，从而弥补了这一差距。SSL 方法包括对比和非对比技术。对比学习 (CL) 侧重于最大化正数据对之间的相似性并最小化负数据对的相似性。主要的 CL 模型包括 SimCLR、MoCo 和 CLIP，每个模型都采用数据增强和动量编码等独特策略来提高性能。CL 与矢量数据库的相关性使零样本识别、推荐系统、文档检索和异常检测等应用成为可能。
-
-令人惊讶的见解：增强技术与非线性投影的结合显着提高了性能，这一发现也在 MoCov2 中观察到。
-
-独特的方法：MoCo 的字典查找方法类似于变压器模型，而 CLIP 的图像和标题双编码器系统突出了 CL 中的创新策略。]]></description>
-      <guid>https://t.me/hn_summary/109006</guid>
-      <pubDate>Thu, 19 Sep 2024 10:09:51 GMT</pubDate>
+摘要：
+在 IAB AI-CONTROL 研讨会上发表的论文中，Needham 和 O&#39;Hanlon 提出了对 robots.txt 协议的增强。他们强调了 BBC 对生成式 AI 的立场，强调了 AI 技术在创建文本、图像、语音、音乐和视频方面的变革潜力。然而，他们也警告称，如果管理不当，人工智能可能会带来道德、法律和虚假信息风险。BBC 批评未经授权抓取其内容用于人工智能训练的行为，并主张与科技公司进行更有条理、更可持续的合作。这一监管呼吁凸显了改进 robots.txt 标准的必要性。]]></description>
+      <guid>https://t.me/hn_summary/109051</guid>
+      <pubDate>Thu, 19 Sep 2024 14:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在布拉德福德·摩根·怀特 (Bradford Morgan White) 的《权力的平衡》一书中，作者记录了 C [...]</title>
-      <link>https://t.me/hn_summary/109005</link>
-      <description><![CDATA[权力平衡——布拉德福德·摩根·怀特
-在布拉德福德·摩根·怀特的《权力平衡》中，作者记录了游戏开发者克里斯·克劳福德的旅程，他对战争游戏和电脑的迷恋始于青少年时期，并在他的学术和职业生涯中不断发展。克劳福德早期的作品包括简单的战争游戏，但他的野心逐渐转向创造一款融入地缘政治的游戏。这导致了《权力平衡》的开发，这是一款以冷战时代为背景的复杂战略游戏，玩家在美国和苏联之间微妙的平衡中寻找平衡，以避免核战争。尽管最初遇到了挫折，包括财务困境和具有挑战性的开发过程，但这款游戏最终于 1985 年由 Mindscape 发行，并获得了好评。 《纽约时报》杂志的戴维·亚伦 (David Aaron) 在一篇文章中强调了这款游戏对全球政治的复杂模拟，他称赞了这款游戏的深度和真实感。文章还强调了这款游戏在理解冷战动态方面的教育价值，这在当时对于一款电子游戏来说是一个令人惊讶且独特的方面。（摘要基于 64% 的故事文本。）]]></description>
-      <guid>https://t.me/hn_summary/109005</guid>
-      <pubDate>Thu, 19 Sep 2024 10:03:44 GMT</pubDate>
+      <title>[媒体] 您准备好迎接 RabbitMQ 4.0 了吗？</title>
+      <link>https://t.me/hn_summary/109050</link>
+      <description><![CDATA[您准备好迎接 RabbitMQ 4.0 了吗？
+RabbitMQ 4.0 即将面世，它包含许多令人兴奋的新功能和改进。此版本专注于提高性能、可扩展性和易用性。主要更新包括改进的管理 UI、改进的集群功能和对现代协议的支持。新版本还引入了更直观的配置系统，使开发人员更容易设置和管理他们的 RabbitMQ 实例。作为 Trifork Group 的一部分，Seventh State 以 Erlang Solutions 为品牌名称，继续在消息传递技术方面不断突破。请继续关注更多更新并准备升级到 RabbitMQ 4.0！]]></description>
+      <guid>https://t.me/hn_summary/109050</guid>
+      <pubDate>Thu, 19 Sep 2024 14:21:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国联邦调查局捣毁了由中国政府运营的名为“Raptor Train”的大型僵尸网络[...]</title>
-      <link>https://t.me/hn_summary/109004</link>
-      <description><![CDATA[中国国家物联网僵尸网络四年来一直未被发现——直到现在
-FBI 已经摧毁了一个名为 Raptor Train 的大型僵尸网络，该网络由中国国家支持的黑客运营了四年。这个复杂的网络在高峰期包含超过 60,000 台受感染的设备，目标是美国和台湾的政府机构、电信公司和国防承包商。该僵尸网络利用小型办公室和家庭办公室路由器、监控摄像头和其他物联网设备，使其成为迄今为止发现的最大的中国国家僵尸网络。中国黑客是 Flax Typhoon 组织的一部分，通过中国公司 Integrity Technology Group 管理僵尸网络。此次行动是在今年早些时候对另一个中国国家僵尸网络 Volt Typhoon 的类似打击之后进行的。争议在于这些网络攻击是由国家发起的，凸显了国家之间正在进行的网络战争。]]></description>
-      <guid>https://t.me/hn_summary/109004</guid>
-      <pubDate>Thu, 19 Sep 2024 09:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：什么样的理性人会愿意担任创始工程师？</title>
-      <link>https://t.me/hn_summary/109003</link>
-      <description><![CDATA[问 HN：什么样的人适合做创始工程师？
-标题：问 HN：什么样的人适合做创始工程师？
-网站：news.ycombinator.com
+      <title>[媒体] 影子图书馆的关键窗口</title>
+      <link>https://t.me/hn_summary/109049</link>
+      <description><![CDATA[影子图书馆的关键窗口
+影子图书馆的关键窗口
 
-该帖子质疑了创始工程师工作背后的理由，尤其是对于非技术创始人而言。它强调了该职位的苛刻性质，包括每周 80 小时的工作时间，并表明该职位的福利对创始人特别有利。作者认为，“能身兼数职”、“能干”和“超越自我的能力”等特质更适合用来创办自己的公司，而不是实现他人的梦想。此处的争议点在于，这意味着作为创始工程师的工作本质上回报较少，对于能力很强的人来说，这或许是一个糟糕的选择。]]></description>
-      <guid>https://t.me/hn_summary/109003</guid>
-      <pubDate>Thu, 19 Sep 2024 09:13:21 GMT</pubDate>
+在安娜档案馆，我们经常被问及我们是否有能力保存不断增长的藏品，目前藏品已接近 1PB。本文深入探讨了我们的理念以及为什么未来十年对于保存人类的知识和文化至关重要。我们优先考虑高密度信息，如学术论文和书籍，重点关注稀有、关注不足和濒临灭绝的作品。与受法律制度约束的传统图书馆不同，我们可以在全球范围内存储和分发多份副本，确保冗余和长寿。尽管数据增长迅速，但存储成本的下降和 OCR 技术的进步使广泛的镜像成为可能。然而，数据密集型 LLM 的兴起和日益严格的版权限制带来了重大挑战。我们有一个关键的 5-10 年窗口来确保我们的使命。让我们现在就采取行动来保护这些宝贵的知识。
+
+争议：本文强调了影子图书馆运作的法律和道德灰色地带，特别是在规避版权法以保存和分发作品方面。
+
+独特/巧妙：使用托马斯·杰斐逊的名言来强调冗余的重要性以及创新应用 OCR 技术来减少存储需求尤其巧妙。]]></description>
+      <guid>https://t.me/hn_summary/109049</guid>
+      <pubDate>Thu, 19 Sep 2024 14:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>车辆与道路接触时无需 I/O（2020 年）</title>
+      <link>https://t.me/hn_summary/109048</link>
+      <description><![CDATA[Sans I/O 实战 (2020)
+Sans I/O 实战 (2020)
+
+Sans I/O 是一种软件设计模式，用于实现无需网络 I/O 或异步控制流的网络协议，从而使库可重用和可组合。I/O 集成层连接到网络 I/O 框架，隔离复杂性。作者（websockets 的创建者）最初将其设计为与 asyncio 紧密耦合，但用户需求和实际问题凸显了灵活性的需求。由于紧密耦合，测试速度慢且复杂，编写 HTTP 实现很麻烦。Sans I/O 原则承诺更容易组合协议并更好地进行测试，但过渡具有挑战性。作者分享了经验教训，强调了状态管理、自动响应和错误处理。尽管存在困难，Sans I/O 仍然是一个有价值的模型。
+
+争议：与 asyncio 的紧密耦合最初似乎有益，但后来被证明是有限的，引发了用户的争论。
+
+独特见解：作者从对紧密耦合设计的自豪到倡导 Sans I/O 的历程凸显了软件工程实践的不断发展。（基于 58% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/109048</guid>
+      <pubDate>Thu, 19 Sep 2024 14:17:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
