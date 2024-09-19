@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Sep 2024 06:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 09:01:59 GMT</lastBuildDate>
+    <item>
+      <title>gptme - 您终端中的代理，配备本地工具：编写代码、使用终端、浏览网页、视觉。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fkgci7/gptme_your_agent_in_your_terminal_equipped_with/</link>
+      <description><![CDATA[    /u/ErikBjare   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fkgci7/gptme_your_agent_in_your_terminal_equipped_with/</guid>
+      <pubDate>Thu, 19 Sep 2024 08:59:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>全新独立网络浏览器 Ladybird</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fkg7zq/new_independent_web_browser_ladybird/</link>
+      <description><![CDATA[有一个新的独立的从头编写的（意味着它不是基于 Chromium、Firefox 或 WebKit）开源网络浏览器正在开发中，名为 Ladybird 第一个公开 Alpha 版本计划于 2026 年发布 您可以在他们的 Github repo 中查看他们的进度并从源代码构建 https://github.com/LadybirdBrowser/ladybird    提交人    /u/Right-Grapefruit-507   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fkg7zq/new_independent_web_browser_ladybird/</guid>
+      <pubDate>Thu, 19 Sep 2024 08:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对求职应用程序的开源平台感兴趣吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</link>
+      <description><![CDATA[我正在构建一个开源 Web 应用程序（无广告、无跟踪器），其功能如下： - 使用传统和基于 NLP 的过滤方式申请工作。（免费功能） - 工作推荐（免费功能） - 使用预定义模板构建简历（与 gpt api 集成以修改您的简历） 您可以使用自己的 api（免费功能）或支付一定费用以使用我们的 api - 讨论技巧、共享资源等的论坛（免费功能） - 基于 AI 的模拟面试语音到语音，适用于特定角色或技术堆栈（付费功能） - 工作变更和通知（免费功能） 你怎么看？如果有任何建议，请随时提出建议☺️     提交人    /u/lazyhawk20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</guid>
+      <pubDate>Thu, 19 Sep 2024 06:16:43 GMT</pubDate>
+    </item>
     <item>
       <title>开源应用程序请求</title>
       <link>https://www.reddit.com/r/opensource/comments/1fkbrv0/opensource_app_request/</link>
@@ -85,7 +106,7 @@
     <item>
       <title>捐赠——有没有一个最适合捐赠的地方？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fjm7qc/donating_is_there_a_single_place_that_is_best_to/</link>
-      <description><![CDATA[大家好 我是开源工具和软件的长期用户。自 2004 年以来一直在使用 Ubuntu！ 我使用了大量开源软件，但遗憾的是，我捐赠的并不多。我的问题是，如果我开始为我使用的每个软件捐款，我很快就会破产。 我的问题是，是否有某种组织可以向我捐款，为开源项目提供资助和支持。有没有一个可以捐款的地方，然后将钱分配给其他项目？    提交人    /u/dalekirkwood1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我是开源工具和软件的长期用户。自 2004 年以来一直在使用 Ubuntu！ 我使用了大量开源软件，但遗憾的是，我捐赠的并不多。我的问题是，如果我开始为我使用的每个软件捐款，我很快就会破产。 我的问题是，是否有某种组织可以向我捐款，为开源项目提供资助和支持。有没有那种可以捐款的地方，然后将钱分配给其他项目？    提交人    /u/dalekirkwood1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fjm7qc/donating_is_there_a_single_place_that_is_best_to/</guid>
       <pubDate>Wed, 18 Sep 2024 06:21:41 GMT</pubDate>
     </item>
@@ -113,7 +134,7 @@
     <item>
       <title>FastAgency 简介：从 AutoGen 工作流程部署控制台或 Web 应用程序的最快方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1fjbqwb/introducing_fastagency_the_fastest_way_to_deploy/</link>
-      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需一行更改！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎贡献者:)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
+      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需一行更改！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎大家贡献：)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fjbqwb/introducing_fastagency_the_fastest_way_to_deploy/</guid>
       <pubDate>Tue, 17 Sep 2024 21:40:19 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我最近提出帮助一个不断发展的非营利性网络基础设施，虽然大多数东西都已整理好，但我正在寻找一个可以托管成员和分支机构门户的网站，供成员访问内部服务和资源以及管理成员资料。有人知道任何针对这种事情的东西吗？它看起来像工会和会员团体可能会使用的那种系统。    提交人    /u/redcorerobot   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fjbioa/looking_for_an_open_source_solution_for_a_members/</guid>
       <pubDate>Tue, 17 Sep 2024 21:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您花了多长时间才获得 100 颗星或 1000 颗星？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj91gf/how_long_did_it_take_you_to_reach_100_stars_or_1k/</link>
-      <description><![CDATA[我最近开始了我的第一个开源项目，我想看看我是否正在构建一些有用的东西并且人们喜欢它。到目前为止，我已经获得了 43 颗星，并且我已经拥有这个仓库大约一个月了。我已将其发布在产品搜索和一些 subreddits 上，但我不确定与其他项目相比这是好是坏。我想继续，因为我喜欢这个项目，但我想看看其他人的体验如何    提交人    /u/_twelvechess   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj91gf/how_long_did_it_take_you_to_reach_100_stars_or_1k/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌人脸识别</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj8tbm/google_face_recognise/</link>
-      <description><![CDATA[也许我找错地方了，但我正在寻找类似谷歌照片技术的东西，可以通过人脸识别过滤相册。     提交人    /u/Far_Star_6475   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj8tbm/google_face_recognise/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>power-options 1.1.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</link>
-      <description><![CDATA[power-options 是一个 Linux GUI 应用程序，用于有效、简单和高级电源管理。power-options 可以替代 TLP 和任何其他省电工具。新发布的 1.1.0 版本包括以下更改：  添加了睡眠设置 修复了 GTK 前端在 acpi-cpufreq 或其他通用 cpufreq 驱动程序上崩溃的问题。 修复了在具有 0 个 SATA 接口的系统上的恐慌问题 修复与图形失败相关的一些命令 在 webview 前端悬停时使用信息图标作为工具提示 通过弹出窗口通知用户何时会发生意外的系统设置更改。  发布链接：https://github.com/TheAlexDev23/power-options/releases/tag/v1.1.0    提交人    /u/TheAlexDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:46:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
