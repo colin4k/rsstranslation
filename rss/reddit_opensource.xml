@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Sep 2024 03:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 06:01:58 GMT</lastBuildDate>
+    <item>
+      <title>开源应用程序请求</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fkbrv0/opensource_app_request/</link>
+      <description><![CDATA[我不知道这是否是正确的地方，如果不是，你可以删除该帖子。任何可以在您的手机中流式传输和下载音乐的应用程序。不在其应用程序内，而是在您的手机中..例如 soundbound 应用程序。它可以流式传输并允许您在手机中下载音乐...不像 innertune 只能在其应用程序中下载音乐...现在出于个人原因，我不喜欢 soundbound，所以 foss 替代品    提交人    /u/ahokman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fkbrv0/opensource_app_request/</guid>
+      <pubDate>Thu, 19 Sep 2024 03:41:03 GMT</pubDate>
+    </item>
     <item>
       <title>有 665 个开放许可证，大多数都很垃圾</title>
       <link>https://www.reddit.com/r/opensource/comments/1fk9iu6/there_are_665_open_licences_most_are_pretty/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[power-options 是一个 Linux GUI 应用程序，用于有效、简单和高级电源管理。power-options 可以替代 TLP 和任何其他省电工具。新发布的 1.1.0 版本包括以下更改：  添加了睡眠设置 修复了 GTK 前端在 acpi-cpufreq 或其他通用 cpufreq 驱动程序上崩溃的问题。 修复了在具有 0 个 SATA 接口的系统上的恐慌问题 修复与图形失败相关的一些命令 在 webview 前端悬停时使用信息图标作为工具提示 通过弹出窗口通知用户何时会发生意外的系统设置更改。  发布链接：https://github.com/TheAlexDev23/power-options/releases/tag/v1.1.0    提交人    /u/TheAlexDev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</guid>
       <pubDate>Tue, 17 Sep 2024 19:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wabe——版本 0.5.3</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj69xo/wabe_release_053/</link>
-      <description><![CDATA[Wabe 是一个完全开源的后端即服务 (BaaS)，我设计它的目的是让开发人员的生活更轻松。有了 Wabe，一切都变得更简单：管理身份验证、数据库访问、自动 GraphQL API 生成、细粒度的权限设置、增强的安全性、Stripe 支持、重新发送（用于发送电子邮件）支持等等。 最新版本 Wabe 0.5.3 刚刚发布，带来了一些很棒的新功能、改进和错误修复🚀： 在 wabe 包中：  feat(wabe)：撞击生物群系 feat(wabe)：在 GraphQL API 和 DatabaseController 上添加 order  feat(wabe)：添加 RoleEnum  feat(wabe)：将枚举和标量添加到 args 类型以用于突变和查询 feat(wabe)：添加 Payment 类 feat（wabe）：添加 webhook 端点 feat（wabe）：成功时创建并链接付款对象  在 wabe-stripe 包上：  feat（wabe-stripe）：添加 getTotalRevenue feat（wabe-stripe）：将 getAllTransaction 添加到条纹 feat（wabe-stripe）：添加 getHypotheticalSubscriptionRevenue feat（wabe-stripe）：添加条纹 webHook  链接到发布说明：https://github.com/palixir/wabe/releases/tag/wabe-0.5.3    由   提交  /u/mrpalixir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj69xo/wabe_release_053/</guid>
-      <pubDate>Tue, 17 Sep 2024 18:06:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
