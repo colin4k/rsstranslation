@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 19 Sep 2024 09:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:02:38 GMT</lastBuildDate>
+    <item>
+      <title>Go 入门：Google 编程语言初学者指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkj2qx/getting_started_with_go_a_beginners_guide_to/</link>
+      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkj2qx/getting_started_with_go_a_beginners_guide_to/</guid>
+      <pubDate>Thu, 19 Sep 2024 12:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elixir 宏揭秘，第 3 部分：defmacro 和 require</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkj26w/elixir_macros_demystified_part_3_defmacro_and/</link>
+      <description><![CDATA[  由    /u/ThatArrowsmith  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkj26w/elixir_macros_demystified_part_3_defmacro_and/</guid>
+      <pubDate>Thu, 19 Sep 2024 12:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Project-PythOyO，我制作了一个UyU编程语言，一个用Python编写的奇特语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</link>
+      <description><![CDATA[  由    /u/Weary-Milk-268  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</guid>
+      <pubDate>Thu, 19 Sep 2024 11:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 的崛起：这种编程语言为何越来越受欢迎</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</link>
+      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</guid>
+      <pubDate>Thu, 19 Sep 2024 11:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试🔍——减少✂️还是重建🔨？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fki09i/debugging_reduce_or_rebuild/</link>
+      <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fki09i/debugging_reduce_or_rebuild/</guid>
+      <pubDate>Thu, 19 Sep 2024 10:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你的用户数还不到 100 时，就不要再为数百万用户设计 Web 应用程序了</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/</link>
+      <description><![CDATA[  由    /u/bizzehdee  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/</guid>
+      <pubDate>Thu, 19 Sep 2024 09:52:55 GMT</pubDate>
+    </item>
     <item>
       <title>CSS 暗黑模式：综合指南 - Makemychance</title>
       <link>https://www.reddit.com/r/programming/comments/1fkgd3j/css_dark_mode_a_comprehensive_guide_makemychance/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/yandex-FlatEarth  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fk5pzt/torvalds_talks_about_the_recent_c_versus_rust/</guid>
       <pubDate>Wed, 18 Sep 2024 22:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器学习中的游戏规则改变者：自动停止如何拯救我的理智</title>
-      <link>https://www.reddit.com/r/programming/comments/1fk55bg/the_gamechanger_in_machine_learning_how/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fk55bg/the_gamechanger_in_machine_learning_how/</guid>
-      <pubDate>Wed, 18 Sep 2024 22:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>通往不会让你精疲力竭的 Agentic 框架的漫漫长路</title>
-      <link>https://www.reddit.com/r/programming/comments/1fk4gz4/the_long_road_to_an_agentic_framework_that_wont/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fk4gz4/the_long_road_to_an_agentic_framework_that_wont/</guid>
-      <pubDate>Wed, 18 Sep 2024 21:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费点菜，将函子组合成效果系统，免费单子 - 来自数据类型点菜纸的直觉，并使用相当标准的库在 Haskell 中制作嵌入式 DSL</title>
-      <link>https://www.reddit.com/r/programming/comments/1fk40u3/free_a_la_carte_compose_functors_into_effect/</link>
-      <description><![CDATA[  由    /u/kosakgroove  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fk40u3/free_a_la_carte_compose_functors_into_effect/</guid>
-      <pubDate>Wed, 18 Sep 2024 21:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>C# 中处理指针的新方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1fk3nba/a_new_approach_to_handling_pointers_in_c/</link>
-      <description><![CDATA[  由    /u/Fit-Maintenance-2290  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fk3nba/a_new_approach_to_handling_pointers_in_c/</guid>
-      <pubDate>Wed, 18 Sep 2024 21:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 Microsoft 生成式人工智能基础知识<3</title>
-      <link>https://www.reddit.com/r/programming/comments/1fk3jgf/free_microsoft_fundamentals_of_generative_ai3/</link>
-      <description><![CDATA[  由    /u/icelemont3a  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fk3jgf/free_microsoft_fundamentals_of_generative_ai3/</guid>
-      <pubDate>Wed, 18 Sep 2024 21:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds：谈论 Rust 与 C Linux 之争</title>
-      <link>https://www.reddit.com/r/programming/comments/1fk2e0e/linus_torvalds_speaks_on_the_rust_vs_c_linux/</link>
-      <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fk2e0e/linus_torvalds_speaks_on_the_rust_vs_c_linux/</guid>
-      <pubDate>Wed, 18 Sep 2024 20:12:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

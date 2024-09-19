@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Sep 2024 09:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:02:46 GMT</lastBuildDate>
+    <item>
+      <title>一些 OSS 项目正在寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fkixm2/some_oss_projects_looking_for_contributors/</link>
+      <description><![CDATA[你好，开源大军，我正在为我在 GitHub 上发布的一些项目寻找贡献者，很高兴与大家分享这样的需求🙏 每小时更新的域名黑名单🚫 - https://github.com/fabriziosalmi/blacklists 使用大型语言模型检索、聚合、过滤、评估、重写和提供 RSS 提要，用于娱乐、研究和学习目的。 - https://github.com/fabriziosalmi/UglyFeed 自动扩展 Proxmox 主机上的 LXC 容器资源 - https://github.com/fabriziosalmi/proxmox-lxc-autoscale 通过 GitHub Actions 监控网站（到期、安全、性能、隐私、SEO） - https://github.com/fabriziosalmi/websites-monitor linux（容器）web 服务 - https://github.com/fabriziosalmi/lws 欢迎您讨论，提出新功能并做出贡献🍻    提交人    /u/fab_space   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fkixm2/some_oss_projects_looking_for_contributors/</guid>
+      <pubDate>Thu, 19 Sep 2024 11:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源有什么阴暗面吗？？？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fkil1p/is_there_any_dark_side_of_opensource/</link>
+      <description><![CDATA[  由    /u/EffectForward55​​51  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fkil1p/is_there_any_dark_side_of_opensource/</guid>
+      <pubDate>Thu, 19 Sep 2024 11:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过开源经验提升你的技能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fki1to/how_to_enhance_your_skills_through_opensource/</link>
+      <description><![CDATA[花一些时间参与开源项目的协作是提升技能并向公众展示能力的最佳方式之一。 在这篇文章中，我向您介绍了我之前启动的一个项目，该项目旨在帮助人们学习数据结构和算法，同时应用现代软件开发的最佳实践。 请阅读并告诉我您的想法。 祝您有美好的一天。    提交人    /u/albeXL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fki1to/how_to_enhance_your_skills_through_opensource/</guid>
+      <pubDate>Thu, 19 Sep 2024 11:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wind River 推出适用于 AI 和关键工作负载的 Linux 发行版</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fkh1kx/wind_river_unveils_linux_distro_for_ai_and/</link>
+      <description><![CDATA[       由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fkh1kx/wind_river_unveils_linux_distro_for_ai_and/</guid>
+      <pubDate>Thu, 19 Sep 2024 09:52:57 GMT</pubDate>
+    </item>
     <item>
       <title>gptme - 您终端中的代理，配备本地工具：编写代码、使用终端、浏览网页、视觉。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fkgci7/gptme_your_agent_in_your_terminal_equipped_with/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>您对求职应用程序的开源平台感兴趣吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</link>
-      <description><![CDATA[我正在构建一个开源 Web 应用程序（无广告、无跟踪器），其功能如下： - 使用传统和基于 NLP 的过滤方式申请工作。（免费功能） - 工作推荐（免费功能） - 使用预定义模板构建简历（与 gpt api 集成以修改您的简历） 您可以使用自己的 api（免费功能）或支付一定费用以使用我们的 api - 讨论技巧、共享资源等的论坛（免费功能） - 基于 AI 的模拟面试语音到语音，适用于特定角色或技术堆栈（付费功能） - 工作变更和通知（免费功能） 你怎么看？如果有任何建议，请随时提出建议☺️     提交人    /u/lazyhawk20   [链接] [评论]]]></description>
+      <description><![CDATA[我正在构建一个开源 Web 应用程序（无广告、无跟踪器），其功能如下： - 使用传统和基于 NLP 的过滤方式申请工作。（免费功能） - 工作推荐（免费功能） - 使用预定义模板构建简历（与 gpt api 集成以修改您的简历） 您可以使用自己的 api（免费功能）或支付一定费用以使用我们的 api - 讨论技巧、共享资源等的论坛（免费功能） - 基于 AI 的模拟面试语音到语音，适用于特定角色或技术堆栈（付费功能） - 工作变更和通知（免费功能） 你怎么看？如果有任何建议，请随时提出建议☺️  Scrapping repo --&gt; https://github.com/The-Enthusiast-404/career-craft-scrapper 编辑：添加了 scrapping repo    提交人    /u/lazyhawk20   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</guid>
       <pubDate>Thu, 19 Sep 2024 06:16:43 GMT</pubDate>
     </item>
@@ -39,13 +67,6 @@
       <description><![CDATA[       由    /u/calp  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fk9iu6/there_are_665_open_licences_most_are_pretty/</guid>
       <pubDate>Thu, 19 Sep 2024 01:42:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨，这是新来的，所以请教一下</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fk71mn/hi_new_to_this_so_asking_advice/</link>
-      <description><![CDATA[因此，我有一台 Acer Aspire switch 10 (N15P1)，我想要一个安全且高度匿名的随时可用的操作系统，该操作系统也可以在平板电脑模式下工作。    提交人    /u/Even_Engineering_668   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fk71mn/hi_new_to_this_so_asking_advice/</guid>
-      <pubDate>Wed, 18 Sep 2024 23:40:44 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个可以在本地托管的人工智能聊天机器人来骚扰我的朋友</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[看到一家拥有开源解决方案的初创公司招聘工程师的广告。看到这个广告很有趣，我想到将其与我使用的平台（它是一个开发人员工具包）集成，但我想，如果他们在此基础上将解决方案货币化，我是否应该免费花时间发展他们的业务？（他们拥有经典的 OpenCore 结构，大多数初创公司在获得关注时都会抛弃这种结构）    提交人    /u/pablopoo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fjd6qo/opensource_vs_opencore/</guid>
       <pubDate>Tue, 17 Sep 2024 22:39:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用任何开源 LLM 对任何美国股票进行详细的财务分析！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fjcpt6/use_any_open_source_llm_to_perform_detailed/</link>
-      <description><![CDATA[        提交人    /u/NextgenAITrading   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fjcpt6/use_any_open_source_llm_to_perform_detailed/</guid>
-      <pubDate>Tue, 17 Sep 2024 22:19:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>FastAgency 简介：从 AutoGen 工作流程部署控制台或 Web 应用程序的最快方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fjbqwb/introducing_fastagency_the_fastest_way_to_deploy/</link>
-      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需一行更改！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎大家贡献：)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fjbqwb/introducing_fastagency_the_fastest_way_to_deploy/</guid>
-      <pubDate>Tue, 17 Sep 2024 21:40:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找会员门户的开源解决方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fjbioa/looking_for_an_open_source_solution_for_a_members/</link>
-      <description><![CDATA[我最近提出帮助一个不断发展的非营利性网络基础设施，虽然大多数东西都已整理好，但我正在寻找一个可以托管成员和分支机构门户的网站，供成员访问内部服务和资源以及管理成员资料。有人知道任何针对这种事情的东西吗？它看起来像工会和会员团体可能会使用的那种系统。    提交人    /u/redcorerobot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fjbioa/looking_for_an_open_source_solution_for_a_members/</guid>
-      <pubDate>Tue, 17 Sep 2024 21:31:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
