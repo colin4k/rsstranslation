@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 19 Sep 2024 18:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 21:01:48 GMT</lastBuildDate>
     <item>
-      <title>演示 - Devpedia - 编程资源</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkr6np/demo_devpedia_a_programming_resource/</link>
-      <description><![CDATA[  由    /u/Prior-Sink-4104  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkr6np/demo_devpedia_a_programming_resource/</guid>
-      <pubDate>Thu, 19 Sep 2024 17:55:43 GMT</pubDate>
+      <title>我对 openai 和 python 有疑问</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkuzro/i_have_an_issue_with_openai_and_python/</link>
+      <description><![CDATA[我没有链接，我无法在此处放置图像，但这是我放置的内容： 1 import openai 2 openai.api_key &quot;=&quot; 而在第二个，当我想放置 &quot;=&quot; 时，它显示以下内容：&quot;在 &quot;=&quot; 右侧应有表达式&quot; 所以我不能放置密钥。    提交人    /u/InflationNo5159   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkuzro/i_have_an_issue_with_openai_and_python/</guid>
+      <pubDate>Thu, 19 Sep 2024 20:59:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Postgres 构建 RAG</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkt75l/building_rag_with_postgres/</link>
+      <description><![CDATA[  由    /u/ecz-  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkt75l/building_rag_with_postgres/</guid>
+      <pubDate>Thu, 19 Sep 2024 19:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valkey 8 为开源内存 NoSQL 数据存储设定了新的标准。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fks7i9/valkey_8_sets_a_new_bar_for_opensource_inmemory/</link>
+      <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fks7i9/valkey_8_sets_a_new_bar_for_opensource_inmemory/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:39:07 GMT</pubDate>
     </item>
     <item>
       <title>跨项目的快速注释 VS Code 扩展</title>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 19 Sep 2024 12:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>Project-PythOyO，我制作了一个UyU编程语言，一个用Python编写的奇特语言</title>
+      <title>Project-PythOyO，我制作了一个 UyU 编程语言，一个用 Python 编写的奇特语言</title>
       <link>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</link>
       <description><![CDATA[  由    /u/Weary-Milk-268  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/andras_gerlits  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkf18t/why_data_in_enterprise_keeps_breaking/</guid>
       <pubDate>Thu, 19 Sep 2024 07:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>将您的博客变成一本书</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkeh7b/turn_your_blog_into_a_book/</link>
-      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkeh7b/turn_your_blog_into_a_book/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 C/C++ 项目开发了一个简单但通用的记录器。您在日志库中看重什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkedwk/i_develop_a_simple_but_universal_logger_for_cc/</link>
-      <description><![CDATA[  由    /u/agramakov  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkedwk/i_develop_a_simple_but_universal_logger_for_cc/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:26:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
