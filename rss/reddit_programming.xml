@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Sep 2024 00:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 03:04:05 GMT</lastBuildDate>
+    <item>
+      <title>Stripe 如何打造硅谷最优秀的工程团队之一</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl1u45/how_stripe_built_one_of_silicon_valleys_best/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl1u45/how_stripe_built_one_of_silicon_valleys_best/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:34:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 Lua 项目 - 终端中的康威生命游戏模拟。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl15os/my_first_lua_project_conways_game_of_life/</link>
+      <description><![CDATA[  由    /u/CodeByExample  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl15os/my_first_lua_project_conways_game_of_life/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 HTML 和 CSS 进行时尚笔记本设计 - <FrontBackGeek/></title>
+      <link>https://www.reddit.com/r/programming/comments/1fl0wwc/stylish_notebook_design_with_html_and_css/</link>
+      <description><![CDATA[  由    /u/codeagencyblog  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl0wwc/stylish_notebook_design_with_html_and_css/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>设备上的 AI：Mac 上的 Solar Pro 与 Ollama 配合使用，可用于转录和会议摘要</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl0tug/ondevice_ai_solar_pro_with_ollama_on_mac_for/</link>
+      <description><![CDATA[  由    /u/UpstageAI  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl0tug/ondevice_ai_solar_pro_with_ollama_on_mac_for/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:40:37 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能免费工具可根据职位描述创建定制简历</title>
       <link>https://www.reddit.com/r/programming/comments/1fkyhup/ai_free_tool_to_create_resume_tailored_on_job/</link>
@@ -34,7 +62,7 @@
       <pubDate>Thu, 19 Sep 2024 21:20:13 GMT</pubDate>
     </item>
     <item>
-      <title>Java 23 已经发布</title>
+      <title>Java 23 已发布</title>
       <link>https://www.reddit.com/r/programming/comments/1fkvd7h/java_23_has_released/</link>
       <description><![CDATA[  由    /u/NotABot1235  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkvd7h/java_23_has_released/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/ThatArrowsmith  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkj26w/elixir_macros_demystified_part_3_defmacro_and/</guid>
       <pubDate>Thu, 19 Sep 2024 12:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project-PythOyO，我制作了一个 UyU 编程语言，一个用 Python 编写的奇特语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</link>
-      <description><![CDATA[  由    /u/Weary-Milk-268  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 的崛起：这种编程语言为何越来越受欢迎</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</link>
-      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>调试🔍——减少✂️还是重建🔨？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fki09i/debugging_reduce_or_rebuild/</link>
-      <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fki09i/debugging_reduce_or_rebuild/</guid>
-      <pubDate>Thu, 19 Sep 2024 10:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你的用户数还不到 100 时，就不要再为数百万用户设计 Web 应用程序了</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/</link>
-      <description><![CDATA[  由    /u/bizzehdee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/</guid>
-      <pubDate>Thu, 19 Sep 2024 09:52:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
