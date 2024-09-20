@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Sep 2024 03:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 06:02:19 GMT</lastBuildDate>
+    <item>
+      <title>我写了一个基本程序来运行 Simon Jansen 的 asciimation</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fl4t47/i_wrote_a_basic_program_to_run_simon_jansens/</link>
+      <description><![CDATA[用 rust 编写，您可以简单地运行二进制文件，或者将其添加到&quot;/usr/local/bin/&quot; Simon Jansen： https://www.asciimation.co.nz/ https://gitlab.com/rust3884331/ascii-star-wars    提交人    /u/-Finger-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fl4t47/i_wrote_a_basic_program_to_run_simon_jansens/</guid>
+      <pubDate>Fri, 20 Sep 2024 05:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合初学者参与贡献的好的开源项目吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fl3jjg/good_open_source_projects_for_a_beginner_to/</link>
+      <description><![CDATA[我拥有丰富的 JS/TS + Python 和 Web 开发经验。我之前从未为 OSS 做出过贡献，只在我的个人项目和工作中做过一些工作。我想在空闲时间进入 OSS 来帮助改进一些项目，因为我不再想从头开始构建自己的东西了。 我如何找到维护良好且至少对初学者友好的项目？    提交者    /u/SinArchbish0p   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fl3jjg/good_open_source_projects_for_a_beginner_to/</guid>
+      <pubDate>Fri, 20 Sep 2024 04:10:02 GMT</pubDate>
+    </item>
     <item>
       <title>开源表单后端</title>
       <link>https://www.reddit.com/r/opensource/comments/1fl04j2/open_source_form_backend/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[    /u/ErikBjare   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fkgci7/gptme_your_agent_in_your_terminal_equipped_with/</guid>
       <pubDate>Thu, 19 Sep 2024 08:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>全新独立网络浏览器 Ladybird</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkg7zq/new_independent_web_browser_ladybird/</link>
-      <description><![CDATA[有一个新的独立的从头编写的（意味着它不是基于 Chromium、Firefox 或 WebKit）开源网络浏览器正在开发中，名为 Ladybird 第一个公开 Alpha 版本计划于 2026 年发布 您可以在他们的 Github repo 中查看他们的进度并从源代码构建 https://github.com/LadybirdBrowser/ladybird    提交人    /u/Right-Grapefruit-507   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkg7zq/new_independent_web_browser_ladybird/</guid>
-      <pubDate>Thu, 19 Sep 2024 08:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对求职应用程序的开源平台感兴趣吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</link>
-      <description><![CDATA[我正在构建一个开源 Web 应用程序（无广告、无跟踪器），其功能如下： - 使用传统和基于 NLP 的过滤方式申请工作。（免费功能） - 工作推荐（免费功能） - 使用预定义模板构建简历（与 gpt api 集成以修改您的简历） 您可以使用自己的 api（免费功能）或支付一定费用以使用我们的 api - 讨论技巧、共享资源等的论坛（免费功能） - 基于 AI 的模拟面试语音到语音，适用于特定角色或技术堆栈（付费功能） - 工作变更和通知（免费功能） 你怎么看？如果有任何建议，请随时提出建议☺️  Scrapping repo --&gt; https://github.com/The-Enthusiast-404/career-craft-scrapper 编辑：添加了 scrapping repo    提交人    /u/lazyhawk20   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:16:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
