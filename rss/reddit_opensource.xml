@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Sep 2024 18:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 21:01:57 GMT</lastBuildDate>
+    <item>
+      <title>获取所有 WhatsApp 消息并使用 AI 与其聊天</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flm245/get_all_whatsapp_messages_and_chat_with_it_using/</link>
+      <description><![CDATA[        提交人    /u/Matthew_heartful   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flm245/get_all_whatsapp_messages_and_chat_with_it_using/</guid>
+      <pubDate>Fri, 20 Sep 2024 20:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找开源软件来跟踪端到端流程时间线与依赖关系 + 仪表板的平均时间/偏差</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fllkhq/looking_for_open_source_software_to_track/</link>
+      <description><![CDATA[大家好！ 我们是一个团队，负责管理公司内多个业务部门的基础设施。我们为开发人员部署平台，这些部署流程涉及多个步骤/参与者，它们之间有依赖关系。有些步骤通过 ServiceNow 等系统处理，其他步骤通过 Excel 处理。集成所有内容不是一种选择，因为我们只是更大生态系统的一小部分。 我们希望从头到尾跟踪流程中每个步骤所花费的时间，确保记录每个操作的完成时间。我们的主要需求是跟踪日期以衡量整个流程的持续时间，从而衡量我们可以承诺的内部 SLA。 此外，如果有一个仪表板可以显示每个步骤的平均时间和偏差，以及深入了解各个项目细节的能力，那也很有趣。 有人知道有什么开源软件可以处理这种带有依赖关系的流程跟踪，并提供我们正在寻找的报告/仪表板吗？ 提前感谢任何建议！    提交人    /u/Kind_Rush_4639   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fllkhq/looking_for_open_source_software_to_track/</guid>
+      <pubDate>Fri, 20 Sep 2024 20:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AES 加密——对于外行来说，可以在浏览器中解密您的文件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flk1al/aes_encrypt_decrypt_your_files_in_the_browser_for/</link>
+      <description><![CDATA[GitHub 项目很酷，我们都知道如何使用终端，但有时 Web 应用程序更容易访问。这就是我将 cryptoooor CLI 变成 Web 应用程序的原因 -&gt; https://cryptoooor.com/ 您不必输入任何 IV（随机数），一切都为您处理好了。 这是外行人的加密。 我过去曾使用过其他工具，但它们从来没有像 cryptoooor 那样简单易用，这就是我制作它的原因。 让我知道我可以改进什么，并随时捐款支持该项目！    提交人    /u/Dependent-Soup-7686   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flk1al/aes_encrypt_decrypt_your_files_in_the_browser_for/</guid>
+      <pubDate>Fri, 20 Sep 2024 19:14:10 GMT</pubDate>
+    </item>
     <item>
       <title>快速音乐移除器：我们每天都在消费的媒体，没有任何影响</title>
       <link>https://www.reddit.com/r/opensource/comments/1fldpp1/fastmusicremover_media_we_consume_every_day/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[      现在具有 - 图标自定义 - 部分标题自定义 - 正确的 PDF 导出 - A4 页面中断控制 - 现场演示 - CI 管道  tod​​o - 字体自定义 - 颜色自定义 - 本地 img 使用文档    提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fkldy9/just_another_jsonresume_port/</guid>
       <pubDate>Thu, 19 Sep 2024 13:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>应对气候变化的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkkghd/open_source_projects_that_fight_climate_change/</link>
-      <description><![CDATA[大家好！我很喜欢的一个非盈利组织 Open Climate Fix 正在举办一场以开源和气候为重点的项目为主题的活动……演讲者非常酷，如果你有兴趣更多地参与与气候相关的操作系统项目，那就太好了！！  在此注册 &gt;&gt; https://lu.ma/cdeqtzvd    提交人    /u/No_Assignment1491   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkkghd/open_source_projects_that_fight_climate_change/</guid>
-      <pubDate>Thu, 19 Sep 2024 13:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些 OSS 项目正在寻找贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkixm2/some_oss_projects_looking_for_contributors/</link>
-      <description><![CDATA[你好，开源大军，我正在为我在 GitHub 上发布的一些项目寻找贡献者，很高兴与大家分享这样的需求🙏 每小时更新的域名黑名单🚫 - https://github.com/fabriziosalmi/blacklists 使用大型语言模型检索、聚合、过滤、评估、重写和提供 RSS 提要，用于娱乐、研究和学习目的。 - https://github.com/fabriziosalmi/UglyFeed 自动扩展 Proxmox 主机上的 LXC 容器资源 - https://github.com/fabriziosalmi/proxmox-lxc-autoscale 通过 GitHub Actions 监控网站（到期、安全、性能、隐私、SEO） - https://github.com/fabriziosalmi/websites-monitor linux（容器）web 服务 - https://github.com/fabriziosalmi/lws 欢迎您讨论，提出新功能并做出贡献🍻    提交人    /u/fab_space   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkixm2/some_oss_projects_looking_for_contributors/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源有什么阴暗面吗？？？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkil1p/is_there_any_dark_side_of_opensource/</link>
-      <description><![CDATA[  由    /u/EffectForward55​​51  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkil1p/is_there_any_dark_side_of_opensource/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:33:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
