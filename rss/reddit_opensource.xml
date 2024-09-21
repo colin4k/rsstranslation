@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Sep 2024 21:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 00:03:25 GMT</lastBuildDate>
+    <item>
+      <title>问题 | 大型项目中的 AGPLv3 和 SSPL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flocre/question_agplv3_sspl_in_larger_project/</link>
+      <description><![CDATA[我和一些朋友一直在开发一个聊天服务应用 / 网站，对于将 AGPLv3 和 SSPL 许可的软件合并到项目中存在疑问。 我正在考虑使用 [LibreTranslate](https://libretranslate.com/)（受 AGPLv3 保护）和 [MongoDB](https://www.mongodb.com/)（受 SSPL 保护）分别为用户翻译消息和存储数据。 我不打算修改任何一个软件或将其源代码*直接*合并到我的后端代码中 - 我只打算运行它们的自托管实例并出于项目目的对它们进行调用。 如果我可以用这种方式使用任一软件吗？    提交人    /u/Cringelord123456   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flocre/question_agplv3_sspl_in_larger_project/</guid>
+      <pubDate>Fri, 20 Sep 2024 22:26:55 GMT</pubDate>
+    </item>
     <item>
       <title>获取所有 WhatsApp 消息并使用 AI 与其聊天</title>
       <link>https://www.reddit.com/r/opensource/comments/1flm245/get_all_whatsapp_messages_and_chat_with_it_using/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 20 Sep 2024 14:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>SubVocab：从字幕或任何文本中快速提取新词汇的工具</title>
+      <title>SubVocab：从字幕或任何文本快速提取新词汇的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1flcirl/subvocab_a_speedy_tool_to_extract_new_vocabulary/</link>
       <description><![CDATA[        由    /u/Josiah1an 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1flcirl/subvocab_a_speedy_tool_to_extract_new_vocabulary/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>自几周前推出 KubeAI 以来的更新！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fkseqm/updates_since_launching_kubeai_a_few_weeks_ago/</link>
-      <description><![CDATA[我们一直在努力开发 KubeAI，这是一种专有平台的开源替代品。该项目的宗旨是：尽可能简单地在 Kubernetes 上操作 OSS AI 模型。 自从我们几周前启动该项目以来，收到所有早期采用者的反馈非常令人兴奋！昨天，我们发布了 v0.6.0 - 该版本主要由用户的功能请求驱动。 到目前为止，我们已经收到了在 GKE、EKS 甚至边缘设备上启动和运行的用户的反馈。最近，我们收到了一个 PR，要求我们添加 OpenShift 支持！ 发布以来的亮点：  在 kubeai.org 上推出了包含指南和教程的文档网站 增加了对语音转文本和文本嵌入模型的支持 根据每个模型公开自动缩放配置 增加了将模型捆绑在容器中的选项 添加了用于模型缓存的提案 添加了更多测试（1600 多行 Go 代码） 获得了新的贡献者！ 修复了一些错误 304 GH 星🌟  近期功能路线图：  模型缓存 支持动态 LoRA 适配器 更多预配置模型 + 基准  与往常一样，我们很乐意听到您的意见在 GitHub 问题上，网址为 kubeai.git！    提交人    /u/nstogner   [链接] [评论]]]></description>
+      <description><![CDATA[我们一直在努力开发 KubeAI，这是一种专有平台的开源替代品。该项目的宗旨是：尽可能简单地在 Kubernetes 上操作 OSS AI 模型。 自从我们几周前启动该项目以来，收到所有早期采用者的反馈非常令人兴奋！昨天，我们发布了 v0.6.0 - 该版本主要由用户的功能请求驱动。 到目前为止，我们已经收到了在 GKE、EKS 甚至边缘设备上启动和运行的用户的反馈。最近，我们收到了一个 PR，要求我们添加 OpenShift 支持！ 发布以来的亮点：  在 kubeai.org 上推出了包含指南和教程的文档网站 增加了对语音转文本和文本嵌入模型的支持 根据每个模型公开自动缩放配置 增加了将模型捆绑在容器中的选项 添加了关于模型缓存的提案 添加了更多测试（1600 多行 Go 代码） 获得了新的贡献者！ 修复了一些错误 304 GH 星🌟  近期功能路线图：  模型缓存 支持动态 LoRA 适配器 更多预配置模型 + 基准  与往常一样，我们很乐意听到您的意见在 GitHub 问题上，网址为 kubeai.git！    提交人    /u/nstogner   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fkseqm/updates_since_launching_kubeai_a_few_weeks_ago/</guid>
       <pubDate>Thu, 19 Sep 2024 18:47:41 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fklf6r/github_metaorymarkupjson_dom_markup_abstract/</guid>
       <pubDate>Thu, 19 Sep 2024 13:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是另一个 JSONResume 端口</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkldy9/just_another_jsonresume_port/</link>
-      <description><![CDATA[      现在具有 - 图标自定义 - 部分标题自定义 - 正确的 PDF 导出 - A4 页面中断控制 - 现场演示 - CI 管道  tod​​o - 字体自定义 - 颜色自定义 - 本地 img 使用文档    提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkldy9/just_another_jsonresume_port/</guid>
-      <pubDate>Thu, 19 Sep 2024 13:52:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

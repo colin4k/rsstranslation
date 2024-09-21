@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 21:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 00:03:11 GMT</lastBuildDate>
+    <item>
+      <title>有选择地备份 YouTube 频道、播放列表 [YT Channel Downloader 0.4.0]</title>
+      <link>https://www.reddit.com/r/software/comments/1flpca0/selectively_backup_youtube_channels_playlists_yt/</link>
+      <description><![CDATA[YT Channel Downloader 是一款跨平台 (Windows、Mac、Linux) 开源桌面应用程序，旨在简化 YouTube 内容的下载流程。它利用 yt-dlp、scrapetube 和 pytube 进行底层开发，并搭配易于使用的图形界面。此工具旨在为您提供无缝体验，让您可以离线（即备份）获取您喜爱的视频和音频内容。您可以有选择地或完全下载频道、播放列表或单个视频，选择仅音频曲目，并自定义视频或音频的质量。 新版本提供了使用您的 YouTube 帐户下载年龄限制和高级内容的功能 [可选]，并且还修复了一些错误并做出了一些小改进。 此应用程序与许多其他用于下载视频的软件不同，它提供了一个易于点击的界面，可以快速选择并下载您需要的内容。 请参阅自述文件中的安装说明。在 Windows 上，您还可以选择从 SourceForge 或 Github Releases 下载预制安装程序。 欢迎对新功能、错误报告和改进想法提出建议。 YT 频道下载器    由    /u/ph0tone  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flpca0/selectively_backup_youtube_channels_playlists_yt/</guid>
+      <pubDate>Fri, 20 Sep 2024 23:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较两个 GIF</title>
+      <link>https://www.reddit.com/r/software/comments/1floy8b/compare_two_gifs/</link>
+      <description><![CDATA[我使用 FreeConvert 压缩了一个 gif，然后又用 Ezgif 压缩了它。问题是，我不知道如何找出哪个质量更高？有哪些工具可以做到这一点？    提交人    /u/Low-Finance-2275   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1floy8b/compare_two_gifs/</guid>
+      <pubDate>Fri, 20 Sep 2024 22:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>准确追踪远程用户在我的电脑上执行的操作</title>
+      <link>https://www.reddit.com/r/software/comments/1flo0t7/track_exactly_what_remote_user_does_on_my_pc/</link>
+      <description><![CDATA[嘿，我将让远程支持人员通过 teamviewer 或 anydesk 访问我的电脑。他将安装软件并进行一些配置。 我正在寻找一种软件来准确跟踪他将在我的电脑上执行的操作，以便我可以知道并准确地执行他在做什么。此外，如果他将文件传输到我的电脑上以运行它们并在之后删除它们，我也希望这些文件能够以某种方式存储起来。 有这样的事情吗？谢谢？    提交人    /u/koffis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flo0t7/track_exactly_what_remote_user_does_on_my_pc/</guid>
+      <pubDate>Fri, 20 Sep 2024 22:11:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助寻找一款软件</title>
+      <link>https://www.reddit.com/r/software/comments/1flmnxg/need_help_finding_a_piece_of_software/</link>
+      <description><![CDATA[大家好！就上下文而言，在今年或去年的某个时候，我遇到了一款我找不到或记不起名字的软件。在网上搜索了这么长时间却一无所获之后，我试图再次找到它。我希望你们能帮我找到它。 这是一款适用于 Windows 的项目管理软件，专门用于软件开发/编程项目；它包括以下功能：  跟踪拉取请求 跟踪提出的问题以及这些问题的分配对象（假设您在团队中工作） 跟踪正在处理的某些功能或问题的时间线  不幸的是，这些是我现在能记得的唯一突出的功能。除此之外，该应用程序的页面主要是蓝色/紫色/黑色，整个网站和程序本身都采用了非常时尚和现代的设计语言。 如果你们能帮我找到它，我会非常感激，因为我终于可以使用它并想尝试一下它了。谢谢！    提交人    /u/YugiAsh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flmnxg/need_help_finding_a_piece_of_software/</guid>
+      <pubDate>Fri, 20 Sep 2024 21:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>您指定大小的视频压缩器</title>
+      <link>https://www.reddit.com/r/software/comments/1flmkza/video_compressor_where_you_specify_size/</link>
+      <description><![CDATA[有没有可以指定大小的视频压缩器？我不在乎质量损失。    提交人    /u/Buirgir69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flmkza/video_compressor_where_you_specify_size/</guid>
+      <pubDate>Fri, 20 Sep 2024 21:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何安全的 YouTube 视频下载器吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1flmitt/any_safe_youtube_video_downloaders/</link>
+      <description><![CDATA[我有几个想下载的 YouTube 视频，但是我遇到的每个网站看起来都非常可疑和/或有可疑的历史。我尝试过 yt-dlp，但音频质量总是很差。我想知道是否有人可以帮忙推荐一个安全的网站或一个相对简单的方法来修复 yt-dlp 上的音频 :D（我使用的是 Windows 11）    提交人    /u/bruhwot_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flmitt/any_safe_youtube_video_downloaders/</guid>
+      <pubDate>Fri, 20 Sep 2024 21:02:42 GMT</pubDate>
+    </item>
     <item>
       <title>FreeConvert 与 Ezgif</title>
       <link>https://www.reddit.com/r/software/comments/1fliuld/freeconvert_vs_ezgif/</link>
@@ -99,51 +141,9 @@
     <item>
       <title>从电子邮件、附件和嵌套附件中提取数据的软件</title>
       <link>https://www.reddit.com/r/software/comments/1fl58i7/software_to_extract_data_from_emails_attachments/</link>
-      <description><![CDATA[好的，希望我解释清楚了。我正在寻找某种软件，可以上传一堆 .msg 或 pst 文件，然后它可以生成一个表格，显示每封电子邮件的数据（标题；发件人；收件人；发送/接收的日期和时间等），还可以在该表格/列表中记录电子邮件中每个附件的名称（甚至是嵌套附件）。我一直在使用 PSTPreview Pro 将其提取为长 pdf（很棒），但它似乎无法满足我的需要（因为我基本上需要一个目录来帮助我识别 PDF 中的所有文档）。这有道理吗？有人可以推荐什么软件吗？    提交人    /u/AdRude5341   [链接] [评论]]]></description>
+      <description><![CDATA[好的，希望我解释清楚了。我正在寻找某种软件，可以上传一堆 .msg 或 pst 文件，然后它可以生成一个表格，显示每封电子邮件的数据（标题；发件人；收件人；发送/接收的日期和时间等），还可以在该表格/列表中记录电子邮件中每个附件的名称（甚至是嵌套附件）。我一直在使用 PSTPreview Pro 将其提取为长 pdf（很棒），但它似乎无法满足我的需要（因为我基本上需要一个目录来帮助我识别 PDF 中的所有文档）。这有道理吗？有没有人可以推荐任何软件？    提交人    /u/AdRude5341   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fl58i7/software_to_extract_data_from_emails_attachments/</guid>
       <pubDate>Fri, 20 Sep 2024 06:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳串行端口嗅探器是什么？（避免使用 Google 建议）</title>
-      <link>https://www.reddit.com/r/software/comments/1fl55hr/whats_the_best_serial_port_sniffer_to_use/</link>
-      <description><![CDATA[我正在尝试寻找一个好的串行端口嗅探器来监控和捕获来自 COM 端口的数据，用于我的项目。我已经通过 Google 查看了一些工具，但我希望从实际使用过它们的人那里获得真正的建议。 许多 Google 建议似乎过于宣传，我更愿意听听有实际经验的 Redditors 的意见。    提交人    /u/JohnnyGrey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl55hr/whats_the_best_serial_port_sniffer_to_use/</guid>
-      <pubDate>Fri, 20 Sep 2024 05:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需编写代码即可创建 HTML 画布图形</title>
-      <link>https://www.reddit.com/r/software/comments/1fl3trl/create_html_canvas_graphics_without_writing_code/</link>
-      <description><![CDATA[  由    /u/WiseTough4306  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl3trl/create_html_canvas_graphics_without_writing_code/</guid>
-      <pubDate>Fri, 20 Sep 2024 04:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机软件必备品</title>
-      <link>https://www.reddit.com/r/software/comments/1fl3h2g/computer_software_must_haves/</link>
-      <description><![CDATA[正如标题所说，我正在寻找你们认为计算机设置中必备的一些软件。 这是我的： DisplayFusion-我喜欢能够全屏显示游戏，然后能够单击关闭而无需最小化它，这非常容易-此外，我所有显示器上的任务栏都是独一无二的，这很棒 Wallpaper Engine-我的电脑看起来不漂亮 Twinkle tray-我希望某些显示器具有不同的亮度，起诉我 CCleaner-我很懒，它使清理我的文件变得容易 编辑：天哪，伙计们，我很清楚它做的坏事，我只使用快速清洁器，因为它为我节省了一些时间，它所做的就是清理我的缓存和松散的垃圾文件等等。 Spotify-音乐 VPN-我使用 kamo 只是因为我可能很快就会考虑设置自己的 Brave-好用的浏览器 Discord-与朋友聊天 OBS-我喜欢有一个屏幕录像机，以防我需要向朋友发送某种快速教程或想向他们展示一些东西，OBS 效果很好 WinDirStat-在需要时查看我的存储 那么你对我的看法是什么，你的看法是什么？ 编辑：澄清一下，我很好奇人们认为什么软件对他们使用的任何机器都是必不可少的，我不是在寻求建议，我只是好奇你的设备必须拥有什么类型的软件。    提交人    /u/Half_Decent_IT_Guy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl3h2g/computer_software_must_haves/</guid>
-      <pubDate>Fri, 20 Sep 2024 04:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么东西可以帮助我学习键盘快捷键吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1fl2luj/something_that_can_help_me_learn_keyboard/</link>
-      <description><![CDATA[嗨， 我最近开始为 MSP 工作，并且在不同的桌面、应用程序、环境等之间来回切换。我希望通过熟悉每个桌面、应用程序、环境等的快捷键和热键来提高工作效率。 是否有某种软件或工具可用于快速引用特定应用程序或窗口的快捷键？如果我可以在屏幕上闪现一个半透明的键盘覆盖层，并将快捷键映射到屏幕上以供快速参考，那就太好了。 即使没有这样的工具，任何类似的东西或您认为我可能会觉得有用的东西都会受到赞赏。 我希望我在正确的子版块中问了这个问题，谢谢。 附注：我主要使用 Windows，但我经常使用 linux 和其他类 unix 系统。    提交人    /u/Bonovro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl2luj/something_that_can_help_me_learn_keyboard/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好的软件/网站可以缩放视频分辨率？</title>
-      <link>https://www.reddit.com/r/software/comments/1fl2h98/good_softwareswebsites_that_scale_video_resolution/</link>
-      <description><![CDATA[我正在寻找一个简单而快速的软件/网站，可以仅将视频分辨率调整 2 倍或 4 倍，而无需更改任何单个细节或处理每一帧并通过 ai 缩放它，这需要很长时间才能完成    提交人    /u/Due-Blackberry7898   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl2h98/good_softwareswebsites_that_scale_video_resolution/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>KMplayer-有没有办法在捕获故事板中包含字幕？</title>
-      <link>https://www.reddit.com/r/software/comments/1fl17qs/kmplayer_any_way_to_include_subtitles_in/</link>
-      <description><![CDATA[我认为没有其他易于使用的软件可以制作超过 4.000 像素的故事板（potplayer 的限制为 4096），就像 thekmplayer 可以做到的那样，但我唯一的问题是它不包含字幕，有没有办法在故事板捕获中始终包含字幕？我试过几次，似乎没有什么真正起作用，除非字幕是硬编码的    提交人    /u/thejuanwelove   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl17qs/kmplayer_any_way_to_include_subtitles_in/</guid>
-      <pubDate>Fri, 20 Sep 2024 02:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
