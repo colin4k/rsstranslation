@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 21 Sep 2024 09:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 12:02:20 GMT</lastBuildDate>
+    <item>
+      <title>我去随机存储库并给它们加星标</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flz2bq/i_go_to_random_repositories_and_star_them/</link>
+      <description><![CDATA[只是想分享一下，我几年前创建了一个与数据科学相关的存储库。 我经常在我的订阅源中看到有人为它加星标。不知何故，这让我感觉很好。 所以，我偶尔会去随机存储库并为它们加星标。这样开发人员会感觉很好。我希望当有人为他们的存储库加星标时，每个人都能有和我一样的感觉。 PS：我已经为我使用的大多数开源工具、软件包的存储库加星标了。    提交人    /u/randomvariable56   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flz2bq/i_go_to_random_repositories_and_star_them/</guid>
+      <pubDate>Sat, 21 Sep 2024 09:20:15 GMT</pubDate>
+    </item>
     <item>
       <title>任何有关情况的说明都将受到赞赏...</title>
       <link>https://www.reddit.com/r/opensource/comments/1flwteq/any_light_to_the_situation_will_be_appreciated/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[链接到 repo：https://github.com/Achno/gowall  将 图像、批量图像 或整个 目录 转换为您喜欢的主题 (Catppuccin、Nord、Solarized、Everforest 等... )  创建 自定义主题 (如自述文件中的 catppuccin yellow) 并转换壁纸  终端图像支持 适用于 kitty 终端仿真器 (否则打开默认图像查看器) 提取壁纸的 调色板 (如 pywal) 并预览十六进制颜色   在图像上绘制 漂亮的边框  拥有社区投票的壁纸，每日重置 您可以反转颜色并转换为主题以进行更独特的转换 高质量快速的格式转换，例如来自.webp --&gt; .png等等！     提交人    /u/FormationHeaven   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fkoht1/gowall_wallpaper_theme_converter_color_palette/</guid>
       <pubDate>Thu, 19 Sep 2024 16:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源三环活页夹管理软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fknsq9/looking_for_open_source_3ring_binder_management/</link>
-      <description><![CDATA[我正在寻找开源活页夹管理软件解决方案。我们目前有 3 环活页夹，其中包含我们飞行员所需的所有信息，我们想将它们转换为电子存储。我找到了“文档管理”软件应用程序，但没有一个可以复制 3 环活页夹的“感觉”和易用性。  如果有人有任何想法，我将不胜感激！    提交人    /u/MD500_Pilot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fknsq9/looking_for_open_source_3ring_binder_management/</guid>
-      <pubDate>Thu, 19 Sep 2024 15:35:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
