@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 21 Sep 2024 06:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 09:01:53 GMT</lastBuildDate>
+    <item>
+      <title>任何有关情况的说明都将受到赞赏...</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flwteq/any_light_to_the_situation_will_be_appreciated/</link>
+      <description><![CDATA[blackhole（音乐播放器应用）怎么了。它曾经在 izzydroid 和 fdroid 中有适当的 github 版本，并且有应用可供使用。现在它有 github 页面，但没有版本，下载也只能在某个网站上找到...所以它现在不是开源的还是不注重隐私？如果有任何答案请通知我。谢谢。 https://github.com/StarsWarrior/BlackHole    提交人    /u/ahokman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flwteq/any_light_to_the_situation_will_be_appreciated/</guid>
+      <pubDate>Sat, 21 Sep 2024 06:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解我的开源项目 Dockyard！🎉。使用 Rust 构建的 Docker 桌面客户端。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flwn0c/meet_my_open_source_project_dockyarda_docker/</link>
+      <description><![CDATA[        由    /u/memture  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flwn0c/meet_my_open_source_project_dockyarda_docker/</guid>
+      <pubDate>Sat, 21 Sep 2024 06:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>用 Rust 编写的 Minecraft 真实城市生成器（开源）</title>
       <link>https://www.reddit.com/r/opensource/comments/1flrxw5/minecraft_real_life_city_generator_written_in/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在寻找开源活页夹管理软件解决方案。我们目前有 3 环活页夹，其中包含我们飞行员所需的所有信息，我们想将它们转换为电子存储。我找到了“文档管理”软件应用程序，但没有一个可以复制 3 环活页夹的“感觉”和易用性。  如果有人有任何想法，我将不胜感激！    提交人    /u/MD500_Pilot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fknsq9/looking_for_open_source_3ring_binder_management/</guid>
       <pubDate>Thu, 19 Sep 2024 15:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>向所有开发者提问</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fknnt8/question_for_all_the_devs/</link>
-      <description><![CDATA[你为什么要将你的代码开源？？？    提交人    /u/EffectForward55​​51   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fknnt8/question_for_all_the_devs/</guid>
-      <pubDate>Thu, 19 Sep 2024 15:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的开源项目提供硬件建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkmkq9/advice_on_hardware_for_my_open_source_project/</link>
-      <description><![CDATA[大家好， 我知道这不是硬件 reddit，所以我提前道歉，但我希望有人能走上我所希望走的同一条路。 我是一个长期的开源业余程序员，有一系列项目，包括泳池控制系统、鱼缸监控、水产养殖设置、加密平台的后端管理等等。虽然我的职业是飞行员，但我的编程围绕个人兴趣展开，通常与家庭活动（泳池控制、鱼缸、园艺）或一般好奇心（加密）有关。本质上，我只为自己热衷的项目编写代码。 在我的所有项目中，*Garden-Pi* 无疑是我最喜欢的，即使它不是最受欢迎的。一些朋友表示有兴趣使用该软件，但我构建的自定义硬件非常复杂，复制起来非常耗时。 我正在考虑更进一步，让某人设计和生产与该软件兼容的即插即用硬件设备。但是，我不确定从哪里开始。这里有人经历过类似的过程吗？我知道有可以批量生产硬件的公司，但我正在寻找设计和制造小批量产品的帮助，而不会花太多钱。  我的目标不是将这个项目商业化，而是创建一个可访问的硬件平台来补充我的开源代码。    提交人    /u/MD500_Pilot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkmkq9/advice_on_hardware_for_my_open_source_project/</guid>
-      <pubDate>Thu, 19 Sep 2024 14:43:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
