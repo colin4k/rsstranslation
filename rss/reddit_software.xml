@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 15:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 18:01:47 GMT</lastBuildDate>
+    <item>
+      <title>文件粉碎比较？</title>
+      <link>https://www.reddit.com/r/software/comments/1fmz8eg/file_shredding_compared/</link>
+      <description><![CDATA[我正在寻找适用于 Windows 的文件粉碎实用程序的比较。我最感兴趣的是比较 4 个不同的功能。1. 命令行选项，2. 粉碎速度，3. 粉碎可用空间（+ 速度）和 5. NAS/网络功能 我想看看哪种软件符合我的需求。有没有像样的比较表？ 我的最终测试目标是通过命令行在文件/文件夹上运行粉碎机，以最高速度运行，可能运行 3 次，至少使文件名无法恢复，然后立即安全删除可用空间。我将在 NVME、SATA、SCSI 和 USB 上进行测试。我的测试文件大小为 100GB，包含 5 个文件夹，以确保不仅删除文件，还删除文件夹、内容和名称。然后我将运行软件（Encase、Autopsy 和 Caine）对机器进行完整的取证审计。我不仅会搜索已删除数据/名称/日期戳的指纹，还会搜索删除/擦除过程中使用的软件的指纹 我知道速度时间会因文件大小、系统规格等而有所不同。我只是想对我正在进行的项目有一个大致的了解 如能得到任何帮助或指导，我将不胜感激    提交人    /u/BigDee2k   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmz8eg/file_shredding_compared/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何宏记录器可以记录鼠标并使用快捷键执行某些动作？</title>
+      <link>https://www.reddit.com/r/software/comments/1fmymhu/are_there_any_macro_recorders_that_record_mouse/</link>
+      <description><![CDATA[https://preview.redd.it/t7mbh7owaeqd1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=edff19c3686e21ba786e865dbb5f331820a4b934 我需要根据此 OCR 的文本颜色加载不同的设置，每次都要停止播放并执行所有这些操作很麻烦，所以我想知道我是否可以录制这个并让它们像我按“2”或“3”时一样发生？    提交人    /u/Arthurfogo7   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmymhu/are_there_any_macro_recorders_that_record_mouse/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取电影和电视应用的旧版本？</title>
+      <link>https://www.reddit.com/r/software/comments/1fmyi0n/how_do_i_get_an_older_version_of_the_movies_and/</link>
+      <description><![CDATA[我以前的做法是从视频文件中剪掉一秒钟，生成的文件大小会小很多，但在过去的一两年里，它只会生成一个大小与你预期的剪掉的文件大小相同的文件。 （例如，现在如果你从 1GB 的文件中剪掉一秒钟，它仍然会在 1GB 左右，但之前会变成 400MB 左右）我很想得到一个可以像以前一样运行的旧版本，但如果我尝试安装 2022 版本，它会显示“此软件包与该设备不兼容。 该软件包只能安装在以下设备系列上：Windows.Core”  如能提供任何帮助，我们将不胜感激，先谢谢了。    提交人    /u/MasterJCL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmyi0n/how_do_i_get_an_older_version_of_the_movies_and/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找用于同步协作PDF注释的MacOS + Andoird应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fmxxq8/looking_for_app_for_synchronous_collaborative_pdf/</link>
+      <description><![CDATA[嘿，我想对 pdf 进行更改（绘制、添加文本），并让它们自动显示在其他设备上。我的用例是 MacBook 笔记本电脑和 Android 平板电脑。  我正在寻找的应该与 OneNote 非常相似，但它有局限性：1. pdf 文件大小限制（我有很长的 pdf）2. 导出为 pdf 效果不佳    提交人    /u/1ncend1ary   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmxxq8/looking_for_app_for_synchronous_collaborative_pdf/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我不在使用某个应用程序时，提示 Windows 不暂停该应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fmwxcz/trick_windows_to_not_pause_an_app_when_im_not_on/</link>
+      <description><![CDATA[大家好，我有一个应用程序在我的第二个屏幕上显示直接图像移动，但是当我在互联网上转到主屏幕或其他屏幕时，她会自动暂停，让她“取消暂停”的唯一方法是再次单击该应用程序，但你知道我只想同时在电脑上做我的生活，所以我想知道他们是否有办法让那个应用程序在第二个屏幕上仍然“像我专注于它一样运行”，而我在主屏幕上做我的事情 我知道这听起来有点奇怪，这只是一个个人项目哈哈 我已经尝试过 powerToys 工具的“固定在顶部”但它不起作用我见过有人谈论生成虚拟机但在我的 PC 上这样做似乎有点繁重 + 那篇帖子已经有 6 年了所以也许在 2024/5 年还有另一种方法可以做到这一点感谢您的时间和您的知识    提交人    /u/Naive_Actuator_6448   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmwxcz/trick_windows_to_not_pause_an_app_when_im_not_on/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助查找适用于 Microsoft LifeCam 型号 VX-700 的 Windows 98 兼容驱动程序</title>
+      <link>https://www.reddit.com/r/software/comments/1fmw9vf/help_finding_windows_98_compatible_drivers_for/</link>
+      <description><![CDATA[我有一台 Microsoft LifeCam 型号 VX-700，我需要与 Windows 9x 兼容的驱动程序    提交人    /u/oof_mastr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fmw9vf/help_finding_windows_98_compatible_drivers_for/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>帮助重新映射 SK61 键盘的控件</title>
       <link>https://www.reddit.com/r/software/comments/1fmu325/help_with_remapping_controlls_for_sk61_keyboard/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我公司目前正在寻找方法来获取更多产品评论。我们已经实施了一些程序来开始获取更多评论，例如电子邮件活动，但现在我们遇到了另一个问题。我们需要某种软件来跟踪我们销售的每个产品在每个网站上的评论数量。我已经找到了一些软件，可以显示某个实体店在 Yelp 等评论网站上的评论数量，但我需要一种软件来收集我们在每个零售商上销售的每种产品的数据。例如，如果我们销售小、中、大块糖果。我需要一种软件，它可以告诉我每个产品在每个网站上的评论数量，并能够以仪表板等有组织的方式显示它。有人知道这样的软件吗？    提交人    /u/Zllato   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fmala3/review_management_software_that_can_showcase_how/</guid>
       <pubDate>Sat, 21 Sep 2024 19:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载管理器?????????????????????</title>
-      <link>https://www.reddit.com/r/software/comments/1fm9my0/download_manager/</link>
-      <description><![CDATA[有谁能告诉我一个 100% 安全且免费的下载管理器吗？我发现每一个下载管理器都有一群人发誓它是安全的，而另一些人则说它是病毒，请帮忙 *编辑* 感谢所有回复，我很感激你们的帮助，我看到大多数人都推荐 jdownloader，所以我会使用它。我用过几次后会更新。    提交人    /u/Such-Adeptness2442   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fm9my0/download_manager/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的 Android 笔记应用，主要具有自动保存、拼写检查功能，也可通过网络浏览器访问</title>
-      <link>https://www.reddit.com/r/software/comments/1fm97eb/free_android_note_taking_app_primarily_with_auto/</link>
-      <description><![CDATA[摘要：免费的 Android 笔记应用，可替代 Gmail 草稿，用于记录笔记和 2 到 3 段长的文本，主要 1) 自动保存，2) 具有拼写检查功能 - 它会在拼写错误的单词下留下红色标记，3) 也可以通过 Web 浏览器访问 详细描述 每当我需要快速记笔记时，例如确认号码或电话中的一些详细信息，或者如果我正在回复短信或来自其他应用的消息，这些消息会很长并且需要我花一些时间来编写，无论是在一次会话中还是多次会话中，我几乎总是最终使用 Android 手机上的 Gmail 应用来执行此操作。（这是我输入所有这些内容的地方。） 我喜欢使用 Gmail，因为它不仅简单快捷，而且还会自动保存。我可以切换到主屏幕或其他应用而不保存，或者放下手机，然后可以自信地返回到我到目前为止输入的内容。如果我想保存，我所要做的就是按下手机上的返回按钮或切换到另一个应用。真的很容易和可靠。 此外，我喜欢 Gmail 有拼写检查功能。它会用红色下划线标出所有拼写错误的单词。我可以当场更正它们，也可以稍后返回。 所以，虽然它有效，但我想摆脱这个习惯。我想要一个专门用于此的 Android 应用和/或网站。我希望我的 Gmail 帐户的草稿部分用于实际的电子邮件草稿，然后成为最终的电子邮件。目前，我的草稿帐户中堆满了多年的笔记，我不想一个一个地删除它们，也不想批量删除，因为担心里面有实际正在撰写的电子邮件草稿，而且我一般也不想删除大多数笔记——我喜欢回顾笔记和撰写它们的日期，尽管 Gmail 在打开或编辑时会将日期更改为最新日期。 因此，以下是我所有的要求，只有前 4 个是强制性的。  免费 易于访问。在 Gmail 应用中，只需两个步骤。单击应用，然后单击撰写按钮。 它具有自动保存功能，无论是否需要额外的用户交互。  3a。无需用户操作：我可以停止输入而不关闭应用，稍后再返回，所有文本都将被保存。 3b. 用户操作：我可以切换到主屏幕或其他应用，而无需先按应用上的任何按钮或点击返回按钮，所有文本都将被保存。  拼写检查 - 应用必须具有拼写检查功能，其中文本以红色下划线显示，我可以随时点击它来选择拼写正确的单词，就像在 Gmail 中一样。 可以从另一部手机或电脑访问内容，理想情况下通过浏览器即可访问，无需下载任何内容。如果需要下载某些内容，它至少应该与 Android 兼容，理想情况下也应该与 Windows 兼容。 日期 - 理想情况下，它应该保留首次撰写笔记的日期，甚至更好的是，保留编辑笔记的日期。  可搜索 - 笔记应该可搜索，在笔记本身内以及所有笔记中均可搜索。  标记或分类 - 理想情况下，如果有某种方式可以标记/分类笔记就太好了，这样我就可以找到涉及特定主题的笔记集。   我知道许多应用可以做这些事情中的大多数，特别是那些接近尾声的应用，但我很难找到满足前五个要求的应用。例如，Google Keep 满足了大多数要求，但不进行拼写检查。  谢谢，我期待您的回复。    提交人    /u/Numerous_Air_5620   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fm97eb/free_android_note_taking_app_primarily_with_auto/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽车软件开发的未来</title>
-      <link>https://www.reddit.com/r/software/comments/1fm79cr/the_future_of_software_development_in_automotive/</link>
-      <description><![CDATA[有人能告诉我汽车行业对软件开发人员的未来是什么吗？特别是大陆集团，它的未来乐观吗？那里最有趣的角色是什么？他们使用什么堆栈？    提交人    /u/Safe_Electio   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fm79cr/the_future_of_software_development_in_automotive/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用 Macrium 将备份恢复到外部驱动器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1flzp2k/can_i_use_macrium_to_restore_a_backup_to_an/</link>
-      <description><![CDATA[我已使用 Macrium Reflect 试用版成功备份了多个驱动器。现在我需要恢复其中一个备份来替换损坏的硬盘。当我执行恢复过程时，我看到的唯一要恢复的驱动器是我的 Windows 驱动器。备份和新驱动器通过 USB 连接到外部。我是否缺少恢复到外部驱动器的选项？ 我正在使用装有 Win10 的 PC    提交人    /u/Mike1965SA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1flzp2k/can_i_use_macrium_to_restore_a_backup_to_an/</guid>
-      <pubDate>Sat, 21 Sep 2024 10:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 iPad / PC 应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1flyhpg/looking_for_an_ipad_pc_app/</link>
-      <description><![CDATA[我在一个组织中担任运输司机，该组织要求人们通过表单电子表格订购资源/消耗品，该电子表格通过按钮链接通过电子邮件发送到组电子邮件地址。 然后，我和其他 3 个人根据我们自己的区域/交付负责区域手动决定哪个订单是我们的，并对它们进行分类。黄色表示正在采取行动，红旗表示来自仓库的订单，绿色表示工作完成。只有我们和财务官可以看到。 大多数工作在第二天交付和完成。但当我们有可能需要几天时间来组织/采购和交付的工作时，我们必须接听电话和回答问题。有时很难向人们解释。 我们有一个内部程序员，他创建了一个令人惊叹的基于表单和 Excel 的基于 Web 的软件程序，使客户能够查看订单完成的进度。这也可以将工作提前到第二天，直到完成或取消。 大面积的数百个 PC 站需要链接到表单并进行测试。太棒了。程序员离开了。她很优秀，被猎头挖走了。现在我们什么都没有了。回到电子表格。 由于 Windows 安全性，某些 PC 无法使用电子表格，而其他 PC 很难使用它来发送电子邮件。它只是过时了，它的使用寿命已经过去了。 有谁知道我们可以用什么来替代这个系统。它不能基于我们的内联网/网络之外的 Web。即我们可以安装在中央服务器上并部署到所有 PC 的 ipad/平板电脑和手机上的东西？ 提前为任何建议欢呼。    提交人    /u/Mrsteere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1flyhpg/looking_for_an_ipad_pc_app/</guid>
-      <pubDate>Sat, 21 Sep 2024 08:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有你希望存在的项目？我会建立它</title>
-      <link>https://www.reddit.com/r/software/comments/1flxyzq/is_there_a_program_that_you_wish_had_existed_i/</link>
-      <description><![CDATA[我是一名程序员，正在寻找一些项目创意。我对任何事情都持开放态度，即使它是一个非常具体的用例。我可以为所有设备构建。同样，没有问题是太模糊或太具体的 :) 我喜欢探索不同的行业。 您可以在 Reddit 或 Discord @falco4 上给我发私信    提交人    /u/Skidbladmir   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1flxyzq/is_there_a_program_that_you_wish_had_existed_i/</guid>
-      <pubDate>Sat, 21 Sep 2024 07:58:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

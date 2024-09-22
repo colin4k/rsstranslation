@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Sep 2024 15:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 18:01:55 GMT</lastBuildDate>
     <item>
-      <title>[教程] 向您展示一种无需输入任何代码即可开发程序的实用方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmv8u7/tutorial_show_you_a_practical_way_to_develop_a/</link>
-      <description><![CDATA[  由    /u/Raymond-Lin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmv8u7/tutorial_show_you_a_practical_way_to_develop_a/</guid>
-      <pubDate>Sun, 22 Sep 2024 14:59:00 GMT</pubDate>
+      <title>使用 TypeScript 创建了 Gherkin Linter</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmypsm/created_a_gherkin_linter_in_typescript/</link>
+      <description><![CDATA[  由    /u/cjmarkham  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmypsm/created_a_gherkin_linter_in_typescript/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Vue.js 增强客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmy7yo/augmenting_the_client_with_vuejs/</link>
+      <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmy7yo/augmenting_the_client_with_vuejs/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何招聘程序员（Aaron Swartz 的原始想法）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmy75o/how_i_hire_programmers_aaron_swartzs_raw_thought/</link>
+      <description><![CDATA[  由    /u/Last_Ad_4488  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmy75o/how_i_hire_programmers_aaron_swartzs_raw_thought/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 1.24 中的泛型类型别名：它们是什么以及为什么我们需要它们</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmwqta/generic_type_aliases_in_go_124_what_they_are_and/</link>
+      <description><![CDATA[  由    /u/AntonOkolelov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmwqta/generic_type_aliases_in_go_124_what_they_are_and/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>衡量软件工程师生产力的关键指标</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmvok2/key_metrics_to_measure_productivity_for_a/</link>
+      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmvok2/key_metrics_to_measure_productivity_for_a/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止使用 REST 进行状态同步</title>
+      <link>https://www.reddit.com/r/programming/comments/1fmvl33/stop_using_rest_for_state_synchronization/</link>
+      <description><![CDATA[  由    /u/mbid  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fmvl33/stop_using_rest_for_state_synchronization/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:13:52 GMT</pubDate>
     </item>
     <item>
       <title>云使者的悲伤</title>
@@ -41,13 +76,6 @@
       <pubDate>Sun, 22 Sep 2024 13:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>学习 Python 2024</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmrg7u/learn_python_2024/</link>
-      <description><![CDATA[  由    /u/ProgramToday12  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmrg7u/learn_python_2024/</guid>
-      <pubDate>Sun, 22 Sep 2024 11:51:37 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 JSONB</title>
       <link>https://www.reddit.com/r/programming/comments/1fmqgdk/working_with_jsonb/</link>
       <description><![CDATA[  由    /u/Well_Gravity  提交  [链接] [评论]]]></description>
@@ -74,13 +102,6 @@
       <description><![CDATA[  由    /u/animesh371  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fmp2yn/modern_tradeoff_analysis_for_software/</guid>
       <pubDate>Sun, 22 Sep 2024 09:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习 Python 的 5 大免费在线资源</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmonu0/top_5_free_online_resources_for_learning_python/</link>
-      <description><![CDATA[  由   提交  /u/Routine_Ask3374   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmonu0/top_5_free_online_resources_for_learning_python/</guid>
-      <pubDate>Sun, 22 Sep 2024 08:41:27 GMT</pubDate>
     </item>
     <item>
       <title>调试🔍——减少✂️还是重建🔨？</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fmlyuq/nine_rules_for_simd_acceleration_of_your_rust/</guid>
       <pubDate>Sun, 22 Sep 2024 05:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>记录所有 C++ 析构函数，穷人的运行时跟踪</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmlw6h/logging_all_c_destructors_poor_mans_runtime/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmlw6h/logging_all_c_destructors_poor_mans_runtime/</guid>
-      <pubDate>Sun, 22 Sep 2024 05:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PDLP 扩展线性规划</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmlvy6/scaling_up_linear_programming_with_pdlp/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmlvy6/scaling_up_linear_programming_with_pdlp/</guid>
-      <pubDate>Sun, 22 Sep 2024 05:21:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用数学规划（书籍）</title>
-      <link>https://www.reddit.com/r/programming/comments/1fmlvq7/applied_mathematical_programming_book/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fmlvq7/applied_mathematical_programming_book/</guid>
-      <pubDate>Sun, 22 Sep 2024 05:21:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

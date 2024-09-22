@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Sep 2024 15:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 18:02:03 GMT</lastBuildDate>
+    <item>
+      <title>一些初创公司选择“公平来源”以避免开源许可的陷阱 | TechCrunch</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</link>
+      <description><![CDATA[        由    /u/LinearArray   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和玩《原神》的朋友开发了一款免费的开源桌面应用程序，允许玩家管理他们的自定义装备——欢迎反馈！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fmxclf/my_friends_and_i_playing_genshin_impact_developed/</link>
+      <description><![CDATA[你好 r/opensource！ 今天我想介绍一个免费的开源桌面应用程序，它允许旅行者管理可玩角色的自定义文物和武器装备，并方便旅行者根据他们的装备使用对游戏玩法如何运作的语义理解来计算相关统计数据。旅行者可以创建由角色、文物和武器组成的定制装备，并与其他旅行者分享。支持的文件格式包括人类可读的 Yet Another Markup Language (YAML) 序列化格式和基于 JSON 的 Genshin Open Object Definition (GOOD) 序列化格式。 自 Genshin Impact v4.0 发布以来，Genshin Impact 一直在推出生活质量更新。然而，我们目前还没有的一个功能是能够随时切换一组文物，而不必逐个切换。这让我想用记事本把事情记下来，确保我能够返回从原始角色那里获得的文物，这说实话很不方便。通过此项目，我们希望确保旅行者能够切换装备并从外部了解统计数据，而不会干扰现有的游戏内构建，只需扫描游戏内屏幕截图即可。 屏幕截图  Dash - GNU/Linux 发行版上的 Nahida 结果 - GNU/Linux 发行版上的 Nahida Dash - Microsoft 上的 Venti Windows 结果 - Microsoft Windows 上的 Venti  资源  Genshin Impact 的装备 - GitHub Genshin Impact 的装备 - PyPI Genshin Impact v0.1.0 的装备  适用于 GNU/Linux 发行版的可执行文件 适用于 Microsoft Windows 的可执行文件   呼吁 该项目目前处于测试阶段，我们致力于通过每次发布来提供高质量的体验。如果您对该项目的发展方向感到兴奋并希望为此做出贡献，我们将非常感激您通过加注星标项目存储库来帮助我们提高项目知名度，通过报告遇到的错误来解决问题，通过提出预期的功能来选择方向，通过记录项目存储库来增强可用性，通过打开拉取请求来改进代码库，最后，通过支持开发成员来坚持我们的努力。 免责声明 本项目中使用的 Genshin Impact 资产的所有权利均归 miHoYo Ltd. 和 Cognosphere Pte., Ltd. 所有。 其他财产属于其各自所有者。    提交人    /u/t0xic0der   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fmxclf/my_friends_and_i_playing_genshin_impact_developed/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:31:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以使用什么机制将 GPLv2 许可的代码合并到我的商业项目中，而不必发布我的所有源代码？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fmx87m/what_mechanisms_can_i_use_to_incorporate/</link>
+      <description><![CDATA[这是假设我将分发软件并且有人要求提供源代码。我知道有动态链接或创建某种包装器之类的东西，并且只提供该代码，但我想知道具体细节。如果我们把道德放在一边，我将不胜感激。我只想知道如何从开源软件中获利而不放弃我的辛勤工作。提前致谢。    提交人    /u/MyManSquadW   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fmx87m/what_mechanisms_can_i_use_to_incorporate/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计一个对开源友好的微服务库；处理垃圾抽屉代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fmwrnl/designing_a_micro_service_library_to_be_friendly/</link>
+      <description><![CDATA[背景： 我有几个个人项目，由于质量低下，大多未发布。我在摆弄一些我感兴趣的库时走了很多捷径。我并不真的想努力制作一些值得分享的东西。 我确实发布了一个项目，其中的 README 基本上是“我弄清楚了如何使用某些硬件的专有 API，因此如果您拥有该硬件并想用它创建自己的项目，您可能会有兴趣复制我的一些代码”。我选择了 Unlicense，因为我不在乎个人使用的功劳，而且任何人在生产中使用其中任何一个而不进行重大清理都是愚蠢的。 我还发布了一些 Gists，它们创建了一些使用流行库的工作示例。在这些情况下，我找不到任何好的例子，花了很多时间去理解 api 规范，所以我想一个例子可能会帮助下一个人更快地理解它。我对库存储库“examples”目录做了一个 Gist 而不是 PR，因为我不想再花精力去清理它或来回审核。 展望未来，我想养成使用良好软件设计实践的习惯，创建我可以引以为豪的代码，并以更有用的方式做出贡献。我现在正借此机会学习一门新的编程语言，我想从一开始就养成良好的习惯。 问题： 我的大多数项目都有很多“垃圾抽屉”代码与更普遍有用的东西混在一起。例如，我有一个 aws lambda 函数来管理电子邮件列表订阅/取消订阅请求。它将电子邮件存储在数据库中，并带有一些注释（未确认、已订阅、取消订阅、列入黑名单）、用户加入日期等；它会发送确认电子邮件；并将通过/失败信息报告回订阅网页。一切都使用可以存储在本地或云存储中的模板。我认为这是一些普遍有用的功能的示例。除此之外，我还有一个错误报告器（当断言失败时向我发送电子邮件）；一个速率限制器（确保此功能限制为我的电子邮件配额的一小部分，以保证还有一些剩余用于其他项目）；以及一些允许我在各种提供商之间切换的代码（通过 SES 与 gmail 发送电子邮件；使用 dynamoDB 与 PostgreSQL；使用 aws lambda 运行时与 apache2 后面的独立 http）。 以此为例，我不确定我应该如何编写它才能使其更加开源友好。我最初的直觉是将所有这些内容移出核心库，而是将其放在“测试”或“示例”目录中。当您实例化 list_manager 类时，它将具有一个打印到 stderr 的默认错误报告器和一个不受限制的速率限制器。然后会有一些 set_rate_limiter(function_pointer, void*) 和 set_error_handler(function_pointer, void*) 方法，允许用户放入他们想要的任何功能（如果有的话）。 对于提供程序切换器组件，除了可能只是与 stdin/stdout 接口的“测试模式”之外，实际上没有一个简单的/默认的选项。要使库完全有用，它至少需要其中一个提供程序。然后是在我的其他微服务库之间共享提供程序抽象和实现的问题。为“u/loaengineer0 的简单数据库提供程序”建立一个单独的仓库，然后处理一堆微小的依赖项，这似乎很愚蠢。我也不喜欢在仓库之间复制粘贴这些东西，即使这些只是 50-100 行的垫片。 在我的工作中，我们有一个“通用”模块的 mono 仓库，这是一个垃圾场，显然对开源不友好。我没有任何经验可以帮助我弄清楚处理这种事情的“正确”方法是什么。这种事情通常是如何解决的？ 感谢阅读！    提交人    /u/loaengineer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fmwrnl/designing_a_micro_service_library_to_be_friendly/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:05:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 React 应用构建器 - Neoapps.ai</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fmw7se/open_source_react_app_builder_neoappsai/</link>
+      <description><![CDATA[      https://github.com/Neopric-Inc/NeoApps.AI-CodeGenerator    由   提交  /u/NeoApps_AI   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fmw7se/open_source_react_app_builder_neoappsai/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:41:38 GMT</pubDate>
+    </item>
     <item>
       <title>Tinymind - 在几秒钟内将 GitHub 变成您的博客和思想中心。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fmp8ak/tinymind_turn_github_into_your_blog_thoughts_hub/</link>
@@ -83,7 +118,7 @@
       <pubDate>Sat, 21 Sep 2024 06:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>用 Rust 编写的 Minecraft 现实生活城市生成器（开源）</title>
+      <title>用 Rust 编写的 Minecraft 真实城市生成器（开源）</title>
       <link>https://www.reddit.com/r/opensource/comments/1flrxw5/minecraft_real_life_city_generator_written_in/</link>
       <description><![CDATA[大家好！我花了一个月的时间将我的开源项目从 Python 移植到 Rust。我之前用过一次 Rust，但这确实帮助我更深入地了解了这门语言。 Arnis 是一个开源项目，旨在在 Minecraft 中生成来自现实世界的任何位置。这包括街道、建筑物、公园等等。 我很乐意听取一些关于代码质量的反馈，尤其希望看到项目成长！https://github.com/louis-e/arnis    提交人    /u/louisss-e   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1flrxw5/minecraft_real_life_city_generator_written_in/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[大家好！ 我们是一个团队，负责管理公司内多个业务部门的基础设施。我们为开发人员部署平台，这些部署流程涉及多个步骤/参与者，它们之间有依赖关系。有些步骤通过 ServiceNow 等系统处理，其他步骤通过 Excel 处理。集成所有内容不是一种选择，因为我们只是更大生态系统的一小部分。 我们希望从头到尾跟踪流程中每个步骤所花费的时间，确保记录每个操作的完成时间。我们的主要需求是跟踪日期以衡量整个流程的持续时间，从而衡量我们可以承诺的内部 SLA。 此外，如果有一个仪表板可以显示每个步骤的平均时间和偏差，以及深入了解各个项目细节的能力，那也很有趣。 有人知道有什么开源软件可以处理这种带有依赖关系的流程跟踪，并提供我们正在寻找的报告/仪表板吗？ 提前感谢任何建议！    提交人    /u/Kind_Rush_4639   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fllkhq/looking_for_open_source_software_to_track/</guid>
       <pubDate>Fri, 20 Sep 2024 20:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AES 加密——对于外行来说，可以在浏览器中解密您的文件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flk1al/aes_encrypt_decrypt_your_files_in_the_browser_for/</link>
-      <description><![CDATA[GitHub 项目很酷，我们都知道如何使用终端，但有时 Web 应用程序更容易访问。这就是我将 cryptoooor CLI 变成 Web 应用程序的原因 -&gt; https://cryptoooor.com/ 您不必输入任何 IV（随机数），一切都为您处理好了。 这是外行人的加密。 我过去曾使用过其他工具，但它们从来没有像 cryptoooor 那样简单易用，这就是我制作它的原因。 让我知道我可以改进什么，并随时捐款支持该项目！    提交人    /u/Dependent-Soup-7686   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flk1al/aes_encrypt_decrypt_your_files_in_the_browser_for/</guid>
-      <pubDate>Fri, 20 Sep 2024 19:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速音乐移除器：我们每天都在消费的媒体，没有任何影响</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fldpp1/fastmusicremover_media_we_consume_every_day/</link>
-      <description><![CDATA[有没有想过，在没有特效、音乐和其他花哨东西的情况下，看看你最喜欢的节目听起来会是什么样子？ 好吧，我着手构建一个开源工具，旨在为任何互联网媒体做到这一点。它处于概念验证阶段，但它可以消除 YouTube 视频中的任何噪音、音乐和特效，时间成本约为视频长度的 20%。 如果你有 20 秒的空闲时间，你可以观看你最喜欢的短片，而不需要任何特效！Docker 就是你尝试它所需要的一切！ 性能非常有希望，因为我还没有开始优化，而且它已经可以离线使用了。最终，我希望这是一个在线过滤器，如果你对这类事情感兴趣，我将非常感谢你的贡献！  尝试一下，当你摆脱所有噪音时，你可能会对我们每天所消费的东西感到厌烦。 谢谢！    提交人    /u/Apart-Status9082   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fldpp1/fastmusicremover_media_we_consume_every_day/</guid>
-      <pubDate>Fri, 20 Sep 2024 14:43:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>独自维护 FLOSS 项目：为什么评论很重要</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flcu0l/maintaining_floss_projects_alone_why_reviews/</link>
-      <description><![CDATA[我想分享我的经验和想法。作为 FLOSS 项目的维护者，我遇到了一个常见问题，在我看来，这个问题很少被谈论。问题不在于需要完成的任务数量（工作量），而在于你经常必须独自完成这些任务。不幸的是，这会影响项目的质量。 即使是很小的、看似微不足道的代码贡献（拉取请求）也总是需要第二双眼睛。无论维护者或首席开发人员有多有经验，他们的代码仍然需要审查。高质量的代码来自协作和反馈，而不是孤立地工作。 目前，这是我在项目中遇到的问题。由于我对自己要求很高，并对用户负有责任，我发现很难合并 PR，因为我没有人来审查我的工作。如果没有这种必要的监督，我无法保证我所追求的质量。 我只是想分享这种经验。我相信其他维护者也处于类似的情况。希望这能帮助贡献者理解，审查代码与编写代码同样有价值，而且这是支持开源项目的重要方式。    提交人    /u/buhtz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flcu0l/maintaining_floss_projects_alone_why_reviews/</guid>
-      <pubDate>Fri, 20 Sep 2024 14:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>SubVocab：从字幕或任何文本快速提取新词汇的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flcirl/subvocab_a_speedy_tool_to_extract_new_vocabulary/</link>
-      <description><![CDATA[        由    /u/Josiah1an 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flcirl/subvocab_a_speedy_tool_to_extract_new_vocabulary/</guid>
-      <pubDate>Fri, 20 Sep 2024 13:51:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>cast-text：零延迟、易于使用的全文新闻终端阅读器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flc2av/casttext_a_zero_latency_easytouse_fulltext_news/</link>
-      <description><![CDATA[        由    /u/el_piqo  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flc2av/casttext_a_zero_latency_easytouse_fulltext_news/</guid>
-      <pubDate>Fri, 20 Sep 2024 13:30:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
