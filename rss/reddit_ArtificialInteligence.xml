@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 12:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 15:01:41 GMT</lastBuildDate>
+    <item>
+      <title>我让 AI 做了一个关于视频游戏中的 AI 的播客 - 免费工具 - 从头开始​​用了 1 小时。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmuj4s/i_made_ai_do_a_podcast_on_ai_in_video_games_free/</link>
+      <description><![CDATA[嗨，AI 团队！  因此，我首先访问了 perplexity（你知道，我们认为 Google 是互联网时代初期的搜索引擎），并专门向它索要“大量关于视频游戏中 AI 的文章链接；2024 年 9 月”。 我将链接复制/粘贴到 google 的新 NotebookLLM（实验性）中。这个 LLM 对其进行了快速总结。然后我简单地搜索了音频创建的选项，几分钟后，我就得到了一个8mn 的非常逼真的播客音频文件。 然后我简单地将它上传到 youtube，并且可以使用 Flux（也是免费的）作为背景图片和缩略图，但我只是在 paint 中手动完成了。  然后... 就是这样！ 最后我们有两个人（一个女性，一个男性）讨论和参考 Perplexity 提供的文章内容，它是这样的：  传统游戏意义上的 AI（NPC 如何表现） 用于程序生成的生成式 AI AI 作为游戏大师，根据玩家的操作 AI 会取代开发人员吗？我们都会成为开发人员吗？  我对这些声音的出色表现感到惊讶，它们绝对比几个月前自然得多。现在要区分 AI 语音和人类语音变得更加困难了。 看到这项技术取得进展真是令人惊讶，对于任何感兴趣的人，这里有链接https://youtu.be/pPx5o1Ulh2Q    提交人    /u/Reyhan_Samite   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmuj4s/i_made_ai_do_a_podcast_on_ai_in_video_games_free/</guid>
+      <pubDate>Sun, 22 Sep 2024 14:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 推出供用户设计自定义 AI 角色的工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmudv1/meta_unveils_tool_for_users_to_design_custom_ai/</link>
+      <description><![CDATA[Meta Platforms 发布了 AI Studio，这是一款让用户制作和分享个性化 AI 聊天机器人的工具。它使用最新的 Luma 3.1 模型。https://theaiwired.com/meta-unveils-tool-for-users-to-design-custom-ai-characters/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmudv1/meta_unveils_tool_for_users_to_design_custom_ai/</guid>
+      <pubDate>Sun, 22 Sep 2024 14:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>欺骗我朋友的最佳 AI 工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmu1wj/best_ai_tool_to_trick_my_friend/</link>
+      <description><![CDATA[大家好，我想制作一个唐纳德·特朗普假演讲 AI 视频来欺骗我的朋友，他是特朗普的狂热粉丝，什么是让特朗普进入场景并让他讲话的最佳工具？谢谢    提交人    /u/ThePerkGuy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmu1wj/best_ai_tool_to_trick_my_friend/</guid>
+      <pubDate>Sun, 22 Sep 2024 14:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求初学者的帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fms7q3/asking_for_beginner_help/</link>
+      <description><![CDATA[对于想要学习 AI 和 LLM 基础知识的初学者，您能给我推荐一些最好的资源吗？我在大学时做过一点编程，但那是 50 年前的事了。    提交人    /u/Girlytoyfortop   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fms7q3/asking_for_beginner_help/</guid>
+      <pubDate>Sun, 22 Sep 2024 12:33:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的代理商的结构模型是什么样的？您主要与您的主要代理商互动还是也与您的分代理商互动？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fms0l3/what_structure_models_for_your_agents_and_do_you/</link>
+      <description><![CDATA[就像层次结构一样，主要有子代理或其他东西，例如高度联网、群集或其他东西，例如集线器和辐条……为什么这是实现目标的更好方法？如果是分层的，您主要与主要代理还是子代理进行交互？如果是，为什么？调试，对区域的兴趣……？    提交人    /u/FiacR   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fms0l3/what_structure_models_for_your_agents_and_do_you/</guid>
+      <pubDate>Sun, 22 Sep 2024 12:22:38 GMT</pubDate>
+    </item>
     <item>
       <title>推出 Ryne AI：你的人工智能学习伙伴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmoo9o/introducing_ryne_ai_your_aipowered_study_buddy/</link>
@@ -69,20 +104,6 @@
       <pubDate>Sat, 21 Sep 2024 18:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>[请求] 文本到图像生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm9doh/request_text_to_image_generator/</link>
-      <description><![CDATA[这真的很酷。 人工智能 (AI) | 这太令人感动了。🥹 关注我们 (👉@artificialintelligenceee)，了解 AI 世界的所有最新动态。视频：... | Instagram 我可以问一下这是哪个 AI 文本到图像生成器吗？    提交人    /u/twa8u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm9doh/request_text_to_image_generator/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:21:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>与人工智能合作撰写《宇宙振动理论》：未来出版的思想实验</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm9ab3/coauthoring_the_cosmic_vibrational_theory_with_ai/</link>
-      <description><![CDATA[  由    /u/UnderstandingNew6591  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm9ab3/coauthoring_the_cosmic_vibrational_theory_with_ai/</guid>
-      <pubDate>Sat, 21 Sep 2024 18:17:23 GMT</pubDate>
-    </item>
-    <item>
       <title>下一代开发者日 - 英国伦敦 - 10 月 8 日。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm88j2/next_generation_developer_day_london_uk_8th/</link>
       <description><![CDATA[我组织了一场免费的全天活动，以学习有关使用生成式 AI 进行构建的所有知识，该活动将于 10 月 8 日在伦敦肖尔迪奇的白兔工作室举行。这是由开发人员为开发人员组织的，我们有大量实践课程、AI 演示等。如果您有兴趣，可以在此处查看完整议程（并注册，名额有限）-&gt; https://go.aws/3MQuQsO    提交人    /u/094459   [链接] [评论]]]></description>
@@ -104,32 +125,11 @@
       <pubDate>Sat, 21 Sep 2024 16:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>请帮忙😥</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm6l5x/please_help/</link>
-      <description><![CDATA[我是来自斯里兰卡的学生。根据去年的高级水平考试成绩，我选择了莫拉图瓦大学的人工智能理学学士学位。我想知道在完成人工智能作为我的主要学位后，我是否能够在 IT 领域获得一个好职位。    提交人    /u/THESARU_praneeth   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm6l5x/please_help/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAGBuilder 更新：自动采样、Optuna 集成和上下文检索器 🚀</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm49cy/ragbuilder_update_autosampling_optuna_integration/</link>
-      <description><![CDATA[大家好！ 我一直在埋头研究 RAGBuilder，我想分享一些最新更新。我们仍在学习和改进，但我们认为这些新功能可能对你们中的一些人有用：  上下文检索：我们添加了一个模板来解决基于块的检索中上下文丢失的经典问题。上下文检索通过在嵌入之前将解释性上下文添加到每个块之前来解决此问题。这是从 Anthropic 的博客文章中得到的启发。想知道你们中是否有人手动尝试过它以及它如何比较。 自动采样模式：对于处理大型数据集的人，我们已经实施了自动采样以帮助加快迭代速度。它适用于本地文件、目录和 URL。它很基础，目前我们使用随机（但确定性）采样，但希望您能提供意见，使其更智能。 Optuna 集成：我们现在使用 Optuna 的超参数调整库。这可以带来更多效率提升（例如，利用采样数据的结果来指导整个数据集的优化等）。这还可以实现一些很酷的可视化，以查看哪些参数对您的 RAG 影响最大（是块大小、重新排序器还是其他东西？）- 可视化即将推出，敬请期待！   有关 RAGBuilder 的更多背景信息：https://www.reddit.com/r/LocalLLaMA/comments/1fgiaq6/comment/ln2hkkb/ 在我们的 GitHub 上查看并告诉我们您的想法。请一如既往地报告您可能遇到的任何错误和/或问题，我们将尽力修复它们。    提交人    /u/Hot_Extension_9087   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm49cy/ragbuilder_update_autosampling_optuna_integration/</guid>
-      <pubDate>Sat, 21 Sep 2024 14:27:18 GMT</pubDate>
-    </item>
-    <item>
       <title>3 种（已知）工具改变了我使用 AI 模型的方式及其原因。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm3hgo/3_known_tools_that_have_changed_the_way_i_use_ai/</link>
       <description><![CDATA[我想分享我日常活动的首选，我经常使用人工智能，实际上，甚至在&quot;大爆炸&quot;（又名 ChatGPT 发布）之前，我就已经在使用 GPT3，从那时起，我几乎完全取代了谷歌。 最近改变了我生活的几个工具，我建议任何人都尝试一下： 用于开发目的（Claude-Dev）： https://github.com/saoudrizwan/claude-dev 自从看到他们发布以来，我就一直在使用它，它彻底改变了我编码的方式，说清楚点，我估计自己是一个相对优秀的开发人员，而且，这让我走了很多捷径，我可以以我从未梦想过的速度交付项目。我甚至回到了旧的&quot;PHP&quot; 方式，因为它如此快速地生成大量代码片段这一事实让我改变了我的默认标准。 对于图像（Stability Ultra）： https://platform.stability.ai/ Stability，特别是 Ultra，使用他们的 API，我制作了一个小的 Node 脚本，我可以直接从 VSCode 提示，彻底改变了我制作图标、图形甚至模因的生活，如果你要求超高清的图片，它完全可以做到，在负面提示中，我总是要求不要生成任何包含&quot;手指&quot; 的图片总的来说，它非常好。 对于日常提示（Hoody）： https://hoody.com/ai 这个“仪表板”非常酷，它不仅让我可以免费访问 o1-mini，而且让我不再那么担心将我的个人提示与我的身份联系起来，最近我越来越注意自己的隐私，因为现在几乎所有的事情都会被记录下来，我认为人们并没有真正意识到政府访问你的提示意味着什么。我没有将它用于开发，因为它没有 API。  在我看来，即将推出的最令人兴奋的是 Opus 3.5，随着 Strawberry 的最近推出，他们必须设定非常高的标准，Claude-dev 可能会立即将其集成，我无法想象它能将我的工作效率提高多少。    提交人    /u/AnKaSo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm3hgo/3_known_tools_that_have_changed_the_way_i_use_ai/</guid>
       <pubDate>Sat, 21 Sep 2024 13:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我讨厌 Google 赞助搜索结果。因此，我仅使用 Reddit、YT 和 TikTok 的众包意见构建了一个 AI 搜索引擎</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1flef0y/i_hated_sponsored_google_results_so_i_built_an_ai/</link>
-      <description><![CDATA[今年 1 月，我被一个简单的问题困扰：为什么在互联网上找不到真实的推荐？ 我的搜索遇到了大量赞助内容和明显有偏见的联盟网站，这让我对自己的决定比刚开始时更加困惑。 深入挖掘后，我发现了一个惊人的事实。如今，16 家占主导地位的出版公司主导着搜索，这意味着答案不再使用户受益，而是为出版公司带来收益。 事实上，一项研究在您能想到的每个领域进行了 10,000 次不同的搜索，这 16 家出版公司在其中 85% 的搜索中名列前茅！！ 当我想听听真实人物的经历时，为什么少数几家公司要控制我们的信息来源？ 然后我转向 reddit..我从像我这样的真实人物身上找到了很多有用的人生经验。但问题是什么？外面有太多内容，很难找到共识。 我意识到我必须构建解决方案。我启动了一个名为 lynksearch.com 的工作原型，该原型解决了 SEO/Affiliate BS 问题，并使用 LLM 从 Reddit、YouTube 和 TikTok 生成了众包推荐。 我的使命是使互联网上的信息发现民主化，并回到我们最初设想的更加以人为本的互联网。 请让我知道我可以如何改进它！感谢您的时间 :)    提交人    /u/notepad---   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1flef0y/i_hated_sponsored_google_results_so_i_built_an_ai/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:13:45 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
