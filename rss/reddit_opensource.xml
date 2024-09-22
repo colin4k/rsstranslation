@@ -4,9 +4,30 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Sep 2024 18:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 21:01:58 GMT</lastBuildDate>
     <item>
-      <title>一些初创公司选择“公平来源”以避免开源许可的陷阱 | TechCrunch</title>
+      <title>作为首次投稿者，hacktober fest 值得参加吗</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</link>
+      <description><![CDATA[就上下文而言，我具备 mern stack 方面的技能，我希望获得实际经验，这既有助于我获得技能，也有助于我在求职面试中增加自己的份量 我参加 hacktober 不是为了获得好处、奖励或衬衫什么的，而是为了我的专业利益， 我有两个疑问，首先，对于 mern stack（js stack）开发人员来说，参加它是否有好处，因为之前我参加过另一个开源程序，但我遇到的大多数质量问题要么来自不同的语言，如 python、java，要么来自 js，然后贡献者之间会发生竞争，而其他问题对于没有经验的开发人员来说很复杂 其次，我知道要完成 hacktober 挑战，我们需要在一个月内至少提出四个 PR，但如果我们的 PR 被排除在外，那么它将不会被考虑，而作为 js 开发人员，随着程序的进展，分配问题会变得越来越困难，因为大多数问题已经在短短开始的头几天    提交人    /u/KingOfSky1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</guid>
+      <pubDate>Sun, 22 Sep 2024 20:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>EditorToIX 是一个可用于多种代码编辑器的开源扩展：VSCode、CursorAI、Xed、Pluma、Phoenix Code（以前的 Brackets）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fn2tkx/editortoix_is_an_opensource_extension_available/</link>
+      <description><![CDATA[EditorToIX 是 VSCode、CursorAI 和 Phoenix Code 的开源扩展。 它也可以作为 Linux Xed、Pluma 编辑器的插件集合使用。 https://www.devtoix.com/en/projects/editortoix 每个代码编辑器的工具列表：  提取文本 | VSCode、CursorAI、Phoenix Code 标头到书签 | VSCode、CursorAI、Phoenix Code 混合器 | VSCode、CursorAI、Phoenix Code 注册 | VSCode、CursorAI、Phoenix Code 替换配方 | VSCode、CursorAI 反向分配 | VSCode、CursorAI、Phoenix Code 更改大小写 | 代码编辑器 在大写字母前添加空格 | VSCode、CursorAI、Phoenix Code 驼峰式命名法 | VSCode、CursorAI、Phoenix Code 大写 | VSCode、CursorAI、Phoenix Code 循环命名法 | VSCode、CursorAI、Xed、Pluma、Phoenix Code 破折号命名法 | VSCode、CursorAI、Phoenix Code 破折号转下划线 | VSCode，CursorAI，Phoenix Code 小写 | Phoenix Code 下划线转破折号 | VSCode，CursorAI，Phoenix Code 大写 | Phoenix Code Html 解码 | Phoenix Code Html 编码 | Phoenix Code Url 解码 | VSCode，CursorAI，Phoenix Code Url 编码 | VSCode，CursorAI，Phoenix Code 双斜杠转单斜杠 | VSCode，CursorAI，Phoenix Code 单斜杠转双斜杠 | VSCode，CursorAI，Phoenix Code Unix 转 Win 斜杠 | VSCode，CursorAI，Phoenix Code Win To Unix Slash | VSCode，CursorAI，Phoenix Code 分行 | VSCode，CursorAI，Phoenix Code 缩进一个空格 | VSCode，CursorAI，Xed，Pluma，Phoenix Code 连接行 | VSCode，CursorAI，Phoenix Code 减少缩进一个空格 | VSCode，CursorAI，Xed，Pluma，Phoenix Code 删除重复的行 | VSCode，CursorAI，Xed，Pluma，Phoenix Code 删除空行 | VSCode、CursorAI、Xed、Pluma、Phoenix 代码 按数字升序排序 | VSCode、CursorAI、Xed、Pluma、Phoenix 代码 按数字降序排序 | VSCode、CursorAI、Xed、Pluma、Phoenix 代码 分割行 | VSCode、CursorAI、Phoenix 代码 修剪尾随 | Xed、Pluma、Phoenix 代码 插入 ISO 日期 | VSCode、CursorAI、Phoenix 代码 插入 ISO 时间日期 | VSCode、CursorAI、Phoenix 代码 插入 UUID | VSCode、CursorAI、Phoenix 代码 在末尾插入文本 | VSCode、CursorAI、Phoenix Code 在开头插入文本 | VSCode、CursorAI、Phoenix Code 双引号转单引号 | Phoenix Code 单引号转双引号 | Phoenix Code 切换引号 | Phoenix Code Tab 键转空格 | Phoenix Code 空格键转 Tab 键 | Phoenix Code     提交人    /u/abentofreire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fn2tkx/editortoix_is_an_opensource_extension_available/</guid>
+      <pubDate>Sun, 22 Sep 2024 20:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>召集所有 PostgreSQL 用户！2024 年 PostgreSQL 状态调查将开放至 9 月 30 日 - 请花点时间分享您的经验，无论您是刚开始使用它还是已经使用了几十年！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fn02tg/calling_all_postgresql_users_the_2024_state_of/</link>
+      <description><![CDATA[  由    /u/xenophenes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fn02tg/calling_all_postgresql_users_the_2024_state_of/</guid>
+      <pubDate>Sun, 22 Sep 2024 18:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些初创公司正在采用“公平来源”来避免开源许可的陷阱 | TechCrunch</title>
       <link>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</link>
       <description><![CDATA[        由    /u/LinearArray   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>设计一个对开源友好的微服务库；处理垃圾抽屉代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1fmwrnl/designing_a_micro_service_library_to_be_friendly/</link>
-      <description><![CDATA[背景： 我有几个个人项目，由于质量低下，大多未发布。我在摆弄一些我感兴趣的库时走了很多捷径。我并不真的想努力制作一些值得分享的东西。 我确实发布了一个项目，其中的 README 基本上是“我弄清楚了如何使用某些硬件的专有 API，因此如果您拥有该硬件并想用它创建自己的项目，您可能会有兴趣复制我的一些代码”。我选择了 Unlicense，因为我不在乎个人使用的功劳，而且任何人在生产中使用其中任何一个而不进行重大清理都是愚蠢的。 我还发布了一些 Gists，它们创建了一些使用流行库的工作示例。在这些情况下，我找不到任何好的例子，花了很多时间去理解 api 规范，所以我想一个例子可能会帮助下一个人更快地理解它。我对库存储库“examples”目录做了一个 Gist 而不是 PR，因为我不想再花精力去清理它或来回审核。 展望未来，我想养成使用良好软件设计实践的习惯，创建我可以引以为豪的代码，并以更有用的方式做出贡献。我现在正借此机会学习一门新的编程语言，我想从一开始就养成良好的习惯。 问题： 我的大多数项目都有很多“垃圾抽屉”代码与更普遍有用的东西混在一起。例如，我有一个 aws lambda 函数来管理电子邮件列表订阅/取消订阅请求。它将电子邮件存储在数据库中，并带有一些注释（未确认、已订阅、取消订阅、列入黑名单）、用户加入日期等；它会发送确认电子邮件；并将通过/失败信息报告回订阅网页。一切都使用可以存储在本地或云存储中的模板。我认为这是一些普遍有用的功能的示例。除此之外，我还有一个错误报告器（当断言失败时向我发送电子邮件）；一个速率限制器（确保此功能限制为我的电子邮件配额的一小部分，以保证还有一些剩余用于其他项目）；以及一些允许我在各种提供商之间切换的代码（通过 SES 与 gmail 发送电子邮件；使用 dynamoDB 与 PostgreSQL；使用 aws lambda 运行时与 apache2 后面的独立 http）。 以此为例，我不确定我应该如何编写它才能使其更加开源友好。我最初的直觉是将所有这些内容移出核心库，而是将其放在“测试”或“示例”目录中。当您实例化 list_manager 类时，它将具有一个打印到 stderr 的默认错误报告器和一个不受限制的速率限制器。然后会有一些 set_rate_limiter(function_pointer, void*) 和 set_error_handler(function_pointer, void*) 方法，允许用户放入他们想要的任何功能（如果有的话）。 对于提供程序切换器组件，除了可能只是与 stdin/stdout 接口的“测试模式”之外，实际上没有一个简单的/默认的选项。要使库完全有用，它至少需要其中一个提供程序。然后是在我的其他微服务库之间共享提供程序抽象和实现的问题。为“u/loaengineer0 的简单数据库提供程序”建立一个单独的仓库，然后处理一堆微小的依赖项，这似乎很愚蠢。我也不喜欢在仓库之间复制粘贴这些东西，即使这些只是 50-100 行的垫片。 在我的工作中，我们有一个“通用”模块的 mono 仓库，这是一个垃圾场，显然对开源不友好。我没有任何经验可以帮助我弄清楚处理这种事情的“正确”方法是什么。这种事情通常是如何解决的？ 感谢阅读！    提交人    /u/loaengineer0   [链接] [评论]]]></description>
+      <description><![CDATA[背景： 我有几个个人项目，由于质量低下，大多未发布。我在摆弄一些我感兴趣的库时走了很多捷径。我并不真的想努力制作一些值得分享的东西。 我确实发布了一个项目，其中的 README 基本上是“我弄清楚了如何使用某些硬件的专有 API，因此如果您拥有该硬件并想用它创建自己的项目，您可能会有兴趣复制我的一些代码”。我选择了 Unlicense，因为我不在乎个人使用的功劳，而且任何人在生产中使用其中任何一个而不进行重大清理都是愚蠢的。 我还发布了一些 Gists，它们创建了一些使用流行库的工作示例。在这些情况下，我找不到任何好的例子，花了很多时间去理解 api 规范，所以我想一个例子可能会帮助下一个人更快地理解它。我对库存储库“examples”目录做了一个 Gist 而不是 PR，因为我不想再花精力去清理它或来回审核。 展望未来，我想养成使用良好软件设计实践的习惯，创建我可以引以为豪的代码，并以更有用的方式做出贡献。我现在正借此机会学习一门新的编程语言，我想从一开始就养成良好的习惯。 问题： 我的大多数项目都有很多“垃圾抽屉”代码与更普遍有用的东西混在一起。例如，我有一个 aws lambda 函数来管理电子邮件列表订阅/取消订阅请求。它将电子邮件存储在数据库中，并带有一些注释（未确认、已订阅、取消订阅、列入黑名单）、用户加入日期等；它会发送确认电子邮件；并将通过/失败信息报告回订阅网页。一切都使用可以存储在本地或云存储中的模板。我认为这是一些普遍有用的功能的示例。除此之外，我还有一个错误报告器（当断言失败时向我发送电子邮件）；一个速率限制器（确保此功能限制为我的电子邮件配额的一小部分，以保证还有一些剩余用于其他项目）；以及一些允许我在各种提供商之间切换的代码（通过 SES 与 gmail 发送电子邮件；使用 dynamoDB 与 PostgreSQL；使用 aws lambda 运行时与 apache2 后面的独立 http）。 以此为例，我不确定我应该如何编写它才能使其更加开源友好。我最初的直觉是将所有这些内容移出核心库，而是将其放在“测试”或“示例”目录中。当您实例化 list_manager 类时，它将具有一个打印到 stderr 的默认错误报告器和一个不受限制的速率限制器。然后会有一些 set_rate_limiter(function_pointer, void*) 和 set_error_handler(function_pointer, void*) 方法，允许用户放入他们想要的任何功能（如果有的话）。 对于提供程序切换器组件，除了可能只是与 stdin/stdout 接口的“测试模式”之外，实际上没有一个简单的/默认的选项。要使库完全有用，它至少需要其中一个提供程序。然后就是在我的其他微服务库之间共享提供程序抽象和实现的问题。为“u/loaengineer0 的简单数据库提供程序”建立一个单独的仓库，然后处理一堆微小的依赖项，这似乎很愚蠢。我也不喜欢在仓库之间复制粘贴这些东西，即使这些只是 50-100 行的垫片。 在我的工作中，我们有一个“通用”模块的 mono 仓库，这是一个垃圾场，显然对开源不友好。我没有任何经验可以帮助我弄清楚处理这种事情的“正确”方法是什么。这种事情通常是如何解决的？ 感谢阅读！    提交人    /u/loaengineer0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fmwrnl/designing_a_micro_service_library_to_be_friendly/</guid>
       <pubDate>Sun, 22 Sep 2024 16:05:51 GMT</pubDate>
     </item>
@@ -118,32 +139,11 @@
       <pubDate>Sat, 21 Sep 2024 06:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>用 Rust 编写的 Minecraft 真实城市生成器（开源）</title>
+      <title>用 Rust 编写的 Minecraft 现实生活城市生成器（开源）</title>
       <link>https://www.reddit.com/r/opensource/comments/1flrxw5/minecraft_real_life_city_generator_written_in/</link>
       <description><![CDATA[大家好！我花了一个月的时间将我的开源项目从 Python 移植到 Rust。我之前用过一次 Rust，但这确实帮助我更深入地了解了这门语言。 Arnis 是一个开源项目，旨在在 Minecraft 中生成来自现实世界的任何位置。这包括街道、建筑物、公园等等。 我很乐意听取一些关于代码质量的反馈，尤其希望看到项目成长！https://github.com/louis-e/arnis    提交人    /u/louisss-e   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1flrxw5/minecraft_real_life_city_generator_written_in/</guid>
       <pubDate>Sat, 21 Sep 2024 01:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题 | 大型项目中的 AGPLv3 和 SSPL</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flocre/question_agplv3_sspl_in_larger_project/</link>
-      <description><![CDATA[我和一些朋友一直在开发一个聊天服务应用 / 网站，对于将 AGPLv3 和 SSPL 许可的软件合并到项目中存在疑问。 我正在考虑使用 [LibreTranslate](https://libretranslate.com/)（受 AGPLv3 保护）和 [MongoDB](https://www.mongodb.com/)（受 SSPL 保护）分别为用户翻译消息和存储数据。 我不打算修改任何一个软件或将其源代码*直接*合并到我的后端代码中 - 我只打算运行它们的自托管实例并出于项目目的对它们进行调用。 如果我可以用这种方式使用任一软件吗？    提交人    /u/Cringelord123456   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flocre/question_agplv3_sspl_in_larger_project/</guid>
-      <pubDate>Fri, 20 Sep 2024 22:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取所有 WhatsApp 消息并使用 AI 与其聊天</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flm245/get_all_whatsapp_messages_and_chat_with_it_using/</link>
-      <description><![CDATA[        提交人    /u/Matthew_heartful   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flm245/get_all_whatsapp_messages_and_chat_with_it_using/</guid>
-      <pubDate>Fri, 20 Sep 2024 20:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源软件来跟踪端到端流程时间线与依赖关系 + 仪表板的平均时间/偏差</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fllkhq/looking_for_open_source_software_to_track/</link>
-      <description><![CDATA[大家好！ 我们是一个团队，负责管理公司内多个业务部门的基础设施。我们为开发人员部署平台，这些部署流程涉及多个步骤/参与者，它们之间有依赖关系。有些步骤通过 ServiceNow 等系统处理，其他步骤通过 Excel 处理。集成所有内容不是一种选择，因为我们只是更大生态系统的一小部分。 我们希望从头到尾跟踪流程中每个步骤所花费的时间，确保记录每个操作的完成时间。我们的主要需求是跟踪日期以衡量整个流程的持续时间，从而衡量我们可以承诺的内部 SLA。 此外，如果有一个仪表板可以显示每个步骤的平均时间和偏差，以及深入了解各个项目细节的能力，那也很有趣。 有人知道有什么开源软件可以处理这种带有依赖关系的流程跟踪，并提供我们正在寻找的报告/仪表板吗？ 提前感谢任何建议！    提交人    /u/Kind_Rush_4639   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fllkhq/looking_for_open_source_software_to_track/</guid>
-      <pubDate>Fri, 20 Sep 2024 20:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
