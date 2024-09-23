@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 21:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 00:03:49 GMT</lastBuildDate>
+    <item>
+      <title>推荐运行 .bin/.cue 文件的软件（PC 游戏）</title>
+      <link>https://www.reddit.com/r/software/comments/1fn5zza/recommended_software_to_run_bincue_files_pc_games/</link>
+      <description><![CDATA[2000 年初的 PC 游戏，我曾经使用过 daemon tools 3.5.5 或类似程序，但新版本的程序似乎带有恶意软件，poweriso 也是如此。 我正在寻找一款可以运行我的游戏的无广告或恶意软件的软件。（磁盘状况还不错，它们仍然可以正常工作，我可以使用它们，但我不想让它们比多年来已经拥有的更多划痕。我尝试安装的文件是我刚刚使用 Imgburn 创建的备份）。    提交人    /u/Undead-Merchant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fn5zza/recommended_software_to_run_bincue_files_pc_games/</guid>
+      <pubDate>Sun, 22 Sep 2024 22:53:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员希望在 AI 软件测试平台中看到哪些功能？</title>
+      <link>https://www.reddit.com/r/software/comments/1fn3t42/what_features_would_developers_like_to_see_in_an/</link>
+      <description><![CDATA[嗨， 我正把构建 AI 软件测试平台当作一种爱好。我只是好奇想知道开发人员认为他们真正希望在这样的平台上看到的最好或最有用的功能是什么。 对于这个问题，请假设用于该平台的 AI 模型是 AGI（通用人工智能），它能够进行人类领域专家级别的推理而不会产生幻觉。 提前谢谢！    提交人    /u/master-killerrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fn3t42/what_features_would_developers_like_to_see_in_an/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:12:31 GMT</pubDate>
+    </item>
     <item>
       <title>我需要在一台（非常非常旧的）Chromebook 上将大约 600 个 .WAV 转换为 .MP3</title>
       <link>https://www.reddit.com/r/software/comments/1fn2ry5/i_need_to_convert_about_600_wavs_to_mp3s_on_a/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>拉链炸弹有长期损害吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fn11sh/zip_bombs_longterm_damage/</link>
-      <description><![CDATA[打开 zip 炸弹会对您的设备造成长期损害吗？设备崩溃并重启后，您可以直接删除文件吗？    提交人    /u/ManuuGHG   [link] [comments]]]></description>
+      <description><![CDATA[打开 zip 炸弹会对您的设备造成长期损害吗？设备崩溃并重新启动后，您可以删除该文件吗？    提交人    /u/ManuuGHG   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fn11sh/zip_bombs_longterm_damage/</guid>
       <pubDate>Sun, 22 Sep 2024 19:13:28 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我是否应该删除便携式应用程序文件夹以将其卸载？    提交人    /u/ajay09999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fmc85v/how_do_we_uninstall_a_portable_application_on/</guid>
       <pubDate>Sat, 21 Sep 2024 20:33:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用 Honeyview 的继任者 Bandiview 吗？（可能会崩溃）</title>
-      <link>https://www.reddit.com/r/software/comments/1fmbaok/anyone_use_honeyviews_successor_bandiview_maybe/</link>
-      <description><![CDATA[Honeyview 是我尝试过的最好的图像查看器，我更喜欢新 Bandiview 的几个功能，例如“平滑和锐化”滑块，以及能够完全删除“这是第一张图像”/“这是最后一张图像”消息。 但是，自从我安装了它之后，即使我根本没有使用 Bandiview，Windows 文件资源管理器也会随机崩溃。从其他故障排除线程中，我看到有人建议添加右键单击上下文菜单项的软件（如 Bandiview）可能会导致此问题，所以我暂时将其关闭。 还有人使用它并遇到这个问题吗？（Windows 10）    提交人    /u/Moon-Reacher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fmbaok/anyone_use_honeyviews_successor_bandiview_maybe/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论管理软件可以显示每种产品有多少条评论。</title>
-      <link>https://www.reddit.com/r/software/comments/1fmala3/review_management_software_that_can_showcase_how/</link>
-      <description><![CDATA[我公司目前正在寻找方法来获取更多产品评论。我们已经实施了一些程序来开始获取更多评论，例如电子邮件活动，但现在我们遇到了另一个问题。我们需要某种软件来跟踪我们销售的每个产品在每个网站上的评论数量。我已经找到了一些软件，可以显示某个实体店在 Yelp 等评论网站上的评论数量，但我需要一种软件来收集我们在每个零售商上销售的每种产品的数据。例如，如果我们销售小、中、大块糖果。我需要一种软件，它可以告诉我每个产品在每个网站上的评论数量，并能够以仪表板等有组织的方式显示它。有人知道这样的软件吗？    提交人    /u/Zllato   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fmala3/review_management_software_that_can_showcase_how/</guid>
-      <pubDate>Sat, 21 Sep 2024 19:16:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
