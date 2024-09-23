@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 09:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:01:56 GMT</lastBuildDate>
     <item>
       <title>是什么让首席人工智能官（CAIO）成为大型企业的必备资产？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fnfx6h/what_makes_a_chief_ai_officer_caio_a_must_have/</link>
@@ -111,18 +111,18 @@
       <pubDate>Sun, 22 Sep 2024 21:20:45 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能在填写求职申请时使用外交答案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fn3rae/ai_uses_diplomatic_answers_while_filling_job/</link>
-      <description><![CDATA[我一直在构建这个系统，通过查看简历中的详细信息，使用人工智能自动申请/填写工作申请。  以下是其运行的幕后视图 https://ibb.co/rb2GmqS 最让我困惑的是它如何巧妙地协商与“预期薪资”相关的问题。它不会报出预期薪资数字，而是给出类似以下内容的薪资信息 - &quot;根据市场标准或公司该职位的薪资范围进行协商。&quot; 这不是我们最初提示的内容，但很多薪资谈判指南都推荐这样做。 顺便说一句，该平台名为 JobGPT。我正在专门的 subreddit 中公开构建它（目前它还比较新）。随着它变得更加强大，将不断发布更新。 干杯！    提交人    /u/captainjackrana   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fn3rae/ai_uses_diplomatic_answers_while_filling_job/</guid>
-      <pubDate>Sun, 22 Sep 2024 21:10:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta 推出供用户设计自定义 AI 角色的工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmudv1/meta_unveils_tool_for_users_to_design_custom_ai/</link>
       <description><![CDATA[Meta Platforms 发布了 AI Studio，这是一款让用户制作和分享个性化 AI 聊天机器人的工具。它使用最新的 Luma 3.1 模型。https://theaiwired.com/meta-unveils-tool-for-users-to-design-custom-ai-characters/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmudv1/meta_unveils_tool_for_users_to_design_custom_ai/</guid>
       <pubDate>Sun, 22 Sep 2024 14:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何好的人工智能新闻频道/内容创作者吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmmfy4/any_good_ai_news_channelscontent_creators/</link>
+      <description><![CDATA[我想关注一些 AI 新闻来源，但我发现所有频道都是过度炒作，在没有真正新内容时过度发布，或者添加大量无用内容来延长视频时长。你们有什么推荐的来源吗？    提交人    /u/000Lotus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmmfy4/any_good_ai_news_channelscontent_creators/</guid>
+      <pubDate>Sun, 22 Sep 2024 05:59:22 GMT</pubDate>
     </item>
     <item>
       <title>我编写了一个 Python 脚本，使用 AI 来组织文件，100% 在你的设备上运行</title>
