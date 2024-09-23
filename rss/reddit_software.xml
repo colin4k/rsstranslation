@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:02:03 GMT</lastBuildDate>
+    <item>
+      <title>低端笔记本电脑的媒体播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1fnuyih/media_player_for_low_end_laptop/</link>
+      <description><![CDATA[我有一台非常旧的笔记本电脑，我想用它来播放电影。顺便说一下，它仍然装有 Windows 10。标准的 Windows Media Player 有时会卡顿并重复相同的音频部分，我不确定是否可以用其他程序修复它，但我想试一试。 TLDR：哪款媒体播放器在一台运行 Windows 10 的非常旧的笔记本电脑上表现最佳？    提交人    /u/Ratouttalab   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fnuyih/media_player_for_low_end_laptop/</guid>
+      <pubDate>Mon, 23 Sep 2024 20:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用鼠标滚轮在虚拟桌面之间滚动</title>
+      <link>https://www.reddit.com/r/software/comments/1fnui2v/scroll_with_mouse_wheel_between_virtual_desktops/</link>
+      <description><![CDATA[最近我尝试了 GNOME 扩展，发现有一个扩展可以更轻松地使用鼠标滚轮滚动虚拟桌面，我想在我的 Windows 游戏桌面上做同样的事情。我很惊讶没有现成的解决方案，但是，在简单安装了 python 并按照简单的命令后，我让该功能正常工作。所以我在这里分享它，以防其他人想尝试一下。 https://github.com/sean-nicholas/scroll-windows-v-desktops  我修改了 config.json 以将屏幕左侧的整个任务栏作为鼠标滚轮滚动检测的目标区域。  { &quot;xMin&quot;: 0, &quot;xMax&quot;: 60, &quot;yMin&quot;: 0, &quot;yMax&quot;: 1079, &quot;printPosition&quot;: true}     提交人    /u/StreetWarship3586   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fnui2v/scroll_with_mouse_wheel_between_virtual_desktops/</guid>
+      <pubDate>Mon, 23 Sep 2024 20:27:12 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个有点像 Notion/Miro/OneNote 的创意软件网站</title>
       <link>https://www.reddit.com/r/software/comments/1fnp2ol/looking_for_a_creative_piece_of_software_website/</link>
@@ -57,14 +71,14 @@
     <item>
       <title>有免费的适用于 Mac 的 CBZ 到 PDF 转换器吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fnfqkq/free_cbz_to_pdf_converter_for_mac/</link>
-      <description><![CDATA[我有几百个 cbz 文件需要转换，但我发现的所有应用程序都是基于订阅的，并且所有网站都有限制。 对于无法进行批量转换，我没有任何问题（这个项目已经耗费大量时间，更何况是这么多），但大多数网站都有每天 10 个文件的限制或类似的限制。 那么有人有解决方案吗？    提交人    /u/HumbleInternet7026   [链接] [评论]]]></description>
+      <description><![CDATA[我有几百个 cbz 文件需要转换，但我发现的所有应用程序都是基于订阅的，并且所有网站都有限制。 对于无法进行批量转换，我没有任何问题（这个项目已经耗费大量时间，更何况还有更多），但大多数网站都有每天 10 个文件的限制或类似的限制。 那么有人有解决方案吗？    提交人    /u/HumbleInternet7026   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fnfqkq/free_cbz_to_pdf_converter_for_mac/</guid>
       <pubDate>Mon, 23 Sep 2024 08:38:38 GMT</pubDate>
     </item>
     <item>
       <title>寻求建议 - 适用于简单的 GoPro 项目的最佳轻量级视频编辑软件？</title>
       <link>https://www.reddit.com/r/software/comments/1fnfjyv/seeking_advice_best_lightweight_video_editing/</link>
-      <description><![CDATA[您好，我做了一些业余视频编辑项目，想查看一下这个子版块是否有更好或更轻量的软件程序供我使用。 目前，我所做的唯一编辑是家庭视频项目，其中包含我在 GoPro 上以 1080p / 60fps 拍摄的度假镜头。 对于这些项目，我只是修剪和拼接剪辑，然后在其上添加 mp3 音乐曲目。我没有使用镜头中的原始声音。它们基本上是很长的（通常为 10-20 分钟）旅行音乐视频。 多年来，我一直在笔记本电脑上使用免费版 DaVinci Resolve，它对我来说已经足够好了，但可能有点太强大了，我的笔记本电脑有时无法运行它（除非我使用优化媒体，否则镜头会很不连贯）。 我想知道是否有更轻量级甚至基于移动设备的东西可以使用（我曾经听人提到 CapCut 在播客上出奇的好用）。 我唯一的其他要求是我需要拼接到特定的几分之一秒，我想要输出到 1080p（我通常通过 USB 在电视上与妻子或家人一起在外部硬盘上观看视频），并且能够保存或有一些基本的保护措施以防止在进行过程中丢失我的项目（有时我会将项目拖出几周或几个月）。 我应该提到我有一个 GoPro Quik 应用程序云订阅。这是我觉得我应该放弃的事情之一，因为考虑到我有一个 Google One 付费帐户，这有点多余，但我喜欢在假期快速上传并将数据储存在另一个云源上。我从来没有真正从中提取视频进行编辑或使用 GoPro 编辑工具，但也许我可以更好地利用这项服务。 非常感谢任何建议或意见。提前感谢任何帮助。    提交人    /u/-SpaghettiCat-   [link] [评论]]]></description>
+      <description><![CDATA[您好，我做了一些业余视频编辑项目，想查看一下这个子版块是否有更好或更轻量的软件程序供我使用。 目前，我所做的唯一编辑是家庭视频项目，其中包含我在 GoPro 上以 1080p / 60fps 拍摄的度假镜头。 对于这些项目，我只是修剪和拼接剪辑，然后在其上添加 mp3 音乐曲目。我没有使用镜头中的原始声音。它们基本上是很长的（通常为 10-20 分钟）旅行音乐视频。 多年来，我一直在笔记本电脑上使用免费版 DaVinci Resolve，它对我来说已经足够好了，但可能有点太强大了，我的笔记本电脑有时运行起来很困难（除非我使用优化媒体，否则镜头会很不连贯）。 我想知道是否有更轻量级甚至基于移动设备的软件可以使用（我曾经听人提到 CapCut 在播客上出奇的好用）。 我唯一的其他要求是，我需要拼接到特定的几分之一秒，我想要输出到 1080p（我通常通过 USB 在电视上与妻子或家人一起在外部硬盘上观看视频），并且能够在进行过程中保存或采取一些基本保护措施以免丢失项目（有时我会将项目拖延数周或数月）。 我应该提到我有一个 GoPro Quik 应用程序云订阅。这是我觉得我应该放弃的事情之一，因为考虑到我有一个 Google One 付费帐户，这有点多余，但我喜欢在假期快速上传并将数据储存在另一个云源上。我从来没有真正从中提取视频进行编辑或使用 GoPro 编辑工具，但也许我可以更好地利用这项服务。 非常感谢任何建议或意见。提前感谢任何帮助。    提交人    /u/-SpaghettiCat-   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fnfjyv/seeking_advice_best_lightweight_video_editing/</guid>
       <pubDate>Mon, 23 Sep 2024 08:23:51 GMT</pubDate>
     </item>
@@ -120,30 +134,16 @@
     <item>
       <title>我需要 DVD 造型器的帮助</title>
       <link>https://www.reddit.com/r/software/comments/1fnajht/i_need_help_with_dvd_styler/</link>
-      <description><![CDATA[大家好， 我朋友的 18 岁生日快到了，我想用我们在高中时拍的电影给他制作带菜单的 DVD。我尝试了所有关于如何在菜单前播放 DVD 介绍视频的教程，但似乎都无法正常工作。 有人能帮我在第一个菜单弹出之前播放视频吗？    提交人    /u/Only_Ad_163   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我朋友的 18 岁生日快到了，我想用我们在高中时拍的电影为他制作带菜单的 DVD。我尝试了所有关于如何在菜单前播放 DVD 介绍视频的教程，但似乎都无法正常工作。 有人能帮我在第一个菜单弹出之前播放视频吗？    提交人    /u/Only_Ad_163   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fnajht/i_need_help_with_dvd_styler/</guid>
       <pubDate>Mon, 23 Sep 2024 02:45:07 GMT</pubDate>
     </item>
     <item>
       <title>预订软件</title>
       <link>https://www.reddit.com/r/software/comments/1fn9ow6/reservation_software/</link>
-      <description><![CDATA[寻找一个预订软件，可以： - 为新成员开放提前预订 - 仅允许人们每月进行一定次数的预订 - 在注册期间询问特定问题 - 仅开放 x 数量的预订，但不是一次全部开放。 例如总共 200 个。 周一开放 100 个位置，周五开放 100 个位置     提交人    /u/Francescaevergreen   [link] [评论]]]></description>
+      <description><![CDATA[寻找一款预订软件，可以： - 为新会员开放提前预订 - 仅允许人们每月进行一定次数的预订 - 在注册期间询问特定问题 - 仅开放 x 数量的预订，但不是一次全部开放。 例如总共 200 个。 周一开放 100 个位置，周五开放 100 个位置     提交人    /u/Francescaevergreen   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fn9ow6/reservation_software/</guid>
       <pubDate>Mon, 23 Sep 2024 01:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[请求] 与 ShareX 类似，但具有修剪/编辑 GIF 的功能</title>
-      <link>https://www.reddit.com/r/software/comments/1fn9hha/request_similar_to_sharex_but_with_ability_to/</link>
-      <description><![CDATA[ShareX 似乎没有 gif 的修剪功能。我希望有可以执行以下操作的功能：  录制屏幕上裁剪区域的 gif gif 编辑/修剪  谢谢！    提交人    /u/alertamnesiac   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fn9hha/request_similar_to_sharex_but_with_ability_to/</guid>
-      <pubDate>Mon, 23 Sep 2024 01:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合编写多平台应用程序的优秀语言/框架？</title>
-      <link>https://www.reddit.com/r/software/comments/1fn8nbp/good_languageframework_for_writing_multiplatform/</link>
-      <description><![CDATA[我原本是一个拥有 8-9 年经验的 C++ 开发人员。工作时，我使用 C++ 和 QT 框架编写应用程序。 问题是，这是一个我想自己制作的应用程序，QT 许可证花费很多 + C++ 不一定适合我的需求，因为使用起来很麻烦。 什么是制作多平台应用程序的良好框架和语言。我想制作一个简单的应用程序来跟踪任务进度，我可以在 andriod / IOS 应用商店和台式电脑上销售这些应用程序。    提交人    /u/paranoid_throwaway51   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fn8nbp/good_languageframework_for_writing_multiplatform/</guid>
-      <pubDate>Mon, 23 Sep 2024 01:04:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

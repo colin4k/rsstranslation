@@ -4,7 +4,15 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:02:42 GMT</lastBuildDate>
+    <item>
+      <title>烤我的登陆页面</title>
+      <link>https://feed.indiehackers.world/post/78900fd4e0</link>
+      <description><![CDATA[我们正在使用此页面进行潜在客户开发活动，我想在开始活动之前听听您的想法
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/78900fd4e0</guid>
+      <pubDate>Sun, 22 Sep 2024 18:11:21 GMT</pubDate>
+    </item>
     <item>
       <title>借助 SEO，6 个月内流量增长 450%</title>
       <link>https://feed.indiehackers.world/post/79fd075dfe</link>
@@ -113,7 +121,7 @@ Discord Indiehackers Chat广告这里]]></description>
 
 
 所以，这就是我久经考验的模板，它指导我进行了 200 多次访谈 -&gt; 模板
-Discord Indiehackers 聊天广告此处]]></description>
+Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/28233a5456</guid>
       <pubDate>Thu, 19 Sep 2024 05:47:19 GMT</pubDate>
     </item>
@@ -159,11 +167,11 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Wed, 18 Sep 2024 13:06:28 GMT</pubDate>
     </item>
     <item>
-      <title>为早期创业公司寻找正确的增长战略</title>
+      <title>为早期创业公司找到正确的增长战略</title>
       <link>https://feed.indiehackers.world/post/623fe23eec</link>
       <description><![CDATA[嗨，
 我是 Cem，负责 Adsby 的增长。之前，我负责管理一款出租车应用的增长，该应用有数十万人活跃在使用。
-现在，我在 SaaS 领域面临着一个新的挑战，这与我之前使用移动应用的经验截然不同。
+现在，我在 SaaS 领域面临着一个新的挑战，这与我之前使用移动应用的经历截然不同。
 目前，我们正在尝试不同的渠道和策略来推动我们的增长。我们还研究其他成功的初创公司，以借鉴他们的策略。
 我们现在最大的困境是：我们应该同时测试多个渠道，还是一次专注于一个渠道并对其进行全面优化？
 我很想听听你对这个困境的建议或经验。您对这种方法有何看法？
@@ -233,22 +241,6 @@ MicroSaaS 正在彻底改变软件行业。全球各地的企业家都在利用�
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/685c176713</guid>
       <pubDate>Mon, 16 Sep 2024 12:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从电子表格到 FinancialAha：我打造更好的财务规划工具的历程</title>
-      <link>https://feed.indiehackers.world/post/efed449292</link>
-      <description><![CDATA[它能做的事情如下：
-
-跟踪您的所有资产和债务：在一个地方管理从现金到股票再到房地产的一切。
-现金流洞察：了解您的收入和消费习惯，以便更好地规划。
-财务预测：使用您的数据进行切合实际的预测，并规划未来的开支或投资。
-隐私和安全：您的数据保留在您的浏览器中，并进行端到端加密。它绝不会以未加密的形式存储在我们的服务器上。
-
-请随意尝试一下，并告诉我您的想法：https://www.financialaha.com。
-技术堆栈：Hugo 部署在 Netlify 上，VueJS 部署在 Firebase 上。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/efed449292</guid>
-      <pubDate>Mon, 16 Sep 2024 11:28:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
