@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Sep 2024 00:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 03:06:09 GMT</lastBuildDate>
+    <item>
+      <title>PDF Writer /w 嵌入功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fo0952/pdf_writer_w_embed_feature/</link>
+      <description><![CDATA[我目前用于技术图纸的 PDF 打印机需要 70 美元的订阅费才能嵌入所有字体。尝试寻找一些开源编写器来替换它。欢迎提出任何建议！     由   提交  /u/MOSTLYNICE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fo0952/pdf_writer_w_embed_feature/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统工程师希望做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fnzxn8/systems_engineer_looking_to_contribute/</link>
+      <description><![CDATA[我是一名系统工程师，主要从事雷达和惯性导航工作。我发现我喜欢编写代码并观察事物的运作。我创建了一些博客并部署了它们，您可以在我的 GitHub 这里 上看到它们。我学到了很多东西，我为它们感到自豪。  我想在我的职业生涯中转向软件开发，并认为为项目做贡献是学习更多知识的好地方。最好使用我已经知道如何使用的东西，例如 Python 或 JavaScript。  我对教育、外语学习和棒球感兴趣。我更喜欢后端的东西。我找了很多地方寻找开源项目，我仍在寻找，只是有点不知所措。我想投一条线不会有什么坏处。   由    /u/slickfred  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fnzxn8/systems_engineer_looking_to_contribute/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>FastIndex，为营销人员提供开源和免费的搜索引擎索引</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fnzrxw/fastindex_opensource_free_search_engine_indexing/</link>
+      <description><![CDATA[嘿伙计们，希望你们一切顺利！ 几天前，我在这里分享了我一直在构建的一款产品，自托管但也要付费。 这带来了各种各样的评论，我非常感谢他们。 其中一条评论让我印象深刻：  买不起昂贵工具的人 - 买不起或不自行部署和管理 买得起昂贵工具的人可能不想使用功能较少的工具  @maddhruv 这条评论实际上改变了我对自托管软件的看法，甚至引起了我的共鸣。我不会为自托管某些东西付费。 我正在构建一些我不会付费的东西。这对我打击很大。 在与自己讨论正确的解决方法之后，为了实现提供价值和分享知识的愿望，我决定完全开源我的软件。 所以，我在这里，与你们分享我的故事，一个 Redditor 如何改变了我，以及我如何迭代我的软件以完全删除任何与付款相关的内容并免费提供给你一切。 事不宜迟，让我来介绍一下：FastIndex 通过利用 Indexing API 和队列管理，此工具可让你在 Google Search Console 上更快地为你的站点编制索引。 你可能会问“为什么我不直接使用他们的网络界面？”这绝对是一个很好的问题，但事实是 GSC 可能需要数周/数月才能完全抓取和索引您的网站，甚至可能无法正确完成。 使用搜索 API，您可以直接推送您的页面并要求 GSC 对其进行索引。 FastIndex 将监控您的网站、站点地图和页面以不断执行此操作。 市面上有许多付费替代方案，这些替代方案可能非常昂贵，并且会在很多方面限制您的速度：管理的网站、索引的每日页面、团队等。 FastIndex 完全没有限制。您可以根据需要插入任意数量的 Google 服务帐户，无限制地管理您的网站和页面，加入您的团队并轻松运行您的索引工具。 我想遵循 Coolify.io 的步骤，并最终为那些不想管理服务器、更新和备份的人引入云版本。 感谢 Reddit 和 r/selfhosted 提供的空间，我很乐意收到您的反馈。 演示视频：https://cap.so/s/jk1jyh1de6ktvqs Github 存储库：https://github.com/maurocasas/fastindex    由   提交  /u/Multabot_AR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fnzrxw/fastindex_opensource_free_search_engine_indexing/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:27:20 GMT</pubDate>
+    </item>
     <item>
       <title>为需要使用个人 API 密钥的项目做贡献：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnvaiy/contributing_to_a_project_requiring_personal_api/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>想法：TBO（待开放）许可方案......</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</link>
-      <description><![CDATA[我已经重复这个想法很长时间了，但从未真正与任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
+      <description><![CDATA[我已经重复这个想法一段时间了，但从来没有真正和任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</guid>
       <pubDate>Mon, 23 Sep 2024 19:11:32 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>go-proxy v0.5 - 智能反向代理（idlewatcher 更新）：空闲时停止 Docker 容器，流量唤醒</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnpa6i/goproxy_v05_smart_reverse_proxy_idlewatcher/</link>
-      <description><![CDATA[Github: https://github.com/yusing/go-proxy  几乎不需要配置 证书注册管理 与 Docker 集成，自动配置 支持多个 docker 节点 在容器状态或配置文件更改时自动热重载 在空闲时停止容器，在有流量时唤醒容器，节省系统资源 HTTP(s) 预留代理，TCP 和 UDP 端口转发  如第 1 点所述，您只需启动它就可以开始使用了。每次启动新的 docker 服务时，容器名称都会是子域名。 这个工具对大多数自托管者来说足够简单、功能强大，除非你的服务依赖于 Authentik 之类的中间件或负载平衡。 idlesleeper 展示检查 github    提交人    /u/yusing1009   [链接] [评论]]]></description>
+      <description><![CDATA[Github: https://github.com/yusing/go-proxy  几乎不需要配置 证书注册管理 与 Docker 集成，自动配置 支持多个 docker 节点 在容器状态或配置文件更改时自动热重载 在空闲时停止容器，在有流量时唤醒容器，节省系统资源 HTTP(s) 预留代理，TCP 和 UDP 端口转发  如第 1 点所述，您只需启动它就可以了。每次启动新的 docker 服务时，容器名称都会是子域名。 这个工具对大多数自托管者来说足够简单、功能强大，除非你的服务依赖于 Authentik 之类的中间件或负载平衡。 idlesleeper 展示检查 github    提交人    /u/yusing1009   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnpa6i/goproxy_v05_smart_reverse_proxy_idlewatcher/</guid>
       <pubDate>Mon, 23 Sep 2024 16:53:27 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[EditorToIX 是 VSCode、CursorAI 和 Phoenix Code 的开源扩展。 它也可以作为 Linux Xed、Pluma 编辑器的插件集合使用。 https://www.devtoix.com/en/projects/editortoix 每个代码编辑器的工具列表：  提取文本 | VSCode、CursorAI、Phoenix Code 标头到书签 | VSCode、CursorAI、Phoenix Code 混合器 | VSCode、CursorAI、Phoenix Code 注册 | VSCode、CursorAI、Phoenix Code 替换配方 | VSCode、CursorAI 反向分配 | VSCode、CursorAI、Phoenix Code 更改大小写 | 代码编辑器 在大写字母前添加空格 | VSCode、CursorAI、Phoenix Code 驼峰式命名法 | VSCode、CursorAI、Phoenix Code 大写 | VSCode、CursorAI、Phoenix Code 循环命名法 | VSCode、CursorAI、Xed、Pluma、Phoenix Code 破折号命名法 | VSCode、CursorAI、Phoenix Code 破折号转下划线 | VSCode，CursorAI，Phoenix Code 小写 | Phoenix Code 下划线转破折号 | VSCode，CursorAI，Phoenix Code 大写 | Phoenix Code Html 解码 | Phoenix Code Html 编码 | Phoenix Code Url 解码 | VSCode，CursorAI，Phoenix Code Url 编码 | VSCode，CursorAI，Phoenix Code 双斜杠转单斜杠 | VSCode，CursorAI，Phoenix Code 单斜杠转双斜杠 | VSCode，CursorAI，Phoenix Code Unix 转 Win 斜杠 | VSCode，CursorAI，Phoenix Code Win To Unix Slash | VSCode，CursorAI，Phoenix Code 分行 | VSCode，CursorAI，Phoenix Code 缩进一个空格 | VSCode，CursorAI，Xed，Pluma，Phoenix Code 连接行 | VSCode，CursorAI，Phoenix Code 减少缩进一个空格 | VSCode，CursorAI，Xed，Pluma，Phoenix Code 删除重复的行 | VSCode，CursorAI，Xed，Pluma，Phoenix Code 删除空行 | VSCode、CursorAI、Xed、Pluma、Phoenix 代码 按数字升序排序 | VSCode、CursorAI、Xed、Pluma、Phoenix 代码 按数字降序排序 | VSCode、CursorAI、Xed、Pluma、Phoenix 代码 分割行 | VSCode、CursorAI、Phoenix 代码 修剪尾随 | Xed、Pluma、Phoenix 代码 插入 ISO 日期 | VSCode、CursorAI、Phoenix 代码 插入 ISO 时间日期 | VSCode、CursorAI、Phoenix 代码 插入 UUID | VSCode、CursorAI、Phoenix 代码 在末尾插入文本 | VSCode、CursorAI、Phoenix Code 在开头插入文本 | VSCode、CursorAI、Phoenix Code 双引号转单引号 | Phoenix Code 单引号转双引号 | Phoenix Code 切换引号 | Phoenix Code Tab 键转空格 | Phoenix Code 空格键转 Tab 键 | Phoenix Code     提交人    /u/abentofreire   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fn2tkx/editortoix_is_an_opensource_extension_available/</guid>
       <pubDate>Sun, 22 Sep 2024 20:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>召集所有 PostgreSQL 用户！2024 年 PostgreSQL 状态调查将开放至 9 月 30 日 - 请花点时间分享您的经验，无论您是刚开始使用它还是已经使用了几十年！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fn02tg/calling_all_postgresql_users_the_2024_state_of/</link>
-      <description><![CDATA[  由    /u/xenophenes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fn02tg/calling_all_postgresql_users_the_2024_state_of/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:31:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些初创公司正在采用“公平来源”来避免开源许可的陷阱 | TechCrunch</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</link>
-      <description><![CDATA[        由    /u/LinearArray   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fmxlio/some_startups_are_going_fair_source_to_avoid_the/</guid>
-      <pubDate>Sun, 22 Sep 2024 16:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我和玩《原神》的朋友开发了一款免费的开源桌面应用程序，允许玩家管理他们的自定义装备——欢迎反馈！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fmxclf/my_friends_and_i_playing_genshin_impact_developed/</link>
-      <description><![CDATA[你好 r/opensource！ 今天我想介绍一个免费的开源桌面应用程序，它允许旅行者管理可玩角色的自定义文物和武器装备，并方便旅行者根据他们的装备使用对游戏玩法如何运作的语义理解来计算相关统计数据。旅行者可以创建由角色、文物和武器组成的定制装备，并与其他旅行者分享。支持的文件格式包括人类可读的 Yet Another Markup Language (YAML) 序列化格式和基于 JSON 的 Genshin Open Object Definition (GOOD) 序列化格式。 自 Genshin Impact v4.0 发布以来，Genshin Impact 一直在推出生活质量更新。然而，我们目前还没有的一个功能是能够随时切换一组文物，而不必逐个切换。这让我想用记事本把事情记下来，确保我能够返回从原始角色那里获得的文物，这说实话很不方便。通过此项目，我们希望确保旅行者能够切换装备并从外部了解统计数据，而不会干扰现有的游戏内构建，只需扫描游戏内屏幕截图即可。 屏幕截图  Dash - GNU/Linux 发行版上的 Nahida 结果 - GNU/Linux 发行版上的 Nahida Dash - Microsoft 上的 Venti Windows 结果 - Microsoft Windows 上的 Venti  资源  Genshin Impact 的装备 - GitHub Genshin Impact 的装备 - PyPI Genshin Impact v0.1.0 的装备  适用于 GNU/Linux 发行版的可执行文件 适用于 Microsoft Windows 的可执行文件   呼吁 该项目目前处于测试阶段，我们致力于通过每次发布来提供高质量的体验。如果您对该项目的发展方向感到兴奋并希望为此做出贡献，我们将非常感激您通过加注星标项目存储库来帮助我们提高项目知名度，通过报告遇到的错误来解决问题，通过提出预期的功能来选择方向，通过记录项目存储库来增强可用性，通过打开拉取请求来改进代码库，最后，通过支持开发成员来坚持我们的努力。 免责声明 本项目中使用的 Genshin Impact 资产的所有权利均归 miHoYo Ltd. 和 Cognosphere Pte., Ltd. 所有。 其他财产属于其各自所有者。    提交人    /u/t0xic0der   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fmxclf/my_friends_and_i_playing_genshin_impact_developed/</guid>
-      <pubDate>Sun, 22 Sep 2024 16:31:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
