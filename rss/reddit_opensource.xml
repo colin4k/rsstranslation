@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Sep 2024 12:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:01:57 GMT</lastBuildDate>
+    <item>
+      <title>Winamp 媒体播放器源代码正式发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fodpgq/winamp_mediaplayer_source_code_is_officially/</link>
+      <description><![CDATA[        提交人    /u/MT4K   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fodpgq/winamp_mediaplayer_source_code_is_officially/</guid>
+      <pubDate>Tue, 24 Sep 2024 14:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以向我解释一下 wxWidgets 许可证吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</link>
+      <description><![CDATA[我不明白 wxWidgets 的 许可证 背后的意图  它是 LGPL，但有一个例外：“您可以根据自己的条款使用、复制、链接、修改和分发基于该库的作品的二进制目标代码版本”  对我来说，这似乎是一种毫无意义的复杂方式，却编写了本质上是宽松的许可证。  是我误解了，还是这里有一些特定的意图？    提交人    /u/CumCloggedArteries   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</guid>
+      <pubDate>Tue, 24 Sep 2024 13:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于创建下一代 AI 代理的实时多模式代理框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fob6cj/realtime_multimodal_agent_framework_for_creating/</link>
+      <description><![CDATA[       由    /u/hu-beau  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fob6cj/realtime_multimodal_agent_framework_for_creating/</guid>
+      <pubDate>Tue, 24 Sep 2024 12:24:05 GMT</pubDate>
+    </item>
     <item>
       <title>YogaDNS 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[      大家好！ 我一直在做一个有趣的小项目：使用 MS-DOS 在模式 13h 下渲染一个旋转的 3D 立方体。这是我正在进行的复古编码之旅的一部分，我一直在研究低级图形编程。对于那些不熟悉的人来说，模式 13h 是一种 256 色 VGA 模式，分辨率为 320x200。它经常用于早期游戏开发，因为它可以直接访问视频内存，这使其非常适合像素操作。 我目前正在实现基本的 3D 变换（旋转、投影等），目前我使用线框渲染保持简单。立方体旋转得很流畅，但正如预期的那样，由于这些老式的限制，优化性能是一个相当大的挑战！ 到目前为止，我所做的工作： - 使用矩阵乘法进行 3D 顶点变换 - 透视投影以模拟深度 - 在顶点之间绘制线条以创建立方体的边缘 - 双缓冲以减少闪烁 挑战： - 在模式 13h 下保持帧速率可能很困难，特别是因为 CPU 完成了大部分工作。 - 优化变换的数学运算 - 我一直在使用定点算法来加快速度。 - 接下来我可能会尝试实现基本的着色，但这仍然悬而未决。 后续步骤： - 平滑旋转以使动画更流畅 - 可能尝试使用填充多边形而不是线框 - 如果可能，探索硬件优化    提交人    /u/Background_Shift5408   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnjxk7/spinning_3d_cube_in_mode_13h/</guid>
       <pubDate>Mon, 23 Sep 2024 13:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于我的 Galaxy Tab S 的轻量级操作系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</link>
-      <description><![CDATA[嗨，我有一台旧的 Galaxy Tab S，屏幕很漂亮。现在它已经很旧了，而且速度很慢。我想继续用它在本地看电影（YouTube 和 Netflix 会是加分项，但不是必需的）和看漫画。我可以安装什么操作系统来让它使用起来不那么令人沮丧？它现在运行的是 Android 6.0.1。     提交人    /u/Akiroki   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</guid>
-      <pubDate>Mon, 23 Sep 2024 09:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道电子钱包的开源后端，比如 cashapp 或 paypal</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnetii/anyone_know_a_open_source_backend_for_ewallet/</link>
-      <description><![CDATA[有没有类似开源后端的东西？比如个人之间转账？我看到的那些总是与加密货币有关。只是想要一个处理用户交易的后端服务器（把钱转到另一个账户）。    提交人    /u/personplaygames   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnetii/anyone_know_a_open_source_backend_for_ewallet/</guid>
-      <pubDate>Mon, 23 Sep 2024 07:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为首次投稿者，hacktober fest 值得参加吗</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</link>
-      <description><![CDATA[就上下文而言，我具备 mern stack 方面的技能，我希望获得实际经验，这既有助于我获得技能，也有助于我在求职面试中增加自己的份量 我参加 hacktober 不是为了获得好处、奖励或衬衫什么的，而是为了我的专业利益， 我有两个疑问，首先，对于 mern stack（js stack）开发人员来说，参加它是否有好处，因为之前我参加过另一个开源程序，但我遇到的大多数质量问题要么来自不同的语言，如 python、java，要么来自 js，然后贡献者之间会发生竞争，而其他问题对于没有经验的开发人员来说很复杂 其次，我知道要完成 hacktober 挑战，我们需要在一个月内至少提出四个 PR，但如果我们的 PR 被排除在外，那么它将不会被考虑，而作为 js 开发人员，随着程序的进展，分配问题会变得越来越困难，因为大多数问题已经在短短开始的头几天    提交人    /u/KingOfSky1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</guid>
-      <pubDate>Sun, 22 Sep 2024 20:47:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

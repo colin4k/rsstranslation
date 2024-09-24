@@ -4,14 +4,14 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>来自 martinfowler.com 的主要新闻和更新信息</description>
-    <lastBuildDate>Wed, 18 Sep 2024 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:03:01 GMT</lastBuildDate>
     <item>
       <title>并行数据获取</title>
       <link>https://martinfowler.com/articles/data-fetch-spa.html#ImplementTheFriendsList</link>
       <description><![CDATA[Juntao Qiu 的数据获取系列文章中的第二个模式是关于如何避免可怕的请求瀑布。并行数据获取 并行查询多个源，因此整体获取的延迟是查询中最大的一个，而不是查询的总和。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/data-fetch-spa.html#ImplementTheFriendsList</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:23 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:03:01 GMT</pubDate>
     </item>
     <item>
       <title>单页应用程序中的数据获取模式</title>
@@ -19,23 +19,7 @@
       <description><![CDATA[Juntao Qiu 是一位深思熟虑的前端开发人员，熟悉 React 编程环境。他为本网站贡献了几篇有用的文章，描述了有用的前端编程模式。在本文中，他描述了单页应用程序如何获取数据的模式。第一部分描述了如何将异步查询包装在处理程序中以提供有关查询状态的信息。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/data-fetch-spa.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>照片流 131</title>
-      <link>https://martinfowler.com/photos/131.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://martinfowler.com/photos/131.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试生成的 HTML 的内容</title>
-      <link>https://martinfowler.com/articles/tdd-html-templates.html#Level2TestingHtmlStructure</link>
-      <description><![CDATA[
-Matteo Vaccari 继续测试模板生成的 HTML，描述该 HTML 内容的测试。他展示了如何使用 Go 和 Java 中的测试驱动开发逐步构建模板。 
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Level2TestingHtmlStructure</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:22 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:03:01 GMT</pubDate>
     </item>
     <item>
       <title>获取数据时使用标记进行回退</title>
@@ -48,7 +32,7 @@ Matteo Vaccari 继续测试模板生成的 HTML，描述该 HTML 内容的测试
 方法。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/data-fetch-spa.html#fallback-markup</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:22 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:03:00 GMT</pubDate>
     </item>
     <item>
       <title>测试 HTML 模板</title>
@@ -60,7 +44,24 @@ Matteo Vaccari 写了一篇关于如何使用 TDD
 在第一部分中，Matteo 描述了此类测试如何检查生成的 HTML 的有效性，并使用 Java 和 Go 中的示例。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/tdd-html-templates.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:22 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我如何使用和呈现脚注的简短说明</title>
+      <link>https://martinfowler.com/articles/2024-footnote-rendering.html</link>
+      <description><![CDATA[上周，我为本网站添加了一个小功能，改变了它呈现脚注的方式。这促使我写下这篇关于我如何使用脚注以及脚注如何影响呈现脚注的最佳方式的简短说明。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/2024-footnote-rendering.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试生成的 HTML 的内容</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#Level2TestingHtmlStructure</link>
+      <description><![CDATA[
+Matteo Vaccari 继续测试模板生成的 HTML，描述该 HTML 内容的测试。他展示了如何使用 Go 和 Java 中的测试驱动开发逐步构建模板。 
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Level2TestingHtmlStructure</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:59 GMT</pubDate>
     </item>
     <item>
       <title>参数化 HTML 模板测试</title>
@@ -70,7 +71,7 @@ Matteo Vaccari 写了一篇关于如何使用 TDD
 更容易编写，更重要的是，理解和修改起来更快。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:21 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:58 GMT</pubDate>
     </item>
     <item>
       <title>单页应用程序中的预取</title>
@@ -78,7 +79,7 @@ Matteo Vaccari 写了一篇关于如何使用 TDD
       <description><![CDATA[Juntao Qiu 完成了单页应用程序的数据获取模式集。预获取 涉及在应用程序流程中调用数据之前获取数据。虽然这可能意味着不必要地获取数据，但如果需要数据，它可以减少延迟。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:21 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:58 GMT</pubDate>
     </item>
     <item>
       <title>单页应用程序中的代码分割</title>
@@ -88,32 +89,7 @@ Matteo Vaccari 写了一篇关于如何使用 TDD
 描述了如何拆分这些代码，以便仅在需要时才加载模块，以及这样做的危险。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/data-fetch-spa.html#IntroducingUserdetailcardComponent</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于我如何使用和呈现脚注的简短说明</title>
-      <link>https://martinfowler.com/articles/2024-footnote-rendering.html</link>
-      <description><![CDATA[上周，我为本网站添加了一个小功能，改变了它呈现脚注的方式。这促使我写下这篇关于我如何使用脚注以及脚注如何影响呈现脚注的最佳方式的简短说明。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/2024-footnote-rendering.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要限制人工智能和算法，而要让它们可解释</title>
-      <link>https://martinfowler.com/articles/2024-restrict-algorithm.html</link>
-      <description><![CDATA[关于使用法规来限制人工智能和其他软件算法的使用有很多讨论。我认为更好的法规是确保软件做出的决策必须是可解释的。 
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/2024-restrict-algorithm.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在生成的 HTML 中测试服务器调用</title>
-      <link>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</link>
-      <description><![CDATA[
-Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研究如何在调用服务器的页面中使用 TDD。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:20 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:58 GMT</pubDate>
     </item>
     <item>
       <title>测试生成的 HTML 的行为</title>
@@ -124,15 +100,39 @@ Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研�
 来测试 HTML 模板的行为。这很好，但是如果我们想测试 HTML 本身的行为，以及它可能使用的任何 CSS 和 JavaScript，该怎么办？
 更多…]]></description>
       <guid>https://martinfowler.com/articles/tdd-html-templates.html#Level3TestingHtmlBehaviour</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:20 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新 PoEAA 目录页面</title>
+      <link>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</link>
+      <description><![CDATA[我会不时查看我的网站分析，看看这个网站的各个部分获得了多少流量。在这样做的时候，我发现我继续为企业应用程序架构模式目录带来大量流量。我在写完这本书后不久就整理了这个目录，而且内容相当少。由于它仍然有流量，我觉得是时候进行一些修饰了。内容是一样的，即书中模式的摘要。我更改了主目录页面以包含模式意图。我还在oreilly.com上添加了这本书的深层链接，因此如果您订阅了该网站，它将直接跳转到该文本。希望这些更改能让目录页面更有用一些。]]></description>
+      <guid>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要限制人工智能和算法，而要让它们可解释</title>
+      <link>https://martinfowler.com/articles/2024-restrict-algorithm.html</link>
+      <description><![CDATA[关于使用法规来限制人工智能和其他软件算法的使用有很多讨论。我认为更好的法规是确保软件做出的决策必须是可解释的。 
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/2024-restrict-algorithm.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在生成的 HTML 中测试服务器调用</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</link>
+      <description><![CDATA[
+Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研究如何在调用服务器的页面中使用 TDD。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:56 GMT</pubDate>
     </item>
     <item>
       <title>重写 Strangler Fig</title>
       <link>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</link>
-      <description><![CDATA[二十年前，我发帖说我发现绞杀榕植物是逐步取代遗留系统的有趣比喻。从那以后，我再也没有提到过这个比喻，但与此同时，它却有了自己的生命。其他人越来越多地提到绞杀榕现代化方法，该帖子的流量稳步增加：目前每月页面浏览量约为 5000 次，是本网站最受欢迎的页面之一。所以我决定需要更新该页面，并重写了它，重点关注我们需要做的核心活动，以使这样的冒险取得成功。
+      <description><![CDATA[二十年前，我发帖说我发现绞杀榕植物是逐步取代遗留系统的有趣比喻。从那以后，我再也没有提到过这个比喻，但与此同时，它却有了自己的生命。其他人越来越多地提到绞杀榕现代化方法，该帖子的流量稳步增加：目前每月页面浏览量约为 5000 次，是本网站最受欢迎的页面之一。所以我决定我需要更新该页面，并重写了它，重点关注我们需要做的核心活动，以使这样的冒险取得成功。
 （这总结了 Ian Cartwright、Rob Horn 和 James Lewis 的更详细的文字。）]]></description>
       <guid>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:19 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:55 GMT</pubDate>
     </item>
     <item>
       <title>在人工智能的帮助下加入“遗留”代码库</title>
@@ -141,14 +141,23 @@ Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研�
 Birgitta Böckeler 通过从开源医院管理系统中挑选一个问题并探索人工智能如何帮助她处理这个问题，展示了这里的可能性。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:19 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>刷新 PoEAA 目录页面</title>
-      <link>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</link>
-      <description><![CDATA[我会不时查看我的网站分析，看看这个网站的各个部分获得了多少流量。在这样做的时候，我发现我继续为企业应用程序架构模式目录带来大量流量。我在写完这本书后不久就整理了这个目录，而且内容相当少。由于它仍然有流量，我觉得是时候进行一些修饰了。内容是一样的，即书中模式的摘要。我更改了主目录页面以包含模式意图。我还在oreilly.com上添加了指向本书的深层链接，因此如果您订阅了该网站，它将直接跳转到该文本。希望这些更改能让目录页面更有用一些。]]></description>
-      <guid>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:19 GMT</pubDate>
+      <title>使用适应度函数管理数据产品</title>
+      <link>https://martinfowler.com/articles/fitness-functions-data-products.html</link>
+      <description><![CDATA[
+去中心化数据管理需要自动化才能有效扩展治理。适应度函数是一种强大的自动化治理技术，我的同事已将其应用于数据网格环境中的数据产品。由于数据产品是数据战略的基础构建块，因此确保围绕它们的强大治理可以大大增加成功的机会。 Kiran Prakash 解释了如何做到这一点，从对关键架构特征进行简单测试开始，然后利用元数据和大型语言模型。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/fitness-functions-data-products.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bliki：周期时间</title>
+      <link>https://martinfowler.com/bliki/CycleTime.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://martinfowler.com/bliki/CycleTime.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:54 GMT</pubDate>
     </item>
     <item>
       <title>使用 GenAI 从遗留系统中提取低级细节和高级解释</title>
@@ -159,7 +168,7 @@ Shodhan Sheth 使用 AST 驱动的
 知识图谱和 LLM 来了解遗留系统。他们发现它既可以帮助他们提取代码的低级细节，又可以提供高级解释来支持以人为本的方法，例如事件风暴。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:18 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:53 GMT</pubDate>
     </item>
     <item>
       <title>遗留系统现代化与 GenAI 相遇</title>
@@ -173,23 +182,19 @@ Sheth 一直在考虑 GenAI 如何做到这一点，
 
 更多…]]></description>
       <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:18 GMT</pubDate>
+      <pubDate>Tue, 24 Sep 2024 15:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>使用适应度函数管理数据产品</title>
-      <link>https://martinfowler.com/articles/fitness-functions-data-products.html</link>
+      <title>使用 GenAI 构建能力图并转换遗留系统</title>
+      <link>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</link>
       <description><![CDATA[
-去中心化数据管理需要自动化才能有效扩展治理。适应度函数是一种强大的自动化治理技术，我的同事已将其应用于数据网格环境中的数据产品。由于数据产品是数据战略的基础构建块，因此确保围绕它们的强大治理可以大大增加成功的机会。 Kiran Prakash 解释了如何做到这一点，从对关键架构特征进行简单测试开始，然后利用元数据和大型语言模型。
+Alessio Ferri、Tom Coggrave 和
+Shodhan Sheth 完成了他们的文章，介绍了他们从使用 GenAI 处理遗留系统
+中学到的东西。他们描述了 GenAI 处理非结构化信息的能力如何使构建遗留系统的功能图变得更加容易，将系统的功能与源代码的相关部分联系起来。 GenAI 还可用于
+识别死代码区域，并有望更好地在平台和语言之间翻译系统。
 更多…]]></description>
-      <guid>https://martinfowler.com/articles/fitness-functions-data-products.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bliki：周期时间</title>
-      <link>https://martinfowler.com/bliki/CycleTime.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://martinfowler.com/bliki/CycleTime.html</guid>
-      <pubDate>Wed, 18 Sep 2024 15:04:18 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</guid>
+      <pubDate>Tue, 24 Sep 2024 15:02:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
