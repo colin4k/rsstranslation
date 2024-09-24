@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 18:02:30 GMT</lastBuildDate>
     <item>
-      <title>Winamp 媒体播放器源代码正式发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fodpgq/winamp_mediaplayer_source_code_is_officially/</link>
-      <description><![CDATA[        提交人    /u/MT4K   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fodpgq/winamp_mediaplayer_source_code_is_officially/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:22:31 GMT</pubDate>
+      <title>让开源首席开发人员/维护人员更容易吸纳新的贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1foisut/making_it_easier_for_open_source_lead_devs/</link>
+      <description><![CDATA[大家好！ 我们正在开发一款能够深入了解您的代码库的助手。它允许您与您的代码库聊天，并为您的存储库的任何部分创建专门的助手 - 只需选择相关的文件或文件夹，助手就会随时为您提供帮助 我们的产品可扩展到数百万行代码存储库 - 并且正在寻找一些初始设计合作伙伴。我们正在寻找开源存储库的首席开发人员/维护者，他们认为自己花太多时间回答琐碎的问题并让人们加入他们的代码库。如果您有这个问题，很乐意联系并进行更多讨论。 另请注意，这篇文章并非集思广益 - 我们有一个可扩展的工作产品，将在下周左右准备就绪，我们的目标是让开源领导者更容易帮助贡献者，而无需花费一半的时间来回答基本查询。该产品现在也可以免费使用。请放心，我们不会浪费您的时间 :) 我们正在寻找 3-4 个出色的组织来尝试一下！很乐意在此线程中讨论更多内容/回答有关您的用例的任何问题。谢谢！    提交人    /u/SnooCauliflowers94   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1foisut/making_it_easier_for_open_source_lead_devs/</guid>
+      <pubDate>Tue, 24 Sep 2024 17:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FileWizardAI：一个开源项目，使用 AI 组织你的文件，并使用提示进行搜索</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fof21c/filewizardai_an_open_source_project_that/</link>
+      <description><![CDATA[大家好，我想分享一个我一直在做的项目，叫做 FileWizardAI，它是一个用于管理文件的 Python/Angular 工具，它会自动将您的文件组织成一个结构良好的目录层次结构，并根据其内容重命名它们，从而更轻松地组织您的工作区并快速定位文件。 该应用程序可以使用 Ollama 100% 本地启动，也可以使用您选择的远程 API 启动 该项目使用 Llama-index 访问本地文件，并与多个 API 兼容 该应用程序每次都会缓存已处理的文件，以优化性能并减少对 AI API 的调用。 该应用程序已经在 Linux 和 Windows 上测试过（有人可以在 Mac 上测试它吗？） 这是 GitHub 存储库；如果您想添加其他功能或有错误需要修复，请告诉我。也非常欢迎拉取请求： https://github.com/AIxHunter/FileWizardAI 可以在项目 GitHub README 中找到有关如何安装和使用该应用程序的教程视频。    提交人    /u/East_Professional_39   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fof21c/filewizardai_an_open_source_project_that/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:19:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orbit：用于构建径向用户界面的通用 CSS 框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1foeq5s/orbit_a_generalpurpose_css_framework_designed_for/</link>
+      <description><![CDATA[        提交人    /u/tinchox5   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1foeq5s/orbit_a_generalpurpose_css_framework_designed_for/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:05:37 GMT</pubDate>
     </item>
     <item>
       <title>有人可以向我解释一下 wxWidgets 许可证吗？</title>
@@ -71,7 +85,7 @@
     <item>
       <title>想法：TBO（待开放）许可方案......</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</link>
-      <description><![CDATA[我已经重复这个想法很长时间了，但从未真正与任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
+      <description><![CDATA[我已经重复这个想法一段时间了，但从来没有真正和任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</guid>
       <pubDate>Mon, 23 Sep 2024 19:11:32 GMT</pubDate>
     </item>
@@ -111,7 +125,7 @@
       <pubDate>Mon, 23 Sep 2024 15:50:04 GMT</pubDate>
     </item>
     <item>
-      <title>ElevenLabs 配音人工智能替代品</title>
+      <title>ElevenLabs 配音人工智能替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnnc0u/elevenlabs_dubbing_ai_alternative/</link>
       <description><![CDATA[我需要一个可以自行托管的免费工具，它可以获取音频，识别语音和强调，然后将其转换为另一种语言并保留强调和克隆的声音（或者如果最后一件事不可能，至少我需要导入自定义语音模型的可能性）。 ElevenLabs 可以做到这一点，但是它很昂贵，我需要免费的东西。谢谢。    提交人    /u/TraditionalItalian27   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnnc0u/elevenlabs_dubbing_ai_alternative/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我来介绍一下我的新库threadpipepy，这是一个使用官方Meta的Threads API的Threads API的开源Python库，它使入门变得非常容易，并且如果您的帖子长度超过最大字符长度，该库会自动创建链式帖子或类似线程的帖子，并且如果媒体文件超过限制，它还可以将其拆分为链式帖子，您可以上传Threads API不允许的本地文件，还可以轻松实现授权窗口，添加文件标题和限制帖子等。 它还附带一个CLI工具，可用于在访问令牌过期之前通过CLI获取和刷新访问令牌 Pypi上库的链接是 https://pypi.org/project/threadspipepy/ 如果您想贡献GitHub 存储库是 https://github.com/paulosabayomi/ThreadsPipe-py 该库对于想要构建自动帖子调度程序应用程序和（好的）线程机器人以及许多其他东西的人很有用    提交人    /u/paulos_ab   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnkf7y/threadspipepy_an_open_source_python_library_for/</guid>
       <pubDate>Mon, 23 Sep 2024 13:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 AI 工具的视频编辑器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnjxqi/video_editor_with_ai_tools/</link>
-      <description><![CDATA[您好，有人知道有开源视频编辑器吗？它带有 CapCut 等程序中的 AI 工具，并且使用本地机器运行？    提交人    /u/zfode   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnjxqi/video_editor_with_ai_tools/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>在模式 13h 中旋转 3D 立方体</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnjxk7/spinning_3d_cube_in_mode_13h/</link>
-      <description><![CDATA[      大家好！ 我一直在做一个有趣的小项目：使用 MS-DOS 在模式 13h 下渲染一个旋转的 3D 立方体。这是我正在进行的复古编码之旅的一部分，我一直在研究低级图形编程。对于那些不熟悉的人来说，模式 13h 是一种 256 色 VGA 模式，分辨率为 320x200。它经常用于早期游戏开发，因为它可以直接访问视频内存，这使其非常适合像素操作。 我目前正在实现基本的 3D 变换（旋转、投影等），目前我使用线框渲染保持简单。立方体旋转得很流畅，但正如预期的那样，由于这些老式的限制，优化性能是一个相当大的挑战！ 到目前为止，我所做的工作： - 使用矩阵乘法进行 3D 顶点变换 - 透视投影以模拟深度 - 在顶点之间绘制线条以创建立方体的边缘 - 双缓冲以减少闪烁 挑战： - 在模式 13h 下保持帧速率可能很困难，特别是因为 CPU 完成了大部分工作。 - 优化变换的数学运算 - 我一直在使用定点算法来加快速度。 - 接下来我可能会尝试实现基本的着色，但这仍然悬而未决。 后续步骤： - 平滑旋转以使动画更流畅 - 可能尝试使用填充多边形而不是线框 - 如果可能，探索硬件优化    提交人    /u/Background_Shift5408   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnjxk7/spinning_3d_cube_in_mode_13h/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:04:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
