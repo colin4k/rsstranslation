@@ -4,21 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Sep 2024 09:02:23 GMT</lastBuildDate>
-    <item>
-      <title>厌倦了 whatsapp 的限制，创建了一个应用程序将所有消息自动导出到 google 表格（开源）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fo5fid/got_tired_of_whatsapp_limitations_created_an_app/</link>
-      <description><![CDATA[        由    /u/Matthew_heartful 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fo5fid/got_tired_of_whatsapp_limitations_created_an_app/</guid>
-      <pubDate>Tue, 24 Sep 2024 05:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>RB2B 是真的吗？它是如何运作的？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fo4efl/is_rb2b_real_how_it_works/</link>
-      <description><![CDATA[有人知道 https://www.rb2b.com/ 的幕后工作原理吗？ 从他们的登陆页面：识别您的匿名网站访问者。实时将他们的 LinkedIn 个人资料推送到 Slack。 开源中有什么接近的吗？    提交人    /u/kingksingh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fo4efl/is_rb2b_real_how_it_works/</guid>
-      <pubDate>Tue, 24 Sep 2024 04:37:19 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Sep 2024 12:02:11 GMT</lastBuildDate>
     <item>
       <title>YogaDNS 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</link>
@@ -144,6 +130,20 @@
       <description><![CDATA[嗨，我有一台旧的 Galaxy Tab S，屏幕很漂亮。现在它已经很旧了，而且速度很慢。我想继续用它在本地看电影（YouTube 和 Netflix 会是加分项，但不是必需的）和看漫画。我可以安装什么操作系统来让它使用起来不那么令人沮丧？它现在运行的是 Android 6.0.1。     提交人    /u/Akiroki   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</guid>
       <pubDate>Mon, 23 Sep 2024 09:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道电子钱包的开源后端，比如 cashapp 或 paypal</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fnetii/anyone_know_a_open_source_backend_for_ewallet/</link>
+      <description><![CDATA[有没有类似开源后端的东西？比如个人之间转账？我看到的那些总是与加密货币有关。只是想要一个处理用户交易的后端服务器（把钱转到另一个账户）。    提交人    /u/personplaygames   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fnetii/anyone_know_a_open_source_backend_for_ewallet/</guid>
+      <pubDate>Mon, 23 Sep 2024 07:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为首次投稿者，hacktober fest 值得参加吗</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</link>
+      <description><![CDATA[就上下文而言，我具备 mern stack 方面的技能，我希望获得实际经验，这既有助于我获得技能，也有助于我在求职面试中增加自己的份量 我参加 hacktober 不是为了获得好处、奖励或衬衫什么的，而是为了我的专业利益， 我有两个疑问，首先，对于 mern stack（js stack）开发人员来说，参加它是否有好处，因为之前我参加过另一个开源程序，但我遇到的大多数质量问题要么来自不同的语言，如 python、java，要么来自 js，然后贡献者之间会发生竞争，而其他问题对于没有经验的开发人员来说很复杂 其次，我知道要完成 hacktober 挑战，我们需要在一个月内至少提出四个 PR，但如果我们的 PR 被排除在外，那么它将不会被考虑，而作为 js 开发人员，随着程序的进展，分配问题会变得越来越困难，因为大多数问题已经在短短开始的头几天    提交人    /u/KingOfSky1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fn38ut/is_hacktober_fest_worth_participating_as_first/</guid>
+      <pubDate>Sun, 22 Sep 2024 20:47:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
