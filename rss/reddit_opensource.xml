@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Sep 2024 18:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 21:02:08 GMT</lastBuildDate>
+    <item>
+      <title>要下载的项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fpe2cu/projects_to_torrent/</link>
+      <description><![CDATA[我的带宽比我所能使用的还要多。我知道像 ubuntu、debian 和 kali 这样的项目都提供种子供人们下载，我可以通过播种种子来帮助其他哪些项目？    提交人    /u/smilesnd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fpe2cu/projects_to_torrent/</guid>
+      <pubDate>Wed, 25 Sep 2024 20:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>我们的开源之旅：我们做对了什么（以及做错了什么）</title>
       <link>https://www.reddit.com/r/opensource/comments/1fpalup/our_opensource_journey_what_we_got_right_and_wrong/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/tinchox5   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1foeq5s/orbit_a_generalpurpose_css_framework_designed_for/</guid>
       <pubDate>Tue, 24 Sep 2024 15:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以向我解释一下 wxWidgets 许可证吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</link>
-      <description><![CDATA[我不明白 wxWidgets 的 许可证 背后的意图  它是 LGPL，但有一个例外：“您可以根据自己的条款使用、复制、链接、修改和分发基于该库的作品的二进制目标代码版本”  对我来说，这似乎是一种毫无意义的复杂方式，却编写了本质上是宽松的许可证。  是我误解了，还是这里有一些特定的意图？    提交人    /u/CumCloggedArteries   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:40:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
