@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 25 Sep 2024 06:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 09:02:02 GMT</lastBuildDate>
+    <item>
+      <title>避免 if-else 地狱：函数式风格</title>
+      <link>https://www.reddit.com/r/programming/comments/1fozl65/avoiding_ifelse_hell_the_functional_style/</link>
+      <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fozl65/avoiding_ifelse_hell_the_functional_style/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>LevelDB 解释 - 理解高级 C++ 技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1foyw29/leveldb_explained_understanding_advanced_c/</link>
+      <description><![CDATA[  由    /u/selfboot007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1foyw29/leveldb_explained_understanding_advanced_c/</guid>
+      <pubDate>Wed, 25 Sep 2024 07:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 AWS 和 Azure 之间选择云迁移时需要考虑哪些关键因素？</title>
+      <link>https://www.reddit.com/r/programming/comments/1foy9gn/what_are_the_key_factors_to_consider_when/</link>
+      <description><![CDATA[  由    /u/Overall_Toe_7657  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1foy9gn/what_are_the_key_factors_to_consider_when/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你不每天重构，那你就犯了一个错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1foy1b9/if_youre_not_refactoring_every_day_youre_making_a/</link>
+      <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1foy1b9/if_youre_not_refactoring_every_day_youre_making_a/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>将旧版软件迁移到 Laravel 的最佳实践。面向处理旧代码库的开发人员的结构化 10 步指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1foxrbb/best_practices_for_migrating_legacy_software_to/</link>
+      <description><![CDATA[  由    /u/Stock_Love_4336  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1foxrbb/best_practices_for_migrating_legacy_software_to/</guid>
+      <pubDate>Wed, 25 Sep 2024 06:13:09 GMT</pubDate>
+    </item>
     <item>
       <title>条件与关系：在 ABAC 和 ReBAC 之间进行选择</title>
       <link>https://www.reddit.com/r/programming/comments/1foxcsl/conditions_vs_relationships_choosing_between_abac/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/Fluffy-4477  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1foh04t/connor_w_gui_and_cli_support_fast_and_fully_local/</guid>
       <pubDate>Tue, 24 Sep 2024 16:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 编译器中的寄存器分配</title>
-      <link>https://www.reddit.com/r/programming/comments/1foejr3/register_allocation_in_the_go_compiler/</link>
-      <description><![CDATA[  由    /u/compilersarefun  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1foejr3/register_allocation_in_the_go_compiler/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>微程序设计：一种新的编程方式</title>
-      <link>https://www.reddit.com/r/programming/comments/1foeaef/microprogramming_a_new_way_to_program/</link>
-      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1foeaef/microprogramming_a_new_way_to_program/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:47:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tinymind：与 GitHub 同步文章和备忘录，将其转换为你的博客主页</title>
-      <link>https://www.reddit.com/r/programming/comments/1foe2o3/tinymind_sync_articles_and_memos_with_github/</link>
-      <description><![CDATA[  由    /u/RingoCatKeeper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1foe2o3/tinymind_sync_articles_and_memos_with_github/</guid>
-      <pubDate>Tue, 24 Sep 2024 14:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dieter Rams 的 10 条优秀设计原则如何塑造 REST API 设计</title>
-      <link>https://www.reddit.com/r/programming/comments/1focwxy/how_dieter_rams_10_principles_of_good_design_can/</link>
-      <description><![CDATA[  由    /u/memo_mar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1focwxy/how_dieter_rams_10_principles_of_good_design_can/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称，2023 年 98% 的公司经历了机器学习项目失败</title>
-      <link>https://www.reddit.com/r/programming/comments/1focf6c/98_of_companies_experienced_ml_project_failures/</link>
-      <description><![CDATA[  由    /u/wrymaras  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1focf6c/98_of_companies_experienced_ml_project_failures/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:25:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

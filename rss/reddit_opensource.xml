@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Sep 2024 06:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 09:02:08 GMT</lastBuildDate>
+    <item>
+      <title>[ 开源 ] Mindful : Focus + Screen Time 现已在 Play Store 上线</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fozuyu/open_source_mindful_focus_screen_time_is_now/</link>
+      <description><![CDATA[  由    /u/Due-Assistant-8341  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fozuyu/open_source_mindful_focus_screen_time_is_now/</guid>
+      <pubDate>Wed, 25 Sep 2024 08:54:48 GMT</pubDate>
+    </item>
     <item>
       <title>除了 Internxt 之外还有其他完全开源（＆E2E）云存储提供商吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fov3au/fully_open_source_e2e_cloud_storage_provider/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/lPyro   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnrdmk/github_coffeeoclock_a_clock_that_lets_you/</guid>
       <pubDate>Mon, 23 Sep 2024 18:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>go-proxy v0.5 - 智能反向代理（idlewatcher 更新）：空闲时停止 Docker 容器，流量唤醒</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnpa6i/goproxy_v05_smart_reverse_proxy_idlewatcher/</link>
-      <description><![CDATA[Github: https://github.com/yusing/go-proxy  几乎不需要配置 证书注册管理 与 Docker 集成，自动配置 支持多个 docker 节点 在容器状态或配置文件更改时自动热重载 在空闲时停止容器，在有流量时唤醒容器，节省系统资源 HTTP(s) 预留代理，TCP 和 UDP 端口转发  如第 1 点所述，您只需启动它就可以开始使用了。每次启动新的 docker 服务时，容器名称都会是子域名。 这个工具对大多数自托管者来说足够简单、功能强大，除非你的服务依赖于 Authentik 之类的中间件或负载平衡。 idlesleeper 展示检查 github    提交人    /u/yusing1009   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnpa6i/goproxy_v05_smart_reverse_proxy_idlewatcher/</guid>
-      <pubDate>Mon, 23 Sep 2024 16:53:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
