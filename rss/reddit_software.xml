@@ -4,11 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 12:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 15:01:56 GMT</lastBuildDate>
+    <item>
+      <title>Socks5 代理和浏览器</title>
+      <link>https://www.reddit.com/r/software/comments/1fp592o/socks5_proxys_and_browsers/</link>
+      <description><![CDATA[我需要对代理进行解释并确保它们正常工作。当我打开浏览器输入代理时，它会要求输入用户：密码，但我的代理提供商只给我访问 ip 和公共 ip。然后提供商询问我希望代理分配什么 ip。我如何获取用户密码或在哪里可以研究？    提交人    /u/Ill-Abbreviations430   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fp592o/socks5_proxys_and_browsers/</guid>
+      <pubDate>Wed, 25 Sep 2024 14:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Ubuntu/Debian/Gnome 的透明便签</title>
+      <link>https://www.reddit.com/r/software/comments/1fp444w/sticky_notes_with_transparency_for/</link>
+      <description><![CDATA[需要一个应用程序/扩展，允许我拥有一个浮动的笔记，如小部件，可以始终保持在顶部，而不需要可见的带有纯文本的容器，这样我就可以在后台滚动文档，并让我的笔记对我可见，而不会妨碍文档阅读体验。 谢谢    提交人    /u/DeepanshPandey   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fp444w/sticky_notes_with_transparency_for/</guid>
+      <pubDate>Wed, 25 Sep 2024 13:12:26 GMT</pubDate>
+    </item>
     <item>
       <title>GOM Player Plus 硬件加速和 4K 视频</title>
       <link>https://www.reddit.com/r/software/comments/1fp2d9t/gom_player_plus_hardware_acceleration_4k_videos/</link>
-      <description><![CDATA[嗨，我现在正在使用 GOM Player Plus 2.3.83 和最新的 Cole 2K 编解码器。我以前使用过 VLC 和 MPC-HC，但目前不想切换到这些播放器。如果能提供一些有关 GOM 使用的帮助，我将不胜感激。 在 GOM 上，我在 4K 播放时遇到问题；通常是音频与视频不同步。我认为问题出在 GOM 的硬件加速功能上。默认情况下，我的功能已启用。我将其关闭后，4K 视频问题就消失了。 在硬件加速向导下，GOM 说我的 GPU 无法使用。旁边有一个灰色十字。但是 GOM 确实正确检测/识别了它：它是 Radeon RX590 SE。我的 AMD 驱动程序是最新的。唯一的绿色勾号出现在“OS”下。 虽然关闭加速是一种解决方法，但我对此并不太满意 - 我确实同意我的 GPU 已经过时（大约 2018-2019 年），但我不相信它太糟糕以至于根本不能用于 GOM。我可以将此 GPU 用于 Photoshop 2024 和 Vegas Pro 21，但不能用于 GOM。 我想问其他 GOM 用户的另一个问题是：我的视频输出应该设置为 EVR 模式（默认情况下为该模式）还是 VMR9 模式之一？我之所以问这个问题，是因为这里的荒谬常见问题页面建议您在出现卡顿或滞后的情况下从 EVR 切换到 VMR9，但同时 GOM 的加速向导告诉我硬件加速只能在 EVR 中启用：- https://www.gomlab.com/en/faq-info?id=1181&amp;page=1&amp;keyword= 那么我应该将视频输出设置为 EVR 还是 VMR9，并且我的硬加速应该是打开还是关闭？ 提前谢谢。 ps。我正在使用 Win11，CPU 是 B550-i 上的 R5，运行在 64Gb 的 Viper 3600 mt/s 上    提交人    /u/DeaconFrost76   [link] [comments]]]></description>
+      <description><![CDATA[嗨，我现在正在使用 GOM Player Plus 2.3.83 和最新的 Cole 2K 编解码器。我以前使用过 VLC 和 MPC-HC，但目前不想切换到这些播放器。如果能提供一些有关 GOM 使用的帮助，我将不胜感激。 在 GOM 上，我在 4K 播放时遇到问题；通常是音频与视频不同步。我认为问题出在 GOM 的硬件加速功能上。默认情况下，我的功能已启用。我将其关闭后，4K 视频问题就消失了。 在硬件加速向导下，GOM 说我的 GPU 无法使用。旁边有一个灰色十字。但是 GOM 确实正确检测/识别了它：它是 Radeon RX590 SE。我的 AMD 驱动程序是最新的。唯一的绿色勾号出现在“OS”下。 虽然关闭加速是一种解决方法，但我对此并不太满意 - 我确实同意我的 GPU 已经过时（大约 2018-2019 年），但我不相信它太糟糕以至于根本不能用于 GOM。我可以将此 GPU 用于 Photoshop 2024 和 Vegas Pro 21，但不能用于 GOM。 我想问其他 GOM 用户的另一个问题是：我的视频输出应该设置为 EVR 模式（默认情况下为该模式）还是 VMR9 模式之一？我之所以问这个问题，是因为这里的荒谬常见问题页面建议您在出现卡顿或滞后的情况下从 EVR 切换到 VMR9，但同时 GOM 的加速向导告诉我硬件加速只能在 EVR 中启用：- https://www.gomlab.com/en/faq-info?id=1181&amp;page=1&amp;keyword= 那么我应该将视频输出设置为 EVR 还是 VMR9，我的硬件加速应该是打开还是关闭？ 提前谢谢。 ps。我正在使用 Win11，CPU 是 B550-i 上的 R5，运行在 64Gb 的 Viper 3600 mt/s 上    提交人    /u/DeaconFrost76   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fp2d9t/gom_player_plus_hardware_acceleration_4k_videos/</guid>
       <pubDate>Wed, 25 Sep 2024 11:44:07 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>480p DVD 情景喜剧的最佳升级器是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1fogw10/best_upscaler_for_480p_dvd_sitcoms/</link>
-      <description><![CDATA[嗨！我想升级一些 DVD 情景喜剧！我不想做任何疯狂的事情，比如修复面部，只想清除硬线。 谢谢！    由   提交  /u/ReveriePass   [link] [评论]]]></description>
+      <description><![CDATA[嗨！我想升级一些 DVD 情景喜剧！我不想做任何疯狂的事情，比如恢复面部，只想清除硬线。 谢谢！    由   提交  /u/ReveriePass   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fogw10/best_upscaler_for_480p_dvd_sitcoms/</guid>
       <pubDate>Tue, 24 Sep 2024 16:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有某些特定功能的大纲生成器（参见说明）</title>
-      <link>https://www.reddit.com/r/software/comments/1fog8qi/looking_for_an_outline_builder_with_some_specific/</link>
-      <description><![CDATA[我教授在线课程，在课程中我可能会教授许多潜在主题。这些主题会根据客户的需求而变化。我正在寻找一个可以帮助我快速构建自定义大纲的程序。我想要的是能够输入我可能教授的所有主题，然后标记/分类它们。然后，根据客户的调查，我可以进入并选择所有所需的标签，程序会将这些标签中的主题拉入我的大纲。有人知道这样的产品吗？    提交人    /u/demonovation   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fog8qi/looking_for_an_outline_builder_with_some_specific/</guid>
-      <pubDate>Tue, 24 Sep 2024 16:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星人工智能文本识别，但适用于桌面</title>
-      <link>https://www.reddit.com/r/software/comments/1fofijv/samsung_ai_text_recognition_but_for_desktop/</link>
-      <description><![CDATA[您好，我想知道是否有适用于 Windows 桌面的应用程序。我有很多图像，需要快速复制部分文本，但我必须手动完成。现在在我的手机上，我只需按住 ai 按钮，就可以从任何图像中复制文本。Windows 有类似的东西吗？    提交人    /u/peendo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fofijv/samsung_ai_text_recognition_but_for_desktop/</guid>
-      <pubDate>Tue, 24 Sep 2024 15:38:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
