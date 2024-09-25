@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 09:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>GOM Player Plus 硬件加速和 4K 视频</title>
+      <link>https://www.reddit.com/r/software/comments/1fp2d9t/gom_player_plus_hardware_acceleration_4k_videos/</link>
+      <description><![CDATA[嗨，我现在正在使用 GOM Player Plus 2.3.83 和最新的 Cole 2K 编解码器。我以前使用过 VLC 和 MPC-HC，但目前不想切换到这些播放器。如果能提供一些有关 GOM 使用的帮助，我将不胜感激。 在 GOM 上，我在 4K 播放时遇到问题；通常是音频与视频不同步。我认为问题出在 GOM 的硬件加速功能上。默认情况下，我的功能已启用。我将其关闭后，4K 视频问题就消失了。 在硬件加速向导下，GOM 说我的 GPU 无法使用。旁边有一个灰色十字。但是 GOM 确实正确检测/识别了它：它是 Radeon RX590 SE。我的 AMD 驱动程序是最新的。唯一的绿色勾号出现在“OS”下。 虽然关闭加速是一种解决方法，但我对此并不太满意 - 我确实同意我的 GPU 已经过时（大约 2018-2019 年），但我不相信它太糟糕以至于根本不能用于 GOM。我可以将此 GPU 用于 Photoshop 2024 和 Vegas Pro 21，但不能用于 GOM。 我想问其他 GOM 用户的另一个问题是：我的视频输出应该设置为 EVR 模式（默认情况下为该模式）还是 VMR9 模式之一？我之所以问这个问题，是因为这里的荒谬常见问题页面建议您在出现卡顿或滞后的情况下从 EVR 切换到 VMR9，但同时 GOM 的加速向导告诉我硬件加速只能在 EVR 中启用：- https://www.gomlab.com/en/faq-info?id=1181&amp;page=1&amp;keyword= 那么我应该将视频输出设置为 EVR 还是 VMR9，并且我的硬加速应该是打开还是关闭？ 提前谢谢。 ps。我正在使用 Win11，CPU 是 B550-i 上的 R5，运行在 64Gb 的 Viper 3600 mt/s 上    提交人    /u/DeaconFrost76   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fp2d9t/gom_player_plus_hardware_acceleration_4k_videos/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:44:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺伊达的网络安全测试服务</title>
+      <link>https://www.reddit.com/r/software/comments/1fp1tfo/cyber_security_testing_services_in_noida/</link>
+      <description><![CDATA[  由    /u/SeaProgrammer846  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fp1tfo/cyber_security_testing_services_in_noida/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:10:17 GMT</pubDate>
+    </item>
     <item>
       <title>我不知道如何在政府论坛的小框里输入内容。</title>
       <link>https://www.reddit.com/r/software/comments/1foz3mk/i_am_at_a_loss_on_how_to_type_into_tiny_boxes/</link>
@@ -113,7 +127,7 @@
     <item>
       <title>480p DVD 情景喜剧的最佳升级器是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1fogw10/best_upscaler_for_480p_dvd_sitcoms/</link>
-      <description><![CDATA[嗨！我想升级一些 DVD 情景喜剧！我不想做任何疯狂的事情，比如恢复面部，只想清除硬线。 谢谢！    由   提交  /u/ReveriePass   [link] [评论]]]></description>
+      <description><![CDATA[嗨！我想升级一些 DVD 情景喜剧！我不想做任何疯狂的事情，比如修复面部，只想清除硬线。 谢谢！    由   提交  /u/ReveriePass   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fogw10/best_upscaler_for_480p_dvd_sitcoms/</guid>
       <pubDate>Tue, 24 Sep 2024 16:36:32 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[您好，我想知道是否有适用于 Windows 桌面的应用程序。我有很多图像，需要快速复制部分文本，但我必须手动完成。现在在我的手机上，我只需按住 ai 按钮，就可以从任何图像中复制文本。Windows 有类似的东西吗？    提交人    /u/peendo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fofijv/samsung_ai_text_recognition_but_for_desktop/</guid>
       <pubDate>Tue, 24 Sep 2024 15:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个特殊字符表应用程序，可通过类似于 KDE 剪贴板历史记录的键绑定快速访问</title>
-      <link>https://www.reddit.com/r/software/comments/1fockt6/a_special_characters_table_app_with_quick_access/</link>
-      <description><![CDATA[我在笔记本电脑上使用 KDE，它有一个漂亮的小剪贴板历史记录，只需按下按键即可访问。激活后，您的历史记录会显示在类似滚动菜单的内容中，您可以选择要复制的最近字符串之一。 我想我会喜欢这样的东西，但对于特殊字符来说。KDE 有一个字符表 KCharSelect，但它是一个非常简单的 Qt 应用程序，带有标准窗口。它不太适合打字。 对于经常使用特殊字符或表情符号的人来说，这是一种常见需求。Linux 上有什么东西可以满足这种需求吗？    提交人    /u/MemeTroubadour   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fockt6/a_special_characters_table_app_with_quick_access/</guid>
-      <pubDate>Tue, 24 Sep 2024 13:32:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司如何选择是更新过时的应用程序还是从头开始构建新的应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1fo9jbg/how_can_companies_choose_between_updating_an/</link>
-      <description><![CDATA[在决定是通过应用程序现代化来更新旧应用程序还是从头开始构建新应用程序时，需要考虑几个重要因素。  企业必须首先评估其当前应用程序的状态。如果旧程序严重过时、存在性能问题、技术堆栈过时或需要昂贵的维护，那么构建可以利用云计算和微服务等尖端技术的新应用程序可能会更有利。这可能会带来更好的可扩展性、性能和用户体验。 另一方面，如果当前应用程序仍然满足基本业务需求并具有有用的功能，公司可能会考虑更新当前应用程序。这可能需要迁移到基于云的基础设施、集成新技术或更改用户界面。现代化通常是一种更经济的策略，使企业能够在增强功能的同时保持当前投资。    提交人    /u/aakashparikh1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fo9jbg/how_can_companies_choose_between_updating_an/</guid>
-      <pubDate>Tue, 24 Sep 2024 10:50:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
