@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 26 Sep 2024 09:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:02:40 GMT</lastBuildDate>
+    <item>
+      <title>“.desktop”文件中的翻译有版权吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fpt6aq/is_the_translation_in_desktop_file_copyright/</link>
+      <description><![CDATA[我可以在其他开源项目中使用它吗？我想要翻译“新窗口”。    提交人    /u/XLioncc   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fpt6aq/is_the_translation_in_desktop_file_copyright/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:42:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>AItrika：轻松从医学文献中提取相关信息</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fprtfx/aitrika_easily_extract_relevant_information_from/</link>
+      <description><![CDATA[AItrika AItrika 是一种可让您轻松从 PubMed 或本地 PDF 上的医学文献中提取信息的工具。  这个项目源于我自己的需求以及我在撰写论文时遇到的问题，因为查找与医学文献相关的信息可能非常繁琐，因为您必须经过各种门户、身份验证等。  AItrika 的目的是尝试简化这些信息的提取。  欢迎随时做出贡献，欢迎任何建议！    提交人    /u/SupertrampDFenx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fprtfx/aitrika_easily_extract_relevant_information_from/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:04:09 GMT</pubDate>
+    </item>
     <item>
       <title>汇合就像克隆吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fprrrf/confluence_like_clone/</link>
@@ -32,20 +46,6 @@
       <description><![CDATA[  由    /u/vicenormalcrafts  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fpogxy/my_cofounders_and_i_put_together_a_free_10_week/</guid>
       <pubDate>Thu, 26 Sep 2024 04:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winamp Classic 现在是开源的。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fpo7vq/winamp_classic_is_now_opensource/</link>
-      <description><![CDATA[90 年代最受欢迎的媒体播放器现已开源。Nullsoft 的 Winamp 旧版本现已在 GitHub 上提供 https://github.com/WinampDesktop/winamp    由   提交  /u/MrShortCircuitMan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fpo7vq/winamp_classic_is_now_opensource/</guid>
-      <pubDate>Thu, 26 Sep 2024 04:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>增强你的开源贡献的工具——Devv AI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fplgas/tool_to_supercharge_your_open_source_contribution/</link>
-      <description><![CDATA[我很高兴与大家分享我们创建的一种新的 AI 开发工具，该工具旨在提供比现有工具更好的编码体验，特别是对于开源贡献：Devv AI 我们提供以下服务：  最新信息：Devv AI 可以浏览 Stack Overflow 来回答您的问题，因此不再像使用其他 ai 工具那样获得过时的库。 项目上下文：它可以连接到公共 GitHub 存储库，从而为其提供更多上下文来了解您的项目。这对于开源工作超级方便！ 多个 LLM 选项：我们精心挑选了最佳的 LLM 编码模型，您可以在其中进行选择。 VSCode 集成：我们有一个 VSCode 扩展，可提供无缝编码协助。 个性化 AI 配置文件：您可以自定义 AI 配置文件，以帮助 LLM 更好地了解您的特定项目。 提供免费版本：我们提供您可以无限制使用的免费版本。  我们仍在改进 Devv.AI，我们知道开发工具领域竞争激烈。这就是为什么我们很乐意听到您的反馈！ 这里有人在使用 AI 编码助手时遇到过信息过时或缺乏项目背景的问题吗？您认为像 Devv AI 这样的工具如何改善您的开源贡献？ 尝试一下，让我们知道您的想法。我们渴望听到我们如何才能为开源社区做得更好！    提交人    /u/Round_Imagination_77   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fplgas/tool_to_supercharge_your_open_source_contribution/</guid>
-      <pubDate>Thu, 26 Sep 2024 02:01:42 GMT</pubDate>
     </item>
     <item>
       <title>脸部滤镜</title>

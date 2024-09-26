@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 26 Sep 2024 09:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:02:32 GMT</lastBuildDate>
+    <item>
+      <title>重新架构：从 Redis 到 SQLite</title>
+      <link>https://www.reddit.com/r/programming/comments/1fpueta/rearchitecting_redis_to_sqlite/</link>
+      <description><![CDATA[  由    /u/parski841  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fpueta/rearchitecting_redis_to_sqlite/</guid>
+      <pubDate>Thu, 26 Sep 2024 11:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>9 个 React 测试最佳实践，助您更好地设计和提高测试质量</title>
+      <link>https://www.reddit.com/r/programming/comments/1fpsg17/9_react_testing_best_practices_for_better_design/</link>
+      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fpsg17/9_react_testing_best_practices_for_better_design/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要推荐一些学习 C 语言的书籍</title>
+      <link>https://www.reddit.com/r/programming/comments/1fps9gv/need_suggestion_for_book_for_learning_c/</link>
+      <description><![CDATA[我对编码非常陌生，对此一无所知，有人建议对于像我这样的人来说，最好的起点是 C 语言。在搜索来源后，有人推荐了一篇关于 C 语言基础知识的文章，这篇文章在声明变量、从用户那里获取输入并执行算术运算的部分之前非常有用，之后的说明真的不清楚。有人可以推荐我一本可以学习 C 语言的书吗，用词比较简单。    提交人    /u/Due_Balance7757   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fps9gv/need_suggestion_for_book_for_learning_c/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 快速提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1fps69c/quick_tips/</link>
+      <description><![CDATA[开设了我的新频道进行编程，因为我了解到只需滚动浏览就可以学到一些新东西。 期待添加详细的视频。 请让我知道你对如何改进它的想法。 谢谢支持！！！    提交人    /u/TikalMaya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fps69c/quick_tips/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 本机线程、平台线程和虚拟线程的比较研究</title>
+      <link>https://www.reddit.com/r/programming/comments/1fps3da/comparative_study_of_java_native_platform_and/</link>
+      <description><![CDATA[  由    /u/ram-foss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fps3da/comparative_study_of_java_native_platform_and/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:26:12 GMT</pubDate>
+    </item>
     <item>
       <title>JavaScript之父联合近万名开发者集体攻击Oracle…</title>
       <link>https://www.reddit.com/r/programming/comments/1fpqxzh/the_father_of_javascript_joins_forces_with_nearly/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/intelw1zard  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fp63y6/godot_for_app_development/</guid>
       <pubDate>Wed, 25 Sep 2024 14:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>PyQt TodoMVC 跨操作系统桌面应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1fp513h/a_pyqt_todomvc_crossos_desktop_app/</link>
-      <description><![CDATA[来自项目的自述文件：  本着 TodoMVC 的精神，我使用 PyQt (Python + Qt) 创建了一个跨操作系统的桌面待办事项应用程序。我使用 fman 构建系统 (又名 fbs) 将 Python 运行时和 Qt 库二进制文件打包成适用于三大操作系统的独立可执行文件和安装程序。 但为什么呢？ 只为好玩，不为赚钱。当我学习 C++ 时，我起初推迟了学习 GUI 库。但我对 Qt GUI 库很感兴趣，并且一直想学习它。它允许您编写一次桌面 GUI，这些 GUI 对于各种操作系统来说看起来都是原生的。后来，在我用 Python 做了一个业余项目后，我偶然发现了 PyQt，这是一个用 Python 公开 Qt C++ 库的项目，我决定深入研究它。     提交人    /u/MoTTs_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fp513h/a_pyqt_todomvc_crossos_desktop_app/</guid>
-      <pubDate>Wed, 25 Sep 2024 13:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码方面的法学硕士课程实际上应该是什么样的</title>
-      <link>https://www.reddit.com/r/programming/comments/1fp4zfq/what_llms_for_coding_should_actually_look_like/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fp4zfq/what_llms_for_coding_should_actually_look_like/</guid>
-      <pubDate>Wed, 25 Sep 2024 13:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>由机器学习驱动的扫描仪可识别垃圾文本和恶意网站的模式。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fp39nc/a_mlpowered_scanner_to_identify_the_pattern_for/</link>
-      <description><![CDATA[  由    /u/FeatureBubbly7769  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fp39nc/a_mlpowered_scanner_to_identify_the_pattern_for/</guid>
-      <pubDate>Wed, 25 Sep 2024 12:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于笔记记录的新型纯文本标记语言：dvlg</title>
-      <link>https://www.reddit.com/r/programming/comments/1fp2a8p/new_plaintext_markup_language_for_note_taking_dvlg/</link>
-      <description><![CDATA[  由    /u/underthreaded  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fp2a8p/new_plaintext_markup_language_for_note_taking_dvlg/</guid>
-      <pubDate>Wed, 25 Sep 2024 11:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握 C# 12：新功能及其使用方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1fp25x3/mastering_c_12_new_features_and_how_to_use_them/</link>
-      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fp25x3/mastering_c_12_new_features_and_how_to_use_them/</guid>
-      <pubDate>Wed, 25 Sep 2024 11:31:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
