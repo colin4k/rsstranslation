@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 06:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:01:54 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的 Llama3.2 详细评论</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpro3x/llama32_by_meta_detailed_review/</link>
+      <description><![CDATA[Meta 几个小时前发布了 Llama3.2，提供 Vision（90B、11B）和小尺寸文本 LLM（1B、3B）。在此处查看所有详细信息：https://youtu.be/8ztPaQfk-z4?si=KoCOpWQ5xHC2qtCy    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpro3x/llama32_by_meta_detailed_review/</guid>
+      <pubDate>Thu, 26 Sep 2024 08:53:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克·扎克伯格发布 Meta 革命性 AR 眼镜 Orion</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpqwy4/mark_zuckerberg_reveals_orion_metas_revolutionary/</link>
+      <description><![CDATA[关键要点  Meta 首席执行官马克·扎克伯格 (Mark Zuckerberg) 推出了 Orion，这是一款先进的 AR 智能眼镜，可将数字信息叠加到现实世界中； 这些眼镜通过语音和神经接口进行控制； Meta 还推出了 Llama 3.2 AI 模型，并为 Meta AI 添加了新的声音。  来源：https://www.bitdegree.org/crypto/news/mark-zuckerberg-reveals-orion-metas-revolutionary-ar-glasses?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-zuckerberg-reveals-orion-ar-glasses    提交人    /u/webbs3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpqwy4/mark_zuckerberg_reveals_orion_metas_revolutionary/</guid>
+      <pubDate>Thu, 26 Sep 2024 07:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何才能有效地扩展 1000 个 LoRA 适配器以用于图像生成模型？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpq9se/how_can_i_scale_1000s_of_lora_adapters/</link>
+      <description><![CDATA[大家好， 我有一个奇怪的问题，我需要一种方法来为图像生成模型提供数千个基于用户上传数据训练的 LoRA，我做了一些初步研究，但在我看来，所有方法都仅限于 LLM。 到目前为止，我的研究已经产生了一些选择，即：  S-LoRA LoRAX NVIDIA NIMs vLLM HuggingFace TGI  所有这些选项仅支持 Transformer Like LLM 和 MultiModal 模型，但它们似乎都不支持 Text2Img 模型，例如 Stable Diffusion 或 Flux1，我理解可以构建一个粗略的解决方案，当使用任何 API 框架（如 FastAPI）时，它将使用 API 请求加载适当的 LoRA，我可以用相对较少的代码开发它努力，但开发一个完全托管的缓存系统来处理 LoRAs 似乎非常困难，而且对于单个开发人员来说可能是一个需要数月的项目。 所以我的问题是，是否存在一种有效的方法来做到这一点，GPU 计算本身不是问题，因为我可以访问多个 A100 和 H100 GPU，但仍然需要一个高效的系统来为数百名用户的 LoRAs 提供服务。 Nvidia NIM、vLLM、LoRAX 和 TGI 将每个 LoRA 公开为一个唯一的模型 id，我们可以在推理时使用 API 调用它，如果存在这样的解决方案，我可以使用一些唯一的标识符命名我的 LoRAs 并大规模为它们提供服务，请告诉我，到目前为止，我似乎走进了死胡同。    提交人    /u/Danyaal_Majid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpq9se/how_can_i_scale_1000s_of_lora_adapters/</guid>
+      <pubDate>Thu, 26 Sep 2024 07:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找一种能够生成包含文本、图像和解释的完整文章或学术章节的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fppuha/i_am_looking_for_an_ai_capable_of_generating_a/</link>
+      <description><![CDATA[你好， 我正在寻找一个可以帮助我学习的人工智能，我希望它能够生成一篇完整的文章，包含文本、图像、方程式和表格，能够像教科书一样解释一些东西。    提交人    /u/AllenWalkerPower   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fppuha/i_am_looking_for_an_ai_capable_of_generating_a/</guid>
+      <pubDate>Thu, 26 Sep 2024 06:31:56 GMT</pubDate>
+    </item>
     <item>
       <title>诺姆·沙泽尔 (Noam Shazeer) 赚大了！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpogzj/noam_shazeer_made_bank/</link>
@@ -48,13 +76,6 @@
       <pubDate>Thu, 26 Sep 2024 00:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>不到 10 分钟即可使用 AI 创建播客的分步说明</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpi3ny/stepbystep_instructions_for_creating_a_podcast/</link>
-      <description><![CDATA[本周早些时候，我分享了我的完全由 AI 生成的播客，并获得了大量积极的反响。我是一名作家，我每周都会尝试写几次来推广我的应用程序并提高我的沟通技巧。我曾尝试使用人工智能阅读我的文章并将其发布到社交媒体上，但它们很无聊，没有人愿意听。 随着谷歌新推出的 NotebookLM 工具的推出，这种情况发生了改变。 结合生成自动听力图的工具 Headliner，我创建了一个有趣的播客，可以在我的社交媒体平台上分享。 自从我上一篇文章以来，我创建了一个分步指南，介绍如何将您的书面材料转换为有趣的播客。 我也想分享我创作的第二集！  这是原始文章 这是 Spotify Podcast 的链接 这是 YouTube 视频的链接  自从第一次尝试以来，我已经改进了我的播客。我使用 CapCut Pro 添加了字幕和音效，并使用 Adob​​e 的 Podcast 工具稍微改善了音频，使其听起来不那么像“AI 生成”。  你们对第 2 集有什么看法？我现在正在考虑全力以赴制作播客。我已经撰写了 150 多篇 Medium 文章，所以这对我来说是一种无需投入大量精力就能接触到新受众的好方法。 或者，您认为这些视频在这些类型的平台上应该不受欢迎吗？ 很想得到你们的反馈！    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpi3ny/stepbystep_instructions_for_creating_a_podcast/</guid>
-      <pubDate>Wed, 25 Sep 2024 23:11:38 GMT</pubDate>
-    </item>
-    <item>
       <title>我创建了 Autoclips – 使用 AI 在几分钟内制作短视频</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpeyrz/i_built_autoclips_create_short_videos_in_minutes/</link>
       <description><![CDATA[嘿 r/ArtificialInteligence  我非常高兴能与大家分享我一直在研究的一些东西，我认为这些东西将彻底改变你制作视频的方式。 点击此处查看：https://www.autoclips.app/ 第一个视频免费 - 无需信用卡 为什么选择 AutoClips？ 我曾经花费数小时制作视频 - 编写脚本、添加音效、查找动态图形，然后手动上传所有内容。这非常累人，而且说实话，成本也很高。因此，我开发了 AutoClips——一款可帮助您在几分钟内制作病毒式、匿名视频的应用，它为我节省了大量的时间和精力。 它的工作原理：  适用于任何视频创意的AI 生成脚本 自动添加动态图形和音效 为您创建有利于 SEO 的标题、说明和标签 高质量图像 一键发布直接到 TikTok 和 YouTube（无需手动上传！）  为什么这会改变游戏规则？  您可以在不到60 分钟的时间内制作完整的视频。 它花费制作 100 个视频只需 6 美元（而其他地方则需要 100 美元）。 您可以无限次创建视频，没有限制。（限时优惠） 它非常适合为 YouTube Shorts、TikTok 或 Instagram Reels 创建内容的任何人。  终身优惠 现在，我提供终身访问权限，仅需 59 美元（而不是 299 美元）。您将永远获得所有更新和无限次视频创作！仅适用于前 50 名客户。 在此处获取 AutoClips 我很想听听您的想法，如果您有任何疑问，请随时提问。让我们让视频创作变得尽可能简单有趣！ 感谢阅读， Zeve 😊    提交人    /u/iayazalam   [链接] [评论]]]></description>
@@ -76,25 +97,11 @@
       <pubDate>Wed, 25 Sep 2024 19:25:31 GMT</pubDate>
     </item>
     <item>
-      <title>旧金山纪事报的人工智能“新闻助理”使用《旧金山纪事报》员工撰写和编辑的故事来回答你关于卡马拉·哈里斯的问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpcvof/sf_chronicles_aipowered_news_assistant_answers/</link>
-      <description><![CDATA[近 30 年来，u/sfchronicle 一直在报道卡马拉·哈里斯的职业生涯，从城市法庭到国家首都。 现在，我们推出了一种与我们数十年的报道互动的新方式：一种由 AI 驱动的工具，旨在回答您有关哈里斯的问题：https://www.sfchronicle.com/projects/2024/kamala-harris-election-questions/ 嗨，我是数字制作人伊丽莎白·史密斯。我想与 AI 社区分享这个工具，并希望大家尝试一下！   由    /u/Flimsy_Ad4471  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpcvof/sf_chronicles_aipowered_news_assistant_answers/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:22:21 GMT</pubDate>
-    </item>
-    <item>
       <title>我需要一张免费的 AI 头像用于我的 LinkedIn</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpbx82/i_need_a_free_ai_headshot_for_my_linkedin/</link>
       <description><![CDATA[我刚刚被解雇，需要用自拍照制作一张专业的头像。有人有我可以使用的 Dreamwave 促销代码吗？或者有人知道免费的好生成器吗？    提交人    /u/pin_920   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpbx82/i_need_a_free_ai_headshot_for_my_linkedin/</guid>
       <pubDate>Wed, 25 Sep 2024 18:42:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何看待利用人工智能创作的音乐？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpb3k7/what_do_you_think_about_music_made_with/</link>
-      <description><![CDATA[此：https://open.spotify.com/track/2a44PawX9iNtMIV0xjUdCk?si=hh0voRM4TlC3qwn9lozORQ&amp;context=spotify%3Aalbum%3A4BZrf7qzWMZMBBmafnuZtW    提交人    /u/caioooio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpb3k7/what_do_you_think_about_music_made_with/</guid>
-      <pubDate>Wed, 25 Sep 2024 18:07:09 GMT</pubDate>
     </item>
     <item>
       <title>我第一次看到人工智能带来的切实好处——每周 5 个小时。</title>
@@ -116,13 +123,6 @@
       <description><![CDATA[最终，OpenAI 决定开放其训练数据以供检查。这将使作者有机会查看他们的版权作品是否被用于构建公司的 AI 技术。OpenAI 的这一举措意义重大，因为 OpenAI 与一群声称 OpenAI 未经他们许可使用其作品的作者之间正在进行法律斗争。 链接：https://medium.com/@sadozye86/authors-gain-access-to-openais-training-data-in-copyright-disputes-e29018f80f6d?sk=v2%2Ffe9b6f99-aad2-4b61-a415-99c844675a8a    提交人    /u/zain017   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp9jma/authors_gain_access_to_openais_training_data_in/</guid>
       <pubDate>Wed, 25 Sep 2024 17:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Gemini 1.5 Pro 和 Gemini-1.5-Flash-002 AI 模型，输出速度更快</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fp7fmq/google_launches_gemini_15_pro_and/</link>
-      <description><![CDATA[Google 推出了 Gemini-1.5-Pro-002 和 Flash-002 AI 模型，由于输出速度更快、速率限制更高以及过滤器更佳，这些模型的效果更佳。https://theaiwired.com/google-launches-gemini-1-5-pro-and-gemini-1-5-flash-002-ai-models-with-faster-output/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp7fmq/google_launches_gemini_15_pro_and/</guid>
-      <pubDate>Wed, 25 Sep 2024 15:36:15 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 的高级语音模式可以唱歌、哼歌、识别和模仿其他声音，甚至调情 - 但系统提示它不能这么做。这是它的系统提示！</title>
