@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 26 Sep 2024 15:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 18:01:57 GMT</lastBuildDate>
     <item>
-      <title>Wordpress 禁止流行服务器主机 WP 引擎使用其软件</title>
-      <link>https://www.reddit.com/r/programming/comments/1fpxvpc/wordpress_bans_popular_server_host_wp_engine_from/</link>
-      <description><![CDATA[  由    /u/bruisedandbroke  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fpxvpc/wordpress_bans_popular_server_host_wp_engine_from/</guid>
-      <pubDate>Thu, 26 Sep 2024 14:43:40 GMT</pubDate>
+      <title>Vulkan 1.3.296 发布，包含 VK_EXT_device_generated_commands</title>
+      <link>https://www.reddit.com/r/programming/comments/1fq0vee/vulkan_13296_released_with_vk_ext_device/</link>
+      <description><![CDATA[  由    /u/JRepin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fq0vee/vulkan_13296_released_with_vk_ext_device/</guid>
+      <pubDate>Thu, 26 Sep 2024 16:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 不仅仅是具有类型的 JavaScript，它还有很大的潜力</title>
+      <link>https://www.reddit.com/r/programming/comments/1fq0tr4/typescript_isnt_just_javascript_with_types_and_it/</link>
+      <description><![CDATA[  由    /u/Infobip  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fq0tr4/typescript_isnt_just_javascript_with_types_and_it/</guid>
+      <pubDate>Thu, 26 Sep 2024 16:47:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slack 2020 年 5 月中断：深入探讨技术故障和经验教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1fq0k5b/slacks_may_2020_outage_a_deep_dive_into_the/</link>
+      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fq0k5b/slacks_may_2020_outage_a_deep_dive_into_the/</guid>
+      <pubDate>Thu, 26 Sep 2024 16:36:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么你们不能快速且高质量地交货？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fq01l6/why_you_cannot_deliver_fast_with_the_same_quality/</link>
+      <description><![CDATA[  由    /u/milanm08  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fq01l6/why_you_cannot_deliver_fast_with_the_same_quality/</guid>
+      <pubDate>Thu, 26 Sep 2024 16:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 AWS Nitro Enclaves 的一些说明：攻击面</title>
+      <link>https://www.reddit.com/r/programming/comments/1fq016n/a_few_notes_on_aws_nitro_enclaves_attack_surface/</link>
+      <description><![CDATA[  由    /u/parski841  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fq016n/a_few_notes_on_aws_nitro_enclaves_attack_surface/</guid>
+      <pubDate>Thu, 26 Sep 2024 16:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>教你编程相关知识的游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1fpyezs/games_which_teaches_you_programming_related_stuff/</link>
+      <description><![CDATA[  由    /u/ateusz888  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fpyezs/games_which_teaches_you_programming_related_stuff/</guid>
+      <pubDate>Thu, 26 Sep 2024 15:06:17 GMT</pubDate>
     </item>
     <item>
       <title>似乎 Winamp 最近发布的源代码违反了 LGPL</title>
@@ -55,13 +90,6 @@
       <pubDate>Thu, 26 Sep 2024 13:55:10 GMT</pubDate>
     </item>
     <item>
-      <title>RollerCoaster Tycoon 是用汇编语言开发的，而其创建者最初并讨厌过山车。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fpwafj/rollercoaster_tycoon_was_developed_in_assembly/</link>
-      <description><![CDATA[  由    /u/SweetTeaRex92  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fpwafj/rollercoaster_tycoon_was_developed_in_assembly/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:32:47 GMT</pubDate>
-    </item>
-    <item>
       <title>你可以选择成为一个在许多事情上都很有能力的人，或者在某件事上非常优秀</title>
       <link>https://www.reddit.com/r/programming/comments/1fpw076/you_can_choose_to_be_someone_whos_competent_in/</link>
       <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
@@ -90,39 +118,11 @@
       <pubDate>Thu, 26 Sep 2024 12:44:27 GMT</pubDate>
     </item>
     <item>
-      <title>一个将 CSV 转换为 JSON 的简单工具，它还不完善，但我希望能弄清楚并解决这个问题。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fpunr1/a_simple_tool_to_convert_csv_to_json_its_not/</link>
-      <description><![CDATA[  由    /u/Covid-19-Xs-Pro-plus  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fpunr1/a_simple_tool_to_convert_csv_to_json_its_not/</guid>
-      <pubDate>Thu, 26 Sep 2024 12:11:58 GMT</pubDate>
-    </item>
-    <item>
       <title>重新架构：从 Redis 到 SQLite</title>
       <link>https://www.reddit.com/r/programming/comments/1fpueta/rearchitecting_redis_to_sqlite/</link>
       <description><![CDATA[  由    /u/parski841  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fpueta/rearchitecting_redis_to_sqlite/</guid>
       <pubDate>Thu, 26 Sep 2024 11:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>9 个 React 测试最佳实践，助您更好地设计和提高测试质量</title>
-      <link>https://www.reddit.com/r/programming/comments/1fpsg17/9_react_testing_best_practices_for_better_design/</link>
-      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fpsg17/9_react_testing_best_practices_for_better_design/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:51:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要推荐一些学习 C 语言的书籍</title>
-      <link>https://www.reddit.com/r/programming/comments/1fps9gv/need_suggestion_for_book_for_learning_c/</link>
-      <description><![CDATA[我对编码非常陌生，对此一无所知，有人建议对于像我这样的人来说，最好的起点是 C 语言。在搜索来源后，有人推荐了一篇关于 C 语言基础知识的文章，这篇文章在声明变量、从用户那里获取输入并执行算术运算的部分之前非常有用，之后的说明真的不清楚。有人可以推荐我一本可以学习 C 语言的书吗，用词比较简单。    提交人    /u/Due_Balance7757   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fps9gv/need_suggestion_for_book_for_learning_c/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 快速提示</title>
-      <link>https://www.reddit.com/r/programming/comments/1fps69c/quick_tips/</link>
-      <description><![CDATA[开设了我的新频道进行编程，因为我了解到只需滚动浏览就可以学到一些新东西。 期待添加详细的视频。 请让我知道你对如何改进它的想法。 谢谢支持！！！    提交人    /u/TikalMaya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fps69c/quick_tips/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:32:02 GMT</pubDate>
     </item>
     <item>
       <title>Java 本机线程、平台线程和虚拟线程的比较研究</title>
@@ -132,18 +132,18 @@
       <pubDate>Thu, 26 Sep 2024 09:26:12 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript之父联合近万名开发者集体攻击Oracle…</title>
-      <link>https://www.reddit.com/r/programming/comments/1fpqxzh/the_father_of_javascript_joins_forces_with_nearly/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fpqxzh/the_father_of_javascript_joins_forces_with_nearly/</guid>
-      <pubDate>Thu, 26 Sep 2024 07:55:21 GMT</pubDate>
+      <title>重写 Rust</title>
+      <link>https://www.reddit.com/r/programming/comments/1fppsjk/rewriting_rust/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fppsjk/rewriting_rust/</guid>
+      <pubDate>Thu, 26 Sep 2024 06:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript之父联合近万名开发者集体攻击Oracle…</title>
-      <link>https://www.reddit.com/r/programming/comments/1fpqxk5/the_father_of_javascript_joins_forces_with_nearly/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fpqxk5/the_father_of_javascript_joins_forces_with_nearly/</guid>
-      <pubDate>Thu, 26 Sep 2024 07:54:24 GMT</pubDate>
+      <title>如何在 Mac 上本地运行 Llama 3.1 并将其提供给本地 Linux 笔记本电脑以便与 Zed 一起使用</title>
+      <link>https://www.reddit.com/r/programming/comments/1fpifqw/how_to_run_llama_31_locally_on_mac_and_serve_it/</link>
+      <description><![CDATA[  由    /u/samontab  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fpifqw/how_to_run_llama_31_locally_on_mac_and_serve_it/</guid>
+      <pubDate>Wed, 25 Sep 2024 23:27:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
