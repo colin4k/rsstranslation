@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 27 Sep 2024 15:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 18:07:17 GMT</lastBuildDate>
+    <item>
+      <title>有人曾经让 InvoiceNinja v5.2.2 在 Enterprise Linux 上成功运行过吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fqrgj2/has_anyone_ever_got_invoiceninja_v522_to/</link>
+      <description><![CDATA[我一直在尝试在最低版本的 Rocky Linux 9 / PHP 8.2 上设置 InvoiceNinja v5.2.2（根据 AAL 许可，而 AAL 已获得 OSI的OSD批准），但是遇到了很大的困难...只有1 指南，但目前有点过时了。 一旦我似乎完成了所有需要做的事情，我就会在浏览器中看到 IN 的设置页面，您可以在其中填充数据库连接、成功测试并创建您的第一个用户。但是，一旦我完成设置，无论发生什么，每次都只会出现一个空白的页面输出。我可以看到它确实创建了所有 mysql 表，我的第一个用户也在那里。最重要的是，laravel、nginx、php-fpm 等的任何日志文件中都不会打印任何错误...我知道这听起来像是权限问题，但我已经多次梳理过权限，本质上 nginx 用户只拥有应用程序目录中的所有内容，并且可以随意读写。当然，SELinux 也是暂时允许的。 目前，我怀疑我可能在正确管理其与 composer 和 npm 的依赖关系时遇到了一些问题。 我只是好奇是否有人已经这样做过，并且可以在我深入研究并浪费更多时间或完全放弃之前帮助我检查一下这次部署的合理性！请让我知道！！    提交人    /u/MasterZosh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fqrgj2/has_anyone_ever_got_invoiceninja_v522_to/</guid>
+      <pubDate>Fri, 27 Sep 2024 16:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>介绍基于 Lousine 内核的 AnnyaOS：一款免费、兼容 Windows 的操作系统，正在寻求贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1fqb9fy/introducing_annyaos_based_on_the_lousine_kernel_a/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>Polar 刚刚成为开源 Lemon Squeezy 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1fp6ki2/polar_has_just_become_an_opensource_lemon_squeezy/</link>
-      <description><![CDATA[Polar 最初是一个面向开源维护者的社区和融资平台，但目前正在转向为开发人员提供一整套获得报酬的基础设施。 最近，他们推出了 v1，目前提供：  捐赠、众筹、会员资格、数字产品和 SaaS 内置产品和订阅优势。从许可证密钥、文件下载、私人 GitHub 存储库访问、Discord 邀请等。 使用其 API、Webhook、OAuth 和 SDK 实现强大的自定义集成 处理销售税和欧盟增值税（记录商家）  您可以在 OpenAlternative 上阅读有关 Polar 的更多信息。    提交人    /u/piotrkulpinski   [链接] [评论]]]></description>
+      <description><![CDATA[Polar 最初是一个面向开源维护者的社区和融资平台，但目前正在转向为开发人员提供一整套获得报酬的基础设施。 最近，他们推出了 v1，目前提供：  捐赠、众筹、会员资格、数字产品和 SaaS 内置产品和订阅优势。包括许可证密钥、文件下载、私人 GitHub 存储库访问、Discord 邀请等。 使用其 API、Webhook、OAuth 和 SDK 实现强大的自定义集成 处理销售税和欧盟增值税（记录商家）  您可以在 OpenAlternative 上阅读有关 Polar 的更多信息。    提交人    /u/piotrkulpinski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fp6ki2/polar_has_just_become_an_opensource_lemon_squeezy/</guid>
       <pubDate>Wed, 25 Sep 2024 15:01:02 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我的主要问题是我无法浏览任何仓库。我只是无法弄清楚哪个功能的代码在哪个文件夹中。请帮助这个新手    提交人    /u/Miserable_Meat7027   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fp45e7/how_to_start_open_source_contribution/</guid>
       <pubDate>Wed, 25 Sep 2024 13:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个开源 SaaS 模型。前端和后端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fp2wi2/i_made_an_open_source_saas_model_frontend_and/</link>
-      <description><![CDATA[        提交人    /u/vbztm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fp2wi2/i_made_an_open_source_saas_model_frontend_and/</guid>
-      <pubDate>Wed, 25 Sep 2024 12:13:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
