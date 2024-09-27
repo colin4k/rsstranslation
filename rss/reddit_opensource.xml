@@ -4,34 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 27 Sep 2024 06:02:30 GMT</lastBuildDate>
-    <item>
-      <title>有人让 InvoiceNinja 在 Enterprise Linux 上成功运行过吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fqgfhk/has_anyone_ever_got_invoiceninja_to_successfully/</link>
-      <description><![CDATA[我一直试图在最低配置的 Rocky Linux 9 / PHP 8.2 上设置 InvoiceNinja，但遇到了很大困难... 目前只有 1 个指南，但目前有点过时了。 一旦我似乎完成了所有需要做的事情，我就会在浏览器中看到 IN 的设置页面，您可以在其中填充数据库连接、成功测试并创建您的第一个用户。但是，一旦我继续完成设置，每次无论如何都只会出现一个空白的页面输出。我可以看到它确实创建了所有 mysql 表，并且我的第一个用户也在那里。最棒的是，laravel、nginx、php-fpm 等的任何日志文件中都不会打印任何错误...我知道这听起来像是权限问题，但我已经多次梳理过权限，本质上 nginx 用户只拥有应用程序目录中的所有内容，并且可以随心所欲地进行 rwx。当然，SELinux 也是暂时允许的。 目前，我怀疑我可能在正确管理其与 composer 和 npm 的依赖关系时遇到了一些问题。 我只是好奇是否有人已经这样做过，可以在我深入研究并浪费大量时间或完全放弃之前，帮助我检查一下这次部署的合理性！请让我知道！！    提交人    /u/MasterZosh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fqgfhk/has_anyone_ever_got_invoiceninja_to_successfully/</guid>
-      <pubDate>Fri, 27 Sep 2024 05:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有时我无法弄清楚日常生活中的事情，但我没有足够的时间在线询问。所以我建立了一个代理来为我做这件事！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fqg4po/sometimes_i_cant_figure_out_stuff_in_my_daily/</link>
-      <description><![CDATA[        提交人    /u/Matthew_heartful   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fqg4po/sometimes_i_cant_figure_out_stuff_in_my_daily/</guid>
-      <pubDate>Fri, 27 Sep 2024 04:58:13 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Sep 2024 09:02:14 GMT</lastBuildDate>
     <item>
       <title>介绍基于 Lousine 内核的 AnnyaOS：一款免费、兼容 Windows 的操作系统，正在寻求贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1fqb9fy/introducing_annyaos_based_on_the_lousine_kernel_a/</link>
       <description><![CDATA[大家好！ 我很高兴地宣布，我正在开发一个免费操作系统——这只是一个充满激情的项目，每天都在增长，代码量达到 10 万行。它旨在与 Windows 系统兼容，并且可以运行社区中现有的驱动程序。这意味着完成后，您可以使用硬件和外围设备，而不必担心兼容性问题。 主要功能：  Windows 兼容性：无缝运行许多 Windows 应用程序和驱动程序。 社区驱动的驱动程序：利用并贡献不断增长的驱动程序存储库。 开源：该项目向任何人开放，以做出贡献、建议功能或报告问题。  我之所以接触这个社区，是因为我相信我们可以共同创造出非凡的东西。无论您是开发人员、测试人员还是爱好者，您的意见和支持都可以发挥重要作用。 您可以如何提供帮助：  贡献代码：帮助提高兼容性，创建驱动程序。或一般反馈 为项目加注星标：如果您喜欢所看到的内容，请在 https://github.com/AlienMaster815/LOUOSKRNL.EXE 上为该项目加注星标，以提高其知名度。 提供反馈：测试操作系统并让我了解您的体验。  欢迎随时在此处查看项目存储库：https://github.com/AlienMaster815/LOUOSKRNL.EXE 感谢您的时间，我期待着与您合作！ 此致敬意， 泰勒·格雷尼尔    由   提交  /u/Kooky_Philosopher223   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fqb9fy/introducing_annyaos_based_on_the_lousine_kernel_a/</guid>
       <pubDate>Fri, 27 Sep 2024 00:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Github 上寻找开源项目开发思路</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fqb6xd/how_find_ideas_for_open_source_projects_to/</link>
-      <description><![CDATA[  由    /u/dediji  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fqb6xd/how_find_ideas_for_open_source_projects_to/</guid>
-      <pubDate>Fri, 27 Sep 2024 00:22:57 GMT</pubDate>
     </item>
     <item>
       <title>基于 Markdown 并集成 AI 的笔记工具——欢迎贡献者！</title>
@@ -134,7 +113,7 @@
     <item>
       <title>Polar 刚刚成为开源 Lemon Squeezy 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1fp6ki2/polar_has_just_become_an_opensource_lemon_squeezy/</link>
-      <description><![CDATA[Polar 最初是一个面向开源维护者的社区和融资平台，但目前正在转向为开发人员提供一整套获得报酬的基础设施。 最近，他们推出了 v1，目前提供：  捐赠、众筹、会员资格、数字产品和 SaaS 内置产品和订阅优势。从许可证密钥、文件下载、私人 GitHub 存储库访问、Discord 邀请等。 使用其 API、Webhook、OAuth 和 SDK 实现强大的自定义集成 处理销售税和欧盟增值税（记录商家）  您可以在 OpenAlternative 上阅读有关 Polar 的更多信息。    提交人    /u/piotrkulpinski   [链接] [评论]]]></description>
+      <description><![CDATA[Polar 最初是一个面向开源维护者的社区和融资平台，但目前正在转向为开发人员提供一整套获得报酬的基础设施。 最近，他们推出了 v1，目前提供：  捐赠、众筹、会员资格、数字产品和 SaaS 内置产品和订阅优势。包括许可证密钥、文件下载、私人 GitHub 存储库访问、Discord 邀请等。 使用其 API、Webhook、OAuth 和 SDK 实现强大的自定义集成 处理销售税和欧盟增值税（记录商家）  您可以在 OpenAlternative 上阅读有关 Polar 的更多信息。    提交人    /u/piotrkulpinski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fp6ki2/polar_has_just_become_an_opensource_lemon_squeezy/</guid>
       <pubDate>Wed, 25 Sep 2024 15:01:02 GMT</pubDate>
     </item>
@@ -144,6 +123,27 @@
       <description><![CDATA[大家好， 我参与开源项目已经很长时间了，我非常欣赏开源项目的价值观以及人们通过开源项目构建的东西。 虽然我目前的业务不是开源的，但我想回报多年来我从出色的开源软件中获得的所有价值。我想要支持的一种方式是向开源、公共教育或非营利组织免费提供专业的 360 Big 5 心理测量（性格测试）。 如果您发现它有用，无论是作为个人发展的独立开发者，还是作为团队和领导力建设的组织，请与我联系。 如果允许，我可以添加指向该工具的直接链接。 感谢您所做的一切！   由    /u/themoonfactory  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fp6bmm/support_for_open_source_organizationsdevs/</guid>
       <pubDate>Wed, 25 Sep 2024 14:50:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>180 多种设备、手机、平板电脑等上的开源数据</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fp63ww/open_source_data_on_180_devices_phones_tablets_etc/</link>
+      <description><![CDATA[大家好 - 我们刚刚开源（在 MIT 下）以下数据集：https://github.com/bitcomplete/labs-delta-viewport-tester 它是 181 种不同设备的 JSON 文档，主要关注显示细节（例如屏幕尺寸、视口大小、像素密度等）。 这与我们的产品 Viewport Tester 相关，但这些数据自然可以用于您需要的任何目的（个人或商业）。 喜欢关于缺失设备的反馈和/或 PR。 谢谢！    提交人    /u/onassar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fp63ww/open_source_data_on_180_devices_phones_tablets_etc/</guid>
+      <pubDate>Wed, 25 Sep 2024 14:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何开始开源贡献？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fp45e7/how_to_start_open_source_contribution/</link>
+      <description><![CDATA[我的主要问题是我无法浏览任何仓库。我只是无法弄清楚哪个功能的代码在哪个文件夹中。请帮助这个新手    提交人    /u/Miserable_Meat7027   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fp45e7/how_to_start_open_source_contribution/</guid>
+      <pubDate>Wed, 25 Sep 2024 13:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个开源 SaaS 模型。前端和后端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fp2wi2/i_made_an_open_source_saas_model_frontend_and/</link>
+      <description><![CDATA[        提交人    /u/vbztm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fp2wi2/i_made_an_open_source_saas_model_frontend_and/</guid>
+      <pubDate>Wed, 25 Sep 2024 12:13:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
