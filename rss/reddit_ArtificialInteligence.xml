@@ -3,8 +3,64 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 18:01:36 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 27 Sep 2024 21:01:24 GMT</lastBuildDate>
+    <item>
+      <title>将教科书/科学论文转换成音频的最佳人工智能是什么</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqx786/whats_the_best_ai_to_turn_textbooksscientific/</link>
+      <description><![CDATA[正在寻找可以在 IOS 上为我朗读教科书和文章的 AI，尝试过 Speechify，但我只是想知道在支付订阅费之前是否还有更好的选择。我需要它能够在后台运行，同时我将应用程序最小化，并寻找最清晰的阅读效果。如果您可以获得非美国式的高质量声音，则可以获得加分。    提交人    /u/rowquanthechef   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqx786/whats_the_best_ai_to_turn_textbooksscientific/</guid>
+      <pubDate>Fri, 27 Sep 2024 20:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家觉得 ChatGPT 的这个用例怎么样？测试投资策略、财务分析和 SEO 优化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqx6hm/what_do_yall_think_of_this_use_case_of_chatgpt/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqx6hm/what_do_yall_think_of_this_use_case_of_chatgpt/</guid>
+      <pubDate>Fri, 27 Sep 2024 20:22:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建云计算集群并向符合条件的测试用户提供免费访问权限。如果您感兴趣，请告诉我。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqwq24/building_a_cloud_compute_cluster_and_offering/</link>
+      <description><![CDATA[大家好， 在构建 AI/ML 模型时，我大部分时间都在扩展数据准备管道。这些管道通常涉及数十亿行数据，需要某种形式的云工具来并行化该过程，因此清理和转换所有内容不需要花费数天时间。 我与计算集群的互动一直令人沮丧，这促使我开始开发自己的计算集群，称为 Burla。我们的想法是提供一个完全托管和自托管的计算集群，使用起来非常简单。当您需要在特定硬件上运行 Python 函数或具有 X 数量的并行度时，只需在代码中指定它，它就可以工作。 我有一个正在运行的计算集群的测试版，我正在寻找 AI 社区中拥有可以从大量计算和并行性中受益匪浅的工作负载的人。  这是 repo 的链接，这是 python 接口的示例。如果您感兴趣，请告诉我，我很乐意帮助您在集群上进行设置。  from burla import remote_parallel_map def my_function(my_input): print(f&quot;hi #{my_input}&quot;) return my_input * 2 input = list(range(8)) results = remote_parallel_map(my_function, input, parallelism=8) print(f&quot;num results: {len(results)}&quot;) print(results)     submitted by    /u/Ok_Post_149   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqwq24/building_a_cloud_compute_cluster_and_offering/</guid>
+      <pubDate>Fri, 27 Sep 2024 20:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>不受审查的图像生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqwmeq/image_generator_without_censorship/</link>
+      <description><![CDATA[我正在从事一个利润丰厚的项目，我需要一个用于政治人物的 AI 图像生成器。 Midjourney 是我唯一熟悉的 如果有人可以提供一个安全、可靠且没有审查政治人物的 AI 图像生成器，我将不胜感激    提交人    /u/marriedtothesauce   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqwmeq/image_generator_without_censorship/</guid>
+      <pubDate>Fri, 27 Sep 2024 19:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>放弃 LangChain 和 DSPy，尝试 Ell？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqwaph/drop_langchain_and_dspy_try_ell/</link>
+      <description><![CDATA[一个新的语言模型编程库已经发布，它被称为 Ell。它旨在与 LangChain、Llama-Index 和 DSPy 等库竞争，甚至可能取代它们。 我知道——又一个用于编写语言程序的库。做好准备，我可能会在几周或几个月后构建自己的库。但那是另一天的故事了。 这是宣布 Ell 的推文。从一开始就雄心勃勃，核心维护者称它为快速工程的未来。 https://medium.com/thoughts-on-machine-learning/drop-langchain-and-dspy-try-ell-42d79385bb7e    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqwaph/drop_langchain_and_dspy_try_ell/</guid>
+      <pubDate>Fri, 27 Sep 2024 19:44:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找支持多位发言者的播客脚本 TTS AI 工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqvood/looking_for_tts_ai_tool_with_multiple_speaker/</link>
+      <description><![CDATA[大家好， 我创建了一个播客脚本，正在寻找一个可以轻松支持多个说话者的文本转语音 (TTS) AI 工具。我需要两个不同的 AI 声音以自然的情感进行脚本中的对话。 Recast 将在两周后停止使用，虽然 Google NotebookLM 非常棒，但对于这种用例来说，它的功能非常有限。到目前为止，我遇到的 TTS 解决方案要求我逐个复制和粘贴对话的每个部分并手动分配说话者，这很耗时，而且听起来也不是最自然的。 有谁知道有什么工具可以简化这个过程？理想情况下，我正在寻找可以自动处理多个说话者并提供更无缝体验的工具。 提前感谢任何建议！    提交人    /u/surrendered2flow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqvood/looking_for_tts_ai_tool_with_multiple_speaker/</guid>
+      <pubDate>Fri, 27 Sep 2024 19:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可能会看到更少的图像 CAPCTCHA，因为人工智能现在以 100% 的准确率击败它们</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqvb6t/we_may_be_seeing_less_image_capctchas_as_ai_now/</link>
+      <description><![CDATA[这些 CAPTCHA 声称它们是为了确保你是“人类”，但现在人工智能可以以100% 准确率 击败它们 新的测试是什么？    提交人    /u/ThrillSurgeon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqvb6t/we_may_be_seeing_less_image_capctchas_as_ai_now/</guid>
+      <pubDate>Fri, 27 Sep 2024 19:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否存在不受限制的 AI API？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqukk1/are_there_any_unrestricted_ai_apis_out_there/</link>
+      <description><![CDATA[我觉得我已经找遍了所有地方，但就是找不到不受限制的 AI API。现在我不想让它帮我制造某种塑料吊臂装置或任何东西，只是希望它对“词汇”没有任何限制，例如脏话、“轻微”骚扰等。 我将使用这个 API 来构建我自己的聊天机器人，它主要只是出于好奇的一个有趣的副项目，我不会将其货币化，这意味着它不必获得商业使用许可。 现在我发现了这个叫做 Theres An AI For That 的网站，它似乎就是我寻找 API 所需要的，问题是我不知道如何搜索，所以如果有人知道如何有效地使用该网站，那就太棒了。 我还发现了 Groq AI，这是我目前正在使用的。它有多个完全免费的 AI API，但问题是它们受到严格审查。 或者，如果有人已经知道我可以使用的 API，那就太棒了。 一件事是它必须完全免费或非常便宜，因为这没什么，只是为了好玩。 提前谢谢您。    提交人    /u/crummyboii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqukk1/are_there_any_unrestricted_ai_apis_out_there/</guid>
+      <pubDate>Fri, 27 Sep 2024 18:28:01 GMT</pubDate>
+    </item>
     <item>
       <title>高中正成为色情 Deepfakes 的粪坑</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqtnob/high_school_is_becoming_a_cesspool_of_sexually/</link>
@@ -27,13 +83,6 @@
       <pubDate>Fri, 27 Sep 2024 17:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>有人同意这篇关注人工智能的文章吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqsdkr/anyone_agree_with_this_article_dogging_on_ai/</link>
-      <description><![CDATA[我在 AI 领域工作，在 HN 上看到了这篇文章。  有人同意这个吗？  文章标题为：我厌倦了 AI    提交人    /u/nate4t   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqsdkr/anyone_agree_with_this_article_dogging_on_ai/</guid>
-      <pubDate>Fri, 27 Sep 2024 16:52:49 GMT</pubDate>
-    </item>
-    <item>
       <title>上下文检索</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqqgq4/contextual_retrieval/</link>
       <description><![CDATA[Anthropic 写了一篇关于 RAG 的博客文章，其中提到了一种名为“上下文检索”的新技术。核心思想是对所有块（想想文档中的段落）运行 LLM，以便在创建嵌入之前为每个块添加更多上下文。这很重要，因为通过像这样的简单流程，他们将失败检索减少了 35%！使用 Cohere + BM25 的重新排序器，他们将失败率降低了 67%。这里的失败意味着从所有可用块中提取哪个块，想想当您要求资本支出计划时您的分析师提取折旧计划。这些技术结合起来将错误率降低到只有 1.9%。我相信 RAG 应用程序只会变得更好，因为令牌越来越便宜，推理越来越快，模型越来越智能。6 个月前，上下文检索不会起作用，因为我们没有广泛使用的即时缓存，模型要昂贵得多，推理也没有那么快。同样，在 6 个月内，更便宜、更好、更快的模型将启用新技术，甚至使这个基准看起来很简单。这也是为什么我认为因为数据准确性问题而押注 LLM 是幼稚的；这类似于说互联网不会起作用，因为它太慢了。一开始确实如此，但情况有所改善。LLM 也是如此。    提交人    /u/These-Salary-9215   [链接] [评论]]]></description>
@@ -48,39 +97,11 @@
       <pubDate>Fri, 27 Sep 2024 14:58:40 GMT</pubDate>
     </item>
     <item>
-      <title>10 分钟内 2 小时 David Perell — Sam Altman：ChatGPT、写作、Thiel 和 Graham 的课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqpbuz/2_hours_in_10_minutes_david_perell_sam_altman/</link>
-      <description><![CDATA[我尝试挑选出本集我最喜欢的部分 我介绍了：  写作工具 写作清晰度 聊天的未来学校中的 GPT 寻求火花 AI 角色  查看后推荐下一集。 https://www.youtube.com/watch?v=YfUiseghkNQ    提交人    /u/yeahyouknowitbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqpbuz/2_hours_in_10_minutes_david_perell_sam_altman/</guid>
-      <pubDate>Fri, 27 Sep 2024 14:41:04 GMT</pubDate>
-    </item>
-    <item>
       <title>ClipAnything - 开源 AI 视频编辑器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqp69t/clipanything_opensource_ai_video_editor/</link>
       <description><![CDATA[这是一个开源 repo，使用 AI 自动编辑视频，AI 理解视频并找到与用户查询匹配的所有相关剪辑，以使用聊天界面编辑视频 项目链接：- https://github.com/SamurAIGPT/ClipAnything    提交人    /u/ANil1729   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqp69t/clipanything_opensource_ai_video_editor/</guid>
       <pubDate>Fri, 27 Sep 2024 14:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 的 GeForce RTX AI 之旅：探索游戏未来的 5 项激动人心的创新</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqotzt/nvidias_geforce_rtx_ai_tour_explore_5_exciting/</link>
-      <description><![CDATA[Nvidia 在班加罗尔举行的 GeForce RTX AI PC 之旅展示了由 AI 驱动的开发和游戏技术，使体验更加身临其境、速度更快。 https://theaiwired.com/nvidias-geforce-rtx-ai-tour-explore-5-exciting-innovations-in-gamings-future/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqotzt/nvidias_geforce_rtx_ai_tour_explore_5_exciting/</guid>
-      <pubDate>Fri, 27 Sep 2024 14:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能照片编辑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqoqin/ai_photo_editing/</link>
-      <description><![CDATA[大家好，希望我在正确的地方，我想知道是否有人知道可以简单地用我选择的提示替换背景的编辑器？我尝试了很多，但它们都需要订阅才能完成该过程，我厌倦了寻找，所以我想问问对这些程序更有经验的人。感谢您的帮助    提交人    /u/Nelielle03   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqoqin/ai_photo_editing/</guid>
-      <pubDate>Fri, 27 Sep 2024 14:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为人工智能将如何影响K-12教育？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqobyo/how_do_you_think_ai_will_affect_k12_education/</link>
-      <description><![CDATA[我从事教育工作，使用 AI 生成基本课程计划、创建特定阅读水平的文本、提出活动/工作表创意以及生成着色页。都非常有用。  但我想知道整个教育结构是否会很快改变，以及它会是什么样子。    提交人    /u/PlanitL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqobyo/how_do_you_think_ai_will_affect_k12_education/</guid>
-      <pubDate>Fri, 27 Sep 2024 13:56:52 GMT</pubDate>
     </item>
     <item>
       <title>为何优秀的产品落后于优秀的技术？</title>
@@ -92,16 +113,9 @@
     <item>
       <title>我参与了欧盟人工智能法案的制定，AMA！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqmcds/i_worked_on_the_eus_artificial_intelligence_act/</link>
-      <description><![CDATA[嗨， 我最近在网上就 AI 法案进行了一些有趣的讨论。我认为把它们带到这里并讨论 AI 法案可能会很酷。 我曾担任议会助理，负责 AI 法案，并为欧洲议会议员（出于隐私原因，我在此未提及其姓名）提供技术和政治建议。 请随时向我询问有关该法案本身或起草/谈判过程的任何问题！ 我很乐意提供任何合法（和道德）的答案！    提交人    /u/jman6495   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我最近在网上就 AI 法案进行了一些有趣的讨论。我认为把它们带到这里并讨论 AI 法案可能会很酷。 我曾担任议会助理，负责 AI 法案，并为欧洲议会议员（出于隐私原因，我在此未提及其姓名）提供技术和政治建议。 请随时向我询问有关该法案本身或起草/谈判过程的任何问题！ 我很乐意提供我在法律上（和道德上）可以提供的任何答案！    提交人    /u/jman6495   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqmcds/i_worked_on_the_eus_artificial_intelligence_act/</guid>
       <pubDate>Fri, 27 Sep 2024 12:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 否认首席执行官 Sam Altman 将获得股权</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqkvsl/openai_denies_ceo_sam_altman_will_receive_equity/</link>
-      <description><![CDATA[在全公司会议上，Open AI 首席执行官 Sam Altman 驳斥了有关他被授予过多股权的指控——鉴于公众投资者对他的持股水平的担忧。OpenAI 董事会也进行了讨论，但尚未采取任何行动。该公司的结构不存在转向完全盈利的风险，但探索在框架内保持非盈利的可能性。 例如，据 Altman 称，首席技术官 Mira Murati 和研究主管 Bob McGrew 以及其他几位高级管理人员已辞去与休会无关的职位。与此同时，OpenAI 正在努力筹集资金以达到 1500 亿美元的潜在估值，但内部对扩张速度存在担忧。 11 月，他面临暂时解雇，几天后因员工支持而重返岗位。 详情请参阅 AI 新闻通讯    提交人    /u/salukihunt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqkvsl/openai_denies_ceo_sam_altman_will_receive_equity/</guid>
-      <pubDate>Fri, 27 Sep 2024 10:50:47 GMT</pubDate>
     </item>
     <item>
       <title>夺走我们的工作....</title>
@@ -111,25 +125,11 @@
       <pubDate>Fri, 27 Sep 2024 09:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>大学指责我在论文中使用人工智能：需要建议</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqdtix/university_accusing_me_of_using_ai_in_my_essay/</link>
-      <description><![CDATA[我最近收到学校发来的一封电子邮件，说我最新的论文被退回，其中 AI 的使用率很高，下周我要参加学术不端行为会议。 事实上，我对这篇论文感到非常自豪。我找到了很好的参考资料来支持我的所有观点，并花了很多时间把所有的东西整理在一起。然而，我确实使用 ChatGPT 来帮助规划我的论文，将内容分解成要点，这样我就能更好地理解作业。我还用它来给我一些关于如何改进句子或使句子更简洁的建议，但我自己写了完整的句子和段落。我认为得到关于如何提高清晰度的反馈不是问题。 我知道我使用 ChatGPT 来帮助规划和改进我的句子结构，但我觉得我对它的依赖程度并没有达到被指责的程度。这篇论文花了我两天时间才写完，被这样指责对我来说是个沉重的打击。除此之外，我得了肺炎，还打两份工，所以我感觉自己完全筋疲力尽了。 大学对人工智能工具没有明确的政策，我不知道自己会面临什么样的后果，是作业不及格、课程不及格还是更糟糕的事情。我不想在会议上说错话，让自己的情况更糟。有没有其他人遇到过这种情况？有什么处理建议吗？ 编辑：我刚刚把我的论文放到 Quillbot 中，结果显示 53% 的论文被检测到是人工智能，这太疯狂了！很明显，这就是我的导师看到的数量我    提交人    /u/Anixamae   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqdtix/university_accusing_me_of_using_ai_in_my_essay/</guid>
-      <pubDate>Fri, 27 Sep 2024 02:42:40 GMT</pubDate>
-    </item>
-    <item>
       <title>公众多久才能理解（并开始恐慌）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fq5s4m/how_long_before_the_general_public_gets_it_and/</link>
-      <description><![CDATA[我已经够老了，40 多年前 11 岁就开始编写软件代码了。当时，Radio Shack TRS 80 配备了基本的编程语言和磁带存储，非常了不起，不久之后，IBM PC 也配备了软盘，个人电脑革命开始了，改变了世界。 然后出现了互联网、电子邮件、网站等，再次推动了社会巨大的技术变革。 据我估计，人工智能的变化将比这两项历史性技术发展都要大一个数量级。 在过去的 6 个月里，我一直在使用各种人工智能工具，比较不同聊天机器人的响应。我试图向朋友和家人解释这些东西有多么有用，以及变化有多大。  但奇怪的是，无论是与我交谈的人，还是在 Reddit 上的讨论中，我都能看出普通人还没有真正理解这一点。他们不知道目前所有可用的工具，更不用说如何充分利用它们了。除了媒体对终结者之类的世界末日场景的炒作之外，他们肯定不知道这将给他们的日常生活，尤其是工作带来多大的变化。  我相信人工智能很容易让至少三分之一的劳动力变得无关紧要。其中一些将被涉及开发和维护人工智能相关产品的新工作所抵消，就像计算机网络和服务器首次问世时一样，它们不仅帮助公司更高效地运营，还创造了一个庞大的 IT 支持工作和公司行业。 但我相信，随着人工智能将创造的变化量级的提高，与人工智能相关的新工作将远远不足以抵消整体失业。有了人工智能，我现在可以做三个程序员的工作。这只是一个常见的例子。数以百万计的编码以外的工作将被人工智能工具取代。而且这是无法避免的，因为一旦一家公司开始这样做以节省成本，所有其他公司也必须这样做以保持竞争力。 所以我提出这个问题。你认为还要多久大多数人才会开始明白人工智能不仅仅是一个有时非常有用的聊天机器人来提问，而且将促进社会发生巨大的变化。 失业影响会造成比大萧条更严重的经济形势吗？ 在我看来，人们通常不擅长预测和规划未来。我并不声称自己有水晶球。我只是根据迄今为止的经验运用基本逻辑。大多数人更关注当下和/或可能否认未来的潜在影响。我认为，在接下来的两年里，大多数人都会对即将发生的巨大变化感到措手不及。    提交人    /u/BeingBalanced   [链接] [评论]]]></description>
+      <description><![CDATA[我已经够老了，40 多年前 11 岁就开始编写软件代码了。当时，Radio Shack TRS 80 配备了基本的编程语言和磁带存储，非常了不起，不久之后，IBM PC 也配备了软盘，个人电脑革命开始了，改变了世界。 然后出现了互联网、电子邮件、网站等，再次推动了社会巨大的技术变革。 据我估计，人工智能的变化将比这两项历史性技术发展都要大一个数量级。 在过去的 6 个月里，我一直在使用各种人工智能工具，比较不同聊天机器人的响应。我试图向朋友和家人解释这些东西有多么有用，以及变化有多大。  但奇怪的是，无论是与我交谈的人，还是在 Reddit 上的讨论中，我都能看出普通人还没有真正理解这一点。他们不知道目前所有可用的工具，更不用说如何充分利用它们了。除了媒体对终结者之类的世界末日场景的炒作之外，他们肯定不知道这将给他们的日常生活，尤其是工作带来多大的变化。  我相信人工智能很容易让至少三分之一的劳动力变得无关紧要。其中一些将被涉及开发和维护人工智能相关产品的新工作所抵消，就像计算机网络和服务器首次问世时一样，它们不仅帮助公司更高效地运营，还创造了一个庞大的 IT 支持工作和公司行业。 但我相信，随着人工智能将创造的变化量级的提高，与人工智能相关的新工作将远远不足以抵消整体失业。有了人工智能，我现在可以做三个程序员的工作。这只是一个常见的例子。数以百万计的编码以外的工作将被人工智能工具取代。这是无法避免的，因为一旦一家公司开始这样做以节省成本，所有其他公司也必须这样做以保持竞争力。 所以我提出这个问题。你认为大多数人还要多久才能开始明白人工智能不仅仅是一个有时非常有用的聊天机器人来提问，而且会促进社会发生巨大的变化？当他们被解雇，原因是你被人工智能系统取代时？ 失业影响会造成比大萧条更严重的经济形势吗？我认为即使这有可能发生，目前也没有一个“思想家”（或大众媒体）愿意就此进行坦诚的公开讨论，因为担心会引起恐慌。有点像有些聪明人知道小行星即将到来并将摧毁半个地球，但他们会等到最晚的时间才告诉所有人，以避免大规模歇斯底里和混乱吗？（我绝不是阴谋论者。）当然，小行星事件发生的速度比人工智能系统的实施要快得多。我认为许多对人工智能及其对劳动力的影响发表评论的首席执行官都对其过于乐观，因为他们不想被视为贪婪的就业杀手。 在我看来，人们通常不擅长预测和规划未来。我并不声称拥有水晶球。我只是根据迄今为止的经验运用基本逻辑。大多数人更关注当前和/或可能否认未来的潜在影响。我认为，在接下来的两年里，大多数人都会对即将发生的巨大变化感到措手不及。    提交人    /u/BeingBalanced   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fq5s4m/how_long_before_the_general_public_gets_it_and/</guid>
       <pubDate>Thu, 26 Sep 2024 20:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 摘下面具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpwqmy/openai_takes_its_mask_off/</link>
-      <description><![CDATA[Karen Hao 写道，Sam Altman 的“非凡能力，可以提升自己并说服人们将权力移交给他”，这种能力贯穿了他的整个职业生涯。https://theatln.tc/4Ixqhrv6  “昨天短短几个小时内，公众就得知 OpenAI 首席技术官、除 Altman 之外公司最重要的领导者 Mira Murati 将与另外两名关键高管一起离职：首席研究官 Bob McGrew 和研究副总裁 Barret Zoph，他在 ChatGPT 和 GPT-4o 的发布中发挥了重要作用，GPT-4o 是一个“全能”模型，在发布时，听起来与斯嘉丽约翰逊 (Scarlett Johansson) 惊人地相似。更糟糕的是，路透社、华尔街日报和彭博社报道称，OpenAI 正计划脱离非营利性质，成为一家估值可能达到 1500 亿美元的营利性企业。据报道，Altman 可以在新协议中获得 7% 的股权，如果估值成功，相当于 105 亿美元。（大西洋月刊最近与 OpenAI 建立了企业合作伙伴关系。） “......我从 2019 年开始报道 OpenAI，大约是在它开始产生值得注意的研究的时候，”郝继续说道。“该公司成立时是一家非营利组织，其使命是确保 AGI（一种理论上的通用人工智能，或达到或超过人类潜力的人工智能）能够造福‘全人类’。当时，OpenAI 刚刚发布了 GPT-2，这种语言模型将使 OpenAI 走上构建更大模型的轨道，并导致其发布 ChatGPT。在 GPT-2 发布后的六个月里，OpenAI 发布了更多公告，包括 Altman 出任 CEO、增加一个由非营利组织进行技术监督和管理的营利部门、与微软建立新的多年合作伙伴关系并获得 10 亿美元投资。同年 8 月，我在 OpenAI 办公室待了三天，对该公司进行了介绍。那时我第一次注意到，OpenAI 的公共形象与公司在幕后运作的方式之间存在越来越大的差异。OpenAI 的公共形象是围绕透明、利他主义和协作的叙述精心打造的，而公司在幕后运作的方式是：沉迷于保密、追求利润和竞争。” “... 在某种程度上，昨天宣布的所有变化只是向公众展示了公司内部长期以来发生的事情。非营利组织一直存在到现在。但所有的外部投资——来自一系列科技公司和风险投资公司的数十亿美元——都直接进入了营利机构，该公司还雇佣了员工。去年年底的董事会危机，导致 Altman 被暂时解雇，是对两人权力平衡的一次重大考验。当然，金钱赢了，Altman 最终胜出。” 在此处阅读更多信息：https://theatln.tc/4Ixqhrv6    提交人    /u/theatlantic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpwqmy/openai_takes_its_mask_off/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:53:49 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
@@ -141,7 +141,7 @@
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
