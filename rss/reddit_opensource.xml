@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Sep 2024 18:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 21:02:17 GMT</lastBuildDate>
+    <item>
+      <title>测试发布 Zentrox：简单的家庭实验室设备管理 (Rust)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frlnhj/test_releasing_zentrox_simple_home_lab_device/</link>
+      <description><![CDATA[        提交人    /u/Wervice   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frlnhj/test_releasing_zentrox_simple_home_lab_device/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:08:11 GMT</pubDate>
+    </item>
     <item>
       <title>您能分享一个 Github 上公开提供的优秀路线图的示例吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1frjenb/can_you_share_an_example_of_a_great_publicly/</link>
-      <description><![CDATA[嗨， 对于从事开源项目的项目经理，您是否有几个直接在 Github 中使用的出色路线图示例？或者您是否认为 Github 的“项目”功能有限，无法创建良好的路线图，但您更愿意与其他产品集成？ 这是一个随机示例，但我正在寻找更好的东西：https://github.com/orgs/fonoster/projects/9    提交人    /u/canarysplit   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 对于从事开源项目的项目经理，您是否有几个直接在 Github 中使用的出色路线图示例？或者您是否认为 Github 的“项目”功能有限，无法创建良好的路线图，而您更愿意与其他产品集成？ 这是一个随机示例，但我正在寻找更好的东西：https://github.com/orgs/fonoster/projects/9    提交人    /u/canarysplit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1frjenb/can_you_share_an_example_of_a_great_publicly/</guid>
       <pubDate>Sat, 28 Sep 2024 17:27:03 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>微软白板的替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1frcss9/replacement_to_microsoft_whiteboard/</link>
-      <description><![CDATA[嘿，我只想要最好的开源软件，用于在白板上绘图，以便进行物理和数学研究。我只是不想像个荡妇一样将我的数据发送给微软。    提交人    /u/RlQZO   [link] [comments]]]></description>
+      <description><![CDATA[嘿，我只想要最好的开源软件，用于在白板上绘图，以便学习物理和数学。我只是不想像个荡妇一样将我的数据发送给微软。    提交人    /u/RlQZO   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1frcss9/replacement_to_microsoft_whiteboard/</guid>
       <pubDate>Sat, 28 Sep 2024 12:05:45 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>🚀 **查看 TrendTrack：通往最热门 GitHub Repos 的门户！** 🌟</title>
       <link>https://www.reddit.com/r/opensource/comments/1fr9j8u/check_out_trendtrack_your_gateway_to_the_hottest/</link>
-      <description><![CDATA[大家好！👋  我一直在开发 TrendTrack，这是一个让您了解 GitHub 上最新趋势存储库的平台。如果您是开发人员、技术爱好者，或者只是对代码未来的发展感到好奇，TrendTrack 是让您保持领先地位的理想场所。 无论您是想探索新想法、发现创新工具还是为激动人心的项目做出贡献，TrendTrack 都可以在一个干净、易于使用的平台上满足您的所有需求。我们每天都会跟踪顶级存储库，帮助您随时了解前沿技术和引起轰动的项目。🌊 如果您发现它有用或有改进的想法，我将非常乐意得到您的支持！ ⭐ Star 👉 在 GitHub 上查看 TrendTrack 👈 让我们一起创造一些很棒的东西！    由   提交  /u/Bashamega   [link] [评论]]]></description>
+      <description><![CDATA[大家好！👋  我一直在开发 TrendTrack，这是一个让您了解 GitHub 上最新趋势存储库的平台。如果您是开发人员、技术爱好者，或者只是对代码未来的发展感到好奇，TrendTrack 是让您保持领先地位的理想场所。 无论您是想探索新想法、发现创新工具还是为激动人心的项目做出贡献，TrendTrack 都可以在一个干净、易于使用的平台上满足您的所有需求。我们每天都会跟踪顶级存储库，帮助您随时了解前沿技术和项目。🌊 如果您发现它有用或有改进的想法，我将非常乐意得到您的支持！ ⭐ Star 👉 在 GitHub 上查看 TrendTrack 👈 让我们一起创造一些很棒的东西！    由   提交  /u/Bashamega   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fr9j8u/check_out_trendtrack_your_gateway_to_the_hottest/</guid>
       <pubDate>Sat, 28 Sep 2024 08:08:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[AItrika AItrika 是一种可让您轻松从 PubMed 或本地 PDF 上的医学文献中提取信息的工具。  这个项目源于我自己的需求以及我在撰写论文时遇到的问题，因为查找与医学文献相关的信息可能非常繁琐，因为您必须经过各种门户、身份验证等。  AItrika 的目的是尝试简化这些信息的提取。  欢迎随时做出贡献，欢迎任何建议！    提交人    /u/SupertrampDFenx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fprtfx/aitrika_easily_extract_relevant_information_from/</guid>
       <pubDate>Thu, 26 Sep 2024 09:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>汇合就像克隆吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fprrrf/confluence_like_clone/</link>
-      <description><![CDATA[嗨，专家们， 我正在寻找一个类似 Confluence 的 wiki 文档系统，供我个人使用。 我知道我可以使用 Notion 或类似的笔记应用程序，并进行修改以满足要求。 但我很好奇将其作为一个学习项目来实现。 你碰巧遇到过这样的 repo 吗？ TIA    提交人    /u/pikulk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fprrrf/confluence_like_clone/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:00:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

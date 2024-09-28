@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 18:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 21:02:24 GMT</lastBuildDate>
     <item>
       <title>讲谈</title>
       <link>https://www.producthunt.com/posts/kodan</link>
@@ -135,7 +135,7 @@
       <title>盖亚</title>
       <link>https://www.producthunt.com/posts/gaia-3</link>
       <description><![CDATA[
-无需代码的工具，即可训练和部署机器翻译模型
+用于训练和部署机器翻译模型的无代码工具
 
 
 讨论
@@ -230,6 +230,20 @@
       <pubDate>Tue, 24 Sep 2024 06:59:22 GMT</pubDate>
     </item>
     <item>
+      <title>库贝墙</title>
+      <link>https://www.producthunt.com/posts/kubewall</link>
+      <description><![CDATA[
+适用于 Kubernetes 的免费开源 GUI 仪表板
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kubewall</guid>
+      <pubDate>Mon, 23 Sep 2024 16:26:43 GMT</pubDate>
+    </item>
+    <item>
       <title>艾拉2.0</title>
       <link>https://www.producthunt.com/posts/ayraa-2-0</link>
       <description><![CDATA[
@@ -270,20 +284,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/podsnap-ai</guid>
       <pubDate>Fri, 30 Aug 2024 10:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>三角力量全部</title>
-      <link>https://www.producthunt.com/posts/triforce-todos</link>
-      <description><![CDATA[
-极简主义塞尔达 - 主题任务管理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/triforce-todos</guid>
-      <pubDate>Mon, 19 Aug 2024 08:13:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
