@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Sep 2024 06:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 09:02:11 GMT</lastBuildDate>
+    <item>
+      <title>🚀 **查看 TrendTrack：通往最热门 GitHub Repos 的门户！** 🌟</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fr9j8u/check_out_trendtrack_your_gateway_to_the_hottest/</link>
+      <description><![CDATA[大家好！👋  我一直在开发 TrendTrack，这是一个让您了解 GitHub 上最新趋势存储库的平台。如果您是开发人员、技术爱好者，或者只是对代码未来的发展感到好奇，TrendTrack 是让您保持领先地位的理想场所。 无论您是想探索新想法、发现创新工具还是为激动人心的项目做出贡献，TrendTrack 都可以在一个干净、易于使用的平台上满足您的所有需求。我们每天都会跟踪顶级存储库，帮助您随时了解前沿技术和项目。🌊 如果您发现它有用或有改进的想法，我将非常乐意得到您的支持！ ⭐ Star 👉 在 GitHub 上查看 TrendTrack 👈 让我们一起创造一些很棒的东西！    由   提交  /u/Bashamega   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fr9j8u/check_out_trendtrack_your_gateway_to_the_hottest/</guid>
+      <pubDate>Sat, 28 Sep 2024 08:08:10 GMT</pubDate>
+    </item>
     <item>
       <title>电子书阅读器应用功能建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1fr6z58/ebook_reader_app_feature_suggestions/</link>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 28 Sep 2024 01:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>canvasLab - 发布 v0.7.179</title>
+      <title>canvasLab——发布 v0.7.179</title>
       <link>https://www.reddit.com/r/opensource/comments/1fr31lf/canvaslab_release_v07179/</link>
       <description><![CDATA[HTML5 画布插图和动画框架 Github：canvasLab v0.7.179    由   提交  /u/cheerful_jellyfish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fr31lf/canvaslab_release_v07179/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/GreyBeardWizard  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fp8ecp/how_should_the_foss_movement_respond_to/</guid>
       <pubDate>Wed, 25 Sep 2024 16:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>（麻省理工学院）用于处理视觉丰富文档的轻量级 SOTA RAG 管道</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fp7z3o/mit_a_lightweight_sota_rag_pipeline_for/</link>
-      <description><![CDATA[基于文本的 RAG 在视觉丰富的文档（如演示文稿或公司报告）上表现不佳。我们一直在努力尝试无数种方法，以支持 RAG 管道中的各种图形、表格和其他随机元素，直到我们意识到这是解决问题的根本错误方法。 有两个关键瓶颈：视觉元素使文本变得混乱，导致 (1) 检索效果不佳和 (2) LLM 理解不佳。我们没有支持每个极端情况，而是开发了一个 RAG 管道，将文档同时视为图像和文本，从而大幅减少了大小（8B 优于 70B）并且与当前的 SOTA 相比，质量有所提高。 https://github.com/Bynesoft-Ltd/BynePDF    提交人    /u/UndercoverEcmist   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fp7z3o/mit_a_lightweight_sota_rag_pipeline_for/</guid>
-      <pubDate>Wed, 25 Sep 2024 15:58:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
