@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:03:22 GMT</lastBuildDate>
+    <item>
+      <title>每日总结 AI 研究论文 #31</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frqido/summarising_ai_research_papers_everyday_31/</link>
+      <description><![CDATA[标题：每日总结 AI 研究论文 #31 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“检索不同观点的开放世界评估”，作者是 Hung-Ting Chen 和 Eunsol Choi。 本文探讨了在处理需要呈现不同观点的复杂主观查询时信息检索所面临的挑战。它的重点与传统的检索任务不同，它优先考虑观点多样性而不是简单的相关性，这种方法旨在改进现实世界中的应用，如检索增强语言模型 (RALM)。论文介绍了主观问题检索多样性基准 (BeRDS)，并在不同的语料库中测试了各种检索方法，以衡量它们在获取广泛观点方面的有效性。 论文的主要发现包括：  视角多样性的挑战：当前的检索系统存在不足，仅在约 33.74% 的示例中涵盖了所有不同的观点。即使有了增强，实现真正全面的多样性仍然很困难。 新方法和基准：本文介绍了一种基于 LLM 的自动评估器和基准数据集 (BeRDS)，无需依赖传统的字符串匹配方法即可评估检索多样性。 检索语料库分析：研究发现，使用基于网络的语料库（如 Sphere 和 Google Search）的密集检索器，可以产生比 Wikipedia 等传统来源更多样化的输出。 重新排名和查询扩展的影响：结果表明，应用重新排名和查询扩展策略可显着增强检索多样性，尤其是在利用 GPT-4 生成不同视角时。 检索者阿谀奉承：该研究强调了检索者内部的偏见，他们倾向于支持与检索者一致的观点。与查询中提供的信息相匹配，揭示了影响检索结果的内在谄媚。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frqido/summarising_ai_research_papers_everyday_31/</guid>
+      <pubDate>Sat, 28 Sep 2024 23:01:18 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能今天就能为你投资吗，还是这只是未来的梦想？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frm00b/can_ai_invest_money_for_you_today_or_is_that_a/</link>
@@ -116,13 +123,6 @@
       <description><![CDATA[ 微软重新推出“隐私噩梦”AI截图工具。[1] 海关部门安装了 40 台新的 AI 行李扫描仪，以加强入境处的安全性。[2] 马克·扎克伯格 (Mark Zuckerberg) 面临 Sarah Silverman 和其他作者的 AI 版权诉讼。[3] 谷歌和 Meta在“AlphaChip”崛起之际更新其 AI 模型。[4]  来源包括：https://bushaicave.com/2024/09/27/9-27-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fr47hv/oneminute_daily_ai_news_9272024/</guid>
       <pubDate>Sat, 28 Sep 2024 02:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周人工智能——简要介绍所有主要人工智能发展</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqpq9s/this_week_in_ai_all_the_major_ai_developments_in/</link>
-      <description><![CDATA[ Allen AI 发布了 Molmo（多模态开放语言模型），这是一组最先进的视觉语言模型 (VLM)。最小的 MolmoE-1B 在学术基准和人工评估方面的表现几乎与 GPT-4V 相当。最大的 72B 模型与 GPT-4o、Claude 3.5 和 Gemini 1.5 相比毫不逊色。Molmo 可以指向它所看到的东西，从而实现物理和虚拟世界中的丰富交互 [详细信息 | 视频 | Meta 发布 Llama 3.2 - 包括小型和中型视觉 LLM（11B 和 90B）以及适合边缘和移动设备的轻量级纯文本模型（1B 和 3B）。Llama 3.2 视觉模型在图像识别和一系列视觉理解任务上可与 Claude 3 Haiku 和 GPT4o-mini 相媲美。3B 模型在遵循指令、总结、提示重写和工具使用等任务上优于 Gemma 2 2.6B 和 Phi 3.5-mini 模型 [详细信息]。 阿里巴巴团队提出了 MIMO，这是一种新颖的可泛化模型，它可以从简单的用户输入中合成具有可控属性（即角色、动作和场景）的角色视频。源代码和预训练模型将在论文被接受后发布 [详情]。 BAAI 发布了 Emu3，这是一套全新的先进多模态模型，仅使用下一个标记预测进行训练。Emu3 经过训练，可使用单个 Transformer 在视频、图像和文本标记的混合上预测下一个标记。有了视频上下文，Emu3 可以自然地扩展视频并预测接下来会发生什么。该模型可以模拟物理世界中环境、人和动物的某些方面 [详情]。 Google 发布了两个更新的生产就绪型 Gemini 模型：Gemini-1.5-Pro-002 和 Gemini-1.5-Flash-002，同时降低了 1.5 Pro 的价格、提高了速率限制、输出速度提高了 2 倍、延迟降低了 3 倍 [详情] OpenAI 在 Moderation API 中引入了一种新的审核模型 omni-moderation-latest。新模型基于 GPT-4o，支持文本和图像输入，并且比以前的模型更准确，尤其是在非英语语言方面 [详情]。 Meta 为其 AI 助手 Meta AI 引入了新的多模式功能，包括语音交互以及照片理解和编辑。 Meta 正在为 Reels 测试新的 AI 功能，包括自动视频配音和口型同步 [详情]。 Hugging Face 发布了 HuggingChat macOS，这是一款原生 macOS 应用，将强大的开源语言模型直接带到桌面，具有 markdown 支持、网页浏览和代码语法高亮显示 [详情]。 Deepgram 推出了 Deepgram Voice Agent API，这是一种用于 AI 代理的统一语音到语音 API，可以实现人与机器之间自然的对话 [详情]。 Google NotebookLM 增加了音频和 YouTube 支持，以及更轻松地共享音频概览 [详情]。 Meta 发布了 Llama Stack 的第一个官方发行版，旨在简化开发人员围绕 Llama 构建以支持代理应用程序等的方式 [详情]。 Runway 推出了百部电影基金，以资助一百部利用人工智能讲述故事的电影。目前，该基金规模为 500 万美元，有可能增长到 1000 万美元 [详情] OpenAI 推出高级语音模式，具有更多声音和新外观 [详情]。 Meta 推出 Orion 增强现实眼镜原型 [详情]。 OpenAI 正在推出 OpenAI Academy，该学院将投资于利用 AI 来帮助解决难题并促进社区经济增长的开发人员和组织 [详情]。  来源：AI Brews - 由于自动删除，链接已从此帖子中删除，但它们存在于时事通讯中。加入是免费的，每周只发送一次，包含简短的新闻、学习资源和精选工具。谢谢！    提交人    /u/wyem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqpq9s/this_week_in_ai_all_the_major_ai_developments_in/</guid>
-      <pubDate>Fri, 27 Sep 2024 14:58:40 GMT</pubDate>
     </item>
     <item>
       <title>我参与了欧盟人工智能法案的制定，AMA！</title>

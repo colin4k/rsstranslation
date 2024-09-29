@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:03:55 GMT</lastBuildDate>
+    <item>
+      <title>从事我热衷的 FOSS 项目 - Darnahi</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frr9zk/working_on_a_foss_project_i_am_passionate_about/</link>
+      <description><![CDATA[Darnahi v2.3 是一款个人健康智能应用，可让您将健康数据存储在计算机上，并在本地运行 AI 工具以生成个人见解。您的数据永远不会离开您的计算机。它是：1. 自托管（这意味着您必须在自己的 Linux 计算机上运行/安装它，并且您的所有数据都保留在您的计算机上；您的数据不会离开您的计算机，并且安全性受您自己计算机的安全性限制），2. 开源（永远免费） 要求：Linux Ollama； mistral-nemo 模型（需要下载） 要获得功能齐全的应用程序，请转到此处并按照说明操作： https://github.com/seapoe1809/Health_server 新功能：1.更安全 2.使用您的健康数据做更多事情 2.询问以结构化和非结构化 RAG 存储的医疗记录 3.本地运行 LLM 和本地运行 darnahi 服务器#privacy 4.更好的 AI 引擎，使用 NLP 分析您的健康文件以创建健康筛查建议（基于 USPTF）、wordclouds、darnabot 的 RAG 5.症状记录器（可选使用 AI 生成注释）用于存储在 darnahi 文件服务器中）。如果您愿意，可以以 pdf 的形式与您的提供商共享 5. 更全面的 Chartit 以 FHIR R4 格式记录您的基本信息 6. 能够查看医疗 dicom 图像文件、xml 文件、适合您年龄的健康建议 7. 能够安全地远程加密和压缩文件 8. 新的 AI 模块 a) 体重/血压/血糖/AI 水跟踪器 b) IBS 模块 - 跟踪您的饮食和排便习惯；AI FODMAP 引擎；锻炼来管理您的 IBS，了解您的 IBS 和其他提示 c) 免疫护照 - 跟踪和记录您的免疫接种；AI 旅行顾问；旅行地图；和其他提示 查看视频：对于 Darnahi Landing：darnahi_landing.webm 对于 Darnabot：darnabot2.webm 对于可选模块 https://nostrcheck.me/media/49a2ed6afaabf19d0570adab526a346266be552e65ccbd562871a32f79df865d/ea9801cb687c5ff0e78d43246827d4f1692d4bccafc8c1d17203c0347482c2f9.mp4 如需演示 UI 体验，请单击此处（功能已关闭）：https://seapoe1809.pythonanywhere.com/login pwd- health    提交人    /u/TestPilot1980   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frr9zk/working_on_a_foss_project_i_am_passionate_about/</guid>
+      <pubDate>Sat, 28 Sep 2024 23:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOSS：可从任何互联网媒体中去除噪音/音乐/效果的声音提取器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frqldq/foss_vocal_extractor_with_noisemusiceffects/</link>
+      <description><![CDATA[我最近开源了一个工具，它可以从任何 YouTube 视频（以及其他平台）中提取人声/语音。它能够在不到一分钟的时间内过滤和增强 10 分钟视频的音频。根据 MIT 许可证发布这里，已 dockerized 供您试用。 感谢 DeepFilterNet，它的音频质量非常好，我设法显著提高了性能。非常希望您能做出贡献！我的目标是为所有人提供这个免费工具，无论是用于实时供稿还是离线分析。感谢您的反馈    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frqldq/foss_vocal_extractor_with_noisemusiceffects/</guid>
+      <pubDate>Sat, 28 Sep 2024 23:05:27 GMT</pubDate>
+    </item>
     <item>
       <title>测试发布 Zentrox：简单的家庭实验室设备管理 (Rust)</title>
       <link>https://www.reddit.com/r/opensource/comments/1frlnhj/test_releasing_zentrox_simple_home_lab_device/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/gadgetygirl 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fq012t/russ_coxs_next_act_aipowered_help_agents_for_open/</guid>
       <pubDate>Thu, 26 Sep 2024 16:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>“.desktop”文件中的翻译有版权吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fpt6aq/is_the_translation_in_desktop_file_copyright/</link>
-      <description><![CDATA[我可以在其他开源项目中使用它吗？我想要翻译“新窗口”。    提交人    /u/XLioncc   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fpt6aq/is_the_translation_in_desktop_file_copyright/</guid>
-      <pubDate>Thu, 26 Sep 2024 10:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>AItrika：轻松从医学文献中提取相关信息</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fprtfx/aitrika_easily_extract_relevant_information_from/</link>
-      <description><![CDATA[AItrika AItrika 是一种可让您轻松从 PubMed 或本地 PDF 上的医学文献中提取信息的工具。  这个项目源于我自己的需求以及我在撰写论文时遇到的问题，因为查找与医学文献相关的信息可能非常繁琐，因为您必须经过各种门户、身份验证等。  AItrika 的目的是尝试简化这些信息的提取。  欢迎随时做出贡献，欢迎任何建议！    提交人    /u/SupertrampDFenx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fprtfx/aitrika_easily_extract_relevant_information_from/</guid>
-      <pubDate>Thu, 26 Sep 2024 09:04:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
