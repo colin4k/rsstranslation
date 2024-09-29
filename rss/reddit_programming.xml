@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Sep 2024 12:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 15:02:16 GMT</lastBuildDate>
+    <item>
+      <title>类型与无类型——类型如何让代码跨开发人员、组织和代码大小进行扩展</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs65du/types_vs_no_types_how_types_allow_code_to_scale/</link>
+      <description><![CDATA[  由    /u/SIRHAMY  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs65du/types_vs_no_types_how_types_allow_code_to_scale/</guid>
+      <pubDate>Sun, 29 Sep 2024 14:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Datalog 的依赖类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs4lsc/dependent_types_for_datalog/</link>
+      <description><![CDATA[  由    /u/mbid  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs4lsc/dependent_types_for_datalog/</guid>
+      <pubDate>Sun, 29 Sep 2024 13:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>操作指南：将 React 项目从 Bootstrap 迁移到 Tailwind CSS</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs4imj/how_to_guide_migrate_a_react_project_from/</link>
+      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs4imj/how_to_guide_migrate_a_react_project_from/</guid>
+      <pubDate>Sun, 29 Sep 2024 13:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个 .NET ORM-Dapper 还是 Entity Framework？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs43fq/which_net_orm_dapper_or_entity_framework/</link>
+      <description><![CDATA[  由   提交  /u/damian2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs43fq/which_net_orm_dapper_or_entity_framework/</guid>
+      <pubDate>Sun, 29 Sep 2024 13:15:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 组件没问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs3iin/web_components_are_okay/</link>
+      <description><![CDATA[  由    /u/MissionToAfrica  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs3iin/web_components_are_okay/</guid>
+      <pubDate>Sun, 29 Sep 2024 12:45:17 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Claude3.5 创建 ChartRace 生成工具</title>
       <link>https://www.reddit.com/r/programming/comments/1fs1wbh/how_to_create_a_chartrace_generation_tool_with/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1frj9m6/why_your_first_ai_model_will_fail_and_why_thats/</guid>
       <pubDate>Sat, 28 Sep 2024 17:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布推出 iceoryx2 v0.4：适用于 Rust、C++ 和 C 的超快进程间通信库</title>
-      <link>https://www.reddit.com/r/programming/comments/1fri9v0/announcing_iceoryx2_v04_incredibly_fast/</link>
-      <description><![CDATA[  由    /u/elfenpiff  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fri9v0/announcing_iceoryx2_v04_incredibly_fast/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的微分方程</title>
-      <link>https://www.reddit.com/r/programming/comments/1frhcv2/differential_equations_in_python/</link>
-      <description><![CDATA[  由    /u/PassionImmediate9615  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frhcv2/differential_equations_in_python/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>与剧作家一起追踪超市价格</title>
-      <link>https://www.reddit.com/r/programming/comments/1frgblr/tracking_supermarket_prices_with_playwright/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frgblr/tracking_supermarket_prices_with_playwright/</guid>
-      <pubDate>Sat, 28 Sep 2024 15:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：文摘 #35</title>
-      <link>https://www.reddit.com/r/programming/comments/1frfsr2/engineering_with_java_digest_35/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frfsr2/engineering_with_java_digest_35/</guid>
-      <pubDate>Sat, 28 Sep 2024 14:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合初学者的机器学习：今天就开始您的人工智能之旅！</title>
-      <link>https://www.reddit.com/r/programming/comments/1freyxl/machine_learning_for_absolute_beginners_start/</link>
-      <description><![CDATA[  由    /u/k4coding  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1freyxl/machine_learning_for_absolute_beginners_start/</guid>
-      <pubDate>Sat, 28 Sep 2024 14:02:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
