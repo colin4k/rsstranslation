@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Sep 2024 15:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 18:02:10 GMT</lastBuildDate>
+    <item>
+      <title>使用 Alpine.js 增强客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs8pqv/augmenting_the_client_with_alpinejs/</link>
+      <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs8pqv/augmenting_the_client_with_alpinejs/</guid>
+      <pubDate>Sun, 29 Sep 2024 16:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为语法糖和干净、可读的代码的良好实践创建一个子程序。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs8m3t/creating_a_sub_for_syntactic_sugar_and_good/</link>
+      <description><![CDATA[我目前正在创建一个新的子版块，只关注优秀、可读且易于使用的代码部分。如果您有兴趣，请查看。如果您想成为 mod 团队的一员，请给我发私信，并附上简短的动机。    提交人    /u/theChaosBeast   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs8m3t/creating_a_sub_for_syntactic_sugar_and_good/</guid>
+      <pubDate>Sun, 29 Sep 2024 16:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>蜘蛛侠 (Neversoft) 反编译项目进度检查点 - 2024 年 9 月</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs89mo/spiderman_neversoft_decompilation_project/</link>
+      <description><![CDATA[  由    /u/krystalgamer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs89mo/spiderman_neversoft_decompilation_project/</guid>
+      <pubDate>Sun, 29 Sep 2024 16:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚用 Python 编写了一个间谍软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs7sog/i_just_built_a_spyware_in_python/</link>
+      <description><![CDATA[  由    /u/madhanmaaz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs7sog/i_just_built_a_spyware_in_python/</guid>
+      <pubDate>Sun, 29 Sep 2024 16:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员从人工智能编码助手中获得的收益微乎其微</title>
+      <link>https://www.reddit.com/r/programming/comments/1fs72u2/devs_gaining_little_if_anything_from_ai_coding/</link>
+      <description><![CDATA[  由    /u/Zardotab  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fs72u2/devs_gaining_little_if_anything_from_ai_coding/</guid>
+      <pubDate>Sun, 29 Sep 2024 15:33:58 GMT</pubDate>
+    </item>
     <item>
       <title>类型与无类型——类型如何让代码跨开发人员、组织和代码大小进行扩展</title>
       <link>https://www.reddit.com/r/programming/comments/1fs65du/types_vs_no_types_how_types_allow_code_to_scale/</link>
@@ -83,7 +118,7 @@
       <pubDate>Sun, 29 Sep 2024 05:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>TCP 为什么需要 3 次握手</title>
+      <title>为什么TCP需要3次握手</title>
       <link>https://www.reddit.com/r/programming/comments/1frsz7s/why_tcp_needs_3_handshakes/</link>
       <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1frsz7s/why_tcp_needs_3_handshakes/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/yangzhou1993  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fro7aa/reviewing_new_typing_features_in_python_313/</guid>
       <pubDate>Sat, 28 Sep 2024 21:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 中的泛型类</title>
-      <link>https://www.reddit.com/r/programming/comments/1frkf0o/clases_genéricas_en_typescript/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frkf0o/clases_genéricas_en_typescript/</guid>
-      <pubDate>Sat, 28 Sep 2024 18:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>鸡尾酒旋转排序 - 鸡尾酒调酒器排序的一种变体，可同时从数组的两端进行排序</title>
-      <link>https://www.reddit.com/r/programming/comments/1frk3hj/cocktail_twister_sort_a_variant_of_cocktail/</link>
-      <description><![CDATA[  由    /u/Inner-Raspberry1347  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frk3hj/cocktail_twister_sort_a_variant_of_cocktail/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAG 不仅仅是文本</title>
-      <link>https://www.reddit.com/r/programming/comments/1frjsyb/rag_is_not_just_text/</link>
-      <description><![CDATA[  由    /u/CarefreeCrayon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frjsyb/rag_is_not_just_text/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用函数式 Web 组件创建待办事项列表</title>
-      <link>https://www.reddit.com/r/programming/comments/1frjhk7/how_to_create_a_todo_list_with_functional_web/</link>
-      <description><![CDATA[  由    /u/Accurate-Screen8774  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frjhk7/how_to_create_a_todo_list_with_functional_web/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么你的第一个人工智能模型会失败——以及为什么这没关系</title>
-      <link>https://www.reddit.com/r/programming/comments/1frj9m6/why_your_first_ai_model_will_fail_and_why_thats/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1frj9m6/why_your_first_ai_model_will_fail_and_why_thats/</guid>
-      <pubDate>Sat, 28 Sep 2024 17:20:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
