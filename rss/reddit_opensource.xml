@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 30 Sep 2024 12:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 15:02:51 GMT</lastBuildDate>
+    <item>
+      <title>数周生活 - 开源 Chrome 扩展程序，以可视化方式呈现你的数周生活</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fsvpcs/life_in_weeks_open_source_chrome_extension_to/</link>
+      <description><![CDATA[Life in Weeks：可视化您的时间，最大限度地发挥您的潜力 使用 Life in Weeks 改变您的新标签页体验，这是一款功能强大的 Chrome 扩展程序，可以以周为单位可视化您的整个生命周期。这款创新的时间管理工具将每个新标签页变成一个激励画布，一目了然地展示您的人生旅程。 主要特点： • 每个新标签页上的个性化生活可视化 • 可自定义的出生日期和预期寿命设置 • 直观的每周网格显示过去和未来的时间 • 深色和浅色模式选​​项，方便查看 • 注重隐私的设计，具有本地数据存储 Life in Weeks 不仅仅是一款生产力应用程序 – 它还可以提醒您让每一周都过得有意义。无论您是规划未来的学生，管理长期目标的专业人士，还是任何寻求更有目的生活的人，此扩展都为您提供了独特的时间视角。 提高您的时间意识，设定有意义的目标，并拥抱生命的有限性。立即下载《生活数周》，开始让每一刻都变得有意义。 LifeInWeeks #TimeManagement #ProductivityTools #ChromeExtension #PersonalDevelopment    提交人    /u/lazyhawk20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fsvpcs/life_in_weeks_open_source_chrome_extension_to/</guid>
+      <pubDate>Mon, 30 Sep 2024 13:35:30 GMT</pubDate>
+    </item>
     <item>
       <title>macOS 菜单栏中的 RevenueCat 仪表板</title>
       <link>https://www.reddit.com/r/opensource/comments/1fssm7w/revenuecat_dashboard_in_the_menu_bar_on_macos/</link>
@@ -127,7 +134,7 @@
     <item>
       <title>是否有适合 C++ Student 的“即插即用” FOSS 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1frw8t6/plug_and_play_foss_alternatives_to_microsoft/</link>
-      <description><![CDATA[我是一名学习 C++ 的学生，我现在的编译器是 Visual Studio。但是，我对使用 FOSS 软件很感兴趣，所以我想知道有哪些 FOSS 替代方案？我现在正在尝试 VSCode，但我有点困惑，因为在 VS 上，我可以直接运行代码而无需调试，而无需安装扩展或配置 .json 文件等。这与 VSCode 形成鲜明对比，每次我尝试运行一个简单的 cout &lt;&lt; &quot;Hello World!&quot;; 时，每次我尝试运行它时，它都会要求我安装调试扩展或配置 .json 文件等。我不知道这一切意味着什么，我想我应该学习，但 VS 是如此即插即用，我只是希望还有其他同样即插即用的 FOSS 替代方案？    提交者    /u/Ok-Agent5002   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名学习 C++ 的学生，我现在的编译器是 Visual Studio。但是，我对使用 FOSS 软件很感兴趣，所以我想知道有哪些 FOSS 替代方案？我现在正在尝试 VSCode，但我有点困惑，因为在 VS 上，我可以直接运行代码而无需调试，而无需安装扩展或配置 .json 文件等。这与 VSCode 形成鲜明对比，每次我尝试运行一个简单的 cout &lt;&lt; &quot;Hello World!&quot;; 时，每次我尝试运行它时，它都会要求我安装调试扩展或配置 .json 文件等。我不知道这一切意味着什么，我想我应该学习，但 VS 是如此即插即用，我只是希望还有其他同样即插即用的 FOSS 替代方案？    提交人    /u/Ok-Agent5002   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1frw8t6/plug_and_play_foss_alternatives_to_microsoft/</guid>
       <pubDate>Sun, 29 Sep 2024 04:21:02 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我一直在分析人们在使用开源存储库时面临的挑战，我发现贡献者通常根据他们的需求和经验分为三类。我很想知道你最认同哪一类！ 1. 有具体问题但找不到解决方案 你遇到了一个特定的问题或错误，但你正在努力寻找解决方法。你真正需要的是存储库内一个高质量的问答系统，以便更快地获得有用的答案。 2. 想从开源项目中学习，但不知道从哪里开始 你有兴趣学习和贡献开源，但你不确定如何有效地开始。你可能会受益于一个指导学习系统来帮助你浏览项目。 3.想要贡献代码但需要明确的指导 您已准备好编写代码并做出贡献，但需要更好的指导来了解如何开始执行特定任务。基于特定问题指导您的学习系统将为您带来翻天覆地的变化。 ​    提交人    /u/More-Shop9383   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</guid>
       <pubDate>Sun, 29 Sep 2024 03:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源开发者应该学习设计</title>
-      <link>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</link>
-      <description><![CDATA[UI 和 UX 是许多 FOSS 项目最缺乏的部分，它阻碍了许多开源项目的发展。许多程序主要或仅由开源爱好者使用，而不是专业人士或业余爱好者使用。因此，买不起专有软件的人更愿意盗版它们，而不是使用 FOSS 替代品。确实没有多少开源项目具有良好的设计和经过深思熟虑的用户体验（也是用户真正需要的功能）。 Blender 花了十多年的时间才最终决定并重写了 UI，此后近十年后，它在改进其 UI（~2013，2.49 vs 2.5）后开始流行起来，使其更易于理解和使用，并在添加了大量请求或需要的功能（如实时渲染）后第二次流行起来（2019，2.8）。然而，GIMP 仍然无法使用，只有赞美它或说每天都使用它的人不是设计师，或者只是开源爱好者，因为糟糕的 UI 和糟糕的 UX。 我知道我会因为这篇文章而遭到很多仇恨，但我不在乎。我只是希望社区开始了解界面和用户体验的重要性。您可以学习 UI 设计、产品和 UX 设计，或吸引设计师为开源项目做出贡献。是的，开源开发人员已经有很多事情要做，但不妨开始学习，并通过不投入更多时间而改进东西，而是做一些不同的事情，以不同的方式思考，拥有知识而不是猜测。当然，这可能不会有太大变化，特别是在开始的时候，但对于整个社区来说，这将是朝着正确方向迈出的一小步。 UI 并不意味着美学或美感，而是可用性、清晰度、无阻碍性。 UX 并不意味着功能过多，只是一些使体验更简单、更容易的功能，甚至可能删除一些功能。另外，我并不是说 UIUX 是最重要的，它肯定不是。 开发人员不需要创建数百个设计概念，进行 UX 研究和访谈，创建复杂的设计系统，以及其他一切。开发人员已经设计了程序，考虑了功能，创建了程序工作流程，并通过思考、猜测和依靠直觉以他们认为最好的方式进行。了解基础知识、基础到中级设计可以消除早期的错误、猜测、额外的计划、重写，花费数小时思考如何做某事。对于大多数情况来说，这就足够了，不需要专门的 UIUX 设计师、深厚/高级知识或额外的工作量，只需用获得的知识做你已经做过的事情。这将使大多数项目能够实现大部分目标。而且达到 70% 已经是巨大的进步了。 这里有一个免费资源，你可以从这里开始：https://www.uxdatabase.io 关于 Blender 的 UI 的讨论，它使它变成了今天的样子：https://youtu.be/prD6BFYIWRY    提交人    /u/khronoblakov   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</guid>
-      <pubDate>Sun, 29 Sep 2024 01:06:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
