@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 00:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 03:09:55 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助解决地狱般的软件之谜</title>
+      <link>https://www.reddit.com/r/software/comments/1fskwo0/need_help_with_hellish_software_mystery/</link>
+      <description><![CDATA[大家好！ 总结一下：我的驱动程序有问题，每当我通过 GeForce 安装 GPU 的驱动程序时（我们尝试了多个版本的驱动程序、旧版本等），它最终都会下载一个导致我的计算机崩溃的驱动程序（黑屏，仍然可以听到 discord 上的人说话，但什么都做不了）。我尝试一次又一次地拔下和插入 HDMI，但什么也没做。我有一张关机前峰值的屏幕截图，上面显示“驱动程序安装模块”峰值高达 11%。我还会通过链接给你我的组件列表。有人能帮忙吗？我以前遇到过这个问题，但我的显示器插在主板上。我们最终通过故障排除区域中的“修复”修复了它，但自从切换到我的 GPU 后，该解决方案不再有效。请帮帮我！ pc 部件    由    /u/probsasleep_ 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fskwo0/need_help_with_hellish_software_mystery/</guid>
+      <pubDate>Mon, 30 Sep 2024 02:10:13 GMT</pubDate>
+    </item>
     <item>
       <title>哪个音频更响亮？</title>
       <link>https://www.reddit.com/r/software/comments/1fsh654/which_audio_is_louder/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>寻找与 Windows 95/3.1 记事本应用程序一样简单且基本的 MacOS 软件。</title>
       <link>https://www.reddit.com/r/software/comments/1frzaih/looking_for_a_macos_software_that_is_as_dumb_and/</link>
-      <description><![CDATA[没有备份，没有同步，绝对的基本格式和 txt 文件保存来记下无尽的笔记。我想回到我的日常工作中，在我的古老无干扰笔记中保存数百个 txt 文件，有时是胡言乱语的笔记。所以最愚蠢的 txt 文件程序。那种如果你不保存 txt 数据就没了，没有缓存，甚至没有代码格式。    提交人    /u/usmannaeem   [link] [评论]]]></description>
+      <description><![CDATA[没有备份，没有同步，绝对的基本格式和 txt 文件保存来记下无尽的笔记。我想回到我的日常工作中，在我的古老无干扰笔记上保存数百个 txt 文件，有时是胡言乱语的笔记。所以最愚蠢的 txt 文件程序。那种如果你不保存 txt 数据就没了，没有缓存，甚至没有代码格式。    提交人    /u/usmannaeem   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1frzaih/looking_for_a_macos_software_that_is_as_dumb_and/</guid>
       <pubDate>Sun, 29 Sep 2024 07:53:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我找不到任何有用的信息，不知道有没有办法。（顺便说一下，我用的是 Mac）    提交人    /u/Sectonia64   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1frxqho/how_do_i_download_the_audio_of_an_entire_youtube/</guid>
       <pubDate>Sun, 29 Sep 2024 06:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有适合非流媒体用户的优质屏幕录像机吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1frxafw/good_screen_recorder_for_nonstreamer/</link>
-      <description><![CDATA[嗨，我正在寻找一款好的屏幕录像机，但我不打算用它来直播。Windows 10。我会用它来捕捉游戏瞬间，可能还会录制会议，也许还会制作 YouTube 视频。我知道 OBS 在主播中很受欢迎，但它适合我的用途吗？或者它对我来说太臃肿和复杂了？我正在寻找一些简单的东西，但我希望它具有以下功能：  能够更改录音质量。这样，我可以以较低的质量录制以节省硬盘空间（如果需要）。 能够打开/关闭录音。此外，如果能够录制一个声源而忽略所有其他声源，那将是巨大的（如果可能的话请告诉我）。例如，如果我有游戏音频，但也播放同一台电脑上的音乐；让录音机仅拾取游戏音频。 使用可自定义的热键开始/结束录制。 如果它还有一个内置的视频编辑器，这样我就可以编辑刚刚录制的视频，那就太棒了！如果没有，也不是什么大问题。我对编辑器的要求不高，只是可以修剪/裁剪部分视频的东西。  非常感谢！    提交人    /u/stebobibo7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1frxafw/good_screen_recorder_for_nonstreamer/</guid>
-      <pubDate>Sun, 29 Sep 2024 05:30:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
