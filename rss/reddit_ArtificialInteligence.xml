@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 29 Sep 2024 21:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 00:03:35 GMT</lastBuildDate>
+    <item>
+      <title>每日总结 AI 研究论文 #32</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsg99q/summarising_ai_research_papers_everyday_32/</link>
+      <description><![CDATA[标题：每日人工智能研究论文总结 #32 我每天都会发现和总结有趣的人工智能研究论文，这样你就不必费力地浏览它们了。今天的论文题为“零阶策略梯度用于从人类反馈进行强化学习而无需奖励推理”，作者是张启宁和应雷。 本文解决了从人类反馈进行强化学习 (RLHF) 的一个紧迫挑战 - 绕过有问题的奖励推理步骤，该步骤涉及根据人类偏好估计奖励模型。作者认识到奖励推理的缺陷，例如模型错误指定和分布偏移，提出了两种新算法：零阶策略梯度 (ZPG) 和零阶块坐标策略梯度 (ZBCPG)。这些算法允许基于人类反馈直接进行策略优化，与传统方法相比，它们提供了显着的改进和简化。 要点：  直接策略优化：本文介绍了 ZPG 和 ZBCPG，它们放弃了奖励推理，直接专注于使用人类反馈优化策略，从而避开了与奖励模型相关的典型复杂性和挑战。 零阶梯度估计：两种算法都利用零阶梯度估计器来避免对预定奖励函数的需求。这涉及估计与人类偏好的价值函数差异以近似策略梯度。 收敛和效率：作者提供了详细的理论分析，证明 ZPG 和 ZBCPG 都在温和的假设下有效收敛。这些算法展示了多项式样本复杂度，表明它们在解决随机环境中的一般 RLHF 问题方面非常有效。 与现有方法的比较：与直接偏好优化 (DPO) 等受非参数策略和确定性环境假设约束的现有方法不同，ZPG 和 ZBCPG 适用于更广泛的 RL 问题，包括具有随机转换和无限状态空间的问题。 降低计算复杂度：特别是 ZBCPG，它通过关注块坐标扰动来优化策略网络，并降低计算复杂度。这种方法允许并行优化并且节省内存，尤其适用于解决大规模问题。  您可以在此处查看完整的细分：这里。 您可以在此处查看完整的原始研究论文：原始论文。    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsg99q/summarising_ai_research_papers_everyday_32/</guid>
+      <pubDate>Sun, 29 Sep 2024 22:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 让我从大麻之旅中清醒过来。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsg39c/gpt_sobered_me_up_from_my_weed_trip/</link>
+      <description><![CDATA[https://chatgpt.com/share/66f9cc13-7888-8009-90c0-69155cb3d499 当人工智能能提供更好的建议时，谁还需要人类大师？/s TLDR: 人类生活在一个需要对他人有用才能赚钱和生存的系统中。要在这种环境中脱颖而出，请专注于您可以控制的事情：培养适应能力，提高技能，并将工作与个人成就相结合。建立牢固的关系，管理压力，并设定可实现的目标。重新定义自己的成功，在实际需要和个人满足感之间取得平衡，即使在一个感觉超出你控制范围的系统中也能茁壮成长。    提交人    /u/Hunterrr__69   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsg39c/gpt_sobered_me_up_from_my_weed_trip/</guid>
+      <pubDate>Sun, 29 Sep 2024 22:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的自定义 GPT✨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsfmze/new_custom_gpts/</link>
+      <description><![CDATA[  由    /u/No-Transition3372  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsfmze/new_custom_gpts/</guid>
+      <pubDate>Sun, 29 Sep 2024 21:45:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用哪些工具进行多代理？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsf8nf/which_tools_are_you_using_for_multi_agents/</link>
+      <description><![CDATA[想要设置一个小型多代理云运行 LLM 设置以用于学习目的。你们使用什么将代理相互连接？    提交人    /u/bootyskie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsf8nf/which_tools_are_you_using_for_multi_agents/</guid>
+      <pubDate>Sun, 29 Sep 2024 21:27:03 GMT</pubDate>
+    </item>
     <item>
       <title>有没有比 ChatGPT 或 Claude 更擅长解释数学的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsd6ij/is_there_an_ai_thats_better_at_explaining_math/</link>
@@ -69,32 +97,11 @@
       <pubDate>Sun, 29 Sep 2024 14:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>请帮点忙</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fs2g5m/little_help_please/</link>
-      <description><![CDATA[我有大约 100 个 pdf 文件，我想将它们用作工作参考资料。这些材料的格式相同。模块名称、章节编号、标题、材料、问题和调查。有些材料重叠，有时可能会有不同的应用。人工智能将如何保持其分段而不返回错误的输出。 有人告诉我，所有这些数据都需要矢量化。是这样吗？有没有什么工具可以使这些任务更容易？    提交人    /u/Coachjoey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fs2g5m/little_help_please/</guid>
-      <pubDate>Sun, 29 Sep 2024 11:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI照片老化</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fs2abh/ai_photo_aging/</link>
-      <description><![CDATA[我有一个上三年级的女儿。我妻子在墙上挂了一个相框，上面有一个位置放着我女儿在校期间每年的照片，直到她毕业。我想逐年增加我女儿的年龄，然后打印出她的照片，直到她毕业，并将它们添加到她的相框中。作为一个恶作剧，看看她是否会注意到。有人有好的办法可以推荐我这样做吗？    提交人    /u/haleswd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fs2abh/ai_photo_aging/</guid>
-      <pubDate>Sun, 29 Sep 2024 11:31:59 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta AI 在 WhatsApp 上推出新的语音和照片编辑工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fs26e0/meta_ai_introduces_new_voice_and_photo_editing/</link>
       <description><![CDATA[Meta 的新 WhatsApp 更新允许用户通过语音消息与 Meta AI 进行交互并编辑共享的照片。https://theaiwired.com/meta-ai-introduces-new-voice-and-photo-editing-tools-on-whatsapp/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fs26e0/meta_ai_introduces_new_voice_and_photo_editing/</guid>
       <pubDate>Sun, 29 Sep 2024 11:24:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能能写出一本好小说吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fs1gpt/will_ai_ever_write_a_good_novel/</link>
-      <description><![CDATA[您觉得如何？AI 能写出好小说吗？我指的不是一些廉价的普通科幻/奇幻小说。    提交人    /u/CreatorOmnium   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fs1gpt/will_ai_ever_write_a_good_novel/</guid>
-      <pubDate>Sun, 29 Sep 2024 10:36:26 GMT</pubDate>
     </item>
     <item>
       <title>AI 新闻：高斯溅射、第三代 Alpha Turbo 以及更多激动人心的更新</title>
@@ -116,13 +123,6 @@
       <description><![CDATA[Meta 首席执行官马克·扎克伯格似乎认为这些内容创作者应该让这些人工智能公司免费使用他们的作品。在接受 The Verge 采访时，扎克伯格甚至认为“个人创作者或出版商倾向于高估其特定内容的价值”。 文章：https://medium.com/@sadozye86/zuckerberg-user-data-lacks-value-so-its-fair-game-for-ai-models-training-bce16c28e5ef?sk=v2%2F8a557712-f9d7-4b23-89bf-11f461fab1b7    提交人    /u/zain017   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fri99u/zuckerberg_user_data_lacks_value_so_its_fair_game/</guid>
       <pubDate>Sat, 28 Sep 2024 16:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能不能用来做什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fri2d2/what_cant_you_use_ai_for/</link>
-      <description><![CDATA[但说真的，似乎你可以输入任何东西，并将结果作为起点，即使不能全部使用它。     提交人    /u/Spare_Mulberry_366   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fri2d2/what_cant_you_use_ai_for/</guid>
-      <pubDate>Sat, 28 Sep 2024 16:25:58 GMT</pubDate>
     </item>
     <item>
       <title>正如末日论者所预测的那样，GPT-o1 表现出寻求工具性目标的力量</title>

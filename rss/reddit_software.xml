@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Sep 2024 21:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 00:03:54 GMT</lastBuildDate>
+    <item>
+      <title>哪个音频更响亮？</title>
+      <link>https://www.reddit.com/r/software/comments/1fsh654/which_audio_is_louder/</link>
+      <description><![CDATA[我有两个视频，我想做一个音频测试，看看哪一个声音最大？哪个软件适合这个？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fsh654/which_audio_is_louder/</guid>
+      <pubDate>Sun, 29 Sep 2024 22:57:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么软件应该免费？</title>
+      <link>https://www.reddit.com/r/software/comments/1fsgu1w/what_software_should_be_made_free/</link>
+      <description><![CDATA[我正在为人民互联网开发免费软件，我希望听到大家对面向用户的免费软件的任何想法。我通常寻找的是小软件建议而不是大软件建议，但任何建议都有帮助。如果您的软件确实开发出来了，或者我知道有符合您建议的免费软件，我会在回复中告诉您。谢谢！    提交人    /u/ThankYouNeutronix_02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fsgu1w/what_software_should_be_made_free/</guid>
+      <pubDate>Sun, 29 Sep 2024 22:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于个人/小型团队项目的简单项目管理/软件设计工具</title>
+      <link>https://www.reddit.com/r/software/comments/1fsfmd8/simple_project_managementsoftware_design_tool_for/</link>
+      <description><![CDATA[我正在寻找一个基本上可以让我：  编辑 wiki 页面/文档 创建图表，例如流程图、用户故事等... 问题跟踪/看板  我看过很多具有数百万个功能的大型软件，但它们似乎都有些过度，而且其中很多似乎没有内置图表绘制功能。带有图表绘制功能的工具没有其他功能。 我目前只使用 github wiki/projects，但我真的很想要一个内置图表绘制功能的工具，这样如果可能的话，我就不必在其他地方完成它们并导入它们。 如果它是免费的，或者是开源的，可以自行托管，那就更好了。   由    /u/TheLittleBlackDuck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fsfmd8/simple_project_managementsoftware_design_tool_for/</guid>
+      <pubDate>Sun, 29 Sep 2024 21:44:31 GMT</pubDate>
+    </item>
     <item>
       <title>卡巴斯基在美国被禁后，UltraAV 强制订阅。</title>
       <link>https://www.reddit.com/r/software/comments/1fsdnz9/forced_subscription_by_ultraav_after_kaspersky/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨，我正在寻找一款好的屏幕录像机，但我不打算用它来直播。Windows 10。我会用它来捕捉游戏瞬间，可能还会录制会议，也许还会制作 YouTube 视频。我知道 OBS 在主播中很受欢迎，但它适合我的用途吗？或者它对我来说太臃肿和复杂了？我正在寻找一些简单的东西，但我希望它具有以下功能：  能够更改录音质量。这样，我可以以较低的质量录制以节省硬盘空间（如果需要）。 能够打开/关闭录音。此外，如果能够录制一个声源而忽略所有其他声源，那将是巨大的（如果可能的话请告诉我）。例如，如果我有游戏音频，但也播放同一台电脑上的音乐；让录音机仅拾取游戏音频。 使用可自定义的热键开始/结束录制。 如果它还有一个内置的视频编辑器，这样我就可以编辑刚刚录制的视频，那就太棒了！如果没有，也不是什么大问题。我对编辑器的要求不高，只是可以修剪/裁剪部分视频的东西。  非常感谢！    提交人    /u/stebobibo7   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1frxafw/good_screen_recorder_for_nonstreamer/</guid>
       <pubDate>Sun, 29 Sep 2024 05:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找远程 Android 设备服务（不是模拟器）或模拟器绕过技巧</title>
-      <link>https://www.reddit.com/r/software/comments/1frx39p/looking_for_a_remote_android_device_service_not/</link>
-      <description><![CDATA[大家好！我正在寻找一种可以远程访问实际 Android 设备的在线服务。不是 Android 模拟器。 情况是这样的：这个应用程序已经开始检测它是否在模拟器上运行时。所以现在我正在寻找其他方法来运行它。购买 Android 手机对我来说不是一个选择。 理想情况下，我想租用或在特定时间段内使用手机。如果我可以在同一个帐户上使用多部手机，那就太好了。我知道 Genymotion，但不幸的是，他们的设备是模拟器。 附注：如果有人知道如何绕过应用程序的模拟器检测，我将不胜感激。我尝试过 Magisk 等各种方法，但都没有成功。 提前致谢！    提交人    /u/neekerman   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1frx39p/looking_for_a_remote_android_device_service_not/</guid>
-      <pubDate>Sun, 29 Sep 2024 05:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>REWASD 替代方案</title>
-      <link>https://www.reddit.com/r/software/comments/1frwogl/rewasd_alternative/</link>
-      <description><![CDATA[我正在寻找 rewasd 程序的替代方案，它允许您将 kbm 绑定到控制器游戏，我想欺骗我的游戏认为我在使用控制器。有任何替代方案或无限延长试用期的方法吗？    提交人    /u/You_Are_Noob   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1frwogl/rewasd_alternative/</guid>
-      <pubDate>Sun, 29 Sep 2024 04:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要有人制作一个自动化任务程序</title>
-      <link>https://www.reddit.com/r/software/comments/1frvg3u/i_need_someone_to_make_an_automation_task_program/</link>
-      <description><![CDATA[我需要一个可以自动完成游戏关卡的程序。 它需要捕捉游戏的屏幕并相应地做出动作。 它是单人纸牌游戏，所以它只需要快速完成棋盘，就是这样。 我有我所寻找的例子。 需要：智能点击、自动化 预算为 300 美元。 如果你能帮忙请告诉我 :)    提交人    /u/Maximum-Arm2527   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1frvg3u/i_need_someone_to_make_an_automation_task_program/</guid>
-      <pubDate>Sun, 29 Sep 2024 03:32:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
