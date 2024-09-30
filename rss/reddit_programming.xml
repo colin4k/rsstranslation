@@ -4,20 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 30 Sep 2024 06:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:02:20 GMT</lastBuildDate>
+    <item>
+      <title>使用 Tmux、Vim 和 VSCode 实现高效的开发人员工作流程</title>
+      <link>https://www.reddit.com/r/programming/comments/1fsqiyw/productive_developer_workflow_with_tmux_vim_and/</link>
+      <description><![CDATA[  由    /u/inelp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fsqiyw/productive_developer_workflow_with_tmux_vim_and/</guid>
+      <pubDate>Mon, 30 Sep 2024 08:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护你的微服务：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1fsq2g2/securing_your_microservices_a_comprehensive_guide/</link>
+      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fsq2g2/securing_your_microservices_a_comprehensive_guide/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Godot 用于应用程序开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1fspqic/godot_for_app_development/</link>
+      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fspqic/godot_for_app_development/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:12:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>建筑现代化 • Nick Tune & Eduardo da Sliva</title>
+      <link>https://www.reddit.com/r/programming/comments/1fspnq2/architecture_modernization_nick_tune_eduardo_da/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fspnq2/architecture_modernization_nick_tune_eduardo_da/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:07:00 GMT</pubDate>
+    </item>
     <item>
       <title>在 React 中编写代码时可以遵循的一些好技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1fsoblx/some_good_tips_to_follow_on_writing_code_in_react/</link>
       <description><![CDATA[  由    /u/freakma-shadow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fsoblx/some_good_tips_to_follow_on_writing_code_in_react/</guid>
       <pubDate>Mon, 30 Sep 2024 05:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>广播还是不广播：微妙的视角</title>
-      <link>https://www.reddit.com/r/programming/comments/1fso9s3/to_broadcast_or_not_to_broadcast_a_nuanced/</link>
-      <description><![CDATA[  由    /u/gavinhoward  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fso9s3/to_broadcast_or_not_to_broadcast_a_nuanced/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:28:03 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 Google Gemini AI 随机生成网站登录页面（第一部分）</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/krystalgamer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fs89mo/spiderman_neversoft_decompilation_project/</guid>
       <pubDate>Sun, 29 Sep 2024 16:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚用 Python 编写了一个间谍软件</title>
-      <link>https://www.reddit.com/r/programming/comments/1fs7sog/i_just_built_a_spyware_in_python/</link>
-      <description><![CDATA[  由    /u/madhanmaaz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fs7sog/i_just_built_a_spyware_in_python/</guid>
-      <pubDate>Sun, 29 Sep 2024 16:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员从人工智能编码助手中获得的收益微乎其微</title>
-      <link>https://www.reddit.com/r/programming/comments/1fs72u2/devs_gaining_little_if_anything_from_ai_coding/</link>
-      <description><![CDATA[  由    /u/Zardotab  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fs72u2/devs_gaining_little_if_anything_from_ai_coding/</guid>
-      <pubDate>Sun, 29 Sep 2024 15:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型与无类型——类型如何让代码跨开发人员、组织和代码大小进行扩展</title>
-      <link>https://www.reddit.com/r/programming/comments/1fs65du/types_vs_no_types_how_types_allow_code_to_scale/</link>
-      <description><![CDATA[  由    /u/SIRHAMY  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fs65du/types_vs_no_types_how_types_allow_code_to_scale/</guid>
-      <pubDate>Sun, 29 Sep 2024 14:53:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
