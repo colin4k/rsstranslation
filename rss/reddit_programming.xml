@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 18:02:17 GMT</lastBuildDate>
+    <item>
+      <title>9 月份新增网页平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1ft23yh/new_to_the_web_platform_in_september/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ft23yh/new_to_the_web_platform_in_september/</guid>
+      <pubDate>Mon, 30 Sep 2024 18:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要害怕重新发明轮子</title>
+      <link>https://www.reddit.com/r/programming/comments/1ft0lja/dont_be_afraid_to_reinvent_the_wheel/</link>
+      <description><![CDATA[  由    /u/BotBarrier  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ft0lja/dont_be_afraid_to_reinvent_the_wheel/</guid>
+      <pubDate>Mon, 30 Sep 2024 17:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要试图正确</title>
+      <link>https://www.reddit.com/r/programming/comments/1fszft0/stop_trying_to_be_right/</link>
+      <description><![CDATA[  由    /u/sidwyn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fszft0/stop_trying_to_be_right/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以将任何 AST 重构为纯前缀或后缀执行吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fsyihi/can_any_ast_be_refactored_to_a_purely_prefix_or/</link>
+      <description><![CDATA[所以，我一直把编写编程语言当做业余爱好。其实没什么，但简而言之，任何程序都可以用中缀、前缀或后缀格式来表达。运行时，所有代码都以后缀执行。 我想知道是否有任何代码无法重构以运行后缀？ 我之所以想知道这一点，是因为我一直在考虑类型和内存安全。不管程序是如何编译的，如果 AST 可以重构为后缀格式，那么就更容易知道某些东西是否已定义且处于有效状态。 或者相反，如果设为前缀，然后使用组合器抽象出变量范围，则可以将数据的状态和有效性作为前瞻进行验证。 这样的检查将以三种格式监视变量：定义、域和范围。编译器可以在编译时执行这些操作。  我正在学习后缀检查，因为这样大部分工作就只需要监控堆栈的状态。这似乎比 lambda 抽象评估更容易。     提交人    /u/maxjmartin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fsyihi/can_any_ast_be_refactored_to_a_purely_prefix_or/</guid>
+      <pubDate>Mon, 30 Sep 2024 15:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越多核并行：使用 SIMD 加快 Mandelbrot 速度</title>
+      <link>https://www.reddit.com/r/programming/comments/1fsyh5x/beyond_multicore_parallelism_faster_mandelbrot/</link>
+      <description><![CDATA[  由    /u/itamarst  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fsyh5x/beyond_multicore_parallelism_faster_mandelbrot/</guid>
+      <pubDate>Mon, 30 Sep 2024 15:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>广播还是不广播：微妙的视角</title>
       <link>https://www.reddit.com/r/programming/comments/1fsvi3a/to_broadcast_or_not_to_broadcast_a_nuanced/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fsnkjp/using_miragejs_to_mock_api_calls_in_a_react/</guid>
       <pubDate>Mon, 30 Sep 2024 04:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 为 Javascript 和 Typescript 项目生成测试的 CLI 工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsmubl/a_cli_tool_that_uses_ai_to_generate_tests_for/</link>
-      <description><![CDATA[  由    /u/Acceptable-Ad-7899  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsmubl/a_cli_tool_that_uses_ai_to_generate_tests_for/</guid>
-      <pubDate>Mon, 30 Sep 2024 03:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款强大的新 AI 工具，可以全天候录制你的屏幕，并使用 AI 分析录制的视频和音频，它被称为 screenpipe</title>
-      <link>https://www.reddit.com/r/programming/comments/1fshipx/a_new_powerful_ai_tool_that_can_record_your/</link>
-      <description><![CDATA[  由    /u/AbbreviationsNo3391  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fshipx/a_new_powerful_ai_tool_that_can_record_your/</guid>
-      <pubDate>Sun, 29 Sep 2024 23:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>服务器发送事件的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsg71d/how_serversent_events_work/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsg71d/how_serversent_events_work/</guid>
-      <pubDate>Sun, 29 Sep 2024 22:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免过度设计代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsg34f/avoid_overengineering_your_code/</link>
-      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsg34f/avoid_overengineering_your_code/</guid>
-      <pubDate>Sun, 29 Sep 2024 22:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>平等的编程语言概念</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsesox/the_equal_programming_language_concept/</link>
-      <description><![CDATA[  由    /u/DormantLogician  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsesox/the_equal_programming_language_concept/</guid>
-      <pubDate>Sun, 29 Sep 2024 21:07:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
