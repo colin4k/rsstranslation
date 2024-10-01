@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 01 Oct 2024 18:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 21:02:13 GMT</lastBuildDate>
+    <item>
+      <title>Fast-Music-Remover：加入我们，打造一款人人都能从中受益的 FOSS 工具！人声提取器；噪音消除器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftxfdb/fastmusicremover_join_us_in_building_a_foss_tool/</link>
+      <description><![CDATA[大家好， 我很高兴地说，我们每天都有更多的贡献者加入到构建一个完全免费和开放的工具的行列，该工具可以非常高效地清除视频中的噪音、音效和背景音乐 - 一分钟长的视频只需不到 5 秒！ 无论您喜欢后端还是前端；python 还是 C++，我们都有适合您的产品！ 感兴趣吗？只需找到 YT 视频，克隆 repo 并运行 docker 即可查看结果！ 希望见到你： https://github.com/omeryusufyagci/fast-music-remover    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftxfdb/fastmusicremover_join_us_in_building_a_foss_tool/</guid>
+      <pubDate>Tue, 01 Oct 2024 19:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们花了几个月的时间构建 oss.gg 来实现 OS 贡献的游戏化和自动化 - wdyt？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftwbl9/weve_spent_a_few_months_building_ossgg_to_gamify/</link>
+      <description><![CDATA[大家好！ 几个月前，我在 Reddit 上就我们将开源贡献游戏化的想法征求了大家的意见。 现在我们已经重新设计并发布了它，并且非常高兴能在 hacktoberfest 期间推出（因为这个想法是去年在这里提出的）。 我们成功赢得了 7 个 oss repos 来参与（dub、formbricks、hanko、openbb、papermark、twenty 和 unkey) 我们将在为期一个月的黑客马拉松中启动它，以测试它的扩展能力🤓 很想听听你的看法！我们对激励非代码贡献也特别好奇！ 看一看👉 oss.gg 很高兴听到您的反馈！    提交人    /u/jobenjada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftwbl9/weve_spent_a_few_months_building_ossgg_to_gamify/</guid>
+      <pubDate>Tue, 01 Oct 2024 19:10:46 GMT</pubDate>
+    </item>
     <item>
       <title>介绍门，一款免费、开源且无广告的壁纸应用。随附橙色壁纸。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fttl7m/introducing_doors_a_free_open_source_wallpaper/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[Life in Weeks：可视化您的时间，最大限度地发挥您的潜力 使用 Life in Weeks 改变您的新标签页体验，这是一款功能强大的 Chrome 扩展程序，可以以周为单位可视化您的整个生命周期。这款创新的时间管理工具将每个新标签页变成一个激励画布，一目了然地展示您的人生旅程。 主要特点： • 每个新标签页上的个性化生活可视化 • 可自定义的出生日期和预期寿命设置 • 直观的每周网格显示过去和未来的时间 • 深色和浅色模式选​​项，方便查看 • 注重隐私的设计，具有本地数据存储 Life in Weeks 不仅仅是一款生产力应用程序 – 它还可以提醒您让每一周都过得有意义。无论您是规划未来的学生，管理长期目标的专业人士，还是任何寻求更有目的生活的人，此扩展都为您提供了独特的时间视角。 提高您的时间意识，设定有意义的目标，并拥抱生命的有限性。立即下载《生活数周》，开始让每一刻都变得有意义。 LifeInWeeks #TimeManagement #ProductivityTools #ChromeExtension #PersonalDevelopment    提交人    /u/lazyhawk20   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fsvpcs/life_in_weeks_open_source_chrome_extension_to/</guid>
       <pubDate>Mon, 30 Sep 2024 13:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 菜单栏中的 RevenueCat 仪表板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fssm7w/revenuecat_dashboard_in_the_menu_bar_on_macos/</link>
-      <description><![CDATA[        提交人    /u/Endore8   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fssm7w/revenuecat_dashboard_in_the_menu_bar_on_macos/</guid>
-      <pubDate>Mon, 30 Sep 2024 10:50:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进 systemd 的集成测试基础设施（第 2 部分）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fss444/improving_systemds_integration_testing/</link>
-      <description><![CDATA[        提交人    /u/ArtistSad8600   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fss444/improving_systemds_integration_testing/</guid>
-      <pubDate>Mon, 30 Sep 2024 10:16:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
