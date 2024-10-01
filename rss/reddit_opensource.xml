@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 01 Oct 2024 06:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 09:02:06 GMT</lastBuildDate>
+    <item>
+      <title>动态链接替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftihqz/a_dynamic_links_alternative/</link>
+      <description><![CDATA[一段时间以来，我一直在研究开源 Firebase Dynamic Links 替代方案，因为当前的方案将于 2025 年关闭。 该服务非常精简，提供了最重要的功能以及一些分析功能和一个用于交互的快速 API。 您可以在这里查看：https://github.com/AmoabaKelvin/directt.to    提交人    /u/kamoaba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftihqz/a_dynamic_links_alternative/</guid>
+      <pubDate>Tue, 01 Oct 2024 07:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>加入我的团队，参加最盛大的开源贡献盛会！！！！每年十月都会举行！大家不要错过这个机会~~</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fti2zm/join_my_team_for_the_greatest_open_source/</link>
+      <description><![CDATA[  由    /u/aergiacodes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fti2zm/join_my_team_for_the_greatest_open_source/</guid>
+      <pubDate>Tue, 01 Oct 2024 07:05:16 GMT</pubDate>
+    </item>
     <item>
       <title>AI 文件管理器更新：现在具有试运行模式和 Llama 3.2 作为默认模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1ftc2nx/ai_file_organizer_update_now_with_dry_run_mode/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我会在我的个人 Wiki 中写下这个，但世界其他地方可能也有类似的问题。几个小时的挣扎和谷歌搜索没有帮助，所以我只把信息放在这里。正如之前提到的，Certum 为开源开发人员提供低成本的代码签名证书（因此这篇文章在 r/opensource 上），与每年仅证书费用数百美元的大牌相比，Certum 每年的费用约为 28 美元（不包括一次性购买的硬件）。 所以我有了加密卡和智能卡读卡器，是时候更新我的证书了。我记得上次很简单，所以我没有写下说明。但是在将证书安装到加密卡，然后将其颁发给本地 Windows 证书管理器后，它一直失败。使用详细（/debug）模式显示私钥丢失......但这以前从来都不是问题！以前，它只会 ping 智能卡以获取私钥，要求我输入 PIN 并签名。这个新的挂断是怎么回事？？？ 进一步挖掘后，我意识到无论我如何尝试从 proCertum CardManager（或 Certum 网站）导出密钥，然后将其添加到证书存储区，都会导致它链接到卡上的私钥。它只添加了公钥，当 signtool.exe 寻找它时，它说没有可用的私钥。 看起来 proCertum CardManager 在过去一两年内进行了更新。变化在于有两个驱动程序选项可用 - 在程序中打开卡后，在“选项”下，“微型驱动程序（推荐）”是默认选项，但有一个“CSP”选项。选择“CSP”并重新启动。CSP 是 Microsoft 的加密服务提供商 - 因此，一旦重新启动，使用 CSP 驱动程序运行程序并打开卡，它就会与 Windows 一起简化。在通用配置文件下，会出现一个以前没有的按钮！“注册证书”。是的，该按钮将使用 Windows 证书管理器注册您的证书，让它知道私钥在卡上。 然后关闭卡或程序（因为如果它被另一个程序打开，signtool.exe 无法读取它）。 然后返回 signtool.exe 并像以前一样运行它。代码：已签名。    由   提交  /u/tanjera   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fsb1nl/instructions_for_using_windows_signtoolexe_w/</guid>
       <pubDate>Sun, 29 Sep 2024 18:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elastic 创始人在专有化四年后重返开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fsayrn/elastic_founder_on_returning_to_open_source_four/</link>
-      <description><![CDATA[        提交人    /u/Franco1875   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fsayrn/elastic_founder_on_returning_to_open_source_four/</guid>
-      <pubDate>Sun, 29 Sep 2024 18:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jikken：支持源代码控制和 CI/CD 的 API 测试工具（Rust）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fs8ilp/jikken_an_api_testing_tool_supporting_source/</link>
-      <description><![CDATA[        由    /u/JikkenIo  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fs8ilp/jikken_an_api_testing_tool_supporting_source/</guid>
-      <pubDate>Sun, 29 Sep 2024 16:35:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
