@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 01 Oct 2024 00:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:12:14 GMT</lastBuildDate>
+    <item>
+      <title>为在线支付系统实现装饰器模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftdjot/implement_decorator_pattern_for_online_payment/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftdjot/implement_decorator_pattern_for_online_payment/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>TCP 什么时候不需要 3 次握手？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftd2jb/when_is_there_no_need_3_handshakes_in_tcp/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftd2jb/when_is_there_no_need_3_handshakes_in_tcp/</guid>
+      <pubDate>Tue, 01 Oct 2024 02:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有自动 kubectl 端口转发配置的本地 Kubernetes 集群</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftct2i/local_kubernetes_cluster_with_automatic_kubectl/</link>
+      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftct2i/local_kubernetes_cluster_with_automatic_kubectl/</guid>
+      <pubDate>Tue, 01 Oct 2024 01:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Java 时，更倾向于组合而不是继承？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftcedi/favor_composition_over_inheritance_with_java/</link>
+      <description><![CDATA[  由    /u/manifoldjava  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftcedi/favor_composition_over_inheritance_with_java/</guid>
+      <pubDate>Tue, 01 Oct 2024 01:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 Jamon Holmgren 进行咨询</title>
+      <link>https://www.reddit.com/r/programming/comments/1ftblfr/on_consulting_with_jamon_holmgren/</link>
+      <description><![CDATA[  由    /u/alexlazar98  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ftblfr/on_consulting_with_jamon_holmgren/</guid>
+      <pubDate>Tue, 01 Oct 2024 00:50:40 GMT</pubDate>
+    </item>
     <item>
       <title>笔画宽度变换 - 一种文本检测算法（用 Python 编写并通过并行处理运行），看看吧，如果喜欢就给个星星吧！</title>
       <link>https://www.reddit.com/r/programming/comments/1ft8bar/stroke_width_transform_a_text_detection_algorithm/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fsr96b/dynamic_default_values_for_method_arguments_in/</guid>
       <pubDate>Mon, 30 Sep 2024 09:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Tmux、Vim 和 VSCode 实现高效的开发人员工作流程</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsqiyw/productive_developer_workflow_with_tmux_vim_and/</link>
-      <description><![CDATA[  由    /u/inelp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsqiyw/productive_developer_workflow_with_tmux_vim_and/</guid>
-      <pubDate>Mon, 30 Sep 2024 08:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护你的微服务：综合指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsq2g2/securing_your_microservices_a_comprehensive_guide/</link>
-      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsq2g2/securing_your_microservices_a_comprehensive_guide/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Godot 用于应用程序开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1fspqic/godot_for_app_development/</link>
-      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fspqic/godot_for_app_development/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>建筑现代化 • Nick Tune & Eduardo da Sliva</title>
-      <link>https://www.reddit.com/r/programming/comments/1fspnq2/architecture_modernization_nick_tune_eduardo_da/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fspnq2/architecture_modernization_nick_tune_eduardo_da/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 React 中编写代码时可以遵循的一些好技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1fsoblx/some_good_tips_to_follow_on_writing_code_in_react/</link>
-      <description><![CDATA[  由    /u/freakma-shadow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fsoblx/some_good_tips_to_follow_on_writing_code_in_react/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:31:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

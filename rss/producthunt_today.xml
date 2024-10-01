@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Oct 2024 00:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:12:27 GMT</lastBuildDate>
     <item>
       <title>编辑代码</title>
       <link>https://www.producthunt.com/posts/edcode</link>
       <description><![CDATA[
-学习编码的免费、有趣且有效的方式。
+免费、有趣且有效的学习编码方法。
 
 
 讨论
@@ -48,20 +48,6 @@
       <pubDate>Sat, 28 Sep 2024 14:34:11 GMT</pubDate>
     </item>
     <item>
-      <title>固定式</title>
-      <link>https://www.producthunt.com/posts/fixtured</link>
-      <description><![CDATA[
-您的体育赛事安排
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fixtured</guid>
-      <pubDate>Sat, 28 Sep 2024 14:19:57 GMT</pubDate>
-    </item>
-    <item>
       <title>迅速骆驼</title>
       <link>https://www.producthunt.com/posts/prompt-llama</link>
       <description><![CDATA[
@@ -88,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/buildpad</guid>
       <pubDate>Sat, 28 Sep 2024 05:26:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>neoSVG 3</title>
+      <link>https://www.producthunt.com/posts/neosvg-3</link>
+      <description><![CDATA[
+我们的旗舰文本到 SVG 模型的下一代
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/neosvg-3</guid>
+      <pubDate>Fri, 27 Sep 2024 22:08:23 GMT</pubDate>
     </item>
     <item>
       <title>小说</title>
@@ -174,20 +174,6 @@
       <pubDate>Wed, 25 Sep 2024 02:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>Sensay 复制品</title>
-      <link>https://www.producthunt.com/posts/sensay-replicas</link>
-      <description><![CDATA[
-利用人工智能促进增长：轻松获取知识，无缝完成任务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sensay-replicas</guid>
-      <pubDate>Tue, 24 Sep 2024 17:29:52 GMT</pubDate>
-    </item>
-    <item>
       <title>反引述</title>
       <link>https://www.producthunt.com/posts/antiquoted</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/antiquoted</guid>
       <pubDate>Tue, 24 Sep 2024 11:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>恢复应用程序</title>
+      <link>https://www.producthunt.com/posts/restoapp</link>
+      <description><![CDATA[
+用于食品配送服务的开源移动应用程序和网站
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/restoapp</guid>
+      <pubDate>Sat, 21 Sep 2024 12:32:36 GMT</pubDate>
     </item>
     <item>
       <title>完成</title>

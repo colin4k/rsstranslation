@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 01 Oct 2024 00:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 03:12:20 GMT</lastBuildDate>
+    <item>
+      <title>AI 文件管理器更新：现在具有试运行模式和 Llama 3.2 作为默认模型</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftc2nx/ai_file_organizer_update_now_with_dry_run_mode/</link>
+      <description><![CDATA[嘿 r/opensource！ 我之前分享过我的 AI 文件管理器项目，它可以读取和排序文件，并且 100% 在设备上运行：( https://www.reddit.com/r/opensource/comments/1fmglr7/i_built_a_python_script_uses_ai_to_organize_files ) 并得到了社区的大力支持！谢谢！！！ 操作方法如下： 修改前：/home/user/messy_documents/ ═── IMG_20230515_140322.jpg ═── IMG_20230516_083045.jpg ═── IMG_20230517_192130.jpg ═── budget_2023.xlsx ═── meeting_notes_05152023.txt ═── project_proposal_draft.docx ═── random_thoughts.txt ═── recipe_chocolate_cake.pdf ═── scan0001.pdf ═── vacation_itinerary.docx └── work_presentation.pptx 0 个目录，11 个文件 修改后：/home/user/organized_documents/ ═── Financial │ └── 2023_Budget_Spreadsheet.xlsx ═── 食物和食谱 │ └── 巧克力蛋糕食谱.pdf ═── 会议和笔记 │ └── 团队会议笔记_May_15_2023.txt ═── 个人 │ └── 随机想法和想法.txt ═── 照片 │ ═── 城市景观日落_May_17_2023.jpg │ ═── 早晨咖啡店_May_16_2023.jpg │ └── 办公室团队午餐_May_15_2023.jpg ═── 旅行 │ └── 夏季假期行程_2023.doc └── 工作 ═── 项目_X_提案草案.docx ═── Quarterly_Sales_Report.pdf └── Marketing_Strategy_Presentation.pptx 7 个目录，11 个文件  我阅读了所有评论，并在过去一周致力于实施变更。以下是此版本中的新功能： v0.0.2 新功能：  试运行模式：在提交更改之前预览排序结果 静默模式：将日志保存到文本文件以实现更安静的操作 扩展文件支持：.md、.xlsx、.pptx 和 .csv 三种排序选项：按内容、日期或文件类型 默认文本模型更新至 Llama 3.2 3B 增强的 CLI 交互体验 文件分析的实时进度条  有关路线图和下载说明，请查看稳定的 v0.0.2：https://github.com/NexaAI/nexa-sdk/tree/main/examples/local_file_organization 对于具有实验性功能的增量更新，请查看我的个人仓库：https://github.com/QiuYannnn/Local-File-Organizer 感谢 Nexa 团队将我纳入他们的官方手册并为这个新版本提供巨大支持。整个项目的可执行文件正在开发中。 您对此更新有何看法？我应该为下一个版本优先考虑什么吗？ 谢谢！！   由    /u/unseenmarscai  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftc2nx/ai_file_organizer_update_now_with_dry_run_mode/</guid>
+      <pubDate>Tue, 01 Oct 2024 01:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一种开源 p2p 加密的一键通对讲机式应用程序，其工作方式类似于 Zello？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftas9l/is_there_an_open_source_p2p_encrypted_pushtotalk/</link>
+      <description><![CDATA[  由    /u/jb45rd6  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftas9l/is_there_an_open_source_p2p_encrypted_pushtotalk/</guid>
+      <pubDate>Tue, 01 Oct 2024 00:10:56 GMT</pubDate>
+    </item>
     <item>
       <title>Pop A Lock-开源每日益智游戏</title>
       <link>https://www.reddit.com/r/opensource/comments/1ft5wi9/pop_a_lock_open_source_daily_puzzle_game/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/JikkenIo  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fs8ilp/jikken_an_api_testing_tool_supporting_source/</guid>
       <pubDate>Sun, 29 Sep 2024 16:35:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理环境变量的更好方法🛠️！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fs74kr/a_better_way_to_manage_environment_variables/</link>
-      <description><![CDATA[大家好！ 我目前正在开发一个名为 envio 🚀 的开源项目，它本质上是一个 CLI 工具，可以帮助更有效地管理环境变量。 用户可以创建配置文件（环境变量的集合），并使用 密码短语 或 GPG 加密对其进行加密。该工具还提供各种其他功能，这些功能真正简化了在项目中使用环境变量的过程，例如将环境变量加载到当前终端中。 有关更多信息，您可以访问 GitHub repo 或 官方网站 ⭐。 谢谢大家！ 🙌    由   提交  /u/Ok_Acanthopterygii40   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fs74kr/a_better_way_to_manage_environment_variables/</guid>
-      <pubDate>Sun, 29 Sep 2024 15:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源贡献建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fs3alh/suggestions_for_opensource_contribution/</link>
-      <description><![CDATA[大家好！ 过去 3 年，我一直担任后端 Java 开发人员，主要专注于银行项目。我的技术栈包括 Java、Spring Boot、Microservices、Kafka、Docker 和 MySQL。最近，我一直想回馈开发者社区，并通过为开源项目做贡献来获得更多经验。 我很乐意听取以下方面的建议：  可以从我的技能中受益的项目或存储库。 如何开始为开源做贡献（欢迎提供任何提示或指南！）。 任何为基于 Java 的后端项目做贡献的最佳实践。  如果您有为开源做贡献的经验，我也很想听听它如何使您受益以及您面临的任何具体挑战。 提前感谢您的建议和意见！🙏    提交人    /u/vijaynethamandala   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fs3alh/suggestions_for_opensource_contribution/</guid>
-      <pubDate>Sun, 29 Sep 2024 12:33:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
