@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 01 Oct 2024 21:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 00:03:58 GMT</lastBuildDate>
+    <item>
+      <title>[DnsTrace] 使用 eBPF 调查 DNS 查询！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fu1z2w/dnstrace_investigate_dns_queries_with_ebpf/</link>
+      <description><![CDATA[       由    /u/scroll_down0  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fu1z2w/dnstrace_investigate_dns_queries_with_ebpf/</guid>
+      <pubDate>Tue, 01 Oct 2024 23:12:32 GMT</pubDate>
+    </item>
     <item>
       <title>Fast-Music-Remover：加入我们，打造一款人人都能从中受益的 FOSS 工具！人声提取器；噪音消除器</title>
       <link>https://www.reddit.com/r/opensource/comments/1ftxfdb/fastmusicremover_join_us_in_building_a_foss_tool/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Passy 是一个控制台工具，用于： - 快速生成密码（还支持 --readable 选项，其中字母应该构建不存在的单词）  通过文件夹系统键存储所有密码 将您的 AES 编码密码保存到您的 git 存储库中  您可以在此处查看应用程序：https://github.com/koss-null/passy（bin 仅适用于 linux） 欢迎提出任何问题、评论和建议！    提交人    /u/SpaceAirship   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fsyg17/check_out_my_passy/</guid>
       <pubDate>Mon, 30 Sep 2024 15:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>数周生活 - 开源 Chrome 扩展程序，以可视化方式呈现你的数周生活</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fsvpcs/life_in_weeks_open_source_chrome_extension_to/</link>
-      <description><![CDATA[Life in Weeks：可视化您的时间，最大限度地发挥您的潜力 使用 Life in Weeks 改变您的新标签页体验，这是一款功能强大的 Chrome 扩展程序，可以以周为单位可视化您的整个生命周期。这款创新的时间管理工具将每个新标签页变成一个激励画布，一目了然地展示您的人生旅程。 主要特点： • 每个新标签页上的个性化生活可视化 • 可自定义的出生日期和预期寿命设置 • 直观的每周网格显示过去和未来的时间 • 深色和浅色模式选​​项，方便查看 • 注重隐私的设计，具有本地数据存储 Life in Weeks 不仅仅是一款生产力应用程序 – 它还可以提醒您让每一周都过得有意义。无论您是规划未来的学生，管理长期目标的专业人士，还是任何寻求更有目的生活的人，此扩展都为您提供了独特的时间视角。 提高您的时间意识，设定有意义的目标，并拥抱生命的有限性。立即下载《生活数周》，开始让每一刻都变得有意义。 LifeInWeeks #TimeManagement #ProductivityTools #ChromeExtension #PersonalDevelopment    提交人    /u/lazyhawk20   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fsvpcs/life_in_weeks_open_source_chrome_extension_to/</guid>
-      <pubDate>Mon, 30 Sep 2024 13:35:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

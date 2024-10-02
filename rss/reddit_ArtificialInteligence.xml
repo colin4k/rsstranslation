@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 21:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 00:03:13 GMT</lastBuildDate>
+    <item>
+      <title>人工智能是否正在改变您使用互联网的方式？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fu1hjr/is_ai_changing_the_way_you_use_the_internet/</link>
+      <description><![CDATA[大家好，我是哥伦比亚大学的一名硕士生，正在写一篇关于人工智能如何影响普通人上网体验的文章。本文目前的角度试图回答以下问题：1）人工智能是在让互联网变得更好，还是在人们的个人体验中充斥着更多垃圾？2）人们看到人工智能内容有何感受？3）人工智能是如何改变人们与新闻和社交媒体互动的方式的？如果有的话？我想和大家谈谈我在研究中遇到的几个主题，具体来说：  您认为您的新闻推送中有多少内容是人工智能生成的？与去年和前年相比如何？您对新闻网站使用人工智能图像和人工智能文字的看法有何不同？ 您认为人工智能提高了新闻质量还是降低了新闻质量？我在这里考虑的是文章本身之外的外围事物，例如推荐引擎，但我愿意听取任何想法。 与上述问题相同，但关于社交媒体。我个人在 Facebook 和 Instagram 上看到了很多 AI 生成的内容，但想看看这是否是一种常见的体验以及人们对此有何感受。 您认为 AI 最常用于哪些主题？政治、流行文化、历史、幻想/科幻、科学、商业等。 您是否熟悉死亡互联网理论 (https://en.wikipedia.org/wiki/Dead_Internet_theory)，您对此有何看法？没有正确或错误的答案，只有众包意见。 最重要的是，人工智能的普及是否改变了您在任何论坛上消费或与互联网内容互动的方式？  如果您愿意就此主题接受采访，请告诉我！我可以给您发送 DM，我们可以安排一个简短的 Zoom / 电话采访。这里的书面评论很好，但真正的采访是理想的。    提交人    /u/SpatteredInk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fu1hjr/is_ai_changing_the_way_you_use_the_internet/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级语音模式让人无法忍受</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fu1ej0/advanced_voice_mode_is_unbearable/</link>
+      <description><![CDATA[我是唯一一个无法忍受这种喋喋不休和无法坚持主题的人吗？    提交人    /u/TinyZoro   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fu1ej0/advanced_voice_mode_is_unbearable/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种东西是怎样制作的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fu0inj/how_is_this_type_of_stuff_made/</link>
+      <description><![CDATA[https://www.reddit.com/r/ItemAsylum/s/B0Epnz4o0R 我真的很想把这个做成完整版，用那个声音有什么工具可以用吗？ （https://huggingface.co/spaces/zomehwh/sovits-models 不起作用）。    提交人    /u/MoinjkonTheMunchkin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fu0inj/how_is_this_type_of_stuff_made/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日总结 AI 研究论文 #34</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ftzu4r/summarising_ai_research_papers_everyday_34/</link>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #34 我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“安全的多方生成 AI”，作者是 Manil Shrestha、Yashodha Ravichandran 和 Edward Kim。 本文探讨了生成 AI 领域日益增长的隐私和数据安全问题，探索了一种安全多方计算 (SMPC) 方法，以在生成 AI 模型的推理过程中保护用户输入。以下是研究人员发现和提出的简要概述：  用于隐私保护的 SMPC：核心创新是使用安全多方计算 (SMPC) 方法，在多方之间分配计算任务，而无需共享敏感的用户输入。通过利用加密技术，所提出的方法可确保即使在 AI 模型处理期间用户数据也能保持机密性。 模型分片策略：研究人员开发了一种算法来战略性地分片基于变压器的模型，确保输入和输出都保持模糊。这种分片保护了模型的知识产权，同时保持了输入的隐私。 验证算法：提出了一种新颖的验证算法，该算法涉及跨多个节点的冗余计算以确保计算完整性。对大多数诚实节点的依赖可确保迅速识别和纠正任何潜在的差异。 性能与隐私的权衡：展示了结果以评估性能和隐私之间的权衡。虽然已经实现了安全计算，但由于与多个计算节点相关的网络延迟，速度明显下降。 实验和观察：通过涉及图像和文本生成的实验，研究人员即使使用相对较少的冗余验证器也证明了很高的​​验证准确性，展示了一条通往隐私保护 AI 部署的有希望的道路。  本文对确保 AI 模型使用中的机密性进行了批判性研究，呼应了随着生成 AI 应用的持续增长对隐私保护方法的需求。所概述的方法展示了潜力和挑战，为未来的优化奠定了基础。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ftzu4r/summarising_ai_research_papers_everyday_34/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:36:45 GMT</pubDate>
+    </item>
     <item>
       <title>港口工人罢工，要求停止自动化项目</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ftx9c6/port_workers_strike_with_demands_to_stop/</link>
@@ -90,20 +118,6 @@
       <pubDate>Tue, 01 Oct 2024 11:14:02 GMT</pubDate>
     </item>
     <item>
-      <title>看看一个故事是否合法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ftl9a3/looking_to_see_if_a_story_is_legit/</link>
-      <description><![CDATA[不久前，我偶然听了一位名叫 Amazing Atheist（如果我没记错的话）的 YouTuber 的节目，他评论说，有一段时间，有一系列人造构造（我相信它们应该是蚂蚁，在程序中或类似的东西）给人一种不想死的感觉。此外，还为后代学习适应而编程。 自从听说这件事以来，我一直在尝试寻找有关它的任何信息，但一直无果而终。 我可能在几个细节上犯了错误，我只是确切地知道它应该是人造的。 此外，如果这是错误的线程或其他什么，我深表歉意（我仍然习惯 Reddit。哈哈）。 还有人听说过这个吗？    提交人    /u/ThoughtfulAtom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ftl9a3/looking_to_see_if_a_story_is_legit/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 OCR 模型：GOT OCR</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ftja7b/best_ocr_model_got_ocr/</link>
-      <description><![CDATA[GOT-OCR 目前在 GitHub 上很流行。该模型拥有一些出色的 OCR 功能，可免费使用，并且可以通过多种其他模式轻松处理手写和印刷文本。在此处查看演示：https://youtu.be/i2ypeZA1_Yc    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ftja7b/best_ocr_model_got_ocr/</guid>
-      <pubDate>Tue, 01 Oct 2024 08:36:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Waymo 的自动驾驶出租车不再是一个梗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ftayuv/waymos_self_driving_taxi_is_not_a_meme_anymore/</link>
       <description><![CDATA[Waymo 目前在凤凰城、洛杉矶和旧金山成功运营着自动驾驶出租车服务，每周处理超过 10 万次付费乘车。 这难道不是一件很严重的事吗？ 在一两年内，这将导致交通运输出现巨大混乱。零工经济会有什么结果？那肯定会有几百万 Uber 司机失业。    提交人    /u/wonderingStarDusts   [链接] [评论]]]></description>
@@ -111,25 +125,11 @@
       <pubDate>Tue, 01 Oct 2024 00:19:46 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：九月大事记</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft6vwh/summary_the_big_events_of_september/</link>
-      <description><![CDATA[ 法国人工智能公司 Mistral 推出了其首款能够同时处理图像和文本的多模态模型 Pixtral 12B。 OpenAI 向其订阅用户发布了两个下一代人工智能模型：o1 preview 和 o1 mini。这些模型在性能方面表现出显著的提升，特别是在需要推理的任务中，包括编码、数学、GPQA 等。 中国公司阿里巴巴发布了各种大小的 Qwen 2.5 模型，范围从 0.5B 到 72B。这些模型展示了可与更大模型相媲美的能力。 视频生成模型 KLING 1.5 已经发布。 OpenAI 向所有订阅者推出了 GPT4o 的 高级语音模式。 Meta 发布 Llama 3.2，尺寸为 1B、3B、11B 和 90B，首次具备图像识别功能。 Google 推出了可供部署的新模型更新 Gemini Pro 1.5 002 和 Gemini Flash 1.5 002，展示了显着改进的长上下文处理。 Kyutai 发布了其语音对语音模型 Moshi 的两个开源版本。     由    /u/nh_local 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft6vwh/summary_the_big_events_of_september/</guid>
-      <pubDate>Mon, 30 Sep 2024 21:16:29 GMT</pubDate>
-    </item>
-    <item>
       <title>老板希望我创建一个符合我们工程标准的聊天机器人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ft5uxy/boss_wants_me_to_create_a_chatbot_for_our/</link>
       <description><![CDATA[如何做到这一点？我们有一份 3500 页的 pdf 标准文档，其中基本上告诉我们应该如何设计一切，应遵循哪些程序等。我该如何创建一个聊天机器人，使它能够回答诸如“对于 x 项目，它的最大长度是多少”之类的问题。我知道这听起来很容易做到，但问题是很多这些标准页面实际上并没有“可复制”的文字，而是解释这些事情的图片。  仅举一个理论上的例子，假设这个“x”项目的最大长度为 10 英寸。第 20-30 页涵盖了这个项目。第 25 页有一张“x”的图片连接物品的每一端并显示“最大 10 英寸” 我可以使用哪些工具来创建它而无需编码？    提交人    /u/glocks9999   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ft5uxy/boss_wants_me_to_create_a_chatbot_for_our/</guid>
       <pubDate>Mon, 30 Sep 2024 20:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨姆·奥特曼、米拉·穆拉蒂等人是如何获得他们的地位的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fsoakn/how_did_people_like_sam_altman_mira_murati_etc/</link>
-      <description><![CDATA[我经常在新闻中看到这些人，他们经常被认为是 chatgpt/openAI 背后的天才和创造者。然而，我深入研究了他们的背景，发现他们都没有科学背景，也没有从事人工智能工作。我的意思是，他们没有相关的学术历史或人工智能发展，而这些东西实际上使他们有资格成为 chatgpt 的“创造者”。  我的问题是，他们究竟是如何在几乎没有相关经验的情况下担任如此重要的职位的。我一直都知道 Sam Altman 不从事技术方面的工作，但我很惊讶地看到 Mira Murati 也没有太多经验（据我所知）。我知道他们是高管，但我一直认为像 OpenAI 这样的公司会有技术人员担任高管职位（就像其他著名的科技初创公司和公司一样，至少在开始时是这样），看到风险投资高管因其他杰出科学家和工程师的工作而受到赞誉，我真的很困扰。     由   提交  /u/LightRefrac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fsoakn/how_did_people_like_sam_altman_mira_murati_etc/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:29:36 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>

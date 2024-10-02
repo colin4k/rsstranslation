@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 21:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 00:03:36 GMT</lastBuildDate>
+    <item>
+      <title>工作流软件</title>
+      <link>https://www.reddit.com/r/software/comments/1fu1vb9/workflow_software/</link>
+      <description><![CDATA[大约 10 年前，我在一家公司工作，负责研究和测试软件以帮助自动化任务，例如跟踪与客户的沟通、安排电话等（例如 Netsuite 或适用于 SMB 的 Salesforce）。我记得我们最终使用了其中一种软件，但我无论如何也想不起来它的名字，也找不到任何类似的东西。我特别记得的一件事是能够创建工作流，我们用它来入职、安排和跟踪任务的进度（不是 Trello）。今天看来这绝不是开创性的，但在当时它确实帮助我消除了很多繁琐的任务。 快进到今天，在我目前的工作中，我们使用 office 365（我认为它是一个内部 CRM 项目管理系统），但似乎有很多任务可以从一些自动化中受益。至少我想为自己的私人用途整理一些东西，因为我不是一个很有条理的人，任何有助于消除冗余和繁琐任务的东西都会让我的生活更轻松。 所以这是我的问题；  有人知道我以前可能使用过什么软件吗？我想是在 2014-2015 年左右  微软提供任何类似的东西吗？我还没有真正深入研究过 power automated，但有东西告诉我它可能比我想要的更多。 建议内置于 office 365 中的软件可能会有用。     提交人    /u/GunterJanek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fu1vb9/workflow_software/</guid>
+      <pubDate>Tue, 01 Oct 2024 23:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>存储梦境日记的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ftz0sj/software_to_store_dream_diary_entries/</link>
+      <description><![CDATA[过去 8 年多来，我一直在记录我的梦境。大部分都是一些小笔记，包含单独的关键词、短句、姓名、地点、感受……只是一些我醒来后仍然记得的东西。这些笔记到处都是（手机、纸条、笔记本等），我想以系统的方式长期保存它们：  所有条目都标有日期 有几百条 条目本身很短，纯文本，50-150 个字。 我想为条目分配类别或标签，例如出现在梦中的人（或特定地点或感受）。 理想情况下，我可以通过这些标签进行过滤，例如查看某些人重新出现的频率。或者按感觉和日期进行过滤，以找出我总是在星期二做噩梦……  是否有任何软件可以以这种方式工作？或者我最好只是创建一个 SQL 数据库？    提交人    /u/Bottom-CH   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ftz0sj/software_to_store_dream_diary_entries/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:01:56 GMT</pubDate>
+    </item>
     <item>
       <title>Google 表单替代品</title>
       <link>https://www.reddit.com/r/software/comments/1ftyll0/google_forms_alternatives/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨，我想知道如果我假设编辑应用程序文件以便我可以赚更多的钱，这是否合法？我知道这听起来很糟糕，但我只是好奇。 谢谢    提交人    /u/Available-Whole-4325   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fta6sx/app_file_modification/</guid>
       <pubDate>Mon, 30 Sep 2024 23:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>红队黑客讲述如何“闯入建筑物并假装是坏人”</title>
-      <link>https://www.reddit.com/r/software/comments/1ft5g9d/red_team_hacker_on_how_she_breaks_into_buildings/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ft5g9d/red_team_hacker_on_how_she_breaks_into_buildings/</guid>
-      <pubDate>Mon, 30 Sep 2024 20:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>定制客户端门户软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1ft4sal/custom_client_portal_software/</link>
-      <description><![CDATA[我正在寻找一种 SaaS 解决方案，我们的客户可以登录并查看我们为他们提供的数字内容。我们本质上是向房地产客户销售潜在客户，并希望在他们独有的门户中提供客户潜在客户。有没有人知道任何强大的 SaaS 解决方案？ 如果它具有 wix 集成或 WordPress，那就太好了。 提前致谢。    提交人    /u/QualityQontent   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ft4sal/custom_client_portal_software/</guid>
-      <pubDate>Mon, 30 Sep 2024 19:50:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
