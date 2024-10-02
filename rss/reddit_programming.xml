@@ -4,20 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 02 Oct 2024 18:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:01:57 GMT</lastBuildDate>
+    <item>
+      <title>微型图书馆应该消亡</title>
+      <link>https://www.reddit.com/r/programming/comments/1fuqynv/microlibraries_need_to_die_already/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fuqynv/microlibraries_need_to_die_already/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解读深度学习论文中的数学？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fuq7m7/how_to_read_math_in_deep_learning_paper/</link>
+      <description><![CDATA[  由    /u/research_pie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fuq7m7/how_to_read_math_in_deep_learning_paper/</guid>
+      <pubDate>Wed, 02 Oct 2024 20:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>CS SYD-如何在 Haskell 中从 IO 字符串中获取字符串</title>
+      <link>https://www.reddit.com/r/programming/comments/1fuoxfc/cs_syd_how_to_get_the_string_out_of_the_io_string/</link>
+      <description><![CDATA[  由    /u/NorfairKing2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fuoxfc/cs_syd_how_to_get_the_string_out_of_the_io_string/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Al-dente - 极快的目录列表（存储库内的程序说明）</title>
+      <link>https://www.reddit.com/r/programming/comments/1fuol11/aldente_an_extremely_fast_directory_listing/</link>
+      <description><![CDATA[  由    /u/R3zn1kk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fuol11/aldente_an_extremely_fast_directory_listing/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 代码检查器 Qodo 融资 4000 万美元，为更大的客户提供服务</title>
+      <link>https://www.reddit.com/r/programming/comments/1fuo5aa/ai_code_checker_qodo_raises_40_million_to_serve/</link>
+      <description><![CDATA[  由    /u/UpvoteBeast  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fuo5aa/ai_code_checker_qodo_raises_40_million_to_serve/</guid>
+      <pubDate>Wed, 02 Oct 2024 19:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 Quarkus 构建时元编程功能来提高 Jackson 的序列化性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1funrq5/leveraging_quarkus_buildtime_metaprogramming/</link>
+      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1funrq5/leveraging_quarkus_buildtime_metaprogramming/</guid>
+      <pubDate>Wed, 02 Oct 2024 18:46:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 React Native/Expo 决策的早期想法</title>
+      <link>https://www.reddit.com/r/programming/comments/1fun53s/early_thoughts_on_react_nativeexpo_decision/</link>
+      <description><![CDATA[  由    /u/iloveafternoonnaps  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fun53s/early_thoughts_on_react_nativeexpo_decision/</guid>
+      <pubDate>Wed, 02 Oct 2024 18:19:40 GMT</pubDate>
+    </item>
     <item>
       <title>[Ups] UPdigitalScript – 使用 PL/SQL 代替 JavaScript（仅适用于高级专业团队）</title>
       <link>https://www.reddit.com/r/programming/comments/1fulr2k/ups_updigitalscript_use_plsql_instead_of/</link>
       <description><![CDATA[  由    /u/-domingues  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fulr2k/ups_updigitalscript_use_plsql_instead_of/</guid>
       <pubDate>Wed, 02 Oct 2024 17:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pongo，使用 PostgreSQL 作为强一致性文档数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuljll/pongo_using_postgresql_as_a_stronglyconsistent/</link>
-      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuljll/pongo_using_postgresql_as_a_stronglyconsistent/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:14:22 GMT</pubDate>
     </item>
     <item>
       <title>继承繁重的代码可能会破坏面向对象编程中的封装</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/diqitally  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fuhi21/create_index_externally_offloading_pgvector/</guid>
       <pubDate>Wed, 02 Oct 2024 14:27:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>新一代工程师为何选择 React？[由 Flatlogic Research 支持]</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuhc71/why_new_generation_engineers_choosing_react/</link>
-      <description><![CDATA[  由    /u/ZestycloseChocolate  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuhc71/why_new_generation_engineers_choosing_react/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>某人的爷爷宣布 COBOL 已死</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuh0eh/cobol_declared_dead_by_someones_grandpa/</link>
-      <description><![CDATA[  由   提交  /u/flutter19970301   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuh0eh/cobol_declared_dead_by_someones_grandpa/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Rust 加速你的 Python 程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1fug0ap/speed_up_your_python_programs_with_rust/</link>
-      <description><![CDATA[  由    /u/wyhjsbyb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fug0ap/speed_up_your_python_programs_with_rust/</guid>
-      <pubDate>Wed, 02 Oct 2024 13:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rails 中的枚举验证</title>
-      <link>https://www.reddit.com/r/programming/comments/1fudxvt/enum_validation_in_rails/</link>
-      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fudxvt/enum_validation_in_rails/</guid>
-      <pubDate>Wed, 02 Oct 2024 11:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>细粒度授权的不言而喻的权衡</title>
-      <link>https://www.reddit.com/r/programming/comments/1fud04o/the_unspoken_tradoffs_of_finegrained_authorization/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fud04o/the_unspoken_tradoffs_of_finegrained_authorization/</guid>
-      <pubDate>Wed, 02 Oct 2024 10:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简约的逃生室，就在您的航站楼内。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fucv1i/a_minimalist_escape_room_right_in_your_terminal/</link>
-      <description><![CDATA[  由    /u/Background_Dingo5394  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fucv1i/a_minimalist_escape_room_right_in_your_terminal/</guid>
-      <pubDate>Wed, 02 Oct 2024 10:23:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
