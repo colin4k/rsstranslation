@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 02 Oct 2024 06:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 09:02:18 GMT</lastBuildDate>
+    <item>
+      <title>使用 Keycloak for IAM 保护 Spring Boot REST API</title>
+      <link>https://www.reddit.com/r/programming/comments/1fubg0m/securing_a_spring_boot_rest_api_using_keycloak/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fubg0m/securing_a_spring_boot_rest_api_using_keycloak/</guid>
+      <pubDate>Wed, 02 Oct 2024 08:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是变异测试以及为什么要使用它？ - CodeJourney.net</title>
+      <link>https://www.reddit.com/r/programming/comments/1fub9dw/what_is_mutation_testing_and_why_you_should_use/</link>
+      <description><![CDATA[  由    /u/dsibinski  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fub9dw/what_is_mutation_testing_and_why_you_should_use/</guid>
+      <pubDate>Wed, 02 Oct 2024 08:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>旁注搜索中的短语匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1fuaieq/phrase_matching_in_marginalia_search/</link>
+      <description><![CDATA[  由    /u/Xaneris47  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fuaieq/phrase_matching_in_marginalia_search/</guid>
+      <pubDate>Wed, 02 Oct 2024 07:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ladybird 在成功通过网络平台测试的数量上超过了 Servo</title>
+      <link>https://www.reddit.com/r/programming/comments/1fua9dk/ladybird_surpassed_servo_in_the_number_of/</link>
+      <description><![CDATA[  由    /u/linAndEd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fua9dk/ladybird_surpassed_servo_in_the_number_of/</guid>
+      <pubDate>Wed, 02 Oct 2024 07:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yami - 使用 tkinter 制作的音乐播放器</title>
+      <link>https://www.reddit.com/r/programming/comments/1fu9ncs/yami_a_music_player_made_with_tkinter/</link>
+      <description><![CDATA[  由    /u/FishStickSocks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fu9ncs/yami_a_music_player_made_with_tkinter/</guid>
+      <pubDate>Wed, 02 Oct 2024 06:19:43 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个 GameBoyColor 模拟器</title>
       <link>https://www.reddit.com/r/programming/comments/1fu95qw/i_made_a_gameboycolor_emulator/</link>
@@ -46,13 +81,6 @@
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fu8dmi/diplomatura_introducción_a_la_programación_en/</guid>
       <pubDate>Wed, 02 Oct 2024 04:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务中授权的最佳实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1fu80es/best_practices_for_authorization_in_microservices/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fu80es/best_practices_for_authorization_in_microservices/</guid>
-      <pubDate>Wed, 02 Oct 2024 04:28:33 GMT</pubDate>
     </item>
     <item>
       <title>两个初创企业的故事：现实世界中的微服务与整体式架构（编造）</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fttrqb/fixedpoint_arithmetic_as_a_replacement_for_soft/</guid>
       <pubDate>Tue, 01 Oct 2024 17:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用渐进增强构建强大的前端</title>
-      <link>https://www.reddit.com/r/programming/comments/1fttroy/building_a_robust_frontend_using_progressive/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fttroy/building_a_robust_frontend_using_progressive/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>完整性约束和关系导数</title>
-      <link>https://www.reddit.com/r/programming/comments/1fttqau/integrity_constraints_and_the_relational/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fttqau/integrity_constraints_and_the_relational/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 与 C++26 中的代码生成</title>
-      <link>https://www.reddit.com/r/programming/comments/1fttq1k/code_generation_in_rust_vs_c26/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fttq1k/code_generation_in_rust_vs_c26/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis：客户端缓存</title>
-      <link>https://www.reddit.com/r/programming/comments/1fttq04/redis_clientside_caching/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fttq04/redis_clientside_caching/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:25:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
