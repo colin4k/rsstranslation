@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 02 Oct 2024 03:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 06:02:33 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一个开源的每日益智游戏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fu8352/i_built_a_open_source_daily_puzzle_game/</link>
+      <description><![CDATA[  由    /u/OiaOrca  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fu8352/i_built_a_open_source_daily_puzzle_game/</guid>
+      <pubDate>Wed, 02 Oct 2024 04:33:14 GMT</pubDate>
+    </item>
     <item>
       <title>[DnsTrace] 使用 eBPF 调查 DNS 查询！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fu1z2w/dnstrace_investigate_dns_queries_with_ebpf/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿！ 我开源了一个工具，它可让您直接与数据库聊天 - 无需 SQL！我正在寻找：  用户试用并提供反馈 贡献者帮助改进项目 插件开发人员扩展工具的功能 测试人员帮助消除错误  Github： https://github.com/sirocco-ventures/raggenie 🔗 加入我们的 Slack https://join.slack.com/t/theailounge/shared_invite/zt-2ogkrruyf-FPOHuPr5hdqXl34bDWjHjw 非常感谢您的反馈和贡献！😊    提交人    /u/BitwiseBison   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ft0r5i/open_source_database_chat_tool_looking_for/</guid>
       <pubDate>Mon, 30 Sep 2024 17:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的 Passy</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fsyg17/check_out_my_passy/</link>
-      <description><![CDATA[Passy 是一个控制台工具，用于： - 快速生成密码（还支持 --readable 选项，其中字母应该构建不存在的单词）  通过文件夹系统键存储所有密码 将您的 AES 编码密码保存到您的 git 存储库中  您可以在此处查看应用程序：https://github.com/koss-null/passy（bin 仅适用于 linux） 欢迎提出任何问题、评论和建议！    提交人    /u/SpaceAirship   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fsyg17/check_out_my_passy/</guid>
-      <pubDate>Mon, 30 Sep 2024 15:33:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
