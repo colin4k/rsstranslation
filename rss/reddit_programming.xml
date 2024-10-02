@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 12:02:15 GMT</lastBuildDate>
+    <item>
+      <title>Rails 中的枚举验证</title>
+      <link>https://www.reddit.com/r/programming/comments/1fudxvt/enum_validation_in_rails/</link>
+      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fudxvt/enum_validation_in_rails/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么你的大脑衰老得比你想象的要快——以及如何阻止它</title>
+      <link>https://www.reddit.com/r/programming/comments/1fudu3j/why_your_brain_is_aging_faster_than_you_think_and/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fudu3j/why_your_brain_is_aging_faster_than_you_think_and/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>细粒度授权的不言而喻的权衡</title>
+      <link>https://www.reddit.com/r/programming/comments/1fud04o/the_unspoken_tradoffs_of_finegrained_authorization/</link>
+      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fud04o/the_unspoken_tradoffs_of_finegrained_authorization/</guid>
+      <pubDate>Wed, 02 Oct 2024 10:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个简约的逃生室，就在您的航站楼内。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fucv1i/a_minimalist_escape_room_right_in_your_terminal/</link>
+      <description><![CDATA[  由    /u/Background_Dingo5394  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fucv1i/a_minimalist_escape_room_right_in_your_terminal/</guid>
+      <pubDate>Wed, 02 Oct 2024 10:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 TypeScript 永远不会添加 Strict Omit</title>
+      <link>https://www.reddit.com/r/programming/comments/1fucqel/why_typescript_will_never_add_strict_omit/</link>
+      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fucqel/why_typescript_will_never_add_strict_omit/</guid>
+      <pubDate>Wed, 02 Oct 2024 10:13:51 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Keycloak for IAM 保护 Spring Boot REST API</title>
       <link>https://www.reddit.com/r/programming/comments/1fubg0m/securing_a_spring_boot_rest_api_using_keycloak/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/lowpolydreaming  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fu12ze/sourcebot_an_opensource_sourcegraph_alternative/</guid>
       <pubDate>Tue, 01 Oct 2024 22:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quake 端口在 Arduino Nano Matter 开发板上仅需 276kB RAM 即可运行！（文章中有视频和 github repo）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ftzhwp/quake_port_running_in_just_276kb_ram_on_the/</link>
-      <description><![CDATA[  由    /u/next-hack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ftzhwp/quake_port_running_in_just_276kb_ram_on_the/</guid>
-      <pubDate>Tue, 01 Oct 2024 21:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需改变整个技术栈，只需从一个组件开始——推动变革</title>
-      <link>https://www.reddit.com/r/programming/comments/1ftytnn/instead_of_changing_the_whole_technology_stack/</link>
-      <description><![CDATA[  由    /u/dmp0x7c5  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ftytnn/instead_of_changing_the_whole_technology_stack/</guid>
-      <pubDate>Tue, 01 Oct 2024 20:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止构建 CRUD API，改用数据 API 构建器！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ftxc2e/stop_building_crud_apis_use_data_api_builder/</link>
-      <description><![CDATA[  由    /u/sander1095  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ftxc2e/stop_building_crud_apis_use_data_api_builder/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:52:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络如何影响分布式系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1fttrs9/how_networking_affects_distributed_systems/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fttrs9/how_networking_affects_distributed_systems/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>定点运算替代软浮点数</title>
-      <link>https://www.reddit.com/r/programming/comments/1fttrqb/fixedpoint_arithmetic_as_a_replacement_for_soft/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fttrqb/fixedpoint_arithmetic_as_a_replacement_for_soft/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:27:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

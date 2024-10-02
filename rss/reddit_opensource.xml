@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 12:02:21 GMT</lastBuildDate>
+    <item>
+      <title>有任何 FOSS 音乐下载管道/API/库吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fucgm7/are_there_any_foss_music_download/</link>
+      <description><![CDATA[我正在考虑任何可用于我的项目的此类 API、库或管道。谢谢。     提交人    /u/SkywalkerPadawan512   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fucgm7/are_there_any_foss_music_download/</guid>
+      <pubDate>Wed, 02 Oct 2024 09:54:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>深入浏览器开发：我对 Ladybird 的首次贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fuc49p/diving_into_browser_development_my_first/</link>
+      <description><![CDATA[通过为 Ladybird 做贡献重新回到开源的经历 :) https://kostyafarber.com/blog/first-contribution-to-ladybird    提交人    /u/Patrick_Ripley   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fuc49p/diving_into_browser_development_my_first/</guid>
+      <pubDate>Wed, 02 Oct 2024 09:28:56 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一个开源的每日益智游戏</title>
       <link>https://www.reddit.com/r/opensource/comments/1fu8352/i_built_a_open_source_daily_puzzle_game/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[       由    /u/RootHouston  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ft5g5e/the_first_mozilla_thunderbirdbranded_android_mail/</guid>
       <pubDate>Mon, 30 Sep 2024 20:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>已发布：7zz-extended – 7-Zip 的修补版本，可改善掩码处理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ft3dfc/released_7zzextended_a_patched_version_of_7zip/</link>
-      <description><![CDATA[大家好， 我很高兴与大家分享我几年前从事的一个名为7zz-extended的项目。这是 7-Zip 的修补版本，它增强了提取过程中处理文件掩码的方式，使该过程更加高效和准确。 存储库： github.com/keklick1337/7zip-extended 概述：  基本版本：7zz 24.08 修补者： YSergey (abc321) 更新者： Vladislav Tislenko (keklick1337) 修改的文件：  CPP/Common/Wildcard.h CPP/Common/Wildcard.cpp C/7zVersion.h   主要改进： 主要变化涉及在掩码模式末尾添加字符 $?。此修改允许搜索从文件完整路径的末尾开始，从而提高基于特定模式的文件提取的准确性。 使用示例： ./7zz x test.7z -i&#39;!*/*ense*.txt$?&#39; -i&#39;!*/*ip*.hhp$?&#39; -i&#39;!*.mak$?&#39; -ssc-  示例提取：使用原始 7zz 应用程序从 test.7z 存档中提取必要的文件： 7zz.exe x test.7z -i!*\*example*.txt -i!*\*test*.txt -i!*.rar -i!*.zip -i!*.7z -r  请注意，某些包含匹配单词的文件夹也可能会被提取。 构建说明（Debian 示例）： apt update -y apt install make gcc libc-dev git -y git clone cd 7zip-extended/CPP/7zip/Bundles/Alone2 make -j -f makefile.gcc cd _o chmod 777 7zz sudo mv 7zz /bin/7zzhttps://github.com/keklick1337/7zip-extended  技术细节：该补丁涉及对 Wildcard.cpp 的修改，以改进路径处理和掩码匹配。这些更改有助于防止提取不必要的文件夹，并确保只处理与指定模式匹配的所需文件。 请随时查看存储库、试用并提供任何反馈或改进建议。我期待听到您的想法！    提交人    /u/Front-Buyer3534   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ft3dfc/released_7zzextended_a_patched_version_of_7zip/</guid>
-      <pubDate>Mon, 30 Sep 2024 18:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源数据库聊天工具 – 寻找贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ft0r5i/open_source_database_chat_tool_looking_for/</link>
-      <description><![CDATA[嘿！ 我开源了一个工具，它可让您直接与数据库聊天 - 无需 SQL！我正在寻找：  用户试用并提供反馈 贡献者帮助改进项目 插件开发人员扩展工具的功能 测试人员帮助消除错误  Github： https://github.com/sirocco-ventures/raggenie 🔗 加入我们的 Slack https://join.slack.com/t/theailounge/shared_invite/zt-2ogkrruyf-FPOHuPr5hdqXl34bDWjHjw 非常感谢您的反馈和贡献！😊    提交人    /u/BitwiseBison   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ft0r5i/open_source_database_chat_tool_looking_for/</guid>
-      <pubDate>Mon, 30 Sep 2024 17:06:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
