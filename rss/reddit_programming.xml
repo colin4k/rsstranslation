@@ -4,20 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 02 Oct 2024 21:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 00:03:42 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Rust 及其内存安全会让开发人员产生虚假的安全感，从而导致更严重的错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1futmid/why_rust_and_its_memory_safety_lulls_developers/</link>
+      <description><![CDATA[  由    /u/bizzehdee  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1futmid/why_rust_and_its_memory_safety_lulls_developers/</guid>
+      <pubDate>Wed, 02 Oct 2024 23:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据我用汇编语言编写游戏的经验进行简要描述</title>
+      <link>https://www.reddit.com/r/programming/comments/1futkhu/a_brief_write_up_following_my_experience_writing/</link>
+      <description><![CDATA[我昨天在这里发布了我制作的 Boulder Dash 风格游戏。我有时间反思这次经历并写下一些想法。    由    /u/LlaroLlethri  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1futkhu/a_brief_write_up_following_my_experience_writing/</guid>
+      <pubDate>Wed, 02 Oct 2024 23:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>可靠软件设计实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1futkhg/practices_of_reliable_software_design/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1futkhg/practices_of_reliable_software_design/</guid>
+      <pubDate>Wed, 02 Oct 2024 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 NoSQL DynamoDB 实现原子事务</title>
+      <link>https://www.reddit.com/r/programming/comments/1fus7ls/how_to_achieve_atomic_transaction_using_nosql/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fus7ls/how_to_achieve_atomic_transaction_using_nosql/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免衣物被雨水浸湿！使用 Zigbee 雨水传感器的智能家居项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1fur01v/avoid_rainsoaked_laundry_smart_home_project_using/</link>
+      <description><![CDATA[  由    /u/btb331  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fur01v/avoid_rainsoaked_laundry_smart_home_project_using/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:02:44 GMT</pubDate>
+    </item>
     <item>
       <title>微型图书馆应该消亡</title>
       <link>https://www.reddit.com/r/programming/comments/1fuqynv/microlibraries_need_to_die_already/</link>
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fuqynv/microlibraries_need_to_die_already/</guid>
       <pubDate>Wed, 02 Oct 2024 21:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解读深度学习论文中的数学？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuq7m7/how_to_read_math_in_deep_learning_paper/</link>
-      <description><![CDATA[  由    /u/research_pie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuq7m7/how_to_read_math_in_deep_learning_paper/</guid>
-      <pubDate>Wed, 02 Oct 2024 20:29:39 GMT</pubDate>
     </item>
     <item>
       <title>CS SYD-如何在 Haskell 中从 IO 字符串中获取字符串</title>
@@ -32,13 +60,6 @@
       <description><![CDATA[  由    /u/R3zn1kk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fuol11/aldente_an_extremely_fast_directory_listing/</guid>
       <pubDate>Wed, 02 Oct 2024 19:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 代码检查器 Qodo 融资 4000 万美元，为更大的客户提供服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuo5aa/ai_code_checker_qodo_raises_40_million_to_serve/</link>
-      <description><![CDATA[  由    /u/UpvoteBeast  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuo5aa/ai_code_checker_qodo_raises_40_million_to_serve/</guid>
-      <pubDate>Wed, 02 Oct 2024 19:01:43 GMT</pubDate>
     </item>
     <item>
       <title>利用 Quarkus 构建时元编程功能来提高 Jackson 的序列化性能</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/yakult2450  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fuiyrx/comprehensive_guide_on_web_scraping_with_python/</guid>
       <pubDate>Wed, 02 Oct 2024 15:29:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何利用 JavaScript、AI 和一罐 WD-40 赢得 2,750 美元</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuiepx/how_i_won_2750_using_javascript_ai_and_a_can_of/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuiepx/how_i_won_2750_using_javascript_ai_and_a_can_of/</guid>
-      <pubDate>Wed, 02 Oct 2024 15:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[非赞助] 可观察性如何拯救我免于灾难</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuhyql/not_sponsored_how_observability_saved_me_from/</link>
-      <description><![CDATA[  由    /u/bravelogitex  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuhyql/not_sponsored_how_observability_saved_me_from/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>外部创建索引：从 Postgres 卸载 pgvector 索引</title>
-      <link>https://www.reddit.com/r/programming/comments/1fuhi21/create_index_externally_offloading_pgvector/</link>
-      <description><![CDATA[  由    /u/diqitally  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fuhi21/create_index_externally_offloading_pgvector/</guid>
-      <pubDate>Wed, 02 Oct 2024 14:27:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
