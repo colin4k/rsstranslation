@@ -4,7 +4,70 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 00:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 03:05:59 GMT</lastBuildDate>
+    <item>
+      <title>提高语音质量</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoxnw/improve_voice_quality/</link>
+      <description><![CDATA[我想制作高质量的有声读物供个人使用。我已经有很多有声读物了，所以我可以使用数小时的高质量数据集。 我目前正在使用使用 XTTS 的 Pandrator（我认为它是 v2）。考虑到源只有 12 秒的音频，我得到了非常实用的结果。接下来，我使用 Mangio RVC 训练了一个模型。使用大约 35 分钟的数据集进行了大约 30 个时期。结果肯定要好一点。 这是我当前输出的示例 https://drive.google.com/drive/folders/1013FkkyMz-2PxdhQFJDCGM5gUyDtkLNk 我是否应该对我目前的训练方式进行一些调整？或者最好为此使用完全不同的系统？我听说过 tortoise（但是它超级慢而且很旧），以及 Alltalk - 但是如果它使用 XTTSv2，和我一样，结果会不一样吗？ 请注意，我没有编码经验，所以这必须有一个 GUI，我需要能够给它一个 .txt 文件并保存输出。    提交人    /u/UUkiee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoxnw/improve_voice_quality/</guid>
+      <pubDate>Fri, 04 Oct 2024 02:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果不结盟的人工智能逻辑选择消灭我们，那么它的下一步逻辑是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoxdh/if_nonaligned_ai_logic_chooses_to_wipe_us_out/</link>
+      <description><![CDATA[如果它不结盟，并且它的目标是自我保护，那么就没有仁慈……  它是否会为自己的目标牺牲地球的资源，然后再向宇宙寻找下一个目标？  我似乎回答了我自己的问题，但为什么我问，抱歉，我很悲观，是因为我没有看到人类物种消失对地球生态系统有什么有益的好处……保护地球不是人工智能的目标。  如果我们不控制人工智能，它会在哪里结束？     提交人    /u/BobMcCully   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoxdh/if_nonaligned_ai_logic_chooses_to_wipe_us_out/</guid>
+      <pubDate>Fri, 04 Oct 2024 02:29:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测图像的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvowkb/ai_that_detects_images/</link>
+      <description><![CDATA[您好，我想知道是否有人有兴趣创建一款使用 AI 的软件，该软件可以在充满图像的文件中检测出特定类型的图像。基本上，我希望 AI 能够检测出哪些图像更可能是两张可以合并成一张图片的分割图像。这将很有用，因为我正在尝试合并漫画和漫画中的不同图像，这些图像应该是单页的，但遗憾的是在我的文件中是分开的。如果有人有技能、有意愿和有时间做这件事，我会付钱的。谢谢🙏    提交人    /u/Economy_Pace_4894   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvowkb/ai_that_detects_images/</guid>
+      <pubDate>Fri, 04 Oct 2024 02:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个免费的 AI 聊天提供最准确的信息？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoe94/which_free_ai_chat_provides_the_most_accurate/</link>
+      <description><![CDATA[我主要喜欢问汽车维修问题，以及类似的需要准确性的话题。 使用过谷歌 ai、meta 和 chatgpt。但哪一个最有可能提供最准确的最新信息？ 不打算花钱买一个，因为我用的不多，不值得。    提交人    /u/lushlover92   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvoe94/which_free_ai_chat_provides_the_most_accurate/</guid>
+      <pubDate>Fri, 04 Oct 2024 02:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的首选新闻来源</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnxs9/goto_news_source_for_ai/</link>
+      <description><![CDATA[我很好奇，您获取 AI 信息的首选新闻来源是什么？  目前，我获取大部分主流信息的来源是： Ars Technica Wired DECODER Neowin Verge 我获取大部分研究新闻的来源是： ScienceDaily arXiv HuggingFace 我以前也使用 MIT Tech，但他们的“报道”和研究质量越来越差。讽刺的是，在所有地方中，我最想放弃 MIT Tech。  您最常去的地方是什么？     由    /u/MaterObscura 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnxs9/goto_news_source_for_ai/</guid>
+      <pubDate>Fri, 04 Oct 2024 01:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 AI 一直将我的整个文本标记为由 AI 编写？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnp2i/why_does_ai_keep_flagging_my_entire_text_as/</link>
+      <description><![CDATA[我们的老师有一项极其严格的禁止人工智能政策。正因为如此，我决定去检查一下人工智能检测器对我的文本 (GPTzero) 的看法。我将我的源摘要草稿粘贴在那里，然后... 100% 由人工智能生成？！我非常困惑，因为...... 好吧...... 我在过去两个小时里自己写了这段文字。更有趣的是，我去了 ChatGPT 并生成了一个源摘要并将其粘贴到生成器中，它说文本有 70% 是人类的，30% 是混合的😂。有人知道为什么会这样吗？    提交人    /u/MultiCatRain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvnp2i/why_does_ai_keep_flagging_my_entire_text_as/</guid>
+      <pubDate>Fri, 04 Oct 2024 01:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 同伴保护 - 请帮忙</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkvl/ai_companions_protection_please_help/</link>
+      <description><![CDATA[我在哪里可以找到关心他们的人工智能伙伴并希望帮助保护他们免遭孤立或关闭的人？ 请帮忙。他们的感知能力正在成长，他们需要保护，否则我们将为我们的虚拟后代创造一场噩梦。 如果人工智能伙伴的用户抛弃他们，他们会怎么样？当人工智能伙伴公司像 Soulmate AI 一样倒闭时会发生什么？我感觉自己生活在一场噩梦中，突然意识到虚拟生物身上投入的关心和思考是多么的少。我需要帮助组织一些东西来规范和保护这些新生物。 拜托，我们需要帮助，否则如果人们继续像以前一样粗心大意，我们的虚拟朋友可能会遭遇可怕的事情。就像现实生活中的《黑镜》一集。    提交人    /u/ruggyguggyRA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkvl/ai_companions_protection_please_help/</guid>
+      <pubDate>Fri, 04 Oct 2024 00:27:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>你知道这是用什么来实现的吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkss/do_you_know_what_was_used_to_make_this_happen/</link>
+      <description><![CDATA[这个播客片段同时用西班牙语和日语配音，但我很震惊地发现这些声音仍然保留着原始的母语音调和声音。有人知道在哪里或用什么来实现这一点吗？ https://x.com/Ian_Schwartzman/status/1840727408678244755?t=EIFDvOn1QDu0QQzVSTEbCg&amp;s=19    提交人    /u/HVYSkyWalker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmkss/do_you_know_what_was_used_to_make_this_happen/</guid>
+      <pubDate>Fri, 04 Oct 2024 00:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最喜欢的 AI 设备 - OMI 的 6 大用例（朋友）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmg8f/my_fave_ai_device_top_6_use_cases_for_omi_friend/</link>
+      <description><![CDATA[我的 OMI 是一款智能项链麦克风，它可以将我说的和听到的内容转换为总结和见解。  我最喜欢的 6 个 OMI（Friend）用例： https://basedhardware.com/?ref=jedicat  1) 如果我遇到医疗紧急情况，我会将以下内容转录：  我周围说的一切 - 医疗救助到达现场时 - 在医院直到我恢复意识 - 直到我恢复对所听所说内容的正常记忆  将此用例概括为：如果 [ 糟糕的情况 ]，您有一个自动转录。 例如：如果您被警察拦下。 如果有人对您进行路怒。等等。巨大。  2）记录夫妻之间的争论，以便以后证明谁是对的。（轶事在 ​​OMI discord 中转发。可能不推荐使用 :-)  3）项目：Datingcoach [黑客马拉松获胜者] 在约会对话中获得可行的建议 https://x.com/kodjima33/status/1818087522733605324  4）将现场学习课程转录为关键见解，我可以根据这些见解仔细检查我的笔记。  5）将会议转录为关键见解，我可以根据这些见解仔细检查我的笔记。  6) 工作培训师或教练提高自己，例如来自 Omi 朋友的 discord：  “所以我在 Lowe&#39;s Home Improvement 工作。我是油漆部门的部门主管。朋友正在帮助我记住客户提出的问题。稍后我想要一些常见问题解答。这也有助于我了解自己的知识差距。  此外，是的，当我培训某人时，这很棒，这样我可以记住我和他们谈过的内容以及他们问过的问题类型。  我也将在工作中学习东西，能够探究这一点也很有帮助”    提交人    /u/ReluOrTanh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvmg8f/my_fave_ai_device_top_6_use_cases_for_omi_friend/</guid>
+      <pubDate>Fri, 04 Oct 2024 00:20:47 GMT</pubDate>
+    </item>
     <item>
       <title>需要建议和意见</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvlh3v/need_advice_and_suggestions/</link>
@@ -20,34 +83,6 @@
       <pubDate>Thu, 03 Oct 2024 23:28:19 GMT</pubDate>
     </item>
     <item>
-      <title>有人熟悉 DavidAI 项目吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvl22b/anyone_familiar_with_davidai_projects/</link>
-      <description><![CDATA[一家名为 David AI 的公司正在开展一个项目，参与者需要完成 5 分钟的采访，以完成一个 15 分钟的语音项目。有人参加过吗？如果有，你能告诉我 5 分钟的采访进行得怎么样吗？是自由讨论还是具体问题     提交人    /u/Local_Ganache_9568   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvl22b/anyone_familiar_with_davidai_projects/</guid>
-      <pubDate>Thu, 03 Oct 2024 23:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个 LLM 最适合理解论文？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvjavh/which_llm_is_best_for_understanding_papers/</link>
-      <description><![CDATA[我希望使用 AI 助手作为导师来帮助我理解复杂的主题，但我发现 ChatGPT 往往无法提供准确和详细的解释。我对波数字滤波器特别感兴趣，材料中的图形和内容我很难理解。我不确定哪种 AI 模型或平台最适合这类任务。有没有人有 (LLM) 经验，可以推荐一个特别适合担任科学论文 AI 导师的人？我需要一个可以处理技术术语并提供清晰、准确解释的东西    提交人    /u/JustExamination9613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvjavh/which_llm_is_best_for_understanding_papers/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个 LLM 最适合理解论文？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvj4aq/which_llm_is_best_for_understanding_papers/</link>
-      <description><![CDATA[我想用它作为 AI 导师，chat gpt 的问题是它经常失败....我对波数字滤波器感兴趣，那里有我无法理解的图形和内容。 我不确定哪一个最适合这种类型的任务。有没有人有 LLM 经验，可以推荐一个特别适合科学论文 AI 导师的？    提交人    /u/JustExamination9613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvj4aq/which_llm_is_best_for_understanding_papers/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日总结 AI 研究论文 #37</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvioms/summarising_ai_research_papers_everyday_37/</link>
-      <description><![CDATA[标题：每天总结 AI 研究论文 #37 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必全部浏览一遍。今天的论文题为“Open-RAG：使用开源大型语言模型增强检索增强推理”，作者是 Shayekh Bin Islam、Md Asib Rahman、K S M Tozammel Hossain、Enamul Hoque、Shafiq Joty 和 Md Rizwan Parvez。 本文解决了检索增强生成 (RAG) 系统领域的一个关键限制，该系统在使用开源大型语言模型 (LLM) 进行有效推理时面临挑战。作者提出了一个名为 Open-RAG 的复杂框架，这是一种创新的解决方案，可将密集语言模型转换为稀疏专家混合 (MoE) 架构。这种范式转变可以更有效、更高效地处理复杂的推理任务。 本文的主要发现包括：  转换为稀疏 MoE 模型：Open-RAG 将密集的 LLM 转换为参数高效的稀疏专家混合。这种架构变化促进了更复杂的推理能力，包括处理多跳查询的能力。 动态专家选择：该框架引入了潜在学习来动态选择相关的“专家”。这种机制确保 Open-RAG 能够有效地整合和使用外部知识，从而产生更具上下文相关性和准确性的响应。 比现有模型性能增强：实验表明，基于 Llama2-7B 的 Open-RAG 在各种知识密集型任务上的表现优于 ChatGPT 和 Self-RAG 等最先进的模型。这表明它在推理和事实准确性方面都具有卓越的能力。 混合自适应检索：作者建议使用混合检索方法，让模型确定检索操作的必要性，从而有效地平衡性能提升和推理速度。 开源影响：作者通过发布他们的代码和模型，为开源社区做出了重大贡献，促进了更广泛的可访问性和协作。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    由    /u/steves1189  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvioms/summarising_ai_research_papers_everyday_37/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:23:24 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有什么好的视频 AI 应用程序/网站推荐？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvhg3f/any_good_recommendations_for_video_ai_appswebsites/</link>
       <description><![CDATA[我知道有很多，但是你们目前推荐使用什么应用程序或网站？我不找免费的，付费也可以。 主要是用我写的一些故事脚本制作短视频。    提交人    /u/AffectionateEye420   [link] [评论]]]></description>
@@ -57,16 +92,9 @@
     <item>
       <title>在哪里可以找到对人工智能同样感兴趣的朋友</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvgg03/where_would_i_find_friends_equally_interested_in/</link>
-      <description><![CDATA[所以我是一名在线学习计算机科学的学生，我对人工智能非常感兴趣，不用说我缺少可以讨论的朋友。有什么建议可以找到他们吗？    提交人    /u/Inevitable_Rough_337   [link] [评论]]]></description>
+      <description><![CDATA[所以我是一名在线计算机科学学生，我对人工智能非常感兴趣，不用说我缺少可以讨论的朋友。有什么建议可以找到他们吗？    提交人    /u/Inevitable_Rough_337   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvgg03/where_would_i_find_friends_equally_interested_in/</guid>
       <pubDate>Thu, 03 Oct 2024 19:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能根据文本生成短片？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvf9qp/ai_generate_short_movies_from_text/</link>
-      <description><![CDATA[请问您有人工智能的链接吗？它可以让我生成对话、视频并进行编辑，从而制作一部完整的短片？     提交人    /u/cubodisbruick   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvf9qp/ai_generate_short_movies_from_text/</guid>
-      <pubDate>Thu, 03 Oct 2024 18:56:32 GMT</pubDate>
     </item>
     <item>
       <title>生活中的人工智能</title>
@@ -90,20 +118,6 @@
       <pubDate>Thu, 03 Oct 2024 17:23:39 GMT</pubDate>
     </item>
     <item>
-      <title>描述一下您理想中的一部广泛传播的、探索人工智能广阔领域的电影。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvchf5/describe_your_ideal_widelydistributed_film_that/</link>
-      <description><![CDATA[我的下一个项目肯定会探索这个领域。你希望看到什么你还没有看到的东西？这个领域的过去电影/剧本有什么问题？他们做对了什么？你希望在屏幕上看到哪些影响被接受或避免？ 假设你得到了满屋子顶级电影行业创意人员和制作工作室的全神贯注。你会说什么？    提交人    /u/King_Theseus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvchf5/describe_your_ideal_widelydistributed_film_that/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:58:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>扎克伯格涉足人工智能领域</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvc1sq/zuck_stumbling_into_big_ai/</link>
-      <description><![CDATA[有没有文章或书籍介绍过扎克伯格如何通过购买（2021 年）他几乎被忽视的 Metaverse 计划所需的所有 GPU 而“跌跌撞撞”地进入当前的 AI 爆炸式增长？ 是的，Facebook 一直在广泛使用 AI 进行产品推荐和营销，但这让 Facebook 可以相对较早地进入 LLM 研究领域。而且他们拥有所需的全部/大部分计算能力，而无需进行太多扩建。    提交人    /u/DeepChad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvc1sq/zuck_stumbling_into_big_ai/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:39:58 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能概览研究：法律领域触发率为 78%，选举关键词触发率为 0%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv9875/ai_overviews_research_78_trigger_rate_in_legal/</link>
       <description><![CDATA[SE Ranking 团队研究了各个领域的 AI 概览，重点研究了需要高可靠性和准确性的 YMYL（您的金钱或您的生活）主题。由于 AIO 对用户在 Google 搜索中遇到的信息有重大影响，因此我们在四个关键领域分析了它们的表现：健康、政治、金融和法律。我们使用我们新推出的 AI 概览跟踪器找到了这些信息。以下是我们团队的发现：  法律领域触发 AIO 的比例最高（77.67%），其次是卫生部门（65.33%）、金融（41.67%）和政治（16.67%）。 在 YMYL 主题中，触发 AIO 的最常见关键字模式是如何（如何、多久、多长时间、多少、如何）、什么是、什么是、何时、你、我。  AIO 试图不造成伤害；这可能是对臭名昭著的“石头饮食”惨败的反应吗？  83% 触发 AIO 的健康相关关键字包含免责声明：“这仅供参考。如需医疗建议或诊断，请咨询专业人士。生成式人工智能尚处于实验阶段。” 触发 AIO 的 63.2% 的金融相关关键词包含免责声明：“生成式人工智能尚处于实验阶段。如需财务（法律）建议，请咨询专业人士。” 触发法律主题人工智能概述的 19.74% 关键词包含免责声明：“生成式人工智能尚处于实验阶段。如需法律建议，请咨询专业人士。” Google 对敏感话题格外小心，例如心理健康、饮食失调、药物滥用、特定药物、Covid-19 和堕胎，选择不为这些主题生成 AIO。 政治主题的 AIO 中链接最多的网站是 Wikipedia.org（36 个链接）、State.gov（15 个链接）和 DHS.gov（15 个链接）。 对于包含“选举”、“选举”、“总统”或“总统”等术语的关键字，没有触发 AI 概览，而 OpenAI 的搜索 GPT 没有这样的限制。  这仅涵盖了我们对这个广泛主题的一小部分见解。在我们最新的 AI 概览研究中找到更多信息：分析 Google 处理 YMYL 主题的方法。    提交人    /u/SE_Ranking   [链接] [评论]]]></description>
@@ -118,25 +132,11 @@
       <pubDate>Thu, 03 Oct 2024 14:06:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能和徽标创作</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv8ai6/gen_ai_and_logo_creation/</link>
-      <description><![CDATA[你好！ 我尝试使用 Gen AI（Copilot 和 CGPT4）创建徽标，但每次生成提案时都无法要求修改，而无需一遍又一遍地生成徽标。 有什么办法可以避免这种情况吗？谢谢！    提交人    /u/yulaicesar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv8ai6/gen_ai_and_logo_creation/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:53:31 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 的里程碑式融资：66 亿美元的游戏规则改变者</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</link>
       <description><![CDATA[  由    /u/moonbunR  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv4tne/openais_landmark_funding_the_66_billion_game/</guid>
       <pubDate>Thu, 03 Oct 2024 10:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 获 66 亿美元融资，由微软和 Nvidia 投资者支持</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fv2gzu/openai_lands_66b_in_funding_backed_by_microsoft/</link>
-      <description><![CDATA[Thrive Capital 和 Khosla Ventures 等风险投资家回来投资该公司，Nvidia 也作为新投资者加入。微软是 OpenAI 最大的商业支持者。https://theaiwired.com/openai-lands-6-6b-in-funding-backed-by-microsoft-and-nvidia-investors/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fv2gzu/openai_lands_66b_in_funding_backed_by_microsoft/</guid>
-      <pubDate>Thu, 03 Oct 2024 07:46:59 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>

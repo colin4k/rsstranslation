@@ -4,7 +4,15 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 04 Oct 2024 00:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 03:06:57 GMT</lastBuildDate>
+    <item>
+      <title>我在 31 天内每天开发并发布一款 iPhone 应用的历程</title>
+      <link>https://feed.indiehackers.world/post/9e85996f16</link>
+      <description><![CDATA[爱您，
+Discord Indiehackers 聊天广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/9e85996f16</guid>
+      <pubDate>Wed, 02 Oct 2024 18:03:50 GMT</pubDate>
+    </item>
     <item>
       <title>你的副业项目花费了你多少钱？</title>
       <link>https://feed.indiehackers.world/post/018a44e41e</link>
@@ -237,15 +245,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/31fa63c873</guid>
       <pubDate>Mon, 23 Sep 2024 15:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些 LinkedIn 应用程序/插件如何访问 LinkedIn API？</title>
-      <link>https://feed.indiehackers.world/post/c79bb25d16</link>
-      <description><![CDATA[我看到很多 LinkedIn 插件/应用程序，比如 Taplio 或 AuthoredUp，都是在 LinkedIn 之上构建的。
-但是这些应用程序如何访问 LinkedIn 的数据/端点？据我所知，申请官方 LinkedIn API 访问权限相当困难。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c79bb25d16</guid>
-      <pubDate>Mon, 23 Sep 2024 05:26:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
