@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 05 Oct 2024 15:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 18:02:11 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个平台可以让我安全地获取类似于 Plaid 的第三方用户凭证（经他们同意）？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fwwcbt/is_there_a_platform_that_lets_me_securely_obtain/</link>
+      <description><![CDATA[标题    提交人    /u/desktopsignal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fwwcbt/is_there_a_platform_that_lets_me_securely_obtain/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>LinuxLaunder：适用于 Linux 的强大交互式磁盘空间分析器和清理工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1fwsbgd/linuxlaunder_a_powerful_interactive_disk_space/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在考虑开发一个工具，并且正在考虑是收费还是开源。当我可以为我的工作/时间收费时，开源有什么吸引力？    提交人    /u/metalprogrammer2024   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fvov3g/why_do_people_build_open_source_projects_rather/</guid>
       <pubDate>Fri, 04 Oct 2024 02:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了寻找代码片段：制作一个可以容忍拼写错误的本地文件引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</link>
-      <description><![CDATA[      时不时地，我想重用很久以前写的一些代码。现在我只需搜索就可以了！  使用 Svelte 和 Typesense 构建作为全文搜索引擎。     提交人    /u/mugendee   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
