@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 12:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 15:01:52 GMT</lastBuildDate>
     <item>
-      <title>使用 Notebook LM 对 MassiveMark 进行了 DeepDyve 分析。太棒了。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwon0b/took_a_deepdyve_into_massivemark_with_notebook_lm/</link>
-      <description><![CDATA[  由    /u/SystemMobile7830  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwon0b/took_a_deepdyve_into_massivemark_with_notebook_lm/</guid>
-      <pubDate>Sat, 05 Oct 2024 11:52:42 GMT</pubDate>
+      <title>术语问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwr8wx/terminology_question/</link>
+      <description><![CDATA[我想知道什么术语才是正确的，可以描述 OpenAI、Anthropic 等用于其自定义 GPT/项目的过程。具体来说，“知识”（即 PDF 和其他上传的信息）如何影响 GPT 的输出。 将其描述为后强化训练是否正确，还是其他什么？我的另一个猜测是它只是检索增强生成。 我也想知道人们使用什么资源来解决这种问题。我假设它有很多关于产品本身的技术文档和白皮书，但此时任何东西都是有帮助的。    提交人    /u/Crumpler420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwr8wx/terminology_question/</guid>
+      <pubDate>Sat, 05 Oct 2024 14:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日总结 AI 研究论文 #40</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwpend/summarising_ai_research_papers_everyday_40/</link>
+      <description><![CDATA[标题：每天总结 AI 研究论文 #40 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必全部浏览一遍了。今天的论文题为“基于 AHP 的 LLM 推理，用于多标准评估开放式回答”，作者是 Xiaotian Lu、Jiyi Li、Koh Takeuchi 和 Hisashi Kashima。 本文介绍了一种使用由层次分析法 (AHP) 支持的大型语言模型 (LLM) 评估开放式回答的创新方法。作者意识到评估开放式问题（缺乏明确答案）的复杂性，因此建议利用 AHP 生成并优先考虑多个评估标准，以便进行更准确的评估。通过使用 ChatGPT-3.5-turbo 和 GPT-4 等模型在数据集上进行实验，他们证明了其方法与传统方法相比的有效性。 以下是论文的要点：  AHP 驱动的评估：该方法涉及使用 LLM 为开放式问题创建多个评估标准，然后对每个标准下的答案进行两两比较，从而使评估与人类判断紧密结合。 性能提升：所提出的方法在实验中优于四个基线模型，凸显了多标准评估在增强 LLM 对开放式答案的预测能力方面的有效性。 标准数量的影响：事实证明，使用多个标准可以显着提高性能，这表明在评估过程中考虑各个方面的重要性。 模型变化和灵活性：研究指出了 GPT-4 和 ChatGPT-3.5-turbo 之间的性能差异，前者在评估量表方面提供了更好的灵活性，从而可以进行更细致的评估。 可扩展性和成本：虽然准确性更高，但 AHP 方法需要更多的计算资源，因此与更简单的基线相比，可能会增加运营成本。  总体而言，本文介绍了自动化问题评估方面的一项宝贵进步，揭示了机器智能和人类判断在处理复杂开放式查询时错综复杂的相互作用。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwpend/summarising_ai_research_papers_everyday_40/</guid>
+      <pubDate>Sat, 05 Oct 2024 12:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>精灵人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwpb11/vizard_ai/</link>
+      <description><![CDATA[有人用这个工具编辑视频吗？你的使用体验如何？我想升级到高级版。有什么建议吗？    提交人    /u/Ahmed_Mayeed   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwpb11/vizard_ai/</guid>
+      <pubDate>Sat, 05 Oct 2024 12:30:42 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么人工智能工具可以完成一个未完成的（长篇）故事？</title>
@@ -83,13 +97,6 @@
       <pubDate>Sat, 05 Oct 2024 00:37:41 GMT</pubDate>
     </item>
     <item>
-      <title>您会向我推荐 AI 进行的哪项研究？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwdvsh/which_study_ai_took_would_you_recommend_me/</link>
-      <description><![CDATA[你好。我想要一个学习 AI 工具，它可以：  我可以插入 PDF，它可以为我创建学习材料和抽认卡 我可以插入网站网址，它可以为我创建学习材料、抽认卡并总结所说的内容 我可以插入 YouTube 网址，它可以为我创建学习材料、抽认卡并总结所说的内容  如果有一款学习 AI 工具可以满足所有 3 个要求，您会推荐我最好的哪一款？    提交人    /u/RedBerry748   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwdvsh/which_study_ai_took_would_you_recommend_me/</guid>
-      <pubDate>Sat, 05 Oct 2024 00:17:12 GMT</pubDate>
-    </item>
-    <item>
       <title>巴纳克尔歌剧：人工智能让我和父亲完成了一张搁置了近 30 年的视觉专辑……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwds92/the_barnacle_opera_ai_allowed_my_father_and_i_to/</link>
       <description><![CDATA[《巴纳克尔歌剧：机器人的音乐》 始于 1996 年，也就是我出生的前一年，是一张专辑的音乐，主要使用旧 Macintosh 上的记谱软件逐个音符创作，有一些现场吉他部分，配有故事情节和好友的配音，90 年代的氛围等等...  ...《巴纳克尔歌剧》在概念上已经完整，但打算与全动画黏土动画结合在一起。由于没有时间或粘土来制作，Opera 被搁置了几十年，只是偶尔在 SoundCloud 上听听... ... 28 年后，我开始玩 Bing 的图像生成器，并使用故事中的一些想法，例如海盗失业线和有一只木眼的遥控僵尸，我们都迷上了这个项目，并决心将其完成并发布为草图。这是大约 3 个月的生成和拼凑所有我们可以免费使用 RunwayML 和 PikaLabs Discord 服务器生成的素材的结果... ...我们都对它从这个已经很离奇的故事中想出的东西感到震惊，它似乎已经很好地为这个奇怪的故事情节提供了视觉背景，同时很好地保留了黏土动画风格... ...我们计划在某个时候对其进行扩展，并将其充实为一张真正的视觉专辑，甚至可能是一个视频游戏，但这仍然只是一个想法，直到时间或资金到位...！  一小部分配音来自我的继祖父，巴纳克船长大致以他为原型，所以我们当然要把它献给他和 Thelmer 深爱的母亲苏珊。 需要说明的是，您听到的故事和音频是在 1996 年录制、编写和掌握的。所有视觉效果都是 AI 生成的，除了对 AI 拼写错误的罕见调整和车库场景，其中角色通过色度键控融入场景。（原始镜头在背景中有随机变形的人） 我们 Thelmerhouse Studios 希望您能喜欢！    提交人    /u/DoctorCitrus   [链接] [评论]]]></description>
@@ -130,13 +137,6 @@
       <description><![CDATA[ 达隆·阿西莫格鲁 (Daron Acemoglu) 并不认为 AI 能够实现所有炒作的目标 他说：“你不会迎来一场经济革命” https://www.bloomberg.com/news/articles/2024-10-02/ai-can-only-do-5-of-jobs-says-mit-economist-who-fears-crash     提交人    /u/franckeinstein24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fw2xrv/ai_can_only_do_5_of_jobs_says_mit_economist_who/</guid>
       <pubDate>Fri, 04 Oct 2024 16:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>受元启发的人工智能眼镜可以立即找到陌生人的姓名和地址</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fw0jxo/metainspired_ai_glasses_can_instantly_find/</link>
-      <description><![CDATA[哈佛学生展示了马克·扎克伯格令人毛骨悚然的 Meta-AI 眼镜如何用于立即找出陌生人的姓名和地址。https://theaiwired.com/meta-inspired-ai-glasses-can-instantly-find-strangers-names-addresses/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fw0jxo/metainspired_ai_glasses_can_instantly_find/</guid>
-      <pubDate>Fri, 04 Oct 2024 14:31:00 GMT</pubDate>
     </item>
     <item>
       <title>人工智能和未来就业危机的危险真的存在吗？</title>
