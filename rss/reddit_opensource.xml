@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 05 Oct 2024 06:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 09:02:13 GMT</lastBuildDate>
+    <item>
+      <title>如果只允许 5 个人修改某些内容，这真的是开源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fwl2kr/is_it_really_open_source_if_only_like_5_people/</link>
+      <description><![CDATA[最近，随着 Ryujinx 的关闭，我开始思考。唯一被允许修改该代码的人（Github 上的大多数项目都是这种情况）是经过选择的“选定”的贡献者。每个人都可以阅读源代码，但只有少数人可以真正修改它。这怎么可能是开源的？ 我在这个帖子中想问的是，有没有真正的开源？一种强制项目创建者允许任何人贡献代码并进行修订、如果某些修订被视为恶意则回滚所述修订等的许可证？这些都不是秘密俱乐部的狗屁东西。    提交人    /u/forestsiIver   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fwl2kr/is_it_really_open_source_if_only_like_5_people/</guid>
+      <pubDate>Sat, 05 Oct 2024 07:34:50 GMT</pubDate>
+    </item>
     <item>
       <title>仅需几美元即可使用 ESP32 构建实时对话 GPT 设备</title>
       <link>https://www.reddit.com/r/opensource/comments/1fwfc90/build_a_realtime_talktogpt_device_using_esp32_for/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/timurercan31  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fv6vis/a_small_thought_piece_about_forking_culture_go/</guid>
       <pubDate>Thu, 03 Oct 2024 12:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>krita 还是 gimp？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fv3cqc/krita_or_gimp/</link>
-      <description><![CDATA[  由    /u/Limp_Replacement_596  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fv3cqc/krita_or_gimp/</guid>
-      <pubDate>Thu, 03 Oct 2024 08:59:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
