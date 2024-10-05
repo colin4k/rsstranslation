@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 05 Oct 2024 00:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 03:05:26 GMT</lastBuildDate>
+    <item>
+      <title>仅需几美元即可使用 ESP32 构建实时对话 GPT 设备</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fwfc90/build_a_realtime_talktogpt_device_using_esp32_for/</link>
+      <description><![CDATA[https://news.ycombinator.com/item?id=41743546 https://github.com/StarmoonAI/Starmoon  在美国，每年约有 1/5 的儿童住院，没有照顾者。照顾者（例如游戏治疗师）和父母的压力也会影响孩子的情绪。 不是每个人都擅长交朋友，也不是每个人都有可以交谈的最好的朋友。想象一下，您在生活或工作中遇到了困难，而您又不能告诉父母或朋友。  因此，我们构建了一个开源项目 Starmoon，并使用价格合理的硬件组件将 AI 角色带入玩具和毛绒玩具等现实世界物体，以帮助人们情感成长。请留下任何意见。    提交人    /u/FewGate7173   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fwfc90/build_a_realtime_talktogpt_device_using_esp32_for/</guid>
+      <pubDate>Sat, 05 Oct 2024 01:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 刚刚发布：RateShield (v1.0.0) - 可定制的 API 速率限制器！🔥</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fwe1m7/just_released_rateshield_v100_a_customizable_rate/</link>
+      <description><![CDATA[嘿 Reddit！ 我很高兴地宣布发布 RateShield，这是一个完全可定制的速率限制器，旨在通过特定规则对各个 API 应用速率限制。🎯 无论您是微型 SaaS 还是中型 SaaS 所有者，此工具都可以帮助您防止 API 滥用并有效管理成本。 🌟 主要功能：  可为每个 API 自定义速率限制 直观的仪表板，用于实时监控 轻松即插即用集成  我很乐意收到社区的反馈！试试看，让我知道你的想法。在这里查看：GitHub Repo 我可以帮助您在项目中设置 Rate Shield。欢迎在评论中表达您的兴趣。    提交人    /u/Sushant098123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fwe1m7/just_released_rateshield_v100_a_customizable_rate/</guid>
+      <pubDate>Sat, 05 Oct 2024 00:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>带有片段和/或链接的终端应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1fw787n/terminal_app_with_snippets_andor_links/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Limp_Replacement_596  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fv3cqc/krita_or_gimp/</guid>
       <pubDate>Thu, 03 Oct 2024 08:59:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个免费的开源电子邮件编辑器和模板生成器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fv21n4/a_free_and_open_source_email_editor_and_template/</link>
-      <description><![CDATA[演示：https://designer.sendune.com/  代码：https://github.com/SendWithSES/Drag-and-Drop-Email-Designer 电子邮件的 HTML 可能是最难编写的代码。即使是规则的微小偏差也会在操作系统/桌面/移动客户端的无数组合中破坏电子邮件。 现在是 2024 年中期。电子邮件发明已有近 50 年，HTML 诞生已有 35 年。“基本开源 HTML 电子邮件设计器”一定是一个已解决的问题，对吧？我们也这么认为。 遗憾的是，事实并非如此。 有一些不错的开源电子邮件设计器，但它们带有依赖项，这使得它们很难嵌入到您的应用程序中。这就是我们决定开源 HTML 电子邮件设计器的原因。 SENDUNE 电子邮件设计器专注于简单性和易用性。它很轻量。它只处理纯 HTML - 没有像 mjml 这样的中间代码管理器。没有任何形式的锁定。将 HTML 输出保存为模板并与任何电子邮件服务提供商一起使用。 请随意分叉存储库、进行改进和提交拉取请求。    提交人    /u/Karmaseed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fv21n4/a_free_and_open_source_email_editor_and_template/</guid>
-      <pubDate>Thu, 03 Oct 2024 07:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍（真正）简单的商务 - 我开源了我多年来使用的商店软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fv1qun/introducing_really_simple_commerce_i_open_sourced/</link>
-      <description><![CDATA[        由    /u/iambillz 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fv1qun/introducing_really_simple_commerce_i_open_sourced/</guid>
-      <pubDate>Thu, 03 Oct 2024 06:49:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
