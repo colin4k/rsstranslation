@@ -4,7 +4,105 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 05 Oct 2024 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 21:02:04 GMT</lastBuildDate>
+    <item>
+      <title>JinjaStatic：使用 Jinja2 和约 100 行 Python 代码的静态网站生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwy5ft/jinjastatic_static_website_generator_using_jinja2/</link>
+      <description><![CDATA[  由    /u/DEADFOOD  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwy5ft/jinjastatic_static_website_generator_using_jinja2/</guid>
+      <pubDate>Sat, 05 Oct 2024 19:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源开发四年我学到了什么 | Tea Drinker</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwxyi1/what_i_have_learnt_in_4_years_of_opensource/</link>
+      <description><![CDATA[  由    /u/waozen  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwxyi1/what_i_have_learnt_in_4_years_of_opensource/</guid>
+      <pubDate>Sat, 05 Oct 2024 19:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - abinthomasonline/repo2txt: 基于 Web 的工具将 GitHub 存储库内容转换为单一格式的文本文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwxt77/github_abinthomasonlinerepo2txt_webbased_tool/</link>
+      <description><![CDATA[  由    /u/_srbhr_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwxt77/github_abinthomasonlinerepo2txt_webbased_tool/</guid>
+      <pubDate>Sat, 05 Oct 2024 19:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>局部变量作为更快调试的意外线索</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwx3v8/local_variables_as_accidental_breadcrumbs_for/</link>
+      <description><![CDATA[  由    /u/klaasvanschelven  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwx3v8/local_variables_as_accidental_breadcrumbs_for/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>零售 Android 硬件上的低级开发 - 侦察和原型引导加载程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwrtl/lowlevel_development_on_retail_android_hardware/</link>
+      <description><![CDATA[  由    /u/TimSchumi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwrtl/lowlevel_development_on_retail_android_hardware/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Log.Message.Timestamp.Type 设置为 CreateTime 时 Kafka 的陷阱</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwo6k/a_kafka_pitfall_when_to_set/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwo6k/a_kafka_pitfall_when_to_set/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>在不改变代码的情况下加速 Rust 编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwnsq/speeding_up_the_rust_compiler_without_changing/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwnsq/speeding_up_the_rust_compiler_without_changing/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 需要扩展的标准库</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwnq6/rust_needs_an_extended_standard_library/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwnq6/rust_needs_an_extended_standard_library/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>iRRAM - C++ 中的精确算术</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwnn2/irram_exact_arithmetic_in_c/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwnn2/irram_exact_arithmetic_in_c/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ziggy 数据语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwmwq/ziggy_data_language/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwmwq/ziggy_data_language/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Raku 编程语言的 Raku 知识库</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwmr1/raku_knowledge_base_about_the_raku_programming/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwmr1/raku_knowledge_base_about_the_raku_programming/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统编程中容易混淆或误解的主题：进程、管道、I/O、文件和线程/异步</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwe85/confusing_or_misunderstood_topics_in_systems/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwe85/confusing_or_misunderstood_topics_in_systems/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计 Gleam 的 Web 框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwdn7/designing_gleams_web_framework/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwdn7/designing_gleams_web_framework/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>regalloc III：Rust Cranelift 后端的新寄存器分配器</title>
+      <link>https://www.reddit.com/r/programming/comments/1fwwcst/regalloc_iii_a_new_register_allocator_for_rusts/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fwwcst/regalloc_iii_a_new_register_allocator_for_rusts/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:02:10 GMT</pubDate>
+    </item>
     <item>
       <title>PostScript 1.0 – 代码研究</title>
       <link>https://www.reddit.com/r/programming/comments/1fwwb26/postscript_10_a_code_study/</link>
@@ -46,104 +144,6 @@
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fwvh5n/let_assert_de_gleam/</guid>
       <pubDate>Sat, 05 Oct 2024 17:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 是我的初恋，但我已经嫁给了 JVM</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwrftd/python_is_my_first_love_but_i_am_married_to_jvm/</link>
-      <description><![CDATA[  由   提交  /u/rohanjaswal2507   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwrftd/python_is_my_first_love_but_i_am_married_to_jvm/</guid>
-      <pubDate>Sat, 05 Oct 2024 14:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 终端初学者指南 - 掌握导航基础知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwosfr/linux_terminal_for_beginners_mastering_navigation/</link>
-      <description><![CDATA[  由    /u/lazyhawk20  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwosfr/linux_terminal_for_beginners_mastering_navigation/</guid>
-      <pubDate>Sat, 05 Oct 2024 12:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firebase 应用检查与 Java 后端的集成指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwn29f/firebase_app_check_integration_guide_with_java/</link>
-      <description><![CDATA[  由    /u/lolmaz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwn29f/firebase_app_check_integration_guide_with_java/</guid>
-      <pubDate>Sat, 05 Oct 2024 10:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>值得了解的部署策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwma3g/deployment_strategies_that_are_worth_to_know/</link>
-      <description><![CDATA[  由    /u/meaboutsoftware  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwma3g/deployment_strategies_that_are_worth_to_know/</guid>
-      <pubDate>Sat, 05 Oct 2024 09:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>smyrgeorge/sqlx4k：适用于 PostgreSQL、MySQL 和 SQLite 的高性能 Kotlin Native 数据库驱动程序。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwluyl/smyrgeorgesqlx4k_a_highperformance_kotlin_native/</link>
-      <description><![CDATA[  由    /u/smyrgeorge  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwluyl/smyrgeorgesqlx4k_a_highperformance_kotlin_native/</guid>
-      <pubDate>Sat, 05 Oct 2024 08:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS @import：导入样式表的指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwknpv/css_import_a_guide_to_importing_stylesheets/</link>
-      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwknpv/css_import_a_guide_to_importing_stylesheets/</guid>
-      <pubDate>Sat, 05 Oct 2024 07:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>想向你们展示我们的第一个 AI 生成的视频 - 开源引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwkik9/want_to_show_you_our_first_ai_generated_video/</link>
-      <description><![CDATA[  由    /u/MainTranslator2807  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwkik9/want_to_show_you_our_first_ai_generated_video/</guid>
-      <pubDate>Sat, 05 Oct 2024 06:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>最快的互斥锁</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwjhvv/the_fastest_mutexes/</link>
-      <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwjhvv/the_fastest_mutexes/</guid>
-      <pubDate>Sat, 05 Oct 2024 05:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 工程：文摘 #36</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwgrqx/engineering_with_java_digest_36/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwgrqx/engineering_with_java_digest_36/</guid>
-      <pubDate>Sat, 05 Oct 2024 02:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 编码助手真的能节省开发人员的时间吗？研究表明这些工具不会提高编码速度。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fw90qp/are_ai_coding_assistants_really_saving_developers/</link>
-      <description><![CDATA[  由    /u/john83672  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fw90qp/are_ai_coding_assistants_really_saving_developers/</guid>
-      <pubDate>Fri, 04 Oct 2024 20:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>API - 词汇</title>
-      <link>https://www.reddit.com/r/programming/comments/1fw8qcj/api_vocabulary/</link>
-      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fw8qcj/api_vocabulary/</guid>
-      <pubDate>Fri, 04 Oct 2024 20:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护您的 NestJS 应用程序：Bcrypt、Auth Guards 和数据屏蔽</title>
-      <link>https://www.reddit.com/r/programming/comments/1fw7xgv/secure_your_nestjs_application_bcrypt_auth_guards/</link>
-      <description><![CDATA[  由    /u/Rough_Resolve_8798  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fw7xgv/secure_your_nestjs_application_bcrypt_auth_guards/</guid>
-      <pubDate>Fri, 04 Oct 2024 19:43:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>你不能指望人们是善良的</title>
-      <link>https://www.reddit.com/r/programming/comments/1fw7ur3/you_cant_rely_on_people_being_good/</link>
-      <description><![CDATA[  由    /u/Inevitable-Swan-714  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fw7ur3/you_cant_rely_on_people_being_good/</guid>
-      <pubDate>Fri, 04 Oct 2024 19:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种高性能端口欺骗工具，可通过所有端口上的动态服务模拟来迷惑端口扫描器</title>
-      <link>https://www.reddit.com/r/programming/comments/1fw6pfk/a_highperformance_port_spoofing_tool_to_confuse/</link>
-      <description><![CDATA[  由    /u/ioncehackedmyschool  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fw6pfk/a_highperformance_port_spoofing_tool_to_confuse/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:50:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
