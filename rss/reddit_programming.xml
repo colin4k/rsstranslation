@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 06 Oct 2024 12:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 15:02:04 GMT</lastBuildDate>
     <item>
-      <title>2024 年生产 ML 的状态：36% 需要 1-3 个月来部署模型，<50% 没有监控，10% 使用电子表格进行实验跟踪，性别多样性低于 4%。 - 初步结果，分享您的声音！</title>
-      <link>https://www.reddit.com/r/programming/comments/1fxewh6/the_state_of_production_ml_in_2024_36_take_13/</link>
-      <description><![CDATA[  由    /u/axsauze  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fxewh6/the_state_of_production_ml_in_2024_36_take_13/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:02:01 GMT</pubDate>
+      <title>可靠性的平衡</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxhdp4/balancing_act_of_reliability/</link>
+      <description><![CDATA[  由    /u/Accurate-Quality-904  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxhdp4/balancing_act_of_reliability/</guid>
+      <pubDate>Sun, 06 Oct 2024 14:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>Go 简明指南：简单解释指针</title>
-      <link>https://www.reddit.com/r/programming/comments/1fxemjr/short_guide_in_go_pointers_explained_simply/</link>
-      <description><![CDATA[  由    /u/uscneps  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fxemjr/short_guide_in_go_pointers_explained_simply/</guid>
-      <pubDate>Sun, 06 Oct 2024 11:45:10 GMT</pubDate>
+      <title>CREV - 用于 AI 代码审查和代码库导出的 CLI 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxh54s/crev_a_cli_tool_for_ai_code_reviews_and_codebase/</link>
+      <description><![CDATA[  由    /u/YungMixtape2004  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxh54s/crev_a_cli_tool_for_ai_code_reviews_and_codebase/</guid>
+      <pubDate>Sun, 06 Oct 2024 14:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据在工程行业决策中的重要性</title>
+      <link>https://www.reddit.com/r/programming/comments/1fxfeel/the_importance_of_data_when_making_decisions_in/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fxfeel/the_importance_of_data_when_making_decisions_in/</guid>
+      <pubDate>Sun, 06 Oct 2024 12:30:45 GMT</pubDate>
     </item>
     <item>
       <title>60 年代的可视化编程</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fwwo6k/a_kafka_pitfall_when_to_set/</guid>
       <pubDate>Sat, 05 Oct 2024 18:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不改变代码的情况下加速 Rust 编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwwnsq/speeding_up_the_rust_compiler_without_changing/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwwnsq/speeding_up_the_rust_compiler_without_changing/</guid>
-      <pubDate>Sat, 05 Oct 2024 18:16:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

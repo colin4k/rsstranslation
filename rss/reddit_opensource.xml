@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 06 Oct 2024 12:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 15:02:11 GMT</lastBuildDate>
+    <item>
+      <title>用于网络抓取和自动化的 Apify 的开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</link>
+      <description><![CDATA[我一直在使用 Apify 进行网页抓取和自动化任务，但我对探索开源替代方案很感兴趣。我正在寻找提供与 Apify 类似功能的工具或框架，例如： 网页抓取功能 浏览器自动化 代理管理 可扩展的基础架构 数据存储和导出选项 理想情况下，我希望找到积极维护且拥有支持社区的解决方案。我熟悉各种编程语言，因此欢迎使用 Python、JavaScript 或其他语言提出建议。 这里有人使用过可以与 Apify 相媲美的开源工具吗？我很想听听你的经验，包括优缺点、易用性和可扩展性。 提前感谢你的建议！    提交人    /u/codevoygee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</guid>
+      <pubDate>Sun, 06 Oct 2024 12:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>寻找多用户远程桌面系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/zagap  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fvgnxr/the_raku_knowledge_base_v10_artistic_20_license/</guid>
       <pubDate>Thu, 03 Oct 2024 19:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Al-dente - 极快的目录列表（比 find&fd 快 3 倍！）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fvear5/aldente_an_extremely_fast_directory_listing/</link>
-      <description><![CDATA[        由    /u/R3zn1kk 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fvear5/aldente_an_extremely_fast_directory_listing/</guid>
-      <pubDate>Thu, 03 Oct 2024 18:15:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
