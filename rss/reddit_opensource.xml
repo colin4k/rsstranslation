@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 06 Oct 2024 15:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 18:02:00 GMT</lastBuildDate>
+    <item>
+      <title>RADIUS 负载均衡器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fxj5jw/radius_load_balancer/</link>
+      <description><![CDATA[我在为我的家庭实验室测试寻找一个 RADIUS 负载均衡器。我到处寻找免费的 UDP 负载均衡器，但我发现它们都被付费墙包围着，我的 Google 功能可能让我失望了。  我正在联系社区，询问您是否知道任何信息？  感谢您的帮助。谢谢    提交人    /u/TheITMan19   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fxj5jw/radius_load_balancer/</guid>
+      <pubDate>Sun, 06 Oct 2024 15:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>CLI 中的世界时间</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fxj2n3/world_time_in_your_cli/</link>
+      <description><![CDATA[        提交人    /u/dubesar   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fxj2n3/world_time_in_your_cli/</guid>
+      <pubDate>Sun, 06 Oct 2024 15:28:34 GMT</pubDate>
+    </item>
     <item>
       <title>用于网络抓取和自动化的 Apify 的开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在考虑开发一个工具，并且正在考虑是收费还是开源。当我可以为我的工作/时间收费时，开源有什么吸引力？    提交人    /u/metalprogrammer2024   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fvov3g/why_do_people_build_open_source_projects_rather/</guid>
       <pubDate>Fri, 04 Oct 2024 02:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了寻找代码片段：制作一个可以容忍拼写错误的本地文件引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</link>
-      <description><![CDATA[      时不时地，我想重用很久以前写的一些代码。现在我只需搜索就可以了！  使用 Svelte 和 Typesense 构建作为全文搜索引擎。     提交人    /u/mugendee   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</guid>
-      <pubDate>Fri, 04 Oct 2024 01:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raku 知识库 v1.0（艺术 2.0 许可证）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fvgnxr/the_raku_knowledge_base_v10_artistic_20_license/</link>
-      <description><![CDATA[        由    /u/zagap  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fvgnxr/the_raku_knowledge_base_v10_artistic_20_license/</guid>
-      <pubDate>Thu, 03 Oct 2024 19:56:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
