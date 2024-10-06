@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 06 Oct 2024 03:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 06:02:22 GMT</lastBuildDate>
+    <item>
+      <title>好的重试，坏的重试：一个事件故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1fx944j/good_retry_bad_retry_an_incident_story/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fx944j/good_retry_bad_retry_an_incident_story/</guid>
+      <pubDate>Sun, 06 Oct 2024 05:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年选择正确的语言：Javascript、Kotlin、PHP 和 Python</title>
+      <link>https://www.reddit.com/r/programming/comments/1fx8f7v/choosing_the_right_language_in_2024_javascript_vs/</link>
+      <description><![CDATA[  由   提交  /u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fx8f7v/choosing_the_right_language_in_2024_javascript_vs/</guid>
+      <pubDate>Sun, 06 Oct 2024 04:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>终端颜色很棘手</title>
+      <link>https://www.reddit.com/r/programming/comments/1fx898e/terminal_colours_are_tricky/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fx898e/terminal_colours_are_tricky/</guid>
+      <pubDate>Sun, 06 Oct 2024 04:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWE 与 MLE</title>
+      <link>https://www.reddit.com/r/programming/comments/1fx7t7s/swe_vs_mle/</link>
+      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fx7t7s/swe_vs_mle/</guid>
+      <pubDate>Sun, 06 Oct 2024 03:43:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>鸡尾酒旋转排序 - 鸡尾酒调酒器排序的一种变体，可同时从数组的两端进行排序</title>
+      <link>https://www.reddit.com/r/programming/comments/1fx7mkj/cocktail_twister_sort_a_variant_of_cocktail/</link>
+      <description><![CDATA[  由    /u/Inner-Raspberry1347  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fx7mkj/cocktail_twister_sort_a_variant_of_cocktail/</guid>
+      <pubDate>Sun, 06 Oct 2024 03:31:53 GMT</pubDate>
+    </item>
     <item>
       <title>MacPaint 的开发者 Bil​​l Atkinson 谈软件开发的艺术</title>
       <link>https://www.reddit.com/r/programming/comments/1fx72l3/bill_atkinson_developer_of_macpaint_on_the_art_of/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fwwcst/regalloc_iii_a_new_register_allocator_for_rusts/</guid>
       <pubDate>Sat, 05 Oct 2024 18:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostScript 1.0 – 代码研究</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwwb26/postscript_10_a_code_study/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwwb26/postscript_10_a_code_study/</guid>
-      <pubDate>Sat, 05 Oct 2024 18:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>从右到左的可计算性</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwwav0/right_to_left_computability/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwwav0/right_to_left_computability/</guid>
-      <pubDate>Sat, 05 Oct 2024 18:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>编译器错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1fwwafg/a_compiler_bug/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fwwafg/a_compiler_bug/</guid>
-      <pubDate>Sat, 05 Oct 2024 17:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>P 与 NP 的真正区别</title>
-      <link>https://www.reddit.com/r/programming/comments/1fww71p/what_p_vs_np_is_actually_about/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fww71p/what_p_vs_np_is_actually_about/</guid>
-      <pubDate>Sat, 05 Oct 2024 17:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>公平：大规模公平分配资源</title>
-      <link>https://www.reddit.com/r/programming/comments/1fww59y/fair_allocating_resources_fairly_at_scale/</link>
-      <description><![CDATA[  由    /u/NewDamage5  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fww59y/fair_allocating_resources_fairly_at_scale/</guid>
-      <pubDate>Sat, 05 Oct 2024 17:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
