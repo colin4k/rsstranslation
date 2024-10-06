@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 06 Oct 2024 18:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 21:01:57 GMT</lastBuildDate>
+    <item>
+      <title>刚刚遇到版权问题，有什么建议吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fxnrwx/just_got_into_a_copyright_issue_any_advise/</link>
+      <description><![CDATA[因此，我是 https://zen-browser.app/ 的创建者，第一个短语是“您的浏览器，您的方式”。  因此，我从另一个人那里得到了这个问题，他做了另一个我从未听说过的浏览器，抱怨该短语已注册商标。（https://github.com/zen-browser/desktop/issues/1931） 我不是律师，所以我在寻求建议。我应该更改口号吗？你甚至可以注册短语商标吗？请告诉我。谢谢！    提交人    /u/maubg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fxnrwx/just_got_into_a_copyright_issue_any_advise/</guid>
+      <pubDate>Sun, 06 Oct 2024 18:51:42 GMT</pubDate>
+    </item>
     <item>
       <title>RADIUS 负载均衡器</title>
       <link>https://www.reddit.com/r/opensource/comments/1fxj5jw/radius_load_balancer/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[你好 我使用 FreeCAD 和 KiCAD 进行设计，我想记录我为这些项目构建的线束。有没有可以制作线束的 FOSS？ 我不是在寻找免费/有限许可的软件，而是寻找可以绘制线束的软件。在工作中我们使用 Visio，但该软件是 PIA，而且我在家只使用 Linux，因此它需要与 Linux 兼容。     提交人    /u/hazeyAnimal   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fvq1b3/harness_design_software/</guid>
       <pubDate>Fri, 04 Oct 2024 03:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人们建立开源项目而不是付费项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fvov3g/why_do_people_build_open_source_projects_rather/</link>
-      <description><![CDATA[我正在考虑开发一个工具，并且正在考虑是收费还是开源。当我可以为我的工作/时间收费时，开源有什么吸引力？    提交人    /u/metalprogrammer2024   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fvov3g/why_do_people_build_open_source_projects_rather/</guid>
-      <pubDate>Fri, 04 Oct 2024 02:26:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
