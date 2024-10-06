@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 00:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 03:09:03 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个程序可以将文本文档的更改保存为视频录像？</title>
+      <link>https://www.reddit.com/r/software/comments/1fx4b4f/is_there_a_program_for_saving_text_document/</link>
+      <description><![CDATA[我一直在考虑以一种不只是进行常规屏幕截图（如 OBS）的方式来记录我编写文档的过程。具体来说，我想知道是否有一种方法可以处理文档，然后将其当前状态（包括文档中记录的所有更改，直到其最近的保存点）记录并转换为视频，以显示从头到尾创建文档的所有步骤。也许它甚至可以显示所有紧接着进行的更改，中间没有时间间隔。有人对此有什么建议吗？谢谢！    提交人    /u/Adminn_1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fx4b4f/is_there_a_program_for_saving_text_document/</guid>
+      <pubDate>Sun, 06 Oct 2024 00:23:21 GMT</pubDate>
+    </item>
     <item>
       <title>用于监控网页并自动打开任何新链接的软件</title>
       <link>https://www.reddit.com/r/software/comments/1fx3xng/software_for_monitoring_a_web_page_and/</link>
-      <description><![CDATA[我正在寻找一款可以充当 Web 浏览器但可以在后台运行并监视指定网页的软件。我需要它每隔一分钟左右刷新一次页面，并在页面中出现任何新链接时打开它们。 有类似的东西吗？在 Windows、Linux 还是 Android 上？    提交人    /u/DanielSmoot   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个可以充当 Web 浏览器但可以在后台运行并监视指定网页的软件。我需要它定期刷新页面并在出现任何新链接时打开该页面。 链接的页面需要完全加载并保留，直到我能够查看它们。 有这样的东西吗？在 Windows、Linux 还是 Android 上？    提交人    /u/DanielSmoot   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fx3xng/software_for_monitoring_a_web_page_and/</guid>
       <pubDate>Sun, 06 Oct 2024 00:03:20 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Gomedas  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fwelm5/get_videos_easily_with_masstube_2025/</guid>
       <pubDate>Sat, 05 Oct 2024 00:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据数据做出决策</title>
-      <link>https://www.reddit.com/r/software/comments/1fwe3gg/decision_from_data/</link>
-      <description><![CDATA[作为产品/工程领导者，我们收集大量数据并评估指标 - 使用率、激活、渠道转化、参与度、DAU/MAU、CSAT、NPS、支持票 TTR、广告活动效果、销售电话等等 您和您的团队是否能够根据所有数据有效地做出决策？    提交人    /u/productsensei   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fwe3gg/decision_from_data/</guid>
-      <pubDate>Sat, 05 Oct 2024 00:28:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
