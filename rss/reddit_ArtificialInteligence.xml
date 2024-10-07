@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 15:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 18:01:43 GMT</lastBuildDate>
+    <item>
+      <title>微调 GPT-4o Mini：初学者指南</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fydcy6/finetuning_gpt4o_mini_beginners_guide/</link>
+      <description><![CDATA[自定义 GPT-4o Mini 模型，将 Reddit 中的帖子分类为“有压力”和“无压力”标签。 在本教程中，我们将微调 GPT-4o Mini 模型，将文本分类为“压力”和“无压力”标签。随后，我们将使用 OpenAI API 和 OpenAI 游乐场访问微调后的模型。最后，我们将通过使用各种分类指标比较微调前后的性能来评估微调后的模型。 https://www.datacamp.com/tutorial/fine-tuning-gpt-4o-mini    提交人    /u/kingabzpro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fydcy6/finetuning_gpt4o_mini_beginners_guide/</guid>
+      <pubDate>Mon, 07 Oct 2024 17:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于研究结束项目的人工智能想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fycb6x/ai_ideas_for_an_end_of_study_project/</link>
+      <description><![CDATA[所以我是一名人工智能学生，我将做一个项目作为我的学习结束项目，也许是应用程序或网站，条件是我们整合人工智能，如果有人有任何想法（我更喜欢不寻常的创新想法），请告诉我，我愿意学习，所以不要限制你的想法，不管我已经拥有什么技能。    提交人    /u/bigangrywatermelon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fycb6x/ai_ideas_for_an_end_of_study_project/</guid>
+      <pubDate>Mon, 07 Oct 2024 16:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>浮機</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyc1fn/flobots/</link>
+      <description><![CDATA[还有谁听了 flobots 歌曲手柄上的歌词，觉得它们可能在谈论 AI 控制？这是一个有趣的讨论。放轻松。你还有其他可能在谈论 AI 的歌曲吗？    提交人    /u/TimeTravelingRobot   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyc1fn/flobots/</guid>
+      <pubDate>Mon, 07 Oct 2024 16:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ASI 制衡？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fybsje/asi_checks_and_balances/</link>
+      <description><![CDATA[之前是否曾有人提出过这样的想法，即有意将模型限制在专业领域，最重要的是为它们提供竞争目标，并让它们与其他同样强大的模型“对话”，以获得它们运行和继续所需的答案/权威？就像我们仍然会给它们所有最高级别的目标，即不终结人类等等，但每个模型的最高级别目标措辞不同，更像是一种后盾。然后，他们有某种更具体的较低级别的目标，可以编码为与其他模型目标略有冲突。  我认为本质上是制衡的数字版本。就像我们都知道的那样，我们可能还不够聪明，无法正确考虑 ASI 失控的每一种方式，但是如果我们制作一系列 AGI 级别+ 模型，并让它们都必须就特定的优势/劣势以及最重要的竞争目标达成某种共识，这是否可以作为一种让它们互相监督而不是我们试图完美地做到这一点的方式？  当然，在当前的民主国家中效果不佳，但也许没有情感和金钱的东西来腐败，并且经过深思熟虑的制衡/平衡/相互依赖，这可能是一种降低 ASI 终结生命风险的架构？ 如果这不是一个新想法，有人可以告诉我在哪里可以阅读更多关于此的讨论吗？    提交人    /u/crispy88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fybsje/asi_checks_and_balances/</guid>
+      <pubDate>Mon, 07 Oct 2024 16:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>DANA 领域感知神经符号代理，确保一致性和准确性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyb0v9/dana_domainaware_neurosymbolic_agents_for/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“DANA：用于一致性和准确性的领域感知神经符号代理”，作者是 Vinh Luong、Sang Dinh、Shruti Raghavan、William Nguyen、Zooey Nguyen、Quynh Le、Hung Vo、Kentaro Maegaito、Loc Nguyen、Thao Nguyen、Anh Hai Ha 和 Christopher Nguyen。 本文深入探讨了当前 AI 系统的局限性，特别是那些依赖于大型语言模型 (LLM) 的系统，由于其固有的概率性质，它们经常会遇到不一致和不准确的问题。作者介绍了 DANA（领域感知神经符号代理），这是一种新颖的架构，旨在通过将领域特定知识与神经符号技术相结合来克服这些问题，以促进一致且准确的问题解决。 本文的要点包括：  神经符号方法：DANA 利用自然语言和领域特定知识的符号表示的混合，超越了纯概率语言模型的限制，提高了解决问题的可靠性。 实施和性能：在 OpenSSA 框架内实施后，DANA 表现出了卓越的准确性，在 FinanceBench 财务分析基准上超过了 90%。这一性能在一致性和精确度方面明显超过了当前基于 LLM 的系统。 领域知识重点：该架构突出地结合了领域特定知识，存储在综合知识存储和程序存储中。这确保了 AI 系统能够有效地回忆和应用相关专业知识。 工业应用：本文重点介绍了 DANA 在半导体行业中的应用，其制定蚀刻配方的能力无疑展示了其在需要高精度和准确建议的关键工业过程中的可用性。 符号结构：DANA 的一个关键组成部分是它对符号结构和确定性操作的依赖，这显著降低了输出变化并提高了可解释性，这对于高风险的工业应用至关重要。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyb0v9/dana_domainaware_neurosymbolic_agents_for/</guid>
+      <pubDate>Mon, 07 Oct 2024 15:52:54 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能与天气</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fy9ik6/ai_the_weather/</link>
@@ -76,13 +111,6 @@
       <pubDate>Mon, 07 Oct 2024 08:23:24 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌的生成式人工智能进展：Gemini 1.5 Pro 和 Gemma 2</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fy1oqt/googles_generative_ai_advances_gemini_15_pro_and/</link>
-      <description><![CDATA[Google 对其生成式 AI 模型的最新更新标志着 AI 开发的一个重要里程碑。Gemini 1.5 Pro 模型和新推出的 Gemma 2 代表了下一代大型语言模型，为开发人员提供了前所未有的功能。 Google 的新 Gemini 1.5 Pro 模型 Gemini 1.5 Pro 模型引入了一个扩展的上下文窗口，使其能够同时处理和理解更多数据。  阅读：https://stellarmind.ai/blog/google%E2%80%99s-generative-ai-advances-gemini1.5-pro-and-gemma2    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fy1oqt/googles_generative_ai_advances_gemini_15_pro_and/</guid>
-      <pubDate>Mon, 07 Oct 2024 07:01:56 GMT</pubDate>
-    </item>
-    <item>
       <title>洛夫克拉夫特与人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fxzmcy/lovecraft_and_ai/</link>
       <description><![CDATA[*我认为，世界上最仁慈的事情是人类思维无法将其所有内容关联起来。我们生活在无边无际的黑色海洋中间的一座平静的无知岛屿上，这并不意味着我们应该远航。科学各自朝着自己的方向发展，迄今为止对我们伤害不大；但有一天，将分离的知识拼凑在一起将打开如此可怕的现实前景，以及我们在其中的可怕处境，我们要么因启示而发疯，要么逃离致命的光明，进入新黑暗时代的和平与安全。* 这是大约 100 年前写的，但第一句话给我留下了深刻的印象。它是否间接描述/预测了人工智能的危险？我不知道这里是不是进行哲学或文学分析的地方，但是……    提交人    /u/Hamlerhead   [链接] [评论]]]></description>
@@ -97,14 +125,7 @@
       <pubDate>Mon, 07 Oct 2024 04:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>摘要 ai</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fxps78/a_summary_ai/</link>
-      <description><![CDATA[我忘了一个非常好的人工智能的名字，它可以充当搜索引擎并总结在网络上找到的结果。据说它处于早期 alpha 阶段，也是一个网络应用程序。如果有人知道它可能叫什么，请告诉我。提前谢谢。    提交人    /u/Neon___Cat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fxps78/a_summary_ai/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能最新进展：生成技术中的新工具和令人兴奋的功能</title>
+      <title>人工智能最新进展：生成技术的新工具和令人兴奋的功能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fxmvmt/latest_in_ai_new_tools_and_exciting_features_in/</link>
       <description><![CDATA[大家好！我在 AI 领域发现了一些令人兴奋的更新，想与大家分享一下：  Facepoke 可让您使用有趣的交互式工具轻松调整图像的某些部分（例如移动某人的头部）。 XDoG Sketch 可将照片变成酷炫的线条画，并增强边缘以获得艺术感。 StackBlitz 的 bolt.new 可让您在浏览器中创建 Twitter 帖子、演示文稿甚至动画。 场景添加了“MULTI-LoRA”让您实时调整情景计划的不同部分。 Blinkshot 可即时生成 AI 图像 - 无需注册，而且免费！ NVIDIA 的 EdgeRunner 可平滑 3D 模型，通过修复不完整的细节使其看起来更逼真。 3D Doll Control Net 可帮助您使用文本提示调整 3D 角色的姿势和表情。 DepthFlow 为您的照片添加动作和深度，将它们变成 2.5D 视频。 Voice-Pro 为 100 多种语言提供字幕、翻译和文本转语音功能，拥有 400 多种声音。 FaceFusion 可让您在图像和视频中进行脸部交换，并获得超详细的效果。 TorchChat 现在支持Llama 3.2 模型，包括视觉功能，用于本地 AI 处理。  来源：https://comfyuiblog.com/ai-news-real-time-api-video-creation-tools-and-more/    提交人    /u/hackerzcity   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fxmvmt/latest_in_ai_new_tools_and_exciting_features_in/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[您好， 我感兴趣的是，这里是否有人使用旨在为 CBT、心理治疗或正念提供帮助的这类 AI 工具。 我很想知道有多少人这样做，以及您对这些事情的经验和看法是什么！ 谢谢！    提交人    /u/magdakosmo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fxfc8y/using_ai_for_cbt_and_other_selfhelp_therapy/</guid>
       <pubDate>Sun, 06 Oct 2024 12:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>当人工智能有可能抢走大量工作时，将会建立哪些新制度来防止社会动荡？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx9k7i/when_there_is_a_possibility_of_ai_taking_away/</link>
-      <description><![CDATA[我认为我们可能会看到政府介入，规范人工智能采用的速度和性质。一种可能性是，即使人工智能可以更有效地完成工作，政府也可能要求公司继续雇用大量人员。这将确保尽管人工智能具有强大的能力，但仍有相当一部分劳动力继续就业。    提交人    /u/zentaoyang   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx9k7i/when_there_is_a_possibility_of_ai_taking_away/</guid>
-      <pubDate>Sun, 06 Oct 2024 05:36:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于人工智能问题，我们需要更好地管理这个板块</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx58cj/we_need_better_moderation_on_this_sub_regarding/</link>
-      <description><![CDATA[几乎每天我都会在这里看到同样的问题：  AI 会取代所有工作吗？ 哪些工作不太可能被 AI 取代？  以及任何类似的问题。 如果我错了请原谅我，但我认为这些问题已经被回答了很多次，这已经变得很烦人，几乎感觉这是这个子版块中唯一的东西。 虽然我理解 AI 的影响会对我们的社会经济未来产生重大影响，但我认为每天都出现这些相同的问题并不是讨论 AI 主题的健康方式。 再次，如果我错了，我道歉    提交人    /u/bvjz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx58cj/we_need_better_moderation_on_this_sub_regarding/</guid>
-      <pubDate>Sun, 06 Oct 2024 01:13:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能究竟将如何进步并帮助人类？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx3yid/how_exactly_ai_will_progress_and_help_the_humanity/</link>
-      <description><![CDATA[今天早些时候，我参加了一场英语考试，需要回答一些关于 Yuval Noah Harari 的一篇文章的问题，这篇文章讲述了不同的人、组织和公司如何看待人工智能的进步，将拯救人类的进步与人类对控制人工智能的力量的保留进行了区分。 但我真的不明白，可能是出于无知和天真，人工智能究竟如何拯救人类并为整个人类带来利益？ 我完全理解它将如何帮助涉及信息处理、一些科学领域和数据科学的一切。但文章中提到的许多有影响力的人都把它视为解决全球变暖、饥饿、不平等等问题的方案，基本上是解决现代社会问题的工具，但我们难道不知道如何解决这些问题吗？ 不平等？基本的全民收入和税收。 全球变暖？可再生能源并真正投资于非化石替代品。 饥饿？将畜牧用地改为农田，然后就有足够的食物了。 就像，我很清楚那不是那么简单，做到上述需要大量投资，并彻底更新我们的生活方式和生产资料，但当你停下来看看，并不是说我们做不到或没有钱，在我看来，所有宣传人工智能要解决的问题都已经研究过并有可实现的解决方案，但它们总是涉及一些从现状中获利的强大集团，而这些集团却在亏损，使他们无法解决问题。    提交人    /u/Majestic-Ad-9488   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx3yid/how_exactly_ai_will_progress_and_help_the_humanity/</guid>
-      <pubDate>Sun, 06 Oct 2024 00:04:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
