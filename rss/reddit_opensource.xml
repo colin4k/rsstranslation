@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 21:01:59 GMT</lastBuildDate>
+    <item>
+      <title>🚨 为什么开源至关重要</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fyf06e/why_open_source_is_essential/</link>
+      <description><![CDATA[  由    /u/LorinaBalan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fyf06e/why_open_source_is_essential/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>Wabe - TypeScript 新版本中的后端即服务 (0.5.4)</title>
       <link>https://www.reddit.com/r/opensource/comments/1fydm02/wabe_backend_as_a_service_in_typescript_new/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[最近，随着 Ryujinx 的关闭，我开始思考。唯一被允许修改该代码的人（Github 上的大多数项目都是这种情况）是经过选择的“选定”的贡献者。每个人都可以阅读源代码，但只有少数人可以真正修改它。这怎么可能是开源的？ 我在这个帖子中想问的是，有没有真正的开源？一种强制项目创建者允许任何人贡献代码并进行修订、如果某些修订被视为恶意则回滚所述修订等的许可证？这些都不是秘密俱乐部的狗屁东西。    提交人    /u/forestsiIver   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fwl2kr/is_it_really_open_source_if_only_like_5_people/</guid>
       <pubDate>Sat, 05 Oct 2024 07:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅需几美元即可使用 ESP32 构建实时与 GPT 对话的设备</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fwfc90/build_a_realtime_talktogpt_device_using_esp32_for/</link>
-      <description><![CDATA[https://news.ycombinator.com/item?id=41743546 https://github.com/StarmoonAI/Starmoon  在美国，每年约有 1/5 的儿童住院，没有照顾者。照顾者（例如游戏治疗师）和父母的压力也会影响孩子的情绪。 不是每个人都擅长交朋友，也不是每个人都有可以交谈的最好的朋友。想象一下，您在生活或工作中遇到了困难，而您又不能告诉父母或朋友。  因此，我们构建了一个开源项目 Starmoon，并使用价格合理的硬件组件将 AI 角色带入玩具和毛绒玩具等现实世界物体，以帮助人们情感成长。请留下任何意见。    提交人    /u/FewGate7173   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fwfc90/build_a_realtime_talktogpt_device_using_esp32_for/</guid>
-      <pubDate>Sat, 05 Oct 2024 01:33:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

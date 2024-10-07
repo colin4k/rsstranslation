@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 21:01:44 GMT</lastBuildDate>
+    <item>
+      <title>请推荐我购买哪种外部存储进行备份，如何以原始的计算机科学方式备份每个设备，例如复制整个内部存储然后将其粘贴到外部存储中</title>
+      <link>https://www.reddit.com/r/software/comments/1fyihzf/plz_recommend_me_which_external_storage_for/</link>
+      <description><![CDATA[嗨。我不是 IT 专家，我是一名学生。 Q1。请推荐我购买哪种外部存储进行备份... Q2。请告诉我如何以原始的计算机科学方式备份每个设备，例如复制整个内部存储然后将其粘贴到外部存储中。（我知道如何备份每个设备，但请阅读本文末尾的更多详细信息） 目的是，以防万一我在我的设备上发现可疑症状，以恢复到我的干净和安全的自定义基本 TOTAL** 设置，每个设备没有任何恶意软件， ;**TOTAL 表示它包括自定义系统设置以及自定义应用程序设置；例如带有自定义 Keka、BetterTouchTool、CheatSheet 的 MacOS，或带有自定义 ALCapture、Edge 等的 Win11OS... 为了安全起见，该项目必须是外部设备，因此我无法频繁地手动将我的设备备份到它，我想我可能每年会备份一次设备，所以我决定放弃备份任何当前系统文件或任何应用程序的设置文件。我正在使用 OneDrive，所以我猜它会覆盖当前的媒体文件。 我正在考虑为所有设备配备 3TB 的外部存储。 但端口很重要......我考虑过购买 HDD，但由于端口太多，我很难选择。 我需要一个外部存储来备份 1) 我的 MacbookPro M1max（总容量为 2TB），它没有 USB-A 型，但有三个 Thunderbolt4（USB-C）端口，支持：  充电 DisplayPort Thunderbolt 4（高达 40Gb/s） USB 4（高达 40Gb/s）  （我的 Macbookpro 左侧有 2 个 Thunderbolt4，右侧有 1 个） 2) 我的3) 我的 iPadpro（总容量为 128GB），只有 1 个 USB-C 型端口 4) 我的 AndroidOS 平板电脑（总容量为 32GB），只有 1 个 USB 2.0 微型 B 型端口 5) 我的 Galaxy S24Ultra 手机（总容量为 512GB），只有 1 个 USB-C 型端口。 所以 Q2... 我发现 MacOS 的 TimeMachine 可以备份到外部存储，但我在其他设备中找不到相同的功能，例如 - Win11OS（系统属性&gt;系统保护&gt;系统还原，它没有显示任何导出到外部存储的功能，甚至它似乎没有备份个人应用程序的设置） - AndroidOS手机和平板电脑......为什么他们不给我任何基于计算机科学的备份选项，这意味着只需复制整个内部存储并粘贴到外部存储中？？？ Win11OS 也有同样的问题...... -iPadpro......我还没有备份，但我希望我可以复制整个内部存储然后粘贴到外部存储中。 那么你知道如何复制整个内部存储然后将其粘贴到每个操作系统的外部存储中吗？    提交人    /u/Snakeflow   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fyihzf/plz_recommend_me_which_external_storage_for/</guid>
+      <pubDate>Mon, 07 Oct 2024 21:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>（社区警告）不要与 SourceForge 做生意——这家公司非常不道德，我们因他们损失了 15,000 美元</title>
+      <link>https://www.reddit.com/r/software/comments/1fyfzgu/warning_for_community_dont_do_business_with/</link>
+      <description><![CDATA[不道德的商业行为 – 避免使用 SourceForge 我在这家公司遇到了极其不道德的行为，据他们的销售副总裁说，这些行为“直接来自他们的首席执行官”。 我的公司在 2021 年与 SourceForge 签署了一份潜在客户开发协议。合同中隐藏着一项条款，规定除非客户在到期日前 10 天提供书面通知，否则该协议（价值数千美元）将自动续订。 在第一年，SourceForge 提供的潜在客户质量非常差。 临近续约时，我们没有收到来自 SourceForge 的任何通知或通信。没有来自客户经理的电子邮件，没有提醒——什么都没有。相反，他们的账户信息被再次从我们的信用卡中扣款，没有任何警告。 我们发现这笔费用后，我们的会计团队立即与我们联系，表示我们不打算续约一年。他们怎么回应的？直截了当地说：“请阅读您签署的合同。” 令人惊讶的是，他们拒绝与我们合作解决这一问题，尤其是距离自动续约才过去三天。我将此事上报，并与他们的销售副总裁进行了交谈。我解释了在没有任何联系的情况下进行续约是多么不道德，结果却被告知这项政策“直接来自他们的首席执行官”。 SourceForge 似乎采用一种商业模式，即依靠客户忘记合同，当续约时间到来时，他们会用信用卡支付另一年的服务费。等到他们处理这笔费用时，“已经太晚了”取消或获得退款。 在我看来，这些都是不正当的商业行为，我永远不会考虑再次与 SourceForge 合作。我强烈建议其他人避开这家公司。 体验日期：2024 年 8 月 23 日    提交人    /u/Comfortable_Egg5734   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fyfzgu/warning_for_community_dont_do_business_with/</guid>
+      <pubDate>Mon, 07 Oct 2024 19:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源软件和应用程序的集合</title>
+      <link>https://www.reddit.com/r/software/comments/1fyfd55/a_collection_of_open_source_software_and_apps/</link>
+      <description><![CDATA[  由    /u/piotrkulpinski  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fyfd55/a_collection_of_open_source_software_and_apps/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPC-HC 调整字幕大小，但不调整符号大小</title>
+      <link>https://www.reddit.com/r/software/comments/1fyetes/mpchc_resizes_subtitles_but_doesnt_resize_symbols/</link>
+      <description><![CDATA[我的意思如下： https://preview.redd.it/g84fl83cndtd1.png?width=1443&amp;format=png&amp;auto=webp&amp;s=1974f4c6aced72333520edf039e546b1d396a2c6 我已将字幕大小从 18 调整为 28（并将字体从 Calibri 更改为 Sans Serif）。但如您所见，所有符号都保持 18 大小。 MPC-HC 重启不会改变任何东西。有什么线索吗？    提交人    /u/HidalgoJose   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fyetes/mpchc_resizes_subtitles_but_doesnt_resize_symbols/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一种可以让我在 Windows 上运行 Windows 应用程序的软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1fye7rk/looking_for_a_software_that_would_allow_me_to_run/</link>
+      <description><![CDATA[大家好！ 我最近经常使用 Linux，我发现将 Windows 应用程序隔离在不同的 Bottle 中运行的方式非常有用，而且我在 Windows 中看到了很多这样的用例。Steam、Lutris 或 Bottles 等应用程序允许您这样做，这很棒。 我正在寻找一种在 Windows 上执行相同操作的方法？我想在 Bottle 中运行一些 Windows 应用程序，这样我就不必担心配置更改或它可能对我的 Windows 安装造成的其他后果。 我知道虚拟机是一种东西，但它们使用起来非常繁重，使用它们会损失很多性能。 知道这样的应用程序吗？ 非常感谢！    提交人    /u/FoxTrotte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fye7rk/looking_for_a_software_that_would_allow_me_to_run/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:03:41 GMT</pubDate>
+    </item>
     <item>
       <title>无法通过应用程序或浏览器访问 zara，不知道为什么会这样？</title>
       <link>https://www.reddit.com/r/software/comments/1fye3c0/cant_access_zara_on_app_or_in_browser_wonder_why/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[我所在的公司除了使用笔和纸之外，没有明确的方法来跟踪库存或将其分配给工作。虽然这在某种程度上是可行的，但我正在寻找一种更有效的方式来管理我们销售和安装的产品。我知道有库存/仓库管理解决方案，但我不确定哪种最适合我们。 我们目前使用 ServiceFusion 和 QuickBooks 来开具发票，但仅此而已。我不确定 ServiceFusion 是否有任何资产管理功能。你有什么建议吗？你在公司使用什么，什么对你有用，什么没用？    提交人    /u/lPhanttom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fy5jf8/best_asset_management_software/</guid>
       <pubDate>Mon, 07 Oct 2024 11:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>RYT 音乐/音乐 声音 playstore YouTube 下载器</title>
-      <link>https://www.reddit.com/r/software/comments/1fy4xqa/ryt_musikmusic_sounds_playstore_youtube_downloader/</link>
-      <description><![CDATA[有人使用或知道 Play Store 上的 ryt-musik/music /sounds 应用程序吗？它是 YouTube 下载器吗？就像我不必担心这是 P2P 或文件共享一样。我不想要 Abmahnung。     由   提交  /u/Own-Context9844   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fy4xqa/ryt_musikmusic_sounds_playstore_youtube_downloader/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装已损坏？</title>
-      <link>https://www.reddit.com/r/software/comments/1fy4sun/corrupted_instalation/</link>
-      <description><![CDATA[您好 Reddit， 我在同事的电脑上安装 Civil 3D 时遇到了问题。我开始安装，以为他会知道在安装完成后单击“启动”。然而，他在安装过程中意外重启了电脑（安装到 99%）。现在，安装到 15% 时失败，然后回滚到 0%。 有人遇到过这个问题吗？有什么解决建议吗？    提交人    /u/downoakleaf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fy4sun/corrupted_instalation/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找比较两个视频文件属性并突出显示差异的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fy3q61/looking_for_software_that_compare_two_videos/</link>
-      <description><![CDATA[大家好  正如标题所说，我找不到任何应用程序可以执行与 mediainfo 非常相似的功能，但不幸的是 mediainfo 我必须对每个文件执行此操作，然后手动比较它们  谢谢     提交人    /u/UpsetEarth623   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fy3q61/looking_for_software_that_compare_two_videos/</guid>
-      <pubDate>Mon, 07 Oct 2024 09:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合小型企业的 CRM 软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1fy37jo/best_crm_software_for_small_business/</link>
-      <description><![CDATA[我正在为 23 人的团队寻找一款价格实惠的 CRM。我之前考虑过 HubSpot，但我一直听到的主要问题是他们的支持速度很慢。关于如何处理这个问题有什么建议吗？或者您推荐其他价格实惠的 CRM 选项？    提交人    /u/Zubaru39   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fy37jo/best_crm_software_for_small_business/</guid>
-      <pubDate>Mon, 07 Oct 2024 09:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>执照已过期</title>
-      <link>https://www.reddit.com/r/software/comments/1fy2t0a/license_expired/</link>
-      <description><![CDATA[许可证过期后我可以下载破解软件吗？我听说许可证过期后您不能使用破解软件，这是在您的 IP 上写的，是真的吗？    提交人    /u/StudentSad5307   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fy2t0a/license_expired/</guid>
-      <pubDate>Mon, 07 Oct 2024 08:28:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 21:01:20 GMT</lastBuildDate>
+    <item>
+      <title>为什么单靠摩尔定律无法预测人工智能的进步：需要纳入缩放定律</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyerbo/why_moores_law_alone_cant_predict_ai_progress_the/</link>
+      <description><![CDATA[我经常看到人们讨论AI 进展，好像它与摩尔定律直接相关，但这可能会产生误导。摩尔定律只告诉我们计算能力（晶体管数量）如何随时间增加，而不是模型性能（例如，错误率）如何随时间提高。 我们真正需要的是缩放定律，它描述了模型性能如何随计算而扩展。关键点在于：缩放定律表明，您需要越来越多的计算才能实现相同的性能提升。因为 的指数仍然是指数，所以模型性能仍然会随着时间的推移呈指数级增长，但是，比摩尔定律慢得多。 更大的图景：  摩尔定律：描述计算如何随时间增加（时间 → 计算）。 扩展定律：描述 AI 模型性能如何随着计算而提高（计算 → 性能）。  将两者联系起来，就会得到真正的关系：时间 → 计算 → 性能。这个调整后的模型是 AI 进步的下限，这意味着它对 AI 随着时间的推移可以改进的速度给出了保守的估计。 为什么这很重要？ 这具有巨大的实际意义。例如，尽管摩尔定律可能导致计算量在 10 年内增长 16 倍，但由于缩放定律的 alpha（约 0.28），AI 性能仅增长 2 倍。 如果 AI 目前可以自动化 10% 的人工任务，那么按照摩尔定律，要达到 99% 的自动化程度需要 8.2 年。考虑到缩放定律，实际上需要 29.2 年！ 注意：我说的是 下限：这意味着根据（相对）稳定的定律（摩尔定律和缩放定律），我们可以预测 AI 性能至少应该会像这个下限一样快地增长。这意味着，由于投资增加、算法更好、自我完善等原因，AI 进展仍可远高于此界限。但我们不会将其用作界限，因为与我们的法律相比，它们很难预测。    提交人    /u/PianistWinter8293   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyerbo/why_moores_law_alone_cant_predict_ai_progress_the/</guid>
+      <pubDate>Mon, 07 Oct 2024 18:26:03 GMT</pubDate>
+    </item>
     <item>
       <title>微调 GPT-4o Mini：初学者指南</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fydcy6/finetuning_gpt4o_mini_beginners_guide/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[论点：使用人工智能进行情感指导和治疗不同于阅读治疗师的书籍或在谷歌搜索中查找答案。我看到一些帖子说人们依赖每天、有时几乎每小时一次的人工智能咨询。用户和聊天之间的联系比读者和书之间的联系要牢固得多。 为什么人类必须经过认证和许可才能提供与人工智能聊天相同的建议？（这是一个与“人工智能治疗”的潜在危险不同的话题。我不是治疗师。）当人工智能针对用户进行个性化时，它就跨越了“未经许可的治疗”的界限。它不再是您可能在书中读到的通用“有用建议”。 我们拭目以待。我有一种感觉，治疗师会对此感到愤怒，因为它破坏了许可、教育和证书的价值和意义。这是一个与“人类治疗师是否帮助人们？”不同的主题。它仅涉及法律方面。 编辑：很棒的回复。非常周到！    提交人    /u/FormOk7965   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fxfz86/ai_provides_therapy_human_therapists_need/</guid>
       <pubDate>Sun, 06 Oct 2024 13:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能进行 CBT 和其他自助治疗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fxfc8y/using_ai_for_cbt_and_other_selfhelp_therapy/</link>
-      <description><![CDATA[您好， 我感兴趣的是，这里是否有人使用旨在为 CBT、心理治疗或正念提供帮助的这类 AI 工具。 我很想知道有多少人这样做，以及您对这些事情的经验和看法是什么！ 谢谢！    提交人    /u/magdakosmo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fxfc8y/using_ai_for_cbt_and_other_selfhelp_therapy/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:27:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
