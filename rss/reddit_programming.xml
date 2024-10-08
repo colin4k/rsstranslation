@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 08 Oct 2024 09:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 12:02:17 GMT</lastBuildDate>
+    <item>
+      <title>为什么你应该使用 Makefile</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyy2b2/why_you_should_be_using_makefiles/</link>
+      <description><![CDATA[以下是一些好处： 🔄 一致性：通过提供一种标准方法来管理跨各种语言和项目的构建和命令，简化重复性任务。 🤖 自动化：自动处理项目的构建、运行和清理，减少人工工作。 🚀 效率：保持项目井然有序并确保按正确的顺序执行任务，从而提高工作效率。 👥 团队整合：为新团队成员提供清晰的结构，帮助他们快速了解工作流程。 Makefile 可以改变您处理任务的方式，使您的开发过程更顺畅、更具可扩展性！ 👉 在此处阅读更多信息。您在项目中使用过 Makefile 吗？    提交人    /u/TanisCodes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyy2b2/why_you_should_be_using_makefiles/</guid>
+      <pubDate>Tue, 08 Oct 2024 12:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>COBOL 的 Map Reduce</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyxxtk/cobols_map_reduce/</link>
+      <description><![CDATA[  由    /u/notfancy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyxxtk/cobols_map_reduce/</guid>
+      <pubDate>Tue, 08 Oct 2024 11:55:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程免费认证建议</title>
+      <link>https://www.reddit.com/r/programming/comments/1fyxhat/programming_free_certification_advice/</link>
+      <description><![CDATA[嗨，我是印度人，22 岁，没有编程经验，我也完成了 4 年的计算机学士学位，但没有用，所以请向我推荐最好的免费认证，如果可能的话，请推荐获得软件工作的路线图    提交人    /u/Ok-Professor-6969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fyxhat/programming_free_certification_advice/</guid>
+      <pubDate>Tue, 08 Oct 2024 11:28:31 GMT</pubDate>
+    </item>
     <item>
       <title>Qt 6.8 发布</title>
       <link>https://www.reddit.com/r/programming/comments/1fyv2mv/qt_68_released/</link>
@@ -13,7 +34,7 @@
       <pubDate>Tue, 08 Oct 2024 08:39:18 GMT</pubDate>
     </item>
     <item>
-      <title>年龄真的是影响科技的一个因素吗？</title>
+      <title>年龄真的是技术的一个因素吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1fyv0x4/is_age_really_a_factor_in_tech/</link>
       <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyv0x4/is_age_really_a_factor_in_tech/</guid>
@@ -27,7 +48,7 @@
       <pubDate>Tue, 08 Oct 2024 08:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>我在 7 天内创造了黑色神话风格的 Boss 战！| 印地语 | Unity</title>
+      <title>我在 7 天内创造了黑色神话风格的 Boss 大战！| 印地语 | Unity</title>
       <link>https://www.reddit.com/r/programming/comments/1fyuupg/i_created_black_myth_style_boss_fight_in_7_days/</link>
       <description><![CDATA[  由    /u/hyperVReal  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyuupg/i_created_black_myth_style_boss_fight_in_7_days/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyovu0/medium_building_an_elegant_event_driven/</guid>
       <pubDate>Tue, 08 Oct 2024 01:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>i386 升级到 x86-64 的成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyoj79/the_costs_of_the_i386_to_x8664_upgrade/</link>
-      <description><![CDATA[  由    /u/jmmv  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyoj79/the_costs_of_the_i386_to_x8664_upgrade/</guid>
-      <pubDate>Tue, 08 Oct 2024 01:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Map 替换多个 If else 条件</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyo9p0/replace_multiple_if_else_conditions_with_map/</link>
-      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyo9p0/replace_multiple_if_else_conditions_with_map/</guid>
-      <pubDate>Tue, 08 Oct 2024 01:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是基础设施即数据？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyjau0/what_is_infrastructure_as_data/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyjau0/what_is_infrastructure_as_data/</guid>
-      <pubDate>Mon, 07 Oct 2024 21:33:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
