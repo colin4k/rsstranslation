@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 08 Oct 2024 00:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 03:07:56 GMT</lastBuildDate>
+    <item>
+      <title>有新的 Pi API 可用 - 我是否应该构建一个具有改进内存且没有速率限制的 Pi 接口？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyoeqp/new_pi_api_available_should_i_build_a_pi/</link>
+      <description><![CDATA[Inflection（Pi 的创建者）刚刚发布了 Pi API：​​https://developers.inflection.ai/playground 此 API 允许开发人员构建 Pi 的克隆，这是个好消息，因为这个 subreddit 中的很多人都提到，自从 Inflection 被微软收购以来，Pi 一直在退化。 我正在创建自己的网站，它基本上是 Pi 的一个克隆，具有改进的内存并且没有速率限制。我是 Pi 的社区成员，所以我会听取大家的反馈 :) 如果您有兴趣成为第一批使用它的人之一，请加入等候名单：https://yk1m5yevl9j.typeform.com/to/SnveAlMQ 此外，请随时在此帖子中分享您的功能愿望清单或其他想法！    提交人    /u/shopifyIsOvervalued   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyoeqp/new_pi_api_available_should_i_build_a_pi/</guid>
+      <pubDate>Tue, 08 Oct 2024 01:32:38 GMT</pubDate>
+    </item>
     <item>
       <title>构建人工智能应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyl737/building_ai_app/</link>
@@ -125,13 +132,6 @@
       <pubDate>Mon, 07 Oct 2024 10:35:48 GMT</pubDate>
     </item>
     <item>
-      <title>Meta Movie Gen 最新 AI 模型展示了一些令人印象深刻的新功能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fy2qpb/meta_movie_gen_latest_ai_model_showcases_some/</link>
-      <description><![CDATA[Meta Movie Gen 是 Meta 的最新 AI 模型，展示了一些令人印象深刻的新功能。尽管该模型尚未向公众开放，但只需一个文本提示，它就可以制作出引人入胜的 AI 生成的视频剪辑和音频。它还可以通过添加、替换或修改特定元素来增强和编辑现有视频内容。用户甚至可以上传自己或他人的图像，使 AI 能够创建个性化角色并包含复杂视觉和音频细节的视频。 其中一个突出的功能是它能够生成连贯的动作、保持人类身份和面部特征，并准确地将环境声音或音乐与视觉效果同步。尽管有这些令人兴奋的可能性，但 Meta 只是暗示了潜在的发布，目前专注于改进技术并探索其在 Facebook、Instagram 和 WhatsApp 等平台上的应用。 目前，对 Meta Movie Gen 感兴趣的人可以注册官方候补名单上的更新，或加入 moviegenai.ai 上的候补名单，在那里他们将收到有关未来版本的最新消息，并在可用时获得早期访问权限。    提交人    /u/owys128   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fy2qpb/meta_movie_gen_latest_ai_model_showcases_some/</guid>
-      <pubDate>Mon, 07 Oct 2024 08:23:24 GMT</pubDate>
-    </item>
-    <item>
       <title>洛夫克拉夫特与人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fxzmcy/lovecraft_and_ai/</link>
       <description><![CDATA[*我认为，世界上最仁慈的事情是人类思维无法将其所有内容关联起来。我们生活在无边无际的黑色海洋中间的一座平静的无知岛屿上，这并不意味着我们应该远航。科学各自朝着自己的方向发展，迄今为止对我们伤害不大；但有一天，将分离的知识拼凑在一起将打开如此可怕的现实前景，以及我们在其中的可怕处境，我们要么因启示而发疯，要么逃离致命的光明，进入新黑暗时代的和平与安全。* 这是大约 100 年前写的，但第一句话给我留下了深刻的印象。它是否间接描述/预测了人工智能的危险？我不知道这里是不是进行哲学或文学分析的地方，但是……    提交人    /u/Hamlerhead   [链接] [评论]]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 6 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fxzf2q/oneminute_daily_ai_news_1062024/</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[ Nvidia 收购 OctoAI，以主导企业生成式 AI 解决方案。[1] Uber 借助 Avride 扩展机器人送货和 Robotaxi 产品。[2] Hitachi 与 Nvidia 合作推出 AI 驱动的铁路维护服务。[3] 适用于 Unreal Engine 5 的新 Nvidia ACE 插件简化了 AI 数字人类的创建。[4]  来源包括：https://bushaicave.com/2024/10/06/10-6-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fxzf2q/oneminute_daily_ai_news_1062024/</guid>
       <pubDate>Mon, 07 Oct 2024 04:23:49 GMT</pubDate>
     </item>
