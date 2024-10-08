@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 08 Oct 2024 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 21:02:09 GMT</lastBuildDate>
+    <item>
+      <title>Tetrate 与彭博合作开发基于 Envoy 的 AI 网关</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fza17l/tetrate_bloomberg_collaborate_on_envoybased_ai/</link>
+      <description><![CDATA[        由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fza17l/tetrate_bloomberg_collaborate_on_envoybased_ai/</guid>
+      <pubDate>Tue, 08 Oct 2024 20:41:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源社区的艺术竞赛情况怎么样？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fz9zm0/what_is_the_deal_with_art_competitions_in_the/</link>
+      <description><![CDATA[        提交人    /u/craftbot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fz9zm0/what_is_the_deal_with_art_competitions_in_the/</guid>
+      <pubDate>Tue, 08 Oct 2024 20:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚为 AI 代理开源了一个长期记忆层 🧠</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fz75y2/i_just_open_sourced_a_longterm_memory_layer_for/</link>
+      <description><![CDATA[        由    /u/Open_Contribution_16  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fz75y2/i_just_open_sourced_a_longterm_memory_layer_for/</guid>
+      <pubDate>Tue, 08 Oct 2024 18:40:14 GMT</pubDate>
+    </item>
     <item>
       <title>我正在开发一种可扩展的开源视频流服务（Cloudflare Stream 替代方案）</title>
       <link>https://www.reddit.com/r/opensource/comments/1fz4vjf/im_working_on_a_scalable_opensource_video/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[       由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fy95zg/open_source_needs_younger_maintainers_how_can_it/</guid>
       <pubDate>Mon, 07 Oct 2024 14:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找现有的 Java 项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fy6vwz/looking_for_existing_java_project/</link>
-      <description><![CDATA[您好，我正在寻找一个中型开源 Java 项目，用于教育环境中的再造。 该项目 / 系统必须满足以下标准： - 开源（显然） - 可在 GitHub 上获得（理想情况下具有大量版本历史记录） - 中等规模（5k - 30k 行代码） 期待一些建议！    提交人    /u/freund-schiff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fy6vwz/looking_for_existing_java_project/</guid>
-      <pubDate>Mon, 07 Oct 2024 12:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个提供集中彩色流行主题的 repo。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fy4hw9/a_repo_to_provide_centralized_color_popular_themes/</link>
-      <description><![CDATA[您是否曾想浏览许多不同的颜色主题以找到最适合您的主题？或者您是否做过“遵循统一主题”的米饭，却发现所有米饭都有不同的十六进制代码。这是我制作的一个开源 repo，其中包含流行主题的十六进制代码，这些代码也是原作者首次创建的代码：[color-themes](https://github.com/Rizen54/color-themes) 您也可以提交自己的作品，如果它们是独一无二的，它们将被接受。 我还建议使用 [richcolors](https://github.com/Rizen54/richcolors)（我自己的项目）来生成图片以可视化颜色主题并将其嵌入到 md 文件中。 它现在才刚刚开始，所以我们需要很多帮助和贡献来使它成长。    提交人    /u/Light-weeny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fy4hw9/a_repo_to_provide_centralized_color_popular_themes/</guid>
-      <pubDate>Mon, 07 Oct 2024 10:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否需要轻量级开源作业调度程序？寻求有关如何使矿井做好生产准备的反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fy30ne/is_there_a_need_for_a_lightweight_opensource_job/</link>
-      <description><![CDATA[TL;DR：是否值得增强我的轻量级作业调度程序以供生产使用？它是开源的、可自行托管的，并且可以提供零设置托管服务（尽管托管版本需要付费以支付基础设施成本）。 大家好， 我最近需要一个轻量级解决方案来处理我的 API 的延迟和重复任务，例如在 2 小时后安排对特定端点的回调或触发每日作业（编辑：像 cron 作业一样）。理想情况下，我希望某个东西可以作为我的应用程序堆栈的一部分在 Docker 容器中运行。 在探索了各种工具之后，我找不到最合适的工具：  RabbitMQ：没有内置对重复任务的支持。 Celery/Redis Queue：对我的需求来说太过分了。 AWS EventBridge/Step Functions：无法自托管。 Temporal/Apache Airflow：功能强大，但很重且无法自托管。（编辑：可以自托管）  我最终使用 APScheduler（Python）构建了一个简单的作业调度程序，并将其包装在一个 FastAPI 应用程序中，该应用程序使用一个基本的前端来管理作业，所有作业都在 Docker 容器中运行。但是，它缺少几个可用于生产的功能，如身份验证、日志记录、测试、适当的文档等。 我很惊讶对于这样一个简单的用例没有可用的解决方案，或者也许我只是错过了它。我正在考虑改进这个项目，使其开源、可自托管，并可能提供托管版本（具有速率限制和付费选项以支付基础设施成本）。 在这里查看：  Repo：https://github.com/resona-dev 现场演示：https://resona-console-production.up.railway.app/  你怎么看？像这样的开源作业调度程序对其他人有价值吗？或者已经有一个我忽略了的广泛使用的替代方案？ 感谢您的想法！    提交人    /u/Kolzmerz   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fy30ne/is_there_a_need_for_a_lightweight_opensource_job/</guid>
-      <pubDate>Mon, 07 Oct 2024 08:45:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 08 Oct 2024 18:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 21:02:01 GMT</lastBuildDate>
+    <item>
+      <title>为 AI 代理提供钱包以访问付费工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1fzaibx/giving_an_ai_agent_a_wallet_to_access_paid_tools/</link>
+      <description><![CDATA[  由    /u/postclone  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fzaibx/giving_an_ai_agent_a_wallet_to_access_paid_tools/</guid>
+      <pubDate>Tue, 08 Oct 2024 21:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>即将进行重大更新…</title>
+      <link>https://www.reddit.com/r/programming/comments/1fz9xy0/major_update_incoming/</link>
+      <description><![CDATA[2 年后，CRUMB 终于能够构建、模拟和编程受 Ben Eater 启发的 8 位 CPU……你能做得更好吗？    由    /u/BushellM 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fz9xy0/major_update_incoming/</guid>
+      <pubDate>Tue, 08 Oct 2024 20:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CSSNestedDeclarations 改进 CSS 嵌套</title>
+      <link>https://www.reddit.com/r/programming/comments/1fz9sll/css_nesting_improves_with_cssnesteddeclarations/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fz9sll/css_nesting_improves_with_cssnesteddeclarations/</guid>
+      <pubDate>Tue, 08 Oct 2024 20:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 上现在有针对 Ada Lovelace 日和编程/工程/自动化游戏的促销活动</title>
+      <link>https://www.reddit.com/r/programming/comments/1fz7hmi/theres_now_a_sale_on_steam_dedicated_to_ada/</link>
+      <description><![CDATA[  由    /u/MessirNoob  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fz7hmi/theres_now_a_sale_on_steam_dedicated_to_ada/</guid>
+      <pubDate>Tue, 08 Oct 2024 18:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hacktoberfest 2024 - 反指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1fz6ld1/hacktoberfest_2024_the_antiguide/</link>
+      <description><![CDATA[  由    /u/Sani-the-tizer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fz6ld1/hacktoberfest_2024_the_antiguide/</guid>
+      <pubDate>Tue, 08 Oct 2024 18:15:45 GMT</pubDate>
+    </item>
     <item>
       <title>微软资深人士放弃 Team Tabs，归咎于过去的存储创伤</title>
       <link>https://www.reddit.com/r/programming/comments/1fz5oku/microsoft_veteran_ditches_team_tabs_blaming/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/mtyurt  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fyqy37/living_with_llms_personal_remarks_and_the_8020/</guid>
       <pubDate>Tue, 08 Oct 2024 03:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - renning22/engy：Engy 是一款人工智能开发工具，可以通过自然语言生成功能齐全的 Web 应用程序，简化从创意到工作原型的流程。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyqk5h/github_renning22engy_engy_is_an_aipowered/</link>
-      <description><![CDATA[  由    /u/No-Shop4216  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyqk5h/github_renning22engy_engy_is_an_aipowered/</guid>
-      <pubDate>Tue, 08 Oct 2024 03:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>eBPF 在 Golang 中的应用介绍</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyq9wf/introduction_to_the_application_of_ebpf_in_golang/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyq9wf/introduction_to_the_application_of_ebpf_in_golang/</guid>
-      <pubDate>Tue, 08 Oct 2024 03:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>纪念艾达·洛夫莱斯日：为什么她的 1843 年桌子是第一个计算机程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyq4a8/for_ada_lovelace_day_why_her_1843_table_is_the/</link>
-      <description><![CDATA[  由    /u/djnz-1999  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyq4a8/for_ada_lovelace_day_why_her_1843_table_is_the/</guid>
-      <pubDate>Tue, 08 Oct 2024 03:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>JS Puppeteer 脚本</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyowyb/js_puppeteer_script/</link>
-      <description><![CDATA[接受建设性批评： 如果有人对其业务的自动订购脚本感兴趣，请删除此代码。请阅读许可协议和自述文件。🫡    由   提交  /u/Hav0cPix3l   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyowyb/js_puppeteer_script/</guid>
-      <pubDate>Tue, 08 Oct 2024 01:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Medium] 使用Go语言构建优雅的事件驱动架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1fyovu0/medium_building_an_elegant_event_driven/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fyovu0/medium_building_an_elegant_event_driven/</guid>
-      <pubDate>Tue, 08 Oct 2024 01:57:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
