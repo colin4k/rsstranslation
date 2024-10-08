@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 08 Oct 2024 15:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 18:01:30 GMT</lastBuildDate>
+    <item>
+      <title>谷歌聊天的聊天机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz61w2/chat_bot_for_google_chat/</link>
+      <description><![CDATA[大家好。我开始研究如何制作一个可以在 Google 聊天中工作的聊天机器人。基本上，我的目标是让人们进入我们在 Google Suite 中的聊天室，他们可以向聊天机器人提问，它会使用我们的内联网页面作为回答问题的来源。有什么想法可以从哪里开始吗？    提交人    /u/mattbob20   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz61w2/chat_bot_for_google_chat/</guid>
+      <pubDate>Tue, 08 Oct 2024 17:53:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于消化、总结、管理大量文档的最佳人工智能工具。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz5g1g/best_ai_tool_for_digesting_summarising_managing/</link>
+      <description><![CDATA[我有大量（不到 10k）与我的业务相关的文档。文档、电子表格和 PDF 居多，图像不在考虑范围内。这些文档中的信息包括帐户、租约、合同、法律建议 - 相当普通的文书工作。  我想使用人工智能工具来帮助我处理这些相当无聊的数据。我特别感兴趣的是能够使用结构化数据作为输入和输出。例如，我想构建一个巨大的 JSON 对象或多个对象，详细描述我业务的几乎每个方面，并通过内部链接连接相关主题。  我最初的想法是使用 NotebookLM，它可以轻松集成到 Google 工作区。然而，很明显 NotebookLM 最多只能使用 50 个源文档 - 对于像这样的非常通用的应用程序来说，这太少了。  是否有任何人工智能工具更适合此目的，可以在广泛的源文档上进行训练，可以解释数字信息以及自然语言输入？ 如果有帮助的话，我相当精通几种编码语言（不擅长 Python，更喜欢 JavaScript）。    提交人    /u/haddington   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz5g1g/best_ai_tool_for_digesting_summarising_managing/</guid>
+      <pubDate>Tue, 08 Oct 2024 17:28:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么资源可以制作标志？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz56mi/are_there_any_resources_that_can_make_a_logo/</link>
+      <description><![CDATA[稳定扩散可以做到吗？ https://i.pinimg.com/originals/95/18/9b/95189b92a4d4619555f2d12b8c04165b.png 如果可能的话，想在这里做这样的事情。    提交人    /u/ZooterTheWooter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz56mi/are_there_any_resources_that_can_make_a_logo/</guid>
+      <pubDate>Tue, 08 Oct 2024 17:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以增强现有视频吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz4d2i/can_ai_enhance_existing_video/</link>
+      <description><![CDATA[大家好 我一直在耐心等待天气和人流量的完美结合，以便为我的公司制作新的营销视频，上周我突然想到也许 AI 可以做到这一点，或者提供帮助。 我想在客户来来往往、头顶上飘过云彩的日子，制作一个办公室前面的延时视频，用作网站的动态背景图像。 除了摆弄过 Midjourney 之外，我对 AI 一无所知，所以不知道 AI 是否可以拍摄静态照片或短视频并将其转换成我想要的样子。我所看到的一切似乎都是从头开始的文本生成的。 如果有人可以建议或推荐 AI 产品，我将不胜感激。 谢谢！    提交人    /u/ThrivingDiabetic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz4d2i/can_ai_enhance_existing_video/</guid>
+      <pubDate>Tue, 08 Oct 2024 16:43:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能打造我自己的 JARVIS？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz1zcx/how_can_i_build_my_very_own_jarvis/</link>
+      <description><![CDATA[所以我的想法是基本上拥有一个可以胜任几乎所有事情的助手，比如能够安排约会和提醒，并阻止我日历上的时间。基本上就是和他交谈和聊天。基本上是钢铁侠里的贾维斯，我该怎么做，还要像我 5 岁那样向我解释，因为我不知道从哪里开始，现在我正在使用元人工智能，到目前为止我很喜欢它，但我想要双子座的温暖。    提交人    /u/Aggressive_Virus9632   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz1zcx/how_can_i_build_my_very_own_jarvis/</guid>
+      <pubDate>Tue, 08 Oct 2024 15:04:42 GMT</pubDate>
+    </item>
     <item>
       <title>很高兴推出 Modulify.ai — 在创纪录的时间内创建 Webflow 网站</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz0p0c/excited_to_introduce_modulifyai_create_webflow/</link>
@@ -41,25 +76,11 @@
       <pubDate>Tue, 08 Oct 2024 12:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能在电子商务中的兴起</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyyn3x/the_rise_of_ai_in_ecommerce/</link>
-      <description><![CDATA[AI 与电子商务的融合改变了游戏规则。从提供实时客户服务的聊天机器人到根据浏览历史推荐产品的推荐引擎，AI 使在线购物更加个性化和高效。利用 AI 技术的企业能够更好地了解客户偏好、预测需求并提供量身定制的体验，让客户不断回头。 阅读：https://stellarmind.ai/blog/Transforming-E-commerce-with-AI    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyyn3x/the_rise_of_ai_in_ecommerce/</guid>
-      <pubDate>Tue, 08 Oct 2024 12:31:45 GMT</pubDate>
-    </item>
-    <item>
       <title>最佳本地法学硕士</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyxkso/best_local_llm/</link>
       <description><![CDATA[嘿，我想知道以下哪个 LLM 最适合一般聊天机器人使用和文本摘要（下面附有快捷方式）。Chat GPT 向我推荐了 Llama3 ChatQA 8B，但我想知道这是否是最好的。https://imgur.com/a/oo9FoEQ    提交人    /u/PJ_USA   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyxkso/best_local_llm/</guid>
       <pubDate>Tue, 08 Oct 2024 11:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布我制作的最佳提示，它为我提供了我所见过的 AI 的最高质量的输出</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fywtu3/posting_the_best_prompt_i_made_which_provided_me/</link>
-      <description><![CDATA[https://docs.google.com/document/d/1i-wk8i-mUg1g8CCZe6GIYR2g2Em1xuZI3nUqKZtWA28/edit?usp=sharing 这里！获取提示并了解它并查看差异。我想指出一点，人工智能并不总是每次都能提供高质量的输出。请记住一件事，没有人工智能是完美的，这会增加平均输出质量和提供高质量输出的机会。它不是一些可以让人工智能变得完美的魔法提示：）    提交人    /u/Capital-Algae3377   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fywtu3/posting_the_best_prompt_i_made_which_provided_me/</guid>
-      <pubDate>Tue, 08 Oct 2024 10:48:00 GMT</pubDate>
     </item>
     <item>
       <title>人工智能为何不能很好地幽默？</title>
@@ -85,7 +106,7 @@
     <item>
       <title>所有这些 AI（插入电视节目）流都能赚钱吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyu47s/do_all_these_ai_insert_tv_show_streams_make_money/</link>
-      <description><![CDATA[我最近开始真正地查看它们，并提交主题。这肯定很有趣。 我知道他们必须花钱来运营它们，不是吗？而且我知道还有 Patreon。这些也是 24/7 流。 有些功能需要花钱（我只通过 Discord 免费提交主题，但也有人为付费功能付费，比如让角色唱 YouTube 视频，向角色扔物品（通常是来自节目的参考）。 我最大的疑问之一是关于这个的版权合法性，但有 AI Family Guy l、AI SpongeBob 和 AI South Park（有 AI Seinfeld，但它们被 Twitch 关闭，因为没有过滤攻击性提交，然后回来但将角色重命名为与 Seinfeld 角色更不相似），可能还有其他我不知道的，但也保证会有更多。 这可能是潜在的巨大被动收入，我无法想象这些人实际上在花钱运行这些，而没有任何方式从中赚钱。    提交   /u/AImoneyhowto   [链接] [评论]]]></description>
+      <description><![CDATA[我最近开始真正查看它们，并提交主题。这肯定很有趣。 我知道他们必须花钱来运营它们，不是吗？而且我知道还有 Patreon。这些也是 24/7 流。 有些功能需要花钱（我只通过 Discord 免费提交主题，但也有人为付费功能付费，比如让角色唱 YouTube 视频，向角色扔物品（通常是来自节目的参考）。 我最大的疑问之一是关于这个的版权合法性，但有 AI Family Guy l、AI SpongeBob 和 AI South Park（有 AI Seinfeld，但它们被 Twitch 关闭，因为没有过滤攻击性提交，然后回来但将角色重命名为与 Seinfeld 角色更不相似），可能还有其他我不知道的，但也保证会有更多。 这可能是潜在的巨大被动收入，我无法想象这些人实际上在花钱运行这些，而没有任何方式从中赚钱。    提交   /u/AImoneyhowto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyu47s/do_all_these_ai_insert_tv_show_streams_make_money/</guid>
       <pubDate>Tue, 08 Oct 2024 07:23:21 GMT</pubDate>
     </item>
@@ -111,20 +132,6 @@
       <pubDate>Tue, 08 Oct 2024 04:55:55 GMT</pubDate>
     </item>
     <item>
-      <title>Rag 聊天机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyrpn6/rag_chatbot/</link>
-      <description><![CDATA[想要构建一个带有文档库的聊天机器人，该文档库在我们的网站上公开提供，允许客户询问有关任何信息的问题。  有什么建议吗？    提交人    /u/dkoepke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyrpn6/rag_chatbot/</guid>
-      <pubDate>Tue, 08 Oct 2024 04:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 10 月 7 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyqo0h/oneminute_daily_ai_news_1072024/</link>
-      <description><![CDATA[ 富士康董事长表示，随着语言模型的发展，人工智能投资热潮“仍有一段时间要走”。[1] 三星电子因在人工智能芯片领域陷入困境而对令人失望的利润表示歉意。[2] 谷歌 DeepMind 高管表示，人工智能将大大提高效率，预计其法律部门将处理 50% 的信息请求。[3] 费尔法克斯 公司将使用人工智能筛选非紧急 911 电话。[4]  来源包括：https://bushaicave.com/2024/10/07/10-7-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyqo0h/oneminute_daily_ai_news_1072024/</guid>
-      <pubDate>Tue, 08 Oct 2024 03:31:53 GMT</pubDate>
-    </item>
-    <item>
       <title>有新的 Pi API 可用 - 我是否应该构建一个具有改进内存且没有速率限制的 Pi 接口？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyoeqp/new_pi_api_available_should_i_build_a_pi/</link>
       <description><![CDATA[Inflection（Pi 的创建者）刚刚发布了 Pi API：​​https://developers.inflection.ai/playground 此 API 允许开发人员构建 Pi 的克隆，这是个好消息，因为这个 subreddit 中的很多人都提到，自从 Inflection 被微软收购以来，Pi 一直在退化。 我正在创建自己的网站，它基本上是 Pi 的一个克隆，具有改进的内存并且没有速率限制。我是 Pi 的社区成员，所以我会听取大家的反馈 :) 如果您有兴趣成为第一批使用它的人之一，请加入等候名单：https://yk1m5yevl9j.typeform.com/to/SnveAlMQ 此外，请随时在此帖子中分享您的功能愿望清单或其他想法！    提交人    /u/shopifyIsOvervalued   [链接] [评论]]]></description>
@@ -137,13 +144,6 @@
       <description><![CDATA[我已经尝试使用 AI 音乐和视频大约一个月了，所以我决定尝试一下这些 AI 电影预告片。我真的很喜欢《星球大战》和《黑人剥削电影》，所以我将这两部电影与这个视频结合起来。 我使用 Hailuo 制作了大部分视频剪辑（其中几个是用 Runway 制作的）。旁白是用 ElevenLabs 完成的。音乐是用 Suno 生成的。所有音效都是我自己编辑的。我还做了一些事情，比如添加激光和其他一些后期效果，试图让它尽可能完美。我用 Davinci Resolve 编辑了这个，并在 Reaper 中做了一些音效。 这花了我大约一个星期的时间完成，我学到了很多关于编辑的知识。我很想得到任何反馈或想法，因为我已经尽我所能了。 https://youtu.be/zyqyNXUkfLs 感谢收看！    提交人    /u/justdandycandy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fykc9w/if_star_wars_was_a_blaxploitation_movie/</guid>
       <pubDate>Mon, 07 Oct 2024 22:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么单靠摩尔定律无法预测人工智能的进步：需要纳入缩放定律</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyerbo/why_moores_law_alone_cant_predict_ai_progress_the/</link>
-      <description><![CDATA[我经常看到人们讨论AI 进展，好像它与摩尔定律直接相关，但这可能会产生误导。摩尔定律只告诉我们计算能力（晶体管数量）如何随时间增加，而不是模型性能（例如，错误率）如何随时间提高。 我们真正需要的是缩放定律，它描述了模型性能如何随计算而扩展。关键点在于：缩放定律表明，您需要越来越多的计算才能实现相同的性能提升。因为 的指数仍然是指数，所以模型性能仍然会随着时间的推移呈指数级增长，但是，比摩尔定律慢得多。 更大的图景：  摩尔定律：描述计算如何随时间增加（时间 → 计算）。 扩展定律：描述 AI 模型性能如何随着计算而提高（计算 → 性能）。  将两者联系起来，就会得到真正的关系：时间 → 计算 → 性能。这个调整后的模型是 AI 进步的下限，这意味着它对 AI 随着时间的推移可以改进的速度给出了保守的估计。 为什么这很重要？ 这具有巨大的实际意义。例如，尽管摩尔定律可能导致计算量在 10 年内增长 16 倍，但由于缩放定律的 alpha（约 0.28），AI 性能仅增长 2 倍。 如果 AI 目前可以自动化 10% 的人工任务，那么按照摩尔定律，要达到 99% 的自动化程度需要 8.2 年。考虑到缩放定律，实际上需要 29.2 年！ 注意：我说的是 下限：这意味着根据（相对）稳定的定律（摩尔定律和缩放定律），我们可以预测 AI 性能至少应该会像这个下限一样快地增长。这意味着，由于投资增加、算法更好、自我完善等原因，AI 进展仍可远高于此界限。但我们不会将其用作界限，因为与我们的法律相比，它们很难预测。    提交人    /u/PianistWinter8293   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyerbo/why_moores_law_alone_cant_predict_ai_progress_the/</guid>
-      <pubDate>Mon, 07 Oct 2024 18:26:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
