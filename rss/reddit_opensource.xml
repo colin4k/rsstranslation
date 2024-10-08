@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 08 Oct 2024 12:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 15:02:35 GMT</lastBuildDate>
+    <item>
+      <title>LinShare 的授权力量 - 您真正的开源文件共享解决方案！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fz1q83/the_power_of_delegation_with_linshare_your_true/</link>
+      <description><![CDATA[LinShare 的授权功能 - 您真正的开源文件共享解决方案！LinShare 是一款强大的开源文件共享解决方案，专为优先考虑跨部门和子公司文件共享安全授权的大型企业而设计。🌍💼 使用 LinShare，您可以放心地管理和授权文件访问，因为您知道每次传输都受到保护。 🔑 什么让 LinShare 与众不同？LinShare 提供强大、灵活的授权功能。无论您需要为外部用户或客户创建访客帐户还是管理内部用户，LinShare 都可以让您完全掌控文件共享操作，以保护和简化文件共享操作。 让您的职业生活更轻松的功能： ✔️ 无缝委派：在团队和部门之间安全地共享文件，毫不费力。 ✔️ 访客帐户：与外部合作伙伴或客户轻松协作。 ✔️ 内部用户管理：定义角色、配置域并为每个部门自定义空间分配。 ✔️ 完全控制：管理文件大小限制和存储配额 - 因为您是控制者。无论您是负责监督多个办公室、部门还是外部合作者，LinShare 都有工具来确保您的文件共享过程安全、简化且完全可定制。 🌐🔐 在此处查看当前更新的变更日志：https://github.com/linagora/linshare/blob/master/CHANGELOG.md 准备好让您的文件共享解决方案像您的业务一样充满活力了吗？LinShare 可帮助您的组织自信地委派任务。 💼🚀在此处了解有关 LinShare 的更多信息：https://linshare.app/#OpenSource #FileSharing #EnterpriseSolution #Delegation #B2B #LinShare #Cyber​​Security #DataManagement #IT    提交人    /u/Twake-App   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fz1q83/the_power_of_delegation_with_linshare_your_true/</guid>
+      <pubDate>Tue, 08 Oct 2024 14:54:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>对敏感数据进行编码和解码的 NLP 包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fz14bw/package_which_encodes_and_decodes_sensitive_data/</link>
+      <description><![CDATA[嗨， 我忘记了一个 Python 模块的名字，这个模块可以让你对地址等敏感数据进行编码和解码。 猜测它来自微软。 如果您知道另一个，特别是在客户端上运行的 JS 模块，我会非常高兴。    提交人    /u/grumpyp2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fz14bw/package_which_encodes_and_decodes_sensitive_data/</guid>
+      <pubDate>Tue, 08 Oct 2024 14:27:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.2 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fz0yr4/kde_plasma_62_released/</link>
+      <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fz0yr4/kde_plasma_62_released/</guid>
+      <pubDate>Tue, 08 Oct 2024 14:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源承诺</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fz03sa/open_source_pledge/</link>
+      <description><![CDATA[        提交人    /u/jakepen   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fz03sa/open_source_pledge/</guid>
+      <pubDate>Tue, 08 Oct 2024 13:42:43 GMT</pubDate>
+    </item>
     <item>
       <title>为开源做出贡献并赢得 600 美元 Linux 基础考试/课程代金券</title>
       <link>https://www.reddit.com/r/opensource/comments/1fyv5ed/contribute_to_open_source_and_win_600_linux/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[因此，我是 https://zen-browser.app/ 的创建者，第一个短语是“您的浏览器，您的方式”。  因此，我从另一个人那里得到了这个问题，他做了另一个我从未听说过的浏览器，抱怨该短语已注册商标。（https://github.com/zen-browser/desktop/issues/1931） 我不是律师，所以我在寻求建议。我应该更改口号吗？你甚至可以注册短语商标吗？请告诉我。谢谢！    提交人    /u/maubg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fxnrwx/just_got_into_a_copyright_issue_any_advise/</guid>
       <pubDate>Sun, 06 Oct 2024 18:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>RADIUS 负载均衡器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fxj5jw/radius_load_balancer/</link>
-      <description><![CDATA[我在为我的家庭实验室测试寻找一个 RADIUS 负载均衡器。我到处寻找免费的 UDP 负载均衡器，但我发现它们都被付费墙包围着，我的 Google 功能可能让我失望了。  我正在联系社区，询问您是否知道任何信息？  感谢您的帮助。谢谢    提交人    /u/TheITMan19   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fxj5jw/radius_load_balancer/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CLI 中的世界时间</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fxj2n3/world_time_in_your_cli/</link>
-      <description><![CDATA[        提交人    /u/dubesar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fxj2n3/world_time_in_your_cli/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于网络抓取和自动化的 Apify 的开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</link>
-      <description><![CDATA[我一直在使用 Apify 进行网页抓取和自动化任务，但我对探索开源替代方案很感兴趣。我正在寻找提供与 Apify 类似功能的工具或框架，例如： 网页抓取功能 浏览器自动化 代理管理 可扩展的基础架构 数据存储和导出选项 理想情况下，我希望找到积极维护且拥有支持社区的解决方案。我熟悉各种编程语言，因此欢迎使用 Python、JavaScript 或其他语言提出建议。 这里有人使用过可以与 Apify 相媲美的开源工具吗？我很想听听您的经验，包括优缺点、易用性和可扩展性。 提前感谢您的建议！    提交人    /u/codevoygee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fxf960/opensource_alternatives_to_apify_for_web_scraping/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找多用户远程桌面系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</link>
-      <description><![CDATA[大家好！ 我正在寻找一个可以在 Ubuntu 中运行的远程桌面控制系统。类似于 VNC，但允许多个用户同时远程查看和控制此 Ubuntu 桌面的屏幕。 我已经寻找了一段时间，但我发现的所有解决方案都只允许一个用户同时使用。如果第二个用户登录，第一个用户将被踢出。 我不确定这是否可行，但如果能为我指明正确的方向，我将不胜感激。 谢谢！ 编辑：我正在寻找类似 https://tuple.app/ 的东西，但是是开源的。    提交人    /u/SomeDudeFromSpace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</guid>
-      <pubDate>Sat, 05 Oct 2024 22:16:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
