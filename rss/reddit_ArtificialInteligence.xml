@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 08 Oct 2024 21:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 00:03:04 GMT</lastBuildDate>
+    <item>
+      <title>恐惧之泪 (tears for fears) 可以为他们的 AI 作品申请版权吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzdocy/can_tears_for_fears_copyright_their_ai_artwork/</link>
+      <description><![CDATA[Tears for Fears 有可能为 AI 生成的艺术作品申请版权吗？由于 AI 创作的作品不涉及直接的人类创作，乐队的参与或创作指导是否足以获得版权保护？我很好奇版权法如何适用于音乐行业的 AI 艺术，以及这对像 Tears for Fears 这样在视觉效果中使用 AI 的艺术家意味着什么。    提交人    /u/PseudoPatriotsNotPog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzdocy/can_tears_for_fears_copyright_their_ai_artwork/</guid>
+      <pubDate>Tue, 08 Oct 2024 23:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>JumpStarter 利用人工智能情境管理开始实现个人目标</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzda74/jumpstarter_getting_started_on_personal_goals/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“JumpStarter：通过 AI 驱动的情境策划开始实现个人目标”，作者是 Sitong Wang、Xuanming Zhang、Jenny Ma、Alyssa Hwang 和 Lydia B. Chilton。 这项研究介绍了一种名为 JumpStarter 的新系统，旨在通过利用 AI 进行情境策划来帮助个人开始个人项目。该研究认识到许多人在从规划过渡到执行个人目标时面临的挑战，尤其是对于复杂的工作。 JumpStarter 将这些目标分解为可管理的步骤，并通过结合用户的个人背景为每个任务提供个性化的工作解决方案。 以下是本文中的一些亮点：  背景管理和任务管理：JumpStarter 擅长通过引出和管理背景来创建高质量计划，将较大的项目细分为较小的可操作任务。这使用户能够有效地专注于实现目标所需的每个组件。 比较功效：在一项比较用户研究中，与使用 ChatGPT 相比，JumpStarter 用户在启动个人项目时经历了精神负担的减轻和效率的提高。结构化方法可帮助用户保持对其计划的概览并避免被信息淹没。 技术评估：JumpStarter 的技术评估表明，背景管理可显著提高生成的计划和解决方案的质量。该系统包括任务的层次分解和根据用户需求量身定制的智能上下文选择等功能。 设计洞察：该研究讨论了生成式人工智能的含义，强调了人工智能驱动的上下文管理在复杂问题解决中的好处。这包括此类系统如何整合结构化和对话式方法来增强用户体验。  总之，JumpStarter 代表着在使用人工智能简化和增强个人目标设定和项目管理的初始阶段方面迈出了重要一步。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzda74/jumpstarter_getting_started_on_personal_goals/</guid>
+      <pubDate>Tue, 08 Oct 2024 23:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天的 AI 更新：OpenAI O1、视频指南工具和最新更新</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzc6mv/todays_ai_updates_openai_o1_video_guide_tools_and/</link>
+      <description><![CDATA[以下是 AI 的最新进展：  Sully 的工作流程：首先准备一份详细的文档，以优化 OpenAI 的 O1。 Supervision 0.24.0：现在按类别计算越线次数 - 请在 GitHub 上查看。 LeLaN：机器人从真实世界的视频中学习导航。 Lex Fridman 播客：关于 Claude 和 O1 等 AI 工具的见解。 RunwayML：生成模型的新安全功能。 Signal 的视频指南：无需额外训练即可提高视频质量。 差分变压器：增强对文本中关键信息的关注。 OmniBooth：更好地控制 AI 生成的图像。 MathHay：通过复杂问题测试 AI 的数学技能。 FAN：改进神经网络中的模式识别。  来源：https://comfyuiblog.com/ai-news-openai-o1-runwayml-on-safety-video-enhancements-and-more/    提交人    /u/hackerzcity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzc6mv/todays_ai_updates_openai_o1_video_guide_tools_and/</guid>
+      <pubDate>Tue, 08 Oct 2024 22:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>个性化人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzaq8m/personalized_ai/</link>
+      <description><![CDATA[您好， 有人知道是否存在可以个性化的 AI 吗？这可能吗？您觉得呢？ 例如： 我在我的专业工作领域中教它一个特定的主题，它会记住我传授的知识。现在我可以用它来帮助我完成某些任务，比如指出合同中最重要的点或缺陷。    提交人    /u/jonnesoh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzaq8m/personalized_ai/</guid>
+      <pubDate>Tue, 08 Oct 2024 21:10:41 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能监控的困境：我们的界限在哪里</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fza7pi/the_dilemma_of_ai_in_surveillance_where_do_we/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>有任何酷炫且独特的最后一年项目想法吗？（任何帮助都值得感激）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz8x2b/any_cool_and_unique_final_year_project_ideas_any/</link>
-      <description><![CDATA[我有八个月的时间来完成这项工作，但没有主题可供选择。我的意思是有很多，但我的大学说它应该是独一无二的，而不是现有的。  你们有什么好主意可以用吗？拜托！    提交人    /u/Gold_Conversation351   [link] [评论]]]></description>
+      <description><![CDATA[我有八个月的时间来完成这项工作，但没有主题可供选择。我的意思是有很多，但我的大学说它应该是独一无二的，而不是现有的。  你们有什么好主意我可以使用吗？拜托！    提交人    /u/Gold_Conversation351   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz8x2b/any_cool_and_unique_final_year_project_ideas_any/</guid>
       <pubDate>Tue, 08 Oct 2024 19:53:43 GMT</pubDate>
     </item>
@@ -90,20 +118,6 @@
       <pubDate>Tue, 08 Oct 2024 14:09:07 GMT</pubDate>
     </item>
     <item>
-      <title>Aevov：通过 Web 分布式神经架构和实时学习彻底改变人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fz09ht/aevov_revolutionizing_ai_with_webdistributed/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fz09ht/aevov_revolutionizing_ai_with_webdistributed/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>EasyVSL 评论 - 加入 70,000 名营销人员，设计具有影响力的视频，以</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyzowc/easyvsl_review_join_70k_marketers_designing/</link>
-      <description><![CDATA[  由    /u/Technicallysane02  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyzowc/easyvsl_review_join_70k_marketers_designing/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:23:14 GMT</pubDate>
-    </item>
-    <item>
       <title>通才 vs 专才</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyyyco/generalist_vs_specialist/</link>
       <description><![CDATA[我简单说一下。这个社区是否认为从长远来看，一个人是通才好还是专才好？我想将这个问题广泛地应用于各种工作，但如果我们必须使其更具体，让我们看看技术工作。例如，做一名通才安全工程师还是一名应用安全工程师更好？做一名 DevOps 工程师还是一名前端开发人员更好？做一名项目经理还是 Scrum Master 更好？等等。 所有这些都是在不断发展的 AI 系统的背景下进行的。 谢谢！    提交人    /u/SatoriSlu   [链接] [评论]]]></description>
@@ -111,21 +125,7 @@
       <pubDate>Tue, 08 Oct 2024 12:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>最佳本地法学硕士</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyxkso/best_local_llm/</link>
-      <description><![CDATA[嘿，我想知道以下哪个 LLM 最适合一般聊天机器人使用和文本摘要（下面附有快捷方式）。Chat GPT 向我推荐了 Llama3 ChatQA 8B，但我想知道这是否是最好的。https://imgur.com/a/oo9FoEQ    提交人    /u/PJ_USA   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyxkso/best_local_llm/</guid>
-      <pubDate>Tue, 08 Oct 2024 11:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能为何不能很好地幽默？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fywclx/why_cant_ai_do_humor_well/</link>
-      <description><![CDATA[大家好，我为此苦苦挣扎了很长时间。我经常要求 ChatGPT 写一些有趣的东西或用有趣的语气写，但它写出来却显得很做作。似乎人工智能不懂喜剧的节奏。而且节奏，天哪，它总是搞错。我曾尝试提示它指定特定作者的风格（例如伍迪·艾伦），甚至以特定的喜剧风格写作。我想给它一些非常简单的东西，比如用面无表情的喜剧风格写点东西。它似乎痴迷于获得正确的语法和正确的句子结构，而忽略了幽默的节奏。就是永远做不对。 有没有其他人设法得到一些有用的东西，至少是一些有趣的东西？有人有解决办法吗？我非常想知道目前哪种风格最适合。现在，我什么都找不到。 顺便说一句，感谢您迄今为止的所有反馈！    提交人    /u/void_concept   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fywclx/why_cant_ai_do_humor_well/</guid>
-      <pubDate>Tue, 08 Oct 2024 10:15:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能助力英伟达股价六周创历史新高，超越微软</title>
+      <title>人工智能助力英伟达股价创六周新高，超越微软</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fyw211/nvidia_overtakes_microsoft_as_ai_powers_stock_to/</link>
       <description><![CDATA[周一，尽管大多数其他大型科技股下跌，但 Nvidia 股价上涨。这帮助这家人工智能巨头在人工智能繁荣时期恢复了其作为全球第二大公司的地位。 https://theaiwired.com/nvidia-overtakes-microsoft-as-ai-powers-stock-to-6-week-record-high/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fyw211/nvidia_overtakes_microsoft_as_ai_powers_stock_to/</guid>
