@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 09 Oct 2024 15:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 18:07:16 GMT</lastBuildDate>
+    <item>
+      <title>开源 RAGGENIE：低代码 RAG 构建器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fzx3p9/opensourced_raggenie_a_low_code_rag_builder/</link>
+      <description><![CDATA[我刚刚开源了RAGGENIE，这是一个低代码 RAG 构建器，可以非常轻松地创建检索增强生成 (RAG) 解决方案。它专为小型团队和企业设计，可集成自己的数据并构建自定义 Copilot，而无需大量编码。很想听听您的反馈！ 查看： https://github.com/sirocco-ventures/raggenie 我们还在产品搜索上推出了：https://www.producthunt.com/posts/raggenie    提交人    /u/BitwiseBison   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fzx3p9/opensourced_raggenie_a_low_code_rag_builder/</guid>
+      <pubDate>Wed, 09 Oct 2024 17:32:18 GMT</pubDate>
+    </item>
     <item>
       <title>已切换到 Linux，需要 MS Journal 的替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fzsc3u/switched_to_linux_need_an_alternative_for_ms/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/smileymileycoin 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fyv5ed/contribute_to_open_source_and_win_600_linux/</guid>
       <pubDate>Tue, 08 Oct 2024 08:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎯 推出 SnoopR：跟踪 Wi-Fi 和蓝牙设备 + 获取实时安全警报！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fyswfc/introducing_snoopr_track_wifi_bluetooth_devices/</link>
-      <description><![CDATA[大家好，我很高兴与大家分享我一直在做的一个项目——SnoopR！🚀 什么是 SnoopR？SnoopR 是一个开源工具，旨在使用 Kismet 数据实时跟踪 Wi-Fi 和蓝牙设备。它会提醒您潜在的 Wi-Fi 攻击，例如取消身份验证和恶意接入点，同时帮助您监控跨多个位置的设备移动。非常适合安全研究人员、网络管理员和爱好者！ 特点：✅ 检测您周围的窥探者和设备✅ 实时发出安全威胁警报✅ 通过 GPS 跟踪设备移动✅ 可定制且易于使用 我使用 Raspberry Pi 5、GPS 适配器和强大的 Wi-Fi 和蓝牙适配器开发了 SnoopR。如果您对网络安全或无线跟踪感兴趣，我很乐意听到您的想法或了解其他人如何使用它！ 在 GitHub 上查看：https://github.com/AlienMajik/SnoopR 让我们讨论一下如何改进它或设置您自己的无线监控工具的方式！🔥    提交人    /u/AlienMajik   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fyswfc/introducing_snoopr_track_wifi_bluetooth_devices/</guid>
-      <pubDate>Tue, 08 Oct 2024 05:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
