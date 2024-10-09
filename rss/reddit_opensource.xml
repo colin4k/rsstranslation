@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 09 Oct 2024 18:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 21:10:20 GMT</lastBuildDate>
+    <item>
+      <title>超快开源 IPTV 播放器 Open TV 现已发布 1.0 版 🎊</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fzyx7u/open_tv_the_ultrafast_opensource_iptv_player/</link>
+      <description><![CDATA[        由    /u/Fredol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fzyx7u/open_tv_the_ultrafast_opensource_iptv_player/</guid>
+      <pubDate>Wed, 09 Oct 2024 18:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>KitOps：唯一专为 AI/ML 项目设计的开源、基于标准的打包和版本控制系统！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fzy2o8/kitops_only_open_source_standardsbased_packaging/</link>
+      <description><![CDATA[来自 KitOps 团队 很高兴听到有关该项目正在解决的问题的一些反馈和经验。 KitOps 是唯一一个针对 AI/ML 项目的开源、基于标准的打包和版本控制系统。 KitOps 试图解决什么问题？ 如今，AI/ML 开发依赖于紧密耦合但版本控制和单独存储的工件：  Jupyter 笔记本或 MLOps 工具中的模型、数据湖或文件系统中的数据集、Git 存储库中的代码以及分散在不同位置的元数据。  如何以及为什么？  用于共享所有 AI/ML 模型生命周期工件（数据集、代码、配置）的符合 OCI 标准的打包格式，称为 ModelKit。 为了改善数据科学家、开发人员、和 SRE 管理或集成自托管 AI/ML 模型。  1 个重要问题：在 OCI 中将所有内容打包到单独的层中并不难，但是当您尝试仅提取单独的层时，问题就开始了。 KitOps 通过 KitCLI 解决了这个问题 - 您可以从同一个工件中提取特定的层，如模型、数据集和代码，确保每个管道根据部署要求获得其所需的内容。 在 GitHub 上了解更多信息，或查看我们的官方 文档 了解更多详情。    提交人    /u/codes_astro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fzy2o8/kitops_only_open_source_standardsbased_packaging/</guid>
+      <pubDate>Wed, 09 Oct 2024 18:12:49 GMT</pubDate>
+    </item>
     <item>
       <title>开源 RAGGENIE：低代码 RAG 构建器</title>
       <link>https://www.reddit.com/r/opensource/comments/1fzx3p9/opensourced_raggenie_a_low_code_rag_builder/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fz0yr4/kde_plasma_62_released/</guid>
       <pubDate>Tue, 08 Oct 2024 14:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源承诺</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fz03sa/open_source_pledge/</link>
-      <description><![CDATA[        提交人    /u/jakepen   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fz03sa/open_source_pledge/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:42:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开源做出贡献并赢得 600 美元 Linux 基础考试/课程代金券</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fyv5ed/contribute_to_open_source_and_win_600_linux/</link>
-      <description><![CDATA[        由    /u/smileymileycoin 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fyv5ed/contribute_to_open_source_and_win_600_linux/</guid>
-      <pubDate>Tue, 08 Oct 2024 08:45:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
