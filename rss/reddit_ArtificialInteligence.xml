@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 09 Oct 2024 21:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:03:07 GMT</lastBuildDate>
+    <item>
+      <title>目前哪种 AI 工具更值得购买？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g05j8p/wich_ai_tool_is_more_worth_buying_as_of_right_now/</link>
+      <description><![CDATA[让我们考虑一下目前可供我们公开使用的工具。哪一个看起来真的物有所值？让我们想想一个可以满足普通用户大多数人工智能需求的应用程序。哪一个浮现在你的脑海中？    提交人    /u/Ecstatic_Ad2843   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g05j8p/wich_ai_tool_is_more_worth_buying_as_of_right_now/</guid>
+      <pubDate>Wed, 09 Oct 2024 23:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>打赌这会让情况变得更好。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g03mx2/bet_this_will_make_it_better/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g03mx2/bet_this_will_make_it_better/</guid>
+      <pubDate>Wed, 09 Oct 2024 22:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍真相节点：一个简单的真相区块链与人工智能相结合形成预言机</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g02eq9/introducing_truth_node_a_simple_truth_blockchain/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g02eq9/introducing_truth_node_a_simple_truth_blockchain/</guid>
+      <pubDate>Wed, 09 Oct 2024 21:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 GPT 模型一会儿聪明，一会儿又愚蠢（以及为什么它不仅仅是记忆）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g02drf/why_gpt_models_act_smart_one_moment_and_dumb_the/</link>
+      <description><![CDATA[因此，我们都知道 GPT 模型可以做一些非常令人惊叹的事情。它可以清楚地解释复杂的主题，解决问题，甚至听起来比我们大多数人都聪明。但是，突然之间，它可以完全搞砸最简单的任务。有些人认为这是因为它只是在重复记忆的东西，而没有真正理解任何东西。但我不同意。 这就是我认为 GPT 表现如此的原因： 1. 它没有主动学习 当 o1 试图解决问题时，它会将其分解成更小的部分（就像人类一样）。问题越复杂，它需要处理的子问题就越多。人类通过学习抽象并将其内化为直觉来解决这个问题。例如，我们不必每次放下苹果时都自觉地认为它会掉下来——我们的大脑已经“学会”了。 另一方面，GPT 没有这种主动学习能力。它前一分钟解释得很好，但如果你再问它，它可能会忘记或感到困惑。这是因为它没有“存储”这些解决方案以供以后使用——它只是在当下处理一切。所以，尽管 GPT 可以很好地推理，但它缺乏像我们一样内化这些教训的能力。 如果 GPT 可以主动学习，它就不需要一直把所有东西都保存在它的“工作记忆”中。它可以将事物存储为抽象概念，并将其用于未来的问题，从而使其在解决复杂任务时更加高效。目前，它的能力有限，因为它的神经网络不够复杂，无法独自管理这种抽象级别。 2.它专注于预测下一个单词 GPT 的训练方式非常有趣。它会因预测序列中的正确单词而获得奖励。因此，它自然而然地了解到，记忆往往比推理更快完成工作。这在大多数情况下都很有效，但是当遇到需要更深入思考的问题时，它就不那么好了，因为推理比仅仅记住东西需要更多的努力。这就像 GPT 陷入了“我只会尽可能多地记忆”的局部最小值，因为这是获得更多正确预测的最简单方法。 这就是新模型的用武之地。这些模型经过训练，不仅会奖励正确说出下一个单词，还会奖励正确的推理步骤。这使它们摆脱了“记忆模式”，并使它们整体上更好地进行推理。并不是说 GPT 以前不能推理——只是这样做对它的回报较少。这些较新的模型将重点转移到思考问题上，而不仅仅是记忆模式。 TL;DR GPT 并不笨，因为它会把简单的东西搞乱——它进入这个世界的方式与人类不同。它不会像我们一样主动学习或存储知识，而且它被训练来预测下一个单词，这使得它更喜欢记忆而不是推理。但有了更好的模型，我们开始推动它更有效地推理。    提交人    /u/PianistWinter8293   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g02drf/why_gpt_models_act_smart_one_moment_and_dumb_the/</guid>
+      <pubDate>Wed, 09 Oct 2024 21:15:30 GMT</pubDate>
+    </item>
     <item>
       <title>适合初学者/普通终端用户的书籍？？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g01qmj/books_for_beginneraverage_end_users/</link>
@@ -55,13 +83,6 @@
       <pubDate>Wed, 09 Oct 2024 15:53:01 GMT</pubDate>
     </item>
     <item>
-      <title>perplexity 的新 beta 推理能力很糟糕</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzu7mv/perplexitys_new_beta_reasoning_ability_is_bad/</link>
-      <description><![CDATA[我给它一份详细介绍流体结构耦合新算法的论文的pdf，并给它一张图片作为我要模拟的问题的几何形状和初值。我让它使用python中的科学计算库FEniCS并让它编写代码，结果一团糟。它似乎完全看不懂那篇论文，也完全不明白它输出的是什么，这个推理模型真的是o1-mini吗？我原本以为它会非常擅长编码。    提交人    /u/MPM_SOLVER   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzu7mv/perplexitys_new_beta_reasoning_ability_is_bad/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:32:07 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能可以帮助我找工作吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzthw9/can_ai_help_me_in_finding_a_job/</link>
       <description><![CDATA[我最近被解雇了。我现在压力很大，AI 能帮我管理压力吗？或者更好的是，AI 能帮我找工作吗？    提交人    /u/_abeey   [link] [comments]]]></description>
@@ -74,20 +95,6 @@
       <description><![CDATA[近年来，人工智能 (AI) 在从医疗保健到金融等众多领域取得了重大进展。最令人兴奋的发展之一是人工智能如何彻底改变天气预报。随着 GraphCast 等先进人工智能模型的出现，我们正在进入一个天气预报比以往任何时候都更快、更准确、更可靠的时代。 人工智能在天气预报中的作用：https://stellarmind.ai/blog/%20ai-is-revolutionizing-weather-forecasts    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzrk43/ai_is_revolutionizing_weather_forecasts_how/</guid>
       <pubDate>Wed, 09 Oct 2024 13:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Microsoft.Extensions.AI 库彻底改变了 .NET AI 开发</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzqsps/new_microsoftextensionsai_libraries_revolutionize/</link>
-      <description><![CDATA[Microsoft.Extensions.AI 为 AI 服务（例如小型和大型语言模型 (SLM 和 LLM)、嵌​​入和中间件）提供单一 API 接口。它还具有执行缓存、遥测、工具调用和其他常见作业等标准方法。https://theaiwired.com/new-microsoft-extensions-ai-libraries-revolutionize-net-ai-development/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzqsps/new_microsoftextensionsai_libraries_revolutionize/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司里有人使用小语言模型（SML）吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzqm4a/anyone_using_small_language_models_sml_at_their/</link>
-      <description><![CDATA[考虑到实施 LLM 的成本和数据隐私挑战，公司里有人使用 SML 吗？好奇想知道进展如何，以及你对其表现的看法    提交人    /u/Tricky-Calligrapher   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzqm4a/anyone_using_small_language_models_sml_at_their/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:49:46 GMT</pubDate>
     </item>
     <item>
       <title>为什么这些应用程序都不允许您保存喜欢的对话或创建文件夹？</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[https://qz.com/tsmc-sales-revenue-grow-percent-august-ai-chip-demand-1851644522    提交人    /u/tinylittlepixel334   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzln8y/tsmcs_sales_are_surging_on_high_ai_chip_demand/</guid>
       <pubDate>Wed, 09 Oct 2024 07:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI B2B SaaS企业最大的痛点是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fzlgt4/what_are_the_biggest_pain_points_of_ai_b2b_saas/</link>
-      <description><![CDATA[我正在为正在构建的 SaaS 研究 AI 企业的痛点。 AI 企业在工程人才、营销或受众保留方面是否遇到困难？    提交人    /u/Hungry-Scholar2022   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fzlgt4/what_are_the_biggest_pain_points_of_ai_b2b_saas/</guid>
-      <pubDate>Wed, 09 Oct 2024 06:55:46 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 8 日</title>
