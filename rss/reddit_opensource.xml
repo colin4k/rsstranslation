@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 10 Oct 2024 09:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 12:02:34 GMT</lastBuildDate>
+    <item>
+      <title>MINIO开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</link>
+      <description><![CDATA[大家好，我很好奇是否有人使用开源 MINIO 成功将服务货币化。有人有任何参考或示例吗？有了 AGPLv3 许可证，我们甚至可以这样做吗？有人可以解释一下吗？    提交人    /u/xtremerkr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</guid>
+      <pubDate>Thu, 10 Oct 2024 11:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们呼吸的空气：Sachit Mahajan 访谈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0fhli/the_air_we_breathe_interview_with_sachit_mahajan/</link>
+      <description><![CDATA[       由    /u/Spartacus90210  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0fhli/the_air_we_breathe_interview_with_sachit_mahajan/</guid>
+      <pubDate>Thu, 10 Oct 2024 10:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>最简单、免费且开源的 Tailwind CSS 组件库，带有语义类 - FlyonUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0f6fu/the_easiest_free_opensource_tailwind_css/</link>
+      <description><![CDATA[我偶然发现了一个开源 Tailwind CSS 组件库 FlyonUI，它在 Hackernews 上很流行。 所以，我检查了一下，觉得这是开源社区和开发者必备的资源。 它有 78 多个组件和 800 多个组件示例。我真的觉得开发人员在创作这个杰作时已经尽了最大努力。 以下是一些令人难以置信的功能：  JS 插件支持 语义组件 800 多个免费组件和示例 通用框架兼容性 无限主题 无样式且可访问的插件 响应式和 RTL 支持 永久免费 美观且语义化的样式 效率和生产力 可维护和可扩展  Github Repo： https://github.com/themeselection/flyonui    提交人    /u/Saanvi_Sen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0f6fu/the_easiest_free_opensource_tailwind_css/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:52:47 GMT</pubDate>
+    </item>
     <item>
       <title>构建开源 AI 驱动的 Lead Magnet 工具 – 寻求提示和指导！</title>
       <link>https://www.reddit.com/r/opensource/comments/1g0dxdr/building_an_opensource_aipowered_lead_magnet_tool/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>开源 Lovense 性爱机器代码？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</link>
-      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但没有任何效果，我被卡住了。有人能指出我在哪里吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但都不起作用，我被卡住了。有人能指点我吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</guid>
       <pubDate>Thu, 10 Oct 2024 02:10:30 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我和某人就 MIT 许可下的开源软件发生了争执。据我所知，只要您保留原始许可证，您就可以修改、重新分发甚至出售。 但是，这个人一直认为他们的软件是专有的，并试图为如何使用它制定社区准则。 据我所知，社区标准在 MIT 许可证上不可执行。然而，这个人一直声称拥有这一权利。甚至在 YouTube 视频中提及和展示该软件也会让他们试图声称侵犯版权。 对我来说，这似乎很清楚，但是我似乎无法让任何有实际权威的人采取具体立场。 我遗漏了什么？    提交人    /u/FitContribution2946   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fzegb4/am_i_misunderstanding_the_mit_license/</guid>
       <pubDate>Wed, 09 Oct 2024 00:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tetrate 与彭博合作开发基于 Envoy 的 AI 网关</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fza17l/tetrate_bloomberg_collaborate_on_envoybased_ai/</link>
-      <description><![CDATA[        由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fza17l/tetrate_bloomberg_collaborate_on_envoybased_ai/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源社区的艺术竞赛情况怎么样？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fz9zm0/what_is_the_deal_with_art_competitions_in_the/</link>
-      <description><![CDATA[        提交人    /u/craftbot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fz9zm0/what_is_the_deal_with_art_competitions_in_the/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚为 AI 代理开源了一个长期记忆层 🧠</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fz75y2/i_just_open_sourced_a_longterm_memory_layer_for/</link>
-      <description><![CDATA[        由    /u/Open_Contribution_16  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fz75y2/i_just_open_sourced_a_longterm_memory_layer_for/</guid>
-      <pubDate>Tue, 08 Oct 2024 18:40:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
