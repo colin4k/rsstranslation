@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 10 Oct 2024 12:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:02:06 GMT</lastBuildDate>
+    <item>
+      <title>增强型 Postgres 发行说明</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0kb6l/enhanced_postgres_release_notes/</link>
+      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0kb6l/enhanced_postgres_release_notes/</guid>
+      <pubDate>Thu, 10 Oct 2024 14:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>排名前 8 位的 AI Web 应用生成器 [基于研究数据]</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0jwbh/top_8_ai_web_app_generators_based_on_research_data/</link>
+      <description><![CDATA[  由    /u/ZestycloseChocolate  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0jwbh/top_8_ai_web_app_generators_based_on_research_data/</guid>
+      <pubDate>Thu, 10 Oct 2024 14:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Python 3.13 中禁用 GIL</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0j1vo/disabling_gil_in_python_313/</link>
+      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0j1vo/disabling_gil_in_python_313/</guid>
+      <pubDate>Thu, 10 Oct 2024 13:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始掌握 Helm：第 3 部分 - 安装 Helm 和配置 Helm Chart</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0j0rt/mastering_helm_from_scratch_part_3_installing/</link>
+      <description><![CDATA[  由    /u/kirshiyin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0j0rt/mastering_helm_from_scratch_part_3_installing/</guid>
+      <pubDate>Thu, 10 Oct 2024 13:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对 Rust 的负面看法</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0ip3n/my_negative_views_on_rust/</link>
+      <description><![CDATA[  由    /u/simon_o  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0ip3n/my_negative_views_on_rust/</guid>
+      <pubDate>Thu, 10 Oct 2024 13:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Omni*Web：使用 Omni*数字资产交易平台引导去中心化网络生态系统 - 第一部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1g0ilco/omniweb_bootstrapping_decentrald_web_ecosystems_w/</link>
+      <description><![CDATA[  由    /u/augustusalpha  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g0ilco/omniweb_bootstrapping_decentrald_web_ecosystems_w/</guid>
+      <pubDate>Thu, 10 Oct 2024 13:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>Go 中的清洁架构</title>
       <link>https://www.reddit.com/r/programming/comments/1g0g6j3/clean_architecture_in_go/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0ermr/why_your_framework_doesnt_matter_news/</guid>
       <pubDate>Thu, 10 Oct 2024 09:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>邀请开发人员参加 hyperswitch 的付费黑客马拉松</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0el7n/inviting_developers_to_take_part_in_a_paid/</link>
-      <description><![CDATA[  由    /u/c10n3x_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0el7n/inviting_developers_to_take_part_in_a_paid/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何激怒开源社区（人工智能初创企业闹剧损害了 Y Combinator 的声誉）</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0dzij/how_to_piss_off_the_opensource_community_the_ai/</link>
-      <description><![CDATA[  由    /u/LisaDziuba  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0dzij/how_to_piss_off_the_opensource_community_the_ai/</guid>
-      <pubDate>Thu, 10 Oct 2024 08:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>n 个球之间的一个 n 个球</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0cr3f/an_nball_between_nballs/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0cr3f/an_nball_between_nballs/</guid>
-      <pubDate>Thu, 10 Oct 2024 06:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全和授权在领域驱动设计中的作用</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0bpd3/the_role_of_security_and_authorization_in_domain/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0bpd3/the_role_of_security_and_authorization_in_domain/</guid>
-      <pubDate>Thu, 10 Oct 2024 05:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>[付费] Rust 开发人员必须知道的十大核心库</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0bbj5/pay_top_10_core_libraries_rust_developers_must/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0bbj5/pay_top_10_core_libraries_rust_developers_must/</guid>
-      <pubDate>Thu, 10 Oct 2024 04:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建像 Kafka 这样的分布式消息代理的速成课程 - 第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0ao39/a_crash_course_on_building_a_distributed_message/</link>
-      <description><![CDATA[  由    /u/underdog_002  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0ao39/a_crash_course_on_building_a_distributed_message/</guid>
-      <pubDate>Thu, 10 Oct 2024 04:16:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
