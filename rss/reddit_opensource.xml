@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 18:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 21:02:34 GMT</lastBuildDate>
+    <item>
+      <title>克隆亲人的声音</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1jhmy/cloning_a_loved_ones_voice/</link>
+      <description><![CDATA[我希望有人能帮助我。我正在寻找一种 AI 工具或软件，可以从音频文件中获取某人的声音，并用它将我说的话改成那个声音。我问这个问题的原因是，大约一年前我失去了祖父，我妈妈的生日也快到了。我真的很想加入一段音频，用他的声音对她说生日快乐。我希望以这种方式来做，因为我想使用的语言在大多数 AI 语音转文本选项中并不常见，所以我在请求中更具体一些。这意义重大，所以我希望有某种方法可以实现这一点。感谢任何帮助或建议。    提交人    /u/SmoothSade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1jhmy/cloning_a_loved_ones_voice/</guid>
+      <pubDate>Fri, 11 Oct 2024 20:37:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要关于需要在代码中验证的 Signal 的技术答案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1hwz9/i_need_a_technical_answer_about_signal_that_needs/</link>
+      <description><![CDATA[嗨，我不知道这里是不是问这个问题的正确地方，但我需要验证的问题是我在 r/signal 上问过的问题，但无法收到可信的答案，我相信可以通过查看源代码来验证，但这不是我的专长。 问题：如果有人将电话号码更改为 Signal Messenger 上的帐户，以前的帐户历史记录是否仍可追溯到原始电话号码或新电话号码？ 有人可以帮我找到这个答案吗？    提交人    /u/RemarkableLook5485   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1hwz9/i_need_a_technical_answer_about_signal_that_needs/</guid>
+      <pubDate>Fri, 11 Oct 2024 19:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于自动直销的开源 CMS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1ht6g/open_source_cms_for_automated_dropshipping/</link>
+      <description><![CDATA[  由    /u/rabbits_999  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1ht6g/open_source_cms_for_automated_dropshipping/</guid>
+      <pubDate>Fri, 11 Oct 2024 19:21:50 GMT</pubDate>
+    </item>
     <item>
       <title>我正在构建 Linktree 的开源开发者版本</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1eqc7/im_building_an_open_source_developer_version_of/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[想分享一个工具，subsetter，我一直在研究这个工具，旨在从关系数据库（目前支持 mysql、postgresql、sqlite）生成语义一致的样本。 此工具由配置驱动；至少您必须创建一个配置文件，告诉子集生成器从哪里开始（例如“我想要 5% 的用户”或“我想要上周的所有订单”）以及应该对哪些表进行采样。然后，子集生成器将分析数据库中表之间的关系，以制定一个采样计划，该计划将遵循外键关系来生成语义一致的数据样本。所需的只是采样表通过外键关系连接，并且没有外键循环。 一旦制定了计划，就可以开始采样阶段。每个表都将使用在源数据库上运行的单个 SQL 查询进行采样，并直接流式传输到目标数据库中。无需缓冲，因此理论上它可以在相当大的数据集上工作。一些需要后续查询引用的表将首先在源数据库上“具体化”为临时表。源数据库只需要读取权限，它可以正确地针对副本实例运行。 这是为了测试或演示目的而设计的。为此，它支持过滤和匿名化任何需要它的列，以避免在采样数据集中出现真实姓名、地址等内容。 查看https://github.com/msg555/subsetter中的更多详细信息、来源、安装说明和用法。也很乐意回答任何进一步的问题。    提交人    /u/msg555   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g0dbbd/subsetter_python_based_cli_tool_to_sample/</guid>
       <pubDate>Thu, 10 Oct 2024 07:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Lovense 性爱机器代码？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</link>
-      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但都不起作用，我被卡住了。有人能指点我吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</guid>
-      <pubDate>Thu, 10 Oct 2024 02:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>超快开源 IPTV 播放器 Open TV 现已发布 1.0 版 🎊</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzyx7u/open_tv_the_ultrafast_opensource_iptv_player/</link>
-      <description><![CDATA[        由    /u/Fredol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzyx7u/open_tv_the_ultrafast_opensource_iptv_player/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:48:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>KitOps：唯一专为 AI/ML 项目设计的开源、基于标准的打包和版本控制系统！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzy2o8/kitops_only_open_source_standardsbased_packaging/</link>
-      <description><![CDATA[来自 KitOps 团队 很高兴听到有关该项目正在解决的问题的一些反馈和经验。 KitOps 是唯一一个针对 AI/ML 项目的开源、基于标准的打包和版本控制系统。 KitOps 试图解决什么问题？ 如今，AI/ML 开发依赖于紧密耦合但版本控制和单独存储的工件：  Jupyter 笔记本或 MLOps 工具中的模型、数据湖或文件系统中的数据集、Git 存储库中的代码以及分散在不同位置的元数据。  如何以及为什么？  用于共享所有 AI/ML 模型生命周期工件（数据集、代码、配置）的符合 OCI 标准的打包格式，称为 ModelKit。 为了改善数据科学家、开发人员、和 SRE 管理或集成自托管 AI/ML 模型。  1 个重要问题：在 OCI 中将所有内容打包到单独的层中并不难，但是当您尝试仅提取单独的层时，问题就开始了。 KitOps 通过 KitCLI 解决了这个问题 - 您可以从同一个工件中提取特定的层，如模型、数据集和代码，确保每个管道根据部署要求获得其所需的内容。 在 GitHub 上了解更多信息，或查看我们的官方 文档 了解更多详情。    提交人    /u/codes_astro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzy2o8/kitops_only_open_source_standardsbased_packaging/</guid>
-      <pubDate>Wed, 09 Oct 2024 18:12:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
