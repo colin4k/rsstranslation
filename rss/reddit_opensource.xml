@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 00:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 03:05:34 GMT</lastBuildDate>
+    <item>
+      <title>Boxcars - 免费在线西洋双陆棋 (AGPL)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g105r0/boxcars_free_online_backgammon_agpl/</link>
+      <description><![CDATA[        提交人    /u/tslocum   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g105r0/boxcars_free_online_backgammon_agpl/</guid>
+      <pubDate>Fri, 11 Oct 2024 02:56:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubuntu 24.10 Oracular Oriole 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0xdtb/kubuntu_2410_oracular_oriole_released/</link>
+      <description><![CDATA[  由    /u/jlpcsl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0xdtb/kubuntu_2410_oracular_oriole_released/</guid>
+      <pubDate>Fri, 11 Oct 2024 00:26:34 GMT</pubDate>
+    </item>
     <item>
       <title>最好的网络安全操作系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g0qpra/best_cybersecurity_oss/</link>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 10 Oct 2024 12:37:24 GMT</pubDate>
     </item>
     <item>
-      <title>MINIO开源</title>
+      <title>MINIO 开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</link>
       <description><![CDATA[大家好，我很好奇是否有人使用开源 MINIO 成功将服务货币化。有人有任何参考或示例吗？有了 AGPLv3 许可证，我们甚至可以这样做吗？有人可以解释一下吗？    提交人    /u/xtremerkr   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[你知道...当你最喜欢的应用程序被大公司以法律欺凌的方式关闭时，你肯定会想知道是否有办法在 GitHub 之外继续工作。  我的第一个想法是询问一些类似 tor 的解决方案来连接到 git 服务器。然后我想到了一些 ipfs 解决方案。 我的意思是，有些东西以这种方式保存在网上，但不应该，当然我们可以公开提供开源代码来对抗邪恶的公司    提交人    /u/plichi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fzl3k3/how_to_keep_an_open_source_code_public_against/</guid>
       <pubDate>Wed, 09 Oct 2024 06:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能跑者3.0</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzehbm/ai_runner_30/</link>
-      <description><![CDATA[        提交人    /u/w00fl35   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzehbm/ai_runner_30/</guid>
-      <pubDate>Wed, 09 Oct 2024 00:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否误解了 MIT 许可证？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzegb4/am_i_misunderstanding_the_mit_license/</link>
-      <description><![CDATA[我和某人就 MIT 许可下的开源软件发生了争执。据我所知，只要您保留原始许可证，您就可以修改、重新分发甚至出售。 但是，这个人一直认为他们的软件是专有的，并试图为如何使用它制定社区准则。 据我所知，社区标准在 MIT 许可证上不可执行。然而，这个人一直声称拥有这一权利。甚至在 YouTube 视频中提及和展示该软件也会让他们试图声称侵犯版权。 对我来说，这似乎很清楚，但是我似乎无法让任何有实际权威的人采取具体立场。 我遗漏了什么？    提交人    /u/FitContribution2946   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzegb4/am_i_misunderstanding_the_mit_license/</guid>
-      <pubDate>Wed, 09 Oct 2024 00:02:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

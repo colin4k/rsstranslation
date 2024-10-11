@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 00:07:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 03:05:03 GMT</lastBuildDate>
+    <item>
+      <title>你有视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0yshb/ai_video/</link>
+      <description><![CDATA[有人知道哪个应用程序是 ai 生成视频的吗？ https://www.facebook.com/share/r/QAUpaKh4AkDu2Wfw/?mibextid=UalRPS    提交人    /u/Fit-Comb1737   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0yshb/ai_video/</guid>
+      <pubDate>Fri, 11 Oct 2024 01:41:30 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Mario 和 AI（深度强化学习）交易比特币</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0v9hg/trading_bitcoin_using_mario_ai_deep_reinforcement/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>希望建立 AI 应答服务</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0uug8/looking_to_set_up_an_ai_answering_service/</link>
-      <description><![CDATA[大家好， 我有一台 NVIDIA Jetson Nano，正在寻求构建一个自托管应答服务。我希望实现的是：Jetson 接听来自我的 Google Voice 商务电话号码的来电，与呼叫者沟通，回答知识库中的任何问题，与我的 Google 日历或 Zoho 日历集成，并为我安排服务电话/约会。然后通过电子邮件向我发送通话记录。 希望将工作作为一个项目来投入，但对此很陌生。编程语言技能主要集中在 Python 上。我应该从哪里开始？    提交人    /u/Wonderful_Fail_8253   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：Google Voice 严格禁止此操作。将寻求其他 SIP 选项。 大家好， 我有一台 NVIDIA Jetson Nano，正在寻求构建一个自托管应答服务。我希望实现的是：Jetson 接听来自我的 Google Voice 商务电话号码的来电，与呼叫者沟通，回答知识库中的任何问题，与我的谷歌日历或 Zoho 日历集成，并为我安排服务电话/约会。然后通过电子邮件向我发送通话记录。 希望将工作作为一个项目来投入，但对此很陌生。编程语言技能主要集中在 Python 上。我应该从哪里开始？    提交人    /u/Wonderful_Fail_8253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0uug8/looking_to_set_up_an_ai_answering_service/</guid>
       <pubDate>Thu, 10 Oct 2024 22:19:19 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[我正在尝试创建一个播客，并希望附带的视觉效果在视觉效果方面保持一致。我不希望约翰从一张图片到另一张图片看起来像杰克。我不需要任何花哨的东西。我要讲述播客，在讲述的同时，根据场景，我想显示一个图像。我试过 LTX 和 Storyboarding。两者都是垃圾。还有其他工具可以尝试吗？预算是每月 50 美元。    提交人    /u/zaddy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0pj95/consistent_image_generator/</guid>
       <pubDate>Thu, 10 Oct 2024 18:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>对大量文档进行整理和管理有什么想法吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0pj04/ideas_for_sorting_through_and_managing_massive/</link>
-      <description><![CDATA[嗨，我有一份 10,000 页的文档需要整理。请记住，我对人工智能几乎一无所知，所以我甚至不确定我所要求的是否可行或只是白日梦。我想我会先来找你，然后你可以帮助我或指引我去正确的地方，非常感谢！  我需要它做的事情： - 如果存在格式和语法，则修复它 - 删除任何多余的空格 - 删除重复的内容 - 在可搜索标题下按主题组织文档中的内容（目前所有内容都在任何地方） - 删除它认为无用的东西，但在上下文中向我显示，并让我最终提名删除 也感谢你给这个笨蛋一个现实检查，如果他需要的话，这绝对不是我的专业领域！    提交人    /u/PearBullet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0pj04/ideas_for_sorting_through_and_managing_massive/</guid>
-      <pubDate>Thu, 10 Oct 2024 18:25:07 GMT</pubDate>
     </item>
     <item>
       <title>探索用于创意视频编辑的 AI 工具</title>
