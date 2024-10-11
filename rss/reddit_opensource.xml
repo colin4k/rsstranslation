@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 06:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 09:04:39 GMT</lastBuildDate>
+    <item>
+      <title>AdminForth - 带有 AI 插件的管理面板框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g14wnn/adminforth_admin_panel_framework_with_ai_plugins/</link>
+      <description><![CDATA[主页：https://adminforth.dev/ 展示：AI辅助博客：https://adminforth.dev/blog/ai-blog/ GitHub：https://github.com/devforth/adminforth 主要特点： * 连接到现有数据库以获取 CRUD 面板，Postgres、Mongo、SQLite、Clickhouse * 为用户定义表并具有预制登录名（2FA，根据需要重置密码插件） * AuditLogs 插件（查看谁在何时更改了什么） * 添加自定义组件、自定义字段渲染、页面注入、自定义页面 * AI插件使用记录上下文自动完成文本 * AI 插件生成图像    提交人    /u/vanbrosh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g14wnn/adminforth_admin_panel_framework_with_ai_plugins/</guid>
+      <pubDate>Fri, 11 Oct 2024 08:17:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何本科 figma 设计师（必须是漫画爱好者）有兴趣参与我计划制作的项目。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g14w8n/any_undergrad_figma_designer_has_to_be_a_manga/</link>
+      <description><![CDATA[我正计划创建一个很酷的项目。我有一个由 3 人组成的团队 - FE、BE 和 Devops 人员。只需要一名设计师。如果您正在寻找项目来添加您的简历，请联系我们    提交人    /u/damian_179   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g14w8n/any_undergrad_figma_designer_has_to_be_a_manga/</guid>
+      <pubDate>Fri, 11 Oct 2024 08:16:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>为互联网冲浪者和研究人员提供个性化的人工智能助手。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g14cnv/personalized_ai_assistant_for_internet_surfers/</link>
+      <description><![CDATA[当我浏览互联网或阅读任何文件（如 pdf、文档或图像）时，我会看到很多内容 — 但记得你保存的时间和内容吗？完全无法理解！这就是 SurfSense 的作用所在。SurfSense 是一款个人 AI 助理，可帮助您记录互联网或文件上的任何内容（社交媒体聊天、日历邀请、重要邮件、教程、食谱等）。现在，您再也不会忘记任何事情。使用易于使用的跨浏览器扩展程序轻松捕获您的网页浏览会话和所需的网页内容，或将您的文件上传到 SurfSense。然后，向您的个人知识库询问有关您保存的内容的任何信息，瞧 — — 立即回忆！ 演示视频：https://www.youtube.com/watch?v=2cS1_IQDMj0 我正在考虑将聊天转换为 Perplexity 之类的东西，并在其上添加 gpt-researcher。 请让我知道您的反馈。 Repo 链接：https://github.com/MODSetter/SurfSense    提交人    /u/Uiqueblhats   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g14cnv/personalized_ai_assistant_for_internet_surfers/</guid>
+      <pubDate>Fri, 11 Oct 2024 07:33:52 GMT</pubDate>
+    </item>
     <item>
       <title>@badrddinb/tuid</title>
       <link>https://www.reddit.com/r/opensource/comments/1g10ztg/badrddinbtuid/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[这可能有点难以实现，但我的工作季即将开始，我很害怕阅读成千上万份 PDF，有时甚至有数千页。 我一直在研究人工智能如何帮助我完成一些工作任务并节省宝贵的时间，而这些时间有时根本不存在。我尝试使用 sharly.ai，它在阅读嵌入文本的 PDF 方面表现非常出色（不支持基于图像的 PDF），但我的大部分工作都是通过查看清晰的照片扫描文档来完成的。它还缺少我需要的一些功能，比如问一组问题，然后将答案导出为 CSV、txt 等格式，这样我就可以很容易地将它们导入我正在使用的关系数据库。 我做这件事已经 5 年多了，一年中有 6-7 个月，每天工作 13-16 小时，工作月份基本上没有休息日。 帮帮大家！提前感谢任何建议或帮助。 我有一台“强大”的电脑，所以从我收集到的信息来看，一些“受过训练”的东西应该可以正常运行？    提交人    /u/BigWaltson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fzowl2/local_chat_bot_preferably_that_can_read/</guid>
       <pubDate>Wed, 09 Oct 2024 11:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>克隆 HTML 组件的网站 CSS：一个简单的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzohe1/clone_html_componets_website_css_a_simple_tool/</link>
-      <description><![CDATA[TLDR 我开源了一个工具，用于克隆我喜欢的网站的部分内容。这是一个小脚本，可以从输入的 HTML 中获取所有所需的样式，并为它们生成一个平面 CSS 样式表。 背景 在过去的几个月里，我一直在创建大量的登录页面和网络元素。我也想保持简单，宁愿不使用 UI 框架或 CSS 后处理工具。我花了无数个小时手动从我喜欢的网站复制 HTML 和 CSS 元素。在花了太多时间做这件事（甚至付钱给承包商做这件事）之后，我最终创建了一个可以帮我处理复制和提取的工具。 工作原理 它将所需类的所有样式复制到一个全新的类中，无需复制整个 CSS 文件。我创建美观组件的能力已大大提高。如果您需要一些快速而粗糙的方法创建一个外观精美的网站： Repo https://github.com/bdkiran/css-extractor    提交人    /u/Tiny-Wolverine6658   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzohe1/clone_html_componets_website_css_a_simple_tool/</guid>
-      <pubDate>Wed, 09 Oct 2024 10:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌙LunarDB</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzn7rf/lunardb/</link>
-      <description><![CDATA[一个缓存和键值存储，同时也是一个多模型数据库，用 C++ 编写，API 用 Go 编写 它的功能也类似于 Redis！ Repo：https://github.com/Kazooki123/LunarDB 文档：https://lunardbdocs.vercel.app/docs/    提交人    /u/Wala_kang_jowa143   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzn7rf/lunardb/</guid>
-      <pubDate>Wed, 09 Oct 2024 09:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户日历与现有的 Google/Apple 日历同步</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzmvbg/users_calendar_synchornization_with_existing/</link>
-      <description><![CDATA[我可能对日历了解不多，除了通过需要定制开发的 API。 在我的软件中，我允许用户使用某种日历（简单，没什么花哨的），其中有些事件会自动添加/删除。 现在我想要 2 件事：  将这些事件同步到用户的日历（在我获得许可、连接 gmail/apple 并授权我后，我的事件应该会显示在他们的日历中） 可以访问（只读）日历中存在的任何其他事件（原因是检查重叠）  现在，我明白我可以使用 API 手动执行此操作并从这些日历中提取/推送数据。 我的问题：  是否有开源软件可以通过某些标准日历格式自动执行此操作（webdav/caldav）？     由   提交  /u/alexrada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzmvbg/users_calendar_synchornization_with_existing/</guid>
-      <pubDate>Wed, 09 Oct 2024 08:48:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
