@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 09:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>开发我的第一个 Chrome 扩展程序：胡说八道翻译器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g17s8o/built_my_first_chrome_extension_bullshit/</link>
+      <description><![CDATA[大家好， 当您在网上阅读某些内容时，如果发现其中充斥着营销内容或人工智能生成的毫无意义的文字，您会有这种感觉吗？ （嘿，营销团队）。 好吧，我厌倦了阅读字里行间的内容，所以我决定构建我的第一个 Chrome 扩展程序Bullshit Translator。 这是一个简单的工具，可以将过于复杂或令人困惑的文本转换为简单易懂（且略带讽刺）的语言。 它的工作原理如下：  突出显示任何文本 右键单击 立即获取简化版本  👇我很乐意以评论的形式收到您的反馈！ 感谢您的时间！    提交人    /u/johnnycoldfeet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g17s8o/built_my_first_chrome_extension_bullshit/</guid>
+      <pubDate>Fri, 11 Oct 2024 11:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我设计了一个简单的 8 位 CPU，称为 Flip01</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g15s8c/i_designed_a_simple_8bit_cpu_called_flip01/</link>
+      <description><![CDATA[嗨！ 这是一个带有 16 位地址总线的小型 8 位 CPU，您可以在 GitHub 上找到它。 我很乐意收到您的反馈，无论是关于如何改进它的建议，还是一些批评！ 非常感谢！    提交人    /u/Training_Impact_5767   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g15s8c/i_designed_a_simple_8bit_cpu_called_flip01/</guid>
+      <pubDate>Fri, 11 Oct 2024 09:26:14 GMT</pubDate>
+    </item>
     <item>
       <title>AdminForth - 带有 AI 插件的管理面板框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1g14wnn/adminforth_admin_panel_framework_with_ai_plugins/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[当我浏览互联网或阅读任何文件（如 pdf、文档或图像）时，我会看到很多内容 — 但记得你保存的时间和内容吗？完全无法理解！这就是 SurfSense 的作用所在。SurfSense 是一款个人 AI 助理，可帮助您记录互联网或文件上的任何内容（社交媒体聊天、日历邀请、重要邮件、教程、食谱等）。现在，您再也不会忘记任何事情。使用易于使用的跨浏览器扩展程序轻松捕获您的网页浏览会话和所需的网页内容，或将您的文件上传到 SurfSense。然后，向您的个人知识库询问有关您保存的内容的任何信息，瞧 — — 立即回忆！ 演示视频：https://www.youtube.com/watch?v=2cS1_IQDMj0 我正在考虑将聊天转换为 Perplexity 之类的东西，并在其上添加 gpt-researcher。 请让我知道您的反馈。 Repo 链接：https://github.com/MODSetter/SurfSense    提交人    /u/Uiqueblhats   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g14cnv/personalized_ai_assistant_for_internet_surfers/</guid>
       <pubDate>Fri, 11 Oct 2024 07:33:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>@badrddinb/tuid</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g10ztg/badrddinbtuid/</link>
-      <description><![CDATA[r/opensource 🚀 令人兴奋的消息！🚀  我很高兴地宣布，我已经发布了我的最新 NPM 包：@badrddinb/tuid 🎉 https://www.npmjs.com/package/@badrddinb/tuid 这个轻量级包的灵感来自于我在一个个人项目上工作的经历，我发现传统的 UUID 不仅占用大量空间，而且很难有效排序。在探索了各种替代方案之后，我决定通过对主 ID 结构进行重大改进来增强 TUID（时间戳通用唯一 ID）的概念。 使用 tuid，您可以生成可排序、唯一且基于时间戳的标识符，这些标识符不仅高效，而且易于使用且轻量级！ 🌟 主要特点：  节省空间的唯一标识符 可按时间戳排序 轻量级且易于集成 验证和解析支持  我希望这个软件包对其他开发人员有价值，并有助于解决项目中的类似挑战。请随时查看并分享您的反馈！ 感谢您的支持！ 🙌  #npm #javascript #typescript #tuid #programming #opensource #developer #IDGenerator #TUIDGenerator    由   提交  /u/badrddinb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g10ztg/badrddinbtuid/</guid>
-      <pubDate>Fri, 11 Oct 2024 03:43:48 GMT</pubDate>
     </item>
     <item>
       <title>Boxcars - 免费在线西洋双陆棋 (AGPL)</title>
@@ -106,7 +113,7 @@
     <item>
       <title>开源 Lovense 性爱机器代码？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</link>
-      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但没有任何效果，我被卡住了。有人能指出我在哪里吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但都不起作用，我被卡住了。有人能指点我吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</guid>
       <pubDate>Thu, 10 Oct 2024 02:10:30 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我有一台可以弯曲并像平板电脑一样使用的电脑，我用它来做各种笔记。为此，我使用了 MS Journal，它对我所需要的一切都提供了很好的支持。现在我使用 Linux，我需要一个可以替代 MS Journal 的开源替代品。我需要：-手写笔支持-具有不同背景的页面（五线谱、线条和网格）-无限画布（最好是无限页面）有人知道具有这些选项的好程序吗？    提交者    /u/JMB4200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fzsc3u/switched_to_linux_need_an_alternative_for_ms/</guid>
       <pubDate>Wed, 09 Oct 2024 14:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地聊天机器人（最好）可以读取基于图像的 PDF/PDF，回答问题并导出答案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzowl2/local_chat_bot_preferably_that_can_read/</link>
-      <description><![CDATA[这可能有点难以实现，但我的工作季即将开始，我很害怕阅读成千上万份 PDF，有时甚至有数千页。 我一直在研究人工智能如何帮助我完成一些工作任务并节省宝贵的时间，而这些时间有时根本不存在。我尝试使用 sharly.ai，它在阅读嵌入文本的 PDF 方面表现非常出色（不支持基于图像的 PDF），但我的大部分工作都是通过查看清晰的照片扫描文档来完成的。它还缺少我需要的一些功能，比如问一组问题，然后将答案导出为 CSV、txt 等格式，这样我就可以很容易地将它们导入我正在使用的关系数据库。 我做这件事已经 5 年多了，一年中有 6-7 个月，每天工作 13-16 小时，工作月份基本上没有休息日。 帮帮大家！提前感谢任何建议或帮助。 我有一台“强大”的电脑，所以从我收集到的信息来看，一些“受过训练”的东西应该可以正常运行？    提交人    /u/BigWaltson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzowl2/local_chat_bot_preferably_that_can_read/</guid>
-      <pubDate>Wed, 09 Oct 2024 11:13:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
