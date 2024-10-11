@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 11 Oct 2024 03:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 06:02:45 GMT</lastBuildDate>
+    <item>
+      <title>GPL 如何拯救大公司的开源项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1g131k9/how_gpl_could_save_open_source_projects_from_big/</link>
+      <description><![CDATA[  由    /u/WitsitGetsIt-dot-com  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g131k9/how_gpl_could_save_open_source_projects_from_big/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算浮点平方根的快速准确近似算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1g129wu/fast_and_accurate_approximation_algorithms_for/</link>
+      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g129wu/fast_and_accurate_approximation_algorithms_for/</guid>
+      <pubDate>Fri, 11 Oct 2024 05:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typescript 中的映射、归约和过滤功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1g11yvi/función_map_reduce_y_filter_en_typescript/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g11yvi/función_map_reduce_y_filter_en_typescript/</guid>
+      <pubDate>Fri, 11 Oct 2024 04:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务器设置基础</title>
+      <link>https://www.reddit.com/r/programming/comments/1g11xo0/server_setup_basics/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g11xo0/server_setup_basics/</guid>
+      <pubDate>Fri, 11 Oct 2024 04:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>TUD</title>
+      <link>https://www.reddit.com/r/programming/comments/1g10p42/tuid/</link>
+      <description><![CDATA[  由    /u/badrddinb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g10p42/tuid/</guid>
+      <pubDate>Fri, 11 Oct 2024 03:26:16 GMT</pubDate>
+    </item>
     <item>
       <title>Statsig 如何每天传输 1 万亿个事件</title>
       <link>https://www.reddit.com/r/programming/comments/1g0w9g1/how_statsig_streams_1_trillion_events_a_day/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/lakinmohapatra  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g0fsej/if_you_dont_know_c_or_assembly_do_you_really/</guid>
       <pubDate>Thu, 10 Oct 2024 10:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简单的两步框架，可避免仓促解决问题并构建有意义的产品</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0f3tp/a_simple_2step_framework_to_avoid_rushed/</link>
-      <description><![CDATA[  由    /u/eng1nuity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0f3tp/a_simple_2step_framework_to_avoid_rushed/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用自制引擎 Carimbo 为儿子制作的第一款游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0ewj5/my_first_game_with_carimbo_my_homemade_engine_for/</link>
-      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0ewj5/my_first_game_with_carimbo_my_homemade_engine_for/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>可靠软件设计实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0eumg/practices_of_reliable_software_design/</link>
-      <description><![CDATA[  由    /u/Candiesweetie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0eumg/practices_of_reliable_software_design/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 rjq 进行快速 JSON 过滤！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0et4v/fast_json_filtering_with_rjq/</link>
-      <description><![CDATA[介绍 rjq - 一个用 Rust 编写的超快 JSON 过滤 CLI 工具。 我很高兴地宣布发布 rjq，这是一个基于 Rust 的 CLI 工具，可轻松过滤 JSON 数据。 主要特点：  简单的查询语法，轻松过滤 超快的性能 支持流式 JSON 数据  使用 rjq，您可以：  从大型 JSON 数据集中快速提取特定数据 轻松过滤和转换数据 自动执行 JSON 数据处理任务  适用于：  使用 JSON 数据的开发人员 寻求高效数据提取的数据分析师 自动化数据处理的 DevOps 团队任务  在 GitHub 上探索 rjq：github.com/mainak55512/rjq 立即开始使用 rjq 并加速您的 JSON 数据处理！ rjq #JSONFiltering #CLI #Rust #DeveloperTools #Productivity    提交人    /u/Mainak1224x   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0et4v/fast_json_filtering_with_rjq/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>百万美元并不酷，你知道什么才酷吗？百万行</title>
-      <link>https://www.reddit.com/r/programming/comments/1g0ero0/million_dollars_is_not_cool_you_know_what_is_cool/</link>
-      <description><![CDATA[  由    /u/pdycnbl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g0ero0/million_dollars_is_not_cool_you_know_what_is_cool/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:21:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
