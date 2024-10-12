@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 12 Oct 2024 06:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 09:02:04 GMT</lastBuildDate>
     <item>
-      <title>我是一名在线学生，在收听讲座时遇到了问题，因为它们都是在同一天上传的，我必须在 48 小时内打开它们，否则它们将被锁定，我尝试录制它们以便稍后收听，我想要一种下载它们的方法，因为它们是通过 cloudfront（CDN）嵌入的</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1rovi/im_an_online_student_im_having_a_problem/</link>
-      <description><![CDATA[  由    /u/PowerPast747  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1rovi/im_an_online_student_im_having_a_problem/</guid>
-      <pubDate>Sat, 12 Oct 2024 03:45:56 GMT</pubDate>
+      <title>Debugger.godMode() – 使用调试器破解 JVM 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1vnmp/debuggergodmode_hacking_jvm_applications_with_the/</link>
+      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1vnmp/debuggergodmode_hacking_jvm_applications_with_the/</guid>
+      <pubDate>Sat, 12 Oct 2024 08:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为壁纸爱好者提供的小型 AI 生成脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1v62n/small_ai_generated_script_for_wallpaper_lovers/</link>
+      <description><![CDATA[  由    /u/Messenger-of-helll  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1v62n/small_ai_generated_script_for_wallpaper_lovers/</guid>
+      <pubDate>Sat, 12 Oct 2024 07:49:07 GMT</pubDate>
     </item>
     <item>
       <title>Java 工程：文摘 #37</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好！我很乐意分享我制作的一些东西！ 一段时间以来，我一直对线性逻辑和会话类型着迷，但很遗憾它们并没有真正应用于实践。关于如何通过这种方式使并发变得结构化和健壮，有很多精彩的研究，以下是我推荐的一些论文：  命题作为会话 Par 意味着并行：乘法线性逻辑证明作为并发函数程序 线性逻辑中的客户端 - 服务器会话 会话类型重新审视  原因似乎是很难设计出以符合人体工程学且易于使用的方式运用这些概念的库，甚至是语言。 所以，这是我试图做得更好的想法。让我向你展示一个我制作的新库，我毫不掩饰地称之为“par”。  Crates.io： https://crates.io/crates/par GitHub： https://github.com/faiface/par  让我知道你的想法！如果您想加入并做出贡献，我们也非常欢迎您！ 特点  指定完整的并发协议 - 排序、分支、递归、高阶模式。 类型检查协议遵守 - 实现期望，履行义务。 死锁自由 - 静态排除循环通信。 多个并发参与者。 非常适合 Rust 的类型系统：  使用 enum 进行选择。 对循环协议的类型使用递归。  建立在 async/.await 之上。运行时不可知。 人体工程学设计 — 例如。 atm.choose(Operation::CheckBalance) 模块中的标准模式：  队列 — 按顺序传输任意数量的项目。 服务器 — 同时处理动态数量的客户端。  没有不安全！ 可访问的文档作为学习工具。     提交人    /u/faiface   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g17iti/practical_session_types_for_structured_concurrency/</guid>
       <pubDate>Fri, 11 Oct 2024 11:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 迭代器的乐趣</title>
-      <link>https://www.reddit.com/r/programming/comments/1g15syx/fun_with_go_iterators/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g15syx/fun_with_go_iterators/</guid>
-      <pubDate>Fri, 11 Oct 2024 09:27:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
