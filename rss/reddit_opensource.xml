@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 12 Oct 2024 00:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 03:04:34 GMT</lastBuildDate>
+    <item>
+      <title>🛡️⚔️ 我制作了 BattleSim，这是一款实时战略战争模拟器——希望得到您的反馈！🎮 [开源]</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1ogsx/i_made_battlesim_a_realtime_strategy_war/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1ogsx/i_made_battlesim_a_realtime_strategy_war/</guid>
+      <pubDate>Sat, 12 Oct 2024 00:39:23 GMT</pubDate>
+    </item>
     <item>
       <title>有没有开源软件可以将多幅图像批量转换为 pdf，并带有页面边缘检测功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1nlqk/any_opensource_software_to_batchconvert_many/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>degoogle 的最佳替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</link>
-      <description><![CDATA[我正在尝试去谷歌化，尝试用开源的、最好是免费的、多平台的、至少支持安卓的服务和应用来替代它们。 寻找谷歌提供的几乎所有智能手机必备应用的替代品。还有电子邮件服务和相关服务、云存储和其他服务…… 考虑使用 Proton、Fossify 和 Ente 应用来满足我的大部分需求。但即使它们是开源的，我也不知道它们是否安全和私密。 我听说过可以阻止 YouTube 收集大量数据的前端应用，但我不知道它们叫什么，也不知道它们是否真的有效。 总而言之，如果您已经从主要应用或服务切换到开源替代方案，我很想知道是哪些以及为什么，谢谢！   由    /u/luanmdlima  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试去谷歌化，尝试用开源的、最好是免费的、多平台的、至少支持安卓的服务和应用来替代它们。 寻找谷歌提供的几乎所有智能手机必备应用的替代品。还有电子邮件服务和相关服务、云存储和其他服务…… 考虑使用 Proton、Fossify 和 Ente 应用来满足我的大部分需求。但即使它们是开源的，我也不知道它们是否安全和私密。 我听说过可以阻止 YouTube 收集大量数据的前端应用，但我不知道它们叫什么，也不知道它们是否真的有效。 总而言之，如果您已经从主要应用或服务切换到开源替代品，我很想知道是哪些以及为什么，谢谢！   由    /u/luanmdlima  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</guid>
       <pubDate>Fri, 11 Oct 2024 23:30:58 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[介绍 rjq - 一款超快的 JSON 过滤 CLI 工具 我很高兴地宣布发布 rjq，这是一款基于 Rust 的 CLI 工具，可轻松过滤 JSON 数据。 主要特点：  简单的查询语法，轻松过滤 超快的性能 支持流式 JSON 数据  使用 rjq，您可以：  从大型 JSON 数据集中快速提取特定数据 轻松过滤和转换数据 自动执行 JSON 数据处理任务  适用于：  使用 JSON 数据的开发人员 寻求高效数据提取的数据分析师 自动化数据处理任务的 DevOps 团队  在 GitHub 上探索 rjq：https://github.com/mainak55512/rjq 立即开始使用 rjq 并加速您的 JSON 数据处理！    提交人    /u/Mainak1224x   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g0hsug/unlock_fast_json_filtering_with_rjq/</guid>
       <pubDate>Thu, 10 Oct 2024 12:37:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>MINIO 开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</link>
-      <description><![CDATA[大家好，我很好奇是否有人使用开源 MINIO 成功将服务货币化。有人有任何参考或示例吗？有了 AGPLv3 许可证，我们甚至可以这样做吗？有人可以解释一下吗？    提交人    /u/xtremerkr   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</guid>
-      <pubDate>Thu, 10 Oct 2024 11:34:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
