@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 12 Oct 2024 09:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 12:02:24 GMT</lastBuildDate>
+    <item>
+      <title>你需要知道的 10 个 Git 技巧和窍门</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1xqo1/ten_git_tips_and_tricks_you_need_to_know/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1xqo1/ten_git_tips_and_tricks_you_need_to_know/</guid>
+      <pubDate>Sat, 12 Oct 2024 11:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在构建 yt-dlp 包装器时学到的东西</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1wo56/things_i_learned_while_building_a_ytdlp_wrapper/</link>
+      <description><![CDATA[  由    /u/clouddjr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1wo56/things_i_learned_while_building_a_ytdlp_wrapper/</guid>
+      <pubDate>Sat, 12 Oct 2024 09:48:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>公司不是家庭，而是运动队</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1whzm/a_company_is_not_a_family_its_a_sports_team/</link>
+      <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1whzm/a_company_is_not_a_family_its_a_sports_team/</guid>
+      <pubDate>Sat, 12 Oct 2024 09:34:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>TAS 解释：0.2 秒内玩完《超级马里奥兄弟 3》</title>
+      <link>https://www.reddit.com/r/programming/comments/1g1wfry/tas_explained_super_mario_bros_3_in_02_seconds/</link>
+      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g1wfry/tas_explained_super_mario_bros_3_in_02_seconds/</guid>
+      <pubDate>Sat, 12 Oct 2024 09:29:50 GMT</pubDate>
+    </item>
     <item>
       <title>Debugger.godMode() – 使用调试器破解 JVM 应用程序</title>
       <link>https://www.reddit.com/r/programming/comments/1g1vnmp/debuggergodmode_hacking_jvm_applications_with_the/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/aochagavia  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g1aevk/an_experiment_in_async_rust/</guid>
       <pubDate>Fri, 11 Oct 2024 13:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>哥本哈根书：在 Web 应用程序中实施身份验证的一般指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1g199v7/the_copenhagen_book_general_guideline_on/</link>
-      <description><![CDATA[  由    /u/autocmd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g199v7/the_copenhagen_book_general_guideline_on/</guid>
-      <pubDate>Fri, 11 Oct 2024 13:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Dagger.io 和 KitOps 构建 MLOps 管道</title>
-      <link>https://www.reddit.com/r/programming/comments/1g196kb/building_an_mlops_pipeline_with_daggerio_and/</link>
-      <description><![CDATA[  由    /u/iamjessew  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g196kb/building_an_mlops_pipeline_with_daggerio_and/</guid>
-      <pubDate>Fri, 11 Oct 2024 12:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 如何通过软件负载均衡器支持十亿用户</title>
-      <link>https://www.reddit.com/r/programming/comments/1g18hzy/how_facebook_was_able_to_support_a_billion_users/</link>
-      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g18hzy/how_facebook_was_able_to_support_a_billion_users/</guid>
-      <pubDate>Fri, 11 Oct 2024 12:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>结构化并发的实用会话类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1g17iti/practical_session_types_for_structured_concurrency/</link>
-      <description><![CDATA[大家好！我很乐意分享我制作的一些东西！ 一段时间以来，我一直对线性逻辑和会话类型着迷，但很遗憾它们并没有真正应用于实践。关于如何通过这种方式使并发变得结构化和健壮，有很多精彩的研究，以下是我推荐的一些论文：  命题作为会话 Par 意味着并行：乘法线性逻辑证明作为并发函数程序 线性逻辑中的客户端 - 服务器会话 会话类型重新审视  原因似乎是很难设计出以符合人体工程学且易于使用的方式运用这些概念的库，甚至是语言。 所以，这是我试图做得更好的想法。让我向你展示一个我制作的新库，我毫不掩饰地称之为“par”。  Crates.io： https://crates.io/crates/par GitHub： https://github.com/faiface/par  让我知道你的想法！如果您想加入并做出贡献，我们也非常欢迎您！ 特点  指定完整的并发协议 - 排序、分支、递归、高阶模式。 类型检查协议遵守 - 实现期望，履行义务。 死锁自由 - 静态排除循环通信。 多个并发参与者。 非常适合 Rust 的类型系统：  使用 enum 进行选择。 对循环协议的类型使用递归。  建立在 async/.await 之上。运行时不可知。 人体工程学设计 — 例如。 atm.choose(Operation::CheckBalance) 模块中的标准模式：  队列 — 按顺序传输任意数量的项目。 服务器 — 同时处理动态数量的客户端。  没有不安全！ 可访问的文档作为学习工具。     提交人    /u/faiface   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g17iti/practical_session_types_for_structured_concurrency/</guid>
-      <pubDate>Fri, 11 Oct 2024 11:27:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
