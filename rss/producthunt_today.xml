@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Oct 2024 21:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:03:38 GMT</lastBuildDate>
     <item>
       <title>填写 2.0</title>
       <link>https://www.producthunt.com/posts/fillout-2-0</link>
@@ -118,7 +118,7 @@ React 组件，用于以可视化方式创建 UI
       <pubDate>Thu, 10 Oct 2024 10:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>增强用户界面</title>
+      <title>增强 UI</title>
       <link>https://www.producthunt.com/posts/augment-ui</link>
       <description><![CDATA[
 使用 AI 制作前端设计原型
@@ -160,18 +160,46 @@ React 组件，用于以可视化方式创建 UI
       <pubDate>Thu, 10 Oct 2024 06:50:54 GMT</pubDate>
     </item>
     <item>
-      <title>霸王龙标签</title>
-      <link>https://www.producthunt.com/posts/t-rex-label</link>
+      <title>恩博教育</title>
+      <link>https://www.producthunt.com/posts/ember-education</link>
       <description><![CDATA[
-适用于复杂场景的 AI 辅助注释工具
+在您的网站上嵌入课程
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/t-rex-label</guid>
-      <pubDate>Wed, 09 Oct 2024 09:35:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ember-education</guid>
+      <pubDate>Thu, 10 Oct 2024 06:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习型</title>
+      <link>https://www.producthunt.com/posts/learnitab</link>
+      <description><![CDATA[
+生产力、职业、学习触手可及
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/learnitab</guid>
+      <pubDate>Thu, 10 Oct 2024 05:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>对话</title>
+      <link>https://www.producthunt.com/posts/conversa-1</link>
+      <description><![CDATA[
+最准确的人才筛选引擎
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/conversa-1</guid>
+      <pubDate>Wed, 09 Oct 2024 12:38:20 GMT</pubDate>
     </item>
     <item>
       <title>Greip：仪表板改造</title>
@@ -230,20 +258,6 @@ AI 驱动的端到端测试
       <pubDate>Mon, 30 Sep 2024 09:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>工作跳转</title>
-      <link>https://www.producthunt.com/posts/jobjump</link>
-      <description><![CDATA[
-掌握视频面试技巧，实时 AI 定制答案提示
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/jobjump</guid>
-      <pubDate>Sun, 29 Sep 2024 12:39:26 GMT</pubDate>
-    </item>
-    <item>
       <title>奔跑</title>
       <link>https://www.producthunt.com/posts/runson</link>
       <description><![CDATA[
@@ -270,20 +284,6 @@ AI 驱动的端到端测试
 ]]></description>
       <guid>https://www.producthunt.com/posts/pinggy-app</guid>
       <pubDate>Tue, 27 Aug 2024 07:56:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>德兹博尔·贝塔</title>
-      <link>https://www.producthunt.com/posts/dezbor-beta</link>
-      <description><![CDATA[
-使用 AI 轻松创建仪表板或管理面板
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dezbor-beta</guid>
-      <pubDate>Mon, 04 Sep 2023 18:08:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 21:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 23:58:18 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 苏黎世联邦理工学院和瑞士洛桑联邦理工学院的科学家们 [...]</title>
-      <link>https://t.me/hn_summary/112136</link>
-      <description><![CDATA[物理学家生成只沿一个方向传播的声波
-苏黎世联邦理工学院和瑞士洛桑联邦理工学院的科学家开发了一种突破性的装置，它可以引导声波只沿一个方向传播，类似于声音的回旋。该装置具有一个带有三个端口的圆盘状腔体，当系统处于活动状态时，端口 1 发出的声音只有端口 2 才能听到。关键在于将旋转的空气吹入腔体，以重复的模式同步声波，以防止能量耗散。这种创新方法不仅可以增强声波，而且还具有未来通信技术和电磁波操纵的潜力。有趣的是，使用振荡来增强声波的概念源于减少声波的努力，这突显了科学应用的巧妙转变。该研究发表在《自然通讯》杂志上，可能会彻底改变噪声抑制技术并为先进雷达系统的设计提供参考。]]></description>
-      <guid>https://t.me/hn_summary/112136</guid>
-      <pubDate>Fri, 11 Oct 2024 21:00:26 GMT</pubDate>
+      <title>[媒体] 在我们关于 ChromeOS 的 VirtIO 视频系列的最后一部分中，我们探索了 [...]</title>
+      <link>https://t.me/hn_summary/112159</link>
+      <description><![CDATA[ChromeOS 上的 VirtIO Video 路线图：第 3 部分
+在我们关于 ChromeOS 上的 VirtIO Video 系列的最后一部分中，我们探索了 Chromebook 上视频虚拟化的未来，重点关注编解码器支持和协议开发的进步。我们已将 AV1 和 HEVC 编解码器集成到 cros-codecs 库中，增强了 ChromeOS 上 Android 应用的视频解码。我们使用 DMA-BUF 的零拷贝视频解码工作显著提高了 4K 内容的性能。一个值得注意的争议是关于 VirtIO Video 协议未来的争论，人们讨论了一种新的“virtio-media”协议，该协议可以通过直接使用 V4L2 ioctl 来简化虚拟化。这种方法可以统一对各种 V4L2 设备的支持，引发了行业争论。此外，我们正在利用 Fluster 和 VISL 等工具推进自动化测试，并探索硬件加速的视频编码和后期处理。我们的工作旨在增强 ChromeOS 的多媒体功能，让用户和更广泛的开源社区受益。]]></description>
+      <guid>https://t.me/hn_summary/112159</guid>
+      <pubDate>Fri, 11 Oct 2024 23:58:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 特斯拉股价暴跌 8%，市值蒸发 600 亿美元，此前 [...]</title>
-      <link>https://t.me/hn_summary/112135</link>
-      <description><![CDATA[特斯拉市值下跌 600 亿美元，因投资者未能对自动驾驶“Cyber​​cab”表示欢迎
-特斯拉预期的自动驾驶出租车“Cyber​​cab”发布后，股价暴跌 8%，市值蒸发 600 亿美元。在好莱坞的一场活动中，首席执行官埃隆·马斯克介绍了这款无人驾驶汽车，并承诺到 2026 年投产，价格低于 30,000 美元。尽管马斯克大胆宣称将改变城市景观并消除对停车场的需求，但分析师批评该活动缺乏具体细节和时间表。这种失望与马斯克雄心勃勃的预测未能及时交付的历史如出一辙。令投资者特别失望的是，该公司并未提供预期的更实惠车型的信息。]]></description>
-      <guid>https://t.me/hn_summary/112135</guid>
-      <pubDate>Fri, 11 Oct 2024 20:59:22 GMT</pubDate>
+      <title>[媒体] 近年来，由于政府干预和监管力度加大，中国金融业面临巨大挑战。 [...]</title>
+      <link>https://t.me/hn_summary/112158</link>
+      <description><![CDATA[中国打击金融业，让金融界精英沦为“老鼠仓”
+近年来，由于政府对房地产、科技和金融等行业的打击，中国金融业面临巨大挑战。上海私募股权从业者肖晨回顾了自己所在行业的巨变，指出收入急剧下降，奖金也消失了。曾经享有盛誉的金融专业人士现在在网上被嘲讽为“金融老鼠仓”。政府致力于减少不平等和促进“共同富裕”，这导致了对金融精英的工资限制和加强审查。这种转变在社交媒体上引发了广泛讨论，许多金融从业者由于士气下降和工作保障下降而考虑转行。此次打击行动还导致一些知名人士被拘留，例如前中国人民银行副行长，这凸显了政府严厉的反腐力度。在金融行业努力应对这些变化的同时，社会对金融专业人士的看法也发生了变化，影响了他们的个人生活和职业生涯。]]></description>
+      <guid>https://t.me/hn_summary/112158</guid>
+      <pubDate>Fri, 11 Oct 2024 23:55:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《发明时代：煤炭征服》一书中，作者对广为接受的自然观提出了挑战[...]</title>
-      <link>https://t.me/hn_summary/112134</link>
-      <description><![CDATA[发明时代：煤炭征服
-在《发明时代：煤炭征服》一书中，作者对广为接受的说法提出了质疑，即由于人口增长和工业需求导致的森林砍伐导致 16 世纪末英国煤炭使用量上升。相反，他们认为木材是通过诸如矮林作业等做法作为可再生资源进行管理的，木材价格高企会鼓励生产增加而不是枯竭。作者强调，钢铁和玻璃行业通过寻找可持续的木材供应而蓬勃发展，而转向煤炭并不是由于木材稀缺。这种观点质疑了传统的森林砍伐论，表明在向煤炭过渡的过程中，经济和资源管理因素之间存在更复杂的相互作用。令人惊讶的是，森林砍伐论被揭穿了，专家和大众经常重复这种论调。 （根据 35% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/112134</guid>
-      <pubDate>Fri, 11 Oct 2024 20:57:18 GMT</pubDate>
+      <title>[媒体] 沉没一个多世纪后，欧内斯特·沙克尔顿 (Ernest Shackleton) 的“坚忍号”帆船终于找到了 [...]</title>
+      <link>https://t.me/hn_summary/112157</link>
+      <description><![CDATA[新图像显示欧内斯特·沙克尔顿的船保存完好
+沉没一个多世纪后，欧内斯特·沙克尔顿的船“坚忍号”在冰冷的威德尔海下被发现保存完好。这艘船于 2022 年被发现，自 1915 年以来基本保持不变，其索具、舵和木制品完好无损。值得注意的是，在残骸中发现了一把信号枪，这是探险摄影师弗兰克·赫尔利在船沉没时为纪念而发射的。这一发现是通过先进的 3D 扫描技术捕捉到的，并附有一部国家地理纪录片，其中有沙克尔顿和他的船员通过人工智能重建的声音讲述他们的日记。这种对人工智能的创新使用为电影增添了独特的维度，提供了与过去的前所未有的联系。]]></description>
+      <guid>https://t.me/hn_summary/112157</guid>
+      <pubDate>Fri, 11 Oct 2024 23:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 加州官员拒绝了 SpaceX 增加火箭发射次数的提议 [...]</title>
-      <link>https://t.me/hn_summary/112133</link>
-      <description><![CDATA[加州官员拒绝 SpaceX 火箭发射，理由是马斯克在 X 上的帖子
-加州官员拒绝了 SpaceX 增加加州海岸火箭发射次数的提议，理由是担心埃隆·马斯克在 X 上发布的有争议的帖子及其公司的劳工行为。加州海岸委员会投票反对该计划，该计划旨在将发射次数增加到每年 50 次，尽管军方保证监测环境影响并减轻音爆。争议集中在马斯克的政治参与和社交媒体活动上，包括传播阴谋论和发表贬损言论。委员会质疑 SpaceX 的发射（主要用于私人 Starlink 设备）是否应被视为联邦活动，这将绕过州许可。军方官员计划重新考虑该提案，目标是每年发射 100 次，但委员会坚持要求 SpaceX 直接申请许可。该决定凸显了 SpaceX 的快速扩张与监管部门对环境和社会影响的担忧之间的持续紧张关系。]]></description>
-      <guid>https://t.me/hn_summary/112133</guid>
-      <pubDate>Fri, 11 Oct 2024 20:40:09 GMT</pubDate>
+      <title>Domino's Pizza 的 Terraform Provider 是 Terraform Reg 上提供的创新工具 [...]</title>
+      <link>https://t.me/hn_summary/112156</link>
+      <description><![CDATA[Terraform Provider for Dominos Pizza
+Terraform Provider for Domino&#39;s Pizza 是 Terraform Registry 上提供的创新工具，旨在将披萨订购集成到您的基础设施即代码工作流中。这个独特的提供商允许用户使用 Terraform 自动订购披萨，为喜欢将对编码的热爱与日常任务相结合的技术爱好者简化流程。虽然这个概念可能看起来很异想天开，但它巧妙地展示了 Terraform 在传统基础设施管理之外的多功能性。该提供商证明了科技界的创造力，展示了自动化如何扩展到日常生活中意想不到的领域。]]></description>
+      <guid>https://t.me/hn_summary/112156</guid>
+      <pubDate>Fri, 11 Oct 2024 23:23:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 针对 TikTok 的诉讼中未删节的文件显示，该公司正在与 [...]</title>
-      <link>https://t.me/hn_summary/112132</link>
-      <description><![CDATA[诉讼文件称，TikTok 高管知道该应用对青少年的影响
-针对 TikTok 的诉讼中未删节的文件显示，该公司意识到该应用对青少年的负面影响，包括成瘾和心理健康问题。尽管内部研究证实了这些担忧，但 TikTok 据称优先考虑用户保留而不是减少屏幕时间。该诉讼由 14 位州检察长发起，指控 TikTok 故意让年轻用户上瘾并误导公众了解风险。有争议的是，据报道，TikTok 的算法提倡狭隘的美容规范，并产生过滤气泡，可能会让用户接触有害内容。该公司因内容审核不足和安全功能无效而受到批评。TikTok 为其安全措施辩护，但这些曝光加剧了对其做法的审查。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/112132</guid>
-      <pubDate>Fri, 11 Oct 2024 20:17:57 GMT</pubDate>
+      <title>[媒体] 美国国家航空航天局 (NASA) 监察长办公室 (OIG) 有争议地购买了 C [...] 的访问权。</title>
+      <link>https://t.me/hn_summary/112155</link>
+      <description><![CDATA[NASA 监察长决定购买部分 Clearview 访问权限
+NASA 监察长办公室 (OIG) 有争议地购买了 Clearview AI 的访问权限，Clearview 是一种面部识别工具，以其庞大的网络抓取图像数据库和全球法律纠纷而闻名。尽管 Clearview 声誉不佳，且其运营存在法律和道德问题，但包括 NASA 在内的政府实体仍在继续购买其服务。负责 NASA 内部监督和调查的 OIG 获得了 16,000 美元的许可证，这引发了人们对其必要性和适当性的质疑。虽然 Clearview 的低成本和广泛的数据库可能会吸引精打细算的机构，但这一决定仍然令人费解，特别是因为 OIG 通常调查内部事务，而不是外部犯罪活动。此次采购可能表明政府倾向于依赖 Clearview，尽管它存在争议，但价格实惠。]]></description>
+      <guid>https://t.me/hn_summary/112155</guid>
+      <pubDate>Fri, 11 Oct 2024 23:22:53 GMT</pubDate>
     </item>
     <item>
-      <title>“auth-proxy”项目是一个开源反向代理，旨在验证 HTTP 请求 [...]</title>
-      <link>https://t.me/hn_summary/112131</link>
-      <description><![CDATA[显示 HN：用于验证用户的开源反向代理
-“auth-proxy”项目是一个开源反向代理，旨在验证 HTTP 请求并将未经身份验证的用户重定向到可自定义的登录页面。它是一种简单的单命令解决方案，用于保护应用程序路由，利用 Stack Auth 作为 Auth0 的开源替代方案进行身份验证。用户可以保护特定的 URL 模式，确保只有经过身份验证的访问。代理将请求转发到带有用户信息标头的应用程序服务器，从而方便用户数据检索。差异化功能包括使用 Docker 轻松设置、可自定义的登录页面以及与 Stack Auth 集成以进行用户管理。该项目非常适合那些为其应用程序寻求简单身份验证层的开发人员。]]></description>
-      <guid>https://t.me/hn_summary/112131</guid>
-      <pubDate>Fri, 11 Oct 2024 20:16:53 GMT</pubDate>
+      <title>[媒体] 我应该使用我所在州的数字驾驶执照吗？</title>
+      <link>https://t.me/hn_summary/112154</link>
+      <description><![CDATA[我应该使用我所在州的数字驾照吗？
+EFF 的文章探讨了在美国采用移动驾照 (mDL) 的利弊。虽然在手机上拥有身份证的便利性很有吸引力，但也存在严重的隐私和安全问题。该技术尚未被广泛接受，使用案例有限，主要在 TSA 检查站和几个州的特定地点。有争议的是，几乎没有法律保护措施可以防止执法部门滥用，他们可能会强迫个人解锁手机。此外，增加跟踪和数据收集的可能性引发了隐私问题。文章强调了维护纸质身份证件权利的重要性，因为并不是每个人都可以使用或想要基于智能手机的身份证件。]]></description>
+      <guid>https://t.me/hn_summary/112154</guid>
+      <pubDate>Fri, 11 Oct 2024 23:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gleam 是一种静态类型的函数式编程语言，专为可扩展和 [...] 而设计。</title>
-      <link>https://t.me/hn_summary/112130</link>
-      <description><![CDATA[Gleam：基本介绍
-Gleam 是一种静态类型的函数式编程语言，专为可扩展和可维护的软件而设计，最近发布了 v1 版本。受 Elm 和 Rust 的启发，它可以编译为 Erlang，非常适合并发和分布式系统。本教程介绍了 Gleam 的基础知识，从设置开发环境开始。Gleam 可以编译为 Erlang 和 JavaScript，前者需要 Erlang 和 Rebar3。本教程将指导您编写一个简单的“Hello, World!”程序，探索变量、类型、算术运算、函数和案例表达式。Gleam 在函数表达能力和性能之间取得了平衡，使其成为开发人员的不二之选。值得注意的是，它的简单性使人们可以快速学习，可能只需一个下午。如需进一步探索，请访问 Gleam 网站进行语言导览。]]></description>
-      <guid>https://t.me/hn_summary/112130</guid>
-      <pubDate>Fri, 11 Oct 2024 20:06:46 GMT</pubDate>
+      <title>[媒体] 美国航空公司已对 Skiplagged 提起诉讼，指控该旅游网站 [...]</title>
+      <link>https://t.me/hn_summary/112153</link>
+      <description><![CDATA[美国航空因 Skiplagged 旅行黑客诉讼索赔 9400 万美元
+美国航空已对 Skiplagged 提起诉讼，指控该旅行网站利用一种有争议的预订方式，即“skiplagged”或“隐藏城市”售票。这种方法包括预订中途停留的航班并放弃最后一段航程以节省资金，航空公司认为这违反了他们的政策并导致收入损失。美国航空声称 Skiplagged 滥用其商标并从事欺骗性行为，将其比作“诱饵和转换”计划。然而，Skiplagged 为自己辩护，称自己是信息提供商，强调消费者的选择并质疑航空公司的动机。该案凸显了航空公司与票价漏洞利用之间持续存在的紧张关系，美国航空寻求 9400 万美元的赔偿。争议在于逃单的道德含义以及消费者权利与公司政策的法律界限。]]></description>
+      <guid>https://t.me/hn_summary/112153</guid>
+      <pubDate>Fri, 11 Oct 2024 23:21:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 碳测绘联盟的 Tanager-1 卫星配备了 NASA 设计的成像系统 [...]</title>
-      <link>https://t.me/hn_summary/112129</link>
-      <description><![CDATA[NASA 设计的仪器首次探测到温室气体羽流
-碳测绘联盟的 Tanager-1 卫星配备了 NASA 设计的成像光谱仪，已成功探测到全球甲烷和二氧化碳羽流。值得注意的是，在巴基斯坦卡拉奇发现了一个甲烷羽流，距离垃圾填埋场 2.5 英里，排放量估计为每小时超过 2,600 磅。同样，在南非肯德尔的一座燃煤发电厂发现了二氧化碳羽流，每小时释放约 130 万磅。在德克萨斯州，二叠纪盆地米德兰附近观测到甲烷羽流。这项由 NASA 喷气推进实验室开发的突破性技术标志着温室气体排放监测的重大进步，为全球环境工作提供了关键数据。该计划旨在使这些信息公开，提高应对气候变化的透明度和问责制。Carbon Mapper 和 Planet Labs PBC 之间的合作凸显了空间技术在环境监测方面的创新应用。]]></description>
-      <guid>https://t.me/hn_summary/112129</guid>
-      <pubDate>Fri, 11 Oct 2024 19:59:37 GMT</pubDate>
+      <title>[媒体] Recursive Adaptation 的文章讨论了关于酒精影响的最新发现 [...]</title>
+      <link>https://t.me/hn_summary/112152</link>
+      <description><![CDATA[饮酒会使人体天然 GLP-1 活性降低 34%
+Recursive Adaptation 的文章讨论了最近关于酒精对人体 GLP-1 活性影响的研究结果，揭示了由于急性饮酒导致这种饱腹感信号降低 34%。这种减少可能会增加饥饿感和渴望，包括对更多酒精的渴望，突出了酒精的“开胃酒”作用。这篇文章还涉及 Lorenzo Leggio 利用各种数据源对酒精使用障碍的 GLP-1 受体激动剂的研究。此外，本文还介绍了一项研究，该研究显示远程医疗患者的丁丙诺啡停药率较低，但指出了潜在的自我选择偏差。礼来公司对替泽帕肽合成药物的打击引发了争议，引发了一场针对 FDA 决定将其从短缺名单中移除的诉讼，影响了物质使用障碍患者的获取。文章最后指出，GLP-1 在肥胖治疗中的应用越来越多，这表明它有可能应用于各种物质使用障碍。]]></description>
+      <guid>https://t.me/hn_summary/112152</guid>
+      <pubDate>Fri, 11 Oct 2024 23:14:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，我探讨了 Windows 动态链接如何受到活动 [...] 的影响。</title>
-      <link>https://t.me/hn_summary/112128</link>
-      <description><![CDATA[Windows 动态链接取决于活动代码页
-在本文中，我将探讨 Windows 动态链接如何受到活动代码页的影响，尤其是当可移植可执行文件的导入表中的模块名称包含非 ASCII 值时。出现这种情况的原因是动态链接器必须将这些八位字节解码为 Unicode，通常使用进程的活动代码页 (ACP)。我使用一个虚构的示例来演示这一点，该示例使用了两个 DLL 名称“Ãµral.dll”和“õral.dll”，它们在 CP-1252 和 UTF-8 代码页下的解码方式不同。此行为可以根据系统代码页动态改变程序行为，而无需进行明确检查。虽然这个技巧在技术上很有趣，但它在潜在恶意应用程序之外的实际用途有限，因为它可能会欺骗假定 UTF-8 编码的检查工具。这凸显了 Windows 中动态链接的一个巧妙但又有争议的方面。]]></description>
-      <guid>https://t.me/hn_summary/112128</guid>
-      <pubDate>Fri, 11 Oct 2024 19:57:32 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，我探讨了优化的缩放定律，特别关注[...]</title>
+      <link>https://t.me/hn_summary/112151</link>
+      <description><![CDATA[优化的缩放定律
+在这篇博文中，我探讨了优化的缩放定律，特别关注无约束凸二次优化问题的梯度下降。缩放定律描述了基于可观察参数的算法收敛速度，在机器学习和统计学等领域至关重要。我深入研究了经典优化理论，研究了强凸函数的指数收敛速度和非强凸情况的 \(O(1/k)\) 速率。然而，这些界限往往会错误估计实际性能，尤其是在条件数线性增长的现代机器学习环境中。我提出了一个使用无限维问题和渐近特征值衰减的模型，以更好地捕捉机器学习中优化的细微差别。这种方法凸显了传统界限的局限性，并表明需要更细致的理解才能做出准确的预测。令人惊讶的是，经典界限既可以低估也可以高估表现，挑战了传统智慧。（基于 26% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/112151</guid>
+      <pubDate>Fri, 11 Oct 2024 22:57:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Valve 在 Steam 上推出了新的免责声明，澄清购买游戏大奖 [...]</title>
-      <link>https://t.me/hn_summary/112127</link>
-      <description><![CDATA[Valve 称 Steam 用户不拥有任何东西，而 GOG 则称其游戏无法被带走
-Valve 在 Steam 上推出了新的免责声明，澄清购买游戏授予的是许可而不是所有权，这可能是为了回应即将出台的旨在提高数字购买透明度的加州法律。这一变化引发了讨论，尤其是来自 GOG 的讨论，GOG 是一家以无 DRM 游戏和离线安装程序而闻名的竞争对手。GOG 幽默地建议使用自己的横幅，强调他们的游戏一旦下载，就会无限期地留在用户手中。虽然 GOG 也出售许可证，但它向用户保证他们的游戏无论外部因素如何都可以玩，这与 Steam 的模式形成鲜明对比。这场辩论凸显了对数字所有权和消费者权利的不同理念。]]></description>
-      <guid>https://t.me/hn_summary/112127</guid>
-      <pubDate>Fri, 11 Oct 2024 19:49:26 GMT</pubDate>
+      <title>[媒体] 在最近的更新中，Steam 澄清说，当你“购买”一款游戏时，你实际上是被 [...]</title>
+      <link>https://t.me/hn_summary/112150</link>
+      <description><![CDATA[Steam 增加了一个残酷的事实，即您购买的是“许可证”，而不是游戏本身
+在最近的更新中，Steam 澄清说，当您“购买”游戏时，您实际上是在购买访问该游戏的许可证，而不是游戏本身。这一变化符合加州新的 AB2426 法律，该法律旨在防止数字商品的误导性广告。法律要求卖家明确说明数字购买是许可证，而不是所有权，除非产品可以永久下载和离线使用。这一启示可能会让一些以为自己完全拥有数字游戏的用户感到不安。争议在于对数字所有权的潜在误解，凸显了数字购买的不稳定性质及其对消费者权利的影响。]]></description>
+      <guid>https://t.me/hn_summary/112150</guid>
+      <pubDate>Fri, 11 Oct 2024 22:37:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

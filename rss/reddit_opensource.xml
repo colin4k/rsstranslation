@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 21:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:03:33 GMT</lastBuildDate>
+    <item>
+      <title>有没有开源软件可以将多幅图像批量转换为 pdf，并带有页面边缘检测功能？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1nlqk/any_opensource_software_to_batchconvert_many/</link>
+      <description><![CDATA[我的 Android 手机上有 Microsoft 镜头可以做到这一点，但我更希望能够使用我的 Sony A6000 来实现这一点，因为质量更好。 需要澄清的是，我所说的边缘检测是指检测页面边缘并校正透视的算法。如果没有这个功能，知道解决方案还是不错的，但如果有这个功能就更好了。    提交人    /u/flying-benedictus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1nlqk/any_opensource_software_to_batchconvert_many/</guid>
+      <pubDate>Fri, 11 Oct 2024 23:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>degoogle 的最佳替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</link>
+      <description><![CDATA[我正在尝试去谷歌化，尝试用开源的、最好是免费的、多平台的、至少支持安卓的服务和应用来替代它们。 寻找谷歌提供的几乎所有智能手机必备应用的替代品。还有电子邮件服务和相关服务、云存储和其他服务…… 考虑使用 Proton、Fossify 和 Ente 应用来满足我的大部分需求。但即使它们是开源的，我也不知道它们是否安全和私密。 我听说过可以阻止 YouTube 收集大量数据的前端应用，但我不知道它们叫什么，也不知道它们是否真的有效。 总而言之，如果您已经从主要应用或服务切换到开源替代方案，我很想知道是哪些以及为什么，谢谢！   由    /u/luanmdlima  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</guid>
+      <pubDate>Fri, 11 Oct 2024 23:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些开源 EDR/XDR/类似项目可以加入？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1k8ue/open_source_edrxdrsimilar_projects_to_get_into/</link>
+      <description><![CDATA[我正在寻找一个实现 EDR/XDR/反恶意软件或类似东西的开源项目，从中我可以了解更多有关这些东西是如何制作的，然后随着时间的推移为它做出贡献。 项目的细节和保护方法对我来说不太重要。 我显然也在自己做搜索，我只是知道许多项目可能会被忽视。    提交人    /u/BubblyMango   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1k8ue/open_source_edrxdrsimilar_projects_to_get_into/</guid>
+      <pubDate>Fri, 11 Oct 2024 21:12:10 GMT</pubDate>
+    </item>
     <item>
       <title>克隆亲人的声音</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1jhmy/cloning_a_loved_ones_voice/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[嗨，我不知道这里是不是问这个问题的正确地方，但我需要验证的问题是我在 r/signal 上问过的问题，但无法收到可信的答案，我相信可以通过查看源代码来验证，但这不是我的专长。 问题：如果有人将电话号码更改为 Signal Messenger 上的帐户，以前的帐户历史记录是否仍可追溯到原始电话号码或新电话号码？ 有人可以帮我找到这个答案吗？    提交人    /u/RemarkableLook5485   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g1hwz9/i_need_a_technical_answer_about_signal_that_needs/</guid>
       <pubDate>Fri, 11 Oct 2024 19:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于自动直销的开源 CMS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1ht6g/open_source_cms_for_automated_dropshipping/</link>
-      <description><![CDATA[  由    /u/rabbits_999  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1ht6g/open_source_cms_for_automated_dropshipping/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:21:50 GMT</pubDate>
     </item>
     <item>
       <title>我正在构建 Linktree 的开源开发者版本</title>
@@ -67,13 +81,6 @@
       <description><![CDATA[我正计划创建一个很酷的项目。我有一个由 3 人组成的团队 - FE、BE 和 Devops 人员。只需要一名设计师。如果您正在寻找项目来添加您的简历，请联系我们    提交人    /u/damian_179   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g14w8n/any_undergrad_figma_designer_has_to_be_a_manga/</guid>
       <pubDate>Fri, 11 Oct 2024 08:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>为互联网冲浪者和研究人员提供个性化的人工智能助手。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g14cnv/personalized_ai_assistant_for_internet_surfers/</link>
-      <description><![CDATA[当我浏览互联网或阅读任何文件（如 pdf、文档或图像）时，我会看到很多内容 — 但记得你保存的时间和内容吗？完全无法理解！这就是 SurfSense 的作用所在。SurfSense 是一款个人 AI 助理，可帮助您记录互联网或文件上的任何内容（社交媒体聊天、日历邀请、重要邮件、教程、食谱等）。现在，您再也不会忘记任何事情。使用易于使用的跨浏览器扩展程序轻松捕获您的网页浏览会话和所需的网页内容，或将您的文件上传到 SurfSense。然后，向您的个人知识库询问有关您保存的内容的任何信息，瞧 — — 立即回忆！ 演示视频：https://www.youtube.com/watch?v=2cS1_IQDMj0 我正在考虑将聊天转换为 Perplexity 之类的东西，并在其上添加 gpt-researcher。 请让我知道您的反馈。 Repo 链接：https://github.com/MODSetter/SurfSense    提交人    /u/Uiqueblhats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g14cnv/personalized_ai_assistant_for_internet_surfers/</guid>
-      <pubDate>Fri, 11 Oct 2024 07:33:52 GMT</pubDate>
     </item>
     <item>
       <title>Boxcars - 免费在线西洋双陆棋 (AGPL)</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我很好奇是否有人使用开源 MINIO 成功将服务货币化。有人有任何参考或示例吗？有了 AGPLv3 许可证，我们甚至可以这样做吗？有人可以解释一下吗？    提交人    /u/xtremerkr   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</guid>
       <pubDate>Thu, 10 Oct 2024 11:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Subsetter - 基于 Python 的 CLI 工具，用于对 mysql/postgres/sqlite 数据库进行采样</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g0dbbd/subsetter_python_based_cli_tool_to_sample/</link>
-      <description><![CDATA[想分享一个工具，subsetter，我一直在研究这个工具，旨在从关系数据库（目前支持 mysql、postgresql、sqlite）生成语义一致的样本。 此工具由配置驱动；至少您必须创建一个配置文件，告诉子集生成器从哪里开始（例如“我想要 5% 的用户”或“我想要上周的所有订单”）以及应该对哪些表进行采样。然后，子集生成器将分析数据库中表之间的关系，以制定一个采样计划，该计划将遵循外键关系来生成语义一致的数据样本。所需的只是采样表通过外键关系连接，并且没有外键循环。 一旦制定了计划，就可以开始采样阶段。每个表都将使用在源数据库上运行的单个 SQL 查询进行采样，并直接流式传输到目标数据库中。无需缓冲，因此理论上它可以在相当大的数据集上工作。一些需要后续查询引用的表将首先在源数据库上“具体化”为临时表。源数据库只需要读取权限，它可以正确地针对副本实例运行。 这是为了测试或演示目的而设计的。为此，它支持过滤和匿名化任何需要它的列，以避免在采样数据集中出现真实姓名、地址等内容。 查看https://github.com/msg555/subsetter中的更多详细信息、来源、安装说明和用法。也很乐意回答任何进一步的问题。    提交人    /u/msg555   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g0dbbd/subsetter_python_based_cli_tool_to_sample/</guid>
-      <pubDate>Thu, 10 Oct 2024 07:24:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
