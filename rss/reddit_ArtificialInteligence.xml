@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 18:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 21:01:46 GMT</lastBuildDate>
     <item>
-      <title>我打造了一个完全自主的 AI 员工</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g243fe/i_built_a_completely_autonomous_ai_employee/</link>
-      <description><![CDATA[嗨，我是 Dhruv，我正在创建 The AI Agent Co。我们刚刚推出了第一个完全自主的 AI 员工，它具有新颖的 UI，可支持 AI-Human 交互。希望您对此提供反馈！您可以在此处查看我们的代理：travisaiagent.com。您需要做的就是提供简报，Travis 将为您处理一切。他将进行所有必要的研究，制定销售和营销策略，然后全天候采取行动。    提交人    /u/Ontopoftheworld_ay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g243fe/i_built_a_completely_autonomous_ai_employee/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:37:20 GMT</pubDate>
+      <title>O1s 架构会带来 AGI 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g28hcg/will_o1s_architecture_lead_to_agi/</link>
+      <description><![CDATA[定义为既能在研究中取得新发现，又能自动执行最具智力价值的工作的人工智能。 请给出技术性和知情的回答，主要是针对前两个问题。此外，如果您还没有看过 AI Explained 关于该主题的视频，请观看。https://youtu.be/KKF7kL0pGc4?si=hwXk2VJKUxF9XGuR  它的架构与 AGI 有多接近？您认为 O1 是原始 AGI/弱 AGI 吗？ 您是否认为 GPT5 将是中等 AGI，假设从预览版到 O1 的增幅相同，但幻觉更少，能动性略强？（他们也可能会像 gpt4turbo 一样对其进行更新） 就您认为需要发生的开发而言，您对 AGI 和 ASI 的时间表是什么？ 我认为对齐问题可能不存在，因为任何足够复杂的系统都会首先用于对齐自身（AI 将研究加速到 10 倍速度，特别是对齐研究，因此 10 年的对齐研究在 1 年内发生）。你对这种立场有什么反驳吗？我也知道它仍然应该被认真对待，因为概率仍然可能在 1% 左右     提交人    /u/Connect_Art_6497   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g28hcg/will_o1s_architecture_lead_to_agi/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:59:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索人工智能中的因果关系：引入语言模型框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g27t8u/exploring_causality_in_ai_introducing_a_framework/</link>
+      <description><![CDATA[我想探索 AI 语言模型中的因果关系。当前的模型主要关注相关性，但通过整合因果推理，我们可以增强 AI 的可解释性和稳健性。该框架可以带来更好的决策系统，特别是在医学和自主系统等高风险领域。 我很乐意听取研究人员和开发人员的反馈。您认为因果关系可以重新定义 AI 透明度吗？ https://github.com/stevius10/Causality-Theory-in-Language-Models AI 驱动的通用证明，封装上下文场景：https://youtu.be/7nKVCsC6CO4?si=3AMW5l1e4eya5H7Q    提交人    /u/stevius10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g27t8u/exploring_causality_in_ai_introducing_a_framework/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>在不久的将来，当人工智能和量子计算协同工作时，人们将能够在家中使用人工智能做哪些最糟糕和最成问题的事情？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g27sl4/what_are_some_of_the_worst_and_most_problematic/</link>
+      <description><![CDATA[学校作业 - 嗯，我们已经到了这一步。我知道有些孩子已经有人替他们写论文和其他作业了。我不知道他们怎么从来没有被抓到过。 还有色情。我们认为我们现在有问题了。人们将能够拍摄任何图像或真实的人，并将那个人放入色情场景中。几乎可以肯定的是，在未来十年内，人们将能够在家中做到这一点。执法部门和政府应该现在就想办法解决这个问题。 为了政治目的制造虚假信息 - 再次，我们认为我们现在有问题了。等等。 尽管有些应用显然很有用，但人工智能实际上可能会让我们的生活变得更糟。    提交人    /u/georgewalterackerman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g27sl4/what_are_some_of_the_worst_and_most_problematic/</guid>
+      <pubDate>Sat, 12 Oct 2024 19:27:35 GMT</pubDate>
     </item>
     <item>
       <title>理论情景</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[大家好！今天的快速 AI 更新： OpenAI 的 Swarm：OpenAI 刚刚推出了 Swarm，这是一个协调多个 AI 代理的框架。可以将其想象成组织一个 AI 团队共同完成任务。在他们的 GitHub 上查看！ SuperNova-Medius（14B 参数）：Arcee.ai 的最新模型将 Qwen2.5-72B 和 Llama-3.1-405B 混合在一起，实现一流的推理和效率。非常适合处理详细任务！ LLAMA-3_8B_Unaligned_BETA：来自 Arcee.ai 的另一个很酷的模型，具有 14B 参数，设计类似于 SuperNova-Medius。在 Hugging Face 上查看吧！ Dream Machine API v1.1.0：新功能包括实时视频监控和更轻松的信用余额检查。非常适合流畅的视频生成！ Dreamina AI V2.0：重大升级！现在可以处理文本到图像、视频和音乐创作 - 还有故事板！一体化创意工具。 更多 来源：https://comfyuiblog.com/ai-news-swarm-arcee-supernova-medius-llama-3_8b_unaligned_beta-and-more/    提交人    /u/hackerzcity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g22ttd/ai_news_new_update_models_swarm_llama3_8b/</guid>
       <pubDate>Sat, 12 Oct 2024 15:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持乱伦的新西兰心理健康聊天机器人的麻烦输出</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g21bmo/the_troublesome_output_of_the_nz_mental_health/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g21bmo/the_troublesome_output_of_the_nz_mental_health/</guid>
-      <pubDate>Sat, 12 Oct 2024 14:28:42 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是一种非常擅长猜测的计算机。</title>
@@ -50,7 +57,7 @@
     <item>
       <title>在我见过的所有用例中，对于外行人来说，仍然没有任何东西可以与我的电子邮件进行交互。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xvjc/of_all_the_use_cases_i_see_still_there_is_nothing/</link>
-      <description><![CDATA[多年来，我一直饱受前妻的虐待，离婚后，我又饱受虐待。我对这些虐待毫无兴趣，我真的需要一个人工智能来私下里根据具体问题浏览我的电子邮件。    提交人    /u/mknight1701   [link] [评论]]]></description>
+      <description><![CDATA[我前妻虐待了我好几年，离婚后又虐待了我好几年。我对这些虐待不感兴趣，我真的需要一个人工智能来私下里根据具体问题浏览我的电子邮件。     提交人    /u/mknight1701   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xvjc/of_all_the_use_cases_i_see_still_there_is_nothing/</guid>
       <pubDate>Sat, 12 Oct 2024 11:15:32 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[嘿 Reddit！ 我目前正在研究 AI 数据标记操作，并希望更好地了解它。具体来说，我很好奇： AI 数据标记操作到底是什么？ 我知道它涉及通过标记数据来训练 AI 模型，但在社交媒体平台或科技公司等大型环境中，这通常是如何管理的？ AI 数据标记的主要成本驱动因素是什么？ 我读到过，劳动力（人工注释者与自动化）、工具开发和数据量等因素会影响成本，但还有其他我应该注意的因素吗？ 优化数据标记项目成本的最佳实践？ 任何现实世界的提示或见解都将不胜感激！我对有助于优化成本同时保持数据质量的流程改进和指标特别感兴趣。 希望听取任何在这方面有经验的人的意见。  提前致谢！    由    /u/mcilbag 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1ww2n/seeking_insights_on_ai_data_labelling_operations/</guid>
       <pubDate>Sat, 12 Oct 2024 10:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 工具将火柴人动画与真人视频或更精细的动画角色进行火柴人战斗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1wm1m/stick_fight_stickman_animation_to_live_action/</link>
-      <description><![CDATA[大家好，我看到很多全动态实景视频被转换成不同类型的动画，但反过来呢？ 我一直在尝试寻找使用 OpenPose ControlNet 或 ComfyUI 中的实时绘画管道之类的东西来查看动画火柴人并将其转换成另一种类型的视频或动画的示例，但我真的很难找到这个。你有没有见过类似的东西可以告诉我？ 长话短说，我正在制作一款以虚拟现实世界为背景的 2D 游戏，我正在考虑使用 AI 重新诠释角色和敌人，包括他们所有虚假的、故障的幻觉荣耀。 有没有我没有考虑过为什么这行不通的原因？  非常感谢！    由    /u/brinzerdecalli 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1wm1m/stick_fight_stickman_animation_to_live_action/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:43:57 GMT</pubDate>
     </item>
     <item>
       <title>理解和实施 NLP 中的后期分块 - 增强检索</title>
@@ -113,7 +113,7 @@
     <item>
       <title>这违法吗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1l6f2/is_this_illegal/</link>
-      <description><![CDATA[嘿，我是一个内容创建者，正在制作一些有趣且内容丰富的编程视频 我想知道，假装一个名人在视频中间打电话给我，用人工智能语音以一种有趣的方式询问我一些与编程有关的建议是否合法 我可以在标题中输入这个声音是由人工智能发出的 提前谢谢 编辑：我住在埃及    提交人    /u/Plenty-Turnover1318   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我是一个内容创建者，正在制作一些有趣且内容丰富的编程视频 我想知道，假装一个名人在视频中间打电话给我，用人工智能语音以一种有趣的方式向我征求一些与编程有关的建议，这是否合法 我可以在标题中输入这个声音是由人工智能发出的 提前谢谢 编辑：我住在埃及    提交人    /u/Plenty-Turnover1318   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1l6f2/is_this_illegal/</guid>
       <pubDate>Fri, 11 Oct 2024 21:55:22 GMT</pubDate>
     </item>
