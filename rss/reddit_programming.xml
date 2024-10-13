@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 13 Oct 2024 09:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 12:02:37 GMT</lastBuildDate>
+    <item>
+      <title>Greenmask 开源数据库匿名化和合成数据生成工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1g2o0bx/greenmask_opensource_database_anonymization_and/</link>
+      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g2o0bx/greenmask_opensource_database_anonymization_and/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程艺术以及我不使用法学硕士的原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1g2n812/the_art_of_programming_and_why_i_wont_use_llm/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g2n812/the_art_of_programming_and_why_i_wont_use_llm/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何申请并破解 Google Summer of Code</title>
+      <link>https://www.reddit.com/r/programming/comments/1g2mnqs/how_to_apply_and_crack_google_summer_of_code/</link>
+      <description><![CDATA[  由    /u/External_Ad_11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g2mnqs/how_to_apply_and_crack_google_summer_of_code/</guid>
+      <pubDate>Sun, 13 Oct 2024 10:25:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过选择阅读书籍的 7 个简单示例来理解算法复杂性</title>
+      <link>https://www.reddit.com/r/programming/comments/1g2m1bs/understanding_algorithm_complexity_through_7/</link>
+      <description><![CDATA[  由    /u/emelian1917  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g2m1bs/understanding_algorithm_complexity_through_7/</guid>
+      <pubDate>Sun, 13 Oct 2024 09:39:18 GMT</pubDate>
+    </item>
     <item>
       <title>1 个漏洞，50,000 美元以上的赏金，Zendesk 如何故意在数百家财富 500 强公司中留下后门</title>
       <link>https://www.reddit.com/r/programming/comments/1g2kz9g/1_bug_50000_in_bounties_how_zendesk_intentionally/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>将 Z3 的解决方案与 Excel 的解决方案进行匹配</title>
       <link>https://www.reddit.com/r/programming/comments/1g2kr1s/match_solution_of_z3_to_that_of_excel/</link>
-      <description><![CDATA[我有一组方程式，我正在使用 Ruby on Rails 应用程序中的 Z3 求解它们，同时使用 Excel 验证解决方案，因为存在多个解决方案，Z3 给出的解决方案与 Excel 的不同。需要让它们相同，因为这样便于验证。    提交人    /u/Scary-Basil15   [link] [评论]]]></description>
+      <description><![CDATA[我有一组方程式，我正在使用 ruby​​ on rails 应用程序中的 Z3 求解它们，同时使用 Excel 验证解决方案，因为存在多个解决方案，Z3 给出的解决方案与 Excel 不同。需要让它们相同，因为这样便于验证。    提交人    /u/Scary-Basil15   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g2kr1s/match_solution_of_z3_to_that_of_excel/</guid>
       <pubDate>Sun, 13 Oct 2024 08:00:29 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g1xqo1/ten_git_tips_and_tricks_you_need_to_know/</guid>
       <pubDate>Sat, 12 Oct 2024 11:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在构建 yt-dlp 包装器时学到的东西</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1wo56/things_i_learned_while_building_a_ytdlp_wrapper/</link>
-      <description><![CDATA[  由    /u/clouddjr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1wo56/things_i_learned_while_building_a_ytdlp_wrapper/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>TAS 解释：0.2 秒内玩完《超级马里奥兄弟 3》</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1wfry/tas_explained_super_mario_bros_3_in_02_seconds/</link>
-      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1wfry/tas_explained_super_mario_bros_3_in_02_seconds/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:29:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debugger.godMode() – 使用调试器破解 JVM 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1vnmp/debuggergodmode_hacking_jvm_applications_with_the/</link>
-      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1vnmp/debuggergodmode_hacking_jvm_applications_with_the/</guid>
-      <pubDate>Sat, 12 Oct 2024 08:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>为壁纸爱好者提供的小型 AI 生成脚本</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1v62n/small_ai_generated_script_for_wallpaper_lovers/</link>
-      <description><![CDATA[  由    /u/Messenger-of-helll  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1v62n/small_ai_generated_script_for_wallpaper_lovers/</guid>
-      <pubDate>Sat, 12 Oct 2024 07:49:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

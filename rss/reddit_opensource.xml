@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 13 Oct 2024 09:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 12:02:45 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找可以让我创建 3D 角色的免费工具或工具组合</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2no7m/i_am_looking_for_free_tools_or_a_combination_of/</link>
+      <description><![CDATA[我一直在寻找一种方法，让我能够创建可以在 Blender 中使用的 3D 角色。它不必完美，但应该能为我提供 3D 人物角色（包括衣服）的基础。 您知道有什么方法或工具组合可以让我做这样的事情吗？不需要动画，只需要角色。 非常感谢。    提交人    /u/umen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2no7m/i_am_looking_for_free_tools_or_a_combination_of/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:35:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何申请并破解Google Summer of Code？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2mn5d/how_to_apply_and_crack_google_summer_of_code/</link>
+      <description><![CDATA[        提交人    /u/External_Ad_11   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2mn5d/how_to_apply_and_crack_google_summer_of_code/</guid>
+      <pubDate>Sun, 13 Oct 2024 10:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>当有人使用您的开源代码而不给予认可时，您会如何处理？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2lmtb/how_do_you_handle_it_when_people_use_your/</link>
+      <description><![CDATA[大家好， 我为开源项目做贡献已经有一段时间了，最​​近我注意到有几个人在他们自己的项目中使用了我的代码——有些人甚至根据我的代码制作了 YouTube 视频、文章和库。虽然我很高兴我的工作有用，但有些人没有给我任何荣誉，这让我很困扰。 现在我已经为我的代码添加了知识共享署名 (CC BY 4.0) 许可证，以确保将来获得适当的荣誉。但是当人们不承认你的贡献时，你如何处理这种沮丧？是我过度思考了，还是这种感觉很正常？ 期待听到你的想法！    提交人    /u/kallisjake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2lmtb/how_do_you_handle_it_when_people_use_your/</guid>
+      <pubDate>Sun, 13 Oct 2024 09:07:49 GMT</pubDate>
+    </item>
     <item>
       <title>一个开源 CLI，帮助您轻松设置项目树</title>
       <link>https://www.reddit.com/r/opensource/comments/1g2f8tg/an_open_source_cli_to_help_set_up_project_trees/</link>
@@ -106,7 +127,7 @@
     <item>
       <title>degoogle 的最佳替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</link>
-      <description><![CDATA[我正在尝试去谷歌化，尝试用开源的、最好是免费的、多平台的、至少支持安卓的服务和应用来替代它们。 寻找谷歌提供的几乎所有智能手机必备应用的替代品。还有电子邮件服务和相关服务、云存储和其他服务…… 考虑使用 Proton、Fossify 和 Ente 应用来满足我的大部分需求。但即使它们是开源的，我也不知道它们是否安全和私密。 我听说过可以阻止 YouTube 收集大量数据的前端应用，但我不知道它们叫什么，也不知道它们是否真的有效。 总而言之，如果您已经从主要应用或服务切换到开源替代方案，我很想知道是哪些以及为什么，谢谢！   由    /u/luanmdlima  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试去谷歌化，尝试用开源的、最好是免费的、多平台的、至少支持安卓的服务和应用来替代它们。 寻找谷歌提供的几乎所有智能手机必备应用的替代品。还有电子邮件服务和相关服务、云存储和其他服务…… 考虑使用 Proton、Fossify 和 Ente 应用来满足我的大部分需求。但即使它们是开源的，我也不知道它们是否安全和私密。 我听说过可以阻止 YouTube 收集大量数据的前端应用，但我不知道它们叫什么，也不知道它们是否真的有效。 总而言之，如果您已经从主要应用或服务切换到开源替代品，我很想知道是哪些以及为什么，谢谢！   由    /u/luanmdlima  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</guid>
       <pubDate>Fri, 11 Oct 2024 23:30:58 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨，我不知道这里是不是问这个问题的正确地方，但我需要验证的问题是我在 r/signal 上问过的问题，但无法收到可信的答案，我相信可以通过查看源代码来验证，但这不是我的专长。 问题：如果有人将电话号码更改为 Signal Messenger 上的帐户，以前的帐户历史记录是否仍可追溯到原始电话号码或新电话号码？ 有人可以帮我找到这个答案吗？    提交人    /u/RemarkableLook5485   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g1hwz9/i_need_a_technical_answer_about_signal_that_needs/</guid>
       <pubDate>Fri, 11 Oct 2024 19:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建 Linktree 的开源开发者版本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1eqc7/im_building_an_open_source_developer_version_of/</link>
-      <description><![CDATA[大家好， 我正在构建一个受 Linktree 启发的应用程序，但它是专为开发人员设计的，您可以在其中展示链接，还可以展示您的技术堆栈，它会自动获取 GitHub 统计信息。 它旨在成为个人简介、描述等的快速链接。例如：https://route2.dev/s1lvax（是的，有一个快速生产版本可供测试） 它还处于开发的早期阶段，并且充满了错误，但我希望您检查一下并建议进行更改或其他功能（毕竟，许多人认为比一个人更好）：)） 这是 Github 网址：https://github.com/s1lvax/route    由    /u/cesariofs_ 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1eqc7/im_building_an_open_source_developer_version_of/</guid>
-      <pubDate>Fri, 11 Oct 2024 17:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望更多项目支持 Pull Request Sniping 吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1cfp5/would_you_prefer_more_projects_support_pull/</link>
-      <description><![CDATA[        提交人    /u/craftbot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1cfp5/would_you_prefer_more_projects_support_pull/</guid>
-      <pubDate>Fri, 11 Oct 2024 15:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP Java GUI 连接配置器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1brfj/sap_java_gui_connection_configurator/</link>
-      <description><![CDATA[大家好， 这可能有点小众，但我希望它对你们中的一些人有用。如果您正在使用 SAP 并在 Linux 或 Mac 上运行它，您就会知道连接到服务器的唯一方法是使用配置字符串。我个人不得不多次在线查找参数以构造字符串，因此为了简化我的生活，我建立了一个小网站来帮我完成这项工作。我与你们分享它，希望它也能让你们的生活更简单。 SAP JAVA 连接配置 (kbkozlev.github.io)    提交人    /u/masterzeng   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1brfj/sap_java_gui_connection_configurator/</guid>
-      <pubDate>Fri, 11 Oct 2024 14:57:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
