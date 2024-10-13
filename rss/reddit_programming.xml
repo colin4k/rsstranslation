@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 12 Oct 2024 21:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 00:04:29 GMT</lastBuildDate>
+    <item>
+      <title>领域事件：一种实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1g2av9p/domain_events_an_implementation/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g2av9p/domain_events_an_implementation/</guid>
+      <pubDate>Sat, 12 Oct 2024 21:54:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Web 扩展从任意网页获取本地文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1g2a49g/fetch_local_file_from_arbitrary_web_pages_using_a/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g2a49g/fetch_local_file_from_arbitrary_web_pages_using_a/</guid>
+      <pubDate>Sat, 12 Oct 2024 21:18:01 GMT</pubDate>
+    </item>
     <item>
       <title>单层嵌入式日志结构化合并树（LSMT）</title>
       <link>https://www.reddit.com/r/programming/comments/1g29kwe/single_level_embedded_log_structured_merge_tree/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/AgresiveE  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g1jnq6/hello_everyone_today_i_would_like_to_share_a_new/</guid>
       <pubDate>Fri, 11 Oct 2024 20:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Lambdas、API 网关构建 API 并使用 AWS CDK 进行部署</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1ic1y/how_to_build_an_api_with_lambdas_api_gateway_and/</link>
-      <description><![CDATA[  由    /u/Aries2ka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1ic1y/how_to_build_an_api_with_lambdas_api_gateway_and/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计模式与架构模式：避免混淆</title>
-      <link>https://www.reddit.com/r/programming/comments/1g1f766/design_patterns_vs_architectural_patterns_stop/</link>
-      <description><![CDATA[  由    /u/caiozera2807  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g1f766/design_patterns_vs_architectural_patterns_stop/</guid>
-      <pubDate>Fri, 11 Oct 2024 17:26:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
