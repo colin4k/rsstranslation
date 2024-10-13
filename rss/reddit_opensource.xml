@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 13 Oct 2024 00:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 03:08:50 GMT</lastBuildDate>
+    <item>
+      <title>一个开源 CLI，帮助您轻松设置项目树</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2f8tg/an_open_source_cli_to_help_set_up_project_trees/</link>
+      <description><![CDATA[大家好！👋 我刚刚制作了 mkproj，这是一个交互式 CLI 工具，可帮助您轻松设置项目树。我创建它是因为我厌倦了手动组织项目文件夹，这太乏味了！另外，我第一次尝试使用 Go，我想，为什么不解决我自己的问题呢？ mkproj 可让您以直观的方式快速创建、可视化和修改项目结构。它非常简单，对我帮助很大，所以我想它也可能对其他人有所帮助！ 如果您想尝试甚至协作，您可以在这里找到它：GitHub 上的 mkproj。我很乐意听取您的想法、反馈或贡献，以帮助进一步改进它！ 非常感谢，我迫不及待地想听听您的想法！    提交人    /u/jobehi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2f8tg/an_open_source_cli_to_help_set_up_project_trees/</guid>
+      <pubDate>Sun, 13 Oct 2024 01:53:08 GMT</pubDate>
+    </item>
     <item>
       <title>voidsprite 像素艺术编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1g2cfvv/voidsprite_pixel_art_editor/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 这可能有点小众，但我希望它对你们中的一些人有用。如果您正在使用 SAP 并在 Linux 或 Mac 上运行它，您就会知道连接到服务器的唯一方法是使用配置字符串。我个人不得不多次在线查找参数以构造字符串，因此为了简化我的生活，我建立了一个小网站来帮我完成这项工作。我与你们分享它，希望它也能让你们的生活更简单。 SAP JAVA 连接配置 (kbkozlev.github.io)    提交人    /u/masterzeng   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g1brfj/sap_java_gui_connection_configurator/</guid>
       <pubDate>Fri, 11 Oct 2024 14:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ikto：基于 NATS 的 Wireguard 网状网络构建器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g18n9w/ikto_a_nats_based_wireguard_mesh_network_builder/</link>
-      <description><![CDATA[       由    /u/SoftwareCitadel  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g18n9w/ikto_a_nats_based_wireguard_mesh_network_builder/</guid>
-      <pubDate>Fri, 11 Oct 2024 12:30:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

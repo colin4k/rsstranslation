@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 03:08:20 GMT</lastBuildDate>
+    <item>
+      <title>人类的人工智能克隆</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2gd67/ai_clones_of_humans/</link>
+      <description><![CDATA[https://beyond.ubc.ca/ai-clones-made-from-user-data-pose-uncanny-risks/ https://en.m.wikipedia.org/wiki/Upload_(TV_series) 不是危言耸听，而是我在查看信息时，有一个想法。 如果现在可以创建人类的人工智能克隆，那么它们可以从社交媒体帖子、购物习惯和客户服务互动、聊天机器人数据、法学硕士对话、电话对话或任何其他个人数据库中提取出来。  公司、政府或其他团体在未经同意的情况下创建了这些，我不知道它是否以这种方式被使用，但在某些情况下，它可用于运行场景并给出可能执行 X 评分系统。理论上，这一切都可以在未经任何人同意的情况下完成。 其他场景包括更换电影中的演员，伟大的科学家和知识分子可以继续创造，客户服务可以被完全取代，我们可以将人工智能人类克隆人送入太空而不是真正的人类，医疗场景可以高速运行以提供疾病或其他问题的可能性。 个人肖像的出售已经发生，我认为以 UBI 或版税类型的系统作为交换可能是可行的。一家公司创建人工智能人类克隆家谱也是可能的，这样你就可以保留自己的肖像在家庭中传承，与你未来的家庭成员交谈。 虽然今天的克隆是有限的，但收集到的数据可以在你死后的任何时间使用，如果有足够的数据点，就有可能模拟更大规模的人群互动。    提交人    /u/onedoesnotjust   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2gd67/ai_clones_of_humans/</guid>
+      <pubDate>Sun, 13 Oct 2024 02:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spark.E人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2ft53/sparke_ai/</link>
+      <description><![CDATA[有人用过 StudyFetch 的 Spark.E AI 吗？我想用它做辅导，但我没有用，因为我对 AI 辅导没有太大信心。我把这项服务用于其他事情。AI 辅导有用吗？它有效吗？    提交人    /u/forthaloveoff   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2ft53/sparke_ai/</guid>
+      <pubDate>Sun, 13 Oct 2024 02:26:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 10 月 12 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2enbf/oneminute_daily_ai_news_10122024/</link>
+      <description><![CDATA[ Google AI 研究人员提出精明的 RAG：一种新颖的 RAG 方法，用于处理 LLM 的不完善检索增强和知识冲突。[1] 随着 AI 黑客攻击被证实，新的 Gmail 安全警报面向 25 亿用户。[2] AI“教父”Yoshua Bengio：我们正在“创造比我们更强大的怪物”。[3] 这位 AI 先驱Yann LeCun认为 AI 比猫更笨。[4]  来源包括：https://bushaicave.com/2024/10/12/10-12-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2enbf/oneminute_daily_ai_news_10122024/</guid>
+      <pubDate>Sun, 13 Oct 2024 01:18:36 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能真的会像某些人所说的那样改变我们的生活吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2cowh/is_ai_really_going_to_change_our_lives_to_the/</link>
@@ -83,13 +104,6 @@
       <pubDate>Sat, 12 Oct 2024 13:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>ARC-AGI 挑战可能不是缺乏推理的表现，而是序列数据的限制。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g20ju3/the_arcagi_challenge_might_not_be_a_sign_of_lack/</link>
-      <description><![CDATA[因此，ARC-AGI 挑战赛被提议为记忆证明，考虑到 LLM 与人类相比在这方面面临很大困难，迄今为止最令人信服的论据是 LLM 基于记忆。但是，想想这个思维体验：盲人能解决 ARC-AGI 吗？好吧，他先听到第一幅图像中的每个色块，然后听到第二幅图像中的每个色块，然后用语言说出最终图像的模式。他必须记住所有之前说过的单词，然后想出一个模式。你可以想象，这几乎是不可能的。然而，这并不是盲人无法推理的迹象。 同样，LLM 即使有视力 也会像盲人一样处理 ARC-AGI 挑战，即：他们逐像素处理图像。这意味着，与具有视觉的人类相比，它们必须记住神经网络中所有之前传递的像素，然后给出最终输出。这与人类视觉有着根本的不同，在人类视觉中，整个画面同时到达我们的神经网络。我们处理信息的方式是并行的，而不是顺序的。当你看 ARC-AGI 挑战时，你会注意到这一点：你可以叠加两幅图像并查看模式，这是你无法用语言做到的。 因此，我认为 ARC-AGI 不是缺乏推理的标志，而是因为它们按顺序处理每个标记使任务变得更加困难。    提交人    /u/PianistWinter8293   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g20ju3/the_arcagi_challenge_might_not_be_a_sign_of_lack/</guid>
-      <pubDate>Sat, 12 Oct 2024 13:50:18 GMT</pubDate>
-    </item>
-    <item>
       <title>在我见过的所有用例中，对于外行人来说，仍然没有任何东西可以与我的电子邮件进行交互。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xvjc/of_all_the_use_cases_i_see_still_there_is_nothing/</link>
       <description><![CDATA[我前妻虐待了我好几年，离婚后又虐待了我好几年。我对这些虐待不感兴趣，我真的需要一个人工智能来私下里根据具体问题浏览我的电子邮件。     提交人    /u/mknight1701   [link] [评论]]]></description>
@@ -130,20 +144,6 @@
       <description><![CDATA[ Anthropic 首席执行官在 15,000 字的 AI 赞歌中成为技术乐观主义者。[1] OpenAI 推出了用于构建多智能体系统的框架 Swarm。[2] 澳大利亚间谍局长警告称，人工智能将加速网络激进化。[3] 阿斯顿马丁 将费尔南多·阿隆索变成了一个由人工智能驱动的功能，可以讲述最新消息。[4]  来源包括：https://bushaicave.com/2024/10/11/10-11-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1s1jr/oneminute_daily_ai_news_10112024/</guid>
       <pubDate>Sat, 12 Oct 2024 04:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>新论文或表明，当前的法学硕士可以成为一般智力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dqob/new_paper_might_show_that_current_llms_can_become/</link>
-      <description><![CDATA[我刚刚读了一篇论文（https://www.arxiv.org/abs/2410.02536），我对此进行了思考。我认为它表明当前的模型和架​​构能够从数据中获得通用智能。目前，我相信大多数对人工智能的进步持怀疑态度的人之所以持怀疑态度，是因为他们认为这些模型和架构不是通往 AGI 的道路，因为它们没有泛化；它们没有从数据中获得通用智能。相反，它们依赖于记忆，基本上在这些记忆事件之间使用某种简单的插值。这样，由于它们吸收了所有数据，它们看起来就很智能。因此，当它们遇到新问题（例如 ArcAGI 测试）时，它们无法解决。 我发现 ArcAGI 测试一开始就非常引人注目。它们似乎确实没有通用智能，而只是在记忆。但后来我看到了这篇论文，我认为它挑战了这一观点。这是因为，在这篇论文中，这些模型从自动机数据中学习，这与国际象棋完全无关。但通过从自动机数据中学习，它们在国际象棋方面变得更好。我认为只有当它们从自动机数据中获得通用智能时，这种情况才会发生。我认为它们在预测变量、解决问题、推理方面变得更好 - 无论是什么。它们从这些看似与国际象棋无关的数据中获得通用智能，并且能够更好地下国际象棋。 现在，如果它们只能记忆并进行简单的插值，学习自动机数据对它们下国际象棋没有一点帮助 - 但事实确实如此。因此，如果它们无法从数据中提取通用智能，我看不出这怎么可能。那么为什么 LLM 会在 ArcAGI 挑战中挣扎呢？嗯，我认为原因不是因为这些架构在提取通用智能方面天生就受到限制，而是因为它们更喜欢记忆而不是抽象通用智能。它们基本上看到了很多数据，而它们的参数大小与人脑相比——如果我们可以比较的话——要小得多。这使得对于 LLM 模型来说，通过记忆来解决问题比真正理解问题要高效得多。 所以我认为这是由于参数的数量、训练数据以及它们在这方面接受训练的时间长短，它们更喜欢记忆而不是推理，因为这对它们来说更有效率。但它们有能力做到这一点，正如本文所示。因此，我相信，如果我们获得与人脑相当的足够参数，并且我们给它足够的训练时间，它很可能就是 AGI。我做了一些数据分析，结果表明四年后参数大小将与人脑相当。这就是我和其他许多人对 AGI 何时到来的预测。    提交人    /u/PianistWinter8293   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dqob/new_paper_might_show_that_current_llms_can_become/</guid>
-      <pubDate>Fri, 11 Oct 2024 16:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我再次使用 Chatgpt 进行 Shroom 测试</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g13rrg/i_shroomed_with_chatgptagain/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g13rrg/i_shroomed_with_chatgptagain/</guid>
-      <pubDate>Fri, 11 Oct 2024 06:48:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
