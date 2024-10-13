@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 15:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 18:02:14 GMT</lastBuildDate>
+    <item>
+      <title>Daemon 工具的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1g2ttpg/problems_with_daemon_tools/</link>
+      <description><![CDATA[您好。今天我试图安装一些东西，但守护进程工具不知为何没有启动。Windows 给我的错误是管理员阻止了该应用程序来保护设备（这可能是一个稍微不准确的翻译，因为 PC 的语言是西班牙语。）尝试使用命令提示符，触摸 Windows Defender 中的设置，但完全不起作用。你有什么建议吗？我也无法卸载该程序，因为它给了我一个错误    提交人    /u/MooseWay08   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g2ttpg/problems_with_daemon_tools/</guid>
+      <pubDate>Sun, 13 Oct 2024 16:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为父母提供良好的恶意软件/病毒防护</title>
+      <link>https://www.reddit.com/r/software/comments/1g2t7a7/good_malwarevirus_protection_for_parents/</link>
+      <description><![CDATA[所以我为父母设置了一台新笔记本电脑。他们完全有能力知道什么是安全的，什么是不安全的。什么是好的恶意软件/病毒扫描，我可以为他们设置并忘记（付费也可以）。他们喜欢在 Facebook 上玩那些基于网络的赌场游戏，并希望尽可能地保护他们免受恶意软件的侵害。  谢谢！！！    提交人    /u/tonytony12345   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g2t7a7/good_malwarevirus_protection_for_parents/</guid>
+      <pubDate>Sun, 13 Oct 2024 16:13:16 GMT</pubDate>
+    </item>
     <item>
       <title>Canary Mail Windows App Buggy，它是测试版吗？</title>
       <link>https://www.reddit.com/r/software/comments/1g2p649/canary_mail_windows_app_buggy_is_it_in_beta/</link>
@@ -118,7 +132,7 @@
       <pubDate>Sat, 12 Oct 2024 12:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 上最好的中文离线 OCR 软件</title>
+      <title>Windows 上最好的离线中文 OCR 软件</title>
       <link>https://www.reddit.com/r/software/comments/1g1wgr1/best_ocr_softwares_offline_on_windows_for_chinese/</link>
       <description><![CDATA[windows 上最好的中文离线 OCR 软件    提交者    /u/Historical-Speech876   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g1wgr1/best_ocr_softwares_offline_on_windows_for_chinese/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我想优化我办公室的合同创建流程。是否有可用的解决方案来输入客户数据并生成预定义合同？ 我正在寻找可以帮助自动化此流程并节省时间的高效解决方案。 我期待您的想法和建议！ 此致敬意， 托比亚斯    提交人    /u/moto1112   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g1vjn9/optimizing_contract_creation/</guid>
       <pubDate>Sat, 12 Oct 2024 08:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 10 的最佳免费防火墙，且干扰性不强？</title>
-      <link>https://www.reddit.com/r/software/comments/1g1v1ac/best_free_firewall_for_windows_10_thats_not_too/</link>
-      <description><![CDATA[大家好， 我非常喜欢 TinyWall，但它几乎屏蔽了所有内容，所以我必须经常手动解除对 Discord 更新的屏蔽。你每次都必须这样做。除此之外，它很棒！我正在寻找类似但侵入性较小的东西（只阻止可疑活动的东西）。你们用什么防火墙？    提交人    /u/ibiliss   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g1v1ac/best_free_firewall_for_windows_10_thats_not_too/</guid>
-      <pubDate>Sat, 12 Oct 2024 07:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>FXsound 在启动时总是静音</title>
-      <link>https://www.reddit.com/r/software/comments/1g1u8yd/fxsound_always_muted_on_start_up/</link>
-      <description><![CDATA[每当我启动计算机时，我都会播放带有音乐的壁纸（壁纸引擎），但却没有声音，因为出于某种原因，启动时 FXsound 不会播放。为了解决这个问题，我转到声音并快速切换到我的计算机，然后快速切换回 fxsound，一切正常，一切正常。我想停止这样做，并从一开始就正确播放我的声音    提交人    /u/Reddanator1000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g1u8yd/fxsound_always_muted_on_start_up/</guid>
-      <pubDate>Sat, 12 Oct 2024 06:38:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
