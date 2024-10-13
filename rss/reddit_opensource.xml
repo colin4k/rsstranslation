@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 13 Oct 2024 18:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 21:02:23 GMT</lastBuildDate>
+    <item>
+      <title>最佳开源 O365/Google 工作区备份客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2zix0/best_open_source_o365google_workspace_backup/</link>
+      <description><![CDATA[您对此有何建议？    提交人    /u/JamesCorman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2zix0/best_open_source_o365google_workspace_backup/</guid>
+      <pubDate>Sun, 13 Oct 2024 20:51:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inkscape 推出 1.4 版本，具有强大的新可访问和可定制功能！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2xb0x/inkscape_launches_version_14_with_powerful_new/</link>
+      <description><![CDATA[Inkscape 1.4 版现已推出！新增和更新的功能包括滤镜库对话框、模块化网格、色板对话框和更多文件导入/导出选项。高级用户，这是为您准备的！阅读有关 1.4 的所有信息：https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/    提交人    /u/pulsar17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2xb0x/inkscape_launches_version_14_with_powerful_new/</guid>
+      <pubDate>Sun, 13 Oct 2024 19:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对开放后许可有何看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2x2hw/what_are_your_thoughts_on_postopen_license/</link>
+      <description><![CDATA[我一直在关注 Bruce Perens 在 Post-Open 上的工作。创建此许可证是为了尽量减少开源带来的一些问题，例如开发人员从事无偿工作。你对此有什么看法？我很想听听开源社区其他人的意见。    由    /u/LilithIsSorry   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2x2hw/what_are_your_thoughts_on_postopen_license/</guid>
+      <pubDate>Sun, 13 Oct 2024 19:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我的 OSS 项目许可证从 MIT 转换为 GPL — — 有什么想法吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2wqa1/switched_my_oss_project_license_from_mit_to_gpl/</link>
+      <description><![CDATA[大家好， 当我第一次开始我的业余项目时，只是为了好玩 — — 学习一些新东西，解决我使用本机 kubectl port-forward 时遇到的问题（并且认为它也可能对其他人有所帮助）。那时，我并没有过多考虑许可证。我看到 MIT 很受欢迎，而且非常宽松，所以我没有多想就接受了。 现在项目已经发展了一点，我意识到 MIT 并没有涵盖一些项目中困扰我的很多问题。所以我开始阅读许可证，对我来说最突出的是版权左翼许可证，比如 GPLv3。感觉它提供了更多的保护并且更符合我的价值观，所以我在这个 PR 中将项目切换到 GPLv3。 MIT 非常宽容 - 任何人都可以使用代码，甚至是公司，他们不必与社区分享任何更改。这让我感到不舒服，因为我的项目的全部意义在于保持开放和协作。使用 GPLv3，如果有人修改并重新分发代码，他们必须分享这些更改。它让开源氛围保持活力。 你们觉得怎么样？这看起来是正确的举措吗？    提交人    /u/Beginning_Dot_1310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2wqa1/switched_my_oss_project_license_from_mit_to_gpl/</guid>
+      <pubDate>Sun, 13 Oct 2024 18:48:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免地缘政治开源灾难</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g2vzjv/avoiding_a_geopolitical_open_source_apocalypse/</link>
+      <description><![CDATA[        由    /u/Hary06  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g2vzjv/avoiding_a_geopolitical_open_source_apocalypse/</guid>
+      <pubDate>Sun, 13 Oct 2024 18:15:57 GMT</pubDate>
+    </item>
     <item>
       <title>转换为 .tex 文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1g2vhil/converter_to_tex_files/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[大家好， 为了提供最好的配置、容器和堆栈管理，我刚刚通过发布🐿️ SSM 0.1.20 实现了一个重要的里程碑！ 此版本提供了一个图形界面来创建和编辑 Docker Compose 文件，允许您拖放元素或模板，并在 UI 和代码编辑器之间无缝切换。某些元素将根据您的环境自动完成！ 此外，现在可以在您的设备上以 Dockerized 版本安装代理，从而无需直接在主机上安装依赖项即可提供无缝安装过程。 我还对容器管理进行了改进，包括实时日志查看、详细的容器信息和增强的堆栈管理。 检查一下并让我知道你的想法！ https://squirrelserversmanager.io/    提交人    /u/SquirrelServers   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</guid>
       <pubDate>Sat, 12 Oct 2024 09:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 2024 年 Hacktoberfest 的 Cooklang 做出贡献！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1w4mf/contribute_to_cooklang_for_hacktoberfest_2024/</link>
-      <description><![CDATA[嘿嘿嘿 让我向您介绍Cooklang，这是一个非常适合美食爱好者和开发者的开源项目！ 什么是 Cooklang？ Cooklang 是一种轻量级、人性化、可读的标记语言，用于管理食谱。它允许用户以纯文本形式创建和存储食谱，从而轻松共享、修改和协作。 Cooklang 生态系统还包括一些工具，可将您的食谱转换为动态格式，如网页、应用或购物清单，所有这些都来自单个文件。 为什么要贡献？  Cooklang 是 100% 开源的，我们欢迎您的贡献！ 您可以从核心语言、工具、应用、文档等方面提供帮助，也可以围绕食谱管理提出自己的想法。 您的贡献可以帮助塑造人们烹饪、计划膳食和在全球范围内分享食谱的方式！  如果您喜欢烹饪和编码，请查看我们的 GitHub 组织以获取更多信息或特别是这些存储库：https://github.com/cooklang/cooklang-sync 和 https://github.com/cooklang/cooklang-import 让我们开始这个 Hacktoberfest 吧！🍲 #Hacktoberfest2024 #OpenSource #Cooklang    提交人    /u/_dubadub_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1w4mf/contribute_to_cooklang_for_hacktoberfest_2024/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Foss 是 Pocket 的替代品吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1r7jn/foss_alternative_to_pocket/</link>
-      <description><![CDATA[有什么可以在 Android 和 Web 版本上运行的吗？    提交者    /u/AkashicBird   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1r7jn/foss_alternative_to_pocket/</guid>
-      <pubDate>Sat, 12 Oct 2024 03:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有开源软件可以将多幅图像批量转换为 pdf，并带有页面边缘检测功能？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1nlqk/any_opensource_software_to_batchconvert_many/</link>
-      <description><![CDATA[我的 Android 手机上有 Microsoft 镜头可以做到这一点，但我更希望能够使用我的 Sony A6000 来实现这一点，因为质量更好。 需要澄清的是，我所说的边缘检测是指检测页面边缘并校正透视的算法。如果没有这个功能，知道解决方案还是不错的，但如果有这个功能就更好了。    提交人    /u/flying-benedictus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1nlqk/any_opensource_software_to_batchconvert_many/</guid>
-      <pubDate>Fri, 11 Oct 2024 23:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>degoogle 的最佳替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</link>
-      <description><![CDATA[我正在尝试去谷歌化，尝试用开源的、最好是免费的、多平台的、至少支持安卓的服务和应用来替代它们。 寻找谷歌提供的几乎所有智能手机必备应用的替代品。还有电子邮件服务和相关服务、云存储和其他服务…… 考虑使用 Proton、Fossify 和 Ente 应用来满足我的大部分需求。但即使它们是开源的，我也不知道它们是否安全和私密。 我听说过可以阻止 YouTube 收集大量数据的前端应用，但我不知道它们叫什么，也不知道它们是否真的有效。 总而言之，如果您已经从主要应用或服务切换到开源替代方案，我很想知道是哪些以及为什么，谢谢！   由    /u/luanmdlima  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1n5fa/best_alternatives_to_degoogle/</guid>
-      <pubDate>Fri, 11 Oct 2024 23:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些开源 EDR/XDR/类似项目可以加入？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1k8ue/open_source_edrxdrsimilar_projects_to_get_into/</link>
-      <description><![CDATA[我正在寻找一个实现 EDR/XDR/反恶意软件或类似东西的开源项目，从中我可以了解更多有关这些东西是如何制作的，然后随着时间的推移为它做出贡献。 项目的细节和保护方法对我来说不太重要。 我显然也在自己做搜索，我只是知道许多项目可能会被忽视。    提交人    /u/BubblyMango   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1k8ue/open_source_edrxdrsimilar_projects_to_get_into/</guid>
-      <pubDate>Fri, 11 Oct 2024 21:12:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
