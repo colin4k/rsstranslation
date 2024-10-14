@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 15:02:10 GMT</lastBuildDate>
+    <item>
+      <title>最好的语音转文本应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1g3fpwu/best_speechtotext_app/</link>
+      <description><![CDATA[嗨，我明天要参加一个外语面试。虽然我能说那种语言，但有时当当地人说话很快时，我听不懂一些单词。因此，我需要一个可以在面试中使用的音频到文本转换器。有什么建议吗？（我使用 Windows + Android）    提交人    /u/ugurkaslan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g3fpwu/best_speechtotext_app/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:26:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像共享软件替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1g3eiss/imagesharing_software_alternative/</link>
+      <description><![CDATA[嗨， 在过去的几个月里，我一直非常积极地从事活动摄影，经常有人问我是否愿意分享一些图片。目前，我使用 Dropbox，但由于以下原因，我不喜欢它：  共享链接很长，很神秘。 价格高。 看起来有点不专业  我真正想要的是，可以自行托管的文件共享软件在视觉上具有吸引力并且高效。我看过在线照片库，但通常这些是为了共享大量图像，而不是与特定人员共享特定图像而创建的。 我一直在寻找具有以下功能的解决方案：  高效（轻松）创建在线文件夹以共享图像/视频。 支持自定义域，例如 example.tld/gallery/someuniquesharename 支持子文件夹。 支持共享名称随机化（安全性），因此拥有链接的人无法猜测/尝试其他链接。 卓越的移动设备支持（设计）。 90% 的链接将通过手机/平板电脑访问 如果能有图片的集成预览就更好了 我不需要复杂的权限，任何有链接的人都应该能够查看和下载内容，但不能修改（上传）  如果解决方案可以自行托管，无论是作为纯粹的“网站”还是作为虚拟服务器上的某些服务，那就太理想了。我两者都有。自定义域名对于专业外观和潜在的网站访问者来说也至关重要。 有人可以推荐一款好软件吗？    提交人    /u/sgtJohnnyBear   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g3eiss/imagesharing_software_alternative/</guid>
+      <pubDate>Mon, 14 Oct 2024 12:28:18 GMT</pubDate>
+    </item>
     <item>
       <title>寻找免费（或便宜）的简历整理软件</title>
       <link>https://www.reddit.com/r/software/comments/1g3dl0d/looking_for_a_free_or_cheap_cv_organizing_software/</link>
@@ -13,7 +27,7 @@
       <pubDate>Mon, 14 Oct 2024 11:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>为什么会这样？Microsoft 商店的 WhatsApp 电脑版。不过 Android 上的消息显示正常。这只发生在这一个群聊中，所有其他群组和直接消息都正常。</title>
+      <title>为什么会这样？Microsoft 商店的 WhatsApp 电脑版。不过 Android 上的消息显示正常。这只发生在这个群聊中，其他所有群组和直接消息都正常。</title>
       <link>https://www.reddit.com/r/software/comments/1g3c98k/why_this_whatsapp_for_pc_from_the_microsoft_store/</link>
       <description><![CDATA[  由    /u/InternalVolcano  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g3c98k/why_this_whatsapp_for_pc_from_the_microsoft_store/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>正在寻找 ChatGPT/Gemini Chrome 扩展程序</title>
       <link>https://www.reddit.com/r/software/comments/1g3azns/looking_for_chatgptgemini_chrome_extension/</link>
-      <description><![CDATA[ 必须完全免费或使用我自己的 API 密钥和 openai api 覆盖 url。 必须快速自动读取当前打开页面的上下文     提交人    /u/ImMALWAREz   [link] [评论]]]></description>
+      <description><![CDATA[ 必须完全免费或者使用我自己的 API 密钥和 openai api 覆盖 url。 必须快速自动读取当前打开页面的上下文     提交人    /u/ImMALWAREz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g3azns/looking_for_chatgptgemini_chrome_extension/</guid>
       <pubDate>Mon, 14 Oct 2024 08:21:41 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[您好。今天我试图安装一些东西，但守护进程工具不知为何没有启动。Windows 给我的错误是管理员阻止了该应用程序来保护设备（这可能是一个稍微不准确的翻译，因为 PC 的语言是西班牙语。）尝试使用命令提示符，触摸 Windows Defender 中的设置，但完全不起作用。你有什么建议吗？我也无法卸载该程序，因为它给了我一个错误    提交人    /u/MooseWay08   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g2ttpg/problems_with_daemon_tools/</guid>
       <pubDate>Sun, 13 Oct 2024 16:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为父母提供良好的恶意软件/病毒防护</title>
-      <link>https://www.reddit.com/r/software/comments/1g2t7a7/good_malwarevirus_protection_for_parents/</link>
-      <description><![CDATA[所以我为父母设置了一台新笔记本电脑。他们完全有能力知道什么是安全的，什么是不安全的。什么是好的恶意软件/病毒扫描，我可以为他们设置并忘记（付费也可以）。他们喜欢在 Facebook 上玩那些基于网络的赌场游戏，并希望尽可能地保护他们免受恶意软件的侵害。  谢谢！！！    由   提交  /u/tonytony12345   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g2t7a7/good_malwarevirus_protection_for_parents/</guid>
-      <pubDate>Sun, 13 Oct 2024 16:13:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canary Mail Windows App Buggy，它是测试版吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1g2p649/canary_mail_windows_app_buggy_is_it_in_beta/</link>
-      <description><![CDATA[  由    /u/itsmeyoursmallpenis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g2p649/canary_mail_windows_app_buggy_is_it_in_beta/</guid>
-      <pubDate>Sun, 13 Oct 2024 13:02:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
