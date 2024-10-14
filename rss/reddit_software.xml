@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 06:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 09:02:04 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找 ChatGPT/Gemini Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/software/comments/1g3azns/looking_for_chatgptgemini_chrome_extension/</link>
+      <description><![CDATA[ 必须完全免费或使用我自己的 API 密钥和 openai api 覆盖 url。 必须快速自动读取当前打开页面的上下文     提交人    /u/ImMALWAREz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g3azns/looking_for_chatgptgemini_chrome_extension/</guid>
+      <pubDate>Mon, 14 Oct 2024 08:21:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>批处理文件/一次打开多个程序时出现问题</title>
+      <link>https://www.reddit.com/r/software/comments/1g3am33/trouble_with_batch_filesopening_multiple_programs/</link>
+      <description><![CDATA[嗨， 我想做的是制作一个批处理命令或类似的东西，只需双击即可同时打开多个程序。但是，我尝试运行的两个程序似乎只有第一个打开，而另一个始终没有打开 - 如果 Discord 是第一个打开的，当我关闭命令行界面时它会关闭。 我想将 Discord 作为一个程序运行，并在其上附加 --startreplaybuffer 命令来运行 OBS。所以我当前的代码看起来像这样  cd C:\Users\David\AppData\Local\Discord\app-1.0.9166 Discord.exe  cd C:\Program Files\obs-studio\bin\64bit\ obs64.exe --startreplaybuffer 退出  但是，这不起作用。如果我双击该文件位置的 Discord，它会打开。如果我双击我的 OBS 快捷方式，并在路径末尾添加 --startreplaybuffer，它会按照我想要的方式打开。但如果我尝试通过批处理文件打开两者，它就不会像我预期的那样工作。 我对此很陌生，所以我不确定我做错了什么/我可以做些什么来解决它。谢谢。     由    /u/Soeroah 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g3am33/trouble_with_batch_filesopening_multiple_programs/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:48:54 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 macOS 的优质隐藏字幕软件，支持嵌入式视频播放</title>
       <link>https://www.reddit.com/r/software/comments/1g38pbf/decent_closed_captioning_software_for_macos_with/</link>
@@ -69,7 +83,7 @@
       <pubDate>Sun, 13 Oct 2024 22:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个可以在屏幕上覆盖视频的程序（半透明）</title>
+      <title>寻找一个可以在屏幕顶部叠加视频的程序（半透明）</title>
       <link>https://www.reddit.com/r/software/comments/1g30iir/looking_for_a_program_that_will_overlay_a_video/</link>
       <description><![CDATA[我到处找过了，只找到允许我叠加图像的程序，这非常接近我想要的，但我找不到任何与视频相关的内容。我有一个 mp4 文件，我想将其完全叠加在我的游戏上，但仍然能够看到游戏本身并与之交互。    提交人    /u/CodeKat_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g30iir/looking_for_a_program_that_will_overlay_a_video/</guid>
@@ -106,7 +120,7 @@
     <item>
       <title>为父母提供良好的恶意软件/病毒防护</title>
       <link>https://www.reddit.com/r/software/comments/1g2t7a7/good_malwarevirus_protection_for_parents/</link>
-      <description><![CDATA[所以我为父母设置了一台新笔记本电脑。他们完全有能力知道什么是安全的，什么是不安全的。什么是好的恶意软件/病毒扫描，我可以为他们设置并忘记（付费也可以）。他们喜欢在 Facebook 上玩那些基于网络的赌场游戏，并希望尽可能地保护他们免受恶意软件的侵害。  谢谢！！！    由   提交  /u/tonytony12345   [link] [评论]]]></description>
+      <description><![CDATA[所以我为父母设置了一台新笔记本电脑。他们完全有能力知道什么是安全的，什么是不安全的。什么是好的恶意软件/病毒扫描，我可以为他们设置并忘记（付费也可以）。他们喜欢在 Facebook 上玩那些基于网络的赌场游戏，并希望尽可能地保护他们免受恶意软件的侵害。  谢谢！！！    提交人    /u/tonytony12345   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g2t7a7/good_malwarevirus_protection_for_parents/</guid>
       <pubDate>Sun, 13 Oct 2024 16:13:16 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我试图找到一个免费音乐播放器，它具有选择文件的一部分以无缝无限循环的功能。比如，它从头到尾播放歌曲，然后从循环点而不是开头重新开始。    提交人    /u/Jay33721   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g2khe2/looking_for_a_music_player_with_seamless_looping/</guid>
       <pubDate>Sun, 13 Oct 2024 07:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似于 Windows 10 上的“电影和电视”应用的视频库播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1g2fn44/a_video_library_player_akin_to_films_and_tv_app/</link>
-      <description><![CDATA[正如标题所述，我想要一个可以浏览我的视频文件夹的应用程序，该文件夹本身包含各种视频文件夹。     提交人    /u/ObscureArcana   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g2fn44/a_video_library_player_akin_to_films_and_tv_app/</guid>
-      <pubDate>Sun, 13 Oct 2024 02:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cw chromebook</title>
-      <link>https://www.reddit.com/r/software/comments/1g2f7k9/cw_chromebook/</link>
-      <description><![CDATA[因为当我尝试移除 wp 时，我收到消息 wp 无法因 windbond 闪存芯片电压存在而禁用，因为我的 Chromebook 没有螺丝，只能通过移除充电器来移除    提交人    /u/Zealousideal-Mail495   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g2f7k9/cw_chromebook/</guid>
-      <pubDate>Sun, 13 Oct 2024 01:51:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
