@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 14 Oct 2024 18:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 21:02:11 GMT</lastBuildDate>
+    <item>
+      <title>从头开始的 Minecraft 服务器正在寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3oqfw/minecraft_server_from_scratch_looking_for/</link>
+      <description><![CDATA[您好，我使用 Rust 语言从头开始开发了一个 Minecraft 服务器。 它非常高效和快速，还提供普通服务器所没有的功能。 我目前正在寻找贡献者，如果你有兴趣请查看： https://snowiiii.github.io/Pumpkin/ https://github.com/Snowiiii/Pumpkin    提交人    /u/Alex_Medvedev_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3oqfw/minecraft_server_from_scratch_looking_for/</guid>
+      <pubDate>Mon, 14 Oct 2024 19:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>L4 贡献者：前端优化 + 后端组织和测试</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3oqfk/l4_contributors_frontend_polish_backend/</link>
+      <description><![CDATA[我们这个很酷的小项目一直没有找到人来提供精致的用户界面（从基本的 HTML 开始）并组织 Python 后端代码以及包括一些测试。  除此之外，我们还有 7 个未分配的开放问题，而且由于我们正在为 v1.0 做准备，您的帮助将大有帮助。由于当前贡献者的盘子已经满了，这些问题已经过时了一段时间，我想在这里试试运气，看看是否有人会感兴趣！  如果您想处理这些问题或我们遇到的任何其他开放问题，请告诉我。非常感谢    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3oqfk/l4_contributors_frontend_polish_backend/</guid>
+      <pubDate>Mon, 14 Oct 2024 19:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 戏剧性事件如何影响您对为企业环境推荐开源解决方案的看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3oed2/how_does_the_wordpress_drama_impact_your_view_on/</link>
+      <description><![CDATA[Matt Mullenweg 和 WP Engine 之间最近的争议引发了人们对个人或实体对主要开源项目的控制权的严重担忧。作为一名 CIO，这种情况让我重新思考我的开源策略，尤其是当 WordPress 等关键技术的方向可能因个人决定而发生巨大改变时。 考虑到潜在风险，您是否正在重新考虑您对企业领域开源解决方案的建议？在确定是否采用开源解决方案时，您会权衡哪些因素？您如何确保长期的治理、稳定性和许可一致性？让我们讨论这场闹剧对企业环境中开源的影响，并分享在利用开源优势的同时降低风险的最佳实践。 期待听到技术领导者、开发人员和开源倡导者的意见！ https://www.theverge.com/2024/10/4/24262410/wordpress-fight-trademarks-open-source-mullenweg  https://www.reddit.com/r/Wordpress/comments/1g2jo1j/explain_me_the_wordpress_drama_like_im_5/  https://world.hey.com/dhh/automattic-is-doing-open-source-dirty-b95cf128    提交人    /u/k0mi55ar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3oed2/how_does_the_wordpress_drama_impact_your_view_on/</guid>
+      <pubDate>Mon, 14 Oct 2024 19:27:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>大屏幕开源手机</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3nc9h/large_screen_open_source_phones/</link>
+      <description><![CDATA[我没有看到任何可用的大屏幕开源手机：https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones 为什么他们不为开源手机选择更大的屏幕？这些小屏幕爱好者是谁？我发现最大的屏幕是 voda phone 的 6.3 英寸（19/9.5 比例）显示屏。    提交人    /u/mekineer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3nc9h/large_screen_open_source_phones/</guid>
+      <pubDate>Mon, 14 Oct 2024 18:44:28 GMT</pubDate>
+    </item>
     <item>
       <title>PcapPlusPlus v24.09 发布 - 用于捕获和分析网络数据包的 C++ 库</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3kgo5/pcapplusplus_v2409_released_c_library_for/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>GPL 精神与实际使用情况？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3h85y/spirit_of_gpl_vs_actual_usage/</link>
-      <description><![CDATA[我只想问一下，如果有人将宽松的许可证分叉为 GPL 并且不返回更改，您对这种情况有何看法。 例如 LXD 和 Incus 项目。 LXD：https://github.com/canonical/lxd Incus：https://github.com/lxc/incus 最初有一个名为 LXD 的项目在 Apache 2 许可证下开发。由 Canonical 支持，但作为 LinuxContainers 项目的一部分进行开发。 然后 Canonical 改变了对许可的想法，并希望将 LXD 更多地纳入内部。 这导致了 Incus 和 LXD 的分裂。 LXD 由 Canonical 在 CLA 和 AGPL 许可下开发。 Incus 继续由 LinuxContainers 项目开发，并且遵循 Apache 2。 更多信息：https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/ 目前的情况是，LXD 只采用 Incus 做出的任何有用的改进，但 Incus 不能从 LXD 中获取任何东西。 这似乎不公平。 GPL 许可证的全部目的难道不就是为了回馈更改吗？但在这种情况下使用了 AGPL，因此原始项目无法收回任何更改。GPL 的全部含义是您不能限制软件的使用，但在这里使用 AGPL 会限制使用代码改进原始软件的能力。 这完全符合这些许可证的文字规定，但似乎不符合其精神。 对这种情况有什么看法？ 这似乎是开源许可证的固有缺陷。    提交人    /u/Simple-Minute-5331   [链接] [评论]]]></description>
+      <description><![CDATA[我只想问一下，如果有人将宽松的许可证分叉为 GPL 并且不返回更改，您对这种情况有何看法。 例如 LXD 和 Incus 项目。 LXD：https://github.com/canonical/lxd Incus：https://github.com/lxc/incus 最初有一个名为 LXD 的项目在 Apache 2 许可证下开发。由 Canonical 支持，但作为 LinuxContainers 项目的一部分进行开发。 然后 Canonical 改变了对许可的想法，并希望将 LXD 更多地纳入内部。 这导致了 Incus 和 LXD 的分裂。 LXD 由 Canonical 在 CLA 和 AGPL 许可下开发。 Incus 继续由 LinuxContainers 项目开发，并且遵循 Apache 2。 更多信息：https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/ 目前的情况是，LXD 只采用 Incus 做出的任何有用的改进，但 Incus 不能从 LXD 中获取任何东西。 这似乎不公平。 GPL 许可证的全部目的难道不就是为了回馈更改吗？但在这种情况下使用了 AGPL，因此原始项目无法收回任何更改。GPL 的全部含义是您无法限制软件的使用，但在这里使用 AGPL 会限制使用代码改进原始软件的能力。 这完全符合这些许可证的文字规定，但似乎不符合其精神。 对这种情况有什么看法？ 这似乎是开源许可证的固有缺陷。    提交人    /u/Simple-Minute-5331   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g3h85y/spirit_of_gpl_vs_actual_usage/</guid>
       <pubDate>Mon, 14 Oct 2024 14:34:04 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我正在寻找一个转换器，可以将照片和 pdf 文件转换为 .tex 文件（当然是用 LaTeX 编写的）。 有人能帮我吗？    提交人    /u/SnooWalruses1700   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g2vhil/converter_to_tex_files/</guid>
       <pubDate>Sun, 13 Oct 2024 17:53:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能向非开发人员解释一下 LGPL 和 MPL 之间的区别吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2sprd/could_anyone_explain_the_difference_between_lgpl/</link>
-      <description><![CDATA[我不是软件开发人员，但我对流行的 FOSS 许可证有基本的了解。我认为我对弱版权 (LGPL、MPL) 和强版权 (GPL、AGPL) 许可证之间的区别有一个模糊的了解，但我不确定弱版权许可证之间的主要区别。是否可以向非开发人员总结 LGPL 和 MPL 之间的主要区别，也许使用类比？或者理解这种细微差别是否需要只有软件开发人员才具备的先决知识？    提交人    /u/GoodMaterial5517   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2sprd/could_anyone_explain_the_difference_between_lgpl/</guid>
-      <pubDate>Sun, 13 Oct 2024 15:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 LGPL 许可文件的一部分复制粘贴到 Python 库中</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2sloe/copypasting_a_part_of_lgpllicensed_file_into/</link>
-      <description><![CDATA[我想将 LGPLv3 许可文件的一部分复制到 Python 库中。所述文件：https://github.com/openbabel/openbabel/blob/master/data/SMARTS_InteLigand.txt。我想复制其中包含的 SMARTS 模式（化学结构定义），但不包含注释、附加信息等，仅包含结构定义列表（当然保留对原作者的归属）。它将是一个 Python 字符串列表，用户可以随时更改它。生成的库将采用 MIT 许可。  我必须将任何东西变成 LGPL 吗？即，公开可用的化学定义列表是否受版权保护？我知道它们可以申请专利，但如果我理解正确的话，这是另一回事。 如果我只将文件中经过大量编辑的部分（只有部分定义，没有注释等）复制到 Python 脚本中，该脚本与库的其余部分一起分发，我是否必须在 LGPL 下分发该脚本？ 这会如何影响库的其余部分？例如，如果单个脚本中只有一个类包含该材料，整个库是否需要获得 LGPL 许可？     提交人    /u/qalis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2sloe/copypasting_a_part_of_lgpllicensed_file_into/</guid>
-      <pubDate>Sun, 13 Oct 2024 15:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术创新使藏语成为数字世界的一流公民 [LibreOffice]</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2r8h5/tech_innovations_to_make_the_tibetan_language_a/</link>
-      <description><![CDATA[        由    /u/buovjaga 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2r8h5/tech_innovations_to_make_the_tibetan_language_a/</guid>
-      <pubDate>Sun, 13 Oct 2024 14:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个开源 CLI，帮助您轻松设置项目树</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2f8tg/an_open_source_cli_to_help_set_up_project_trees/</link>
-      <description><![CDATA[大家好！👋 我刚刚制作了 mkproj，这是一个交互式 CLI 工具，可帮助您轻松设置项目树。我创建它是因为我厌倦了手动组织项目文件夹，这太乏味了！另外，我第一次尝试使用 Go，我想，为什么不解决我自己的问题呢？ mkproj 可让您以直观的方式快速创建、可视化和修改项目结构。它非常简单，对我帮助很大，所以我想它也可能对其他人有所帮助！ 如果您想尝试甚至协作，您可以在这里找到它：GitHub 上的 mkproj。我很乐意听取您的想法、反馈或贡献，以帮助进一步改进它！ 非常感谢，我迫不及待地想听听您的想法！    提交人    /u/jobehi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2f8tg/an_open_source_cli_to_help_set_up_project_trees/</guid>
-      <pubDate>Sun, 13 Oct 2024 01:53:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
