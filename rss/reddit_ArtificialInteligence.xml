@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 21:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 00:03:41 GMT</lastBuildDate>
+    <item>
+      <title>工作保障</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g31m6k/job_security/</link>
+      <description><![CDATA[大家好。 首先我想说，我是来和平的，因为我知道这是一个有争议的话题。 我不断看到关于人工智能抢走我们工作的新闻头条，无论是地方新闻还是全国新闻。这对我的影响更严重，因为我的财务状况无法承受失去工作。更具体地说，我是美国中西部的一名全职消防员。我的消防伙伴们说我疯了，竟然会想到这些事情；但我想在 Reddit 上问问专家。 你们都觉得怎么样？我应该担心吗？    提交人    /u/Blue_Blueberry5402   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g31m6k/job_security/</guid>
+      <pubDate>Sun, 13 Oct 2024 22:31:04 GMT</pubDate>
+    </item>
     <item>
       <title>我为 Windows 制作了 Apple Intelligence Writing Tools 的改进版！它是开源且免费的，并使用了 Gemini API :D</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2zfx7/i_made_a_better_version_of_the_apple_intelligence/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>专用机器学习硬件设置</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2rovn/dedicated_ml_hardware_setup/</link>
-      <description><![CDATA[嘘，从哪里开始呢。 我已经到了需要专用 PC / 服务器设置电脑室的地步，用于我的 AI 任务、NLP、从文档中提取信息、摘要和可能的 LLM 微调。它们不会是任何 AI 图像生成或类似的东西。起初，它将用于我个人能力范围内的训练，目的是让它变得更有价值。 我面临的问题是，我是否应该获得一台普通的顶级规格 gen pop PC 还是获得一台专用的服务器。 AMD 7950x3D 带双 GPU 插槽的华硕 x670E 主板。 192 gig DDR 5 6600mhz ram 2x 4TB Gen 4 NVME 驱动器。 通过 10G 接口在外部 NAS 中的 4x 8TB SSD。 1200w 白金 PSU 7x noctua 3000 rpm 机箱风扇 Noctua NH15 CPU 冷却器，因为我不想让水靠近 TPU。 RTX 6000 Ada 48 gig TPU。现在 或者有 4 个 GPU 插槽可用的专用服务器，现在我将只使用 1 个 TPU，并在使用过程中添加更多 TPU。 RTX 6000 Ada 48 gig EPYC 9654 3.7 ghz（96 核） 768 gig ddr5 ECC 4600mhz 2x 8TB nvme（我仍然会有外部 NAS 存储） 两种设置之间的价格差异约为 6000 欧元，作为个人设置，这是一个巨大的差异。 专用 PC 构建的升级空间非常有限，而服务器仍然有很多空间。 所以问题是，以前有人遇到过这种情况吗，你有什么建议？ 我的服务器设置是否对于文档数据提取来说太极端了， ocr 和 NLP 任务，可处理大量文档，并有可能或很好地运行 LLM 我是否对服务器规格要求过高，我只需要一些关于最佳方法的建议。在这里犯错会付出高昂的代价，作为个人（而不是公司），我希望在这里获得最大的收益。 如果这里的专家能提供任何建议，我将不胜感激。    提交人    /u/Captain_Schwanz   [link] [评论]]]></description>
+      <description><![CDATA[嘘，从哪里开始呢。 我已经到了需要专用 PC / 服务器设置电脑室的地步，用于我的 AI 任务、NLP、从文档中提取信息、摘要和可能的 LLM 微调。它们不会是任何 AI 图像生成或类似的垃圾。起初，它将用于我个人能力范围内的训练，目的是让它变得更有价值。 我面临的问题是，我是否应该获得一台普通的顶级规格 gen pop PC 还是获得一台专用的服务器。 AMD 7950x3D 带双 GPU 插槽的华硕 x670E 主板。 192 gig DDR 5 6600mhz ram 2x 4TB Gen 4 NVME 驱动器。 通过 10G 接口在外部 NAS 中的 4x 8TB SSD。 1200w 白金 PSU 7x noctua 3000 rpm 机箱风扇 Noctua NH15 CPU 冷却器，因为我不想让水靠近 TPU。 RTX 6000 Ada 48 gig TPU。现在 或者有 4 个 GPU 插槽可用的专用服务器，现在我将只使用 1 个 TPU，并在使用过程中添加更多 TPU。 RTX 6000 Ada 48 gig EPYC 9654 3.7 ghz（96 核） 768 gig ddr5 ECC 4600mhz 2x 8TB nvme（我仍然会有外部 NAS 存储） 两种设置之间的价格差异约为 6000 欧元，作为个人设置，这是一个巨大的差异。 专用 PC 构建的升级空间非常有限，而服务器仍然有很多空间。 所以问题是，以前有人遇到过这种情况吗，你有什么建议？ 我的服务器设置是否对于文档数据提取来说太极端了， ocr 和 NLP 任务，可处理大量文档，并有可能或很好地运行 LLM 我是否对服务器规格要求过高，我只需要一些关于最佳方法的建议。在这里犯错会付出高昂的代价，作为个人（而不是公司），我希望在这里获得最大的收益。 如果这里的专家能提供任何建议，我将不胜感激。    提交人    /u/Captain_Schwanz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2rovn/dedicated_ml_hardware_setup/</guid>
       <pubDate>Sun, 13 Oct 2024 15:05:59 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>人类的人工智能克隆</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2gd67/ai_clones_of_humans/</link>
-      <description><![CDATA[https://beyond.ubc.ca/ai-clones-made-from-user-data-pose-uncanny-risks/ https://en.m.wikipedia.org/wiki/Upload_(TV_series) 不是危言耸听，而是我在查看信息时，有了一个想法。 如果现在可以创建人类的人工智能克隆，那么它们可以从社交媒体帖子、购物习惯和客户服务互动、聊天机器人数据、法学硕士对话、电话对话或任何其他个人数据库中提取出来。  公司、政府或其他团体在未经同意的情况下创建了这些，我不知道它是否以这种方式被使用，但在某些情况下，它可用于运行场景并给出可能执行 X 评分系统。理论上，这一切都可以在未经任何人同意的情况下完成。 其他场景包括更换电影中的演员，伟大的科学家和知识分子可以继续创造，客户服务可以被完全取代，我们可以将人工智能人类克隆人送入太空而不是真正的人类，医疗场景可以高速运行以提供疾病或其他问题的可能性。 个人肖像的出售已经发生，我认为以 UBI 或版税类型的系统作为交换可能是可行的。一家公司创建人工智能人类克隆家谱也是可能的，这样你就可以保留自己的肖像在家庭中传承，与自己未来的家庭成员交谈。 虽然今天的克隆是有限的，但收集到的数据可以在你死后的任何时间使用，有了足够的数据点，就有可能模拟更大规模的人群互动。    提交人    /u/onedoesnotjust   [link] [评论]]]></description>
+      <description><![CDATA[https://beyond.ubc.ca/ai-clones-made-from-user-data-pose-uncanny-risks/ https://en.m.wikipedia.org/wiki/Upload_(TV_series) 不是危言耸听，而是我在查看信息时，有一个想法。 如果现在可以创建人类的人工智能克隆，那么它们可以从社交媒体帖子、购物习惯和客户服务互动、聊天机器人数据、法学硕士对话、电话对话或任何其他个人数据库中提取出来。  公司、政府或其他团体在未经同意的情况下创建了这些，我不知道它是否以这种方式被使用，但在某些情况下，它可用于运行场景并给出可能执行 X 评分系统。理论上，这一切都可以在未经任何人同意的情况下完成。 其他场景包括更换电影中的演员，伟大的科学家和知识分子可以继续创造，客户服务可以被完全取代，我们可以将人工智能人类克隆人送入太空而不是真正的人类，医疗场景可以高速运行以提供疾病或其他问题的可能性。 个人肖像的出售已经发生，我认为以 UBI 或版税类型的系统作为交换可能是可行的。一家公司创建人工智能人类克隆家谱也是可能的，这样你就可以保留自己的肖像在家庭中传承，与自己未来的家庭成员交谈。 虽然今天的克隆是有限的，但收集到的数据可以在你死后的任何时间使用，有了足够的数据点，就有可能模拟更大规模的人群互动。    提交人    /u/onedoesnotjust   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2gd67/ai_clones_of_humans/</guid>
       <pubDate>Sun, 13 Oct 2024 02:59:17 GMT</pubDate>
     </item>
@@ -123,13 +130,6 @@
       <description><![CDATA[Yann LeCun 助力催生了当今的人工智能热潮。但他认为许多专家都夸大了人工智能的力量和危险，他希望人们知道这一点。 尽管许多著名技术专家一致认为，我们即将拥有超越人类智能的计算机——甚至可能取代人类智能——但 LeCun 却积极地成为人工智能热潮中最有资质的怀疑论者。 在社交媒体、演讲和辩论中，这位大学教授和 Meta 平台 META 增长 1.05%；绿色向上三角形 这位人工智能大师与那些大谈生成式人工智能超人潜力的支持者和预言家展开了激烈争论，其中既有埃隆·马斯克，也有 LeCun 的两位同行先驱，他们与 LeCun 共同享有该领域“教父”的非官方头衔。其中包括杰弗里·辛顿 (Geoffrey Hinton)，他是我近 40 年的挚友，周二他荣获诺贝尔物理学奖，并多次警告人工智能的生存威胁。 https://www.wsj.com/tech/ai/yann-lecun-ai-meta-aa59e2f5?mod=googlenewsfeed&amp;st=ri92fU    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2bpjp/this_ai_pioneer_thinks_ai_is_dumber_than_a_cat/</guid>
       <pubDate>Sat, 12 Oct 2024 22:38:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不久的将来，当人工智能和量子计算协同工作时，人们在家里使用人工智能将会做哪些最糟糕、最成问题的事情？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g27sl4/what_are_some_of_the_worst_and_most_problematic/</link>
-      <description><![CDATA[学校作业 - 嗯，我们已经到了这一步。我知道有些孩子已经有人替他们写论文和其他作业了。我不知道他们怎么从来没有被抓到过。 还有色情。我们认为我们现在有问题了。人们将能够拍摄任何图像或真实的人，并将那个人放入色情场景中。几乎可以肯定的是，在未来十年内，人们将能够在家中做到这一点。执法部门和政府应该现在就想办法解决这个问题。 为了政治目的制造虚假信息 - 再次，我们认为我们现在有问题了。等等。 尽管有些应用显然很有用，但人工智能实际上可能会让我们的生活变得更糟。    提交人    /u/georgewalterackerman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g27sl4/what_are_some_of_the_worst_and_most_problematic/</guid>
-      <pubDate>Sat, 12 Oct 2024 19:27:35 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是一种非常擅长猜测的计算机。</title>

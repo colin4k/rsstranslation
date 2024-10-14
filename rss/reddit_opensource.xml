@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 13 Oct 2024 21:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 00:04:17 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 统计模块</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g32xyu/a_github_stats_module/</link>
+      <description><![CDATA[      不久前，我看到有人在个人资料中显示了他们的 GitHub 统计数据，我认为这很不错整洁。他们使用的服务要求您使用他们的服务或托管您自己的版本，而我并不是很喜欢。  相反，轻量级 GitHub 统计信息仅使用两样东西。python 脚本和 GitHub Actions/Pages。  python 脚本用于访问 GitHub API 以获取用户个人资料和存储库数据并生成图像。可以手动运行它以查看图像的外观并通过其设置对其进行自定义。  然后，该操作获取此图像并将其托管在 GitHub 页面上，供您在任何地方使用。它还默认使用 cron 每周重新生成一次统计信息图像。  理想情况下，最终用户所要做的就是分叉存储库，告诉 GitHub 页面从操作构建并手动运行操作本身一次以使整个过程正常工作。README 包含有关设置和运行它的更多信息。  一开始设置起来有点麻烦，但除此之外，它基本上是一个无需动手的系统，可以跟踪您的统计数据，对此我感到有点自豪。由于它也使用 python 生成图像，因此您可以在我设置的基本主题和间距之外以任何您想要的方式自定义最终结果。  https://github.com/Sharkgrammer/Lightweight-GitHub-Stats    提交人    /u/Boopshark   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g32xyu/a_github_stats_module/</guid>
+      <pubDate>Sun, 13 Oct 2024 23:38:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道是否存在 Windows Mixed Reality 的开源替代品吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g30ctg/anyone_know_if_an_open_source_alternative_to/</link>
+      <description><![CDATA[我有一台 Reverb G2，随着 WMR 的停产和移除，它很可能会变成一块昂贵的电子垃圾。我不希望这种情况发生。有人知道我和其他拥有 WMR 设备的人是否可以用什么东西继续使用它们吗？    提交人    /u/Latey-Natey   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g30ctg/anyone_know_if_an_open_source_alternative_to/</guid>
+      <pubDate>Sun, 13 Oct 2024 21:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>最佳开源 O365/Google 工作区备份客户端</title>
       <link>https://www.reddit.com/r/opensource/comments/1g2zix0/best_open_source_o365google_workspace_backup/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/lupsikpupsik   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g21nj6/a_powerful_python_library_for_creating_aipowered/</guid>
       <pubDate>Sat, 12 Oct 2024 14:44:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastodon 4.3</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1x13q/mastodon_43/</link>
-      <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1x13q/mastodon_43/</guid>
-      <pubDate>Sat, 12 Oct 2024 10:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建最佳配置和容器管理器：Squirrel Servers Manager (SSM) - V0.1.20 发布 - 现在带有 DockerCompose 文件的可视化编辑器。（免费、开源）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</link>
-      <description><![CDATA[大家好， 为了提供最好的配置、容器和堆栈管理，我刚刚通过发布🐿️ SSM 0.1.20 实现了一个重要的里程碑！ 此版本提供了一个图形界面来创建和编辑 Docker Compose 文件，允许您拖放元素或模板，并在 UI 和代码编辑器之间无缝切换。某些元素将根据您的环境自动完成！ 此外，现在可以在您的设备上以 Dockerized 版本安装代理，从而无需直接在主机上安装依赖项即可提供无缝安装过程。 我还对容器管理进行了改进，包括实时日志查看、详细的容器信息和增强的堆栈管理。 检查一下并让我知道你的想法！ https://squirrelserversmanager.io/    提交人    /u/SquirrelServers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:11:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
