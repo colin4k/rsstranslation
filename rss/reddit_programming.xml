@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 14 Oct 2024 21:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 00:03:56 GMT</lastBuildDate>
+    <item>
+      <title>完全由 Zig 编写的操作系统可以通过网络启动另一个只运行 doom 的 zig 操作系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3uhz2/fully_zigwritten_os_can_netboot_another_zig_os/</link>
+      <description><![CDATA[我一直在学习代码在越来越低的层次上是如何工作的，不久前我开始了一个业余项目，用纯粹的 zig 作为唯一的外部编译器，构建一个操作系统和可用的程序。  我已经到了用 zig 在我的 jank shell 中编写自己的 coreutils/busybox 小程序的地步。我编写了一个名为 booter 的服务器，它运行一个 dhcp 和一个我用 zig 编写的 http 服务器，它响应 dhcp 请求，并响应启动内置在启动器服务器中的 doom os。 我的想法是，我可以拥有一个无状态的 kubernetes 集群，其中零配置存在于裸机上。    提交人    /u/ProgrammingAllar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3uhz2/fully_zigwritten_os_can_netboot_another_zig_os/</guid>
+      <pubDate>Mon, 14 Oct 2024 23:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 3.13 发布，主要特性概述</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3szag/python_313_release_an_overview_of_its_major/</link>
+      <description><![CDATA[  由    /u/janodusho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3szag/python_313_release_an_overview_of_its_major/</guid>
+      <pubDate>Mon, 14 Oct 2024 22:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bearer 计划的奇怪“案例”</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3sa3k/the_curious_case_of_the_bearer_scheme/</link>
+      <description><![CDATA[  由    /u/robertinoc  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3sa3k/the_curious_case_of_the_bearer_scheme/</guid>
+      <pubDate>Mon, 14 Oct 2024 22:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试覆盖率毫无意义</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3r7hi/test_coverage_is_meaningless/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3r7hi/test_coverage_is_meaningless/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>兄弟，别再写那些代码了！</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3qwqm/dude_stop_writing_that_code/</link>
+      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3qwqm/dude_stop_writing_that_code/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我今天的网络体验</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3qw7a/how_i_experience_web_today/</link>
+      <description><![CDATA[  由    /u/pakoito  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3qw7a/how_i_experience_web_today/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:10:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员咖啡馆</title>
+      <link>https://www.reddit.com/r/programming/comments/1g3qqh7/the_coder_cafe/</link>
+      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g3qqh7/the_coder_cafe/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:03:49 GMT</pubDate>
+    </item>
     <item>
       <title>惩罚判决：如何在不牺牲专业性的情况下将应用程序游戏化，但又能增加用户的注意力？</title>
       <link>https://www.reddit.com/r/programming/comments/1g3qnkt/penalty_verdict_how_to_gamify_the_app_without/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/nicoconut15  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g3dsef/this_is_why_i_think_java_is_one_of_the_best/</guid>
       <pubDate>Mon, 14 Oct 2024 11:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握 Next.js 应用目录结构（2024 版）</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9wj/mastering_nextjs_app_directory_structure_2024/</link>
-      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9wj/mastering_nextjs_app_directory_structure_2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.12 与 Python 3.13 – 性能测试。在搭载 AMD Ryzen 7000 系列和第 13 代 Intel Core 处理器的台式机、笔记本电脑或迷你电脑上，共进行了 100 项各种基准测试。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9iq/python_312_vs_python_313_performance_testing_a/</link>
-      <description><![CDATA[  由    /u/DataQuality  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9iq/python_312_vs_python_313_performance_testing_a/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法从源代码构建 7-Zip 的优化版本</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9ib/the_optimised_version_of_7zip_cant_be_built_from/</link>
-      <description><![CDATA[  由    /u/Xaneris47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9ib/the_optimised_version_of_7zip_cant_be_built_from/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码审查反模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d5z2/code_review_antipatterns/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d5z2/code_review_antipatterns/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 AWS 上使用 Grafana、OpenTelemetry、Fluent Bit 和 Prometheus 启动 Kubernetes 集群</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3czpb/launch_kubernetes_cluster_with_grafana/</link>
-      <description><![CDATA[  由    /u/neifn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3czpb/launch_kubernetes_cluster_with_grafana/</guid>
-      <pubDate>Mon, 14 Oct 2024 10:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Poly Monorepos 与 Nx</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3cnnk/poly_monorepos_with_nx/</link>
-      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3cnnk/poly_monorepos_with_nx/</guid>
-      <pubDate>Mon, 14 Oct 2024 10:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>多个目标的外部部署</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3cgg8/implementaciones_externas_para_varios_destinos/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3cgg8/implementaciones_externas_para_varios_destinos/</guid>
-      <pubDate>Mon, 14 Oct 2024 10:16:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
