@@ -4,13 +4,34 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 03:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:02:06 GMT</lastBuildDate>
     <item>
-      <title>刻录视频到 DVD 的最佳文件质量是多少？</title>
-      <link>https://www.reddit.com/r/software/comments/1g3x14a/best_file_quality_for_burning_videos_to_dvd/</link>
-      <description><![CDATA[我想将一些视频刻录到 DVD 上，但我不知道应该将质量设为 720p 还是 480p。谷歌根本没有帮助，我想确保在空白 DVD 上使用最高质量，但我不想使用 720p 视频在光盘上占用太多存储空间！谢谢！    提交人    /u/waldorfirl   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g3x14a/best_file_quality_for_burning_videos_to_dvd/</guid>
-      <pubDate>Tue, 15 Oct 2024 02:04:31 GMT</pubDate>
+      <title>很棒的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1g408kn/awesome_software/</link>
+      <description><![CDATA[大家好， 我想分享我的新并列第一软件，我很惊讶我之前没有找到它（以及“Everything”）： PDFGear。 天哪，你知道我使用烦人的在线工具和免费试用版签署 PDF、转换它们、编辑它们等多长时间了吗？而且 Adob​​e 最近对这些功能的定价太高了。谢谢 PDFGear，你救了我，你的护眼设置也很难用。顺便说一下，是免费的。 如果其他人有提高工作效率的建议，请告诉我！    提交人    /u/Lennmate   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g408kn/awesome_software/</guid>
+      <pubDate>Tue, 15 Oct 2024 05:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>转录流媒体视频。</title>
+      <link>https://www.reddit.com/r/software/comments/1g407rj/transcribing_a_streaming_video/</link>
+      <description><![CDATA[大家好。我有记笔记的习惯，这些笔记是关于我想学习的东西的视频。现在我正在一个叫做 The Great Courses Plus 的网站上看一门课程。我突然想到，与其看完整个视频然后试着把东西记下来，也许有软件可以做同样的事情。 现在，我确实花了一些时间寻找可以做到这一点的软件，而且确实有，但前提是你有文件。或者说，我找不到不需要上传文件就可以工作的软件。有谁知道有什么可以做到这一点吗？我正在看的网站有他们的课程的工作簿，但这些工作簿可能时好时坏，这取决于课程，我真的想要一些可以浏览的笔记。 任何帮助都将不胜感激。感谢您花时间阅读本文。    提交人    /u/timeformegaman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g407rj/transcribing_a_streaming_video/</guid>
+      <pubDate>Tue, 15 Oct 2024 05:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>操你个 Adob​​e</title>
+      <link>https://www.reddit.com/r/software/comments/1g3z2jo/fuck_you_adobe/</link>
+      <description><![CDATA[为什么 Adob​​e 要收费签署该死的 pdf，然后下载该死的 McAfee     提交人    /u/my_philosophy24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g3z2jo/fuck_you_adobe/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库文档如何帮助我作为一名新开发人员</title>
+      <link>https://www.reddit.com/r/software/comments/1g3yu6r/how_database_documentation_help_me_as_a_new_dev/</link>
+      <description><![CDATA[大家好， 我想分享一些使用 dbdocs.io 进行数据库文档编制的经验。作为一个在团队中工作的人，开发人员、数据库管理员和项目经理之间的沟通是关键，拥有清晰且结构化的数据库文档是改变游戏规则的关键。 在使用 dbdocs 之前，我们用一堆乱七八糟的电子表格和零散的笔记来记录我们的数据库架构。这很难维护，任何架构更改都会导致团队成员之间无休止的来回沟通。正是在那时，我们决定尝试 dbdocs 和 DBML（数据库标记语言），老实说，这让我们耳目一新。 下面简要介绍一下它的工作原理以及它对我们如此有帮助的原因：  轻松设置：安装 dbdocs 和 DBML 无需花费时间。只需几个命令，我们就能生成不仅干净而且可以通过简单链接共享的数据库文档。 自动更新：我们将 dbdocs 集成到我们的 CI/CD 管道中，因此数据库文档会随着每次新的更改而自动更新。这真是救星，尤其是在快速移动的项目中。 协作：由于 dbdocs 提供了可共享的链接，我们的非技术团队成员可以轻松访问和了解数据库结构。不再对数据的存储和链接方式感到困惑！ 版本控制：最酷的功能之一是跟踪架构随时间的变化。我们可以回顾发生了什么变化以及为什么发生，这有助于我们避免在更新过程中出现意外惊喜。 自定义：我们可以在 DBML 文件中添加描述、注释和关系。这就像拥有一个随数据库一起演变的活文档。  使用 dbdocs 确实改善了我们团队处理数据库文档的方式。它简单、直观，非常适合任何想要保持井然有序并保持团队协调一致的人。 如果您在数据库文档方面遇到困难，我强烈建议您尝试一下 dbdocs。这对我们来说是一个改变游戏规则的过程。 P/S：我在那里工作，所以我可能有点偏见 - 但它确实让我们的工作流程顺畅了很多！ 干杯！    提交人    /u/patricknewyen   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g3yu6r/how_database_documentation_help_me_as_a_new_dev/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:40:34 GMT</pubDate>
     </item>
     <item>
       <title>使用 Inland Gaming 鼠标 gm-76 滚动时出现问题</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨，我想知道这里有没有人知道在手机上使用宏的方法，这样我就可以在一夜之间自动离开游戏，如果你知道的话请告诉我，谢谢，不知道该放什么作为标签，所以我随机选择了    提交人    /u/Ok-Amoeba-94   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g32xcl/mobile_macro/</guid>
       <pubDate>Sun, 13 Oct 2024 23:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于选择要批量发送电子邮件的人员的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1g32pa6/software_for_selecting_people_to_batch_email_to/</link>
-      <description><![CDATA[我是一名教师，我们昂贵的学生管理系统竟然没有这个功能，这真是太荒谬了。我需要的只是一种方法来选择我想向其发送批量电子邮件的特定学生。假设这些学生没有通过课程。我想选择 5 名学生或其他学生，然后只向他们的父母发送一封普通电子邮件。我们系统中唯一的功能是向所有父母发送批量电子邮件，这不是我想要的。我可以浏览所有电子邮件并删除我不想发送的电子邮件，但我不知道哪个家长电子邮件属于哪个孩子，所以这不起作用。 有没有什么方法可以让我只输入一个包含学生姓名和家长电子邮件的 CSV 文件，然后选择我想发送电子邮件的学生，然后它会打开我的学校 Gmail 帐户并用这些家长电子邮件填充密件抄送？    提交人    /u/coolpuddytat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g32pa6/software_for_selecting_people_to_batch_email_to/</guid>
-      <pubDate>Sun, 13 Oct 2024 23:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2000 年代初期至中期的 DVD 刻录软件</title>
-      <link>https://www.reddit.com/r/software/comments/1g329l8/dvd_burning_software_early_to_mid_2000s/</link>
-      <description><![CDATA[2000 年代初期和中期，我父亲曾经将我们的家庭录像带刻录到空白 DVD 上。  我试图弄清楚他使用了什么程序。  他不记得了，因为已经过去了很多年。  如果可以的话，我会提供一些信息。  我们有索尼 Handycam CCDTRV37 摄像机  我记得最近在 Ebay 上看到一个列表，上面说相机附带一张光盘，允许您下载一个名为 ImageMixer 的程序 同样，我父亲不记得他使用了什么程序。  这是他刻录的 DVD 的主菜单的样子。  https://preview.redd.it/4dm62o8bulud1.png?width=720&amp;format=png&amp;auto=webp&amp;s=a89e907568305afed2379443904f00f54c527518    提交人    /u/Busy-Rule1548   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g329l8/dvd_burning_software_early_to_mid_2000s/</guid>
-      <pubDate>Sun, 13 Oct 2024 23:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Pen 的最佳替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1g31rrr/best_alternative_for_epic_pen/</link>
-      <description><![CDATA[我每天都使用 Epic Pen 一段时间，但我刚刚发现这个应用程序让我的系统无法很好地运行所有全屏应用程序，而且它还使我的 Windows 任务栏出现大量错误，以至于无法打开。基本上，我猜这个应用程序优化得太差了，它造成了许多麻烦。但我真的非常需要一个类似于这个的应用程序，因为它对我的工作非常重要。我几乎每天都在使用它，没有它我活不下去。那么有人有什么建议吗？    提交者    /u/Abject_Story74   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g31rrr/best_alternative_for_epic_pen/</guid>
-      <pubDate>Sun, 13 Oct 2024 22:38:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
