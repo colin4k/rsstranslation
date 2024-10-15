@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 09:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 12:02:32 GMT</lastBuildDate>
+    <item>
+      <title>利用 MediSys HMS 优化医疗保健：CureSureMedico 体验</title>
+      <link>https://www.reddit.com/r/software/comments/1g454ns/optimizing_medical_care_with_medisys_hms_the/</link>
+      <description><![CDATA[  由    /u/Fun_Orange3035  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g454ns/optimizing_medical_care_with_medisys_hms_the/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于确定挡土墙下土壤扰动/机械特性/水分含量的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1g44dxm/software_for_determining_soil_disturbance/</link>
+      <description><![CDATA[您知道有什么软件可以识别挡土墙下不同类型土壤特性的潜在变化吗？最好是那些提供模拟的软件，非常感谢！     提交人    /u/milespj-   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g44dxm/software_for_determining_soil_disturbance/</guid>
+      <pubDate>Tue, 15 Oct 2024 10:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>翻译软件</title>
+      <link>https://www.reddit.com/r/software/comments/1g43ubg/software_for_stranslation/</link>
+      <description><![CDATA[有没有像 powertoys 这样的软件可以添加快捷方式，让我可以截取图片然后进行翻译    提交人    /u/EagleSeeker0   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g43ubg/software_for_stranslation/</guid>
+      <pubDate>Tue, 15 Oct 2024 09:41:33 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最佳截图程序？</title>
       <link>https://www.reddit.com/r/software/comments/1g438lf/best_screenshot_program_2024/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[ 必须完全免费或者使用我自己的 API 密钥和 openai api 覆盖 url。 必须快速自动读取当前打开页面的上下文     提交人    /u/ImMALWAREz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g3azns/looking_for_chatgptgemini_chrome_extension/</guid>
       <pubDate>Mon, 14 Oct 2024 08:21:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>批处理文件/一次打开多个程序时出现问题</title>
-      <link>https://www.reddit.com/r/software/comments/1g3am33/trouble_with_batch_filesopening_multiple_programs/</link>
-      <description><![CDATA[嗨， 我想做的是制作一个批处理命令或类似的东西，只需双击即可同时打开多个程序。但是，我尝试运行的两个程序似乎只有第一个打开，而另一个始终没有打开 - 如果 Discord 是第一个打开的，当我关闭命令行界面时它会关闭。 我想将 Discord 作为一个程序运行，并在其上附加 --startreplaybuffer 命令来运行 OBS。所以我当前的代码看起来像这样  cd C:\Users\David\AppData\Local\Discord\app-1.0.9166 Discord.exe  cd C:\Program Files\obs-studio\bin\64bit\ obs64.exe --startreplaybuffer 退出  但是，这不起作用。如果我双击该文件位置的 Discord，它会打开。如果我双击我的 OBS 快捷方式，并在路径末尾添加 --startreplaybuffer，它会按照我想要的方式打开。但如果我尝试通过批处理文件打开两者，它就不会像我预期的那样工作。 我对此很陌生，所以我不确定我做错了什么/我可以做些什么来解决它。谢谢。     由    /u/Soeroah 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g3am33/trouble_with_batch_filesopening_multiple_programs/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 macOS 的优质隐藏字幕软件，支持嵌入式视频播放</title>
-      <link>https://www.reddit.com/r/software/comments/1g38pbf/decent_closed_captioning_software_for_macos_with/</link>
-      <description><![CDATA[一直在寻找适用于 macOS 的优质隐藏式字幕软件（没有！） 它需要：  6 位置支持（TL、T、TR、BL、B、BR） 支持字体样式（斜体、粗体） 支持颜色 嵌入式视频播放     提交人    /u/crelt7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g38pbf/decent_closed_captioning_software_for_macos_with/</guid>
-      <pubDate>Mon, 14 Oct 2024 05:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您首选的管理团队项目和让每个人保持一致的工具是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1g37sel/whats_your_preferred_tool_for_managing_team/</link>
-      <description><![CDATA[有效地管理项目就像在波涛汹涌的大海中掌舵一艘船——如果没有合适的工具，你就会迷失方向。Monday.com 或 Asana 等工具可以清晰地显示任务、截止日期和团队职责。  可视化进度：使用仪表板跟踪项目里程碑和团队贡献。  培养责任感：分配任务并设定截止日期，以确保每个人都按计划完成任务。 无缝集成：选择适合您现有工作流程和通信平台的工具。   据麦肯锡称，使用协作工具的公司生产率提高了 20-30%。什么工具可以帮助您的团队驾驭复杂的项目管理水域？    提交人    /u/Efficient_Builder923   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g37sel/whats_your_preferred_tool_for_managing_team/</guid>
-      <pubDate>Mon, 14 Oct 2024 04:07:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 15 Oct 2024 09:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 12:02:52 GMT</lastBuildDate>
+    <item>
+      <title>SBC 的 YouTube 客户端？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g45v4f/youtube_client_for_sbcs/</link>
+      <description><![CDATA[这个问题可能在这里被问过很多次，但是除了 Linux 之外，什么是一个尽可能接近 SmartTube (Next) 的优秀 FOSS YouTube 客户端（例如 Plasma BigScreen）？最好还能让它从我的帐户中获取推荐并在那里保存历史记录，就像 stube 一样。谢谢。    提交人    /u/NeatYogurt9973   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g45v4f/youtube_client_for_sbcs/</guid>
+      <pubDate>Tue, 15 Oct 2024 11:55:17 GMT</pubDate>
+    </item>
     <item>
       <title>为什么维护人员不自己做第一行更改？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3zyqp/why_dont_maintainers_make_the_1_line_change/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Inkscape 1.4 版现已推出！新增和更新的功能包括滤镜库对话框、模块化网格、色板对话框和更多文件导入/导出选项。高级用户，这是为您准备的！阅读有关 1.4 的所有信息：https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/    提交人    /u/pulsar17   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g2xb0x/inkscape_launches_version_14_with_powerful_new/</guid>
       <pubDate>Sun, 13 Oct 2024 19:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对开放后许可有何看法？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2x2hw/what_are_your_thoughts_on_postopen_license/</link>
-      <description><![CDATA[我一直在关注 Bruce Perens 在 Post-Open 上的工作。创建此许可证是为了尽量减少开源带来的一些问题，例如开发人员从事无偿工作。你对此有什么看法？我很想听听开源社区其他人的意见。    由    /u/LilithIsSorry   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2x2hw/what_are_your_thoughts_on_postopen_license/</guid>
-      <pubDate>Sun, 13 Oct 2024 19:02:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
