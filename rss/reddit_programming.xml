@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 15 Oct 2024 06:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 09:02:40 GMT</lastBuildDate>
+    <item>
+      <title>文本到图表生成器（可使用 drawio 编辑）</title>
+      <link>https://www.reddit.com/r/programming/comments/1g438gq/texttodiagram_generator_editable_with_drawio/</link>
+      <description><![CDATA[  由    /u/hadiazzouni  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g438gq/texttodiagram_generator_editable_with_drawio/</guid>
+      <pubDate>Tue, 15 Oct 2024 08:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过 10 年的中断，我再次开始使用现代人工智能进行编程。哇。</title>
+      <link>https://www.reddit.com/r/programming/comments/1g42gw7/after_a_10_year_break_i_started_programming_again/</link>
+      <description><![CDATA[  由    /u/mgertner  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g42gw7/after_a_10_year_break_i_started_programming_again/</guid>
+      <pubDate>Tue, 15 Oct 2024 07:49:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>h2tunnel：600 行代码的 Node.js ngrok 替代品，无依赖</title>
+      <link>https://www.reddit.com/r/programming/comments/1g42bjk/h2tunnel_ngrok_alternative_for_nodejs_in_600_loc/</link>
+      <description><![CDATA[  由    /u/boronine  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g42bjk/h2tunnel_ngrok_alternative_for_nodejs_in_600_loc/</guid>
+      <pubDate>Tue, 15 Oct 2024 07:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Go 构建多工作区 Slack 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1g41zio/how_to_build_a_multiworkspace_slack_application/</link>
+      <description><![CDATA[  由    /u/poewetha  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g41zio/how_to_build_a_multiworkspace_slack_application/</guid>
+      <pubDate>Tue, 15 Oct 2024 07:10:23 GMT</pubDate>
+    </item>
     <item>
       <title>Redis的4种部署模式</title>
       <link>https://www.reddit.com/r/programming/comments/1g3yln4/4_deployment_modes_of_redis/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/nicoconut15  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g3dsef/this_is_why_i_think_java_is_one_of_the_best/</guid>
       <pubDate>Mon, 14 Oct 2024 11:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握 Next.js 应用目录结构（2024 版）</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9wj/mastering_nextjs_app_directory_structure_2024/</link>
-      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9wj/mastering_nextjs_app_directory_structure_2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.12 与 Python 3.13 – 性能测试。在搭载 AMD Ryzen 7000 系列和第 13 代 Intel Core 处理器的台式机、笔记本电脑或迷你电脑上，共进行了 100 项各种基准测试。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9iq/python_312_vs_python_313_performance_testing_a/</link>
-      <description><![CDATA[  由    /u/DataQuality  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9iq/python_312_vs_python_313_performance_testing_a/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法从源代码构建 7-Zip 的优化版本</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d9ib/the_optimised_version_of_7zip_cant_be_built_from/</link>
-      <description><![CDATA[  由    /u/Xaneris47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d9ib/the_optimised_version_of_7zip_cant_be_built_from/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码审查反模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1g3d5z2/code_review_antipatterns/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g3d5z2/code_review_antipatterns/</guid>
-      <pubDate>Mon, 14 Oct 2024 11:06:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
