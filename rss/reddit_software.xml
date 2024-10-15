@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 18:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 21:02:31 GMT</lastBuildDate>
+    <item>
+      <title>订阅的应用程序，并发现它值得</title>
+      <link>https://www.reddit.com/r/software/comments/1g4hs4e/apps_subscribed_and_find_it_worth/</link>
+      <description><![CDATA[我的列表：Perplexity Pro、ChatGpt Plus、Microsoft 365、Standard notes、Telegram、Proton drive、Google one、Cursor ai 有什么建议吗？    提交人    /u/_janc_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g4hs4e/apps_subscribed_and_find_it_worth/</guid>
+      <pubDate>Tue, 15 Oct 2024 20:38:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>单显示器的屏幕保护软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1g4hr11/screensaver_software_for_a_single_monitor/</link>
+      <description><![CDATA[我有两个显示器，我想知道是否有人知道一种软件，可以在其中一台显示器上设置屏幕保护程序？    提交人    /u/Highbrowsheet44   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g4hr11/screensaver_software_for_a_single_monitor/</guid>
+      <pubDate>Tue, 15 Oct 2024 20:37:03 GMT</pubDate>
+    </item>
     <item>
       <title>最好的快递管理软件</title>
       <link>https://www.reddit.com/r/software/comments/1g4e353/the_best_courier_management_software/</link>
@@ -127,23 +141,9 @@
     <item>
       <title>数据库文档如何帮助我作为一名新开发人员</title>
       <link>https://www.reddit.com/r/software/comments/1g3yu6r/how_database_documentation_help_me_as_a_new_dev/</link>
-      <description><![CDATA[大家好， 我想分享一些使用 dbdocs.io 进行数据库文档编制的经验。作为一个在团队中工作的人，开发人员、数据库管理员和项目经理之间的沟通是关键，拥有清晰且结构化的数据库文档是改变游戏规则的关键。 在使用 dbdocs 之前，我们用一堆乱七八糟的电子表格和零散的笔记来记录我们的数据库架构。这很难维护，任何架构更改都会导致团队成员之间无休止的来回沟通。正是在那时，我们决定尝试 dbdocs 和 DBML（数据库标记语言），老实说，这让我们耳目一新。 下面简要介绍一下它的工作原理以及它对我们如此有帮助的原因：  轻松设置：安装 dbdocs 和 DBML 无需花费时间。只需几个命令，我们就能生成不仅干净而且可以通过简单链接共享的数据库文档。 自动更新：我们将 dbdocs 集成到我们的 CI/CD 管道中，因此数据库文档会随着每次新的更改而自动更新。这真是救星，尤其是在快速移动的项目中。 协作：由于 dbdocs 提供了可共享的链接，我们的非技术团队成员可以轻松访问和了解数据库结构。不再对数据的存储和链接方式感到困惑！ 版本控制：最酷的功能之一是跟踪架构随时间的变化。我们可以回顾发生了什么变化以及为什么发生，这有助于我们避免在更新过程中出现意外惊喜。 自定义：我们可以在 DBML 文件中添加描述、注释和关系。这就像拥有一个随数据库一起演变的活文档。  使用 dbdocs 确实改善了我们团队处理数据库文档的方式。它简单、直观，非常适合任何想要保持井然有序并保持团队协调一致的人。 如果您在数据库文档方面遇到困难，我强烈建议您尝试一下 dbdocs。这对我们来说是一个改变游戏规则的过程。 P/S：我在那里工作，所以我可能有点偏见 - 但它确实让我们的工作流程顺畅了很多！ 干杯！    提交人    /u/patricknewyen   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我想分享一些使用 dbdocs.io 进行数据库文档编制的经验。作为一个在团队中工作的人，开发人员、数据库管理员和项目经理之间的沟通是关键，拥有清晰且结构化的数据库文档是改变游戏规则的关键。 在使用 dbdocs 之前，我们用一堆乱七八糟的电子表格和零散的笔记来记录我们的数据库架构。这很难维护，任何架构更改都会导致团队成员之间无休止的来回沟通。正是在那时，我们决定尝试 dbdocs 和 DBML（数据库标记语言），老实说，这让我们耳目一新。 下面简要介绍一下它的工作原理以及它对我们如此有帮助的原因：  轻松设置：安装 dbdocs 和 DBML 无需花费时间。只需几个命令，我们就能生成不仅干净而且可以通过简单链接共享的数据库文档。 自动更新：我们将 dbdocs 集成到我们的 CI/CD 管道中，因此数据库文档会随着每次新的更改而自动更新。这真是救星，尤其是在快速移动的项目中。 协作：由于 dbdocs 提供了可共享的链接，我们的非技术团队成员可以轻松访问和了解数据库结构。不再对数据的存储和链接方式感到困惑！ 版本控制：最酷的功能之一是跟踪架构随时间的变化。我们可以回顾更改的内容及其原因，这有助于我们避免更新期间出现意外惊喜。 自定义：我们可以在 DBML 文件中添加描述、注释和关系。这就像拥有一个随数据库一起演变的活文档。  使用 dbdocs 确实改善了我们团队处理数据库文档的方式。它简单、直观，非常适合任何想要保持井然有序并保持团队协调一致的人。 如果您在数据库文档方面遇到困难，我强烈建议您尝试使用 dbdocs。这对我们来说是一个改变游戏规则的过程。 P/S：我在那里工作，所以我可能有点偏见 - 但它确实让我们的工作流程顺畅了很多！ 干杯！    提交人    /u/patricknewyen   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g3yu6r/how_database_documentation_help_me_as_a_new_dev/</guid>
       <pubDate>Tue, 15 Oct 2024 03:40:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Inland Gaming 鼠标 gm-76 滚动时出现问题</title>
-      <link>https://www.reddit.com/r/software/comments/1g3ue3k/issues_scrolling_with_inland_gaming_mouse_gm76/</link>
-      <description><![CDATA[所以我刚刚将我的电脑移到房间的另一个地方，当我将它重新设置时，我的鼠标停止滚动。有人知道排除此故障的正确方法吗？从机械上讲，鼠标滚轮没有问题，滑动起来像黄油一样顺滑（大多数搜索都会产生“这是如何清洁它”的视频），所以这不是问题。  我注意到任务管理器中正在运行一个名为 oemdrv 的程序，据我所知和搜索能力，这意味着我的鼠标正在作为存储设备启动，但我不知道如何解决这个问题。  我已经卸载了我的鼠标软件并重新安装它，并尝试更新驱动程序但没有成功，所以如果有人有线索或可以指出正确的方向，我将不胜感激。     提交人    /u/Cosmic_Blemish_Korz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g3ue3k/issues_scrolling_with_inland_gaming_mouse_gm76/</guid>
-      <pubDate>Mon, 14 Oct 2024 23:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的路线规划软件</title>
-      <link>https://www.reddit.com/r/software/comments/1g3pw1s/route_planning_software_for_windows/</link>
-      <description><![CDATA[我正在寻找一种可以在 Windows 下离线运行的道路交通路线规划软件（德国地图）的替代品。必须能够输入任意数量的中间站点。必须列出中间站点的到达时间。必须可以选择车辆的速度类型（正常或慢速）。  目前正在使用 2018 年的过时软件，显然没有后继者。已经为许多要接近的点创建了收藏夹（超过 50 个），以便可以相当快速地创建新路线。无需导出或保存任何内容。我们只需要列出的中间点的到达时间。Googlemaps 在这里没有提供有用的解决方案，或者我还没有看到它。  是否有满足这些要求的替代解决方案？     提交人    /u/TomTamFoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g3pw1s/route_planning_software_for_windows/</guid>
-      <pubDate>Mon, 14 Oct 2024 20:28:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
