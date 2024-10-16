@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 12:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 15:01:40 GMT</lastBuildDate>
     <item>
-      <title>网站已经过时了吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4wk78/are_websites_obsolete/</link>
-      <description><![CDATA[我确信未来网站的前 5 名访问者将是人工智能代理，因此我想知道我们将如何构建登录页面或电子商务。 我的假设： 1. 公司将创建 API 以让代理在网站上采取行动 2. 公司仍将出于品牌/资金/转化原因创建以人为本的网站 企业如何开始为代理准备所有端点？API 是否足够？    提交人    /u/alessandrolnz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4wk78/are_websites_obsolete/</guid>
-      <pubDate>Wed, 16 Oct 2024 10:55:17 GMT</pubDate>
+      <title>人工智能开始破坏电影、游戏和电视节目的剧情</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5189k/ai_is_starting_to_spoil_plots_line_to_movies/</link>
+      <description><![CDATA[有人遇到过这个问题吗？你先在 google 上搜索一部电影或游戏，然后在 facebook 或 instagram 上滚动，然后突然间你就被剧透了，因为它会尝试推荐你搜索到的任何 IP 的群组和粉丝页面。  想知道有没有办法限制这种情况？     提交人    /u/VikingWzrdEyes89   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5189k/ai_is_starting_to_spoil_plots_line_to_movies/</guid>
+      <pubDate>Wed, 16 Oct 2024 14:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>符合欧盟 AI 法案的 10 款 MLOps 工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g50p82/10_mlops_tools_that_comply_with_the_eu_ai_act/</link>
+      <description><![CDATA[阅读详细博客这里 这是 10 个 MLOps 工具的摘要！  KitOps：一个版本控制系统，可确保所有 AI 项目资产的透明度、集中性和防篡改记录保存。 Kubeflow：提供端到端管道编排，具有强大的可观察性和人工监督。 MLflow：提供强大的治理、跟踪数据和实验管理。 ZenML：专注于数据完整性和工作流标准化。 ClearML：通过强大的数据准备和版本控制。 H2O.ai：强调负责任的人工智能，专注于数据完整性和偏差检测。 DataRobot：支持自动化机器学习，重点是治理和监控。 Comet：跟踪实验并监控模型性能以确保合规性。 权重和偏差：跟踪实验，确保透明度和可重复性。它基本上是专有的，但提供开源组件。 Fiddler AI：增强可解释性和模型监控，将专有工具与开源功能相结合。  要详细了解欧盟人工智能法案以及这些工具如何与法规保持一致，请阅读此博客。    提交人    /u/codes_astro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g50p82/10_mlops_tools_that_comply_with_the_eu_ai_act/</guid>
+      <pubDate>Wed, 16 Oct 2024 14:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 AI 开始，而不是在 AI 中开始。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4zo5n/getting_started_with_ai_not_in_ai/</link>
+      <description><![CDATA[任何“我如何实现 AI”主题似乎都围绕着构建 AI，但我只是想学习如何更好地使用它。 我是一名职业开发人员，但真的不介意在生活的任何/所有方面使用 AI。我尝试过一点，让 Claude 编写一个函数，然后将其改编成我的代码，或者让 Copilot 为电子商务网站编写文本，但我觉得我可以更好地使用它？ 我看到诸如“工件”和“提示构建”之类的术语，所以我觉得我所做的只是触及表面，但我不确定从哪里开始。（编辑：另一个术语是“令牌”） 任何时候我尝试搜索“傻瓜 AI”结果似乎倾向于构建/安装/训练人工智能，而我只想知道如何使用可用的“现成的”（目前免费的）版本。 谢谢！！    提交人    /u/WeirdWebDev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4zo5n/getting_started_with_ai_not_in_ai/</guid>
+      <pubDate>Wed, 16 Oct 2024 13:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于私人会计/现金流跟踪的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4z3lw/ai_for_private_accounting_cash_flow_tracking/</link>
+      <description><![CDATA[大家好， 您知道有什么值得推荐的 AI 工具可以帮助私人家庭进行成本管理吗？欢迎提出任何建议。    提交人    /u/Nemec_styx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4z3lw/ai_for_private_accounting_cash_flow_tracking/</guid>
+      <pubDate>Wed, 16 Oct 2024 13:14:47 GMT</pubDate>
     </item>
     <item>
       <title>如果你可以将日常工作的任何部分交给 AI，你会选择哪一部分？🤖</title>
@@ -55,13 +76,6 @@
       <pubDate>Wed, 16 Oct 2024 05:06:08 GMT</pubDate>
     </item>
     <item>
-      <title>人们会怎样制作这样的视频呢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4rn3d/how_would_someone_go_about_making_a_video_like/</link>
-      <description><![CDATA[我无法在 r/aivideos 中发布文本帖子，所以我在这里问你们。Instagram 上的用户“@catsoupai”制作了恐怖/怪诞/奇怪的视频。人们该如何制作这样的视频？    由   提交  /u/Captain-cootchie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4rn3d/how_would_someone_go_about_making_a_video_like/</guid>
-      <pubDate>Wed, 16 Oct 2024 04:56:51 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 15 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4rj3c/oneminute_daily_ai_news_10152024/</link>
       <description><![CDATA[ 阿里巴巴的国际部门表示，其新的 AI 翻译工具击败了谷歌和 ChatGPT。[1] Hingham 学生的父母起诉学区，因为他的儿子因在学校项目中使用人工智能而受到处罚。[2] 机器人艺术家 Ai-Da 创造历史，因为艾伦图灵的肖像将被拍卖。[3] 自 ChatGPT 推出以来，美国国防和国土安全部已经为人工智能项目支付了 7 亿美元。[4]  来源包括：https://bushaicave.com/2024/10/15/10-15-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我刚刚想到了一些（我当时想的）有趣的想法，想制作一些有趣的视频。由于我自己不会设计或制作动画，因此 AI 视频是获得结果的绝佳解决方案。完成后，我很高兴向朋友和网上展示它。使用 AI 遭到了很多批评。我对此感到非常惊讶，仍然不明白。  对于任何对我所说的内容感兴趣的人：https://youtu.be/M-Ndoco3QHQ?si=y5iGjOMcMF2KlBgR    提交人    /u/TheMythGuido   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4kl62/whats_with_the_ai_hate/</guid>
       <pubDate>Tue, 15 Oct 2024 22:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>HHEM（幻觉评估模型）下载量突破 200 万</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4k7wt/hhem_hallucination_evaluation_model_passes_2m/</link>
-      <description><![CDATA[我很高兴地告诉大家，u/vectara 的 HHEM（又名幻觉评估模型）在 HuggingFace 上的下载量刚刚突破 200 万次。我们对加速采用感到兴奋，并致力于开发更多更好的方法来检测和消除幻觉，这是让 RAG 为企业服务的关键组成部分。    提交人    /u/ofermend   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4k7wt/hhem_hallucination_evaluation_model_passes_2m/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>请告诉我一个好的图像生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4k781/please_tell_me_a_good_image_generator/</link>
-      <description><![CDATA[不是 google gemini 我想要一个好的图像生成器来创建东西我想创建一个 slugcat 它们可爱的猫科动物所以请告诉我一些东西也不是超现实的东西并且可以从其他图像中获取风格    提交人    /u/IllustriousCase486   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4k781/please_tell_me_a_good_image_generator/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:24:49 GMT</pubDate>
     </item>
     <item>
       <title>我被要求在工作中举办一个研讨会，旨在鼓励整个企业的员工考虑在日常工作中使用人工智能。有什么想法可以让这个活动变得有趣吗？</title>
