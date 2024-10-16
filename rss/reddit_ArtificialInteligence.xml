@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 18:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 21:02:01 GMT</lastBuildDate>
+    <item>
+      <title>高级人工智能应享有哪些具体权利？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g58u93/what_specific_rights_should_advanced_ai_be/</link>
+      <description><![CDATA[假设人工智能达到人类水平的智能，它们应该拥有哪些权利？生存权？免于奴役的自由？让我们讨论一下吧！    提交人    /u/Ok-Prune358   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g58u93/what_specific_rights_should_advanced_ai_be/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能能否拥有不受人类偏见影响的“道德”？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g58otd/can_ai_have_ethics_without_human_bias/</link>
+      <description><![CDATA[我最近一直在阅读有关人工智能伦理方面的资料，其中一件让我印象深刻的事情是，构建“符合道德”的人工智能是多么困难，它不仅仅反映其创造者的偏见。我们希望这些系统是公平的，但由于它们从人类数据中学习，它们最终也会继承我们所有的缺陷。 例如，用于招聘的人工智能最终可能会偏向某些人口统计数据，仅仅是因为它所训练的数据中存在历史偏见。因此，即使人工智能没有试图产生偏见，它仍然会做出一些非常不公平的决定。 但这让我开始思考：是否有可能创建一个可以在不依赖某种人类偏见的情况下做出道德决策的人工智能系统？如果不是，我们如何确保这些系统至少比人类更少偏见，而不是仅仅放大现有问题？    提交人    /u/OddReplacement5567   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g58otd/can_ai_have_ethics_without_human_bias/</guid>
+      <pubDate>Wed, 16 Oct 2024 20:06:16 GMT</pubDate>
+    </item>
     <item>
       <title>双子座现场</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g555cs/gemini_live/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>苹果发布 Depth Pro，一种重写 3D 视觉规则的 AI 模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g52bl3/apple_releases_depth_pro_an_ai_model_that/</link>
-      <description><![CDATA[https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/ &quot;Apple 的 AI 研究团队开发了一种新模型，可以显著改善机器感知深度的方式，有可能改变从增强现实到自动驾驶汽车等各个行业。 该系统名为 Depth Pro，能够在几分之一秒内从单个 2D 图像生成详细的 3D 深度图 - 而无需依赖摄像头传统上进行此类预测所需的数据。 这项技术在题为“Depth Pro：不到一秒的清晰单目度量深度”的研究论文中进行了详细介绍，这是单目深度估计领域的一次重大飞跃，该过程仅使用一张图像来推断深度。 这可能在实时空间感知是关键的领域产生深远的应用。该模型的创建者由 Aleksei Bochkovskii 和 Vladlen Koltun 领导，他们将 Depth Pro 描述为同类系统中最快、最准确的系统之一。“    提交人    /u/hasanahmad   [链接] [评论]]]></description>
+      <description><![CDATA[https://venturebeat.com/ai/apple-releases-depth-pro-an-ai-model-that-rewrites-the-rules-of-3d-vision/ &quot;Apple 的 AI 研究团队开发了一种新模型，可以显著改善机器感知深度的方式，有可能改变从增强现实到自动驾驶汽车等各个行业。 该系统名为 Depth Pro，能够在几分之一秒内从单个 2D 图像生成详细的 3D 深度图 - 而无需依赖摄像头传统上进行此类预测所需的数据。 这项技术在题为“Depth Pro：不到一秒内实现清晰的单目度量深度”的研究论文中进行了详细介绍，这是单目深度估计领域的一次重大飞跃，该过程仅使用一张图像即可推断深度。 这可能在实时空间感知是关键的领域产生深远的应用。该模型的创建者由 Aleksei Bochkovskii 和 Vladlen Koltun 领导，他们将 Depth Pro 描述为同类系统中最快、最准确的系统之一。&quot;    提交人    /u/hasanahmad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g52bl3/apple_releases_depth_pro_an_ai_model_that/</guid>
       <pubDate>Wed, 16 Oct 2024 15:38:12 GMT</pubDate>
     </item>
     <item>
       <title>做所有事的行政助理</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5220q/doeverything_executive_assistant/</link>
-      <description><![CDATA[您最喜欢的一体化（如果存在）人工智能执行辅助工具是什么？可以与我的日历、电子邮件等集成并对话的东西。我想找到尽可能接近这个的东西。我想让人工智能来管理我的职业生涯。    提交人    /u/UncleRumble   [link] [评论]]]></description>
+      <description><![CDATA[您最喜欢的一体化（如果存在）人工智能执行辅助工具是什么？可以与我的日历、电子邮件等集成并对话的东西。我想找到尽可能接近这个的东西。我希望人工智能来管理我的职业生涯。    提交人    /u/UncleRumble   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5220q/doeverything_executive_assistant/</guid>
       <pubDate>Wed, 16 Oct 2024 15:27:03 GMT</pubDate>
     </item>
@@ -69,13 +83,6 @@
       <pubDate>Wed, 16 Oct 2024 09:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>PortLLM 使用免训练和可移植的模型补丁个性化不断发展的大型语言模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4vgmv/portllm_personalizing_evolving_large_language/</link>
-      <description><![CDATA[标题：PortLLM 使用免训练和可移植模型补丁个性化不断发展的大型语言模型 我每天都在寻找和总结有趣的 AI 研究论文，这样您就不必全部浏览了。今天的论文题为“PortLLM：使用免训练和可移植模型补丁个性化不断发展的大型语言模型”，作者是 Rana Muhammad Shahroz Khan、Pingzhi Li、Sukwon Yun、Zhenyu Wang、Shahriar Nirjon、Chau-Wai Wong 和 Tianlong Chen。 本文介绍了 PortLLM，这是一个突破性的框架，它能够个性化大型语言模型 (LLM)，而无需承担传统的资源密集型训练负担。随着 ChatGPT 等模型的不断发展，由于频繁的参数更新，保持特定领域任务的最佳性能可能变得不切实际。 PortLLM 通过模型补丁实现无需训练的知识转移，从而解决了这一问题，这些模型补丁旨在延续甚至增强演进后的 LLM 的专业功能。 要点：  无需训练的知识转移：PortLLM 允许在各个版本的 LLM 之间无缝转换领域特定知识，而无需额外的培训。它依赖于适合下游用户个性化任务需求的初始轻量级模型更新补丁。 显著的资源效率：该框架显著减少了 GPU 内存使用量和性能所需的可训练参数，与基于 LoRA 的微调方法相比，减少了高达 12.2 倍。 实验验证：在 BoolQ 和 SST-2 等不同数据集以及 Mistral-7B 和 Llama2 等多种模型架构上进行的大量实验验证了 PortLLM 模型补丁的可移植性和有效性。 可比或卓越的性能：该方法不仅在任务特定性能方面与传统微调方法相匹配，而且通常超越传统微调方法，在各种任务中都报告了性能提升，而且通常没有任何性能下降。 理论见解：作者提供了理论基础，解释了为什么模型补丁可移植且有效，为资源受限环境中的 LLM 个性化提供了新的视角。  PortLLM 是 AI 模型个性化迈出的重要一步，它提供了一种可适应 LLM 快速发展的方法，同时避免了频繁重新调整带来的大量计算需求。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4vgmv/portllm_personalizing_evolving_large_language/</guid>
-      <pubDate>Wed, 16 Oct 2024 09:39:51 GMT</pubDate>
-    </item>
-    <item>
       <title>什么人工智能可以翻译 PDF？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4uez1/what_ai_for_pdf_translating/</link>
       <description><![CDATA[嗨，我目前在葡萄牙的伊拉斯谟学习，显然我得到的所有材料都是葡萄牙语的。我甚至不知道如何阅读葡萄牙语，所以我想翻译它们。我试图使用困惑，但它只得到文本（也只在小文档上尝试过） 在为一些我不知道的东西付钱之前，我只是想请你提出建议。谢谢    提交人    /u/Richard13545   [link] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[F5-TTS 是一种新的音频克隆模型，可以产生高质量的结果，延迟时间短。它甚至可以根据您的脚本在您的音频中生成播客。在此处查看演示：https://youtu.be/YK7Yi043M5Y?si=AhHWZBlsiyuv6IWE    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4rz72/best_voice_cloning_opensourced_model_f5tts/</guid>
       <pubDate>Wed, 16 Oct 2024 05:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>云托管 AI 代理通信？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g4rs94/cloudhosted_ai_agent_communication/</link>
-      <description><![CDATA[对于 AutoGen、CrewAI、LangGraph 等主要代理框架，我已经看到它们开始提供云托管。  但我的主要问题是，这对人机集成或 UI 集成意味着什么？ 对于应用程序回调，客户端-服务器通信如何工作？这些甚至已经存在了吗？ 我可以想象您可以在客户端上打开 Web 套接字，在云中运行代理，并从正在运行的服务器编排中获取事件。  但从阅读各种文档来看，我看不到这是否受支持，或者它是否是这样工作的。  有人确切知道这是否/如何工作吗？    提交人    /u/DeadPukka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g4rs94/cloudhosted_ai_agent_communication/</guid>
-      <pubDate>Wed, 16 Oct 2024 05:06:08 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 15 日</title>
