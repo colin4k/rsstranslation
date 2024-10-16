@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 00:04:13 GMT</lastBuildDate>
     <item>
-      <title>构建实时协作文本编辑器（Google Docs 克隆）</title>
-      <link>https://www.reddit.com/r/programming/comments/1g4i5l9/building_a_realtime_collaborative_text_editor/</link>
-      <description><![CDATA[  由    /u/Hugewin2022  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g4i5l9/building_a_realtime_collaborative_text_editor/</guid>
-      <pubDate>Tue, 15 Oct 2024 20:53:59 GMT</pubDate>
+      <title>我们开发软件所采用的算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1g4l18e/algorithms_we_develop_software_by/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g4l18e/algorithms_we_develop_software_by/</guid>
+      <pubDate>Tue, 15 Oct 2024 23:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Rust 编写的开源图形编辑器和设计应用程序 - Graphite 进度报告（2024 年第三季度）</title>
+      <link>https://www.reddit.com/r/programming/comments/1g4k6oi/open_source_graphics_editor_and_design_app/</link>
+      <description><![CDATA[  由    /u/Keavon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g4k6oi/open_source_graphics_editor_and_design_app/</guid>
+      <pubDate>Tue, 15 Oct 2024 22:24:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个工具，让 LLM 在一分钟内生成一个带后端的 web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1g4jmg3/we_created_a_tool_to_let_llm_generate_a_webapp_w/</link>
+      <description><![CDATA[  由    /u/mincomp1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g4jmg3/we_created_a_tool_to_let_llm_generate_a_webapp_w/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的 Web 应用目前可以执行的操作</title>
+      <link>https://www.reddit.com/r/programming/comments/1g4j8zx/heres_what_your_web_app_can_do_today/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g4j8zx/heres_what_your_web_app_can_do_today/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 与 JavaScript</title>
+      <link>https://www.reddit.com/r/programming/comments/1g4izwj/typescript_vs_javascript/</link>
+      <description><![CDATA[  由    /u/mestcihazal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g4izwj/typescript_vs_javascript/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:30:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 中异步编程的 9 个级别</title>
+      <link>https://www.reddit.com/r/programming/comments/1g4imf0/9_levels_of_asynchronous_programming_in_python/</link>
+      <description><![CDATA[  由   提交  /u/yangzhou1993   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g4imf0/9_levels_of_asynchronous_programming_in_python/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:14:05 GMT</pubDate>
     </item>
     <item>
       <title>Tuple - 开发人员的远程协作指南</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g471om/how_cellbased_architecture_enhances_modern/</guid>
       <pubDate>Tue, 15 Oct 2024 12:56:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - free-news-api/news-crawlers：该项目比较了五个开源新闻爬虫——“news-please”、“fundus”、“news-crawler”、“news-crawl”和“newspaper4k”，重点关注提取准确性、支持的站点和易用性等功能，以帮助用户选择最适合他们需求的工具。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g46e2w/github_freenewsapinewscrawlers_this_project/</link>
-      <description><![CDATA[  由    /u/rangeva  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g46e2w/github_freenewsapinewscrawlers_this_project/</guid>
-      <pubDate>Tue, 15 Oct 2024 12:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>蜥蜴优化 • Gojko Adzic 和 Dave Farley</title>
-      <link>https://www.reddit.com/r/programming/comments/1g45n8t/lizard_optimization_gojko_adzic_dave_farley/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g45n8t/lizard_optimization_gojko_adzic_dave_farley/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>优秀的程序员关心数据结构及其关系</title>
-      <link>https://www.reddit.com/r/programming/comments/1g452ci/good_programmers_worry_about_data_structures_and/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g452ci/good_programmers_worry_about_data_structures_and/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>LocalStorage、IndexedDB、Cookies、OPFS、WASM-SQLite</title>
-      <link>https://www.reddit.com/r/programming/comments/1g451ka/localstorage_vs_indexeddb_vs_cookies_vs_opfs_vs/</link>
-      <description><![CDATA[  由    /u/realPubkey  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g451ka/localstorage_vs_indexeddb_vs_cookies_vs_opfs_vs/</guid>
-      <pubDate>Tue, 15 Oct 2024 11:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python：range 不是迭代器</title>
-      <link>https://www.reddit.com/r/programming/comments/1g44n9h/python_range_is_not_an_iterator/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g44n9h/python_range_is_not_an_iterator/</guid>
-      <pubDate>Tue, 15 Oct 2024 10:39:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
