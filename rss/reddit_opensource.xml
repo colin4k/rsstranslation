@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 16 Oct 2024 00:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 03:08:15 GMT</lastBuildDate>
     <item>
-      <title>如何在公开发布的同时最好地继续私人开发？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4kx22/how_best_to_continue_private_development_while/</link>
-      <description><![CDATA[您好，我和我的团队在过去 6 个月中一直在开发一个开源研究程序，并计划很快向公众发布。我们的目标是让这个软件免费，供任何想要的人使用。 我们目前将我们的程序放在私人 GitHub 存储库中，但显然想将其公开。但是，我们希望继续开发，但将这些开发分支私有化。在 GitHub 上，这似乎不是一个功能。继续开发的最佳方式是什么，我不确定在开源社区中这样做的标准方式是什么，所以我想在这里问。这是我第一次发布任何开源内容，所以我不确定最佳做法。    提交人    /u/AskedSuperior   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4kx22/how_best_to_continue_private_development_while/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:58:32 GMT</pubDate>
+      <title>我制作了一款用于查找免费游戏和赠品的应用程序！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</link>
+      <description><![CDATA[大家好， 我想分享一个我一直在做的项目，叫做免费游戏追踪器。这是一款 Android、Web 和 Windows 应用程序，可让您轻松找到免费游戏赠品和 DLC - 无需再在不同网站或 Discord 频道之间跳转！ 在此处查看：https://pyoneerc1.itch.io/free-games-tracker 主要特点：  即时访问：只需轻轻一点，即可查看所有当前免费游戏。 自动更新：该应用程序会自动获取最新优惠，因此您始终可以随时了解最新信息。 无混乱：它只关注限时赠品和独家 DLC - 这里没有免费游戏（我为此制作了其他应用程序）  感谢您的关注！如有任何反馈，我们将不胜感激！    由   提交  /u/OkNeedleworker6500   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</guid>
+      <pubDate>Wed, 16 Oct 2024 00:29:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有适用于 MS Word 开源版本的推荐？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4mh58/recs_for_open_source_versions_of_ms_word/</link>
+      <description><![CDATA[大家好！我最近一直在使用 Open Office，它运行得很好，但它真的很讨厌表格。由于我的工作性质，我在文档中插入了很多表格，而我的 Open Office 文档经常关闭，必须恢复，这太烦人了。有没有其他与 MS Word 兼容的免费开源文字处理器的推荐？（顺便说一句，我对电脑不是很在行，请不要嘲笑我）谢谢！    提交人    /u/MVY63991   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4mh58/recs_for_open_source_versions_of_ms_word/</guid>
+      <pubDate>Wed, 16 Oct 2024 00:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何带有浮动或固定的收藏应用菜单的 Android 启动器吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</link>
+      <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
+      <pubDate>Wed, 16 Oct 2024 00:07:23 GMT</pubDate>
     </item>
     <item>
       <title>JsTraceToIX 1.0——调试 React、Vue 和 Node.js 变得更容易！——无需用“console.log”弄乱你的代码库！</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！我想通过更好的案例研究来改进我的投资组合，所以我认为最好的方法是帮助开源社区。 我可以提供的是找出导致用户离开的产品问题并设计解决方案。这可能是一个更好的入职流程、完成任务的流程等。 如果您有兴趣，我建议您填写下面的表格，以便我更好地了解您的项目和需求。我会选择尽可能多的可以安排在我的日程安排内的内容。 https://docs.google.com/forms/d/e/1FAIpQLSddh0nOi-XoBAZsA3bDM56JTIgoS4Uj2yZIIWXUG_Ptm9wmTw/viewform?usp=sf_link 如果您有任何疑问，请随时发表评论    提交人    /u/Pavlosts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g3j4df/product_designer_looking_for_open_source_projects/</guid>
       <pubDate>Mon, 14 Oct 2024 15:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个适用于 Linux、Windows 和 macOS 的屏幕录像机应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3hwrq/i_built_a_screen_recorder_app_that_works_on_linux/</link>
-      <description><![CDATA[        由    /u/tamnvhust  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3hwrq/i_built_a_screen_recorder_app_that_works_on_linux/</guid>
-      <pubDate>Mon, 14 Oct 2024 15:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPL 精神与实际使用情况？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3h85y/spirit_of_gpl_vs_actual_usage/</link>
-      <description><![CDATA[我只想问一下，如果有人将宽松的许可证分叉为 GPL 并且不返回更改，您对这种情况有何看法。 例如 LXD 和 Incus 项目。 LXD：https://github.com/canonical/lxd Incus：https://github.com/lxc/incus 最初有一个名为 LXD 的项目在 Apache 2 许可证下开发。由 Canonical 支持，但作为 LinuxContainers 项目的一部分进行开发。 然后 Canonical 改变了对许可的想法，并希望将 LXD 更多地纳入内部。 这导致了 Incus 和 LXD 的分裂。 LXD 由 Canonical 在 CLA 和 AGPL 许可下开发。 Incus 继续由 LinuxContainers 项目开发，并且遵循 Apache 2。 更多信息：https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/ 目前的情况是，LXD 只采用 Incus 做出的任何有用的改进，但 Incus 不能从 LXD 中获取任何东西。 这似乎不公平。 GPL 许可证的全部目的难道不就是为了回馈更改吗？但在这种情况下使用了 AGPL，因此原始项目无法收回任何更改。GPL 的全部含义是您无法限制软件的使用，但在这里使用 AGPL 会限制使用代码改进原始软件的能力。 这完全符合这些许可证的文字规定，但似乎不符合其精神。 对这种情况有什么看法？ 这似乎是开源许可证的固有缺陷。    提交人    /u/Simple-Minute-5331   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3h85y/spirit_of_gpl_vs_actual_usage/</guid>
-      <pubDate>Mon, 14 Oct 2024 14:34:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
