@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 21:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 00:03:25 GMT</lastBuildDate>
+    <item>
+      <title>评估客户入职平台（OnRamp 与 EverAfter）</title>
+      <link>https://www.reddit.com/r/software/comments/1g5c5kt/evaluating_customer_onboarding_platform_onramp_vs/</link>
+      <description><![CDATA[我们目前正在评估两个平台 - OnRamp 和 EverAfter - 作为 SaaS 企业的客户入职和旅程管理解决方案。目标是为所有客户创建一个“家”，在整个旅程中集中管理他们的任务、文档、通信和支持。寻求有关这两种工具的反馈或经验。 以下是我们要解决的问题：  用于入职、文档、任务跟踪和通信的集中式平台 能够处理大量客户，同时保持成本效益 与现有工具集成（Salesforce、Gong、Pendo 等） 根据客户类型、规模、复杂性进行细分（例如，需要集成） 随着客户群的增长，可扩展且价格合理 强大的安全标准（SOC2、HIPAA 等）  挑战：  OnRamp：价格合理且可扩展，但怀疑其在入职之外的长期适用性（例如，交易勘探/营销、客户成功）。 EverAfter：对于端到端客户旅程来说更加强大，但成本明显更高，尤其是在客户量很大的情况下（因为他们按每个客户收费，因此规模化时具有挑战性/成本过高）。  非常希望得到任何有关这两种工具的建议或经验，TIA！    提交人    /u/AdNo8810   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g5c5kt/evaluating_customer_onboarding_platform_onramp_vs/</guid>
+      <pubDate>Wed, 16 Oct 2024 22:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>不同的 noxplayer 实例使用不同的代理</title>
+      <link>https://www.reddit.com/r/software/comments/1g5apxs/different_proxies_for_different_noxplayer/</link>
+      <description><![CDATA[所以，基本上，我有 4 个私人代理，需要以某种方式同时运行 4 个不同的 noxplayer 实例，以便每个 noxplayer 实例使用不同的代理，我尝试了所有能想到的方法，但似乎没有任何效果，不确定这个线程是否属于这里，但在那里    提交人    /u/dinati   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g5apxs/different_proxies_for_different_noxplayer/</guid>
+      <pubDate>Wed, 16 Oct 2024 21:32:34 GMT</pubDate>
+    </item>
     <item>
       <title>想找个方法给我的朋友投票</title>
       <link>https://www.reddit.com/r/software/comments/1g57lx2/looking_for_a_way_to_give_votes_to_my_friend/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨，我希望有人能帮我找到一些预订软件。  我们正在尝试为有兴趣成为客户的人们寻找预订咨询电话的新软件。 棘手的是，我们需要在客户预订会议时在客户方面进行双重身份验证，因为我们遇到了欺诈性预约的问题（该业务处于一个不幸受到仇恨/欺凌的利基市场），我们需要确保请求预约的人是他们所说的那个人。  我能找到的大多数预订软件仅允许在管理员端进行 2FA，而不是为进行预订的客户进行 2FA。 有人知道可以帮助解决这个问题的软件吗？  谢谢！     提交人    /u/viciioustrollop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g4bdrn/scheduling_software_with_2fa_on_customer_side/</guid>
       <pubDate>Tue, 15 Oct 2024 16:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款非常具体的软件（阅读正文）</title>
-      <link>https://www.reddit.com/r/software/comments/1g4b147/looking_for_a_software_that_is_quite_specific/</link>
-      <description><![CDATA[我需要一个软件，可以把数百个 YouTube 视频链接放进去，然后根据视频中的内容为这些 YouTube 视频附加关键词。 例如，如果某个视频是关于“购买 100,000 英镑的奶酪”，我会将关键词“消费、购买、金钱、奶酪、食物”附加到该特定视频。我需要对数百个视频执行此操作，并且需要能够创建文件夹来放置某些频道等。这似乎相当复杂，但如果有人能为我指明正确的方向，那绝对是救星。 请注意，我在 Windows 10 上运行，因此该软件需要与之兼容。最好该软件可以在浏览器而不是应用程序上使用。 提前致谢    提交人    /u/fredstarino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g4b147/looking_for_a_software_that_is_quite_specific/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infor HR软件分析。</title>
-      <link>https://www.reddit.com/r/software/comments/1g4aqqe/software_analysis_of_infor_hr/</link>
-      <description><![CDATA[  由    /u/Nacly_AF  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g4aqqe/software_analysis_of_infor_hr/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:42:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
