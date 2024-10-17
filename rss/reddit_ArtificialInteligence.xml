@@ -4,34 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 17 Oct 2024 15:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 18:01:47 GMT</lastBuildDate>
     <item>
-      <title>哪年我们将拥有一个由人工智能管理的政府？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5sw4t/what_year_will_we_have_an_airun_government/</link>
-      <description><![CDATA[  由    /u/Helpful_Finger_4854  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5sw4t/what_year_will_we_have_an_airun_government/</guid>
-      <pubDate>Thu, 17 Oct 2024 14:59:43 GMT</pubDate>
+      <title>训练模型和数据源，新手问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5w0p9/training_models_and_data_sources_noobie_question/</link>
+      <description><![CDATA[我们正在探索 cohere 命令 r+，但我认为这对类似模型很常见，而且更多的是架构问题 (?)。  我们有大量 PDF，似乎添加这样的文档很容易。但我们也有公开 API 的系统，我想非常笼统地了解采用大型系统（如车队状态和维护的 OLTP 系统）并使该数据可用的方法。 我的目标是能够以对话的方式询问“哪些车辆没有遵循其维护计划？” 文档描述了维护计划，而 OLTP 系统拥有所有计划数据。     提交人    /u/BallsOutKrunked   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5w0p9/training_models_and_data_sources_noobie_question/</guid>
+      <pubDate>Thu, 17 Oct 2024 17:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>博通公司 (AVGO) 是任何 AI 投资组合的头号支柱股票，具有令人信服的实力，通过快速增长的股息提供独特的增长潜力和收入组合。以下是博通应成为您的 AI 投资策略核心的原因：</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5v82w/broadcom_inc_avgo_presents_a_compelling_case_as/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5v82w/broadcom_inc_avgo_presents_a_compelling_case_as/</guid>
+      <pubDate>Thu, 17 Oct 2024 16:39:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在专业上如何为人工智能时代做准备？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5v0d8/how_are_you_preparing_professionally_for_the_ai/</link>
+      <description><![CDATA[人工智能时代已经开始，它将改变一切。 我不知道你怎么样，但我并不富有，所以我需要工作谋生。 当 ChatGPT 于 2022 年第四季度发布时，我全心全意地接受了它，并且每天都在工作中使用它。 在我看来，我需要跟上它的发展才能保持与市场的相关性。我不是 SWE/技术人员，但我对技术了解足够多，我是一个知识工作者，过去我的竞争优势是数据科学知识。我管理着一个小团队，我的目标是让我的团队中的每个成员都成为人工智能工具专家，所以几年后我们都将管理人工智能系统/人工智能工具；也许我们团队中现有 50% 的力量会去支持一家收入增长 10 倍的公司。 我把这个告诉我所有的朋友、家人和同事，但每个人都以为我在谈论科幻小说，而没有人真正付诸行动。 在人工智能时代，你在职业生涯中做了什么才能保持在就业市场的相关性？ 欢迎提出意见、建议和想法。    提交人    /u/G4M35   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5v0d8/how_are_you_preparing_professionally_for_the_ai/</guid>
+      <pubDate>Thu, 17 Oct 2024 16:30:55 GMT</pubDate>
     </item>
     <item>
       <title>Nemotron 似乎被过度炒作，但需要更多测试</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5svwx/nemotron_seems_overhyped_but_needs_more_testing/</link>
-      <description><![CDATA[根据开放的 llm 排行榜，每个人都在炒作的 nvidia 发布的 Nemotron 模型只是炒作。 我认为需要更多的测试才能确定，但​​ nvidia 的 AI 模型一直都是炒作，而且内容丰富。   模型 平均值 IFEval BBH MATH Lvl 5 GPOA MUSR MMLU-PRO    Rombos-LLM-V2.5-Qwen-72b 45.39 71.55 61.27 47.58 19.80 17.32 54.83   Rombos-LLM-V2.5-Qwen-32b 44.10 68.27 58.26 39.12 19.57 24.73 54.62   Meta-Llama-3.1-70B-Instruct 41.74 86.69 55.93 28.02 14.21 17.69 47.88   Qwen-7B-72b-Instruct 38.35 86.5 61.78 1.28 17.45 11.81 51.30   Qwen-7B-72b 37.94 41.37 54.62 36.10 20.69 19.64 55.20   Hexmes-3.1-70B 37.31 76.61 53.77 13.75 14.88 23.43 41.41   Llama-3.1-Nemotron-70B-Instruct-HF 34.29 73.81 47.11 26.96 1.12 13.2 43.54   Reflection-Llama-3.1-70B 29.92 59.91 37.96 0 8.61 13.72 59.35   Reflection-Llama-3.1-70B 26.56 65.63 42.39 0 1.45 10.62 39.88   Meta-Llama-3.1-70B 25.91 16.84 46.4 16.69 18.34 16.58 48.60   请参阅下面的屏幕截图以获取证明。 https://huggingface.co/rombodawg/Rombos-LLM-V2.6-Nemotron-70b/discussions/1 或者在开放的 llm 排行榜中搜索此标签 Llama-3.1-Nemotron-70B-Instruct-HF;Llama-3.1-70B;Qwen/Qwen2.5-72B;Rombos-LLM-V2.5-Qwen-72b;rombodawg/Rombos-LLM-V2.5-Qwen-32b     提交人    /u/Rombodawg   [link] [评论]]]></description>
+      <description><![CDATA[根据开放的 llm 排行榜，每个人都在炒作的 nvidia 发布的 Nemotron 模型只是炒作。 我认为需要更多的测试才能确定，但​​ nvidia 的 AI 模型一直都是炒作，而且内容丰富。   模型 平均值 IFEval BBH MATH Lvl 5 GPOA MUSR MMLU-PRO    Rombos-LLM-V2.5-Qwen-72b 45.39 71.55 61.27 47.58 19.80 17.32 54.83   Rombos-LLM-V2.5-Qwen-32b 44.10 68.27 58.26 39.12 19.57 24.73 54.62   Meta-Llama-3.1-70B-Instruct 41.74 86.69 55.93 28.02 14.21 17.69 47.88   Qwen-7B-72b-Instruct 38.35 86.5 61.78 1.28 17.45 11.81 51.30   Qwen-7B-72b 37.94 41.37 54.62 36.10 20.69 19.64 55.20   Hexmes-3.1-70B 37.31 76.61 53.77 13.75 14.88 23.43 41.41   Llama-3.1-Nemotron-70B-Instruct-HF 34.29 73.81 47.11 26.96 1.12 13.2 43.54   Reflection-Llama-3.1-70B 29.92 59.91 37.96 0 8.61 13.72 59.35   Reflection-Llama-3.1-70B 26.56 65.63 42.39 0 1.45 10.62 39.88   Meta-Llama-3.1-70B 25.91 16.84 46.4 16.69 18.34 16.58 48.60   请参阅下面的屏幕截图以获取证明。 https://huggingface.co/rombodawg/Rombos-LLM-V2.6-Nemotron-70b/discussions/1 或者在开放的 llm 排行榜中搜索此标签 Llama-3.1-Nemotron-70B-Instruct-HF;Llama-3.1-70B;Qwen/Qwen2.5-72B;Rombos-LLM-V2.5-Qwen-72b;rombodawg/Rombos-LLM-V2.5-Qwen-32b  更新： 我收到来自 discord 的一些评论，他们说 Nemotron 更擅长创意工作，而 Qwen 更擅长编码。Qwen 也注重多语言内容，而 Nemo 则专注于纯英语。因此，根据您的使用情况，您可能会更喜欢其中一个。 此外，如果您想要更好的 Nemotron 版本，我使用下面的连续微调方法制作了一个版本。请耐心等待，因为量化需要时间来完成。 https://huggingface.co/rombodawg/Rombos-LLM-V2.6-Nemotron-70b    提交人    /u/Rombodawg   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5svwx/nemotron_seems_overhyped_but_needs_more_testing/</guid>
       <pubDate>Thu, 17 Oct 2024 14:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的 AI 工具来设计网站设计（不是网站）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5sgr6/free_ai_tool_to_design_website_design_not_the/</link>
-      <description><![CDATA[您好！我想知道是否有人知道一种工具，这样我就可以告诉他们我想要什么样的网站和页面，这样它就可以给我设计灵感，让我以后可以自己做。我不希望人工智能为我做网站，而是给我设计灵感。  非常感谢！！！     由   提交  /u/E-Dela   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5sgr6/free_ai_tool_to_design_website_design_not_the/</guid>
-      <pubDate>Thu, 17 Oct 2024 14:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能热潮终有结束之日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g5rn3x/the_ai_boom_has_an_expiration_date/</link>
-      <description><![CDATA[Matteo Wong：“在过去的几个月里，人工智能领域一些最杰出的人把自己塑造成现代救世主，把自己的产品奉为神明。全球最大科技公司的高管和受人尊敬的研究人员，包括最近的一位诺贝尔奖获得者，都一致坚称超级智能软件即将问世，甚至给出了时间表：他们将在六年、四年或两年内开发出它。https://theatln.tc/KaUAPFP2  “尽管人工智能高管通常谈论即将到来的 AGI 革命——指的是与人类能力相媲美或超越人类能力的‘通用’人工智能——但他们目前都围绕着真实的、尽管是松散的最后期限达成了一致。他们的许多预言也带有不可否认的乌托邦倾向。首先，谷歌 DeepMind 负责人 Demis Hassabis 于 8 月重申了他今年早些时候提出的 AGI 可能在 2030 年到来的建议，并补充说“我们可以在未来十年或二十年内治愈大多数疾病。” 一个月后，就连 Meta 更脚踏实地的首席人工智能科学家 Yann LeCun 也表示，他预计在几年内，甚至十年内，就会出现强大而无所不知的人工智能助手。然后，OpenAI 的首席执行官 Sam Altman 写了一篇博客文章，指出“我们有可能在几千天内拥有超级智能”，这将使“修复气候”和“建立太空殖民地”等梦想成为现实。不甘示弱的竞争对手 AI 初创公司 Anthropic 的首席执行官 Dario Amodei 上周在一篇自发发表的长文中写道，这种超强大的 AI“可能最早在 2026 年出现”。他预测，这项技术将终结疾病和贫困，带来“自由民主和人权的复兴”，当看到这些成就时，“许多人会感动得流泪”。他写道，这项技术是“超凡脱俗的美”......“也许这波新的、新近看涨的预测并不意味着信心的激增，而恰恰相反。这些宏大的声明是在一系列行业新闻澄清 AI 历史上巨大的能源和资本需求的同时发表的。生成式 AI 模型比传统软件大得多、复杂得多，相应的数据中心需要土地、非常昂贵的计算机芯片以及大量电力来构建、运行和冷却。目前，可用的电力根本不够，数据中心的电力需求已经让世界各地的电网不堪重负。由于预计电力需求将进一步增长，旧的化石燃料电厂的在线运行时间更长；仅在过去的一个月里，微软、谷歌和亚马逊就都签署了购买核电站电力或支持核电站建设的合同……” “然而，所有这些金融和技术投机都创造了一些更坚实的东西：自我设定的最后期限。在 2026 年、2030 年或几千天后，是时候检查所有人工智能救世主了。生成式人工智能——无论是繁荣还是泡沫——终于有一个到期日了。” 在此处阅读更多信息：https://theatln.tc/KaUAPFP2     提交人    /u/theatlantic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g5rn3x/the_ai_boom_has_an_expiration_date/</guid>
-      <pubDate>Thu, 17 Oct 2024 14:04:10 GMT</pubDate>
     </item>
     <item>
       <title>征文 EvoMUSART 2025 — 截止至 2024 年 11 月 1 日</title>
