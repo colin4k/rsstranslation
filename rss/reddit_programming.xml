@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 17 Oct 2024 03:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 06:02:21 GMT</lastBuildDate>
+    <item>
+      <title>电子、中子和质子可视化网页。</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5j8yf/electron_neutron_and_proton_visualization_webpage/</link>
+      <description><![CDATA[  由    /u/thebipolarbatman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5j8yf/electron_neutron_and_proton_visualization_webpage/</guid>
+      <pubDate>Thu, 17 Oct 2024 05:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 1995 年一样从头编写第一人称射击游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5ir5s/programming_a_first_person_shooter_from_scratch/</link>
+      <description><![CDATA[  由    /u/Historical_Steak_927  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5ir5s/programming_a_first_person_shooter_from_scratch/</guid>
+      <pubDate>Thu, 17 Oct 2024 04:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>REST、GraphQL、gRPC 和 tRPC：您应该选择哪一个？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5i5z9/rest_graphql_grpc_and_trpc_which_one_should_you/</link>
+      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5i5z9/rest_graphql_grpc_and_trpc_which_one_should_you/</guid>
+      <pubDate>Thu, 17 Oct 2024 03:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 中的可选类——综合教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5hss7/optional_class_in_java_a_comprehensive_tutorial/</link>
+      <description><![CDATA[  由    /u/erdsingh24  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5hss7/optional_class_in_java_a_comprehensive_tutorial/</guid>
+      <pubDate>Thu, 17 Oct 2024 03:31:40 GMT</pubDate>
+    </item>
     <item>
       <title>将 npm 编译为独立可执行文件：哪个运行时可以开箱即用地执行此操作；node、deno 还是 bun？</title>
       <link>https://www.reddit.com/r/programming/comments/1g5gyvg/compiling_npm_to_a_standalone_executable_which/</link>
@@ -13,7 +41,7 @@
       <pubDate>Thu, 17 Oct 2024 02:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>C++ 中 STL 的简单示例</title>
+      <title>C++ 中的一个简单的 STL 示例</title>
       <link>https://www.reddit.com/r/programming/comments/1g5ezqa/un_ejemplo_sencillo_de_stl_en_c/</link>
       <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g5ezqa/un_ejemplo_sencillo_de_stl_en_c/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/PersianMG  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g5684n/how_we_outsmarted_csgo_cheaters_with/</guid>
       <pubDate>Wed, 16 Oct 2024 18:20:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名专业软件工程师你应该问自己的 17 个问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1g55u4f/17_questions_you_should_ask_yourself_as_a/</link>
-      <description><![CDATA[  由    /u/ENx5vP  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g55u4f/17_questions_you_should_ask_yourself_as_a/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们都犯过的 5 个常见测试错误（以及如何避免）</title>
-      <link>https://www.reddit.com/r/programming/comments/1g55qto/5_common_testing_mistakes_weve_all_made_and_how/</link>
-      <description><![CDATA[  由    /u/ivanovyordan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g55qto/5_common_testing_mistakes_weve_all_made_and_how/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不相信人工智能是编码的未来 | Sabine Hossenfelder</title>
-      <link>https://www.reddit.com/r/programming/comments/1g55gvi/i_didnt_believe_that_ai_is_the_future_of_coding/</link>
-      <description><![CDATA[  由    /u/waozen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g55gvi/i_didnt_believe_that_ai_is_the_future_of_coding/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>jamesql：用Python实现的内存NoSQL数据库。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g54j65/jamesql_an_inmemory_nosql_database_implemented_in/</link>
-      <description><![CDATA[  由    /u/zerojames_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g54j65/jamesql_an_inmemory_nosql_database_implemented_in/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:09:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
