@@ -4,13 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 17 Oct 2024 06:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 09:02:19 GMT</lastBuildDate>
     <item>
-      <title>电子、中子和质子可视化网页。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5j8yf/electron_neutron_and_proton_visualization_webpage/</link>
-      <description><![CDATA[  由    /u/thebipolarbatman  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5j8yf/electron_neutron_and_proton_visualization_webpage/</guid>
-      <pubDate>Thu, 17 Oct 2024 05:01:02 GMT</pubDate>
+      <title>我需要为 Java 程序编写一个算法。这可以接受吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5m6yx/i_need_to_make_an_algorithm_for_a_java_program/</link>
+      <description><![CDATA[  由    /u/dolgont  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5m6yx/i_need_to_make_an_algorithm_for_a_java_program/</guid>
+      <pubDate>Thu, 17 Oct 2024 08:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 JavaScript 中的设计模式：第一部分 - 单例模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5m0sd/mastering_design_patterns_in_javascript_part_1/</link>
+      <description><![CDATA[  由    /u/HolidayCartoonist323  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5m0sd/mastering_design_patterns_in_javascript_part_1/</guid>
+      <pubDate>Thu, 17 Oct 2024 08:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 CSS 创建卡片</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5ltdt/how_to_create_a_card_with_css/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5ltdt/how_to_create_a_card_with_css/</guid>
+      <pubDate>Thu, 17 Oct 2024 08:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护分布式系统中的通信</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5lms3/protecting_communication_in_distributed_systems/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5lms3/protecting_communication_in_distributed_systems/</guid>
+      <pubDate>Thu, 17 Oct 2024 07:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>摘自 Hacker News：Hofstadter 谈 Lisp</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5lm4d/pulled_this_from_hacker_news_hofstadter_on_lisp/</link>
+      <description><![CDATA[  由    /u/Hydreak  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5lm4d/pulled_this_from_hacker_news_hofstadter_on_lisp/</guid>
+      <pubDate>Thu, 17 Oct 2024 07:47:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软开源了用 Rust 编写的新跨平台虚拟机层</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5kxl2/microsoft_has_open_sourced_its_new_crossplatform/</link>
+      <description><![CDATA[  由    /u/mareek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5kxl2/microsoft_has_open_sourced_its_new_crossplatform/</guid>
+      <pubDate>Thu, 17 Oct 2024 06:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在 Flutter 中构建开源：实时位置跟踪和共享项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1g5kshu/we_build_open_source_realtime_location_tracking/</link>
+      <description><![CDATA[  由    /u/Quirky_Watercress684  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g5kshu/we_build_open_source_realtime_location_tracking/</guid>
+      <pubDate>Thu, 17 Oct 2024 06:45:13 GMT</pubDate>
     </item>
     <item>
       <title>像 1995 年一样从头编写第一人称射击游戏</title>
@@ -41,7 +83,7 @@
       <pubDate>Thu, 17 Oct 2024 02:46:07 GMT</pubDate>
     </item>
     <item>
-      <title>C++ 中的一个简单的 STL 示例</title>
+      <title>C++ 中 STL 的简单示例</title>
       <link>https://www.reddit.com/r/programming/comments/1g5ezqa/un_ejemplo_sencillo_de_stl_en_c/</link>
       <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g5ezqa/un_ejemplo_sencillo_de_stl_en_c/</guid>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g59kyj/the_secrets_of_javascript_object_property_order/</guid>
       <pubDate>Wed, 16 Oct 2024 20:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建授权架构时要权衡的 5 个因素</title>
-      <link>https://www.reddit.com/r/programming/comments/1g57wnm/5_factors_to_weigh_when_building_authorization/</link>
-      <description><![CDATA[  由    /u/LisaDziuba  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g57wnm/5_factors_to_weigh_when_building_authorization/</guid>
-      <pubDate>Wed, 16 Oct 2024 19:32:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebRTC 竞争条件缺陷影响主要通信平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1g57loi/webrtc_race_condition_flaw_impacts_major/</link>
-      <description><![CDATA[  由    /u/pecika  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g57loi/webrtc_race_condition_flaw_impacts_major/</guid>
-      <pubDate>Wed, 16 Oct 2024 19:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>回答有关在线 SQL 编译器的常见问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1g56whb/answering_common_questions_about_online_sql/</link>
-      <description><![CDATA[  由    /u/Significant_Load_411  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g56whb/answering_common_questions_about_online_sql/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:49:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>何时应使用 String 还是 &str？</title>
-      <link>https://www.reddit.com/r/programming/comments/1g56ugk/when_should_i_use_string_vs_str/</link>
-      <description><![CDATA[  由    /u/steveklabnik1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g56ugk/when_should_i_use_string_vs_str/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forgejo v9.0 现已推出</title>
-      <link>https://www.reddit.com/r/programming/comments/1g56sk0/forgejo_v90_is_available/</link>
-      <description><![CDATA[  由    /u/JRepin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g56sk0/forgejo_v90_is_available/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何利用 IdentityLogger 战胜 CSGO 作弊者</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5684n/how_we_outsmarted_csgo_cheaters_with/</link>
-      <description><![CDATA[  由    /u/PersianMG  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5684n/how_we_outsmarted_csgo_cheaters_with/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:20:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
