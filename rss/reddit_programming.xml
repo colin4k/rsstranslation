@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Oct 2024 18:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 21:02:02 GMT</lastBuildDate>
+    <item>
+      <title>量子编程将带来什么改变（以及为什么我们还没准备好）</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6rlr1/what_quantum_programming_will_change_and_why_were/</link>
+      <description><![CDATA[从独特的算法到成本、能源和复杂性的挑战，了解量子编程如何彻底改变技术。    提交人    /u/noweh95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6rlr1/what_quantum_programming_will_change_and_why_were/</guid>
+      <pubDate>Fri, 18 Oct 2024 20:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 AI CodeGen 工具的痛苦历程</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6rd9s/the_painful_journey_of_building_an_ai_codegen_tool/</link>
+      <description><![CDATA[  由    /u/hiddenest12  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6rd9s/the_painful_journey_of_building_an_ai_codegen_tool/</guid>
+      <pubDate>Fri, 18 Oct 2024 20:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计安全且信息丰富的 API 密钥</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6qkai/designing_secure_and_informative_api_keys/</link>
+      <description><![CDATA[  由    /u/punkpeye  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6qkai/designing_secure_and_informative_api_keys/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:29:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>遗留系统现代化与 GenAI 相遇</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6q3xz/legacy_modernization_meets_genai/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6q3xz/legacy_modernization_meets_genai/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wabe 中的深度安全性：ACL、基于角色的权限</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6pyr5/indepth_security_in_wabe_acl_rolebased_permissions/</link>
+      <description><![CDATA[  由    /u/mrpalixir  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6pyr5/indepth_security_in_wabe_acl_rolebased_permissions/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:04:09 GMT</pubDate>
+    </item>
     <item>
       <title>掌握 SQL 中的 COALESCE：综合指南</title>
       <link>https://www.reddit.com/r/programming/comments/1g6nfrq/mastering_coalesce_in_sql_a_comprehensive_guide/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g6h3kr/tauri20_has_been_released_not_just_on_the_desktop/</guid>
       <pubDate>Fri, 18 Oct 2024 12:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从现有 Express 代码生成 Swagger UI</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6g5im/swagger_ui_generation_from_existing_express_code/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6g5im/swagger_ui_generation_from_existing_express_code/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:49:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择 Git 分支策略？</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6f8hr/how_to_select_git_branching_strategy/</link>
-      <description><![CDATA[  由    /u/milanm08  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6f8hr/how_to_select_git_branching_strategy/</guid>
-      <pubDate>Fri, 18 Oct 2024 10:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>RapidUDF - 基于 JIT 的高性能 C++ 表达式/脚本引擎，支持 SIMD 矢量化</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6f1f4/rapidudf_a_highperformance_jitbased_c/</link>
-      <description><![CDATA[  由    /u/snovax1983  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6f1f4/rapidudf_a_highperformance_jitbased_c/</guid>
-      <pubDate>Fri, 18 Oct 2024 10:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 最终在 2024 年添加了垂直居中</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6drmg/css_finally_adds_vertical_centering_in_2024/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6drmg/css_finally_adds_vertical_centering_in_2024/</guid>
-      <pubDate>Fri, 18 Oct 2024 09:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您确实应该了解但不想了解的 Windows 输入法知识</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6dq2i/things_you_really_should_know_about_windows_input/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6dq2i/things_you_really_should_know_about_windows_input/</guid>
-      <pubDate>Fri, 18 Oct 2024 09:05:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
