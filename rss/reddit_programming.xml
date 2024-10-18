@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Oct 2024 15:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:02:10 GMT</lastBuildDate>
+    <item>
+      <title>掌握 SQL 中的 COALESCE：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6nfrq/mastering_coalesce_in_sql_a_comprehensive_guide/</link>
+      <description><![CDATA[  由    /u/Significant_Load_411  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6nfrq/mastering_coalesce_in_sql_a_comprehensive_guide/</guid>
+      <pubDate>Fri, 18 Oct 2024 17:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL Server Management Studio（SSMS）初学者指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6nexy/a_beginners_guide_to_sql_server_management_studio/</link>
+      <description><![CDATA[  由    /u/Significant_Load_411  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6nexy/a_beginners_guide_to_sql_server_management_studio/</guid>
+      <pubDate>Fri, 18 Oct 2024 17:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>持续革新：AWS 块存储简史</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6n7os/continuous_reinvention_a_brief_history_of_block/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6n7os/continuous_reinvention_a_brief_history_of_block/</guid>
+      <pubDate>Fri, 18 Oct 2024 17:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何避免、处理和实施 HTTP 431 错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6lua2/how_to_avoid_handle_and_implement_http_431_errors/</link>
+      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6lua2/how_to_avoid_handle_and_implement_http_431_errors/</guid>
+      <pubDate>Fri, 18 Oct 2024 16:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术堆栈老虎机Gacha</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6lsfc/tech_stack_slot_machine_gacha/</link>
+      <description><![CDATA[  由    /u/codenoid  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6lsfc/tech_stack_slot_machine_gacha/</guid>
+      <pubDate>Fri, 18 Oct 2024 16:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>简化 API 文档：利用 AI 实现更智能的自动化</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6lows/api_documentation_simplified_using_ai_for_smarter/</link>
+      <description><![CDATA[  由    /u/itsrorymurphy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6lows/api_documentation_simplified_using_ai_for_smarter/</guid>
+      <pubDate>Fri, 18 Oct 2024 16:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用人工智能驯服复杂 PDF 的探索：将混乱变成 Markdown</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6ksd0/the_quest_to_tame_complex_pdfs_with_ai_turning/</link>
+      <description><![CDATA[  由    /u/ML_DL_RL  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6ksd0/the_quest_to_tame_complex_pdfs_with_ai_turning/</guid>
+      <pubDate>Fri, 18 Oct 2024 15:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么开源支付应该成为未来的发展方向？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6kqoo/why_open_source_payments_should_be_the_way_forward/</link>
+      <description><![CDATA[  由    /u/cargo_run_rust  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6kqoo/why_open_source_payments_should_be_the_way_forward/</guid>
+      <pubDate>Fri, 18 Oct 2024 15:26:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>出于对 iframe 的热爱</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6k80w/for_the_love_of_iframes/</link>
+      <description><![CDATA[  由    /u/ChiliPepperHott  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6k80w/for_the_love_of_iframes/</guid>
+      <pubDate>Fri, 18 Oct 2024 15:04:45 GMT</pubDate>
+    </item>
     <item>
       <title>AI 工具基准：Terraform 代码生成</title>
       <link>https://www.reddit.com/r/programming/comments/1g6k538/ai_tools_benchmark_terraform_code_generation/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g6dq2i/things_you_really_should_know_about_windows_input/</guid>
       <pubDate>Fri, 18 Oct 2024 09:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gleam 外部备份</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6dlbv/respaldos_externos_de_gleam/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6dlbv/respaldos_externos_de_gleam/</guid>
-      <pubDate>Fri, 18 Oct 2024 08:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>综合 Python 速查表</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6djwn/comprehensive_python_cheatsheet/</link>
-      <description><![CDATA[  由    /u/pizzaburek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6djwn/comprehensive_python_cheatsheet/</guid>
-      <pubDate>Fri, 18 Oct 2024 08:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速阅读：“使用 Cursor 增强你的编码能力”</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6d7qq/quick_read_supercharge_your_coding_with_cursor/</link>
-      <description><![CDATA[  由    /u/infneqinf  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6d7qq/quick_read_supercharge_your_coding_with_cursor/</guid>
-      <pubDate>Fri, 18 Oct 2024 08:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Postgres 对 PDF 进行全文搜索</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6d01p/full_text_search_on_pdfs_with_postgres/</link>
-      <description><![CDATA[  由    /u/Florents  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6d01p/full_text_search_on_pdfs_with_postgres/</guid>
-      <pubDate>Fri, 18 Oct 2024 08:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家初创公司的 CTO 对法学硕士编写代码的看法</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6cxgs/a_startup_ctos_thoughts_on_llms_writing_code/</link>
-      <description><![CDATA[  由    /u/rotemtam  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6cxgs/a_startup_ctos_thoughts_on_llms_writing_code/</guid>
-      <pubDate>Fri, 18 Oct 2024 08:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 ZXing 条码扫描器集成到您的 MAUI 应用程序中</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6cktn/how_to_integrate_the_zxing_barcode_scanner_into/</link>
-      <description><![CDATA[  由    /u/Slight-Astronaut-737  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6cktn/how_to_integrate_the_zxing_barcode_scanner_into/</guid>
-      <pubDate>Fri, 18 Oct 2024 07:34:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>穷人的信号</title>
-      <link>https://www.reddit.com/r/programming/comments/1g68v8i/poor_mans_signals/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g68v8i/poor_mans_signals/</guid>
-      <pubDate>Fri, 18 Oct 2024 03:21:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索生成式人工智能</title>
-      <link>https://www.reddit.com/r/programming/comments/1g68odx/exploring_generative_ai/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g68odx/exploring_generative_ai/</guid>
-      <pubDate>Fri, 18 Oct 2024 03:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 POST 请求并支持开放 API 规范的自发非 Restful Json RPC</title>
-      <link>https://www.reddit.com/r/programming/comments/1g68j35/opinionated_nonrestful_json_rpc_based_on_post/</link>
-      <description><![CDATA[  由    /u/whkelvin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g68j35/opinionated_nonrestful_json_rpc_based_on_post/</guid>
-      <pubDate>Fri, 18 Oct 2024 03:02:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
