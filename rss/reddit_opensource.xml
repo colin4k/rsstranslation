@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 18 Oct 2024 00:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 03:07:11 GMT</lastBuildDate>
+    <item>
+      <title>Voice-Pro：用于转录、翻译和文本转语音的最佳 gradio web-ui</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g67y64/voicepro_the_best_gradio_webui_for_transcription/</link>
+      <description><![CDATA[Voice-Pro 是用于转录、翻译和文本转语音的最佳 gradio web-ui。 只需单击即可轻松安装。使用 Miniconda 创建虚拟环境，完全独立于 Windows 系统运行（完全可移植）。支持实时转录和翻译，以及批处理模式。  YouTube 下载器：您可以下载 YouTube 视频并提取音频（mp3、wav、flac）。 人声消除器：使用 UVR5 中支持的 MDX-Net 和 Meta 开发的 Demucs 引擎进行语音分离。 STT：支持使用 Whisper、Faster-Whisper 和 whisper-timestamped 进行语音到文本的转换。 翻译：谷歌翻译。 TTS：文本到语音。 Edge TTS。 更多...  https://github.com/abus-aikorea/voice-pro    由   提交  /u/AdMindless4560   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g67y64/voicepro_the_best_gradio_webui_for_transcription/</guid>
+      <pubDate>Fri, 18 Oct 2024 02:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个开源存储库 - AWS 电子邮件队列和任务队列服务器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g67tuv/first_opensource_repo_aws_email_queue_task_queue/</link>
+      <description><![CDATA[长话短说。我当时正在开展几个项目，其中一些项目必须与其他服务一起大规模部署，并且所有这些项目都需要发送电子邮件。众所周知，SES 对每天和每秒发送电子邮件的数量都有限制。 我需要一个独立的服务器来排队电子邮件，然后以每秒指定的速率发送它们。所以我创建了一个可以执行此操作的小型微服务，并通知发送服务器已发送的任何状态更新、退回、报告、打开等。 我还有一个特定的用例，我需要跟踪特定任务何时过期，例如对服务的订阅。我还将其添加到微服务中，它会将此事件通知您的服务器。 查看 repo (用 TypeScript 编写) https://github.com/MrDay2Day/AWS-Email-Queue_and_Task-Queue_Server PS：我是新手，如能得到任何指点、更正、提示等，将不胜感激😅    提交人    /u/Kurupt90s   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g67tuv/first_opensource_repo_aws_email_queue_task_queue/</guid>
+      <pubDate>Fri, 18 Oct 2024 02:24:48 GMT</pubDate>
+    </item>
     <item>
       <title>需要有关支持加密的 CLI 笔记应用程序的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1g631ga/need_suggestion_about_cli_notetaking_apps_that/</link>
@@ -111,7 +125,7 @@
       <pubDate>Wed, 16 Oct 2024 00:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>有没有带有浮动或固定的收藏应用菜单的 Android 启动器？</title>
+      <title>有任何带有浮动或固定的收藏应用菜单的 Android 启动器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</link>
       <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[例如这个程序。 https://github.com/MM2-0/Kvaesitso     提交人    /u/salatabaladi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4k2rq/how_do_i_install_a_program_from_a_program_tree_on/</guid>
       <pubDate>Tue, 15 Oct 2024 22:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS 程序化 2D 图形编辑器 - Graphite 进度报告（2024 年第三季度）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4jtn7/foss_procedural_2d_graphics_editor_graphite/</link>
-      <description><![CDATA[        由    /u/Keavon 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4jtn7/foss_procedural_2d_graphics_editor_graphite/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的人，但具有类型保证和自动完成功能。里面有 Zod。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</link>
-      <description><![CDATA[        提交人    /u/webda2l   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</guid>
-      <pubDate>Tue, 15 Oct 2024 21:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
