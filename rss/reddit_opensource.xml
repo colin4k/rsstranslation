@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 18 Oct 2024 09:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:02:41 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Android PDF 编辑器或替代标准</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g6e18o/looking_for_an_android_pdf_editor_or_alternative/</link>
+      <description><![CDATA[TL;DR：我需要一个适用于 Android 的 PDF 编辑器，最好是开源的。最低要求是它无需互联网和 Google Play 服务即可运行。 我工作的地方，我们会拜访客户、修理东西，也许还会销售产品。我们填写交货单，签字后再回去。通常都是在纸上，但我们也有一个有用的 PDF 模板，其中包含文本字段、按钮等，可以数字化完成所有这些操作。 我正在寻找一个 Android 应用，使用它我可以：  填写字段 通过触摸屏在文档的某个位置签名。 对某些文本字段使用重置按钮 使用自动插入当前日期的按钮  我知道我不是第一个问这个问题的人，但是说真的吗？有没有适用于 Android 的可用开源 PDF 编辑器？？ 在最坏的情况下，我愿意以完全不同的标准重新创建模板，有什么建议吗？    提交人    /u/ThomasOe27   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g6e18o/looking_for_an_android_pdf_editor_or_alternative/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:29:44 GMT</pubDate>
+    </item>
     <item>
       <title>寻求指导：使我的程序开源是好是坏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g6bihy/looking_for_guidance_how_might_making_my_program/</link>
@@ -132,18 +139,11 @@
       <pubDate>Wed, 16 Oct 2024 00:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>有任何带有浮动或固定的收藏应用菜单的 Android 启动器吗？</title>
+      <title>有没有带有浮动或固定的收藏应用菜单的 Android 启动器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</link>
       <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
       <pubDate>Wed, 16 Oct 2024 00:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>JsTraceToIX 1.0——调试 React、Vue 和 Node.js 变得更容易！——无需用“console.log”弄乱你的代码库！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4knb6/jstracetoix_10_debugging_react_vue_and_nodejs/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4knb6/jstracetoix_10_debugging_react_vue_and_nodejs/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:45:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

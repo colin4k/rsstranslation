@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Oct 2024 09:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:02:34 GMT</lastBuildDate>
+    <item>
+      <title>从现有 Express 代码生成 Swagger UI</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6g5im/swagger_ui_generation_from_existing_express_code/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6g5im/swagger_ui_generation_from_existing_express_code/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:49:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建一个在启动时打开并且必须在访问 PC 之前完成的程序？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6ftlx/how_to_create_a_program_that_opens_on_startup_and/</link>
+      <description><![CDATA[我想创建一个程序，阻止用户在未完成某些步骤的情况下访问他们的电脑。它将公开分发，因此需要易于安装并授予相关权限。这个想法是一个数字健康应用程序，因此在完成程序之前，他们不能使用他们的电脑，这一点至关重要。我愿意学习任何语言    提交人    /u/thunderbob1998   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6ftlx/how_to_create_a_program_that_opens_on_startup_and/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何选择 Git 分支策略？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6f8hr/how_to_select_git_branching_strategy/</link>
+      <description><![CDATA[  由    /u/milanm08  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6f8hr/how_to_select_git_branching_strategy/</guid>
+      <pubDate>Fri, 18 Oct 2024 10:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>RapidUDF - 基于 JIT 的高性能 C++ 表达式/脚本引擎，支持 SIMD 矢量化</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6f1f4/rapidudf_a_highperformance_jitbased_c/</link>
+      <description><![CDATA[  由    /u/snovax1983  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6f1f4/rapidudf_a_highperformance_jitbased_c/</guid>
+      <pubDate>Fri, 18 Oct 2024 10:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 最终在 2024 年添加了垂直居中</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6drmg/css_finally_adds_vertical_centering_in_2024/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6drmg/css_finally_adds_vertical_centering_in_2024/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>您确实应该了解但不想了解的 Windows 输入法知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6dq2i/things_you_really_should_know_about_windows_input/</link>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6dq2i/things_you_really_should_know_about_windows_input/</guid>
+      <pubDate>Fri, 18 Oct 2024 09:05:32 GMT</pubDate>
+    </item>
     <item>
       <title>Gleam 外部备份</title>
       <link>https://www.reddit.com/r/programming/comments/1g6dlbv/respaldos_externos_de_gleam/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g5yykr/building_multitenant_saas_architectures_tod/</guid>
       <pubDate>Thu, 17 Oct 2024 19:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 - 开发环境和工作区</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5yqcg/opensource_development_environments_workspaces/</link>
-      <description><![CDATA[  由    /u/Karthik1729  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5yqcg/opensource_development_environments_workspaces/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中异步编程的 9 个级别</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5wb04/9_levels_of_asynchronous_programming_in_python/</link>
-      <description><![CDATA[  由    /u/wyhjsbyb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5wb04/9_levels_of_asynchronous_programming_in_python/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>💥 每周技术讲座 #33：所有最近上传的技术会议讲座。本期包括 Devoxx Belgium '24、GOTO 2024、DDD Europe '24 等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5w7fr/tech_talks_weekly_33_all_the_recently_uploaded/</link>
-      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5w7fr/tech_talks_weekly_33_all_the_recently_uploaded/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:20:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenHCL：新的开源 Paravisor</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5vk7q/openhcl_the_new_open_source_paravisor/</link>
-      <description><![CDATA[  由    /u/smalis-msft  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5vk7q/openhcl_the_new_open_source_paravisor/</guid>
-      <pubDate>Thu, 17 Oct 2024 16:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>从知识图谱中生成合成 Cot 推理轨迹</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5vhh9/synthetic_cot_reasoning_trace_generation_from/</link>
-      <description><![CDATA[这似乎是一种相当新颖的方法，可以为精准医疗中的思路推理创建高质量、扎实的合成数据。好奇其他人怎么想的。    提交人    /u/Zealousideal-Air9085   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5vhh9/synthetic_cot_reasoning_trace_generation_from/</guid>
-      <pubDate>Thu, 17 Oct 2024 16:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>单元测试作为文档</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5v11l/unit_tests_as_documentation/</link>
-      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5v11l/unit_tests_as_documentation/</guid>
-      <pubDate>Thu, 17 Oct 2024 16:31:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
