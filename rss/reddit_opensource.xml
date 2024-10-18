@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 18 Oct 2024 06:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:02:19 GMT</lastBuildDate>
+    <item>
+      <title>寻求指导：使我的程序开源是好是坏？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g6bihy/looking_for_guidance_how_might_making_my_program/</link>
+      <description><![CDATA[大家好！我是低级技能程序员和艺术家。 几年前，我开始为一个艺术项目开发程序。当时（现在也是如此）这个项目需要的技能比我所掌握的要多，所以我请一位真正的计算机工程师朋友帮忙。 他帮助我从头开始构建程序，效果很好。 现在有另一家想要运行该项目的组织对我感兴趣，但我无法完全访问在 Pi 上运行该项目的最新版本的代码。联系原始程序员的尝试没有成功，因此我与该组织合作，研究了以下选项 (a) 为他们提供早期版本，让他们的程序员之一对其进行调整，使其适合他们的需求，但这将花费更多 (b) 让他们的程序员用 C# 从头开始​​构建它，但他们希望将其开源。 我并不反对该项目开源，我觉得这是我未来想要做的事情。但我目前不明白这在使用方面意味着什么：如果代码是开源的，是否必然意味着任何人都可以获取和使用它，而不需要我作为原始项目“想法”的持有者参与其中？  除了显而易见的教训，即确保您保留自己的项目文件（我知道，我知道……），制作开源版本有哪些优点和缺点？ 我确实相信最终会将其开源，但我只是觉得我理想情况下希望对作品的呈现方式和时间有一定的控制权。这甚至没有提到我依靠使用费作为收入的一部分这一事实。 任何帮助都非常受欢迎！    提交人    /u/oresearch69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g6bihy/looking_for_guidance_how_might_making_my_program/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:13:37 GMT</pubDate>
+    </item>
     <item>
       <title>Voice-Pro：用于转录、翻译和文本转语音的最佳 gradio web-ui</title>
       <link>https://www.reddit.com/r/opensource/comments/1g67y64/voicepro_the_best_gradio_webui_for_transcription/</link>
@@ -125,7 +132,7 @@
       <pubDate>Wed, 16 Oct 2024 00:14:07 GMT</pubDate>
     </item>
     <item>
-      <title>有没有带有浮动或固定的收藏应用菜单的 Android 启动器？</title>
+      <title>有任何带有浮动或固定的收藏应用菜单的 Android 启动器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</link>
       <description><![CDATA[标题。说我有 7 个我经常使用的最喜欢的应用程序（并且我经常在它们之间切换）。我想要有浮动菜单（始终可见），这样我只需按一下就可以在应用程序之间切换。 它可以是浮动按钮的形式，甚至是固定栏（如“•back •home *windowSwitch”栏）。最重要的是它必须在应用程序中可见（这样我可以通过单击切换到另一个应用程序）    提交人    /u/MorePeppers9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4mc82/any_android_launcher_with_floating_or_fixed/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4knb6/jstracetoix_10_debugging_react_vue_and_nodejs/</guid>
       <pubDate>Tue, 15 Oct 2024 22:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 GitHub 上的程序树安装程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4k2rq/how_do_i_install_a_program_from_a_program_tree_on/</link>
-      <description><![CDATA[例如这个程序。 https://github.com/MM2-0/Kvaesitso     提交人    /u/salatabaladi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4k2rq/how_do_i_install_a_program_from_a_program_tree_on/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:19:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
