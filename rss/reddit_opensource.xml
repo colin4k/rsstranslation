@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 19 Oct 2024 09:02:08 GMT</lastBuildDate>
-    <item>
-      <title>我为 Windows 制作了 Apple Intelligence Writing Tools 的改进版！它是开源的，完全免费，而且刚刚更新 :D</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g6xj6u/i_made_a_better_version_of_the_apple_intelligence/</link>
-      <description><![CDATA[我是一名高中生，我为 Windows 开发了一款受 Apple Intelligence 启发的应用程序，该程序通过人工智能增强您的写作能力。它允许您通过按一次热键来修复整个系统的语法等问题。它是目前世界上最智能的系统级语法助手。我很荣幸地告诉大家，它曾在 XDA、Beebom 和 更多 上亮相！:O 除了是唯一一款像 Apple 的写作工具一样工作的 Windows 程序之外：  更智能的 AI：由 Google 的 Gemini 1.5 Flash 模型（~25B 参数）提供支持，比传统模型大 10 倍以上 &amp;比 Apple Intelligence 更智能的模型（设备上有 2B 参数）！ 系统范围的功能：可在任何可选择文本的应用程序中立即使用。不会覆盖或弄乱您的剪贴板。 完全免费和开源：无需订阅，无隐藏费用。无臃肿且几乎不占用 0% 的 CPU。 注重隐私：您的 API 密钥和配置文件保留在您的设备上。无日志记录、诊断收集、跟踪或广告。仅根据您的命令调用。 支持多种语言：适用于任何语言！它甚至可以比谷歌翻译更好地翻译多种语言的文本（在描述您的更改...中输入&quot;翻译成 x 语言&quot;  主题和黑暗模式：在2 个主题之间进行选择：模糊渐变主题和类似于 Windows + V 弹出窗口的普通主题！还具有完整的暗模式支持 可自定义：设置您自己的热键以快速访问。  请随时查看： https://github.com/theJayTea/WritingTools    提交人    /u/TechExpert2910   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g6xj6u/i_made_a_better_version_of_the_apple_intelligence/</guid>
-      <pubDate>Sat, 19 Oct 2024 01:02:18 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 19 Oct 2024 12:02:24 GMT</lastBuildDate>
     <item>
       <title>[Windows] bluetuith-shim-windows：用于在 Windows 上使用蓝牙经典功能的垫片和命令行工具。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g6vkk2/windows_bluetuithshimwindows_a_shim_and/</link>
@@ -127,7 +120,7 @@
     <item>
       <title>TidesDB - 专为闪存和 RAM 优化而设计的高性能、耐用、事务性嵌入式存储引擎。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</link>
-      <description><![CDATA[各位开源爱好者们好！ 希望你们都一切顺利。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
+      <description><![CDATA[各位开源爱好者们好！ 希望你们一切都好。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</guid>
       <pubDate>Wed, 16 Oct 2024 21:29:16 GMT</pubDate>
     </item>
@@ -144,6 +137,13 @@
       <description><![CDATA[您可能不需要用于桌面的播客客户端，您可以离开帖子，除非您好奇。 在所有这些 AI 噪音和炒作之间，我需要一些简单的东西，一个用于桌面的播客客户端，所以我做了它。 它只是一个简单、精心设计、轻量级的应用程序，与 nextcloud-gpodder 和 gpoder API 兼容，因此您的剧集位置和订阅可以在设备之间同步，甚至可以与其他应用程序同步。 现在已经有人在这里了，但是当你知道你有一个好的产品，价格便宜（它是免费的，而且永远是免费的）而人们不知道时，那种感觉很奇怪。 Spotify 在营销上投入了大量资金，我只有我的 Reddit 帐户和口碑。 但没有人说过开始很容易，所以 Cardo 仍然在这里，比以往任何时候都更好，具有更少的错误和新功能，当然它还不成熟，但它是我日常使用的应用程序，我喜欢它。 希望你也喜欢它。 LINK REPO    提交人    /u/n0vella_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g56cgj/a_couple_of_months_after_the_release_cardo_keeps/</guid>
       <pubDate>Wed, 16 Oct 2024 18:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>TkForge — 将您的 Figma 设计转换为 Python Tkinter 代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g53e4x/tkforge_turn_your_figma_design_into_python/</link>
+      <description><![CDATA[       由    /u/axorax  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g53e4x/tkforge_turn_your_figma_design_into_python/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:22:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
