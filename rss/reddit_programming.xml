@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 19 Oct 2024 03:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 06:02:10 GMT</lastBuildDate>
+    <item>
+      <title>使用 Flawless 进行持久执行的简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1g71saf/introduction_to_durable_execution_with_flawless/</link>
+      <description><![CDATA[  由    /u/bkolobara  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g71saf/introduction_to_durable_execution_with_flawless/</guid>
+      <pubDate>Sat, 19 Oct 2024 05:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>擦除编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1g71p2m/erasure_coding/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g71p2m/erasure_coding/</guid>
+      <pubDate>Sat, 19 Oct 2024 05:05:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>STRINGIFY C 预处理器宏</title>
+      <link>https://www.reddit.com/r/programming/comments/1g70p4q/the_stringify_c_preprocessor_macro/</link>
+      <description><![CDATA[  由    /u/henryprecheur  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g70p4q/the_stringify_c_preprocessor_macro/</guid>
+      <pubDate>Sat, 19 Oct 2024 04:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ChatGPT 进行编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1g6ztcl/programming_with_chatgpt/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g6ztcl/programming_with_chatgpt/</guid>
+      <pubDate>Sat, 19 Oct 2024 03:09:21 GMT</pubDate>
+    </item>
     <item>
       <title>heic-to：在浏览器中将 HEIC/HEIF 图像转换为 JPEG、PNG</title>
       <link>https://www.reddit.com/r/programming/comments/1g6v6zu/heicto_convert_heicheif_images_to_jpeg_png_in/</link>
@@ -48,7 +76,7 @@
       <pubDate>Fri, 18 Oct 2024 19:29:49 GMT</pubDate>
     </item>
     <item>
-      <title>传统现代化与 GenAI 的结合</title>
+      <title>遗留系统现代化与 GenAI 相遇</title>
       <link>https://www.reddit.com/r/programming/comments/1g6q3xz/legacy_modernization_meets_genai/</link>
       <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g6q3xz/legacy_modernization_meets_genai/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/cargo_run_rust  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g6kqoo/why_open_source_payments_should_be_the_way_forward/</guid>
       <pubDate>Fri, 18 Oct 2024 15:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>出于对 iframe 的热爱</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6k80w/for_the_love_of_iframes/</link>
-      <description><![CDATA[  由    /u/ChiliPepperHott  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6k80w/for_the_love_of_iframes/</guid>
-      <pubDate>Fri, 18 Oct 2024 15:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 工具基准：Terraform 代码生成</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6k538/ai_tools_benchmark_terraform_code_generation/</link>
-      <description><![CDATA[  由    /u/jameslaney  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6k538/ai_tools_benchmark_terraform_code_generation/</guid>
-      <pubDate>Fri, 18 Oct 2024 15:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何显示 CSV 文件的变化差异？</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6jiry/how_to_show_change_diffs_of_a_csv_file/</link>
-      <description><![CDATA[  由    /u/kseluythel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6jiry/how_to_show_change_diffs_of_a_csv_file/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:34:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 子模块备忘单</title>
-      <link>https://www.reddit.com/r/programming/comments/1g6jc95/git_submodule_cheat_sheet/</link>
-      <description><![CDATA[  由    /u/soap94  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g6jc95/git_submodule_cheat_sheet/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:26:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
