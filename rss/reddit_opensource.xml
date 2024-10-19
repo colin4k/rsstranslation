@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 18 Oct 2024 21:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 00:03:32 GMT</lastBuildDate>
+    <item>
+      <title>[Windows] bluetuith-shim-windows：用于在 Windows 上使用蓝牙经典功能的垫片和命令行工具。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g6vkk2/windows_bluetuithshimwindows_a_shim_and/</link>
+      <description><![CDATA[        提交人    /u/darkhz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g6vkk2/windows_bluetuithshimwindows_a_shim_and/</guid>
+      <pubDate>Fri, 18 Oct 2024 23:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共管理办公室和协作套件 | openDesk</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g6tzfu/the_office_and_collaboration_suite_for_the_public/</link>
+      <description><![CDATA[  由    /u/Doener23  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g6tzfu/the_office_and_collaboration_suite_for_the_public/</guid>
+      <pubDate>Fri, 18 Oct 2024 22:05:12 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 FAST 入门套件：适用于 SoloPreneurs 的 Next.js 样板，带有 Stripe、Google Auth、Postgres...🌟</title>
       <link>https://www.reddit.com/r/opensource/comments/1g6pmxx/fast_starter_kit_nextjs_boilerplate_for/</link>
@@ -106,7 +120,7 @@
     <item>
       <title>TidesDB - 专为闪存和 RAM 优化而设计的高性能、耐用、事务性嵌入式存储引擎。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</link>
-      <description><![CDATA[各位开源爱好者们好！ 希望你们一切都好。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
+      <description><![CDATA[各位开源爱好者们好！ 希望你们都一切顺利。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</guid>
       <pubDate>Wed, 16 Oct 2024 21:29:16 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[       由    /u/axorax  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g53e4x/tkforge_turn_your_figma_design_into_python/</guid>
       <pubDate>Wed, 16 Oct 2024 16:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>银行支票生成器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g50i7e/bank_check_generator/</link>
-      <description><![CDATA[嗨，我想知道是否有开源软件可以生成自定义的美国银行支票？由于现在银行不需要在支票上使用特殊墨水来使它们可机读，这可能是不再依赖付费支票簿的好方法。    提交人    /u/EuronextEmperor   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g50i7e/bank_check_generator/</guid>
-      <pubDate>Wed, 16 Oct 2024 14:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 在 Hacktoberfest 期间为最快的 AI 网关 Portkey AI 做出贡献！赢取 AirPods Pro 并帮助塑造 AI 基础设施的未来！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4ysle/contribute_to_portkey_ai_the_fastest_ai_gateway/</link>
-      <description><![CDATA[大家好！ 👋 Portkey AI 很高兴加入 Hacktoberfest 2024，我们邀请您为市场上增长最快的开源 AI 网关之一做出贡献！ 🌟 为什么选择 Portkey AI？  适用于生成式 AI 应用的生产就绪平台 使用统一 API 管理 250 多个 AI 模型 令人难以置信的性能：2 个 vCPU 上 90k rpm，0.8ms 延迟 6,000+ GitHub 星星和 10k 强大的社区 迄今为止服务了 5400 多亿个代币  🛠️ 您可以从事什么工作？  新的护栏和插件 LLM 提供商集成 文档改进 核心功能增强  🏆 超棒奖品：  顶级贡献者可获得 AirPods Pro（第二代） 2 个以上被接受的 PR 可获得 Portkey AI Swag Box  🔗 贡献位置：  Portkey 网关：https://github.com/Portkey-AI/gateway Portkey 文档：https://github.com/Portkey-AI/docs-core  📚 需要更多信息吗？查看我们的 Hacktoberfest 博客：https://portkey.ai/blog/p/e86fdfef-bac3-42e3-97a7-d1e2e476de92/ 加入我们，共同塑造 AI 基础设施的未来！无论您是经验丰富的开发人员还是刚刚起步，我们的社区都有适合您的空间。让我们一起创造一些令人惊叹的东西！🚀🧠    提交人    /u/KedarJadhavFan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4ysle/contribute_to_portkey_ai_the_fastest_ai_gateway/</guid>
-      <pubDate>Wed, 16 Oct 2024 13:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
