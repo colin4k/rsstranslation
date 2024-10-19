@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 19 Oct 2024 18:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 21:02:14 GMT</lastBuildDate>
+    <item>
+      <title>Fast Music Remover 正在寻找对 ML、API 设计、前端、后端 [C++/Python] 感兴趣的人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7i28s/fast_music_remover_is_looking_for_people/</link>
+      <description><![CDATA[尊敬的 OSS 社区同仁，您可能还记得我之前发过的帖子中提到的雄心勃勃且发展迅速的音频增强器项目。我们非常高兴地说，我们已经获得了宝贵的贡献者，并且有许多人正在积极地改进此工具的某些部分，为我们的 v1.0 版本做准备！ 由于我们是一个完全由志愿者驱动的项目，您的贡献和支持非常宝贵。事实上，如果没有他们，我们就不会走到这个阶段。目前，开放的行动已经非常明确，我们肯定需要更多的人手！ 以下是我们正在寻找人才的一些当前前景：  [C++] 使用 ONNX 运行时实现现有的 ML 模型，确保模型的正确功能，跨不同线程和相对较小的音频块管理其内部状态。  已对相应的 C API 进行了初步实现，这应该会提供一个起点。   [C++] 探索适合硬件的 GPU 加速。这将提高具有 GPU 的机器的离线处理性能。确保跨平台支持应该带来技术上令人满意的挑战！ [Python] 提供在我们的后端获取和提供实时反馈的方法，确保与我们的 C++ 核心和前端进行适当的互操作。  [Web] 在塑造我们前端的方向方面发挥关键作用。最终将我们从无聊的 HTML 中拯救出来！  [平台/DevOps] 帮助我们实现强大的跨平台发布管道！  我们的工具已经可以在 Windows 和 Unix 平台上运行！    已经列出了许多其他问题，我相信您可以轻松找到更多问题来改进我们的工具！如果您感兴趣或认识可能感兴趣的人，请查看并分享！  自推出以来，我们在不到 1 个月的时间内取得了重大进展，这要归功于您的支持和我们贡献者的宝贵工作。我希望我们能很快为 OSS 社区及其他社区提供一个稳定且有用的工具！  感谢您抽出时间，希望见到您！     提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7i28s/fast_music_remover_is_looking_for_people/</guid>
+      <pubDate>Sat, 19 Oct 2024 20:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 allego 或 yuja 类似的开源软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7gu0f/open_source_software_similar_to_allego_or_yuja/</link>
+      <description><![CDATA[大家好，如果问错了地方，请见谅。我正在寻找这些软件的开源版本： https://www.yuja.com/ https://www.allego.com/ 我喜欢辅导方面的内容，如果有这样的内容就太好了。    提交人    /u/acesup_11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7gu0f/open_source_software_similar_to_allego_or_yuja/</guid>
+      <pubDate>Sat, 19 Oct 2024 19:37:41 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以贡献的项目（TypeScript、UI）</title>
       <link>https://www.reddit.com/r/opensource/comments/1g7dklg/looking_for_projects_to_contribute_to_typescript/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g5m9dw/forgejo_v90_is_available/</guid>
       <pubDate>Thu, 17 Oct 2024 08:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>TidesDB - 专为闪存和 RAM 优化而设计的高性能、耐用、事务性嵌入式存储引擎。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</link>
-      <description><![CDATA[各位开源爱好者们好！ 希望你们一切都好。我很高兴与大家分享，我一直在开发一种开源嵌入式、高性能、耐用的事务存储引擎，该引擎实现了 LSMT 数据结构，用于优化闪存和内存存储。这是一个轻量级、广泛的 C++ 库。  https://github.com/tidesdb/tidesdb  特点~ - 轻量级可嵌入存储引擎 - 可变长度字节数组键和值 - 简单而有效的 API（Put、Get、Delete） - 范围功能（NGet、Range、NRange、GreaterThan、LessThan、GreaterThanEq、LessThanEq） - SSTables 和 WAL 的自定义分页器 - LSM-Tree 数据结构实现（日志结构化合并树） - 预写日志（WAL 队列用于更快的写入） - 崩溃恢复/重放 WAL（恢复） - 内存中无锁跳过列表（memtable） - 事务控制（BeginTransaction、CommitTransaction、 RollbackTransaction) 提交失败时事务自动回滚 - 墓碑删除 - 刷新和压缩操作时阻塞最少 - 后台内存表刷新 - 后台配对多线程压缩 - 可配置选项 - 支持大量数据 - 线程安全  我很乐意听到您的想法、建议或任何您可能有的想法。  谢谢！    提交人    /u/diagraphic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g5anad/tidesdb_highperformance_durable_transactional/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:29:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 WordPress 联合创始人和 WP Engine 之间的争吵……</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g59ra4/about_that_brawl_between_the_wordpress_cofounder/</link>
-      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g59ra4/about_that_brawl_between_the_wordpress_cofounder/</guid>
-      <pubDate>Wed, 16 Oct 2024 20:50:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
