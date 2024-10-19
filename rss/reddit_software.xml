@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 15:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 18:01:49 GMT</lastBuildDate>
+    <item>
+      <title>[Windows] 有没有办法自定义多台显示器之间的鼠标/光标“移动区域”？</title>
+      <link>https://www.reddit.com/r/software/comments/1g7cotv/windows_is_there_any_way_to_customise_mousecursor/</link>
+      <description><![CDATA[问题 人们常常喜欢将鼠标“扔”到屏幕的右上角，以便轻松关闭窗口，而不必有意识地瞄准它，这需要更长的时间 / 更多的努力。 但是，当光标直接越过关闭按钮进入上面的显示器时，这是不可能的！ 目前，我必须错开我的顶部显示器才能仍然能够“扔”我的鼠标使用相同的肌肉记忆移到右上角。 像这样：https://imgur.com/a/6e0CZTi  所需解决方案 我宁愿让我的顶部屏幕正常对齐，并且只是阻止光标进入上面的屏幕，在那个特定部分。 像这样：https://imgur.com/a/DkYn7tX  有什么软件可以做到这一点？我不确定我该如何谷歌搜索它，到目前为止还没有成功，大概是因为有很多不同的方式来引用这种功能。 我已经在双显示器工具中看到了相关功能，但它不允许创建区域 - 它的设置适用于整个屏幕。https://dualmonitortool.sourceforge.net/dmt_cursor.html 感谢所有帮助！    提交人    /u/Gold-Advisor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7cotv/windows_is_there_any_way_to_customise_mousecursor/</guid>
+      <pubDate>Sat, 19 Oct 2024 16:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助寻找一个用于创建 16 位或 32 位精灵的程序 - 但我记不起它的名字或创建者。由一个人创建，基于游戏。创建者允许您获取精灵并对其进行自定义以供自己使用。附件是我很久以前制作的精灵图片</title>
+      <link>https://www.reddit.com/r/software/comments/1g7ca4a/i_need_help_finding_a_program_used_create_16_or/</link>
+      <description><![CDATA[  由    /u/TemporaryAd3571  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7ca4a/i_need_help_finding_a_program_used_create_16_or/</guid>
+      <pubDate>Sat, 19 Oct 2024 16:09:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>临时文件/垃圾箱清理</title>
+      <link>https://www.reddit.com/r/software/comments/1g7bvm1/temp_files_trash_bin_clearing/</link>
+      <description><![CDATA[我不经常清理我的临时文件和存储，但是当我想清理时，我似乎总是找不到它们，有没有一个脚本我可以从某个地方获取，所以我所要做的就是将它放在我的桌面上并单击它，它就会清空我的临时文件和所有占用我存储空间的不必要的东西（临时文件、垃圾箱等）？    提交人    /u/Kevvns   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7bvm1/temp_files_trash_bin_clearing/</guid>
+      <pubDate>Sat, 19 Oct 2024 15:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一种可以使复制和粘贴更高效的软件，有什么想法吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1g7bp9c/looking_for_a_software_that_makes_copying_and/</link>
+      <description><![CDATA[我正在寻找一种软件，这样我就不必一遍又一遍地输入相同的内容。基本上，让我们来看看这个句子。 棕色的狐狸跳过了懒惰的狗。 但是，假设我的工作要求我改变狐狸的颜色和狗的类型。所以我会回去编辑它 金狐狸跳过了饥饿的狗。 现在，假设可以通过下拉菜单添加这些变化，但其余信息保持不变。是否有任何软件可以做到这一点？ 比如“____狐狸跳过了_____狗。”我可以从下拉菜单中选择选项，我可以添加要选择的项目。然后能够复制和粘贴句子。我正在处理长达一页的信息，其中只需要更改一点点。 有什么建议吗？    提交人    /u/FFFUUUme   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7bp9c/looking_for_a_software_that_makes_copying_and/</guid>
+      <pubDate>Sat, 19 Oct 2024 15:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理俱乐部会员的东西</title>
+      <link>https://www.reddit.com/r/software/comments/1g7bihg/something_to_manage_club_members/</link>
+      <description><![CDATA[刚刚成立了一个俱乐部，我们目前使用 WhatsApp 投票来统计出勤率，然后将其转录到 Excel 上。 问题是人们使用他们的昵称，很难判断一个人的出勤率。 如果我可以在 Excel 中完成，请告诉我，但我本质上想要的是：  创建一个&quot;变量&quot;，我可以存储不同类型的数据，如&quot;姓名&quot;、&quot;昵称&quot;、&quot;电话号码&quot;， 计算他们参加的次数 根据需要整齐地创建/显示表格。（例如，可能一个用于所有成员，可能一个用于第 X 周的成员，等等）     提交人    /u/LazyLich   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7bihg/something_to_manage_club_members/</guid>
+      <pubDate>Sat, 19 Oct 2024 15:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>更改日历的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1g7b7kx/app_that_changes_your_calendar/</link>
+      <description><![CDATA[嗨，我想构建一个应用程序，我希望该应用程序能够直接访问用户的日历（并使用闹钟将事情添加到日历中）。你知道一个已经像这样工作的应用程序吗，或者我自己该怎么做？ Ps：（也许只是一个可以发送闹钟的应用程序）    提交人    /u/fdjdyd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7b7kx/app_that_changes_your_calendar/</guid>
+      <pubDate>Sat, 19 Oct 2024 15:20:59 GMT</pubDate>
+    </item>
     <item>
       <title>免费的升级 PDF 的方法？</title>
       <link>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我特别希望它删除我无法在 win7 和 windows 10 中手动删除的特定软件。     提交人    /u/The_Viewer2083   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g6l9rr/software_request_software_to_remove_softwares/</guid>
       <pubDate>Fri, 18 Oct 2024 15:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 IQ Biometrix Faces 4.0</title>
-      <link>https://www.reddit.com/r/software/comments/1g6l9ah/looking_for_iq_biometrix_faces_40/</link>
-      <description><![CDATA[如果不卖肾的话，这个程序似乎真的很难实现 我在一个地方找到了它以供参考::https://facialcomposites.com/products/faces-4-0-pro-software-download?pr_prod_strat=e5_desc&amp;pr_rec_id=77571b005&amp;pr_rec_pid=6601171239083&amp;pr_ref_pid=6068033716395&amp;pr_seq=uniform    由    /u/Various-Catch4509  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6l9ah/looking_for_iq_biometrix_faces_40/</guid>
-      <pubDate>Fri, 18 Oct 2024 15:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费在线将音频文件转换为文本</title>
-      <link>https://www.reddit.com/r/software/comments/1g6jhu4/convert_audio_file_into_text_for_free_online/</link>
-      <description><![CDATA[有人可以推荐一个网站，可以通过一些人工智能或其他东西将我 1 小时长的音频转换成文本吗？ 我尝试过很多网站，但他们都希望我升级或为他们的服务付费.....请推荐免费的    提交人    /u/Brahm_a_sura   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6jhu4/convert_audio_file_into_text_for_free_online/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>鼠标宏录制器</title>
-      <link>https://www.reddit.com/r/software/comments/1g6gtnx/mouse_macro_recorder/</link>
-      <description><![CDATA[嘿，有谁知道是否有软件或网络扩展可以记录我的鼠标移动和点击，然后在发生某些事件时执行它（例如特定 URL 上的状态为 200）？我想在我的网络应用程序上自动执行一个过程，该过程偶尔会丢失连接并需要刷新（我已经使用 tapermonkey 网络扩展自动执行了这部分，并且只要 ping 后没有 pong 响应，它就会执行）。所以基本上我需要一些东西来执行我预先记录的鼠标移动和点击，因为在重新加载后，我需要将鼠标悬停在一个框上，然后出现另一个框，然后当我将鼠标悬停在第二个框上时，会出现另一个框，然后我在 URL 不变的情况下单击第三个框    提交人    /u/Alexgold46   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6gtnx/mouse_macro_recorder/</guid>
-      <pubDate>Fri, 18 Oct 2024 12:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOPdesk 数据库查看器（查看您的旧 TOPdesk 实例）</title>
-      <link>https://www.reddit.com/r/software/comments/1g6g4d8/topdesk_database_viewer_look_at_your_old_topdesk/</link>
-      <description><![CDATA[  由    /u/mrraiz0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6g4d8/topdesk_database_viewer_look_at_your_old_topdesk/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:48:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动将 WhatsApp 消息转发至电子邮件</title>
-      <link>https://www.reddit.com/r/software/comments/1g6fjh5/automatically_forward_whatsapp_messages_to_email/</link>
-      <description><![CDATA[大家好， 一家公司要求开发一款自动化软件，自动将在 WhatsApp 上收到的消息转发到电子邮件。我做了一些研究，看到有些人提到这是不可能的，因为它违反了 WhatsApp 的政策等。 是否有可能开发使用 WhatsApp API 并运行服务器的软件，每次公司收到消息时，都会将其转发到电子邮件？或者还有其他解决方案？ 我很感激任何关于此的意见或反馈。谢谢！:)    提交人    /u/almeida2233   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6fjh5/automatically_forward_whatsapp_messages_to_email/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:13:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮忙</title>
-      <link>https://www.reddit.com/r/software/comments/1g6dvez/please_help/</link>
-      <description><![CDATA[有人能帮我找出如何在不是管理员或其他人员的情况下摆脱 iPad 上的 IMT go 吗？它阻止我正常工作，我需要找出如何卸载。    提交人    /u/Miserable_Idea235   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6dvez/please_help/</guid>
-      <pubDate>Fri, 18 Oct 2024 09:17:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

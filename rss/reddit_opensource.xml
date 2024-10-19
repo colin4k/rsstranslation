@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 19 Oct 2024 15:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 18:02:02 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以贡献的项目（TypeScript、UI）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7dklg/looking_for_projects_to_contribute_to_typescript/</link>
+      <description><![CDATA[我是一名 TypeScript 开发人员，拥有 2 年经验，热爱 UI 工作。希望通过参与任何活跃项目来提高自己的技能。有人需要他们的帮助吗？    提交人    /u/Dexter_davis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7dklg/looking_for_projects_to_contribute_to_typescript/</guid>
+      <pubDate>Sat, 19 Oct 2024 17:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>droidcam 的替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</link>
+      <description><![CDATA[有没有开源替代品可以使用 Android 手机作为网络摄像头而不是 droidcam    提交人    /u/iamaj_7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</guid>
+      <pubDate>Sat, 19 Oct 2024 16:59:52 GMT</pubDate>
+    </item>
     <item>
       <title>[Windows] bluetuith-shim-windows：用于在 Windows 上使用蓝牙经典功能的垫片和命令行工具。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g6vkk2/windows_bluetuithshimwindows_a_shim_and/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g59ra4/about_that_brawl_between_the_wordpress_cofounder/</guid>
       <pubDate>Wed, 16 Oct 2024 20:50:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布几个月后，Cardo 表现越来越好</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g56cgj/a_couple_of_months_after_the_release_cardo_keeps/</link>
-      <description><![CDATA[您可能不需要用于桌面的播客客户端，您可以离开帖子，除非您好奇。 在所有这些 AI 噪音和炒作之间，我需要一些简单的东西，一个用于桌面的播客客户端，所以我做了它。 它只是一个简单、精心设计、轻量级的应用程序，与 nextcloud-gpodder 和 gpoder API 兼容，因此您的剧集位置和订阅可以在设备之间同步，甚至可以与其他应用程序同步。 现在已经有人在这里了，但是当你知道你有一个好的产品，价格便宜（它是免费的，而且永远是免费的）而人们不知道时，那种感觉很奇怪。 Spotify 在营销上投入了大量资金，我只有我的 Reddit 帐户和口碑。 但没有人说过开始很容易，所以 Cardo 仍然在这里，比以往任何时候都更好，具有更少的错误和新功能，当然它还不成熟，但它是我日常使用的应用程序，我喜欢它。 希望你也喜欢它。 LINK REPO    提交人    /u/n0vella_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g56cgj/a_couple_of_months_after_the_release_cardo_keeps/</guid>
-      <pubDate>Wed, 16 Oct 2024 18:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>TkForge — 将您的 Figma 设计转换为 Python Tkinter 代码</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g53e4x/tkforge_turn_your_figma_design_into_python/</link>
-      <description><![CDATA[       由    /u/axorax  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g53e4x/tkforge_turn_your_figma_design_into_python/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:22:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
