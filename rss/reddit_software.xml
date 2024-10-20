@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 03:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:02:09 GMT</lastBuildDate>
+    <item>
+      <title>宝石测试仪</title>
+      <link>https://www.reddit.com/r/software/comments/1g7s1jj/gemstone_tester/</link>
+      <description><![CDATA[大家好， 我正在研究宝石净度和切工扫描仪。  我见过许多独立的设备，它们在设备本身上给出评级，但我特别想编写一个使用“G1 钻石扫描仪”的旧软件的新版本。  显然我需要买一个来使用，但在任何地方都找不到。它通过 USB 连接到 PC。  有人知道如何找到这些扫描仪之一来重写他们的软件吗？     提交人    /u/Count_vonDurban   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7s1jj/gemstone_tester/</guid>
+      <pubDate>Sun, 20 Oct 2024 05:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何下载 Youtube 视频？Y2Mate 现在要求您付费</title>
+      <link>https://www.reddit.com/r/software/comments/1g7rhxa/how_to_download_youtube_videos_y2mate_now_asks/</link>
+      <description><![CDATA[多年来，我一直使用在视频链接中在“youtube”后添加“pp”的技术，但最近该页面发生了变化，现在，对于高清下载，它会告诉您付费并下载“VidCombo”，无论它是什么。 我在网上看到很多人推荐“yt-dlp”，但我不知道 github 和那些看起来像代码的东西是如何工作的…… 有什么建议吗？提前谢谢    提交人    /u/Rescoyax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7rhxa/how_to_download_youtube_videos_y2mate_now_asks/</guid>
+      <pubDate>Sun, 20 Oct 2024 05:13:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么 PDF 编辑功能您愿意付费购买？</title>
+      <link>https://www.reddit.com/r/software/comments/1g7ratp/are_there_any_pdf_editing_features_you_would_pay/</link>
+      <description><![CDATA[  由    /u/Android720  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7ratp/are_there_any_pdf_editing_features_you_would_pay/</guid>
+      <pubDate>Sun, 20 Oct 2024 05:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Web 的 DBMS 后端的软件/脚本方法？</title>
+      <link>https://www.reddit.com/r/software/comments/1g7qo77/softwarescripting_method_for_webbased_dbms_backend/</link>
+      <description><![CDATA[我的工作围绕 CRM/CMS 和 DBMS 展开。我发现自己最常做的一项具体任务是手动从新电子邮件中获取数字，然后将其更新到后端系统的相应部分。 我想我可以使用 Regex 从电子邮件的主题部分获取值，并使用 AHK 或 selenium 自动更新后端部分的值。但是，我对如何设置整个系统有点困惑。我以前试过 AHK（将鼠标移动一定距离并模拟点击），因为它是一个 web-gui 后端，所以我几乎不知道如何定位某些按钮。 有什么更好的方法或可以帮助我完成任务的工具？    提交人    /u/pillowcasecharger   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7qo77/softwarescripting_method_for_webbased_dbms_backend/</guid>
+      <pubDate>Sun, 20 Oct 2024 04:17:52 GMT</pubDate>
+    </item>
     <item>
       <title>GPU 负载转移到 CPU 了吗？</title>
       <link>https://www.reddit.com/r/software/comments/1g7or4v/gpu_load_transfered_to_cpu/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>Convo-UI：一体化聊天机器人 UI 模板</title>
       <link>https://www.reddit.com/r/software/comments/1g7m7fg/convoui_an_allinone_chatbot_ui_template/</link>
-      <description><![CDATA[亲爱的开发者， 我创建了这个存储库来支持您的项目。这不是一个产品，而是一个可以简化您的工作流程的模板。 背景如下： 在处理检索增强生成 (RAG) 项目时，我发现没有现有的聊天 UI 模板可以提供我需要的所有功能。作为回应，我决定构建自己的聊天机器人，并加入那些缺失的功能。 聊天机器人 UI：https://convo-ui.vercel.app 存储库：https://github.com/RaghaRao314159/Convo-UI ConvoUI 和 TurboGPT 中包含的主要功能：  支持多个聊天/对话：虽然 Gradio 很棒，但它一次只支持一个活动对话。我的模板通过在本地存储多个聊天（通过 localStorage）并将它们链接到身份验证密钥来解决此问题。 身份验证：该模板使用 OpenAI API 密钥集成身份验证，以实现安全性和访问控制。 深色和浅色模式：此功能可以适应系统设置或在 UI 中手动切换，从而提供外观灵活性。  我添加的新功能：  Markdown 表解析和显示：许多现有的聊天机器人 UI 模板都难以干净地呈现 markdown 表，包括 TurboGPT。我的版本解决了这个问题，确保表格显示得和在 OpenAI 的 UI 中一样整齐。 自定义后端模型集成：大多数聊天机器人 UI 缺乏与自定义后端模型交互的能力，因为与标准 API 调用相比，这些模型通常需要不同的对象类进行通信。我的模板包括使用 Flask 和 Langserve 调用后端模型的示例。您可以通过选择后端模型来测试这一点。点击访问后端存储库。 流式聊天机器人输出：虽然流式输出对于基础模型来说很简单，但在处理后端服务器时会变得复杂。经过大量测试，我成功地在此模板中为后端模型实现了流式传输功能。不幸的是，pythonanywhere 使这一点无效，我的后端目前在 pythonanywhere 上。我会适时将其移至另一台服务器。  我希望此模板能帮助您加速全栈应用程序的开发。  有关构建聊天机器人的更多资源 我已经彻底探索了构建完全自定义检索增强生成 (RAG) LLM 聊天机器人的各种方法，我的工作成果可以在我的 RAG 存储库中找到。与许多其他在线资源不同，此存储库提供了用于开发 RAG 聊天机器人的完整全栈解决方案。 对于前端开发人员： 我提供了多个 UI 选项，从简单的模型到生产级界面，以及将前端与后端集成所需的代码。聊天界面是一个 React 应用程序，类似于这个，利用了 LangServe。您可以在 AuditBot 存储库 中找到前端代码。 对于机器学习工程师： 我已经进行了大量实验来改进 RAG 框架，涵盖了 HyDE、递归检索等技术。此外，该存储库还提供了 Langchain 和 LlamaIndex 等框架的实现。它还包括数据存储的设置、使用 GuardRails 进行快速工程的示例等等。  反馈 如果您想查看聊天机器人 UI 中其他有用的附加功能，请告诉我。    提交人    /u/YagamiLight100   [链接] [评论]]]></description>
+      <description><![CDATA[亲爱的开发者， 我创建了这个存储库来支持您的项目。这不是一个产品，而是一个可以简化您的工作流程的模板。 背景如下： 在处理检索增强生成 (RAG) 项目时，我发现没有现有的聊天 UI 模板可以提供我需要的所有功能。作为回应，我决定构建自己的聊天机器人，并加入那些缺失的功能。 聊天机器人 UI：https://convo-ui.vercel.app 存储库：https://github.com/RaghaRao314159/Convo-UI ConvoUI 和 TurboGPT 中包含的主要功能：  支持多个聊天/对话：虽然 Gradio 很棒，但它一次只支持一个活动对话。我的模板通过在本地存储多个聊天（通过 localStorage）并将它们链接到身份验证密钥来解决此问题。 身份验证：该模板使用 OpenAI API 密钥集成身份验证，以实现安全性和访问控制。 深色和浅色模式：此功能可以适应系统设置或在 UI 中手动切换，从而提供外观灵活性。  我添加的新功能：  Markdown 表解析和显示：许多现有的聊天机器人 UI 模板都难以干净地呈现 markdown 表，包括 TurboGPT。我的版本解决了这个问题，确保表格显示得和在 OpenAI 的 UI 中一样整齐。 自定义后端模型集成：大多数聊天机器人 UI 缺乏与自定义后端模型交互的能力，因为与标准 API 调用相比，这些模型通常需要不同的对象类进行通信。我的模板包括使用 Flask 和 Langserve 调用后端模型的示例。您可以通过选择后端模型来测试这一点。点击访问后端存储库。 流式聊天机器人输出：虽然流式输出对于基础模型来说很简单，但在处理后端服务器时会变得复杂。经过大量测试，我成功地在此模板中为后端模型实现了流式传输功能。不幸的是，pythonanywhere 使这一点无效，我的后端目前在 pythonanywhere 上。我会适时将其移至另一台服务器。  我希望此模板能帮助您加速全栈应用程序的开发。  有关构建聊天机器人的更多资源 我已经彻底探索了构建完全自定义检索增强生成 (RAG) LLM 聊天机器人的各种方法，我的工作成果可以在我的 RAG 存储库中找到。与许多其他在线资源不同，此存储库提供了开发 RAG 聊天机器人的完整全栈解决方案。 对于前端开发人员： 我提供了多个 UI 选项，从简单的模型到生产级界面，以及将前端与后端集成所需的代码。聊天界面是一个 React 应用程序，类似于这个，利用了 LangServe。您可以在 AuditBot 存储库 中找到前端代码。 对于机器学习工程师： 我已经进行了大量实验来改进 RAG 框架，涵盖了 HyDE、递归检索等技术。此外，该存储库还提供了 Langchain 和 LlamaIndex 等框架的实现。它还包括数据存储的设置、使用 GuardRails 进行快速工程的示例等等。  反馈 如果您想查看聊天机器人 UI 中其他有用的附加功能，请告诉我。    提交人    /u/YagamiLight100   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g7m7fg/convoui_an_allinone_chatbot_ui_template/</guid>
       <pubDate>Sat, 19 Oct 2024 23:59:50 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[嗨，哪个版本的 Windows Server 适合安装在 Dell T130 PowerEdge 服务器上？    由   提交  /u/scrowley2018   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g731de/windows_server_2022_vs_2019/</guid>
       <pubDate>Sat, 19 Oct 2024 06:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 搜索很烂。是否有具有自定义算法权重等高级功能的付费替代方案？</title>
-      <link>https://www.reddit.com/r/software/comments/1g70hge/google_search_sucks_are_there_paid_alternatives/</link>
-      <description><![CDATA[基本上就是标题。我会为搜索引擎付费订阅，这样我就可以控制搜索算法和高级功能，比如日期范围搜索。 有这样的东西吗？我知道很多替代产品，比如 Duck Duck Go 和 Ecosia，但我还没有发现任何我想要的自定义控件。    提交人    /u/Digital_Pink   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g70hge/google_search_sucks_are_there_paid_alternatives/</guid>
-      <pubDate>Sat, 19 Oct 2024 03:49:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法打开或卸载 Discord</title>
-      <link>https://www.reddit.com/r/software/comments/1g6zas3/cant_open_or_uninstall_discord/</link>
-      <description><![CDATA[请帮帮我。我的电脑上的 discord 应用程序图标是一张白纸，我无法打开它，也无法在“应用程序和功能”中找到它，我在电脑上的任何地方都找不到它。你们知道我怎样才能永远删除这个应用程序吗？    提交人    /u/gibaglab   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6zas3/cant_open_or_uninstall_discord/</guid>
-      <pubDate>Sat, 19 Oct 2024 02:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>核心温度替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1g6y8n6/core_temp_alternative/</link>
-      <description><![CDATA[就像标题所说的那样，我只是资助了核心温度，但它似乎与我的服务器配合不融洽，所以我无法在任何地方访问远程日志，是否有任何其他应用程序或软件可以在我的家庭实验室中使用，以便从我的主机获取 CPU 温度（它已经开始在随机时间死机）并且我想知道它是否真的因温度而死机，事件查看器并没有具体说明，只是它意外关闭，在此之前没有任何日志可以表明任何事情。 更具体地说：主机 1 死机，主机 2 想知道主机 1 突然去了哪里，真的造成了一些麻烦，无法跟上我正在运行的服务等。 从我发现的情况来看，我应该能够使用核心温度记录 CPU 温度，但由于某种原因，它不想在我的 Windows Server 上启动远程日志，找不到有关该错误的任何信息，除非它可能与某个时间点的 Windows 更新有关（未指定日期）。 欢迎任何可以存档的内容。    提交人    /u/Mysterious-Eagle7030   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6y8n6/core_temp_alternative/</guid>
-      <pubDate>Sat, 19 Oct 2024 01:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何下载嵌入的视频？</title>
-      <link>https://www.reddit.com/r/software/comments/1g6wvdb/how_to_download_embedded_video/</link>
-      <description><![CDATA[我需要从网站下载一系列视频，需要购买并登录才能观看。J 下载器不起作用。我也按照指南从“检查元素”中提取链接，但链接应该出现的地方只是空白的。 有什么解决办法吗？    提交人    /u/retentionman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6wvdb/how_to_download_embedded_video/</guid>
-      <pubDate>Sat, 19 Oct 2024 00:27:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

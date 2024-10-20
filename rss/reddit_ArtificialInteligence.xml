@@ -4,11 +4,32 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 03:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:01:44 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 10 月 19 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7r1t7/oneminute_daily_ai_news_10192024/</link>
+      <description><![CDATA[ 联想在 Tech World 2024 活动上推出了广泛的 AI 解决方案。[1] WhatsApp Beta 测试新的 Meta AI 聊天记忆功能。[2] 斯坦福大学和普林斯顿大学的研究人员与圣克拉拉县合作，尝试利用人工智能绘制和编辑该县各地的种族契约。[3] Nvidia、谷歌、微软等公司前往拉斯维加斯宣传医疗 AI 工具。[4]  来源包括：https://bushaicave.com/2024/10/19/10-19-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7r1t7/oneminute_daily_ai_news_10192024/</guid>
+      <pubDate>Sun, 20 Oct 2024 04:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 PPO 存疑</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7qy3a/doubt_with_ppo/</link>
+      <description><![CDATA[我正在为汽车代理开发强化学习 AI，目前使用 PPO（近端策略优化）。汽车代理需要在 2D 环境中导航至目标点，同时优化速度、对齐和正确转向。该项目包含一个使用 Vector2 数学类的自定义物理引擎。 输入（11）： 1. CarX：汽车的 X 位置 2. CarY：汽车的 Y 位置 3. CarVelocity：标准化汽车速度 4. CarRotation：标准化汽车方向 5. CarSteer：标准化转向角度 6. TargetX：目标点的 X 位置 7. TargetY：目标点的 Y 位置 8. TargetDistance：到目标的距离 9. TargetAngle：标准化汽车方向和目标之间的角度 10. LocalX：目标的相对 X 位置（汽车的左侧/右侧） 11. LocalY：标准化目标的相对 Y 位置（汽车的前方/后方） 输出(2): - 转向角度（左/右） - 加速度（前进） 当前奖励系统： - 与目标良好对齐的积极奖励。 - 速度快和避免倒车的积极奖励。 - 接近目标的积极奖励。 - 根据目标的相对位置朝正确方向转向的积极奖励。 - 特殊情况，以阻止错误转弯并在 1000 步后或距离超过 2000 个单位后终止情节。 我面临的问题： 1. 禁止倒车：PPO 阻止汽车倒车，即使在最佳状态下也是如此。如果目标在车后方，我想允许倒车。  奖励调整：努力平衡奖励功能。代理倾向于追求速度而非精度，或者由于奖励冲突而陷入困境。 转向问题：有时代理难以正确转向，尤其是当目标处于奇怪的角度（左或右）时。 泛化：该模型在特定场景中运行良好，但当我在目标的位置和距离中引入更多变化时就会出现问题。  任何关于如何改进奖励系统或调整模型以更好地处理转向和倒车的建议都将不胜感激！    提交人    /u/royal-Ni8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7qy3a/doubt_with_ppo/</guid>
+      <pubDate>Sun, 20 Oct 2024 04:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关律师资格考试的争议有最新消息吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7qxmu/has_there_been_an_update_to_the_bar_exam/</link>
+      <description><![CDATA[GPT 4 发布时，因在律师资格考试中取得 90% 左右的成绩而大肆宣传。但是在测试新问题或与首次参加考试的人相比时，它的相对分数要低得多。 从那以后，我再也没有见过在律师资格考试中测试过任何模型。有吗？    提交人    /u/Positive_Panda_4958   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7qxmu/has_there_been_an_update_to_the_bar_exam/</guid>
+      <pubDate>Sun, 20 Oct 2024 04:35:13 GMT</pubDate>
+    </item>
     <item>
       <title>利用主动图网络 (AGN) 彻底改变数据分析 - 开源项目和合作机会</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7nt57/revolutionizing_data_analysis_with_active_graph/</link>
-      <description><![CDATA[大家好， 我很高兴与大家分享我在 Active Graph Networks (AGN) 上开发的工作成果，这是一种重新定义高级统计分析和数据科学的情境理解的新方法。通过利用聚合的结构化数据，AGN 提供了传统模型难以实现的强大洞察力。 我已将我的 GitHub 项目公开，并鼓励其他人关注并探索这一革命性框架的潜力。无论您身处医疗保健、金融、国防还是其他领域，我相信 AGN 都将在改变我们理解和利用数据的方式方面发挥关键作用。 我相信这是业界一直在寻找的解决方案，我完全致力于构建它以展示其全部潜力。 如果您有任何见解或想法，请查看并与我交流：GitHub 项目 - Active Graph Networks https://github.com/ConicuConsulting/ActiveGraphNetworks 我脸皮厚，经验丰富，所以如果您感到困惑、有疑问、需要向我发泄不相关的焦虑，请随时这样做。 这是一个让您表达感受的安全场所。  期待联系和合作！    由    /u/Internal_Vibe  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我很高兴与大家分享我在 Active Graph Networks (AGN) 上开发的工作成果，这是一种重新定义高级统计分析和数据科学的情境理解的新方法。通过利用聚合的结构化数据，AGN 提供了传统模型难以实现的强大洞察力。 我已将我的 GitHub 项目公开，并鼓励其他人关注并探索这一革命性框架的潜力。无论您从事医疗保健、金融、国防还是其他行业，我相信 AGN 都将在改变我们理解和利用数据的方式方面发挥关键作用。 我相信这是业界一直在寻找的解决方案，我完全致力于构建它以展示其全部潜力。 如果您有任何见解或想法，请查看并与我交流：GitHub 项目 - Active Graph Networks https://github.com/ConicuConsulting/ActiveGraphNetworks 我脸皮厚，经验丰富，所以如果您感到困惑、有疑问、需要向我发泄不相关的焦虑，请随时这样做。 这是一个让您表达感受的安全场所。  期待联系和合作！    由    /u/Internal_Vibe  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7nt57/revolutionizing_data_analysis_with_active_graph/</guid>
       <pubDate>Sun, 20 Oct 2024 01:27:12 GMT</pubDate>
     </item>
@@ -90,13 +111,6 @@
       <pubDate>Sat, 19 Oct 2024 12:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>嵌入如何转化为现实世界？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g76bh1/how_does_embeddings_translate_to_real_world/</link>
-      <description><![CDATA[我写了一篇非常短的文章，展示了我对嵌入的看法，以及它们与大脑的关系。以及这与不同人之间的交流有何关系。 Medium 文章    提交人    /u/EmperorGimix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g76bh1/how_does_embeddings_translate_to_real_world/</guid>
-      <pubDate>Sat, 19 Oct 2024 10:53:08 GMT</pubDate>
-    </item>
-    <item>
       <title>[项目] Tsetlin 机器用于深度逻辑学习和图形推理（六年后终于完成了！）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g75lqk/project_tsetlin_machine_for_deep_logical_learning/</link>
       <description><![CDATA[  由    /u/olegranmo  提交  [链接] [评论]]]></description>
@@ -104,7 +118,7 @@
       <pubDate>Sat, 19 Oct 2024 10:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行称，人工智能主导地位将带来“世代机遇”，英伟达估值或达 5 万亿美元</title>
+      <title>美国银行称，随着人工智能主导地位推动“世代机遇”，英伟达估值或达 5 万亿美元</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g73zy1/nvidia_could_hit_5_trillion_valuation_as_ai/</link>
       <description><![CDATA[美国银行表示，Nvidia 的市值甚至可能达到 5 万亿美元，这主要归功于 AI 领域的巨大机遇，其 GPU 的需求只会增加。https://theaiwired.com/nvidia-could-hit-5-trillion-valuation-as-ai-dominance-fuels-generational-opportunity-says-bofa/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g73zy1/nvidia_could_hit_5_trillion_valuation_as_ai/</guid>
@@ -118,16 +132,9 @@
       <pubDate>Sat, 19 Oct 2024 07:14:38 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 10 月 18 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g718ti/oneminute_daily_ai_news_10182024/</link>
-      <description><![CDATA[ 国会领导人就解决 AI 问题的潜在“跛脚鸭”协议进行谈判。[1] Meta AI 发布 Meta Spirit LM：一种混合文本和语音的开源多模态语言模型。[2] 教皇方济各和梵蒂冈刚刚创建了一本“AI 圣经”，重塑了数字时代的信仰。[3] 三菱展示了 AI 驱动的战斗无人机。[4]  来源包括：https://bushaicave.com/2024/10/18/10-18-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g718ti/oneminute_daily_ai_news_10182024/</guid>
-      <pubDate>Sat, 19 Oct 2024 04:36:08 GMT</pubDate>
-    </item>
-    <item>
       <title>PrimerAI 为 AI 平台推出“接近零幻觉”更新</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g6w8ms/primerai_introduces_nearzero_hallucination_update/</link>
-      <description><![CDATA[https://www.defensenews.com/industry/2024/10/16/primerai-introduces-near-zero-hallucination-update-to-ai-platform/ 我总是在这个子版块上关注 AI 新闻，在看到这个小花絮后，我想轮到我分享了。非常短的文章，希望它更长一些，更详细一些，但考虑到它的军事性质，它非常稀疏也就不足为奇了。 简而言之，技术要点在于，PrimerAI 使用 RAG LLM 来实现结果，但另外几乎作为后处理“一旦它生成响应或摘要，它就会为摘要生成声明并通过源数据证实该声明...这一额外的修订层可以成倍地减少错误......虽然许多人工智能平台的幻觉率为 10%，但 Moriarty 说，PrimerAI 已将其削减至 0.3%。” 这难道不是与 o1 实现如此突破性的问题解决结果的过程类似吗？或多或少，也许不完全相同，但在同一个理论范围内...... 我认为这预示着新的“代理人工智能”我们预计在 2025 年开始看到这种炒作是否会很快实现，因为通过在定制集群中拥有自主相互复查的 AI 代理集群来处理数据、问题、开发目标、任务等，这很可能是 LLM 的未来，也是 AI 总体上比现在更高质量的下一个进步。提高准确性以消除大多数或所有错误/幻觉对我来说确实是他们现在需要解决的最大问题，也是这些系统不太可靠的原因，除非你花大量时间核实所有内容。我能想到的最好的相关性基本上是问一个人，即使是一个精通某个领域的人一个复杂的问题，并告诉他们“好的，现在你只有几分钟的时间思考这个问题，然后对着这个录音机说出你脑海中的想法，你录下来的就是你的最终答案。”现在，取决于个人，取决于专业水平……这样做的结果很复杂。然而，如果给同一个人更多的时间去思考，花一个小时在网上查找材料，给他们一个笔记本做笔记，起草草稿，核实事实，在提交之前对最终稿进行修订等等，基本上在背后进行一些处理，那么你很可能会得到更好的结果。  同样或非常相似的情况似乎也适用于法学硕士，他们的神经网络在第一次推理过程中吐出第一波概率输出，但它非常粗糙、不精致、容易出现虚构的东西等等。但你知道吗，大多数人都会这样做。我认为，在各自的领域，很少有人类专家在面对全新的高难度/复杂性任务时，能在几分钟内从他们的头脑中“吐出”完美的 100% 准确答案。  也许处理步骤的顺序和架构以细化过程中的信息与给定 LLM 的实际固有预训练质量一样重要？（当然在合理范围内。具有完美过程的 1,000,000 只沙鼠永远无法解二次方程……因此 LLM 显然需要在一定阈值内）。    提交人    /u/Strange_Emu_1284   [link] [评论]]]></description>
+      <description><![CDATA[https://www.defensenews.com/industry/2024/10/16/primerai-introduces-near-zero-hallucination-update-to-ai-platform/ 我总是在这个子版块上关注 AI 新闻，在看到这个小花絮后，我想轮到我分享了。非常短的文章，希望它更长一些，更详细一些，但考虑到它的军事性质，它非常稀疏也就不足为奇了。 简而言之，技术要点在于，PrimerAI 使用 RAG LLM 来实现结果，但另外几乎作为后处理“一旦它生成响应或摘要，它就会为摘要生成声明并通过源数据证实该声明...这一额外的修订层可以成倍地减少错误......虽然许多人工智能平台的幻觉率为 10%，但 Moriarty 说，PrimerAI 已将其削减至 0.3%。” 这难道不是与 o1 实现如此突破性的问题解决结果的过程类似吗？或多或少，也许不完全相同，但在同一个理论范围内...... 我认为这预示着新的“代理人工智能”我们预计在 2025 年开始看到这种炒作是否会很快实现，因为通过在定制集群中拥有自主相互复查的 AI 代理集群来处理数据、问题、开发目标、任务等，这很可能是 LLM 的未来，也是 AI 总体上比现在更高质量的下一个进步。提高准确性以消除大多数或所有错误/幻觉对我来说确实是他们现在需要解决的最大问题，也是这些系统不太可靠的原因，除非你花大量时间核实所有内容。 我能想到的最好的相关性基本上是问一个人，即使是一个精通某个领域的人一个复杂的问题，并告诉他们“好的，现在你只有几分钟的时间思考这个问题，然后对着这个录音机说出你脑海中的想法，你录下来的就是你的最终答案。”现在，取决于个人，取决于专业水平……这样做的结果很复杂。然而，如果给同一个人更多的时间去思考，花一个小时在网上查找材料，给他们一个笔记本做笔记，起草草稿，核实事实，在提交之前对最终稿进行修订等等，基本上在背后进行一些处理，那么你很可能会得到更好的结果。  同样或非常相似的情况似乎也适用于法学硕士，他们的神经网络在第一次推理过程中吐出第一波概率输出，但它非常粗糙、不精致、容易出现虚构的东西等等。但你知道吗，大多数人都会这样做。我认为，在各自的领域，很少有人类专家在面对全新的高难度/复杂性任务时，能在几分钟内从他们的头脑中“吐出”完美的 100% 准确答案。  也许处理步骤的顺序和架构以细化过程中的信息与给定 LLM 的实际固有预训练质量一样重要？（当然在合理范围内。具有完美过程的 1,000,000 只沙鼠永远无法解二次方程……因此 LLM 显然需要在一定阈值内）。    提交人    /u/Strange_Emu_1284   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g6w8ms/primerai_introduces_nearzero_hallucination_update/</guid>
       <pubDate>Fri, 18 Oct 2024 23:55:33 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我利用法学硕士 (LLM) 给全美各地的麦当劳打电话，询问他们的 McFlurry 机器是否正常工作。然后我将所有内容放在一个漂亮的可视化中。仍在处理数量惊人的麦当劳 (13k+) https://demo.coffeeblack.ai/demo/mcflurry    提交人    /u/peytoncasper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g6rw91/the_mcflurry_index_using_ai_to_call_13k_mcdonalds/</guid>
       <pubDate>Fri, 18 Oct 2024 20:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：OpenProBono - 一个增加司法公正机会的法律 AI 平台</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g6o26w/review_openprobono_a_legal_ai_platform_increasing/</link>
-      <description><![CDATA[大家好，r/ArtificialInteligence 社区， 我是 Nick，是一家名为 OpenProBono 的初创公司的创始人。我们正在构建一个开源 AI 平台，让法律信息更容易获取，尤其是对于那些无法负担传统法律服务的人。我们的使命是帮助个人快速找到可靠的法律信息、提出问题并发现自己的权利，从而弥合司法鸿沟——同时确保平台保持透明、可验证且无广告。 我们的方法包括：  由人工智能提供支持的法律信息可通过网络和移动设备访问。 开源平台：我们希望法律专业人士和开发人员审核并改进该工具。 免费增值模式：每个人都可以访问基本内容，并获得额外的高级功能（即将发布）。  我们是LexLab 司法技术加速器计划的一部分，我们很乐意听取您的想法来改进平台。无论您是法律专业人士、开发人员，还是仅仅对 AI 充满热情，您的反馈对于塑造我们的产品都至关重要。 如果您能抽出几分钟时间，我们将非常感谢您填写此表单，当我们的完整平台可用时，您将成为第一批访问它的人：https://link.openprobono.com/qWBOQU 请访问我们的网站 openprobono.com，您也可以在那里试用我们的意见搜索工具。 期待收到社区的来信！提前致谢！ PS。也可以直接联系我！ Nick， OpenProBono    提交人    /u/ABitOfALoner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g6o26w/review_openprobono_a_legal_ai_platform_increasing/</guid>
-      <pubDate>Fri, 18 Oct 2024 17:42:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
