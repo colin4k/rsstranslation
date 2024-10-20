@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 20 Oct 2024 06:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 09:01:54 GMT</lastBuildDate>
+    <item>
+      <title>是什么促使你这么做的？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7tl5x/what_makes_you_do_it/</link>
+      <description><![CDATA[我最近在 e/selfhosted 上分享了一个我创建的开源项目，并收到了很多关于我的项目和我本人的负面评论。 我不明白为什么人们如此消极，我花了几个月的时间在空闲时间编写代码，我没有要钱也没有强迫任何人使用我的项目。那为什么这么消极呢？最重要的是，我既没有读过代码（我怀疑一两分钟的时间是否足以了解代码是什么样的） 如果创建了同一类别的新开源工具，特定工具的最终用户是否会感到受到攻击？ 回到标题，是什么让您忍受消极情绪并为开源世界做出贡献？    提交人    /u/mau-meda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7tl5x/what_makes_you_do_it/</guid>
+      <pubDate>Sun, 20 Oct 2024 07:47:26 GMT</pubDate>
+    </item>
     <item>
       <title>用于分析任何网站的开源 OSINT 工具。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g7s1um/open_source_osint_tool_for_analysing_any_website/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨，如果我在错误的 subreddit 中发帖，请提前致歉。 我正在寻找一款支持加密的基于命令行的笔记应用程序。 如果我没记错的话，几个月前我读到过一款类似于 pass 的应用程序。该应用程序的工作方式大致是将笔记保存在某个目录中，并使用 PGP 加密（或解密）文档文本。不幸的是，我忘记了应用程序的名称。 有人知道这样的应用程序吗？最好是与 [neo]vim 集成或至少支持 vim 键绑定的应用程序。谢谢。    提交人    /u/vie_lia   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g631ga/need_suggestion_about_cli_notetaking_apps_that/</guid>
       <pubDate>Thu, 17 Oct 2024 22:18:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的 WordPress：一封公开信和行动号召</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g5pgi8/dear_wordpress_an_openletter_call_to_action/</link>
-      <description><![CDATA[  由    /u/aidankhogg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g5pgi8/dear_wordpress_an_openletter_call_to_action/</guid>
-      <pubDate>Thu, 17 Oct 2024 12:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
