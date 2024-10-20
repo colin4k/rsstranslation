@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 20:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 00:03:57 GMT</lastBuildDate>
     <item>
-      <title>在《现在是操作系统重新发现硬件的时候了》一文中，蒂莫西·罗斯科 (Timothy Roscoe) 认为现代 [...]</title>
-      <link>https://t.me/hn_summary/113206</link>
-      <description><![CDATA[操作系统是时候重新发现硬件了
-在《操作系统是时候重新发现硬件了》一文中，Timothy Roscoe 认为，现代操作系统已经过于脱离其所运行的硬件，导致效率低下并错失优化机会。他认为，当前优先考虑可移植性和抽象性而不是硬件特定优化的趋势限制了性能提升。Roscoe 主张重新关注理解和利用硬件的独特功能来提高系统性能。这种观点挑战了行业普遍存在的抽象化趋势，引发了关于硬件特异性和软件可移植性之间平衡的争论。行动号召既令人惊讶又发人深省，敦促我们改变系统设计方法。]]></description>
-      <guid>https://t.me/hn_summary/113206</guid>
-      <pubDate>Sat, 19 Oct 2024 20:56:48 GMT</pubDate>
+      <title>[媒体] 飓风过后，佛罗里达州食肉细菌病例激增 [...]</title>
+      <link>https://t.me/hn_summary/113226</link>
+      <description><![CDATA[飓风海伦和米尔顿过后，佛罗里达州食肉菌病例增加
+据佛罗里达州卫生部门报道，飓风海伦和米尔顿过后，佛罗里达州食肉菌病例激增。坦帕湾地区的各县，尤其是希尔斯伯勒和皮内拉斯，创伤弧菌感染病例显著增加，这种细菌在温暖的沿海水域很常见，在大雨或洪水后会大量繁殖。飓风海伦来袭之前，皮内拉斯没有病例，但现在报告了 13 例，而希尔斯伯勒的病例从 1 例增加到 7 例。全州病例从 9 月初的 6 例增加到今年的 76 例。佛罗里达州卫生部建议避开洪水并采取预防措施防止感染。值得注意的是，这一模式与 2022 年飓风伊恩过后出现的类似峰值相似。]]></description>
+      <guid>https://t.me/hn_summary/113226</guid>
+      <pubDate>Sun, 20 Oct 2024 00:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 测试金字塔是一种著名的构建测试套件的启发式方法，提倡[...]</title>
-      <link>https://t.me/hn_summary/113205</link>
-      <description><![CDATA[Smurf：超越测试金字塔
-测试金字塔是一种众所周知的测试套件结构启发式方法，它主张进行更多的单元测试而不是集成测试，进行更多的集成测试而不是端到端测试。然而，随着测试套件的增长，这种模型缺乏处理复杂权衡所需的细微差别。进入 SMURF，这是一个指导测试套件平衡的助记符：速度、可维护性、利用率、可靠性和保真度。每个维度都有独特的优势和挑战。例如，单元测试速度快且资源高效，但与集成测试相比可能缺乏保真度。巧妙使用雷达图可以直观地显示这些权衡，强调改进一个维度可能会影响其他维度。平衡这些因素对于优化测试套件成本和价值至关重要。]]></description>
-      <guid>https://t.me/hn_summary/113205</guid>
-      <pubDate>Sat, 19 Oct 2024 20:52:44 GMT</pubDate>
+      <title>[媒体] 北京将扩大自动驾驶示范区面积至3000平方公里[...]</title>
+      <link>https://t.me/hn_summary/113225</link>
+      <description><![CDATA[北京计划扩大自动驾驶测试区域
+北京将扩大其自动驾驶示范区至3000平方公里，是目前城区面积的两倍多。这一举措是在2024年世界智能网联汽车大会上宣布的，旨在巩固北京在自动驾驶技术领域的领导地位。自2020年以来，北京已开发了600多平方公里的智能基础设施，向百度和京东等33家公司发放了道路测试许可证。这些公司合计测试里程超过3200万公里。此次扩张将包括无人驾驶送货和巡逻服务等多种应用。北京还在起草新法规来规范这一快速发展的行业，中国有望在 2030 年成为自动驾驶汽车的最大市场。值得注意的是，此次扩张的规模和快速的发展速度凸显了中国积极推动技术驱动型增长，这可能会引发有关监管挑战和安全标准的疑问。]]></description>
+      <guid>https://t.me/hn_summary/113225</guid>
+      <pubDate>Sat, 19 Oct 2024 23:41:47 GMT</pubDate>
     </item>
     <item>
-      <title>您是否曾想退出社交媒体？</title>
-      <link>https://t.me/hn_summary/113204</link>
-      <description><![CDATA[你想退出社交媒体吗？
-Hacker News 上的帖子开启了关于退出社交媒体愿望的讨论，许多用户可能会产生共鸣。作者邀请读者分享他们考虑离开 Facebook、Twitter 和 Instagram 等平台的经历和原因。对话涉及隐私问题、心理健康影响以及这些平台的成瘾性等问题。令人惊讶的是，成功退出并报告积极生活变化的用户数量，突显了数字排毒的趋势日益增长。这篇文章鼓励就社交媒体在我们生活中的作用进行反思性对话。]]></description>
-      <guid>https://t.me/hn_summary/113204</guid>
-      <pubDate>Sat, 19 Oct 2024 20:44:37 GMT</pubDate>
+      <title>[媒体] 我很高兴与大家分享我开发的一款新 Web 应用程序，该应用程序利用 Web Crypto API 来实现 [...]</title>
+      <link>https://t.me/hn_summary/113224</link>
+      <description><![CDATA[向 HN 展示：我创建了一个使用 Web Crypto API 加密/解密消息的 Web 应用程序
+我很高兴与大家分享我开发的一个新 Web 应用程序，该应用程序利用 Web Crypto API 使用公钥和私钥加密和解密消息。此实验可确保只有预期的作者和接收者才能访问消息内容，从而增强隐私和安全性。您可以在 GitHub 上探索源代码以了解其工作原理。该项目是使用现代 Web 技术保护通信的实践演示，对于任何对密码学感兴趣的人来说都是一个很好的工具。]]></description>
+      <guid>https://t.me/hn_summary/113224</guid>
+      <pubDate>Sat, 19 Oct 2024 23:35:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在nonzerosum.games上发表的《传染性信念：模拟政治结盟》中，作者[...]</title>
-      <link>https://t.me/hn_summary/113203</link>
-      <description><![CDATA[显示 HN：传染性信念——模拟政治结盟
-在nonzerosum.games上的“传染性信念：模拟政治结盟”中，作者探讨了信念如何在人群中传播，强调了看似不相关的意识形态之间意想不到的相关性。模拟表明，人类倾向于接受与现有信念一致的信念，寻求认知连贯性。值得注意的是，它揭示了令人惊讶的意识形态配对，例如基督教与枪支所有权之间的相关性，以及反疫苗运动在极左和极右政治中的存在。用户可以操纵信念价来进一步探索这些动态。作者邀请反馈来完善模型，并鼓励探索信念相关性，为理解信念传递提供了独特的工具。]]></description>
-      <guid>https://t.me/hn_summary/113203</guid>
-      <pubDate>Sat, 19 Oct 2024 19:58:20 GMT</pubDate>
+      <title>Hacker News 上题为“向 ChatGPT 询问这个问题 - 如果可能的话粘贴回答”的帖子邀请 [...]</title>
+      <link>https://t.me/hn_summary/113223</link>
+      <description><![CDATA[向 ChatGPT 询问这个问题 - 如果可能，请粘贴回复
+Hacker News 上的帖子“向 ChatGPT 询问这个问题 - 如果可能，请粘贴回复”邀请用户与 ChatGPT 互动，询问它“您对我了解什么，而我可能不知道自己了解什么？”这个有趣的提示鼓励探索人工智能在提供可能让用户对自己的行为或模式感到惊讶的见解方面的能力。讨论强调了使用人工智能反思个人盲点的巧妙之处，尽管它引发了有关隐私和人工智能对个人做出假设的道德影响的潜在争议。这个帖子既好奇又谨慎，反映了社区对人工智能潜力及其界限的兴趣。]]></description>
+      <guid>https://t.me/hn_summary/113223</guid>
+      <pubDate>Sat, 19 Oct 2024 23:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 伊隆·马斯克资助的政治行动委员会采取了极其愤世嫉俗的举动，将目标对准了犹太人和阿拉伯社区 [...]</title>
-      <link>https://t.me/hn_summary/113202</link>
-      <description><![CDATA[伊隆·马斯克的虚假网站和虚假文本冒充哈里斯竞选活动
-伊隆·马斯克资助的 PAC 采取了极其愤世嫉俗的举动，针对犹太人和阿拉伯人社区，发布反对卡玛拉·哈里斯对以色列和巴勒斯坦立场的广告。更具争议的是，另一个由马斯克支持的黑金组织“建设美国未来 PAC”创建了冒充哈里斯竞选活动的虚假网站和文本。这些网站，如“进步 2028”，模仿哈里斯的政策立场，但夸大到荒谬的程度，例如提倡在未经父母同意的情况下对未成年人进行变性手术。这些文本和网站被设计成看起来像是来自哈里斯的竞选活动，从而引发了有关冒充的潜在法律问题。虽然由于免责声明，这些短信在技术上并不违法，但可能违反特定法规。OpenSecrets 的 Anna Massoglia 首先报道了此事，强调了 Ron DeSantis 失败竞选活动的人员的参与。如果您收到过这些短信或对短信法规有所了解，作者希望您提供意见。]]></description>
-      <guid>https://t.me/hn_summary/113202</guid>
-      <pubDate>Sat, 19 Oct 2024 19:51:10 GMT</pubDate>
+      <title>[媒体] Next Platform 的文章讨论了 AI 数据中心加速器蓬勃发展的市场 [...]</title>
+      <link>https://t.me/hn_summary/113222</link>
+      <description><![CDATA[世界将消耗 2 万亿美元的 AI 服务器，而 AI 将反过来消耗世界
+Next Platform 的这篇文章讨论了由 AMD 和 Nvidia 等公司推动的 AI 数据中心加速器蓬勃发展的市场。尽管 GPU 部署迅速，但 AI 加速器收入的增长率正在放缓，作者将其归因于市场力量的复杂相互作用，而不是直接原因。AMD 的预测表明，到 2028 年，全球在 AI 系统上的支出可能达到 2 万亿美元，其中 AI 加速器占了这一支出的很大一部分。文章强调了潜在的经济影响，表明虽然 AI 可以提高效率和收入，但也可能导致工作流失。作者幽默地指出了全民基本收入 (UBI) 倡导者首先确保自身财务稳定的讽刺之处，强调了持续工作的必要性。该作品巧妙地将市场分析与哲学思考交织在一起，质疑人工智能崛起的更广泛影响。]]></description>
+      <guid>https://t.me/hn_summary/113222</guid>
+      <pubDate>Sat, 19 Oct 2024 22:45:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 命运的安排令人惊喜，以《盘算机世界》而闻名的已故特里·普拉切特爵士 [...]</title>
-      <link>https://t.me/hn_summary/113201</link>
-      <description><![CDATA[特里·普拉切特 (Terry Pratchett) 参与的 Oblivion 模组
-命运的转折令人惊喜，以《碟形世界》系列闻名的已故特里·普拉切特爵士 (Sir Terry Pratchett) 在电子游戏模组领域找到了创意出口。普拉切特与模组制作者 Emma 和 Charles “CD” Cooley 合作制作了 Oblivion 模组，其中有一位诺德炼金术士同伴 Vilja。他的参与始于一封赞扬 Vilja 角色的电子邮件，后来发展成为合作伙伴关系，他贡献了对话和想法，包括受他为小说《Snuff》所做的研究启发而制作的“妖精和平护身符”。尽管患有老年痴呆症，但普拉切特的想象力却蓬勃发展，启发了他设计“引路”等功能来帮助他导航。这次合作不仅是为了完善游戏，还创造了一个虚拟伴侣，为普拉切特的生活带来了欢乐和创造力。这个故事凸显了想象力和社区的力量，超越了传统讲故事的界限。]]></description>
-      <guid>https://t.me/hn_summary/113201</guid>
-      <pubDate>Sat, 19 Oct 2024 19:37:00 GMT</pubDate>
+      <title>[媒体] 在本指南中，我探讨了如何使用 S3 预签名上传 URL 与 Hetzner 的新 S3-com [...]</title>
+      <link>https://t.me/hn_summary/113221</link>
+      <description><![CDATA[将 S3 预签名上传 URL 与 Hetzners 的新对象存储结合使用
+在本指南中，我将探讨如何将 S3 预签名上传 URL 与 Hetzner 的新 S3 兼容对象存储结合使用。此设置允许用户在 Web 应用程序中直接上传，利用熟悉的 AWS SDK 而无需供应商锁定。虽然 Hetzner 提供了用于创建存储桶的访问权限和密钥，但它缺乏配置 CORS 策略的本机方法，而 CORS 策略对于启用预签名 URL 上传至关重要。我演示了如何使用 AWS CLI 手动设置 CORS 策略，尽管端点 URL 配置出现了小问题。对于寻求与 Hetzner 存储无缝集成的开发人员来说，这种解决方法至关重要。如果您觉得本指南有用，请考虑分享它并探索 Launchway 以获得全面的 SaaS 入门套件。]]></description>
+      <guid>https://t.me/hn_summary/113221</guid>
+      <pubDate>Sat, 19 Oct 2024 22:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 五角大楼特种作战司令部正在寻求开发深度伪造技术，以 [...]</title>
-      <link>https://t.me/hn_summary/113200</link>
-      <description><![CDATA[五角大楼希望利用人工智能创建 Deepfake 互联网用户
-据 The Intercept 审查的一份采购文件显示，五角大楼特种作战司令部正在寻求开发 Deepfake 技术，以创建无法检测到的虚假互联网角色。该计划旨在生成具有类似人类特征的令人信服的在线资料，用于秘密军事行动。该文件概述了对先进技术的需求，以制作可以绕过社交媒体算法的虚假图像、视频和音频。这一举措引起了争议，因为它反映了美国谴责俄罗斯和中国等对手使用的策略。批评人士认为，这种技术本质上是欺骗性的，可能会削弱公众对政府通讯的信任，凸显了美国政策中潜在的虚伪。五角大楼对深度伪造的兴趣引发了人们对全球地缘政治中欺骗行为正常化的担忧。]]></description>
-      <guid>https://t.me/hn_summary/113200</guid>
-      <pubDate>Sat, 19 Oct 2024 19:28:53 GMT</pubDate>
+      <title>[媒体] 我们很高兴推出 Mosaic，这是 Bonfire 提供的一项创新服务，它使组织能够 [...]</title>
+      <link>https://t.me/hn_summary/113220</link>
+      <description><![CDATA[Mosaic：共同设计您自己的联合数字空间
+我们很高兴推出 Mosaic，这是 Bonfire 的一项创新服务，它使组织能够根据其独特需求创建定制的联合数字空间。Mosaic 融合了传统网站和社交网络平台的功能，允许广泛的信息共享和社区协作。与传统平台不同，Mosaic 提供自托管选项，免除用户订阅费并授予对其数字环境的完全控制权。这一举措在当今的网络世界中尤为重要，成功取决于不同社区之间的无缝沟通和协作。Mosaic 利用 fediverse，这是一个优先考虑数据所有权和用户控制的去中心化网络，为大型科技公司的利润驱动模式提供了令人耳目一新的替代方案。我们的开源框架确保解决方案有利于更广泛的生态系统，促进创新和协作的循环。一个突出的例子是我们与独立电影档案馆合作的项目，将其转变为一个动态的互动空间。Mosaic 展示了组织如何通过连接蓬勃发展，为造福所有人的数字共享做出贡献。加入我们，构建一个满足您社区需求的联合数字空间。]]></description>
+      <guid>https://t.me/hn_summary/113220</guid>
+      <pubDate>Sat, 19 Oct 2024 22:30:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Philip G.</title>
-      <link>https://t.me/hn_summary/113199</link>
-      <description><![CDATA[“斯坦福监狱实验”心理学家津巴多去世，享年 91 岁——美联社新闻
-斯坦福大学宣布，臭名昭著的“斯坦福监狱实验”背后的著名心理学家菲利普·G·津巴多去世，享年 91 岁。这项 1971 年的实验旨在探索感知权力的心理影响，但由于被指派为狱警的参与者的虐待行为和被指派为囚犯的参与者的情绪困扰，实验仅进行了六天后就突然停止。津巴多因其作为监狱长的积极角色而受到批评，损害了他的客观性。尽管存在争议，但这项研究仍然是心理学研究伦理学的重要一课。除此之外，津巴多的研究还涉及说服、害羞和利他主义等主题。他身后留下了妻子克里斯蒂娜·马斯拉赫·津巴多、三个孩子和四个孙辈。]]></description>
-      <guid>https://t.me/hn_summary/113199</guid>
-      <pubDate>Sat, 19 Oct 2024 19:26:50 GMT</pubDate>
+      <title>[媒体] 基于消息队列的架构曾经是分布式系统的宠儿，但现在已成为 [...]</title>
+      <link>https://t.me/hn_summary/113219</link>
+      <description><![CDATA[基于消息队列的架构揭示了分布式系统演进的哪些方面
+基于消息队列的架构曾经是分布式系统的宠儿，如今已成为现代基础设施的基础但并不令人兴奋。这些系统（包括 RabbitMQ、Kafka 和 Redis 等流行工具）通过消息传输和发布-订阅模式促进微服务中的通信。尽管它们的炒作减少，但它们仍然至关重要，类似于 TerraForm 和 Linux。热度的下降归因于技术成熟度和不断发展的开发人员思维方式。然而，面向消息的中间件市场仍在继续增长，Confluent 最近收购了 WarpStream Labs 就是明证。本系列将探索消息传递的过去、现在和未来，并从行业专家那里汲取见解。值得注意的是，Redis 作为分布式系统中的消息代理的角色尤为有趣。]]></description>
+      <guid>https://t.me/hn_summary/113219</guid>
+      <pubDate>Sat, 19 Oct 2024 22:30:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 微软正在采用创新的欺骗策略来打击网络钓鱼，通过创建真实的 [...]</title>
-      <link>https://t.me/hn_summary/113198</link>
-      <description><![CDATA[微软创建虚假 Azure 租户，将网络钓鱼者拉入蜜罐
-微软正在采用创新的欺骗策略来打击网络钓鱼，通过创建逼真的蜜罐 Azure 租户来引诱网络犯罪分子并收集情报。Ross Bevington 在 BSides Exeter 会议上详细介绍了这一策略，包括使用这些租户的虚假凭据积极与网络钓鱼网站互动。与被动等待攻击者的传统蜜罐不同，微软的方法主动向网络钓鱼网站提供凭据，捕获有关攻击者方法和基础设施的详细数据。这种方法不仅可以破坏网络钓鱼活动，还可以提供有关威胁行为者的宝贵见解，包括俄罗斯 Midnight Blizzard 等民族国家组织。令人惊讶的是微软行动的规模和复杂性，它浪费了攻击者的时间并为更广泛的安全应用程序收集情报。这种方法凸显了微软利用其资源进行大规模威胁搜寻的独特能力，为网络安全防御树立了新标准。]]></description>
-      <guid>https://t.me/hn_summary/113198</guid>
-      <pubDate>Sat, 19 Oct 2024 19:12:41 GMT</pubDate>
+      <title>Vifm 的最新更新引入了多项增强功能，旨在改善文件系统导航 [...]</title>
+      <link>https://t.me/hn_summary/113218</link>
+      <description><![CDATA[Vifm
+Vifm 的最新更新引入了多项增强功能，旨在改善文件系统导航和用户交互。一个值得注意的功能是新的搜索/过滤子模式，通过按 / 或 = 后激活，它允许用户在不退出命令行模式的情况下导航路径组件。此更新还带来了更具交互性的 :compare 功能，在状态栏上显示文件比较统计信息，并提供使用可见性切换重新运行比较的选项。添加了鼠标支持以实现更简单的浏览，冲突对话框现在包含基本文件元数据。此外，性能和内存使用情况也得到了优化。但是，之前的更新无意中加剧了 Windows 上的一个旧错误，此版本解决了该错误。%N 宏已调整为更好地与 Kitty 的图像预览集成，并且对搜索功能进行了大量修复。]]></description>
+      <guid>https://t.me/hn_summary/113218</guid>
+      <pubDate>Sat, 19 Oct 2024 22:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《矮人要塞》的 Let's Play 系列介绍中，我们深入探讨了 [...]</title>
-      <link>https://t.me/hn_summary/113197</link>
-      <description><![CDATA[矮人要塞 – Boatmurdered 第 1 部分 – 简介
-在《矮人要塞》的 Let&#39;s Play 系列介绍中，我们深入探讨了 Boatmurdered 堡垒的混乱传奇。故事采用连续式玩法，每个玩家管理堡垒一年，然后将控制权移交给下一个玩家。堡垒的历史以不断升级的疯狂为标志，尤其是在 StarkRavingMad 统治期间，发生了臭名昭著的“大象战争”。这个系列捕捉到了矮人要塞不可预测的本质，这是一款复杂的 2-D 基地建设游戏，其中矮人具有自主行为，可以对环境做出戏剧性反应。 ASCII 风格的图形可能看起来令人望而生畏，但玩家的评论却提供了清晰和幽默。这个系列的独特之处在于它将战略游戏玩法与矮人行为的不可预测性相结合，从而产生了喜剧和悲剧的结局。欢迎来到 Boatmurdered 的疯狂世界！]]></description>
-      <guid>https://t.me/hn_summary/113197</guid>
-      <pubDate>Sat, 19 Oct 2024 19:08:36 GMT</pubDate>
+      <title>Kindle Digest 是一个旨在将 Hacker News 文章和新闻简报直接发送给您的工具 [...]</title>
+      <link>https://t.me/hn_summary/113217</link>
+      <description><![CDATA[显示 HN：Kindle Digest – 在 Kindle 上阅读 Hacker News 和新闻通讯
+Kindle Digest 是一种旨在将 Hacker News 文章和新闻通讯直接传送到您的 Kindle 的工具，通过格式化内容以实现最佳 Kindle 显示效果来增强您的阅读体验。该项目自动执行获取最新内容、将其转换为 Kindle 友好格式并通过电子邮件发送到您的设备的过程。它通过支持各种新闻通讯（正在开发的功能）并提供与 SES 和 Lambda 等 AWS 服务的无缝集成以实现自动交付而脱颖而出。用户还可以使用其他电子邮件服务将其部署在自己的机器上。该项目根据 MIT 许可获得许可，并受到 hn-kindle 的启发。]]></description>
+      <guid>https://t.me/hn_summary/113217</guid>
+      <pubDate>Sat, 19 Oct 2024 22:28:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
