@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 12:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 15:02:02 GMT</lastBuildDate>
+    <item>
+      <title>MPC-BE 如何拥有两个具有不同视图的实例窗口？</title>
+      <link>https://www.reddit.com/r/software/comments/1g80kdf/mpcbe_how_to_have_two_instance_windows_with/</link>
+      <description><![CDATA[我正在使用 MPC-BE，并且很喜欢它。我的问题是，是否可以有两个不同的窗口实例，它们具有相同的设置/播放列表等，但视图设置不同，例如不同的位置、分辨率、视图预设？ 或者是否可以有不同的视图设置（位置/分辨率），我可以用一个按钮轻松更改？谢谢！    提交人    /u/satosoujirou   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g80kdf/mpcbe_how_to_have_two_instance_windows_with/</guid>
+      <pubDate>Sun, 20 Oct 2024 14:56:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个结合日历、待办事项和笔记的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1g80h1q/looking_for_a_combined_calendar_to_do_list_and/</link>
+      <description><![CDATA[我正在寻找一款应用来组织我的任务、笔记和预定活动。我最近尝试了 Amplenote，除了一件事之外，它非常完美：它有一个日历，但只适用于任务，而不适用于活动？？  因此，基本上我正在寻找具有以下功能的应用程序：  待办事项列表、日历和笔记，所有这些都相互关联并协同工作 可以对任务/笔记/事件进行分类和排序 适用于 PC 和移动设备 不需要像 Notion 或 Obsidian 那样进行大量设置  我真的很感激对此的一些意见，因为管理我所有的东西现在变得非常令人沮丧......    提交人    /u/xMirayan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g80h1q/looking_for_a_combined_calendar_to_do_list_and/</guid>
+      <pubDate>Sun, 20 Oct 2024 14:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>在软件开发领域取得经济成功的最佳学习计划是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1g80de2/what_would_be_the_best_study_plan_to_be/</link>
+      <description><![CDATA[我是一个年轻的程序员，还没有找到第一份工作，我今年 22 岁，我想学习一些可以帮助我起步的技能。    提交人    /u/JuanYaya   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g80de2/what_would_be_the_best_study_plan_to_be/</guid>
+      <pubDate>Sun, 20 Oct 2024 14:48:03 GMT</pubDate>
+    </item>
     <item>
       <title>您知道一个免费的语音转文本网站吗？</title>
       <link>https://www.reddit.com/r/software/comments/1g7wsmr/do_you_know_a_free_speechtotext_website/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>GPU 负载转移到 CPU 了吗？</title>
       <link>https://www.reddit.com/r/software/comments/1g7or4v/gpu_load_transfered_to_cpu/</link>
-      <description><![CDATA[大家好，自从我将主板 BIOS 设置重置为默认值（ASUS PRIME B560-PLUS）后，我的电脑运行起来就比以前慢了，我发现的一个问题是，在游戏中我的 CPU 使用率高于 GPU（CPU：50%，GPU：30%），而之前我的 GPU 使用率高于 CPU，并且比 CPU 承担更多的工作负载（CPU：5%，GPU：90%），有谁知道我可以更改什么设置来解决这个问题？    提交人    /u/Znobluz   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，自从我将主板 BIOS 设置重置为默认值（ASUS PRIME B560-PLUS）后，我的电脑运行起来就比以前慢了，我发现的一个问题是，在游戏中我的 CPU 使用率高于 GPU（CPU：50%，GPU：30%），而之前我的 GPU 使用率高于 CPU，并且比我的 CPU 承担更多的工作负载（CPU：5%，GPU：90%），有谁知道我可以更改什么设置来解决这个问题？    提交人    /u/Znobluz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g7or4v/gpu_load_transfered_to_cpu/</guid>
       <pubDate>Sun, 20 Oct 2024 02:20:51 GMT</pubDate>
     </item>
@@ -120,30 +141,9 @@
     <item>
       <title>管理俱乐部会员的东西</title>
       <link>https://www.reddit.com/r/software/comments/1g7bihg/something_to_manage_club_members/</link>
-      <description><![CDATA[刚刚成立了一个俱乐部，我们目前使用 WhatsApp 投票来统计出勤率，然后将其转录到 Excel 上。 问题是人们使用他们的昵称，很难判断一个人的出勤率。 如果我可以在 Excel 中完成，请告诉我，但我本质上想要的是：  创建一个&quot;变量&quot;，我可以存储不同类型的数据，如&quot;姓名&quot;、&quot;昵称&quot;、&quot;电话号码&quot;， 计算他们参加的次数 根据需要整齐地创建/显示表格。（例如，可能一个用于所有成员，可能一个用于第 X 周的成员，等等）     提交人    /u/LazyLich   [链接] [评论]]]></description>
+      <description><![CDATA[刚刚成立了一个俱乐部，我们目前使用 WhatsApp 投票进行出勤统计，然后将其转录到 Excel 上。 问题是人们使用他们的昵称，很难判断一个人的出勤率。 如果我可以在 Excel 中完成，请告诉我，但我本质上想要的是：  创建一个&quot;变量&quot;，我可以存储不同类型的数据，如&quot;姓名&quot;、&quot;昵称&quot;、&quot;电话号码&quot;， 计算他们参加的次数 根据需要整齐地创建/显示表格。（例如，可能一个用于所有成员，可能一个用于第 X 周的成员，等等）     提交人    /u/LazyLich   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g7bihg/something_to_manage_club_members/</guid>
       <pubDate>Sat, 19 Oct 2024 15:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改日历的应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1g7b7kx/app_that_changes_your_calendar/</link>
-      <description><![CDATA[嗨，我想构建一个应用程序，我希望该应用程序能够直接访问用户的日历（并使用闹钟将事情添加到日历中）。你知道一个已经像这样工作的应用程序吗，或者我自己该怎么做？ Ps：（也许只是一个可以发送闹钟的应用程序）    提交人    /u/fdjdyd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g7b7kx/app_that_changes_your_calendar/</guid>
-      <pubDate>Sat, 19 Oct 2024 15:20:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的升级 PDF 的方法？</title>
-      <link>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</link>
-      <description><![CDATA[我的 PDF 大约有 200 页 18mb，几乎无法阅读，哈哈  我可以接受网站、Windows 应用程序、Linux 应用程序和 Android 应用程序，即使它是一个可以在旧版 iPhone 7 上运行的应用程序 但我更喜欢 Foss 应用程序 \ 安全    提交人    /u/Exotic_Insurance_969   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</guid>
-      <pubDate>Sat, 19 Oct 2024 14:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于构建、存储和管理详细用户配置文件的基于 Web 的工具。</title>
-      <link>https://www.reddit.com/r/software/comments/1g77zod/webbased_tool_for_building_storing_and_managing/</link>
-      <description><![CDATA[我正在探索 Airtable 或其替代方案，以便为我的初创公司构建特定用户组的详细资料。这些资料是通过用户填写表格、多轮访谈（我们会做笔记）和其他事情创建的。 我们的要求：  每个资料中将有大约 30 个信息字段。有些字段可能是长文本（100-200 字），因此应该易于输入和阅读（就像在 google sheet 中一样，这不是最简单的）。当我们进行采访和/或打开某人的个人资料时，如果能将其打开为一个独立页面，其中所有字段都像表格一样列出，以便我们轻松输入、编辑和阅读，那就太理想了。 将有超过 1 人更新用户的个人资料 信息应易于编辑 我们应该获得所有个人资料的表格视图（我们预计第一阶段将有大约 25-30 个个人资料） 个人资料的内容将全部为文本。  我考虑过使用 Airtable Forms，但我认为我们无法在提交后编辑数据，并且超过 1 人无法在同一表格上工作。 请提出建议！ 提前致谢！    提交人    /u/Trick-Bee-23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g77zod/webbased_tool_for_building_storing_and_managing/</guid>
-      <pubDate>Sat, 19 Oct 2024 12:40:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

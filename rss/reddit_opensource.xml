@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 20 Oct 2024 12:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 15:02:18 GMT</lastBuildDate>
+    <item>
+      <title>面向开发人员的聊天机器人 UI 模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7ywge/chatbot_ui_template_for_developers/</link>
+      <description><![CDATA[尊敬的开发人员， 我创建此存储库是为了支持您的项目。这不是一个产品，而是一个可以简化您的工作流程的模板。 背景如下： 在处理检索增强生成 (RAG) 项目时，我发现没有现有的聊天 UI 模板提供我需要的所有功能。为此，我决定构建自己的聊天 UI 模板，并整合那些缺失的功能。我的模板是对 TurboGPT 的改进。 聊天机器人 UI：https://convo-ui.vercel.app 存储库：https://github.com/RaghaRao314159/Convo-UI ConvoUI 和 TurboGPT 中包含的主要功能：  支持多个聊天/对话：虽然 Gradio 很棒，但它一次只支持一个活动对话。我的模板通过在本地存储多个聊天（通过 localStorage）并将它们链接到身份验证密钥来解决此问题。 身份验证：该模板使用 OpenAI API 密钥集成身份验证，以实现安全性和访问控制。 深色和浅色模式：此功能可以适应系统设置或在 UI 中手动切换，从而提供外观灵活性。  我添加的新功能：  Markdown 表解析和显示：许多现有的聊天机器人 UI 模板都难以干净地呈现 markdown 表，包括 TurboGPT。我的版本解决了这个问题，确保表格显示得和在 OpenAI 的 UI 中一样整齐。 自定义后端模型集成：大多数聊天机器人 UI 缺乏与自定义后端模型交互的能力，因为与标准 API 调用相比，这些模型通常需要不同的对象类进行通信。我的模板包括使用 Flask 和 Langserve 调用后端模型的示例。您可以通过选择后端模型来测试这一点。点击访问后端存储库。 流式聊天机器人输出：虽然流式输出对于基础模型来说很简单，但在处理后端服务器时会变得复杂。经过大量测试，我成功地在此模板中为后端模型实现了流式传输功能。不幸的是，pythonanywhere 使这一点无效，我的后端目前在 pythonanywhere 上。我会适时将其移至另一台服务器。  我希望此模板能帮助您加速全栈应用程序的开发。  有关构建聊天机器人的更多资源 我已经彻底探索了构建完全自定义检索增强生成 (RAG) LLM 聊天机器人的各种方法，我的工作成果可以在我的 RAG 存储库中找到。与许多其他在线资源不同，此存储库提供了开发 RAG 聊天机器人的完整全栈解决方案。 对于前端开发人员： 我提供了多个 UI 选项，从简单的模型到生产级界面，以及将前端与后端集成所需的代码。聊天界面是一个 React 应用程序，类似于这个，利用了 LangServe。您可以在 AuditBot 存储库 中找到前端代码。 对于机器学习工程师： 我已经进行了大量实验来改进 RAG 框架，涵盖了 HyDE、递归检索等技术。此外，该存储库还提供了 Langchain 和 LlamaIndex 等框架的实现。它还包括数据存储的设置、使用 GuardRails 进行快速工程的示例等等。  反馈 如果您想查看聊天机器人 UI 中其他有用的附加功能，请告诉我。    提交人    /u/YagamiLight100   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7ywge/chatbot_ui_template_for_developers/</guid>
+      <pubDate>Sun, 20 Oct 2024 13:38:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[公告] Back In Time 1.5.3 候选版本发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7xvop/announcement_release_candidate_for_back_in_time/</link>
+      <description><![CDATA[  由    /u/buhtz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7xvop/announcement_release_candidate_for_back_in_time/</guid>
+      <pubDate>Sun, 20 Oct 2024 12:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找适用于 Windows 的离线照片管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g7x6s7/looking_for_an_offline_photo_organiser_for_windows/</link>
+      <description><![CDATA[我正在寻找一个适用于 Windows 的应用程序，我可以将我所有家人的照片放入其中，并且可以：  显示我的所有照片 检查重复项 根据拍摄日期元数据重命名所有文件 - 根据拍摄日期创建文件夹（例如每个月的文件夹） 支持标记照片（例如 2020 年假期）  不需要任何照片编辑功能。 理想情况下可移植且完全离线。 有这样的东西吗？提前致谢    提交人    /u/mcfroogle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g7x6s7/looking_for_an_offline_photo_organiser_for_windows/</guid>
+      <pubDate>Sun, 20 Oct 2024 12:05:50 GMT</pubDate>
+    </item>
     <item>
       <title>关于智能眼镜。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g7wtfw/about_smart_glasses/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>droidcam 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</link>
-      <description><![CDATA[是否有任何开源替代方案可以使用 Android 手机作为网络摄像头而不是 droidcam 编辑：我想通过 usb 使用，wifi 是第二偏好    提交人    /u/iamaj_7   [链接] [评论]]]></description>
+      <description><![CDATA[有没有开源替代方案可以使用 Android 手机作为网络摄像头而不是 droidcam 编辑：我想通过 usb 使用，wifi 是第二偏好    提交人    /u/iamaj_7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</guid>
       <pubDate>Sat, 19 Oct 2024 16:59:52 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[        由    /u/nbolton 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g6hac1/should_deskflow_open_source_keyboard_and_mouse/</guid>
       <pubDate>Fri, 18 Oct 2024 12:50:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>找不到适合初学者的开源项目。请为 reactjs/Nextjs 开发人员推荐一个开源项目，或者分享您的项目（如果有）。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g6gn8k/cant_find_a_beginner_friendly_open_source_project/</link>
-      <description><![CDATA[因此我尝试搜索针对 reactjs 开发人员的开源项目。这些项目让我应接不暇，而且大多数时候我只能找到像 vercel 的 repo、react 的 repo 这样的大项目。  如果有人为开源初学者推荐一个开源项目，我可以作为前端开发人员做出贡献，我将不胜感激。 或者如果您有一个开源项目并且需要前端开发人员，我很乐意成为其中的一员。我非常想进入开源领域。     提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g6gn8k/cant_find_a_beginner_friendly_open_source_project/</guid>
-      <pubDate>Fri, 18 Oct 2024 12:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Android PDF 编辑器或替代标准</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g6e18o/looking_for_an_android_pdf_editor_or_alternative/</link>
-      <description><![CDATA[TL;DR：我需要一个适用于 Android 的 PDF 编辑器，最好是开源的。最低要求是它无需互联网和 Google Play 服务即可运行。 我工作的地方，我们会拜访客户、修理东西，也许还会销售产品。我们填写交货单，签字后再回去。通常都是在纸上，但我们也有一个有用的 PDF 模板，其中包含文本字段、按钮等，可以数字化完成所有这些操作。 我正在寻找一个 Android 应用，使用它我可以：  填写字段 通过触摸屏在文档的某个位置签名。 对某些文本字段使用重置按钮 使用自动插入当前日期的按钮  我知道我不是第一个问这个问题的人，但是说真的吗？有没有适用于 Android 的可用开源 PDF 编辑器？？ 在最坏的情况下，我愿意以完全不同的标准重新创建模板，有什么建议吗？    提交人    /u/ThomasOe27   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g6e18o/looking_for_an_android_pdf_editor_or_alternative/</guid>
-      <pubDate>Fri, 18 Oct 2024 09:29:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求指导：使我的程序开源是好是坏？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g6bihy/looking_for_guidance_how_might_making_my_program/</link>
-      <description><![CDATA[大家好！我是低级技能程序员和艺术家。 几年前，我开始为一个艺术项目开发程序。当时（现在也是如此）这个项目需要的技能比我所掌握的要多，所以我请一位真正的计算机工程师朋友帮忙。 他帮助我从头开始构建程序，效果很好。 现在有另一家想要运行该项目的组织对我感兴趣，但我无法完全访问在 Pi 上运行该项目的最新版本的代码。联系原始程序员的尝试没有成功，因此我与该组织合作，研究了以下选项 (a) 为他们提供早期版本，让他们的程序员之一对其进行调整，使其适合他们的需求，但这将花费更多 (b) 让他们的程序员用 C# 从头开始​​构建它，但他们希望将其开源。 我并不反对该项目开源，我觉得这是我未来想要做的事情。但我目前不明白这在使用方面意味着什么：如果代码是开源的，是否必然意味着任何人都可以获取和使用它，而不需要我作为原始项目“想法”的持有者参与其中？  除了显而易见的教训，即确保您保留自己的项目文件（我知道，我知道……），制作开源版本有哪些优点和缺点？ 我确实相信最终会将其开源，但我只是觉得我理想情况下希望对作品的呈现方式和时间有一定的控制权。这甚至没有提到我依靠使用费作为收入的一部分这一事实。 任何帮助都非常受欢迎！    提交人    /u/oresearch69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g6bihy/looking_for_guidance_how_might_making_my_program/</guid>
-      <pubDate>Fri, 18 Oct 2024 06:13:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
