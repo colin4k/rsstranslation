@@ -4,86 +4,90 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Mon, 21 Oct 2024 07:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 11:58:50 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在最近发生在意大利的一起事件中，由私营部门运营的反海盗组织“海盗盾牌” [...]</title>
-      <link>https://t.me/hn_summary/113347</link>
-      <description><![CDATA[意大利又一次重大反盗版失误导致 Google Drive 瘫痪
-在意大利最近发生的一起事件中，私营部门运营的反盗版平台 Piracy Shield 错误地屏蔽了 Google Drive，造成了大范围的中断。此前 Cloudflare 也曾发生过一次失误。意大利电信监管机构 AGCOM 支持的屏蔽机制缺乏透明度和问责制，公共信息经常被隐瞒。尽管亚马逊网络服务的 Giorgio Bonfiglio 等专家发出了警告，但这些问题仍然存在。Google Drive 是一项重要的在线服务，此次屏蔽凸显了允许权利人干扰互联网基础设施的潜在危险。这一事件凸显了政府干预的必要性，以防止未来再次发生事故。有人提议对过度屏蔽行为处以罚款，以起到威慑作用。争议在于盗版盾牌的运营缺乏透明度和问责制，引发了人们对私人实体对公共互联网访问不受制约的权力的担忧。]]></description>
-      <guid>https://t.me/hn_summary/113347</guid>
-      <pubDate>Mon, 21 Oct 2024 07:58:37 GMT</pubDate>
+      <title>[媒体] Rip2 是一个基于 Rust 的传统 rm 命令的替代品，旨在增强 sa [...]</title>
+      <link>https://t.me/hn_summary/113358</link>
+      <description><![CDATA[Rip2 – 更安全的基于 rust 的 rm
+Rip2 是传统 rm 命令的基于 Rust 的替代方案，旨在增强安全性、人体工程学和性能。与 rm 不同，Rip2 将已删除的文件发送到“墓地”目录，从而可以轻松恢复而不会覆盖数据。该项目是以前版本的维护分支，增加了对 Windows 和 NixOS 的支持、现代 Rust 重构和全面的测试套件。独特功能包括丰富多彩的输出、日期时间信息和各种 shell 的 shell 补全。Rip2 适用于 Linux、macOS 和 Windows，可以通过 Cargo、二进制文件或 Nix 和 openSUSE 等包管理器安装。]]></description>
+      <guid>https://t.me/hn_summary/113358</guid>
+      <pubDate>Mon, 21 Oct 2024 11:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 观星者属于天王星鱼科，是一群独特的鲈形目鱼类[...]</title>
-      <link>https://t.me/hn_summary/113346</link>
-      <description><![CDATA[观星鱼（鱼）
-观星鱼属于天王鱼科，是一类独特的鲈形目鱼类，以其独特的向上的眼睛和嘴巴而闻名。这些海洋生物约有 51 个物种，栖息在全球的浅水和深水咸水中。它们的狩猎策略很有趣，包括将自己埋在沙子里并伏击猎物，通常使用蠕虫形诱饵来吸引注意力。值得注意的是，观星鱼有毒，具有有毒的刺，在某些属（如 Astroscopus 和 Uranoscopus）中，它们具有发出电击的能力。这些电器官源自经过改造的肌肉，代表了生物电发生的罕见进化。尽管它们有毒，但在某些文化中，观星鱼仍被视为美味佳肴。鱼类学家威廉·利奥·史密斯曾将它们描述为“世界上最卑鄙的生物”，突出了它们可怕的本性。这些鱼没有电感受器，这令人惊讶，因为它们不像其他电鱼那样使用电感官来定位猎物。]]></description>
-      <guid>https://t.me/hn_summary/113346</guid>
-      <pubDate>Mon, 21 Oct 2024 07:29:25 GMT</pubDate>
+      <title>[媒体] CSV SQL Graph 是一个专为数据分析和探索而设计的 Web 应用程序，它通过 [...]</title>
+      <link>https://t.me/hn_summary/113357</link>
+      <description><![CDATA[显示 HN：CSV SQL Graph – 视图的图形可视化
+CSV SQL Graph 是一个 Web 应用程序，通过将 CSV 文件转换为 SQLite 表来设计用于数据分析和探索。它允许用户通过交互式图形可视化表关系并执行 SQL 查询。主要功能包括自动模式分析、视图建议以及基于图形选择创建组合视图的能力。用户可以管理表和视图，并可以选择预览或删除它们。该项目以其直观的界面和图形可视化功能脱颖而出。它是 MIT 许可下的开源软件，鼓励贡献。安装涉及克隆存储库、设置虚拟环境以及在本地运行应用程序。]]></description>
+      <guid>https://t.me/hn_summary/113357</guid>
+      <pubDate>Mon, 21 Oct 2024 11:57:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2024 年夏天，索尼的多人射击游戏《Concord》成为最热门的游戏之一[...]</title>
-      <link>https://t.me/hn_summary/113345</link>
-      <description><![CDATA[一款电子游戏今年在票房上惨败，却无人注意
-2024 年夏天，索尼的多人射击游戏《Concord》成为历史上最大的娱乐失败之一，估计损失 3.99 亿美元，而收益仅为 100 万美元。尽管遭遇了巨大的失败，但主流媒体基本上忽略了这一事件，突显了传统媒体与游戏行业之间持续存在的脱节。这种疏忽凸显了一个长期存在的问题，即尽管电子游戏是一种占主导地位的娱乐媒体，但非游戏媒体却并不重视它。文章批评了这种过时的观点，认为游戏的普遍性应该得到更多的报道，尤其是对于如此规模的灾难。令人惊讶的是，尽管游戏对文化和经济有着巨大的影响，但媒体却一直忽视它。]]></description>
-      <guid>https://t.me/hn_summary/113345</guid>
-      <pubDate>Mon, 21 Oct 2024 07:10:14 GMT</pubDate>
+      <title>[媒体] 约翰·金塞尔（John Kinsel Sr.）</title>
+      <link>https://t.me/hn_summary/113356</link>
+      <description><![CDATA[二战期间最后一批纳瓦霍密码通讯员之一去世，享年 107 岁
+约翰·金塞尔 (John Kinsel Sr.) 是二战期间最后一批纳瓦霍密码通讯员之一，他于 107 岁时去世。他的死讯由亚利桑那州温多罗克的纳瓦霍族官员宣布。为了纪念金塞尔，部落总统布·尼格伦 (Buu Nygren) 下令保留地降半旗，直至 10 月 27 日。金塞尔是一名海军陆战队员，他是纳瓦霍族人中的一员，他们被招募来用母语传递信息，这让日本密码学家感到困惑，并在 1942 年至 1945 年的太平洋战区发挥了关键作用。随着他的去世，只剩下两名纳瓦霍密码通讯员。罗纳德·里根总统于 1982 年设立了纳瓦霍密码通话者日，以纪念他们的贡献，并将其作为亚利桑那州和纳瓦霍族的节日来庆祝。]]></description>
+      <guid>https://t.me/hn_summary/113356</guid>
+      <pubDate>Mon, 21 Oct 2024 11:41:35 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇文章中，我们探索了在命令行上显示文件内容的创造性方法，而无需 [...]</title>
-      <link>https://t.me/hn_summary/113344</link>
-      <description><![CDATA[不使用 `cat` 的 cat
-在这篇文章中，我们探索了不使用 cat 命令在命令行上显示文件内容的创造性方法。当 cat 不可用或您想要避免分叉新进程时，就会出现这一挑战。我们深入研究了如何在循环中使用 shell 内置函数，例如 read，它可以逐行处理输入，并使用 $( 进行命令替换，由于没有进程分叉，它比 $(cat file) 更快。​​此外，我们还讨论了使用其他实用程序（例如 ul、tac）和脚本语言（例如 sed、perl 和 python）来实现相同的结果。巧妙地使用 tac 将其管道化可以有效地模仿 cat。此探索突出了 shell 脚本的多功能性，并鼓励尝试不同的方法。如需更多见解，请查看“oops 挑战”，以进一步体验无猫的 catting 冒险！]]></description>
-      <guid>https://t.me/hn_summary/113344</guid>
-      <pubDate>Mon, 21 Oct 2024 07:06:08 GMT</pubDate>
+      <title>[媒体]《异星工厂：太空时代》扩展包推动玩家进入火箭时代的星际冒险[...]</title>
+      <link>https://t.me/hn_summary/113355</link>
+      <description><![CDATA[异星工厂：太空时代扩展包已发布
+异星工厂：太空时代扩展包将玩家带入火箭发射后的星际冒险，引入具有独特挑战和资源的新世界。玩家管理星际空间平台，这对于物流和防御小行星至关重要，同时将碎片转化为燃料和弹药。扩展包包含各种行星，如拥有火山地形和钨资源的 Vulcanus；在雷暴中提供电磁进步的 Fulgora；富含生化机会的沼泽生物群落 Gleba；以及适合低温探索的寒冷世界 Aquilo。高架轨道增加了运输系统的复杂性，而新的质量系统则提高了物品和设备的性能。每个星球都有 Petr Wajsar 创作的独特配乐，丰富了沉浸式体验。该扩展包的创新机制和多样化环境为 Factorio 宇宙带来了全新的视角，不过新敌人的引入可能会挑战玩家的战略技能。]]></description>
+      <guid>https://t.me/hn_summary/113355</guid>
+      <pubDate>Mon, 21 Oct 2024 11:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在曼哈顿一处宁静的水疗中心 Bathhouse，一种创新的泳池加热方法正在进行中 [...]</title>
-      <link>https://t.me/hn_summary/113343</link>
-      <description><![CDATA[比特币供电的游泳池和浴室的兴起
-在宁静的曼哈顿水疗中心 Bathhouse，一种创新的游泳池加热方法正在实施中：比特币挖矿计算机产生热量来加热游泳池。共同所有人 Jason Goodman 声称这种方法比传统的电加热器更有效率，并允许他们积累比特币，他希望比特币的价值会升值。这一概念正在全球范围内获得关注，芬兰和巴黎都有类似的项目。然而，环保主义者表示担忧，他们认为虽然这些举措可能会降低当地的能源成本，但它们并没有解决能源密集型数据中心对环境的更广泛影响。批评者将其比作使用悍马的散热器作为帕尼尼三明治机——虽然聪明，但不足以解决气候问题。]]></description>
-      <guid>https://t.me/hn_summary/113343</guid>
-      <pubDate>Mon, 21 Oct 2024 06:31:54 GMT</pubDate>
+      <title>[媒体] Erin 是一项开源、自托管的服务，旨在创建类似 TikTok 的垂直市场 [...]</title>
+      <link>https://t.me/hn_summary/113354</link>
+      <description><![CDATA[向 HN 展示：Erin – 开源和自托管的 TikTok 供您自己观看的视频
+Erin 是一种开源、自托管的服务，旨在使用您自己的视频片段创建类似 TikTok 的垂直滑动供稿。它是为响应 Reddit 对具有 TikTok 界面的自托管应用程序的请求而开发的。Erin 允许用户显示个人视频、屏蔽不需要的片段、创建自定义供稿和自动播放视频。它支持键盘导航、视频元数据显示和延迟加载。Erin 以其简单性而著称，它使用由 Caddy 提供支持的 React 应用程序进行身份验证并提供静态文件。它支持 Docker 部署并提供基本的安全功能。对于寻求个性化 TikTok 风格视频体验的用户来说，Erin 是理想的选择。]]></description>
+      <guid>https://t.me/hn_summary/113354</guid>
+      <pubDate>Mon, 21 Oct 2024 10:49:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 令人震惊的是，六位领先的阿尔茨海默氏症研究人员被指控 [...]</title>
-      <link>https://t.me/hn_summary/113342</link>
-      <description><![CDATA[六位顶尖的阿尔茨海默病研究人员被指控欺诈
-令人震惊的是，六位顶尖的阿尔茨海默病研究人员被指控欺诈，给科学界蒙上了一层阴影。指控表明，这些研究人员在研究中操纵数据，可能误导阿尔茨海默病研究和治疗的方向。这场争议引发了关于科学研究的完整性和产生突破性成果的压力的激烈争论。其影响是重大的，因为它引发了人们对过去研究的有效性和阿尔茨海默病研究未来的质疑。这种情况强调了在科学研究中需要严格的同行评审和透明度，以保持信任和可信度。]]></description>
-      <guid>https://t.me/hn_summary/113342</guid>
-      <pubDate>Mon, 21 Oct 2024 06:28:50 GMT</pubDate>
+      <title>[媒体] 在这次技术探索中，我深入研究了优化 Castro 的后端 feed 更新程序 [...]</title>
+      <link>https://t.me/hn_summary/113353</link>
+      <description><![CDATA[以懒人方式加快 Castro 的 Feeds 更新速度
+在这次技术探索中，我深入研究了如何在不进行重大改革的情况下优化 Castro 的后端 Feeds 更新流程。尽管 Castro 的应用程序发展迅速，但我们后端的工作任务（主要负责更新播客 Feeds）的执行时间已从约 1 秒增加到约 1.3-1.4 秒。这不是面向用户的，但加起来就是个问题。使用 rbspy，我发现了效率低下的问题，尤其是在为网络请求设置信任存储时，时间消耗了 13%。通过切换到 Typhoeus 进行 HTTP 请求，我将网络时间从 49% 减少到 19%。令人惊讶的是，ActiveRecord 的连接池消耗了 25-30% 的时间。在查询第三方服务器之前释放连接使我们的后端工作量减半。这些调整将平均更新时间缩短至约 0.50 秒，从而允许更频繁地更新并降低服务器成本。虽然可以进一步优化，但当前的改进显著提高了性能。享受更快的更新吧！
+
+争议：对 Ruby 的“可恶”批评可能会引起开发人员的争论。
+
+令人惊讶的见解：HTTP 客户端的简单更改和主动连接管理大大提高了性能。]]></description>
+      <guid>https://t.me/hn_summary/113353</guid>
+      <pubDate>Mon, 21 Oct 2024 10:29:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今天是 IBM Granite 3.0 令人兴奋的发布日，这是我们大型系列产品中的最新产品 [...]</title>
-      <link>https://t.me/hn_summary/113341</link>
-      <description><![CDATA[IBM Granite 3.0：开放企业模型
-今天，IBM Granite 3.0 迎来了激动人心的发布，这是我们大型语言模型 (LLM) 系列中的最新产品，旨在平衡企业应用程序的功能与实用性。Granite 3.0 8B Instruct 是一款出色的模型，它是一款仅用于解码器的密集 LLM，经过指令调整，并在多种语言的 12 万亿个标记上进行训练。它在企业任务和安全基准方面表现出色，为复杂的工作流程提供了经济高效的解决方案。IBM 独有的所有 Granite 模型都是根据 Apache 2.0 许可证开源的，这与业界倾向于专有许可证的趋势形成了鲜明对比。我们还提供训练数据和方法的透明度，增强了人们对 AI 的信任。值得注意的是，我们的模型是在 Blue Vela 上进行训练的，使用 100% 可再生能源，彰显了我们的可持续发展承诺。]]></description>
-      <guid>https://t.me/hn_summary/113341</guid>
-      <pubDate>Mon, 21 Oct 2024 06:28:48 GMT</pubDate>
+      <title>[媒体] 欧盟正在修订《产品责任指令》，将软件纳入[...]</title>
+      <link>https://t.me/hn_summary/113352</link>
+      <description><![CDATA[欧盟新产品责任指令：软件即产品
+欧盟正在修订产品责任指令，将软件作为产品纳入其中，以适应数字市场的需求。以前，软件只有具有有形形式（如 CD）时才被视为产品。2023 年 12 月达成的新指令将产品定义扩展为包括软件和数字文档，但开源软件除外。这一变化使产品责任与保修法保持一致，强调了安全更新和可用性的重要性。该指令还扩大了损害定义，包括非物质损害和数据丢失，取消了德国之前的赔偿上限。范围现在涵盖了更广泛的各方，包括在线市场运营商。公司必须为增加责任做好准备，预计国家法律将在 2026 年第三季度实施这些变化。将软件纳入产品是一个重大转变，反映了数字商品和服务不断发展的性质。]]></description>
+      <guid>https://t.me/hn_summary/113352</guid>
+      <pubDate>Mon, 21 Oct 2024 10:15:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在一系列意想不到的后果中，安全研究员约瑟夫·塔塔罗 (Joseph Tartaro) 发现了 [...]</title>
-      <link>https://t.me/hn_summary/113340</link>
-      <description><![CDATA[“空”牌照让一名黑客陷入罚单地狱
-在一系列意想不到的后果中，安全研究员 Joseph Tartaro 在选择“NULL”作为他的个性化车牌后发现自己陷入了官僚主义的噩梦。最初，这个选择是巧妙地向编程语言语义致敬——其中“null”表示空值或未定义的值——并与他妻子可能的“VOID”车牌进行俏皮搭配，但结果适得其反。Tartaro 在 Defcon 黑客大会上幽默地讲述了他如何希望车牌可以通过混淆数据库来让他免于罚单。相反，他被错误地罚款了 12,049 美元，因为系统错误地将“NULL”解释为未分配罚单的占位符。争议在于 DMV 疏忽允许使用这样的车牌，导致 Tartaro 经历了无休止的罚单和对未来登记的不确定性，这就像卡夫卡式的折磨。]]></description>
-      <guid>https://t.me/hn_summary/113340</guid>
-      <pubDate>Mon, 21 Oct 2024 06:25:44 GMT</pubDate>
+      <title>[媒体] 在这篇评测中，我将 iPhone 16 Pro 的相机功能与我的佳能 R5 进行了比较，焦点 [...]</title>
+      <link>https://t.me/hn_summary/113351</link>
+      <description><![CDATA[iPhone 16 Pro 中的 JPEG XL 产生令人难以置信的效果
+在这篇评测中，我将 iPhone 16 Pro 的相机功能与我的佳能 R5 进行了比较，重点关注 Apple 令人惊讶的 JPEG XL 压缩实现。这种新格式没有被 Apple 重点介绍，但它在图像质量和存储效率方面提供了显着的改进，可以在减小的文件大小的情况下获得高质量的 RAW 图像。超广角传感器现在具有 48 MP 功能，结果好坏参半，镜头质量是一个限制因素。虽然超广角镜头是小众产品，但 JPEG XL 更新改变了移动摄影的游戏规则。iPhone 16 Pro 的进步，尤其是在压缩方面，标志着与去年的型号相比有了显着的改进。]]></description>
+      <guid>https://t.me/hn_summary/113351</guid>
+      <pubDate>Mon, 21 Oct 2024 10:14:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Janus 是一个创新的自回归框架，旨在统一多模态理解 [...]</title>
-      <link>https://t.me/hn_summary/113339</link>
-      <description><![CDATA[Janus：将视觉编码解耦以实现多模态理解和生成
-Janus 是一个创新的自回归框架，旨在通过将视觉编码解耦为单独的路径来统一多模态理解和生成。这种方法通过减少视觉编码器在理解和生成中的角色之间的冲突、增强灵活性并保持统一的转换器架构来解决以前模型的局限性。Janus 的表现优于以前的统一模型，并且在性能上达到或超过了特定于任务的模型。它的简单性、灵活性和有效性使其成为下一代多模态模型的有力候选者。该项目包括模型下载、快速入门指南和 Gradio 演示，并根据 MIT 许可证提供，允许商业使用。]]></description>
-      <guid>https://t.me/hn_summary/113339</guid>
-      <pubDate>Mon, 21 Oct 2024 06:24:40 GMT</pubDate>
+      <title>[媒体] 在本文中，我们探讨了主要云提供商之间的显著成本差异 [...]</title>
+      <link>https://t.me/hn_summary/113350</link>
+      <description><![CDATA[AWS 和 Azure 至少比 Hetzner 贵 4 到 10 倍
+在本文中，我们探讨了主要云提供商 AWS 和 Azure 与鲜为人知的 Hetzner 之间的显著成本差异。AWS 和 Azure 虽然引领行业，但通常只有在大规模时才具有成本效益，并且可能导致供应商锁定和费用不断增加。另一方面，Hetzner 提供了更直接、更经济高效的解决方案，尤其是对于尚未承诺使用云提供商的组织而言。例如，Hetzner 上的等效实例可能比 AWS 或 Azure 便宜 4 到 10 倍。这种成本效益与足够的性能和可靠性相得益彰，使 Hetzner 成为 IT 团队规模较小的公司或制造业公司的可行选择。文章还强调了行业趋势，Ahrefs 等公司和 David Heinemeier Hansson 等思想领袖提倡更具成本效益的托管解决方案，并批评云服务的高价。这些见解表明，人们越来越倾向于重新评估主要云提供商的成本效益方程。]]></description>
+      <guid>https://t.me/hn_summary/113350</guid>
+      <pubDate>Mon, 21 Oct 2024 09:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AWS 首席执行官马特·加曼 (Matt Garman) 回应了员工对公司决定的强烈反对[...]</title>
-      <link>https://t.me/hn_summary/113338</link>
-      <description><![CDATA[AWS 首席执行官告诉员工，如果他们不想回到办公室，就辞职
-AWS 首席执行官 Matt Garman 回应了员工对公司决定终止混合工作政策的强烈反对，该政策要求员工在 1 月 2 日前全职返回办公室。报告显示，多达 90% 的员工不满意，73% 的人考虑离开。然而，Garman 表示理解，并表示那些喜欢远程工作的人可能会在其他地方找到更适合自己的工作。他强调了面对面协作对创新的重要性，尽管该政策不受欢迎且执行严格，导致一些员工因不遵守规定而被锁定在系统之外。有趣的是，虽然 AWS 强制执行这一变化，但 Spotify 仍保持其混合模式，突显了行业中的对比方法。]]></description>
-      <guid>https://t.me/hn_summary/113338</guid>
-      <pubDate>Mon, 21 Oct 2024 06:21:36 GMT</pubDate>
+      <title>介绍 Webifier，一种创新的 AI 工具，旨在创建完美的 React 登陆页面 [...]</title>
+      <link>https://t.me/hn_summary/113349</link>
+      <description><![CDATA[显示 HN：构建完美 React 登陆页面的 AI
+介绍 Webifier，这是一款创新的 AI 工具，旨在轻松创建完美的 React 登陆页面。利用 NextJS14、TailwindCSS、Shadcn 和 MagicUI 等尖端技术以及 /app 路由器，我们的 AI 可确保无缝可扩展性，不受任何限制。此工具使开发人员能够快速生成专业级登陆页面，从而简化 Web 开发流程。这些技术的独特组合凸显了我们致力于为现代 Web 开发需求提供强大而高效的解决方案的承诺。虽然这些先进工具的集成令人印象深刻，但有些人可能会发现依赖 AI 完成创意任务是有争议的，从而引发了人们对人类创造力在网页设计中的作用的质疑。]]></description>
+      <guid>https://t.me/hn_summary/113349</guid>
+      <pubDate>Mon, 21 Oct 2024 09:12:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
