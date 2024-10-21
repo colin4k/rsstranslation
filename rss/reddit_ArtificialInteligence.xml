@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 21:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:03:25 GMT</lastBuildDate>
+    <item>
+      <title>Lightning AI 是学习 ML 的顶级平台吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g8c6y5/is_lightning_ai_the_top_platform_for_learning_ml/</link>
+      <description><![CDATA[目前正在深入工作。并加倍学习机器学习技能。我花了四个小时在 lightning.ai UX 上，它看起来相当不错，内置了很多基础技术内容，因此我可以更专注于训练模型的过程。通过捣鼓，我了解了平台和 pytorch 的历史和突出地位。 它看起来像是一个占主导地位的平台。在这个、kaggle 和 hugging face 之间，还有其他我遗漏的吗？    提交人    /u/blackhawk876   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g8c6y5/is_lightning_ai_the_top_platform_for_learning_ml/</guid>
+      <pubDate>Sun, 20 Oct 2024 23:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道安卓上适合成人角色扮演的免费好应用吗？有点像 JanitorAI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g878ek/does_anyone_know_a_good_free_app_for_adult/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[嗨！我刚刚利用了网上的多种音乐工具制作了这张 LP。我没有演奏任何乐器。我唱得很少。我使用我的原创歌词、原创作品和一些计算机编码将歌词变成了一件艺术品。我向你们介绍“Corridos Inteligentes”。我为这五首歌写了歌词。我根据自己的喜好调整了乐器和人声。我自己制作了这五首歌的母带，它们已经准备好发布了。请注意，YouTube 版本未经母带处理。  这是我的第一首单曲，El Gallo！ https://youtu.be/c8xiSL2qU2M?si=OPQxdAL_Ld6yFzt6    由   提交  /u/_Evolvedform   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g86rqv/i_just_made_music_using_computer_coding_and_ai_no/</guid>
       <pubDate>Sun, 20 Oct 2024 19:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过将 Gen-AI 融入游戏玩法，我们创造了世界上可玩角色最多的游戏</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g86m8q/by_integrating_genai_into_gameplay_weve_created/</link>
-      <description><![CDATA[大家好！我想介绍一下我们的新游戏，并分享我们如何将 gen-AI 集成到更大的工作流程中。我们希望它能够激励其他 AI 爱好者和开发者，或者至少让人们了解这项技术在未来游戏行业中的应用方式。 这是我们游戏的 Steam 页面：Echo of Mobius。它目前处于演示版本，并且免费。如果您对未来的更新感兴趣，请将我们添加到您的愿望清单中。非常感谢！ 生成式 AI 越来越多地参与到游戏开发中，但它通常仅用于更有效地生成资产，这可能缺乏原创性。我们相信新技术应该能够实现以前不可能实现的游戏玩法。因此，我们不再使用 AI 创建固定资产，而是推出了一项功能，让玩家可以创建他们能想象到的任何角色。只需一行描述，我们的 AI 工作流程就能让角色栩栩如生——从外观到背景故事、个性和职业。这些角色可以在达到某些级别时进化（如 Pokémon）。我们正在构建一个用户生成内容生态系统，玩家可以遇到、战斗和招募彼此的作品，甚至可以通过类似的 AI 工作流程创建 DnD 风格的冒险。可以将其视为角色 AI 的真实 RPG 版本。 自我们的演示发布以来的一周内，已经创建了超过 4,257 个角色，而且这个数字还在迅速增长。每个角色都是完整、可玩且独特的。 以下是我们将多种 AI 技术集成到工作流程中的方式：  图像生成：我们使用稳定扩散 (SDXL) 来生成角色的外观。我们在将图像转换为可用的游戏资产和在各个发展阶段保持一致性方面面临挑战。我们通过微调 SD 和应用背景去除算法来创建角色精灵来解决这个问题。 文本生成：为了生成角色台词、属性、背景故事以及冒险故事和困难，我们利用 GPT 和 Claude 等语言模型。这使每个角色都拥有独特的个性和故事，增强了游戏的深度。为了控制计算成本，我们使用提示工程来强制他们以有限数量的令牌以 JSON 格式响应。 文本转语音 (TTS)：我们目前正在探索优质且价格合理的 TTS API，为我们的角色配音，旨在让游戏体验更加身临其境。  我们希望这种经验对社区有价值。欢迎对我们的游戏或 AI 模型提出任何反馈或建议，尤其是关于 TTS 解决方案。   由    /u/echo_of_mobius  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g86m8q/by_integrating_genai_into_gameplay_weve_created/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:18:58 GMT</pubDate>
     </item>
     <item>
       <title>哈佛人文主义牧师称人工智能被“过度炒作”，就像一种“邪教”</title>
@@ -57,7 +57,7 @@
     <item>
       <title>为什么 ARC-AGI 不能证明我们需要另一种架构来实现 AGI</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g83rht/why_arcagi_is_not_proof_that_we_need_another/</link>
-      <description><![CDATA[（对于 AGI 的定义，我使用至少在任何认知任务上与人类一样有能力的 AI 系统。在本文中，我主要关注推理/概括，而不是记忆，因为这是模型与人类相比所缺乏的） 到目前为止，我认为大多数人都听说过 ARC-AGI 挑战。基本上，这是一个视觉挑战，其中模型必须检测两幅图像中的模式才能生成正确的第三幅图像。挑战是为了让模型无法仅通过记忆来解决问题，从而迫使模型进行推理。考虑到它们与人类相比表现不佳，我们可以说它们比人类更依赖记忆。 然而，有两个重要原因导致我们不能说模型在 ARC-AGI 挑战中没有推理或概括能力：  与人类相比，模型得分较低，但得分并不接近 0%。这意味着它们能够进行某种形式的推理，否则它们将无法解决任何问题。 ARC-AGI 挑战是一个视觉问题。与人类相比，当前的架构严重缺乏视觉推理能力（如本文所示：https://arxiv.org/abs/2410.07391）。因此，与人类相比，它们无法解决 ARC-AGI 问题很可能反映了它们的视觉推理能力，而不是一般推理能力。  -您可能会反驳说，您可以将文本形式的相同问题输入模型。然而，这并没有将问题从视觉转变为文本。问题的特征仍然是视觉的，因为人类无法解决文本形式的比较问题。如果 ARC-AGI 是文本形式，人类在 ARC-AGI 方面会很糟糕（考虑到我们必须按顺序处理每个像素，而不是像处理视觉那样并行处理）。因此，没有很好的训练数据供模型以文本形式学习此类技能。因此，他解决 ARC-AGI 类问题的能力取决于他的视觉推理技能，即使问题被转换成文本也是如此。   现在有充分的理由相信AI 模型将在一般推理（包括 ARC-AGI 挑战）中胜过人类：  在视觉推理（https://arxiv.org/abs/2410.07391）以及 ARC-AGI 挑战中，它们的性能随着模型大小的增加而提高，表明它们的性能随着时间的推移而提高。 它们已经在其他未受污染的基准测试中表现出优于人类的性能。例如，在未受污染的基准上，它们的医学推理表现优于医生（https://pmc.ncbi.nlm.nih.gov/articles/PMC11257049/，https://arxiv.org/abs/2312.00164）。这表明，即使在未见过的数据上，它们也能胜过人类，表明它们可以推广到超越人类的程度。另一个例子是，Transformer 模型在未见过的棋盘状态下的国际象棋比赛中表现优于人类 (https://arxiv.org/pdf/2402.04494)。 模型表明，它们可以获得可在其训练领域之外应用的一般推理技能：例如 https://arxiv.org/abs/2410.02536 表明，LLM 可以通过从自动机数据中学习，提高推理和国际象棋水平。这表明它们可以从一个领域获得智能，并将其应用于其他领域。这意味着，即使存在人类尚未探索的领域，当前的架构也有可能扩展到可以解决人类尚未探索的领域问题的水平。  总而言之，我认为 ARC-AGI 并不是反对当前模型实现通用智能的有力论据，并且有很多理由认为它们可以变得足够通用智能。我相信创新将加速这一进程，但我不认为我们有证据可以无视当前模型实现通用智能。但我确实认为未来的架构需要解决一些限制（例如主动学习），才能真正在每个认知任务上与人类匹敌并实现 AGI。    提交人    /u/PianistWinter8293   [链接] [评论]]]></description>
+      <description><![CDATA[（对于 AGI 的定义，我使用在任何认知任务上能力至少与人类相当的 AI 系统。在本文中，我主要关注推理/概括，而不是记忆，因为这是模型与人类相比所缺乏的） 到目前为止，我认为大多数人都听说过 ARC-AGI 挑战。基本上，这是一个视觉挑战，其中模型必须检测两幅图像中的模式才能生成正确的第三幅图像。挑战的设置使得模型不可能仅通过记忆来解决它，从而迫使模型进行推理。考虑到它们与人类相比表现不佳，我们可以说它们比人类更依赖记忆。 然而，有两个重要原因导致我们不能说模型在 ARC-AGI 挑战中没有推理或概括能力：  与人类相比，模型得分较低，但得分并不接近 0%。这意味着它们能够进行某种形式的推理，否则它们将无法解决任何问题。 ARC-AGI 挑战是一个视觉问题。与人类相比，当前的架构严重缺乏视觉推理能力（如本文所示：https://arxiv.org/abs/2410.07391）。因此，与人类相比，它们无法解决 ARC-AGI 问题很可能反映了它们的视觉推理能力，而不是一般推理能力。  -您可能会反驳说，您可以将文本形式的相同问题输入模型。然而，这并没有将问题从视觉转变为文本。问题的特征仍然是视觉的，因为人类无法解决文本形式的比较问题。如果 ARC-AGI 是文本形式，人类在 ARC-AGI 方面会很糟糕（考虑到我们必须按顺序处理每个像素，而不是像处理视觉那样并行处理）。因此，没有很好的训练数据供模型以文本形式学习此类技能。因此，他解决 ARC-AGI 类问题的能力取决于他的视觉推理技能，即使问题被转换成文本也是如此。   现在有充分的理由相信AI 模型将在一般推理（包括 ARC-AGI 挑战）中胜过人类：  在视觉推理（https://arxiv.org/abs/2410.07391）以及 ARC-AGI 挑战中，它们的性能随着模型大小的增加而提高，表明它们的性能随着时间的推移而提高。 它们已经在其他未受污染的基准测试中表现出优于人类的性能。例如，在未受污染的基准上，它们的医学推理表现优于医生（https://pmc.ncbi.nlm.nih.gov/articles/PMC11257049/，https://arxiv.org/abs/2312.00164）。这表明，即使在未见过的数据上，它们也能胜过人类，表明它们可以推广到超越人类的程度。另一个例子是，Transformer 模型在未见过的棋盘状态下的国际象棋比赛中表现优于人类 (https://arxiv.org/pdf/2402.04494)。 模型表明，它们可以获得可在其训练领域之外应用的一般推理技能：例如 https://arxiv.org/abs/2410.02536 表明，LLM 可以通过从自动机数据中学习，提高推理和国际象棋水平。这表明它们可以从一个领域获得智能，并将其应用于其他领域。这意味着，即使存在人类尚未探索的领域，当前的架构也有可能扩展到可以解决人类尚未探索的领域问题的水平。  总而言之，我认为 ARC-AGI 并不是反对当前模型实现通用智能的有力论据，并且有很多理由认为它们可以变得足够通用智能。我相信创新将加速这一进程，但我不认为我们有证据可以无视当前模型实现通用智能。但我确实认为未来的架构需要解决一些限制（例如主动学习），才能真正在每个认知任务上与人类匹敌并实现 AGI。    提交人    /u/PianistWinter8293   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g83rht/why_arcagi_is_not_proof_that_we_need_another/</guid>
       <pubDate>Sun, 20 Oct 2024 17:16:48 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>文字 2 视频</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7zgo7/text_2_video/</link>
-      <description><![CDATA[我知道这个问题之前已经有人问过了，但是我找到的所有问题都是一年前的，所以我想再问一次，有没有什么好的文本转视频软件可以我自己运行？最好是易于设置的，我目前正在使用 swarmui（我更喜欢它的 ui 以及它的紧凑性，以及能够舒适地使用它），并且它有一个使用 Svd 的不错的视频模型 我对人工智能还比较陌生，现在才开始在自己的桌面上运行程序，所以我对我的知识缺乏表示歉意     提交人    /u/D3thst4lk3r   [链接] [评论]]]></description>
+      <description><![CDATA[我知道这个问题之前已经有人问过了，但是我找到的所有问题都是一年前的，所以我想再问一次，有没有什么好的文本转视频软件可以自己运行？最好是易于设置的，我目前正在使用 swarmui（我更喜欢它的 ui 以及它的紧凑性，以及能够舒适地使用它），并且它有一个使用 Svd 的不错的视频模型 我对人工智能还比较陌生，现在才开始在自己的桌面上运行程序，所以我对我的知识缺乏表示歉意     提交人    /u/D3thst4lk3r   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7zgo7/text_2_video/</guid>
       <pubDate>Sun, 20 Oct 2024 14:05:27 GMT</pubDate>
     </item>
@@ -111,11 +111,11 @@
       <pubDate>Sun, 20 Oct 2024 04:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>对 PPO 存疑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7qy3a/doubt_with_ppo/</link>
-      <description><![CDATA[我正在为汽车代理开发强化学习 AI，目前使用 PPO（近端策略优化）。汽车代理需要在 2D 环境中导航至目标点，同时优化速度、对齐和正确转向。该项目包含一个使用 Vector2 数学类的自定义物理引擎。 输入（11）： 1. CarX：汽车的 X 位置 2. CarY：汽车的 Y 位置 3. CarVelocity：标准化汽车速度 4. CarRotation：标准化汽车方向 5. CarSteer：标准化转向角度 6. TargetX：目标点的 X 位置 7. TargetY：目标点的 Y 位置 8. TargetDistance：到目标的距离 9. TargetAngle：标准化汽车方向和目标之间的角度 10. LocalX：目标的相对 X 位置（汽车的左侧/右侧） 11. LocalY：标准化目标的相对 Y 位置（汽车的前方/后方） 输出(2): - 转向角度（左/右） - 加速度（前进） 当前奖励系统： - 与目标良好对齐的积极奖励。 - 速度快和避免倒车的积极奖励。 - 接近目标的积极奖励。 - 根据目标的相对位置朝正确方向转向的积极奖励。 - 特殊情况，以阻止错误转弯并在 1000 步后或距离超过 2000 个单位后终止情节。 我面临的问题： 1. 禁止倒车：PPO 阻止汽车倒车，即使在最佳状态下也是如此。如果目标在车后方，我想允许倒车。  奖励调整：努力平衡奖励功能。代理倾向于追求速度而非精度，或者由于奖励冲突而陷入困境。 转向问题：有时代理难以正确转向，尤其是当目标处于奇怪的角度（左或右）时。 泛化：该模型在特定场景中运行良好，但当我在目标的位置和距离中引入更多变化时就会出现问题。  任何关于如何改进奖励系统或调整模型以更好地处理转向和倒车的建议都将不胜感激！    提交人    /u/royal-Ni8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7qy3a/doubt_with_ppo/</guid>
-      <pubDate>Sun, 20 Oct 2024 04:36:02 GMT</pubDate>
+      <title>利用主动图网络 (AGN) 彻底改变数据分析 - 开源项目和合作机会</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g7nt57/revolutionizing_data_analysis_with_active_graph/</link>
+      <description><![CDATA[大家好， 我很高兴与大家分享我在 Active Graph Networks (AGN) 上开发的工作成果，这是一种重新定义高级统计分析和数据科学的情境理解的新方法。通过利用聚合的结构化数据，AGN 提供了传统模型难以实现的强大洞察力。 我已将我的 GitHub 项目公开，并鼓励其他人关注并探索这一革命性框架的潜力。无论您身处医疗保健、金融、国防还是其他领域，我相信 AGN 都将在改变我们理解和利用数据的方式方面发挥关键作用。 我相信这是业界一直在寻找的解决方案，我完全致力于构建它以展示其全部潜力。 如果您有任何见解或想法，请查看并与我交流：GitHub 项目 - Active Graph Networks https://github.com/ConicuConsulting/ActiveGraphNetworks 我脸皮厚，经验丰富，所以如果您感到困惑、有疑问、需要向我发泄不相关的焦虑，请随时这样做。 这是一个让您表达感受的安全场所。  期待联系和合作！    由    /u/Internal_Vibe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g7nt57/revolutionizing_data_analysis_with_active_graph/</guid>
+      <pubDate>Sun, 20 Oct 2024 01:27:12 GMT</pubDate>
     </item>
     <item>
       <title>您无需用语言来思考。对法学硕士 (LLM) 有何影响？</title>
@@ -132,7 +132,7 @@
       <pubDate>Sat, 19 Oct 2024 17:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行称，随着人工智能主导地位推动“世代机遇”，英伟达估值或达 5 万亿美元</title>
+      <title>美国银行称，人工智能主导地位将带来“世代机遇”，英伟达估值或达 5 万亿美元</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g73zy1/nvidia_could_hit_5_trillion_valuation_as_ai/</link>
       <description><![CDATA[美国银行表示，Nvidia 的市值甚至可能达到 5 万亿美元，这主要归功于 AI 领域的巨大机遇，其 GPU 的需求只会增加。https://theaiwired.com/nvidia-could-hit-5-trillion-valuation-as-ai-dominance-fuels-generational-opportunity-says-bofa/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g73zy1/nvidia_could_hit_5_trillion_valuation_as_ai/</guid>
