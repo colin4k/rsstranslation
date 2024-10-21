@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 21 Oct 2024 06:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 09:01:57 GMT</lastBuildDate>
+    <item>
+      <title>我们如何在对象存储上 100% 运行 Kafka？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8k7q3/how_do_we_run_kafka_100_on_the_object_storage/</link>
+      <description><![CDATA[  由    /u/wanshao  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8k7q3/how_do_we_run_kafka_100_on_the_object_storage/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>阻塞代码是一种有漏洞的抽象</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8k4tb/blocking_code_is_a_leaky_abstraction/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8k4tb/blocking_code_is_a_leaky_abstraction/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>sirikon.me - 逐行解释 Docker 容器的 0009 PID 1 Bash 脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8jr6v/sirikonme_0009_pid_1_bash_script_for_docker/</link>
+      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8jr6v/sirikonme_0009_pid_1_bash_script_for_docker/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spectre 漏洞继续困扰英特尔和 AMD，研究人员发现了新的攻击方法——“间接分支预测屏障的防护效果不如预期”</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8jgge/spectre_flaws_continue_to_haunt_intel_and_amd_as/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8jgge/spectre_flaws_continue_to_haunt_intel_and_amd_as/</guid>
+      <pubDate>Mon, 21 Oct 2024 06:41:52 GMT</pubDate>
+    </item>
     <item>
       <title>释放变更数据捕获 (CDC) 的强大力量</title>
       <link>https://www.reddit.com/r/programming/comments/1g8i5jp/unleashing_the_power_of_change_data_capture_cdc/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/shrsv  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g7yi6i/rest_apis_turn_25_how_they_came_to_be_and_what/</guid>
       <pubDate>Sun, 20 Oct 2024 13:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用函数图表示单变量函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1g7y127/how_to_represent_singlevariable_functions_using/</link>
-      <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g7y127/how_to_represent_singlevariable_functions_using/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:53:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 种有效的调试策略，让你像专业人士一样发现并修复错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1g7xhhz/8_effective_debugging_strategies_to_find_and_fix/</link>
-      <description><![CDATA[  由    /u/pepincho  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g7xhhz/8_effective_debugging_strategies_to_find_and_fix/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:23:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的 C 预处理器</title>
-      <link>https://www.reddit.com/r/programming/comments/1g7x2ak/c_preprocessor_in_python/</link>
-      <description><![CDATA[嗨。我用 Python 制作了一个 C 语言预处理器。它并没有什么特别的，但如果你使用 C 并且需要以受控的方式扩展宏以用于某些特殊目的，它会很有用。主要亮点是扩展的宏保留了原始格式，即保留了空格（嗯，大部分……）。如果需要，请随意使用它。    提交人    /u/solitary_black_sheep   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g7x2ak/c_preprocessor_in_python/</guid>
-      <pubDate>Sun, 20 Oct 2024 11:59:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Cloudflare Workers 为您的应用添加 AI – 无需担心！</title>
-      <link>https://www.reddit.com/r/programming/comments/1g7wmom/add_ai_to_your_app_with_cloudflare_workers_no/</link>
-      <description><![CDATA[  由    /u/Wise-Assignment1478  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g7wmom/add_ai_to_your_app_with_cloudflare_workers_no/</guid>
-      <pubDate>Sun, 20 Oct 2024 11:31:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
