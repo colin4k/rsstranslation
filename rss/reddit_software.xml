@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 21 Oct 2024 15:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 18:01:44 GMT</lastBuildDate>
+    <item>
+      <title>救命，我的笔记本电脑卡住了！</title>
+      <link>https://www.reddit.com/r/software/comments/1g8w6oz/help_my_laptop_is_stuck/</link>
+      <description><![CDATA[我尝试使用 USB 和 Rufus 从我的 Windows 10 双启动到 Arch Linux。我做不到，因为有很多问题，而且我该睡觉了，所以我放弃了，并试图卸载分区，但做不到，所以我回来了。我尝试登录我的 Windows，但做不到，屏幕上显示“启动时未找到某些内容，请按任意键重新启动”我检查硬盘，它显示一些随机字母，如 svw3dr43（类似的东西，但没有详细信息）。我不认为硬件是问题所在，因为我正在使用笔记本电脑。请帮帮我！！！     提交人    /u/Rusty_comicsart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g8w6oz/help_my_laptop_is_stuck/</guid>
+      <pubDate>Mon, 21 Oct 2024 17:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是 JSON Merge Patch？</title>
+      <link>https://www.reddit.com/r/software/comments/1g8vf9d/what_is_json_merge_patch/</link>
+      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g8vf9d/what_is_json_merge_patch/</guid>
+      <pubDate>Mon, 21 Oct 2024 17:28:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>烦人的孩子</title>
+      <link>https://www.reddit.com/r/software/comments/1g8u8os/annoying_kids/</link>
+      <description><![CDATA[所以在我的学校里，学生们会跑来跑去，通过按电源按钮关闭设备（我通过控制面板等找到了一个计数器），现在这些孩子在失败后，他们按住电源按钮并强制关机（非常烦人，也有损坏我的设备的情况）。我需要的是，当有人在打开电源按钮后按住电源按钮时，它应该显示一个假的蓝屏死机，可以通过某种控制退出。    提交人    /u/EnderLonly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g8u8os/annoying_kids/</guid>
+      <pubDate>Mon, 21 Oct 2024 16:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索文件管理器</title>
+      <link>https://www.reddit.com/r/software/comments/1g8u8ij/search_for_file_manager/</link>
+      <description><![CDATA[您好，我正在寻找可以替代 win10 资源管理器的文件管理器，我找到了一些类似 Sigma File Manager 和 Files 的程序，但我不喜欢这些程序，它们不是我想要的功能    提交人    /u/mobby45   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g8u8ij/search_for_file_manager/</guid>
+      <pubDate>Mon, 21 Oct 2024 16:40:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助学生 - 让我为您制作一个小型桌面/网络应用程序，价格为 20 美元以上</title>
+      <link>https://www.reddit.com/r/software/comments/1g8sz2u/help_a_student_out_let_me_make_you_a_small/</link>
+      <description><![CDATA[我是一名 IT 学生，具有桌面和 Web 开发经验。让我为您创建一个您需要的小型应用程序/软件，费用为 20 美元。 我资金短缺，需要尽快支付水电费，以免被切断。我这样做是最后的手段，同时获得资金和帮助。 这是我的 github 有效性和一些我个人项目的截图：https://github.com/russkyc    提交人    /u/bktnmngnn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g8sz2u/help_a_student_out_let_me_make_you_a_small/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要功能方面的帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1g8sjyl/need_help_with_a_function/</link>
+      <description><![CDATA[您好，有谁知道有什么网站或应用可以让我在黑色上叠加图片呢？    提交人    /u/Opposite-Yogurt-3729   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g8sjyl/need_help_with_a_function/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:33:30 GMT</pubDate>
+    </item>
     <item>
       <title>音乐编写代码到...</title>
       <link>https://www.reddit.com/r/software/comments/1g8rdhv/music_to_write_code_to/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[您好，我叫 Ryan，是来自委内瑞拉的系统工程专业学生。我目前正在撰写论文。我的论文构思是创建控制 IMER ORU Just 60 混凝土搅拌站的软件。我有手册，我发现可以为该搅拌站创建这个程序，因为它有一个 RS232 端口，我可以通过这根电缆将程序连接到设备。我遗漏了某些内容，但我想知道您是否知道任何可以作为参考的类似程序，以及你们中是否有人做过类似的事情。    提交人    /u/ryansitokk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g89kxt/imer_oru_just_60/</guid>
       <pubDate>Sun, 20 Oct 2024 21:28:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似 Excel 的工具，无需客户登录即可与他们共享工作？</title>
-      <link>https://www.reddit.com/r/software/comments/1g88cli/excellike_tool_that_can_share_work_with_clients/</link>
-      <description><![CDATA[是否有一种工具可以让你与外部客户共享类似 Excel 的表格，而这些表格不是 Microsoft 365（该表格必须能够计算诸如总和之类的公式），但外部客户无需在该工具的网站上创建帐户？理想情况下，让客户有机会发表评论（如果不是编辑）？ 据我所知，Clickup 仅提供“简单”表格，即不支持公式。  我认为 Airtable 不允许这种类型的共享（？）  或者这是一个白日梦，我必须使用 M365？    提交人    /u/rein_deer7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g88cli/excellike_tool_that_can_share_work_with_clients/</guid>
-      <pubDate>Sun, 20 Oct 2024 20:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVD 主菜单</title>
-      <link>https://www.reddit.com/r/software/comments/1g83ugt/dvd_main_menu/</link>
-      <description><![CDATA[这个主菜单来自哪个 DVD 刻录软件？ https://preview.redd.it/0ftcqetd3yvd1.png?width=720&amp;format=png&amp;auto=webp&amp;s=2f5a7a770b43addfbc6819477107b640d5409366    提交人    /u/Busy-Rule1548   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g83ugt/dvd_main_menu/</guid>
-      <pubDate>Sun, 20 Oct 2024 17:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚构建了一个用于下载 TikTok、Instagram Reel/Video 和 Youtube 音乐的 API！🎥✨</title>
-      <link>https://www.reddit.com/r/software/comments/1g83ma2/just_built_an_api_for_downloading_tiktok/</link>
-      <description><![CDATA[嘿，开发者社区！🌟 我最近一直在深入研究频道自动化，我很高兴与大家分享我刚刚构建了一个API，可以毫不费力地以更便宜的价格下载 TikTok 和 Instagram Reels 和视频！😄 这个工具已经成为我自动化工作流程的关键部分，我想你也会喜欢它。 TikTok：TikTok API Instagram：Instagram 下载器 Youtube：YouTube 下载器    提交人    /u/Excellent-Lack1217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g83ma2/just_built_an_api_for_downloading_tiktok/</guid>
-      <pubDate>Sun, 20 Oct 2024 17:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPC-BE 有关播放列表的问题。</title>
-      <link>https://www.reddit.com/r/software/comments/1g8349f/mpcbe_questions_about_playlist/</link>
-      <description><![CDATA[我使用 MPC-BE 1.8.0 Portable 并以播放器文件夹作为设置位置。目前，播放列表文件放在应用程序文件夹中。有没有办法在任何地方手动更改播放列表文件的位置？    提交人    /u/satosoujirou   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g8349f/mpcbe_questions_about_playlist/</guid>
-      <pubDate>Sun, 20 Oct 2024 16:48:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>调整不受 GPU 驱动程序及其管理软件约束的显示颜色输出？</title>
-      <link>https://www.reddit.com/r/software/comments/1g81f6n/adjusts_display_color_output_that_not_bound_to/</link>
-      <description><![CDATA[我想对我的显示器颜色进行小幅调整。我正在寻找的调整只是降低一些饱和度并提高我的颜色输出的黑色水平。仅此而已。另一个要求是我希望调整能够快速打开和关闭。 我使用的是英特尔板载，因此在其管理软件上调整显示颜色有其自身的局限性。摆弄我的显示器或 Windows 颜色配置文件需要花费太多时间来来回切换。    提交人    /u/kupinggepeng   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g81f6n/adjusts_display_color_output_that_not_bound_to/</guid>
-      <pubDate>Sun, 20 Oct 2024 15:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>有地方可以得到 Office XP 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1g819hs/is_there_a_place_to_get_office_xp/</link>
-      <description><![CDATA[有人有 Office XP iso 的链接吗？    由   提交  /u/vu_insento   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g819hs/is_there_a_place_to_get_office_xp/</guid>
-      <pubDate>Sun, 20 Oct 2024 15:27:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

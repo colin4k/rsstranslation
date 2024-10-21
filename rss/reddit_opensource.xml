@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 21 Oct 2024 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 18:01:58 GMT</lastBuildDate>
+    <item>
+      <title>嵌入式设备上的 Opentelemetry</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8va3a/opentelemetry_on_embedded_devices/</link>
+      <description><![CDATA[这里有谁使用过 Otel 收集器从嵌入式设备收集指标？你遇到过任何性能问题吗？    提交人    /u/DangerousOcelot6747   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8va3a/opentelemetry_on_embedded_devices/</guid>
+      <pubDate>Mon, 21 Oct 2024 17:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 编写的适用于 Mac 门户的 IPTV 播放器。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8u43m/iptv_player_for_mac_portals_in_python/</link>
+      <description><![CDATA[专为 Windows 制作 https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER    由   提交  /u/cyogen441   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8u43m/iptv_player_for_mac_portals_in_python/</guid>
+      <pubDate>Mon, 21 Oct 2024 16:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>上传 PDF 作为链接</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8t3qu/upload_pdf_as_link/</link>
+      <description><![CDATA[你们有人知道一个网站吗，我可以在上面分享类似的 PDF，然后人们下载 PDF 本身？ 有很多网站，但它们是闭源的，我觉得它们有点可疑。    提交人    /u/bigkme   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8t3qu/upload_pdf_as_link/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：优化 JSON 路径搜索以获得更好的性能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8sjkv/help_needed_optimizing_json_path_search_for/</link>
+      <description><![CDATA[大家好， 我一直在研究一个名为 search-in-json 的开源项目。目标是在 JSON 对象中找到任何数据的路径，无论架构有多复杂。以下是我目前方法的简要分析：  格式化并字符串化 JSON。 使用正则表达式匹配目标数据的所有出现位置。 对于每个匹配项，根据光标位置、缩进和行号遍历 JSON 以提取正确的路径。  虽然此解决方案有效，但存在明显的性能瓶颈： 每次搜索路径时，它都会从 JSON 的开头开始遍历，这会导致大量重复操作。我的目标是利用内存（可能是缓存或索引结果）以避免冗余工作并加快搜索过程。 我正在寻找有关如何优化搜索并使其更高效的建议。如果有人对数据结构、算法或缓存策略有任何想法，我很乐意听听您的想法。 提前感谢您的时间和见解！    提交人    /u/drkwb8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8sjkv/help_needed_optimizing_json_path_search_for/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音 AI 入门套件（MIT 许可证）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8sgnj/voice_ai_starter_kit_mit_license/</link>
+      <description><![CDATA[我一直在试验语音 AI，并决定开源部分代码。这只是 V1，有点草率和粗糙，只是为了好玩和教育目的。它运行得很好，目标是使用 WebRTC 传输音频，然后让 AI 模型生成适当的响应。 目前它只是一个“玩具”应用程序来逗我的女儿开心，这样她就可以与语音 AI 互动，就像她在与卡通人物交谈一样。 这种方法肯定有大量的生产和 SaaS 类型的用例，如果它对您有用，请随时签出代码并用于任何目的。 https://github.com/kevincoder-co-za/zazu-voiceai    提交人    /u/KevinCoder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8sgnj/voice_ai_starter_kit_mit_license/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:29:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个开源网络扩展，让您可以使用本地运行的 AI 语言模型来总结和聊天任何网页。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8s0gf/i_made_an_opensource_web_extension_that_lets_you/</link>
+      <description><![CDATA[  由    /u/Ok_Effort_5849  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8s0gf/i_made_an_opensource_web_extension_that_lets_you/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 - 开发环境和工作区</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8rztn/opensource_development_environments_workspaces/</link>
+      <description><![CDATA[大家好， 自从这个想法诞生以来，我一直很荣幸能够参与 Kloudlite 的开发，我想分享一下我们一直在构建的东西。多年来，处理缓慢的开发循环和繁琐的环境设置感觉像是一个反复出现的挑战。为了解决这个问题，我们开发了一个平台，该平台简化了环境和工作区的管理方式，其核心依赖于 Docker 容器。 我们的想法是创建灵活、可复制的工作区，可以在任何地方运行 - 无论是在本地机器上还是在云端 - 而无需太多麻烦。它使我们团队内部的协作更加顺畅，开发体验更加愉快和高效。 如果这与您的开发经历产生共鸣，请随时查看：kloudlite/kloudlite。它是开源的，我们随时欢迎反馈和建议。 期待听到您的想法！    提交人    /u/drkwb8   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8rztn/opensource_development_environments_workspaces/</guid>
+      <pubDate>Mon, 21 Oct 2024 15:10:20 GMT</pubDate>
+    </item>
     <item>
       <title>用于实时应用程序开发的开源解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1g8rlxn/an_opensource_solution_for_realtime_application/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[        提交人    /u/davidmezzetti   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g7wekz/github_neumltxtai_allinone_opensource_embeddings/</guid>
       <pubDate>Sun, 20 Oct 2024 11:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子HTML</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7uzul/ehtml/</link>
-      <description><![CDATA[  由    /u/gyen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7uzul/ehtml/</guid>
-      <pubDate>Sun, 20 Oct 2024 09:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么促使你这么做的？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7tl5x/what_makes_you_do_it/</link>
-      <description><![CDATA[我最近在 e/selfhosted 上分享了一个我创建的开源项目，并收到了很多关于我的项目和我本人的负面评论。 我不明白为什么人们如此消极，我花了几个月的时间在空闲时间编写代码，我没有要钱也没有强迫任何人使用我的项目。那为什么这么消极呢？最重要的是，我既没有读过代码（我怀疑一两分钟的时间是否足以了解代码是什么样的） 如果创建了同一类别的新开源工具，特定工具的最终用户是否会感到受到攻击？ 回到标题，是什么让您忍受消极情绪并为开源世界做出贡献？    提交人    /u/mau-meda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7tl5x/what_makes_you_do_it/</guid>
-      <pubDate>Sun, 20 Oct 2024 07:47:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于分析任何网站的开源 OSINT 工具。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7s1um/open_source_osint_tool_for_analysing_any_website/</link>
-      <description><![CDATA[        提交人    /u/Karmaseed   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7s1um/open_source_osint_tool_for_analysing_any_website/</guid>
-      <pubDate>Sun, 20 Oct 2024 05:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fast Music Remover 正在寻找对 ML、API 设计、前端、后端 [C++/Python] 感兴趣的人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7i28s/fast_music_remover_is_looking_for_people/</link>
-      <description><![CDATA[尊敬的 OSS 社区同仁，您可能还记得我之前发过的帖子中提到的雄心勃勃且发展迅速的音频增强器项目。我们非常高兴地说，我们已经获得了宝贵的贡献者，并且有许多人正在积极地改进此工具的某些部分，为我们的 v1.0 版本做准备！ 由于我们是一个完全由志愿者驱动的项目，您的贡献和支持非常宝贵。事实上，如果没有他们，我们就不会走到这个阶段。目前，开放的行动已经非常明确，我们肯定需要更多的人手！ 以下是我们正在寻找人才的一些当前前景：  [C++] 使用 ONNX 运行时实现现有的 ML 模型，确保模型的正确功能，跨不同线程和相对较小的音频块管理其内部状态。  已对相应的 C API 进行了初步实现，这应该会提供一个起点。   [C++] 探索适合硬件的 GPU 加速。这将提高具有 GPU 的机器的离线处理性能。确保跨平台支持应该带来技术上令人满意的挑战！ [Python] 提供在我们的后端获取和提供实时反馈的方法，确保与我们的 C++ 核心和前端进行适当的互操作。  [Web] 在塑造我们前端的方向方面发挥关键作用。最终将我们从无聊的 HTML 中拯救出来！  [平台/DevOps] 帮助我们实现强大的跨平台发布管道！  我们的工具已经可以在 Windows 和 Unix 平台上运行！    已经列出了许多其他问题，我相信您可以轻松找到更多问题来改进我们的工具！如果您感兴趣或认识可能感兴趣的人，请查看并分享！  自推出以来，我们在不到 1 个月的时间内取得了重大进展，这要归功于您的支持和我们贡献者的宝贵工作。我希望我们能很快为 OSS 社区及其他社区提供一个稳定且有用的工具！  感谢您抽出时间，希望见到您！     提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7i28s/fast_music_remover_is_looking_for_people/</guid>
-      <pubDate>Sat, 19 Oct 2024 20:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 allego 或 yuja 类似的开源软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7gu0f/open_source_software_similar_to_allego_or_yuja/</link>
-      <description><![CDATA[大家好，如果问错了地方，请见谅。我正在寻找这些软件的开源版本： https://www.yuja.com/ https://www.allego.com/ 我喜欢辅导方面的内容，如果有这样的内容就太好了。    提交人    /u/acesup_11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7gu0f/open_source_software_similar_to_allego_or_yuja/</guid>
-      <pubDate>Sat, 19 Oct 2024 19:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以贡献的项目（TypeScript、UI）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7dklg/looking_for_projects_to_contribute_to_typescript/</link>
-      <description><![CDATA[我是一名 TypeScript 开发人员，拥有 2 年经验，热爱 UI 工作。希望通过参与任何活跃项目来提高自己的技能。有人需要他们的帮助吗？    提交人    /u/Dexter_davis   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7dklg/looking_for_projects_to_contribute_to_typescript/</guid>
-      <pubDate>Sat, 19 Oct 2024 17:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>droidcam 的替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</link>
-      <description><![CDATA[是否有任何开源替代方案可以使用 Android 手机作为网络摄像头而不是 droidcam 编辑：我想通过 usb 使用，wifi 是第二偏好    提交人    /u/iamaj_7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</guid>
-      <pubDate>Sat, 19 Oct 2024 16:59:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
