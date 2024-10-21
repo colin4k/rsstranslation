@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 21 Oct 2024 03:09:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 06:02:21 GMT</lastBuildDate>
+    <item>
+      <title>有没有 Facebook、Instagram、X（以前称为 Twitter）、Tiktok、Threads 等的开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g8htvg/are_there_any_opensource_alternatives_for/</link>
+      <description><![CDATA[因此，对于 YouTube，如果您想避免广告，我们在桌面上有 Freetube，在移动设备上有 Newpipe。还有适用于桌面和移动设备的 Brave，但最终，您仍然在使用 Google，只是没有广告。 我真正喜欢 Newpipe 的地方在于，即使您转到主屏幕，视频也会继续播放。您还可以跳过视频的某些部分 - 这是 YouTube 的移动应用程序不允许的，老实说，这很棒。 现在，我想知道 Facebook、Instagram、X（以前称为 Twitter）、TikTok、Threads 等平台是否有类似的东西。我说的是像 Freetube 或 Newpipe 一样功能的替代方案 - 没有广告，没有数据收集，也没有 Meta 或 Elon Musk 潜伏在幕后。不确定这是否存在。我只是讨厌上 Facebook 看视频，然后突然被广告吸引，或者看到我不关心的页面和群组的建议。 我知道 Mastodon，但那是一个完全不同的平台。    提交人    /u/pem2nasheshef   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g8htvg/are_there_any_opensource_alternatives_for/</guid>
+      <pubDate>Mon, 21 Oct 2024 04:46:27 GMT</pubDate>
+    </item>
     <item>
       <title>Shodan 的自托管替代方案：引入 Rigour – 寻求反馈和贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1g8b7la/selfhosted_alternative_to_shodan_introducing/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>droidcam 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</link>
-      <description><![CDATA[有没有开源替代方案可以使用 Android 手机作为网络摄像头而不是 droidcam 编辑：我想通过 usb 使用，wifi 是第二偏好    提交人    /u/iamaj_7   [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何开源替代方案可以使用 Android 手机作为网络摄像头而不是 droidcam 编辑：我想通过 usb 使用，wifi 是第二偏好    提交人    /u/iamaj_7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g7dcy0/alternative_to_droidcam/</guid>
       <pubDate>Sat, 19 Oct 2024 16:59:52 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我很高兴地宣布，Wabe 今天在 GitHub 上正式获得 100 颗星！🌟 这对我们来说是一个巨大的里程碑，如果没有所有的工作，我们不可能做到这一点。 对于那些可能不知道的人，Wabe 是一个完全开源的 TypeScript 后端即服务 (BaaS)（使用 Bun），我设计它的目的是让开发人员的生活更轻松。有了 Wabe，一切都变得更简单：管理身份验证、数据库访问、自动 GraphQL API 生成、细粒度的权限设置、增强的安全性、Stripe 支持、重新发送（用于发送电子邮件）支持等等。 如果您尚未查看或想要做出贡献，您可以在这里找到我们：Wabe GitHub。让我们继续建设，一起让它变得更好！ 现在迈向 1k 星！🌟    提交人    /u/mrpalixir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g6maxq/wabe_has_reached_100_stars_on_github_today/</guid>
       <pubDate>Fri, 18 Oct 2024 16:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>志愿者管理的开源解决方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g6kph5/opensource_solutions_for_volunteer_management/</link>
-      <description><![CDATA[嘿！有人知道任何开源或免费的志愿者管理工具吗？我有几个不同的团队需要稳定的志愿者，所以当一个人不能再来的时候，我必须手动更新我的 Excel 表格，这很耗时，而且效率低下。  最好的情况是，我可以创建团队，输入人员并添加到团队，并轻松删除人员或切换团队（甚至在某人无法参加并且团队需要另一名志愿者时发出警报），等等。  谢谢你的帮助！     提交人    /u/jakster1331   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g6kph5/opensource_solutions_for_volunteer_management/</guid>
-      <pubDate>Fri, 18 Oct 2024 15:25:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
