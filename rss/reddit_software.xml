@@ -4,9 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 22 Oct 2024 06:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 09:01:51 GMT</lastBuildDate>
     <item>
-      <title>救命！如何从我的桌面上删除这个幽灵窗口？</title>
+      <title>AI 有声读物创作者</title>
+      <link>https://www.reddit.com/r/software/comments/1g9dh8i/ai_audiobook_creator/</link>
+      <description><![CDATA[我通过一位名叫 Juan Ramón Rallo 的西班牙作家重新发现了经济学和经济理论。他有 7 或 8 本书，我很想全部读完；可惜的是，他的书中只有一本被录制成有声读物。我是一个非常忙碌的人，经常做运动，所以听有声读物绝对是我的首选形式。我没有时间坐下来读书。有没有可以从 PDF 创建有声读物的应用程序或存储库？我以前用过 ElevenLabs，它的 AI 质量绝对令人印象深刻；如果这样的解决方案不存在，我会感到惊讶。    提交者    /u/BoughtTeslaAt140   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g9dh8i/ai_audiobook_creator/</guid>
+      <pubDate>Tue, 22 Oct 2024 08:44:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨渠道跟踪组合</title>
+      <link>https://www.reddit.com/r/software/comments/1g9cdys/tracking_mixes_across_channels/</link>
+      <description><![CDATA[跨频道跟踪混音 大家好，希望你们都过得好。我是一名 DJ，在各种 SoundCloud 频道上分布着 80 多个混音。 我面临的挑战是跟踪不同频道上的所有混音，因为很难随时了解新的喜欢、转发和其他活动。 我想知道是否有人知道一个平台或工具可以帮助我将所有混音整合到一个地方，这样只要任何一个混音有活动，我就可以收到通知。 我相信你们中的一些人也有过类似的想法或经历，我非常感谢任何建议或推荐。 谢谢你的帮助！    提交人    /u/sa3bbb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g9cdys/tracking_mixes_across_channels/</guid>
+      <pubDate>Tue, 22 Oct 2024 07:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！如何从我的桌面删除这个幽灵窗口？</title>
       <link>https://www.reddit.com/r/software/comments/1g9b4mh/help_how_to_remove_this_ghost_window_from_my/</link>
       <description><![CDATA[大家好！我不知道为什么，但突然间，每次启动 Windows 10 时，我的桌面上都会出现这个矩形。它看起来像某种幽灵窗口，但我无法以任何方式删除它。我甚至尝试恢复 Windows 备份，从它绝对不存在的日子开始，但我没有解决任何问题。你们中有人遇到过这种情况吗？最重要的是，如果是这样，你是如何解决这个问题的？提前致谢 https://preview.redd.it/ftz52efox8wd1.png?width=1003&amp;format=png&amp;auto=webp&amp;s=4e046d5189c56138af77df403055d6c37938f5b6    提交人    /u/Ninemoretimes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g9b4mh/help_how_to_remove_this_ghost_window_from_my/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>如何批量合并文件夹中的图像对</title>
       <link>https://www.reddit.com/r/software/comments/1g9807v/how_to_batch_combine_pairs_of_images_within_a/</link>
-      <description><![CDATA[我不太确定我在标题中使用的术语是否正确，但我刚刚下载了一个漫画（32 个编号的 jpg 文件），想知道是否有办法水平组合这些图像，以便 #1 和 #2 变成一个新图像，#3 和 #4 变成一个新图像等等。  经过研究，我发现最有效的方法是使用 ImageMagick，但是 Homebrew 与我的设备不兼容（需要下载 ImageMagick）。我尝试了 Python，但找不到可行的代码。还有其他我可以使用（与 Mac 兼容）的软件吗？    提交人    /u/Anxious_Audience_743   [链接] [评论]]]></description>
+      <description><![CDATA[我不太确定我在标题中使用的术语是否正确，但我刚刚下载了一个漫画（32 个编号的 jpg 文件），想知道是否有办法水平组合这些图像，以便 #1 和 #2 变成一个新图像，#3 和 #4 变成一个新图像等等。  经过研究，我发现最有效的方法是使用 ImageMagick，但是 Homebrew 与我的设备不兼容（需要下载 ImageMagick）。我尝试了 Python，但找不到可行的代码。还有其他我可以使用的软件吗（与 Mac 兼容）？    提交人    /u/Anxious_Audience_743   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g9807v/how_to_batch_combine_pairs_of_images_within_a/</guid>
       <pubDate>Tue, 22 Oct 2024 02:44:41 GMT</pubDate>
     </item>
@@ -99,14 +113,14 @@
     <item>
       <title>烦人的孩子</title>
       <link>https://www.reddit.com/r/software/comments/1g8u8os/annoying_kids/</link>
-      <description><![CDATA[所以在我的学校里，学生们会跑来跑去，通过按电源按钮关闭设备（我通过控制面板等找到了一个计数器），现在这些孩子在失败后，他们按住电源按钮并强制关机（非常烦人，也有损坏我的设备的情况）。我需要的是，当有人在打开电源按钮后按住电源按钮时，它应该显示一个假的蓝屏死机，可以通过某种控制退出。    提交人    /u/EnderLonly   [link] [评论]]]></description>
+      <description><![CDATA[所以在我的学校里，学生们会跑来跑去，按下电源按钮关闭设备（我通过控制面板等找到了一个计数器），现在这些孩子在失败后，他们按住电源按钮并强制关机（非常烦人，也有损坏我设备的情况）。我需要的是，当有人在打开电源按钮后按住电源按钮时，它应该显示一个假的蓝屏死机，可以通过某种控制退出。    提交人    /u/EnderLonly   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g8u8os/annoying_kids/</guid>
       <pubDate>Mon, 21 Oct 2024 16:41:12 GMT</pubDate>
     </item>
     <item>
       <title>搜索文件管理器</title>
       <link>https://www.reddit.com/r/software/comments/1g8u8ij/search_for_file_manager/</link>
-      <description><![CDATA[您好，我正在寻找可以替代 win10 资源管理器的文件管理器，我找到了一些类似 Sigma File Manager 和 Files 的程序，但我不喜欢这些程序，它们不是我想要的功能    提交人    /u/mobby45   [link] [comments]]]></description>
+      <description><![CDATA[您好，我正在寻找可以替代 win10 资源管理器的文件管理器，我找到了一些类似 Sigma File Manager 和 Files 的，但我不喜欢这些，它们不是我想要的功能    提交人    /u/mobby45   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g8u8ij/search_for_file_manager/</guid>
       <pubDate>Mon, 21 Oct 2024 16:40:58 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[🎶 预告警报： Click Bait Symphony 🎶 10 月 21 日现已推出！🗓️ Spotify：https://open.spotify.com/album/2AQlrFW3bbuq5CDPwKu5jw 准备好迎接一张将低保真氛围、蓝调、灵魂乐和摇滚乐融合成数字混乱和现实世界情感交响曲的专辑。从深情的钢琴民谣到粗犷的吉他即兴重复乐段，The Laughing Crocodiles 的《Click Bait Symphony》带您经历现代世界的起起落落。💻🎸 这张专辑收录了“你在寻找什么”、“不再发送垃圾邮件”和“啁啾鸟”等曲目，是科技爱好者、深度思考者和任何身处数字时代的人的完美配乐。🔍💡    提交人    /u/blynn8   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g8rdhv/music_to_write_code_to/</guid>
       <pubDate>Mon, 21 Oct 2024 14:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨渠道跟踪组合</title>
-      <link>https://www.reddit.com/r/software/comments/1g8r5so/tracking_mixes_across_channels/</link>
-      <description><![CDATA[  由    /u/sa3bbb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g8r5so/tracking_mixes_across_channels/</guid>
-      <pubDate>Mon, 21 Oct 2024 14:34:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 PC 和 Android 之间离线共享大文件的应用程序或方法（无线）</title>
-      <link>https://www.reddit.com/r/software/comments/1g8qjiq/app_or_method_to_share_large_files_offline/</link>
-      <description><![CDATA[  由    /u/Far_Pay_3294  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g8qjiq/app_or_method_to_share_large_files_offline/</guid>
-      <pubDate>Mon, 21 Oct 2024 14:07:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

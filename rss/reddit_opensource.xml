@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 22 Oct 2024 06:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 09:02:06 GMT</lastBuildDate>
+    <item>
+      <title>用于愚蠢测量的 FOSS 转换器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9d4rp/a_foss_converter_for_stupid_measurements/</link>
+      <description><![CDATA[  由    /u/Glacierpark-19  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9d4rp/a_foss_converter_for_stupid_measurements/</guid>
+      <pubDate>Tue, 22 Oct 2024 08:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audacity bugman 软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9bxkp/audacity_bugman_software/</link>
+      <description><![CDATA[我最近下载了 Audacity，它现在附带了这个“Hub”软件，他们宣传了一些愚蠢的云服务。 Audacity 现在是垃圾 bugman 软件吗？如果是这样，最好的真正的 FOSS Audacity 替代品是什么？    提交人    /u/thinlycuta4paper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9bxkp/audacity_bugman_software/</guid>
+      <pubDate>Tue, 22 Oct 2024 06:46:00 GMT</pubDate>
+    </item>
     <item>
       <title>SnoopRlive 隆重推出：实时设备检测和映射！🚀</title>
       <link>https://www.reddit.com/r/opensource/comments/1g98buf/introducing_snooprlive_realtime_device_detection/</link>
-      <description><![CDATA[我很高兴地宣布推出SnoopRlive，这是我的设备检测和映射工具的最新版本，现在可以与 Kismet 一起运行时提供实时更新！ 🎉 🔍 主要特点：  实时监控：在交互式地图上可视化设备、监视者和警报，并提供实时更新。 自动刷新地图：地图会自动刷新以显示最新数据，无需人工干预。 设备移动检测：根据设备移动阈值检测潜在的监视者。 无人机检测：通过 SSID 或 MAC 地址前缀识别已知无人机。 可自定义的更新间隔：调整数据刷新频率以满足您的需求。  🌐 工作原理： SnoopRlive 实时处理来自 Kismet SQLite 数据库的数据，并更新您可以在您的网络浏览器。此设置通过提供在您附近检测到的设备的视觉表示来增强态势感知。 ⚙️ 开始：  运行 Kismet：确保 Kismet 正在运行并收集数据。 启动 SnoopRlive：使用所需设置执行 SnoopR.py：python3 SnoopR.py --db-path /path/to/your.kismet --output-map /path/to/map/SnoopR_Map.html --interval 30  在包含 SnoopR_Map.html 的目录中，启动 Web 服务器：python3 -m http.server 8000 打开您的网络浏览器并导航至：http://localhost:8000/SnoopR_Map.html 地图将每 30 秒（或您设置的间隔）自动刷新一次。当 Kismet 收集新数据时，您将看到实时更新。  https://github.com/AlienMajik/SnoopR/releases/tag/v3 欢迎随时做出贡献、报告问题或建议功能！ 🔒 免责声明： 请负责任地使用 SnoopRlive 并遵守所有适用的法律法规。尊重隐私并在监控网络或设备之前获得必要的权限。    提交人    /u/AlienMajik   [链接] [评论]]]></description>
+      <description><![CDATA[我很高兴地宣布推出SnoopRlive，这是我的设备检测和映射工具的最新版本，现在可以与 Kismet 一起运行时提供实时更新！ 🎉 🔍 主要特点：  实时监控：在交互式地图上可视化设备、监视者和警报，并提供实时更新。 自动刷新地图：地图会自动刷新以显示最新数据，无需人工干预。 设备移动检测：根据设备移动阈值检测潜在的监视者。 无人机检测：通过 SSID 或 MAC 地址前缀识别已知无人机。 可自定义的更新间隔：调整数据刷新频率以满足您的需求。  🌐 工作原理： SnoopRlive 实时处理来自 Kismet SQLite 数据库的数据，并更新您可以在您的网络浏览器。此设置通过提供在您附近检测到的设备的视觉表示来增强态势感知。 ⚙️ 开始：  运行 Kismet：确保 Kismet 正在运行并收集数据。 启动 SnoopRlive：使用所需设置执行 SnoopR.py：python3 SnoopR.py --db-path /path/to/your.kismet --output-map /path/to/map/SnoopR_Map.html --interval 30  在包含 SnoopR_Map.html 的目录中，启动 Web 服务器：python3 -m http.server 8000 打开您的网络浏览器并导航至：http://localhost:8000/SnoopR_Map.html 地图将每 30 秒（或您设置的间隔）自动刷新一次。当 Kismet 收集新数据时，您将看到实时更新。  https://github.com/AlienMajik/SnoopR/releases/tag/v3 欢迎随时做出贡献、报告问题或建议功能！ 🔒 免责声明： 请负责任地使用 SnoopRlive 并遵守所有适用的法律法规。监控网络或设备前，请尊重隐私并获取必要的权限。    提交人    /u/AlienMajik   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g98buf/introducing_snooprlive_realtime_device_detection/</guid>
       <pubDate>Tue, 22 Oct 2024 03:01:47 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 22 Oct 2024 00:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>有没有任何开源应用程序可以让我同时管理 TOTP 和密钥？（所以不是 Ente Auth）</title>
+      <title>有没有任何开源应用程序允许我同时管理 TOTP 和密钥？（所以不是 Ente Auth）</title>
       <link>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</link>
       <description><![CDATA[我正在使用 Bitwarden 存储密码。我想要第二个应用程序来存储 TOTP 种子和存储密钥。Ente Auth 不支持密钥。出于安全原因，我不想将我的第二个因素存储在 Bitwarden 中。我也不想使用 Yubi 密钥。我说的是 Google、Bitwarden、Apple 等的新密钥功能，但它们的开源客户端版本。 一些链接，以便您了解我在说什么功能： https://bitwarden.com/passwordless-passkeys/ https://developers.google.com/identity/passkeys https://support.apple.com/guide/iphone/use-passkeys-to-sign-in-to-apps-and-websites-iphf538ea8d0/ios 与使用 Yubi 密钥时不同，这些密钥可以跨设备同步。    提交人    /u/ozone6587   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[上周，我首次向两个不同的开源项目发出了拉取请求，这两个项目我在工作中已经使用了一段时间。今天，我收到通知，我的两个贡献都被接受并合并到主要产品中。知道我建议的改进现在可供成千上万的开发人员使用，这是一种很棒的感觉。 这是一种很酷的传递价值的方式，不仅通过我自己的产品，而且通过为更广泛的社区所依赖的工具做出贡献。    提交人    /u/iamarsenibragimov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g8rigp/firsttime_opensource_contributor_my_pull_requests/</guid>
       <pubDate>Mon, 21 Oct 2024 14:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于 API 集成中有效数据转换的模板语言</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8pwaw/template_language_for_effective_data/</link>
-      <description><![CDATA[        提交人    /u/ephemeral404   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8pwaw/template_language_for_effective_data/</guid>
-      <pubDate>Mon, 21 Oct 2024 13:38:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在Windows上向用户交付小型OSS软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8o0ug/how_to_deliver_small_oss_software_to_users_on/</link>
-      <description><![CDATA[我开发了一个小型开源桌面应用程序，作为业余爱好。该应用程序是跨平台的；在 Linux 上，我通过 snap 分发它。根据 snap 统计数据估计总用户数，我可能在全球拥有几千名用户，最多只有五位数的用户。 由于 Windows SmartScreen 过滤，我无法在 Windows 上分发我的软件。您使用什么策略将软件带给最终用户？在我看来，我有以下选择：  注册一家公司并获得 EV 代码签名 证书。我能找到的最便宜的 EV 代码签名证书来自 certum，每年约 400 美元 - 这根本不是一个业余爱好的选择。如果我在本国没有获得实际收入，我是否可以注册一家公司也值得怀疑；我可能会遇到法律问题 获得 OV 代码签名 证书。 Certum 有一个开源代码签名证书，每年大约 50 美元。我正在考虑获取它；但是有报告称，即使使用 OV 证书签名，也需要积累声誉。由于下载量如此之少，证书有效期又如此之短，我担心最终我只会花钱而 Smartscreen 却不会消失 通过 winget 分发。社区很好，流程很简单 - 我以前这样做过，开箱即用，运行良好 - 但这仅适用于精通技术的用户；不适用于不习惯使用命令行的日常用户 提交到 Windows Store。过去，Microsoft 会为您签名应用程序，但最近似乎已经停止了，即您需要在提交之前进行代码签名。有传言称，在将您的应用程序打包为 MSIX 时，您可以不签名提交 - 有人可以确认吗？我找不到 Microsoft 对此的任何声明。 将二进制文件提交给 Microsoft 进行恶意软件分析。我过去这样做过，但似乎对 Smartscreen 过滤没有影响。  还有其他我忽略的选项吗？ 我理解 Microsoft 想要阻止恶意软件和广告软件，但目前的情况确实伤害了小型和业余开发人员。其他供应商做得更好 - 使用 Google，您只需支付一次费用，然后就可以将您的应用程序提交到商店；使用 Apple，您每年支付 100 美元，但可以保证用户实际上可以轻松安装您的应用程序...    提交人    /u/7dsfalkd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8o0ug/how_to_deliver_small_oss_software_to_users_on/</guid>
-      <pubDate>Mon, 21 Oct 2024 12:04:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
