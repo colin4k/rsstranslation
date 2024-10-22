@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 21 Oct 2024 21:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 00:03:36 GMT</lastBuildDate>
+    <item>
+      <title>有没有任何开源应用程序允许我同时管理 TOTP 和密钥？（所以不是 Ente Auth）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</link>
+      <description><![CDATA[我正在使用 Bitwarden 存储密码。我想要第二个应用程序来存储 TOTP 种子和存储密钥。Ente Auth 不支持密钥。出于安全原因，我不想将我的第二个因素存储在 Bitwarden 中。我也不想使用 Yubi 密钥。我说的是 Google、Bitwarden、Apple 等的新密钥功能，但它们的开源客户端版本。 一些链接，以便您了解我在说什么功能： https://bitwarden.com/passwordless-passkeys/ https://developers.google.com/identity/passkeys https://support.apple.com/guide/iphone/use-passkeys-to-sign-in-to-apps-and-websites-iphf538ea8d0/ios 与使用 Yubi 密钥时不同，这些密钥可以跨设备同步。    提交人    /u/ozone6587   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</guid>
+      <pubDate>Mon, 21 Oct 2024 23:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Github 上的项目正在获得贡献者和星星，我从未感到如此高兴。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g929hc/my_project_on_github_is_getting_contributors_and/</link>
+      <description><![CDATA[正如标题所述。 我最近进入了这个行业，我非常喜欢编码，所以我决定启动一个开源项目，人们都喜欢它，我得到了积极的反馈。 作为一个在家学习开发（自学成才）的人，这对我来说意味着全世界：DD。    提交人    /u/cesariofs_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g929hc/my_project_on_github_is_getting_contributors_and/</guid>
+      <pubDate>Mon, 21 Oct 2024 22:06:48 GMT</pubDate>
+    </item>
     <item>
       <title>用于管理浏览器书签、2fa 和密码的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1g8yv42/app_for_manage_bookmarks_2fa_and_passwords_from/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨，我刚刚使用 Next.js、Socket.IO 和 TMDB 创建了一个完全开源的 Web 应用程序，旨在让电影爱好者讨论他们最喜欢的电影。欢迎给这个 repo 点个星！ Github repo：https://github.com/younes101020/electra-v2 项目：https://electra.younesfakallah.fr    提交人    /u/HumanWithoutSoul   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g8awbc/my_first_oss_project_aimed_at_movie_enthusiast/</guid>
       <pubDate>Sun, 20 Oct 2024 22:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - 从 ASCII 字符生成动画伪随机故障 SVG</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g86gwe/github_generate_animated_pseudo_random_glitch_svg/</link>
-      <description><![CDATA[       由    /u/Last_Establishment_1  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g86gwe/github_generate_animated_pseudo_random_glitch_svg/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[公告] Back In Time 1.5.3 候选版本发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7xvop/announcement_release_candidate_for_back_in_time/</link>
-      <description><![CDATA[  由    /u/buhtz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7xvop/announcement_release_candidate_for_back_in_time/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:45:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
