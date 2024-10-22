@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 18:02:26 GMT</lastBuildDate>
+    <item>
+      <title>NZBGet 项目更新：开源 Usenet 客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9o69y/nzbget_project_update_opensource_usenet_client/</link>
+      <description><![CDATA[  由    /u/nzb-get  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9o69y/nzbget_project_update_opensource_usenet_client/</guid>
+      <pubDate>Tue, 22 Oct 2024 17:43:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snaptube 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9lyj1/snaptube_alternative/</link>
+      <description><![CDATA[嗨...snaptube 有替代品吗？..比如通过简单的步骤从 youtube 和 Instagram 下载视频..我用过 ytd-lnis 但是它不能下载 Instagram 视频...显示错误..请给我一个最好的替代方案... 我想再问一个人...snaptube 应用程序怎么能毫无问题地下载视频...而开源应用程序却不能？为什么我们不能制作一个和 snaptube 一模一样的应用程序？    提交人    /u/mr_blacky2001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9lyj1/snaptube_alternative/</guid>
+      <pubDate>Tue, 22 Oct 2024 16:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>OnixIDE：实时协作在线 IDE。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9l74x/onixide_a_realtime_collaborative_online_ide/</link>
+      <description><![CDATA[大家好， 我一直在研究 OnixIDE，这是一个使用 Node.js 构建的开源协作在线 IDE，我想与大家分享它。这是一个使用基于 WebSocket 的文件同步的实时开发环境，灵感来自 Replit 和 Online VSCode 等平台。我的目标是最终将它变成类似于 GitHub Codespaces 的东西。 迄今为止的一些主要功能：  CodeMirror 6 作为编辑器（语法突出显示，自动完成等） 动态文件树，带有拖放上传功能 内置终端用于运行命令 实时协作与实时文件更新 可拖动面板，因此您可以根据需要调整布局  路线图（如有更改）：  文件监视以进行外部编辑 文件树图标 多个终端选项卡 Git 集成 访问管理 同步光标和选择  它完全基于浏览器，因此您可以从任何地方访问它。也就是说，代码经过了大量的重写和更改，因此在某些地方可能有点混乱，但它是有效的！ 如果您想查看或贡献，这里是 GitHub 链接：https://github.com/ExoOnix/OnixIDE。 我很乐意听到您的任何反馈或想法！    提交人    /u/Marksh11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9l74x/onixide_a_realtime_collaborative_online_ide/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:40:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款开源 Android 健身应用，具有三星健康、Google Fit 和 Apple Fitness 所具有的圆圈闭合功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9l6tf/an_open_source_android_fitness_app_with_the/</link>
+      <description><![CDATA[有没有类似的东西？我喜欢这些应用程序上的这个功能，但我在 F-droid 中没有找到好的 FOSS 版本，大多数只是没有该功能的基本健身追踪应用程序。     提交人    /u/TheZon12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9l6tf/an_open_source_android_fitness_app_with_the/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻松制作和分享您最喜爱的 YouTube 时刻的 GIF（使用 Whisper Turbo）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9l4m5/easily_make_and_share_gifs_of_your_favorite/</link>
+      <description><![CDATA[要使用该应用程序  找到一个包含您想要制作成 gif 格式的短语的 YouTube / Shorts 网址 输入描述您想要制作成 gif 格式的时刻的文字 单击“创建 gif”按钮创建您的 gif、下载并分享！  创建后，您可以手动调整、修剪或延长 gif 的长度。    提交人    /u/neonwatty   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9l4m5/easily_make_and_share_gifs_of_your_favorite/</guid>
+      <pubDate>Tue, 22 Oct 2024 15:38:01 GMT</pubDate>
+    </item>
     <item>
       <title>使用 React、react-admin、TypeScript 和 Supabase 构建的开源 CRM</title>
       <link>https://www.reddit.com/r/opensource/comments/1g9k5gs/opensource_crm_built_with_react_reactadmin/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[您好。我想知道是否可以在一个应用程序中完成所有操作。我使用 aegis 进行 2fa，使用 bitwargen 进行密码验证。    提交人    /u/Vegetable_Fishing_32   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g8yv42/app_for_manage_bookmarks_2fa_and_passwords_from/</guid>
       <pubDate>Mon, 21 Oct 2024 19:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密 Firefox 密码的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8yds0/opensource_tool_to_decrypt_firefox_passwords/</link>
-      <description><![CDATA[大家好！ 我最近开发了一个开源工具，它允许你从 Firefox 的密码管理器解密和检索已保存的密码。如果你需要恢复忘记的密码或审核存储的凭据，它特别有用。 特点：  简单的命令行界面。 跨平台（Linux、Windows、Mac）。 支持登录和密码字段的解密。 快速设置且易于使用。  此工具对于系统管理员、网络安全专业人员或任何处理密码恢复的人特别有用。 我很乐意听到社区的反馈、建议或贡献！您可以查看存储库（https://github.com/Sohimaster/Firefox-Passwords-Decryptor）。 谢谢，我希望你们中的一些人觉得它有用！    提交人    /u/sohimaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8yds0/opensource_tool_to_decrypt_firefox_passwords/</guid>
-      <pubDate>Mon, 21 Oct 2024 19:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个开源的自托管应用程序，它结合了膳食计划、费用跟踪、时间表等......</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8xkcl/is_there_an_open_source_selfhostable_app_which/</link>
-      <description><![CDATA[大家好，我正在寻找一个开源应用程序：  可通过 docker 自托管 结合以下内容：   膳食/食谱规划器（类似于 Mealie，但不必那么详细 费用跟踪器 待办事项/看板（最好通过 Web 通知 API 向我的桌面发送通知，而无需打开应用程序） 时间表 日历  不是真正需要的，但如果它具有导出/导入功能则是一个加分项系统的数据，因为我想在一段时间后对其进行一些数据分析。 我真的很想知道是否存在这样的东西，以免浪费我的时间来创建它，谢谢阅读：）    提交人    /u/FormationHeaven   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8xkcl/is_there_an_open_source_selfhostable_app_which/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源笔记本 LM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8wvd2/open_source_notebook_lm/</link>
-      <description><![CDATA[大家好， 我有点痴迷于学习，最近我一直在深入研究人工智能辅助学习工具。 我真的很喜欢谷歌的 Notebook LM，但在每天使用它之后，我对它的局限性感到沮丧——缺少功能，缺乏我想要的自定义选项。因此，我决定创建自己的开源替代方案：**Open Notebook**。 GitHub：Open Notebook 第一个版本已经启动并运行，以下是它提供的一些功能：  无限笔记本：根据需要创建任意数量的研究笔记本。 无限来源和注释：添加 PDF、链接、视频等 - 以及您的笔记。 上下文 AI 辅助与 AI 聊天时使用您的来源和注释作为上下文。 关键字和向量搜索：内置工具可帮助您快速找到所需内容。  下周发布的内容还有更多内容：  播客生成器：将您的笔记转换为播客格式。 多模型支持：即将推出 Anthropic、Gemini、Mistral、Ollama 支持。 增强引用：改进布局并更好地控制引用。 洞察生成*：基于 Fabric 框架，从笔记中创建洞察的工具。 更智能的摘要和嵌入：提炼和表示信息的更好方法。 多个聊天会话：在同一个笔记本中处理不同的讨论。 异步处理：通过异步内容处理实现更快的 UI。 跨笔记本来源和笔记：在不同项目之间共享和重复使用笔记。 书签集成：与您最喜欢的书签应用同步。  我很乐意听到您对该项目的反馈！它仍然是一个非常 alpha 版本，但它已经提供了很多价值。您的反馈将是我不断改进它的动力。 此外，如果有人有兴趣做出贡献，我特别寻找前端开发人员来帮助替换 Streamlit 作为 UI 框架。当然，如果您是 Python 开发人员，那么有很多功能工作可以深入研究。如果您有兴趣，请告诉我！ 感谢阅读，祝您学习愉快！✨    提交人    /u/lfnovo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8wvd2/open_source_notebook_lm/</guid>
-      <pubDate>Mon, 21 Oct 2024 18:26:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>嵌入式设备上的 Opentelemetry</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8va3a/opentelemetry_on_embedded_devices/</link>
-      <description><![CDATA[这里有谁使用过 Otel 收集器从嵌入式设备收集指标？你遇到过任何性能问题吗？    提交人    /u/DangerousOcelot6747   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8va3a/opentelemetry_on_embedded_devices/</guid>
-      <pubDate>Mon, 21 Oct 2024 17:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 编写的适用于 Mac 门户的 IPTV 播放器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8u43m/iptv_player_for_mac_portals_in_python/</link>
-      <description><![CDATA[专为 Windows 制作 https://github.com/Cyogenus/IPTV-MAC-STALKER-PLAYER    由   提交  /u/cyogen441   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8u43m/iptv_player_for_mac_portals_in_python/</guid>
-      <pubDate>Mon, 21 Oct 2024 16:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
