@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 22 Oct 2024 09:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:02:21 GMT</lastBuildDate>
+    <item>
+      <title>您的网站使用什么软件？寻求建议！</title>
+      <link>https://www.reddit.com/r/software/comments/1g9gcey/what_software_are_you_using_for_your_website/</link>
+      <description><![CDATA[大家好，我正在优化我的在线业务，真的需要一些对您有用的软件建议。以下是我目前正在使用的：  SERPtag 作为关键字排名跟踪器和 SEO 性能 Canva 用于创建快速、专业的图形 Hootsuite 用于安排和管理社交媒体帖子  但我一直在寻找可以帮助简化事情的新工具。你信赖什么工具？很想听听你的建议！    提交人    /u/Ok_Fennel_1013   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g9gcey/what_software_are_you_using_for_your_website/</guid>
+      <pubDate>Tue, 22 Oct 2024 11:58:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有高级标签功能的云文件（图片）浏览器</title>
+      <link>https://www.reddit.com/r/software/comments/1g9epu9/cloud_file_images_explorer_with_advanced_tag/</link>
+      <description><![CDATA[我不知道在哪里可以找到它/寻求帮助，所以我在这里尝试。 我正在寻找类似云存储的东西来创建具有以下功能的图像库：  首先 - 以简单但高级的方式添加标签，创建不同的配置 使用不同标签组合进行高级搜索（添加/减去标签等） 能够在不同的计算机上使用和在云中进行更改 能够轻松共享库以供所有人查看/搜索  到目前为止，最接近的是“Tabbles”之类的东西，但我不确定是否可以轻松地让每个人访问查看图像/搜索库的权限，而无需进行更改。 https://preview.redd.it/wse2mpjk9awd1.jpg?width=670&amp;format=pjpg&amp;auto=webp&amp;s=a9eac4a96c18a7d6bf8981c32330fdbd05e63679    提交人    /u/dhkarma001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g9epu9/cloud_file_images_explorer_with_advanced_tag/</guid>
+      <pubDate>Tue, 22 Oct 2024 10:16:45 GMT</pubDate>
+    </item>
     <item>
       <title>AI 有声读物创作者</title>
       <link>https://www.reddit.com/r/software/comments/1g9dh8i/ai_audiobook_creator/</link>
@@ -20,7 +34,7 @@
       <pubDate>Tue, 22 Oct 2024 07:20:27 GMT</pubDate>
     </item>
     <item>
-      <title>救命！如何从我的桌面删除这个幽灵窗口？</title>
+      <title>救命！如何从我的桌面上删除这个幽灵窗口？</title>
       <link>https://www.reddit.com/r/software/comments/1g9b4mh/help_how_to_remove_this_ghost_window_from_my/</link>
       <description><![CDATA[大家好！我不知道为什么，但突然间，每次启动 Windows 10 时，我的桌面上都会出现这个矩形。它看起来像某种幽灵窗口，但我无法以任何方式删除它。我甚至尝试恢复 Windows 备份，从它绝对不存在的日子开始，但我没有解决任何问题。你们中有人遇到过这种情况吗？最重要的是，如果是这样，你是如何解决这个问题的？提前致谢 https://preview.redd.it/ftz52efox8wd1.png?width=1003&amp;format=png&amp;auto=webp&amp;s=4e046d5189c56138af77df403055d6c37938f5b6    提交人    /u/Ninemoretimes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g9b4mh/help_how_to_remove_this_ghost_window_from_my/</guid>
@@ -53,13 +67,6 @@
       <description><![CDATA[不是在线解决方案，是某种您信任的软件。需要离线观看一些内容。并且通常，要继续使用，需要非常简单和可靠的方法。请不要提及唐尼，它对我不起作用。 提前致谢    由   提交  /u/Oopsiforgotmyoldacc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g99h4h/how_to_download_youtube_videos/</guid>
       <pubDate>Tue, 22 Oct 2024 04:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何批量合并文件夹中的图像对</title>
-      <link>https://www.reddit.com/r/software/comments/1g9807v/how_to_batch_combine_pairs_of_images_within_a/</link>
-      <description><![CDATA[我不太确定我在标题中使用的术语是否正确，但我刚刚下载了一个漫画（32 个编号的 jpg 文件），想知道是否有办法水平组合这些图像，以便 #1 和 #2 变成一个新图像，#3 和 #4 变成一个新图像等等。  经过研究，我发现最有效的方法是使用 ImageMagick，但是 Homebrew 与我的设备不兼容（需要下载 ImageMagick）。我尝试了 Python，但找不到可行的代码。还有其他我可以使用的软件吗（与 Mac 兼容）？    提交人    /u/Anxious_Audience_743   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g9807v/how_to_batch_combine_pairs_of_images_within_a/</guid>
-      <pubDate>Tue, 22 Oct 2024 02:44:41 GMT</pubDate>
     </item>
     <item>
       <title>用于存储txt文件并进行编辑的网站。</title>
@@ -113,14 +120,14 @@
     <item>
       <title>烦人的孩子</title>
       <link>https://www.reddit.com/r/software/comments/1g8u8os/annoying_kids/</link>
-      <description><![CDATA[所以在我的学校里，学生们会跑来跑去，按下电源按钮关闭设备（我通过控制面板等找到了一个计数器），现在这些孩子在失败后，他们按住电源按钮并强制关机（非常烦人，也有损坏我设备的情况）。我需要的是，当有人在打开电源按钮后按住电源按钮时，它应该显示一个假的蓝屏死机，可以通过某种控制退出。    提交人    /u/EnderLonly   [link] [评论]]]></description>
+      <description><![CDATA[所以在我的学校里，学生们会跑来跑去，通过按电源按钮关闭设备（我通过控制面板等找到了一个计数器），现在这些孩子在失败后，他们按住电源按钮并强制关机（非常烦人，也有损坏我的设备的情况）。我需要的是，当有人在打开电源按钮后按住电源按钮时，它应该显示一个假的蓝屏死机，可以通过某种控制退出。    提交人    /u/EnderLonly   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g8u8os/annoying_kids/</guid>
       <pubDate>Mon, 21 Oct 2024 16:41:12 GMT</pubDate>
     </item>
     <item>
       <title>搜索文件管理器</title>
       <link>https://www.reddit.com/r/software/comments/1g8u8ij/search_for_file_manager/</link>
-      <description><![CDATA[您好，我正在寻找可以替代 win10 资源管理器的文件管理器，我找到了一些类似 Sigma File Manager 和 Files 的，但我不喜欢这些，它们不是我想要的功能    提交人    /u/mobby45   [link] [comments]]]></description>
+      <description><![CDATA[您好，我正在寻找可以替代 win10 资源管理器的文件管理器，我找到了一些类似 Sigma File Manager 和 Files 的程序，但我不喜欢这些程序，它们不是我想要的功能    提交人    /u/mobby45   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g8u8ij/search_for_file_manager/</guid>
       <pubDate>Mon, 21 Oct 2024 16:40:58 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[您好，有谁知道有什么网站或应用可以让我在黑色上叠加图片呢？    提交人    /u/Opposite-Yogurt-3729   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g8sjyl/need_help_with_a_function/</guid>
       <pubDate>Mon, 21 Oct 2024 15:33:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐编写代码到...</title>
-      <link>https://www.reddit.com/r/software/comments/1g8rdhv/music_to_write_code_to/</link>
-      <description><![CDATA[🎶 预告警报： Click Bait Symphony 🎶 10 月 21 日现已推出！🗓️ Spotify：https://open.spotify.com/album/2AQlrFW3bbuq5CDPwKu5jw 准备好迎接一张将低保真氛围、蓝调、灵魂乐和摇滚乐融合成数字混乱和现实世界情感交响曲的专辑。从深情的钢琴民谣到粗犷的吉他即兴重复乐段，The Laughing Crocodiles 的《Click Bait Symphony》带您经历现代世界的起起落落。💻🎸 这张专辑收录了“你在寻找什么”、“不再发送垃圾邮件”和“啁啾鸟”等曲目，是科技爱好者、深度思考者和任何身处数字时代的人的完美配乐。🔍💡    提交人    /u/blynn8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g8rdhv/music_to_write_code_to/</guid>
-      <pubDate>Mon, 21 Oct 2024 14:44:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

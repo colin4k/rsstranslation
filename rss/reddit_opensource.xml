@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 22 Oct 2024 09:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:02:36 GMT</lastBuildDate>
+    <item>
+      <title>为独立黑客或任何想要建立自己的项目或想法的人精心挑选的工具和资源列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9g9jr/curated_list_of_tools_and_resources_for_indie/</link>
+      <description><![CDATA[         由    /u/thedaviddias 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9g9jr/curated_list_of_tools_and_resources_for_indie/</guid>
+      <pubDate>Tue, 22 Oct 2024 11:53:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过几个月的编码，我终于成功启动了我的开源项目：Nuggt：一个基于 React 组件事件捕获数据运行的 LLM 代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9fnew/after_months_of_coding_i_finally_managed_to/</link>
+      <description><![CDATA[我在想，如果我可以将我的 React 项目中的所有产品分析数据与 React 组件代码一起放在一个地方，连接到 LLM 代理进行推理、分析和可视化，那会怎样？所以我尝试了一下，效果很好。将所有事件捕获数据集中在一个地方，允许您使用 LLM 代理来：  分析数据 可视化数据 根据数据做出决策 集思广益确定下一步 根据更改生成更新的反应组件代码 重新启动整个分析过程（迭代..）  您可以在https://github.com/shoibloya/nuggt-analytics 上尝试一下 基本上在这个开源项目中，我创建了一个 streamlit 仪表板，允许您将分析集成到您的反应组件并将其连接到 Firestore，所有这些都使用 GPT。然后，一旦事件捕获的数据进入 firestore，我就会将其取回，然后您可以使用 LLM 代理生成决策卡和可视化效果。 让我知道您的反馈    提交人    /u/Loya_3005   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9fnew/after_months_of_coding_i_finally_managed_to/</guid>
+      <pubDate>Tue, 22 Oct 2024 11:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>SecretLint — 用于防止提交凭证的 Linter</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9fh58/secretlint_a_linter_for_preventing_committing/</link>
+      <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9fh58/secretlint_a_linter_for_preventing_committing/</guid>
+      <pubDate>Tue, 22 Oct 2024 11:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supercontrast：一个用于访问所有 ML 模型的开源 Python 库。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9euo8/supercontrast_an_open_source_python_library_for/</link>
+      <description><![CDATA[大家好，我想分享我最近遇到的一个项目，它是一个开源 Python 库，可以帮助用户直接在他们的代码中使用任何模型。这是链接：https://github.com/supercontrast-ai/supercontrast 肯定会很感激一些反馈，也许你会喜欢同样的反馈。 感谢阅读。    提交人    /u/Silatus-sahil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9euo8/supercontrast_an_open_source_python_library_for/</guid>
+      <pubDate>Tue, 22 Oct 2024 10:26:17 GMT</pubDate>
+    </item>
     <item>
       <title>用于愚蠢测量的 FOSS 转换器</title>
       <link>https://www.reddit.com/r/opensource/comments/1g9d4rp/a_foss_converter_for_stupid_measurements/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>SnoopRlive 隆重推出：实时设备检测和映射！🚀</title>
       <link>https://www.reddit.com/r/opensource/comments/1g98buf/introducing_snooprlive_realtime_device_detection/</link>
-      <description><![CDATA[我很高兴地宣布推出SnoopRlive，这是我的设备检测和映射工具的最新版本，现在可以与 Kismet 一起运行时提供实时更新！ 🎉 🔍 主要特点：  实时监控：在交互式地图上可视化设备、监视者和警报，并提供实时更新。 自动刷新地图：地图会自动刷新以显示最新数据，无需人工干预。 设备移动检测：根据设备移动阈值检测潜在的监视者。 无人机检测：通过 SSID 或 MAC 地址前缀识别已知无人机。 可自定义的更新间隔：调整数据刷新频率以满足您的需求。  🌐 工作原理： SnoopRlive 实时处理来自 Kismet SQLite 数据库的数据，并更新您可以在您的网络浏览器。此设置通过提供在您附近检测到的设备的视觉表示来增强态势感知。 ⚙️ 开始：  运行 Kismet：确保 Kismet 正在运行并收集数据。 启动 SnoopRlive：使用所需设置执行 SnoopR.py：python3 SnoopR.py --db-path /path/to/your.kismet --output-map /path/to/map/SnoopR_Map.html --interval 30  在包含 SnoopR_Map.html 的目录中，启动 Web 服务器：python3 -m http.server 8000 打开您的网络浏览器并导航至：http://localhost:8000/SnoopR_Map.html 地图将每 30 秒（或您设置的间隔）自动刷新一次。当 Kismet 收集新数据时，您将看到实时更新。  https://github.com/AlienMajik/SnoopR/releases/tag/v3 欢迎随时做出贡献、报告问题或建议功能！ 🔒 免责声明： 请负责任地使用 SnoopRlive 并遵守所有适用的法律法规。监控网络或设备前，请尊重隐私并获取必要的权限。    提交人    /u/AlienMajik   [link] [comments]]]></description>
+      <description><![CDATA[我很高兴地宣布推出SnoopRlive，这是我的设备检测和映射工具的最新版本，现在可以与 Kismet 一起运行时提供实时更新！ 🎉 🔍 主要特点：  实时监控：在交互式地图上可视化设备、监视者和警报，并提供实时更新。 自动刷新地图：地图会自动刷新以显示最新数据，无需人工干预。 设备移动检测：根据设备移动阈值检测潜在的监视者。 无人机检测：通过 SSID 或 MAC 地址前缀识别已知无人机。 可自定义的更新间隔：调整数据刷新频率以满足您的需求。  🌐 工作原理： SnoopRlive 实时处理来自 Kismet SQLite 数据库的数据，并更新您可以在您的网络浏览器。此设置通过提供在您附近检测到的设备的视觉表示来增强态势感知。 ⚙️ 开始：  运行 Kismet：确保 Kismet 正在运行并收集数据。 启动 SnoopRlive：使用所需设置执行 SnoopR.py：python3 SnoopR.py --db-path /path/to/your.kismet --output-map /path/to/map/SnoopR_Map.html --interval 30  在包含 SnoopR_Map.html 的目录中，启动 Web 服务器：python3 -m http.server 8000 打开您的网络浏览器并导航至：http://localhost:8000/SnoopR_Map.html 地图将每 30 秒（或您设置的间隔）自动刷新一次。当 Kismet 收集新数据时，您将看到实时更新。  https://github.com/AlienMajik/SnoopR/releases/tag/v3 欢迎随时做出贡献、报告问题或建议功能！ 🔒 免责声明： 请负责任地使用 SnoopRlive 并遵守所有适用的法律法规。尊重隐私并在监控网络或设备之前获得必要的权限。    提交人    /u/AlienMajik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g98buf/introducing_snooprlive_realtime_device_detection/</guid>
       <pubDate>Tue, 22 Oct 2024 03:01:47 GMT</pubDate>
     </item>
@@ -48,7 +76,7 @@
       <pubDate>Tue, 22 Oct 2024 00:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>有没有任何开源应用程序允许我同时管理 TOTP 和密钥？（所以不是 Ente Auth）</title>
+      <title>有没有任何开源应用程序可以让我同时管理 TOTP 和密钥？（所以不是 Ente Auth）</title>
       <link>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</link>
       <description><![CDATA[我正在使用 Bitwarden 存储密码。我想要第二个应用程序来存储 TOTP 种子和存储密钥。Ente Auth 不支持密钥。出于安全原因，我不想将我的第二个因素存储在 Bitwarden 中。我也不想使用 Yubi 密钥。我说的是 Google、Bitwarden、Apple 等的新密钥功能，但它们的开源客户端版本。 一些链接，以便您了解我在说什么功能： https://bitwarden.com/passwordless-passkeys/ https://developers.google.com/identity/passkeys https://support.apple.com/guide/iphone/use-passkeys-to-sign-in-to-apps-and-websites-iphf538ea8d0/ios 与使用 Yubi 密钥时不同，这些密钥可以跨设备同步。    提交人    /u/ozone6587   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[我一直在试验语音 AI，并决定开源部分代码。这只是 V1，有点草率和粗糙，只是为了好玩和教育目的。它运行得很好，目标是使用 WebRTC 传输音频，然后让 AI 模型生成适当的响应。 目前它只是一个“玩具”应用程序来逗我的女儿开心，这样她就可以与语音 AI 互动，就像她在与卡通人物交谈一样。 这种方法肯定有大量的生产和 SaaS 类型的用例，如果它对您有用，请随时签出代码并用于任何目的。 https://github.com/kevincoder-co-za/zazu-voiceai    提交人    /u/KevinCoder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g8sgnj/voice_ai_starter_kit_mit_license/</guid>
       <pubDate>Mon, 21 Oct 2024 15:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源网络扩展，让您可以使用本地运行的 AI 语言模型来总结和聊天任何网页。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8s0gf/i_made_an_opensource_web_extension_that_lets_you/</link>
-      <description><![CDATA[  由    /u/Ok_Effort_5849  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8s0gf/i_made_an_opensource_web_extension_that_lets_you/</guid>
-      <pubDate>Mon, 21 Oct 2024 15:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 - 开发环境和工作区</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8rztn/opensource_development_environments_workspaces/</link>
-      <description><![CDATA[大家好， 自从这个想法诞生以来，我一直很荣幸能够参与 Kloudlite 的开发，我想分享一下我们一直在构建的东西。多年来，处理缓慢的开发循环和繁琐的环境设置感觉像是一个反复出现的挑战。为了解决这个问题，我们开发了一个平台，该平台简化了环境和工作区的管理方式，其核心依赖于 Docker 容器。 我们的想法是创建灵活、可复制的工作区，可以在任何地方运行 - 无论是在本地机器上还是在云端 - 而无需太多麻烦。它使我们团队内部的协作更加顺畅，开发体验更加愉快和高效。 如果这与您的开发经历产生共鸣，请随时查看：kloudlite/kloudlite。它是开源的，我们随时欢迎反馈和建议。 期待听到您的想法！    提交人    /u/drkwb8   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8rztn/opensource_development_environments_workspaces/</guid>
-      <pubDate>Mon, 21 Oct 2024 15:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于实时应用程序开发的开源解决方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8rlxn/an_opensource_solution_for_realtime_application/</link>
-      <description><![CDATA[在过去的几个月里，我全身心投入到一个酝酿已久的想法中：一个旨在简化将实时功能集成到 Web 和移动应用程序中的开源平台。 最初的概念是围绕创建 Pusher 或 Ably 等服务的开源替代方案而产生的。该平台为开发人员提供了一个完整的工具包，包括 CLI、客户端和 REST SDK，以及一套抽象出复杂实时功能的服务。目标是提供即插即用的体验，以构建可扩展且安全的实时应用程序。 虽然 Socket.IO 等库提供了在应用程序级别构建实时工作流的工具，但它们在生产、扩展、安全性和添加高级功能方面往往存在差距。这就是 RelayBox 的作用所在——它通过内置功能弥补了这些差距，包括本地开发环境、安全身份验证、套接字生命周期管理、保证消息传递、指标、状态、系统事件 webhook 等。开发人员可以在本地启动整个生态系统，从而更轻松地构建和测试，而无需立即依赖云基础设施。 对于准备投入生产的项目，我们还将在未来几周推出托管服务选项，现在为那些渴望深入了解的人提供免费套餐。对于那些喜欢自托管的人来说，开源模型仍然很灵活，也为这种方法提供全面支持。 我不知道这会走向何方。作为长期使用开源软件的人，通过构建我热衷的东西来回馈社区的机会让我感到既有成就感又有恐惧感。 如果有人感兴趣，GitHub 存储库位于这里。 感谢阅读！    提交人    /u/anonenity   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8rlxn/an_opensource_solution_for_realtime_application/</guid>
-      <pubDate>Mon, 21 Oct 2024 14:54:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次成为开源贡献者：我的拉取请求被合并到数千个使用的项目中！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8rigp/firsttime_opensource_contributor_my_pull_requests/</link>
-      <description><![CDATA[上周，我首次向两个不同的开源项目发出了拉取请求，这两个项目我在工作中已经使用了一段时间。今天，我收到通知，我的两个贡献都被接受并合并到主要产品中。知道我建议的改进现在可供成千上万的开发人员使用，这是一种很棒的感觉。 这是一种很酷的传递价值的方式，不仅通过我自己的产品，而且通过为更广泛的社区所依赖的工具做出贡献。    提交人    /u/iamarsenibragimov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8rigp/firsttime_opensource_contributor_my_pull_requests/</guid>
-      <pubDate>Mon, 21 Oct 2024 14:50:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
