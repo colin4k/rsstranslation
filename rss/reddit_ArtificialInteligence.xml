@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 23 Oct 2024 00:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 03:05:51 GMT</lastBuildDate>
+    <item>
+      <title>如果人工智能能够了解交通信号灯，那么其旅行路线建议是否会更好？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga0iyq/would_aibased_travel_route_suggestions_be_better/</link>
+      <description><![CDATA[我与同事对此意见不一。我的同事认为，当你训练你的人工智能模型以最小化从 A 到 B 的旅行时间时，人工智能模型会学习它需要知道的一切。交通信号灯将嵌入数据中，就像一个隐藏的功能。换句话说，从 A 到 B 的最快路线也是考虑到交通信号灯的路线（在某种程度上，因为它不是唯一重要的事情）。因此，谷歌地图、Waze 等不需要明确知道红灯和绿灯的位置。 我的观点是，在一个拥有完美数据集的世界里，我的同事是对的。但我们不知道谷歌地图和其他基于人工智能的路线建议应用是否真的拥有建议“真正最佳路线”所需的数据。他们的团队可能只是利用他们拥有的数据，并创建了一个提供非常好建议的应用程序。但是，具有明确交通信号灯知识的应用程序可能会帮助您选择绿灯较多的路线，从而使骑行更加顺畅和快捷。     提交人    /u/Mottelbin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga0iyq/would_aibased_travel_route_suggestions_be_better/</guid>
+      <pubDate>Wed, 23 Oct 2024 03:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前，视觉生成 AI 的优秀工具有哪些？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9xg9v/what_are_great_tools_currently_for_visual/</link>
+      <description><![CDATA[有什么有趣的东西值得注意吗？ Midjourney 和 Runway 是最好的吗？ 我想创建一个独特、有趣、迷人的专辑封面，也许是一个剪影人物消失在乌鸦中，让人想起鼬的幻术氛围。 也只是为了生成视觉上很棒的 B 卷类型剪辑，包括城市景观、街道、革命、街头火灾。这些最终信息可能并不重要。但如果有人在这方面有智慧，将不胜感激。    提交人    /u/unkownstonerlord   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9xg9v/what_are_great_tools_currently_for_visual/</guid>
+      <pubDate>Wed, 23 Oct 2024 00:24:59 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 22 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9vr8k/oneminute_daily_ai_news_10222024/</link>
@@ -83,13 +97,6 @@
       <pubDate>Tue, 22 Oct 2024 19:16:44 GMT</pubDate>
     </item>
     <item>
-      <title>硕士论文和人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9qfc4/master_thesis_and_ai/</link>
-      <description><![CDATA[大家好， 我正在写我的硕士论文，想知道你们是否知道我可以使用 AI/聊天 gpt 来帮助我。我不希望它为我做这件事，只是想帮助我以更学术的方式重写我的笔记，格式化参考文献等。 有什么想法吗？    提交人    /u/Dapper_Fish_3066   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9qfc4/master_thesis_and_ai/</guid>
-      <pubDate>Tue, 22 Oct 2024 19:15:31 GMT</pubDate>
-    </item>
-    <item>
       <title>如何解决 GPT 文件处理限制并避免“我会处理这个问题然后再回复您”的谎言？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9p5lv/how_do_you_work_around_gpt_file_processing_limits/</link>
       <description><![CDATA[有人弄清楚最常见的 GPT 能够处理大量内容的限制参数是什么吗？ 我有一个不涉及任何编码的用例。我已要求 ChatGPT 和 Gemini（均为高级版本）查看 150 个播客的成绩单（以 XLXS 和 Google Sheets 格式（如适用））并重新组织内容，以便为我创建某种指南。该文件只有 3.5mb。 这两个 GPT 都不会立即处理内容，而是让我相信它正在后台处理。我知道很多人都知道这不是什么事，但直到最近我才知道，所以我不断收到更新，它一直说它即将完成（哈哈）直到我最终叫出它，它承认它在后台什么也没做。  所以我的问题是：是否有人知道，例如，如果字符数或文件大小低于某个阈值 - 它实际上会按照您的要求执行吗？在再次分解之前，您是否必须以某种方式分解事物？我希望它处理整个内容，而不是摘要的摘要 - 这并不能真正实现我对这个和类似项目的目标。  任何解决方案（即使它不使用这些 GPT 之一）都将不胜感激    提交人    /u/montiesz   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[不确定其他人的感受，但我对 AI 领域的进展了解得越多，我就越觉得自己落后了。 一般来说，我学得很快，我喜欢创造东西，而且我有时间可以浪费。我现在应该学习什么才能真正利用 AI 和由于这些最新进展而创建的新工具？ 理论上我知道我可以使用 AI 来帮助我创造一个想法，但实际上我不知道如何实现这些想法。 我一直看到 Python 出现，所以我觉得我应该对此有更多了解？还有其他吗？    提交人    /u/i-am-a-passenger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9ouci/what_skills_do_i_need_to_master_to_truly_take/</guid>
       <pubDate>Tue, 22 Oct 2024 18:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>山德士上校与罗纳德·麦当劳</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9ooul/colonel_sanders_vs_ronald_mcdonald/</link>
-      <description><![CDATA[希望这不算是 AI 的拙劣之作，希望人们觉得它很有趣。这是 Dreamstudio、Runway 和 Pixverse 制作的。 https://youtu.be/JyCBLSWJFyw    由   提交  /u/TheMythGuido   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9ooul/colonel_sanders_vs_ronald_mcdonald/</guid>
-      <pubDate>Tue, 22 Oct 2024 18:04:40 GMT</pubDate>
     </item>
     <item>
       <title>本地 AI 视频生成器？</title>
