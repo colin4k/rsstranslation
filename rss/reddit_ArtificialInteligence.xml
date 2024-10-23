@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 23 Oct 2024 06:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 09:01:45 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 的多智能体 AI 突破变革声音转文本技术</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga5ak7/nvidias_multiagent_ai_breakthrough_transforms/</link>
+      <description><![CDATA[NVIDIA 的创新多智能体 AI 系统改进了声音转文本技术，并通过 GPU 加速处理和多编码器融合提高了 DCASE 2024 AAC 挑战赛的性能。https://theaiwired.com/nvidias-multi-agent-ai-breakthrough-transforms-sound-to-text-technology/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga5ak7/nvidias_multiagent_ai_breakthrough_transforms/</guid>
+      <pubDate>Wed, 23 Oct 2024 08:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个将你的艺术馈赠给人工智能的地方</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga4rkh/a_place_to_feed_your_art_to_ai/</link>
+      <description><![CDATA[我想过将我的艺术作品提供给人工智能，因为我可以测试它是否会造成伤害，或者只是一件愚蠢的事情。但我不知道如果有人能帮我解决这个问题，我该使用哪个网站/应用程序    提交人    /u/newgremlindahauz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga4rkh/a_place_to_feed_your_art_to_ai/</guid>
+      <pubDate>Wed, 23 Oct 2024 07:31:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能 SaaS 偏见审计和测试方面的困难</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3tko/struggles_with_ai_saas_bias_audits_and_testing/</link>
+      <description><![CDATA[当我们刚开始研究 AI 模型时，无论我们多么小心谨慎，都会遇到数据偏差问题。进行偏差审核就像一场永无止境的打地鼠游戏。我们解决了一个问题，另一个问题又会出现。然后，出现了幻觉，模型会自信地吐出完全不准确或虚构的信息，尤其是在我们的 NLP 项目中。至少可以说，这令人沮丧。 真正帮助我们扭转局面的是认真对待我们的数据和流程。以下是我们修复它们的方法：  整理更好的数据：我们意识到问题很大一部分在于数据本身。因此，我们指派了专注于清理、整理和平衡数据集的工程师。从一开始就拥有可靠的数据是改变游戏规则的关键。 持续的偏见审核：我们在整个过程中设置了自动偏见检查 - 训练期间、训练后甚至部署后。这样，我们就可以及时发现问题，而不会减慢一切速度。 解决幻觉：为了处理幻觉（尤其是生成模型），我们对模型进行了微调并添加了护栏。现在，如果模型即将给出粗略或不可靠的输出，它会在到达用户之前对其进行标记。  如果您遇到类似的问题，我强烈建议您委托知道如何处理偏见、数据准备和模型调整的工程师。由于这些变化，我们能够更快地解决很多问题。  对于那些正在处理这个问题的人：  如何在不中断工作流程的情况下保持偏见审核的效率？ 有什么技巧可以最大限度地减少模型中的幻觉？  我很想听听你的成功秘诀。如果您想进一步讨论，请随时分享您的经验或与我们联系。这些问题可能很棘手，但只要采取正确的方法，就可以解决。    提交人    /u/Hungry-Scholar2022   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3tko/struggles_with_ai_saas_bias_audits_and_testing/</guid>
+      <pubDate>Wed, 23 Oct 2024 06:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 与 Claude。你更喜欢哪个？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3le7/chatgpt_vs_claude_what_do_you_prefer_more/</link>
+      <description><![CDATA[您还在使用 ChatGPT 还是已经转向 Claude？我认为，随着 Claude Sonnet 3.5 和最新的代理计算机的使用，Claude 的发展速度比 ChatGPT 更快。在编码、语言、性能方面，Claude 似乎要好得多。你怎么看？     提交人    /u/Hungry-Scholar2022   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3le7/chatgpt_vs_claude_what_do_you_prefer_more/</guid>
+      <pubDate>Wed, 23 Oct 2024 06:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>笔记本电脑</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3kr0/laptop/</link>
+      <description><![CDATA[大家好， 考虑到我确实有一台公司笔记本电脑，可以阻止下载大多数软件，您会推荐我以 1000 欧元的预算购买哪款笔记本电脑，主要专注于自学、学习、人工智能课程？不需要游戏。 谢谢    提交人    /u/Upbeat_Dish3514   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3kr0/laptop/</guid>
+      <pubDate>Wed, 23 Oct 2024 06:04:48 GMT</pubDate>
+    </item>
     <item>
       <title>传统 SaaS 创始人，您是否已经转向 AI 了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3inf/legacy_saas_founders_have_you_made_the_shift_to_ai/</link>
       <description><![CDATA[我从事 SaaS 行业已有几年了，我注意到的一个趋势是，许多传统软件创始人都不愿转向 AI。无论是担心将 AI 集成到现有产品的复杂性，还是不确定投资回报率，他们似乎都坚持熟悉的做法。与此同时，我看到垂直 AI 解决方案（行业特定的 AI 应用程序）迅速崛起，颠覆了从医疗保健到金融等各个领域。 对于那些已经实现这一飞跃或正在实现这一飞跃的人来说：从传统 SaaS 过渡到 AI 驱动的 SaaS 的临界点是什么？创始人应该寻找哪些信号来知道现在是转变的正确时机，以及在产品开发、客户采用和竞争方面他们应该预见到哪些挑战？“    提交人    /u/Hungry-Scholar2022   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3inf/legacy_saas_founders_have_you_made_the_shift_to_ai/</guid>
       <pubDate>Wed, 23 Oct 2024 06:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以无需支付任何费用就绕过 Claude Ai 聊天机器人的使用限制吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga37a2/can_we_bypass_the_uselimit_of_claude_ai_chatbot/</link>
-      <description><![CDATA[我最近发现了 Cluade ai 聊天机器人，它的响应与 chatgpt 4o 有很大不同，而且更好，但是它的使用限制非常窄，我能够提示大约 14 次，然后它就不再发出任何消息说我已达到消息限制。我们可以在不升级到专业计划的情况下绕过此消息限制吗？    提交人    /u/Yeagerisbest369   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga37a2/can_we_bypass_the_uselimit_of_claude_ai_chatbot/</guid>
-      <pubDate>Wed, 23 Oct 2024 05:40:00 GMT</pubDate>
     </item>
     <item>
       <title>对 AGI 的终极考验是与人们合作，帮助他们获得有效的专利。</title>
@@ -41,25 +69,11 @@
       <pubDate>Wed, 23 Oct 2024 03:01:42 GMT</pubDate>
     </item>
     <item>
-      <title>目前，视觉生成 AI 的优秀工具有哪些？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9xg9v/what_are_great_tools_currently_for_visual/</link>
-      <description><![CDATA[有什么有趣的东西值得注意吗？ Midjourney 和 Runway 是最好的吗？ 我想创建一个独特、有趣、迷人的专辑封面，也许是一个剪影人物消失在乌鸦中，让人想起鼬的幻术氛围。 也只是为了生成视觉上很棒的 B 卷类型剪辑，包括城市景观、街道、革命、街头火灾。这些最终信息可能并不重要。但如果有人在这方面有智慧，将不胜感激。    提交人    /u/unkownstonerlord   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9xg9v/what_are_great_tools_currently_for_visual/</guid>
-      <pubDate>Wed, 23 Oct 2024 00:24:59 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 22 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9vr8k/oneminute_daily_ai_news_10222024/</link>
       <description><![CDATA[ 亚马逊支持的 Anthropic 首次推出可以执行复杂任务的 AI 代理，与 OpenAI、微软和谷歌竞争。[1] 超过 11,000 名创意人员谴责未经授权使用内容进行 AI 开发。[2] Stability 声称其最新的稳定扩散模型可生成更多“多样化”图像。[3] 亚马逊One Medical：AI 工具将医疗保健管理任务减少了 40%。[4]  来源包括：https://bushaicave.com/2024/10/22/10-22-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9vr8k/oneminute_daily_ai_news_10222024/</guid>
       <pubDate>Tue, 22 Oct 2024 23:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>乳腺癌检测优化算法建议（THDOA、Bayesian Opt、L-BFGS-B</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9v6iw/advice_on_optimization_algorithms_for_breast/</link>
-      <description><![CDATA[大家好，我正在开展一个项目，其中我正在比较不同的优化算法（THDOA、THDOA-BO、贝叶斯优化、L-BFGS-B）对梯度提升分类器中的超参数进行调整，以使用 WDBC 数据集检测乳腺癌。  到目前为止，THDOA-BO 在**准确度（99.12%）和召回率（100%）**方面表现最佳，但我想知道既然我已经找到了我认为是良好解决方案的良好开端，下一步应该怎么做。 我从事编程大约 8 年了，我没有博士学位，但这些年来我可能修过 12 门课程。并且已经将 ML、NLP 和 Ai 作为业余爱好做了 5 年 我比较了四种优化方法 THDOA 是我的，另一种是 THDOA 和 BO 的混合 （原始 THDOA、贝叶斯优化、L-BFGS-B 和 THDOA-BO）使用威斯康星州诊断乳腺癌 (WDBC)数据集。以下是结果的详细说明：  性能指标：  这些指标评估每种方法在对癌症和非癌症病例进行分类时的有效性。 指标 THDOA Bayesian Opt L-BFGS-B THDOA-BO 准确率 0.9912 0.9790 0.9474 0.9912 精确率 0.9861 0.9722 0.9577 0.9861 召回率 1.0000 0.9859 0.9577 1.0000 F1 得分 0.9930 0.9790 0.9577 0.9930 解释： **准确度**：THDOA 和 THDOA-BO 均实现了最高的准确度，为 99.12%，这意味着它们几乎可以正确分类所有病例。贝叶斯优化紧随其后，为 97.9%，而 L-BFGS-B 虽然表现良好，但准确度最低，为 94.74%。**精确度**：精确度反映了模型避免假阳性（非癌症病例归类为癌症）的能力。THDOA 和 THDOA-BO 再次表现最佳，精确度为 98.61%，而 L-BFGS-B 的精确度略低，为 95.77%，这意味着它更容易出现假阳性。**召回率**：召回率衡量模型检测真阳性（癌症病例）的能力。THDOA 和 THDOA-BO 都实现了**完美召回率（100%）**，这意味着没有遗漏任何癌症病例。 Bayesian Opt 的召回率也很高，为 98.59%，但 L-BFGS-B 的召回率较低，为 95.77%，表明它漏掉了更多癌症病例。**F1-Score：**F1-Score 是精确度和召回率的平衡。THDOA 和 THDOA-BO 的 F1-score 最高，为 0.9930，表明在正确识别癌症病例和避免假阳性之间取得了最佳平衡。   效率指标：  这些指标评估每种方法收敛到最优解的速度。 指标 THDOA Bayesian Opt L-BFGS-B THDOA-BO 时间（秒） 495.88 418.27 296.98 479.51 收敛 12 15 20 7 ** 解释：** **收敛：**THDOA-BO 收敛速度最快，仅需 7 次迭代即可找到最优解，收敛效率最高。相比之下，L-BFGS-B 需要的迭代次数最多（20 次），这表明搜索最优参数的速度较慢。 **时间：** L-BFGS-B 在运行时间方面最快，仅需 296.98 秒。THDOA-BO 也相对较快，耗时 479.51 秒，但 THDOA 和 THDOA-BO 所用时间都比 L-BFGS-B 长。贝叶斯优化比 THDOA 快，但比 L-BFGS-B 慢。 关键见解： THDOA-BO 在准确度、精确度、召回率和收敛时间之间实现了最佳平衡，使其成为优化癌症检测超参数的强大而有效的选项。THDOA 在性能上与 THDOA-BO 相当，但收敛时间更长。L-BFGS-B 在运行时间方面最快，但在性能指标方面落后，召回率较低，这意味着它会漏掉更多癌症病例。贝叶斯优化在性能和效率之间取得了良好的平衡，具有可靠的准确率和召回率，但与 THDOA-BO 相比，收敛速度略慢。     提交人    /u/MeteoriteImpact   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9v6iw/advice_on_optimization_algorithms_for_breast/</guid>
-      <pubDate>Tue, 22 Oct 2024 22:37:04 GMT</pubDate>
     </item>
     <item>
       <title>用于设备生成模型的模拟处理器</title>
@@ -74,13 +88,6 @@
       <description><![CDATA[我经常和人们谈论人工智能，分享它是如何接管更多工作的，但我总是听到“不，政府会禁止它”或“它不会很快发生” 与此同时，许多可能受人工智能影响最大的人却忽视了它，就像鸽子闭上眼睛，希望猫不会吃掉它哈哈。 人们真的在为人工智能做计划吗，还是我们只是希望它不会发生？    提交人    /u/ConsumerScientist   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9t8dl/people_ignoring_ai/</guid>
       <pubDate>Tue, 22 Oct 2024 21:11:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>突出显示/注释书籍的最佳模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9rwbb/best_model_to_highlightannotate_a_book/</link>
-      <description><![CDATA[只是想知道是否有人对使用 AI/LLM 突出显示书中重要部分的好方法有什么建议。我会告诉它什么类型的信息值得突出显示，然后逐段复制并粘贴到书中。我想我会使用 gpt 并复制/粘贴一百万次……    由   提交  /u/NickyNick44   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9rwbb/best_model_to_highlightannotate_a_book/</guid>
-      <pubDate>Tue, 22 Oct 2024 20:15:32 GMT</pubDate>
     </item>
     <item>
       <title>AI 新闻：Allegro、ComfyUI Desktop V1、Sana 演示等</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[你好， 人工智能可以管理一个国家吗？是否已经有一个模拟运行/论文？ 就像一台超级计算机，实时获取所有可用的数据集/统计数据/税收并计算新的法律/战争？ 但我认为，这可能违背了我们的人文主义世界观。此外，它可能极易受到网络攻击。如果它被轰炸，没有更多的能源怎么办？ 我们需要一个由人工智能管理的世界国家。但在创建世界国家之前，我们需要创造全球平等。但问题是，我们如何创建这个世界国家，以及我们要实施什么样的政治制度？ 我们需要一场赢得政治制度的竞赛。但如果有赢家，就会有输家，谁会是输家？有些人想要控制和权力=&gt; 这是左右之间的紧张关系。解决方案就是 AI，这样我们就有了第三个人，他有能力控制世界。但谁来控制 AI？ 我们需要提出和回答的问题太多了。我们需要从小事做起。在世界某个地方建立一个小型的“开源”国家，并在该国居住一年。我的意思是，我们计划移民火星，并在沙漠中进行测试 - 为什么我们不对替代的政治制度/领导人进行测试？这将花费金钱，而金钱就是权力。 我们需要创建一个每个人都可以构建的开源系统，创建一种分散的货币来创造平等。 但至少 我们需要改变一些东西。 你怎么看？    提交人    /u/esjecho   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9qgea/political_system_based_on_ai/</guid>
       <pubDate>Tue, 22 Oct 2024 19:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决 GPT 文件处理限制并避免“我会处理这个问题然后再回复您”的谎言？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9p5lv/how_do_you_work_around_gpt_file_processing_limits/</link>
-      <description><![CDATA[有人弄清楚最常见的 GPT 能够处理大量内容的限制参数是什么吗？ 我有一个不涉及任何编码的用例。我已要求 ChatGPT 和 Gemini（均为高级版本）查看 150 个播客的成绩单（以 XLXS 和 Google Sheets 格式（如适用））并重新组织内容，以便为我创建某种指南。该文件只有 3.5mb。 这两个 GPT 都不会立即处理内容，而是让我相信它正在后台处理。我知道很多人都知道这不是什么事，但直到最近我才知道，所以我不断收到更新，它一直说它即将完成（哈哈）直到我最终叫出它，它承认它在后台什么也没做。  所以我的问题是：是否有人弄清楚过，例如，如果字符数或文件大小低于某个阈值 - 它实际上会按照您的要求执行吗？在再次分解之前，您是否必须以某种方式分解事物？我希望它处理整个内容，而不是摘要的摘要 - 这并不能真正实现我对这个和类似项目的目标。  任何解决方案（即使它不使用这些 GPT 之一）都将不胜感激    提交人    /u/montiesz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9p5lv/how_do_you_work_around_gpt_file_processing_limits/</guid>
-      <pubDate>Tue, 22 Oct 2024 18:23:33 GMT</pubDate>
     </item>
     <item>
       <title>我需要掌握哪些技能才能真正利用这场人工智能革命？</title>

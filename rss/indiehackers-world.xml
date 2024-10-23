@@ -4,7 +4,24 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 23 Oct 2024 06:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 09:02:50 GMT</lastBuildDate>
+    <item>
+      <title>给 Marc 一些关爱</title>
+      <link>https://feed.indiehackers.world/post/bda4f9d46c</link>
+      <description><![CDATA[让我们支持真正的独立黑客
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/bda4f9d46c</guid>
+      <pubDate>Tue, 22 Oct 2024 02:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找技术联合创始人</title>
+      <link>https://feed.indiehackers.world/post/3f25544233</link>
+      <description><![CDATA[大家好，
+我正在研究 GPU 云计算领域的一个强大概念，正在寻找一位才华横溢的创始工程师来帮助构建产品。如果有兴趣，我很乐意聊天并分享更多细节。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/3f25544233</guid>
+      <pubDate>Mon, 21 Oct 2024 17:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>5 个严峻的营销事实以及如何解决它们</title>
       <link>https://feed.indiehackers.world/post/5719077c86</link>
@@ -47,7 +64,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -214,34 +231,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ab1749ae15</guid>
       <pubDate>Tue, 15 Oct 2024 04:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>获得风险投资就像从第 3 级开始游戏</title>
-      <link>https://feed.indiehackers.world/post/4a6c20cbb6</link>
-      <description><![CDATA[充分利用每一项资源：在没有风险投资资金的情况下，我必须非常有策略地利用 Jotform 的每一美元。我专注于影响最大的任务，并找到利用有限资源进行创新的方法。这种限制迫使我们比以前更有创造力。
-在困难模式下玩游戏的终极奖励
-最终，我自力更生，因为我想按照自己的节奏和自己的条件构建自己相信的东西。我希望每个决定都由我决定，每个风险都经过仔细考虑，每个成功都让我感到亲身参与。这就是这条道路带给我的。
-从表面上看，在没有风险投资的情况下创办一家公司就像在最艰难的水平上玩游戏；它很困难、要求很高，而且通常进展缓慢。但根据我的经验，它会带来巨大的回报。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/4a6c20cbb6</guid>
-      <pubDate>Mon, 14 Oct 2024 13:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>tTravel 今日在 Product Hunt 上线！🤩</title>
-      <link>https://feed.indiehackers.world/post/3ba374a069</link>
-      <description><![CDATA[tTravel 是您的一体化旅行伙伴、货币化平台和规划助手。
-以下是它出色的功能：
-
-从您的旅行经历中获利
-保存并珍惜您的旅行记忆
-为您的旅行找到最佳地点和行程
-
-查看 tTravel 应用程序 → https://ttravel.me/producthunt 
-请在 PH 上显示您的支持→ https://www.producthunt.com/posts/ttravel 
-非常感谢！ ♥️
-Discord Indiehackers 聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3ba374a069</guid>
-      <pubDate>Mon, 14 Oct 2024 07:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
