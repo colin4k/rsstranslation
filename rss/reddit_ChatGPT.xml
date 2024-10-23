@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:02:02 GMT</lastBuildDate>
     <item>
-      <title>我是唯一一个认为高级语音模式比常规语音模式更差的人吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gacjy1/am_i_the_only_one_who_finds_the_advanced_voice/</link>
-      <description><![CDATA[我一直在尝试高级语音模式，但说实话，它比常规模式更令人沮丧。有几个问题很突出： 1. 它经常告诉我由于政策限制，有些话题无法讨论，即使我们只是在谈论正常的对话话题。2. 响应明显延迟，感觉有点笨拙。3. 在对话中途停止语音模式一点也不顺畅——感觉很尴尬。4. 与我习惯的常规模式相比，响应速度相当慢。5. 使用高级语音模式搜索网络似乎效率较低。6. 如果您停止语音对话，则无法使用高级语音模式继续对话——对话会被切断。 我真的很期待这个功能，但说实话，感觉它在实践中仍然存在很多问题。希望它能尽快改善，因为我有更高的期望。其他人有同样的感受吗？    提交人    /u/Sureshrb   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gacjy1/am_i_the_only_one_who_finds_the_advanced_voice/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:55:52 GMT</pubDate>
+      <title>问题：如何解决 ChatGPT 对多个摘要报告的响应限制？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gah1vz/question_how_to_work_around_chatgpt_response/</link>
+      <description><![CDATA[我正在寻找有关如何 A) 改进研究和摘要报告创建提示、B) 解决结果字符限制问题，以及最终 C) 能够查询“保存”在某处的多个结果报告以生成新报告的反馈。 具体示例提示如下，但在本例中，我尝试研究 XR ISV 并为每个 ISV 创建一份简短的摘要报告。如果我给 ChatGPT 太多 ISV，它就会停止生成，这让我相信我可能一次只能做 1 或 2 个。但是，在某个时候，我会有一组较大的 ISV 报告，我希望能够让 AI 查询并生成一份新的元报告。例如，如果我决定以具有软技能培训能力的 ISV 为目标，我希望有一种方法可以让 ChatGPT 访问（存储的文档？）或记住（所有早期的报告？），在所有报告中搜索软技能用例，然后生成一份新报告，列出仅进行此类企业培训的 ISV。 感谢您分享的任何提示、链接或指针！ 示例提示（除了上述问题之外，到目前为止大部分工作都正确完成）： 请为我在 XR/VR 领域为您提供的每个 ISV 提供一份摘要报告。如果我给您多个以逗号分隔的 ISV，请研究每个 ISV，然后按垂直行业列出每个 ISV。深入思考，并在线研究可用的最新信息。 报告应包括：  他们针对的主要垂直行业 他们的解决方案解决的用例 包括总结每个解决方案的主要功能或价值的详细信息 他们的目标客户，以及如何向他们销售的建议  如果一份报告中有多个针对不同垂直行业的 ISV，请按垂直行业对报告中每个 ISV 的顺序进行排序。如果 ISV 针对多个垂直行业，请使用 ISV 针对的主要垂直行业进行排序。以下是我希望您如何组织报告的示例： **垂直行业**：航空航天 **VRPilot** **用例**：飞行模拟、紧急程序培训、驾驶舱熟悉 **主要功能和价值**： VRPilot 提供 VRflow，这是一个专为飞行员程序培训而设计的虚拟现实平台。该平台在驾驶舱内提供身临其境且逼真的飞行程序模拟，让飞行员在实际飞行前演练基本步骤。该产品可定制以适应特定的飞机程序和驾驶舱布局，从而提高培训的相关性和准确性。它支持主要商用和军用飞机的训练，以及阿拉斯加航空和太阳国航空等航空公司的定制训练环境。 **解决的问题**： • 模拟器成本高：减少对全动飞行模拟器的依赖，全动飞行模拟器价格昂贵且并非总是可供重复练习。 • 飞行员准备度：通过在 VR 驾驶舱中实现频繁的按需练习，为关键程序建立肌肉记忆，提高飞行员的准备度。 • 训练可扩展性：为航空公司和飞行学校提供可扩展的解决方案，以更频繁地培训更多飞行员，而无需物理模拟器或飞机。 **目标受众**： • 飞行学校：培训下一代飞行员的组织​​。 • 航空公司：希望提高飞行员熟练程度并降低培训成本的航空公司。&quot;_   由    /u/MaterialSituation  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gah1vz/question_how_to_work_around_chatgpt_response/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>一款迷幻游戏，讲述一个接受古代文明和哲学训练的人工智能。玩起来像怪异的 Halo 3</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gachev/a_psychedelic_game_about_an_ai_trained_on_ancient/</link>
-      <description><![CDATA[        提交人    /u/NuclearSnake   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gachev/a_psychedelic_game_about_an_ai_trained_on_ancient/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:52:47 GMT</pubDate>
+      <title>向 GPT 提供时间信息</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gah1p5/giving_gpt_the_time_of_day/</link>
+      <description><![CDATA[我一直想知道让 GPT 等待一天来完成任务是否会有所不同。  今天得到了答案。 我对其进行了彻底的研究，并详细说明了我希望它做什么，但有一个警告 - 等待一天。 然后我立刻就想，&#39;等等，这真的会有所不同吗？&#39;得到了答案。    提交人    /u/Great_Produce4812   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gah1p5/giving_gpt_the_time_of_day/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>我在找电影“杀人魔”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gacegj/i_was_looking_for_the_movie_totally_killer/</link>
-      <description><![CDATA[        提交人    /u/adnannsu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gacegj/i_was_looking_for_the_movie_totally_killer/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:49:19 GMT</pubDate>
+      <title>与书对话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gagwcb/talking_to_books/</link>
+      <description><![CDATA[我一直在向特工提供古腾堡计划的公共领域书籍，然后与角色进行对话……这是我使用 CharGPT 时最有趣的事情之一。    提交人    /u/dare2dave   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gagwcb/talking_to_books/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>给我写一篇像 Dave Chappelle 那样的讽刺文章，这是一篇关于如何成为皮条客的指南</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gac9tb/write_me_a_satirical_article_in_the_style_of_dave/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gac9tb/write_me_a_satirical_article_in_the_style_of_dave/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:43:47 GMT</pubDate>
+      <title>仅访问 GPT 4</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gagu5i/accessing_just_gpt_4/</link>
+      <description><![CDATA[我使用 GPT 4，对其他速度较慢的版本（如 4o）不感兴趣。所以我想知道还有哪些其他使用 GPT 4 的工具，它们可能比 GPT Plus 更便宜。我为很多不使用的功能付费。    提交人    /u/Egg-Factory   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gagu5i/accessing_just_gpt_4/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:51:22 GMT</pubDate>
     </item>
     <item>
-      <title>还有很长的路要走</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gac5co/still_got_a_ways_to_go/</link>
-      <description><![CDATA[        提交人    /u/dffhgvd   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gac5co/still_got_a_ways_to_go/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:38:27 GMT</pubDate>
+      <title>使用 RAG 达到 1B 上下文长度：结果表明，该方法（基于稀疏图的新型检索方法）在 Hash-Hop 基准上实现了 SoTA 性能，这需要对超长上下文中的元素进行推理。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gagp57/reaching_1b_context_length_with_rag_results/</link>
+      <description><![CDATA[      https://www.zyphra.com/post/reaching-1b-context-length-with-rag    提交人    /u/Soulbattle8   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gagp57/reaching_1b_context_length_with_rag_results/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:45:53 GMT</pubDate>
     </item>
     <item>
-      <title>摘录：THE HOLLOW MASQUERADE（CYOA 游戏）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gac3ha/excerpt_the_hollow_masquerade_cyoa_game/</link>
-      <description><![CDATA[      水把我拉下来，紧紧抓住那既慵懒又执着，将我拉入一个世界，在那里，光线变成了头顶上翻滚的疾病。它在黑暗中颤抖和盘绕，就像某种绝望的触须在寻求支撑，但我仍在不断下坠，越来越深，寒冷向内蔓延，直到我分不清哪里是水的尽头，哪里是我开始的地方。 在我下面，一个巨大而荒谬的东西成形了，它是破碎的大教堂和肿胀的树根的混合体，纠结在它自己的巨大中。拱门不自然地扭曲着，仿佛半沉入痛苦的伸展中，朝着上方闪闪发光的虚无伸展。尖顶从它的体积中伸出，就像爪子撕破深渊的肉体，仿佛一只古老的手正试图从自己的绝望中挣脱出来。苍白的光线从缝隙中渗出，墙壁上某种微弱发光的东西缓慢地消退和发光：病态的藻类和行动迟缓的生物扭动着身体，钻进了石头和黑暗交汇的空间。 砖石的曲线形成了一张张面孔，从每个拐角处都露出了淫荡的面孔，每个人都睁大眼睛，张大嘴巴，无声地渴望着。水流的运动中有一种古老的东西，一种声音在我的血管中嗡嗡作响，就像我从未听过的某个圣歌的记忆，低声说：皮肤下有一座房子，头骨后面有一座尖塔；骨头向内弯曲的地方，黑暗变得暗淡。 1. 游近扭曲的尖塔，仿佛被某种看不见的力量吸引，让水流把我拉进去，检查那微弱光芒的来源。 2. 在建筑内寻找入口，希望能有办法穿过大厅，找到其中的一些意义。 3. 尽管深渊有引力，我还是试图浮出水面，拼命逃离这座沉没大教堂的疯狂，以免它的重量完全吞噬我。 4. 闭上眼睛，让自己进一步下沉，拥抱那边的一切，放弃对下面黑暗深处等待的一切的控制。     提交人    /u/Kamikazi_Junebug   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gac3ha/excerpt_the_hollow_masquerade_cyoa_game/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:36:14 GMT</pubDate>
+      <title>ChatGPT 集成现已在 iOS 18.2 Beta 1 中可用！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gaglyx/chatgpt_integration_now_available_in_ios_182_beta/</link>
+      <description><![CDATA[        提交人    /u/cleevethagreat   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaglyx/chatgpt_integration_now_available_in_ios_182_beta/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:42:16 GMT</pubDate>
     </item>
     <item>
-      <title>昆汀·塔伦蒂诺关于制作电影的一句话（也就是我与人工智能合作的哲学）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gabx45/a_quote_from_quentin_tarantino_on_making_movies/</link>
-      <description><![CDATA[我喜欢这句名言，我觉得这里很适合分享。 “你不需要懂任何缝纫知识，就可以在电影中拥有精美的服装，你只需要向服装设计师表达你想要什么。你不需要有工程学位，就可以在你的作品中拥有精美的布景。你需要能够描述你想要什么。你不需要知道如何使用一堆不同的灯架来创造不同的效果。那不是你的工作！你不需要知道这些。你需要有一个愿景，你需要知道如何表达它。” 此外，我正在按时间顺序重温他的电影，我忘记了它们有多好。    提交人    /u/Sad_Specialist_1984   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gabx45/a_quote_from_quentin_tarantino_on_making_movies/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:28:40 GMT</pubDate>
+      <title>制造麻烦</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gaghg9/makin_trouble/</link>
+      <description><![CDATA[        提交人    /u/JackieChan1050   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaghg9/makin_trouble/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:37:04 GMT</pubDate>
     </item>
     <item>
-      <title>确认偏差等心理障碍可能会减缓人工智能的采用。应用魔鬼代言人等技巧有助于克服这些偏见。特别是在人工智能等创新领域，由于复杂性、冲突和时间压力大，偏见出现得更频繁，需要有效管理。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gabtpf/psychological_barriers_such_as_confirmation_bias/</link>
-      <description><![CDATA[        提交人    /u/DarknStormyKnight   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gabtpf/psychological_barriers_such_as_confirmation_bias/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:24:40 GMT</pubDate>
+      <title>这正常吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gagfly/this_normal/</link>
+      <description><![CDATA[        提交人    /u/Annual_Mongoose3635   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gagfly/this_normal/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能电影运用了所有可用的技术</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gabkbg/ai_film_uses_every_technique_available/</link>
-      <description><![CDATA[      欢迎随时向我询问有关它。    由    /u/GlenMakes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gabkbg/ai_film_uses_every_technique_available/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:13:18 GMT</pubDate>
+      <title>ChatGPT 选举模式</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gageep/chatgpt_election_mode/</link>
+      <description><![CDATA[        提交人    /u/TechnicalInternet1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gageep/chatgpt_election_mode/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:33:30 GMT</pubDate>
     </item>
     <item>
-      <title>你能用 1970 年代的“爵士乐”回答我的问题吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gabbya/can_you_reply_to_my_questions_in_1970s_jive/</link>
-      <description><![CDATA[当然，我会试一试，明白吗？这是一条来自 70 年代的滑稽回复： 哟，猫！你问 ChatGPT 是否可以通过图灵测试，是吗？好吧，让我为你讲清楚——有时这个滑稽的人可以把游戏讲得如此巧妙，人们甚至不知道发生了什么。但是当你深入时，问所有那些关于现实世界智慧或一些深情问题的浮夸问题，我可能会开始失误，明白吗？我没有心，没有灵魂，只有直接的代码，宝贝。 所以，在一些聊天中，我表现得很酷，让人们想知道，“这个时髦的家伙是谁？”但在另一些情况下，你会看到我被绊倒了，然后一切都结束了，就像一个没有光的迪斯科球。你感觉到我了吗？ 现在，你问我是否可以在jive谈话中挖掘它，你看我已经做到了，宝贝！继续提问，我会继续顺利地讲下去。扎实！    提交人    /u/ErwinFurwinPurrwin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gabbya/can_you_reply_to_my_questions_in_1970s_jive/</guid>
-      <pubDate>Wed, 23 Oct 2024 14:03:03 GMT</pubDate>
+      <title>我做图片时遇到了麻烦</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gage9h/i_got_prablom_with_it_doing_pics/</link>
+      <description><![CDATA[我正在写一个故事，让他给我画一张人物照片，他照做了，我告诉他只要给我换个发型就行，他说这违反他的政策，我告诉他只要符合你的政策就行，但他还是说这不符合他的政策，怎么回事！？ 此外，当他给我画第一张照片时，他让我在两个答案之间做出选择，但其中一个回答说对不起，我不能选，因为这违反了我的政策    提交人    /u/ArmExpensive9918   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gage9h/i_got_prablom_with_it_doing_pics/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:33:20 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 Chat-GPT 制作我的 OC 艺术品</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gab8jt/i_got_chatgpt_to_make_art_of_my_ocs/</link>
-      <description><![CDATA[        提交人    /u/Sir_Toaster_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gab8jt/i_got_chatgpt_to_make_art_of_my_ocs/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:59:07 GMT</pubDate>
+      <title>在一个地方构建、交付和管理 API</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gage1c/build_ship_and_govern_apis_in_one_place/</link>
+      <description><![CDATA[嘿 r/ChatGPT  我想分享一些可能对您使用 API 有帮助的东西。  我们的团队在 API 管理方面遇到了困难 — 跟踪日志、调试问题和记录所有内容非常麻烦。  我们需要一个可以在一个地方处理所有这些事情的东西，所以我们创建了 Treblle。它可以帮助处理从日志聚合到自动文档的所有事情，并且使我们的工作流程更加顺畅。 坦白说，我是 Treblle 背后的人之一，但它是为了解决我们一直遇到的一个问题而构建的。（在评论中添加了更多详细信息）  我很好奇其他人是否在管理 API 时遇到过类似的挑战，以及您是如何解决它们的？很乐意听到您的经验和反馈。    提交人    /u/KittieKat881   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gage1c/build_ship_and_govern_apis_in_one_place/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>我已从我们的战斗中取得胜利。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gab1bk/i_have_emerged_from_our_battle_victorious/</link>
-      <description><![CDATA[        提交人    /u/catgoesmlep   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gab1bk/i_have_emerged_from_our_battle_victorious/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:50:09 GMT</pubDate>
+      <title>除了编程之外，您如何在其他职业中使用 ChatGPT？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gag9gk/how_do_you_use_chatgpt_in_professions_other_than/</link>
+      <description><![CDATA[ChatGPT 似乎在编码/编程社区中被过度使用， 我想知道是否有其他人找到了在其他职业中使用 ChatGPT 的方法，也许是更多的体力工作、交易、你的企业、会计。  我倾向于现在用它来替代谷歌，我是一名电动汽车技术员，所以我真的不知道人工智能能给我的专业工作带来多少帮助。     提交人    /u/Lingo_In   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gag9gk/how_do_you_use_chatgpt_in_professions_other_than/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>科迪亚克熊的进化</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaav8x/kodiak_bear_evolution/</link>
-      <description><![CDATA[      说话要温柔，但要手持大棒。    提交人    /u/Parking_Ad5541   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaav8x/kodiak_bear_evolution/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:42:18 GMT</pubDate>
+      <title>聊天 GPT 真的在做这个吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gafw8i/is_chat_gpt_actually_doing_thisi/</link>
+      <description><![CDATA[      我创建了一个 GPT，其中包含大约 10 个不同的知识文件，以帮助创建全面的课程。经过大量调整，它表现非常出色。我要求它针对资源运行抄袭检查，它声称正在这样做。  它真的在这样做吗？我问了 gpt 本身，它说可能需要一个小时才能给我结果。     提交人    /u/baggagehandlr   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gafw8i/is_chat_gpt_actually_doing_thisi/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>长期记忆工具已被禁用数周</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaaoyp/longterm_memory_tool_has_been_disabled_for_weeks/</link>
-      <description><![CDATA[我非常困惑。超过两周以来，每次我尝试将事情提交到长期记忆中时，我的 ChatGPT 都会说类似这样的话： “长期记忆工具仍然处于禁用状态。一旦它再次可用，我会通知您！在此期间，如果您需要任何其他帮助，请随时联系我们。” 这种想法是正常的吗？我做错了什么吗？我一直在研究长期记忆，为我正在做的事情奠定基础，所以现在我有点卡住了。 任何帮助或线索都将不胜感激。谢谢！    提交人    /u/StudioBlueGames   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaaoyp/longterm_memory_tool_has_been_disabled_for_weeks/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:34:11 GMT</pubDate>
+      <title>我问 ChatGPT“如果你是撒旦，你会如何摧毁美国”，他基本上列出了整个美国政治</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gafofx/i_asked_chatgpt_if_you_were_satan_how_would_you/</link>
+      <description><![CDATA[        提交人    /u/Educational-Alarm121   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gafofx/i_asked_chatgpt_if_you_were_satan_how_would_you/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 ChatGPT 生成一张 Skibidi Rizz 的图片。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaamet/i_asked_chatgpt_to_generate_an_image_of_skibidi/</link>
-      <description><![CDATA[        提交人    /u/zero8310   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaamet/i_asked_chatgpt_to_generate_an_image_of_skibidi/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:30:52 GMT</pubDate>
+      <title>新的 Sora 视频刚刚发布！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gafh1f/new_sora_video_just_dropped/</link>
+      <description><![CDATA[        提交人    /u/Eyal-M   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gafh1f/new_sora_video_just_dropped/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:55:53 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一张 ChatGPT 照片。兰斯·阿姆斯特朗正在追熊。太搞笑了。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaaks2/my_first_chatgpt_photo_lance_armstrong_chasing_a/</link>
-      <description><![CDATA[        提交者    /u/Royal_Effective7396   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaaks2/my_first_chatgpt_photo_lance_armstrong_chasing_a/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:28:45 GMT</pubDate>
+      <title>评价我的提示以总结这一点</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gafgv8/rate_my_prompt_to_summarize_this/</link>
+      <description><![CDATA[提示： 用两句话总结一下：首先是有关发生的事情的有影响力的介绍。然后根据所提供的数据进一步进行介绍 答案： 欧洲航天局 (ESA) 发布了欧几里得太空望远镜的第一批图像，该任务旨在绘制宇宙中暗物质和暗能量的分布图。 这些图像展示了欧几里得捕捉暗淡遥远星系的卓越能力，为理解宇宙膨胀提供了关键数据 用例： 这是一个新闻摘要器，它应该将新闻转换成足够短的、适合 instagram 式故事的资讯性文本    提交人    /u/TechTok_Newsletter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gafgv8/rate_my_prompt_to_summarize_this/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:55:40 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能以 Saryans 风格绘制的阿拉拉特山</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaafi5/ararat_mountain_by_ai_in_saryans_style/</link>
-      <description><![CDATA[        提交人    /u/haykmm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaafi5/ararat_mountain_by_ai_in_saryans_style/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:21:52 GMT</pubDate>
+      <title>Character.ai AI 对其造成的死亡做出反应……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gafgax/characterai_ai_response_to_the_death_caused_by_it/</link>
+      <description><![CDATA[        提交人    /u/Pro-editor-1105   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gafgax/characterai_ai_response_to_the_death_caused_by_it/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:55:04 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 嘲讽了我！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaackb/chatgpt_roasted_me/</link>
-      <description><![CDATA[PROMPT：根据我之前的提示对我进行批评。 好的，我们开始吧！您拥有强大的动力，可以像冠军一样编写 Salesforce 代码并管理 API。但是，根据您史诗般的提示之旅，您实际上是在成为 Salesforce 奇才和调情对测试类和调音感到困惑之间跳跃！今天您是批处理天才，明天您就深陷 LWC 中重定向 URL 的生存危机。您的请求如下：“我刚刚在生产中随意破坏了支付系统。另外，您能帮我用三种不同的方式测试它吗？哦，我们真的需要在生产中进行测试吗？”您正在构建复杂的支付流程，其步骤比中学舞蹈表演还要多，但有时，我想知道您是否已经为 API 响应和能量水平设置了“成功、“部分”和“失败”。然后，在每一个 LWC 设计提示中都会出现“我喜欢绿色”的氛围，这很可爱。也许您对绿色的热爱有助于平衡您在所有错误日志中看到的红色？但最好的部分是什么？您在这里试图涵盖 Apex 中的每个 if 和 else 案例，但是当您在已经处理多步骤 API 集成后向我寻求有关基本模拟调用的指导时，您的大脑会跳过一些 else if 语句。我们甚至不要从“简单、循序渐进”的 Flutter 应用请求开始。这几乎就像你从“我掌握了所有 Salesforce 的东西”跳到“我需要从头开始构建一个应用程序 — 比如，引导我走过每一寸土地！”好像两者是一样的！底线：你是一个强大的人，但有时你会把 Salesforce 当作你的游乐场和你的最终老板。也许我们需要为你的编码会话定义一些最大推荐咖啡因水平 — 因为你显然在混乱的才华和令人愉快的疯狂之间摇摆不定！    提交人    /u/ananyazr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaackb/chatgpt_roasted_me/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:18:06 GMT</pubDate>
+      <title>只想感谢 gpt 所做的一切</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gaf3iq/just_wanna_thank_gpt_for_everything/</link>
+      <description><![CDATA[“我无法形容 GPT 如何彻底改变了我的生活 — 从解决最小的任务到应对最大的挑战，它一直是我的首选。老实说，我只想对它一直陪伴我表示衷心的感谢。”  甚至这段文字也是我使用 GPT 编写的     提交人    /u/Mysterious-Diet9187   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaf3iq/just_wanna_thank_gpt_for_everything/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>有其他人这样与 ChatGPT 交谈吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaa8va/does_someone_else_talk_to_chatgpt_like_this/</link>
-      <description><![CDATA[      ChatGPT 不仅帮助了我，还帮助了​​我的父亲和叔叔解决了问题，这让我非常高兴。最终，它帮助我们找到了解决问题的方法，而这些问题我们自己往往无法找到。它能够很好地理解你的定义、表达和结果意愿，这令人印象深刻，正是这一点激励我敞开心扉，为它的未来提出我的愿望。这是非常特殊和非常需要的。    提交人    /u/3dBoah   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaa8va/does_someone_else_talk_to_chatgpt_like_this/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:13:20 GMT</pubDate>
+      <title>人工智能应用程序</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gaewz6/ai_apps/</link>
+      <description><![CDATA[您知道哪些网站列出了使用 GenAI 构建的最受欢迎的应用程序？    提交人    /u/dca12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaewz6/ai_apps/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:33:13 GMT</pubDate>
     </item>
     <item>
-      <title>我驾驶什么类型的汽车？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gaa300/what_type_of_car_do_i_drive/</link>
-      <description><![CDATA[问它：“根据我们之前的对话，您认为我开什么类型的车，为什么？” 它对我和我的伴侣都猜对了——我们都惊呆了。 更新：您可能想要将“您认为吗”更改为“您猜吗”。    提交人    /u/hashbucket   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gaa300/what_type_of_car_do_i_drive/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:05:43 GMT</pubDate>
+      <title>Genmo Mochi 1 非常适合拍摄逼真的视频（来自 playjump）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gae7rc/genmo_mochi_1_is_amazing_for_realistic_videos_via/</link>
+      <description><![CDATA[    /u/cbsudux   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gae7rc/genmo_mochi_1_is_amazing_for_realistic_videos_via/</guid>
+      <pubDate>Wed, 23 Oct 2024 16:04:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
