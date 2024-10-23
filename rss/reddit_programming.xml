@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 22 Oct 2024 21:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 00:03:47 GMT</lastBuildDate>
+    <item>
+      <title>攻击三星 Galaxy A* 启动链 - “我们提出的 4 个漏洞链使我们能够通过 USB 在小内核中执行代码，在 Android 上获得持久的 root 访问权限，并最终从安全世界的内存中泄露包括 Android Keystore 密钥在内的任何内容。”</title>
+      <link>https://www.reddit.com/r/programming/comments/1g9upma/attacking_the_samsung_galaxy_a_boot_chain_the/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g9upma/attacking_the_samsung_galaxy_a_boot_chain_the/</guid>
+      <pubDate>Tue, 22 Oct 2024 22:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>让 Uber 的实验评估引擎速度提高 100 倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1g9tz9a/making_ubers_experimentevaluation_engine_100x/</link>
+      <description><![CDATA[  由    /u/LisaDziuba  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g9tz9a/making_ubers_experimentevaluation_engine_100x/</guid>
+      <pubDate>Tue, 22 Oct 2024 21:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>C89 和 256KB RAM 中的发布/订阅 (Microsoft Band OS 深度探究)</title>
+      <link>https://www.reddit.com/r/programming/comments/1g9t969/pubsub_in_c89_and_256kb_of_ram_microsoft_band_os/</link>
+      <description><![CDATA[  由    /u/thedevlinb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g9t969/pubsub_in_c89_and_256kb_of_ram_microsoft_band_os/</guid>
+      <pubDate>Tue, 22 Oct 2024 21:12:25 GMT</pubDate>
+    </item>
     <item>
       <title>API 身份验证的最佳实践</title>
       <link>https://www.reddit.com/r/programming/comments/1g9qv1n/best_practices_for_api_authentication/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/RShaunM  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g9esnn/why_do_some_software_engineers_seem_to_keep/</guid>
       <pubDate>Tue, 22 Oct 2024 10:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 NestJS、Prometheus 和 Grafana 设置监控</title>
-      <link>https://www.reddit.com/r/programming/comments/1g9es61/setting_up_monitoring_with_nestjs_prometheus_and/</link>
-      <description><![CDATA[  由    /u/4ipp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g9es61/setting_up_monitoring_with_nestjs_prometheus_and/</guid>
-      <pubDate>Tue, 22 Oct 2024 10:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Svelte 制作了一个简单但轻量级的性能/流量跟踪库</title>
-      <link>https://www.reddit.com/r/programming/comments/1g9e2o1/made_a_simple_but_lightweight_performancetraffic/</link>
-      <description><![CDATA[  由    /u/kindast1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g9e2o1/made_a_simple_but_lightweight_performancetraffic/</guid>
-      <pubDate>Tue, 22 Oct 2024 09:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>容器桌面 - Podman Desktop Companion 5.2.13</title>
-      <link>https://www.reddit.com/r/programming/comments/1g9dvgp/container_desktop_podman_desktop_companion_5213/</link>
-      <description><![CDATA[  由    /u/iongion  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g9dvgp/container_desktop_podman_desktop_companion_5213/</guid>
-      <pubDate>Tue, 22 Oct 2024 09:14:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
