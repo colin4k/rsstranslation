@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 23 Oct 2024 21:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:03:50 GMT</lastBuildDate>
     <item>
       <title>捕获链接器</title>
       <link>https://www.producthunt.com/posts/capturelinker</link>
@@ -20,10 +20,24 @@
       <pubDate>Wed, 23 Oct 2024 06:40:43 GMT</pubDate>
     </item>
     <item>
+      <title>适用于 iPhone 的 Melodics 鼓</title>
+      <link>https://www.producthunt.com/posts/melodics-drums-for-iphone</link>
+      <description><![CDATA[
+学习如何打鼓的应用程序
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/melodics-drums-for-iphone</guid>
+      <pubDate>Wed, 23 Oct 2024 01:51:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Capy 饮食</title>
       <link>https://www.producthunt.com/posts/capy-diet</link>
       <description><![CDATA[
-世界上最可爱的饮食教练
+世界上最可爱的减肥教练
 
 
 讨论
@@ -90,20 +104,6 @@
       <pubDate>Tue, 22 Oct 2024 16:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>从</title>
-      <link>https://www.producthunt.com/posts/delle</link>
-      <description><![CDATA[
-无需聘请工作室即可拍摄出令人惊艳的服装照片
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/delle</guid>
-      <pubDate>Tue, 22 Oct 2024 15:49:37 GMT</pubDate>
-    </item>
-    <item>
       <title>共色</title>
       <link>https://www.producthunt.com/posts/cocolor</link>
       <description><![CDATA[
@@ -132,20 +132,6 @@
       <pubDate>Tue, 22 Oct 2024 13:39:50 GMT</pubDate>
     </item>
     <item>
-      <title>Dubly.AI</title>
-      <link>https://www.producthunt.com/posts/dubly-ai</link>
-      <description><![CDATA[
-高质量口型同步视频翻译
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dubly-ai</guid>
-      <pubDate>Tue, 22 Oct 2024 13:26:52 GMT</pubDate>
-    </item>
-    <item>
       <title>高音3.0</title>
       <link>https://www.producthunt.com/posts/treblle-3-0-2</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@ AI 驱动的可视化搜索引擎，使用 GPT 通过视觉搜索
 ]]></description>
       <guid>https://www.producthunt.com/posts/chance-visual-intelligence</guid>
       <pubDate>Tue, 22 Oct 2024 09:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>FlexEdit.app</title>
+      <link>https://www.producthunt.com/posts/flexedit-app</link>
+      <description><![CDATA[
+功能强大的编辑器，用于创建和管理说明。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/flexedit-app</guid>
+      <pubDate>Tue, 22 Oct 2024 01:38:31 GMT</pubDate>
     </item>
     <item>
       <title>签名.供应</title>
@@ -205,7 +205,7 @@ AI 驱动的可视化搜索引擎，使用 GPT 通过视觉搜索
       <title>帕兹</title>
       <link>https://www.producthunt.com/posts/pawz</link>
       <description><![CDATA[
-工作之余，找个数码伴侣陪你消遣
+工作之余，找个数码伴侣来消遣一下
 
 
 讨论
@@ -233,7 +233,7 @@ AI 驱动的可视化搜索引擎，使用 GPT 通过视觉搜索
       <title>iOS 版 RevenueCat 官方应用</title>
       <link>https://www.producthunt.com/posts/official-revenuecat-app-for-ios</link>
       <description><![CDATA[
-随时随地跟踪订阅应用的效果
+随时随地跟踪订阅应用的表现
 
 
 讨论
