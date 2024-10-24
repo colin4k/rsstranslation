@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 24 Oct 2024 06:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:02:14 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 机器人命令行</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gaxhnl/reddit_bot_cli/</link>
+      <description><![CDATA[      大家好！ 我最近在 Product Hunt 上遇到了一个 AI Reddit 机器人，可以搜索 Reddit 并使用 AI 回复某些帖子。我认为这是一个非常酷的概念，所以我决定尝试构建自己的版本 - 即使我之前没有使用 Python、机器学习或 AI 的经验。 经过反复试验，我设法在 PyPI 上创建并发布了一个 CLI 工具，任何人都可以直接从命令行轻松构建机器人。该机器人可以搜索特定关键字并自动在与这些关键字匹配的帖子上发表评论。 它仍然是一个早期版本，肯定需要更多的工作，但我对迄今为止的进展感到兴奋。我很乐意从这个社区得到一些反馈，所以让我知道你的想法。谢谢！    提交人    /u/Firm-Lingonberry-748   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gaxhnl/reddit_bot_cli/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>数名 Linux 内核驱动程序维护者因与俄罗斯有关联而被移除</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gawrc5/several_linux_kernel_driver_maintainers_removed/</link>
+      <description><![CDATA[        由    /u/Deep-Piece3181  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gawrc5/several_linux_kernel_driver_maintainers_removed/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>CodeAbbey——主办编程练习和挑战的网站——开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gaw42g/codeabbey_website_for_hosting_programming/</link>
+      <description><![CDATA[对于想要为学生、受训人员、求职者等设置问题列表（编程、数学等）的人来说，它应该很有用。代码看起来有点吓人，但应该会逐渐改进。自述文件包含有关在免费托管上快速设置的视频说明。 https://github.com/codeabbey/src    提交人    /u/RodionGork   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gaw42g/codeabbey_website_for_hosting_programming/</guid>
+      <pubDate>Thu, 24 Oct 2024 06:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>go-taskflow：一个纯 go taskflow 类 DAG 任务执行框架，带有集成的可视化工具和分析器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gavm3i/gotaskflow_a_pure_go_taskflowlike_dag_task/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我一般不做太多开源项目，但我做了这个项目，因为很多人在使用 reddit UI 的新“最近”部分时遇到了问题。它不允许用户删除历史记录，而且你所有的暗搜索都留在那里，你不想让你的朋友看到​​。 所以这里是我做的一个扩展，它将有助于永久删除“最近”部分。欢迎你们做出贡献，它不是那么精致，但它有效，我在这种开发方面没有太多经验，我这样做是为了好玩，你们都很乐意为这个项目做出贡献，谢谢:) github 链接：https://github.com/Arijit-gotsomecodes/Reddit_Recent_Remove 编辑：仅适用于基于 chromium 的浏览器    提交人    /u/abey_safed_kapra   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ga7s50/made_a_extension_that_removes_recent_section_from/</guid>
       <pubDate>Wed, 23 Oct 2024 11:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>发行版本：Murena 2.4（DistroWatch.com 新闻）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ga7gh3/distribution_release_murena_24_distrowatchcom_news/</link>
-      <description><![CDATA[  由    /u/Jeranism-dot-com  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ga7gh3/distribution_release_murena_24_distrowatchcom_news/</guid>
-      <pubDate>Wed, 23 Oct 2024 10:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ShareDir ᅳ 一款根据实际需求打造的简单局域网文件共享工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ga7btx/sharedir_ᅳ_a_simple_lan_file_sharing_tool_built/</link>
-      <description><![CDATA[大家好！👋 我开发了一个名为 ShareDir 的小型 Python 工具，因为我在大学黑客马拉松期间遇到了一个问题。我需要与朋友共享一些文件，但 WiFi 非常慢（20kbps！），而且我们也没有移动网络。我的朋友不想安装 LocalSend 等其他工具，所以我想——为什么不自己做一些简单快捷的事情呢？ ShareDir 是一款非常简单的工具，可让您通过 LAN 或 VPS 共享文件和文件夹，而无需双方安装任何东西。只需运行一个命令，它就会生成一个可共享的 URL 和一个二维码。另一个人只需在浏览器中打开 URL — 无需额外的软件！ 特点：  🔒 密码保护确保安全 🌐 可在 LAN 或 Internet 上运行（VPS 友好型） 📱 QR 码方便访问 💻 无需双方安装该工具 🛡️ 黑名单功能防止暴力攻击 🌙 暗模式 Web 界面更加舒适  如果您正在寻找一种轻量级且用户友好的方式来快速共享文件而不需要稳定的互联网连接，请尝试ShareDir！ 很乐意听到任何反馈！ 🙌 GitHub：https://github.com/spignelon/ShareDir PyPI：pip install sharedir （如果要在 Android 手机上运行，​​请使用 Termux） 如果觉得有用，请务必为该仓库加注星标 :)    提交人    /u/spignelon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ga7btx/sharedir_ᅳ_a_simple_lan_file_sharing_tool_built/</guid>
-      <pubDate>Wed, 23 Oct 2024 10:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monoranger：一个用于管理 Python Monorepos 的 Poetry 插件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ga6u91/monoranger_a_poetry_plugin_to_manage_python/</link>
-      <description><![CDATA[我最近需要设置一个 monorepo，并且我希望拥有与 Rust 中的 Cargo 工作区类似的结构。 本质上，我希望在库中的所有组件/项目之间共享一个锁文件，并安装一个包含所有依赖项的单个 venv，因为这使开发变得更加容易。我使用 Poetry，所以我决定为这个用例创建一个插件。 我的项目的作用  使用 Poetry 在 monorepo 中启用多个项目以使用共享的诗歌锁文件 使用 Poetry 在 monorepo 中启用多个项目以使用共享的虚拟环境 允许项目使用路径依赖项并在“诗歌构建”期间固定其版本  目标受众 任何想要使用 Poetry 创建简单 monorepo 并且不想诉诸于 Nx 等复杂构建工具的 Python 开发人员。我将保持此插件的更新，并确保及时推送更新和修复 比较 现有工具分为两类： a) 复杂的构建工具，专注于其他编程语言，但也支持 Python。 Nx 就是一个例子。这是一个很好的工具，但对于我的用例来说它的功能太多了 b) 一些现有的诗歌插件允许用户使用路径依赖关系并在“诗歌构建”期间将其替换为固定版本，但这些插件不提供使用共享锁文件或 venv 的选项。我想要一个可以处理我所有与 monorepo 相关要求的插件。 链接 https://github.com/ag14774/poetry-monoranger-plugin    提交人    /u/andreasyeah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ga6u91/monoranger_a_poetry_plugin_to_manage_python/</guid>
-      <pubDate>Wed, 23 Oct 2024 10:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
