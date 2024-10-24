@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 24 Oct 2024 18:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 21:02:16 GMT</lastBuildDate>
+    <item>
+      <title>我希望能帮助我</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbcgud/i_hope_help_me/</link>
+      <description><![CDATA[我希望你能帮助我正在进行的项目。该项目是在 Navber 和登录页面中完成的。只是一个在 Tor 网络上建立社交网站的想法。我希望你能帮助我。我希望你能帮助我。无论如何，链接在这里 https://github.com/Jack-13-444/Onion_Media 你的建议对我很重要    提交人    /u/Particular_Arm_9345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbcgud/i_hope_help_me/</guid>
+      <pubDate>Thu, 24 Oct 2024 20:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎反馈和贡献！KitchenAI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbcfka/feedback_and_contributors_welcome_kitchenai/</link>
+      <description><![CDATA[大家好！ 几周前，我发布了以下两篇帖子，内容是关于我希望在 AI 领域看到的概念想法，并收到了很多积极的反馈 https://www.reddit.com/r/LLMDevs/comments/1fz5qvg/looking_for_people_to_collaborate_with/ https://www.reddit.com/r/Rag/comments/1fz6104/technical_founder_looking_to_collaborate_with/ 从那时起，我努力获得至少一个 alpha MVP，它可以突出显示并展示其中一些概念的实现。 到目前为止的结果是 https://github.com/epuerta9/kitchenai 这旨在通过帮助弥合不在这个领域的应用程序开发人员和 AI 开发人员之间的差距来帮助整个社区。这个相当新的领域需要开发支持 AI 的应用程序所需的新兴技能。 很乐意收到您的反馈，如果有任何人有兴趣帮助塑造这一点并做出贡献，请告诉我，我会给您发送 DM！    提交人    /u/wait-a-minut   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbcfka/feedback_and_contributors_welcome_kitchenai/</guid>
+      <pubDate>Thu, 24 Oct 2024 20:24:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 godoc-static 生成静态 Go 文档站点</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbbjf7/generate_static_go_documentation_sites_with/</link>
+      <description><![CDATA[        提交人    /u/tslocum   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbbjf7/generate_static_go_documentation_sites_with/</guid>
+      <pubDate>Thu, 24 Oct 2024 19:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源项目中有测试人员的空间吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbbbnk/any_space_for_testers_in_opensource_projects/</link>
+      <description><![CDATA[大家好  我是一名测试软件开发人员。我有测试 UI、API、性能和桌面相关软件的经验。我之前参与过一些开源项目，但那是因为情况合适。我想知道你们维护的项目是否需要测试人员。我在构建前端和后端方面经验很少，但我在开发运营和与测试相关的所有方面都有很多经验。  我希望从我的参与中获得一些学习并回馈社区，因为我更喜欢使用开源。如果有人需要帮助测试他们的项目，无论是手动还是自动化，和/或管理发布，请告诉我。如果有要求，我很乐意与你们合作。     提交人    /u/kaizokuuuu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbbbnk/any_space_for_testers_in_opensource_projects/</guid>
+      <pubDate>Thu, 24 Oct 2024 19:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源个人电脑 AI 助手是一个好主意吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gb9k8f/is_an_opensource_personal_pc_ai_assistant_a_good/</link>
+      <description><![CDATA[我所设想的是一个可以访问各种文件的 AI 助手。它将紧密集成到您的系统中。它将可以访问文件管理器和应用程序中的所有文件。它还可以访问您的系统日志。所有这些都是为了让 AI 助手可以提供有关您已处理的内容的信息，甚至可以调试 PC 中的问题。AI 推理可以在本地完成，也可以由受信任的第三方完成。 显然，最大的问题是安全性和隐私性。但像这样的东西可能真的很有用。我见过的最接近的替代方案是集成在其 Office 套件中的 Microsofts Copilot。 我想知道这是否是一个很好的开源项目，或者只是为自己构建它。    提交人    /u/MaximusDM22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gb9k8f/is_an_opensource_personal_pc_ai_assistant_a_good/</guid>
+      <pubDate>Thu, 24 Oct 2024 18:23:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅用一行代码即可对 GGUF 模型进行基准测试</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gb9h9p/benchmark_gguf_model_with_one_line_of_code/</link>
+      <description><![CDATA[大家好！ 👋我们构建了一个开源工具，只需一行代码即可对 GGUF 模型 进行基准测试。GitHub 链接 动机： GGUF 量化对于在设备上本地运行模型至关重要，但量化会极大地影响模型的性能。量化后测试模型至关重要（基准测试如何发挥作用）。但是我们注意到了几个挑战：  没有简单、快速的方法在本地或自托管服务器上对量化的 GGUF 模型进行基准测试。 现有基准测试中的 GGUF 量化评估结果不一致，得分低于模型开发人员的官方结果。  我们的解决方案：  我们构建了一个工具：  用一行代码对 GGUF 模型进行基准测试。 支持多处理和8 个评估任务。 在我们的测试中，它是可用的 GGUF 模型最快的基准测试。  示例：  类型在终端中执行下面的操作，对 Llama3.2-1B-Instruct Q4_K_M 量化基准测试，以在“ifeval”数据集上进行一般语言理解。在 4090 上，使用 4 个 worker 进行多处理，耗时 80 分钟。 nexa eval Llama3.2-1B-Instruct:q4_K_M --tasks ifeval --num_workers 4 我们从文本模型开始，并计划扩展到更多设备上的模型和模式。欢迎您的反馈！如果您发现这有用，请随时在 GitHub 上留下星星：https://github.com/NexaAI/nexa-sdk/tree/main/nexa/eval    提交人    /u/AlanzhuLy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gb9h9p/benchmark_gguf_model_with_one_line_of_code/</guid>
+      <pubDate>Thu, 24 Oct 2024 18:20:22 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个开源版本的 Google Analytics</title>
       <link>https://www.reddit.com/r/opensource/comments/1gb8idk/i_built_an_open_source_version_of_google_analytics/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[这是我的第一个开源项目，请看一下并给出反馈！ https://github.com/in-c0/spotify-lyrics-translator    提交人    /u/Wooden_King_4241   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gatkob/spotify_lyrics_translator_v01_react/</guid>
       <pubDate>Thu, 24 Oct 2024 03:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notion 替代品（带数据库）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gao112/notion_alternatives_w_databases/</link>
-      <description><![CDATA[大家好！ 我非常喜欢 Notion，因为它 1. 支持 markdown 2. 关系数据库 但是有些事情让我考虑离开： 1. 它非常慢。经过几个小时的编辑后，它甚至让我的 MacBook Pro 的风扇疯狂旋转。感觉就像它们在运行矿工或什么东西一样 2. 无法离线编辑 3. 自定义功能很少。 - 例如，我无法在其中使用 vim 动作 - 我无法利用我的编码技能来自动化任何事情。例如，批量重命名等等。 4. 供应商锁定。 - 理想情况下，我希望能够访问原始 Markdown 和数据库文件。  我发现最接近的是 Obsidian 与 Neovim 配对： - 尽管它 - 速度快 - 支持离线编辑 - 可以使用插件进行合理定制 - 文件只是 .md - 它缺少数据库（最重要的）和开源代码。  所以，问题是：有没有更好的替代方案？ 欢迎提出任何建议  UPD：一分钟后，第一个反对票就在这里。感受 StackExchange 的氛围 xD    提交人    /u/ChoiceIsAnAxiom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gao112/notion_alternatives_w_databases/</guid>
-      <pubDate>Wed, 23 Oct 2024 23:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>voidsprite 更新！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gam415/voidsprite_update/</link>
-      <description><![CDATA[      https://github.com/counter185/voidsprite  新功能 PXM + 分层 PXM 导入、编辑和导出 9Segment 模式编辑器 + 工具，GitHub 上即将推出适当的文档！ 偏好设置中的键绑定菜单 贝塞尔曲线工具 sr8 文件导入/导出 指导工具 添加了 voidsnv5 格式，是 voidsnv4 的高度优化迭代 已实现 Tile 填充 + 支持模板中的填充 添加了 Tilemap 面板 更改  影响右键单击功能的工具在 UI 上有所区别 已添加启动屏幕，以及有关已安装自定义图案/模板数量的通知 RGB 和 HSV 滑块移至一个菜单 可通过 ALT 键聚焦导航栏 填充工具具有 RMB 功能，可填充预览选择。此功能利用选定的图案 图案现在具有“反向”选项，用于反转图案中哪些像素被视为透明  GUI 中显示的当前图案 橡皮擦按钮已修复 psp 文件格式导出，稍后导入。     提交人    /u/ZLDFN101   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gam415/voidsprite_update/</guid>
-      <pubDate>Wed, 23 Oct 2024 21:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求开源贡献入门指导</title>
-      <link>https://www.reddit.com/r/opensource/comments/1galm24/seeking_guidance_on_getting_started_with_open/</link>
-      <description><![CDATA[我是一名失业的软件开发人员。我正在寻找一种方法来保持我的技能敏锐，同时做出改变并学习一些新东西。 开源是一种有趣的方式。 我在 GitHub 上发现了一些对我来说很有趣的存储库。我以前从未做过开源，也没有使用过 Git Hub 的这一功能。 我的问题：  如何让别人给我分配问题？ 我必须等待别人分配问题还是直接开始处理？我不想冒犯任何人。 有什么一般性建议或提示吗？     提交人    /u/mathgeekf314159   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1galm24/seeking_guidance_on_getting_started_with_open/</guid>
-      <pubDate>Wed, 23 Oct 2024 21:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于构建 MVP 的建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gal41o/advice_on_building_a_mvp/</link>
-      <description><![CDATA[大家好！我正在做一个令人兴奋的项目，一个集成消息系统的旅行者市场。作为一个没有编码经验的人，我正在考虑自己构建这个平台，并希望听取任何参与过类似项目或对构建 MVP 有建议的人的意见。我正在寻找哪些工具、框架或平台可能最适合从零开始的人的建议。或者，是否有可能仅使用开源代码从头开始构建它，并且没有任何编码经验？任何见解都非常感谢！    提交人    /u/HragT5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gal41o/advice_on_building_a_mvp/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个可自行托管的搜索引擎，但可直接从您的浏览器生成自动摘要。无需 API 密钥。开箱即用。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gajuxn/a_selfhostable_search_engine_but_with/</link>
-      <description><![CDATA[        由    /u/Felladrin 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gajuxn/a_selfhostable_search_engine_but_with/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>应该使用什么许可证（如果有）来发布 CC 许可网站的完整源代码？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gajhh0/what_license_should_be_used_if_any_to_publish_the/</link>
-      <description><![CDATA[假设 Bob 有一个网站，他在那里撰写有关著名蛇类的长篇文章。您可以访问该网站并在页脚中查看知识共享许可，访问者可以/不能从 Bob 的网站上复制哪些内容以及署名要求是什么，这一点非常明显。 现在假设 Bob 想要将他网站的完整源代码放在 GitHub 上，主要是因为使用公共存储库更容易部署到他的托管服务提供商。他还感谢人们可以顺便打开问题，例如“它在 IE7 中不起作用”和“你拼错了‘anaconda’”。他不打算接受拉取请求，也不在乎人们是否私自复制代码。他不明白怎么会有人试图用他的蛇形法典制作任何有用的衍生作品。 他的仓库中的文件有各种用途和许可问题：  实际页面的文本内容应与已发布的网站使用相同的 CC 许可，因为它们基本上是相同的内容。 构成他的自定义布局的 CSS 文件和图像也属于 CC 许可？还是不是？他在 Google 上搜索了半个小时，也没弄明白。Bob 希望人们不要抄袭他的网站设计。但是如果人们想在那里闲逛看看它是如何完成的并学习一些技巧，请随意。 他不关心托管提供商的部署文件和配置数据。其中大部分都是从 Stack Overflow 复制/粘贴的。 哦，还有，他嵌入了整个 WordPress 副本。以及六个 WordPress 插件。  最偷懒的做法是在没有任何明确许可的情况下发布代码，Bob 非常乐意这么做。很可能没有人会查看 GitHub 上的 repo 或关心它。但在这种情况下，“正确”的做法是什么？    提交人    /u/round-disk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gajhh0/what_license_should_be_used_if_any_to_publish_the/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:46:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
