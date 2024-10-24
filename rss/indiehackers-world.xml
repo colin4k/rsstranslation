@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 24 Oct 2024 15:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:02:34 GMT</lastBuildDate>
     <item>
       <title>欢迎加入“WordPress 营销”小组！</title>
       <link>https://feed.indiehackers.world/post/e06484b82e</link>
@@ -117,7 +117,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -210,7 +210,7 @@ Discord Indiehackers Chat广告 这里]]></description>
       <link>https://feed.indiehackers.world/post/7e59215908</link>
       <description><![CDATA[Web3、加密、AI 技术是面向当今客户的社交技术，当今的消费者希望感受到人与人之间的联系。
 他们想要的不仅仅是功能或好处，甚至不仅仅是体验——他们想要归属感。
-需要考虑的一个关键问题是：我的产品如何帮助客户表达自己的身份？在所有客户接触点（您的网站、应用、电子邮件和社交媒体）中都要记住这一点。
+需要考虑的一个关键问题是：我的产品如何帮助客户表达自己的身份？在所有客户接触点（您的网站、应用、电子邮件和社交媒体）中都记住这一点。
 我最好的建议是什么？开发尽可能好的产品，但要有一颗心，
 并与众不同。
 *我在https://www.instagram.com/theoutsidevision上发布有关现代品牌和营销的内容

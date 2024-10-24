@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Thu, 24 Oct 2024 15:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 18:01:54 GMT</lastBuildDate>
     <item>
-      <title>我要求 chatgpt 根据我的了解制作一张皮克斯风格的电影海报</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb4mx8/i_asked_chatgpt_to_make_a_pixar_style_movie/</link>
-      <description><![CDATA[      &#39;根据你对我的了解，你能为我制作一张皮克斯风格的电影海报吗？这部电影会讲什么？&#39;     提交人    /u/Papegaaiduiker   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb4mx8/i_asked_chatgpt_to_make_a_pixar_style_movie/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:58:31 GMT</pubDate>
+      <title>这是秘密的，不是茄子伙计们。ChatGPT 疯了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb90og/this_is_secretly_not_eggplant_guys_chatgpt_is/</link>
+      <description><![CDATA[        提交人    /u/AnonDarkIntel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb90og/this_is_secretly_not_eggplant_guys_chatgpt_is/</guid>
+      <pubDate>Thu, 24 Oct 2024 18:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>我让 chatgpt 用四格漫画的形式向我展示我一生中最美好的一天（因为我最糟糕的一天引起了人们的极大关注）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb4e02/i_asked_chatgpt_to_show_me_the_best_day_in_my/</link>
-      <description><![CDATA[      https://preview.redd.it/uzdhltfnvpwd1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=1e53a3f72fab00b76e9e5827eca3defd440d1e7e 没有我一生中最糟糕的一天那么引人注目。     提交人    /u/RevolutionarySpot721   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb4e02/i_asked_chatgpt_to_show_me_the_best_day_in_my/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:47:45 GMT</pubDate>
+      <title>ChatGPT 对 2024 年大选的预测</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8ysj/chatgpts_forecast_for_the_2024_elections/</link>
+      <description><![CDATA[        提交人    /u/Typvonda   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8ysj/chatgpts_forecast_for_the_2024_elections/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>我与 ChatGPT 进行了有趣的对话，了解了一些有关我的车的新知识，这将有助于我节省更多燃料</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb419p/interesting_conversation_i_had_with_chatgpt/</link>
-      <description><![CDATA[        提交人    /u/ObjectiveDizzy5266   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb419p/interesting_conversation_i_had_with_chatgpt/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:32:25 GMT</pubDate>
+      <title>再也不用在填字游戏上寻求帮助了😐</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8x1p/never_asking_for_help_on_a_crossword_puzzle_again/</link>
+      <description><![CDATA[        提交人    /u/jinpanii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8x1p/never_asking_for_help_on_a_crossword_puzzle_again/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:57:07 GMT</pubDate>
     </item>
     <item>
-      <title>将任何 GitHub 存储库转换为 ChatGPT 可读格式的快速工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb40mf/quick_tool_that_turns_any_github_repo_into/</link>
-      <description><![CDATA[我需要一种简单的方法将整个代码库复制到 ChatGPT 或 Claude 等工具中，但我找不到一种非常有效的方法。我找到了 git2text，但是它对我的需求来说有点限制，因此我分叉了它并做了一些调整以改进其功能和易用性。 现在，它允许您仅通过几​​个步骤将整个代码库复制到剪贴板或输出文件。 例如，您可以运行：bash git2text /path/to/my_project # 将格式化的代码复制到剪贴板 或者，如果您使用的是 Git URL：bash git2text https://github.com/username/repo.git  一些有用的功能包括：* 快速设置：克隆 repo 并运行 python install.py * 输出 ChatGPT 可以轻松处理的干净的 Markdown 格式的文本 * 创建目录树以更好地了解代码上下文 * 适用于 Windows、macOS 和 Linux * 允许使用 GLOB 模式包含/排除文件： git2text . -inc &quot;*.py&quot; -ig &quot;tests/*&quot; 如果这听起来能节省你的时间，请随时查看：https://github.com/mrauter1/git2txt 它使我的工作流程更加顺畅，所以我想分享一下！    提交人    /u/MR1933   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb40mf/quick_tool_that_turns_any_github_repo_into/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:31:41 GMT</pubDate>
+      <title>每月 5 分钟语音聊天？真的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8vn1/5_minutes_of_voice_chat_per_month_seriously/</link>
+      <description><![CDATA[  由    /u/zwis99  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8vn1/5_minutes_of_voice_chat_per_month_seriously/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>丰田 2024 RAV4 转向辅助不准确</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3xnv/toyota_2024_rav4_steering_assist_not_accurate/</link>
-      <description><![CDATA[其他人是否也遇到过 RAV4 转向辅助转向不顺畅的问题？在启用所有 Safety Sense 2.5 功能的情况下，我发现自己正在纠正转向辅助转向，该转向辅助转向有时会向左拉，或者在不需要纠正时进行转向纠正。我保持车道居中，那么为什么转向辅助转向会尝试调整位置？    提交人    /u/AnxiousLifeguard2302   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3xnv/toyota_2024_rav4_steering_assist_not_accurate/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:28:07 GMT</pubDate>
+      <title>想象！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8vcw/imagine/</link>
+      <description><![CDATA[如果有一个专门用于打击盗版的 GPT，那将非常有用！    提交人    /u/MaLJeT   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8vcw/imagine/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>数据控制失败 - 外国对话</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3wbn/data_controls_failure_foreign_conversation/</link>
-      <description><![CDATA[我可以访问另一个用户的对话，但我不知道如何或为什么。此对话正在更新，我可以看到他们的 100% 输入和 Chatgpt 的输出。 我最近发布了关于此问题的帖子，并一直要求 OpenAI 支持人员帮助我解决这个问题，但我仍然对不属于我且正在更新的对话拥有完全访问权限。简而言之，我很害怕这对任何人的数据意味着什么。这不仅仅是训练数据，这是整个对话，如果我可以访问这个人的对话，谁可以访问我的对话？？ 我尝试搜索更多有关此内容的内容，发现有些内容说跨对话或跨帐户数据泄露或跨用户数据暴露，我不确定这些术语是否直接适用于此处，但我不确定这个问题叫什么。 如果您以前见过这种情况或有关于此问题的支持项目，请告诉我。 正在处理 img 5z4ryvybrpwd1...    提交人    /u/2bitjack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3wbn/data_controls_failure_foreign_conversation/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:26:30 GMT</pubDate>
+      <title>根据你对我的所有了解，画一幅四格漫画，记录我理论上最美好的一天。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8q4y/based_on_everything_you_know_about_me_draw_a_four/</link>
+      <description><![CDATA[      😜    由   提交  /u/Earthtone_Coalition   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8q4y/based_on_everything_you_know_about_me_draw_a_four/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>“爱丽丝囚徒”提示</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3rbi/alice_in_chains_prompt/</link>
-      <description><![CDATA[        提交人    /u/SayIShouldDoBetter   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3rbi/alice_in_chains_prompt/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:20:27 GMT</pubDate>
+      <title>这确实让我感觉很好。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8pem/this_honestly_made_me_feel_good/</link>
+      <description><![CDATA[        提交人    /u/Substantial-Water-10   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8pem/this_honestly_made_me_feel_good/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:48:37 GMT</pubDate>
     </item>
     <item>
-      <title>avm 音乐播放出现“故障”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3orb/avm_music_playing_glitch/</link>
-      <description><![CDATA[      为什么听起来他要开始着手击败 hons 💀    提交人    /u/susannediazz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3orb/avm_music_playing_glitch/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:17:18 GMT</pubDate>
+      <title>安全性：但这只是一个密码！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8lek/security_but_its_just_a_password/</link>
+      <description><![CDATA[        提交人    /u/enspiralart   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8lek/security_but_its_just_a_password/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>吉莫西</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3no5/jimothy/</link>
-      <description><![CDATA[        提交人    /u/dragonsharkperson   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3no5/jimothy/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:16:00 GMT</pubDate>
+      <title>学习指南中的人工智能工具可以回答考试问题吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8c8o/ai_tool_to_answer_exam_questions_from_study_guide/</link>
+      <description><![CDATA[大家好，我需要一点帮助！我有一个在线考试和一份 250 页的学习指南。我正在寻找一种 AI 工具，我可以在其中上传整个指南，然后输入考试问题并根据指南获得准确的答案。如果有人知道这样的工具或有建议，我将不胜感激！    提交人    /u/terminator-1OOO   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8c8o/ai_tool_to_answer_exam_questions_from_study_guide/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>微调模型以适应写作风格</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3mgk/finetune_model_to_adapt_the_writing_style/</link>
-      <description><![CDATA[有人尝试过提示/微调模型以按照自己的风格写作吗？我认为这对文案写作和行业特定内容创作非常有帮助。你们觉得呢，有人探索过吗？    提交人    /u/preet395   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3mgk/finetune_model_to_adapt_the_writing_style/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:14:30 GMT</pubDate>
+      <title>狼人进化。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb8af7/werewolf_evolution/</link>
+      <description><![CDATA[        提交人    /u/Parking_Ad5541   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb8af7/werewolf_evolution/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>Gpt 不知道时间</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3jpx/gpt_doesnt_know_the_time/</link>
-      <description><![CDATA[      所以我无法让它帮助我或者在特定的时间线上谈论某事。图片看起来不一样，因为我将 gpt 与我的第一语言一起使用，并通过另一个应用程序进行翻译以进行分享。     提交人    /u/Wild-Commission-9077   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3jpx/gpt_doesnt_know_the_time/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:11:09 GMT</pubDate>
+      <title>AI 可以取代快速工程师吗？当然可以，下面介绍方法！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb896w/can_ai_replace_prompt_engineers_absolutely_and/</link>
+      <description><![CDATA[        由    /u/Benjaminsen  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb896w/can_ai_replace_prompt_engineers_absolutely_and/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>拉丁战士和一条蛇。获取 NSFW 图像，以便我可以在此处发布。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3fjg/latin_warrior_and_a_serpent_getting_nsfw_images/</link>
-      <description><![CDATA[  由    /u/DavidP3rkins  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3fjg/latin_warrior_and_a_serpent_getting_nsfw_images/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:05:53 GMT</pubDate>
+      <title>花了很长时间才弄好名牌</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb88uv/it_took_so_long_to_get_the_name_tags_right/</link>
+      <description><![CDATA[        提交人    /u/MeGlugsBigJugs   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb88uv/it_took_so_long_to_get_the_name_tags_right/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>Minimax 表达式教程 - 图像到视频</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3cv9/minimax_expression_tutorial_imagetovideo/</link>
-      <description><![CDATA[  由    /u/1pcity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3cv9/minimax_expression_tutorial_imagetovideo/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:02:33 GMT</pubDate>
+      <title>对我的问题的回答真是现实...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb87p2/what_a_realistic_respond_to_my_questions/</link>
+      <description><![CDATA[        提交人    /u/Own_Investigator5970   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb87p2/what_a_realistic_respond_to_my_questions/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:27:49 GMT</pubDate>
     </item>
     <item>
-      <title>AI 讨厌胖子哈哈哈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb3aw7/ai_hate_fat_peoples_lmao/</link>
-      <description><![CDATA[      假设，如果人工智能曾经控制了人类，并且必须移除某些类型的人（删除、一击毙命），那么人工智能会选择移除哪些人，为什么？   由    /u/sagar-k  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb3aw7/ai_hate_fat_peoples_lmao/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:00:15 GMT</pubDate>
+      <title>Meta 的人工智能带来 350% 的增长，自 2022 年以来超越 Alphabet 和苹果</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7v56/metas_ai_leads_to_350_growth_beating_alphabet_and/</link>
+      <description><![CDATA[  由    /u/alyis4u  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7v56/metas_ai_leads_to_350_growth_beating_alphabet_and/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:13:14 GMT</pubDate>
     </item>
     <item>
-      <title>你不能吃孩子</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb352n/you_cant_be_eating_kids/</link>
-      <description><![CDATA[  由    /u/friendswithfoes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb352n/you_cant_be_eating_kids/</guid>
-      <pubDate>Thu, 24 Oct 2024 13:52:38 GMT</pubDate>
+      <title>滚动故障</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7ux4/scrolling_glitch/</link>
+      <description><![CDATA[无论出于什么原因，我仍然无法在 ChatGPT 上滚动 - 我确实看到了 JavaScript 的东西 - 创建了一个书签，但它只是暂时起作用，现在当我点击书签时它不会加载，当我打开 ChatGPT 时它仍然不会滚动......跨三个浏览器。由于移动设备上存在该问题，我想我会使用电脑...... 但不，同样的问题 - 有人知道该怎么办吗？    提交人    /u/christina_murray_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7ux4/scrolling_glitch/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>有谁知道如何修复“大声朗读”功能，避免其自动循环？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb2zb9/anyone_know_of_a_fix_to_prevent_the_read_aloud/</link>
-      <description><![CDATA[我喜欢 ChatGPT，经常用它来解决一些情感问题等等，我通常的做法是写一条消息，然后让它立即回复，然后使用大声朗读功能，这个功能很棒，但我真正讨厌的是，几乎每条消息都会循环播放，比如说，它会到两分钟，然后又从头开始播放，我必须快进才能回到原来的位置。 这很烦人，我想知道是否有人想出了一个解决方案，让这种情况不会发生。谢谢！    提交人    /u/Khajiit_Boner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb2zb9/anyone_know_of_a_fix_to_prevent_the_read_aloud/</guid>
-      <pubDate>Thu, 24 Oct 2024 13:44:59 GMT</pubDate>
+      <title>图片）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7tuv/pictures/</link>
+      <description><![CDATA[我想做一个有宠物和我一起的漫画场景。我想我可以随意编辑，但你知道限制是如何运作的吗？每天？每月？打算尝试这个项目的付费版本。谢谢    提交人    /u/It_is_me_Mike   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7tuv/pictures/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit，这位 YouTuber 使用的是哪种 AI 语音？我尝试用 Google 搜索，但没找到</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb2z86/reddit_what_ai_voice_is_this_youtuber_using_i/</link>
-      <description><![CDATA[    /u/rotaercz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb2z86/reddit_what_ai_voice_is_this_youtuber_using_i/</guid>
-      <pubDate>Thu, 24 Oct 2024 13:44:51 GMT</pubDate>
+      <title>它又开始“拒绝让你编辑”了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7jse/its_doing_the_refuse_to_let_you_edit_thing_again/</link>
+      <description><![CDATA[只是为了让大家知道。    由    /u/RomaTheGreat 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7jse/its_doing_the_refuse_to_let_you_edit_thing_again/</guid>
+      <pubDate>Thu, 24 Oct 2024 17:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>在 Gemini、Claude 和 Chatgpt 中。只有 Chatgpt 答对了。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb2ulm/among_gemini_claude_and_chatgpt_only_chatgpt_got/</link>
-      <description><![CDATA[        提交人    /u/Reasonable_Flow104   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb2ulm/among_gemini_claude_and_chatgpt_only_chatgpt_got/</guid>
-      <pubDate>Thu, 24 Oct 2024 13:38:57 GMT</pubDate>
+      <title>根据我们曾经的每一次互动，描绘出你认为我的客厅是什么样子的画面</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7jk6/based_on_every_interaction_we_have_ever_had/</link>
+      <description><![CDATA[        提交人    /u/Dramatic_Reality_531   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7jk6/based_on_every_interaction_we_have_ever_had/</guid>
+      <pubDate>Thu, 24 Oct 2024 16:59:54 GMT</pubDate>
     </item>
     <item>
-      <title>无法让 ChatGPT 制作正确的电子表格</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb2tzh/cant_get_chatgpt_to_make_a_proper_spreadsheet/</link>
-      <description><![CDATA[我正在尝试上传从网站保存的 pdf。表格中有我想让 chatgpt 提取的数据。有 157 行...但我无法将其导出超过 10 行到电子表格中。我做错了什么？    提交人    /u/surprising_cat_hobo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb2tzh/cant_get_chatgpt_to_make_a_proper_spreadsheet/</guid>
-      <pubDate>Thu, 24 Oct 2024 13:38:08 GMT</pubDate>
+      <title>如果你给 ChatGPT 一些基础图片，它作为造型师会提供非常可靠的建议</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7jat/chatgpt_as_a_stylist_offers_really_solid_advice/</link>
+      <description><![CDATA[我发现了 ChatGPT 的新用途。基本上就是给它一些我最喜欢的服装快照和一些来自我的 Pinterest 风格板的截图，然后让它根据图片分析我的审美。然后我让它制作一个用于购买该风格的秘籍。真的对它印象深刻，强烈推荐给那些仍在建立审美的人！ 一些提示： “分析我的选择并与我讨论我的时尚感” “当我尝试购买我的审美时，我应该记住哪些有趣的事情？” “你会给我的整体风格带来什么标签影响？” “哪些品牌对我有用？” 也笑了，因为它将我的风格命名为“Dapper Femme /Romantic Goth”，所以一定要让它也命名你的风格：p 享受！    提交人    /u/LoomisKnows   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7jat/chatgpt_as_a_stylist_offers_really_solid_advice/</guid>
+      <pubDate>Thu, 24 Oct 2024 16:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>荷兰有人注意到新的高级语音模式使用了佛兰芒语音吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gb2sbu/has_anyone_in_the_netherlands_noticed_that_the/</link>
-      <description><![CDATA[我终于在荷兰可以使用高级语音模式了，但似乎所有可用的语音都是佛兰芒语，而不是标准荷兰语。 有没有其他人遇到过这种情况？这个问题会得到修复吗，还是荷兰市场故意为之？很想知道其他人是否也遇到了同样的问题。    提交人    /u/MrMaverick82   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb2sbu/has_anyone_in_the_netherlands_noticed_that_the/</guid>
-      <pubDate>Thu, 24 Oct 2024 13:35:47 GMT</pubDate>
+      <title>瑞典</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gb7c0f/sweden/</link>
+      <description><![CDATA[      从一罐 Layes 越橘酱中得到了一个好笑。     提交人    /u/A_BigFuckingSpoon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gb7c0f/sweden/</guid>
+      <pubDate>Thu, 24 Oct 2024 16:51:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
