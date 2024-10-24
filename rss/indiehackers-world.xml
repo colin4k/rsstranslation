@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:02:45 GMT</lastBuildDate>
     <item>
       <title>欢迎加入“WordPress 营销”小组！</title>
       <link>https://feed.indiehackers.world/post/e06484b82e</link>
@@ -26,6 +26,15 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9a86fd8fef</guid>
       <pubDate>Tue, 22 Oct 2024 23:25:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>为你的产品寻找影响者的 8 种方法</title>
+      <link>https://feed.indiehackers.world/post/9f4aeac59d</link>
+      <description><![CDATA[参加与您的领域相关的网络研讨会、会议和贸易展览。 
+这些活动通常会邀请在您的行业中具有影响力的演讲者和与会者。
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/9f4aeac59d</guid>
+      <pubDate>Tue, 22 Oct 2024 11:05:41 GMT</pubDate>
     </item>
     <item>
       <title>与 X 上的黑客同伴联系的最佳方式是什么？</title>
@@ -108,7 +117,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -219,14 +228,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ae9e3d450d</guid>
       <pubDate>Wed, 16 Oct 2024 14:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 SaaS？</title>
-      <link>https://feed.indiehackers.world/post/2137d5d3b6</link>
-      <description><![CDATA[希望这对您有所帮助。如果确实如此，请记得为答案点赞。
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/2137d5d3b6</guid>
-      <pubDate>Wed, 16 Oct 2024 10:33:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

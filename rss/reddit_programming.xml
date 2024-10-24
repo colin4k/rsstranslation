@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:02:17 GMT</lastBuildDate>
+    <item>
+      <title>给初级和中级开发人员的一些建议</title>
+      <link>https://www.reddit.com/r/programming/comments/1gb0epd/bunch_of_advices_for_junior_and_mid_devs/</link>
+      <description><![CDATA[我刚刚意识到我浪费时间评论一些 YouTube 随机视频。然而，事实证明我的想法是我 10 年前想听到的，所以我决定也在这里分享。希望有一天你会发现它有用。也欢迎批评！ 我有 13 年的商业经验。我的一些建议：1. 停止 leetcoding，停止做教程，停止 chatGPTing。相反：阅读文档，编写人们想要的免费软件并保持耐心——这需要大量时间！构建看起来“有点太难”的项目。2. 公司往往会过快地将你提升到更高的级别，以确保你能在他们那里呆更长时间，而你会因为知道自己不是高级职位而无法通过高级职位的面试。记住这一点。3. 了解计算机的工作原理。无论你选择哪种语言。4. 学习客户端和服务器端软件工程。 5. 学习如何在 VPS/Dedicated 服务器上部署你的应用。并对其进行优化和自动化。6. 每当你遇到一个困难的错误时：不要再问 chatGPT，不要再复制粘贴 stackoverflow 答案。思考！了解问题是什么，为什么会发生，如何解决。这些时刻会让你成为更好的 SWE 7. 每当某些东西真的很慢或成本太高时：学习如何优化，研究更好的架构，分析你的基础设施。8. 尝试新的有前途但不稳定的技术。在配置它时遇到困难时，你会学到很多东西。就像第 6 点一样。9. 如果你足够勇敢：经常更换工作和项目。特别是当它们变得无聊或太简单的时候。10. 赢得任何技术讨论的最简单方法是展示数字。11. 每个代码都有一个用途：垃圾——只是时间问题。另一个故事是数据。了解优先事项。12. 学会说“不”。如果有人抱怨：见第 10 点。13. 对你的工作负责。14. 安全很重要。永远如此。 （以下是我不同意这个视频的观点，但我觉得这很有帮助，值得也包括在这里）1. 担任 Scrum Master 的角色：除非你想永远留在公司，否则这是在浪费时间。这会增强你的自尊心，仅此而已。当你是团队领导者时，这可能听起来很酷，但这应该只是副作用。否则，你最终会参加许多无用的会议，而没有时间进行 SWE。2. 快速回复紧急请求：视情况而定。优先考虑优先事项。难以接受的枕头：在解决紧急票时，你帮助谁比你做什么更重要。不要成为一个全天候工作的人。没有人会记得你（当你一直在办公室时，也许只有你的孩子会记得你）。做有意义的事情。 最后一条建议：如果你的公司有 DEMO 会议，那么这确实是自我推销的最佳方式。不要只展示你做过的工作。解释为什么这很重要，你的改变有什么影响，比较旧的和新的（你的）。在每一个 DEMO 会议上都像个史蒂夫·乔布斯一样。这是最简单的晋升方式。不要给你的老板留下深刻印象 - 而是要给他们的老板留下深刻印象。 享受并编码，干杯    提交人    /u/Live-Ad6766   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gb0epd/bunch_of_advices_for_junior_and_mid_devs/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 机器人命令行</title>
+      <link>https://www.reddit.com/r/programming/comments/1gazygz/reddit_bot_cli/</link>
+      <description><![CDATA[大家好！ 我最近在 Product Hunt 上看到了一个 AI Reddit 机器人，它可以搜索 Reddit 并使用 AI 回复某些帖子。我觉得这是一个非常酷的概念，所以我决定尝试构建自己的版本——尽管我之前没有使用过 Python、机器学习或 AI。 经过反复试验，我成功创建并发布了一个 CLI 工具，任何人都可以直接从命令行轻松构建机器人。该机器人可以搜索特定关键字，并自动在与这些关键字匹配的帖子上发表评论。 它仍然是一个早期版本，肯定需要更多的工作，但我对迄今为止的进展感到很兴奋。我很乐意从这个社区得到一些反馈，所以请告诉我你的想法。 谢谢！    提交人    /u/Firm-Lingonberry-748   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gazygz/reddit_bot_cli/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的星系模拟已经问世（免费且开源）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gayxhg/my_galaxy_simulation_is_out_on_itch_free_and_open/</link>
+      <description><![CDATA[  由    /u/Professional_Arm7626  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gayxhg/my_galaxy_simulation_is_out_on_itch_free_and_open/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对这个视频的反馈很积极。它涵盖了竞争条件和线程同步等高级主题。该视频是为 Godot 制作的，但这些概念适用于一般的多线程。希望这对您有所帮助！</title>
+      <link>https://www.reddit.com/r/programming/comments/1gay774/i_got_positive_feedback_on_this_video_it_covers/</link>
+      <description><![CDATA[  由    /u/OldDew  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gay774/i_got_positive_feedback_on_this_video_it_covers/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德3.5新十四行诗好听吗，电脑用什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gay6q1/how_good_is_the_new_claude_35_sonnet_and_what_is/</link>
+      <description><![CDATA[  由    /u/Adam431w  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gay6q1/how_good_is_the_new_claude_35_sonnet_and_what_is/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:02:56 GMT</pubDate>
+    </item>
     <item>
       <title>Codoc：新的协作代码编辑器</title>
       <link>https://www.reddit.com/r/programming/comments/1gaxyla/codoc_new_collaborative_code_editor/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[这是一所“工业高中”（不要太深入研究，这只是斯洛伐克的运作方式），这就是为什么它是老师而不是教授，这就是为什么我认为我们必须使用基础，但在近 0.5-1 年的时间里，我将不得不在 altirra 使用基础，这太愚蠢了。我尝试过 python 和 c，希望我们能在这门课上学习，但没有。所以我的问题是：我能用它做什么？除了猜数字游戏，你还能做什么吗？这门课超级无聊😭感谢所有的帮助。     提交人    /u/SpaderWader   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gagbmf/anything_you_can_actually_do_in_basic_in_altirra/</guid>
       <pubDate>Wed, 23 Oct 2024 17:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>副业项目困境：为何开发者经常无法实现盈利</title>
-      <link>https://www.reddit.com/r/programming/comments/1gaf523/the_side_project_dilemma_why_developers_often/</link>
-      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gaf523/the_side_project_dilemma_why_developers_often/</guid>
-      <pubDate>Wed, 23 Oct 2024 16:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - georgetdn/SYSCPPCP: 将 C++ 类数据存储在文件中并以编程方式或使用 SmallSQL（包括在内）对其​​进行操作</title>
-      <link>https://www.reddit.com/r/programming/comments/1gaf07m/github_georgetdnsyscppcp_store_c_class_data_in_a/</link>
-      <description><![CDATA[  由    /u/Hungry-Diet-4184  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gaf07m/github_georgetdnsyscppcp_store_c_class_data_in_a/</guid>
-      <pubDate>Wed, 23 Oct 2024 16:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Async Rust 分为三部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1gae0vx/async_rust_in_three_parts/</link>
-      <description><![CDATA[  由    /u/simon_o  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gae0vx/async_rust_in_three_parts/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git Reset | 第 3 集 Bits and Booze</title>
-      <link>https://www.reddit.com/r/programming/comments/1gadrvx/git_reset_ep3_bits_and_booze/</link>
-      <description><![CDATA[  由    /u/icyFur  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gadrvx/git_reset_ep3_bits_and_booze/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 OpenTelemetry？-解释和演示</title>
-      <link>https://www.reddit.com/r/programming/comments/1gadhao/what_is_opentelemetry_explanation_and_demo/</link>
-      <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gadhao/what_is_opentelemetry_explanation_and_demo/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:34:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
