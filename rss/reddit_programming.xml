@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 21:01:45 GMT</lastBuildDate>
+    <item>
+      <title>CSS 引擎内部：CSSOM 详解</title>
+      <link>https://www.reddit.com/r/programming/comments/1gc3ump/inside_the_css_engine_cssom_explained/</link>
+      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gc3ump/inside_the_css_engine_cssom_explained/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件膨胀让我伤心 (2015)</title>
+      <link>https://www.reddit.com/r/programming/comments/1gc3j3g/software_bloat_makes_me_sad_2015/</link>
+      <description><![CDATA[  由    /u/klaasvanschelven  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gc3j3g/software_bloat_makes_me_sad_2015/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:11:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>深入了解 2024 年 WunderGraph 的三个新功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1gc3c79/an_inside_look_at_three_new_wundergraph_features/</link>
+      <description><![CDATA[  由    /u/vehiclestars  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gc3c79/an_inside_look_at_three_new_wundergraph_features/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS @property 简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1gc2as5/introduction_to_css_property/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gc2as5/introduction_to_css_property/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Visual C# . NET 的简单文件管理器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gc1rlr/simple_file_manager_using_visual_c_net/</link>
+      <description><![CDATA[https://youtu.be/oRtME1oJD7M 使用 Visual C# . NET 的简单文件管理器 支持我的频道，请分享您的意见和反馈。     提交人    /u/paulpjoby   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gc1rlr/simple_file_manager_using_visual_c_net/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始在 C#.NET 中创建 HTTP/SSL Web 服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gc1p6c/create_a_httpsssl_web_server_in_cnet_from_scratch/</link>
+      <description><![CDATA[从头开始在 C#.NET 中创建 HTTPs/SSL Web 服务器：https://www.youtube.com/playlist?list=PL7JwiD5MYNPF_SzDrqOEfe77A3wD5sVfL    提交人    /u/paulpjoby   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gc1p6c/create_a_httpsssl_web_server_in_cnet_from_scratch/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:51:49 GMT</pubDate>
+    </item>
     <item>
       <title>Python 中的安全编码实践：综合指南</title>
       <link>https://www.reddit.com/r/programming/comments/1gbz5ak/secure_coding_practices_in_python_a_comprehensive/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/Fit_Kangaroo_9605  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gbrnro/hey_still_struggling_to_find_a_good_github_repo/</guid>
       <pubDate>Fri, 25 Oct 2024 11:07:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Python 到 CPU 指令：第 2 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1gbrjpv/from_python_to_cpu_instructions_part_2/</link>
-      <description><![CDATA[  由    /u/Dilocan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gbrjpv/from_python_to_cpu_instructions_part_2/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>str：另一个 C 语言的字符串库。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gbqw0n/str_yet_another_string_library_for_c_language/</link>
-      <description><![CDATA[  由    /u/clogg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gbqw0n/str_yet_another_string_library_for_c_language/</guid>
-      <pubDate>Fri, 25 Oct 2024 10:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>x ping：ping，但带有图表，使用 posix shell 和 awk</title>
-      <link>https://www.reddit.com/r/programming/comments/1gbqla7/x_ping_ping_but_with_a_graph_using_posix_shell_awk/</link>
-      <description><![CDATA[  由    /u/No_Spinach_9833  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gbqla7/x_ping_ping_but_with_a_graph_using_posix_shell_awk/</guid>
-      <pubDate>Fri, 25 Oct 2024 09:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOLID 设计原则 Rust（附示例）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gbqedh/solid_design_principles_rust_with_examples/</link>
-      <description><![CDATA[  由    /u/bizzehdee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gbqedh/solid_design_principles_rust_with_examples/</guid>
-      <pubDate>Fri, 25 Oct 2024 09:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>JS 日期终于确定</title>
-      <link>https://www.reddit.com/r/programming/comments/1gbpy76/js_dates_finally_fixed/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gbpy76/js_dates_finally_fixed/</guid>
-      <pubDate>Fri, 25 Oct 2024 09:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>别笑我……我开发了一个 Google Sign-In 的开源替代品</title>
-      <link>https://www.reddit.com/r/programming/comments/1gbpk1b/dont_laugh_at_me_i_built_an_opensource/</link>
-      <description><![CDATA[  由    /u/TechnologyNFlowers  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gbpk1b/dont_laugh_at_me_i_built_an_opensource/</guid>
-      <pubDate>Fri, 25 Oct 2024 08:37:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
