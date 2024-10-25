@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 21:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:03:32 GMT</lastBuildDate>
+    <item>
+      <title>放慢速度并降低回响</title>
+      <link>https://www.reddit.com/r/software/comments/1gbgmjx/slow_and_reverb_it_down/</link>
+      <description><![CDATA[哪些工具或软件可以创建像您在 YouTube 上看到的那样的慢速和混响视频？    提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gbgmjx/slow_and_reverb_it_down/</guid>
+      <pubDate>Thu, 24 Oct 2024 23:34:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp API 集成</title>
+      <link>https://www.reddit.com/r/software/comments/1gbf63p/whatsapp_api_integration/</link>
+      <description><![CDATA[嗨， 我正在为客户使用 WhatsApp API，他们要求我将他们公司电话号码上收到的每条消息转发到他们的电子邮件中。但是，从我所看到的情况来看，我需要删除现有的 WhatsApp 帐户，因为该电话号码无法与任何活动的 WhatsApp 帐户关联。 我尝试使用 Twilio，但问题是一样的 — 我需要一个新的号码才能开始使用 API。 我已经有一个 webhook URL，它等待 POST 请求并自动将消息转发到指定的电子邮件。我已经使用 Meta 平台上的开发设置成功测试了这一点。 我真的需要取消关联公司的电话号码来实现这种机制吗？感觉不对劲，我想我可能遗漏了一些东西。这里有人尝试过做类似的事情吗？   由    /u/almeida2233  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gbf63p/whatsapp_api_integration/</guid>
+      <pubDate>Thu, 24 Oct 2024 22:25:53 GMT</pubDate>
+    </item>
     <item>
       <title>使用 godoc-static 生成静态 Go 文档站点</title>
       <link>https://www.reddit.com/r/software/comments/1gbbjkz/generate_static_go_documentation_sites_with/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我全新安装了 Windows 10，想下载一些与艺术相关的软件。我想知道您是否有 Ibis Paint 或类似软件的链接，我几年前通过互联网档案下载过，但现在没有这个选项了...谢谢！:D    提交人    /u/GranPrepotencia   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gapn7m/ibis_paint_or_alternatives/</guid>
       <pubDate>Thu, 24 Oct 2024 00:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能识别这个软件吗，它很可能用于宏。（是的，分辨率很差，但我只得到了这些）</title>
-      <link>https://www.reddit.com/r/software/comments/1gap2tu/can_anyone_identify_this_software_it_is_very/</link>
-      <description><![CDATA[  由    /u/Zeus__Gr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gap2tu/can_anyone_identify_this_software_it_is_very/</guid>
-      <pubDate>Wed, 23 Oct 2024 23:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>战争网格 - 设计更新和新功能！您觉得如何？</title>
-      <link>https://www.reddit.com/r/software/comments/1ganvco/war_grids_design_updates_new_features_what_do_you/</link>
-      <description><![CDATA[大家好！ 首先，非常感谢所有花时间提供反馈、建议和想法的人！您的意见对于确定 War Grids 的方向非常宝贵，我们很高兴向您展示新内容。  设计大修：我们对游戏的设计进行了急需的改造。虽然这项工作仍在进行中，但我们希望您能注意到这些改进！ 新声音和音乐：最需要的功能之一是音效和背景音乐，我们已添加这两项功能。现在，您可以在计划下一个战略行动或聆听战斗强度增加时享受身临其境的声音。让我们知道您对音频体验的看法！  提醒一下，在 War Grids 中，您指挥蓝色领土并与红色敌人作战。要采取行动，只需先选择自己的领土之一，然后滑动以攻击相邻的红色敌方领土。您也可以通过选择自己的一块田地并移动到另一个田地来合并部队。 对于您控制的每个领土，您将每 5 秒生成一次部队。每个领土上的数字代表部队实力，因此通常最好先攻击较弱的敌方田地！另外，请记住占领中立田地以加快部队生成速度。 哦，别忘了：每一轮，敌人都会变得更强大，所以要明智地制定战略！ 期待您对新更新的想法！非常欢迎任何反馈，从设计建议到游戏技巧。我们在制作这款游戏​​时就考虑到了社区，我们希望它能成为最好的体验。 截图： https://preview.redd.it/uwb0ytsu5lwd1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=6a4bdee5aa9dd721a792765bda723b0d63a8ad50 https://preview.redd.it/481ajssu5lwd1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=17cf9c31f137fed28a01782deed7cf5c867d777b https://preview.redd.it/4m19xrtu5lwd1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=1f0d43913907dd800ff172190d3e8c6eb1897c0e 链接：Google Play 上的 War Grids 干杯！ 战争网格开发团队    由    /u/Mr_Salsa_Berlin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ganvco/war_grids_design_updates_new_features_what_do_you/</guid>
-      <pubDate>Wed, 23 Oct 2024 22:55:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

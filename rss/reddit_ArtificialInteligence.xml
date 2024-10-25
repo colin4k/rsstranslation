@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 21:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 00:03:09 GMT</lastBuildDate>
+    <item>
+      <title>为什么我并不担心人工智能，事实上我欢迎它。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gbfa2x/why_i_am_not_concerned_about_ai_i_actually/</link>
+      <description><![CDATA[警告：咆哮。 我是一个老（更老）的数字移民。我从小就梦想着拥有一个可以容纳世界上所有知识的便携式设备。当互联网出现时，我的梦想实现了。我认为人类会升级。 快进约 30 年，我仍然看到愚蠢的人在 Reddit/IRL 上问愚蠢的问题，而不是在 5 秒钟内谷歌搜索。但是等等，情况变得更糟了！如果你指出他们可以节省时间并通过谷歌搜索得到更好的答案，他们会不高兴。但是等等！情况变得更糟，还有其他人站在他们一边，指出这一点是不礼貌的。 快进到 ChatGPT、Perplexity &amp; 的时代这些工具可以比谷歌更能改善人们的生活，而 Reddit/IRL 上的人们仍在继续问这些愚蠢的问题。 但是等等！情况变得更糟了。大多数人不了解颠覆性创新是如何运作的，和/或认为人工智能只是一时的热潮。 我对此没意见。 就个人而言，人工智能已经提高了我的生活质量，并期待更多。 从专业角度来看，它每天为我节省 30-90 分钟，并期待明年提高效率。 就我的投资组合而言，我将尝试有选择地投资，这样我就可以抓住赢家的细分市场，摆脱输家。并且继续将我的盈余存入我的投资组合。 我确信，至少在美国，我们将拥有 UBI 或类似的东西，以照顾那些失业的工人；我不确定全世界是否都会这样，这很可悲。但现在是 2024 年 10 月，新闻、信息和知识只有几秒钟的路程。我们都做出了自己的选择。我知道我的选择是什么，将来也会是什么。其他人也必须做出自己的选择。并收获这些选择的果实。 Mic Drop /rant 感谢您参加我的 TED 演讲。    提交人    /u/G4M35   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gbfa2x/why_i_am_not_concerned_about_ai_i_actually/</guid>
+      <pubDate>Thu, 24 Oct 2024 22:30:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何建立一个预先训练的多模式模型，用于同时聊天和决策？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gbe9mx/how_to_build_a_pretrained_multimodal_model_for/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“如何构建一个用于同时聊天和决策的预训练多模态模型？”，作者是唐作金、胡斌、赵晨阳、马德、潘刚和刘斌。 这项研究探索了创建一个统一的预训练模型的新挑战，该模型能够在动态场景（例如自动驾驶）中同时进行语言交互和精确决策。与将这些任务划分为离散组件的现有模型不同，作者提出了一种集成模型架构——用于聊天和决策的视觉语言动作模型 (VLA4CD)——来解决这一差距。以下是本文的一些关键要点：  统一模型架构：VLA4CD 集成了预先训练的大型语言模型 (LLM)，具有同时生成文本和做出动作决策的功能。这在自动驾驶等实时交互至关重要的任务中尤为重要。 连续动作的处理：该模型避开了传统的动作离散化，而是选择直接处理连续值动作向量。这种方法提高了需要细致入微的动作输出的复杂任务的精度。 实验验证：在 CARLA 自动驾驶模拟器中进行的大量测试表明，VLA4CD 不仅在决策准确性方面优于当前最先进的 VLA 模型，而且还保持了强大的对话能力。 创新的训练技术：本文介绍了新颖的计算模块和成本函数，旨在优化模型以实现连续动作和对话，并结合标签平滑来增强泛化和性能。 现实世界的影响和未来前景：这项研究表明，除了自动驾驶汽车之外，还有家用机器人等有前景的应用，并计划使用大规模现实世界数据集扩展验证。  您可以在此处查看完整的细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gbe9mx/how_to_build_a_pretrained_multimodal_model_for/</guid>
+      <pubDate>Thu, 24 Oct 2024 21:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Transformer 缺乏递归是否会阻止其实现 AGI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gbdosz/will_the_lack_of_recursion_in_transformers/</link>
+      <description><![CDATA[考虑到 transformer 是基于前馈 NN 的，我一直想知道我们是否缺少某种递归。不仅大脑是递归的，而且有些问题似乎需要它。例如，多步骤推理的步骤太多，超出了当前 transformer 的深度（例如对于大型项目/长期规划）。 除此之外，最近的一篇论文发现，通过复制 LLM 的中间层，该模型模拟了循环结构（递归），从而使其推理能力更强：https://arxiv.org/abs/2409.19044 。    提交人    /u/PianistWinter8293   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gbdosz/will_the_lack_of_recursion_in_transformers/</guid>
+      <pubDate>Thu, 24 Oct 2024 21:18:45 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能初学者</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gbdams/ai_beginner/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>从代码到画布：我的创作和激情之旅</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gbd9sb/from_code_to_canvas_a_heartfelt_journey_through/</link>
-      <description><![CDATA[这是我制作的 AI 代理的概览。我将部分源代码提供给 NotebookLM，然后它将其转换为播客。 YouTube 视频    由   提交  /u/technasis   [link] [评论]]]></description>
+      <description><![CDATA[这是我制作的 AI 代理。我将我的简历、作品集和一些源代码输入 NotebookLM，它将其变成了播客。这实际上是关于 AI 的，但我考虑了我的兴趣和工作经历来了解我的思维过程。 YouTube 视频    提交人    /u/technasis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gbd9sb/from_code_to_canvas_a_heartfelt_journey_through/</guid>
       <pubDate>Thu, 24 Oct 2024 21:00:30 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>如何为 LLM 添加护栏？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gbcyyx/how_are_guardrails_added_to_llms/</link>
-      <description><![CDATA[就像这家人工智能公司新闻稿中提到的那样  “我们的政策不允许非自愿的性内容、性行为的图形或具体描述，或宣传或描述自残或自杀。 我们正在不断训练为平台上的角色提供支持的大型语言模型 (LLM)，以遵守这些政策。”    提交人    /u/ragold   [link] [评论]]]></description>
+      <description><![CDATA[就像这家人工智能公司新闻稿中提到的那样  “我们的政策不允许非自愿的性内容、性行为的图形或具体描述，或宣传或描述自残或自杀。我们正在不断训练为平台上的角色提供支持的大型语言模型 (LLM)，以遵守这些政策。” -- https://blog.character.ai/community-safety-updates/    提交人    /u/ragold   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gbcyyx/how_are_guardrails_added_to_llms/</guid>
       <pubDate>Thu, 24 Oct 2024 20:47:31 GMT</pubDate>
     </item>
@@ -97,25 +118,11 @@
       <pubDate>Thu, 24 Oct 2024 15:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>Recraft.ai</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gb4qsx/recraftai/</link>
-      <description><![CDATA[大家好， 我在寻找为我的产品创建模型的好方法时偶然发现了 Recraft.ai。有一个选项可以将任何图像放入他们的应用程序中，然后您可以用它创建一个模型模板。它适用于任何图像，并且设计几乎完美地捕捉到它上面。 你知道他们是如何实现的吗？有没有什么工具可以让我自己做到这一点？他们用什么技术来完成这项工作？ 我认为这个工具很棒，现在它对我来说就是魔术。    提交人    /u/Private_Tank   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gb4qsx/recraftai/</guid>
-      <pubDate>Thu, 24 Oct 2024 15:02:48 GMT</pubDate>
-    </item>
-    <item>
       <title>如何在人工智能社区中建立人际网络？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gb4a7w/how_to_network_in_the_ai_community/</link>
       <description><![CDATA[嘿！我 (20F) 正在学习数据科学和人工智能，打算成为一名人工智能工程师。我有点害羞，但我意识到网络对行业的重要性。 你们如何与该领域的其他人建立联系？扩展我的人脉的最佳方式是什么？    提交人    /u/lilpinkbirb   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gb4a7w/how_to_network_in_the_ai_community/</guid>
       <pubDate>Thu, 24 Oct 2024 14:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于人工智能对工作和工作意义的影响的书籍和文章推荐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gb3d6r/book_and_article_recommendations_on_ais_impact_on/</link>
-      <description><![CDATA[大家好！ 我正在研究人工智能 (AI) 如何影响工作环境，特别是在工作意义和职业认同方面。我关注的是汽车行业和 IT等行业，在这些行业中，AI 正在迅速融入日常运营。我特别感兴趣的是人工智能如何影响工作自主性、任务结构，以及对员工在工作中的目标感和身份认同感的更广泛影响。 是否有任何推荐学术书籍、文章或研究论文探讨：  人工智能对工作角色、自主性和工作意义的影响。 人工智能如何影响职业认同以及员工如何看待自己在组织中的角色。 围绕工作场所人工智能的道德考量，尤其是与员工福祉和公平性相关的考量。 来自工作特征模型或类似框架等理论的见解，可以应用于人工智能对工作设计的影响。 案例研究或实证研究重点是人工智能在特定行业的整合（汽车、 我将非常感谢任何建议，无论是基础文本还是最近的研究。提前感谢您为我指明正确的方向！    提交人    /u/emillindstrom   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gb3d6r/book_and_article_recommendations_on_ais_impact_on/</guid>
-      <pubDate>Thu, 24 Oct 2024 14:02:57 GMT</pubDate>
     </item>
     <item>
       <title>人工智能预测分析如何推动业务增长</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[在与我的 Reddit 好友讨论如何使用 AI 来更快地学习后，我想出了 [Destovery](www.destovery.com)  创建任何内容的视频的方法。它通过提供视觉效果来帮助您更快地学习。  请查看并提供反馈。 destovery 注意：视频生成成本高昂，因此存在限制     提交人    /u/MinuteDistribution31   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gaq1zt/use_ai_to_learn_faster/</guid>
       <pubDate>Thu, 24 Oct 2024 00:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们彻底颠覆了都灵测试</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gaidws/weve_turned_the_turin_test_upside_down/</link>
-      <description><![CDATA[我们过去的目标是制造出一种非常智能的机器，它可以欺骗人类，使人类误以为它是人类；相反，我们制造的机器非常善于冒充人类，以至于它欺骗了我们，使我们认为它是智能的。  这就像我们是一个缸中之脑，我们开发了一种机器，专门为我们自己提供最令人信服的刺激，使我们相信它存在于真实环境中。  换句话说，我们人类并不是判断什么是人类的最佳评判者，更不用说智能了。    提交人    /u/233C   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gaidws/weve_turned_the_turin_test_upside_down/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:00:28 GMT</pubDate>
     </item>
     <item>
       <title>角色人工智能因一名青少年自杀而被起诉</title>
