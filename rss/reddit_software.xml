@@ -4,9 +4,30 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 25 Oct 2024 06:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:01:50 GMT</lastBuildDate>
     <item>
-      <title>同时进行多个虚拟显示器的远程控制</title>
+      <title>免费的 Facebook 转录工具</title>
+      <link>https://www.reddit.com/r/software/comments/1gbp4p1/free_facebook_transcription_tool/</link>
+      <description><![CDATA[为什么很难找到将 Facebook 视频转录为文本的工具。对于 YouTube 视频，我几乎可以在任何地方找到免费的转录工具。如果有人可以向我指出一个在线工具、应用程序、chrome 扩展程序或无限制提取完整转录的方法，我将不胜感激     提交人    /u/adankey0_0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gbp4p1/free_facebook_transcription_tool/</guid>
+      <pubDate>Fri, 25 Oct 2024 08:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子书管理器和阅读器？</title>
+      <link>https://www.reddit.com/r/software/comments/1gboouu/ebook_manager_reader/</link>
+      <description><![CDATA[不是 Calibre，它看起来很糟糕，我不想要一个看起来像后端的前端，它充斥着工具栏图标和我不想使用的东西。  寻找一款优秀的电子书管理器和阅读器。  主要用于 Windows 桌面，但也可以访问存储在 NAS 上的图书。  主要是 PDF，但应该可以与所有常见的文件格式一起使用。 谢谢。    提交人    /u/BCL64   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gboouu/ebook_manager_reader/</guid>
+      <pubDate>Fri, 25 Oct 2024 07:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找适用于 YouTube 的音频播放器。</title>
+      <link>https://www.reddit.com/r/software/comments/1gbnjty/looking_for_an_audio_player_for_youtube/</link>
+      <description><![CDATA[我想要一个可以播放 YouTube 音频的轻量级 Windows 应用。我主要收听 YouTube 上的播客和讲座，不想在后台打开 YouTube 标签。 该应用需要轻量级、免费且最好是开源的。谢谢。    提交人    /u/InternalVolcano   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gbnjty/looking_for_an_audio_player_for_youtube/</guid>
+      <pubDate>Fri, 25 Oct 2024 06:04:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程控制多个虚拟显示器</title>
       <link>https://www.reddit.com/r/software/comments/1gbnde6/remote_control_with_multiple_virtual_display_at/</link>
       <description><![CDATA[我拥有：- 我想要控制的内置 FHD 显示屏的工作笔记本电脑- 我想要使用的桌面工作站。一个 2560x1440 显示屏和第二个 FHD 显示屏。 我想在本地远程控制我的笔记本电脑，就好像它插入我的台式机外围设备一样，因此使用两个显示器（因此我需要在笔记本电脑上虚拟模拟第二个显示器）、鼠标、键盘、耳机和麦克风。 到目前为止，我一直在使用 AnyDesk，但它仅限于一个屏幕，不允许我充分利用显示器的高分辨率。 我认为这是一个两步过程，首先设置我的笔记本电脑，就好像它插入相同的显示设置一样，然后控制它。显然不必在屏幕之间切换。当然，通过提供音频   由    /u/NaXter24R  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gbnde6/remote_control_with_multiple_virtual_display_at/</guid>
@@ -113,37 +134,16 @@
     <item>
       <title>寻找适用于 Windows 11 的 Reddit 软件</title>
       <link>https://www.reddit.com/r/software/comments/1gawznj/looking_for_reddit_software_for_windows_11/</link>
-      <description><![CDATA[大家好， 希望你们都过得好！我正在寻找一个可以在 Windows 11 上使用 Reddit 的软件应用程序，该应用程序允许进行修改和自定义。如果有人有建议，我将不胜感激！ 提前谢谢！    提交人    /u/sa3bbb   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 希望你们都一切顺利！我正在寻找一个可以在 Windows 11 上使用 Reddit 的软件应用程序，该应用程序允许进行修改和自定义。如果有人有建议，我将不胜感激！ 提前谢谢！    提交人    /u/sa3bbb   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gawznj/looking_for_reddit_software_for_windows_11/</guid>
       <pubDate>Thu, 24 Oct 2024 07:27:10 GMT</pubDate>
     </item>
     <item>
       <title>永远不会丢失信息的纯文本编辑器？</title>
       <link>https://www.reddit.com/r/software/comments/1gaukpf/plain_text_editor_that_never_loses_your/</link>
-      <description><![CDATA[我试过 EMEditor、Notepad++ 和其他一些我不记得了的编辑器。它们都让我反复丢失数据。 要么标签随机消失，要么在系统重启、更新或其他奇怪的东西后丢失。它们从不保存你的数据。 我想要一个编辑器，在我按下每个键时，它都会保存下来。 完全不会丢失任何数据（我知道房子可能会被烧毁，还有其他类似的东西——这不是我想要的）。 有类似的东西吗？不必免费——我很乐意付费来保留我的数据。 感谢您的时间和意见——一个沮丧的用户又一次失去了几个小时的工作。    提交人    /u/anonFan21   [链接] [评论]]]></description>
+      <description><![CDATA[我试过 EMEditor、Notepad++ 和其他一些我不记得了的编辑器。它们都让我反复丢失数据。 要么标签随机消失，要么在系统重启、某些更新或其他奇怪的东西后丢失。它们从不保存你的数据。 我想要一个编辑器，在我按下每个键时，它都会保存下来。 完全不会丢失任何数据（我知道房子可能会被烧毁，还有其他类似的东西——这不是我想要的）。 有类似的东西吗？不必免费——我很乐意付费来保留我的数据。 感谢您的时间和意见——一个沮丧的用户又一次失去了几个小时的工作。    提交人    /u/anonFan21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gaukpf/plain_text_editor_that_never_loses_your/</guid>
       <pubDate>Thu, 24 Oct 2024 04:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Conf42 JavaScript 2024 [10 月 31 日]</title>
-      <link>https://www.reddit.com/r/software/comments/1gauaw6/conf42_javascript_2024_oct_31st/</link>
-      <description><![CDATA[本次线上会议将于 10 月 31 日举行。会议将涵盖以下主题：JS 人工智能、利用 ChatGPT 和 Copilot、用于 API 治理的 Gen AI、容器化环境的零信任安全、NLP 情绪分析、Rspack、零信任架构、Kubernetes 安全等。 https://www.conf42.com/js2024    提交人    /u/Enrique-M   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gauaw6/conf42_javascript_2024_oct_31st/</guid>
-      <pubDate>Thu, 24 Oct 2024 04:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有导出选项的 AI 照片对象识别软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1gatab4/ai_photo_object_recognition_software_with_export/</link>
-      <description><![CDATA[大家好！ 一家本地艺术画廊拥有一个包含 11,000 张图片的数据库，它希望用关键词标记这些图片，以便上传到其网站。目前，一些工作人员正在手动执行此过程，但除了艺术家、年份、媒介等信息外，他们还希望添加人们可以搜索的关键词，例如“雪”，以显示描绘雪的绘画/雕塑。 我想知道是否有人可以提出建议。我不是技术娴熟的人，但我可以做一些故障排除，并且我擅长遵循说明。我只是想以志愿者项目的形式帮助他们。 提前谢谢您，希望您今天过得愉快！我现在要睡觉了，但我将在大约 8-9 小时后回来查看 :) PS 我认为 Windows 或 Mac 都可以，因为照片可以在任何计算机上进行处理，然后进行传输。     由    /u/ShrekssToilet 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gatab4/ai_photo_object_recognition_software_with_export/</guid>
-      <pubDate>Thu, 24 Oct 2024 03:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧 Twitter 布局</title>
-      <link>https://www.reddit.com/r/software/comments/1gasmsk/old_twitter_layout/</link>
-      <description><![CDATA[我真的不知道该在哪个 subreddit 上发布这个，但我想先向这里的专家咨询一下。这么多年后，我不小心点击了 Twitter 应用程序上的更新，现在它是 X 徽标和布局。有没有办法在 iPhone 上将其恢复到旧版本？     由   提交  /u/Reborn-King   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gasmsk/old_twitter_layout/</guid>
-      <pubDate>Thu, 24 Oct 2024 02:48:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
