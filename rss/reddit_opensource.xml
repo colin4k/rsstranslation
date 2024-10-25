@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 25 Oct 2024 03:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 06:02:09 GMT</lastBuildDate>
+    <item>
+      <title>我修复了 Aria2！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbmc30/i_fixed_aria2/</link>
+      <description><![CDATA[有些人可能听说过 aria2，我想让它更加用户友好。所以我这样做了，不用带有目录和代码的终端，只需打开 exe，输入下载链接，浏览器下载速度就会快得多，如果您想了解有关 Aria2 的更多信息，可以单击此处 Aria2 NEW Aria2 这是我分叉的新产品，请转到发布版本下载 exe！（它使用相同的系统，只是在窗口中而不是终端中）    提交人    /u/tyty0310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbmc30/i_fixed_aria2/</guid>
+      <pubDate>Fri, 25 Oct 2024 04:44:24 GMT</pubDate>
+    </item>
     <item>
       <title>我正在为 HiLink LD2410 开发一个简洁易用的库。有人有兴趣合作吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gbdrrw/i_am_working_on_a_clean_and_easy_to_use_library/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/Deep-Piece3181  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gawrc5/several_linux_kernel_driver_maintainers_removed/</guid>
       <pubDate>Thu, 24 Oct 2024 07:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodeAbbey——主办编程练习和挑战的网站——开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gaw42g/codeabbey_website_for_hosting_programming/</link>
-      <description><![CDATA[对于想要为学生、受训人员、求职者等设置问题列表（编程、数学等）的人来说，它应该很有用。代码看起来有点吓人，但应该会逐渐改进。自述文件包含有关在免费托管上快速设置的视频说明。 https://github.com/codeabbey/src    提交人    /u/RodionGork   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gaw42g/codeabbey_website_for_hosting_programming/</guid>
-      <pubDate>Thu, 24 Oct 2024 06:21:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
