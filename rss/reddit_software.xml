@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 26 Oct 2024 15:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 18:02:17 GMT</lastBuildDate>
+    <item>
+      <title>寻找特定的重命名功能</title>
+      <link>https://www.reddit.com/r/software/comments/1gcooga/looking_for_specific_rename_feature/</link>
+      <description><![CDATA[是否有一个程序可以在重命名时重新启动每个文件夹的递增？这样所有文件夹中的所有文件都从 1 开始，而不是在文件夹中连续递增？还是我必须自己编写批处理脚本？因为我不想在几千个文件夹中手动执行此操作，即使使用 PowerRename 每个文件夹只需 5 秒钟。    提交人    /u/TeKett_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gcooga/looking_for_specific_rename_feature/</guid>
+      <pubDate>Sat, 26 Oct 2024 16:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>找到了一个安全的 YouTube 视频下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1gcohpk/found_a_safe_youtube_video_downloader/</link>
+      <description><![CDATA[该网站是 CnvMP3。它是安全且免费的 Youtube 下载器。您可以下载 mp3 或 mp4 音频或视频格式。    由   提交  /u/omwaartcy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gcohpk/found_a_safe_youtube_video_downloader/</guid>
+      <pubDate>Sat, 26 Oct 2024 16:08:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款文本排序软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gcncrn/looking_for_a_text_sorting_software/</link>
+      <description><![CDATA[我正在寻找一种软件，可以让我插入或粘贴大量单词，并将单个单词、行或段落拖放到&quot;文件夹&quot;中，就像在 Windows 资源管理器中对文件所做的那样。  有没有可以做这样的事情的东西？提前感谢任何建议。     提交人    /u/Lord_of_Caffeine   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gcncrn/looking_for_a_text_sorting_software/</guid>
+      <pubDate>Sat, 26 Oct 2024 15:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>PGS (.SUP) 编辑器</title>
       <link>https://www.reddit.com/r/software/comments/1gck9dt/pgs_sup_editor/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[为什么很难找到将 Facebook 视频转录为文本的工具。对于 YouTube 视频，我几乎可以在任何地方找到免费的转录工具。如果有人可以向我指出一个在线工具、应用程序、chrome 扩展程序或无限制提取完整转录的方法，我将不胜感激     提交人    /u/adankey0_0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gbp4p1/free_facebook_transcription_tool/</guid>
       <pubDate>Fri, 25 Oct 2024 08:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子书管理器和阅读器？</title>
-      <link>https://www.reddit.com/r/software/comments/1gboouu/ebook_manager_reader/</link>
-      <description><![CDATA[不是 Calibre，它看起来很糟糕，我不想要一个看起来像后端的前端，它充斥着工具栏图标和我不想使用的东西。  寻找一款优秀的电子书管理器和阅读器。  主要用于 Windows 桌面，但也可以访问存储在 NAS 上的图书。  主要是 PDF，但应该可以与所有常见的文件格式一起使用。 谢谢。    提交人    /u/BCL64   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gboouu/ebook_manager_reader/</guid>
-      <pubDate>Fri, 25 Oct 2024 07:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找适用于 YouTube 的音频播放器。</title>
-      <link>https://www.reddit.com/r/software/comments/1gbnjty/looking_for_an_audio_player_for_youtube/</link>
-      <description><![CDATA[我想要一个可以播放 YouTube 音频的轻量级 Windows 应用。我主要收听 YouTube 上的播客和讲座，不想在后台打开 YouTube 标签。 该应用需要轻量级、免费且最好是开源的。谢谢。    提交人    /u/InternalVolcano   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gbnjty/looking_for_an_audio_player_for_youtube/</guid>
-      <pubDate>Fri, 25 Oct 2024 06:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>同时进行多个虚拟显示器的远程控制</title>
-      <link>https://www.reddit.com/r/software/comments/1gbnde6/remote_control_with_multiple_virtual_display_at/</link>
-      <description><![CDATA[我拥有：- 我想要控制的内置 FHD 显示屏的工作笔记本电脑- 我想要使用的桌面工作站。一个 2560x1440 显示屏和第二个 FHD 显示屏。 我想在本地远程控制我的笔记本电脑，就好像它插入我的台式机外围设备一样，因此使用两个显示器（因此我需要在笔记本电脑上虚拟模拟第二个显示器）、鼠标、键盘、耳机和麦克风。 到目前为止，我一直在使用 AnyDesk，但它仅限于一个屏幕，不允许我充分利用显示器的高分辨率。 我认为这是一个两步过程，首先设置我的笔记本电脑，就好像它插入相同的显示设置一样，然后控制它。显然不必在屏幕之间切换。当然，通过提供音频   由    /u/NaXter24R  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gbnde6/remote_control_with_multiple_virtual_display_at/</guid>
-      <pubDate>Fri, 25 Oct 2024 05:51:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
