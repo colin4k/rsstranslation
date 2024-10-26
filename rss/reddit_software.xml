@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 26 Oct 2024 06:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 09:01:45 GMT</lastBuildDate>
+    <item>
+      <title>在终端上安装 LAME 软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gcemom/installing_lame_software_on_terminal/</link>
+      <description><![CDATA[公平警告，我不知道自己在做什么。  我有一台装有 Big Sur v 11.4 的 MacBook Pro 我正在尝试将 .opus 文件转换为 mp3。 opus 文件是我导出的 WhatsApp 上发送的音频消息。  我打开了 VLC，我可以播放这些文件，但是当我转到转换为 mp3 时，导出将文件变成了文档。  转换自定义配置文件中没有 mp3 封装，所以做了一些挖掘，我想我需要获得 LAME？  我打开了终端。 这就是我最终到达这里为止的程度。  不确定哪些信息对您有帮助，但请 ELI5：如何将 opus 转换为 mp3 / 如何获得 LAME 提前致谢！    提交人    /u/thelunchbunch160   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gcemom/installing_lame_software_on_terminal/</guid>
+      <pubDate>Sat, 26 Oct 2024 06:09:21 GMT</pubDate>
+    </item>
     <item>
       <title>从 Reddit 导出已保存的帖子，但存在问题</title>
       <link>https://www.reddit.com/r/software/comments/1gcdta3/exporting_saved_posts_rom_reddit_but_there_is_a/</link>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 25 Oct 2024 12:39:28 GMT</pubDate>
     </item>
     <item>
-      <title>从 Microsoft Sway 提取照片</title>
+      <title>从 Microsoft Sway 中提取照片</title>
       <link>https://www.reddit.com/r/software/comments/1gbt4th/extract_photo_from_microsoft_sway/</link>
       <description><![CDATA[大家好，我请求你们的支持，因为我想提取并保存使用 MS Sway 创建的新闻稿中的照片。 我还没有找到任何网站或其他任何东西。我也愿意使用 python，但所有测试都失败了，因为 Sway 会在页面滚动时加载照片。 有人有机会解决这个问题吗？    提交人    /u/SionS4R   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gbt4th/extract_photo_from_microsoft_sway/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Fri, 25 Oct 2024 06:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>同时进行多个虚拟显示器的远程控制</title>
+      <title>远程控制多个虚拟显示器</title>
       <link>https://www.reddit.com/r/software/comments/1gbnde6/remote_control_with_multiple_virtual_display_at/</link>
       <description><![CDATA[我拥有：- 我想要控制的内置 FHD 显示屏的工作笔记本电脑- 我想要使用的桌面工作站。一个 2560x1440 显示屏和第二个 FHD 显示屏。 我想在本地远程控制我的笔记本电脑，就好像它插入我的台式机外围设备一样，因此使用两个显示器（因此我需要在笔记本电脑上虚拟模拟第二个显示器）、鼠标、键盘、耳机和麦克风。 到目前为止，我一直在使用 AnyDesk，但它仅限于一个屏幕，不允许我充分利用显示器的高分辨率。 我认为这是一个两步过程，首先设置我的笔记本电脑，就好像它插入相同的显示设置一样，然后控制它。显然不必在屏幕之间切换。当然，通过提供音频   由    /u/NaXter24R  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gbnde6/remote_control_with_multiple_virtual_display_at/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我正在寻找一款不包含视频或通话功能的软件，但严格来说，它能够让我共享我的电脑屏幕，并可能让其他人与我共享他们的屏幕。我用的是 Mac。 我知道 zoom 和 Gmeet 可以做到这一点，但我需要一些不包含视频或通话功能的软件。快速谷歌搜索后，我找到了 cobrowse dot io 和 surfly，但不确定这是否有点过头了，因为它们都是付费的。任何帮助都非常感谢。    提交人    /u/rgoose18   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gbhrgh/need_screensharing_software/</guid>
       <pubDate>Fri, 25 Oct 2024 00:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>放慢速度并降低回响</title>
-      <link>https://www.reddit.com/r/software/comments/1gbgmjx/slow_and_reverb_it_down/</link>
-      <description><![CDATA[哪些工具或软件可以创建像您在 YouTube 上看到的那样的慢速和混响视频？    提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gbgmjx/slow_and_reverb_it_down/</guid>
-      <pubDate>Thu, 24 Oct 2024 23:34:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
