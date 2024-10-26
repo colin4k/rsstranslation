@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 26 Oct 2024 12:02:54 GMT</lastBuildDate>
-    <item>
-      <title>我制作了一个开源应用程序来有效地使用图像生成 AI 模型</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcgyo1/i_made_an_open_source_app_to_use_image_generation/</link>
-      <description><![CDATA[      大家好， 让我向您介绍 Creative Prompt Al，这是一款用于无缝 AI 图像生成的开源应用程序。它具有简单的设置、从 Hugging Face 加载模型、可自定义的提示和交互式查看器，是探索 A 驱动创造力的艺术家和设计师的理想选择。 我很乐意收到有关我的应用程序的反馈，也很想知道您的想法。 我在 Product Hunt 上推出了我的产品，因此如果您查看一下，我将不胜感激。 https://www.producthunt.com/posts/creative-prompt-ai    提交人    /u/irtiq7   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcgyo1/i_made_an_open_source_app_to_use_image_generation/</guid>
-      <pubDate>Sat, 26 Oct 2024 09:06:30 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Oct 2024 15:01:56 GMT</lastBuildDate>
     <item>
       <title>PeaZip 10.0.0 发布！</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcgw4q/peazip_1000_released/</link>
@@ -144,6 +137,13 @@
       <description><![CDATA[有些人可能听说过 aria2，我想让它更加用户友好。所以我这样做了，不用带有目录和代码的终端，只需打开 exe，输入下载链接，浏览器下载速度就会快得多，如果您想了解有关 Aria2 的更多信息，可以单击此处 Aria2 NEW Aria2 这是我分叉的新产品，请转到发布版本下载 exe！（它使用相同的系统，只是在窗口中而不是终端中）    提交人    /u/tyty0310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gbmc30/i_fixed_aria2/</guid>
       <pubDate>Fri, 25 Oct 2024 04:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为 HiLink LD2410 开发一个简洁易用的库。有人有兴趣合作吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbdrrw/i_am_working_on_a_clean_and_easy_to_use_library/</link>
+      <description><![CDATA[目标  可选的基于中断的输出引脚跟踪 可选的 UART 通信 可选的串行调试 具有语义上有意义的名称的易于理解的公共函数 强大的实现 杀手级功能：使用支持 HTTP 的 MCU 时用于传感器的 Web 面板  您需要什么  GitHub 帐户 MCU 最好是 ESP32 或类似产品  如果您有兴趣，请给我发私信。对于其他所有人，请访问以下链接： https://github.com/mgiesen/ld2410    由   提交  /u/harmonygears   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbdrrw/i_am_working_on_a_clean_and_easy_to_use_library/</guid>
+      <pubDate>Thu, 24 Oct 2024 21:22:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
