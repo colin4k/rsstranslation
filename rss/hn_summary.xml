@@ -4,86 +4,87 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 25 Oct 2024 23:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 02:46:24 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Kronos 项目于 20 世纪 80 年代中期在新西伯利亚的 Akademgorodok 启动，旨在 [...]</title>
-      <link>https://t.me/hn_summary/114074</link>
-      <description><![CDATA[Kronos：苏联高级语言处理器系列 (2006) [pdf](https://news.ycombinator.com/item?id=41920822)
-Kronos 项目于 20 世纪 80 年代中期在新西伯利亚的 Akademgorodok 启动，旨在开发第一个俄罗斯 32 位处理器系列，旨在支持 Modula-2、C 和 Pascal 等高级编程语言。Kronos 处理器是 MARS 项目的一部分，主要用于微型和小型计算机的软件开发。Kronos 架构的一个显著特点是它支持模块化、静态类型检查和动态参数化，这有助于高级软件开发。该项目还开发了 Excelsior 操作系统，专门为 Kronos 处理器量身定制。该架构受到 N. Wirth 的 Lilith 计算机的影响，但具有重大创新，例如 32 位架构和对实时系统的硬件支持。Kronos 处理器用于各种苏联国防项目，现在在几家博物馆展出。该项目独特的处理器设计方法及其对高级语言的关注在当时是开创性的。（基于 54% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/114074</guid>
-      <pubDate>Fri, 25 Oct 2024 23:48:34 GMT</pubDate>
+      <title>[媒体] 在本文中，我介绍了 ParadeDB，一种基于 Postgres 的 ElasticSearch 替代品，它 [...]</title>
+      <link>https://t.me/hn_summary/114088</link>
+      <description><![CDATA[将全文搜索引入 Elixir 的 Ecto
+在这篇文章中，我介绍了 ParadeDB，这是 ElasticSearch 的基于 Postgres 的替代品，它将全文搜索功能集成到 Elixir 的 Ecto 中。ParadeDB 由三个扩展组成：pgsearch、pganalytics 和 pgvector，每个扩展都通过搜索、分析和矢量数据功能增强了 Postgres。ParadeDB 0.11.0 的最新更新用更简化的中缀运算符取代了以前繁琐的搜索语法，使数据库访问层更容易处理。此更新显著简化了查询组合和执行，从而实现了更好的优化和性能提升。我还介绍了 Paradex，这是一个促进 Ecto 与 ParadeDB 集成的软件包，可实现无缝搜索查询组合并利用 Ecto 的查询缓存。这种方法消除了对 ElasticSearch 等外部服务的需求，提供了一个有凝聚力和高效的解决方案。我主张 Postgres 作为软件服务的多功能数据库选择，突出其在各种数据存储和处理需求中的能力。这篇文章既信息丰富又充满热情，带有一丝幽默感，正如作者在讨论 Postgres 扩展时俏皮的“MWAHAHAHAHA”所见。]]></description>
+      <guid>https://t.me/hn_summary/114088</guid>
+      <pubDate>Sat, 26 Oct 2024 02:46:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在巨型南瓜的世界里，天空才是极限——或者看起来是这样的。</title>
-      <link>https://t.me/hn_summary/114073</link>
-      <description><![CDATA[没人知道南瓜能长到多大
-在巨型南瓜的世界里，天空才是极限——至少看起来是这样。2023 年创纪录的 2,749 磅重的南瓜，恰如其分地命名为迈克尔·乔丹，体现了这个小众社区对尺寸的不懈追求。这些巨型南瓜是选择性育种和精心照料的产物，其血统可以追溯到 20 世纪 70 年代开发的 Dill’s Atlantic Giant 品种。像培育迈克尔·乔丹的 Travis Gienger 这样的种植者不断突破界限，瞄准难以捉摸的 3,000 磅大关。尽管天气充满挑战，南瓜护理也错综复杂，但这个社区依靠的是共享知识和友情，而不是秘密。刺激在于追求本身，而不是经济利益。令人惊讶的是，这种努力具有集体性质，与农业创新领域通常的神秘性形成鲜明对比。如果有争议的话，可能在于使用二氧化碳和赤霉酸等生长刺激剂，这引发了人们对此类追求的自然极限的质疑。]]></description>
-      <guid>https://t.me/hn_summary/114073</guid>
-      <pubDate>Fri, 25 Oct 2024 23:39:23 GMT</pubDate>
+      <title>在我的最新博客文章中，我深入探讨了旧 S 上令人着迷的算法交易世界 [...]</title>
+      <link>https://t.me/hn_summary/114087</link>
+      <description><![CDATA[《Runescape Grand Exchange》上的算法交易历险记
+在我最新的博客文章中，我深入探讨了老式 Runescape Grand Exchange 上令人着迷的算法交易世界，这是一个玩家交易物品的虚拟市场。尽管不再积极玩游戏，但我发现 Grand Exchange 是编程项目的完美游乐场。我开发了一个使用机器学习技术执行交易的机器人，旨在优化盈利能力。该机器人由三个组件组成：用于实时价格数据的 JavaScript API、用于角色操作的 Java 客户端和用于报价排名的 Python API。我的实验将基线方法与随机森林和神经网络模型进行了比较，结果显示机器学习的表现明显优于基线，随机森林实现了每小时最高的利润。令人惊讶的是，尽管存在典型的限制，但随机森林仍然表现出色，这可能是由于训练数据的方差较小。如果您对训练数据或代码感兴趣，请随时联系或访问我的 GitHub。]]></description>
+      <guid>https://t.me/hn_summary/114087</guid>
+      <pubDate>Sat, 26 Oct 2024 02:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的“Fcurl”项目引入了一组模仿标准 C 的函数 [...]</title>
-      <link>https://t.me/hn_summary/114072</link>
-      <description><![CDATA[Fcurl – 使用 libcurl 进行 URL 操作的 fopen、fread、fwrite 样式函数
-GitHub 上的“Fcurl”项目引入了一组模仿标准 C 文件操作（如 fopen、fread 和 fwrite）的函数，但设计用于处理 URL 而不是本地文件路径。这允许开发人员调整现有的基于文件的应用程序，以使用通用协议通过互联网执行读写操作，从而利用 libcurl 的功能。该项目旨在简化从本地文件处理到基于网络的文件操作的过渡，而无需对现有代码库进行重大更改。这种差异化使其对于需要无缝集成基于互联网的文件访问的应用程序特别有用。]]></description>
-      <guid>https://t.me/hn_summary/114072</guid>
-      <pubDate>Fri, 25 Oct 2024 23:38:18 GMT</pubDate>
+      <title>[媒体] 吉米·唐纳森（Jimmy Donaldson），绰号“野兽先生”（MrBeast），18 岁时从社区大学辍学，以破解 [...]</title>
+      <link>https://t.me/hn_summary/114086</link>
+      <description><![CDATA[MrBeast 的虚假慈善
+Jimmy Donaldson，又名 MrBeast，18 岁时从社区大学辍学，开始研究社交媒体上的病毒式视频现象。他和四个朋友一起，每天花 20 个小时来掌握 YouTube 的复杂细节，从算法到观众参与度。他们的努力得到了回报，MrBeast 成为该平台最大的明星，拥有 3.18 亿订阅者，甚至超过了泰勒·斯威夫特。他的崛起始于古怪的耐力挑战，后来演变成更盛大的表演，资金来自丰厚的赞助商。尽管取得了成功，唐纳森仍面临争议，包括过去的种族主义言论、被驳回的修饰指控以及在大型真人秀制作期间指控厌恶女性文化的诉讼。]]></description>
+      <guid>https://t.me/hn_summary/114086</guid>
+      <pubDate>Sat, 26 Oct 2024 02:32:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国最大规模水坝拆除，鲑鱼时隔 112 年后重返克拉马斯河</title>
-      <link>https://t.me/hn_summary/114071</link>
-      <description><![CDATA[随着美国最大规模的大坝拆除，鲑鱼在 112 年后重返克拉马斯河
-一个多世纪以来，奇努克鲑首次在俄勒冈州的克拉马斯盆地自由游动，标志着美国历史上最大的大坝拆除项目之后的重要生态里程碑。10 月 16 日，生物学家证实在前 J.C. 博伊尔大坝工地上方有鲑鱼，这是最近为恢复河流自然流动而拆除的四座大坝之一。这项巨大的努力得到了尤罗克和卡鲁克等当地部落数十年的倡导，凸显了鲑鱼与文化和生态的深厚联系。拆除大坝使河流恢复了活力，鲑鱼得以进入 400 多英里的栖息地，尽管完全恢复可能需要几代人的时间。鲑鱼的快速回归是一个充满希望的迹象，部落成员为恢复传统捕鱼习惯而欢呼。该项目凸显了社区主导的保护工作的力量和大自然的恢复力。]]></description>
-      <guid>https://t.me/hn_summary/114071</guid>
-      <pubDate>Fri, 25 Oct 2024 23:38:16 GMT</pubDate>
+      <title>[媒体]俄罗斯一直在散布有关美国近期军事行动的虚假信息。</title>
+      <link>https://t.me/hn_summary/114085</link>
+      <description><![CDATA[俄罗斯扩大飓风虚假信息，使美国人分裂
+根据战略对话研究所的研究，俄罗斯一直在扩大有关最近美国飓风和联邦政府应对措施的虚假信息，目的是在总统大选前操纵美国的政治话语。俄罗斯国家媒体和社交网络传播虚假信息，包括人工智能生成的图像，以利用人们对灾难恢复的担忧，并将美国领导人描绘成无能的人。这一策略与俄罗斯利用美国有争议的问题破坏对政府信任的历史相符。虚假信息针对联邦紧急事务管理局和拜登政府，同时支持赞扬普京的特朗普。争议在于俄罗斯涉嫌干预选举，以及 X（前身为 Twitter）等平台在传播这种宣传中的作用。值得注意的是，众议员保罗·戈萨尔附和了俄罗斯的说法，进一步助长了错误信息。]]></description>
+      <guid>https://t.me/hn_summary/114085</guid>
+      <pubDate>Sat, 26 Oct 2024 01:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Python 3.8 已于 2024 年 10 月 7 日正式进入其生命周期终止 (EOL) 阶段，[...]</title>
-      <link>https://t.me/hn_summary/114070</link>
-      <description><![CDATA[Python 3.8 已达到 EOL
-截至 2024 年 10 月 7 日，Python 3.8 已正式达到其生命周期结束 (EOL) 阶段，标志着其发布周期的结束。此版本由 Łukasz Langa 管理，将不再接收更新或接受新问题。Python 3.8 引入了几个值得注意的功能，包括位置唯一参数 (PEP 570)、赋值表达式 (PEP 572) 和更快的调用协议 (PEP 590)。它还通过提高 40% 的 LOAD_GLOBAL 和改进的 pickle 协议提高了性能。我们严格遵循发布时间表，定期提供更新和安全补丁，直到 2024 年 9 月的最终版本 3.8.20 发布。有关更改的完整列表，请参阅文档中的“新增功能”页面。]]></description>
-      <guid>https://t.me/hn_summary/114070</guid>
-      <pubDate>Fri, 25 Oct 2024 23:18:05 GMT</pubDate>
+      <title>[媒体] 美国版权局拒绝了 DMCA 的豁免，该豁免将允许 li [...]</title>
+      <link>https://t.me/hn_summary/114084</link>
+      <description><![CDATA[历史基金会对 DMCA 决定不授予研究人员豁免感到失望
+
+美国版权局拒绝了 DMCA 的一项豁免，该豁免将允许图书馆和档案馆为研究人员提供对非市场视频游戏的远程访问。这一决定遭到软件保存网络 (SPN) 的反对，被视为游戏保存工作的挫折。SPN 认为，对这些游戏的有限访问会阻碍研究，但 ESA 反对该修正案，理由是可能会造成经济损失。版权局站在 ESA 一边，称 SPN 未能证明不侵权。然而，该决定为未来的尝试留下了空间，建议对单个用户限制进行澄清。视频游戏历史基金会与 SPN 合作，继续致力于倡导视频游戏保存。值得注意的是，一项研究显示，87% 的美国经典电子游戏目前都无法使用，凸显了这一问题的紧迫性。]]></description>
+      <guid>https://t.me/hn_summary/114084</guid>
+      <pubDate>Sat, 26 Oct 2024 01:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 莉莉艾伦通过出售她女朋友的照片找到了一份令人惊讶且利润丰厚的副业 [...]</title>
-      <link>https://t.me/hn_summary/114069</link>
-      <description><![CDATA[莉莉·艾伦通过出售脚部照片赚的钱比 Spotify 流媒体赚的钱还多
-莉莉·艾伦通过在 OnlyFans 上出售她的脚部照片找到了一个令人惊讶且有利可图的副业，尽管每月有近 800 万听众，但她的收入却比 Spotify 流媒体的收入还多。这一消息是在一位粉丝批评她加入 OnlyFans 之后曝光的，艾伦巧妙地回应道：“不要恨玩家，要恨游戏。”争议在于她从小众市场和主要音乐平台获得的收入意外地进行了比较，凸显了艺术家在流媒体时代面临的挑战。艾伦的丈夫大卫·哈伯 (David Harbour) 支持她的冒险，为故事增添了独特的转折。Spotify 拒绝对此事发表评论。]]></description>
-      <guid>https://t.me/hn_summary/114069</guid>
-      <pubDate>Fri, 25 Oct 2024 23:16:00 GMT</pubDate>
+      <title>FastWaitlist.com 推出了一种创建候补名单页面的简化解决方案，解决了 [...]</title>
+      <link>https://t.me/hn_summary/114083</link>
+      <description><![CDATA[显示 HN：创建候补名单页面
+FastWaitlist.com 推出了一种创建候补名单页面的简化解决方案，解决了开发人员和企业家面临的常见挑战。通过消除花费过多时间进行编码的需要，此工具可让您专注于构建核心产品。它提供了多种设计选项，克服了由于仓促开发而经常遇到的限制。此外，FastWaitlist.com 提供强大的分析功能，可更快、更有效地验证创意。这种巧妙的方法不仅节省了时间，还提高了推出新产品的效率和效果。]]></description>
+      <guid>https://t.me/hn_summary/114083</guid>
+      <pubDate>Sat, 26 Oct 2024 01:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Python 3.13 中，有几项不为人知的改进值得关注。</title>
-      <link>https://t.me/hn_summary/114068</link>
-      <description><![CDATA[Python 3.13，哪些内容没有登上头条新闻
-在 Python 3.13 中，已经进行了多项值得关注的低调改进。pdb 调试器已经过完善，修复了异常处理中一个长期存在、特别令人沮丧的问题。shutil 模块因其错误而臭名昭著，现已进行了许多修复，使其在文件操作方面更加可靠。Pathlib 已获得性能优化，解决了其已知的瓶颈。新的注释语法现在支持理解和 lambda，从而扩展了其灵活性。然而，Python 3.13 仍然缺乏显着的性能提升，这令人失望。一些更改（例如删除 pathlib.Path 作为上下文管理器以及弃用 re 函数）可能会破坏现有代码。尽管面临这些挑战，但专注于改进现有功能而不是追求新功能凸显了开发人员对改进 Python 核心功能的决心。]]></description>
-      <guid>https://t.me/hn_summary/114068</guid>
-      <pubDate>Fri, 25 Oct 2024 23:15:58 GMT</pubDate>
+      <title>[媒体] 在本文中，Ian Bassin 和 Maximillian Potter 探讨了“预期者”的概念 [...]</title>
+      <link>https://t.me/hn_summary/114082</link>
+      <description><![CDATA[预期服从与媒体
+在本文中，Ian Bassin 和 Maximillian Potter 探讨了媒体中的“预期服从”概念，将维克多·欧尔班在匈牙利的策略与唐纳德·特朗普在美国的做法进行了比较。他们认为，尽管最初人们认为媒体具有韧性，但特朗普对媒体的逐步攻势让人想起了欧尔班的策略，并产生了持久的影响。作者强调了特朗普对 CNN 和《华盛顿邮报》等媒体的威胁，以及这些组织随后的领导层变动，表明报道方式正在转向更加包容。他们还指出，特朗普的影响力已经延伸到社交媒体平台，Meta 对他的威胁做出了回应。文章强调警惕威权主义倾向的重要性，并引用了蒂莫西·斯奈德关于个人和机构如何先发制人地与镇压力量结盟的见解。争议在于，媒体机构已经改变了他们的行为以应对特朗普的策略，这引发了人们对媒体独立性和诚信的质疑。令人惊讶的是，这些变化与大卫·弗鲁姆在 2017 年做出的预测有多大程度的一致，凸显了他观察的先见之明。]]></description>
+      <guid>https://t.me/hn_summary/114082</guid>
+      <pubDate>Sat, 26 Oct 2024 01:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，我介绍了一种处理 Dhall 中绑定变量的巧妙技巧，它 [...]</title>
-      <link>https://t.me/hn_summary/114067</link>
-      <description><![CDATA[命名空间 De Bruijn 索引
-在这篇文章中，我介绍了一种处理 Dhall 中绑定变量的巧妙技巧，这可能对其他解释型语言有用。该技巧涉及使用“命名空间 De Bruijn 索引”，结合命名和无名表示的优点。这种方法通过避免名称捕获问题并保留原始变量名，简化了实现并增强了用户体验。该方法涉及将 De Bruijn 索引与变量名配对，允许轻松引用隐藏变量，而不会使代码与索引杂乱无章。此外，语法糖允许用户在必要时省略索引，从而保持代码的可读性。该技术还通过将命名空间索引减少为普通索引来促进 α-等价性检查。托德·威尔逊 (Todd Wilson) 指出，马克·奥利弗·斯特尔 (Mark-Oliver Stehr) 的 CINNI 最初提出了这个想法，强调了现有技术。（基于 55% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/114067</guid>
-      <pubDate>Fri, 25 Oct 2024 23:12:52 GMT</pubDate>
+      <title>[媒体] Redact-a-Chat 是一个创新平台，旨在通过允许[...]来优先考虑用户隐私。</title>
+      <link>https://t.me/hn_summary/114081</link>
+      <description><![CDATA[Redact-a-Chat
+Redact-a-Chat 是一个创新平台，旨在通过允许个人在保持对数据的控制的同时进行交流，从而优先考虑用户隐私。该网站巧妙地采用了一项独特功能，使用户可以编辑或删除部分消息，从而确保敏感信息保持机密。这种方法解决了人们对数字通信中数据隐私和安全日益增长的担忧。然而，该平台依赖用户自行决定编辑可能会引发争议，因为它将隐私保护的责任放在个人而不是服务提供商身上。尽管如此，Redact-a-Chat 因其致力于让用户更好地控制他们的在线互动而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/114081</guid>
+      <pubDate>Sat, 26 Oct 2024 00:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《高效微谐振器频率梳》一文探讨了光学领域的进步 [...]</title>
-      <link>https://t.me/hn_summary/114066</link>
-      <description><![CDATA[高效微谐振器频率梳
-文章“高效微谐振器频率梳”探讨了光学频率梳技术的进步，特别关注基于微谐振器的系统。这些系统对于连接电磁频谱至关重要，可提供精确的光频测量。该工作引用了大量研究，重点介绍了微谐振器内的克尔非线性和孤子动力学等创新。一个独特的方面是将这些技术集成到光子芯片上，这增强了它们在电信和光谱学中的适用性。令人惊讶的是，使用铌酸锂等材料来产生高效梳状物。本文强调了这些技术在各个科学和工业领域的变革潜力。 （根据 22% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/114066</guid>
-      <pubDate>Fri, 25 Oct 2024 23:12:49 GMT</pubDate>
+      <title>[媒体] Casey Handmer 的博客文章提出了一项雄心勃勃的计划，旨在改造美国的 [...]</title>
+      <link>https://t.me/hn_summary/114080</link>
+      <description><![CDATA[我们可以改造美国西部
+Casey Handmer 博客上的文章提出了一项雄心勃勃的计划，通过大规模太阳能海水淡化解决水资源短缺问题，改造美国西部，特别是内华达州。作者认为，如果水资源更加丰富，美国西部拥有广阔且未充分利用的土地，可以养活数百万人。作者将加利福尼亚和佛罗里达过去的改造与此相提并论，建议利用太阳能生产廉价的淡化水，然后将其输送到内陆。这将涉及创新的基础设施项目，例如运河和泵送系统，以将水输送到内华达州的干旱地区。该提案在规模和对先进太阳能技术的依赖方面是独一无二的，展示了丰富的水资源促进新城市和农业发展的愿景。争议在于此类大规模干预的可行性和环境影响，以及所涉及的监管挑战。（基于 84% 的故事文本摘要。）]]></description>
+      <guid>https://t.me/hn_summary/114080</guid>
+      <pubDate>Sat, 26 Oct 2024 00:44:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 近年来，一些美国学校已经开始减少或推迟获得高等教育的机会[...]</title>
-      <link>https://t.me/hn_summary/114065</link>
-      <description><![CDATA[加州不鼓励学校开设高级中学数学课程
-近年来，一些美国学校开始减少或推迟开设高级课程，旨在缩小不同人口群体之间的成就差距。这种“脱轨”方法通常涉及取消或推迟开设高级课程，旨在防止边缘学生被安排在较不先进的轨道上。然而，批评者认为，它剥夺了天才学生的机会，尤其是来自弱势背景的学生。在加州，数学框架 (CMF) 鼓励将代数 I 推迟到九年级，并提供“数据科学”等替代方案来代替代数 II。斯坦福大学数学教授 Brian Conrad 批评了这些政策，认为它们阻碍了学生进入定量领域的职业，并对贫困的天才学生产生了不成比例的影响。一份关于旧金山取消分班政策的工作论文表明，该政策降低了黑人和西班牙裔学生在高等数学中的比例。康拉德警告说，尽管这些政策被设计成公平的政策，但最终可能会限制弱势学生的机会。争议在于这些政策是否真正促进了公平，还是无意中扩大了教育差距。]]></description>
-      <guid>https://t.me/hn_summary/114065</guid>
-      <pubDate>Fri, 25 Oct 2024 23:11:45 GMT</pubDate>
+      <title>[媒体] 在最近的法律进展中，特拉华州陪审团做出了有利于苹果的裁决，裁定 [...]</title>
+      <link>https://t.me/hn_summary/114079</link>
+      <description><![CDATA[陪审团裁定 Masimo 智能手表侵犯 Apple 设计专利
+在最近的法律发展中，特拉华州陪审团裁定苹果胜诉，认定 Masimo 的 W1 和 Freedom 智能手表和充电器故意侵犯了 Apple 的设计专利。这一决定是 Apple 和 Masimo 之间更广泛的法律冲突的一部分，主要围绕 Apple Watch 的血氧传感器。Apple 指责 Masimo 利用诉讼来支持其智能手表的发布，并于 2022 年提起了两起专利侵权诉讼。虽然 Apple 在设计侵权方面取得了胜利，但陪审团发现 Apple 的技术专利并未受到侵犯。Apple 对判决表示满意，强调保护其创新。与此同时，Masimo 强调其成功避免了禁令，并将这一结果定性为部分胜利。有关血氧传感器的持续争议仍未解决，苹果计划对 ITC 的裁决提出上诉。争议在于对陪审团裁决的不同解读，两家公司都声称自己取得了部分胜利。]]></description>
+      <guid>https://t.me/hn_summary/114079</guid>
+      <pubDate>Sat, 26 Oct 2024 00:36:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
