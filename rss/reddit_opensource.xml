@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 26 Oct 2024 03:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 06:02:09 GMT</lastBuildDate>
+    <item>
+      <title>Instagram RSS 之类的提要（需要思考）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gce6pp/instagram_rss_ish_kinda_feed_need_thoughts/</link>
+      <description><![CDATA[是否有可能制作一个应用程序，有点像 RSS feed，但适用于 instagram。您可以在其中复制粘贴您想要关注的页面链接（仅限公共帐户）来查看它，而不必打开 instagram。没有喜欢，没有评论，只有您关注的页面的帖子和标题，而无需在新应用上创建帐户。可能吗？如果制作上述应用程序，人们会面临哪些障碍和限制？ （整个概念是为了避免厄运滚动）    提交人    /u/RoninMusashi_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gce6pp/instagram_rss_ish_kinda_feed_need_thoughts/</guid>
+      <pubDate>Sat, 26 Oct 2024 05:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>合作翻译：为开源项目自动进行 Markdown 和图像翻译</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcdnwf/coop_translator_automate_markdown_and_image/</link>
+      <description><![CDATA[大家好， 我一直在研究一个名为Co-op Translator的开源项目，该项目旨在使用Azure AI Services自动将项目文档（Markdown 文件和图像）翻译成多种语言。 它解决了什么问题？ 许多开发人员都在努力将文档手动翻译成不同的语言，同时保持正确的 Markdown 格式。这通常涉及修复断开的链接、调整格式和确保正确的语法 - 这是一个极其繁琐且容易出错的过程。Co-op Translator 允许您使用单个命令为所需语言的项目文档创建翻译文件夹，从而简化了此过程。无需再手动调整或担心 Markdown 语法错误；该工具在自动化翻译过程的同时保留了原始结构。 以下是我认为它可以对开源社区有所帮助的原因：  自动翻译 Markdown 文件和图像，保持结构完整，这意味着不再需要费力修复损坏的链接或 Markdown 格式。 支持多种语言并允许您快速为项目生成有组织的翻译文件夹。 非常适合本地化开源项目并使其更易于国际贡献者访问。  我期待社区就以下方面提供反馈：  我们如何改进翻译流程或简化工作流程。 您希望添加到该工具中的任何其他功能。 为扩展语言支持或优化工具做出贡献。  欢迎随时查看GitHub Co-op Translator。 期待听到您的想法和创意！    提交人    /u/Only-Reputation-3963   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcdnwf/coop_translator_automate_markdown_and_image/</guid>
+      <pubDate>Sat, 26 Oct 2024 05:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>对开源项目 supabase 的思考</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcdgkv/thoughts_on_supabase_for_an_open_source_project/</link>
+      <description><![CDATA[查看 supabase 提供的所有功能，我认为这是一个减少开发工作量并将功能作为服务的好方法。然而，在仔细查看了实现之后，我觉得它非常具有侵入性并且依赖性太强。 现在我正在使用 postgres 功能，并考虑过使用 api + auth + storage... 但我仍然有些犹豫... 您对将 supabase 用于开源项目有何看法？    提交人    /u/keazzou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcdgkv/thoughts_on_supabase_for_an_open_source_project/</guid>
+      <pubDate>Sat, 26 Oct 2024 04:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求对我的 501c3 开源工程协会的捐赠</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcd9gm/seeking_donations_to_my_501c3_open_source/</link>
+      <description><![CDATA[有什么想法我可以在哪里寻找 501c 的潜在捐助者？我曾希望吸引大公司的技术工人并利用他们雇主的捐赠匹配机会。 我最近有点想不出主意了。    提交人    /u/The_Game_Genie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcd9gm/seeking_donations_to_my_501c3_open_source/</guid>
+      <pubDate>Sat, 26 Oct 2024 04:36:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>cqwrteur 的 Linux 内核分支，将其重命名为 Cinux</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcckx7/cqwrteurs_fork_of_linux_kernel_rename_it_to_cinux/</link>
+      <description><![CDATA[        由    /u/AryabhataHexa  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcckx7/cqwrteurs_fork_of_linux_kernel_rename_it_to_cinux/</guid>
+      <pubDate>Sat, 26 Oct 2024 03:56:24 GMT</pubDate>
+    </item>
     <item>
       <title>用于从 HuggingFace 模型运行 LLM 的文本到图像生成的开源 GUI</title>
       <link>https://www.reddit.com/r/opensource/comments/1gc808f/an_open_source_gui_for_texttoimage_generation_to/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/GiacomoTesio  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gbdo9e/list_of_unaddressed_issues_of_osaid_rc2_open/</guid>
       <pubDate>Thu, 24 Oct 2024 21:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎反馈和贡献！KitchenAI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gbcfka/feedback_and_contributors_welcome_kitchenai/</link>
-      <description><![CDATA[大家好！ 几周前，我发布了以下两篇帖子，内容是关于我希望在 AI 领域看到的概念想法，并收到了很多积极的反馈 https://www.reddit.com/r/LLMDevs/comments/1fz5qvg/looking_for_people_to_collaborate_with/ https://www.reddit.com/r/Rag/comments/1fz6104/technical_founder_looking_to_collaborate_with/ 从那时起，我努力获得至少一个 alpha MVP，它可以突出显示并展示其中一些概念的实现。 到目前为止的结果是 https://github.com/epuerta9/kitchenai 这旨在通过帮助弥合不在这个领域的应用程序开发人员和 AI 开发人员之间的差距来帮助整个社区。这个相当新的领域需要开发支持 AI 的应用程序所需的新兴技能。 很乐意收到您的反馈，如果有任何人有兴趣帮助塑造这一点并做出贡献，请告诉我，我会给您发送 DM！    提交人    /u/wait-a-minut   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gbcfka/feedback_and_contributors_welcome_kitchenai/</guid>
-      <pubDate>Thu, 24 Oct 2024 20:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 godoc-static 生成静态 Go 文档站点</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gbbjf7/generate_static_go_documentation_sites_with/</link>
-      <description><![CDATA[        提交人    /u/tslocum   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gbbjf7/generate_static_go_documentation_sites_with/</guid>
-      <pubDate>Thu, 24 Oct 2024 19:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目中有测试人员的空间吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gbbbnk/any_space_for_testers_in_opensource_projects/</link>
-      <description><![CDATA[大家好  我是一名测试软件开发人员。我有测试 UI、API、性能和桌面相关软件的经验。我之前参与过一些开源项目，但那是因为情况合适。我想知道你们维护的项目是否需要测试人员。我在构建前端和后端方面经验很少，但我在开发运营和与测试相关的所有方面都有很多经验。  我希望从我的参与中获得一些学习并回馈社区，因为我更喜欢使用开源。如果有人需要帮助测试他们的项目，无论是手动还是自动化，和/或管理发布，请告诉我。如果有要求，我很乐意与你们合作。     提交人    /u/kaizokuuuu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gbbbnk/any_space_for_testers_in_opensource_projects/</guid>
-      <pubDate>Thu, 24 Oct 2024 19:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源个人电脑 AI 助手是一个好主意吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gb9k8f/is_an_opensource_personal_pc_ai_assistant_a_good/</link>
-      <description><![CDATA[我所设想的是一个可以访问各种文件的 AI 助手。它将紧密集成到您的系统中。它将可以访问文件管理器和应用程序中的所有文件。它还可以访问您的系统日志。所有这些都是为了让 AI 助手可以提供有关您已处理的内容的信息，甚至可以调试 PC 中的问题。AI 推理可以在本地完成，也可以由受信任的第三方完成。 显然，最大的问题是安全性和隐私性。但像这样的东西可能真的很有用。我见过的最接近的替代方案是集成在其 Office 套件中的 Microsofts Copilot。 我想知道这是否是一个很好的开源项目，或者只是为自己构建它。 编辑：有人添加了一个开源 github 项目的评论，它已经完成了我所想的大部分内容。我要马上测试一下。    提交人    /u/MaximusDM22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gb9k8f/is_an_opensource_personal_pc_ai_assistant_a_good/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅用一行代码即可对 GGUF 模型进行基准测试</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gb9h9p/benchmark_gguf_model_with_one_line_of_code/</link>
-      <description><![CDATA[大家好！ 👋我们构建了一个开源工具，只需一行代码即可对 GGUF 模型 进行基准测试。GitHub 链接 动机： GGUF 量化对于在设备上本地运行模型至关重要，但量化会极大地影响模型的性能。量化后测试模型至关重要（基准测试如何发挥作用）。但是我们注意到了几个挑战：  没有简单、快速的方法在本地或自托管服务器上对量化的 GGUF 模型进行基准测试。 现有基准测试中的 GGUF 量化评估结果不一致，得分低于模型开发人员的官方结果。  我们的解决方案：  我们构建了一个工具：  用一行代码对 GGUF 模型进行基准测试。 支持多处理和8 个评估任务。 在我们的测试中，它是可用的 GGUF 模型最快的基准测试。  示例：  类型在终端中执行下面的操作，对 Llama3.2-1B-Instruct Q4_K_M 量化基准测试，以在“ifeval”数据集上进行一般语言理解。在 4090 上，使用 4 个 worker 进行多处理，耗时 80 分钟。 nexa eval Llama3.2-1B-Instruct:q4_K_M --tasks ifeval --num_workers 4 我们从文本模型开始，并计划扩展到更多设备上的模型和模式。欢迎您的反馈！如果您发现这有用，请随时在 GitHub 上留下星星：https://github.com/NexaAI/nexa-sdk/tree/main/nexa/eval    提交人    /u/AlanzhuLy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gb9h9p/benchmark_gguf_model_with_one_line_of_code/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:20:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
