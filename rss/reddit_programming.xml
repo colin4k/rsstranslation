@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 27 Oct 2024 09:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 12:02:16 GMT</lastBuildDate>
+    <item>
+      <title>通过竞赛编程获得实用的软件开发技能</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd90uc/practical_software_development_skills_from/</link>
+      <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd90uc/practical_software_development_skills_from/</guid>
+      <pubDate>Sun, 27 Oct 2024 11:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>碎片整理简史</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd8pen/a_brief_history_of_defragging/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd8pen/a_brief_history_of_defragging/</guid>
+      <pubDate>Sun, 27 Oct 2024 11:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript——是福还是祸？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd8mek/javascript_a_blessing_or_a_curse/</link>
+      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd8mek/javascript_a_blessing_or_a_curse/</guid>
+      <pubDate>Sun, 27 Oct 2024 11:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>一切始于感知器：当今人工智能的基础</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd8fy5/it_all_started_with_a_perceptron_the_foundation/</link>
+      <description><![CDATA[  由    /u/VinceFR73  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd8fy5/it_all_started_with_a_perceptron_the_foundation/</guid>
+      <pubDate>Sun, 27 Oct 2024 11:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全地使用 /tmp/ 和 /var/tmp/</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd89ba/using_tmp_and_vartmp_safely/</link>
+      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd89ba/using_tmp_and_vartmp_safely/</guid>
+      <pubDate>Sun, 27 Oct 2024 10:47:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🧠 Mind，开源 AI 视频编辑器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd82fv/mind_open_source_ai_video_editor/</link>
+      <description><![CDATA[大家好！ 过去几个月，我一直在研究 TurboReel，这是一个人工智能视频引擎，可以自动创建基本视频，例如讲故事、趣味事实等。 我对结果感到很兴奋，但仍然感觉有些不对劲。因此，在 10 月 22 日晚上，我熬夜编写了一个 JSON 到视频解析器，现在几乎可以仅通过文本创建任何视频。 然后我将其连接到 LLM，然后： 心想就此诞生。让我们简单举个例子来了解一下它的功能： https://youtu.be/9XiW7pdeJNA?si=Cj8Qc4UHEABt14mG 我很高兴看到你们创造的一切以及这个项目的发展。 查看 repo：https://github.com/tacosyhorchata/turboreelgpt TurboReel 平台：https://turboreelgpt.tech 很高兴回答问题 :)   由    /u/Professional-Pie3323  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd82fv/mind_open_source_ai_video_editor/</guid>
+      <pubDate>Sun, 27 Oct 2024 10:33:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML5</title>
+      <link>https://www.reddit.com/r/programming/comments/1gd7eeh/html5/</link>
+      <description><![CDATA[  由    /u/my_parents_ar_ntsane  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gd7eeh/html5/</guid>
+      <pubDate>Sun, 27 Oct 2024 09:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Cloudflare R2 生成预签名 URL | Cloudflare R2 终极指南 | 第 2 部分</title>
       <link>https://www.reddit.com/r/programming/comments/1gd3utq/generating_presigned_urls_with_cloudflare_r2/</link>
@@ -76,13 +125,6 @@
       <pubDate>Sat, 26 Oct 2024 16:40:43 GMT</pubDate>
     </item>
     <item>
-      <title>在 ASP.NET Core 中实现 JWT 身份验证</title>
-      <link>https://www.reddit.com/r/programming/comments/1gcohap/implementing_jwt_authentication_in_aspnet_core/</link>
-      <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gcohap/implementing_jwt_authentication_in_aspnet_core/</guid>
-      <pubDate>Sat, 26 Oct 2024 16:08:09 GMT</pubDate>
-    </item>
-    <item>
       <title>摆脱技术债务陷阱</title>
       <link>https://www.reddit.com/r/programming/comments/1gcnz1q/escaping_the_technical_debt_trap/</link>
       <description><![CDATA[  由    /u/Distinct-Curve-660  提交  [链接] [评论]]]></description>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gcjlgi/transpile_typescript_to_javascript_using_deno/</guid>
       <pubDate>Sat, 26 Oct 2024 12:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>比“Ctrl+F”更智能：直接链接到网页内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1gcjilc/smarter_than_ctrlf_linking_directly_to_web_page/</link>
-      <description><![CDATA[  由    /u/centx  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gcjilc/smarter_than_ctrlf_linking_directly_to_web_page/</guid>
-      <pubDate>Sat, 26 Oct 2024 12:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>NimConf 2024 - 在线 Nim 会议</title>
-      <link>https://www.reddit.com/r/programming/comments/1gciaoh/nimconf_2024_online_nim_conference/</link>
-      <description><![CDATA[  由    /u/miran1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gciaoh/nimconf_2024_online_nim_conference/</guid>
-      <pubDate>Sat, 26 Oct 2024 10:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个小工具来查找性能下降</title>
-      <link>https://www.reddit.com/r/programming/comments/1gce3mg/i_built_a_tiny_tool_to_find_performance/</link>
-      <description><![CDATA[  由    /u/theapache64  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gce3mg/i_built_a_tiny_tool_to_find_performance/</guid>
-      <pubDate>Sat, 26 Oct 2024 05:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>状态和时间是同一回事</title>
-      <link>https://www.reddit.com/r/programming/comments/1gcdpo9/state_and_time_are_the_same_thing/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gcdpo9/state_and_time_are_the_same_thing/</guid>
-      <pubDate>Sat, 26 Oct 2024 05:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>mur - 尝试专注且感觉良好的音乐混音脚本 [素数前提]</title>
-      <link>https://www.reddit.com/r/programming/comments/1gc9vu8/mur_attempt_at_forfocus_feel_good_music_remix/</link>
-      <description><![CDATA[  由    /u/tweenif50  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gc9vu8/mur_attempt_at_forfocus_feel_good_music_remix/</guid>
-      <pubDate>Sat, 26 Oct 2024 01:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化算法：线搜索和信赖域方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1gc5v3c/algorithms_for_optimization_line_search_and_trust/</link>
-      <description><![CDATA[  由    /u/photon_lines  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gc5v3c/algorithms_for_optimization_line_search_and_trust/</guid>
-      <pubDate>Fri, 25 Oct 2024 21:56:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
