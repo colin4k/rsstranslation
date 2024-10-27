@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 26 Oct 2024 21:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 00:04:03 GMT</lastBuildDate>
+    <item>
+      <title>Open Spots - 自托管建筑可用性追踪器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcxohl/open_spots_self_hosted_building_availability/</link>
+      <description><![CDATA[        提交人    /u/bluesanoo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcxohl/open_spots_self_hosted_building_availability/</guid>
+      <pubDate>Sat, 26 Oct 2024 23:19:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>问：如何建立社区？让人们兴奋并保持这种状态？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcvkkt/q_how_to_build_a_community_getting_people_excited/</link>
+      <description><![CDATA[作为一个小型的新仓库所有者，也是在 10 月之前发布的，我度过了一个非常有趣的第一个月！只要我有工作和其他承诺的空闲时间，我就会参与这个项目。编码、审查、讨论、调整并积极推动项目…… 在接近 100 颗星的时候，我甚至不知道该说些什么……我没想到很多人会感兴趣——我们正在为互联网媒体构建一个轻量级的音频增强器，但我错了！令我惊讶的是，人们有使用我们正在构建的东西可以解决的用例。我与业内人士、其他 OSS 项目所有者进行了交谈，并得到了该领域令人鼓舞的反馈，这一直是我尽快为每个人推出并运行它的关键动力。 这就是促使我写这篇文章的原因。如何围绕新项目建立一个真实而活跃的社区？整个十月份，我遇到了大量优秀的贡献者，看到不同的观点并进行合作非常有帮助。有足够多的事情要处理，我想继续这样做，甚至尽可能增加我们的贡献者规模。你有什么建议吗？  当你决定是否为一个项目做贡献时，你会寻找什么？假设你觉得这个话题很有趣，你是否看到任何不好的做法，或者任何一般情况下会破坏我们交易的东西？  我计划推动文档更新，以更好地反映项目的当前状态，并提供具体的路线图。在推动这一举措之前，我很想得到你的反馈，以便提供更好的版本！  感谢您的反馈！     提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcvkkt/q_how_to_build_a_community_getting_people_excited/</guid>
+      <pubDate>Sat, 26 Oct 2024 21:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何对开源数据库进行匿名用户身份验证？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gcv0wc/how_can_i_anonymously_authenticate_users_for_an/</link>
+      <description><![CDATA[嗨，开源社区，我希望构建一个非常大的开放数据库，将信息带给大众，在这个空间里，这些信息受到私人参与者的保护和货币化。 这个数据库的理想工作方式是让人们匿名贡献以获得数据库的完全访问权限。 我想找到一种可靠的方法来验证用户身份，而不收集他们的数据。我只是不确定怎么做。 我的一个想法是确保人们只能向这个数据库贡献一次，那就是通过 SMS OTP。但我不清楚这是否可以在保持他们的个人信息完全匿名的情况下实现。 我对这些东西还很陌生，但真的很想解决我心中的这个公平问题。欢迎任何/所有反馈。    提交人    /u/salary_informant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gcv0wc/how_can_i_anonymously_authenticate_users_for_an/</guid>
+      <pubDate>Sat, 26 Oct 2024 21:11:10 GMT</pubDate>
+    </item>
     <item>
       <title>有没有真正能做事的开源个人助理？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcuerr/are_there_any_open_source_personal_assistant_that/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好， 我目前正在使用 Hyprland，并寻找一款具有最少功能的 FOSS 音乐流媒体应用程序。我喜欢轻量级的东西，无论是基于 GUI 还是基于 CLI，它都可以让我：  搜索歌曲 自动播放 按流派随机选择歌曲（可选） 从随机流派中随机选择歌曲（可选） 从 YouTube Music 链接播放（可选，但如果可以就更好了） 绝对无广告且免费，没有高级 API 或付费内容。  我正在寻找类似 Android 上的 Vimusic 应用的东西，它具有比我需要的更多的功能，但却能捕捉到我想要的氛围。 任何建议都很棒 - 提前感谢！    提交人    /u/Shivang-Srivastava   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gbyfcy/foss_music_streaming_app_for_linux_minimal/</guid>
       <pubDate>Fri, 25 Oct 2024 16:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>告诉我为什么这是个坏主意。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gbvdfn/tell_me_why_this_is_a_bad_idea/</link>
-      <description><![CDATA[        提交人    /u/NotAMotivRep   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gbvdfn/tell_me_why_this_is_a_bad_idea/</guid>
-      <pubDate>Fri, 25 Oct 2024 14:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>警惕源码中的毒药 | 依赖自己专有代码的开源项目示例</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gbv6g7/beware_of_poison_in_the_source_examples_of_open/</link>
-      <description><![CDATA[  由    /u/ssddanbrown  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gbv6g7/beware_of_poison_in_the_source_examples_of_open/</guid>
-      <pubDate>Fri, 25 Oct 2024 14:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>OSI 开源 AI 定义的目标受众是谁或什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gbtjdr/who_or_what_is_the_intended_audience_for_osis/</link>
-      <description><![CDATA[显然，业余爱好者和分享机器学习成果的个人不是。他们提供的产品中只有极少数符合条件。我也不指望这些社区中的许多人会关心一个项目是否符合条件。这似乎是针对专业组织的。对于可能希望符合条件的项目类型，也有强烈的假设。 我看不出哪些企业会不遗余力地将他们的产品标记为开源 (tm)，或者谁会关注这个标签。 也许我只是不明白这是什么意思。但我很担心，因为我看到一些评论暗示他们想用这个定义来影响欧盟法律，使其不那么支持开源。  OSI 最初的开源定义主要侧重于许可证。 开源许可证帮助人们共享他们的源代码。由于版权法功能失调，仅仅发布代码是不够的。为了使我们的代码可供他人使用 - 或者让其他人使用 - 我们必须对其进行许可；也就是说，我们需要一份具有法律约束力的合同。许可证需要在国际上有效并保护双方。很少有人能够创建合理的自定义许可证，也很少有人能够理解。如果没有标准许可证，共享就会少得多。 任何人都可以通过使用经过批准的许可证将其代码作为开源发布。除此之外，您实际上什么也不用做。您可能不会混淆您的代码。但您不必记录它、解释黑客或魔法数字、推导数学或其他任何东西。它可以是难以理解的、未记录的意大利面条式代码，但只要有正确的许可证，它仍然是开源的。 我认为这主要是为了增强业余爱好者和其他“小人物”的能力。开源现在是一项大生意，但这些企业可以负担得起律师费，不需要这些标准许可证。  OSAID 1.0 代表了一个巨大的变化。它专注于单个项目，而不是它们的许可证。 需要提供各个方面的文档。我认为这个领域的许多业余爱好者都不会费心。那些愚蠢到去尝试的人可能会发现自己陷入了关于他们的文档是否足够的讨论中。 确实必须有一个认证过程，尽管这显然没有计划。 它没有承诺任何帮助解决人工智能培训所面临的复杂法律问题，而这些问题是急需的。发布有关训练数据的详细信息的要求意味着必须承担严重的法律风险。  欧盟最近通过了《人工智能法案》，要求提供大量人工智能系统文档。对于开源系统（和小型企业），要求有所降低。可以理解的是，志愿者项目（或小型企业）根本没有必要的广泛合规部门。不过，我预计 99.9% 的业余项目将不合规。 我看到一些评论称这些降低的要求是一个需要弥补的漏洞。欧盟将通过判例法制定自己的“开源”定义。OSAID 很可能会影响这一点。引入额外的要求很可能会抵消欧盟对开源的让步，从而减少符合欧盟法律的开源 AI 项目的数量。    提交人    /u/Jamais_Vu206   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gbtjdr/who_or_what_is_the_intended_audience_for_osis/</guid>
-      <pubDate>Fri, 25 Oct 2024 12:53:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
