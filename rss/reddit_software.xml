@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 00:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 03:09:14 GMT</lastBuildDate>
+    <item>
+      <title>有没有一款应用程序可以让我将另一台设备插入我的电脑，并在 Windows 中使用该应用程序作为我插入的设备的虚拟显示器</title>
+      <link>https://www.reddit.com/r/software/comments/1gd0qbw/is_their_an_app_that_i_can_use_that_will_let_me/</link>
+      <description><![CDATA[我想玩任天堂 Switch 游戏，并且能够通过 Alt Tab 切换到其他游戏，并能够在 Discord 等平台上播放它们    提交人    /u/Lem0n_Bread   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gd0qbw/is_their_an_app_that_i_can_use_that_will_let_me/</guid>
+      <pubDate>Sun, 27 Oct 2024 02:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以替代 activepresenter 的软件，可以在我编辑视频时不会使视频尺寸膨胀？</title>
+      <link>https://www.reddit.com/r/software/comments/1gd0b1t/any_alternative_to_activepresenter_that_dont/</link>
+      <description><![CDATA[我打开了一个 11 秒的 MP4，一个 779kb 的文件，720h/1190w，我什么也没做，只是将其旋转 90 度使其垂直，这样它就是 1190h/720w 这使文件大小增加到 5448 kb - 大了七倍。 知道为什么会发生这种情况吗？我可以使用哪种视频编辑软件来避免这种情况？在不降低质量的情况下恢复压缩？ 为了解决这个问题，过去我会做一些事情，比如将音频质量、视频质量降低 50%，或者将分辨率降低 50%。但在编辑某些内容时，这不应该只是为了达到或低于原始文件大小而必须这样做，对吧？    提交人    /u/HOTSpower   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gd0b1t/any_alternative_to_activepresenter_that_dont/</guid>
+      <pubDate>Sun, 27 Oct 2024 01:41:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较列表 Windows PDF 手写笔记注释工具</title>
+      <link>https://www.reddit.com/r/software/comments/1gcysyj/comparison_list_windows_pdf_annotation_tools_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gcysyj/comparison_list_windows_pdf_annotation_tools_for/</guid>
+      <pubDate>Sun, 27 Oct 2024 00:17:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法重新设计我的 Windows 11？</title>
+      <link>https://www.reddit.com/r/software/comments/1gcyq8w/anyway_to_reskin_my_windows_11/</link>
+      <description><![CDATA[自从 2011 年互联网不再流行以来，我一直处于怀旧阶段，我真的很想将我的 Windows 11 重新设计成看起来像 7 或完全不同的东西。我唯一的问题是，除了 stardocks windowblinds 11 之外，我找不到任何可以做到这一点的软件，我听说它很安全，但那个东西要 30 美元，我真的不想花钱买它（因为我很小气）。有没有免费但安全的方法可以重新设计我的 Windows 11？     提交人    /u/renraks0809   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gcyq8w/anyway_to_reskin_my_windows_11/</guid>
+      <pubDate>Sun, 27 Oct 2024 00:13:56 GMT</pubDate>
+    </item>
     <item>
       <title>有神奇的文件管理器吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gcyava/is_there_magical_file_manager/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[公平警告，我不知道自己在做什么。  我有一台装有 Big Sur v 11.4 的 MacBook Pro 我正在尝试将 .opus 文件转换为 mp3。 opus 文件是我导出的 WhatsApp 上发送的音频消息。  我打开了 VLC，我可以播放这些文件，但是当我转到转换为 mp3 时，导出将文件变成了文档。  转换自定义配置文件中没有 mp3 封装，所以做了一些挖掘，我想我需要获得 LAME？  我打开了终端。 这就是我最终到达这里为止的程度。  不确定哪些信息对您有帮助，但请 ELI5：如何将 opus 转换为 mp3 / 如何获得 LAME 提前致谢！    提交人    /u/thelunchbunch160   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gcemom/installing_lame_software_on_terminal/</guid>
       <pubDate>Sat, 26 Oct 2024 06:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Reddit 导出已保存的帖子，但存在问题</title>
-      <link>https://www.reddit.com/r/software/comments/1gcdta3/exporting_saved_posts_rom_reddit_but_there_is_a/</link>
-      <description><![CDATA[我想下载我所有保存在 reddit 上的帖子。因此，我首先使用了 wfdownloader，它工作正常，直到我发现它分别下载音频和视频。 之后我使用了 jdownloader，它只会下载没有音频的视频，并且一些视频包含音频，但不是全部。 我不知道为什么会这样。请帮忙。    提交人    /u/Alarming-Payment-479   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gcdta3/exporting_saved_posts_rom_reddit_but_there_is_a/</guid>
-      <pubDate>Sat, 26 Oct 2024 05:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>ninite（免费）是否将我选择的 exe 安装程序文件存储在网站上？它位于哪里？</title>
-      <link>https://www.reddit.com/r/software/comments/1gcctzs/does_ninite_free_stores_the_exe_installer_files/</link>
-      <description><![CDATA[我从未使用过 ninite，...在我的 PC 上全新安装 Windows。它将安装程序 exe 文件存储在任何地方吗？...位置是什么？...我的 C 盘中没有太多空间来存储安装程序文件    提交人    /u/shayel98   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gcctzs/does_ninite_free_stores_the_exe_installer_files/</guid>
-      <pubDate>Sat, 26 Oct 2024 04:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音隔离</title>
-      <link>https://www.reddit.com/r/software/comments/1gcb1vc/voice_isolation/</link>
-      <description><![CDATA[我需要帮助从视频中隔离特定声音。例如，消除背景噪音.. 有人可以帮忙吗？ 任何帮助都值得赞赏。    由    /u/Character_Mastodon_2  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gcb1vc/voice_isolation/</guid>
-      <pubDate>Sat, 26 Oct 2024 02:24:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以在应用程序之间切换的宏程序</title>
-      <link>https://www.reddit.com/r/software/comments/1gca0g7/macro_program_that_can_change_between_applications/</link>
-      <description><![CDATA[我正在尝试使用名为 TinyTask 的宏程序自动执行一项任务，但是，我遇到了一个问题，如果我尝试在应用程序之间切换，则点击不会注册，这意味着应用程序不会打开/未“激活”。我尝试了不同的宏软件，但它们似乎都有相同的问题。 例如，我在屏幕的一侧打开了谷歌，在另一侧打开了计算器。如果我在启动宏时在谷歌窗口中，则宏将无法从屏幕或任务栏点击进入计算器窗口，即使我记录了自己点击了这些窗口。 如果有人知道任何解决方案，请帮忙    提交人    /u/Iiamz_3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gca0g7/macro_program_that_can_change_between_applications/</guid>
-      <pubDate>Sat, 26 Oct 2024 01:25:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
