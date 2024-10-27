@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 27 Oct 2024 06:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 09:01:57 GMT</lastBuildDate>
+    <item>
+      <title>人工智能语音克隆</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</link>
+      <description><![CDATA[所以这个人（YouTube 上的“缪斯”）说他们为此至少支付了 200 多美元，但这不是 11 个实验室，我不知道它是否开放，他们也不会告诉他们的订阅者他们在使用什么，所以我真的需要知道他们在使用什么以及它为什么这么好😭     提交人    /u/siredtom   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</guid>
+      <pubDate>Sun, 27 Oct 2024 08:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个“生物链接”设计，您可以在几分钟内克隆和启动它。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gd5ee8/created_a_link_in_bio_design_you_can_clone_and/</link>
+      <description><![CDATA[https://github.com/loopsandvariables/x-themed-profile  我想在网上放一个小档案，其中包含指向我的项目或写作的链接，所以我制作了这个并将其放在 GitHub 上。 如果您不想使用 SvelteKit，那里有一个简单的 HTML 版本。    提交人    /u/loopsvariables   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gd5ee8/created_a_link_in_bio_design_you_can_clone_and/</guid>
+      <pubDate>Sun, 27 Oct 2024 07:13:09 GMT</pubDate>
+    </item>
     <item>
       <title>我听说这篇文章中有一些不准确的信息，我希望得到一些民事批评，以便我可以纠正它</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcyxjt/ive_heard_nonspecific_mentions_of_inaccuracies_in/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/AryabhataHexa  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcckx7/cqwrteurs_fork_of_linux_kernel_rename_it_to_cinux/</guid>
       <pubDate>Sat, 26 Oct 2024 03:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源蓝牙路由？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gc4ofd/open_source_bluetooth_routing/</link>
-      <description><![CDATA[我有几个设备需要全天通话，但我的耳机无法与所有设备兼容。我有几个闲置的 Raspberry Pi，我认为它们可以作为基本设备的理想选择，该设备可以连接到我的所有输入，然后将它们传递到输出，并将我的响应路由回来，这样我就可以将大约五部手机和电脑连接到一个耳机，而通常只能连接一两部手机和电脑。类似于耳机公司使用的文档，但耳机是任何支持蓝牙的耳机。 是否有一个程序可以做到这一点？    提交人    /u/taurealis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gc4ofd/open_source_bluetooth_routing/</guid>
-      <pubDate>Fri, 25 Oct 2024 21:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghosty Tool：功能强大、用户友好的实用程序，用于优化、保护和维护您的 PC。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gc1laq/ghosty_tool_a_powerful_userfriendly_utility_for/</link>
-      <description><![CDATA[一切都是开源的。  https://github.com/Ghostshadowplays    由   提交  /u/Silly-Ad4167   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gc1laq/ghosty_tool_a_powerful_userfriendly_utility_for/</guid>
-      <pubDate>Fri, 25 Oct 2024 18:47:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
