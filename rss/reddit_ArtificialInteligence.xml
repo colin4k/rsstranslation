@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 18:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 21:01:20 GMT</lastBuildDate>
+    <item>
+      <title>如果人工智能被视为“外星智能”会怎样？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdl1k3/what_if_ai_was_viewed_as_a_alien_intelligence/</link>
+      <description><![CDATA[大家好， 最近，我在 ChatGPT、Claude AI、Singularity 和 Reddit 等平台上深入研究了很多关于 AI 的讨论。有一件事不断出现，那就是我们经常赋予 AI 类似人类的特征，比如情感或意图。虽然以这种方式与 AI 建立联系是有道理的，但我觉得它忽略了 AI 真正的大局。我不确定以前是否讨论过这个问题，但与其将 AI 视为人类智能的另一种形式，如果我们将它视为完全不同的东西，更像章鱼，会怎么样？ 章鱼非常聪明，但它们的智力以我们无法完全理解的方式运作。它们有一个分布式神经系统，以我们完全陌生的方式解决问题和探索世界。同样，AI 通过模式和数据处理信息的方式与我们的想法或感受并不完全匹配。我们不应该期待人工智能模仿人类的行为或情感，也许我们应该欣赏它的本质——一种具有自身优势的独特智能形式。这可以帮助我们更有效地使用人工智能，利用其在数据分析和模式识别等领域的能力，而不是试图让它像我们一样行事。 通过将人工智能视为根本不同的东西，我们可能会设定更现实的期望，并找到与这些系统协作的更好方法。这就像与一个真正聪明的工具合作，它只是思维方式不同，不一定更好或更坏，只是不同而已。我注意到很多人把人类的特征投射到人工智能上，这可能会导致对它能做什么和不能做什么的误解。    提交人    /u/ParticularSmell5285   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdl1k3/what_if_ai_was_viewed_as_a_alien_intelligence/</guid>
+      <pubDate>Sun, 27 Oct 2024 20:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制真实照片并改变人物</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdjlni/replicate_realistic_photos_and_change_the_person/</link>
+      <description><![CDATA[AI 图像生成方面的新手，但我有一个想法想探索。本质上，我想建立一个超现实的角色（我的妻子），然后让模型复制我在互联网上找到的图像。例如：一张穿着红色连衣裙的女人的照片，然后它在同一个场景中复制我妻子穿着那件连衣裙的照片。 有没有类似的东西在消费者层面上相对容易使用？    提交人    /u/itstheHbK   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdjlni/replicate_realistic_photos_and_change_the_person/</guid>
+      <pubDate>Sun, 27 Oct 2024 19:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过人工智能裁员（示例）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdivkz/white_collar_redundancies_via_ai_an_example/</link>
+      <description><![CDATA[觉得今天在 FB 上看到的一篇帖子很有趣 - 英国一家知名的健康和营养企业裁掉了 70 名营养师，并用人工智能取而代之。 有道理 - 这绝对是当今人工智能完全有能力做的事情，但它可以取代拥有两个学位的人，这可能会让一些感到惊讶。 帖子：https://imgur.com/a/xbdG85F 企业：https://zoe.com/    提交人    /u/FrostyAd9064   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdivkz/white_collar_redundancies_via_ai_an_example/</guid>
+      <pubDate>Sun, 27 Oct 2024 19:19:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 生成数字的精度。您对研究的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdijcp/precision_of_llm_generated_numbers_your/</link>
+      <description><![CDATA[我为我的大学做了一个小的研究项目，想听听你对我的工作的哪一部分对 LLM 用户来说最有趣和最有用的看法。除此之外，我还想在一家小型本地杂志上发表文章，并希望研究结果对一些研究也很有趣。这项研究是纯粹的实验性的，将 LLM 视为一个黑匣子，因为我用统计学研究编程，对 LLM 本身了解不多。 所以我想深入研究类似“使用模型误差的自我评估来评估 LLM 生成的数字精度”的东西。问题生成器是使用 API 编写和测试的。预计模型将返回 3 个数字：问题的答案、绝对误差的评估、介于 0 和 1 之间的精度的评估。目前已收到 3000 多个请求。 法学硕士 (LLM)：  Meta-Llama-3.1-70B-Instruct GPT-3.5-turbo GPT-4o-mini（由于其准确性，它是研究的主要模型）。  其他几个较小的模型显示的答案大多是随机的，因此被排除在外。 主要任务是将两个由正态分布生成的浮点数相加。它经历了几个额外的测试，比如求 10 或 20 个数字的平均值和计数数字。 就目前而言，我们可以谈论模型行为中的许多模式：  在简单的加法任务中，模型的误差可以很好地建模为数字每个数字的随机概率（正确答案 + 信息噪声）。因此，通过重复问题并取最稳定的答案可以大幅提高获得正确答案的概率。模型无法估计这种噪音，并错误地将其答案估计为非常准确。GPT-3.5-turbo 在估计正确答案的概率方面更好，但这只是因为模型很懒，决定将数字四舍五入为某些值。 正如预期的那样，您需要执行的数学运算越多，获得准确答案的概率就越低（很快就会变得非常低）。但平均而言，答案相当准确，错误似乎并没有累积。此外，没有自我评估准确度的问题的答案的准确度更高（思考得越少越好）。 模型的自我评估误差呈指数分布，异常值以大值的形式出现，而真实误差呈正态分布。平均自估计误差高于平均真实误差，但大多数自估计误差小于真实误差。在这里，中位数比平均值更好。这意味着模型不擅长估计它们的误差，但如果需要许多类似的动作，它们可能能够粗略地估计自己。  最后，如果我们收集了一定数量的模型响应，我们可以自己估计许多任务的误差。 谢谢你的建议。    提交人    /u/roman-hart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdijcp/precision_of_llm_generated_numbers_your/</guid>
+      <pubDate>Sun, 27 Oct 2024 19:05:12 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些工作具有抵御人工智能的坚实护城河？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdg4nf/are_there_any_jobs_with_a_substantial_moat/</link>
@@ -39,13 +67,6 @@
       <description><![CDATA[ChatGPT、Claude、Perplexity、Gemini、Copilot……每月 20 美元。对于大众来说，很难区分它们，因为它们都做着几乎相同的事情，只有细微的差异。然后其中一个发布了一项新功能来弥补差距，然后重复一遍。跟上潮流是令人兴奋的，但与此同时，大众并不是技术人员。因此，考虑到这一点，是只有我一个人觉得这看起来像一个巨大的泡沫吗？毫无疑问，它有有效的用例，但作为一种商业模式，它似乎是不可持续的。即使是 Open Ai，这家我猜在非技术人员中最为知名的公司，也预测要到 2029 年才能盈利？可能是错的。所以我想我现在的理论是，除非一个 LLM 完全出类拔萃并脱颖而出，否则这种情况似乎有成为一个大泡沫的风险。你觉得呢？     由   提交  /u/AppropriateRespect91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdcg8y/one_llm_to_rule_them_all_if_not_is_this_likely_a/</guid>
       <pubDate>Sun, 27 Oct 2024 14:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>疯狂的时刻！这部音乐视频中的所有内容都是 AI 生成的，我的意思是所有内容：歌词、音乐、声音、图像、视频。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gda1gv/crazy_times_everything_in_this_music_video_is_ai/</link>
-      <description><![CDATA[最近才知道可以用 AI 制作一整部音乐视频：https://youtu.be/mah8ArObTfo?si=vvr5W274RxKTIrgZ 首先使用 MidJourney 生成图像，然后将其输入 KLING 图像转视频 AI。最后，由 Suno AI 生成歌词、音乐和歌声。我想与社区分享，深入了解最近一段时间的 AI 进展。    提交人    /u/Bodypaintartventures   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gda1gv/crazy_times_everything_in_this_music_video_is_ai/</guid>
-      <pubDate>Sun, 27 Oct 2024 12:39:43 GMT</pubDate>
     </item>
     <item>
       <title>Meta AI 推出代币级检测奖励模型，以提高视觉语言模型的准确性</title>
@@ -97,32 +118,11 @@
       <pubDate>Sun, 27 Oct 2024 01:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>代理母乳</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcuyaw/agentic_asi/</link>
-      <description><![CDATA[我意识到超级智能如今已经以模块化形式出现。如果模块可以是 LangGraph 代理，情况会怎样？ 例如计算器：在进行计算的狭窄领域中具有超级智能。也可以很容易地将 LangGraph 实现为工具。它可以帮助主 LLM 进行计算。 如果这种方法可以扩展，情况会怎样？我们可以实现其他模块，从而一起创建超级智能（或至少是类似智能的东西）吗？ 我看到了对 Demis Hassabis 的采访，他谈到了将一些“工具”直接实现到 Gemini 中，并让其他工具被 Gemini 调用。这引起了我的共鸣，因为调用工具在今天已经非常解决了。关于直接实现到模型中的第一部分是不同的，因为只有少数公司可以做到这一点。 但是，是否可以坚持使用工具调用（或代理之间的通信）来创建超级智能？我们如何交织模块/代理的思维？  我们可以分享一些关于此的想法吗？     提交人    /u/FireDragonRider   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcuyaw/agentic_asi/</guid>
-      <pubDate>Sat, 26 Oct 2024 21:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人听说过适合法学硕士 (LLM) 的优秀“AI Doctor”包装器吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gctia5/has_anyone_heard_of_a_good_ai_doctor_wrapper_for/</link>
-      <description><![CDATA[我只是认为拥有一个好的 AI 包装器来充当全科医生是个好主意。具有以下功能：  收集病史/简历 根据信息推荐要进行的实验室测试。 跟踪患者并存储其所有病史 创建鉴别诊断并生成更多有助于诊断的问题/测试。 制定治疗计划 创建预后  所以一般的东西。有人做过吗？不久前，我使用 o1 终于为我的妻子制定了治疗计划，这对我帮助很大（真正的医生帮不上什么忙）。 所以我认为拥有一个私人“医生 GPT”是个好主意这样就可以掌握我和我妻子的所有医疗信息，从而做出明智的预测。 我搜索过 github，确实找不到类似 SOTA LLM 的包装器    提交人    /u/ahtoshkaa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gctia5/has_anyone_heard_of_a_good_ai_doctor_wrapper_for/</guid>
-      <pubDate>Sat, 26 Oct 2024 19:59:18 GMT</pubDate>
-    </item>
-    <item>
       <title>提示是否永远是使用人工智能的重要方面？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcrcb9/will_prompting_always_be_essential_aspect_of/</link>
       <description><![CDATA[正如评论所述，我想创建一个围绕提示的儿童教育计划，但我担心可能不值得从所有人工智能语音和发布 Claudes 计算机使用功能开始，因为提示可能不是那么必要。    提交人    /u/ohmycash   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcrcb9/will_prompting_always_be_essential_aspect_of/</guid>
       <pubDate>Sat, 26 Oct 2024 18:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 10 月 26 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcr0ap/oneminute_daily_ai_news_10262024/</link>
-      <description><![CDATA[ Claude AI在编码演示期间感到无聊，开始浏览国家公园的照片。[1] Google工具使AI生成的文字很容易被检测到。[2] AI生成的儿童性虐待图片正在传播。执法部门正在竞相阻止他们。[3] 新开业的国家量子计算中心（NQCC）将有助于在人工智能、能源、医疗保健等领域取得突破。[4]  来源包括：https://bushaicave.com/2024/10/26/10-26-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcr0ap/oneminute_daily_ai_news_10262024/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:03:25 GMT</pubDate>
     </item>
     <item>
       <title>人工智能可以取代程序员吗？</title>

@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 27 Oct 2024 18:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 21:01:49 GMT</lastBuildDate>
     <item>
-      <title>我的第一个开源 AI 产品在 Product Hunt 上线</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdd65d/my_first_openssource_ai_product_is_live_on/</link>
+      <title>Creative Prompt AI - 一款开源图像生成应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdjoe5/creative_prompt_ai_an_open_source_image/</link>
       <description><![CDATA[大家好， 我制作了一个 AI 图像生成应用程序 Creative Prompt AI，这是一款用于无缝图像生成的开源应用程序。它具有简单的设置、从 Hugging Face 加载模型、可自定义的提示和交互式查看器，是探索人工智能驱动的创造力的艺术家和设计师的理想选择。 我很高兴听到您对如何在未来改进此产品的反馈和建议。 周末愉快！ https://github.com/irtiq7/CreativePromptAI    提交人    /u/irtiq7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdd65d/my_first_openssource_ai_product_is_live_on/</guid>
-      <pubDate>Sun, 27 Oct 2024 15:13:16 GMT</pubDate>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdjoe5/creative_prompt_ai_an_open_source_image/</guid>
+      <pubDate>Sun, 27 Oct 2024 19:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个本地 macOS 图像背景去除器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</link>
+      <description><![CDATA[分享我的第二个开源 macOS 应用程序： https://github.com/nuance-dev/Figura 这次我制作了一个原生背景去除器，效果非常好。作为一名设计师，它让我不必打开 Photoshop 并手动执行此操作，因为我发现的其他替代方案都是付费的。 我会继续分享这样的免费应用程序一段时间。    提交人    /u/sirjoaco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</guid>
+      <pubDate>Sun, 27 Oct 2024 18:31:25 GMT</pubDate>
     </item>
     <item>
       <title>人工智能语音克隆</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[查看 supabase 提供的所有功能，我认为这是一个减少开发工作量并将功能作为服务的好方法。然而，在仔细查看了实现之后，我觉得它非常具有侵入性并且依赖性太强。 现在我正在使用 postgres 功能，并考虑过使用 api + auth + storage... 但我仍然有些犹豫... 您对将 supabase 用于开源项目有何看法？    提交人    /u/keazzou   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcdgkv/thoughts_on_supabase_for_an_open_source_project/</guid>
       <pubDate>Sat, 26 Oct 2024 04:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我的 501c3 开源工程协会的捐赠</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcd9gm/seeking_donations_to_my_501c3_open_source/</link>
-      <description><![CDATA[有什么想法我可以在哪里寻找 501c 的潜在捐助者？我曾希望吸引大公司的技术工人并利用他们雇主的捐赠匹配机会。 我最近有点想不出主意了。    提交人    /u/The_Game_Genie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcd9gm/seeking_donations_to_my_501c3_open_source/</guid>
-      <pubDate>Sat, 26 Oct 2024 04:36:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
