@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 27 Oct 2024 15:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 18:01:49 GMT</lastBuildDate>
+    <item>
+      <title>我构建了 class-glue：一个轻量级（<450B）实用程序，它使用 CSS 模块和 React Native 样式支持扩展了 clsx</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdgie7/i_built_classglue_a_lightweight_450b_utility_that/</link>
+      <description><![CDATA[  由    /u/shettyrahul8june  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdgie7/i_built_classglue_a_lightweight_450b_utility_that/</guid>
+      <pubDate>Sun, 27 Oct 2024 17:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>CellSplit - Agar.io 的开源克隆版，带有可编程机器人</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdfuh8/cellsplit_an_open_source_clone_of_agario_with/</link>
+      <description><![CDATA[  由    /u/jezek_2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdfuh8/cellsplit_an_open_source_clone_of_agario_with/</guid>
+      <pubDate>Sun, 27 Oct 2024 17:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周的 JavaScript 新闻：JavaScript 中的生成式 AI ft. Microsoft、Svelte 5、Next.js 15 等。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdfsnu/this_weeks_javascript_news_generative_ai_in/</link>
+      <description><![CDATA[  由    /u/ThisWeekinJavaScript  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdfsnu/this_weeks_javascript_news_generative_ai_in/</guid>
+      <pubDate>Sun, 27 Oct 2024 17:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>此应用程序允许您使用 Next.js 15 App Router、TypeScript 和 Nodemailer 分批向多个收件人发送个性化电子邮件。每个收件人都会收到定制的问候语，而电子邮件正文对所有收件人都保持不变。它是免费的，我已经将其开源</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdf9vf/this_application_allows_you_to_send_personalized/</link>
+      <description><![CDATA[  由    /u/idris890  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdf9vf/this_application_allows_you_to_send_personalized/</guid>
+      <pubDate>Sun, 27 Oct 2024 16:45:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>无服务器 AI 工具：在浏览器中创建 LLM 函数</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdf8nl/serverless_ai_tools_create_llm_functions_in_your/</link>
+      <description><![CDATA[  由    /u/Weary-Database-8713  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdf8nl/serverless_ai_tools_create_llm_functions_in_your/</guid>
+      <pubDate>Sun, 27 Oct 2024 16:43:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>新闻：高通、Anthropic、GoogleDeepmind 等</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdf1db/news_qualcomm_anthropic_googledeepmind_and_more/</link>
+      <description><![CDATA[大家好，我阅读了在 X（Twitter）上找到的 Linkt.ai 的最新新闻通讯，以下是其中的亮点：  Asana 的 AI Studio 使团队无需任何编码即可创建 AI 代理。 UCLA 的 SLIViT 以专家级精度分析 3D 医学图像。 Anthropic 的 Claude.ai 现在支持 JavaScript 进行实时数据处理。 Google DeepMind 的 SynthID 在 AI 生成的内容中嵌入了隐形水印。 高通和谷歌正在合作增强各种设备上的 AI。 GE HealthCare 的 CareIntellect for Oncology 可帮助临床医生使用 AI 追踪病情进展。  他们还推荐了 Softr、Vidify 和 ShortsGenerator.ai。我使用过 ShortsGenerator.ai，它非常适合为社交媒体制作短视频。 本周有一些很酷的 AI 更新。我真的很喜欢他们的时事通讯——绝对值得一读。    提交人    /u/Danny-Reid871   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdf1db/news_qualcomm_anthropic_googledeepmind_and_more/</guid>
+      <pubDate>Sun, 27 Oct 2024 16:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 批处理脚本，我可以添加/改进什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdez2e/windows_batch_scripts_what_can_i_addimprove/</link>
+      <description><![CDATA[为一些快速简便的批处理脚本创建了这个 repo，我可以做些什么来使其更好？我可以添加/更改什么？    由   提交  /u/devvyyxyz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdez2e/windows_batch_scripts_what_can_i_addimprove/</guid>
+      <pubDate>Sun, 27 Oct 2024 16:32:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>LiveAPI v0 开发日志</title>
+      <link>https://www.reddit.com/r/programming/comments/1gddgby/liveapi_v0_devlogs/</link>
+      <description><![CDATA[  由    /u/djang_odude  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gddgby/liveapi_v0_devlogs/</guid>
+      <pubDate>Sun, 27 Oct 2024 15:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要连接到 Microsoft AppInsights 吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdd5e7/need_to_connect_to_microsoft_appinsights/</link>
+      <description><![CDATA[如果您有 Kotlin Multiplatform 应用或原生 Android 应用，并且需要将其连接到 Microsoft 应用洞察，请查看我的库。 它让事情变得简单。支持 iOS 和 Android 以及所有新的请求格式。 如果它对您有帮助，请在 github 上给它一颗星。 https://github.com/TheArchitect123/KmpAppInsights 如果您需要一个库来快速跟踪您的开发，请查看 KmpEssentials。 https://github.com/TheArchitect123/KmpEssentials   由    /u/Jazzlike_Increase762  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdd5e7/need_to_connect_to_microsoft_appinsights/</guid>
+      <pubDate>Sun, 27 Oct 2024 15:12:21 GMT</pubDate>
+    </item>
     <item>
       <title>开源发布</title>
       <link>https://www.reddit.com/r/programming/comments/1gdcl7i/open_source_release/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gd90uc/practical_software_development_skills_from/</guid>
       <pubDate>Sun, 27 Oct 2024 11:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>碎片整理简史</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd8pen/a_brief_history_of_defragging/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd8pen/a_brief_history_of_defragging/</guid>
-      <pubDate>Sun, 27 Oct 2024 11:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript——是福还是祸？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd8mek/javascript_a_blessing_or_a_curse/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd8mek/javascript_a_blessing_or_a_curse/</guid>
-      <pubDate>Sun, 27 Oct 2024 11:12:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>一切始于感知器：当今人工智能的基础</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd8fy5/it_all_started_with_a_perceptron_the_foundation/</link>
-      <description><![CDATA[  由    /u/VinceFR73  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd8fy5/it_all_started_with_a_perceptron_the_foundation/</guid>
-      <pubDate>Sun, 27 Oct 2024 11:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全地使用 /tmp/ 和 /var/tmp/</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd89ba/using_tmp_and_vartmp_safely/</link>
-      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd89ba/using_tmp_and_vartmp_safely/</guid>
-      <pubDate>Sun, 27 Oct 2024 10:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧠 Mind，开源 AI 视频编辑器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd82fv/mind_open_source_ai_video_editor/</link>
-      <description><![CDATA[大家好！ 过去几个月，我一直在研究 TurboReel，这是一个人工智能视频引擎，可以自动创建基本视频，例如讲故事、趣味事实等。 我对结果感到很兴奋，但仍然感觉有些不对劲。因此，在 10 月 22 日晚上，我熬夜编写了一个 JSON 到视频解析器，现在几乎可以仅通过文本创建任何视频。 然后我将其连接到 LLM，然后： 心想就此诞生。让我们简单举个例子来了解一下它的功能： https://youtu.be/9XiW7pdeJNA?si=Cj8Qc4UHEABt14mG 我很高兴看到你们创造的一切以及这个项目的发展。 查看 repo：https://github.com/tacosyhorchata/turboreelgpt TurboReel 平台：https://turboreelgpt.tech 很高兴回答问题 :)   由    /u/Professional-Pie3323  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd82fv/mind_open_source_ai_video_editor/</guid>
-      <pubDate>Sun, 27 Oct 2024 10:33:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML5</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd7eeh/html5/</link>
-      <description><![CDATA[  由    /u/my_parents_ar_ntsane  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd7eeh/html5/</guid>
-      <pubDate>Sun, 27 Oct 2024 09:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Cloudflare R2 生成预签名 URL | Cloudflare R2 终极指南 | 第 2 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd3utq/generating_presigned_urls_with_cloudflare_r2/</link>
-      <description><![CDATA[  由    /u/coold007  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd3utq/generating_presigned_urls_with_cloudflare_r2/</guid>
-      <pubDate>Sun, 27 Oct 2024 05:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该更新并公开此 AI 代码编辑器？我已经使用 Gemini API、Google TTS、G Drive、Judge0 API 为 Google AI 竞赛构建了此编辑器。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd32vd/should_i_update_and_make_this_ai_code_editor/</link>
-      <description><![CDATA[  由    /u/Significant_Load_411  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd32vd/should_i_update_and_make_this_ai_code_editor/</guid>
-      <pubDate>Sun, 27 Oct 2024 04:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 git 查找项目中每个模块的活跃贡献者。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd2ln0/how_to_find_the_active_contributors_of_each/</link>
-      <description><![CDATA[  由    /u/DueHearing1315  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd2ln0/how_to_find_the_active_contributors_of_each/</guid>
-      <pubDate>Sun, 27 Oct 2024 03:59:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
