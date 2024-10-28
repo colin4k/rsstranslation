@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 28 Oct 2024 18:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:02:08 GMT</lastBuildDate>
+    <item>
+      <title>用于 PII 屏蔽的开源 AI 工具 – 关于隐私和数据安全的思考</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ge9fh4/opensource_ai_tool_for_pii_masking_thoughts_on/</link>
+      <description><![CDATA[大家好！ PII Masker 是一款开源工具，旨在通过检测和屏蔽文本中的 PII 来帮助保护敏感信息。隐私和合规性已变得至关重要，因此我们专注于一款不仅性能良好而且可实现数据安全性的工具。 为什么选择 PII Masker？ 处理敏感信息时，使用确保合规性和保护隐私的工具至关重要。 PII Masker 脱颖而出的原因如下：  高精度：基于 DeBERTa-v3 构建，可跨 PII 类型进行准确检测。 合规友好：帮助组织遵守隐私法。 灵活集成：使用 Python API 顺利集成到现有系统中。  主要功能  全面保护：检测和屏蔽多种 PII 类型，如姓名和地址。 高性能：通过 1024 个令牌支持处理较长的文档。 注重精度：针对 PII 检测准确性进行了微调。 结构化输出：提供屏蔽文本和结构化 PII 词典。  好奇了解其他人如何看待 PII 隐私屏蔽。仅屏蔽就足够了吗？您认为哪些工具或方法对数据安全最有效？如果您有兴趣查看或提供反馈，以下是 GitHub 链接：https://github.com/HydroXai/pii-masker-v1    提交人    /u/lial4415   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ge9fh4/opensource_ai_tool_for_pii_masking_thoughts_on/</guid>
+      <pubDate>Mon, 28 Oct 2024 18:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>开放源代码倡议宣布发布业界首个开源人工智能定义</title>
       <link>https://www.reddit.com/r/opensource/comments/1ge5r0f/the_open_source_initiative_announces_the_release/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[作为一个小型的新仓库所有者，也是在 10 月之前发布的，我度过了一个非常有趣的第一个月！只要我有工作和其他承诺的空闲时间，我就会参与这个项目。编码、审查、讨论、调整并积极推动项目…… 在接近 100 颗星的时候，我甚至不知道该说些什么……我没想到很多人会感兴趣——我们正在为互联网媒体构建一个轻量级的音频增强器，但我错了！令我惊讶的是，人们有使用我们正在构建的东西可以解决的用例。我与业内人士、其他 OSS 项目所有者进行了交谈，并得到了该领域令人鼓舞的反馈，这一直是我尽快为每个人推出并运行它的关键动力。 这就是促使我写这篇文章的原因。如何围绕新项目建立一个真实而活跃的社区？整个十月份，我遇到了大量优秀的贡献者，看到不同的观点并进行合作非常有帮助。有足够多的事情要处理，我想继续这样做，甚至尽可能增加我们的贡献者规模。你有什么建议吗？  当你决定是否为一个项目做贡献时，你会寻找什么？假设你觉得这个话题很有趣，你是否看到任何不好的做法，或者任何一般情况下会破坏我们交易的东西？  我计划推动文档更新，以更好地反映项目的当前状态，并提供具体的路线图。在推动这一举措之前，我很想得到你的反馈，以便提供更好的版本！  感谢您的反馈！     提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcvkkt/q_how_to_build_a_community_getting_people_excited/</guid>
       <pubDate>Sat, 26 Oct 2024 21:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有真正能做事的开源个人助理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcuerr/are_there_any_open_source_personal_assistant_that/</link>
-      <description><![CDATA[我研究个人助理领域已经有一段时间了，我很好奇——有没有真正能够做事而不仅仅是提供信息的人工智能助理？ 我发现的大多数聊天机器人都可以回答问题、告诉我天气情况或提供一般建议。但我想要的是一个可以更积极地处理任务的助理：管理我的日程安排、发送电子邮件、进行研究，甚至跑腿或安排约会，而我只需要做很少的输入。    提交人    /u/sessionletter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcuerr/are_there_any_open_source_personal_assistant_that/</guid>
-      <pubDate>Sat, 26 Oct 2024 20:41:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
