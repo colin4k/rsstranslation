@@ -4,7 +4,18 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 27 Oct 2024 21:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 00:04:34 GMT</lastBuildDate>
+    <item>
+      <title>X 美国和英国用户下滑——原因何在？</title>
+      <link>https://feed.indiehackers.world/post/08ee877f1d</link>
+      <description><![CDATA[
+Medium Profile
+WordPress 营销
+
+Discord Indiehackers 聊天广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/08ee877f1d</guid>
+      <pubDate>Sun, 27 Oct 2024 10:04:33 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款应用，只需单击一下即可实现整个 YouTube 频道的自动化</title>
       <link>https://feed.indiehackers.world/post/399b203f74</link>
@@ -142,7 +153,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>5 个严峻的营销事实以及如何解决它们</title>
       <link>https://feed.indiehackers.world/post/5719077c86</link>
-      <description><![CDATA[了解这些事实是您迈向真正进步的第一步。当您在科技世界中前进时，请记住，好的品牌不仅仅是被看到——它还在于与您的客户真正想要和需要的东西建立联系并产生共鸣。
+      <description><![CDATA[了解这些事实是您迈向真正进步的第一步。当您在科技世界中前进时，请记住，好的品牌不仅仅是被看到——它还在于与客户真正想要和需要的东西建立联系并产生共鸣。
 作为一个多年来一直在应对这些挑战的人，我很乐意提供帮助。如果您想聊聊如何将您的愿景变成人们信赖的现代品牌，请随时与我们联系。
 让我们联系 - 
 LinkedIn - https://www.linkedin.com/in/victorbonora
@@ -194,7 +205,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -218,14 +229,6 @@ Discord Indiehackers Chat广告 此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/562f6c21ba</guid>
       <pubDate>Mon, 21 Oct 2024 07:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一个地方使用多种 AI 工具的最佳应用程序</title>
-      <link>https://feed.indiehackers.world/post/47ff768938</link>
-      <description><![CDATA[凭借这些全面的功能，Chapple AI 支持各个技能水平的内容创作者实现他们的愿景并提供引人入胜的叙述。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/47ff768938</guid>
-      <pubDate>Sun, 20 Oct 2024 06:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

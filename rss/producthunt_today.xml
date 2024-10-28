@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 27 Oct 2024 21:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 00:04:17 GMT</lastBuildDate>
     <item>
       <title>填充天才</title>
       <link>https://www.producthunt.com/posts/fill-genius</link>
@@ -20,7 +20,7 @@
       <pubDate>Sat, 26 Oct 2024 22:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>定价者</title>
+      <title>定价制定者</title>
       <link>https://www.producthunt.com/posts/pricing-maker</link>
       <description><![CDATA[
 适用于您的产品或 SaaS 的 AI 定价生成器
@@ -146,6 +146,20 @@
       <pubDate>Thu, 24 Oct 2024 15:08:11 GMT</pubDate>
     </item>
     <item>
+      <title>DoodleLingo</title>
+      <link>https://www.producthunt.com/posts/doodlelingo</link>
+      <description><![CDATA[
+通过绘画学习语言的有趣方式
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/doodlelingo</guid>
+      <pubDate>Thu, 24 Oct 2024 14:15:41 GMT</pubDate>
+    </item>
+    <item>
       <title>卢莫斯</title>
       <link>https://www.producthunt.com/posts/loomos</link>
       <description><![CDATA[
@@ -174,24 +188,10 @@
       <pubDate>Wed, 23 Oct 2024 17:09:38 GMT</pubDate>
     </item>
     <item>
-      <title>Vivaldi 7.0</title>
-      <link>https://www.producthunt.com/posts/vivaldi-7-0</link>
-      <description><![CDATA[
-全新、更时尚的 Vivaldi 浏览器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/vivaldi-7-0</guid>
-      <pubDate>Wed, 23 Oct 2024 16:36:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Insta360 Ace Pro 2</title>
       <link>https://www.producthunt.com/posts/insta360-ace-pro-2</link>
       <description><![CDATA[
-8K AI 驱动的运动相机
+8K AI 运动相机
 
 
 讨论

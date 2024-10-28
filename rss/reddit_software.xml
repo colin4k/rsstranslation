@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 21:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 00:03:50 GMT</lastBuildDate>
+    <item>
+      <title>我无法安装 Windows 11 并保留我的所有文件和应用程序。</title>
+      <link>https://www.reddit.com/r/software/comments/1gdmzq6/i_can_not_install_windows_11_and_keep_all_my/</link>
+      <description><![CDATA[您好， 我正在尝试将我的 PC 从 Windows 10 升级到 Windows 11。我的系统满足所有要求，但在安装过程中我一直陷入循环：  安装尝试：开始升级后，安装重新启动但未完成。我最终进入一个屏幕，其中有立即重新启动和高级设置等选项。 高级设置和故障排除： 启动修复无法修复该问题。 卸载最新更新选项不起作用。 命令提示符尝试（例如sfc /scannow）显示并修复了一些损坏的文件，但升级仍然失败。  其他尝试： 我尝试清理空间（删除 Windows 更新文件）。 使用媒体创建工具和 ISO 进行升级，同时保留我的文件。但是，ISO 方法也卡在“检查更新”上并且没有完成。  错误代码：我遇到了 0xC1900101 和 0xC1900101 - 0x20017，这似乎与驱动程序或硬件兼容性问题有关。  总体而言，我的系统仍然循环回到立即重启和高级设置屏幕，而没有完成 Windows 11 升级。任何解决此问题的建议都将不胜感激，因为我现在不想全新安装 Windows。    提交人    /u/Broad-Case-2543   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gdmzq6/i_can_not_install_windows_11_and_keep_all_my/</guid>
+      <pubDate>Sun, 27 Oct 2024 22:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>LAN Web 界面访问不起作用</title>
+      <link>https://www.reddit.com/r/software/comments/1gdmajz/accès_interface_web_lan_marche_pas/</link>
+      <description><![CDATA[Lan Web 界面访问不起作用 您好， 我开始使用 opnsense。我在 vmware 上创建了一个虚拟机，其中有 4 核 4GB RAM 4 个网卡：NAT 中的网卡 1 LAN 段“LAN 段 1”中的网卡 2 LAN网段“LAN网段2”中的网卡3被设置为“LAN网段2”。 LAN网段“LAN网段3”中的网卡3被设置为“LAN网段3”。当我安装时一切都很顺利。当我配置接口时，网卡1是em0 网卡2是em1等 但是当我想从我的物理机访问opnsense Web界面时，当我输入“IP地址”时，它不起作用虚拟机的 LAN 我必须通过在安装了 opnsense 的虚拟机的 shell 中执行 pfctl -d 来停用防火墙，然后我可以通过输入 wan 的 IP 地址来访问该接口。 我完全迷失了，我不知道如何在不禁用防火墙的情况下通过 LAN 访问 Web 界面。 提前感谢您的帮助 &lt; !-- SC_ON --&gt;  由   提交/u/Potential_Athlete939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gdmajz/accès_interface_web_lan_marche_pas/</guid>
+      <pubDate>Sun, 27 Oct 2024 21:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>GeForce Experience 的替代品？（mac）</title>
+      <link>https://www.reddit.com/r/software/comments/1gdm1ci/alternatives_for_geforce_experience_mac/</link>
+      <description><![CDATA[您好，我最近了解了 GeForce Experience，发现它不支持 macos。有没有免费的替代品？最好是带有简单 UI 的。（不是 OBS Studio）    提交人    /u/AntonTheGuy1   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gdm1ci/alternatives_for_geforce_experience_mac/</guid>
+      <pubDate>Sun, 27 Oct 2024 21:40:55 GMT</pubDate>
+    </item>
     <item>
       <title>有没有类似 sangaini 的聊天软件，抱歉拼写错误</title>
       <link>https://www.reddit.com/r/software/comments/1gdjxm6/is_there_a_chat_software_similar_to_sangaini_for/</link>
@@ -71,7 +92,7 @@
     <item>
       <title>收到短信时将声音调到最大</title>
       <link>https://www.reddit.com/r/software/comments/1gdf4kr/turn_on_sound_at_max_volume_when_texted/</link>
-      <description><![CDATA[当手机收到特定短信时，是否有东西可以打开声音。我想我记得类似的东西，但找不到它。 我妻子每天都会丢失几次手机，有时她丢失手机时手机会处于静音状态。正在寻找一些应用程序，允许来自特定人的特定单词的短信，该短信将打开音量，以便可以更轻松地拨打电话和找到它。    提交者    /u/Dramatic_Law_4239   [链接] [评论]]]></description>
+      <description><![CDATA[当手机收到特定短信时，是否有东西可以打开声音。我想我记得类似的东西，但找不到它。 我妻子每天都会丢失几次手机，有时她丢失手机时手机会处于静音状态。正在寻找一些应用程序，允许来自特定人的特定单词的短信，该短信将打开音量，以便可以更轻松地拨打电话和定位。    提交人    /u/Dramatic_Law_4239   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdf4kr/turn_on_sound_at_max_volume_when_texted/</guid>
       <pubDate>Sun, 27 Oct 2024 16:39:10 GMT</pubDate>
     </item>
@@ -113,7 +134,7 @@
     <item>
       <title>视频压缩+背景噪音降低/消除</title>
       <link>https://www.reddit.com/r/software/comments/1gd4v9g/video_compress_background_noise_reductionremoval/</link>
-      <description><![CDATA[大家好， 我是视频编辑、压缩和音频清理方面的新手，所以非常感谢你们的耐心！:) 有人可以推荐一些免费或低成本的软件来去除视频中的背景噪音吗？  此外，您建议在 HandBrake 中使用哪些设置来将视频文件压缩到尽可能小的尺寸，同时仍保留一些质量？它不需要高质量；我只是用它来帮助我的高中生进行面试。 我找到了一个可以减少背景噪音的网站，但它的文件限制为 100 MB，并且每个月只允许 20 分钟的音频清理。我还需要压缩视频，这有点令人困惑。幸运的是，我发现我可以使用开源软件 HandBrake 来实现这一点。r 。 非常感谢您的阅读，我很感激您的任何建议！ 祝好， 新手，文件很大，音频很差    提交人    /u/bassyfael   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我是视频编辑、压缩和音频清理方面的新手，所以非常感谢你们的耐心！:) 有人可以推荐免费或低成本的软件来去除视频中的背景噪音吗？  此外，您建议在 HandBrake 中使用哪些设置来将视频文件压缩到尽可能小的尺寸，同时仍保留一些质量？它不需要高质量；我只是用它来帮助我的高中生进行面试。 我找到了一个可以减少背景噪音的网站，但它的文件限制为 100 MB，并且每个月只允许 20 分钟的音频清理。我还需要压缩视频，这有点令人困惑。幸运的是，我发现我可以使用开源软件 HandBrake 来实现这一点。r 。 非常感谢您的阅读，我很感激您的任何建议！ 祝好， 新手，文件很大，音频很差    提交人    /u/bassyfael   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gd4v9g/video_compress_background_noise_reductionremoval/</guid>
       <pubDate>Sun, 27 Oct 2024 06:33:36 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我想玩任天堂 Switch 游戏，并且能够通过 Alt Tab 切换到其他游戏，并能够在 Discord 等平台上播放它们    提交人    /u/Lem0n_Bread   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gd0qbw/is_their_an_app_that_i_can_use_that_will_let_me/</guid>
       <pubDate>Sun, 27 Oct 2024 02:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以替代 activepresenter 的软件，可以在我编辑视频时不会使视频尺寸膨胀？</title>
-      <link>https://www.reddit.com/r/software/comments/1gd0b1t/any_alternative_to_activepresenter_that_dont/</link>
-      <description><![CDATA[我打开了一个 11 秒的 MP4，一个 779kb 的文件，720h/1190w，我什么也没做，只是将其旋转 90 度使其垂直，这样它就是 1190h/720w 这使文件大小增加到 5448 kb - 大了七倍。 知道为什么会发生这种情况吗？我可以使用哪种视频编辑软件来避免这种情况？在不降低质量的情况下恢复压缩？ 为了解决这个问题，过去我会做一些事情，比如将音频质量、视频质量降低 50%，或者将分辨率降低 50%。但在编辑某些内容时，这不应该只是为了达到或低于原始文件大小而必须这样做，对吧？    提交人    /u/HOTSpower   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gd0b1t/any_alternative_to_activepresenter_that_dont/</guid>
-      <pubDate>Sun, 27 Oct 2024 01:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>比较列表 Windows PDF 手写笔记注释工具</title>
-      <link>https://www.reddit.com/r/software/comments/1gcysyj/comparison_list_windows_pdf_annotation_tools_for/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gcysyj/comparison_list_windows_pdf_annotation_tools_for/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法重新设计我的 Windows 11？</title>
-      <link>https://www.reddit.com/r/software/comments/1gcyq8w/anyway_to_reskin_my_windows_11/</link>
-      <description><![CDATA[自从 2011 年互联网不再流行以来，我一直处于怀旧阶段，我真的很想将我的 Windows 11 重新设计成看起来像 7 或完全不同的东西。我唯一的问题是，除了 stardocks windowblinds 11 之外，我找不到任何可以做到这一点的软件，我听说它很安全，但那个东西要 30 美元，我真的不想花钱买它（因为我很小气）。有没有免费但安全的方法可以重新设计我的 Windows 11？     提交人    /u/renraks0809   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gcyq8w/anyway_to_reskin_my_windows_11/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:13:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
