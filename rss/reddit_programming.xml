@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 28 Oct 2024 09:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:02:16 GMT</lastBuildDate>
+    <item>
+      <title>模型和动作链</title>
+      <link>https://www.reddit.com/r/programming/comments/1ge08k4/chain_of_models_and_actions/</link>
+      <description><![CDATA[用 Go 编写 - Comanda，一个开源 CLI 工具，可让您使用 YAML 在 OpenAI、Anthropic 和 Ollama 等 LLM 中创建工作流。它旨在简化复杂的模型链并自动执行任务而无需重复代码。Comanda 可帮助您以正确的顺序为正确的任务使用正确的模型。     提交人    /u/bzerkster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ge08k4/chain_of_models_and_actions/</guid>
+      <pubDate>Mon, 28 Oct 2024 12:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>supabase 与 clerk</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdyo5n/supabasevsclerk/</link>
+      <description><![CDATA[  由    /u/thewritingwallah  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdyo5n/supabasevsclerk/</guid>
+      <pubDate>Mon, 28 Oct 2024 10:24:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SQLite 作为 Web 服务器静态内容的存储</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdxzc5/using_sqlite_as_storage_for_web_server_static/</link>
+      <description><![CDATA[  由    /u/yawaramin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdxzc5/using_sqlite_as_storage_for_web_server_static/</guid>
+      <pubDate>Mon, 28 Oct 2024 09:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>给开发者带来令人兴奋的 CSS 技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdxonp/mindblowing_css_tricks_for_developer/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdxonp/mindblowing_css_tricks_for_developer/</guid>
+      <pubDate>Mon, 28 Oct 2024 09:12:42 GMT</pubDate>
+    </item>
     <item>
       <title>在 .NET Core API 中使用 IPipelineBehavior、IRequestPreProcessor 和 IRequestPostProcessor</title>
       <link>https://www.reddit.com/r/programming/comments/1gdxe85/using_ipipelinebehavior_irequestpreprocessor_and/</link>
@@ -53,13 +81,6 @@
       <description><![CDATA[  由    /u/wanshao  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gduesv/how_automq_reduces_nearly_100_of_kafka_crosszone/</guid>
       <pubDate>Mon, 28 Oct 2024 05:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>KmpEssentials（Kotlin 多平台）Api 文档站点</title>
-      <link>https://www.reddit.com/r/programming/comments/1gdtyzf/kmpessentials_kotlin_multiplatform_api/</link>
-      <description><![CDATA[  由    /u/Jazzlike_Increase762   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gdtyzf/kmpessentials_kotlin_multiplatform_api/</guid>
-      <pubDate>Mon, 28 Oct 2024 04:32:43 GMT</pubDate>
     </item>
     <item>
       <title>编写易于删除、不易扩展的代码</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ThisWeekinJavaScript  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gdfsnu/this_weeks_javascript_news_generative_ai_in/</guid>
       <pubDate>Sun, 27 Oct 2024 17:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>此应用程序允许您使用 Next.js 15 App Router、TypeScript 和 Nodemailer 分批向多个收件人发送个性化电子邮件。每个收件人都会收到定制的问候语，而电子邮件正文对所有收件人都保持不变。它是免费的，我已经将其开源</title>
-      <link>https://www.reddit.com/r/programming/comments/1gdf9vf/this_application_allows_you_to_send_personalized/</link>
-      <description><![CDATA[  由    /u/idris890  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gdf9vf/this_application_allows_you_to_send_personalized/</guid>
-      <pubDate>Sun, 27 Oct 2024 16:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>LiveAPI v0 开发日志</title>
-      <link>https://www.reddit.com/r/programming/comments/1gddgby/liveapi_v0_devlogs/</link>
-      <description><![CDATA[  由    /u/djang_odude  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gddgby/liveapi_v0_devlogs/</guid>
-      <pubDate>Sun, 27 Oct 2024 15:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要连接到 Microsoft AppInsights 吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gdd5e7/need_to_connect_to_microsoft_appinsights/</link>
-      <description><![CDATA[如果您有 Kotlin Multiplatform 应用或原生 Android 应用，并且需要将其连接到 Microsoft 应用洞察，请查看我的库。 它让事情变得简单。支持 iOS 和 Android 以及所有新的请求格式。 如果它对您有帮助，请在 github 上给它一颗星。 https://github.com/TheArchitect123/KmpAppInsights 如果您需要一个库来快速跟踪您的开发，请查看 KmpEssentials。 https://github.com/TheArchitect123/KmpEssentials   由    /u/Jazzlike_Increase762  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gdd5e7/need_to_connect_to_microsoft_appinsights/</guid>
-      <pubDate>Sun, 27 Oct 2024 15:12:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 28 Oct 2024 09:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:02:23 GMT</lastBuildDate>
+    <item>
+      <title>支持开放源代码定义 (OSD) 的社区声明</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdzhvm/a_community_statement_supporting_the_open_source/</link>
+      <description><![CDATA[        提交人    /u/GiacomoTesio   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdzhvm/a_community_statement_supporting_the_open_source/</guid>
+      <pubDate>Mon, 28 Oct 2024 11:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fitter - 无代码解析器；新功能更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdzg13/fitter_nocode_parser_new_features_updates/</link>
+      <description><![CDATA[大家好！ 我是 Fitter 的创建者。想介绍一下自上次更新以来的一些功能：  缓存。文档 代理。文档 Playwright 隐身模式 - 用于避免被机器人检测到。 新的占位符。 列表 Docker repo (目前仅限 linux-arm64) 链接  https://github.com/PxyUp/fitter PS: 解析 steam 销售的小例子: { &quot;item&quot;: { &quot;connector_config&quot;: { &quot;response_type&quot;: &quot;HTML&quot;, &quot;url&quot;: “https://gg.deals/deals/?drm=1&amp;minRating=0&amp;platform=1&amp;store=4”，“browser_config”：{“playwright”：{“timeout”：60000，“wait”：10000，“browser”：&quot;WebKit&quot; } } }，“model”：{“array_config”：{“root_path”：&quot;.deals-content #deals-list .list-items &gt; div&quot;, &quot;item_config&quot;：{ &quot;fields&quot;：{ &quot;name&quot;：{ &quot;base_field&quot;：{ &quot;type&quot;：&quot;string&quot;，&quot;path&quot;：&quot;.game-info-title-wrapper a&quot; } }, &quot;link&quot;：{ &quot;base_field&quot;：{ &quot;type&quot;：&quot;string&quot;，&quot;path&quot;：&quot;.game-cta.shop-link&quot;，&quot;html_attribute&quot;：&quot;href&quot;，&quot;generated&quot;：{ &quot;formatted&quot;：{ &quot;template&quot;：&quot;https://gg.deals{PL}&quot; } } } }, &quot;discount&quot;: { &quot;base_field&quot;: { &quot;type&quot;: &quot;string&quot;, &quot;path&quot;: &quot;.price-widget .discount&quot; } }, &quot;price&quot;: { &quot;base_field&quot;: { &quot;type&quot;: &quot;string&quot;, &quot;path&quot;: &quot;.price-wrapper span.game-price-new&quot; } } } } } } }  ./fitter_cli-${version} --path=./config.json &gt; sales.json [ { &quot;link&quot;: &quot;https://gg.deals/de/redirect/ba3de96c07daebb3423e37fbab7a06c1f67b7404/?utm_source=deals%2Findex&quot;, &quot;discount&quot;: &quot;-80%&quot;, &quot;price&quot;: &quot;13,99€&quot;, &quot;name&quot;: &quot;自杀小队：杀死正义联盟&quot; }, { &quot;price&quot;: &quot;9,99€&quot;, &quot;name&quot;: &quot;Parkitect&quot;, &quot;link&quot;: &quot;https://gg.deals/de/redirect/81224b6408d1674443221992c8460dcb94481d34/?utm_source=deals%2Findex&quot;, &quot;discount&quot;: &quot;-60%&quot; }, ... ]     提交人    /u/PyxRu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdzg13/fitter_nocode_parser_new_features_updates/</guid>
+      <pubDate>Mon, 28 Oct 2024 11:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>签名管理的替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdywpv/alternative_for_signature_management/</link>
+      <description><![CDATA[您好，我正在寻找 signitic 或 sigilium 的免费/自托管替代方案。谢谢    提交人    /u/mathieumaxime   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdywpv/alternative_for_signature_management/</guid>
+      <pubDate>Mon, 28 Oct 2024 10:40:32 GMT</pubDate>
+    </item>
     <item>
       <title>我如何为我的第一个开源项目选择开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdvxtd/how_i_picked_open_source_license_for_my_first/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>我制作了一个本地 macOS 图像背景去除器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</link>
-      <description><![CDATA[分享我的第二个开源 macOS 应用程序： https://github.com/nuance-dev/Figura 这次我制作了一个原生背景去除器，效果非常好。作为一名设计师，它让我不必打开 Photoshop 并手动执行此操作，因为我发现的其他替代方案都是付费的。 我会继续分享这样的免费应用程序一段时间。    提交人    /u/sirjoaco   [链接] [评论]]]></description>
+      <description><![CDATA[分享我的第二个开源 macOS 应用： https://github.com/nuance-dev/Figura 这次我制作了一个原生背景去除器，效果非常好。作为一名设计师，它让我不必打开 Photoshop 并手动执行此操作，因为我发现的其他替代方案都是付费的。 我会继续分享这些免费应用一段时间。 编辑：此应用是 macOS 自身背景去除功能的包装器，需要 macOS 14+    提交人    /u/sirjoaco   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</guid>
       <pubDate>Sun, 27 Oct 2024 18:31:25 GMT</pubDate>
     </item>
@@ -104,13 +125,6 @@
       <pubDate>Sat, 26 Oct 2024 20:28:11 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何反击觉醒攻击？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcu3z0/how_do_we_fight_back_against_woke_attacks/</link>
-      <description><![CDATA[2014 年，在奥巴马政府的领导下，美国国家安全局将 Linux 用户宣布为极端分子： // START_DEFINITION /*这些变量定义与 TAILs（失忆隐身实时系统）软件程序有关的术语和网站，该软件程序是极端分子在极端主义论坛上倡导的通信安全机制。 */ $TAILS_terms=word(&#39;tails&#39; 或 &#39;Amnesiac Incognito Live System&#39;) and word(&#39;linux&#39; 或 &#39; USB &#39; 或 &#39; CD &#39; 或 &#39;secure Desktop&#39; 或 &#39; IRC &#39; 或 &#39;truecrypt&#39; 或 &#39; tor &#39;); $TAILS_websites=(&#39;tails.boum.org/&#39;) or (&#39;linuxjournal.com/content/linux*&#39;); // END_DEFINITION  2024 年，在奥巴马政府的领导下，数以千计的东欧贡献者被禁止为 Linux 或其他开源项目做出贡献 与此同时，有数十起恶意收购高调开源项目，禁止人们因其政治观点（或者更确切地说缺乏政治观点）而做出贡献。 我认为我们可以同意这些攻击来自仇恨和破坏的地方，完全无视开源原则或任何道德。但我们如何反击？    提交人    /u/EastSignificance9744   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcu3z0/how_do_we_fight_back_against_woke_attacks/</guid>
-      <pubDate>Sat, 26 Oct 2024 20:27:09 GMT</pubDate>
-    </item>
-    <item>
       <title>在商业项目中使用 Apache 2.0 代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcrirn/using_apache_20_code_in_commercial_project/</link>
       <description><![CDATA[React Aria 提供了一个“入门套件”，其中包含 40 多个带有代码的文件，他们说我可以获取这些文件并将其添加到我的项目中以在其基础上进行构建。这不是一个库，而是一个复制粘贴解决方案 我的问题是，当我获取他们的代码并对其进行修改时，如何才能不违反 Apache 2.0 许可的条款？例如，我更改了所有 40 个文件的格式，还更改了一些模式    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
@@ -130,20 +144,6 @@
       <description><![CDATA[您支持开源，但您认为这应该适用于人工智能吗？或者它可能需要一些限制、干预或监管？如果两种人工智能产品为您提供相同的近似值，但一家公司表示他们坚决支持开源人工智能，并且只提供开源模型（在某些情况下可能会以牺牲模型性能为代价），您会选择哪种工具（假设您确实需要该工具）？ 我很想看看人们的立场。    提交人    /u/Rajan-Thakur01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcpibd/question_what_do_you_think_about_opensourced_ai/</guid>
       <pubDate>Sat, 26 Oct 2024 16:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>问：为什么支持开源？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcpf2i/question_why_do_you_support_open_source/</link>
-      <description><![CDATA[您可能支持开源技术的原因有很多。您可能认为它很公平，或者对公众更有利。但有些技术需要专有或受监管，以获得竞争优势或数字安全。 那么，为什么呢？您为什么支持它？是什么让您首先支持开源？提供您的理由    提交人    /u/Rajan-Thakur01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcpf2i/question_why_do_you_support_open_source/</guid>
-      <pubDate>Sat, 26 Oct 2024 16:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeaZip 10.0.0 发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcgw4q/peazip_1000_released/</link>
-      <description><![CDATA[        提交人    /u/peazip   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcgw4q/peazip_1000_released/</guid>
-      <pubDate>Sat, 26 Oct 2024 09:01:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
