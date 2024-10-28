@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 28 Oct 2024 00:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 03:09:57 GMT</lastBuildDate>
+    <item>
+      <title>矢量编辑器的开放标准</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdp30n/an_open_standard_for_vector_editors/</link>
+      <description><![CDATA[我认为矢量编辑器需要有一个开放标准，例如键盘快捷键和控件。我注意到它们之间有很多相似之处，我认为矢量编辑器可以基于此实现多样化（例如针对业余用户与专业人士）的标准基础将非常有帮助。 在这方面，我也认为需要有另一个主要的开源矢量编辑器而不是 Inkscape。我非常喜欢 Inkscape，但它在某些方面并不是最好的，我认为在它不能发挥最佳作用的时候需要有第二个选择。    提交人    /u/ThankYouNeutronix_02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdp30n/an_open_standard_for_vector_editors/</guid>
+      <pubDate>Mon, 28 Oct 2024 00:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>用 rust 编写的适用于 Windows 的 unix cat 命令</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdnlf5/unix_cat_command_for_windows_written_in_rust/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1gcql17/open_source_project/</link>
-      <description><![CDATA[因此，我尝试开启一个开源项目，并非完全从头开始，但也不是使用功能代码。我试图摆脱自己的想法，然后希望项目能够在此过程中自我完善。  这种事情可以带到开源吗？我可以将想法带到开源代码中，然后让人们从那里开始工作吗？或者，它必须是一个完成的项目吗？    提交人    /u/Cardnyl_Music   [link] [评论]]]></description>
+      <description><![CDATA[因此，我尝试开启一个开源项目，并非完全从头开始，但也不是使用功能代码。我试图从我的想法出发，然后希望项目能够在此过程中自我完善。  这种事情可以带到开源中吗？我可以将想法带到开源代码中，然后让人们从那里开始工作吗？或者，它必须是一个完成的项目吗？    提交人    /u/Cardnyl_Music   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcql17/open_source_project/</guid>
       <pubDate>Sat, 26 Oct 2024 17:44:16 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我一直在构建一个开发人员 CLI 工具包来帮助我提高日常工作效率。它是开源/跨平台的，用 rust 编写。 https://github.com/Timmoth/aid-cli 目前有大约 40 个实用程序内置在以下类别中：  | 命令 | 描述 | |-------------|-----------------------------------------------------------| | aid http | HTTP 函数 | | aid ip | IP 信息/扫描 | | aid port | 端口信息/扫描 | | aid cpu | 系统 cpu 信息 | | aid mem | 系统内存信息 | | aid disk | 系统磁盘信息 | | aid network | 系统网络信息 | | aid json | JSON 解析/提取函数 | | aid csv | CSV 搜索/转换函数 | | aid text | 文本操作函数 | | aid file | 文件信息函数 |辅助时间 | 时间相关功能 | | 辅助位 | 位操作功能 | | 辅助数学 | 数学函数 | | 辅助过程 | 过程监控功能 | | 辅助环境 | 环境信息 |  希望对其他人有用    提交人    /u/aptacode   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcex7y/developer_cli_utilities/</guid>
       <pubDate>Sat, 26 Oct 2024 06:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram RSS 之类的提要（需要思考）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gce6pp/instagram_rss_ish_kinda_feed_need_thoughts/</link>
-      <description><![CDATA[是否有可能制作一个应用程序，有点像 RSS feed，但适用于 instagram。您可以在其中复制粘贴您想要关注的页面链接（仅限公共帐户）来查看它，而不必打开 instagram。没有喜欢，没有评论，只有您关注的页面的帖子和标题，而无需在新应用上创建帐户。可能吗？如果制作上述应用程序，人们会面临哪些障碍和限制？ （整个概念是为了避免厄运滚动）    提交人    /u/RoninMusashi_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gce6pp/instagram_rss_ish_kinda_feed_need_thoughts/</guid>
-      <pubDate>Sat, 26 Oct 2024 05:37:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 28 Oct 2024 00:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 03:09:51 GMT</lastBuildDate>
+    <item>
+      <title>我喜欢做软件工程师的 7 件事</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdpbvz/7_things_i_love_about_being_a_software_engineer/</link>
+      <description><![CDATA[  由    /u/vcgirl30  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdpbvz/7_things_i_love_about_being_a_software_engineer/</guid>
+      <pubDate>Mon, 28 Oct 2024 00:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 可以做到 RxJS 做不到的事...是处理状态的好方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdp9de/go_does_what_rxjs_couldnt_be_a_good_way_to_handle/</link>
+      <description><![CDATA[  由    /u/BookOfCooks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdp9de/go_does_what_rxjs_couldnt_be_a_good_way_to_handle/</guid>
+      <pubDate>Mon, 28 Oct 2024 00:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我放弃了 JSON 作为配置文件（转而使用 TypeScript）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gdp99v/i_ditched_json_for_configuration_files_in_favour/</link>
+      <description><![CDATA[  由    /u/Carlos_Menezes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gdp99v/i_ditched_json_for_configuration_files_in_favour/</guid>
+      <pubDate>Mon, 28 Oct 2024 00:14:02 GMT</pubDate>
+    </item>
     <item>
       <title>Java 工程：文摘 #39</title>
       <link>https://www.reddit.com/r/programming/comments/1gdnnrl/engineering_with_java_digest_39/</link>
       <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gdnnrl/engineering_with_java_digest_39/</guid>
       <pubDate>Sun, 27 Oct 2024 22:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们将一些奇怪的东西作为 TXT 记录放入 DNS 的示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1gdmx0m/examples_of_bizarre_stuff_people_put_to_dns_as/</link>
-      <description><![CDATA[  由    /u/rozumbradl33t  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gdmx0m/examples_of_bizarre_stuff_people_put_to_dns_as/</guid>
-      <pubDate>Sun, 27 Oct 2024 22:21:53 GMT</pubDate>
     </item>
     <item>
       <title>you-get：抓取网络数据的愚蠢下载器</title>
@@ -29,7 +43,7 @@
     <item>
       <title>当 CPU 数量增加导致 Netflix 平台冻结时</title>
       <link>https://www.reddit.com/r/programming/comments/1gdi1wu/when_having_more_cpus_froze_a_netflix_platform/</link>
-      <description><![CDATA[&quot;总的来说，我们希望您喜欢以下讽刺意味： 1 用于监视 CPU 使用率的扩展导致 CPU 争用。 2 一个有趣的案例，您拥有的 CPU 越多，速度就越慢！&quot;    提交人    /u/TechTok_Newsletter   [link] [评论]]]></description>
+      <description><![CDATA[&quot;总的来说，我们希望您喜欢以下讽刺： 1 用于监视 CPU 使用率的扩展导致 CPU 争用。 2 一个有趣的案例，您拥有的 CPU 越多，速度就越慢！&quot;    提交人    /u/TechTok_Newsletter   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gdi1wu/when_having_more_cpus_froze_a_netflix_platform/</guid>
       <pubDate>Sun, 27 Oct 2024 18:44:34 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gd90uc/practical_software_development_skills_from/</guid>
       <pubDate>Sun, 27 Oct 2024 11:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>碎片整理简史</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd8pen/a_brief_history_of_defragging/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd8pen/a_brief_history_of_defragging/</guid>
-      <pubDate>Sun, 27 Oct 2024 11:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript——是福还是祸？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gd8mek/javascript_a_blessing_or_a_curse/</link>
-      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gd8mek/javascript_a_blessing_or_a_curse/</guid>
-      <pubDate>Sun, 27 Oct 2024 11:12:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
