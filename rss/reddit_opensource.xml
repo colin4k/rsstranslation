@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 28 Oct 2024 12:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 15:01:51 GMT</lastBuildDate>
+    <item>
+      <title>今天，开放源代码倡议将于美国东部时间下午 12:45 在宴会厅 C 举行的 All Things Open 大会上宣布开放源代码人工智能定义 (OSAID) 1.0 版：</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ge3ybb/today_the_open_source_initiative_will_be/</link>
+      <description><![CDATA[        由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ge3ybb/today_the_open_source_initiative_will_be/</guid>
+      <pubDate>Mon, 28 Oct 2024 14:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源+SaaS项目的数据库模式分离？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ge1vlf/database_schema_seperation_for_open_source_saas/</link>
+      <description><![CDATA[我将开始从事一个以开源形式开始的项目。最终，我想开始提供该产品的“托管”版本。我的问题是关于 SaaS 的独特性，我需要在我的数据库中添加一个“组织”表，并为这个新表添加外键。在代码本身中，我需要引用“组织”表并确保没有 2 个“客户”相互冲突。我还需要处理许多不需要在 OSS 存储库中发生的支付订阅逻辑。我不想将其添加到开源版本，因为该版本是单租户。其他项目如何实现这一点？ 谢谢！    提交人    /u/MixAdministrative439   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ge1vlf/database_schema_seperation_for_open_source_saas/</guid>
+      <pubDate>Mon, 28 Oct 2024 13:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源人工智能真的存在吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ge112m/does_open_source_ai_really_exist/</link>
+      <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ge112m/does_open_source_ai_really_exist/</guid>
+      <pubDate>Mon, 28 Oct 2024 12:41:50 GMT</pubDate>
+    </item>
     <item>
       <title>支持开放源代码定义 (OSD) 的社区声明</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdzhvm/a_community_statement_supporting_the_open_source/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Simple-Minute-5331  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcu4rm/gplv2_and_apache_20_licenses_are_actually/</guid>
       <pubDate>Sat, 26 Oct 2024 20:28:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在商业项目中使用 Apache 2.0 代码</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcrirn/using_apache_20_code_in_commercial_project/</link>
-      <description><![CDATA[React Aria 提供了一个“入门套件”，其中包含 40 多个带有代码的文件，他们说我可以获取这些文件并将其添加到我的项目中以在其基础上进行构建。这不是一个库，而是一个复制粘贴解决方案 我的问题是，当我获取他们的代码并对其进行修改时，如何才能不违反 Apache 2.0 许可的条款？例如，我更改了所有 40 个文件的格式，还更改了一些模式    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcrirn/using_apache_20_code_in_commercial_project/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcql17/open_source_project/</link>
-      <description><![CDATA[因此，我尝试开启一个开源项目，并非完全从头开始，但也不是使用功能代码。我试图从我的想法出发，然后希望项目能够在此过程中自我完善。  这种事情可以带到开源中吗？我可以将想法带到开源代码中，然后让人们从那里开始工作吗？或者，它必须是一个完成的项目吗？    提交人    /u/Cardnyl_Music   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcql17/open_source_project/</guid>
-      <pubDate>Sat, 26 Oct 2024 17:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>问：您对开源人工智能有何看法？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcpibd/question_what_do_you_think_about_opensourced_ai/</link>
-      <description><![CDATA[您支持开源，但您认为这应该适用于人工智能吗？或者它可能需要一些限制、干预或监管？如果两种人工智能产品为您提供相同的近似值，但一家公司表示他们坚决支持开源人工智能，并且只提供开源模型（在某些情况下可能会以牺牲模型性能为代价），您会选择哪种工具（假设您确实需要该工具）？ 我很想看看人们的立场。    提交人    /u/Rajan-Thakur01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcpibd/question_what_do_you_think_about_opensourced_ai/</guid>
-      <pubDate>Sat, 26 Oct 2024 16:55:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
