@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 28 Oct 2024 06:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 09:01:49 GMT</lastBuildDate>
+    <item>
+      <title>我如何为我的第一个开源项目选择开源许可证</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gdvxtd/how_i_picked_open_source_license_for_my_first/</link>
+      <description><![CDATA[作为一个完全的初学者，我首先了解了开源库有哪些选择，这个 Youtube 视频对我帮助很大。 对我来说，我想从一个开源项目（如 Grafana、Elastic、Spark 等）中建立一个商业公司。 然后我继续查看我的榜样使用的许可证：  Grafana：以前使用 Apache 2.0，现在使用 AGPLv3 Elastic：以前使用 Apache 2.0，现在使用 AGPLv3 Spark：仍在使用 Apache 2.0 Sentry：仍在使用 Apache 2.0  然后对我来说，我应该使用 Apache 2.0 还是 AGPLv3？  AGPLv3 的好处是它禁止 AWS 等超大规模提供商销售软件的修改版本，这也是 Grafana 和 Elastic 转而使用的原因。 Apache 2.0 更宽松，可以促进更多采用。但是，与 AGPLv3 相比，我并不确信它会带来太大的差异。 您可以从 Apache 2.0 开始，然后切换到 AGPLv3 吗？您可以，但我想避免 Grafana / Elastic 遇到的麻烦，可能会有很多法律麻烦。  总之，AGPLv3 限制其他人销售它，并且在推动采用方面并不一定比 Apache 2.0 差。  因此，我为我的开源项目 https://github.com/OpenExcept/OpenExcept 选择了 AGPLv3，厚颜无耻地插一句：OpenExcept 是第一个异常分组和分析引擎，很想听听你的反馈！    提交人    /u/Limp_Charity4080   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gdvxtd/how_i_picked_open_source_license_for_my_first/</guid>
+      <pubDate>Mon, 28 Oct 2024 06:54:26 GMT</pubDate>
+    </item>
     <item>
       <title>矢量编辑器的开放标准</title>
       <link>https://www.reddit.com/r/opensource/comments/1gdp30n/an_open_standard_for_vector_editors/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/peazip   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gcgw4q/peazip_1000_released/</guid>
       <pubDate>Sat, 26 Oct 2024 09:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员 CLI 实用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcex7y/developer_cli_utilities/</link>
-      <description><![CDATA[我一直在构建一个开发人员 CLI 工具包来帮助我提高日常工作效率。它是开源/跨平台的，用 rust 编写。 https://github.com/Timmoth/aid-cli 目前有大约 40 个实用程序内置在以下类别中：  | 命令 | 描述 | |-------------|-----------------------------------------------------------| | aid http | HTTP 函数 | | aid ip | IP 信息/扫描 | | aid port | 端口信息/扫描 | | aid cpu | 系统 cpu 信息 | | aid mem | 系统内存信息 | | aid disk | 系统磁盘信息 | | aid network | 系统网络信息 | | aid json | JSON 解析/提取函数 | | aid csv | CSV 搜索/转换函数 | | aid text | 文本操作函数 | | aid file | 文件信息函数 |辅助时间 | 时间相关功能 | | 辅助位 | 位操作功能 | | 辅助数学 | 数学函数 | | 辅助过程 | 过程监控功能 | | 辅助环境 | 环境信息 |  希望对其他人有用    提交人    /u/aptacode   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcex7y/developer_cli_utilities/</guid>
-      <pubDate>Sat, 26 Oct 2024 06:30:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
