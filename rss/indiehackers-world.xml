@@ -4,7 +4,18 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 00:04:02 GMT</lastBuildDate>
+    <item>
+      <title>您能从 Product Hunt 发布中期待什么结果？</title>
+      <link>https://feed.indiehackers.world/post/f80d1b139d</link>
+      <description><![CDATA[
+阅读全文，了解在 Product Hunt 上发布产品的最佳日子，以及所花费的时间是否能产生有价值的结果。Product Hunt 值得吗？
+👉 https://mysignature.io/blog/product-hunt-launch/
+您最近在 ProductHunt 上发布产品了吗？您的体验如何？
+Discord Indiehackers Chat广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/f80d1b139d</guid>
+      <pubDate>Mon, 28 Oct 2024 05:57:53 GMT</pubDate>
+    </item>
     <item>
       <title>X 美国和英国用户下滑——原因何在？</title>
       <link>https://feed.indiehackers.world/post/08ee877f1d</link>
@@ -163,7 +174,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>5 个严峻的营销事实以及如何解决它们</title>
       <link>https://feed.indiehackers.world/post/5719077c86</link>
-      <description><![CDATA[了解这些事实是您迈向真正进步的第一步。当您在科技世界中前进时，请记住，好的品牌不仅仅是被看到——它还在于与客户真正想要和需要的东西建立联系并产生共鸣。
+      <description><![CDATA[了解这些事实是您迈向真正进步的第一步。当您在科技世界中前进时，请记住，好的品牌不仅仅是被看到——它还在于与您的客户真正想要和需要的东西建立联系并产生共鸣。
 作为一个多年来一直在应对这些挑战的人，我很乐意提供帮助。如果您想聊聊如何将您的愿景变成人们信赖的现代品牌，请随时与我们联系。
 让我们联系 - 
 LinkedIn - https://www.linkedin.com/in/victorbonora
@@ -176,7 +187,7 @@ Discord Indiehackers 聊天广告 此处]]></description>
     <item>
       <title>50-50 规则如何改变我的初创公司的增长</title>
       <link>https://feed.indiehackers.world/post/668479bc0b</link>
-      <description><![CDATA[3. 创建客户反馈循环：我们已经提到过这一点，但它足够重要，值得在这里占有一席之地。与用户交谈。没有比与你正在为之构建产品的实际用户交谈更好的方法来准确了解你在 50-50 规则的哪一部分上失败了。利用社交媒体、在论坛上闲逛、进行调查、进行用户访谈并分析使用数据。然后采取行动。
+      <description><![CDATA[3. 创建客户反馈循环：我们已经提到过这一点，但它足够重要，值得在这里占有一席之地。与用户交谈。没有比与你为之构建产品的实际用户交谈更好的方法来准确了解你在 50-50 规则的哪一部分上失败了。利用社交媒体、在论坛上闲逛、进行调查、进行用户访谈并分析使用数据。然后采取行动。
 4. 适应：市场在变化，客户需求在发展，有时你的好主意并不是市场想要的。我学到的最重要的一课是实验思维的价值。成功的创始人知道找到适合市场的产品意味着不断做出改变和适应。我不得不多次转变，学习新技能，并调整我的策略，然后最终创造出人们想要的东西。保持灵活性。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/668479bc0b</guid>
@@ -202,34 +213,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/2992573ba3</guid>
       <pubDate>Mon, 21 Oct 2024 13:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要从 REST Assured 迁移到 Keploy？</title>
-      <link>https://feed.indiehackers.world/post/422f402602</link>
-      <description><![CDATA[```java
-@Test
-public void testGetEmployeeById() {
-get(&quot;/api/employees/&quot; + testEmployee.getId())
-.then()
-.statusCode(200)
-.body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
-.body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
-.body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
-
-@Test
-public void testUpdateEmployee() {
-String updatedEmployeeJson = &quot;{\&quot;firstName\&quot;:\&quot;Jane\&quot;,\&quot;lastName\&quot;:\&quot;Doe\&quot;,\&quot;email\&quot;:\&quot;jane.doe@example.com\&quot;}&quot;;
-
-given()
-.contentType(ContentType.JSON)
-.body(updatedEmployeeJson)
-.when()
-.put(&quot;/api/employees/&quot; + testEmployee.getId())
-
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/422f402602</guid>
-      <pubDate>Mon, 21 Oct 2024 07:32:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

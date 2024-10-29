@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 00:03:15 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 或 Claude 适合项目吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gegzoc/chatgpt_or_claude_for_projects/</link>
+      <description><![CDATA[对于 Claude 项目，自定义 GPT 相比如何？我正在考虑取消订阅 ChatGPT 以尝试 Claude 项目，但不确定。你的经验是什么？顺便说一下，非编码    提交人    /u/AppropriateRespect91   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gegzoc/chatgpt_or_claude_for_projects/</guid>
+      <pubDate>Mon, 28 Oct 2024 23:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越色彩和线条，具有协调语义的零镜头风格特定图像变化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geeaur/beyond_color_and_lines_zeroshot_stylespecific/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“超越色彩和线条：具有协调语义的零样本风格特定图像变化”，作者为胡静浩、张玉河、耿国华、杨刘宇欣、闫嘉瑞、程静涛、张亚东和李康。 本文介绍了一种使用零样本学习方法实现风格特定图像变化的新方法，该方法可以有效地协调不同风格之间的语义。它介绍了一种三步图像到文本到图像的流程，利用先进的视觉语言模型和扩散模型来生成高保真度和风格一致的图像。这项研究的标志是所提出的方法能够在转换图像的同时保留其底层语义内容，这是对传统风格转换方法限制的突破。 主要发现：  作者开发了一个零样本学习框架，该框架采用了一种新颖的图像到文本到图像的转换过程，确保了风格和内容的分离，以保持语义完整性和风格连贯性。 引入了一个名为零样本风格转换验证数据集 (ZsSTD) 的新数据集，它包含七种不同的艺术风格，有助于评估风格转换、文本到图像和多条件图像生成任务。 提出了两个创新的评估指标——加权风格均值和内容匹配分数——以更好地评估风格转换的保真度，超越了仅关注颜色和纹理等低级特征的传统方法。 该研究表明，通过有效地将源风格与图像内容分离，并在保持内容保真度的同时无缝地融入新的风格元素。 大量的用户研究和实验评估表明，与基线方法相比，该方法得到了强烈的偏好和认可，证实了其在内容保真度和风格变化方面的有效性。  您可以在这里看到完整的细分：这里 您可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geeaur/beyond_color_and_lines_zeroshot_stylespecific/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么人工智能可以让你上传 GitHub 存储库并真正理解它？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gedoee/any_ai_out_there_that_let_you_upload_github/</link>
+      <description><![CDATA[想知道是否有一个工具可以让您上传一个 zip 文件，提供大量上下文，然后您就可以协作处理代码，甚至可以在上下文中创建新功能    提交人    /u/octaverium   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gedoee/any_ai_out_there_that_let_you_upload_github/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:26:31 GMT</pubDate>
+    </item>
     <item>
       <title>您认为 AI 或 AGI 将如何改变医疗领域？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geby39/how_do_you_think_ai_or_agi_will_change_the/</link>
@@ -15,12 +36,12 @@
     <item>
       <title>人力资源领域的人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gebjpz/artificial_intelligence_in_the_hr_world/</link>
-      <description><![CDATA[大家早上好，我想知道人工智能在人力资源领域的实际应用是什么。具体来说，它实际上能做什么，请举一些实际的例子，因为它似乎在理论层面上被广泛讨论，但我仍然不太明白它在技术上如何在人力资源中应用。你能给我看任何真实的例子或任何“如何做”文档或视频吗？ 非常感谢大家    提交人    /u/consulenzastrategica   [链接] [评论]]]></description>
+      <description><![CDATA[大家早上好，我想知道人工智能在人力资源领域的实际应用是什么。具体来说，它实际上能做什么，请举一些实际的例子，因为它似乎在理论层面上被广泛讨论，但我仍然不太明白它在技术上如何应用于人力资源。你能给我展示任何真实的例子或任何“如何做”文档或视频吗？ 非常感谢大家    提交人    /u/consulenzastrategica   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gebjpz/artificial_intelligence_in_the_hr_world/</guid>
       <pubDate>Mon, 28 Oct 2024 19:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>定制私人助理的效果如何？</title>
+      <title>定制的私人助理效果如何？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geakux/how_well_would_a_custom_personal_assistant_work/</link>
       <description><![CDATA[我想制作一个与当前助手不同、对我真正有用的个人助理。  主要功能是，我可以编写自定义函数来控制卧室灯光、添加提醒、计时器、提问或任何我能想到的函数。 另一个主要功能是它可以在我的所有设备之间同步，我可以将它安装在手机、笔记本电脑和家用电脑上，并且可以处理文本或语音。 我在想我可以使用 Gemini 来构建它，因为它有非常长的上下文窗口，这样我就可以让我的对话在多个设备和多天内进行。 我想开发这个应该很简单，但我想知道它在实践中会有多好？它真的能从我们的对话中学习吗？它能准确地映射我的个性，知道如何以我最能理解的方式回应吗？最初的想法是试图消除我当前头脑中的弱点。    提交人    /u/pjjiveturkey   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geakux/how_well_would_a_custom_personal_assistant_work/</guid>
@@ -90,13 +111,6 @@
       <pubDate>Mon, 28 Oct 2024 16:29:33 GMT</pubDate>
     </item>
     <item>
-      <title>直到他们在现实中遇见你</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge57oq/until_they_meet_you_irl/</link>
-      <description><![CDATA[所有帮助都很棒，直到您需要进行真正的对话😇 大部分都是开玩笑，但就像标语“Apple Intelligence”    提交人    /u/periloustrail   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge57oq/until_they_meet_you_irl/</guid>
-      <pubDate>Mon, 28 Oct 2024 15:41:50 GMT</pubDate>
-    </item>
-    <item>
       <title>你认为蓝领工作不会受到人工智能的威胁吗？再想想</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge553x/think_bluecollar_jobs_are_safe_from_ai_think_again/</link>
       <description><![CDATA[]]></description>
@@ -116,20 +130,6 @@
       <description><![CDATA[LLM RCE 剖析 我和我的团队刚刚发表了这篇令人大开眼界的文章，介绍了大型语言模型 (LLM) 中的安全漏洞，该漏洞允许研究人员通过简单的聊天提示在服务器上执行任意代码。 TL;DR：研究人员演示了如何绕过 LLM 对齐和 Python 沙盒来实现远程代码执行，从而暴露了 LLM 集成中的重大风险。 我强烈建议阅读全文。 你对此有何看法？ 您认为我们如何平衡 LLM 集成的好处和这些安全问题？    提交人    /u/jat0369   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge34gz/anatomy_of_an_llm_remote_code_execution/</guid>
       <pubDate>Mon, 28 Oct 2024 14:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perplexity AI PRO - 1 年计划优惠 - 近 75% 折扣！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge2wei/perplexity_ai_pro_1_year_plan_offer_almost_75_off/</link>
-      <description><![CDATA[如标题：我们提供一年计划的 Perplexity AI PRO 优惠券代码。  订购：https://cheapgpt.store/product/perplexity-ai-pro-subscription-one-year-plan 接受的付款方式： - PayPal。 （100% 买家保护） - Revolut。    提交人    /u/MReus11R   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge2wei/perplexity_ai_pro_1_year_plan_offer_almost_75_off/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的一体化课程，我可以使用多个 LLM 吗？并且能够构建类似自定义 GPT 的东西（作为一项不错的选择）？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdp8li/best_all_in_one_package_where_i_can_use_multiple/</link>
-      <description><![CDATA[我订阅了 Perplexity 和 ChatGPT，但正在考虑取消订阅 ChatGPT。提前致谢！    提交人    /u/AppropriateRespect91   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdp8li/best_all_in_one_package_where_i_can_use_multiple/</guid>
-      <pubDate>Mon, 28 Oct 2024 00:13:09 GMT</pubDate>
     </item>
     <item>
       <title>有哪些工作具有抵御人工智能的坚实护城河？</title>

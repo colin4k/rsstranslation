@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 00:03:40 GMT</lastBuildDate>
+    <item>
+      <title>基于 .NET 的 PDF 生成器现可通过 JSON Web API 使用</title>
+      <link>https://www.reddit.com/r/programming/comments/1gegm31/a_netbased_pdf_generator_now_available_via_a_json/</link>
+      <description><![CDATA[  由    /u/mrmhk97  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gegm31/a_netbased_pdf_generator_now_available_via_a_json/</guid>
+      <pubDate>Mon, 28 Oct 2024 23:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在分叉 Flutter。这就是原因。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gegaz6/were_forking_flutter_this_is_why/</link>
+      <description><![CDATA[  由    /u/miacoder  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gegaz6/were_forking_flutter_this_is_why/</guid>
+      <pubDate>Mon, 28 Oct 2024 23:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>di-wise：🧙‍♀️ 适用于 JavaScript 和 TypeScript 的轻量级灵活依赖注入库，带有 ECMAScript 装饰器。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gef1zi/diwise_lightweight_and_flexible_dependency/</link>
+      <description><![CDATA[  由    /u/exuanbo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gef1zi/diwise_lightweight_and_flexible_dependency/</guid>
+      <pubDate>Mon, 28 Oct 2024 22:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir 的软件工程</title>
+      <link>https://www.reddit.com/r/programming/comments/1geeth5/software_engineering_at_palantir/</link>
+      <description><![CDATA[  由    /u/ForgotMyPassword17  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1geeth5/software_engineering_at_palantir/</guid>
+      <pubDate>Mon, 28 Oct 2024 22:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在分叉 Flutter。这就是原因。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gedgvh/were_forking_flutter_this_is_why/</link>
+      <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gedgvh/were_forking_flutter_this_is_why/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:17:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>狮子、老虎和高 DPI，天哪</title>
+      <link>https://www.reddit.com/r/programming/comments/1ged835/lions_tigers_and_highdpi_oh_my/</link>
+      <description><![CDATA[  由    /u/emezeske  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ged835/lions_tigers_and_highdpi_oh_my/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:06:56 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯考虑分叉 Linux 以应对开发者被排除的问题</title>
       <link>https://www.reddit.com/r/programming/comments/1gebdgl/russia_mulls_forking_linux_in_response_to/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ge4cqu/steve_ballmers_incorrect_binary_search_interview/</guid>
       <pubDate>Mon, 28 Oct 2024 15:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>不仅仅是 MV3——Chrome 的扩展开发体验是个问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge3zqh/its_not_just_mv3_chromes_extension_development/</link>
-      <description><![CDATA[  由    /u/PatrioTech  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge3zqh/its_not_just_mv3_chromes_extension_development/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spring Boot 与 SAML2 和 Keycloak - Piotr 的技术博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge3fnc/spring_boot_with_saml2_and_keycloak_piotrs/</link>
-      <description><![CDATA[  由    /u/piotr_minkowski  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge3fnc/spring_boot_with_saml2_and_keycloak_piotrs/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>window.localStorage 的问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge3b4e/the_problem_with_windowlocalstorage/</link>
-      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge3b4e/the_problem_with_windowlocalstorage/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于瀑布、敏捷和以声明方式编写程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge32g2/on_waterfall_agile_and_writing_programs_somewhat/</link>
-      <description><![CDATA[  由    /u/pgess  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge32g2/on_waterfall_agile_and_writing_programs_somewhat/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机真的很快吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge2tdm/does_computers_are_really_fast/</link>
-      <description><![CDATA[  由    /u/phdppp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge2tdm/does_computers_are_really_fast/</guid>
-      <pubDate>Mon, 28 Oct 2024 14:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Docker Compose 设置本地 PostgreSQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge2l31/how_to_setup_a_local_postgresql_using_docker/</link>
-      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge2l31/how_to_setup_a_local_postgresql_using_docker/</guid>
-      <pubDate>Mon, 28 Oct 2024 13:52:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

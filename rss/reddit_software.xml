@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 00:03:34 GMT</lastBuildDate>
+    <item>
+      <title>文档库组织软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gedar2/software_for_document_library_organization/</link>
+      <description><![CDATA[我正在寻找软件来帮助我组织一个包含 PDF、Word 文件、ePUB 等的小型库。我在想，我可以使用某种软件通过标签进行搜索、按封面浏览并阅读它们，就像 MediaMonkey 或 MusicBee 对音乐文件所做的那样。 我收集的这些文档（文章、手册、电子书、私人信件等）现在有点笨重，但按主题松散地组织到我的 Synology NAS 上的不同文件夹中，文件名并不总是反映内容，因此很难搜索。 我希望这是一个自托管解决方案（在 NAS 上运行，因为这些文件就在那里），我可以从 Windows、Android 平板电脑、iPad 等连接到我的库并浏览它们。如果它可以自动使用 PDF 中的标题和作者进行标记（其中许多是扫描件），那就加分了。 我查看了 Zotero，但发现它主要用于管理引文，这不是我的目标。此外，Zotero 似乎希望您将所有 PDF 放入其自己的文件夹中，而不是索引您已有的内容。 我查看了 Paperless-ngx，甚至将其安装在我的 NAS 上，但它也希望将所有内容放在自己的文件夹中，并且特别针对账单等扫描文件。 我查看了 Kavita Reader，它可能满足我的需求，但由于它面向漫画，因此似乎不支持 Word 文件。 很多人似乎建议使用 Calibre，但据我所知，它更多地是关于转换电子书格式，并且是为本地文件和本地使用而设计的。 如果我不公平地拒绝了上述四个选项中的任何一个，我欢迎提出建议或想法。     由    /u/Joe_Q 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gedar2/software_for_document_library_organization/</guid>
+      <pubDate>Mon, 28 Oct 2024 21:10:16 GMT</pubDate>
+    </item>
     <item>
       <title>网络吞吐量监控</title>
       <link>https://www.reddit.com/r/software/comments/1ge8rd3/network_throughput_monitoring/</link>
@@ -64,14 +71,14 @@
     <item>
       <title>由于 spacedesk，无法进行文件传输</title>
       <link>https://www.reddit.com/r/software/comments/1gdy7mx/cant_do_file_transfer_due_to_spacedesk/</link>
-      <description><![CDATA[我安装了 spacedesk，通过 USB 数据线将其从 PC 插入 Android 手机后，它会自动打开显示模式，但正因为如此，我无法使用文件传输将文件从 PC 复制到手机。如何修复此问题？    提交人    /u/ZarrarTheLegendary   [link] [评论]]]></description>
+      <description><![CDATA[我安装了 spacedesk，它在我的电脑上通过 USB 数据线插入 Android 手机后会自动打开显示模式，但正因为如此，我无法使用文件传输将文件从电脑复制到手机。如何修复此问题？    提交人    /u/ZarrarTheLegendary   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdy7mx/cant_do_file_transfer_due_to_spacedesk/</guid>
       <pubDate>Mon, 28 Oct 2024 09:52:40 GMT</pubDate>
     </item>
     <item>
       <title>Nero Platinum 值得吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gdv64u/is_nero_platinum_worth_it/</link>
-      <description><![CDATA[我不断收到有关 2025 年 Nero Platinum 折扣的电子邮件，我正在考虑。我需要刻录 ROM，但它似乎包含许多其他功能，如视频和图像编辑。有人用过吗？谢谢你的帮助。    提交人    /u/Safe_Mousse_5660   [link] [评论]]]></description>
+      <description><![CDATA[我不断收到有关 2025 年 Nero Platinum 折扣的电子邮件，我正在考虑。我需要刻录 ROM，但它似乎包含很多其他功能，如视频和图像编辑。有人用过吗？谢谢你的帮助。    提交人    /u/Safe_Mousse_5660   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdv64u/is_nero_platinum_worth_it/</guid>
       <pubDate>Mon, 28 Oct 2024 05:55:30 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>LAN Web 界面访问不起作用</title>
       <link>https://www.reddit.com/r/software/comments/1gdmajz/accès_interface_web_lan_marche_pas/</link>
-      <description><![CDATA[Lan Web 界面访问不起作用 您好， 我开始使用 opnsense。我在 vmware 上创建了一个虚拟机，其中有 4 个核心 4GB RAM 4 个网卡：NAT 中的网卡 1 LAN 段“LAN 段 1”中的网卡 2 LAN网段“LAN网段2”中的网卡3被设置为“LAN网段2”。 LAN网段“LAN网段3”中的网卡3被设置为“LAN网段3”。当我安装时一切都很顺利。当我配置接口时，网卡1是em0 网卡2是em1等 但是当我想从我的物理机访问opnsense Web界面时，当我输入“IP地址”时，它不起作用虚拟机的 LAN 我必须通过在安装了 opnsense 的虚拟机的 shell 中执行 pfctl -d 来停用防火墙，然后我可以通过输入 wan 的 IP 地址来访问该接口。 我完全迷失了，我不知道如何在不禁用防火墙的情况下通过 LAN 访问 Web 界面。 提前感谢您的帮助 &lt; !-- SC_ON --&gt;  由   提交/u/Potential_Athlete939   [链接] [评论]]]></description>
+      <description><![CDATA[Lan Web 界面访问不起作用 您好， 我开始使用 opnsense。我在 vmware 上创建了一个虚拟机，其中有 4 核 4GB RAM 4 个网卡：NAT 中的网卡 1 LAN 段“LAN 段 1”中的网卡 2 LAN网段“LAN网段2”中的网卡3被设置为“LAN网段2”。 LAN网段“LAN网段3”中的网卡3被设置为“LAN网段3”。当我安装时一切都很顺利。当我配置接口时，网卡1是em0 网卡2是em1等 但是当我想从我的物理机访问opnsense Web界面时，当我输入“IP地址”时，它不起作用虚拟机的 LAN 我必须通过在安装了 opnsense 的虚拟机的 shell 中执行 pfctl -d 来停用防火墙，然后我可以通过输入 wan 的 IP 地址来访问该接口。 我完全迷失了，我不知道如何在不禁用防火墙的情况下通过 LAN 访问 Web 界面。 提前感谢您的帮助 &lt; !-- SC_ON --&gt;  由   提交/u/Potential_Athlete939   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdmajz/accès_interface_web_lan_marche_pas/</guid>
       <pubDate>Sun, 27 Oct 2024 21:52:56 GMT</pubDate>
     </item>
@@ -113,14 +120,14 @@
     <item>
       <title>有什么程序可以让我调整死区吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gdjhs9/any_program_that_allows_me_to_adjust_deadzone/</link>
-      <description><![CDATA[大家好，希望你们一切都好，我购买用于 PC Windows 的 Xbox PowerA 增强型有线控制器已经一年了，使用 1 个月后，LT 触发器变得过于敏感，后来 RT 也毫无理由地变得过于敏感，但是…… 所以我想 Deadzone 就是解决方案，当我在 Duckstation 和 PCSX2 模拟器上玩游戏时，我可以在它们上使用 Deadzone，因为它在 EMU 中实现，但是当我在 Steam 上玩游戏（如 Sparking Zero）时，我只能更改启动器上操纵杆的死区，而不能更改触发器。你知道有什么程序可以让我在触发器上使用死区吗？不仅对于 steam，对于所有东西    提交人    /u/Dear_Cold_8023   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，希望你们一切都好，我购买 Xbox PowerA 增强型有线控制器（用于 PC Windows）已经一年了，使用 1 个月后，LT 触发器变得过于敏感，后来 RT 也毫无理由地变得过于敏感，但是…… 所以我想，当我在 Duckstation 和 PCSX2 模拟器上玩游戏时，Deadzone 就是解决方案，我可以在它们上使用 Deadzone，因为它是在 EMU 中实现的，但是当我在 Steam 上玩游戏（例如 Sparking Zero）时，我只能更改启动器上操纵杆的死区，而不能更改触发器。你知道有什么程序可以让我在触发器上使用死区吗？不仅对于 steam，对于所有东西    提交人    /u/Dear_Cold_8023   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdjhs9/any_program_that_allows_me_to_adjust_deadzone/</guid>
       <pubDate>Sun, 27 Oct 2024 19:46:51 GMT</pubDate>
     </item>
     <item>
       <title>有没有比 Clipchamp 更好的免费替代品？我不想付费订阅</title>
       <link>https://www.reddit.com/r/software/comments/1gdjgl7/are_there_any_good_free_alternatives_to_clipchamp/</link>
-      <description><![CDATA[我试图找到一个简单的视频编辑器来合并一些视频，但由于它们是 1440p，我无法使用 Clipchamp 在没有订阅的情况下导出它们，而我不想为此付费。我研究过像 CapCut 这样的在线编辑器，但由于视频很长而且质量很高，它们占用了几 GB。我想知道是否有任何免费的替代品。     提交人    /u/tykouh   [link] [评论]]]></description>
+      <description><![CDATA[我试图找到一个简单的视频编辑器来合并一些视频，但由于它们是 1440p，我无法使用 Clipchamp 在没有订阅的情况下导出它们，而我又不想为此付费。我研究过像 CapCut 这样的在线编辑器，但由于视频很长而且质量很高，它们占用了几 GB。我想知道是否有任何免费的替代品。     提交人    /u/tykouh   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdjgl7/are_there_any_good_free_alternatives_to_clipchamp/</guid>
       <pubDate>Sun, 27 Oct 2024 19:45:19 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我基本上是在寻找一种使用手写笔直接在数字教科书上手写笔记的方法。大多数书籍目前都是 PDF 格式，但如果需要，我可以轻松转换它们。我使用 Microsoft Surface，使用 Edge/OneNote 组合可以完成工作，但在理想情况下，我会有一个允许这些功能同时组织文件本身并更像电子阅读器的程序 - 有什么建议吗？    提交人    /u/icyaspen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdj241/im_looking_for_an_ebook_reader_that_lets_you_take/</guid>
       <pubDate>Sun, 27 Oct 2024 19:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI聊天代理来管理您的公共云</title>
-      <link>https://www.reddit.com/r/software/comments/1gdgrg4/ai_chat_agent_to_manage_your_public_cloud/</link>
-      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gdgrg4/ai_chat_agent_to_manage_your_public_cloud/</guid>
-      <pubDate>Sun, 27 Oct 2024 17:49:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
