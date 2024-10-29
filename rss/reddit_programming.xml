@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 29 Oct 2024 12:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 15:02:16 GMT</lastBuildDate>
+    <item>
+      <title>在 Postgres 中创建日期箱的 4 种方法：interval、date_trunc、extract 和 to_char</title>
+      <link>https://www.reddit.com/r/programming/comments/1gewo2s/4_ways_to_create_date_bins_in_postgres_interval/</link>
+      <description><![CDATA[  由    /u/winsletts  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gewo2s/4_ways_to_create_date_bins_in_postgres_interval/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Randal Schwartz：我的半生与 Perl 相处</title>
+      <link>https://www.reddit.com/r/programming/comments/1gewbrp/randal_schwartz_half_my_life_with_perl/</link>
+      <description><![CDATA[  由    /u/oalders  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gewbrp/randal_schwartz_half_my_life_with_perl/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elastic 意外地将 repo 标记为私有，构建管道失败。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gew2n7/elastic_accidentally_marks_repo_as_private_build/</link>
+      <description><![CDATA[  由    /u/ivanmartinvalle  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gew2n7/elastic_accidentally_marks_repo_as_private_build/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:33:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Node.js、Deno 和 Bun 中去除 TypeScript 类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1gevfrb/strip_typescript_types_in_nodejs_deno_and_bun/</link>
+      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gevfrb/strip_typescript_types_in_nodejs_deno_and_bun/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:05:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写易于删除、不易扩展的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1geuvkg/write_code_that_is_easy_to_delete_not_easy_to/</link>
+      <description><![CDATA[  由    /u/tapmylap  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1geuvkg/write_code_that_is_easy_to_delete_not_easy_to/</guid>
+      <pubDate>Tue, 29 Oct 2024 13:40:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>矢量数据库是错误的抽象</title>
+      <link>https://www.reddit.com/r/programming/comments/1geuere/vector_databases_are_the_wrong_abstraction/</link>
+      <description><![CDATA[  由    /u/jascha_eng  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1geuere/vector_databases_are_the_wrong_abstraction/</guid>
+      <pubDate>Tue, 29 Oct 2024 13:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>SmartCat：我尝试为终端居住者制作最有效的 LLM 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1geu5ck/smartcat_my_attempt_at_making_the_most_efficient/</link>
+      <description><![CDATA[  由    /u/nanuqk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1geu5ck/smartcat_my_attempt_at_making_the_most_efficient/</guid>
+      <pubDate>Tue, 29 Oct 2024 13:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年成为一名软件工程师是否值得？</title>
+      <link>https://www.reddit.com/r/programming/comments/1getkre/is_it_worth_becoming_a_software_engineer_in_2024/</link>
+      <description><![CDATA[  由    /u/risquer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1getkre/is_it_worth_becoming_a_software_engineer_in_2024/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:38:58 GMT</pubDate>
+    </item>
     <item>
       <title>不安全的 Rust 比 C 更难</title>
       <link>https://www.reddit.com/r/programming/comments/1gesfdh/unsafe_rust_is_harder_than_c/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1geoshi/dataoriented_vs_domainoriented_should_ddd_be_the/</guid>
       <pubDate>Tue, 29 Oct 2024 07:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我解答了 1000 多道 Leetcode 问题并将它们记录在博客中</title>
-      <link>https://www.reddit.com/r/programming/comments/1geoph7/i_solved_1000_leetcode_problems_and_captured_them/</link>
-      <description><![CDATA[  由    /u/grid417  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1geoph7/i_solved_1000_leetcode_problems_and_captured_them/</guid>
-      <pubDate>Tue, 29 Oct 2024 07:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Meson 组装 Game Boy 游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1geoh5z/assembling_a_game_boy_game_with_meson/</link>
-      <description><![CDATA[  由    /u/Xaneris47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1geoh5z/assembling_a_game_boy_game_with_meson/</guid>
-      <pubDate>Tue, 29 Oct 2024 06:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线工具提供多种散列、编码、解码、加密、解密、格式化、生成功能。包括 MD5、SHA-256、SHA-512、SHA-3、Keccak、Base64、Base32、JSON、XML 和二维码相关工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1geo003/online_tools_offer_many_functions_for_hashing/</link>
-      <description><![CDATA[  由    /u/phone_radio_tv  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1geo003/online_tools_offer_many_functions_for_hashing/</guid>
-      <pubDate>Tue, 29 Oct 2024 06:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 OOP 概念的最重要面试问题和实践测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1gemby7/most_important_interview_questions_practice_test/</link>
-      <description><![CDATA[  由    /u/erdsingh24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gemby7/most_important_interview_questions_practice_test/</guid>
-      <pubDate>Tue, 29 Oct 2024 04:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合新手编程吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gem46v/programming_for_newbie/</link>
-      <description><![CDATA[你好。我今年 13 岁（是的，我知道应用程序是 17+；我希望它不会被删除）。大约十二岁时，我开始学习 Python，从那天到今天大约有 6 个月的经验（我大约 12.5 岁时开始编程），虽然我对许多函数有相当好的了解，了解类/对象，了解 chr()/ord()、“”.join(lst)、bin(num) 等内容，但当我做小项目时，我感到困惑。例如，为了学习 Python 本身，我使用 Programiz，由于我完成了它的硕士课程，我转向了 Codewars。如果我无法解决比 5-6 级更难的练习，我应该称自己笨吗？请问，如果有人可以告诉我其他学习方法，或者关于学习编程语言的建议，因为我想成为一名 Web 开发人员，这可能需要对 JS、HTML 和 CSS 有很好的了解。 我也在上面发布了 Codewars 链接。 （英语不是我的母语；如有错误，请谅解！）    提交人    /u/Timurmasss   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gem46v/programming_for_newbie/</guid>
-      <pubDate>Tue, 29 Oct 2024 04:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delmar 的 DeWALT Mobile Pro 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1gelrdy/dewalt_mobile_pro_app_from_delmar/</link>
-      <description><![CDATA[旧的 Dewalt 计算器应用程序。 如果这不是提出这个问题的地方，我很抱歉，但我没有主意了。我需要编写一个具有旧应用程序所有功能的计算器，用于我的业务。我尝试在线寻找现有的应用程序，但它们并不是很好。我尝试了几个小时的聊天 gpt 4，但做不到。有人可以帮忙吗？它基本上是一个可以添加英尺、英寸和英寸分数的计算器。    提交人    /u/ReachComprehensive58   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gelrdy/dewalt_mobile_pro_app_from_delmar/</guid>
-      <pubDate>Tue, 29 Oct 2024 03:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年在 Flutter 和 React Native 之间做出选择</title>
-      <link>https://www.reddit.com/r/programming/comments/1gelfqx/choosing_between_flutter_and_react_native_in_2024/</link>
-      <description><![CDATA[  由    /u/damian2000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gelfqx/choosing_between_flutter_and_react_native_in_2024/</guid>
-      <pubDate>Tue, 29 Oct 2024 03:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个名称更适合我的应用程序？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gekmrp/which_name_is_better_for_my_application/</link>
-      <description><![CDATA[  由    /u/PhpWebStudy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gekmrp/which_name_is_better_for_my_application/</guid>
-      <pubDate>Tue, 29 Oct 2024 02:47:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
