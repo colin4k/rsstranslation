@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 29 Oct 2024 15:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 18:02:22 GMT</lastBuildDate>
+    <item>
+      <title>你的开源 h 指数是多少？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gf0ubc/what_is_your_open_source_hindex/</link>
+      <description><![CDATA[        提交人    /u/gorimur   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gf0ubc/what_is_your_open_source_hindex/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何向我爸爸解释开源？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gezomu/how_do_i_explain_open_source_to_my_dad/</link>
+      <description><![CDATA[我是一名软件工程师。我父亲是那种老派的总承包商。他所有的工作都是用铅笔和纸完成的，50 岁时才拥有第一部智能手机。 我经常在我的项目中使用开源软件，如果我找到回馈的机会，我就会去做。从我父亲的角度来看，他无法理解为什么有人会免费编写软件并将其公开，因为这个想法违背了他大脑中作为企业主的那部分。 这不是一个非常紧迫的问题，我只是看到他努力去理解我正在做的事情，我不确定如何向完全不熟悉开源的人解释开源。 我很想听听你的想法。    提交人    /u/EcstaticPudding6251   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gezomu/how_do_i_explain_open_source_to_my_dad/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过全面的预设置启动您的 Flutter 项目！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gez3z3/kickstart_your_flutter_project_with_a/</link>
+      <description><![CDATA[大家好！我很高兴与大家分享我的开源 Flutter Pre-Setup，该项目旨在简化和加速新 Flutter 应用的设置过程。此设置包括内置 flavor、用于状态管理的 Riverpod、用于灵活导航的 GoRouter 以及用于开箱即用处理后端需求的 Firebase 集成。 无论您是刚开始使用 Flutter 还是希望简化多风格项目中的设置，此 repo 都为您提供了用于自动化设置和配置的脚本。在 GitHub 上查看，并随时提供反馈或贡献！    提交人    /u/Ok_Cucumber_131   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gez3z3/kickstart_your_flutter_project_with_a/</guid>
+      <pubDate>Tue, 29 Oct 2024 16:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以找到开发人员帮助开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gexiv4/where_can_i_find_developers_help_to_open_source/</link>
+      <description><![CDATA[各位编辑您好， 我正在创建一个开源项目，希望很快获得资金，尽管我知道这可能是一个雄心勃勃的目标。我正在寻找各种经验水平和年龄的开发人员来自愿为该项目做出贡献。长期愿景是，如果该项目将来获得资金，这些志愿者将获得奖励，甚至可能被提供官方职位。 您能告诉我在哪里可以找到这样的志愿者吗？ 感谢您的帮助。    提交人    /u/stathmarxis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gexiv4/where_can_i_find_developers_help_to_open_source/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>KoalaKeys - 创建便携式备忘单</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gex719/koalakeys_create_portable_cheat_sheets/</link>
+      <description><![CDATA[大家好， 当我决定少用鼠标时，我寻找一种工具来创建自定义键盘备忘单，但找不到合适的。所以，我决定构建 KoalaKeys。它可以生成时尚、可自定义的 HTML 备忘单，您几乎可以在任何地方使用 - 本地或托管。 您可以在此处找到 GitHub 存储库：KoalaKeys 我还在此处托管了一个公共实例：KoalaKeys Demo 期待您的反馈！    提交人    /u/rtuszik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gex719/koalakeys_create_portable_cheat_sheets/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>sim 适合初学者且易于破解的 sed 实现</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gewvmk/sim_a_beginner_friendly_hackable_implementation/</link>
+      <description><![CDATA[大家好，我最近完成了我的工具 sim 功能，并想与大家分享！ 我一直听说过 sed 这个工具，但从未真正使用它，因为在我看来，我发现它对初学者不太友好。不过最近我看了一段 Charles Cabergs 的视频，其中详细介绍了 sed 的功能，让我意识到这个工具有多强大。但是，由于其界面的性质，我仍然觉得它很难使用。我真的相信它是一个功能强大的工具，如果有一种更简单的使用方法，我和其他开发人员可能会对它感兴趣。考虑到这一点，我开始实施 sed，我称之为 sim，并考虑了两个设计目标：  命令需要是自文档化的，并且只需要对周围程序有最少的了解即可添加。 它需要有一个前端（对命令进行编码的方式），该前端对大多数人来说都很容易使用，但应该与程序执行的基本逻辑完全脱钩，以便如果有人想要一个不同的前端，他们可以轻松地将其换出。  有关 sed/sim 的更多详细信息，我建议观看上面链接的视频。如果有人想要一个以特定方式操纵流的特定脚本，请在评论中详细说明，我很乐意提供一个模拟脚本来以这种方式编辑它（前提是它不是超级疯狂哈哈）。 这里是我的实现的链接。谢谢阅读！如果您有任何疑问，我将尽我所能在下面回答。    提交人    /u/knd256   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gewvmk/sim_a_beginner_friendly_hackable_implementation/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:08:03 GMT</pubDate>
+    </item>
     <item>
       <title>合作翻译：使用单一命令本地化项目（自动执行 Markdown 和图像翻译）</title>
       <link>https://www.reddit.com/r/opensource/comments/1gev2tn/coop_translator_localizing_projects_with_a_single/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我制作了这个，我需要人们来测试和建议    提交人    /u/GamerG3arYT   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gdnlf5/unix_cat_command_for_windows_written_in_rust/</guid>
       <pubDate>Sun, 27 Oct 2024 22:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>来自天堂的加密和解密 CLI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdlkxd/the_encryption_and_decryption_cli_tool_from_heaven/</link>
-      <description><![CDATA[      （来自   提交者：    /u/Gorrilac   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdlkxd/the_encryption_and_decryption_cli_tool_from_heaven/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源许可证 - 用于商业用途</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdle0z/open_source_licenses_for_commercial_use/</link>
-      <description><![CDATA[嘿 r/opensource， 我正在开发一款商业产品，计划将其开源，因为我相信允许客户审核和探索它将带来巨大的商业优势。 话虽如此，我确实想保留它的商业权利——我不反对任何公司在内部开发团队的帮助下自行将产品用于商业用途——我想否认第三方以 SaaS 或分发形式提供我的产品的可能性。 查看 Commons Clause、SSPL、Elastic License、Business Source License 等许可证——所有许可证似乎都很合理 这会在多大程度上阻止您（作为企业）使用根据这些条款销售的产品？ 对不同的许可证有什么看法？ 您是否曾经推出过商业开源产品？失败点？ 我熟悉 OSI 的定义，并且可以接受没有“OSI 批准”，许可条款从第一天起就很明确。如果任何一方使用该产品或为其做出贡献不符合其利益，他们可以避免使用它 - 没有诱饵和转换。 将咨询法律建议，只是想了解您对当前主题的看法。    提交人    /u/virann   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdle0z/open_source_licenses_for_commercial_use/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creative Prompt AI - 一款开源图像生成应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdjoe5/creative_prompt_ai_an_open_source_image/</link>
-      <description><![CDATA[大家好， 我制作了一个 AI 图像生成应用程序 Creative Prompt AI，这是一款用于无缝图像生成的开源应用程序。它具有简单的设置、从 Hugging Face 加载模型、可自定义的提示和交互式查看器，是探索人工智能驱动的创造力的艺术家和设计师的理想选择。 我很高兴听到您对如何在未来改进此产品的反馈和建议。 周末愉快！ https://github.com/irtiq7/CreativePromptAI    提交人    /u/irtiq7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdjoe5/creative_prompt_ai_an_open_source_image/</guid>
-      <pubDate>Sun, 27 Oct 2024 19:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个本地 macOS 图像背景去除器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</link>
-      <description><![CDATA[分享我的第二个开源 macOS 应用： https://github.com/nuance-dev/Figura 这次我制作了一个原生背景去除器，效果非常好。作为一名设计师，它让我不必打开 Photoshop 并手动执行此操作，因为我发现的其他替代方案都是付费的。 我会继续分享这些免费应用一段时间。 编辑：此应用是 macOS 自身背景去除功能的包装器，需要 macOS 14+    提交人    /u/sirjoaco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdhqnf/i_made_a_local_macos_image_background_remover/</guid>
-      <pubDate>Sun, 27 Oct 2024 18:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能语音克隆</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</link>
-      <description><![CDATA[所以这个人（YouTube 上的“缪斯”）说他们为此至少支付了 200 多美元，但这不是 11 个实验室，我不知道它是否开放，他们也不会告诉他们的订阅者他们在使用什么，所以 idkkk 我真的需要知道他们在使用什么以及它为什么这么好😭     提交人    /u/siredtom   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</guid>
-      <pubDate>Sun, 27 Oct 2024 08:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我听说这篇文章中有一些不准确的信息，我希望得到一些民事批评，以便我可以纠正它</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcyxjt/ive_heard_nonspecific_mentions_of_inaccuracies_in/</link>
-      <description><![CDATA[    /u/ThankYouNeutronix_02   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcyxjt/ive_heard_nonspecific_mentions_of_inaccuracies_in/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:24:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
