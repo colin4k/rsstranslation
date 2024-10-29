@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 29 Oct 2024 00:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:08:04 GMT</lastBuildDate>
+    <item>
+      <title>使用 Python 开发一个 GNU/Linux 系统实用程序，提醒您定期短暂休息以放松眼睛。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gei7qk/developing_a_gnulinux_system_utility_that_reminds/</link>
+      <description><![CDATA[正如标题所说，我正在开发一个系统实用程序，提醒您定期休息以放松视力。我选择Python是因为我认为它是最好的技术。我是一名 Web 开发人员，但我正在通过开源社会大学学习它并进行研究。 由于我的工作是开发人员和在线学习，我不得不花很多时间盯着笔记本电脑的屏幕。寻找休息视力的方法，有时甚至在下午或晚上变得模糊，我发现短暂的休息很有帮助。但是，为一天设置多个闹钟非常烦人，所以我决定深入开发一个提醒您通知的系统实用程序。  当然，它是开源的，可以免费下载和使用。我的目标是让它在 Debian、Arch Linux 和 Redhat/Fedora（以及基于此的）发行版中可用，但我仍在尝试寻找实现它的方法。 由于我有一份全职工作，而且还在学习，所以我没有太多时间恢复它的开发，自三周前暂停以来。但我想分享这个存储库，以防有人有任何建议：  如何继续开发。 改进它的想法。 提高代码质量和实践的建议。 如果您有兴趣，可以合作。  提前谢谢！ 这里是链接。    由    /u/frambuesasychoco 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gei7qk/developing_a_gnulinux_system_utility_that_reminds/</guid>
+      <pubDate>Tue, 29 Oct 2024 00:47:15 GMT</pubDate>
+    </item>
     <item>
       <title>生锈会让人类倒退</title>
       <link>https://www.reddit.com/r/opensource/comments/1gegvwo/rust_will_make_humanity_go_backwards/</link>
@@ -127,7 +134,7 @@
     <item>
       <title>人工智能语音克隆</title>
       <link>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</link>
-      <description><![CDATA[所以这个人（YouTube 上的“缪斯”）说他们为此至少支付了 200 多美元，但这不是 11 个实验室，我不知道它是否开放，他们也不会告诉他们的订阅者他们在使用什么，所以 idkkk 我真的需要知道他们在使用什么以及它为什么这么好😭     提交人    /u/siredtom   [link] [评论]]]></description>
+      <description><![CDATA[所以这个人（YouTube 上的“缪斯”）说他们为此至少支付了 200 多美元，但这不是 11 个实验室，我不知道它是否开放，他们也不会告诉他们的订阅者他们在使用什么，所以我真的需要知道他们在使用什么以及它为什么这么好😭     提交人    /u/siredtom   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</guid>
       <pubDate>Sun, 27 Oct 2024 08:08:34 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[https://github.com/loopsandvariables/x-themed-profile  我想在网上放一个小档案，其中包含指向我的项目或写作的链接，所以我制作了这个并将其放在 GitHub 上。 如果您不想使用 SvelteKit，那里有一个简单的 HTML 版本。    提交人    /u/loopsvariables   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gd5ee8/created_a_link_in_bio_design_you_can_clone_and/</guid>
       <pubDate>Sun, 27 Oct 2024 07:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我听说这篇文章中有一些不准确的信息，我希望得到一些民事批评，以便我可以纠正它</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gcyxjt/ive_heard_nonspecific_mentions_of_inaccuracies_in/</link>
-      <description><![CDATA[    /u/ThankYouNeutronix_02   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gcyxjt/ive_heard_nonspecific_mentions_of_inaccuracies_in/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:24:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
