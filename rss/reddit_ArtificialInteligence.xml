@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 09:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 12:01:49 GMT</lastBuildDate>
+    <item>
+      <title>Claude 在编码方面远胜于 ChatGPT。你的体验如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gesu4n/claude_is_far_superior_than_chatgpt_in_coding/</link>
+      <description><![CDATA[我一直在使用 chatgpt 构建一款多人编码问答游戏，但遇到了一个逻辑问题，chatgpt 无法帮助我解决。 我尝试了多个提示，一遍又一遍地重写了我的代码，但仍然无法让它正常工作。 在这上面花了太多时间之后，我决定试试 Claude 3.5 Sonnet（新版）。 Claude 立刻找到了问题的根源，令我惊喜的是，他在第一次尝试时就给了我正确的代码！ 说实话，我很震惊。昨天我花了几个小时用 ChatGPT 试图解决这个问题，但 Claude 一次就搞定了。 我确信 Claude 在编码方面比 ChatGPT 更胜一筹。到目前为止，您的体验如何？    提交人    /u/johnzakma10   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gesu4n/claude_is_far_superior_than_chatgpt_in_coding/</guid>
+      <pubDate>Tue, 29 Oct 2024 11:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 1.5 Pro 的主要功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gescwb/key_features_of_gemini_15_pro/</link>
+      <description><![CDATA[Gemini 1.5 Pro 模型凭借其关键功能脱颖而出，这些功能可增强其在各种应用中的性能和实用性。 扩展的上下文窗口 Gemini 1.5 Pro 最显着的功能之一是其扩展的上下文窗口。这使模型能够一次性处理更大的信息块，从而提高其对上下文的理解并增强其输出的相关性。 增强的参数数量 凭借多达 200 万个参数，Gemini 1.5 Pro 在生成响应方面提供了更高的准确性和效率。增加的参数数量可以实现更详细、更细致的语言理解，使其成为开发人员的强大工具。 阅读：https://stellarmind.ai/blog/google%E2%80%99s-generative-ai-advances-gemini1.5-pro-and-gemma2    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gescwb/key_features_of_gemini_15_pro/</guid>
+      <pubDate>Tue, 29 Oct 2024 11:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，我是 Olivia Squizzle，我将取代 AI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ges605/hi_im_olivia_squizzle_and_im_gonna_replace_ai/</link>
+      <description><![CDATA[https://pivot-to-ai.com/2024/10/28/hi-im-olivia-squizzle-and-im-gonna-replace-ai/    提交人    /u/amycastor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ges605/hi_im_olivia_squizzle_and_im_gonna_replace_ai/</guid>
+      <pubDate>Tue, 29 Oct 2024 11:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌搜索中的 AI 概览现已在 100 个国家/地区提供</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geru9e/ai_overview_in_google_search_is_now_available_in/</link>
+      <description><![CDATA[  由    /u/Technicallysane02  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geru9e/ai_overview_in_google_search_is_now_available_in/</guid>
+      <pubDate>Tue, 29 Oct 2024 11:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>人性化计算机使用：使用 Claude 3.5 实现桌面自动化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ger0vp/anthropic_computer_use_automate_your_desktop_with/</link>
+      <description><![CDATA[最近，Anthropic AI 改进了他们的 Claude 3.5 Sonnet 和 Claude 3.5 Haiku。通过此更新，他们引入了一项新功能，该功能将彻底改变我们与 AI 的工作方式和交互方式。他们引入了计算机使用，这是一项突破性的新功能，可以查看您的屏幕、移动鼠标​​、单击按钮和键入文本。  本质上，它可以根据简单的提示为您完成所有事情。您所要做的就是编写提示，Claude 将执行实现目标的所有必要步骤。 在这里，我们将了解 Anthropic 的计算机使用、它的工作原理以及如何开始将其与 Docker 一起使用。我们还将学习如何改进模型的性能、用例、局限性和定价。 链接：https://www.datacamp.com/blog/what-is-anthropic-computer-use    提交人    /u/kingabzpro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ger0vp/anthropic_computer_use_automate_your_desktop_with/</guid>
+      <pubDate>Tue, 29 Oct 2024 10:08:13 GMT</pubDate>
+    </item>
     <item>
       <title>您最喜欢的、可能每天都会使用的人工智能工具有哪些？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gepxwk/what_are_your_favorite_ai_tools_that_you_may_use/</link>
@@ -69,20 +104,6 @@
       <pubDate>Tue, 29 Oct 2024 01:59:59 GMT</pubDate>
     </item>
     <item>
-      <title>付费无限视频 AI 生成器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geje82/paid_unlimited_video_ai_generator/</link>
-      <description><![CDATA[我一直在寻找真正无限制的付费服务。所有 AI 工具都有某种限制。即使每月 100 美元仍然有限制。     提交人    /u/hikitakumori   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geje82/paid_unlimited_video_ai_generator/</guid>
-      <pubDate>Tue, 29 Oct 2024 01:44:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能语音克隆程序？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gehmly/ai_voice_cloning_programs/</link>
-      <description><![CDATA[大家好！我是一名词曲作者，所以我倾向于以许多不同艺术家的风格创作音乐，以便练习和建立简历。这里有人知道任何免费的应用程序、网站或程序，我可以在其中提供主题的声音样本以及包括乐器在内的完整录制歌曲，并通过程序运行它以在脑海中以艺术家的声音生成完整的歌曲？有点像一个概念。提前谢谢您&lt;33    提交人    /u/PlayyyBunnyyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gehmly/ai_voice_cloning_programs/</guid>
-      <pubDate>Tue, 29 Oct 2024 00:19:25 GMT</pubDate>
-    </item>
-    <item>
       <title>我制作了一个视频，其中列出了完整的 AI 知识堆栈的路线图。非常欢迎任何反馈，以便我可以进行改进或纠正任何错误。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geh9nz/ive_created_a_video_that_lays_out_a_roadmap_of/</link>
       <description><![CDATA[https://youtu.be/HGgRUs0Mg0o 这实际上是一个学习完整 AI 生态系统的框架，而不仅仅是底层技术的细节。从底层的数学和 Python 开始，一直向上到监管框架和 AI 的文化影响。 我们的想法是帮助人们从高层次上了解整个情况，并根据他们想要做的事情，为他们推荐学习的重点。 如有任何反馈，我们将不胜感激，请随时在此处或在 YouTube 视频页面上发表评论。 TIA    提交人    /u/ghelmstetter   [链接] [评论]]]></description>
@@ -97,32 +118,11 @@
       <pubDate>Mon, 28 Oct 2024 23:50:27 GMT</pubDate>
     </item>
     <item>
-      <title>定制私人助理的效果如何？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1geakux/how_well_would_a_custom_personal_assistant_work/</link>
-      <description><![CDATA[我想制作一个与当前助手不同、对我真正有用的个人助理。  主要功能是，我可以编写自定义函数来控制卧室灯光、添加提醒、计时器、提问或任何我能想到的函数。 另一个主要功能是它可以在我的所有设备之间同步，我可以将它安装在手机、笔记本电脑和家用电脑上，并且可以处理文本或语音。 我在想我可以使用 Gemini 来构建它，因为它有非常长的上下文窗口，这样我就可以让我的对话在多个设备和多天内进行。 我想开发这个应该很简单，但我想知道它在实践中会有多好？它真的能从我们的对话中学习吗？它能准确地映射我的个性，知道如何以我最能理解的方式回应吗？最初的想法是试图消除我当前头脑中的弱点。    提交人    /u/pjjiveturkey   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1geakux/how_well_would_a_custom_personal_assistant_work/</guid>
-      <pubDate>Mon, 28 Oct 2024 19:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>WUI.ai 真的能帮助将长视频制作成病毒式传播的短片吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge957q/can_wuiai_really_help_create_viral_clips_from/</link>
-      <description><![CDATA[WUI.ai 听起来像是制作病毒式视频的梦想，但它真的有效吗？想知道是否有人使用此工具制作的视频成功传播。告诉我你的经验！    提交人    /u/asus-24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge957q/can_wuiai_really_help_create_viral_clips_from/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:19:53 GMT</pubDate>
-    </item>
-    <item>
       <title>目前最强大但最新的AI模型是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge8uep/what_is_now_the_most_powerful_but_current_ai_model/</link>
       <description><![CDATA[我一直在使用 ChatGPT 4，它无法访问 2023 年 10 月以后的任何最新内容，这根本不利。 有人在使用更好、更当前的东西吗？    提交人    /u/ZebraNo4045   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge8uep/what_is_now_the_most_powerful_but_current_ai_model/</guid>
       <pubDate>Mon, 28 Oct 2024 18:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人代理/数字孪生实验</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ge6f8h/personal_agent_digital_twin_experiment/</link>
-      <description><![CDATA[有人对个人 AI 代理感兴趣吗？我对真实可靠的个人代表感兴趣，对会说话的头像或声音克隆不太感兴趣。 我最近用我公开的约 45000 字的写作、见解、背景故事等以及广泛的指导、规则、声音、界限、期望等训练了一个助手（OAI Assistant、4o mini、上下文训练语料库）。它还可以访问我的日历，并可以通过助手工具访问 Twilio。我开始尝试让它协商会议、喝咖啡等时间。我对初始版本非常满意。最大的挑战都与准确的表示有关：将 AI 限制在训练语料库中，知道 AI 何时偏离训练数据（把话塞到我的嘴里），以及 AI 编造东西（不准确的表示）。 我已经将训练数据开源以供研究和讨论。希望讨论与获取个人和敏感数据访问权限的模型相关的代理、边缘/设备、隐私、安全和负责任的 AI 等主题。 试用一下双胞胎：https://qaswa.com/twin 讨论/贡献：https://github.com/ammonhaggerty/my-digital-twin    提交人    /u/ammoneggs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ge6f8h/personal_agent_digital_twin_experiment/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:29:33 GMT</pubDate>
     </item>
     <item>
       <title>你认为蓝领工作不会受到人工智能的威胁吗？再想想</title>
