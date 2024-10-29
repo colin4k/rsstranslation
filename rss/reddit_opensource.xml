@@ -4,13 +4,41 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 29 Oct 2024 18:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 21:01:53 GMT</lastBuildDate>
     <item>
-      <title>你的开源 h 指数是多少？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gf0ubc/what_is_your_open_source_hindex/</link>
-      <description><![CDATA[        提交人    /u/gorimur   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gf0ubc/what_is_your_open_source_hindex/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:52:54 GMT</pubDate>
+      <title>Omnivore 正在加入 11 个实验室</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gf4zw8/omnivore_is_joining_eleven_labs/</link>
+      <description><![CDATA[大家好-  我们很高兴地告诉大家，Omnivore 正在与领先的 AI 音频研究和技术公司 ElevenLabs 合作。我们的团队将加入 ElevenLabs，通过他们的新 ElevenReader 应用推动无障碍阅读和聆听的未来。 作为 ElevenLabs 团队的一员，我们将拥有一个更大的平台，为认真的读者创造无障碍且引人入胜的体验。我们通过将他们超逼真的 AI 语音集成到 Omnivore 中而认识了 ElevenLabs——很快，用 ElevenLabs 的声音收听文章和书籍就成为了 Omnivore 中最受欢迎的功能之一。我们对这个机会感到非常兴奋，我们想分享一些对您来说很重要的信息。 首先，邀请所有 Omnivore 用户在 ElevenReader 创建一个免费帐户。我们的团队已经为 ElevenReader 应用提供了有价值的更新，作为一款免费的首选阅读器和音频收听应用，它功能强大。 接下来，所有 Omnivore 用户都可以从服务中导出他们的信息，截止日期为 2024 年 11 月 15 日，此后所有信息都将被删除。 最后，ElevenLabs 致力于服务开发者社区，Omnivore 代码库将对所有用户保持 100% 开源。这一决定确保了更广泛的开发社区可以继续在 Omnivore 技术的基础上进行构建和改进。 如需了解有关 ElevenLabs 和 ElevenReader 应用的更多信息，或体验 AI 驱动的文本转语音技术的强大功能，请访问 elevenlabs.io 继续，杰克逊和洪博    提交人    /u/slashtab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gf4zw8/omnivore_is_joining_eleven_labs/</guid>
+      <pubDate>Tue, 29 Oct 2024 20:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>pgai Vectorizer 今日发布（可在 GitHub 上获取），用于自动创建和同步 PostgreSQL 中的向量嵌入，就像数据库索引一样</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gf3tgx/pgai_vectorizer_launched_today_available_on/</link>
+      <description><![CDATA[        提交人    /u/xenophenes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gf3tgx/pgai_vectorizer_launched_today_available_on/</guid>
+      <pubDate>Tue, 29 Oct 2024 19:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源表格和预订功能相结合</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gf2q0q/open_source_forms_and_bookings_combined/</link>
+      <description><![CDATA[我正在寻找的是表单和预订相结合的东西。这是针对学校环境的，因此学生可以选择第一学期的课程，然后选择第二学期的课程，但不能与第一学期相同。最好我们想找到一些开源的东西。有人有想法吗？    提交人    /u/IanBauters   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gf2q0q/open_source_forms_and_bookings_combined/</guid>
+      <pubDate>Tue, 29 Oct 2024 19:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>公开洗涤的秘密</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gf2n6o/the_open_secret_of_open_washing/</link>
+      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gf2n6o/the_open_secret_of_open_washing/</guid>
+      <pubDate>Tue, 29 Oct 2024 19:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一直在研究的很酷的图书馆</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gf2cef/cool_library_ive_been_working_on/</link>
+      <description><![CDATA[        提交人    /u/RevolutionarySize915   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gf2cef/cool_library_ive_been_working_on/</guid>
+      <pubDate>Tue, 29 Oct 2024 18:54:50 GMT</pubDate>
     </item>
     <item>
       <title>我该如何向我爸爸解释开源？</title>
@@ -29,7 +57,7 @@
     <item>
       <title>哪里可以找到开发人员帮助开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1gexiv4/where_can_i_find_developers_help_to_open_source/</link>
-      <description><![CDATA[各位编辑您好， 我正在创建一个开源项目，希望很快获得资金，尽管我知道这可能是一个雄心勃勃的目标。我正在寻找各种经验水平和年龄的开发人员来自愿为该项目做出贡献。长期愿景是，如果该项目将来获得资金，这些志愿者将获得奖励，甚至可能被提供官方职位。 您能告诉我在哪里可以找到这样的志愿者吗？ 感谢您的帮助。    提交人    /u/stathmarxis   [链接] [评论]]]></description>
+      <description><![CDATA[各位编辑您好， 我正在创建一个开源项目，希望很快获得资金，尽管我知道这可能是一个雄心勃勃的目标。我正在寻找各种经验水平和年龄的开发人员来自愿为该项目做出贡献。 长期愿景是，如果该项目将来获得资金，这些志愿者将得到奖励，甚至可能 获得官方职位。 您能告诉我在哪里可以找到这样的志愿者吗？ 感谢您的帮助。    提交人    /u/stathmarxis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gexiv4/where_can_i_find_developers_help_to_open_source/</guid>
       <pubDate>Tue, 29 Oct 2024 15:35:34 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好！ 我是 Fitter 的创建者。想介绍一下自上次更新以来的一些功能：  缓存。文档 代理。文档 Playwright 隐身模式 - 用于避免被机器人检测到。 新的占位符。 列表 Docker repo (目前仅限 linux-arm64) 链接  https://github.com/PxyUp/fitter PS: 解析 steam 销售的小例子: { &quot;item&quot;: { &quot;connector_config&quot;: { &quot;response_type&quot;: &quot;HTML&quot;, &quot;url&quot;: “https://gg.deals/deals/?drm=1&amp;minRating=0&amp;platform=1&amp;store=4”，“browser_config”：{“playwright”：{“timeout”：60000，“wait”：10000，“browser”：&quot;WebKit&quot; } } }，“model”：{“array_config”：{“root_path”：&quot;.deals-content #deals-list .list-items &gt; div&quot;, &quot;item_config&quot;：{ &quot;fields&quot;：{ &quot;name&quot;：{ &quot;base_field&quot;：{ &quot;type&quot;：&quot;string&quot;，&quot;path&quot;：&quot;.game-info-title-wrapper a&quot; } }, &quot;link&quot;：{ &quot;base_field&quot;：{ &quot;type&quot;：&quot;string&quot;，&quot;path&quot;：&quot;.game-cta.shop-link&quot;，&quot;html_attribute&quot;：&quot;href&quot;，&quot;generated&quot;：{ &quot;formatted&quot;：{ &quot;template&quot;：&quot;https://gg.deals{PL}&quot; } } } }, &quot;discount&quot;: { &quot;base_field&quot;: { &quot;type&quot;: &quot;string&quot;, &quot;path&quot;: &quot;.price-widget .discount&quot; } }, &quot;price&quot;: { &quot;base_field&quot;: { &quot;type&quot;: &quot;string&quot;, &quot;path&quot;: &quot;.price-wrapper span.game-price-new&quot; } } } } } } }  ./fitter_cli-${version} --path=./config.json &gt; sales.json [ { &quot;link&quot;: &quot;https://gg.deals/de/redirect/ba3de96c07daebb3423e37fbab7a06c1f67b7404/?utm_source=deals%2Findex&quot;, &quot;discount&quot;: &quot;-80%&quot;, &quot;price&quot;: &quot;13,99€&quot;, &quot;name&quot;: &quot;自杀小队：杀死正义联盟&quot; }, { &quot;price&quot;: &quot;9,99€&quot;, &quot;name&quot;: &quot;Parkitect&quot;, &quot;link&quot;: &quot;https://gg.deals/de/redirect/81224b6408d1674443221992c8460dcb94481d34/?utm_source=deals%2Findex&quot;, &quot;discount&quot;: &quot;-60%&quot; }, ... ]     提交人    /u/PyxRu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gdzg13/fitter_nocode_parser_new_features_updates/</guid>
       <pubDate>Mon, 28 Oct 2024 11:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>签名管理的替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdywpv/alternative_for_signature_management/</link>
-      <description><![CDATA[您好，我正在寻找 signitic 或 sigilium 的免费/自托管替代方案。谢谢    提交人    /u/mathieumaxime   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdywpv/alternative_for_signature_management/</guid>
-      <pubDate>Mon, 28 Oct 2024 10:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何为我的第一个开源项目选择开源许可证</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdvxtd/how_i_picked_open_source_license_for_my_first/</link>
-      <description><![CDATA[作为一个完全的初学者，我首先了解了开源库有哪些选择，这个 Youtube 视频对我帮助很大。 对我来说，我想从一个开源项目（如 Grafana、Elastic、Spark 等）中建立一个商业公司。 然后我继续查看我的榜样使用的许可证：  Grafana：以前使用 Apache 2.0，现在使用 AGPLv3 Elastic：以前使用 Apache 2.0，现在使用 AGPLv3 Spark：仍在使用 Apache 2.0 Sentry：仍在使用 Apache 2.0  然后对我来说，我应该使用 Apache 2.0 还是 AGPLv3？  AGPLv3 的好处是它禁止 AWS 等超大规模提供商销售软件的修改版本，这也是 Grafana 和 Elastic 转而使用的原因。 Apache 2.0 更宽松，可以促进更多采用。但是，与 AGPLv3 相比，我并不确信它会带来太大的差异。 您可以从 Apache 2.0 开始，然后切换到 AGPLv3 吗？您可以，但我想避免 Grafana / Elastic 遇到的麻烦，可能会有很多法律麻烦。  总之，AGPLv3 限制其他人销售它，并且在推动采用方面并不一定比 Apache 2.0 差。  因此，我为我的开源项目 https://github.com/OpenExcept/OpenExcept 选择了 AGPLv3，厚颜无耻地插一句：OpenExcept 是第一个异常分组和分析引擎，很想听听你的反馈！    提交人    /u/Limp_Charity4080   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdvxtd/how_i_picked_open_source_license_for_my_first/</guid>
-      <pubDate>Mon, 28 Oct 2024 06:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>矢量编辑器的开放标准</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdp30n/an_open_standard_for_vector_editors/</link>
-      <description><![CDATA[我认为矢量编辑器需要有一个开放标准，例如键盘快捷键和控件。我注意到它们之间有很多相似之处，我认为矢量编辑器可以基于此实现多样化（例如针对业余用户与专业人士）的标准基础将非常有帮助。 在这方面，我也认为需要有另一个主要的开源矢量编辑器而不是 Inkscape。我非常喜欢 Inkscape，但它在某些方面并不是最好的，我认为在它不能发挥最佳作用的时候需要有第二个选择。    提交人    /u/ThankYouNeutronix_02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdp30n/an_open_standard_for_vector_editors/</guid>
-      <pubDate>Mon, 28 Oct 2024 00:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 rust 编写的适用于 Windows 的 unix cat 命令</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gdnlf5/unix_cat_command_for_windows_written_in_rust/</link>
-      <description><![CDATA[我制作了这个，我需要人们来测试和建议    提交人    /u/GamerG3arYT   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gdnlf5/unix_cat_command_for_windows_written_in_rust/</guid>
-      <pubDate>Sun, 27 Oct 2024 22:54:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

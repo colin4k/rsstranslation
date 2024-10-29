@@ -4,9 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 18:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 21:01:40 GMT</lastBuildDate>
     <item>
-      <title>AppSumo 黑色星期五向一位幸运获奖者赠送 10 万美元</title>
+      <title>React Native：ImageBackground 中的背景图像未填满整个屏幕</title>
+      <link>https://www.reddit.com/r/software/comments/1gf2uk7/react_native_background_image_in_imagebackground/</link>
+      <description><![CDATA[我正在开发一个 React Native 应用，并尝试让背景图像覆盖整个屏幕，而不在顶部或底部留下任何空间。我使用了带有 resizeMode=&quot;cover&quot; 的 ImageBackground，并为 SafeAreaView 和 ImageBackground 设置了 flex: 1，但图像仍然没有填满整个空间。 这是我到目前为止尝试过的方法： 在 SafeAreaView 和 ImageBackground 中都设置了 flex: 1。使用 width: &#39;100%&#39; 和 height: &#39;100%&#39; 作为图像样式。在 ImageBackground 上设置 resizeMode=&quot;cover&quot;。尽管进行了这些调整，但仍然有一些图像未覆盖的空间。如果您能提供任何关于让背景图像覆盖全屏的建议，我将不胜感激。    提交人    /u/Opposite_Ship1635   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gf2uk7/react_native_background_image_in_imagebackground/</guid>
+      <pubDate>Tue, 29 Oct 2024 19:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我觉得我被 CCleaner 骗了</title>
+      <link>https://www.reddit.com/r/software/comments/1gf2nhy/i_think_im_being_scammed_by_ccleaner/</link>
+      <description><![CDATA[因此，我获得了免费试用，现在当我尝试管理订阅以停止自动续订时，它需要一些他们从未给过的 cleverbridge 号码。我联系了支持人员，他们告诉我他们不再提供这些号码了。我多次给他们发电子邮件询问如何停止我的订阅，但他们忽略了。我该怎么办？    提交人    /u/ItsJustSour   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gf2nhy/i_think_im_being_scammed_by_ccleaner/</guid>
+      <pubDate>Tue, 29 Oct 2024 19:07:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>AppSumo 黑色星期五将向一位幸运获奖者赠送 10 万美元</title>
       <link>https://www.reddit.com/r/software/comments/1gf0ae4/appsumo_100000_giveaway_to_one_lucky_winner_this/</link>
       <description><![CDATA[这个黑色星期五 AppSumo 将赠送 100,000 美元给一位幸运的获奖者，以增强他们的业务！此外，10 位获奖者将获得他们推荐的 2024 年黑色星期五工具。大家一定要看一看。。  大家一定要参加。。    由   提交  /u/ampankajsharma   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gf0ae4/appsumo_100000_giveaway_to_one_lucky_winner_this/</guid>
@@ -111,7 +125,7 @@
       <pubDate>Mon, 28 Oct 2024 14:18:31 GMT</pubDate>
     </item>
     <item>
-      <title>寻找像 MS Paint 这样的动画软件。</title>
+      <title>寻找类似 MS Paint 的动画软件。</title>
       <link>https://www.reddit.com/r/software/comments/1gdzhrv/looking_for_an_animation_software_like_ms_paint/</link>
       <description><![CDATA[Microsoft Paint 使用起来非常简单。如果我可以在 Paint 中制作动画而不必绘制每个图像并将其导出到文件中，我会选择 Paint。但我做不到。 所以，我向你求助。请帮我找到一些看起来和操作都像 Paint 的动画软件。拜托了。    提交人    /u/Men_pro1gg   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdzhrv/looking_for_an_animation_software_like_ms_paint/</guid>
@@ -127,23 +141,9 @@
     <item>
       <title>Nero Platinum 值得吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gdv64u/is_nero_platinum_worth_it/</link>
-      <description><![CDATA[我不断收到有关 2025 年 Nero Platinum 折扣的电子邮件，我正在考虑。我需要刻录 ROM，但它似乎包含许多其他功能，如视频和图像编辑。有人用过吗？谢谢你的帮助。    提交人    /u/Safe_Mousse_5660   [link] [评论]]]></description>
+      <description><![CDATA[我不断收到有关 2025 年 Nero Platinum 折扣的电子邮件，我正在考虑。我需要刻录 ROM，但它似乎包含很多其他功能，如视频和图像编辑。有人用过吗？谢谢你的帮助。    提交人    /u/Safe_Mousse_5660   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdv64u/is_nero_platinum_worth_it/</guid>
       <pubDate>Mon, 28 Oct 2024 05:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置数据库服务器和现场备份服务器的建议。</title>
-      <link>https://www.reddit.com/r/software/comments/1gdt0q2/recommendation_for_setting_up_database_server_and/</link>
-      <description><![CDATA[嗨。 我工作的地方正在接收两台新的机架式服务器。它们正式用作数据库服务器和现场备份服务器。已经有一台 Web 服务器。目前还没有异地备份服务器。这三台服务器都用于单个客户端。由于客户的要求（由其内部要求强制），这三台服务器都将使用 Windows Server 2022 作为主机操作系统。当前的 Web 服务器是带有 Postgresql 14 的 Ubuntu VM。我没有数据库管理经验。 数据库服务器有 2 × Xeon 4309Y (16C 20.8 GHz)、32 GB RAM、2 × 600GB HDD、4 × 2.4 TB HDD 和其他标准配置。你有什么建议？我是否直接在 Windows Server 上安装 Postgresql？我应该在 Ubuntu VM 中安装 Postgresql 吗？根据要求，我认为需要将 Web 服务器中的 Postgresql 数据库迁移到数据库服务器。我可以在两者之间进行同步吗？我可以在数据库服务器中安装 Postgresql 版本 17，然后将数据库从 Web 服务器迁移到数据库服务器吗？我是否应该坚持使用 Postgresql 14，并在 2026/2027 年刷新软件时进行迁移（升级 Ubuntu VM 版本）。  现场备份服务器有 2 × Xeon 5315Y（16C 3.2 GHz）、128 GB RAM、2 × 600GB HDD、4 × 2.4 TB HDD、Nvidia Quadro A4000 和其他标准配置。您推荐哪种企业备份解决方案？我想知道免费或开源解决方案以及付费或专有选项。我想我需要在 Web 服务器中使用某种备份客户端将 Ubuntu VM 备份到备份服务器。我还需要备份数据库服务器中的 Postgresql。  目前，我正在考虑在数据库服务器中制作一个 Ubuntu VM 作为数据库系统。这样我就可以直接从 Web 服务器和数据库服务器备份 VM。至于异地备份服务器，只需将备份副本从现场备份服务器发送到异地服务器即可。 我对这项任务确实没有经验。所以在开始任何事情之前，我会四处打听以获得正确的方向和建议。    提交人    /u/zemega   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gdt0q2/recommendation_for_setting_up_database_server_and/</guid>
-      <pubDate>Mon, 28 Oct 2024 03:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法安装 Windows 11 并保留我的所有文件和应用程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1gdmzq6/i_can_not_install_windows_11_and_keep_all_my/</link>
-      <description><![CDATA[您好， 我正在尝试将我的 PC 从 Windows 10 升级到 Windows 11。我的系统满足所有要求，但在安装过程中我一直陷入循环：  安装尝试：开始升级后，安装重新启动但未完成。我最终进入一个屏幕，其中有立即重新启动和高级设置等选项。 高级设置和故障排除： 启动修复无法修复该问题。 卸载最新更新选项不起作用。 命令提示符尝试（例如sfc /scannow）显示并修复了一些损坏的文件，但升级仍然失败。  其他尝试： 我尝试清理空间（删除 Windows 更新文件）。 使用媒体创建工具和 ISO 进行升级，同时保留我的文件。但是，ISO 方法也卡在“检查更新”上并且没有完成。  错误代码：我遇到了 0xC1900101 和 0xC1900101 - 0x20017，这似乎与驱动程序或硬件兼容性问题有关。  总体而言，我的系统仍然循环回到立即重启和高级设置屏幕，而没有完成 Windows 11 升级。任何解决此问题的建议都将不胜感激，因为我现在不想全新安装 Windows。    提交人    /u/Broad-Case-2543   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gdmzq6/i_can_not_install_windows_11_and_keep_all_my/</guid>
-      <pubDate>Sun, 27 Oct 2024 22:25:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
