@@ -4,9 +4,37 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 29 Oct 2024 03:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 06:02:13 GMT</lastBuildDate>
     <item>
-      <title>哪个名字更适合我的应用程序？</title>
+      <title>关于 OOP 概念的最重要面试问题和实践测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1gemby7/most_important_interview_questions_practice_test/</link>
+      <description><![CDATA[  由    /u/erdsingh24  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gemby7/most_important_interview_questions_practice_test/</guid>
+      <pubDate>Tue, 29 Oct 2024 04:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合新手编程吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gem46v/programming_for_newbie/</link>
+      <description><![CDATA[你好。我今年 13 岁（是的，我知道应用程序是 17+；我希望它不会被删除）。大约十二岁时，我开始学习 Python，从那天到今天大约有 6 个月的经验（我大约 12.5 岁时开始编程），虽然我对许多函数有相当好的了解，了解类/对象，了解 chr()/ord()、“”.join(lst)、bin(num) 等内容，但当我做小项目时，我感到困惑。例如，为了学习 Python 本身，我使用 Programiz，由于我完成了它的硕士课程，我转向了 Codewars。如果我无法解决比 5-6 级更难的练习，我应该称自己笨吗？请问，如果有人可以告诉我其他学习方法，或者关于学习编程语言的建议，因为我想成为一名 Web 开发人员，这可能需要对 JS、HTML 和 CSS 有很好的了解。 我也在上面发布了 Codewars 链接。 （英语不是我的母语；如有错误，请见谅！）    提交人    /u/Timurmasss   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gem46v/programming_for_newbie/</guid>
+      <pubDate>Tue, 29 Oct 2024 04:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delmar 的 DeWALT Mobile Pro 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gelrdy/dewalt_mobile_pro_app_from_delmar/</link>
+      <description><![CDATA[旧的 Dewalt 计算器应用程序。 如果这不是提出这个问题的地方，我很抱歉，但我没有主意了。我需要编写一个具有旧应用程序所有功能的计算器，用于我的业务。我尝试在线寻找现有的应用程序，但它们并不是很好。我尝试了几个小时的聊天 gpt 4，但做不到。有人可以帮忙吗？它基本上是一个可以添加英尺、英寸和英寸分数的计算器。    提交人    /u/ReachComprehensive58   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gelrdy/dewalt_mobile_pro_app_from_delmar/</guid>
+      <pubDate>Tue, 29 Oct 2024 03:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年在 Flutter 和 React Native 之间做出选择</title>
+      <link>https://www.reddit.com/r/programming/comments/1gelfqx/choosing_between_flutter_and_react_native_in_2024/</link>
+      <description><![CDATA[  由    /u/damian2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gelfqx/choosing_between_flutter_and_react_native_in_2024/</guid>
+      <pubDate>Tue, 29 Oct 2024 03:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个名称更适合我的应用程序？</title>
       <link>https://www.reddit.com/r/programming/comments/1gekmrp/which_name_is_better_for_my_application/</link>
       <description><![CDATA[  由    /u/PhpWebStudy  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gekmrp/which_name_is_better_for_my_application/</guid>
@@ -20,7 +48,7 @@
       <pubDate>Mon, 28 Oct 2024 23:33:17 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在分叉 Flutter。原因如下。</title>
+      <title>我们正在分叉 Flutter。这就是原因。</title>
       <link>https://www.reddit.com/r/programming/comments/1gegaz6/were_forking_flutter_this_is_why/</link>
       <description><![CDATA[  由    /u/miacoder  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gegaz6/were_forking_flutter_this_is_why/</guid>
@@ -41,7 +69,7 @@
       <pubDate>Mon, 28 Oct 2024 22:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在分叉 Flutter。原因如下。</title>
+      <title>我们正在分叉 Flutter。这就是原因。</title>
       <link>https://www.reddit.com/r/programming/comments/1gedgvh/were_forking_flutter_this_is_why/</link>
       <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gedgvh/were_forking_flutter_this_is_why/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ge6axl/is_clean_architecture_slowing_you_down_when/</guid>
       <pubDate>Mon, 28 Oct 2024 16:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>可控制代理，用于复杂的 RAG 任务</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge6818/controllable_agent_for_complex_rag_tasks/</link>
-      <description><![CDATA[  由    /u/Diamant-AI  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge6818/controllable_agent_for_complex_rag_tasks/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用新的 JavaScript 模块扩展 NGINX</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge5vfq/extend_nginx_with_the_new_javascript_module/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge5vfq/extend_nginx_with_the_new_javascript_module/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>通才 vs. 专才？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge57zs/generalist_vs_specialist/</link>
-      <description><![CDATA[  由    /u/alexlazar98  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge57zs/generalist_vs_specialist/</guid>
-      <pubDate>Mon, 28 Oct 2024 15:42:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化 Docker 构建的 13 种方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ge4nxv/13_ways_to_optimize_docker_builds/</link>
-      <description><![CDATA[  由    /u/codingdecently  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ge4nxv/13_ways_to_optimize_docker_builds/</guid>
-      <pubDate>Mon, 28 Oct 2024 15:19:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 29 Oct 2024 03:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 06:02:19 GMT</lastBuildDate>
+    <item>
+      <title>项目查询</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gen6f8/query_about_a_project/</link>
+      <description><![CDATA[  由    /u/_HSAY04  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gen6f8/query_about_a_project/</guid>
+      <pubDate>Tue, 29 Oct 2024 05:16:19 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Python 开发一个 GNU/Linux 系统实用程序，提醒您定期短暂休息以放松眼睛。</title>
       <link>https://www.reddit.com/r/opensource/comments/1gei7qk/developing_a_gnulinux_system_utility_that_reminds/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>人工智能语音克隆</title>
       <link>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</link>
-      <description><![CDATA[所以这个人（YouTube 上的“缪斯”）说他们为此至少支付了 200 多美元，但这不是 11 个实验室，我不知道它是否开放，他们也不会告诉他们的订阅者他们在使用什么，所以我真的需要知道他们在使用什么以及它为什么这么好😭     提交人    /u/siredtom   [link] [评论]]]></description>
+      <description><![CDATA[所以这个人（YouTube 上的“缪斯”）说他们为此至少支付了 200 多美元，但这不是 11 个实验室，我不知道它是否开放，他们也不会告诉他们的订阅者他们在使用什么，所以 idkkk 我真的需要知道他们在使用什么以及它为什么这么好😭     提交人    /u/siredtom   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gd64iw/ai_voice_cloning/</guid>
       <pubDate>Sun, 27 Oct 2024 08:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个“生物链接”设计，您可以在几分钟内克隆和启动它。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gd5ee8/created_a_link_in_bio_design_you_can_clone_and/</link>
-      <description><![CDATA[https://github.com/loopsandvariables/x-themed-profile  我想在网上放一个小档案，其中包含指向我的项目或写作的链接，所以我制作了这个并将其放在 GitHub 上。 如果您不想使用 SvelteKit，那里有一个简单的 HTML 版本。    提交人    /u/loopsvariables   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gd5ee8/created_a_link_in_bio_design_you_can_clone_and/</guid>
-      <pubDate>Sun, 27 Oct 2024 07:13:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
