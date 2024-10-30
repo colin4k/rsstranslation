@@ -4,18 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:02:27 GMT</lastBuildDate>
     <item>
-      <title>Supershy：DIY SSH 隧道代理，带有旋转出口节点，是 TOR 匿名性和 VPN 速度的混合体 [OC]</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfo70h/supershy_diy_ssh_tunnel_proxy_with_a_rotating/</link>
-      <description><![CDATA[        提交人    /u/VomisaCaasi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfo70h/supershy_diy_ssh_tunnel_proxy_with_a_rotating/</guid>
-      <pubDate>Wed, 30 Oct 2024 14:43:22 GMT</pubDate>
+      <title>有没有软件可以将给定文件夹内的所有文件的名称记录到文本文件中？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gfqsj7/any_software_that_records_names_of_all_files/</link>
+      <description><![CDATA[我不确定在哪里问这个问题，我甚至怀疑它是否存在，但如果存在的话，那将是一个巨大的解脱。基本上，我需要记录我拥有的所有文件（数量以千计），如果我可以使用现有软件自动执行此操作，那就太棒了。自己编写代码可能并不难（？），但我已经多年没有练习过 C/C++ 了 :/    提交人    /u/beclomethasonedppnt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gfqsj7/any_software_that_records_names_of_all_files/</guid>
+      <pubDate>Wed, 30 Oct 2024 16:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命，名为 Doro A.B 的公司应该给我设备来源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gfpfsq/help_should_an_company_named_doro_ab_give_me/</link>
+      <description><![CDATA[您好，我给一家名为 Doro A.B 的电话公司发了电子邮件，该公司专注于为老奶奶提供技术，但他们说他们什么都不知道，也不会做任何事情。在回复中解释了 GPl-2 和更多内容后，他们根本没有回复，然后从另一个帐户发送了一封电子邮件（解释了所有 GPL-2 和更多内容），但他们忽略了我，他们说他们会在两天内回复，帮帮我！！    提交人    /u/Intelligent_Alarm178   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gfpfsq/help_should_an_company_named_doro_ab_give_me/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:35:59 GMT</pubDate>
     </item>
     <item>
       <title>社区对开源定义的承诺</title>
       <link>https://www.reddit.com/r/opensource/comments/1gfo33x/community_commitment_to_open_source_definition/</link>
-      <description><![CDATA[此声明刚刚发布，因此您可以重申对过去四分之一世纪以来由开放源代码定义 1.9 定义的开放源代码的支持，而不是被严重削弱的 OSAID 分叉 — — 以及 OSD 本身未来可能不可避免的“协调” — — 后者无法保护四项基本自由： “我们声明，开放源代码仅由开放源代码定义 (OSD) 版本 1.9 定义。 任何修订或新定义都应通过公开透明的流程在社区明确共识下得到认可。” 作为首批签署者之一，我希望我们能够得到您的支持： 声明：https://opensourcedeclaration.org 定义：https://opensourcedefinition.org 讨论：https://discuss.opensourcedefinition.org    由    /u/samj 提交   [链接] [评论]]]></description>
+      <description><![CDATA[此声明刚刚发布，因此您可以重申对过去四分之一世纪以来由开放源代码定义 1.9 定义的开放源代码的支持，而不是被严重削弱的 OSAID 分叉 — — 以及 OSD 本身未来可能不可避免的“协调” — — 无法保护四项基本自由：  我们声明，开放源代码仅由开放源代码定义 (OSD) 版本 1.9 定义。 任何修订或新定义都应通过公开透明的流程在社区达成明确共识的情况下得到承认。  我希望我们能够作为首批签署者之一得到您的支持：  声明：https://opensourcedeclaration.org 定义：https://opensourcedefinition.org 讨论：https://discuss.opensourcedefinition.org     由   提交  /u/samj   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfo33x/community_commitment_to_open_source_definition/</guid>
       <pubDate>Wed, 30 Oct 2024 14:38:34 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[各位编辑您好， 我正在创建一个开源项目，希望很快获得资金，尽管我知道这可能是一个雄心勃勃的目标。我正在寻找各种经验水平和年龄的开发人员来自愿为该项目做出贡献。 长期愿景是，如果该项目将来获得资金，这些志愿者将得到奖励，甚至可能 获得官方职位。 您能告诉我在哪里可以找到这样的志愿者吗？ 感谢您的帮助。    提交人    /u/stathmarxis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gexiv4/where_can_i_find_developers_help_to_open_source/</guid>
       <pubDate>Tue, 29 Oct 2024 15:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>KoalaKeys - 创建便携式备忘单</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gex719/koalakeys_create_portable_cheat_sheets/</link>
-      <description><![CDATA[大家好， 当我决定少用鼠标时，我寻找一种工具来创建自定义键盘备忘单，但找不到合适的。所以，我决定构建 KoalaKeys。它可以生成时尚、可自定义的 HTML 备忘单，您几乎可以在任何地方使用 - 本地或托管。 您可以在此处找到 GitHub 存储库：KoalaKeys 我还在此处托管了一个公共实例：KoalaKeys Demo 期待您的反馈！    提交人    /u/rtuszik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gex719/koalakeys_create_portable_cheat_sheets/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:21:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
