@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 30 Oct 2024 12:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 15:01:49 GMT</lastBuildDate>
     <item>
-      <title>PerpIexity AI PRO 年度优惠券仅需 20 美元（18 欧元）！！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfklq2/perpiexity_ai_pro_yearly_coupon_available_just/</link>
-      <description><![CDATA[我有几张 1 年期 PerpIexity pro 代金券，可享受 100% 折扣。我可以在您的电子邮件上兑换。它们在全球范围内有效。 我收到了 PayPal g&amp;s、venmo 和 UPI 付款。 PerpIexity ai 比 ChatGPT 拥有更多模型。它有 GPT-4o、Claude 3 Opus、新 Claude 3.5 Sonnet、Llam 3.1 305B（Meta）和 Sonar Large 32k。  以及来自图像生成模型：Playground v2.5、DALL-E 3 和 Stable Diffusion XL  通过 WhatsApp  发短信给我即可获取！ 如需证明和验证，请参见此内容 https://www.reddit.com/r/ChatGPTPromptGenius/s/UsxuRh97X5     提交人    /u/AdNorth1932   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfklq2/perpiexity_ai_pro_yearly_coupon_available_just/</guid>
-      <pubDate>Wed, 30 Oct 2024 11:49:09 GMT</pubDate>
+      <title>Cheshire-Cat 的替代品或改进方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfo4t8/cheshirecat_alternatives_or_ways_to_improve_it/</link>
+      <description><![CDATA[Cheshire Cat 非常棒 - 它提供了卓越的定制级别，从插件生成到通过可靠提示进行的指令，u/tools，以及一个强大的功能，可让您定义在向用户发送响应消息之前要做什么。我正在使用它来构建一个聊天机器人和一个虚拟联络中心，具有语音转文本和文本转语音功能。但是，Cheshire Cat 目前有一个缺陷：处理速度！ 有什么方法可以提高 Cheshire Cat 的性能吗？或者是否有其他选择 - 最好是开源的 - 提供相同级别的定制？    提交人    /u/stoupwhiff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfo4t8/cheshirecat_alternatives_or_ways_to_improve_it/</guid>
+      <pubDate>Wed, 30 Oct 2024 14:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是人工智能领域的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfmnk3/heres_what_making_news_in_the_ai/</link>
+      <description><![CDATA[ 谷歌超过四分之一的新代码是由人工智能生成的 谷歌表示，其下一代人工智能代理最早要到 2025 年才会推出 据报道，OpenAI 计划在 2026 年打造其首款人工智能芯片 据报道，埃隆马斯克的 xAI 正试图再筹集数十亿美元 ElevenLabs 聘请了阅读器应用程序 Omnivore 背后的团队     提交人    /u/codeharman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfmnk3/heres_what_making_news_in_the_ai/</guid>
+      <pubDate>Wed, 30 Oct 2024 13:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用实时数据和人工智能改造小众旅游网站 - 寻求批评和反馈</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfmgn8/revamping_a_niche_travel_site_with_realtime_data/</link>
+      <description><![CDATA[大家好， 我正在对一个成熟的小众旅游预订网站进行大规模改造，该网站拥有大量粉丝 - 25 万多 FB 点赞，在高意图搜索词中一直排名第一。该网站的 ARR 高达数百万，我们通过预订邮轮和度假村的佣金结构创造收入。它是 militarycruisedeals.com，我们在市场上占据优势，拥有忠实的用户群。 我想使用人工智能和实时数据来改进这个平台，以增强每个接触点的用户体验，而不仅仅是添加另一个聊天机器人。我的目标是提供更智能、更轻松、更个性化的预订体验。 愿景和目标 1.自然语言处理 (NLP) 搜索定制查询  我的目标是引入 NLP 驱动的搜索，该搜索可以理解自然查询，例如“7 月份适合家庭的加勒比海游轮，提供托儿服务”。与依赖通用过滤器相比，这应该可以简化有特定需求的旅行者的流程。 问题：您推荐任何 NLP 方法或模型来处理小众旅行查询吗？想知道在不使后端过载的情况下优化搜索结果的有效方法。  2. 通过旅行 API 平台进行实时数据集成  我们从旅行预订 API 平台提取可用性和价格数据，我的目标是实时显示这些数据而不会降低性能。我正在考虑使用中间件方法来清理和缓存数据，然后使用 Algolia 或 Elastic 等前端工具来显示数据。 问题：如果有人处理过类似的高流量数据延迟问题，哪种缓存方法最适合此设置？我正在尝试平衡实时准确性和速度，尤其是在高峰时段。  3. 个性化用户资料  每个用户都会有一个包含预订历史和偏好的资料，这些信息输入到人工智能以获得量身定制的推荐——从客舱升级到独特的短途旅行。我们的目标是建立一个感觉像“了解”每个旅行者但又不会显得过于侵入的平台。 问题：如果您曾在人工智能中使用过个性化，您如何实现这种平衡？此外，该领域的任何隐私最佳实践都将非常有帮助。  4.具有人工升级选项的 AI 驱动支持  我们正在构建 AI 支持来回答常见问题并提供行程协助，并将复杂问题顺利升级到人工代理。我们的想法是简化支持并让人工代理腾出时间处理高价值请求。 问题：哪些框架最适合 AI 到人工的交接而不会丢失上下文？关于设置升级规则以保持用户体验无缝的任何建议？  5. 优化实时数据和速度  我们合作伙伴 API 平台的实时数据很有价值，但在重负载下可能会变慢。我正在使用 Algolia 或 Elastic 在前端开发缓存解决方案，但我也愿意接受其他不牺牲数据准确性的性能策略。 问题：单靠缓存是否足以应对高流量环境，还是我应该探索其他优化？  为什么这很重要 在旅行预订领域，用户需求和数据往往是孤立的，这让旅行者感到沮丧。我们的目标是整合所有这些 - 让人工智能利用用户数据和实时信息来提供动态的以用户为中心的体验。我对其中一些后端方面还不熟悉，所以如果你有什么见解，尤其是经验之谈，我很乐意听听。 感谢您的任何建议！    提交人    /u/Minnebroda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfmgn8/revamping_a_niche_travel_site_with_realtime_data/</guid>
+      <pubDate>Wed, 30 Oct 2024 13:25:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>内容创作者使用什么软件？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gflfds/what_software_do_content_t_creators_use/</link>
+      <description><![CDATA[我在 Instagram 上看了很多这些由人工智能生成的恐怖视频，很好奇他们用什么软件制作的。  我是人工智能的新手，但我很想学习，所以我可能会开始创建自己的内容来取乐:)如果有人能给我指明正确的方向，我将不胜感激！    提交人    /u/kevinmb91   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gflfds/what_software_do_content_t_creators_use/</guid>
+      <pubDate>Wed, 30 Oct 2024 12:34:13 GMT</pubDate>
     </item>
     <item>
       <title>我正在尝试为我的公司建立一个网站。有没有好的 AI 引擎可以根据我的特定偏好帮我创建网站？</title>
@@ -90,13 +111,6 @@
       <pubDate>Wed, 30 Oct 2024 00:55:04 GMT</pubDate>
     </item>
     <item>
-      <title>据报道，埃隆·马斯克的 xAI 正试图筹集数十亿美元</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfain4/elon_musks_xai_is_reportedly_trying_to_raise/</link>
-      <description><![CDATA[据《华尔街日报》报道，埃隆·马斯克的人工智能公司 xAI 正在洽谈以约 400 亿美元的估值筹集新资金。xAI 希望在本轮融资中筹集数十亿美元，加上该公司 5 月份筹集的 60 亿美元 B 轮融资。    提交人    /u/codeharman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfain4/elon_musks_xai_is_reportedly_trying_to_raise/</guid>
-      <pubDate>Wed, 30 Oct 2024 00:53:41 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 与博通和台积电合作开发首款芯片，缩减代工雄心</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfahji/openai_builds_first_chip_with_broadcom_and_tsmc/</link>
       <description><![CDATA[据报道，OpenAI 正在与台积电和博通合作打造内部 AI 芯片——并开始使用 AMD 芯片和 Nvidia 芯片来训练其 AI。据路透社报道，OpenAI 至少目前已经放弃了建立芯片制造工厂网络的计划。    提交人    /u/codeharman   [link] [评论]]]></description>
@@ -109,13 +123,6 @@
       <description><![CDATA[堆栈：Python、PyQt、Claude（带计算机使用） GitHub repo：https://github.com/suitedaces/computer-agent 非常欢迎贡献！    由   提交  /u/cryptomaniac1729   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfa6x0/i_built_a_desktop_app_to_have_claude_control_your/</guid>
       <pubDate>Wed, 30 Oct 2024 00:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于分解笔记的最佳 AI。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gf8qli/best_ai_for_breaking_down_notes/</link>
-      <description><![CDATA[情况：我在上大学，并不是一个真正喜欢听讲座的人。我通常更喜欢自己从笔记中阅读东西。但我的笔记的 pdf 有太多文字。我指的是数学（微积分和代数）。这使得阅读起来非常低效和无聊，因为你必须逐行阅读，否则你将无法理解下一部分。任何擅长分解我的笔记的 AI。    提交人    /u/Ok_Currency_6950   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gf8qli/best_ai_for_breaking_down_notes/</guid>
-      <pubDate>Tue, 29 Oct 2024 23:29:05 GMT</pubDate>
     </item>
     <item>
       <title>我一直在想，当你不同意条款时，人工智能的隐私噩梦会怎样。</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[我一直在 chatgpt 的帮助下构建一款多人编码问答游戏，但遇到了一个逻辑问题，chatgpt 无法帮助我解决。 我尝试了多个提示，一遍又一遍地重写了我的代码，但仍然无法让它正常工作。 在这上面花了太多时间之后，我决定试试 Claude 3.5 Sonnet（新版）。 Claude 立即找到了问题的根源，令我惊喜的是，第一次尝试就给了我正确的代码！ 说实话，我很震惊。昨天我花了几个小时使用 ChatGPT 试图解决这个问题，但 Claude 一口气就搞定了。 我确信 Claude 在编码方面优于 ChatGPT。到目前为止，您的体验如何？    提交人    /u/johnzakma10   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gesu4n/claude_is_far_superior_than_chatgpt_in_coding/</guid>
       <pubDate>Tue, 29 Oct 2024 11:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的、可能每天都会使用的人工智能工具有哪些？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gepxwk/what_are_your_favorite_ai_tools_that_you_may_use/</link>
-      <description><![CDATA[我很好奇——你们每天都使用什么人工智能工具？无论是为了工作、创造力，还是让生活更顺畅，我都很乐意听取你的建议！    提交人    /u/Red_dog520   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gepxwk/what_are_your_favorite_ai_tools_that_you_may_use/</guid>
-      <pubDate>Tue, 29 Oct 2024 08:47:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
