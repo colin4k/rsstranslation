@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 31 Oct 2024 06:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 09:02:16 GMT</lastBuildDate>
     <item>
-      <title>我问AI：哪种语言未来前景最好：Python、Java 还是 JavaScript？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gg65fk/le_pregunte_a_la_ia_qué_lenguaje_tiene_las/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gg65fk/le_pregunte_a_la_ia_qué_lenguaje_tiene_las/</guid>
-      <pubDate>Thu, 31 Oct 2024 04:11:21 GMT</pubDate>
+      <title>事件驱动架构中事件的双重性质</title>
+      <link>https://www.reddit.com/r/programming/comments/1gg9jsm/the_dual_nature_of_events_in_eventdriven/</link>
+      <description><![CDATA[  由    /u/lutzh-reddit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gg9jsm/the_dual_nature_of_events_in_eventdriven/</guid>
+      <pubDate>Thu, 31 Oct 2024 08:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pylon：使 TypeScript 开发人员能够轻松构建 GraphQL API</title>
+      <link>https://www.reddit.com/r/programming/comments/1gg9fds/pylon_enables_typescript_developers_to_easily/</link>
+      <description><![CDATA[  由    /u/schettn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gg9fds/pylon_enables_typescript_developers_to_easily/</guid>
+      <pubDate>Thu, 31 Oct 2024 08:08:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免 Python 中的循环导入</title>
+      <link>https://www.reddit.com/r/programming/comments/1gg8avg/avoiding_circular_imports_in_python/</link>
+      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gg8avg/avoiding_circular_imports_in_python/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握表单的 Tailwind CSS</title>
+      <link>https://www.reddit.com/r/programming/comments/1gg8885/mastering_tailwind_css_for_forms/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gg8885/mastering_tailwind_css_for_forms/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>blazed.js</title>
+      <link>https://www.reddit.com/r/programming/comments/1gg8852/blazedjs/</link>
+      <description><![CDATA[大家好！ 介绍 blazed.js！这是一款超快、轻量、高性能的基于承诺的 nodejs http 客户端 它可以执行大量由 nodejs 支持的 http 请求，如 GET、POST、PUT 等 它和其他 axios、got 等一样是基于承诺的 这是我的库 https://www.npmjs.com/package/blazed.js 你可以通过执行以下操作来安装它 npm i blazed.js 如果你们能提供有关这个库的宝贵反馈，我们将不胜感激！ 感谢阅读 :)   由    /u/Flat_Molasses_9715  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gg8852/blazedjs/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:32:19 GMT</pubDate>
     </item>
     <item>
       <title>K4 - 新的高性能开源 LSM 树型、事务型、持久型存储引擎</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/JourneyStudios  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gfr6no/template_for_making_vscode_extensions_using_trpc/</guid>
       <pubDate>Wed, 30 Oct 2024 16:49:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌首席执行官表示，超过 25% 的新谷歌代码是由人工智能生成的</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfqxqo/google_ceo_says_over_25_of_new_google_code_is/</link>
-      <description><![CDATA[  由    /u/paxinfernum  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfqxqo/google_ceo_says_over_25_of_new_google_code_is/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:38:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 HTTP 弃用标头</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfqt90/understanding_the_http_deprecation_header/</link>
-      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfqt90/understanding_the_http_deprecation_header/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL 来临：24 天 SQL 挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfqoj3/advent_of_sql_24_days_of_sql_challenges/</link>
-      <description><![CDATA[  由    /u/AdventOfSQL  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfqoj3/advent_of_sql_24_days_of_sql_challenges/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>长寿，还是被遗弃的软件？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfqm7s/longevity_or_abandonware/</link>
-      <description><![CDATA[  由    /u/Inevitable-Swan-714  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfqm7s/longevity_or_abandonware/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:25:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
