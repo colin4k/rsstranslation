@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 31 Oct 2024 12:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 15:02:15 GMT</lastBuildDate>
+    <item>
+      <title>分享想法：为 1000 星以下的 github 项目创建推广网站</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ggf1o5/idea_to_share_create_a_promotion_site_for_github/</link>
+      <description><![CDATA[  由    /u/tinchox5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ggf1o5/idea_to_share_create_a_promotion_site_for_github/</guid>
+      <pubDate>Thu, 31 Oct 2024 13:52:40 GMT</pubDate>
+    </item>
     <item>
       <title>物联网设备的自由/开源软件 (FOSS) 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1ggb2pv/a_foss_alternative_for_iot_devices/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>适合学生使用 PDF 注释和笔记的 Linux 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1gfhxrt/linux_alternatives_for_pdf_annotation_and/</link>
-      <description><![CDATA[您好。几天前我换用了 Linux Mint，正在寻找一款与 Onenote 相当的应用。我是一名学生，经常需要在幻灯片上或旁边做笔记。我以前使用 Onenote 或 PowerPoint 的笔记功能。 我正在寻找一款可以导入 pdf 文件并在旁边做注释的应用。 您有什么建议吗？    提交者    /u/ParkingAssociation20   [链接] [评论]]]></description>
+      <description><![CDATA[您好。几天前我换用了 Linux Mint，正在寻找一款与 Onenote 相当的应用。我是一名学生，经常需要在幻灯片上或旁边做笔记。我以前使用 Onenote 或 PowerPoint 的笔记功能。 我正在寻找一款可以导入 pdf 文件并在旁边做注释的应用。 您有什么建议吗？    提交人    /u/ParkingAssociation20   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfhxrt/linux_alternatives_for_pdf_annotation_and/</guid>
       <pubDate>Wed, 30 Oct 2024 08:44:49 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Tuxguitar 是一个开源吉他指法谱编辑器。在原先的负责人离职后，该项目更换了领导层；现在官方下载在 SourceForge 和 GitHub 上。这个 subreddit 已经关闭多年了，所以我不知道在哪里问这个问题。 我从 GitHub 页面下载了 Mac 和 Windows 的官方稳定安装程序。在每个平台上，它们都被独立标记为潜在恶意软件。 无论如何，我以管理员身份运行了 Windows 安装程序，要完成安装，它需要重新启动；重新启动后，我的电脑进入自动修复模式。任何修复或系统还原都无法修复它。 … Tuxguitar 是灾难性的损坏，还是纯粹的恶意软件？    提交人    /u/Plembert   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfcwn1/tuxguitar_just_murdered_my_pc/</guid>
       <pubDate>Wed, 30 Oct 2024 02:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为任何项目自动生成有用的 README 文件的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gf98il/a_tool_that_automatically_generates_a_useful/</link>
-      <description><![CDATA[我厌倦了从头开始编写 README，并且不得不为 LLM 提供大量上下文以使其准确，因此我使用 Google 的 Gemini API 构建了一个为您完成此操作的工具。 它会扫描您的项目，了解代码库，并生成详细的 README，其中包含安装步骤、使用示例以及您期望的所有其他内容。 https://github.com/mainnebula/ReadMe-Generator 您需要自己的 Gemini API 密钥，但 Google 会为您提供免费的每月积分，这对于此工具来说已经足够了。 这是我的第一个真正的 Python CLI 工具，我很乐意收到一些反馈 - 什么会让它对您的项目更有用？    提交人    /u/the_void_the_void   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gf98il/a_tool_that_automatically_generates_a_useful/</guid>
-      <pubDate>Tue, 29 Oct 2024 23:52:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
