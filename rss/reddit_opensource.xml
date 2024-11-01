@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 01 Nov 2024 00:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 03:13:09 GMT</lastBuildDate>
+    <item>
+      <title>开源许可证和乐高积木</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ggw04v/open_source_licenses_and_lego_blocks/</link>
+      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ggw04v/open_source_licenses_and_lego_blocks/</guid>
+      <pubDate>Fri, 01 Nov 2024 02:57:12 GMT</pubDate>
+    </item>
     <item>
       <title>基于 tui 的 discord 克隆版</title>
       <link>https://www.reddit.com/r/opensource/comments/1ggob8f/a_tuibased_discord_clone/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfnjr7/kde_endofyear_halloween_fundraiser_special/</guid>
       <pubDate>Wed, 30 Oct 2024 14:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正在构建本地 AI API 平台，以替代 OA API 平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfn94i/were_building_local_ai_api_platform_to_an/</link>
-      <description><![CDATA[嘿，我们正在发布 Cortex 的预览版，这是我们实现 OA API 平台的本地替代方案的旅程。 Cortex 的路线图是实现完整的 AI API，包括工具、运行、多模式和实时 API。  简单的 CLI（受 Ollama 启发） 从 HuggingFace 或内置模型库中提取 以通用文件格式存储的模型（与 blob 相比） 可交换引擎（默认：llama.cpp，未来：ONNXRuntime、TensorRT-LLM） 完整的 C++ 实现，可打包到桌面和移动应用程序中  Web：https://cortex.so/ 源代码： https://github.com/janhq/cortex.cpp 我们认为需要一个强大的开源 API 平台来将众多开源项目结合在一起，与 AI 和专有产品竞争。我们很高兴能够构建这个平台，并期待社区的批评能够改进。 快速说明：目前，Cortex 与 Ollama 类似，但它以通用文件格式存储模型并用 C++ 编写。此外，我们计划扩展 Cortex 的功能，使其成为 AI API 平台的替代方案。 我是团队的一员，很乐意听到您的反馈并回答任何问题！    提交人    /u/emreckartal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfn94i/were_building_local_ai_api_platform_to_an/</guid>
-      <pubDate>Wed, 30 Oct 2024 14:02:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
