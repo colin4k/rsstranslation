@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 01 Nov 2024 12:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 15:02:22 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi 性能更新：NUMA 内存配置增益</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh75fg/raspberry_pi_performance_update_numa_memory/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh75fg/raspberry_pi_performance_update_numa_memory/</guid>
+      <pubDate>Fri, 01 Nov 2024 14:48:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Matt 与 WPEngine 的丑闻闹剧</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh6aaa/matt_vs_wpengine_scandal_drama/</link>
+      <description><![CDATA[您可能知道，Matt 自 9 月底以来一直在与 WPEngine 斗争。看到整个闹剧上演，我感到压力很大，因为它在很多方面影响着我和我们中的许多人。 对我来说，我认为很难获得有关此事件的最新消息或更新，因为很多事情同时发生。无数篇文章重复着同一件事，但只有一点新的更新，这让人非常沮丧。 因此，我向该网站提交了一份提案，在 IT Service Guru 上撰写有关此事件的客座帖子，这是一个旨在帮助每个人处理与技术相关的事情的网站。提案得到批准，我开始写作。经过几天的写作，我终于完成了这篇客座帖子并将其发布在那里。我尝试包含与这场闹剧相关的所有内容，我相信它值得一读。 阅读后请告诉我您的想法！我花了好几天才制作完成，所以我希望你会喜欢它。     提交人    /u/JestonT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh6aaa/matt_vs_wpengine_scandal_drama/</guid>
+      <pubDate>Fri, 01 Nov 2024 14:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何瞄准初创企业</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh5yp9/how_to_target_startups/</link>
+      <description><![CDATA[  由    /u/alexlazar98  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh5yp9/how_to_target_startups/</guid>
+      <pubDate>Fri, 01 Nov 2024 13:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLQL：使用模式匹配器在 LLVM IR/BC 上运行 SQL 查询</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh5ti4/llql_running_sql_query_on_llvm_irbc_with_pattern/</link>
+      <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh5ti4/llql_running_sql_query_on_llvm_irbc_with_pattern/</guid>
+      <pubDate>Fri, 01 Nov 2024 13:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>用乐高类比来解释 OSS 许可证</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh4i8t/a_bit_about_oss_licenses_explained_with_lego/</link>
+      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh4i8t/a_bit_about_oss_licenses_explained_with_lego/</guid>
+      <pubDate>Fri, 01 Nov 2024 12:45:47 GMT</pubDate>
+    </item>
     <item>
       <title>disposables：在一次性容器中运行测试依赖项。</title>
       <link>https://www.reddit.com/r/programming/comments/1gh2uqq/disposables_run_your_test_dependencies_in/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ggnf29/bold_04_prettyprint_in_the_debugger/</guid>
       <pubDate>Thu, 31 Oct 2024 19:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>💥 每周技术讲座#35：弹性数据管道的设计模式、建设性代码审查、C# 9 - 12 中令人兴奋的新功能、Python 2.1 中的异步函数、垂直切片架构等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gglquh/tech_talks_weekly_35_design_patterns_for/</link>
-      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gglquh/tech_talks_weekly_35_design_patterns_for/</guid>
-      <pubDate>Thu, 31 Oct 2024 18:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>将纸牌游戏塞进任天堂电子阅读器卡中</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggllsj/cramming_solitaire_onto_a_nintendo_ereader_card/</link>
-      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggllsj/cramming_solitaire_onto_a_nintendo_ereader_card/</guid>
-      <pubDate>Thu, 31 Oct 2024 18:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Ruby 中，不存在全局方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggjb5c/there_is_no_such_thing_as_a_global_method_in_ruby/</link>
-      <description><![CDATA[  由    /u/gargage93  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggjb5c/there_is_no_such_thing_as_a_global_method_in_ruby/</guid>
-      <pubDate>Thu, 31 Oct 2024 16:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚/Lord_Howe 是最奇怪的时区</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggj3xg/australialord_howe_is_the_weirdest_timezone/</link>
-      <description><![CDATA[  由    /u/gargage93  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggj3xg/australialord_howe_is_the_weirdest_timezone/</guid>
-      <pubDate>Thu, 31 Oct 2024 16:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯 CSS 分组元素定向悬停效果</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggicd8/pure_css_directional_hover_effect_for_grouped/</link>
-      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggicd8/pure_css_directional_hover_effect_for_grouped/</guid>
-      <pubDate>Thu, 31 Oct 2024 16:15:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
