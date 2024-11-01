@@ -4,27 +4,69 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 01 Nov 2024 15:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:02:11 GMT</lastBuildDate>
+    <item>
+      <title>Chris Krycho：如果版本控制很棒会怎样？—— 柔术简介。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghafvy/chris_krycho_what_if_version_control_was_awesome/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghafvy/chris_krycho_what_if_version_control_was_awesome/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>微服务和 API：它们如何协同工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghaau7/microservices_and_apis_how_they_work_together/</link>
+      <description><![CDATA[  由    /u/itsrorymurphy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghaau7/microservices_and_apis_how_they_work_together/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是关于代码语言程序员基本生活的笑话；lua</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh9pl6/its_a_joke_about_the_basic_life_of_a_programmer/</link>
+      <description><![CDATA[  由    /u/Abject-Ad-3273  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh9pl6/its_a_joke_about_the_basic_life_of_a_programmer/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:37:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>慢慢地脱离 Heroku</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh9ltr/moving_off_heroku_slowly/</link>
+      <description><![CDATA[  由    /u/craig081785  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh9ltr/moving_off_heroku_slowly/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:32:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>助力技术高管职业生涯的支线任务</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh99kc/side_quests_that_supercharged_a_tech_executives/</link>
+      <description><![CDATA[  由    /u/sidwyn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh99kc/side_quests_that_supercharged_a_tech_executives/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notepad++ 21 岁了</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh7vgg/notepad_is_21_years_old/</link>
+      <description><![CDATA[  由    /u/pinkpen_net  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh7vgg/notepad_is_21_years_old/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试驱动开发基础知识（重点关注数据结构）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh7pud/the_basics_of_testdriven_development_with_a_focus/</link>
+      <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh7pud/the_basics_of_testdriven_development_with_a_focus/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Andrew Favia | Python 有一个隐藏的小型文本编辑器。带有 Emacs 键绑定。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gh7la9/andrew_favia_python_has_a_hidden_small_text/</link>
+      <description><![CDATA[  由    /u/agumonkey  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gh7la9/andrew_favia_python_has_a_hidden_small_text/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:07:38 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi 性能更新：NUMA 内存配置增益</title>
       <link>https://www.reddit.com/r/programming/comments/1gh75fg/raspberry_pi_performance_update_numa_memory/</link>
       <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gh75fg/raspberry_pi_performance_update_numa_memory/</guid>
       <pubDate>Fri, 01 Nov 2024 14:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Matt 与 WPEngine 的丑闻闹剧</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh6aaa/matt_vs_wpengine_scandal_drama/</link>
-      <description><![CDATA[您可能知道，Matt 自 9 月底以来一直在与 WPEngine 斗争。看到整个闹剧上演，我感到压力很大，因为它在很多方面影响着我和我们中的许多人。 对我来说，我认为很难获得有关此事件的最新消息或更新，因为很多事情同时发生。无数篇文章重复着同一件事，但只有一点新的更新，这让人非常沮丧。 因此，我向该网站提交了一份提案，在 IT Service Guru 上撰写有关此事件的客座帖子，这是一个旨在帮助每个人处理与技术相关的事情的网站。提案得到批准，我开始写作。经过几天的写作，我终于完成了这篇客座帖子并将其发布在那里。我尝试包含与这场闹剧相关的所有内容，我相信它值得一读。 阅读后请告诉我您的想法！我花了好几天才制作完成，所以我希望你会喜欢它。     提交人    /u/JestonT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh6aaa/matt_vs_wpengine_scandal_drama/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何瞄准初创企业</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh5yp9/how_to_target_startups/</link>
-      <description><![CDATA[  由    /u/alexlazar98  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh5yp9/how_to_target_startups/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:55:10 GMT</pubDate>
     </item>
     <item>
       <title>LLQL：使用模式匹配器在 LLVM IR/BC 上运行 SQL 查询</title>
@@ -60,13 +102,6 @@
       <description><![CDATA[  由    /u/Unerring-Ocean  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gh2o4m/alwaysfree_vue_node_admin_panel_framework/</guid>
       <pubDate>Fri, 01 Nov 2024 10:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>学士论文题目</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh20gk/bachelor_thesis_topic/</link>
-      <description><![CDATA[我正在寻找学士论文主题。我想选择一个与编程语言、编译器、也许还有一些调试器相关的主题。这些更多地属于信息学理论领域，但我的专业是软件工程。这就是为什么我需要找到一些与软件相关但确实与我的兴趣有关的东西。 有人可以推荐一些我可能会选择的有趣主题吗？ 我想要使用的实验室的目标语言是 Javascript、R、Julia、Racket 和 Scala    提交人    /u/Content_Lemon9994   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh20gk/bachelor_thesis_topic/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:12:26 GMT</pubDate>
     </item>
     <item>
       <title>winlator：使用 Wine 和 Box86/Box64 运行 Windows 应用程序的 Android 应用程序</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/daigoba66  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ggweqo/amazon_aurora_postgresql_limitless_database_is/</guid>
       <pubDate>Fri, 01 Nov 2024 03:20:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>万圣节的恐怖故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1gguns9/a_horror_story_for_halloween/</link>
-      <description><![CDATA[大家好。 万圣节快乐。我写了一个受真实事件启发的恐怖故事。快来看看吧！    提交人    /u/Ninjapup97   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gguns9/a_horror_story_for_halloween/</guid>
-      <pubDate>Fri, 01 Nov 2024 01:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从微软关于拉取请求有效性因素的研究论文中得出的关键结论。他们与代尔夫特大学合作，将 PR 生命周期从 197.2 小时缩短至 77.65 小时</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggqcua/my_key_takeaways_from_microsoft_research_paper/</link>
-      <description><![CDATA[  由    /u/RealDaikon7106  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggqcua/my_key_takeaways_from_microsoft_research_paper/</guid>
-      <pubDate>Thu, 31 Oct 2024 22:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花在开发上的时间越多，就越感到沮丧，因为很多开源项目并不是真正的开源。一旦维护者无法再维护他们的项目，他们就会被抛弃，并且无法更新它们。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggq2cx/the_more_time_i_spend_developing_the_more/</link>
-      <description><![CDATA[  由    /u/LoicAtTimeclock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggq2cx/the_more_time_i_spend_developing_the_more/</guid>
-      <pubDate>Thu, 31 Oct 2024 21:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>“52 周 SRE”第 2 周：应用程序监控基础知识。通过这篇深入的文章学习理论并将其付诸实践。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggobtp/week_2_of_52_weeks_of_sre_application_monitoring/</link>
-      <description><![CDATA[  由    /u/Green-Cyclist  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggobtp/week_2_of_52_weeks_of_sre_application_monitoring/</guid>
-      <pubDate>Thu, 31 Oct 2024 20:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bold 0.4 - 调试器中的 PrettyPrint</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggnf29/bold_04_prettyprint_in_the_debugger/</link>
-      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggnf29/bold_04_prettyprint_in_the_debugger/</guid>
-      <pubDate>Thu, 31 Oct 2024 19:53:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

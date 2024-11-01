@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 01 Nov 2024 15:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:02:18 GMT</lastBuildDate>
+    <item>
+      <title>您如何审查您的开源依赖项？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghbfij/how_do_you_vet_your_opensource_dependencies/</link>
+      <description><![CDATA[我厌倦了醒来后发现多年来一直使用的流行库中存在漏洞的消息。这是一个噩梦般的场景：一个被破坏的包就可能导致整个应用程序崩溃。 你们如何处理过时或不安全的依赖项的风险？ 你们是手动检查每一个吗？还是依赖自动化工具？你们有什么降低风险的策略？    提交人    /u/kiss_travel   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghbfij/how_do_you_vet_your_opensource_dependencies/</guid>
+      <pubDate>Fri, 01 Nov 2024 17:50:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的开源卡路里追踪应用程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</link>
+      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>跟踪开源项目许可证的变更</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gh8lig/tracking_changes_to_open_source_project_licenses/</link>
+      <description><![CDATA[大家好，我想知道是否有任何资源可以跟踪开源项目许可随时间的变化。一些大型开源项目最近已将其许可更改为非开源许可，许多项目继续拥有开放核心和付费功能。我想知道是否有一个“监督”网站或类似网站，可以提供一些信息，说明哪些项目和项目的一部分是真正的开源，哪些项目有警告或完全改变了许可。基本上，如果我遇到一个对我来说很新的项目或重新访问我以前探索过的项目，最好能避开营销，轻松识别它是否是开源的。有这样的资源吗？或者它只是需要你关注博客上的新闻？    提交人    /u/joejaz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gh8lig/tracking_changes_to_open_source_project_licenses/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:50:55 GMT</pubDate>
+    </item>
     <item>
       <title>Matt (WordPress) 与 WPEngine 的戏剧性对比</title>
       <link>https://www.reddit.com/r/opensource/comments/1gh5zpq/matt_wordpress_vs_wpengine_drama/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>有任何可以使用 LLM 寻找结构化输入的反应库吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gh3pg9/any_react_library_which_can_seek_structured/</link>
-      <description><![CDATA[我不知道在哪里，但我遇到了一个前端反应库，它有助于使用 LLM 工具调用以更结构化的方式从用户那里获取输入。 示例： 一位客户问我们的聊天机器人：“我的票怎么了？” 聊天机器人会回答：“您能否为我提供您正在谈论的相关票证。请提及参考编号” 用户将提供票证 ID，LLM 会带来状态或下一个流程。 但是，我想我在某个地方看到过一个解决了这个问题的库。llm 将生成一个表单，用户可以在其中填写信息并提交。这将使用户体验更好。 有人知道这样的库吗？   由    /u/divyamchandel  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我不知道在哪里，但我遇到了一个前端反应库，它有助于使用 LLM 工具调用以更结构化的方式从用户那里获取输入。 示例： 一位客户问我们的聊天机器人：“我的票怎么了？” 聊天机器人会回答：“您能否为我提供您正在谈论的相关票证。请提及参考编号” 用户将提供票证 ID，LLM 会带来状态或下一个流程。 但是，我想我在某个地方看到过一个解决了这个问题的库。llm 将生成一个表单，用户可以在其中填写信息并提交。这会让用户体验更好。 有人知道这样的库吗？   由    /u/divyamchandel  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gh3pg9/any_react_library_which_can_seek_structured/</guid>
       <pubDate>Fri, 01 Nov 2024 12:02:01 GMT</pubDate>
     </item>
@@ -120,30 +141,9 @@
     <item>
       <title>当你想到有人可能会利用你的工作来做坏事时，你会如何应对？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gghl4r/how_do_you_cope_with_the_thought_that_someone/</link>
-      <description><![CDATA[这个问题与我目前遇到的困惑有关，但这里有一些背景信息： 几年前，在人工智能尚未像现在这样起飞之前，我挑战自己做点什么。我想看看我是否可以使用家里的文本转语音软件制作有声读物，这些有声读物实际上是我可以听的，可以理解正在发生的事情，甚至可以享受的。 起初，这是一个手动过程，需要大量的反复试验。SAPI 5 引擎和 Microsoft Speech Platform 有很多怪癖，一开始并不明显。即使使用格式正确的标签，它们也会以小方式搞砸。最终，我创建了一个工作流程，可以将故事变成我真正可以听的东西。对话音调较高，这样您就总能知道谁在说话，强调以较慢速度朗读的文本，识别新单词并纠正它们以使其正确发音的方法，并在对话和章节之间添加停顿以增加清晰度。 为了测试我的过程，我拿了一本 800,000 字的同人小说来尝试，因为它是最容易获得的大型文本。我听了它。我喜欢它。我真的很喜欢声音给我的一致性。但花了数周时间才解决所有问题。当然，除了我之外，还有其他人会喜欢这个吗？ 所以，我在网上分享了它。这开启了我多年的爱好，我找到我喜欢的故事并制作它们的有声读物并在网上与其他人分享。 （我没有将这些视频用于任何货币化，仅供参考） 我编写了程序来完成所有繁重的工作，将一个周末的漫长过程缩短到几分钟。 然后，人工智能出现了。我很好奇。 将软件一致但机械的单调换成人工智能声音的人性化特征会是什么感觉？ 我再次陷入困境，并研究了如何做到这一点。市面上有各种各样的服务，它们的声音都很棒，但即使拥有高级会员资格，您也永远无法从中获得一本小型有声读物，除非您花费几个月的积分。然后，我找到了在家中使用其他非常好的模型的方法，并再次开始寻找所有的小问题。 有很多权衡。我发现它们会以奇怪的方式发疯，需要很长时间才能找到解决方法。但最终我改进了我的程序，基本上可以在极短的时间内将文档转换为有声读物，我非常高兴。我与我的朋友和家人分享了它，他们都对我所取得的成就印象深刻 - 甚至感到震惊。 我甚至在对话中加入了音调变化，放慢语速以强调，单词发音修正。 但与此同时，我对在 YouTube 上发布内容的兴趣减少了一点。找到我感兴趣的阅读或分享的同人小说故事变得更加困难。现在，我主要想用它来自己购买小说并随时随地收听。 所以现在，我陷入了困境：我以前所做的，总是旨在填补别人没有填补的空白。为同人小说制作的有声读物，或为任何永远不会出售或需要太多精力制作成音频作品的东西制作的有声读物。我从来没有发布过实际出版作品的有声读物。但是，我也不太想继续这样做。现在我正在看我的程序，并考虑与世界分享它，这样人们就可以自己使用它了。 只是……如果我这样做，我就无法阻止人们去那里窃取他人的作品并将其发布到 YouTube 上以赚钱。我无法阻止人们制作非常便宜的有声读物并破坏叙述者的工作。像 Audible 这样的公司已经偷偷制作了 AI 有声读物 - 但我从未见过任何一家公司尝试通过改变对话的音调和放慢强调文本的阅读速度来提供更好的体验。如果像他们这样的公司开始部分使用我的作品（而我不可能知道），我真的无法原谅自己。 那么。我该怎么办？我坚持下去吗？还是把它作为开源放在 Github 上？如果我这样做了，我该如何应对，因为我知道有人可能会利用我的作品做一些可怕的事情？    提交人    /u/Hexatona   [链接] [评论]]]></description>
+      <description><![CDATA[这个问题与我目前遇到的困惑有关，但这里有一些背景信息： 几年前，在人工智能尚未像现在这样起飞之前，我挑战自己做点什么。我想看看我是否可以使用家里的文本转语音软件制作有声读物，这些有声读物实际上是我可以听的，可以理解正在发生的事情，甚至可以享受的。 起初，这是一个手动过程，需要大量的反复试验。SAPI 5 引擎和 Microsoft Speech Platform 有很多怪癖，一开始并不明显。即使使用格式正确的标签，它们也会以小方式搞砸。最终，我创建了一个工作流程，可以将故事变成我真正可以听的东西。对话音调较高，这样您就总能知道谁在说话，强调以较慢速度朗读的文本，识别新单词并纠正它们以使其正确发音的方法，并在对话和章节之间添加停顿以增加清晰度。 为了测试我的过程，我拿了一本 800,000 字的同人小说来尝试，因为它是最容易获得的大型文本。我听了它。我喜欢它。我真的很喜欢声音给我的一致性。但花了数周时间才解决所有问题。当然，除了我之外，还有其他人会喜欢这个吗？ 所以，我在网上分享了它。这开启了我多年的爱好，我找到我喜欢的故事并制作它们的有声读物并在网上与其他人分享。 （我没有将这些视频用于任何货币化，仅供参考） 我编写了程序来完成所有繁重的工作，将一个周末的漫长过程缩短到几分钟。 然后，人工智能出现了。我很好奇。 将软件一致但机械的单调换成人工智能声音的人性化特征会是什么感觉？ 我再次陷入困境，并研究了如何做到这一点。市面上有各种各样的服务，它们的声音都很棒，但即使拥有高级会员资格，您也永远无法从中获得一本小型有声读物，除非您花费几个月的积分。然后，我找到了在家中使用其他非常好的模型的方法，并再次开始寻找所有的小问题。 有很多权衡。我发现它们会以奇怪的方式失灵，需要很长时间才能找到解决方法。但最终我改进了我的程序，基本上可以在极短的时间内将文档转换为有声读物，我非常高兴。我与我的朋友和家人分享了它，他们都对我所取得的成就印象深刻 - 甚至感到震惊。 我甚至在对话中加入了音调变化，放慢语速以强调，单词发音修正。 但与此同时，我对在 YouTube 上发布内容的兴趣减少了一点。找到我感兴趣的阅读或分享的同人小说故事变得更加困难。现在，我主要想用它来自己购买小说并随时随地收听。 所以现在，我陷入了困境：我以前所做的，总是旨在填补别人没有填补的空白。为同人小说制作的有声读物，或为任何永远不会出售或需要太多精力制作成音频作品的东西制作的有声读物。我从来没有发布过实际出版作品的有声读物。但是，我也不太想继续这样做。现在我正在看我的程序，并考虑与世界分享它，这样人们就可以自己使用它了。 只是……如果我这样做，我就无法阻止人们去那里窃取他人的作品并将其发布到 YouTube 上以赚钱。我无法阻止人们制作非常便宜的有声读物并破坏叙述者的工作。像 Audible 这样的公司已经偷偷制作了 AI 有声读物 - 但我从未见过任何一家公司尝试通过改变对话的音调和放慢强调文本的阅读速度来提供更好的体验。如果像他们这样的公司开始部分使用我的作品（而我不可能知道），我真的无法原谅自己。 那么。我该怎么办？我坚持下去吗？还是把它作为开源放在 Github 上？如果我这样做了，我该如何应对，因为我知道有人可能会利用我的作品做一些可怕的事情？    提交人    /u/Hexatona   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gghl4r/how_do_you_cope_with_the_thought_that_someone/</guid>
       <pubDate>Thu, 31 Oct 2024 15:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>物联网设备的自由/开源软件 (FOSS) 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ggb2pv/a_foss_alternative_for_iot_devices/</link>
-      <description><![CDATA[寻找可以连接和控制物联网设备的 FOSS 应用程序替代品。    提交人    /u/-knightlife-   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ggb2pv/a_foss_alternative_for_iot_devices/</guid>
-      <pubDate>Thu, 31 Oct 2024 10:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>预定协作清单/表格的软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gg9a1h/software_for_predetermined_collaborative/</link>
-      <description><![CDATA[我正在寻找可以替代购买新材料或机器时使用的某些（协作）清单或表格的软件。我想创建一个工作流程，让购买机器的人在签订合同后打开工作流程。然后，该工作流程将用于确定数字，进行检查以确保正确的保险和注册等得到处理等。此工作流程中的操作需要分配给不同的同事，某些操作在完成特定操作之前无法启动。 我发现各种软件都接近但最终不适合我们的用例。也许我只是不太擅长搜索。 我需要软件提供什么：  定义不同类型的材料 / 机械 定义需要针对特定​​类型的材料 / 机械采取的检查 / 操作 / 问题 定义谁负责哪些检查 / 操作 / 问题 定义检查 / 操作 / 问题之间的后续顺序。 （问题 X 已经回答了吗？现在只会为负责该操作的人创建操作 Y  有什么可以做到这一点的吗？    提交人    /u/kaisercrunch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gg9a1h/software_for_predetermined_collaborative/</guid>
-      <pubDate>Thu, 31 Oct 2024 07:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放数据作为数字公共产品在人工智能系统中的作用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gg2wrs/the_role_of_open_data_in_ai_systems_as_digital/</link>
-      <description><![CDATA[  由    /u/jlpcsl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gg2wrs/the_role_of_open_data_in_ai_systems_as_digital/</guid>
-      <pubDate>Thu, 31 Oct 2024 01:19:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
