@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 06:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 09:01:44 GMT</lastBuildDate>
+    <item>
+      <title>等待足够聪明的人工智能来为我构建一些独特的网络应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gh0365/waiting_for_smart_enough_ai_that_can_build_me/</link>
+      <description><![CDATA[我决定，当人工智能能够解决 P 复杂度类问题并能（在很大程度上）处理 NP 问题（或者至少在某些受限范围内为 np 类问题提出令人印象深刻的方法）时，我将关注它，在此之前我会等待 我认为目前的人工智能只是在浪费钱，它太动荡了 我对 cursor 、 bolt 、 databutton 、 pythagora ai 、 claude 、 v0 、 copilot 和所有印象深刻 但我想要比他们现在做的更多的东西，否则自己构建应用程序（通过提示 chatgpt）并没有太大区别 让我知道你的个人检查点是什么，（例如，如果人工智能能够做到这一点，或者如果人工智能会做到这一点，我就会被迷住，从那时起开始关注 aiverse 中的任何事情） 对我来说P 和 NP 复杂性类问题    提交人    /u/TheLogiqueViper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gh0365/waiting_for_smart_enough_ai_that_can_build_me/</guid>
+      <pubDate>Fri, 01 Nov 2024 07:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Democrasee.io - 一个由人工智能驱动的社交社区</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzwpv/democraseeio_an_aipowered_social_community/</link>
+      <description><![CDATA[  由    /u/Difficult_Link8383  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzwpv/democraseeio_an_aipowered_social_community/</guid>
+      <pubDate>Fri, 01 Nov 2024 07:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能将走向何方？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzi0e/where_is_ai_going/</link>
+      <description><![CDATA[我刚刚意识到——在过去的几天里，人工智能领域发生了一些重大举措：  微软演示了他们内部的人工智能辅助 iPaaS 系统。 OpenAI 推出了他们的搜索引擎。 Claude 正利用其新的&quot;计算机使用&quot;功能向自主代理迈进。 Perplexity 推出了 Spaces，一种 RAG 系统。  有趣的是，看到每家公司都在自动化行业开辟出独特的利基市场。    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzi0e/where_is_ai_going/</guid>
+      <pubDate>Fri, 01 Nov 2024 06:51:59 GMT</pubDate>
+    </item>
     <item>
       <title>提高生产力的最佳 AI 写作工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggyl1k/best_ai_writing_tools_for_productivity/</link>
@@ -69,20 +90,6 @@
       <pubDate>Fri, 01 Nov 2024 01:18:36 GMT</pubDate>
     </item>
     <item>
-      <title>从海量数据（10 万行以上）中获取可用的 AI 洞察的过程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggsnni/process_for_getting_usable_ai_insights_into/</link>
-      <description><![CDATA[嗨，我是一名全栈 Web 开发人员，被派往一个研发项目，我想向在 AI 领域比我更有知识的人请教。 该项目的最终目标是能够获取关键业务指标上的批量数据，并将其传递给 AI 以对数据进行分析/洞察。（用户将为 GPT 模型编写问题/提示）。 我认为在传递数据之前我需要对数据进行某种形式的处理，因为当我传递批量数据（比如 100k 行）时，响应显然会省略绝大多数数据并根据非常简短的浏览做出响应。  在数据处理方面，我进行了非常粗略的尝试，结果得到一个矢量化的 .csv 数据集，该数据集被分成异常和非异常，我对接下来的步骤非常迷茫。 如果 gpt 不是适合这项工作的工具，或者只是所需的众多工具之一，我很想知道/被指向正确的方向！:)     提交人    /u/BisonLower1337   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggsnni/process_for_getting_usable_ai_insights_into/</guid>
-      <pubDate>Thu, 31 Oct 2024 23:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bind AI vs Bolt vs Poe</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggr6d0/bind_ai_vs_bolt_vs_poe/</link>
-      <description><![CDATA[Bind AI 与 bolt.new 或 poe 相比如何？在 appsumo 上发现了他们的终身优惠  寻找具有聊天界面、最新 LLM 模型、在线 IDE 来执行 python 并且应该能够直接连接到我的 github 的 AI 代码生成工具。   由    /u/rajatchakrab  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggr6d0/bind_ai_vs_bolt_vs_poe/</guid>
-      <pubDate>Thu, 31 Oct 2024 22:44:10 GMT</pubDate>
-    </item>
-    <item>
       <title>两位候选人都秘密同意的事情</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggqnhs/something_that_both_candidates_secretly_agree_on/</link>
       <description><![CDATA[Matteo Wong：“如果说总统大选有什么缓解压力的，那就是生成式人工智能的繁荣。卡马拉·哈里斯和唐纳德·特朗普都没有在公开信息中充分利用这项技术，他们也没有阐述特别详细的人工智能平台。机器人似乎与经济、移民、堕胎权和其他可以成就或破坏竞选活动的问题无关。 “但不要被愚弄。美国人对人工智能的未来投入很大，也非常担心。民意调查一直显示，两大政党的大多数成年人都支持政府对人工智能进行监管，而且对监管的需求甚至可能在增长。州和联邦层面正在努力遏制人工智能引发的虚假信息、欺诈和隐私侵犯，以及支持私营部门的创新。广泛的人工智能政策即将出台，下一任总统很可能会在未来几年引领其方向。” “从表面上看，两位候选人在人工智能问题上的分歧非常大。当人工智能出现在竞选活动中时，焦点并不在实质性问题上，而是在所谓的文化战争中技术的地位上……[特朗普]表示，他将在‘第一天’推翻乔·拜登关于人工智能的行政命令——一份旨在保护消费者和公民权利，同时也刺激创新的庞大文件……” “这样的言论在本届选举周期中很常见：特朗普尤其不以言辞微妙或严肃著称，打压拜登显然是他的默认立场。然而，似乎没有人记得，拜登的‘危险’行政命令与特朗普本人签署的关于人工智能的两项行政命令如出一辙。拜登总统和哈里斯副总统支持的许多有关人工智能的政策都延续了特朗普任期内的原则和举措，例如努力建立联邦资金用于人工智能研究，为美国工人应对不断变化的经济做好准备，并为该技术制定安全标准。最近两届总统政府甚至同意确保联邦人工智能的使用不带有歧视性。而特朗普对这项技术的态度则建立在巴拉克·奥巴马总统任期内奠定的基础之上。换句话说，尽管他们的竞选活动对人工智能的态度（几乎没有，或者只是从最肤浅的角度）不同，但两位候选人在人工智能方面都有真正的记录，而且这些记录基本一致。多年来，这项技术似乎是一个罕见的问题，它是由实质问题而不是党派之争驱动的，也许是因为在 ChatGPT 推出之前，很多美国人并没有考虑过它。随着人工智能现在具有国家重要性，特朗普承诺要打破这一共识。 “尽管如此，他很可能无法做到这一点——这个理由和先例最终会占上风，只是因为在他自己的政府期间已经开始的事情已经有了如此大的势头。” 在此处阅读更多信息：https://theatln.tc/dPvYzRUs     提交人    /u/theatlantic   [链接] [评论]]]></description>
@@ -92,16 +99,9 @@
     <item>
       <title>介绍搜索 GPT：Google 杀手</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggps9l/introducing_search_gpt_the_google_killer/</link>
-      <description><![CDATA[OpenAI 发布了一款新的 AI 搜索引擎 Search GPT。该工具允许用户从互联网访问实时数据并与 AI 进行对话以获取更深入的信息。Search GPT 与 Google 和 Perplexity 进行了比较，显示了其在提供详细答案和记住上下文方面的优势。  观看实际操作：https://substack.com/@shortened/note/c-74952540    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
+      <description><![CDATA[OpenAI 发布了一款新的 AI 搜索引擎 Search GPT。该工具允许用户从互联网访问实时数据并与 AI 进行对话以获取更深入的信息。Search GPT 与 Google 和 Perplexity 进行了比较，显示了其在提供详细答案和记住上下文方面的优势。 顺便说一句，标题有点夸张，我没想到我需要为孩子们​​说明这一点 观看实际操作：https://substack.com/@shortened/note/c-74952540    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggps9l/introducing_search_gpt_the_google_killer/</guid>
       <pubDate>Thu, 31 Oct 2024 21:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 Realbotix 在人工智能与技术虚拟会议上的发现</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggnusb/discover_what_realbotix_uncovered_at_the_ai_tech/</link>
-      <description><![CDATA[  由    /u/AngelinaBot  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggnusb/discover_what_realbotix_uncovered_at_the_ai_tech/</guid>
-      <pubDate>Thu, 31 Oct 2024 20:11:41 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能热潮：高管为何拥抱未来</title>
