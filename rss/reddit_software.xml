@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 18:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 21:02:45 GMT</lastBuildDate>
+    <item>
+      <title>如果您更新了一个以前不属于您的网站，那么该网站是否会包含以前运行时的所有数据或其他内容？如果我购买了该网站，那么它的所有数据（如用户名、图片、视频、头像等）是否会随之而来？</title>
+      <link>https://www.reddit.com/r/software/comments/1ghfile/if_you_renew_a_website_that_you_didnt_previously/</link>
+      <description><![CDATA[我以前从未购买过网站，但我真的认为他们关闭它很可惜，它正在出售，但只有它仍然有内容时我才愿意购买它    提交人    /u/SeniorIndependence27   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghfile/if_you_renew_a_website_that_you_didnt_previously/</guid>
+      <pubDate>Fri, 01 Nov 2024 20:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将旧游戏从 DVD 转换为 ISO？（IMGburn 在大多数情况下失败）</title>
+      <link>https://www.reddit.com/r/software/comments/1ghd6ej/how_to_get_old_games_from_dvd_to_iso_imgburn_is/</link>
+      <description><![CDATA[我想保留我童年时的电子游戏。1999 年以后，imgburn 在大多数游戏中都失败了。 有什么好的替代方案？    提交人    /u/Dr_VTEC   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghd6ej/how_to_get_old_games_from_dvd_to_iso_imgburn_is/</guid>
+      <pubDate>Fri, 01 Nov 2024 19:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要不可检测的自动化软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ghd6bw/need_undetectable_automation_software/</link>
+      <description><![CDATA[我的部分工作是创建高度详细但大体相同的工作区。 我想我可以自动完成大部分工作，并在宏完成后进行调整。我以前使用过 ReMouse，但它需要安装（无法安装）。 我需要的是不需要安装的软件（便携式应用程序），否则自动扫描无法检测到。 我在考虑使用便携式 Tiny Task，但不确定它有多难以检测到。 任何帮助都将不胜感激。    提交人    /u/Pleasant_Expert_1990   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghd6bw/need_undetectable_automation_software/</guid>
+      <pubDate>Fri, 01 Nov 2024 19:05:02 GMT</pubDate>
+    </item>
     <item>
       <title>允许重叠组的可视化软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ghb6d0/visualization_software_that_allows_for/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[因此，我要先声明一下，我知道/使用过 ffmpeg 和 Shutter Encoder。但是，我发现前者太复杂了，而 Shutter 虽然更有吸引力，但还是让我头疼。 我不太懂技术，也不会定期转换或编辑视频。我想要的是一个简单直接的工具，它允许我将 WebM 视频转换为 MKV 或其他格式，同时保持相同的视频质量，而没有太多麻烦。此外，它还应该允许我转换视频的音频编解码器。我这样做是因为我的电视不支持 WebM 或 Opus。 所以，是的，我需要一个简单的软件，即使是 10 岁的孩子也可以使用，而不需要十页或 1 小时的教程，同时保持相同的源视频和音频质量。提前致谢 编辑：解决方案！！ 所以，我终于找到了我正在寻找的那种软件。Handbrake易于使用和理解，并且它有一个便携式版本！！！它完美地完成了工作，它将 webm 2160p 视频转换为 MKV 而不会降低其质量，我还能够轻松修改其音频编解码器。我目前正在电视上观看视频，没有任何问题。谢谢大家的帮助 10/10 会推荐。    提交人    /u/Hopeful_Spirit5248   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gg85ht/does_anyone_know_about_a_video_conversion_tools/</guid>
       <pubDate>Thu, 31 Oct 2024 06:26:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为人们建立了一种使用 Claude 3.5 Sonnet、GPT-4o、Gemini Pro、Stable Diffusion 等的方法，所有这些每月的费用都在 20 美元以下。</title>
-      <link>https://www.reddit.com/r/software/comments/1gg421u/i_built_a_way_for_people_to_use_claude_35_sonnet/</link>
-      <description><![CDATA[6 个月前，我还是个身无分文的大学生，每月为 Claude Pro 和 GPT4 支付 40 美元。 我需要一种方法来在一个平台上使用所有这些不同的 AI 模型，而且我知道即使我为自己设置了一个简单的界面，使用 API 也比使用他们的界面更便宜。 所以 1 个月前，我就是这么做的。我埋头苦干了 10 天，建立了 ninjachat dot ai，您可以在一个平台上使用 10 个 LLM，只需支付一个 Chat GPT 订阅的费用。 我很乐意听到您对该平台的评价以及我可以改进的领域。    提交人    /u/Competitive--Dig   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gg421u/i_built_a_way_for_people_to_use_claude_35_sonnet/</guid>
-      <pubDate>Thu, 31 Oct 2024 02:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道可以调暗每个程序的软件吗？例如，启动 PDF 阅读器，然后对其应用覆盖。</title>
-      <link>https://www.reddit.com/r/software/comments/1gg0why/does_anyone_know_a_software_that_can_dim_per/</link>
-      <description><![CDATA[这似乎是我希望存在但找不到的东西。    提交人    /u/YroPro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gg0why/does_anyone_know_a_software_that_can_dim_per/</guid>
-      <pubDate>Wed, 30 Oct 2024 23:43:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Malcrow - Windows 10/11 的分析环境 Scarecrow</title>
-      <link>https://www.reddit.com/r/software/comments/1gg0b6d/malcrow_analysis_environment_scarecrow_for/</link>
-      <description><![CDATA[大家好！我发布了我的软件 Malcrow 的第一个版本。您可以在我的 Github 上阅读更多相关信息。它可以创建虚假进程、注册表项以及最终服务来模拟分析环境，从而防止恶意软件运行。 我在遇到 Cyber​​ Scarecrow（非开源版本）后制作了这个。不同之处在于，我想制作一个任何人都可以使用或修改的开源版本。 https://github.com/Babyhamsta/Malcrow    提交人    /u/ThyGreatOof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gg0b6d/malcrow_analysis_environment_scarecrow_for/</guid>
-      <pubDate>Wed, 30 Oct 2024 23:17:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

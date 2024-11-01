@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 01 Nov 2024 18:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 21:02:54 GMT</lastBuildDate>
+    <item>
+      <title>pg_mooncake：Postgres 中的列存储表写入冰山/增量。</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</link>
+      <description><![CDATA[  由    /u/InternetFit7518  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</guid>
+      <pubDate>Fri, 01 Nov 2024 20:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新审视大规模机器学习研究集群的可靠性</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghffjy/revisiting_reliability_in_largescale_machine/</link>
+      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghffjy/revisiting_reliability_in_largescale_machine/</guid>
+      <pubDate>Fri, 01 Nov 2024 20:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个视频，可以作为 ROM 黑客的翻译介绍，供感兴趣的人参考！</title>
+      <link>https://www.reddit.com/r/programming/comments/1gheza4/made_a_video_that_should_work_as_an_intro_to_rom/</link>
+      <description><![CDATA[  由    /u/jonko_ds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gheza4/made_a_video_that_should_work_as_an_intro_to_rom/</guid>
+      <pubDate>Fri, 01 Nov 2024 20:24:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kafka 与 Spring Boot 及项目设置</title>
+      <link>https://www.reddit.com/r/programming/comments/1gheru2/kafka_with_spring_boot_with_project_setup/</link>
+      <description><![CDATA[  由   提交  /u/Latter-Dust8587   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gheru2/kafka_with_spring_boot_with_project_setup/</guid>
+      <pubDate>Fri, 01 Nov 2024 20:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试后端的内存峰值</title>
+      <link>https://www.reddit.com/r/programming/comments/1gheinm/debugging_spiky_memory_in_our_backend/</link>
+      <description><![CDATA[  由    /u/utpalnadiger  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gheinm/debugging_spiky_memory_in_our_backend/</guid>
+      <pubDate>Fri, 01 Nov 2024 20:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDB 与 Pandas/Polars 对比</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghcsu1/duckdb_over_pandaspolars/</link>
+      <description><![CDATA[  由    /u/pgr0ss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghcsu1/duckdb_over_pandaspolars/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>从午睡到长眠：谷歌的安全人工智能代理在开源代码库中发现了第一个真实漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghbwr1/from_naptime_to_big_sleep_googles_security_ai/</link>
+      <description><![CDATA[  由    /u/Recoil42  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghbwr1/from_naptime_to_big_sleep_googles_security_ai/</guid>
+      <pubDate>Fri, 01 Nov 2024 18:10:46 GMT</pubDate>
+    </item>
     <item>
       <title>Chris Krycho：如果版本控制很棒会怎样？—— 柔术简介。</title>
       <link>https://www.reddit.com/r/programming/comments/1ghafvy/chris_krycho_what_if_version_control_was_awesome/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gh2svu/why_those_particular_integer_multiplies/</guid>
       <pubDate>Fri, 01 Nov 2024 11:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>永远免费的 Vue 和 Node 管理面板框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh2o4m/alwaysfree_vue_node_admin_panel_framework/</link>
-      <description><![CDATA[  由    /u/Unerring-Ocean  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh2o4m/alwaysfree_vue_node_admin_panel_framework/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>winlator：使用 Wine 和 Box86/Box64 运行 Windows 应用程序的 Android 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh1zc9/github_brunodev85winlator_android_application_for/</link>
-      <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh1zc9/github_brunodev85winlator_android_application_for/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:10:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds 使用 Linux 内核小补丁将性能提升 2.6%</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh1vlq/linus_torvalds_lands_a_26_performance_improvement/</link>
-      <description><![CDATA[  由    /u/Akkeri  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh1vlq/linus_torvalds_lands_a_26_performance_improvement/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>很多武装匪徒</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh1cpv/many_armed_banditism/</link>
-      <description><![CDATA[  由    /u/ExiledDude  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh1cpv/many_armed_banditism/</guid>
-      <pubDate>Fri, 01 Nov 2024 09:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GPT-4o 进行网页抓取</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggzb8a/using_gpt4o_for_web_scraping/</link>
-      <description><![CDATA[  由    /u/Suspicious_Market561  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggzb8a/using_gpt4o_for_web_scraping/</guid>
-      <pubDate>Fri, 01 Nov 2024 06:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>嵌入被低估了</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggwhoa/embeddings_are_underrated/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggwhoa/embeddings_are_underrated/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Aurora PostgreSQL Limitless 数据库现已全面推出</title>
-      <link>https://www.reddit.com/r/programming/comments/1ggweqo/amazon_aurora_postgresql_limitless_database_is/</link>
-      <description><![CDATA[  由    /u/daigoba66  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ggweqo/amazon_aurora_postgresql_limitless_database_is/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:20:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
