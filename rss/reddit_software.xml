@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 02 Nov 2024 12:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 15:01:52 GMT</lastBuildDate>
+    <item>
+      <title>instagram reels 中间按钮有 bug</title>
+      <link>https://www.reddit.com/r/software/comments/1ghx3d3/instagram_reels_middle_button_bug/</link>
+      <description><![CDATA[即使在播放视频时，Instagram 视频中间的播放按钮仍然可见且不会消失。  删除并禁用浏览器扩展 在不同的浏览器上测试 使用不同的帐户登录 安装并使用 Instagram 应用程序  当我切换到 Windows 10 时此问题已解决，但升级到 Windows 11 后它又出现了。它可能与我的音频驱动程序有关，因为我在该错误返回时更新了它们。任何帮助都将不胜感激！ https://preview.redd.it/3elsrrshvhyd1.png?width=552&amp;format=png&amp;auto=webp&amp;s=ca7bd22cb2c396289163dccf02fc97ed03868797    提交人    /u/RobynSNP   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghx3d3/instagram_reels_middle_button_bug/</guid>
+      <pubDate>Sat, 02 Nov 2024 14:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序用于确定歌曲文件旁边是否有匹配的歌词文件</title>
+      <link>https://www.reddit.com/r/software/comments/1ghv8z4/program_to_determine_if_there_is_a_matching_lyric/</link>
+      <description><![CDATA[我有一些音乐文件目录，其中的文件名称如下： 艺术家- 专辑- 曲目号 - 歌曲标题.flac 或 .mp3 在歌曲文件所在的文件夹中，会有一个歌词文件保存为同名文件，但是扩展名会有所不同，例如： 艺术家- 专辑- 曲目号 - 歌曲标题.lrc 或 .txt 有没有一个程序可以扫描目录并确定哪些歌曲文件没有相应的歌词文件？    提交人    /u/ngs428   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghv8z4/program_to_determine_if_there_is_a_matching_lyric/</guid>
+      <pubDate>Sat, 02 Nov 2024 12:24:45 GMT</pubDate>
+    </item>
     <item>
       <title>Aniworld 下载器更新 ver1.20</title>
       <link>https://www.reddit.com/r/software/comments/1ght4wj/aniworld_downloader_update_ver120/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[亮白色的网页和视频对我来说是无法阅读/观看的。  寻找好的建议，我可以使用哪些应用程序来切换一些过滤器，以使这些不敬虔的眼睛强奸可以忍受？ 我在 Windows 10 上 注意：谁他妈的认为亮白色是最好的设计选择？为什么他们让世界变得更糟？    提交人    /u/Preachwar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gh2jmq/dimmerbrightnesscolor_control_for_screens/</guid>
       <pubDate>Fri, 01 Nov 2024 10:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使所引用的驱动器已断开连接，软件也可以检查从一个驱动器到另一个驱动器的唯一文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1gh26uw/software_to_check_for_unique_files_from_one_drive/</link>
-      <description><![CDATA[因此，我有两个硬盘驱动器，它们应该互相镜像，但是在某个时候，我在传输正确的文件时出现了失误，现在这两个驱动器几乎具有相同的文件副本，但是一个驱动器有一些文件而另一个没有，反之亦然。 我需要检查另一个驱动器中缺少哪些文件，但我无法使用我找到的软件，因为它们假定所引用的两个驱动器是同时连接的，而我无法做到这一点，因为我用于笔记本电脑的外部基座只有一个。因此，是否有一种软件可以以某种方式从一个驱动器创建一个文件列表，然后使用该列表引用其他驱动器以查找所有丢失的文件？    提交人    /u/thecoconico   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gh26uw/software_to_check_for_unique_files_from_one_drive/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>防篡改保护已关闭——潜在病毒？</title>
-      <link>https://www.reddit.com/r/software/comments/1ggzksr/tamper_protection_turned_off_potential_virus/</link>
-      <description><![CDATA[所以，我最近刚刚摆脱了以前的防病毒软件 (AVG)，并决定重新使用 Defender。当尝试启用“病毒和威胁防护”设置下的“篡改防护”时，它会向我发出此警报，表明它由管理员管理，即使这是我的自己的个人计算机。我是否需要担心潜在的病毒正在影响它，还是存在其他问题？我尝试通过regedit启用它，但没有任何运气。 当我运行 Windows Defender 时，它也没有检测到任何威胁，因此我不确定问题是什么以及为什么我无法启用它...任何帮助都将不胜感激... https://preview.redd.it/j4c89yykm8yd1.png?width=761&amp;format=png&amp;auto=webp&amp;s=1347788032815155feb2c9723093643b33bba9c7    提交人    /u/Queasy-Performance-4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ggzksr/tamper_protection_turned_off_potential_virus/</guid>
-      <pubDate>Fri, 01 Nov 2024 06:58:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

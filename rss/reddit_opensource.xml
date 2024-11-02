@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 Nov 2024 12:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 15:02:05 GMT</lastBuildDate>
+    <item>
+      <title>交易电子邮件魔术链接和 OTP 身份验证</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghxha9/transactional_email_magic_link_and_otp/</link>
+      <description><![CDATA[我刚刚更新了我的开源 Golang 电子邮件魔术链接身份验证项目，以包含一次性密码 (OTP) 支持。 https://github.com/MicahParks/magiclinksdev 这将 API 规范带到了 v2： https://swaggerui.magiclinks.dev/ 魔术链接身份验证是我的最爱，但它也有挑战。有两个值得注意的挑战，一个是技术挑战，一个是用户相关挑战。 魔术链接的技术挑战更多地与电子邮件有关。许多电子邮件安全产品喜欢跟踪电子邮件中的链接来分析它们是否存在恶意软件或网络钓鱼。由于魔术链接是一次性使用的，因此这会消耗魔术链接。对于这个项目，我最终使用 reCAPTCHA v3 在执行重定向之前测试 Web 浏览器。如果用户的浏览器不运行 JavaScript，则有一个按钮可以提交执行重定向的 HTML 表单。添加 reCAPTCHA v3 意味着我需要在启用时将 Google 服务条款和隐私政策添加到用户工作流程中，这并不理想。但是，我仍然认为这是一个长期解决方案，不涉及我自己的反机器人（安全产品）代码。话虽如此，我仍然更喜欢仅使用后端的方法来解决这个问题。 HTTP 3XX 重定向比 JavaScript 重定向更受青睐。 https://github.com/MicahParks/magiclinksdev/issues/2 与用户相关的挑战是，用户想要在设备 A 上登录，但他们只在设备 B 上查看电子邮件。对于像我的父母这样的老用户来说尤其如此，他们只在 iPad 上查看电子邮件。在这种情况下，OTP 是一种很好的替代电子邮件解决方案。虽然根据我的经验，用户也发现 OTP 摩擦令人不快...... 无法赢得所有人。 如果您愿意，请查看该项目。让我知道你的想法。我喜欢谈论身份验证。    提交人    /u/errChan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghxha9/transactional_email_magic_link_and_otp/</guid>
+      <pubDate>Sat, 02 Nov 2024 14:19:13 GMT</pubDate>
+    </item>
     <item>
       <title>npx checkout-link ./my-file.zip - 从命令行出售文件访问权限的最快方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1ghuvcp/npx_checkoutlink_myfilezip_the_fastest_way_to/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Spirited-Pause  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gh2u9z/in_light_of_recent_events_with_internet_archive_i/</guid>
       <pubDate>Fri, 01 Nov 2024 11:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是开源的习惯追踪应用程序，可在 PC 和 Android 上使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gh2gn4/what_is_a_habit_tracking_app_that_is_opensource/</link>
-      <description><![CDATA[Loop Habit Tracker 看起来不错，但不是跨平台的，也没有同步功能，所以对我来说毫无用处。    提交人    /u/Khizar_KIZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gh2gn4/what_is_a_habit_tracking_app_that_is_opensource/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:44:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
