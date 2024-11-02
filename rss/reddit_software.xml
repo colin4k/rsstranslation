@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 02 Nov 2024 06:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 09:01:58 GMT</lastBuildDate>
+    <item>
+      <title>需要一个软件来清理空间！</title>
+      <link>https://www.reddit.com/r/software/comments/1ghrakr/need_a_software_to_clean_up_space/</link>
+      <description><![CDATA[大家好， 我有点为难——我的笔记本电脑内存快满了，我已经卸载了一堆不必要的软件。我还需要清理我的下载文件夹和 C 盘以释放更多空间。 我怀疑我有一些随机库和依赖项，是我曾经使用过但忘记了的项目留下的。有谁知道有什么好的软件工具或方法可以快速识别和删除这些未使用的文件，以及有效地清理我的下载和 C 盘？ 任何提示都将不胜感激！ 提前致谢！    提交人    /u/SpringChoice2308   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghrakr/need_a_software_to_clean_up_space/</guid>
+      <pubDate>Sat, 02 Nov 2024 07:34:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>屏幕捕获计算器</title>
+      <link>https://www.reddit.com/r/software/comments/1ghr96w/screen_capture_calculator/</link>
+      <description><![CDATA[是否有一个计算器可以扫描屏幕，搜索数学等式并给出答案。至少可以进行简单的乘法（从 1 到 12 的表格）以及除法和诸如 12 x ? = 144 之类的问题。计算器还应在扫描屏幕后输入答案。     提交人    /u/EnderLonly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghr96w/screen_capture_calculator/</guid>
+      <pubDate>Sat, 02 Nov 2024 07:31:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个可以欺骗游戏让它认为我有不同的 GPU 的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ghq960/a_software_to_trick_a_game_into_thinking_i_have_a/</link>
+      <description><![CDATA[目前我在玩 Helldivers 2 时遇到了问题，它对我的​​ gpu（rx 7600）做了一些奇怪的事情并且立即关闭了我的 PC，我想让它像其他硬件一样工作，这样游戏就不会重复这种行为。 由于我尝试了所有可能的故障排除方法，所以我现在不知道如何修复该问题，所以这让我来到这里。    提交人    /u/Alexcs98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghq960/a_software_to_trick_a_game_into_thinking_i_have_a/</guid>
+      <pubDate>Sat, 02 Nov 2024 06:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何免费软件可以排列激光切割的形状吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ghq5tv/any_free_software_to_arrange_shapes_for/</link>
+      <description><![CDATA[基本上，我有几个形状需要适合特定尺寸的区域以进​​行激光切割，我目前正在 Auto CAD 中手动进行此操作，我觉得应该有一些软件可以自动完成此操作，基本上它与 3D 切片软件中的功能相同，可以排列要打印的几块 我需要将这些 2D 形状排列到具有一定公差的区域中，如果有任何基于矢量的软件可以做到这一点，那就太好了    提交人    /u/That_one_sander   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ghq5tv/any_free_software_to_arrange_shapes_for/</guid>
+      <pubDate>Sat, 02 Nov 2024 06:08:25 GMT</pubDate>
+    </item>
     <item>
       <title>有什么免费又好用的加密软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1ghnury/any_free_and_easytouse_encryption_software/</link>
@@ -39,13 +67,6 @@
       <description><![CDATA[ HotkeyP - 键盘/鼠标/游戏手柄映射器（易于使用、轻量级、许多功能，例如宏、隐藏窗口、不透明度、始终在顶部、更改壁纸、放大镜、音量、静音、禁用键 - 如 CapsLock……）  HotkeyP 更新日志 4.11 (2024-10-29) - “添加/删除程序”重命名为“应用和功能” - 打开/保存设置重命名为导入/导出设置 - 较小的字体大小 - 更改了小的突出显示的 HotkeyP 图标 - 删除了间谍应用程序，但如果您需要它，您可以从 https://github.com/plastovicka/HotkeyP/issues/2 下载它 修复了错误： - Notepad++ 中的“粘贴文本” - 仅启动 HotkeyP.exe 的一个进程 - 带参数的命令行多命令 - 挂钩线程退出超时从 5 秒更改为 1 秒 - 删除了 SetForegroundWindow 后的最小化/恢复 - 如果未选择任何内容，“运行”按钮会崩溃 - “最大化窗口”用鼠标左键 下载 更多有用的相关链接： - HotkeyP 鼠标快捷键提示：软件 - 最佳软件功能：软件    提交人    /u/DreamerEight   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ghfz3h/hotkeyp_411/</guid>
       <pubDate>Fri, 01 Nov 2024 21:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您更新了一个以前不属于您的网站，那么该网站是否会包含以前运行时的所有数据或其他内容？如果我购买了该网站，那么它的所有数据（如用户名、图片、视频、头像等）是否会随之而来？</title>
-      <link>https://www.reddit.com/r/software/comments/1ghfile/if_you_renew_a_website_that_you_didnt_previously/</link>
-      <description><![CDATA[我以前从未购买过网站，但我真的认为他们关闭它很可惜，它正在出售，但只有它仍然有内容时我才愿意购买它    提交人    /u/SeniorIndependence27   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ghfile/if_you_renew_a_website_that_you_didnt_previously/</guid>
-      <pubDate>Fri, 01 Nov 2024 20:48:18 GMT</pubDate>
     </item>
     <item>
       <title>如何将旧游戏从 DVD 转换为 ISO？（IMGburn 在大多数情况下失败）</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在寻找一种方法来控制 YouTube 音乐（在我的浏览器中播放），并将当前正在播放的内容作为一个小窗口显示在辅助显示器上。我的浏览器的第二个窗口太混乱了，我无法将其缩小到足以很好地适应 Discord。    提交人    /u/GoodAsBacon   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ggz8ml/simple_media_controller_for_youtube_music/</guid>
       <pubDate>Fri, 01 Nov 2024 06:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>需求：双边市场</title>
-      <link>https://www.reddit.com/r/software/comments/1ggz2hn/wanted_twosided_marketplace/</link>
-      <description><![CDATA[您推荐使用哪些现有的软件或服务在网络上构建双边市场，以便任何用户都可以列出他们的产品/服务？    提交人    /u/dca12345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ggz2hn/wanted_twosided_marketplace/</guid>
-      <pubDate>Fri, 01 Nov 2024 06:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么好的计算机程序可以拼接或剪切视频片段？</title>
-      <link>https://www.reddit.com/r/software/comments/1ggyulv/what_is_a_good_computer_program_for_stitching/</link>
-      <description><![CDATA[一位朋友想让我帮他流式传输和编辑他的 YouTube 视频。有什么易于使用的程序可以让我做到这一点？    提交人    /u/clarkky55   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ggyulv/what_is_a_good_computer_program_for_stitching/</guid>
-      <pubDate>Fri, 01 Nov 2024 06:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ggvw6u/reporting_software/</link>
-      <description><![CDATA[我正在寻找一个基于 Windows 的软件或 Web/云解决方案，让我可以做一些非常简单的事情。 提供包含费用、商家名称、日期、金额和类别字段的 csv。 并提供一个 excel 模板文件。 我想提供一个列映射，并让软件以模板文件的格式输出 excel 文件，但包含 csv 的内容。 我尝试通过 power query 来做到这一点，但从长远来看，这有点超出我的构建或管理能力。 这是“Neat Desktop”收据管理器的一个非常简单的功能，但该软件现在已经过时，云版本也很糟糕。 如能提供任何帮助，我们将不胜感激，谢谢。    提交人    /u/lions2lambs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ggvw6u/reporting_software/</guid>
-      <pubDate>Fri, 01 Nov 2024 02:50:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
