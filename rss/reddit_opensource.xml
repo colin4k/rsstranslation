@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 Nov 2024 03:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 06:01:49 GMT</lastBuildDate>
+    <item>
+      <title>有没有什么开源且易于学习的软件可以创建信息图表？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</link>
+      <description><![CDATA[是否有任何开源且易于学习的软件来创建信息图表？ 如果可能，请分享他们的网站。     提交人    /u/WizOfWriting   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</guid>
+      <pubDate>Sat, 02 Nov 2024 04:21:50 GMT</pubDate>
+    </item>
     <item>
       <title>Contribank：重新思考开源贡献——欢迎发表想法！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ghjk2t/contribank_rethinking_open_source_contributions/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好！希望大家都一切顺利！ 所以，最近（过去一年左右）我一直在学习 x86 系列指令和 ELF 目标文件格式的一些基本概念，作为一个附带项目。到目前为止，我已经能够编写一个库，将一些基本指令编译成原始 ELF 二进制文件，ld 愿意消化它并为其生成可执行文件。我目前非常希望有空闲时间和新眼光的人看看我的 sphagetti code 项目，甚至可能将一些代码贡献到此处的 jas 存储库中：https://github.com/cheng-alvin/jas 谢谢，Alvin   由    /u/cheng-alvin  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ggwwpo/jas_my_x64_elf_assembler_library_i_wrote_in_plain/</guid>
       <pubDate>Fri, 01 Nov 2024 03:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源许可证和乐高积木</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ggw04v/open_source_licenses_and_lego_blocks/</link>
-      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ggw04v/open_source_licenses_and_lego_blocks/</guid>
-      <pubDate>Fri, 01 Nov 2024 02:57:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
