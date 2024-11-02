@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 02 Nov 2024 00:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 03:05:32 GMT</lastBuildDate>
+    <item>
+      <title>简单的 sdl3 射线投射器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghmr77/simple_sdl3_raycaster/</link>
+      <description><![CDATA[  由    /u/snubcrescent  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghmr77/simple_sdl3_raycaster/</guid>
+      <pubDate>Sat, 02 Nov 2024 02:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 QueryFlip：根据查询长度在 Google 和 ChatGPT 之间自动切换</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghmprh/opensourced_queryflip_autoswitching_between/</link>
+      <description><![CDATA[  由    /u/atlasspring  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghmprh/opensourced_queryflip_autoswitching_between/</guid>
+      <pubDate>Sat, 02 Nov 2024 02:35:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>经典 3D 视频游戏阴影技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghlapi/classic_3d_videogame_shadow_techniques/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghlapi/classic_3d_videogame_shadow_techniques/</guid>
+      <pubDate>Sat, 02 Nov 2024 01:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>使用 OpenAI 进行逆向工程压缩代码</title>
       <link>https://www.reddit.com/r/programming/comments/1ghigws/reverse_engineering_minified_code_using_openai/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/agumonkey  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gh7la9/andrew_favia_python_has_a_hidden_small_text/</guid>
       <pubDate>Fri, 01 Nov 2024 15:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 性能更新：NUMA 内存配置增益</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh75fg/raspberry_pi_performance_update_numa_memory/</link>
-      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh75fg/raspberry_pi_performance_update_numa_memory/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLQL：使用模式匹配器在 LLVM IR/BC 上运行 SQL 查询</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh5ti4/llql_running_sql_query_on_llvm_irbc_with_pattern/</link>
-      <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh5ti4/llql_running_sql_query_on_llvm_irbc_with_pattern/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>用乐高类比来解释 OSS 许可证</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh4i8t/a_bit_about_oss_licenses_explained_with_lego/</link>
-      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh4i8t/a_bit_about_oss_licenses_explained_with_lego/</guid>
-      <pubDate>Fri, 01 Nov 2024 12:45:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
