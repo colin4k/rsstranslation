@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 21:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:03:08 GMT</lastBuildDate>
+    <item>
+      <title>新手问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghiyqo/noob_question/</link>
+      <description><![CDATA[我是一名高中老师，对人工智能几乎一无所知。 周一我们将进行一场相当奢华的模拟选举，我真的很想制作简短的人工智能视频，让特朗普和哈里斯都谈谈我们学校选举的结果，这样就可以在一天结束时播放给我们的学生。 我已经找到了一些非常用户友好的应用程序，可以让我制作特朗普视频，但我找不到哈里斯的视频。有些应用程序不让我看到可用的名人，直到我支付 20 美元注册。 如果有人能给我指出一个应用程序的方向，让我在几乎不需要用户专业知识的情况下做到这一点，我将不胜感激。    提交人    /u/LonelyAsLostKeys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghiyqo/noob_question/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Pro 搜索不一致？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghisgd/perplexity_pro_searches_are_inconsistent/</link>
+      <description><![CDATA[我是 Perplexity Pro 的订阅者，我发现当我询问最新的人工智能新闻时，它给出的答案可能是几个月前、几天前的，前后不一致。几分钟后，当我问完全相同的问题时，它给出了不同的答案。在 YouTube 上看一个人问同样的问题时，它会给出最新消息，甚至显示今天的日期。我使用 Claude Sonnet 3.5 作为模型。你的经验是什么？我应该调整一些设置吗？    提交人    /u/AppropriateRespect91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghisgd/perplexity_pro_searches_are_inconsistent/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 o1 如此重要：在推理的所有重要方面模仿大脑</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghikr4/why_o1_is_such_a_big_deal_mimics_the_brain_in_all/</link>
+      <description><![CDATA[大多数人工智能模型的运作方式与人脑有着根本的不同，尤其是在影响泛化方面。关键的区别在于强化学习 (RL)。 从高层次来看，人类和生成模型确实有相似之处。例如，Minecraft 中人工智能生成的世界可以类似于我们的梦境，其中模型会根据先前的模式不断生成模式。这很像我们的系统 1（直观、快速）思维：人类通过迭代匹配模式来设想解决方案，这本质上是想象力。这个过程使我们能够处理分布外 (OOD) 问题：我们使用已知的块构建愿景来处理新场景。 想象一下，如果我让你把球扔过栅栏。你可能会开始想象各种策略——把它扔过去、挖个洞或破坏栅栏。这种设想类似于生成模型所做的，我们在这里学习的不是逻辑推理，而是基于经验的想象，通过观察周围世界的输入输出示例来增强这种想象。 所以，如果我们假设人工智能和人类在这个想象过程中是相似的，那么为什么人类似乎在推理方面更胜一筹呢？这就是强化学习的用武之地。当人类找到一个解决方案时——比如，一种让球越过栅栏的方法——我们大脑的边缘系统会奖励我们，巩固这个解决方案以备将来使用。然而，目前的模型缺乏这种基于强化学习的强化。它们只会因为正确预测输出而获得奖励，而不是因为生成了一条通往正确答案的有效路径而获得奖励。 当然，今天的模型有 RL-HF（从人类反馈中进行强化学习），但它受到人类标签可用性的限制。我们真正需要的是一个人工智能“边缘系统”——一个评估自身输出的内部模型。这样的系统不仅可以验证答案的正确性，还可以验证方法是否切合实际（例如，注意模型是否设想用小指推栅栏，这将被标记为不切实际）。对于模型来说，验证比生成更容易，随着时间的推移，它会提高模型的生成质量以匹配其评估精度。当模型找到既正确又现实的序列时，它会获得奖励。  这个概念反映了 O1 等系统的方法，它将系统 1 模型（模式匹配生成，如 GPT）与基于 RL 的评估器相结合，模拟边缘系统，改进模型的“推理”能力。通过叠加这个主观奖励函数，我们可以复制人脑的核心功能并解锁更强大的推理。这样一来，O1 不仅仅是一个巧妙的工程壮举——它是人类推理的功能复制，解决了人工智能推理潜力的一个关键差距。     由    /u/PianistWinter8293 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghikr4/why_o1_is_such_a_big_deal_mimics_the_brain_in_all/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:08:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和机器学习的现状：🛠️ 亚马逊面临将人工智能融入 Alexa 的挑战 🤖Meta 开发出具有类似人类触觉的机械手 🗣️ Sam Altman 表示 2025 年没有计划推出聊天 GPT-5 🛡️ 中国利用 Meta AI 开发军事聊天机器人 🔍 谷歌将人工智能与搜索相结合</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghhiuk/today_in_ai_and_machine_learning_amazon_faces/</link>
+      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghhiuk/today_in_ai_and_machine_learning_amazon_faces/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找将教学视频转换为文本教程的工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghgvd6/looking_for_a_tool_that_converts_instructional/</link>
+      <description><![CDATA[大家好！ 我正在寻找一种工具（付费也可以），可以将教学视频（如 YouTube 教程）转换为书面教程。目标是制作一份基于文本的指南，概述视频中给出的关键步骤和说明，本质上是创建文本形式的“教程”。 有人知道可以做到这一点的优秀 AI 工具吗？理想情况下，我想要一种可以处理多种语言（如果可能）并准确抓住要点而不遗漏细节的工具。如果有人有使用可靠工具或软件的经验，我将非常感谢您的推荐！提前致谢。😊    提交人    /u/cozysleet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghgvd6/looking_for_a_tool_that_converts_instructional/</guid>
+      <pubDate>Fri, 01 Nov 2024 21:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们是否害怕人工智能自动化，因为它威胁到了我们的地位？但我们却不敢公开谈论它？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghgu42/are_we_afraid_of_ai_automation_because_it/</link>
+      <description><![CDATA[真正让人们感到恐惧的是：人工智能自动化有可能成为伟大的均衡器。它有可能将这些地位游戏中每个人的排名降至零 - 无论您是首席执行官还是入门级员工，那些精心构建的等级制度突然变得毫无意义。花费数十年时间爬上公司阶梯顶端的人可能会发现自己与刚起步的人处于同一水平。 这感觉像是一种巨大的损失，因为我们在这些等级制度中投入了太多的身份和自我价值。这不仅仅是失去一个职位 - 而是失去了我们用来定义成功和个性的衡量标准。我们面临的可能性是，在人工智能从根本上改变了游戏规则的世界里，所有这些年的“进步”可能突然变得毫无意义。    提交人    /u/scorpion0511   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghgu42/are_we_afraid_of_ai_automation_because_it/</guid>
+      <pubDate>Fri, 01 Nov 2024 21:46:48 GMT</pubDate>
+    </item>
     <item>
       <title>AI 信心问题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghfbxq/ai_confidence_question/</link>
@@ -20,13 +62,6 @@
       <pubDate>Fri, 01 Nov 2024 17:55:50 GMT</pubDate>
     </item>
     <item>
-      <title>公开辩论，但有成千上万的提示。我不再使用提示，而是“让我们今天构建很酷的东西。”“兄弟，你明白了，我们今天将构建很酷的东西。”代码可以运行，它变得如此复杂真是太疯狂了。朋友们说“你疯了，而且是人工智能崇拜者！”我想知道？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gh9zpq/debate_going_public_with_this_but_thousands_of/</link>
-      <description><![CDATA[我完全不知道 GPT-4o 正在拯救我的一切！你知道吗？这太棒了！如果是扎克伯格，人们会把他绑在火刑柱上。山姆？给他诺贝尔奖吧。 :-)    提交人    /u/ejpusa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gh9zpq/debate_going_public_with_this_but_thousands_of/</guid>
-      <pubDate>Fri, 01 Nov 2024 16:49:03 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 的政治经济体系提案</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gh9onn/chatgpts_politicoeconomic_system_proposal/</link>
       <description><![CDATA[  由    /u/AutoMeta  提交  [链接] [评论]]]></description>
@@ -36,7 +71,7 @@
     <item>
       <title>以下是人工智能领域的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gh8d3z/heres_what_is_making_news_in_the_ai/</link>
-      <description><![CDATA[聚焦 - OpenAI 推出其 Google 挑战者 ChatGPT Search  Google 正在 Gemini 中构建智能家居控制 英特尔的 Gaudi AI 芯片远远落后于 Nvidia 和 AMD，甚至无法达到 5 亿美元的目标 亚马逊首席执行官 Andy Jassy 暗示将推出“代理”AI Alexa OpenAI 首席执行官 Sam Altman 表示，计算能力不足正在推迟公司产品的发展 我们近 90% 的 AI 爬虫流量来自 TikTok/ByteDance Google Maps 正在获得由 Gemini 提供支持的新 AI 功能    由    /u/codeharman  提交  [链接] [评论]]]></description>
+      <description><![CDATA[聚焦 - OpenAI 推出其 Google 挑战者 ChatGPT Search  Google 正在 Gemini 中构建智能家居控制 英特尔的 Gaudi AI 芯片远远落后于 Nvidia 和 AMD，甚至无法达到 5 亿美元的目标 亚马逊首席执行官 Andy Jassy 暗示将推出“代理”AI Alexa OpenAI 首席执行官 Sam Altman 表示，计算能力不足正在推迟公司产品的发展 我们近 90% 的 AI 爬虫流量来自 TikTok / ByteDance Google Maps 正在获得由 Gemini 提供支持的新 AI 功能    由    /u/codeharman  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gh8d3z/heres_what_is_making_news_in_the_ai/</guid>
       <pubDate>Fri, 01 Nov 2024 15:40:55 GMT</pubDate>
     </item>
@@ -76,20 +111,6 @@
       <pubDate>Fri, 01 Nov 2024 10:47:00 GMT</pubDate>
     </item>
     <item>
-      <title>等待足够聪明的人工智能来为我构建一些独特的网络应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gh0365/waiting_for_smart_enough_ai_that_can_build_me/</link>
-      <description><![CDATA[我决定，当人工智能能够解决 P 复杂度类问题并能（在很大程度上）处理 NP 问题（或者至少在某些受限范围内为 np 类问题提出令人印象深刻的方法）时，我将关注它，在此之前我会等待 我认为目前的人工智能只是在浪费钱，它太动荡了 我对 cursor 、 bolt 、 databutton 、 pythagora ai 、 claude 、 v0 、 copilot 和所有人工智能印象深刻 但我想要比他们现在做的更多的东西，否则自己构建应用程序（通过提示 chatgpt）并没有太大区别 让我知道你的个人检查点是什么，（例如，如果人工智能能够做到这一点，或者如果人工智能会做到这一点，我就会被迷住，从那时起开始关注 aiverse 中的任何事情） 对我来说P 和 NP 复杂性类问题    提交人    /u/TheLogiqueViper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gh0365/waiting_for_smart_enough_ai_that_can_build_me/</guid>
-      <pubDate>Fri, 01 Nov 2024 07:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Democrasee.io - 一个由人工智能驱动的社交社区</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzwpv/democraseeio_an_aipowered_social_community/</link>
-      <description><![CDATA[  由    /u/Difficult_Link8383  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzwpv/democraseeio_an_aipowered_social_community/</guid>
-      <pubDate>Fri, 01 Nov 2024 07:25:08 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能将走向何方？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggzi0e/where_is_ai_going/</link>
       <description><![CDATA[我刚刚意识到——在过去的几天里，人工智能领域发生了一些重大举措：  微软演示了他们内部的人工智能辅助 iPaaS 系统。 OpenAI 推出了他们的搜索引擎。 Claude 正利用其新的&quot;计算机使用&quot;功能向自主代理迈进。 Perplexity 推出了 Spaces，一种 RAG 系统。  有趣的是，看到每家公司都在自动化行业开辟出独特的利基市场。    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
@@ -111,13 +132,6 @@
       <pubDate>Fri, 01 Nov 2024 04:11:34 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能和机器学习的今日热点：💥OpenAI 推出 ChatGPT 搜索，与谷歌和微软展开竞争👀 Meta 在全球最大的 GPU 集群上训练 Llama 4🧑‍💻Claude 获得桌面应用和听写支持🗺️ 生成式人工智能即将登陆谷歌地图、谷歌地球和 Waze🚀 GitHub 推出 Spark🤖</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gguik9/today_in_ai_machine_learning_openai_launches/</link>
-      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gguik9/today_in_ai_machine_learning_openai_launches/</guid>
-      <pubDate>Fri, 01 Nov 2024 01:33:12 GMT</pubDate>
-    </item>
-    <item>
       <title>介绍搜索 GPT：Google 杀手</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggps9l/introducing_search_gpt_the_google_killer/</link>
       <description><![CDATA[OpenAI 发布了一款新的 AI 搜索引擎 Search GPT。该工具允许用户从互联网访问实时数据并与 AI 进行对话以获取更深入的信息。Search GPT 与 Google 和 Perplexity 进行了比较，显示了其在提供详细答案和记住上下文方面的优势。 顺便说一句，标题有点夸张，我没想到我需要为孩子们​​说明这一点 观看实际操作：https://substack.com/@shortened/note/c-74952540    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
@@ -130,20 +144,6 @@
       <description><![CDATA[我感觉自己发现了什么，或者说发现了一些新东西，但是如果每个人的家里突然都有一个“蓝莓按钮”，可以根据需求生产出完美的蓝莓，人们会说什么呢？“但是蓝莓种植者怎么办？他们的工作怎么办？” 这正是问题所在。 我们建立了一个社会，在这个社会中，劳动的自动化——即使是繁琐、不必要的劳动——被视为一种威胁，而不是解放。为什么？因为我们将基本的人类尊严和生存与劳动表现联系在一起，即使这种劳动变得没有必要。 事实是，人工智能将取代人类的工作。很多工作。我们需要停止假装不是这样。但这并不是真正的问题。问题在于，我们创建了一个系统，在这个系统中，人们需要他们的工作不可替代才能生存。 我们不应该问“我们如何保护工作免受人工智能的影响？”，而应该问“为什么我们要建立一个人们需要保护以免遭受富足的社会？”    提交人    /u/GreyDuckNorthStar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggfr44/the_problem_isnt_that_ai_will_take_our_jobs_the/</guid>
       <pubDate>Thu, 31 Oct 2024 14:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github 宣布推出 Spark</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggds6x/github_announces_spark/</link>
-      <description><![CDATA[https://bytesofai.com/2024/10/31/github-unveils-spark-a-new-era-of-customizable-mini-applications/ GitHub 的新平台 Spark 标志着应用程序开发的变革性一步，使开发人员和新手都能够创建定制的迷你应用程序或“火花”，而无需任何编码知识。通过直观的仪表板，用户可以利用强大的 AI 工具（如 Claude Sonnet 3.5、GPT-4o、o1-preview 和 o1-mini）来设计和部署应用程序。这种方法消除了对传统编码和部署的需求，任何有创意的人都可以使用它。 Spark 的用户友好界面进一步简化了应用程序创建，实现了无缝编辑、更新和部署。借助此版本，GitHub 旨在实现技术民主化，为个性化挑战提供创新解决方案。    提交人    /u/Downtown_Ad_9303   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggds6x/github_announces_spark/</guid>
-      <pubDate>Thu, 31 Oct 2024 12:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌推出 Perplexity Rival，称其为“了解”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ggcqrt/google_launches_perplexity_rival_calls_it_learn/</link>
-      <description><![CDATA[https://learning.google.com/experiments/learn-about/signup Google 推出 Perplexity Rival，称其为‘Learn About’ 作为其学习使命的一部分，Google 发布了一款名为 Learn About 的新工具，专注于帮助用户有效地从互联网上提取知识。    提交人    /u/pranagrapher   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ggcqrt/google_launches_perplexity_rival_calls_it_learn/</guid>
-      <pubDate>Thu, 31 Oct 2024 11:59:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

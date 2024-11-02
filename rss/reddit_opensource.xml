@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 01 Nov 2024 21:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:03:41 GMT</lastBuildDate>
+    <item>
+      <title>Contribank：重新思考开源贡献——欢迎发表想法！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghjk2t/contribank_rethinking_open_source_contributions/</link>
+      <description><![CDATA[大家好， 我一直在研究一个我认为可以为开源世界增值的东西，我很想听听你们的想法。它叫做 Contribank，其理念非常简单：如果可以以结构化的方式评估贡献，让开发人员的工作更具可见性和可信度，那会怎样？ 借助 Contribank，我们希望超越传统的拉取请求和随机反馈，创建一种更透明、更有利于职业发展的贡献方法。我的意思是：  客观评估 - 以一种有助于维护者管理质量的方式评估贡献，并为贡献者提供有意义的展示。 开发人员的即时信誉 - 经过评估的贡献会为您带来一些优势，无论是建立投资组合还是在职业生涯中取得进步。 关注代码贡献 - 我们确保技术工作得到关注。  现在还处于早期阶段（现在只是一个原型），但如果这听起来有用，我真的很想听听您的反馈。欢迎随时查看：https://www.contribank.com。 你们觉得怎么样？开源领域有这样的空间吗？在此先感谢您的任何想法或反馈！    由    /u/pagnumomus 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghjk2t/contribank_rethinking_open_source_contributions/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Markdown 制作了一个小型自托管笔记本。目标是训练自己在设计/安全方面的技能。如果您有任何建议，请随时提出！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghivh9/made_a_small_selfhosting_notebook_with_markdown/</link>
+      <description><![CDATA[    /u/P0uletEnSlip   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghivh9/made_a_small_selfhosting_notebook_with_markdown/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:22:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>路线 - 我们正在寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghi7gz/route_were_looking_for_contributors/</link>
+      <description><![CDATA[大家好， 因此，我和一些我开始视为朋友的不知名互联网人士（感谢开源）正在构建 Route，这是一个供开发人员使用“自定义小部件”创建易于共享的生物链接的网站，我们称之为集成。 该项目发展迅速，现在我们正在寻找能够帮助我们使其变得更好并添加更多集成（Last.fm、Medium、Strava 等）的人。人们希望在他们的投资组合中添加一个很酷的开源应用程序。我们的想法是保持免费，同时也建立一个很酷的社区:)。 无论如何，如果你有兴趣，请直接发信息给我，我会给你 Discord 链接:DD。 PS:  此外，这是到目前为止的项目： https://route2.dev 具有即将推出的功能的 Dev 分支： https://testing.route2.dev 感谢并祝开源社区万岁:DD。    提交人    /u/cesariofs_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghi7gz/route_were_looking_for_contributors/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fast GraphRAG：更快、更便宜的图增强 RAG</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghhhwa/fast_graphrag_faster_and_cheaper_graphaugmented/</link>
+      <description><![CDATA[在过去的几周里，我们一直在努力实现一个快速而便宜的 graphrag 版本。我们希望它能对您的项目有所帮助，并且很高兴能得到反馈，以便不断改进它并继续朝着正确的方向前进。 我们正在努力保持代码整洁有序。我们强制输入，并提高测试覆盖率。我们仍在编写文档，但自述文件应该可以帮助您入门。 在 GitHub 上查看：https://github.com/circlemind-ai/fast-graphrag 为什么我们除了矢量数据库之外还需要其他东西？ 我们相信高质量的 RAG 对于任何构建严肃的 GenAI 应用程序的人来说都是必不可少的，但从矢量数据库开始可能会受到限制。基本 RAG 设置难以处理需要更深层次推理、多跳检索或特定领域知识的复杂查询。此外，调试和可解释性可能是一场噩梦。Graphrag 提供了一种更准确、更易于解释的替代方案，但以前的实现可能很慢且成本高昂。 fast-graphrag 有什么新功能？ fast-graphrag 旨在解决这些性能和成本问题，以便 graphrag 可以在实际生产环境中扩展。它是开源的并且专为速度而设计，使其更容易部署和扩展以满足您的需求。 几个值得注意的点：  合理地更便宜和更快运行 - 即将推出基准测试！ 我们在推理时使用页面排名 - 你们中的一些人可能熟悉HippoRAG，我们采用了类似的方法，效果很好 生产就绪 - 虽然这是一个0.0.1，但我们正在推动它成为可以信任用于生产的graphrag 增量更新 - 它支持一次插入一个数据点，这是graphrag最需要的功能之一 可提示 - 根据您的用例、数据和查询制作高度专业化和有主见的图表。这为您提供了一个可以大幅提高性能的旋钮。  如何开始：  GitHub repo - 深入了解、试用并告诉我们您的想法。 加入 Discord 对话（repo 中的链接）。  我们仍在根据最新研究和社区意见添加功能并对其进行改进。我们很乐意收到反馈并了解人们用它构建了什么。欢迎任何贡献 :)    提交人    /u/liukidar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghhhwa/fast_graphrag_faster_and_cheaper_graphaugmented/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：识别这些照片背后的开源 ERP/CRM</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ghhf1r/help_needed_identify_the_open_source_erpcrm/</link>
+      <description><![CDATA[大家好， 我最近遇到了似乎完美的 ERP 和 CRM 解决方案，完全符合我的需求。唯一的问题是成本极高。我相信这些系统是开源 ERP 的修改版本。 我附上了一些照片，希望这里有人能认出这个软件或提供一些见解。您的帮助将不胜感激！ 屏幕截图：https://imgur.com/a/PVRsUYX    提交人    /u/dr__pain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ghhf1r/help_needed_identify_the_open_source_erpcrm/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:13:55 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以贡献的开源 C# 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1ghfquk/looking_for_open_source_c_projects_to_contribute/</link>
@@ -29,7 +64,7 @@
     <item>
       <title>最好的开源卡路里追踪应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</link>
-      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量营养素消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</guid>
       <pubDate>Fri, 01 Nov 2024 16:58:38 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ggw04v/open_source_licenses_and_lego_blocks/</guid>
       <pubDate>Fri, 01 Nov 2024 02:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 tui 的 discord 克隆版</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ggob8f/a_tuibased_discord_clone/</link>
-      <description><![CDATA[我们最近发现 discord 非常臃肿（突然，出现了一个商店，...）。这很糟糕（显然）。因此，我们启动了一个基于终端的最小克隆。目前，短信可以正常工作，我认为语音聊天需要一点时间才能完成实现。 您使用客户端进行交互： https://github.com/mintalk/client 在自托管服务器上： https://github.com/mintalk/server 此外，它并不臃肿。我们用 go 制作了它并自己完成了大部分工作（没有花哨的库）。 我也托管自己的服务器，只需与我联系即可访问。   由    /u/AinoSpring  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ggob8f/a_tuibased_discord_clone/</guid>
-      <pubDate>Thu, 31 Oct 2024 20:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我介绍：Managarr - 用于管理您的 Servarr 实例的 TUI 和 CLI 媒体</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ggmeer/i_present_managarr_a_tui_and_cli_to_manage_your/</link>
-      <description><![CDATA[经过近 3 年的工作，我终于设法使这个项目足够稳定，可以发布 alpha 版本了！ 我很自豪地介绍Managarr - 用于管理您的 Servarr 实例的 TUI 和 CLI ！目前，alpha 版本仅支持 Radarr。 并非所有功能都为 alpha 版本实现，例如管理质量配置文件或质量定义等。 TUI 的屏幕截图可在我的 repo 上找到。 此外，您可以将其用作 Radarr 的 CLI；例如，要搜索一部新电影： managarr radarr search-new-movie --query &quot;star wars&quot; 或者，您可以通过 TMDB ID 添加新电影： managarr radarr add movie --tmdb-id 1895 --root-folder-path /nfs/movies --quality-profile-id 1 TUI 中提供的所有功能也可通过 CLI 获得。    submitted by    /u/Hamilcar_Barca_17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ggmeer/i_present_managarr_a_tui_and_cli_to_manage_your/</guid>
-      <pubDate>Thu, 31 Oct 2024 19:09:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cleave：我用 Rust 构建了一个速度超快的截图工具，可以立即启动（WGPU + 零配置）🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ggl8ax/cleave_i_built_a_blazingfast_screenshot_tool_in/</link>
-      <description><![CDATA[        由   提交  /u/emetah850   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ggl8ax/cleave_i_built_a_blazingfast_screenshot_tool_in/</guid>
-      <pubDate>Thu, 31 Oct 2024 18:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 Phantasm 来帮助 AI 团队管理和监控 AI 代理工作流程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ggixlv/i_built_phantasm_to_help_ai_team_manage_and/</link>
-      <description><![CDATA[大家好！ 我一直在研究这个名为 Phantasm 的开源项目。我当时正在开发一个 AI 代理，它可以根据销售电话更新 CRM 中的交易信息，我意识到大多数时候输出都不够好。使用 Phantasm，AI 代理不会立即执行该功能，而是会请求人类批准者批准。这可以显著提高 AI 代理的体验和质量。 如果您有兴趣了解有关 Phantasm 的更多信息，请告诉我 😁 https://github.com/phantasmlabs/phantasm    提交人    /u/edwinkys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ggixlv/i_built_phantasm_to_help_ai_team_manage_and/</guid>
-      <pubDate>Thu, 31 Oct 2024 16:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 IOU 的替代品吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gghrtl/anyone_knows_any_alternative_to_iou/</link>
-      <description><![CDATA[我的目标是找到一个跨平台的应用程序，帮助我跟踪谁欠我钱、欠多少钱以及他们什么时候应该还。IOU 在这种情况下很有用，但它感觉像是一个坏掉的软件。而且它只在 Windows 上可用。没有同步的方法。也许有人知道一个好的、可行的替代方案？    提交人    /u/SnoopFreezing   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gghrtl/anyone_knows_any_alternative_to_iou/</guid>
-      <pubDate>Thu, 31 Oct 2024 15:50:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

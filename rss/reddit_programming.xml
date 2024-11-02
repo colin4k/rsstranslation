@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 01 Nov 2024 21:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:03:33 GMT</lastBuildDate>
+    <item>
+      <title>使用 OpenAI 进行逆向工程压缩代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghigws/reverse_engineering_minified_code_using_openai/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghigws/reverse_engineering_minified_code_using_openai/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建更小的容器镜像：Docker 多阶段构建</title>
+      <link>https://www.reddit.com/r/programming/comments/1ghgewg/how_to_build_smaller_container_images_docker/</link>
+      <description><![CDATA[  由    /u/iximiuz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ghgewg/how_to_build_smaller_container_images_docker/</guid>
+      <pubDate>Fri, 01 Nov 2024 21:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>pg_mooncake：Postgres 中的列存储表写入冰山/增量。</title>
       <link>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</link>
@@ -20,7 +34,7 @@
       <pubDate>Fri, 01 Nov 2024 20:44:31 GMT</pubDate>
     </item>
     <item>
-      <title>制作了一个视频，可以作为 ROM 黑客的翻译介绍，供感兴趣的人参考！</title>
+      <title>制作了一个视频，可以作为 ROM 黑客翻译的介绍，供有兴趣的人参考！</title>
       <link>https://www.reddit.com/r/programming/comments/1gheza4/made_a_video_that_should_work_as_an_intro_to_rom/</link>
       <description><![CDATA[  由    /u/jonko_ds  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gheza4/made_a_video_that_should_work_as_an_intro_to_rom/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gh4i8t/a_bit_about_oss_licenses_explained_with_lego/</guid>
       <pubDate>Fri, 01 Nov 2024 12:45:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>disposables：在一次性容器中运行测试依赖项。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh2uqq/disposables_run_your_test_dependencies_in/</link>
-      <description><![CDATA[  由    /u/akash_rawal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh2uqq/disposables_run_your_test_dependencies_in/</guid>
-      <pubDate>Fri, 01 Nov 2024 11:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么是那些特定的整数乘法？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gh2svu/why_those_particular_integer_multiplies/</link>
-      <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gh2svu/why_those_particular_integer_multiplies/</guid>
-      <pubDate>Fri, 01 Nov 2024 11:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
