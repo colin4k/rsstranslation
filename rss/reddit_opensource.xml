@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 03 Nov 2024 18:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 21:02:07 GMT</lastBuildDate>
+    <item>
+      <title>创建了一个 Python 扑克程序（基础/中级），以便更好地理解基础知识，或者如果你想创建/理解基于纸牌的游戏，那么可以有结构</title>
+      <link>https://www.reddit.com/r/opensource/comments/1giuorn/created_a_python_poker_program_baseintermediate/</link>
+      <description><![CDATA[这是我的第一个程序，我很好奇想知道你们对它的看法（即使你们认为它写得不好）。 欢迎随意分叉、建议实现、请求功能或贡献以完成它。 这是链接：Github 项目    提交人    /u/UnclearMango5534   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1giuorn/created_a_python_poker_program_baseintermediate/</guid>
+      <pubDate>Sun, 03 Nov 2024 19:15:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人需要工程专业学生的免费帮助吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1giudoh/anyone_want_engineering_students_free_help/</link>
+      <description><![CDATA[TLDR: 标题  我和我的搭档现在是密歇根大学工程学院计算机科学专业的最后一年，我们正在寻找一个开源项目作为我们的期末课程项目。 几乎任何主题或项目都是公平的！ 我们对以下一些语言很有信心：C、C++、Python、html、Java、JS、SQL、Jquery 等 如果您对此感兴趣，请给我发私信，我们可以一起解决：)    提交人    /u/Free_Economist_5312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1giudoh/anyone_want_engineering_students_free_help/</guid>
+      <pubDate>Sun, 03 Nov 2024 19:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DawVert - DAW 项目文件转换器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1git63b/dawvert_a_daw_project_file_converter/</link>
+      <description><![CDATA[        提交人    /u/SatyrDiamond   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1git63b/dawvert_a_daw_project_file_converter/</guid>
+      <pubDate>Sun, 03 Nov 2024 18:10:44 GMT</pubDate>
+    </item>
     <item>
       <title>Genshin Impact v0.1.1 的装备现已推出，包括用于工件扫描的剪贴板插入和用于项目测试的示范性覆盖范围</title>
       <link>https://www.reddit.com/r/opensource/comments/1gir1gs/loadouts_for_genshin_impact_v011_is_out_now_with/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我刚刚更新了我的开源 Golang 电子邮件魔术链接身份验证项目，以包含一次性密码 (OTP) 支持。 https://github.com/MicahParks/magiclinksdev 这将 API 规范带到了 v2： https://swaggerui.magiclinks.dev/ 魔术链接身份验证是我的最爱，但它也有挑战。有两个值得注意的挑战，一个是技术挑战，一个是用户相关挑战。 魔术链接的技术挑战更多地与电子邮件有关。许多电子邮件安全产品喜欢跟踪电子邮件中的链接来分析它们是否存在恶意软件或网络钓鱼。由于魔术链接是一次性使用的，因此这会消耗魔术链接。对于这个项目，我最终使用 reCAPTCHA v3 在执行重定向之前测试 Web 浏览器。如果用户的浏览器不运行 JavaScript，则有一个按钮可以提交执行重定向的 HTML 表单。添加 reCAPTCHA v3 意味着我需要在启用时将 Google 服务条款和隐私政策添加到用户工作流程中，这并不理想。但是，我仍然认为这是一个长期解决方案，不涉及我自己的反机器人（安全产品）代码。话虽如此，我仍然更喜欢仅使用后端的方法来解决这个问题。 HTTP 3XX 重定向比 JavaScript 重定向更受青睐。 https://github.com/MicahParks/magiclinksdev/issues/2 与用户相关的挑战是，用户想要在设备 A 上登录，但他们只在设备 B 上查看电子邮件。对于像我的父母这样的老用户来说尤其如此，他们只在 iPad 上查看电子邮件。在这种情况下，OTP 是一种很好的替代电子邮件解决方案。虽然根据我的经验，用户也发现 OTP 摩擦令人不快...... 无法赢得所有人。 如果您愿意，请查看该项目。让我知道你的想法。我喜欢谈论身份验证。    提交人    /u/errChan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ghxha9/transactional_email_magic_link_and_otp/</guid>
       <pubDate>Sat, 02 Nov 2024 14:19:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>npx checkout-link ./my-file.zip - 从命令行出售文件访问权限的最快方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghuvcp/npx_checkoutlink_myfilezip_the_fastest_way_to/</link>
-      <description><![CDATA[        由    /u/Widiiz 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghuvcp/npx_checkoutlink_myfilezip_the_fastest_way_to/</guid>
-      <pubDate>Sat, 02 Nov 2024 12:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于我的开源 SDL 的真实想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghrav5/honest_opinion_about_my_open_source_sdl/</link>
-      <description><![CDATA[        提交人    /u/unimonkiez   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghrav5/honest_opinion_about_my_open_source_sdl/</guid>
-      <pubDate>Sat, 02 Nov 2024 07:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么开源且易于学习的软件可以创建信息图表？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</link>
-      <description><![CDATA[是否有任何开源且易于学习的软件来创建信息图表？ 如果可能，请分享他们的网站。     提交人    /u/WizOfWriting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</guid>
-      <pubDate>Sat, 02 Nov 2024 04:21:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
