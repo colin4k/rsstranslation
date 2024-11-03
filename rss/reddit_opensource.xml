@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 03 Nov 2024 03:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 06:02:26 GMT</lastBuildDate>
+    <item>
+      <title>发现此许可证奇偶校验。它比 GPLv3 剩余的副本更多吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gif36y/found_out_this_license_parity_is_it_more_copy/</link>
+      <description><![CDATA[这是许可证的链接 https://paritylicense.com/versions/7.0.0 这在现实世界中实用吗？或者由于不知名，使用此许可证的软件将被避免？    提交人    /u/AryabhataHexa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gif36y/found_out_this_license_parity_is_it_more_copy/</guid>
+      <pubDate>Sun, 03 Nov 2024 04:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>我创造了天堂的加密解密工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1gicima/i_created_the_encryption_decryption_tool_from/</link>
-      <description><![CDATA[      快速笔记：1. 你可以加密/解密特定文件 2. 在文件保持加密状态的同时查看其内容 3. 无需手动解密文件即可向加密文件添加新数据 4. 搜索所有使用 Mr Crypter 加密的文件 当我说这是一个来自天堂的工具时，我可能有些自吹自擂，但说实话。我喜欢使用 Mr Crypter，我喜欢它的易用性。 此外，我选择 MIT 许可的原因是因为说实话，这是一个业余爱好工具，是我出于个人需求而创建的，当时我想管理和处理我想保证安全的电脑文件，但后来我意识到了。为什么不毫无限制地与世界其他地方分享它呢？他们可能会像我一样从中获得同样的乐趣？ 如果您认为自己不需要使用它，那么好吧。希望有一些软件可能更适合您的使用情况。  如果您想查看该项目，请转到：https://github.com/Marcus-Peterson/mr-crypter    由   提交  /u/Gorrilac   [链接] [评论] ]]></description>
+      <description><![CDATA[      快速笔记：1. 你可以加密/解密特定文件 2. 在文件保持加密状态的同时查看其内容 3. 无需手动解密文件即可向加密文件添加新数据 4. 搜索所有使用 Mr Crypter 加密的文件 当我说这是一个来自天堂的工具时，我可能有些自吹自擂，但说实话。我喜欢使用 Mr Crypter，我喜欢它的易用性。 此外，我选择 MIT 许可的原因是因为说实话，这是一个业余爱好工具，是我出于个人需求而创建的，当时我想管理和处理我想保护的计算机上的文件，但后来我意识到了这一点。为什么不毫无限制地与世界其他地方分享它呢？他们可能会像我一样从中获得同样的乐趣？ 如果您认为自己不需要使用它，那么好吧。希望有一些软件可能更适合您的使用情况。  如果您想查看该项目，请转到：https://github.com/Marcus-Peterson/mr-crypter    由    /u/Gorrilac 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gicima/i_created_the_encryption_decryption_tool_from/</guid>
       <pubDate>Sun, 03 Nov 2024 02:03:23 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我厌倦了醒来后发现多年来一直使用的流行库中存在漏洞的消息。这是一个噩梦般的场景：一个被破坏的包就可能导致整个应用程序崩溃。 你们如何处理过时或不安全的依赖项的风险？ 你们是手动检查每一个吗？还是依赖自动化工具？你们有什么降低风险的策略？    提交人    /u/kiss_travel   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ghbfij/how_do_you_vet_your_opensource_dependencies/</guid>
       <pubDate>Fri, 01 Nov 2024 17:50:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的开源卡路里追踪应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</link>
-      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</guid>
-      <pubDate>Fri, 01 Nov 2024 16:58:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
