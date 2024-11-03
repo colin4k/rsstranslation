@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 02 Nov 2024 21:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:03:59 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找虚拟监控软件，有人知道吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gi9aco/looking_for_a_virtual_monitor_software_anyone/</link>
+      <description><![CDATA[我需要一些软件来向 Windows 操作系统呈现一个新屏幕，然后该屏幕显示在可调整大小的窗口或真实屏幕上。 我手头拮据，我有一些公司软件只能在全屏模式下运行（不是游戏），我似乎无法强制它作为窗口应用程序运行。 所以我想让它认为它在单独的屏幕上运行，并让那个“屏幕”成为一个窗口。 目前有一种方式我不能，所以这是通过 PIKVM，但这需要一个可以接收 HDMI 并将其放入 Web 浏览器的硬件。 我想要一个直接在设备上的解决方案。 有什么想法吗？    提交人    /u/CatDoingCatStuff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gi9aco/looking_for_a_virtual_monitor_software_anyone/</guid>
+      <pubDate>Sat, 02 Nov 2024 23:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>ImageMagick 使用需求</title>
+      <link>https://www.reddit.com/r/software/comments/1gi7pdu/imagemagick_usage_needs/</link>
+      <description><![CDATA[我想在以下两种情况下使用 ImageMagick：  ImageMagick 可以制作无损动画 webp 文件吗？如果可以，怎么做？ 我有一个 APNG，以及一个无损动画 WEBP 和一个无损动画 JXL 文件。现在我想使用 ImageMagick 的识别来查看它们是否具有相同的质量。我该怎么做？我怎么知道质量是相同还是不同？     提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gi7pdu/imagemagick_usage_needs/</guid>
+      <pubDate>Sat, 02 Nov 2024 22:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示扫描仪/屏幕截图器，可快速处理大量文档</title>
+      <link>https://www.reddit.com/r/software/comments/1gi7421/display_scannerscreenshotter_for_very_fast_work/</link>
+      <description><![CDATA[大家好！我正在寻找一款可以尽可能高效地“扫描”或截取计算机显示屏屏幕的软件。有点像使用 shift+win+S 截取屏幕截图，但我想在尽可能短的时间内扫描/截取很多东西。你知道可以做到这一点的软件吗？    提交人    /u/Trueffelpinguin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gi7421/display_scannerscreenshotter_for_very_fast_work/</guid>
+      <pubDate>Sat, 02 Nov 2024 21:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想要用一只耳朵听不和谐的声音</title>
+      <link>https://www.reddit.com/r/software/comments/1gi6tde/i_wanna_hear_discord_just_in_one_ear/</link>
+      <description><![CDATA[我需要一款可以平衡 Discord 或任何其他程序的声音到我右耳的软件。有人知道这样的程序吗？    提交人    /u/Neither-Friend-3193   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gi6tde/i_wanna_hear_discord_just_in_one_ear/</guid>
+      <pubDate>Sat, 02 Nov 2024 21:23:40 GMT</pubDate>
+    </item>
     <item>
       <title>instagram reels 中间按钮有 bug</title>
       <link>https://www.reddit.com/r/software/comments/1ghx3d3/instagram_reels_middle_button_bug/</link>
@@ -113,37 +141,9 @@
     <item>
       <title>驾驶员指导程序？</title>
       <link>https://www.reddit.com/r/software/comments/1gh975c/driver_director_program/</link>
-      <description><![CDATA[Windows 10 计算机似乎经常忘记或难以将正确的驱动程序与设备关联。标签打印机经常被误认为是未知设备或其他类型的打印机。总是必须手动重置驱动程序。有没有一个简单的程序可以强制 Windows 记住？     由   提交  /u/SolidIcecube   [link] [评论]]]></description>
+      <description><![CDATA[Windows 10 计算机似乎经常忘记或难以将正确的驱动程序与设备关联。标签打印机经常被误认为是未知设备或其他类型的打印机。总是必须手动重置驱动程序。有没有一个简单的程序可以强制 Windows 记住？    由   提交  /u/SolidIcecube   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gh975c/driver_director_program/</guid>
       <pubDate>Fri, 01 Nov 2024 16:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>win10 的照片和视频应用程序的替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1gh49r2/replacement_for_photo_video_app_for_win10/</link>
-      <description><![CDATA[我一直在寻找替代品，但一直没有找到，但现在由于某种原因，win 10 照片应用程序开始最大化我的 RAM 使用率，所以我需要立即更换。 它需要免费，最好是开源的。或者，如果它可以（正确）查看照片和视频，那么它就太棒了。 我知道 IrfanView。这是一个很好的程序，有我喜欢和使用的很好的小众用途，但它也有一个错误，它会随机地（？）用它自己的图标更改所有随机应用程序图标，而且似乎没有明确的答案。我个人在几年前使用这个应用程序时就遇到过这个问题，而且它似乎仍然存在，因为 2023 年有一个关于它的 reddit 帖子。 目前使用 PotPlayer 播放视频。很好，但是还有什么更好的吗？ 我听说过 mpv，但还没有尝试过。 有什么建议吗？    提交人    /u/Leviosaaa1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gh49r2/replacement_for_photo_video_app_for_win10/</guid>
-      <pubDate>Fri, 01 Nov 2024 12:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线指南针 - 浏览器中的导航指南针</title>
-      <link>https://www.reddit.com/r/software/comments/1gh46ud/online_compass_navigation_compass_in_your_browser/</link>
-      <description><![CDATA[  由    /u/icontact2011  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gh46ud/online_compass_navigation_compass_in_your_browser/</guid>
-      <pubDate>Fri, 01 Nov 2024 12:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>转换为 mp4 的最佳方法？</title>
-      <link>https://www.reddit.com/r/software/comments/1gh3njo/best_methods_to_convert_to_mp4/</link>
-      <description><![CDATA[我需要一种方法将视频 (mp4) 转换为 MTV。我猜这种格式太旧了，因为我无法在网上找到任何正常的选项。有没有可靠的解决方案？     提交人    /u/pink_froggy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gh3njo/best_methods_to_convert_to_mp4/</guid>
-      <pubDate>Fri, 01 Nov 2024 11:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>屏幕调光/亮度/颜色控制</title>
-      <link>https://www.reddit.com/r/software/comments/1gh2jmq/dimmerbrightnesscolor_control_for_screens/</link>
-      <description><![CDATA[亮白色的网页和视频对我来说是无法阅读/观看的。  寻找好的建议，我可以使用哪些应用程序来切换一些过滤器，以使这些不敬虔的眼睛强奸可以忍受？ 我在 Windows 10 上 注意：谁他妈的认为亮白色是最好的设计选择？为什么他们让世界变得更糟？    提交人    /u/Preachwar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gh2jmq/dimmerbrightnesscolor_control_for_screens/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:50:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

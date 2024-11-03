@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 02 Nov 2024 21:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:04:14 GMT</lastBuildDate>
+    <item>
+      <title>心理健康、开源人工智能、骚扰</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gi7sxw/mental_health_open_source_ai_harassment/</link>
+      <description><![CDATA[        提交人    /u/GiacomoTesio   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gi7sxw/mental_health_open_source_ai_harassment/</guid>
+      <pubDate>Sat, 02 Nov 2024 22:09:42 GMT</pubDate>
+    </item>
     <item>
       <title>原子代理：原子构建 AI 代理 - 我的高度自洽、轻量级、高度模块化的 LangChain、CrewAI、AutoGen 等替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1gi4h2k/atomic_agents_building_ai_agents_atomically_my/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>最好的开源卡路里追踪应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</link>
-      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量营养素消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找以下内容：1. 具有条形码扫描仪 2. 人们可以在数据库中添加自定义食物，并且可以对其进行审查（基于提交的食物图片）并将其添加到主数据库 3. 具有可以显示您每日宏量营养素和您迄今为止消耗量的小部件 4. 一个小部件可以显示您每日的平均宏量消耗量以及您低于或高于平均水平的程度 5. 可能具有社交方面 对我来说，第 4 条是最重要的，到目前为止，我找不到提供此功能的开源卡路里跟踪应用程序。我自己是一名应用程序开发人员，因此我也可以制作这样的应用程序，但我需要绝对确定没有一款应用程序可以满足上述所有要点。另外，我只有 Android。    提交人    /u/zimmer550king   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gha7sy/the_best_open_source_calorie_tracking_app/</guid>
       <pubDate>Fri, 01 Nov 2024 16:58:38 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[      正如你可能知道，Matt 自 9 月下旬以来一直在与 WPEngine 斗争。看到整个闹剧上演，我感到压力很大，因为它在很多方面影响着我和我们中的许多人。 对我来说，我认为很难获得有关此事件的最新消息或更新，因为很多事情同时发生。无数文章重复着同一件事，但只有一点新的更新，这让人非常沮丧。 因此，我向本网站提交了一份提案，在 IT Service Guru 上撰写有关此事件的客座帖子，这是一个旨在帮助每个人处理与技术相关的事情的网站。提案得到批准，我开始写作。经过几天的写作，我终于完成了这篇客座帖子并将其发布在那里。我尝试包括与戏剧相关的所有内容，我相信它值得一读。 阅读后请告诉我您的想法！我花了好几天的时间才完成，所以我希望你会喜欢它。     由    /u/JestonT 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gh5zpq/matt_wordpress_vs_wpengine_drama/</guid>
       <pubDate>Fri, 01 Nov 2024 13:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLQL：使用模式匹配器在 LLVM IR/BC 上运行 SQL 查询</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gh5v6z/llql_running_sql_query_on_llvm_irbc_with_pattern/</link>
-      <description><![CDATA[大家好， 在我完成了 LLVM 中与 InstCombine 相关的第一个 diff 之后，我发现使用模式匹配器函数来检测模式很有趣，我想也许我可以使用 SQL 查询使这种模式在 LLVM 之外工作，所以我构建了 LLQL。 ir define i32 @function(i32 %a, i32 %b) { %sub = sub i32 %a, %b %mull = mul i32 %a, %b %add = add i32 %sub, %mull ret i32 %add }  例如，在这样的函数中，假设您想使用 LHS sub 指令搜索 add 指令，而 RHS 是 mul 指令，您可以像这样使用 LLQL 进行搜索  SELECT 指令 FROM 指令 WHERE m_inst(instruction, m_add(m_sub(), m_mul()))  或者例如，您可以查询每个函数中此模式存在的次数  SELECT function_name, count() FROM instructions WHERE m_inst(instruction, m_add(m_sub(), m_mul())) GROUP BY function_name  Github： https://github.com/AmrDeveloper/LLQL 目前，LLQL 支持 Ret、Br、算术、ICMP、FCMP 以及类型和嵌套类型的匹配器。 期待反馈。    提交人    /u/AmrDeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gh5v6z/llql_running_sql_query_on_llvm_irbc_with_pattern/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:50:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

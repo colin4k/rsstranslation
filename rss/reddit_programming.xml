@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 02 Nov 2024 21:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:04:06 GMT</lastBuildDate>
+    <item>
+      <title>使用 Django Rest Framework (DRF) 构建安全交易系统 - 分步指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1gi824f/build_a_secure_transaction_system_with_django/</link>
+      <description><![CDATA[  由    /u/Ok-Look3220  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gi824f/build_a_secure_transaction_system_with_django/</guid>
+      <pubDate>Sat, 02 Nov 2024 22:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>建筑师之死</title>
       <link>https://www.reddit.com/r/programming/comments/1gi54e4/the_death_of_the_architect/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/iximiuz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ghgewg/how_to_build_smaller_container_images_docker/</guid>
       <pubDate>Fri, 01 Nov 2024 21:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>pg_mooncake：Postgres 中的列存储表写入冰山/增量。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</link>
-      <description><![CDATA[  由    /u/InternetFit7518  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</guid>
-      <pubDate>Fri, 01 Nov 2024 20:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
