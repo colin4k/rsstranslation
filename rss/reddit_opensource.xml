@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 03 Nov 2024 15:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 18:02:14 GMT</lastBuildDate>
+    <item>
+      <title>Genshin Impact v0.1.1 的装备现已推出，包括用于工件扫描的剪贴板插入和用于项目测试的示范性覆盖范围</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gir1gs/loadouts_for_genshin_impact_v011_is_out_now_with/</link>
+      <description><![CDATA[你好 r/opensource！ 今天，我想宣布我们最近发布的免费开源软件桌面应用程序，它允许旅行者管理可玩角色的自定义文物和武器装备，并方便旅行者根据他们的装备使用对游戏玩法如何运作的语义理解来计算相关统计数据。 您可以从我们的上一篇文章中找到有关该项目的更多信息。 截图  Dash - GNU/Linux 发行版上的 Nahida 结果 - GNU/Linux 发行版上的 Nahida Dash - Microsoft Windows 上的 Venti 结果 - Microsoft Windows 上的 Venti  资源  Genshin Impact 的装备 - GitHub Genshin Impact 的装备 - PyPI Genshin Impact v0.1.1 的装备  适用于 GNU/Linux 发行版的可执行文件 适用于 Microsoft Windows 的可执行文件   呼吁 此项目目前处于 Beta 阶段，我们致力于在每次发布时提供优质体验。如果您对该项目的发展方向感到兴奋并希望为此做出贡献，我们将非常感激您通过加注星标项目存储库来帮助我们提高项目知名度，通过报告遇到的错误来解决问题，通过提出预期功能来选择方向，通过记录项目存储库来增强可用性，通过打开拉取请求来改进代码库，最后，通过赞助开发成员来坚持我们的努力。 注意 Genshin Impact 的 Loadouts 无意取代 Akasha 和 Genshin Optimizer 已经做的事情。凭借生态系统对更成熟的基于 JSON 的 Genshin Open Object Definition (GOOD) 序列化格式的支持以及对文物统计扫描的强大光学字符识别 (OCR) 支持，该项目更旨在成为更成熟工具的客户端补充。该应用程序的重点是确保旅行者可以在各种可玩角色之间无缝混合和搭配他们的自定义装备文物和武器，以轻松尝试多种游戏风格和团队组成。 免责声明 本项目中使用的 Genshin Impact 资产的所有权利均归 miHoYo Ltd. 和 Cognosphere Pte., Ltd. 所有。 其他财产属于其各自的所有者。    提交人    /u/t0xic0der   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gir1gs/loadouts_for_genshin_impact_v011_is_out_now_with/</guid>
+      <pubDate>Sun, 03 Nov 2024 16:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 faker.js 包装器现已开源 - 帮助我创建用于模拟数据生成的最佳 UI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gipnv0/my_fakerjs_wrapper_is_now_open_source_help_me_to/</link>
+      <description><![CDATA[我一直将这个工具设计为社区的免费工具，所以我认为理想的做法是将其开源，以便人们可以作为一个社区为其做出贡献并加以改进。  就我个人而言，我喜欢合成数据的世界和 UI 开发的生成，它们可以方便地访问非技术配置文件，甚至可以加快技术配置文件的工作速度。 这就是为什么如果您给我一颗星，我会激励我继续创建这种工具的原因  GITHUB：https://github.com/BreisOne/data-generator    提交人    /u/Charco6   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gipnv0/my_fakerjs_wrapper_is_now_open_source_help_me_to/</guid>
+      <pubDate>Sun, 03 Nov 2024 15:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>药品文献综述和药物警戒应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</link>
+      <description><![CDATA[几个月前，我为医院的药房服务创建了这个小应用程序。主要功能包括：  它允许在疾病和药物之间进行联合结果搜索，以查看 pubmed 中可用的文献。 它允许使用 Faers API 从使用的药物列表中提取不良反应，并过滤用户最感兴趣的不良反应。这是一个开源项目。  看一看，如果您认为它有用，请鼓励您做出贡献。 GitHub：https://github.com/BreisOne/pharmacovigilance-literature-mining    提交人    /u/Charco6   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</guid>
+      <pubDate>Sun, 03 Nov 2024 15:14:44 GMT</pubDate>
+    </item>
     <item>
       <title>Nothing 主题笔记应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1gimw97/nothing_themed_notes_app/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[是否有任何开源且易于学习的软件来创建信息图表？ 如果可能，请分享他们的网站。     提交人    /u/WizOfWriting   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ghokpk/is_there_any_opensource_and_easy_to_learn/</guid>
       <pubDate>Sat, 02 Nov 2024 04:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Contribank：重新思考开源贡献——欢迎发表想法！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghjk2t/contribank_rethinking_open_source_contributions/</link>
-      <description><![CDATA[大家好， 我一直在研究一个我认为可以为开源世界增值的东西，我很想听听你们的想法。它叫做 Contribank，其理念非常简单：如果可以以结构化的方式评估贡献，让开发人员的工作更具可见性和可信度，那会怎样？ 借助 Contribank，我们希望超越传统的拉取请求和随机反馈，创建一种更透明、更有利于职业发展的贡献方法。我的意思是：  客观评估 - 以一种有助于维护者管理质量的方式评估贡献，并为贡献者提供有意义的展示。 开发人员的即时信誉 - 经过评估的贡献会为您带来一些优势，无论是建立投资组合还是在职业生涯中取得进步。 关注代码贡献 - 我们确保技术工作得到关注。  现在还处于早期阶段（现在只是一个原型），但如果这听起来有用，我真的很想听听您的反馈。欢迎随时查看：https://www.contribank.com。 你们觉得怎么样？开源领域有这样的空间吗？在此先感谢您的任何想法或反馈！    由    /u/pagnumomus 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghjk2t/contribank_rethinking_open_source_contributions/</guid>
-      <pubDate>Fri, 01 Nov 2024 23:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Markdown 制作了一个小型自托管笔记本。目标是训练自己在设计/安全方面的技能。如果您有任何建议，请随时提出！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghivh9/made_a_small_selfhosting_notebook_with_markdown/</link>
-      <description><![CDATA[    /u/P0uletEnSlip   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghivh9/made_a_small_selfhosting_notebook_with_markdown/</guid>
-      <pubDate>Fri, 01 Nov 2024 23:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>路线 - 我们正在寻找贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ghi7gz/route_were_looking_for_contributors/</link>
-      <description><![CDATA[大家好， 因此，我和一些我开始视为朋友的不知名互联网人士（感谢开源）正在构建 Route，这是一个供开发人员使用“自定义小部件”创建易于共享的生物链接的网站，我们称之为集成。 该项目发展迅速，现在我们正在寻找能够帮助我们使其变得更好并添加更多集成（Last.fm、Medium、Strava 等）的人。人们希望在他们的投资组合中添加一个很酷的开源应用程序。我们的想法是保持免费，同时也建立一个很酷的社区:)。 无论如何，如果你有兴趣，请直接发信息给我，我会给你 Discord 链接:DD。 PS:  此外，这是到目前为止的项目： https://route2.dev 具有即将推出的功能的 Dev 分支： https://testing.route2.dev 感谢并祝开源社区万岁:DD。    提交人    /u/cesariofs_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ghi7gz/route_were_looking_for_contributors/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:51:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 03 Nov 2024 15:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 18:02:08 GMT</lastBuildDate>
+    <item>
+      <title>使用 SQL 脚本生成 ER 图 - SQL2ER</title>
+      <link>https://www.reddit.com/r/programming/comments/1gistfe/generate_erdiagram_using_sql_script_sql2er/</link>
+      <description><![CDATA[  由    /u/Worldly_Dish_48  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gistfe/generate_erdiagram_using_sql_script_sql2er/</guid>
+      <pubDate>Sun, 03 Nov 2024 17:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 参数播放列表</title>
+      <link>https://www.reddit.com/r/programming/comments/1gis2k3/python_arguments_playlist/</link>
+      <description><![CDATA[  由    /u/JPJEFC  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gis2k3/python_arguments_playlist/</guid>
+      <pubDate>Sun, 03 Nov 2024 17:23:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>PR 审查工具 - 让代码审查更加容易（免费且开源）</title>
+      <link>https://www.reddit.com/r/programming/comments/1girqal/pr_review_tool_making_code_reviews_way_easier/</link>
+      <description><![CDATA[PR 审查/说明 CLI PR 审查工具 - 使代码审查变得更容易 💻✨ Yo dev fam！刚刚构建了一个 CLI 工具，它可以完成所有无聊的审查工作并自动编写 PR 描述。它使用 AI 检查你的 Git 差异，分解内容，并为你提供可靠的审查或描述。基本上，它让我免于在团队会议上无休止的代码审查和尴尬的解释  它并不是什么新鲜事，但实际上在日常工作中帮助了我。 它的作用： - 自动代码审查 - 快速概述问题、最佳实践和改进 - 简单的 PR 描述 - 不再费力解释更改；它甚至可以制作图表🙌 - 三种模式 - 全面审查、简短摘要或只是快速的“这是发生了什么”选项 - 干净的差异视图 - 按文件组织更改，这样您就不会迷失在细节中 - 记录所有内容 - 所以如果出现问题，你就知道确切在哪里查找 要运行它，它很简单： - pr-reviewer -b feature/your-branch 进行基本审查 - 或者 pr-reviewer -b feature/your-branch -m description -t main 如果您想要详细的 PR 写作 奖励：您可以完全根据需要自定义它。您唯一需要的是一个 OpenAI API 密钥，然后就可以开始了。 在这里查看：npm 上的 pr-reviewer https://www.npmjs.com/package/pr-reviewer 欢迎任何反馈！让我知道您的想法，并随时建议功能或更改 🙏n    提交人    /u/LongjumpingFace4082   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1girqal/pr_review_tool_making_code_reviews_way_easier/</guid>
+      <pubDate>Sun, 03 Nov 2024 17:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从 10 多年的软件工程师生涯中学到的 5 个教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1giqvp0/5_lessons_i_learned_the_hard_way_from_10_years_as/</link>
+      <description><![CDATA[  由    /u/xxjcutlerxx  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giqvp0/5_lessons_i_learned_the_hard_way_from_10_years_as/</guid>
+      <pubDate>Sun, 03 Nov 2024 16:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>你致力于什么>>你工作有多努力</title>
+      <link>https://www.reddit.com/r/programming/comments/1giqu6g/what_you_work_on_how_hard_you_work/</link>
+      <description><![CDATA[2 个快速晋升的秘诀，来自一位 28 岁的 Google 员工 (IC6)，他每周平均工作时间不到 40 小时： 1) 了解组织最关心的结果是什么，以及哪些工作会产生最大的影响 2) 说“不”，但不要惹麻烦    提交人    /u/TechTok_Newsletter   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giqu6g/what_you_work_on_how_hard_you_work/</guid>
+      <pubDate>Sun, 03 Nov 2024 16:31:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 解析括号的（错误）正则表达式</title>
+      <link>https://www.reddit.com/r/programming/comments/1giozwi/5_wrong_regex_to_parse_parentheses/</link>
+      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giozwi/5_wrong_regex_to_parse_parentheses/</guid>
+      <pubDate>Sun, 03 Nov 2024 15:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>工程行业中纪律重于动力</title>
+      <link>https://www.reddit.com/r/programming/comments/1giox8w/discipline_over_motivation_in_the_engineering/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giox8w/discipline_over_motivation_in_the_engineering/</guid>
+      <pubDate>Sun, 03 Nov 2024 15:07:30 GMT</pubDate>
+    </item>
     <item>
       <title>C++ DataFrame 的最新版本</title>
       <link>https://www.reddit.com/r/programming/comments/1ginfnb/latest_release_of_c_dataframe/</link>
@@ -18,13 +67,6 @@
       <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gineoj/responsive_registration_form_in_html_and_css/</guid>
       <pubDate>Sun, 03 Nov 2024 13:56:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在Java和SpringBoot中实现细粒度的授权。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gincse/how_to_implement_finegrained_authorization_in/</link>
-      <description><![CDATA[  由    /u/thewritingwallah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gincse/how_to_implement_finegrained_authorization_in/</guid>
-      <pubDate>Sun, 03 Nov 2024 13:54:17 GMT</pubDate>
     </item>
     <item>
       <title>软件开发是一种文化生态。与其合作，而不是与之对抗。停止编写编码约定和政策文档。相反，开始改变开发“环境”，让正确的事情（TM）成为阻力最小的路径。</title>
@@ -62,13 +104,6 @@
       <pubDate>Sun, 03 Nov 2024 11:51:22 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 安装</title>
-      <link>https://www.reddit.com/r/programming/comments/1gikv6d/windows_11_instalation/</link>
-      <description><![CDATA[大家好，我知道这严格来说不是编程问题，但如果我不是优秀的程序员，我该问谁呢？ 最好的 Windows 11 安装过程是什么。我应该直接点击“是”进行所有操作，还是应该选择或取消选择某些操作？ 我将使用 Microsoft Office 和 Microsoft 帐户。我也将使用 Xbox 应用程序。我的规格是：Acer Nitro 5 AN515-58 i5-12500h 12 核 16 线程。Rtx3060 6gb 32GB Kingston Fury 我将安装 Windows 11 专业版。 谢谢您的回复！    提交人    /u/RavenGoku   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gikv6d/windows_11_instalation/</guid>
-      <pubDate>Sun, 03 Nov 2024 11:35:29 GMT</pubDate>
-    </item>
-    <item>
       <title>将 Flappy Bird（包含资源）嵌入二维码</title>
       <link>https://www.reddit.com/r/programming/comments/1gikfx7/fitting_flappy_bird_assets_included_onto_a_qr_code/</link>
       <description><![CDATA[  由    /u/RandomGamingDev  提交  [链接] [评论]]]></description>
@@ -97,13 +132,6 @@
       <pubDate>Sun, 03 Nov 2024 09:43:42 GMT</pubDate>
     </item>
     <item>
-      <title>一行代码引发6000万美元损失！！</title>
-      <link>https://www.reddit.com/r/programming/comments/1giidmx/a_single_line_of_code_triggered_60_million_in/</link>
-      <description><![CDATA[  由    /u/pinkpen_net  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giidmx/a_single_line_of_code_triggered_60_million_in/</guid>
-      <pubDate>Sun, 03 Nov 2024 08:30:15 GMT</pubDate>
-    </item>
-    <item>
       <title>CSS 锚点定位 API</title>
       <link>https://www.reddit.com/r/programming/comments/1gihgyc/css_anchor_positioning_api/</link>
       <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/TheBrokenRail-Dev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gihakr/the_original_author_of_the_fernflower_java/</guid>
       <pubDate>Sun, 03 Nov 2024 07:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于软件复杂性的思考</title>
-      <link>https://www.reddit.com/r/programming/comments/1gidjkd/thoughts_on_software_complexity/</link>
-      <description><![CDATA[  由    /u/TurnPale7340  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gidjkd/thoughts_on_software_complexity/</guid>
-      <pubDate>Sun, 03 Nov 2024 03:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个很酷的启动脚本，可以帮助你戒烟</title>
-      <link>https://www.reddit.com/r/programming/comments/1giawg4/made_a_cool_startup_script_that_helps_you_quit/</link>
-      <description><![CDATA[  由    /u/OrganizationWinter99  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giawg4/made_a_cool_startup_script_that_helps_you_quit/</guid>
-      <pubDate>Sun, 03 Nov 2024 00:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Django Rest Framework (DRF) 构建安全交易系统 - 分步指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1gi824f/build_a_secure_transaction_system_with_django/</link>
-      <description><![CDATA[  由    /u/Ok-Look3220  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gi824f/build_a_secure_transaction_system_with_django/</guid>
-      <pubDate>Sat, 02 Nov 2024 22:21:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>建筑师之死</title>
-      <link>https://www.reddit.com/r/programming/comments/1gi54e4/the_death_of_the_architect/</link>
-      <description><![CDATA[  由    /u/prospero  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gi54e4/the_death_of_the_architect/</guid>
-      <pubDate>Sat, 02 Nov 2024 20:05:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
