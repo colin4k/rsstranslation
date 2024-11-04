@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 03 Nov 2024 21:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 00:04:06 GMT</lastBuildDate>
+    <item>
+      <title>我该这么做吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gj0nno/should_i_do_it/</link>
+      <description><![CDATA[我原本想在大学主修计算机科学，毕业后我将选修网络安全课程，这样我就可以同时获得两个证书，但问题是我从未拥有或长时间使用过笔记本电脑或计算机，我对它们知之甚少，即使是最简单的任务也是如此。我必须找人来帮助我或告诉我该怎么做，即使是一个简单的 PowerPoint 我也不会做，这让我害怕和担心我可能没有资格学习这样的专业，但我也在想，是什么阻止我通过大学学习我需要的一切，你觉得呢？    提交人    /u/Classic_Extent6194   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gj0nno/should_i_do_it/</guid>
+      <pubDate>Sun, 03 Nov 2024 23:37:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找合作伙伴合作开发 Python 本地文件存储应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1giz9ad/looking_for_a_partner_to_collaborate_on_a_local/</link>
+      <description><![CDATA[大家好， 过去四个月我一直在用 Python 开发本地文件存储应用程序。该应用程序允许用户将文件存储在他们的电脑上，我专注于对其进行优化以实现简单性和可用性。 以下是我迄今为止所取得的成就的简要概述： 用户可以轻松存储和管理文件。 添加了文本文件和图像的预览功能。 实现了一个干净直观的界面。 我有一个想要解决的改进列表，包括： 重新排列按钮以获得更好的用户体验。 将临时文件存储在 RAM 中以便更快地访问。 最终实现完全加密以提高安全性。 我正在寻找一个热心的合作伙伴，他有兴趣为这个项目做出贡献，特别是如果你有 Python 经验或对应用程序开发充满热情。这是一个合作的努力，所以我不会提供报酬；这纯粹是出于对编码的热爱并共同开发一些有用的东西。 如果您有兴趣或有任何疑问，请随时联系我们！ 感谢您的时间！    提交人    /u/Nucor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giz9ad/looking_for_a_partner_to_collaborate_on_a_local/</guid>
+      <pubDate>Sun, 03 Nov 2024 22:34:04 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个 Scratch（积木编码共享平台）的替代品（我 17 岁！）</title>
       <link>https://www.reddit.com/r/programming/comments/1gix1rv/i_made_a_replacement_for_scratch_the_block_coding/</link>
@@ -104,13 +118,6 @@
       <pubDate>Sun, 03 Nov 2024 16:32:55 GMT</pubDate>
     </item>
     <item>
-      <title>你致力于什么>>你工作有多努力</title>
-      <link>https://www.reddit.com/r/programming/comments/1giqu6g/what_you_work_on_how_hard_you_work/</link>
-      <description><![CDATA[2 个快速晋升的秘诀，来自一位 28 岁的 Google 员工 (IC6)，他每周平均工作时间不到 40 小时： 1) 了解组织最关心的结果是什么，以及哪些工作会产生最大的影响 2) 说“不”，但不要惹麻烦    提交人    /u/TechTok_Newsletter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giqu6g/what_you_work_on_how_hard_you_work/</guid>
-      <pubDate>Sun, 03 Nov 2024 16:31:06 GMT</pubDate>
-    </item>
-    <item>
       <title>5 解析括号的（错误）正则表达式</title>
       <link>https://www.reddit.com/r/programming/comments/1giozwi/5_wrong_regex_to_parse_parentheses/</link>
       <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gineoj/responsive_registration_form_in_html_and_css/</guid>
       <pubDate>Sun, 03 Nov 2024 13:56:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发是一种文化生态。与其合作，而不是与之对抗。停止编写编码约定和政策文档。相反，开始改变开发“环境”，让正确的事情（TM）成为阻力最小的路径。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gimzn8/software_development_is_a_cultural_ecology_work/</link>
-      <description><![CDATA[  由    /u/awesomealchemy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gimzn8/software_development_is_a_cultural_ecology_work/</guid>
-      <pubDate>Sun, 03 Nov 2024 13:36:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
