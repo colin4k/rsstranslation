@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 04 Nov 2024 09:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:02:30 GMT</lastBuildDate>
+    <item>
+      <title>最新最快素数筛选法 - 多尺度筛选法</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjc8g0/new_fastest_prime_number_sieve_multiscale_sieve/</link>
+      <description><![CDATA[  由    /u/carmineinfo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjc8g0/new_fastest_prime_number_sieve_multiscale_sieve/</guid>
+      <pubDate>Mon, 04 Nov 2024 11:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于分析和报告 JavaScript 和 TypeScript Git 存储库中的 TODO 注释的 CLI 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjbvo5/cli_tool_to_analyze_and_report_todo_comments_in/</link>
+      <description><![CDATA[  由    /u/azat_io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjbvo5/cli_tool_to_analyze_and_report_todo_comments_in/</guid>
+      <pubDate>Mon, 04 Nov 2024 11:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么避免技术债务可能是你最大的错误：拥抱进步，而不是完美</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjbf24/why_avoiding_technical_debt_might_be_your_biggest/</link>
+      <description><![CDATA[  由    /u/ircss  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjbf24/why_avoiding_technical_debt_might_be_your_biggest/</guid>
+      <pubDate>Mon, 04 Nov 2024 10:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 20 个基本 TypeScript 技巧：在 2024 年编写更高效的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjauzb/master_20_essential_typescript_tricks_write_more/</link>
+      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjauzb/master_20_essential_typescript_tricks_write_more/</guid>
+      <pubDate>Mon, 04 Nov 2024 10:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 K-Means 对信用卡客户进行细分：有趣的聚类探索</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjaka9/segmenting_credit_card_customers_with_kmeans_a/</link>
+      <description><![CDATA[  由    /u/Gordias98  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjaka9/segmenting_credit_card_customers_with_kmeans_a/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 JavaScript 创建气泡动画</title>
+      <link>https://www.reddit.com/r/programming/comments/1gja1pb/how_to_create_a_bubble_animation_with_tailwind/</link>
+      <description><![CDATA[  由    /u/Michael_andreuzza  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gja1pb/how_to_create_a_bubble_animation_with_tailwind/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:03:49 GMT</pubDate>
+    </item>
     <item>
       <title>新的解析器生成器</title>
       <link>https://www.reddit.com/r/programming/comments/1gj7tge/new_parser_generator_on_the_block/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/JPJEFC  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gis2k3/python_arguments_playlist/</guid>
       <pubDate>Sun, 03 Nov 2024 17:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>PR 审查工具 - 让代码审查更加容易（免费且开源）</title>
-      <link>https://www.reddit.com/r/programming/comments/1girqal/pr_review_tool_making_code_reviews_way_easier/</link>
-      <description><![CDATA[PR 审查/说明 CLI PR 审查工具 - 使代码审查变得更容易 💻✨ Yo dev fam！刚刚构建了一个 CLI 工具，它可以完成所有无聊的审查工作并自动编写 PR 描述。它使用 AI 检查你的 Git 差异，分解内容，并为你提供可靠的审查或描述。基本上，它让我免于在团队会议上无休止的代码审查和尴尬的解释  它并不是什么新鲜事，但实际上在日常工作中帮助了我。 它的作用： - 自动代码审查 - 快速概述问题、最佳实践和改进 - 简单的 PR 描述 - 不再费力解释更改；它甚至可以制作图表🙌 - 三种模式 - 全面审查、简短摘要或只是快速的“这是发生了什么”选项 - 干净的差异视图 - 按文件组织更改，这样您就不会迷失在细节中 - 记录所有内容 - 所以如果出现问题，你就知道确切在哪里查找 要运行它，它很简单： - pr-reviewer -b feature/your-branch 进行基本审查 - 或者 pr-reviewer -b feature/your-branch -m description -t main 如果您想要详细的 PR 写作 奖励：您可以完全根据需要自定义它。您唯一需要的是一个 OpenAI API 密钥，然后就可以开始了。 在这里查看：npm 上的 pr-reviewer https://www.npmjs.com/package/pr-reviewer 欢迎任何反馈！让我知道您的想法，并随时建议功能或更改 🙏n    提交人    /u/LongjumpingFace4082   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1girqal/pr_review_tool_making_code_reviews_way_easier/</guid>
-      <pubDate>Sun, 03 Nov 2024 17:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从 10 多年的软件工程师生涯中学到的 5 个教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1giqvp0/5_lessons_i_learned_the_hard_way_from_10_years_as/</link>
-      <description><![CDATA[  由    /u/xxjcutlerxx  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giqvp0/5_lessons_i_learned_the_hard_way_from_10_years_as/</guid>
-      <pubDate>Sun, 03 Nov 2024 16:32:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 解析括号的（错误）正则表达式</title>
-      <link>https://www.reddit.com/r/programming/comments/1giozwi/5_wrong_regex_to_parse_parentheses/</link>
-      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giozwi/5_wrong_regex_to_parse_parentheses/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:10:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程行业中纪律重于动力</title>
-      <link>https://www.reddit.com/r/programming/comments/1giox8w/discipline_over_motivation_in_the_engineering/</link>
-      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giox8w/discipline_over_motivation_in_the_engineering/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:07:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ DataFrame 的最新版本</title>
-      <link>https://www.reddit.com/r/programming/comments/1ginfnb/latest_release_of_c_dataframe/</link>
-      <description><![CDATA[  由    /u/hmoein  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ginfnb/latest_release_of_c_dataframe/</guid>
-      <pubDate>Sun, 03 Nov 2024 13:58:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 和 CSS 中的响应式注册表单</title>
-      <link>https://www.reddit.com/r/programming/comments/1gineoj/responsive_registration_form_in_html_and_css/</link>
-      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gineoj/responsive_registration_form_in_html_and_css/</guid>
-      <pubDate>Sun, 03 Nov 2024 13:56:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
