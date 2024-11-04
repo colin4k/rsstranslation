@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Nov 2024 12:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 15:01:57 GMT</lastBuildDate>
+    <item>
+      <title>Cabin，Reddit 的开源替代品——寻求贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gjd7ut/cabin_an_opensource_alternative_to_redditseeking/</link>
+      <description><![CDATA[大家好， 我是一名拥有十多年经验的产品设计师，最近开始着手创建 Cabin，这是 Reddit 的开源替代品。我最初想采用资本主义方法来设计 Cabin，但最终决定不采用这种方法，因为资本主义和贪婪正是多年来降低 Reddit 质量的因素。 我有技术背景。如前所述，我从事产品设计师工作十多年，涉足金融、医疗保健等各个行业。 我目前正在（慢慢地）构建 Cabin 的 MVP，我希望在 2025 年春季为 iOS、Android 和 Web 推出它。Cabin 是使用 Expo 在 React Native 中构建的。我有一些开发经验，但我绝对没有资格担任任何技术角色，尤其是在安全等至关重要的情况下。 当前视觉预览：https://imgur.com/a/bqQNkxJ - 是的，它看起来非常类似于 Reddit。随着发布日期的临近，我们会找到自己的视觉形象。话虽如此，我认为 Reddit 在很多地方的用户体验/用户界面方面都做得相当不错。 为什么叫 Cabin？ 从我小时候起，我的家人和朋友就会定期去阿巴拉契亚山脉的小屋度过周末。小屋成了一个聚会场所，人们可以在那里放松并与他人进行有意义的交谈。我希望 Cabin 能成为一个让用户可以坐下来与世界各地（或本地——你自己做）的人进行有意义的讨论的地方。 Cabin 与 Reddit 有何不同？ 我们的用户是我们唯一要负责的利益相关者。这意味着我们可以花更多时间构建真正让用户受益的功能，而不是无休止地追求增长目标来满足投资者。这也意味着我们不会收集您的数据。 Cabin 与 Reddit 的另一个不同之处在于打击虚假信息。与 Twitter（马斯克之前）或 Instagram 类似，我希望找到可扩展的方法来识别和标记包含虚假信息的帖子（例如，可验证的不准确或完全错误的政治内容）。 Cabin 的资金来源是什么？ 让我们回到现实……构建和运营技术需要花钱。许多人喜欢开源项目，但这并不意味着他们总是能够或愿意贡献自己的时间和技能；有些工作需要花钱。最大的问题是服务器成本，随着我们的发展，服务器成本只会越来越高。 Cabin 将始终以非营利组织的形式运作，但我们可能会提供某种高级帐户，为用户提供一些不错的福利。为了设定期望，这些额外福利不会以任何方式改变游戏规则，但它们的定价会考虑到可访问性，并且价格会根据用户的地理位置而有所不同（我们知道印度的 1 美元与澳大利亚的 1 美元不同）。 还有其他想法正在考虑中，但我不想过早分享任何内容，因为事情仍悬而未决。 投入 Cabin 的每一分钱都将用于改善用户的体验。 我如何贡献？ 我们最需要具有 React Native/TypeScript 经验的前端和后端开发人员。也就是说，我们也在积极寻求任何拥有可能有用的技术技能的人的帮助！ 如果您有兴趣做出贡献，请随时给我发私信！ 您也可以关注我们，了解 Cabin 的最新动态：https://cabin.social 谢谢大家！    提交人    /u/happiestpeanut   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gjd7ut/cabin_an_opensource_alternative_to_redditseeking/</guid>
+      <pubDate>Mon, 04 Nov 2024 12:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>[新工具] 面向科学爱好者的开源洲际弹道导弹弹道模拟器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gjadh4/new_tool_open_source_icbm_trajectory_simulator/</link>
@@ -78,14 +85,14 @@
     <item>
       <title>我的 faker.js 包装器现已开源 - 帮助我创建用于模拟数据生成的最佳 UI</title>
       <link>https://www.reddit.com/r/opensource/comments/1gipnv0/my_fakerjs_wrapper_is_now_open_source_help_me_to/</link>
-      <description><![CDATA[我一直将这个工具设计为社区的免费工具，所以我认为理想的做法是将其开源，以便人们可以作为一个社区为其做出贡献并加以改进。  就我个人而言，我喜欢合成数据的世界和 UI 开发的生成，它们可以方便地访问非技术配置文件，甚至可以加快技术配置文件的工作速度。 这就是为什么如果您给我一颗星，我会激励我继续创建这种工具的原因  GITHUB：https://github.com/BreisOne/data-generator    提交人    /u/Charco6   [链接] [评论]]]></description>
+      <description><![CDATA[我一直将这个工具设计为社区的免费工具，所以我认为理想的做法是将其开源，以便人们可以作为一个社区为其做出贡献并加以改进。  就我个人而言，我喜欢合成数据的世界和 UI 开发的生成，它们有助于访问非技术配置文件，甚至可以加快技术配置文件的工作速度。 这就是为什么如果您给我一颗星，我会激励我继续创建这种工具的原因  GITHUB：https://github.com/BreisOne/data-generator    提交人    /u/Charco6   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gipnv0/my_fakerjs_wrapper_is_now_open_source_help_me_to/</guid>
       <pubDate>Sun, 03 Nov 2024 15:40:00 GMT</pubDate>
     </item>
     <item>
       <title>药品文献综述和药物警戒应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</link>
-      <description><![CDATA[几个月前，我为医院的药房服务创建了这个小应用程序。主要功能包括：  它允许在疾病和药物之间进行联合结果搜索，以查看 pubmed 中可用的文献。 它允许使用 Faers API 从使用的药物列表中提取不良反应，并过滤用户最感兴趣的不良反应。这是一个开源项目。  看一看，如果您认为它有用，请鼓励您做出贡献。 GitHub：https://github.com/BreisOne/pharmacovigilance-literature-mining    提交人    /u/Charco6   [链接] [评论]]]></description>
+      <description><![CDATA[几个月前，我为医院的药房服务创建了这个小应用程序。主要功能如下：  它允许对疾病和药物进行联合结果搜索，以查看 pubmed 中可用的文献。 它允许使用 Faers API 从所用药物列表中提取不良反应，并过滤用户最感兴趣的不良反应。这是一个开源项目。  查看一下，如果您认为有用，请鼓励您做出贡献。 GitHub：https://github.com/BreisOne/pharmacovigilance-literature-mining    提交人    /u/Charco6   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</guid>
       <pubDate>Sun, 03 Nov 2024 15:14:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[这是许可证的链接 https://paritylicense.com/versions/7.0.0 这在现实世界中实用吗？或者由于不知名，使用此许可证的软件将被避免？    提交人    /u/AryabhataHexa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gif36y/found_out_this_license_parity_is_it_more_copy/</guid>
       <pubDate>Sun, 03 Nov 2024 04:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodeGroupie：探索开源项目并做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gibkux/codegroupie_explore_open_source_projects_to/</link>
-      <description><![CDATA[      大家好！我很乐意与大家分享我朋友最近创建的一个激情项目：www.codegroupie.com！ 我发现许多开发人员都在努力寻找可以贡献的项目，CodeGroupie 是一个平台，您可以在其中探索数百个涉及广泛主题的开源项目，并根据您的特定兴趣进行筛选。每个项目都有一个摘要部分，可为您提供快速概览，如果您有兴趣做出贡献，还可以找到最近未解决的问题的链接。 如果您没有看到想要添加的开源项目，您可以提交请求，我会查看它！ 您还可以分享您正在进行或希望开始的项目，并与有相似兴趣的其他人联系。如果您正在寻找合作者、反馈意见，或者只是想聊聊想法，您可以在这里做到！ 我很乐意听到您的任何反馈或评论，并让我知道您的想法以及您是否希望添加任何功能。谢谢！    提交人    /u/gumkicker   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gibkux/codegroupie_explore_open_source_projects_to/</guid>
-      <pubDate>Sun, 03 Nov 2024 01:13:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
