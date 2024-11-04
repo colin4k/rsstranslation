@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Mon, 04 Nov 2024 17:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 20:52:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 联发科在白皮书《Wi-Fi 8：开创连接的未来》中探讨了 [...]</title>
-      <link>https://t.me/hn_summary/115267</link>
-      <description><![CDATA[Wi-Fi 8：开创连接的未来
-在《Wi-Fi 8：开创连接的未来》白皮书中，联发科探讨了 Wi-Fi 8（正式名称为 802.11bn）预期的进步和创新。主要功能包括多 AP 协调、增强频谱效率、扩展范围和提高功率效率。然而，Wi-Fi 8 的突出重点是其对“超高可靠性”的强调，标志着 Wi-Fi 7 的“极高吞吐量”发生了转变。这种转变凸显了对可靠无线通信日益增长的需求。本文还讨论了蜂窝技术和 Wi-Fi 技术的融合、影响未来的市场趋势以及联发科 Filogic 保持其在 Wi-Fi 领域领先地位的战略。]]></description>
-      <guid>https://t.me/hn_summary/115267</guid>
-      <pubDate>Mon, 04 Nov 2024 17:59:49 GMT</pubDate>
+      <title>[媒体] 在《神经病学》杂志发表的一项研究中，加州大学旧金山分校的研究人员发现，中年人睡眠质量差会导致 [...]</title>
+      <link>https://t.me/hn_summary/115306</link>
+      <description><![CDATA[中年睡眠不足与大脑萎缩加快有关
+在一项发表于《神经病学》杂志的研究中，加州大学旧金山分校的研究人员发现，中年睡眠不足可能会加速与痴呆症相关的大脑萎缩。这项研究涉及了 CARDIA 研究中 600 名成年人，对他们的睡眠质量进行了调查，并在十年内进行了脑部扫描。结果表明，即使调整了各种因素，中度至重度睡眠困难的人的大脑看起来也比睡眠良好的人老 1.6 至 2.6 岁。令人惊讶的是，睡眠时间不足与大脑衰老无关，尽管之前的研究表明并非如此。这项研究强调了针对睡眠质量的早期干预措施在预防认知能力下降方面的潜力。这项研究强调了关注中年睡眠质量的公共卫生举措的重要性。]]></description>
+      <guid>https://t.me/hn_summary/115306</guid>
+      <pubDate>Mon, 04 Nov 2024 20:52:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 继 7 月份 CrowdStrike 事件之后，英国金融行为监管局 [...]</title>
-      <link>https://t.me/hn_summary/115266</link>
-      <description><![CDATA[金融机构被告知在下一次 CrowdStrike 之前做好内部准备
-在 7 月发生 CrowdStrike 事件后，英国金融行为监管局 (FCA) 敦促金融机构增强其对 IT 中断的运营弹性。该事件涉及 CrowdStrike 的 Falcon EDR 平台的错误更新，造成了广泛的混乱，影响了主要银行和摩根大通和伦敦证券交易所等交易平台。FCA 强调需要采取强有力的业务连续性措施，如其 PS21/3 规则中所述，合规截止日期为 2025 年 3 月。已经遵守这些准则的机构更有效地管理了危机。有趣的是，达美航空已对 CrowdStrike 提起诉讼，声称遭受了重大收入损失，而 CrowdStrike 则反驳称达美航空存在疏忽和过时的 IT 基础设施。这场法律纠纷凸显了此类事件可能引发的复杂性和相互指责。]]></description>
-      <guid>https://t.me/hn_summary/115266</guid>
-      <pubDate>Mon, 04 Nov 2024 17:58:42 GMT</pubDate>
+      <title>[媒体] 在无服务器技术不断发展的背景下，我的重点已经转向其 p [...]</title>
+      <link>https://t.me/hn_summary/115305</link>
+      <description><![CDATA[初创公司的无服务器用例
+在无服务器技术不断发展的背景下，我的重点已转向中型初创公司的实际应用，尤其是在 Handshake 的日常环境中。虽然无服务器因其成本效益和可扩展性而受到称赞，但我认为这些不应该成为许多企业的主要关注点。相反，重点应该放在使工程师能够独立部署服务、最大限度地降低运营成本以及迅速应对业务挑战上。无服务器解决方案在数据库管理、数据管道集成和处理具有独特要求的“奇怪功能”等领域大放异彩。尽管存在一些不确定性，但无服务器在简化运营和减少摩擦方面的潜力是光明的，值得进一步探索。]]></description>
+      <guid>https://t.me/hn_summary/115305</guid>
+      <pubDate>Mon, 04 Nov 2024 20:45:51 GMT</pubDate>
     </item>
     <item>
-      <title>在过去的一个项目中，我经历了最令人愉快的工作环境之一，这主要归功于 [...]</title>
-      <link>https://t.me/hn_summary/115265</link>
-      <description><![CDATA[我参与过的最好的项目之一实现了零开销沟通（2020 年）
-在过去的一个项目中，我体验到了最令人愉快的工作环境之一，这主要归功于零开销沟通。这项任务涉及将 20,000 多台机器迁移到新系统，而不会中断对大量客户的服务。尽管项目很复杂，而且没有严格的最后期限，但项目进展顺利，因为我和我的同事完全同步。我们避免了常见的陷阱，例如过度指导或无效辩论，而是专注于实际解决方案。我们的沟通非常高效，我们通常不需要每天交谈，只需依靠简单的电子表格进行更新。这种无缝协作感觉就像与自己的延伸一起工作，我仍然会反思这种体验，并渴望在未来的团队中重现它。令人惊讶的是，我们如此轻松地完成了如此复杂的任务，凸显了高效团队中有效沟通和相互理解的力量。]]></description>
-      <guid>https://t.me/hn_summary/115265</guid>
-      <pubDate>Mon, 04 Nov 2024 17:51:34 GMT</pubDate>
+      <title>[媒体] OpenAI 的新 ChatGPT 搜索被认为是潜在的“谷歌杀手”，但在 [...]</title>
+      <link>https://t.me/hn_summary/115304</link>
+      <description><![CDATA[ChatGPT Search 还不是 OpenAI 的“Google 杀手”
+OpenAI 的新 ChatGPT Search 被预期为潜在的“Google 杀手”，但经过测试后，我发现它不适合日常使用。虽然它提供了 AI 驱动的搜索界面的一瞥，并且擅长回答长而详细的问题，但它在处理主导 Google 搜索的简短导航查询时却举步维艰。例如，它不准确地报告了实时 NBA 比分和公司收益，凸显了它的不可靠性。对 Microsoft Bing 的依赖以及大型语言模型对短提示的局限性导致了这些问题。尽管 ChatGPT Search 具有潜力，但目前无法取代 Google 进行日常网络导航，不过 OpenAI 计划进行改进。争议在于它的不准确性以及取代谷歌核心功能的挑战。]]></description>
+      <guid>https://t.me/hn_summary/115304</guid>
+      <pubDate>Mon, 04 Nov 2024 20:40:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DataChain 是一个 Pythonic 数据框架库，旨在管理 AI 的非结构化数据 [...]</title>
-      <link>https://t.me/hn_summary/115264</link>
-      <description><![CDATA[非结构化数据的 DBT – DataChain
-DataChain 是一个 Pythonic 数据框架库，旨在管理 AI 应用程序的非结构化数据。它将数据组织成数据集并在本地机器上高效处理，而无需抽象 AI 模型或 API 调用。主要功能包括处理来自各种存储系统（S3、GCP、Azure、本地）的数据、支持多模态数据类型（图像、文本、JSON 等）以及与 AI 模型集成以丰富数据。它通过提供 Python 友好的管道、内置并行化和内存外计算而不依赖 SQL 或 Spark 来脱颖而出。DataChain 还支持矢量化操作和优化的矢量搜索，从而提高数据处理任务的效率。（基于 74% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/115264</guid>
-      <pubDate>Mon, 04 Nov 2024 17:49:28 GMT</pubDate>
+      <title>[媒体] 在 rmoff.net 上的“开发人员的博客写作（2023）”中，作者（DevEx 工程师）分享了 [...]</title>
+      <link>https://t.me/hn_summary/115303</link>
+      <description><![CDATA[面向开发人员的博客写作 (2023)
+在 rmoff.net 上的“面向开发人员的博客写作 (2023)”中，作者（DevEx 工程师）分享了对写作艺术的见解，尤其是对于开发人员而言。写作是分享知识、学习和建立信誉的工具。作者强调写作的清晰度、个性和统一性，建议每篇文章都应与其目标受众和目的保持一致。推荐资源是 Larry McEnerney 的讲座“有效写作的技巧”。作者还分享了个人写作结构：介绍、解释和回顾。一个令人惊讶的建议是使用番茄工作法来提高注意力和工作效率。作者强调了优秀的审稿人和文字编辑在完善写作方面的价值。（基于 90% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/115303</guid>
+      <pubDate>Mon, 04 Nov 2024 20:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DB48X 是一款尖端科学计算器，它为经典的惠普 [...]</title>
-      <link>https://t.me/hn_summary/115263</link>
-      <description><![CDATA[DB48X：全新设计的高性能科学计算器
-DB48X 是一款先进的科学计算器，通过完全重新实现逆波兰 Lisp (RPL) 编程语言，重现了经典惠普 HP48X 的使用体验。这款创新固件专为 SwissMicros DM32 和 DM42 计算器量身定制，可确保在便携式物理设备上实现最佳性能。此外，还提供 iPhone 版本，让用户可以在手机上享受丰富多彩的图形显示。一个独特的功能是能够直接在浏览器中测试计算器固件，从而提供一种便捷的方式来探索其功能。这款深受喜爱的经典产品以现代风格演绎，将怀旧与现代技术相结合，既令人惊讶又巧妙。]]></description>
-      <guid>https://t.me/hn_summary/115263</guid>
-      <pubDate>Mon, 04 Nov 2024 17:40:21 GMT</pubDate>
+      <title>Shaderblocks 是一种基于块的图像编辑创新工具，它提供了一种独特的方法来 [...]</title>
+      <link>https://t.me/hn_summary/115302</link>
+      <description><![CDATA[Shaderblocks：基于块的图像编辑
+Shaderblocks 是一种基于块的图像编辑创新工具，为数字艺术创作提供了一种独特的方法。与传统方法不同，Shaderblocks 允许用户使用模块化块来处理图像，使编辑过程更加直观和易于访问。这种方法不仅简化了复杂的任务，还通过让用户尝试不同的块组合来鼓励创造力。Shaderblocks 的一个令人惊讶的功能是它能够与现有的工作流程无缝集成，提供灵活性并提高生产力。虽然这个概念普遍受到好评，但一些纯粹主义者可能会认为它过于简化了图像编辑的艺术，可能会破坏传统技能。]]></description>
+      <guid>https://t.me/hn_summary/115302</guid>
+      <pubDate>Mon, 04 Nov 2024 20:30:34 GMT</pubDate>
     </item>
     <item>
-      <title>在我第一次与一家知名科技公司面试时，事情发生了意想不到的转变。</title>
-      <link>https://t.me/hn_summary/115262</link>
-      <description><![CDATA[我与真正的工程师面试的疯狂经历
-在我第一次与一家知名科技公司面试时，事情发生了意想不到的转折。起初，整个过程似乎很有希望，但很快就陷入了混乱。这家公司（我不会透露其名称）是一家二级公司，提供的薪水高于当地市场水平。我获得面试机会不是通过传统的简历提交，而是通过社交——具体来说，就是和一名员工一起玩电子游戏。技术面试出乎意料地简单，这增强了我的信心。然而，在最后的行为面试中，一位高管无意中透露了一种有毒的工作文化，他吹嘘自己凌晨 3 点工作，这让首席技术官非常沮丧。尽管如此，我还是得到了这份工作，但人力资源部门的低薪让我不得不直接与首席技术官谈判。最终，公司内部的问题和拒绝兼职让我重新考虑了这个问题。这次经历凸显了人际网络比传统求职申请更重要，以及科技公司经常出现功能失调的本质。（根据 86% 的故事文本总结。）]]></description>
-      <guid>https://t.me/hn_summary/115262</guid>
-      <pubDate>Mon, 04 Nov 2024 17:13:02 GMT</pubDate>
+      <title>[媒体] 《Nine Chronicles》是一款开源在线角色扮演游戏，采用了易于修改的方式 [...]</title>
+      <link>https://t.me/hn_summary/115301</link>
+      <description><![CDATA[显示 HN：NineChronicles – 开源在线 RPG
+Nine Chronicles 是一款开源在线 RPG，采用模组友好型方法，邀请玩家和开发者使用各种工具创建和共享模组。该游戏提供 Mimir 以轻松访问游戏数据，提供 Chrono 以进行无缝交易签名，在 Nine Chronicles 生态系统内培育了一个活跃的模组社区。这种开放性不仅增强了游戏性，还鼓励用户之间的创造力和协作。Nine Chronicles 的独特之处在于它致力于去中心化和用户赋权，这使其有别于传统 RPG。这种方法可能会引发关于开发者控制和社区驱动内容之间平衡的争论。]]></description>
+      <guid>https://t.me/hn_summary/115301</guid>
+      <pubDate>Mon, 04 Nov 2024 20:29:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我一直在为 Manjaro 开展一个名为 Manjaro Data Donor (MDD) 的新项目，旨在 [...]</title>
-      <link>https://t.me/hn_summary/115261</link>
-      <description><![CDATA[Manjaro Linux 准备默认启用遥测
-我一直在为 Manjaro 开发一个名为 Manjaro Data Donor (MDD) 的新项目，旨在改进我们的用户计数和收集硬件统计数据。以前，我们依靠 NetworkManager ping 和 Matomo 来实现这一点，但这些方法存在局限性，例如基于 IP 的计数和对 Matomo 的 IP 屏蔽承诺的依赖。MDD 是一个简单的 Python 脚本，它通过提供更详细的数据来解决这些问题。您可以通过 sudo pacman -S mdd 安装它并在 GitHub 上查看源代码。虽然遥测存在争议，但拥有准确的使用数据对于 Manjaro 的未来规划至关重要。最初，MDD 需要手动安装，但我计划通过 systemd 服务将其设为默认的、可选的退出功能。在我们测试这种新方法时，欢迎您提供反馈。]]></description>
-      <guid>https://t.me/hn_summary/115261</guid>
-      <pubDate>Mon, 04 Nov 2024 17:05:54 GMT</pubDate>
+      <title>[媒体] RFC 9669 概述了 BPF（伯克利数据包过滤器）指令集架构（ISA），[...]</title>
+      <link>https://t.me/hn_summary/115300</link>
+      <description><![CDATA[RFC 9669 BPF 指令集架构 (ISA)
+RFC 9669 概述了 BPF（伯克利数据包过滤器）指令集架构 (ISA)，详细介绍了各种指令及其操作。该文档提供了有关每条指令如何操作数据的全面指南，例如加法、减法、乘法和条件跳转。值得注意的是，它包括关于弃用和特定于实现的指令的部分，这些指令可能会导致混淆或在实现过程中需要仔细考虑。RFC 还强调了在操作中使用立即值和源寄存器，从而为编程提供了灵活性。一个独特的方面是使用 base32 和 base64 编码进行某些操作，这可能会让一些读者感到惊讶。总体而言，RFC 9669 是使用 BPF 的开发人员的重要资源，可确保他们了解指令集的复杂性。 （根据 20% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/115300</guid>
+      <pubDate>Mon, 04 Nov 2024 20:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “Tinylangs” GitHub 项目提供了基本历史的微实现 [...]</title>
-      <link>https://t.me/hn_summary/115260</link>
-      <description><![CDATA[Tinylangs：用 50 行 Python 实现的编程语言
-“Tinylangs”GitHub 项目提供基本历史编程语言的微实现，每个微实现都用不到 50 行 Python 代码编写而成。该项目为那些有兴趣创建自己的编程语言或探索编程历史的人提供了资源。它包括仅使用 Python 标准库实现的 Assembly、BASIC、Lisp、APL、MOUSE、PL/0 和 TCL 等语言。作者强调了该项目的教育价值及其在代码中保持简洁和简单的独特方法。该项目在 MIT 许可下开源，欢迎社区做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/115260</guid>
-      <pubDate>Mon, 04 Nov 2024 17:03:47 GMT</pubDate>
+      <title>[媒体] 我受够了政治垃圾短信，所以我想出了一个古怪的解决方案：我的手机现在自动 [...]</title>
+      <link>https://t.me/hn_summary/115299</link>
+      <description><![CDATA[自动向未知号码发送“STOP”
+我受够了政治垃圾短信，所以我想出了一个古怪的解决方案：我的手机现在会自动向任何未知号码回复“STOP”。我不是建议你这样做，但这是我使用 iOS 自动化设置它的方法。该过程包括检查消息是否来自未知号码，如果是，则发送“STOP”。你可以通过检测特定关键字或发送后续消息来解释自动化来增强这一点。在分享我的号码时，考虑解释这个设置很有趣。上面的视频使用了假号码，但逻辑是可行的。尽情享受吧，如果有合法的方式可以选择不接收此类短信，那不是很好吗？]]></description>
+      <guid>https://t.me/hn_summary/115299</guid>
+      <pubDate>Mon, 04 Nov 2024 20:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 冰岛实行更短的工作周。</title>
-      <link>https://t.me/hn_summary/115259</link>
-      <description><![CDATA[冰岛实施了更短的工作周。结果如下
-冰岛在不降低工资的情况下实施了更短的工作周，取得了令人印象深刻的经济表现，超过了许多欧洲国家。从 2020 年到 2022 年，51% 的冰岛工人接受了缩短工作时间，许多人选择每周工作四天。自治研究所和 Alda 强调，这种转变促进了冰岛经济的快速增长和低失业率。2015 年至 2019 年进行的试验表明，生产率保持稳定或有所改善，而工人的福祉显着提高。尽管取得了这些成功，但国际货币基金组织预测，由于国内需求和旅游支出下降，冰岛的增长将放缓。这一举措符合全球趋势，因为其他地方的类似试验也已显示出积极成果。]]></description>
-      <guid>https://t.me/hn_summary/115259</guid>
-      <pubDate>Mon, 04 Nov 2024 16:55:40 GMT</pubDate>
+      <title>[媒体] 图表·图表即代码是一种多功能工具，旨在简化 cl 的创建[...]</title>
+      <link>https://t.me/hn_summary/115298</link>
+      <description><![CDATA[图表·图表即代码
+图表·图表即代码是一种多功能工具，旨在通过允许用户通过代码生成图表来简化云系统架构的创建。它支持 AWS、Azure、GCP、Kubernetes、阿里云和 Oracle Cloud 等众多主要云提供商，确保全面覆盖各种基础设施需求。此外，它还容纳本地节点、SaaS 解决方案，并与主要编程框架和语言集成，为开发人员提供灵活性和适应性。这种方法不仅简化了图表绘制过程，还增强了团队之间的协作和一致性，使其成为现代云架构可视化的独特而高效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/115298</guid>
+      <pubDate>Mon, 04 Nov 2024 20:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 最近，美国核管理委员会（NRC）驳回了一项提案[...]</title>
-      <link>https://t.me/hn_summary/115258</link>
-      <description><![CDATA[美国监管机构拒绝亚马逊-Talen核电协议
-最近，美国核管理委员会（NRC）拒绝了亚马逊与Talen Energy就核电项目合作达成的拟议协议。这一决定标志着亚马逊通过核电实现能源组合多元化的雄心遭遇重大挫折。NRC将对监管合规性和安全标准的担忧列为拒绝的主要原因。此举引发了争议，因为它引发了人们对私营部门参与核能未来前景的质疑，而核能传统上由政府实体主导。这一决定凸显了进入核电行业的复杂性和严格要求。]]></description>
-      <guid>https://t.me/hn_summary/115258</guid>
-      <pubDate>Mon, 04 Nov 2024 16:51:35 GMT</pubDate>
+      <title>[媒体] 苹果发布了 visionOS 2.2 的第一个测试版，推出了“Wide”和“Ultrawide” [...]</title>
+      <link>https://t.me/hn_summary/115297</link>
+      <description><![CDATA[VisionOS 2.2 Beta 为 Mac 虚拟显示器添加了宽和超宽模式
+Apple 发布了 visionOS 2.2 的第一个测试版，为 Vision Pro 耳机的 Mac 虚拟显示器功能引入了“宽”和“超宽”模式。此增强功能使用户可以体验相当于两个并排 4K 显示器的虚拟设置。该更新预计将于 12 月发布，将与其他主要软件版本同时发布，例如 iOS 18.2 和 macOS Sequoia 15.2。值得注意的是，Apple 尚未提供 visionOS 的公开测试版。另外，M4 Pro 芯片在多核 CPU 基准测试中的表现优于 M2 Ultra，苹果计划在 iPhone SE 4 上推出其首款内部 5G 调制解调器。此外，苹果正在收购 Pixelmator，此举可能会增强其创意软件产品。]]></description>
+      <guid>https://t.me/hn_summary/115297</guid>
+      <pubDate>Mon, 04 Nov 2024 19:59:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

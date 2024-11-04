@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Nov 2024 18:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 21:02:36 GMT</lastBuildDate>
+    <item>
+      <title>有没有针对 SaaS 的开源产品巡检工具推荐？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gjn6sp/recommendations_for_open_source_product_tour/</link>
+      <description><![CDATA[我正在寻找用于 SaaS 应用程序的开源产品导览工具。具体来说，我需要一些有效的入门欢迎导览和功能演示。 如果您有使用任何好工具的经验，我很乐意听取您的建议。此外，我是否应该牢记任何关键原则或最佳实践，以创造流畅、有用的用户体验？    提交人    /u/brbee07   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gjn6sp/recommendations_for_open_source_product_tour/</guid>
+      <pubDate>Mon, 04 Nov 2024 19:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求对小型开源项目的贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gjn4bw/looking_to_contribute_to_small_open_source/</link>
+      <description><![CDATA[嗨，我是一名工程师和编程迷，我现在有一些空闲时间，我想为 GitHub 上的一些开源项目（c/c++、java、python、Matlab、rust）做贡献，这些领域包括：深度学习/AI 工具、计算机视觉、计算机图形学、强化学习、机器人技术或任何相关主题，有任何建议或任何寻求免费为他们的项目做贡献的人（开发、测试、部署、代码审查、文档……）？    提交人    /u/Physical_Challenge51   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gjn4bw/looking_to_contribute_to_small_open_source/</guid>
+      <pubDate>Mon, 04 Nov 2024 19:38:42 GMT</pubDate>
+    </item>
     <item>
       <title>Rio：纯 Python 开发的 Web 应用 – 全新的布局系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1gjgfer/rio_webapps_in_pure_python_a_fresh_layouting/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>有人需要工程专业学生的免费帮助吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1giudoh/anyone_want_engineering_students_free_help/</link>
-      <description><![CDATA[TLDR: 标题  我和我的搭档现在是密歇根大学工程学院计算机科学专业的最后一年，我们正在寻找一个开源项目作为我们的期末课程项目。 几乎任何主题或项目都是公平的！ 我们对以下一些语言很有信心：C、C++、Python、html、Java、JS、SQL、Jquery 等 如果您对此感兴趣，请给我发私信，我们可以一起解决：)    提交人    /u/Free_Economist_5312   [链接] [评论]]]></description>
+      <description><![CDATA[TLDR: 标题  我和我的搭档现在是密歇根大学工程学院计算机科学专业的最后一年，我们正在寻找一个开源项目作为我们的期末课程项目。 几乎任何主题或项目都是公平的游戏！ 我们信任的一些语言：C，C ++，Python，html，Java，JS，SQL，Jquery等 如果您对此感兴趣，请给我发私信，我们可以想办法：) 更新：我们找到了一个项目，谢谢大家！将来可能会再做：)    提交人    /u/Free_Economist_5312   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1giudoh/anyone_want_engineering_students_free_help/</guid>
       <pubDate>Sun, 03 Nov 2024 19:02:00 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/ck-zhang   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gihnzn/i_made_an_open_source_webcam_gaze_tracking_model/</guid>
       <pubDate>Sun, 03 Nov 2024 07:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现此许可证奇偶校验。它比 GPLv3 剩余的副本更多吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gif36y/found_out_this_license_parity_is_it_more_copy/</link>
-      <description><![CDATA[这是许可证的链接 https://paritylicense.com/versions/7.0.0 这在现实世界中实用吗？或者由于不知名，使用此许可证的软件将被避免？    提交人    /u/AryabhataHexa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gif36y/found_out_this_license_parity_is_it_more_copy/</guid>
-      <pubDate>Sun, 03 Nov 2024 04:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodeGroupie：探索开源项目并做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gibkux/codegroupie_explore_open_source_projects_to/</link>
-      <description><![CDATA[      大家好！我很乐意与大家分享我朋友最近创建的一个激情项目：www.codegroupie.com！ 我发现许多开发人员都在努力寻找可以贡献的项目，CodeGroupie 是一个平台，您可以在其中探索数百个涉及广泛主题的开源项目，并根据您的特定兴趣进行筛选。每个项目都有一个摘要部分，可为您提供快速概览，如果您有兴趣做出贡献，还可以找到最近未解决的问题的链接。 如果您没有看到想要添加的开源项目，您可以提交请求，我会查看它！ 您还可以分享您正在进行或希望开始的项目，并与有相似兴趣的其他人联系。如果您正在寻找合作者、反馈意见，或者只是想聊聊想法，您可以在这里做到！ 我很乐意听到您的任何反馈或评论，并让我知道您的想法以及您是否希望添加任何功能。谢谢！    提交人    /u/gumkicker   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gibkux/codegroupie_explore_open_source_projects_to/</guid>
-      <pubDate>Sun, 03 Nov 2024 01:13:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
