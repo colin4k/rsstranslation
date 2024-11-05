@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 15:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 18:02:28 GMT</lastBuildDate>
+    <item>
+      <title>如何修复网站在不可见时无法加载图像的问题？</title>
+      <link>https://www.reddit.com/r/software/comments/1gkbhfp/how_to_fix_websites_not_loading_images_when_not/</link>
+      <description><![CDATA[如果某些网站（例如 imgur.com）的标签不可见，则该网站将不会加载图像。有没有行之有效的方法可以防止这种情况发生？我听说这种情况发生是因为网站使用了“可见性机会 API”，我进行了一些搜索以找到禁用它的方法，但没有找到任何有效的方法。  有没有办法禁用该 API 或阻止网站访问它？或者，如果网站不可见，是否有其他解决方案无法加载图像？    提交人    /u/InternalVolcano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gkbhfp/how_to_fix_websites_not_loading_images_when_not/</guid>
+      <pubDate>Tue, 05 Nov 2024 17:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 ChatGPT 客户端，任何平台（除网络外）</title>
+      <link>https://www.reddit.com/r/software/comments/1gkbcuo/looking_for_chatgpt_clients_any_platform_other/</link>
+      <description><![CDATA[  由    /u/Maple382  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gkbcuo/looking_for_chatgpt_clients_any_platform_other/</guid>
+      <pubDate>Tue, 05 Nov 2024 16:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF GEAR 截图</title>
+      <link>https://www.reddit.com/r/software/comments/1gkb4eg/pdf_gear_screenshot/</link>
+      <description><![CDATA[你用过 PDF Gear 吗？我想截取文档中的地图截图，但找不到截图按钮。你们能帮我一下吗？谢谢！    提交人    /u/CommunityEuphoric554   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gkb4eg/pdf_gear_screenshot/</guid>
+      <pubDate>Tue, 05 Nov 2024 16:46:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何防止软件在 PC 上自动安装（Outlook NEW）？</title>
+      <link>https://www.reddit.com/r/software/comments/1gk9v4m/how_do_you_prevent_a_software_from_installing/</link>
+      <description><![CDATA[大家好， 我只是想看看是否有办法强制 Outlook（新版）每天继续安装在我的电脑上。我不想使用 Outlook，我讨厌 Outlook，它会弄乱我的日历。  我很想阻止此应用程序安装。如果这样能解决问题，我几乎要卸载整个办公套件，并且再也不会购买了。     提交人    /u/data_gather62   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk9v4m/how_do_you_prevent_a_software_from_installing/</guid>
+      <pubDate>Tue, 05 Nov 2024 15:53:16 GMT</pubDate>
+    </item>
     <item>
       <title>需要 Instagram 照片保存器推荐</title>
       <link>https://www.reddit.com/r/software/comments/1gk8cgp/instagram_photo_saver_recommendations_needed/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>视频游戏如何根据计算机硬件知道要使用多少内存而不会导致游戏崩溃？</title>
       <link>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</link>
-      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的 RAM 数量。所以我玩了《对马岛之魂》，使用 8 GB 的 RAM 使用了 90% 的 RAM，12 GB 的 RAM 也使用了 90% 的 RAM。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
+      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的内存量。所以我玩了《对马岛之魂》，使用 8 GB 的内存使用了 90% 的内存，12 GB 的内存也使用了 90% 的内存。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</guid>
       <pubDate>Tue, 05 Nov 2024 13:15:44 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我正在寻找一个日历应用，可以安装在我的电脑上，也希望可以安装在我的手机上，但任何具有在线功能的东西也都有漏洞。  使用谷歌日历或微软的 Windows 日历是最安全的吗？  我假设当你将你的电子邮件地址链接到你决定下载的任何日历应用时（即使它不是 Windows 或谷歌），你就是在授予他们查看你使用的电子邮件提供商和你的个人数据的权限。  话虽如此，考虑到它们最受欢迎，也可能是最安全的，最好使用其中之一（微软或谷歌）吗？同时，它们可能是侵犯隐私最严重的，因为它们几乎可以为所欲为。  这篇文章并不是想脱离网络或诸如此类的事情。我知道如果你在线的话你总会接触到一些东西但是我只是在寻找最安全的日历选项或者我可以列出我生活中的所有事件（个人和专业）并且知道我正在使用一个安全的应用程序希望它也有Android版本所以我可以下载到我的手机上。 我不想使用Windows 11附带的原因是因为他们总是要求你创建一个帐户而我不喜欢创建Microsoft帐户或任何那种东西。我想如果我使用他们的Windows日历那么他们会诱骗我创建一个帐户因为我相信当你将Hotmail链接到该应用程序时它几乎是一回事。    提交人    /u/JustAnotherPodcaster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gjzwnz/is_there_a_calendar_app_or_software_which_is/</guid>
       <pubDate>Tue, 05 Nov 2024 05:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一款可以管理我的订单的小型免费软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gjzsao/recommendation_for_a_small_and_free_software_for/</link>
-      <description><![CDATA[您好！我想问一下是否有好的软件可以跟踪我工作中的订单和库存。问题是我不知道如何编码，所以建立自己的数据库有点困难。该软件实际上只是让我了解事物的概况。到目前为止，我一直在使用 excel，但我觉得它并不是最适合这项工作的，我希望我的订单更加条理清晰，并且每个订单都有一个“窗口”/“选项卡”。 我对这些事情完全陌生，不知道有哪些软件可以完成这类任务。 谢谢！    提交人    /u/Hipstermankey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjzsao/recommendation_for_a_small_and_free_software_for/</guid>
-      <pubDate>Tue, 05 Nov 2024 05:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Mac 和 Linux 的出色的终端应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1gjzn7g/amazing_terminal_app_for_mac_and_linux/</link>
-      <description><![CDATA[Warp 是一款非常出色的终端应用，没有其他应用可以与之相比 https://app.warp.dev/referral/8J9DQ3    提交人    /u/theoneand33   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjzn7g/amazing_terminal_app_for_mac_and_linux/</guid>
-      <pubDate>Tue, 05 Nov 2024 05:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装 Office 2010</title>
-      <link>https://www.reddit.com/r/software/comments/1gjzj2x/installing_office_2010/</link>
-      <description><![CDATA[大家好！我刚刚买了一台新笔记本电脑，因为旧的坏了。我在业务中使用 Microsoft Office 2010 Professional Plus，并将其安装在我所有的其他计算机上。一个简单的问题 - 如何在这台新笔记本电脑上安装 Microsoft Office 2010 Professional Plus？Microsoft 网站上不再提供下载，我不确定哪些来源在网上是可靠的。我知道这有两个方面：实际的软件（我猜是 .exe 文件）和激活它的产品密钥。 我很清楚现在强烈推荐使用 Microsoft 365，但是，由于我们已经在多台计算机上使用 Office 2010，我想继续使用 Office 2010。所以，拜托，我知道这是出于好心，但不建议切换到 Microsoft 365 作为我们的产品。我特别想知道如何下载（因为我不再有 CD）并激活 Office 2010 Professional Plus。 非常感谢！:)    提交人    /u/austinmediamond   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjzj2x/installing_office_2010/</guid>
-      <pubDate>Tue, 05 Nov 2024 05:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找虚拟生物狼蛛虚拟宠物</title>
-      <link>https://www.reddit.com/r/software/comments/1gjyxl2/looking_for_virtual_creatures_tarantula_virtual/</link>
-      <description><![CDATA[  由    /u/GayCatgirl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjyxl2/looking_for_virtual_creatures_tarantula_virtual/</guid>
-      <pubDate>Tue, 05 Nov 2024 04:48:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
