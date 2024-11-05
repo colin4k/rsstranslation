@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 18:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 21:02:01 GMT</lastBuildDate>
+    <item>
+      <title>托管包含 2 个文件的 sql dump 和 php 网站</title>
+      <link>https://www.reddit.com/r/software/comments/1gkfvp4/hosting_sql_dump_and_php_website_with_2_files/</link>
+      <description><![CDATA[大家好，希望你们一切顺利。 我一直在尝试在 AWS RDS 中托管我的 sql 转储，但对我来说这似乎太复杂了。该项目包括 sql 转储 (326 mb)、2 个 php 文件（fetch_data.php 从数据库中提取数据，index.php 满足前端，可以从 fetch_data.php 搜索数据）。 我如何才能简单地托管并允许它们交互而无需使用我的本地主机？请帮忙     提交人    /u/5_Dollar_Gigs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gkfvp4/hosting_sql_dump_and_php_website_with_2_files/</guid>
+      <pubDate>Tue, 05 Nov 2024 20:04:09 GMT</pubDate>
+    </item>
     <item>
       <title>如何修复网站在不可见时无法加载图像的问题？</title>
       <link>https://www.reddit.com/r/software/comments/1gkbhfp/how_to_fix_websites_not_loading_images_when_not/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>视频游戏如何根据计算机硬件知道要使用多少内存而不会导致游戏崩溃？</title>
       <link>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</link>
-      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的内存量。所以我玩了《对马岛之魂》，使用 8 GB 的内存使用了 90% 的内存，12 GB 的内存也使用了 90% 的内存。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
+      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的 RAM 数量。所以我玩了《对马岛之魂》，使用 8 GB 的 RAM 使用了 90% 的 RAM，12 GB 的 RAM 也使用了 90% 的 RAM。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</guid>
       <pubDate>Tue, 05 Nov 2024 13:15:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[当我自己搜索时，大多数信息都是准确的。  我注意到的唯一不准确之处是在“可能的同事”部分。有几个人我认识，比如前男友或前室友，但也有大约 30 个我完全不认识的人。  此外，列出的几个电子邮件地址肯定不是我的，也从来不是我的。    提交人    /u/kasman4uk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gk0h1r/is_intelius_legit/</guid>
       <pubDate>Tue, 05 Nov 2024 06:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个日历应用程序或软件是比较私密且安全的？</title>
-      <link>https://www.reddit.com/r/software/comments/1gjzwnz/is_there_a_calendar_app_or_software_which_is/</link>
-      <description><![CDATA[我正在寻找一个日历应用，可以安装在我的电脑上，也希望可以安装在我的手机上，但任何具有在线功能的东西也都有漏洞。  使用谷歌日历或微软的 Windows 日历是最安全的吗？  我假设当你将你的电子邮件地址链接到你决定下载的任何日历应用时（即使它不是 Windows 或谷歌），你就是在授予他们查看你使用的电子邮件提供商和你的个人数据的权限。  话虽如此，考虑到它们最受欢迎，也可能是最安全的，最好使用其中之一（微软或谷歌）吗？同时，它们可能是侵犯隐私最严重的，因为它们几乎可以为所欲为。  这篇文章并不是想脱离网络或诸如此类的事情。我知道如果你在线的话你总会接触到一些东西但是我只是在寻找最安全的日历选项或者我可以列出我生活中的所有事件（个人和专业）并且知道我正在使用一个安全的应用程序希望它也有Android版本所以我可以下载到我的手机上。 我不想使用Windows 11附带的原因是因为他们总是要求你创建一个帐户而我不喜欢创建Microsoft帐户或任何那种东西。我想如果我使用他们的Windows日历那么他们会诱骗我创建一个帐户因为我相信当你将Hotmail链接到该应用程序时它几乎是一回事。    提交人    /u/JustAnotherPodcaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjzwnz/is_there_a_calendar_app_or_software_which_is/</guid>
-      <pubDate>Tue, 05 Nov 2024 05:47:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
