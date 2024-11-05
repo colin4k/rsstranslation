@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 05 Nov 2024 12:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 15:02:26 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助调试基于 C++ 的项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gk5b4n/need_help_debugging_c_based_project/</link>
+      <description><![CDATA[我不知道在哪里发布这篇文章，我对 GitHub 和编程还是个新手，但我正在努力调试我的项目。该项目是一个类似于船舶声纳的应用程序（Windows），它将与 Arduino 通信并通过串行端口显示物理 Arduino 声纳的信息。  我正在使用 win32 api，似乎整个项目无法与 Arduino 板通信。该项目托管在 GitHub 上，可以自由编辑等。  如果您有兴趣，我会链接存储库    提交人    /u/No_Beyond_5483   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gk5b4n/need_help_debugging_c_based_project/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:16:57 GMT</pubDate>
+    </item>
     <item>
       <title>wallabag 2.6.10 带有 Omnivore 导入</title>
       <link>https://www.reddit.com/r/opensource/comments/1gk3uib/wallabag_2610_with_omnivore_import/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[颜色更改应针对 pdf 文件本身，而不仅限于特定应用程序    提交人    /u/ATS_4pc   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1giipz8/is_there_any_way_to_change_pdf_text_colour_and/</guid>
       <pubDate>Sun, 03 Nov 2024 08:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>datamule：花费几美元构建昂贵的财务数据集（Gemini 结构化输出）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gii2yy/datamule_construct_expensive_financial_datasets/</link>
-      <description><![CDATA[大家好，我编写了一个软件包，可以从 SEC 文件中下载、解析和创建结构化数据集。这样做的一个很酷的结果是，您现在可以花几美元从文件中创建有趣的数据集。 例如，我的一些研究生朋友想使用董事会进入/退出数据进行研究实验，但数据集的成本为 35,000 美元。使用 SEC 文件，我能够创建一个仅需 5 美元的数据集。警告：它确实需要一些数据整理，但在正确的提示下幻觉不是问题。 安装 pip install datamule[all]  快速入门： import datamule as dm downloader = dm.Downloader() downloader.download(form=&#39;10-K&#39;, ticker=&#39;AAPL&#39;)  链接：GitHub，文档 它确实需要 Gemini API 密钥。我使用了 300 美元的免费试用积分（1500rpm），但完全免费的套餐也适用（15rpm）。    提交人    /u/status-code-200   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gii2yy/datamule_construct_expensive_financial_datasets/</guid>
-      <pubDate>Sun, 03 Nov 2024 08:06:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

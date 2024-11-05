@@ -4,7 +4,63 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 12:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 15:02:12 GMT</lastBuildDate>
+    <item>
+      <title>需要 Instagram 照片保存器推荐</title>
+      <link>https://www.reddit.com/r/software/comments/1gk8cgp/instagram_photo_saver_recommendations_needed/</link>
+      <description><![CDATA[大家好！我正在寻找一款可靠、无广告的应用来在 Android 上保存 Instagram 照片。必须安全且易于使用。有什么建议吗？谢谢！    提交人    /u/Strict_Ordinary_5791   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk8cgp/instagram_photo_saver_recommendations_needed/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>动画 HEIF 支持</title>
+      <link>https://www.reddit.com/r/software/comments/1gk7mgt/animated_heif_support/</link>
+      <description><![CDATA[哪些 Windows 图像查看器（不包括视频播放器）支持播放动画 HEIF 文件？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk7mgt/animated_heif_support/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:13:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以让桌面屏幕（光标周围区域除外）变得模糊/变暗的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gk6q1d/software_that_blursdims_desktop_screen_except/</link>
+      <description><![CDATA[大家好， 我在目前的工作中处理敏感数据，我们缺少物理隐私屏幕。  我发现了两个满足我需求的应用程序，但它们没有涵盖我工作中的所有机器的操作系统和处理器。 1 - AMD Privacy View：https://www.amd.com/en/products/software/adrenalin/amd-privacy-view.html 优点：适用于 Windows 和 Linux 缺点：仅适用于 AMD 处理器。 2 - Cockos Tunnel Vision：https://www.cockos.com/tunnelvision/ 优点：适用于 AMD 和英特尔处理器 缺点：仅适用于 Windows。 有人知道适用于 Windows 和/或英特尔处理器的类似软件吗？ Linux？    由    /u/daykriok  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk6q1d/software_that_blursdims_desktop_screen_except/</guid>
+      <pubDate>Tue, 05 Nov 2024 13:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 Mac 快捷方式的家庭 ipsum 生成器</title>
+      <link>https://www.reddit.com/r/software/comments/1gk6ls4/lorem_ipsum_generator_with_a_shortcut_for_mac/</link>
+      <description><![CDATA[我希望能够输入 lorem50 并得到 50 个单词的 lorem ipsum 或 lorem25，得到 25 个单词等等。这就是我在 Windows 上使用 AutoHotkey 进行设置的。 我知道这对 MacOS 来说是一个很大的要求，但也许是类似的东西，不需要鼠标来使用。    提交人    /u/Ninjaxas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk6ls4/lorem_ipsum_generator_with_a_shortcut_for_mac/</guid>
+      <pubDate>Tue, 05 Nov 2024 13:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频游戏如何根据计算机硬件知道要使用多少内存而不会导致游戏崩溃？</title>
+      <link>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</link>
+      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的 RAM 数量。所以我玩了《对马岛之魂》，使用 8 GB 的 RAM 使用了 90% 的 RAM，12 GB 的 RAM 也使用了 90% 的 RAM。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</guid>
+      <pubDate>Tue, 05 Nov 2024 13:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>电脑重启后安全启动重新启用</title>
+      <link>https://www.reddit.com/r/software/comments/1gk60o0/secure_boot_reenables_upon_pc_restart/</link>
+      <description><![CDATA[我想使用可启动的 USB（Linux），但它要求我禁用安全启动。所以我这样做了，但是一旦我退出 Linux 并重新启动等，它就会重新启用安全启动。所以每次我想打开 Linux 时，我都必须手动禁用安全启动。我该如何停止这种情况？    提交人    /u/Eagle_mf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk60o0/secure_boot_reenables_upon_pc_restart/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程桌面 (MacBook) 上基于 Debian 的操作系统</title>
+      <link>https://www.reddit.com/r/software/comments/1gk5yw9/debian_based_os_on_a_remote_desktop_macbook/</link>
+      <description><![CDATA[我有一台 MacBook，我已经获得了用于远程桌面的 UTM 以在其上使用 linux，并且我下载了“Debian ARM (i3)，但它需要用户名和密码，而我没有。 有人知道我可以使用什么基于 debian 的操作系统吗？    提交人    /u/Interesting-Egg-1360   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk5yw9/debian_based_os_on_a_remote_desktop_macbook/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:53:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的批处理和 OCR PDF 编辑器是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1gk5kuf/whats_the_best_pdf_editor_for_batch_processing/</link>
+      <description><![CDATA[  由    /u/PeaClear267  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk5kuf/whats_the_best_pdf_editor_for_batch_processing/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:32:21 GMT</pubDate>
+    </item>
     <item>
       <title>Namecheap 评论 - 我应该使用它吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gk4xb2/namecheap_review_should_i_use_it/</link>
@@ -48,13 +104,6 @@
       <pubDate>Tue, 05 Nov 2024 07:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最佳免费 VPN？</title>
-      <link>https://www.reddit.com/r/software/comments/1gk13nd/best_free_vpn_for_2024/</link>
-      <description><![CDATA[  由    /u/bjeanette  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gk13nd/best_free_vpn_for_2024/</guid>
-      <pubDate>Tue, 05 Nov 2024 07:10:13 GMT</pubDate>
-    </item>
-    <item>
       <title>他读书更聪明吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gk0h1r/is_intelius_legit/</link>
       <description><![CDATA[当我自己搜索时，大多数信息都是准确的。  我注意到的唯一不准确之处是在“可能的同事”部分。有几个人我认识，比如前男友或前室友，但也有大约 30 个我完全不认识的人。  此外，列出的几个电子邮件地址肯定不是我的，也从来不是我的。    提交人    /u/kasman4uk   [link] [评论]]]></description>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/GayCatgirl  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gjyxl2/looking_for_virtual_creatures_tarantula_virtual/</guid>
       <pubDate>Tue, 05 Nov 2024 04:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何免费的用户友好软件可以将按钮按下分配给屏幕/应用程序特定部分的鼠标点击吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1gjv7og/any_free_userfriendly_software_to_assign_button/</link>
-      <description><![CDATA[我正在使用适用于 Android 的 Windows 子系统在我的 PC 上玩 Android 游戏，我正在尝试设置它，这样当我按下键盘上的按钮时，Android 模拟器的一部分将被点击。我找不到我正在寻找的内容，或者至少没有易于使用的内容。有人知道可以做到这一点吗？    提交人    /u/No_Instruction4718   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjv7og/any_free_userfriendly_software_to_assign_button/</guid>
-      <pubDate>Tue, 05 Nov 2024 01:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>HEVC 到 HEIF</title>
-      <link>https://www.reddit.com/r/software/comments/1gjv67v/hevc_to_heif/</link>
-      <description><![CDATA[有哪些工具可以将 HEVC/H.265 视频重新转换为 HEIF/HEIC 文件？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjv67v/hevc_to_heif/</guid>
-      <pubDate>Tue, 05 Nov 2024 01:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的任何桌面类型应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1gjsl3p/free_anydesk_type_app/</link>
-      <description><![CDATA[我正在寻找 anydesk 的免费（或更便宜）类似物，请给我一些建议    提交人    /u/kirkiimad123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjsl3p/free_anydesk_type_app/</guid>
-      <pubDate>Mon, 04 Nov 2024 23:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Okta 漏洞可能允许身份验证绕过，但有一个问题</title>
-      <link>https://www.reddit.com/r/software/comments/1gjrs7b/okta_flaw_could_have_allowed_authentication/</link>
-      <description><![CDATA[  由    /u/KingSash  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjrs7b/okta_flaw_could_have_allowed_authentication/</guid>
-      <pubDate>Mon, 04 Nov 2024 22:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于计时器的程序请求</title>
-      <link>https://www.reddit.com/r/software/comments/1gjqd7g/request_for_timerbased_program/</link>
-      <description><![CDATA[我正在寻找一个可以设置计时器的程序，我的显示器的显示会随着时间而变化 - 类似于 f.lux，但不基于太阳。我想象的是，它会在几个小时内逐渐使我的显示器变灰，但这不是严格要求；我需要的是，它会逐渐改变我的显示，以一种明显的方式，而不会干扰我正在做的事情。有什么想法吗？    提交人    /u/templar1138   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjqd7g/request_for_timerbased_program/</guid>
-      <pubDate>Mon, 04 Nov 2024 21:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个鼠标要用什么软件啊？</title>
-      <link>https://www.reddit.com/r/software/comments/1gjneyq/software_to_go_to_this_mouse/</link>
-      <description><![CDATA[我需要此鼠标的软件，以便我可以更改按钮分配（鼠标设置中没有的选项）。有人知道吗？制造商 SIMGAL 没有网站 https://www.amazon.com/dp/B09FJ662L9?ref=ppx_yo2ov_dt_b_fed_asin_title&amp;th=1    提交人    /u/Ok_Potato9704   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjneyq/software_to_go_to_this_mouse/</guid>
-      <pubDate>Mon, 04 Nov 2024 19:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以给我制作我最喜欢的歌曲列表的 AI dj 软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1gjhs0o/looking_for_ai_dj_software_that_will_make_me_a/</link>
-      <description><![CDATA[我希望能够使用自己的歌单并为自己制作播放列表。  有没有软件可以做到这一点？据我所知，我看过一些视频，其中 AI 能够帮助 DJ 进行混音，但我似乎找不到任何可以帮我混音的东西。    提交人    /u/ZooterTheWooter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjhs0o/looking_for_ai_dj_software_that_will_make_me_a/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:02:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
