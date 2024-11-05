@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Nov 2024 03:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 06:02:21 GMT</lastBuildDate>
     <item>
       <title>RightFont 9.0</title>
       <link>https://www.producthunt.com/posts/rightfont-9-0</link>
       <description><![CDATA[
-适用于 Mac 的终极字体管理器应用程序
+适用于 Mac 的终极字体管理器应用
 
 
 讨论
@@ -23,7 +23,7 @@
       <title>漂移</title>
       <link>https://www.producthunt.com/posts/drift-969f52fa-aaef-4e04-a4c2-5d154aa0adaf</link>
       <description><![CDATA[
-帮助企业接受加密支付
+帮助企业接受加密货币支付
 
 
 讨论
@@ -79,7 +79,7 @@
       <title>时间表</title>
       <link>https://www.producthunt.com/posts/timetabled</link>
       <description><![CDATA[
-轻松查找会议时间
+轻松找到会议时间
 
 
 讨论
@@ -104,20 +104,6 @@
       <pubDate>Sun, 03 Nov 2024 05:23:24 GMT</pubDate>
     </item>
     <item>
-      <title>有限公司Pro</title>
-      <link>https://www.producthunt.com/posts/gyftpro</link>
-      <description><![CDATA[
-适合每个时刻的完美礼物
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gyftpro</guid>
-      <pubDate>Sat, 02 Nov 2024 15:42:27 GMT</pubDate>
-    </item>
-    <item>
       <title>丢失的</title>
       <link>https://www.producthunt.com/posts/winday</link>
       <description><![CDATA[
@@ -130,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/winday</guid>
       <pubDate>Sat, 02 Nov 2024 14:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际象棋扫描仪</title>
+      <link>https://www.producthunt.com/posts/chess-scanner</link>
+      <description><![CDATA[
+扫描记分表并在几秒钟内生成棋局。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/chess-scanner</guid>
+      <pubDate>Sat, 02 Nov 2024 13:41:54 GMT</pubDate>
     </item>
     <item>
       <title>具备 Confluence 功能</title>
@@ -233,7 +233,7 @@ Cloud VS Code 与 Daytona 支持的自主 AI 编码相结合
       <title>InfiniGrow 之旅</title>
       <link>https://www.producthunt.com/posts/journeys-by-infinigrow</link>
       <description><![CDATA[
-跟踪您顶级帐户的客户旅程。免费
+跟踪顶级帐户的客户旅程。免费
 
 
 讨论
