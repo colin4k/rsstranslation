@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 00:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 03:03:46 GMT</lastBuildDate>
+    <item>
+      <title>ImageMagick 的 HEIF</title>
+      <link>https://www.reddit.com/r/software/comments/1gkme9c/heif_for_imagemagick/</link>
+      <description><![CDATA[我想使用 ImageMagick 从 PNG/JPG 图像序列中制作无损动画 HEIC 文件，但我需要安装最新的 libheif 库并重新编译程序。我该怎么做？这是针对 Windows 版本的。    提交人    /u/Low-Finance-2275   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gkme9c/heif_for_imagemagick/</guid>
+      <pubDate>Wed, 06 Nov 2024 00:55:25 GMT</pubDate>
+    </item>
     <item>
       <title>Pictek T16 鼠标驱动程序未检测到连接的设备。</title>
       <link>https://www.reddit.com/r/software/comments/1gkkdep/pictek_t16_mouse_driver_does_not_detect_connected/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>视频游戏如何根据计算机硬件知道要使用多少内存而不会导致游戏崩溃？</title>
       <link>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</link>
-      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的 RAM 数量。所以我玩了《对马岛之魂》，使用 8 GB 的 RAM 使用了 90% 的 RAM，12 GB 的 RAM 也使用了 90% 的 RAM。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
+      <description><![CDATA[所以，这可能是一个愚蠢的问题，但我真的很好奇视频游戏如何知道要使用的内存量。所以我玩了《对马岛之魂》，使用 8 GB 的内存使用了 90% 的内存，12 GB 的内存也使用了 90% 的内存。那么它是如何工作的，而不会导致游戏崩溃或内存溢出（如果有这个词的话？）    提交人    /u/userdead999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gk6el8/how_do_video_games_know_how_much_ram_to_use_based/</guid>
       <pubDate>Tue, 05 Nov 2024 13:15:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在建立一个网站建设机构，并将为我的客户托管网站，这些网站将在各种平台上创建，例如 WordPress、Wix、Framer、Webflow 等。因此，我正在寻找最佳托管解决方案以适应这些平台组合。 我研究过 Bluehost 和 Hostinger 等选项，它们看起来很有希望。 理想情况下，我需要一种用户友好的托管服务，使我能够有效地组织和分类网站。如果我还可以在必要时为客户提供有限的访问权限，那就太好了。当然，可靠性和可负担性是关键考虑因素。 谢谢！    提交人    /u/charlesgarrett1175   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gk1m5r/best_website_hosting_services_recommended_by/</guid>
       <pubDate>Tue, 05 Nov 2024 07:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何使用 Clariti 等工具确保团队内有效的业务沟通？</title>
-      <link>https://www.reddit.com/r/software/comments/1gk1cxd/how_do_you_ensure_effective_business/</link>
-      <description><![CDATA[有效的业务沟通意味着清晰专业地共享信息，以便每个人都能理解。它可以帮助团队更好地合作，更快地解决问题，更轻松地实现目标。 查看投票    提交人    /u/Efficient_Builder923   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gk1cxd/how_do_you_ensure_effective_business/</guid>
-      <pubDate>Tue, 05 Nov 2024 07:29:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
