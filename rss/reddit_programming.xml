@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 06 Nov 2024 12:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 15:02:01 GMT</lastBuildDate>
+    <item>
+      <title>javascript - 将对象更新为 mongo db 中未发生的字段值。请帮忙</title>
+      <link>https://www.reddit.com/r/programming/comments/1gkzoch/javascript_updation_of_an_object_as_a_value_of_a/</link>
+      <description><![CDATA[  由   提交  /u/Aggressive-Bee-130   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gkzoch/javascript_updation_of_an_object_as_a_value_of_a/</guid>
+      <pubDate>Wed, 06 Nov 2024 14:24:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何日期格式转为纪元</title>
+      <link>https://www.reddit.com/r/programming/comments/1gkz7gr/any_date_format_to_epoch/</link>
+      <description><![CDATA[我想在这里分享一个我制作的日期到纪元工具，因为我最近在工作中遇到了这个烦恼。这是一个简单的网站，您可以以任何方式输入日期并获得纪元。您可以说“下周二”或“12:00:00T22:00Z”之类的话，并获得与上下文一致的纪元。    提交人    /u/rogaterr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gkz7gr/any_date_format_to_epoch/</guid>
+      <pubDate>Wed, 06 Nov 2024 14:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>二叉树直径：算法和实现指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1gky4s1/binary_tree_diameter_algorithm_and_implementation/</link>
+      <description><![CDATA[  由    /u/nodejsdevspace  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gky4s1/binary_tree_diameter_algorithm_and_implementation/</guid>
+      <pubDate>Wed, 06 Nov 2024 13:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Ente 迁移到 monorepo</title>
+      <link>https://www.reddit.com/r/programming/comments/1gky09u/moving_to_a_monorepo_at_ente/</link>
+      <description><![CDATA[  由    /u/privatepatel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gky09u/moving_to_a_monorepo_at_ente/</guid>
+      <pubDate>Wed, 06 Nov 2024 13:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 HTQL（超文本查询语言） - 寻求反馈，或许是贡献者</title>
+      <link>https://www.reddit.com/r/programming/comments/1gkxtp1/introducing_htql_hyper_text_query_language/</link>
+      <description><![CDATA[  由    /u/docaicdev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gkxtp1/introducing_htql_hyper_text_query_language/</guid>
+      <pubDate>Wed, 06 Nov 2024 12:54:45 GMT</pubDate>
+    </item>
     <item>
       <title>为多个 GitHub 帐户配置 SSH 密钥</title>
       <link>https://www.reddit.com/r/programming/comments/1gkwvf4/configuring_ssh_keys_for_multiple_github_accounts/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gkge2z/how_to_improve_sql_queries_performance/</guid>
       <pubDate>Tue, 05 Nov 2024 20:25:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 DX 并不重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1gkdzcj/why_dx_doesnt_matter/</link>
-      <description><![CDATA[  由    /u/skwee357  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gkdzcj/why_dx_doesnt_matter/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:44:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 React 应用程序中配置 ESLint 的基本指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1gkds3i/essential_guide_to_configuring_eslint_in_your/</link>
-      <description><![CDATA[  由    /u/raphael__ph  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gkds3i/essential_guide_to_configuring_eslint_in_your/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的 AI 工具，用于编写提交、总结更改（无需 API 密钥）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gkdlfq/free_ai_tool_to_write_commits_summarize_changes/</link>
-      <description><![CDATA[大家好，我想分享一个我一周前建立的项目，刚刚进入 1.0.0 - lumen 功能 1. 使用 AI 编写 git 提交消息 2. 使用 AI 总结差异、过去的提交 3. 支持多个 AI 提供商 4. 完全免费且开箱即用 5. 支持模糊搜索和 markdown 格式 欢迎反馈/建议！ PS：我只想补充一点，在我看来，好的提交消息非常重要。和任何 AI 工具一样，这也应该在监督下使用，特别是在需要细微差别的地方    提交人    /u/TheGreaT1803   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gkdlfq/free_ai_tool_to_write_commits_summarize_changes/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是目前最热门的领域吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gkd2er/is_ai_the_hottest_niche_right_now/</link>
-      <description><![CDATA[  由    /u/alexlazar98  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gkd2er/is_ai_the_hottest_niche_right_now/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>整体式架构的问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1gkaa4a/the_problem_with_monoliths/</link>
-      <description><![CDATA[  由    /u/the1024  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gkaa4a/the_problem_with_monoliths/</guid>
-      <pubDate>Tue, 05 Nov 2024 16:10:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
