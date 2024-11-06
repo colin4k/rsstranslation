@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 Nov 2024 03:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 06:02:13 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 活动追踪工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gkpwtv/github_activity_tracker_tools/</link>
+      <description><![CDATA[救命！我需要一个工具（最好是开源 + 价格合理）来跟踪开源贡献指标。 我们是一个小型非营利组织（少于 5 名开发人员），每周收到大约 3 个开源社区贡献（拉取请求）。我需要一个工具来收集有关这些贡献的数据，以便在我们扩大规模时将它们呈现给利益相关者。目前我一直在手动执行此操作，但这并不理想。 我们需要 3 个指标，其他指标都是额外的：  给定时间范围内合并的拉取请求的数量（不包括工作人员和机器人） 与 PR（或链接问题）相关联的标签，用于跟踪贡献类型。 给定时间范围内的开源贡献者数量（不包括工作人员和机器人）  我已尝试在 GitHub Action 中使用 GitHub API 按照计划将这些统计信息打印到 Slack。但我不是开发人员，遇到了太多极端情况，我没有时间进行故障排除或维护，其他开发人员也没有时间。    提交人    /u/No-Perception-4089   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gkpwtv/github_activity_tracker_tools/</guid>
+      <pubDate>Wed, 06 Nov 2024 04:10:55 GMT</pubDate>
+    </item>
     <item>
       <title>令我惊讶的一件事是市场上没有开源/可修复的打印机。</title>
       <link>https://www.reddit.com/r/opensource/comments/1gkkgpj/one_thing_im_amazed_at_is_that_theres_no_open/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[几个月前，我为医院的药房服务创建了这个小应用程序。主要功能如下：  它允许对疾病和药物进行联合结果搜索，以查看 pubmed 中可用的文献。 它允许使用 Faers API 从所用药物列表中提取不良反应，并过滤用户最感兴趣的不良反应。这是一个开源项目。  查看一下，如果您认为有用，请鼓励您做出贡献。 GitHub：https://github.com/BreisOne/pharmacovigilance-literature-mining    提交人    /u/Charco6   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</guid>
       <pubDate>Sun, 03 Nov 2024 15:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nothing 主题笔记应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gimw97/nothing_themed_notes_app/</link>
-      <description><![CDATA[嗨，我是 Luis，很高兴发布我的 Nothing notes 应用的完整版。它在 GitHub 上以 APK 形式提供，但很快就会在 Play 商店上架。如果您对我的应用计划感兴趣，请查看路线图。    提交人    /u/kresstein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gimw97/nothing_themed_notes_app/</guid>
-      <pubDate>Sun, 03 Nov 2024 13:31:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
