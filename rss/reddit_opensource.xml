@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 Nov 2024 06:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 09:02:08 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个用于管理 Minecraft Bedrock 版本的工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gks8vu/i_made_a_tool_for_managing_minecraft_bedrock/</link>
+      <description><![CDATA[        提交人    /u/I_Like_Slug   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gks8vu/i_made_a_tool_for_managing_minecraft_bedrock/</guid>
+      <pubDate>Wed, 06 Nov 2024 06:38:42 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub 活动追踪工具？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gkpwtv/github_activity_tracker_tools/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我一直将这个工具设计为社区的免费工具，所以我认为理想的做法是将其开源，以便人们可以作为一个社区为其做出贡献并加以改进。  就我个人而言，我喜欢合成数据的世界和 UI 开发的生成，它们可以方便地访问非技术配置文件，甚至可以加快技术配置文件的工作速度。 这就是为什么如果您给我一颗星，我会激励我继续创建这种工具的原因  GITHUB：https://github.com/BreisOne/data-generator    提交人    /u/Charco6   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gipnv0/my_fakerjs_wrapper_is_now_open_source_help_me_to/</guid>
       <pubDate>Sun, 03 Nov 2024 15:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>药品文献综述和药物警戒应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</link>
-      <description><![CDATA[几个月前，我为医院的药房服务创建了这个小应用程序。主要功能如下：  它允许对疾病和药物进行联合结果搜索，以查看 pubmed 中可用的文献。 它允许使用 Faers API 从所用药物列表中提取不良反应，并过滤用户最感兴趣的不良反应。这是一个开源项目。  查看一下，如果您认为有用，请鼓励您做出贡献。 GitHub：https://github.com/BreisOne/pharmacovigilance-literature-mining    提交人    /u/Charco6   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gip31r/pharmaceutical_literature_review_and/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:14:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
