@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Nov 2024 15:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 18:01:58 GMT</lastBuildDate>
+    <item>
+      <title>开源预测软件助力更好的决策</title>
+      <link>https://www.reddit.com/r/opensource/comments/1glw6hx/opensource_forecasting_software_for_better/</link>
+      <description><![CDATA[嘿 r/opensource :) 我想向您介绍我们的免费开源预测软件 SocialPredict： https://github.com/openpredictionmarkets/socialpredict 我们帮助个人和组织做出更明智的决策。当有人决定在 SocialPredict 实例上提问时，同一实例中的任何其他人都可以说“是的，我认为这会发生”或“不，这不会发生”并在上面下注游戏币。 如果有足够多的人下注游戏币，您就会开始了解您的实例中的人们认为总体上会发生什么……这样您就可以对生活，宇宙和一切做出更好的决定！ 如果您喜欢所看到的内容，请查看并对我们的 repo 加注    提交人    /u/CosmicDystopia   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1glw6hx/opensource_forecasting_software_for_better/</guid>
+      <pubDate>Thu, 07 Nov 2024 17:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试了不同的 AI 代码助手来解决实际问题 - 结果如下</title>
+      <link>https://www.reddit.com/r/opensource/comments/1glvss5/i_tried_different_ai_code_assistants_on_a_real/</link>
+      <description><![CDATA[我一直使用 Cursor 作为我的主要编码助手，并且对它非常满意。事实上，我是一个付费客户。但最近，我决定探索一些可以融入我的开发工作流程的开源替代方案。我在一个实际问题上测试了 cursor、continue.dev 和 potpie.ai，以查看它们的表现。 测试用例 我从 SigNoz 存储库（前端和后端有超过 3,500 个文件）中挑选了一个“好的第一个问题”，其中有人需要禁用时间选择字段的自动完成功能，因为他们的密码管理器一直在干扰。我认为这将是一个良好的基准测试用例，因为它需要理解大型代码库中的组件关系。 作为参考，这里是原始问题。 以下是每个工具的表现： 光标  IDE 原生，无需扩展 Composer 功能真的很棒 聊天问答可能成功也可能失败 建议修改多个文件（CustomTimePicker、DateTimeSelection 和 DateTimeSelectionV2） - 这太过分了，正如我在下一个工具中发现的那样：  potpie.ai  聊天链接：https://app.potpie.ai/chat/0193013e-a1bb-723c-805c-7031b25a21c5 基于 Web 的界面，具有针对不同软件任务的专门代理 响应速度较慢但更彻底 第一次尝试就做对了 - 正确识别出只有 CustomTimePicker 需要更新。 这让我最初认为 cursor 做得很好而 potpie 搞砸了，但后来我检查了代码并注意到其他两个组件都在内部导入了 CustomTimePicker 组件，因此确实只有 CustomTimePicker 组件需要更新。 很好地理解了组件如何在内部使用 CustomTimePicker  continue.dev :  具有自动完成和聊天问答功能的 VSCode 扩展 不幸的是，它在这个特定任务上表现不佳 即使可以访问代码库，它也只提供了一般的建议 最好的回应是“它可能在像 TimeSelector.tsx 这样的文件中”  奖励：Codeium 我最终也尝试了 Codeium，尽管它不是开源的。有趣的是，它在确定正确解决方案方面的准确性与 Potpie 相当。 关键要点  响应速度越快并不总是越好 - Potpie 的透彻分析被证明更有价值 IDE 集成很不错，但不应以牺牲准确性为代价 更详细的答案并不一定更准确，正如 Cursor 的初步回应所示  作为参考，我还通过查看针对该问题的开放 PR 来确认解决方案。 这是一个非常有启发性的实验，可以了解不同的 AI 助手如何处理相同的任务。虽然每种工具都有其优势，但看看它们如何理解和解决实际问题还是很有趣的。 我相信还有很多我错过的工具，我很乐意尝试更多。请在评论中留下您的建议。   由    /u/ner5hd__  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1glvss5/i_tried_different_ai_code_assistants_on_a_real/</guid>
+      <pubDate>Thu, 07 Nov 2024 17:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否有开源社区中“入门”指南的出色示例？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1glt7cw/do_you_have_great_examples_of_getting_started/</link>
+      <description><![CDATA[为我们的开源项目创建一个新的入门指南，想知道您是否有任何您认为非常出色的示例。我真的想确保人们从无到有拥有很棒的体验。我仔细阅读了很多，绝对可以创建一个“足够好”的指南，但我想尽可能做到最好。    提交人    /u/Visual_Bluejay9781   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1glt7cw/do_you_have_great_examples_of_getting_started/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为搜索引擎创建了一个公共域数据库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</link>
+      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译而来。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:06:31 GMT</pubDate>
+    </item>
     <item>
       <title>向欧洲议会提交的“关于在所有欧盟国家的公共行政部门实施欧盟 Linux 操作系统”的请愿书</title>
       <link>https://www.reddit.com/r/opensource/comments/1glo8tv/petition_at_the_european_parliament_on_the/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我正在考虑以下事项： RAM：至少 32 GB，64 似乎不错 GPU：NVIDIA 4080、90 存储：至少 1 TB SSD，2TB 似乎不错 处理器：不确定 甚至有点困惑，我是否应该依赖云？    提交人    /u/udt007   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gkx0tx/i_wanted_to_ask_what_specifications_should_i/</guid>
       <pubDate>Wed, 06 Nov 2024 12:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮件列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkub7b/mailing_lists/</link>
-      <description><![CDATA[你好！ 由于许多开源内容都使用邮件列表来提供支持，是否有某种工具可以合理地使用它？ 我正在考虑放弃 Apache-Guacamole，只是因为愚蠢的邮件列表，我似乎无法弄清楚它应该如何使用。 对我来说，它似乎只是一片混乱，我到底错过了什么？    提交人    /u/darum8574   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkub7b/mailing_lists/</guid>
-      <pubDate>Wed, 06 Nov 2024 09:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个用于管理 Minecraft Bedrock 版本的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gks8vu/i_made_a_tool_for_managing_minecraft_bedrock/</link>
-      <description><![CDATA[        提交人    /u/I_Like_Slug   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gks8vu/i_made_a_tool_for_managing_minecraft_bedrock/</guid>
-      <pubDate>Wed, 06 Nov 2024 06:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 活动追踪工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkpwtv/github_activity_tracker_tools/</link>
-      <description><![CDATA[救命！我需要一个工具（最好是开源 + 价格合理）来跟踪开源贡献指标。 我们是一个小型非营利组织（少于 5 名开发人员），每周收到大约 3 个开源社区贡献（拉取请求）。我需要一个工具来收集有关这些贡献的数据，以便在我们扩大规模时将它们呈现给利益相关者。目前我一直在手动执行此操作，但这并不理想。 我们需要 3 个指标，其他指标都是额外的：  给定时间范围内合并的拉取请求的数量（不包括工作人员和机器人） 与 PR（或链接问题）相关联的标签，用于跟踪贡献类型。 给定时间范围内的开源贡献者数量（不包括工作人员和机器人）  我已尝试在 GitHub Action 中使用 GitHub API 按照计划将这些统计信息打印到 Slack。但我不是开发人员，遇到了太多极端情况，我没有时间进行故障排除或维护，其他开发人员也没有时间。    提交人    /u/No-Perception-4089   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkpwtv/github_activity_tracker_tools/</guid>
-      <pubDate>Wed, 06 Nov 2024 04:10:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>令我惊讶的一件事是市场上没有开源/可修复的打印机。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkkgpj/one_thing_im_amazed_at_is_that_theres_no_open/</link>
-      <description><![CDATA[近年来，随着大型科技变得越来越邪恶，普通消费设备也变得越来越封闭和封闭，对于那些关心的人来说，替代开放系统也出现了很大的趋势。 您可以购买 Framework/System76 笔记本电脑或 Pinetime/Bangle 智能手表等。但据我所知，仍然无法购买开箱即用的非封闭打印机。有些型号比其他型号更好，并非所有型号的墨盒上都有 DRM 和所需的互联网连接，尤其是企业市场激光型号。但我很惊讶没有一个项目是基本的喷墨打印机，它默认配备开源驱动程序/固件、可再填充墨盒等。 打印机中是否存在专利或制造细节，使得新方很难复制它们？或者只是大多数打印机都是以亏本的价格出售的，并使用掠夺性策略来收回墨水成本，而一台结构合理的打印机必须花费太多，以至于没人会买它？ 当然，打印机每年都越来越不受欢迎，但我想仍然有一个比那些购买 Pinetime 智能手表的人更大的市场。    提交人    /u/Frequent_Computer388   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkkgpj/one_thing_im_amazed_at_is_that_theres_no_open/</guid>
-      <pubDate>Tue, 05 Nov 2024 23:23:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
