@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 06 Nov 2024 21:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 00:03:28 GMT</lastBuildDate>
+    <item>
+      <title>使用 ImHex 的 DSL（“模式语言”）可视化二进制文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1glae25/visualizing_binary_files_with_imhexs_dsl_the/</link>
+      <description><![CDATA[  由    /u/shot-master  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1glae25/visualizing_binary_files_with_imhexs_dsl_the/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过从头编写 HTTP 服务器来探索 Postgres 的竞技场分配器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gl9t7e/exploring_postgress_arena_allocator_by_writing_an/</link>
+      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gl9t7e/exploring_postgress_arena_allocator_by_writing_an/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:34:55 GMT</pubDate>
+    </item>
     <item>
       <title>作为全职 CTO，我如何安排自己的时间</title>
       <link>https://www.reddit.com/r/programming/comments/1gl5irh/how_i_organized_my_time_as_a_fulltime_cto/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gkpnx3/linux_builtin_tools_are_so_powerful_you_can_build/</guid>
       <pubDate>Wed, 06 Nov 2024 03:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Typescript 进行模式匹配</title>
-      <link>https://www.reddit.com/r/programming/comments/1gko7s6/pattern_matching_en_typescript_con_tspattern/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gko7s6/pattern_matching_en_typescript_con_tspattern/</guid>
-      <pubDate>Wed, 06 Nov 2024 02:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人工智能驱动的 Javadoc IntelliJ 插件</title>
-      <link>https://www.reddit.com/r/programming/comments/1gkj20s/developing_aipowered_javadoc_intellij_plugin/</link>
-      <description><![CDATA[  由    /u/PavlikPolivka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gkj20s/developing_aipowered_javadoc_intellij_plugin/</guid>
-      <pubDate>Tue, 05 Nov 2024 22:19:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
