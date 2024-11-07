@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 07 Nov 2024 03:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 06:02:03 GMT</lastBuildDate>
+    <item>
+      <title>哪些许可证 + 如何为利基项目捐赠/赞助？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</link>
+      <description><![CDATA[我在美国。除了我的正常工作之外，我还拥有一家有限责任公司，我在那里从事各种技术工作以赚取一些外快。 我有一个面向小众受众的新项目想法。我想将这个项目作为开源项目提供 - 如果有人最终感兴趣，我希望他们能够贡献想法，并且我想免费向其他人提供这个项目。同时，如果有人欣赏这个项目，我希望能够接受捐赠。 我知道如何将赞助商添加到 GitHub。我还考虑在应用程序本身中添加一个捐赠选项。但如果有人分叉了这个项目然后将该捐赠链接换成他们自己的链接，那会感觉非常奇怪。我想邀请大家捐款，但如果我要投入精力，我也想保护自己的作品。 我读完了 https://choosealicense.com/licenses/，并考虑使用 GNU LGPLv3，因为它似乎是折中方案中最严格的，但我不确定它是否能达到目标。 我还想知道要使用什么赞助平台 - 如果有人确实汇款，我最终希望将其与我的商业银行账户绑定。我听说过 Buy me a Coffee、Kofi，每个人都知道 PayPal 和 Patreon，但我从未以这种方式使用过它们中的任何一个。 你在这方面有什么经验，你认为哪种许可证有意义？有没有一个最好的赞助平台？我应该设置几个吗？ （希望他们没有收取高额费用...）    提交人    /u/HelloWorldYourFace   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</guid>
+      <pubDate>Thu, 07 Nov 2024 03:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>自托管网络爬虫 Scraperr 正式版 v1.0.0 发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1glf4r8/official_v100_release_of_scraperr_the_selfhosted/</link>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 06 Nov 2024 04:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>令我惊讶的是，市场上没有开源/可修复的打印机。</title>
+      <title>令我惊讶的一件事是市场上没有开源/可修复的打印机。</title>
       <link>https://www.reddit.com/r/opensource/comments/1gkkgpj/one_thing_im_amazed_at_is_that_theres_no_open/</link>
       <description><![CDATA[近年来，随着大型科技变得越来越邪恶，普通消费设备也变得越来越封闭和封闭，对于那些关心的人来说，替代开放系统也出现了很大的趋势。 您可以购买 Framework/System76 笔记本电脑或 Pinetime/Bangle 智能手表等。但据我所知，仍然无法购买开箱即用的非封闭打印机。有些型号比其他型号更好，并非所有型号的墨盒上都有 DRM 和所需的互联网连接，尤其是企业市场激光型号。但我很惊讶没有一个项目是基本的喷墨打印机，它默认配备开源驱动程序/固件、可再填充墨盒等。 打印机中是否存在专利或制造细节，使得新方很难复制它们？或者只是大多数打印机都是以亏本的价格出售的，并使用掠夺性策略来收回墨水成本，而一台结构合理的打印机必须花费太多，以至于没人会买它？ 当然，打印机每年都越来越不受欢迎，但我想仍然有一个比那些购买 Pinetime 智能手表的人更大的市场。    提交人    /u/Frequent_Computer388   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gkkgpj/one_thing_im_amazed_at_is_that_theres_no_open/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在寻找用于 SaaS 应用程序的开源产品导览工具。具体来说，我需要一些有效的入门欢迎导览和功能演示。 如果您有使用任何好工具的经验，我很乐意听取您的建议。此外，我是否应该牢记任何关键原则或最佳实践，以创造流畅、有用的用户体验？    提交人    /u/brbee07   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gjn6sp/recommendations_for_open_source_product_tour/</guid>
       <pubDate>Mon, 04 Nov 2024 19:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对小型开源项目的贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gjn4bw/looking_to_contribute_to_small_open_source/</link>
-      <description><![CDATA[嗨，我是一名工程师和编程迷，我现在有一些空闲时间，我想为 GitHub 上的一些开源项目（c/c++、java、python、Matlab、rust）做贡献，这些领域包括：深度学习/AI 工具、计算机视觉、计算机图形学、强化学习、机器人技术或任何相关主题，有任何建议或任何寻求免费为他们的项目做贡献的人（开发、测试、部署、代码审查、文档……）？    提交人    /u/Physical_Challenge51   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gjn4bw/looking_to_contribute_to_small_open_source/</guid>
-      <pubDate>Mon, 04 Nov 2024 19:38:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
