@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 15:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 18:02:27 GMT</lastBuildDate>
     <item>
       <title>艾锡</title>
       <link>https://www.producthunt.com/posts/latta-ai</link>
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/invofox-custom-documents</guid>
       <pubDate>Thu, 07 Nov 2024 10:32:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐片段</title>
-      <link>https://www.producthunt.com/posts/slice-of-music</link>
-      <description><![CDATA[
-适用于 Apple Vision Pro 的开源节拍剑类游戏
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/slice-of-music</guid>
-      <pubDate>Wed, 06 Nov 2024 18:16:24 GMT</pubDate>
     </item>
     <item>
       <title>光标的编辑器用法</title>
@@ -244,10 +230,24 @@ AI 驱动的健康洞察
       <pubDate>Sat, 19 Oct 2024 00:15:30 GMT</pubDate>
     </item>
     <item>
+      <title>CopilotKit（与 CoAgents 合作）</title>
+      <link>https://www.producthunt.com/posts/copilotkit-feat-coagents</link>
+      <description><![CDATA[
+将 AI Copilots 和 AI Agents 构建到任何 React 应用中 | 12k 颗星
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/copilotkit-feat-coagents</guid>
+      <pubDate>Fri, 18 Oct 2024 08:29:25 GMT</pubDate>
+    </item>
+    <item>
       <title>订购 Ping X</title>
       <link>https://www.producthunt.com/posts/order-ping-x</link>
       <description><![CDATA[
-适用于 macOs 的轻量级 WooCommerce 订单仪表板
+适用于 macOS 的轻量级 WooCommerce 订单仪表板
 
 
 讨论

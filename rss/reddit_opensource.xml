@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Nov 2024 15:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 18:02:21 GMT</lastBuildDate>
+    <item>
+      <title>一个通过视觉内容和文本进行索引的 meme 搜索引擎应用程序，因此您需要的 meme 始终触手可及。（v2 更新！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gmkyll/a_meme_search_engine_app_that_indexes_by_visual/</link>
+      <description><![CDATA[该应用是开源的，刚刚发布了新的专业版👉 https://github.com/neonwatty/meme_search 开源引擎根据模因的视觉内容和文本对其进行索引，使其易于搜索。将恢复的模因拖放到任何消息程序中。 新“专业版”推出的附加功能版本包括：  自动生成模因描述：针对特定模因自动生成描述（而不是应用于整个目录）。 手动模因描述编辑：手动编辑或添加描述以获得更好的搜索结果，如果不想等待自动生成，则无需等待。 标签：创建、编辑和分配标签给模因，以便更好地组织和搜索过滤。 更快的向量搜索：由 Postgres 和 pgvector 提供支持，通过简化的数据库事务享受更快的关键字和向量搜索。 关键字搜索：除了语义/向量搜索之外，Pro 还添加了传统的关键字搜索。 目录路径：跨多个子目录组织您的模因 - 无需将所有内容存储在一个文件夹中。 新组织工具：按标签过滤，目录路径和描述嵌入，以及在关键字和矢量搜索之间切换以获得更多控制。     提交人    /u/neonwatty   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gmkyll/a_meme_search_engine_app_that_indexes_by_visual/</guid>
+      <pubDate>Fri, 08 Nov 2024 15:20:37 GMT</pubDate>
+    </item>
     <item>
       <title>简单博客模板：Astro Minimal ☄️</title>
       <link>https://www.reddit.com/r/opensource/comments/1gmfmyk/simple_blog_template_astro_minimal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿！我打算开源一个我最近一直在研究的工具。这是一个使用自然语言与网站交互的框架。 browser.click(&quot;sign up button&quot;) 您无需查找元素的 css 选择器或 xpath，只需使用简单的提示描述元素即可检索它们。想象一下具有 LLM 功能的剧作家。除了检索元素之外，您还可以以所需的格式从网站中提取数据。使用提示、JsonSchema 或 Pydanctic BaseModel 指定格式，然后您就可以根据需要获取数据。 Github：https://github.com/dendrite-systems/dendrite-python-sdk 我还构建了一个 chrome 扩展，以便能够存储您自己浏览器中的会话，以便能够在具有身份验证的网站上使用该框架。 我对如何开源该软件包有一些考虑，我将不胜感激任何意见。由于该项目现在的结构是，有一个用 python 编写的服务器可以处理所有 HTML 解析和 LLM 逻辑，并且 python sdk 使用页面的 html 和屏幕截图向其发送请求。我原本打算将这两个组件合并为一个，但问题是构建 typescript 变体会很困难。也希望获得有关最佳实践和思考内容的提示！    提交人    /u/rivernotch   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gkzjfs/open_sourcing_a_framework_for_interacting_with/</guid>
       <pubDate>Wed, 06 Nov 2024 14:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoLink：为浏览器地址栏添加可预测的命令</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</link>
-      <description><![CDATA[      我的第一个开源 + 自托管项目。希望你们喜欢它！    由   提交  /u/PuzzleheadedCollar27   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</guid>
-      <pubDate>Wed, 06 Nov 2024 12:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
