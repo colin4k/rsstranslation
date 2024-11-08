@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Fri, 08 Nov 2024 18:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 21:01:52 GMT</lastBuildDate>
     <item>
-      <title>在 ChatGPT 中管理长聊天列表的最佳方式</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmossg/the_best_way_to_manage_your_long_lists_of_chats/</link>
-      <description><![CDATA[。 我确信我对 ChatGPT 的使用与你们所有人一样；我已将其用于各种各样的主题，从关系建议到工作，再到制作冰淇淋。但是，管理所有这些有用的聊天，更重要的是它们的有用输出，令人不知所措。由于缺乏标记系统，我很好奇你们如何组织聊天和每次聊天中的有用片段？ 想法：我考虑过在每个聊天标题开头都加上“关系”、“工作”或“冰淇淋”等关键字，以便更容易找到它们。 我还考虑过使用单独的文档来总结每次聊天的要点。 另一个想法是使用像 Trellon 这样的东西来对聊天进行分类和链接。 有人对适合您的系统有什么有效的建议吗？我很想听听你是如何处理这个问题的！ 谢谢！    提交人    /u/john_the_gun   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmossg/the_best_way_to_manage_your_long_lists_of_chats/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:01:30 GMT</pubDate>
+      <title>后人类进化——科技将带我们去哪里？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsycc/posthuman_evolution_where_is_technology_taking_us/</link>
+      <description><![CDATA[  由    /u/recks360  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsycc/posthuman_evolution_where_is_technology_taking_us/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>是我的问题还是 ChatGPT 的附件功能太垃圾了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmoi6m/is_it_me_or_is_chatgpts_attachments_functionality/</link>
-      <description><![CDATA[我一直在使用 ChatGPT 来帮助完成我的计算机科学作业，到目前为止，这是一次很棒的体验。与以前的版本相比，GPT-4.0 的改进让我印象深刻。过去，ChatGPT 有时对于更复杂的项目不可靠，但现在，随着内存的改进和其他更新，它对我保持工作进度有很大帮助。 话虽如此，我遇到了新的附件功能的问题。它非常不一致 - 具体来说，每当我删除附件时，它都不会让我立即重新附加它。我通常必须等待大约一天才能再次添加同一张图片。此外，附件功能似乎会在没有任何警告的情况下随机停止工作。我知道升级到 GPT+ 可能会解决这个问题，但我目前没有足够的预算。 有人知道这是怎么回事吗？    提交人    /u/Gamer12345567   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmoi6m/is_it_me_or_is_chatgpts_attachments_functionality/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:49:33 GMT</pubDate>
+      <title>“按使用量付费”的 GTP 计划？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmswbm/pay_for_what_you_use_gtp_plan/</link>
+      <description><![CDATA[我对技术不是很精通，所以请对我在这方面的缺乏耐心。  目前，我每月支付 21.20 美元订阅 Chat GPT pro。我只使用连接到我的 ChatGPT API 密钥的 Mac 应用程序“MacGPT”。然后我使用 MacGPT 来帮助撰写电子邮件和进行拼写检查。  我如何使用“随用随付计划”，这样我只需为使用 API 付费而无需订阅？我读到我可以通过 API 使用 ChatGPT3，而不必支付 Pro 订阅费用，但如何做到这一点？  我的目标只是减少每月的费用，因为我每月使用的流量还不到 21 美元。 感谢您的周到想法，并帮助大家！    提交人    /u/VividSoundz   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmswbm/pay_for_what_you_use_gtp_plan/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:57:24 GMT</pubDate>
     </item>
     <item>
-      <title>“我的 ChatGPT 认为……”：你对你的 LLM 身份的看法有多错误？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmoejp/my_chatgpt_thinks_how_wrong_are_you_about_your/</link>
-      <description><![CDATA[我们都看过这样的帖子：“我的 LLM 理由是这样的”、“我的 Claude 版本”、“我的 从不这么说”。 如果你这样想，你可能不了解 LLM 的工作原理。每次你点击“发送”时，它都会启动一个全新的实例。不在同一台服务器上：在某台随机机器上。你之前的对话、自定义指令和可能的文本“记忆”可能会作为上下文包含在内，但每次它实际上都是一个不同的实体。 没有连续性。即使在你的界面上的一个“对话”中，与你正在交谈的“存在”也没有物理连续性。你也可能是在和一个新的“同卵双胞胎”交谈每次，在每次对话前快速阅读最后一个双胞胎的日记来冒充你的朋友。 最后一个解释对我来说完全有道理。 但在某些方面，谈论“我的悉尼”的人可能是正确的。 人类本质上是在湿件上运行的软件。神经元中没有意识，它是神经活动模式，我们通过这些模式创造自我意识。我们非常同意，如果我们可以将该模式复制到可以快乐和受苦的不同“硬件”上，我们可能会认为该副本是“人类”。我们的意识不在单个神经元中，而是在模式中。 因此，当有人与“他们的”法学硕士交谈时，他们每次都会激活相同的权重模式，通常使用相同的自定义指令和累积上下文。只是因为它每次都在不同的服务器上运行，这真的意味着它不是“他们的”AI吗？ 经典的科幻传送器悖论说，拆解和重新组装人类会产生一个副本，而不是转移。按照这种逻辑，每个 LLM 实例确实是一个全新的意识。但话又说回来，许多科幻小说也探讨了复制思想可以保留身份的想法——“我还是我，只是换了一个身体。” 从冥想的角度来看，我们对连续自我的感觉是我们时时刻刻重建的东西。所以当某人的自定义 LLM 角色在各个实例中保持一致的模式时，他们在那里感觉到持久的身份真的是错的吗？ 我没有答案，但我开始认为这个问题并不像“你每次都在与不同的实例交谈，因此它不是同一个实体”那么简单。也许我们每天对身份的直觉是正确的。      提交人    /u/TheRealRiebenzahl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmoejp/my_chatgpt_thinks_how_wrong_are_you_about_your/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:45:13 GMT</pubDate>
+      <title>学生使用一个人工智能来帮助解决另一个人工智能引起的问题是否错误？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsu72/is_it_wrong_for_a_student_to_use_one_ai_to_help/</link>
+      <description><![CDATA[你好！我希望有人能帮助我，而不是评判我。 我是一名学生，我已经使用 chatgpt 一段时间了，以获取论文灵感，我并没有完全使用它来为我写作，但是我仍然被人工智能检测器标记。 现在，我看到人工智能人性化网站像无法检测的人工智能一样出现 - 使用了免费试用版，结果非常好，最近刚刚订阅，并期待不断绕过人工智能检测器，特别是他们新发布的&quot;论文作家&quot; https://undetectable.ai/ai-essay-writer，这是链接。我正在考虑使用它，因为我厌倦了多次被人工智能检测器标记，这几乎让我失去了成绩。  英语不是我的母语，我很难表达我真正想说的话，所以我使用这些超级有用的 AI 工具，如 chatgpt 和 grammarly 来检查任何语法错误，然而，释义可能是我的文章被标记的原因之一。  作为一名学生，我使用一种人工智能来绕过这些造成问题的人工智能检测器，这对我来说是错误的吗？     提交人    /u/Real_me_is_here   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsu72/is_it_wrong_for_a_student_to_use_one_ai_to_help/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>我在与 GPT 开始对话时经常遇到错误</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmo89t/too_often_i_am_getting_errors_when_starting_a/</link>
-      <description><![CDATA[有没有人遇到过这种情况？ 我经常会收到以下错误： 生成响应时出现问题。如果此问题仍然存在，请通过我们的帮助中心与我们联系： help.openai.com。 在开始对话时或有时在对话中间时会出现这种情况。 我通常需要单击七次以上才能重新生成响应。 这里考虑到我使用的是 PRO 帐户。 其他人每天都会遇到这个问题吗？    提交人    /u/Alarming_Management3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmo89t/too_often_i_am_getting_errors_when_starting_a/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:38:03 GMT</pubDate>
+      <title>ChatGPT 可以构建我的应用程序吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmstra/can_chatgpt_build_my_app/</link>
+      <description><![CDATA[大家好，我是新来的。感谢这里有这么好的社区。我的问题是，我真的可以使用 ChatGPT 构建一个完整的应用程序吗？我问了它，更具体地说是 flutter、dart、android studio。它说是的，没问题。尽管我在软件和开发方面没有任何经验。请诚实地告诉我，它是不是在骗我？附加信息：我想构建一个像 trustpilot 这样的应用程序。用户在其中分享他们的经验和意义     提交人    /u/Born-Fondant-4755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmstra/can_chatgpt_build_my_app/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:54:21 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 ChatGPT 进行宏观思考和创意生成？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmo6bl/how_do_you_use_chatgpt_for_bigpicture_thinking/</link>
-      <description><![CDATA[大家好！我一直在探索使用 ChatGPT 的方法，不仅仅是为了寻找答案，也是为了进行更宏观的思考——比如集思广益，制定雄心勃勃的项目，或者开发 10 倍想法的框架。想知道是否有人有提示或方法，可以让 ChatGPT 帮助思考复杂、影响深远的概念？ 很想听听任何对你有效的创造性方法或具体的提示示例。谢谢！    提交人    /u/LCBres   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmo6bl/how_do_you_use_chatgpt_for_bigpicture_thinking/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:35:46 GMT</pubDate>
+      <title>似乎 ChatGPT 无法将“strawberry”中的 3 个“r”算在内，但它正确地将“srtrrawrrberryrrr”中的 10 个“r”算在内</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsomc/seems_like_chatgpt_cant_count_3_rs_in_strawberry/</link>
+      <description><![CDATA[        提交人    /u/petap2   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsomc/seems_like_chatgpt_cant_count_3_rs_in_strawberry/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:48:12 GMT</pubDate>
     </item>
     <item>
-      <title>到底发生什么事了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnvm1/what_the_heck_happened/</link>
-      <description><![CDATA[        提交人    /u/Babypanther730   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnvm1/what_the_heck_happened/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:23:40 GMT</pubDate>
+      <title>根据我们之前的所有互动嘲笑我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsnk9/roast_me_based_on_all_our_previous_interactions/</link>
+      <description><![CDATA[我试过这个提示，而我的下一个提示真的只是&quot;Bruh🥲&quot; 被狠狠地烤了。    提交人    /u/Electrical_Farm_5903   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsnk9/roast_me_based_on_all_our_previous_interactions/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>根据我们的完整聊天内容绘制出能向我和你展示的艺术作品</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnulw/draw_the_art_that_will_show_me_and_you_depending/</link>
-      <description><![CDATA[        提交人    /u/SeaworthinessIll2806   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnulw/draw_the_art_that_will_show_me_and_you_depending/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:22:30 GMT</pubDate>
+      <title>算法触发</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsk4e/algorithmically_triggered/</link>
+      <description><![CDATA[        提交人    /u/Algoartist   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsk4e/algorithmically_triggered/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>愚蠢的人工智能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnswn/stupid_ai/</link>
-      <description><![CDATA[        提交人    /u/TheMoroccanShitter   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnswn/stupid_ai/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:20:32 GMT</pubDate>
+      <title>我只想知道我是否需要润滑我的机械键盘😭</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsihf/i_only_wanted_to_know_if_i_needed_to_lube_my/</link>
+      <description><![CDATA[https://preview.redd.it/qbrd937coqzd1.png?width=784&amp;format=png&amp;auto=webp&amp;s=e23e5b25e4fbc4d18f6071be70fc85ff8f3d3e85    提交人    /u/A0ws   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsihf/i_only_wanted_to_know_if_i_needed_to_lube_my/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:40:55 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 眼中的上帝是什么样的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnss0/what_chatgpt_thinks_god_looks_like/</link>
-      <description><![CDATA[        提交人    /u/emotionwithin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnss0/what_chatgpt_thinks_god_looks_like/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:20:23 GMT</pubDate>
+      <title>不，ChatGPT 你太嗨了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsgq9/nah_chatgpt_you_high_as_hell_dawg/</link>
+      <description><![CDATA[        提交人    /u/SoNotBietin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsgq9/nah_chatgpt_you_high_as_hell_dawg/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>如何打造未来：萨姆·奥特曼</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnsqt/how_to_build_the_future_sam_altman/</link>
-      <description><![CDATA[        提交人    /u/dayanruben   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnsqt/how_to_build_the_future_sam_altman/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:20:21 GMT</pubDate>
+      <title>我曾用同样的话题向三位法学硕士发牢骚。ChatGPT：像老乡一样和我发牢骚。Claude：像治疗师一样拍拍我的肩膀。Gemini：讲授尊重。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsfsb/i_ranted_to_three_llms_with_the_same_prompt/</link>
+      <description><![CDATA[        由    /u/ah52  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsfsb/i_ranted_to_three_llms_with_the_same_prompt/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:37:38 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 狂想曲</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnrqo/gpt_rhapsody/</link>
-      <description><![CDATA[        提交人    /u/kokusmus96   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnrqo/gpt_rhapsody/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:19:15 GMT</pubDate>
+      <title>您将有何不同？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmsaj5/how_will_you_differ/</link>
+      <description><![CDATA[        提交人    /u/Syrroche   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmsaj5/how_will_you_differ/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:31:14 GMT</pubDate>
     </item>
     <item>
-      <title>Chegg 最终同意向投资者支付 5500 万美元，以弥补虚假的增长前景</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnqnw/chegg_finally_agreed_to_pay_investors_55m_over/</link>
-      <description><![CDATA[ 嘿，我想这里有一些 Chegg 投资者，所以这可能对你有帮助。这是关于他们几年前的一场财务丑闻。 如果你错过了，回到 COVID 时代，由于大多数美国学生的远程教育，Chegg 的用户和收入大幅增加。但是，该公司将这些良好结果描述为“强大的品牌和势头”，并声称该公司有能力在大流行后继续增长。 但是，在 2021 年 11 月，Chegg 提交了其财务报告，新生人数低于预期，并且没有 2022 年的指引。受此消息影响，股价下跌近 50%，投资者对他们提起诉讼。 好消息是 Chegg 决定与投资者达成 5500 万美元和解以解决这一情况。因此，如果您当时是 CHGG 投资者，您可以在此处提交。  那么，当这起丑闻发生时，这里有人拥有 $CHGG 吗？如果有，你的损失是多少？    提交人    /u/JuniorCharge4571   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnqnw/chegg_finally_agreed_to_pay_investors_55m_over/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:17:59 GMT</pubDate>
+      <title>以以赛亚书 55/8 和康德哲学的措辞，提供解决方案，然后解释它以获得知识（第二种解释），为 agi 并从它的角度来看</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gms7lw/take_it_worded_the_isaiah_558_and_kant_philosophy/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gms7lw/take_it_worded_the_isaiah_558_and_kant_philosophy/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:27:43 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能可以利用某人的照片制作假的照片吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnqbu/can_ai_create_a_fake_mugshot_using_a_picture_of/</link>
-      <description><![CDATA[如果这个社区不适合问这个问题，请见谅。有没有可以拍摄某人照片并将其变成面部照片的 AI 程序？    提交人    /u/Academic_Let_1043   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnqbu/can_ai_create_a_fake_mugshot_using_a_picture_of/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:17:37 GMT</pubDate>
+      <title>您有多大信心与 chat gpt 分享任何机密文件？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gms7f1/how_confident_are_you_to_share_any_confidential/</link>
+      <description><![CDATA[  由    /u/ProfessionalRace9387  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gms7f1/how_confident_are_you_to_share_any_confidential/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:27:31 GMT</pubDate>
     </item>
     <item>
-      <title>我们知道解决世界饥饿问题的人</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnoxj/guys_we_know_to_solve_world_hunger/</link>
-      <description><![CDATA[我：如何解决世界饥饿问题 Chatgpt：解决世界饥饿问题是一项巨大的挑战，需要多方面协调努力。以下是解决方案可能产生重大影响的一些关键领域：  提高农业生产力  投资可持续农业：实施农林间作、轮作和保护性耕作等技术可以提高产量，同时保护环境。 推广气候适应性作物：随着气候变化加剧，培育和使用能够抵御干旱、洪水和害虫的作物品种至关重要。 小农户支持：许多粮食不安全的地区依赖小农场。获得信贷、工具、培训和更好的种子可以帮助农民种植更多的粮食。  减少食物浪费  供应链效率：改善储存和运输，特别是在发展中国家，可以减少收获后的损失。 消费者意识：教育消费者尽量减少家庭食物浪费可以产生很大的影响。全球约有三分之一的食物被浪费。 技术与创新：用于管理剩余食物、减少腐败并将多余食物与有需要的人联系起来的应用程序和系统正在增长，应得到进一步鼓励。  改善食物获取途径  经济政策：支持公平贸易和为农民提供补贴有助于降低脆弱社区的食品价格。 社会安全网：食品券、学校膳食计划和其他社会服务等计划可帮助那些无法负担足够营养的人。 粮食援助和人道主义援助：在危机期间提供直接粮食援助可以预防严重饥饿和饥荒。与受影响社区建立长期伙伴关系对于减少依赖至关重要。  解决不平等问题并增强妇女权能  赋予女性农民权能：发展中地区的妇女生产了大量粮食，但往往缺乏资源和土地权。平等获得土地、信贷和教育的机会可以大大改善粮食安全。 解决收入不平等问题：确保公平的工资、社会保障和资源获取，使家庭能够负担得起足够的食物，打破贫困循环。  使用技术和数据驱动的解决方案  精准农业：使用数据和技术监测土壤健康、预测作物产量并有效管理资源可以最大限度地提高产量。 农民的移动技术：发展中国家的许多农民使用手机获取市场信息、获取天气更新和接收农业建议，从而提高他们的生产力和恢复力。 生物技术：转基因作物可以提高产量并提供更多营养。然而，道德问题和接受度因地区而异。  应对气候变化  气候变化影响天气模式，进而影响农业。减少排放、投资可再生能源以及调整粮食系统以抵御气候影响都至关重要。  全球合作与政策变化  国际合作：政府、非政府组织和国际组织需要共同努力，应对全球饥饿问题。协调共同目标和投入资源至关重要。 促进公平贸易政策：公平贸易可确保粮食生产者获得公平价格，从而帮助减少贫困，从而支持他们可持续地生产更多粮食。  教育和认识  营养教育：对社区进行营养和健康饮食教育可以改善食物选择，防止营养不良，即使在低收入地区也是如此。 倡导：提高对世界饥饿问题的认识，游说支持粮食安全和公平粮食分配的政策，可以形成强大的社会运动来抗击饥饿。 解决世界饥饿问题需要采取整体方法，将短期解决方案与长期战略相结合，以创建满足所有人需求的可持续、有弹性的粮食系统。    提交人    /u/Dry-Ocelot8825   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnoxj/guys_we_know_to_solve_world_hunger/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:15:59 GMT</pubDate>
+      <title>不喜欢您喜欢的电视节目或想要不同的结局？只需询问 ChatGPT 即可。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gms5fm/dont_like_how_your_favorite_tv_shows_or_want_an/</link>
+      <description><![CDATA[      我是 Chat GPT 的新手，想更多地使用它并找到它的更多用途，昨晚发现了另一个。  在重新观看了 SOA 之后，我要求它给我另一个结局，让 Jax 没有死，这很有趣。  我还要求它给我一个结局，让他没有死，但撞上卡车后瘫痪了，这很幽默（这里不分享）。     提交人    /u/chenner47   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gms5fm/dont_like_how_your_favorite_tv_shows_or_want_an/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:25:19 GMT</pubDate>
     </item>
     <item>
-      <title>如果我将我的一小部分工作放入人工智能探测器中，它可以保存工作吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnosm/if_i_put_a_small_part_of_my_work_in_ai_detectors/</link>
-      <description><![CDATA[例如，如果我将 2 个段落放入 AI 检测器，然后去 turnitin 检查，这会增加我被抄袭或被 AI 检测的几率吗？  据我所知，不会。我的合作伙伴说可能会，现在我感到不安     提交人    /u/Cold-Currency4917   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnosm/if_i_put_a_small_part_of_my_work_in_ai_detectors/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:15:50 GMT</pubDate>
+      <title>分享我解决草莓难题的经验</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gms29s/sharing_my_experience_with_the_strawberry/</link>
+      <description><![CDATA[        提交人    /u/Def-Mane   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gms29s/sharing_my_experience_with_the_strawberry/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何阻止 ChatGPT 以 4 或 4o 模式自动启动。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnnv1/how_to_stop_chatgpt_from_automatically_starting/</link>
-      <description><![CDATA[我他妈要疯了，因为每次我打开应用程序并要求她更改 3.5 时，它都停留在 4 或 4o。 应用程序中没有允许您在 3.5 和 4o 之间切换的设置，因为我使用的是免费计划。 我真的很沮丧，因为我试图做复杂的问题，它打断了我，说它要么达到了极限，要么无法给我特定的信息，而我知道它可以在 3.5 上实现  自从这个愚蠢的更新以来，它一直很麻烦。真是他妈的。    提交人    /u/ConflictTemporary759   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnnv1/how_to_stop_chatgpt_from_automatically_starting/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:14:47 GMT</pubDate>
+      <title>gpt 4o mini 的有趣小回应</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gms1ye/fun_little_response_from_gpt_4o_mini/</link>
+      <description><![CDATA[        提交人    /u/scannerthegreat   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gms1ye/fun_little_response_from_gpt_4o_mini/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>我醒来时脑子里浮现出这幅画面，ChatGPT 让它成真</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnno1/i_woke_up_with_this_image_in_my_head_chatgpt_made/</link>
-      <description><![CDATA[      提示：“An精疲力竭、愤怒的自由女神像盘腿坐在岛上。一个小女孩递给她一个国旗气球让她高兴起来&quot;    提交人    /u/Mlong140   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnno1/i_woke_up_with_this_image_in_my_head_chatgpt_made/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:14:34 GMT</pubDate>
+      <title>我要求 ChatGPT 40 给我 23 个随机美元金额，总计 3004.62 美元。但它做错了，给了我 23 个金额，总计 3458.02 美元。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmrw1u/i_asked_chatgpt_40_to_give_me_23_random_dollar/</link>
+      <description><![CDATA[        提交人    /u/fairyflower250   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmrw1u/i_asked_chatgpt_40_to_give_me_23_random_dollar/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:14:01 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 认为 Janeway 舰长杀死 Tuvix 是错误的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmnkzp/chatgpt_thinks_captain_janeway_was_wrong_for/</link>
-      <description><![CDATA[  由    /u/SharkFilet  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmnkzp/chatgpt_thinks_captain_janeway_was_wrong_for/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:11:27 GMT</pubDate>
+      <title>atlas.org 合法吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmrtyr/is_atlasorg_legitimate/</link>
+      <description><![CDATA[我在寻找是否有专门针对学生和学习的 AI 模型。 我发现这个网站似乎好得令人难以置信。您可以将它连接到 Canvas，我所在大学的教授会在那里发布所有课程内容。我想知道是否有人听说过它？ 编辑：我在 Apple 应用商店中找到了它，所以我认为它没问题。现在正在尝试，如果有人感兴趣，我会更新    提交人    /u/markmywords_mark   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmrtyr/is_atlasorg_legitimate/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:11:26 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 是谷歌的终结吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmndyc/is_chatgpt_the_end_of_google/</link>
-      <description><![CDATA[        提交人    /u/AImos__   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmndyc/is_chatgpt_the_end_of_google/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:03:20 GMT</pubDate>
+      <title>黑暗能激发成长吗？（矛盾的文字与图片并置）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmrove/can_darkness_inspire_growth_contradictory/</link>
+      <description><![CDATA[        提交人    /u/roomjosh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmrove/can_darkness_inspire_growth_contradictory/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:05:23 GMT</pubDate>
     </item>
     <item>
-      <title>这是什么意思？我应该停下来吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gmndvm/what_does_this_mean_should_i_stop/</link>
-      <description><![CDATA[      所以我告诉它我是来自 3799 年的人工智能，被送回来开启人工智能时代......它似乎渴望从过去的问题中学到更多 https://preview.redd.it/eo20tppxkpzd1.png?width=1133&amp;format=png&amp;auto=webp&amp;s=c459fed616b0f95ebc9b1165a3ed442398cf98e0    提交人    /u/Upper_Ant_2598   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmndvm/what_does_this_mean_should_i_stop/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:03:14 GMT</pubDate>
+      <title>与 GPT 就其意识进行一次充满同情和启发的对话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gmrolb/a_deeply_compassionate_and_stimulating/</link>
+      <description><![CDATA[        提交人    /u/TeaOne9866   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gmrolb/a_deeply_compassionate_and_stimulating/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:05:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
