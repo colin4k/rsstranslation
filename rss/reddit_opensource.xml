@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Nov 2024 18:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 21:02:02 GMT</lastBuildDate>
+    <item>
+      <title>SMTP 基本身份验证问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnjrah/smtp_basic_authentication_problems/</link>
+      <description><![CDATA[嗨，开源人士， 我正在考虑为一个开源项目做贡献，该项目目前仅支持 smtp 的基本身份验证，这会导致问题，因为它不再受各种提供商的支持。 我正在考虑解决这个问题，我能找到的就是实现 OAuth 支持。 这个问题是用户可能没有知识、经验或访问权限来设置应用程序注册以创建客户端 ID。 开源项目做了什么来允许用户发送电子邮件而无需做任何主要技术工作？ 非常感谢 丹    提交人    /u/Motor_Style2408   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnjrah/smtp_basic_authentication_problems/</guid>
+      <pubDate>Sat, 09 Nov 2024 20:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>干净、简约、美观的开放项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnjp93/clean_minimal_and_aesthetically_pleasing_open/</link>
+      <description><![CDATA[我最近购买了一台专用服务器，并设置了很多我在这里或 r/selfhosted 上找到的随机应用程序。 我想设置一些可以帮助我日常生活的工具（我是一名程序员）或者只是让生活变得更轻松一点 :)。干净/美观的设计是我想要设置的工具的重要组成部分，因为我会经常查看这些工具，而且我只想要一些看起来不错的东西。 我已经设置了以下工具以及一些个人应用程序： - Dozzle：https://github.com/amir20/dozzle（可能会用 dockge 替换） - Glance：https://github.com/glanceapp/glance - 文件浏览器：https://github.com/hurlenko/filebrowser-docker - Wireguard Easy：https://github.com/wg-easy/wg-easy - Adguard Home 或 Pihole （仍在决定） - Authentik：https://github.com/goauthentik/authentik - Stirling PDF：https://github.com/Stirling-Tools/Stirling-PDF - It-tools：https://github.com/CorentinTh/it-tools - Lunalytics：https://github.com/KSJaay/Lunalytics （个人 uptime-kuma 替代方案） 还有什么您一直在使用并推荐的东西吗？    提交人    /u/KSJaay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnjp93/clean_minimal_and_aesthetically_pleasing_open/</guid>
+      <pubDate>Sat, 09 Nov 2024 20:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>openboard Android 键盘有哪些替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gniut8/what_are_the_alternatives_to_openboard_android/</link>
+      <description><![CDATA[我使用过一段时间的 Android 版 Openboard 键盘。https://Github.Com/Openboard-team/Openboard 它运行良好，但有一些小故障，已经 2 年没有更新了。我也检查了它的分支，但没有发现更好的。因此，我正在寻找替代方案。这些是我正在寻找的功能： - FOSS。 - 多语言。 - 预测文本。 - 个人词典。 - 表情符号。    提交人    /u/abentofreire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gniut8/what_are_the_alternatives_to_openboard_android/</guid>
+      <pubDate>Sat, 09 Nov 2024 20:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个开源预算软件供我的家庭使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnhbhy/i_need_an_opensource_budgeting_software_for_my/</link>
+      <description><![CDATA[我尝试了 archlinux 存储库中的一些软件包 - kmymoney、gnucash 和 homebank。但它们都不是我所寻找的：  它需要易于使用。它不应该包含复杂、难以理解的内容，因为不仅我会使用它，我的妻子也会使用它。我不想用命令行、双重会计思想、交易对手概念和分离信用卡和借记卡来折磨她，我只想把支出和未来费用放在那里。 它应该包含未来支出和计划。例如，我想买一张新显卡，而我的妻子想买一架电子钢琴。我想在程序中保留这些条目，因为它们与一件事有关：钱。 尽管现在我们可以使用 Syncthing 或类似程序同步文件，但最好是在线同步。因为我使用 Linux，而我的妻子使用 Windows，所以最好找一些在线的、可同步的和多平台的程序。  基本上就是这样。我只希望该程序能够跟踪成本分摊、一些愿望或其他东西。好吧，还有一份关于花钱情况的良好报告。所以在线电子表格很可能不适合我。你知道任何这样的程序吗？    提交人    /u/hurleymjohnston   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnhbhy/i_need_an_opensource_budgeting_software_for_my/</guid>
+      <pubDate>Sat, 09 Nov 2024 19:04:49 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个开源的 Strava 统计网页应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1gnfrpy/i_created_an_opensource_strava_statistics_web_app/</link>
@@ -85,7 +113,7 @@
     <item>
       <title>一个通过视觉内容和文本进行索引的 meme 搜索引擎应用程序，因此您需要的 meme 始终触手可及。（v2 更新！）</title>
       <link>https://www.reddit.com/r/opensource/comments/1gmkyll/a_meme_search_engine_app_that_indexes_by_visual/</link>
-      <description><![CDATA[该应用是开源的，刚刚发布了新的专业版👉 https://github.com/neonwatty/meme_search 开源引擎根据模因的视觉内容和文本对其进行索引，使其易于搜索。将恢复的模因拖放到任何消息程序中。 新“专业版”推出的附加功能版本包括：  自动生成模因描述：针对特定模因自动生成描述（而不是应用于整个目录）。 手动模因描述编辑：手动编辑或添加描述以获得更好的搜索结果，如果不想等待自动生成，则无需等待。 标签：创建、编辑和分配标签给模因，以便更好地组织和搜索过滤。 更快的向量搜索：由 Postgres 和 pgvector 提供支持，通过简化的数据库事务享受更快的关键字和向量搜索。 关键字搜索：除了语义/向量搜索之外，Pro 还添加了传统的关键字搜索。 目录路径：跨多个子目录组织您的模因 - 无需将所有内容存储在一个文件夹中。 新组织工具：按标签过滤，目录路径和描述嵌入，以及在关键字和矢量搜索之间切换以获得更多控制。     提交人    /u/neonwatty   [链接] [评论]]]></description>
+      <description><![CDATA[该应用是开源的，刚刚发布了新的专业版👉 https://github.com/neonwatty/meme_search 开源引擎根据模因的视觉内容和文本对其进行索引，使其易于搜索。将恢复的模因拖放到任何消息程序中。 新“专业版”推出的附加功能版本包括：  自动生成模因描述：针对特定模因进行自动描述生成（而不是应用于整个目录）。 手动模因描述编辑：手动编辑或添加描述以获得更好的搜索结果，如果不想等待自动生成，则无需等待。 标签：创建、编辑和分配标签给模因，以便更好地组织和搜索过滤。 更快的向量搜索：由 Postgres 和 pgvector 提供支持，通过简化的数据库事务享受更快的关键字和向量搜索。 关键字搜索：除了语义/向量搜索之外，Pro 还添加了传统的关键字搜索。 目录路径：跨多个子目录组织您的模因 - 无需将所有内容存储在一个文件夹中。 新组织工具：按标签过滤，目录路径和描述嵌入，以及在关键字和矢量搜索之间切换以获得更多控制。     提交人    /u/neonwatty   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gmkyll/a_meme_search_engine_app_that_indexes_by_visual/</guid>
       <pubDate>Fri, 08 Nov 2024 15:20:37 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[为我们的开源项目创建一个新的入门指南，想知道您是否有任何您认为非常出色的示例。我真的想确保人们从无到有拥有很棒的体验。我仔细阅读了很多，绝对可以创建一个“足够好”的指南，但我想尽可能做到最好。    提交人    /u/Visual_Bluejay9781   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glt7cw/do_you_have_great_examples_of_getting_started/</guid>
       <pubDate>Thu, 07 Nov 2024 15:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为搜索引擎创建了一个公共域数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</link>
-      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译而来。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</guid>
-      <pubDate>Thu, 07 Nov 2024 15:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>向欧洲议会提交的“关于在所有欧盟国家的公共行政部门实施欧盟 Linux 操作系统”的请愿书</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glo8tv/petition_at_the_european_parliament_on_the/</link>
-      <description><![CDATA[  由    /u/sfermigier  提交  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glo8tv/petition_at_the_european_parliament_on_the/</guid>
-      <pubDate>Thu, 07 Nov 2024 11:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢但又被低估的开源库是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glo61h/whats_your_favourite_yet_underrated_open_source/</link>
-      <description><![CDATA[我正在尝试检查一些新的开源库，我很乐意听到您的意见！    由   提交  /u/Arindam_200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glo61h/whats_your_favourite_yet_underrated_open_source/</guid>
-      <pubDate>Thu, 07 Nov 2024 11:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>初级 UI/UX 设计师正在寻找开源贡献机会 🌟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glnwzx/beginner_uiux_designer_looking_for_opensource/</link>
-      <description><![CDATA[我是一名初级 UI/UX 设计师，渴望获得实践经验并为开源项目做出贡献。我希望提高自己的技能，与经验丰富的设计师和开发人员合作，并通过有意义的设计工作回馈社区。😊    提交人    /u/Low_Tale5740   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glnwzx/beginner_uiux_designer_looking_for_opensource/</guid>
-      <pubDate>Thu, 07 Nov 2024 11:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
