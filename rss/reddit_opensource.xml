@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Nov 2024 15:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 18:02:15 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个开源的 Strava 统计网页应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnfrpy/i_created_an_opensource_strava_statistics_web_app/</link>
+      <description><![CDATA[我是免费的 Stava 用户，我不喜欢 Strava 为免费用户提供的统计数据。这就是我决定创建自己的统计应用程序的原因。目前有 2 个版本可用：  Markdown 版本，可托管在（免费）GitHub 存储库上：https://github.com/robiningelbrecht/strava-activities 通过静态页面提供的 HTML 版本。我通过 Vercel 免费托管它们：https://strava-statistics.robiningelbrecht.be/  已启动的模板和自述文件：https://github.com/robiningelbrecht/strava-activities-template 我目前正在考虑创建一个 docker 映像，以便能够轻松地在任何地方进行自我托管。    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnfrpy/i_created_an_opensource_strava_statistics_web_app/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源软件包的安全性和可靠性有问题？让我们谈谈解决方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnfrlg/struggling_with_opensource_package_security_and/</link>
+      <description><![CDATA[还有谁觉得很难跟上开源软件包的安全性？我们的项目中有如此多的依赖项，确保它们的安全并得到良好维护就像一份全职工作。一个有风险的软件包或一个未维护的库很容易变成一个漏洞，而且很难独自发现所有问题。 最近，我听说过 Dependabot 和 Snyk 之类的工具，我偶然发现了一种名为 HealthyPackage.ai 的东西，它显然可以提供软件包的健康状况洞察。有没有人用过它或发现它有助于快速了解软件包的可靠性？很想知道什么对你有用！    提交人    /u/Mountain-Insect-2153   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnfrlg/struggling_with_opensource_package_security_and/</guid>
+      <pubDate>Sat, 09 Nov 2024 17:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款像 Strava 一样优秀的 OS 跑步应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gned87/looking_for_a_good_os_running_app_like_strava/</link>
+      <description><![CDATA[有没有什么好的操作系统？想做一个更好的 Strava 版本。    由    /u/santiagotheboy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gned87/looking_for_a_good_os_running_app_like_strava/</guid>
+      <pubDate>Sat, 09 Nov 2024 16:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源音乐应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gncmv9/opensource_music_apps/</link>
+      <description><![CDATA[嗨，实际的 Deezer、Spotify 和 YouTube 音乐开源版本应用程序在哪里？    由    /u/Edentenza  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gncmv9/opensource_music_apps/</guid>
+      <pubDate>Sat, 09 Nov 2024 15:33:41 GMT</pubDate>
+    </item>
     <item>
       <title>最近开源领域有哪些好消息？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我是一名初级 UI/UX 设计师，渴望获得实践经验并为开源项目做出贡献。我希望提高自己的技能，与经验丰富的设计师和开发人员合作，并通过有意义的设计工作回馈社区。😊    提交人    /u/Low_Tale5740   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glnwzx/beginner_uiux_designer_looking_for_opensource/</guid>
       <pubDate>Thu, 07 Nov 2024 11:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您的文档、网站、项目等提供开源插图。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glnque/open_source_illustrations_for_your_docs_website/</link>
-      <description><![CDATA[嘿， 我刚刚发布了我几年前在电脑上的插图。 我确实使用最新的Bootstrap在Jekyll中构建了所有内容，源代码、预览和网站可在此处获得：https://illustrations.saas-ui.dev 也许有人会发现它对文档或技术网站有用。免费。 谢谢， Tomasz    提交人    /u/owczar1981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glnque/open_source_illustrations_for_your_docs_website/</guid>
-      <pubDate>Thu, 07 Nov 2024 10:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis 简报：“开源许可已被破坏。我们该如何修复它？”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glmof5/redis_newsletter_open_source_licensing_is_broken/</link>
-      <description><![CDATA[Redis 在分叉后如此绝望： “开源许可是否需要修复？维护开源软件的开发者和公司如何保护自己免受大型科技公司的侵害？这些公司通过转售他们的软件赚取数百万美元，却没有为社区做出太多贡献？ 我们的首席执行官 Rowan Trollope 受邀参加 TechCrunch Disrupt 的小组讨论，与 Docker 首席执行官 Scott Johnston 和 Accel Ventures 合伙人 Casey Aylward 一起讨论这些问题及其他问题。以下是他所说的话：“如果一家公司正在考虑开源，那么他们在某个时候就会遇到麻烦——那时你想将你的产品货币化并保护它免受具有压倒性优势的垄断竞争对手的侵害，如谷歌、亚马逊等。在某个时候，你会意识到这种商业模式已经崩溃，因为其他人可以拿走你的代码并发布它。” Trollope 接着说，大型科技公司能够“大规模地欺骗整个行业”它如何使用开源软件——因为官方对什么是开源、什么不是开源的定义在制定时并没有考虑到超大规模时代的挑战。 观看整个小组的有趣讨论，了解如何解决开源软件维护者面临的问题，以及围绕开源建立业务的初创公司应该做哪些准备。&quot;    提交人    /u/EyedApproximation   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glmof5/redis_newsletter_open_source_licensing_is_broken/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:32:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>最喜欢的 FOSS CRM 软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glks05/favorite_foss_crm_software/</link>
-      <description><![CDATA[您更喜欢哪款 FOSS CRM 软件？为什么它是您的最爱？您的想法是什么？提前致谢    提交人    /u/CryptoNiight   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glks05/favorite_foss_crm_software/</guid>
-      <pubDate>Thu, 07 Nov 2024 07:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些许可证 + 如何为利基项目捐赠/赞助？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</link>
-      <description><![CDATA[我在美国。除了我的正常工作之外，我还拥有一家有限责任公司，我在那里从事各种技术工作以赚取一些外快。 我有一个面向小众受众的新项目想法。我想将这个项目作为开源项目提供 - 如果有人最终感兴趣，我希望他们能够贡献想法，并且我想免费向其他人提供这个项目。同时，如果有人欣赏这个项目，我希望能够接受捐赠。 我知道如何将赞助商添加到 GitHub。我还考虑在应用程序本身中添加一个捐赠选项。但如果有人分叉了这个项目然后将该捐赠链接换成他们自己的链接，那会感觉非常奇怪。我想邀请大家捐款，但如果我要投入精力，我也想保护自己的作品。 我读完了 https://choosealicense.com/licenses/，并考虑使用 GNU LGPLv3，因为它似乎是折中方案中最严格的，但我不确定它是否能达到目标。 我还想知道要使用什么赞助平台 - 如果有人确实汇款，我最终希望将其与我的商业银行账户绑定。我听说过 Buy me a Coffee、Kofi，每个人都知道 PayPal 和 Patreon，但我从未以这种方式使用过它们中的任何一个。 你在这方面有什么经验，你认为哪种许可证有意义？有没有一个最好的赞助平台？我应该设置几个吗？ （希望他们没有收取高额费用...）    提交人    /u/HelloWorldYourFace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</guid>
-      <pubDate>Thu, 07 Nov 2024 03:16:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
