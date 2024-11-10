@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 10 Nov 2024 00:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 03:06:24 GMT</lastBuildDate>
+    <item>
+      <title>允许在人工智能的帮助下搜索网络的软件列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnq4wy/list_of_software_that_allows_searching_the_web/</link>
+      <description><![CDATA[开始在这里列出我所知道的所有 AI 驱动的网络搜索软件。 除了对寻找现有软件替代品的用户有用之外，拥有时间线还有助于了解该领域的发展情况。 请加入努力，添加您知道的任何其他软件。您可以通过编辑自述文件、打开问题或直接在此帖子上发表评论来实现。    提交人    /u/Felladrin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnq4wy/list_of_software_that_allows_searching_the_web/</guid>
+      <pubDate>Sun, 10 Nov 2024 02:10:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天我第一次认真地致力于一个开源项目，但最终只为两个项目做出了贡献！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gno2a0/did_my_first_serious_commit_to_an_open_source/</link>
+      <description><![CDATA[我之前贡献过一些小东西，比如添加问题和修复小拼写错误，但我决定将我最喜欢的开源应用程序同步到 Android 的 Health Connect 系统中。这在几个问题中都有要求，但还没有人来得及做。 结果发现，由于该应用程序是用 Cordova 编写的，因此需要一个兼容层插件，将 JavaScript 函数转换为 API 可以理解的 Java 调用。我看到有一个，但我真正需要的功能未经测试就被合并了，而且严重损坏了，所以现在除了为我最喜欢的应用程序做贡献外，我还为另一个插件贡献了 Java，这是一种我从未使用过的语言！经过几个小时的研究，了解其他 API 调用的工作原理、阅读文档并反复试验（如此多的反复试验），我让 API 100% 正常工作，并最终为该项目提交了 PR，修复后立即被接受！ 然后，我可以为想要添加支持的应用开发 WIP PR，导入插件，初始化 Health Connect API，进行一些测试调用等。期待完成功能并获得批准和合并！    提交人    /u/Frequent_Computer388   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gno2a0/did_my_first_serious_commit_to_an_open_source/</guid>
+      <pubDate>Sun, 10 Nov 2024 00:21:18 GMT</pubDate>
+    </item>
     <item>
       <title>需要我可以测试并编写自动化测试的开源项目。</title>
       <link>https://www.reddit.com/r/opensource/comments/1gnncgf/need_open_source_projects_that_i_can_test_and/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[该应用是开源的，刚刚发布了新的专业版👉 https://github.com/neonwatty/meme_search 开源引擎根据模因的视觉内容和文本对其进行索引，使其易于搜索。将恢复的模因拖放到任何消息程序中。 新“专业版”推出的附加功能版本包括：  自动生成模因描述：针对特定模因自动生成描述（而不是应用于整个目录）。 手动模因描述编辑：手动编辑或添加描述以获得更好的搜索结果，如果不想等待自动生成，则无需等待。 标签：创建、编辑和分配标签给模因，以便更好地组织和搜索过滤。 更快的向量搜索：由 Postgres 和 pgvector 提供支持，通过简化的数据库事务享受更快的关键字和向量搜索。 关键字搜索：除了语义/向量搜索之外，Pro 还添加了传统的关键字搜索。 目录路径：跨多个子目录组织您的模因 - 无需将所有内容存储在一个文件夹中。 新组织工具：按标签过滤，目录路径和描述嵌入，以及在关键字和矢量搜索之间切换以获得更多控制。     提交人    /u/neonwatty   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gmkyll/a_meme_search_engine_app_that_indexes_by_visual/</guid>
       <pubDate>Fri, 08 Nov 2024 15:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单博客模板：Astro Minimal ☄️</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gmfmyk/simple_blog_template_astro_minimal/</link>
-      <description><![CDATA[大家好✌🏻 我想向你们介绍我的开源项目：它的名字是Astro Minimal☄️ 它是什么？ Astro Minimal 是一个简单、轻量、SEO 友好且开源的博客模板，使用 Astro 和 Bulma CSS 制作。 Astro 是一个针对构建快速、内容驱动的网站而优化的 JavaScript 网络框架，而 Bulma 是一个基于 flexbox 且没有 JavaScript 依赖项的开源 CSS 框架！ 在项目内部，全文搜索与另一个开源项目 Orama 集成。 如果您想要给我反馈🗣️ GitHub：https://github.com/DomeT99/astro-minimal    提交人    /u/Toofast4carramba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gmfmyk/simple_blog_template_astro_minimal/</guid>
-      <pubDate>Fri, 08 Nov 2024 10:38:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源预测软件助力更好的决策</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glw6hx/opensource_forecasting_software_for_better/</link>
-      <description><![CDATA[嘿 r/opensource :) 我想向您介绍我们的免费开源预测软件 SocialPredict： https://github.com/openpredictionmarkets/socialpredict 我们帮助个人和组织做出更明智的决策。当有人决定在 SocialPredict 实例上提问时，同一实例中的任何其他人都可以说“是的，我认为这会发生”或“不，这不会发生”并在上面下注游戏币。 如果有足够多的人下注游戏币，您就会开始了解您的实例中的人们认为总体上会发生什么……这样您就可以对生活，宇宙和一切做出更好的决定！ 如果您喜欢所看到的内容，请查看并对我们的 repo 加注    提交人    /u/CosmicDystopia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glw6hx/opensource_forecasting_software_for_better/</guid>
-      <pubDate>Thu, 07 Nov 2024 17:39:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
