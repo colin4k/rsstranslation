@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 10 Nov 2024 09:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 12:02:14 GMT</lastBuildDate>
+    <item>
+      <title>周末开发：Netflix 字幕翻译器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnydxd/built_this_over_the_weekend_netflix_subtitle/</link>
+      <description><![CDATA[动机：最近，我发现自己深深地沉迷于日本电影、电视剧和网络连续剧。在东京旅行期间，我在机上娱乐系统上偶然发现了一部名为《北极百货公司的礼宾员》的日本电影。它有英文字幕，我被迷住了——但不幸的是，我没能在航班结束前看完它。当我回来时，我很高兴发现它可以在 Netflix Japan 上观看。然而，有一个问题：Netflix 只有日语字幕，而我的日语几乎不存在。我认为这是一个机会来构建一个解决方案来用英语欣赏这部电影。上周末，我创建了一个小型 Python 脚本，将只有日语的字幕翻译成英文，让我最终在完全理解的情况下看完了这部电影。这可能不是最具可扩展性的设置，但它确实完成了工作！ 这个项目有什么用？ : 这个项目的目标很简单：将 Netflix 上的日语电影字幕从日语翻译成英语。这个项目的动机来自于缺乏可用的英语字幕，这使得这个项目既是一个有趣的技术挑战，也是满足我特定需求的有用解决方案。目前设置为日语 -&gt;英语，但该设置可以扩展到其他语言对。 高级解决方案：该项目利用了 Netflix 流媒体和基于云的图像处理的一些有趣的细微差别：  由于电影在 Netflix 上，我对其进行了屏幕录制，但 Netflix DRM 策略使屏幕变黑，只留下可见的字幕。 此限制成为了一项功能：由于每帧中只有字幕可见，因此简化了预处理。 我使用 OpenCV 处理视频帧，每秒捕获一帧，然后将这些帧上传到 S3 存储桶。 接下来，我将每一帧发送到 Google Vision API，提取日语字幕文本。 提取文本后，将日语文本发送到 AWS Translate 以将其转换为英语。 最后，我将翻译后的文本编译成带有时间戳（开始时间、结束时间和翻译文本）的 JSON 文件。一个小的 JavaScript 脚本读取这个 JSON 文件并将翻译后的字幕叠加到电影上，以实现无缝播放。  目标受众：这个项目纯粹是个人努力，但任何对计算机视觉、媒体处理或云技术感兴趣的人都会发现它很有见地。它将 OpenCV、Google Vision、AWS S3 和 AWS Translate 结合在一个简化的解决方案中，以增强观影体验。 与类似工具的比较：虽然有 Chrome 扩展程序可以在 Netflix 上叠加双语字幕，但它们需要同时提供日语和英语字幕。我的情况有所不同 - 没有可用的英文字幕，因此需要采用独特的方法。 演示 / 屏幕截图： https://imgur.com/a/vWxPCua https://imgur.com/a/zsVkxhT 如果您好奇，请查看我的 Github Repo：https://github.com/Anubhav9/netfly-subtitle-converter 它仍在进行中，但请随时查看并分享任何反馈。    提交人    /u/Content_Ad_4153   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnydxd/built_this_over_the_weekend_netflix_subtitle/</guid>
+      <pubDate>Sun, 10 Nov 2024 11:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建完全免费且开源的商业软件是一个好主意吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gnxmgd/is_it_a_good_idea_to_create_a_completely_free_and/</link>
+      <description><![CDATA[为一款仅供商业使用的软件创建一个完全免费且开源的版本是不是一个好主意？    提交人    /u/Largance   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gnxmgd/is_it_a_good_idea_to_create_a_completely_free_and/</guid>
+      <pubDate>Sun, 10 Nov 2024 10:16:42 GMT</pubDate>
+    </item>
     <item>
       <title>所有平台上最佳的开源音乐播放器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gnwlid/best_open_source_music_player_available_on_all/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>正在查找 Adguard 或任何其他 DNS 阻止程序（如 PFsence/Opensese）的应用程序阻止列表，与 Sophos Firewall 相同</title>
       <link>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</link>
-      <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了家庭版软件 Sophos 防火墙，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了软件 Sophos 防火墙的家庭版，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</guid>
       <pubDate>Sun, 10 Nov 2024 08:55:47 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>openboard Android 键盘有哪些替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gniut8/what_are_the_alternatives_to_openboard_android/</link>
-      <description><![CDATA[我使用过一段时间的 Android 版 Openboard 键盘。https://Github.Com/Openboard-team/Openboard 它运行良好，但有一些小问题，已经 2 年没有更新了。我也检查了它的分支，但没有发现更好的。因此，我正在寻找替代方案。这些是我正在寻找的功能： - FOSS。 - 多语言。 - 预测文本。 - 个人词典。 - 表情符号。    提交人    /u/abentofreire   [链接] [评论]]]></description>
+      <description><![CDATA[我使用过一段时间的 Android 版 Openboard 键盘。https://Github.Com/Openboard-team/Openboard 它运行良好，但有一些小故障，已经 2 年没有更新了。我也检查了它的分支，但没有发现更好的。因此，我正在寻找替代方案。这些是我正在寻找的功能： - FOSS。 - 多语言。 - 预测文本。 - 个人词典。 - 表情符号。    提交人    /u/abentofreire   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gniut8/what_are_the_alternatives_to_openboard_android/</guid>
       <pubDate>Sat, 09 Nov 2024 20:14:39 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[介绍Maxun：一个开源自托管无代码数据提取平台。它可让您在 2 分钟内训练机器人并自动抓取网页数据。我们最常用的功能之一是“将网站转换为 REST API”。一旦机器人提取了数据，您就可以通过 API 提供数据。我们上周开源了，虽然还处于早期阶段，但我们正在寻求反馈。 请告诉我们您的想法。 为了更好地了解 Maxun 的工作原理，您可以查看我们的入门教程。 谢谢！    提交人    /u/carishmaa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gmttc0/turn_websites_into_rest_apis/</guid>
       <pubDate>Fri, 08 Nov 2024 21:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chipster – 我的 React 多值输入开源解决方案（内有 GitHub 链接）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gmsd2r/chipster_my_opensource_solution_for_multivalue/</link>
-      <description><![CDATA[大家好！我想分享一个我一直在做的项目，叫做 Chipster——一个灵活、可组合的 React 多条目输入组件。它旨在让管理标签、多电子邮件输入和其他基于列表的数据变得更容易一些。它肯定仍在进行中，但我认为最好开始把它发布出来，并（希望）从社区获得一些反馈，这些反馈可能会帮助我在此过程中改进它。 GitHub Repo：github.com/MicoBlanc/chipster 我为什么要构建 Chipster？ 我一直遇到同样的问题——没有一种简单的方法可以向输入框添加多个值，我们在 Google Drive 等应用中经常看到这种情况。所以，Chipster 诞生了！我希望它易于集成、易于设计，并且足够灵活以处理各种情况，例如：  用于联系表单或邀请的多电子邮件字段 用于内容管理等的标记系统 用于过滤器或调查的多选字段 自定义列表，如活动参与者、任务等。  前端功能 以下是 Chipster 目前提供的功能：  自定义样式：使用 Tailwind 或您自己的 CSS 进行样式设置。 智能自动完成：建议加快数据输入速度。 键盘导航：完全支持键盘，实现可访问性。 灵活验证：字符限制、重复等规则。 浅色/深色主题：内置主题，可与任何应用匹配。  如果您想亲眼看看它的实际效果，我还整理了一些文档和演示。 我非常希望听听您对 Chipster 的使用感受。它是否易于插入项目？样式灵活性是否足以满足前端需求？如果您发现前端逻辑中有任何可以改进或更流畅的地方，我将非常感激您的任何建议！    提交人    /u/Imaginary_Handle_442   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gmsd2r/chipster_my_opensource_solution_for_multivalue/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您希望开源什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gmqjir/what_you_wish_was_open_sourced/</link>
-      <description><![CDATA[日常工作中有什么事情困扰着你？你希望哪些产品是开源的？你有哪些很酷的想法，但从未实现过？    提交人    /u/No-Contribution8248   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gmqjir/what_you_wish_was_open_sourced/</guid>
-      <pubDate>Fri, 08 Nov 2024 19:15:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
