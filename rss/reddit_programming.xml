@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 09 Nov 2024 21:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 00:03:55 GMT</lastBuildDate>
+    <item>
+      <title>易于使用且功能强大的 SwiftUI 框架，用于创建弹出窗口、弹出框、工作表、警报、提示框、横幅等</title>
+      <link>https://www.reddit.com/r/programming/comments/1gnms4r/easytouse_yet_powerful_swiftui_framework_for/</link>
+      <description><![CDATA[  由    /u/_mijick  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gnms4r/easytouse_yet_powerful_swiftui_framework_for/</guid>
+      <pubDate>Sat, 09 Nov 2024 23:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Win32.Trojan.Krynis——完整的恶意软件分析。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gnmo20/win32trojankrynis_a_full_malware_analysis/</link>
+      <description><![CDATA[  由    /u/Astro-A26  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gnmo20/win32trojankrynis_a_full_malware_analysis/</guid>
+      <pubDate>Sat, 09 Nov 2024 23:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 分钟内将无服务器 Node.js REST API 部署到 AWS</title>
+      <link>https://www.reddit.com/r/programming/comments/1gnlyoj/deploy_serverless_nodejs_rest_api_to_aws_in_5/</link>
+      <description><![CDATA[我一直在研究一种名为 Less 的工具，它可以自动创建无服务器组件并将其部署到 AWS。完全不需要 AWS 或云经验，而且几乎没有学习曲线。对于那些确实掌握 AWS 概念的人，我们正在后台创建一个带有 Lambda 函数的 API 网关。 如果您查看视频和/或文档并分享您的反馈，我将不胜感激。您还可以在文档中了解如何创建 Web 套接字、主题/订阅者、CRON 作业等。 非常期待您的想法！    提交人    /u/chuva-io   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gnlyoj/deploy_serverless_nodejs_rest_api_to_aws_in_5/</guid>
+      <pubDate>Sat, 09 Nov 2024 22:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 的分步代码执行可视化工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1gnlq3j/step_by_step_code_execution_visualizer_for_python/</link>
+      <description><![CDATA[  由    /u/main-pynerds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gnlq3j/step_by_step_code_execution_visualizer_for_python/</guid>
+      <pubDate>Sat, 09 Nov 2024 22:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 Python Dateonly 包：与 datetime 相比，更快的日期操作的模块化替代方案。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gnlmhb/introducing_python_dateonly_package_a_modular/</link>
+      <description><![CDATA[  由    /u/ishammohamed  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gnlmhb/introducing_python_dateonly_package_a_modular/</guid>
+      <pubDate>Sat, 09 Nov 2024 22:22:49 GMT</pubDate>
+    </item>
     <item>
       <title>培养精英工程师是不可能的</title>
       <link>https://www.reddit.com/r/programming/comments/1gnjury/the_impossibility_of_making_an_elite_engineer/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/joshbranchaud  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gncycr/an_opinionated_guide_to_keyboard_thumb_keys/</guid>
       <pubDate>Sat, 09 Nov 2024 15:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoSQL 数据库如何加速写入密集型工作负载？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gncq1d/how_nosql_databases_speedup_writeheavy_workloads/</link>
-      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gncq1d/how_nosql_databases_speedup_writeheavy_workloads/</guid>
-      <pubDate>Sat, 09 Nov 2024 15:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSA：SQLite 不进行校验</title>
-      <link>https://www.reddit.com/r/programming/comments/1gnbhes/psa_sqlite_does_not_do_checksums/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gnbhes/psa_sqlite_does_not_do_checksums/</guid>
-      <pubDate>Sat, 09 Nov 2024 14:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现“无需 WordPress 的 Headless WordPress”</title>
-      <link>https://www.reddit.com/r/programming/comments/1gnaxv9/doing_headless_wordpress_without_wordpress/</link>
-      <description><![CDATA[  由    /u/leoleoloso  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gnaxv9/doing_headless_wordpress_without_wordpress/</guid>
-      <pubDate>Sat, 09 Nov 2024 14:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享变化，首先是视觉效果</title>
-      <link>https://www.reddit.com/r/programming/comments/1gnadg2/sharing_changes_visuals_first/</link>
-      <description><![CDATA[  由    /u/XLEX97  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gnadg2/sharing_changes_visuals_first/</guid>
-      <pubDate>Sat, 09 Nov 2024 13:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Ads 如何利用 SQL 数据库支持 47.7 亿用户</title>
-      <link>https://www.reddit.com/r/programming/comments/1gna6i6/how_google_ads_was_able_to_support_477_billion/</link>
-      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gna6i6/how_google_ads_was_able_to_support_477_billion/</guid>
-      <pubDate>Sat, 09 Nov 2024 13:32:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
