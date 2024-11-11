@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 09:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 12:01:51 GMT</lastBuildDate>
+    <item>
+      <title>频繁使用人工智能抄袭检测工具可能会无意中提高你的抄袭分数</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gooteu/how_frequent_use_of_ai_plagiarism_checkers_can/</link>
+      <description><![CDATA[如果您是学生甚至是老师，您应该知道继续检查人工智能抄袭实际上会提高抄袭分数。我们在这里通过一些例子深入探讨这个问题，以确保您不会受到指责。 https://medium.com/p/d44225d18bde    提交人    /u/airsoftshowoffs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gooteu/how_frequent_use_of_ai_plagiarism_checkers_can/</guid>
+      <pubDate>Mon, 11 Nov 2024 10:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4 与 OpenAI o1：满足您需求的 AI 模型比较</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1goos09/gpt4_vs_openai_o1_a_comparison_of_ai_models_for/</link>
+      <description><![CDATA[随着人工智能的不断发展，OpenAI 最近发布了其 OpenAI o1 模型系列，增加了 o1 Preview 和 o1 Mini 等变体。这些模型取得了重大进展，尤其是在深度推理和解决问题方面。但它们与成熟的 GPT-4 相比如何？让我们来分析一下。 https://ai.plainenglish.io/gpt-4-vs-openai-o1-a-comparison-of-ai-models-for-your-needs-420465471b05    提交人    /u/airsoftshowoffs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1goos09/gpt4_vs_openai_o1_a_comparison_of_ai_models_for/</guid>
+      <pubDate>Mon, 11 Nov 2024 09:57:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过语言模型对语言模型进行水印</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gooc22/watermarking_language_models_through_language/</link>
+      <description><![CDATA[标题：通过语言模型为语言模型添加水印 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必全部浏览了。今天的论文题为“通过语言模型为语言模型添加水印”，作者是 Xin Zhong、Agnibh Dasgupta 和 Abdullah Tanvir。 本文介绍了一种使用独特多模型配置为语言模型添加水印的创新框架。该框架涉及使用提示语言模型生成水印指令、使用标记语言模型将这些水印嵌入生成的内容中，以及使用检测语言模型来验证它们的存在。作者以 ChatGPT 和 Mistral 为核心模型进行了实验，在识别水印内容方面取得了显著的效果。 论文的重点包括：  动态水印过程：所提出的系统根据语言模型生成的输出动态调整水印策略，确保灵活性和鲁棒性。该方法比传统的静态水印策略有了进步，因为它对变化的内容具有更强的适应性。 高检测准确率：评估结果表明检测准确率令人信服；ChatGPT 生成的输出为 95%，Mistral 生成的输出为 88.79%。这证明了该框架在准确区分带水印和不带水印文本方面的有效性。 模型认证中的应用：该框架嵌入和检测水印的能力对于内容归属和模型认证中的应用具有重要意义，这对于保护知识产权和验证来源真实性至关重要。 跨不同模型的稳健性：多模型设置显示出跨各种语言模型架构的适应性，表明更广泛的应用具有潜在的可扩展性。然而，论文指出，与在多种语言模型上训练的统一检测模型相比，特定于模型的训练可能会产生更好的检测性能。 增强的验证方法：通过利用语言模型本身生成的提示来指导水印，该研究探索了一个不需要访问模型参数的新水印领域，从而即使在 API 访问受限的系统中也能扩展可用性。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gooc22/watermarking_language_models_through_language/</guid>
+      <pubDate>Mon, 11 Nov 2024 09:24:11 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 的 Orion 遇到瓶颈：“衍生”自然语言 AI ​​能否达到 AGI？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gonbz9/chatgpts_orion_hit_a_wall_can_derivative_natural/</link>
       <description><![CDATA[&quot;一些测试过 Orion 的 OpenAI 员工报告说，它在完成仅 20% 的训练后就达到了 GPT-4 级别的性能，但质量提升小于从 GPT-3 到 GPT-4 的飞跃，这表明随着高质量数据变得有限，传统的扩展改进可能会放缓。...- OpenAI 已经成立了一个&quot;基础&quot;团队，以开发新方法来在高质量数据供应减少的情况下维持改进。&quot; *** 如果没有庞大的人造自然语言数据库（其中包含几乎所有可能问题的所有可能答案），自然语言 LLM 能否达到 AGI ？如果人工智能不能在人类水平上产生新的合成数据，那么 LLM 如何达到 AGI 水平？换句话说：如果 LLM 是&quot;衍生&quot;（次要的）自然语言产品，那么如果没有完美的人造训练数据，它们如何达到 AGI？我们是否应该专注于较小的认知模型，这些模型实际上可以以“纯粹”的形式创造新的人类水平的知识？*** 来源：Tibor Blaho az X-en：“一些测试过 Orion 的 OpenAI 员工报告说，它在完成仅 20% 的训练后就达到了 GPT-4 级别的性能，但质量提升小于从 GPT-3 到 GPT-4 的飞跃，这表明随着高质量 https://t.co/tuuMuLvKpA” / X     提交人    /u/custodiam99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gonbz9/chatgpts_orion_hit_a_wall_can_derivative_natural/</guid>
       <pubDate>Mon, 11 Nov 2024 08:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以同时创建静止图像和视频的工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1golfq3/rec_for_tool_that_can_create_both_still_images/</link>
-      <description><![CDATA[是否有一个高质量的 gen AI 平台可以同时生成静态图像和视频？我愿意支付月费。具体来说，我需要为一个项目生成静态图像，为另一个项目生成视频：我正在寻找可以分别生成两者的东西。 我知道 Midjourney、Firefly 和 OpenAI/Sora 都应该在未来包含视频选项，但目前还没有。有没有已经同时拥有这两种功能的平台？    提交人    /u/Guide-Difficult   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1golfq3/rec_for_tool_that_can_create_both_still_images/</guid>
-      <pubDate>Mon, 11 Nov 2024 05:58:36 GMT</pubDate>
     </item>
     <item>
       <title>Rombodawg 为“连续微调”添加了新方法（结果令人惊讶）</title>
@@ -36,7 +50,7 @@
     <item>
       <title>以下是人工智能领域的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gojcrv/heres_what_is_making_news_in_the_ai/</link>
-      <description><![CDATA[焦点： 《华尔街日报》刊登了一篇文章，解释 ChatGPT 如何打倒一家在线教育巨头(来源：《华尔街日报》)   Encore 是一款人工智能搜索引擎，可满足您的节俭需求（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
+      <description><![CDATA[焦点： 《华尔街日报》刊登了一篇文章，解释 ChatGPT 如何打倒一家在线教育巨头（来源：《华尔街日报》）  Encore 是一款由人工智能驱动的搜索引擎，可满足您的节俭需求（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gojcrv/heres_what_is_making_news_in_the_ai/</guid>
       <pubDate>Mon, 11 Nov 2024 03:56:36 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>有人遇到过任何奇怪或晦涩的人工智能工具吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gocwix/has_anyone_encountered_any_weird_or_obscure_ai/</link>
-      <description><![CDATA[我的搭档告诉我几年前他在 Reddit 上发现的一份晦涩/奇怪的人工智能工具列表。其中大多数都在开发或测试阶段。他在该列表中发现了一些非常有趣的工具，我想看看是否有人知道这样的列表或有自己的经验？    提交人    /u/LucaMidorikawa   [link] [评论]]]></description>
+      <description><![CDATA[我的搭档告诉我几年前他在 Reddit 上发现的一份晦涩/奇怪的人工智能工具列表。其中大多数都处于开发或测试阶段。他在该列表中发现了一些非常有趣的工具，我想看看是否有人知道这样的列表或有自己的经验？    提交人    /u/LucaMidorikawa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gocwix/has_anyone_encountered_any_weird_or_obscure_ai/</guid>
       <pubDate>Sun, 10 Nov 2024 22:32:12 GMT</pubDate>
     </item>
@@ -97,13 +111,6 @@
       <pubDate>Sun, 10 Nov 2024 18:53:33 GMT</pubDate>
     </item>
     <item>
-      <title>他们使用什么 AI 工具来获取像这样的 gif 类视频片段？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1go7ni5/what_ai_tool_are_they_using_to_get_giflike_video/</link>
-      <description><![CDATA[https://www.youtube.com/shorts/0hD76WFzjc8 他们使用的视频非常像 gif，但我找不到有这样的镜头的网站/工具。    提交人    /u/kdrxyz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1go7ni5/what_ai_tool_are_they_using_to_get_giflike_video/</guid>
-      <pubDate>Sun, 10 Nov 2024 18:45:46 GMT</pubDate>
-    </item>
-    <item>
       <title>3D 堆叠对于神经形态计算来说是一项必要的创新吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1go5t8q/is_3d_stacking_a_necessary_innovation_for/</link>
       <description><![CDATA[我最近尝试在 FPGA 上创建一个神经形态计算加速器。然而，由于将我在软件中生成的三维神经元网络展平为 HDL 而产生的互连延迟，导致“大脑”的性能降低。我意识到 IBM 和 Intel 都没有在他们的神经形态计算机中使用 3D 堆叠，这让我很困惑。每次添加新层时，神经元之间的互连密度都会增加芯片的宽度。为什么不这样做？神经形态芯片消耗的能量非常低，因此热约束在这里不是问题。    提交人    /u/BarnardWellesley   [链接] [评论]]]></description>
@@ -111,16 +118,9 @@
       <pubDate>Sun, 10 Nov 2024 17:26:57 GMT</pubDate>
     </item>
     <item>
-      <title>每个故事都有两面性</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1go5ilp/two_sides_to_every_story/</link>
-      <description><![CDATA[关于人工智能有很多观点和看法。有些人认为人工智能将解决我们所有的问题，而另一些人认为人工智能只是炒作，会产生负面影响。 一个又一个的故事讲述了大公司——亚马逊、谷歌、OpenAI、Meta、微软以及它们如何相互竞争。 如果阅读不同的观点对您很重要，我们会不断收集有关人工智能、人工智能伦理、chatgpt 和语言模型的文章和帖子。https://docs.teckedin.info/docs/curated-blogs-ai-llm-chatgpt    提交人    /u/Teckedin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1go5ilp/two_sides_to_every_story/</guid>
-      <pubDate>Sun, 10 Nov 2024 17:14:12 GMT</pubDate>
-    </item>
-    <item>
       <title>我们应该关注哪些新的手机技术趋势？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1go3vea/what_new_phone_technology_trends_should_we_keep/</link>
-      <description><![CDATA[随着手机技术的快速进步，我很好奇我们应该关注哪些最新趋势。感觉每年都有新功能让我们的手机运行得更快、更智能、更直观。无论是 Android 锁屏小部件还是新的 AI 功能，总会有新的东西出现。您认为现在最值得关注的热门趋势是什么？    提交人    /u/Sadikshk2511   [link] [评论]]]></description>
+      <description><![CDATA[随着手机技术的快速进步，我很好奇我们应该关注哪些最新趋势。感觉每年都有新功能让我们的手机运行更快、更智能、更直观。无论是 Android 锁屏小部件还是新的 AI 功能，总会有新的东西出现。您认为现在最值得关注的热门趋势是什么？    提交人    /u/Sadikshk2511   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1go3vea/what_new_phone_technology_trends_should_we_keep/</guid>
       <pubDate>Sun, 10 Nov 2024 16:02:25 GMT</pubDate>
     </item>

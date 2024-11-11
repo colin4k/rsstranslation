@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 11 Nov 2024 09:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 12:02:32 GMT</lastBuildDate>
     <item>
       <title>集成 Dropbox</title>
       <link>https://www.producthunt.com/posts/integrate-dropbox</link>
@@ -90,32 +90,18 @@ Markdown 简历生成器
       <pubDate>Sun, 10 Nov 2024 08:12:35 GMT</pubDate>
     </item>
     <item>
-      <title>ExtensionFoxs Chrome 扩展程序</title>
-      <link>https://www.producthunt.com/posts/extensionfoxs-chrome-extensions</link>
+      <title>眼控</title>
+      <link>https://www.producthunt.com/posts/eyepilot-2</link>
       <description><![CDATA[
-适用于 Instagram 营销人员的强大 Chrome 扩展程序
+凝视时切换窗口；移开视线时自动模糊。
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/extensionfoxs-chrome-extensions</guid>
-      <pubDate>Sun, 10 Nov 2024 06:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>真诚的凯伦</title>
-      <link>https://www.producthunt.com/posts/sincerely-karen</link>
-      <description><![CDATA[
-人工智能驱动的投诉生成器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sincerely-karen</guid>
-      <pubDate>Sat, 09 Nov 2024 17:42:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/eyepilot-2</guid>
+      <pubDate>Sat, 09 Nov 2024 20:55:06 GMT</pubDate>
     </item>
     <item>
       <title>Pubky Core：构建下一个网络</title>
@@ -202,20 +188,6 @@ Markdown 简历生成器
       <pubDate>Sun, 03 Nov 2024 19:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>BlitzWiz地图</title>
-      <link>https://www.producthunt.com/posts/blitzwizmap</link>
-      <description><![CDATA[
-几分钟内即可创建您的地图应用 — 无需代码，只需一个 CSV 文件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/blitzwizmap</guid>
-      <pubDate>Sun, 03 Nov 2024 09:14:10 GMT</pubDate>
-    </item>
-    <item>
       <title>伍菲俱乐部</title>
       <link>https://www.producthunt.com/posts/woofyclub</link>
       <description><![CDATA[
@@ -272,6 +244,20 @@ Markdown 简历生成器
       <pubDate>Tue, 22 Oct 2024 21:25:32 GMT</pubDate>
     </item>
     <item>
+      <title>峰顶观察</title>
+      <link>https://www.producthunt.com/posts/peakwatch</link>
+      <description><![CDATA[
+AI 私人教练
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/peakwatch</guid>
+      <pubDate>Sat, 19 Oct 2024 02:31:21 GMT</pubDate>
+    </item>
+    <item>
       <title>THEO：为任何 AI 助手提供动力</title>
       <link>https://www.producthunt.com/posts/theo-power-up-any-ai-assistant</link>
       <description><![CDATA[
@@ -284,6 +270,20 @@ Markdown 简历生成器
 ]]></description>
       <guid>https://www.producthunt.com/posts/theo-power-up-any-ai-assistant</guid>
       <pubDate>Fri, 11 Oct 2024 18:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>地理帮助</title>
+      <link>https://www.producthunt.com/posts/geographyhelp</link>
+      <description><![CDATA[
+包含地图、测验等内容的综合 GeoGuessr 资源
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/geographyhelp</guid>
+      <pubDate>Sat, 14 Sep 2024 17:55:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

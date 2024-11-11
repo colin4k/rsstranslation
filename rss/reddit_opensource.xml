@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Nov 2024 09:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 12:02:27 GMT</lastBuildDate>
+    <item>
+      <title>具有隐私的个人 NotebookLM 和类似 Perplexity 的 AI 助手。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1goqk4i/a_personal_notebooklm_and_perplexitylike_ai/</link>
+      <description><![CDATA[        提交人    /u/Uiqueblhats   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1goqk4i/a_personal_notebooklm_and_perplexitylike_ai/</guid>
+      <pubDate>Mon, 11 Nov 2024 11:59:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合文学的社交网络框架吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gopd4v/good_social_network_frameworks_for_literature/</link>
+      <description><![CDATA[Wattpad 和 Archive of Our Own (AO3) ​​是专注于分享文学作品的社交网络平台。AO3 是开源的，尽管许可证有一定的限制。还有其他专注于分享文学作品的开源社交网络框架吗？    提交人    /u/No_Document_1300   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gopd4v/good_social_network_frameworks_for_literature/</guid>
+      <pubDate>Mon, 11 Nov 2024 10:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么开源软件可以轻松快捷地删除/修剪视频片段？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1goo9yi/any_open_source_software_to_removetrim_video/</link>
+      <description><![CDATA[私密且安全，兼容 mp4 或 avi 并适用于 Windows。    由   提交  /u/EstidEstiloso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1goo9yi/any_open_source_software_to_removetrim_video/</guid>
+      <pubDate>Mon, 11 Nov 2024 09:19:44 GMT</pubDate>
+    </item>
     <item>
       <title>花了一年时间重建我的 P2P 网络库</title>
       <link>https://www.reddit.com/r/opensource/comments/1gonp05/spent_a_year_rebuilding_my_p2p_networking_library/</link>
@@ -85,7 +106,7 @@
     <item>
       <title>正在查找 Adguard 或任何其他 DNS 阻止程序（如 PFsence/Opensese）的应用程序阻止列表，与 Sophos Firewall 相同</title>
       <link>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</link>
-      <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了家庭版软件 Sophos 防火墙，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了软件 Sophos 防火墙的家庭版，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</guid>
       <pubDate>Sun, 10 Nov 2024 08:55:47 GMT</pubDate>
     </item>
@@ -97,9 +118,9 @@
       <pubDate>Sun, 10 Nov 2024 06:22:52 GMT</pubDate>
     </item>
     <item>
-      <title>今天我第一次认真地致力于一个开源项目，但最终为两个项目做出了贡献！</title>
+      <title>今天我第一次认真地致力于一个开源项目，但最终只为两个项目做出了贡献！</title>
       <link>https://www.reddit.com/r/opensource/comments/1gno2a0/did_my_first_serious_commit_to_an_open_source/</link>
-      <description><![CDATA[我之前贡献过一些小东西，比如添加问题和修复小拼写错误，但我决定将我最喜欢的开源应用程序同步到 Android 的 Health Connect 系统中。几个问题中都要求这样做，但还没有人来得及。 结果发现，由于该应用程序是用 Cordova 编写的，因此需要一个兼容层插件，将 JavaScript 函数转换为 API 可以理解的 Java 调用。我看到有一个，但我真正需要的功能未经测试就被合并了，而且严重损坏了，所以现在，除了为我最喜欢的应用程序做贡献外，我还为另一个插件贡献了 Java，这是一种我从未使用过的语言！经过几个小时的研究，了解其他 API 调用的工作原理、阅读文档并反复试验（如此多的反复试验），我让 API 100% 正常工作，并最终为该项目提交了 PR，修复后立即被接受！ 然后，我可以为想要添加支持的应用开发 WIP PR，导入插件，初始化 Health Connect API，进行一些测试调用等。期待完成功能并获得批准和合并！    提交人    /u/Frequent_Computer388   [链接] [评论]]]></description>
+      <description><![CDATA[我之前贡献过一些小东西，比如添加问题和修复小拼写错误，但我决定将我最喜欢的开源应用程序同步到 Android 的 Health Connect 系统中。这在几个问题中都有要求，但还没有人来得及做。 结果发现，由于该应用程序是用 Cordova 编写的，因此需要一个兼容层插件，将 JavaScript 函数转换为 API 可以理解的 Java 调用。我看到有一个，但我真正需要的功能未经测试就被合并了，而且严重损坏了，所以现在除了为我最喜欢的应用程序做贡献外，我还为另一个插件贡献了 Java，这是一种我从未使用过的语言！经过几个小时的研究，了解其他 API 调用的工作原理、阅读文档并反复试验（如此多的反复试验），我让 API 100% 正常工作，并最终为该项目提交了 PR，修复后立即被接受！ 然后，我可以为想要添加支持的应用开发 WIP PR，导入插件，初始化 Health Connect API，进行一些测试调用等。期待完成功能并获得批准和合并！    提交人    /u/Frequent_Computer388   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gno2a0/did_my_first_serious_commit_to_an_open_source/</guid>
       <pubDate>Sun, 10 Nov 2024 00:21:18 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在寻找一款开源白名单浏览器。该浏览器只允许您访问您列入白名单的网站。 我在 Play 商店中找到了这款 白名单浏览器应用。 它看起来不像是开源的，所以我想知道是否有人知道有开源的！    提交人    /u/Fit_Quiet_7423   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnkrb7/foss_whitelist_browser/</guid>
       <pubDate>Sat, 09 Nov 2024 21:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>SMTP 基本身份验证问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gnjrah/smtp_basic_authentication_problems/</link>
-      <description><![CDATA[嗨，开源人士， 我正在考虑为一个开源项目做贡献，该项目目前仅支持 smtp 的基本身份验证，这会导致问题，因为它不再受各种提供商的支持。 我正在考虑解决这个问题，我能找到的就是实现 OAuth 支持。 这个问题是用户可能没有知识、经验或访问权限来设置应用程序注册以创建客户端 ID。 开源项目做了什么来允许用户发送电子邮件而无需做任何主要技术工作？ 非常感谢 丹    提交人    /u/Motor_Style2408   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gnjrah/smtp_basic_authentication_problems/</guid>
-      <pubDate>Sat, 09 Nov 2024 20:56:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>openboard Android 键盘有哪些替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gniut8/what_are_the_alternatives_to_openboard_android/</link>
-      <description><![CDATA[我使用过一段时间的 Android 版 Openboard 键盘。https://Github.Com/Openboard-team/Openboard 它运行良好，但有一些小问题，已经 2 年没有更新了。我也检查了它的分支，但没有发现更好的。因此，我正在寻找替代方案。这些是我正在寻找的功能： - FOSS。 - 多语言。 - 预测文本。 - 个人词典。 - 表情符号。    提交人    /u/abentofreire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gniut8/what_are_the_alternatives_to_openboard_android/</guid>
-      <pubDate>Sat, 09 Nov 2024 20:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个开源预算软件供我的家庭使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gnhbhy/i_need_an_opensource_budgeting_software_for_my/</link>
-      <description><![CDATA[我尝试了 archlinux 存储库中的一些软件包 - kmymoney、gnucash 和 homebank。但它们都不是我所寻找的：  它需要易于使用。它不应该包含复杂、难以理解的内容，因为不仅我会使用它，我的妻子也会使用它。我不想用命令行、双重会计思想、交易对手概念和分离信用卡和借记卡来折磨她，我只想把支出和未来费用放在那里。 它应该包含未来支出和计划。例如，我想买一张新显卡，而我的妻子想买一架电子钢琴。我想在程序中保留这些条目，因为它们与一件事有关：钱。 尽管现在我们可以使用 Syncthing 或类似程序同步文件，但最好是在线同步。因为我使用 Linux，而我的妻子使用 Windows，所以最好找一些在线的、可同步的和多平台的程序。  基本上就是这样。我只希望该程序能够跟踪成本分摊、一些愿望或其他东西。好吧，还有一份关于花钱情况的良好报告。所以在线电子表格很可能不适合我。你知道任何这样的程序吗？    提交人    /u/hurleymjohnston   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gnhbhy/i_need_an_opensource_budgeting_software_for_my/</guid>
-      <pubDate>Sat, 09 Nov 2024 19:04:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
