@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 06:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 09:01:43 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 的 Orion 遇到瓶颈：“衍生”自然语言 AI ​​能否达到 AGI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gonbz9/chatgpts_orion_hit_a_wall_can_derivative_natural/</link>
+      <description><![CDATA[&quot;一些测试过 Orion 的 OpenAI 员工报告说，它在完成仅 20% 的训练后就达到了 GPT-4 级别的性能，但质量提升小于从 GPT-3 到 GPT-4 的飞跃，这表明随着高质量数据变得有限，传统的扩展改进可能会放缓。...- OpenAI 已经成立了一个&quot;基础&quot;团队，以开发新方法来在高质量数据供应减少的情况下维持改进。&quot; *** 如果没有庞大的人造自然语言数据库（其中包含几乎所有可能问题的所有可能答案），自然语言 LLM 能否达到 AGI ？如果人工智能不能在人类水平上产生新的合成数据，那么 LLM 如何达到 AGI 水平？换句话说：如果 LLM 是&quot;衍生&quot;（次要的）自然语言产品，那么如果没有完美的人造训练数据，它们如何达到 AGI？我们是否应该专注于较小的认知模型，这些模型实际上可以以“纯粹”的形式创造新的人类水平的知识？*** 来源：Tibor Blaho az X-en：“一些测试过 Orion 的 OpenAI 员工报告说，它在完成仅 20% 的训练后就达到了 GPT-4 级别的性能，但质量提升小于从 GPT-3 到 GPT-4 的飞跃，这表明随着高质量 https://t.co/tuuMuLvKpA” / X     提交人    /u/custodiam99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gonbz9/chatgpts_orion_hit_a_wall_can_derivative_natural/</guid>
+      <pubDate>Mon, 11 Nov 2024 08:08:13 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以同时创建静止图像和视频的工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1golfq3/rec_for_tool_that_can_create_both_still_images/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我的搭档告诉我几年前他在 Reddit 上发现的一份晦涩/奇怪的人工智能工具列表。其中大多数都在开发或测试阶段。他在该列表中发现了一些非常有趣的工具，我想看看是否有人知道这样的列表或有自己的经验？    提交人    /u/LucaMidorikawa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gocwix/has_anyone_encountered_any_weird_or_obscure_ai/</guid>
       <pubDate>Sun, 10 Nov 2024 22:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个 aivideo 订阅是无限制的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gobn4g/which_aivideo_subscription_for_unlimited/</link>
-      <description><![CDATA[我只使用免费版本，通常要花很长时间。 我想要一个视频生成器，可以创建更好的基于“恐怖/怪物”的视频预告片，有时不是那么逼真，并且希望生成时间短 在那些可以无限生成的视频生成器中，哪个更好 Runway Pika Minimax 干杯    提交人    /u/Randomlk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gobn4g/which_aivideo_subscription_for_unlimited/</guid>
-      <pubDate>Sun, 10 Nov 2024 21:37:01 GMT</pubDate>
     </item>
     <item>
       <title>AlignXIE 通过跨语言对齐改进多语言信息提取</title>
