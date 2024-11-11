@@ -4,20 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Nov 2024 15:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:02:04 GMT</lastBuildDate>
+    <item>
+      <title>awesome-android-root,利用 root 权限的 Android 应用程序精选列表,下载awesome-android-root的源码_GitHub_帮酷</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gox9k0/github_fynksawesomeandroidroot_curated_list_of/</link>
+      <description><![CDATA[      Android 根权限基本说明列表、各种根权限和 Android 方法以及大量适用于根权限的各种 Android 应用程序列表。我希望它可以帮助那些刚开始尝试根权限和 Android 设备的人。    由   提交  /u/Honest_Equivalent_40   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gox9k0/github_fynksawesomeandroidroot_curated_list_of/</guid>
+      <pubDate>Mon, 11 Nov 2024 17:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有类似 LibreTube 的适用于 Windows 的 YouTube 客户端？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1govow4/is_there_a_youtube_client_like_libretube_for/</link>
+      <description><![CDATA[我主要希望能够将您的订阅分类到不同的组中。    提交人    /u/Spiritual_Damage_310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1govow4/is_there_a_youtube_client_like_libretube_for/</guid>
+      <pubDate>Mon, 11 Nov 2024 16:05:38 GMT</pubDate>
+    </item>
     <item>
       <title>寻找用于在 Windows 8 上删除书签的免费软件推荐</title>
       <link>https://www.reddit.com/r/opensource/comments/1gou0w1/looking_for_free_software_recommendations_for/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gou0w1/looking_for_free_software_recommendations_for/</guid>
       <pubDate>Mon, 11 Nov 2024 14:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>婴儿性别揭晓投票</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gotps8/baby_gender_reveal_vote/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gotps8/baby_gender_reveal_vote/</guid>
-      <pubDate>Mon, 11 Nov 2024 14:41:21 GMT</pubDate>
     </item>
     <item>
       <title>我当前项目的支持请求</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了家庭版软件 Sophos 防火墙，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</guid>
       <pubDate>Sun, 10 Nov 2024 08:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Debian 的白板应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gnuerh/whiteboard_app_for_debian/</link>
-      <description><![CDATA[类似于 videoscribe 的开源白板动画应用程序。我使用过 opentoonz、openboard、Synfig studio。我想使用 svgs 制作动漫。有没有可以在没有 wine 的情况下使用的应用程序，如 videoscribe 或 vbox    提交人    /u/Send_me_nudes00   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gnuerh/whiteboard_app_for_debian/</guid>
-      <pubDate>Sun, 10 Nov 2024 06:22:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
