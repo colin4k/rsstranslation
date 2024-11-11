@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Nov 2024 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 21:01:48 GMT</lastBuildDate>
     <item>
       <title>awesome-android-root,利用 root 权限的 Android 应用程序精选列表,下载awesome-android-root的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1gox9k0/github_fynksawesomeandroidroot_curated_list_of/</link>
@@ -141,7 +141,7 @@
     <item>
       <title>正在查找 Adguard 或任何其他 DNS 阻止程序（如 PFsence/Opensese）的应用程序阻止列表，与 Sophos Firewall 相同</title>
       <link>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</link>
-      <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了家庭版软件 Sophos 防火墙，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我经常使用 Sophos 防火墙，我在家里安装了软件 Sophos 防火墙的家庭版，而且我了解防火墙规则的设置方式，非常简单易懂。 我喜欢的另一件事是应用程序和网络块。 Web 阻止很简单，与我用于 DNS 的 Adguard 相同，但我认为应用程序过滤器甚至更好。 因为它对流量进行分类并让我概述什么是什么（大部分）。 我相信他们也使用类似列表的 DNS 过滤器进行此应用程序阻止，因为您可以将自己的 URL 列表添加到应用程序过滤器中，它会阻止它并对其进行分类。 所以我想知道，是否有一些应用程序分类列表可供我添加到 Adguard 或 PFsense/Opnsense 以执行类似操作？ 所有这些阻止列表都是通用的，我通常只是将其中几个组合起来以获得大多数被阻止的垃圾。 谢谢 我正在考虑捕获 sophos 防火墙请求并看看我是否可以找到他们的 URL，但我不确定如何做到这一点，我敢打赌他们也使用了一些身份验证。 - 但它可以使用 HTTP，因为额外的列表只接受 HTTP 源链接    由    /u/nahakubuilder  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gnwj31/looking_for_application_block_list_for_adguard_or/</guid>
       <pubDate>Sun, 10 Nov 2024 08:55:47 GMT</pubDate>
     </item>
