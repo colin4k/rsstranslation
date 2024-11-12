@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 21:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 00:03:09 GMT</lastBuildDate>
+    <item>
+      <title>人工智能女友</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp6mm3/ai_girlfriends/</link>
+      <description><![CDATA[对于单身或计划保持单身的男性，我有一个问题：你们是否认为未来只要和 AI 女友在一起就很开心？    提交人    /u/Plenty-Helicopter990   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp6mm3/ai_girlfriends/</guid>
+      <pubDate>Mon, 11 Nov 2024 23:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我必须了解一下 NotebookLM。你们主要用它做什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp5tsq/ive_got_to_get_into_notebooklm_what_do_you_folks/</link>
+      <description><![CDATA[我是一名 solopreneur，试图在人生的这个阶段保持平静。  您主要使用笔记本 Lm 和 Claude 等的情况是什么？     提交人    /u/notlikelyevil   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp5tsq/ive_got_to_get_into_notebooklm_what_do_you_folks/</guid>
+      <pubDate>Mon, 11 Nov 2024 22:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>WorkflowLLM 增强大型语言模型的工作流编排能力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp5bhm/workflowllm_enhancing_workflow_orchestration/</link>
+      <description><![CDATA[标题：&quot;WorkflowLLM：增强大型语言模型的工作流编排能力&quot; 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为&quot;WorkflowLLM：增强大型语言模型的工作流编排能力&quot;，作者是范胜达、丛欣、傅月鹏、张忠、张姝妍、刘远伟、吴叶赛、林燕凯、刘志远和孙茂松。 本研究介绍了 WorkflowLLM，这是一个强大的框架，可以增强大型语言模型 (LLM) 的工作流编排能力。标准 LLM 在编排复杂工作流时会表现出局限性，而这是高效流程自动化所必需的技能。 WorkflowLLM 使用革命性的数据集和模型自适应技术解决了这些障碍，显著提高了 LLM 在工作流任务中的性能。 论文的主要发现和要点包括：  WorkflowBench 数据集简介：作者制作了 WorkflowBench，这是一个全面的数据集，包含来自不同应用程序的 1,500 多个 API 中的 106,000 多个监督微调实例。这为训练 LLM 掌握工作流编排奠定了基础。 数据收集和扩展技术：WorkflowBench 的构建涉及三阶段方法 - 数据收集、查询扩展和工作流生成 - 确保工作流的丰富多样性和复杂性，克服了传统 LLM 的限制。 WorkflowLlama 的创建：通过在 WorkflowBench 上对 Llama-3.1-8B 进行微调，衍生出 WorkflowLlama，在编排复杂工作流方面表现出显着进步。它在句法和语义准确性任务中的表现优于包括 OpenAI 的 GPT-4o 在内的尖端模型。 泛化和零样本能力：WorkflowBench 展示了显著的泛化能力，通过在 T-Eval 基准等分布外场景上的测试进行了验证，证实了其在适应未见过的指令和 API 方面的强大能力。 现实世界的适用性：尽管 WorkflowBench 的 API 范围有限，主要集中在 Apple Shortcuts 上，但它的设计可能为推动各个领域的代理流程自动化提供见解。   您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp5bhm/workflowllm_enhancing_workflow_orchestration/</guid>
+      <pubDate>Mon, 11 Nov 2024 22:34:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何看待谷歌的“AI概览”？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3iif/how_do_you_feel_about_googles_ai_overview/</link>
+      <description><![CDATA[几天来，我一直试图关闭 AI 概览，因为它让我的搜索很烦。我也很难理解这怎么能被称为 AI，因为谷歌正在做它多年来一直对媒体制作人做的事情，并且因此受到批评——从网站上抓取一些文本并将其作为搜索结果呈现给你，而不是强迫你点击出版商的网站。我在试用期间收到的所有 AI 概览响应都只是从网站上直接提取文本。有没有其他人遇到过这种试用问题并从技术角度研究过它？我最终尝试将其关闭，但当我无法关闭时，我决定更换搜索提供商。是的，我在这件事上是独立的，没有冲突。我只是一个用户。     提交人    /u/PostDisillusion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3iif/how_do_you_feel_about_googles_ai_overview/</guid>
+      <pubDate>Mon, 11 Nov 2024 21:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于殖民火星......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3fx6/regarding_colonizing_mars/</link>
+      <description><![CDATA[你是否认为埃隆可能想要殖民火星是为了拯救人类免遭毁灭，例如被一个接管火星的人工智能所毁灭，它还没有达到对火星的最终破坏力，但已经摧毁了地球？ 当然只是假设，但量子物理学不就是这样做的吗？考虑到所有的可能性？    提交人    /u/Stoned_Ape85   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp3fx6/regarding_colonizing_mars/</guid>
+      <pubDate>Mon, 11 Nov 2024 21:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关构建一个简单的平台以在 AI 的帮助下存储和访问 EPUB 和 PDF 文件的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp32h7/looking_for_advice_on_building_a_simple_platform/</link>
+      <description><![CDATA[大家好！ 我有兴趣创建一个简单的平台，让我可以上传和存储 EPUB 和 PDF 格式的文件。我设想它是一种不需要高级技术技能即可使用的工具，让广大受众都可以使用它。 我想集成的关键功能是基于 AI 的功能，可以帮助用户访问和与这些书籍的内容互动。这可能意味着在文本中搜索、总结章节或回答有关内容的问题。理想情况下，它应该是直观且响应迅速的，因为我的目标是让这些书籍中的信息易于访问，而无需复杂的交互。 我愿意接受有关入门工具、框架或平台的建议。如果有现有的解决方案可以为此目的进行定制，那也会很有帮助。如能就如何最好地完成这个项目提出任何建议，我们将不胜感激！ 感谢您提供的任何指导！    提交人    /u/Ottins82   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gp32h7/looking_for_advice_on_building_a_simple_platform/</guid>
+      <pubDate>Mon, 11 Nov 2024 21:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>如何构建无代码内容研究和规划 AI 代理</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gp2tga/how_to_build_a_content_research_planning_ai_agent/</link>
@@ -76,13 +118,6 @@
       <pubDate>Mon, 11 Nov 2024 15:23:51 GMT</pubDate>
     </item>
     <item>
-      <title>文本转视频用法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gotjz7/texttovideo_usage/</link>
-      <description><![CDATA[这可能不是合适的地方，如果是这种情况，请删除。我正在寻找一个 subreddit 或任何建议，我可以在其中与其他创作者讨论如何使用文本到视频生成 AI。 开始制作关于令人毛骨悚然的事情的 YouTube 视频，致力于开发更好的工作流程    提交人    /u/I_Mean_Not_Really   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gotjz7/texttovideo_usage/</guid>
-      <pubDate>Mon, 11 Nov 2024 14:34:10 GMT</pubDate>
-    </item>
-    <item>
       <title>我们用几个 AI 工具和我们自己的引擎制作了一款游戏</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gotdev/we_made_a_game_with_several_ai_tools_and_our_own/</link>
       <description><![CDATA[大家好， 我们是 MANU Video Game Maker - 一款面向独立开发者、个人开发者和游戏爱好者的游戏引擎（目前处于 Beta 阶段）。 几周前，我们使用 gen AI 工具、其他行业专用工具和我们自己的引擎创建了一款游戏。这里有一个关于该游戏的视频：https://www.youtube.com/watch?v=Ut7hqlYzQi4  这里的主要思想是人类创造力（人们做出决定、选择合适的氛围、编写合适的提示并实际决定他们的东西！）与 Gen AI 在内容创建方面可以提供的速度之间的协同作用。所以这个过程非常有趣，我们决定与您分享这个词 - 我们希望您喜欢我们的结果。  以下是视频中使用的工具列表： MANU 视频游戏制作器：https://manu.co  MANU 市场：https://manu.org 3D 模型：https://www.meshy.ai  声音：http://elevenlabs.io  动画：https://www.mixamo.com  Skybox：https://www.blockadelabs.com  所以基本上有了这个套件，任何人都可以创建可玩的东西。希望得到您的意见！    提交人    /u/manugamemaker   [链接] [评论]]]></description>
@@ -90,46 +125,11 @@
       <pubDate>Mon, 11 Nov 2024 14:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能如何提高准确性和速度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gos1hj/how_ai_enhances_accuracy_and_speed/</link>
-      <description><![CDATA[天气预报的准确性一直是一个关键因素，尤其是对于农业、航空和物流等领域。 GraphCast 等 AI 模型通过不断从新数据中学习并改进其预测来提高准确性。 这种自适应学习过程可确保预测基于最新和最相关的信息。 阅读：https://stellarmind.ai/blog/%20ai-is-revolutionizing-weather-forecasts    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gos1hj/how_ai_enhances_accuracy_and_speed/</guid>
-      <pubDate>Mon, 11 Nov 2024 13:21:38 GMT</pubDate>
-    </item>
-    <item>
       <title>除了 ChatGPT Plus 之外，还有其他具有长期记忆的 AI 模型吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gor155/are_there_any_other_ai_models_besides_chatgpt/</link>
       <description><![CDATA[我已经使用 ChatGPT Plus 一段时间了，真的很喜欢它的记忆功能。  我有 Gemini Advanced，经过多次反复，它终于“承认”它没有记忆功能，这令人失望，尤其是考虑到它可能是目前主要模型中最不智能的，更不用说疯狂的审查制度了。 同样，Claude Pro 似乎也缺乏任何记忆功能。Claude 在智能方面可与 ChatGPT Plus 相媲美或超过它，但没有长期记忆的使用限制让我重新考虑我的订阅。 所以，我想知道——还有其他免费或基于订阅的 AI 模型提供长期记忆吗？  如果有人找到了好的替代方案，或者 ChatGPT Plus 仍然是此功能的唯一选择，我很想知道。    提交人    /u/TheLawIsSacred   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gor155/are_there_any_other_ai_models_besides_chatgpt/</guid>
       <pubDate>Mon, 11 Nov 2024 12:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>频繁使用人工智能抄袭检测工具可能会无意中提高你的抄袭分数</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gooteu/how_frequent_use_of_ai_plagiarism_checkers_can/</link>
-      <description><![CDATA[如果您是学生甚至是老师，您应该知道继续检查人工智能抄袭实际上会提高抄袭分数。我们在这里通过一些例子深入探讨这个问题，以确保您不会受到指责。 https://medium.com/p/d44225d18bde    提交人    /u/airsoftshowoffs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gooteu/how_frequent_use_of_ai_plagiarism_checkers_can/</guid>
-      <pubDate>Mon, 11 Nov 2024 10:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4 与 OpenAI o1：满足您需求的 AI 模型比较</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1goos09/gpt4_vs_openai_o1_a_comparison_of_ai_models_for/</link>
-      <description><![CDATA[随着人工智能的不断发展，OpenAI 最近发布了其 OpenAI o1 模型系列，增加了 o1 Preview 和 o1 Mini 等变体。这些模型取得了重大进展，尤其是在深度推理和解决问题方面。但它们与成熟的 GPT-4 相比如何？让我们来分析一下。 https://ai.plainenglish.io/gpt-4-vs-openai-o1-a-comparison-of-ai-models-for-your-needs-420465471b05    提交人    /u/airsoftshowoffs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1goos09/gpt4_vs_openai_o1_a_comparison_of_ai_models_for/</guid>
-      <pubDate>Mon, 11 Nov 2024 09:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 的 Orion 遇到瓶颈：“衍生”自然语言 AI ​​能否达到 AGI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gonbz9/chatgpts_orion_hit_a_wall_can_derivative_natural/</link>
-      <description><![CDATA[&quot;一些测试过 Orion 的 OpenAI 员工报告说，它在完成仅 20% 的训练后就达到了 GPT-4 级别的性能，但质量提升小于从 GPT-3 到 GPT-4 的飞跃，这表明随着高质量数据变得有限，传统的扩展改进可能会放缓。...- OpenAI 已经成立了一个&quot;基础&quot;团队，以开发新方法来在高质量数据供应减少的情况下维持改进。&quot; *** 如果没有庞大的人造自然语言数据库（其中包含几乎所有可能问题的所有可能答案），自然语言 LLM 能否达到 AGI ？如果人工智能不能在人类水平上产生新的合成数据，那么 LLM 如何达到 AGI 水平？换句话说：如果 LLM 是&quot;衍生&quot;（次要的）自然语言产品，那么如果没有完美的人造训练数据，它们如何达到 AGI？我们是否应该专注于较小的认知模型，这些模型实际上可以以“纯粹”的形式创造新的人类水平的知识？*** 来源：Tibor Blaho az X-en：“一些测试过 Orion 的 OpenAI 员工报告说，它在完成仅 20% 的训练后就达到了 GPT-4 级别的性能，但质量提升小于从 GPT-3 到 GPT-4 的飞跃，这表明随着高质量 https://t.co/tuuMuLvKpA” / X     提交人    /u/custodiam99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gonbz9/chatgpts_orion_hit_a_wall_can_derivative_natural/</guid>
-      <pubDate>Mon, 11 Nov 2024 08:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rombodawg 为“连续微调”添加了新方法（结果令人惊讶）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gokvpc/new_additional_method_to_continuousfinetuning_by/</link>
-      <description><![CDATA[我还没有测试过，但我的一个朋友说它对他的使用情况很有效，所以我鼓励其他人尝试一下，看看它是否有效。但无论如何，这是方法。 使用 Lora 训练 AI 模型并使用我的方法（链接如下）但是，当将 lora 合并到目标模型上时，而不是仅调整模型微调的最后一个时期，将每个时期调整为一个单独的模型，然后将所有模型合并在一起。 （下面还显示了使用mergekit的示例） 由Rombodawg进行的连续微调 新方法： 模型： - 模型：目标模型+lora-epoch-1 参数：密度：1 权重：1 - 模型：目标模型+lora-epoch-2 参数：密度：1 权重：1 - 模型：目标模型+lora-epoch-3 参数：密度：1 权重：1 - 模型：目标模型（通常是Instruct模型） 参数：密度：1 权重：1 merge_method：ties base_model：base-model 参数：密度：1 权重：1 normalize：true int8_mask: false dtype: float16  根据他的经验，他说这个版本的模型表现最好，用他自己的话说： “我将其与合并不同的 LoRA（您的常规方法）和根本不合并进行了比较。在这两种情况下，模型都忘记了如何“押韵”（这是有道理的，因为我的数据集充满了不押韵的科幻故事）但 epoch-wise-merge 确实发挥了作用。该模型仍然知道如何押韵，如何写故事，令人惊讶的是，它知道如何将两者结合起来！最重要的是它根本没有过度拟合。”-Anon 他主要将其用于写作，并且看到他的模型在训练后可以押韵和写故事，而其他两种方法使其能力不足。  所以我只是想分享一下，以防有人有兴趣尝试一种新的微调方法。祝你有美好的一天🙂    提交人    /u/Rombodawg   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gokvpc/new_additional_method_to_continuousfinetuning_by/</guid>
-      <pubDate>Mon, 11 Nov 2024 05:24:16 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能面试问题：RAG 框架</title>
