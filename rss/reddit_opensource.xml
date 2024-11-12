@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 12 Nov 2024 06:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 09:02:02 GMT</lastBuildDate>
+    <item>
+      <title>成功的开源软件是否只需要技术？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gpfgk3/is_only_tech_required_for_successful_oss/</link>
+      <description><![CDATA[嗨，开源的人们，OSS 项目是否需要营销和销售才能成功？ 或者只有技术才能避免业务团队的失败？ 就像 PeerDB 是因为出色的营销和 CEO 过去在被收购公司的经验而被收购一样，甚至他们自己也认为事情对他们来说是合适的。他们没有专门的业务团队。（我的个人观点） 问题是这条路径可以复制或重新创建吗？    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gpfgk3/is_only_tech_required_for_successful_oss/</guid>
+      <pubDate>Tue, 12 Nov 2024 07:34:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要使用 PFSense！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gpezfy/dont_use_pfsense/</link>
+      <description><![CDATA[我敢肯定，现在我们已经听说了 OPNSense 员工为何要分叉创建自己的 PFSense 分支，以及随后发生的戏剧性事件。但看起来 PFSense 员工从未改变过他们的态度。他们只是对如何滥用其用户群更加沉默寡言。 以下是我在 PFSense/Netgate subreddit 上创建的帖子。它只是指出 KEA DHCP 存在问题，尚未准备好投入生产，如果您决定使用它，请小心。在它引起关注后，Netgate 版主开始在帖子上对我进行嘲讽。尤其是名为“gonzopancho”的版主他在帖子上发表了 4 条恶意评论，然后在任何人回复之前立即将其锁定。在帖子发布后的 12 小时内，我被禁止进入 PFSense 和 Netgate Subreddits... 由于这次和过去的闹剧，我决定将自己和我的所有客户转移到 OPNSense。至少他们关心他们的社区。以下是现已删除的帖子的原始链接。如您所见，没有任何内容违反 subreddit 上的服务条款或规则。他们只是不喜欢我批评他们向 PFSense 设备推送通知，告诉人们迁移到 KEA，即使他们知道它已经坏了。 原始帖子： https://www.reddit.com/r/PFSENSE/comments/1gg6p2y/dont_use_kea_dhcp_its_not_ready_yet/Readable 帖子  可以看出。用户对此以及 Netgate 员工的幼稚行为感到不满。因此，我永远不会推荐任何人使用 PFSense。    提交人    /u/Bourne069   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gpezfy/dont_use_pfsense/</guid>
+      <pubDate>Tue, 12 Nov 2024 06:58:46 GMT</pubDate>
+    </item>
     <item>
       <title>当 spark 和其他开源工具出现时，Ab>Initio 是否仍然有意义，可以生存下来或增加客户群？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gpcxri/is_abinitio_still_relevant_and_can_survive_or/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[今天，我使用 Brave API 构建了一个搜索引擎。如果您希望我继续这个项目，请告诉我。 GitHub：https://github.com/ThriveEngineer/Grive-Search    由   提交  /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1go10mr/today_i_build_a_search_engine_with_the_brave_api/</guid>
       <pubDate>Sun, 10 Nov 2024 13:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>周末开发：Netflix 字幕翻译器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gnydxd/built_this_over_the_weekend_netflix_subtitle/</link>
-      <description><![CDATA[动机：最近，我发现自己深深地沉迷于日本电影、电视剧和网络连续剧。在东京旅行期间，我在机上娱乐系统上偶然发现了一部名为《北极百货公司的礼宾员》的日本电影。它有英文字幕，我被迷住了——但不幸的是，我没能在航班结束前看完它。当我回来时，我很高兴发现它可以在 Netflix Japan 上观看。然而，有一个问题：Netflix 只有日语字幕，而我的日语几乎不存在。我认为这是一个机会来构建一个解决方案来用英语欣赏这部电影。上周末，我创建了一个小型 Python 脚本，将只有日语的字幕翻译成英文，让我最终在完全理解的情况下看完了这部电影。这可能不是最具可扩展性的设置，但它确实完成了工作！ 这个项目有什么用？ : 这个项目的目标很简单：将 Netflix 上的日语电影字幕从日语翻译成英语。这个项目的动机来自于缺乏可用的英语字幕，这使得这个项目既是一个有趣的技术挑战，也是满足我特定需求的有用解决方案。目前设置为日语 -&gt;英语，但该设置可以扩展到其他语言对。 高级解决方案：该项目利用了 Netflix 流媒体和基于云的图像处理的一些有趣的细微差别：  由于电影在 Netflix 上，我对其进行了屏幕录制，但 Netflix DRM 策略使屏幕变黑，只留下可见的字幕。 此限制成为了一项功能：由于每帧中只有字幕可见，因此简化了预处理。 我使用 OpenCV 处理视频帧，每秒捕获一帧，然后将这些帧上传到 S3 存储桶。 接下来，我将每一帧发送到 Google Vision API，提取日语字幕文本。 提取文本后，将日语文本发送到 AWS Translate 以将其转换为英语。 最后，我将翻译后的文本编译成带有时间戳（开始时间、结束时间和翻译文本）的 JSON 文件。一个小的 JavaScript 脚本读取这个 JSON 文件并将翻译后的字幕叠加到电影上，以实现无缝播放。  目标受众：这个项目纯粹是个人努力，但任何对计算机视觉、媒体处理或云技术感兴趣的人都会发现它很有见地。它将 OpenCV、Google Vision、AWS S3 和 AWS Translate 结合在一个简化的解决方案中，以增强观影体验。 与类似工具的比较：虽然有 Chrome 扩展程序可以在 Netflix 上叠加双语字幕，但它们需要同时提供日语和英语字幕。我的情况有所不同 - 没有可用的英文字幕，因此需要采用独特的方法。 演示 / 屏幕截图： https://imgur.com/a/vWxPCua https://imgur.com/a/zsVkxhT 如果您好奇，请查看我的 Github Repo：https://github.com/Anubhav9/netfly-subtitle-converter 它仍在进行中，但请随时查看并分享任何反馈。    提交人    /u/Content_Ad_4153   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gnydxd/built_this_over_the_weekend_netflix_subtitle/</guid>
-      <pubDate>Sun, 10 Nov 2024 11:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有平台上最佳的开源音乐播放器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gnwlid/best_open_source_music_player_available_on_all/</link>
-      <description><![CDATA[对于本地存储库，所有平台上可用的最佳开源音乐播放器是什么？    提交人    /u/TechBasedQuestion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gnwlid/best_open_source_music_player_available_on_all/</guid>
-      <pubDate>Sun, 10 Nov 2024 09:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
