@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 03:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 06:01:50 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 11 月 12 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq63s4/oneminute_daily_ai_news_11122024/</link>
+      <description><![CDATA[ Markus Buehler 教授开发的一种 AI 方法发现了科学与艺术之间的隐藏联系，从而提出了新颖的材料。[1] AI 蛋白质预测工具 AlphaFold3 现已开源。[2] Nvidia 和 SoftBank 试行全球首个 AI 和 5G 电信网络。[3] 亚马逊 将使用“Trainium 2”与 Nvidia AI 芯片竞争。[4]  来源包括：https://bushaicave.com/2024/11/12/11-12-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq63s4/oneminute_daily_ai_news_11122024/</guid>
+      <pubDate>Wed, 13 Nov 2024 05:47:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找能够分析歌曲并根据人声、风格和情绪生成提示的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq5qyi/looking_for_an_ai_that_can_analyze_a_song_and/</link>
+      <description><![CDATA[大家好，我正在寻找一种可以分析歌曲然后根据其人声、音乐风格、情绪等生成提示的 AI 工具。基本上，它可以捕捉歌曲的精髓并将其转化为详细的提示。有人知道这种 AI 是否存在或者是否有类似的东西吗？提前谢谢了！    提交人    /u/Happy-Concentrate298   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq5qyi/looking_for_an_ai_that_can_analyze_a_song_and/</guid>
+      <pubDate>Wed, 13 Nov 2024 05:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软的 Magentic-One：用于任务执行的多 AI 代理框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq59vw/magenticone_by_microsoft_multi_ai_agent_framework/</link>
+      <description><![CDATA[微软上周发布了 Magentic-One，它是 AutoGen 的多 AI 代理任务扩展，主要侧重于任务执行。该框架看起来不错，很方便。说实话，不是最好的，但值得一试。您可以在此处查看更多详细信息：https://youtu.be/8-Vc3jwQ390    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq59vw/magenticone_by_microsoft_multi_ai_agent_framework/</guid>
+      <pubDate>Wed, 13 Nov 2024 04:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是人工智能领域的新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq512v/heres_what_is_making_news_in_the_ai/</link>
+      <description><![CDATA[聚焦 - Perplexity 在其平台上投放广告（来源：TechCrunch）  据传，苹果的 6 英寸“AI 墙式平板电脑”可在 2025 年 3 月前控制您的智能家居（来源：TechCrunch、The Verge） Anysphere 收购 Supermaven 以增强 Cursor（来源：TechCrunch） Particle 是一款使用 AI 来组织和总结新闻的新应用（来源：The Verge） 生成式 AI 初创公司 Writer 以 19 亿美元的估值筹集 2 亿美元（来源：TechCrunch） 亚马逊试图以 1.1 亿美元的赠款和信贷吸引 AI 研究人员（来源：TechCrunch） Red Hat 收购 AI 优化初创公司 Neural Magic（来源：TechCrunch）     由    /u/codeharman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq512v/heres_what_is_making_news_in_the_ai/</guid>
+      <pubDate>Wed, 13 Nov 2024 04:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt 类对话视觉模型（包含说明视频）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq4bfg/chatgpt_like_conversational_vision_model/</link>
+      <description><![CDATA[https://www.youtube.com/watch?v=sdulVogM2aQ https://github.com/agituts/ollama-vision-model-enhanced/ 基本操作： 上传图片：使用文件上传器选择并上传图片（PNG、JPG 或 JPEG）。 添加上下文（可选）：在“对话管理”下的侧栏中，您可以添加任何与对话相关的上下文。 输入提示：使用应用程序底部的聊天输入提出问题或提供与上传图像相关的提示。 查看回复：该应用程序将根据图像分析和您的提示显示 AI 助手的响应。  对话管理： 保存对话：对话会自动保存，可以从侧边栏的“以前的对话”下进行管理。 加载对话：单击对话标题旁边的文件夹图标 (📂) 加载以前的对话。 编辑标题：单击铅笔图标 (✏️) 并保存更改来编辑对话标题。 删除对话：使用垃圾桶图标 (🗑️) 删除单个对话，或使用“删除所有对话”按钮删除所有对话。    提交人    /u/Busy-Basket-5291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq4bfg/chatgpt_like_conversational_vision_model/</guid>
+      <pubDate>Wed, 13 Nov 2024 04:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析语音记录的最佳人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq3sau/best_ai_to_analyze_speech_transcripts/</link>
+      <description><![CDATA[分析语音记录的最佳 AI 平台是什么？我想给 AI 平台一份记录，让它返回某个人说了多少次特定的单词或短语。问题是记录是针对一个有很多发言者的事件的。 因此，它必须破译谁在讲话（例如，毕业典礼的记录将包括学院院长、大学校长、班级代表等所说的话的文本。我只想知道 John Doe 在他们讲话时说了多少次“example”这个词）。    提交人    /u/Quick_Comfortable_30   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq3sau/best_ai_to_analyze_speech_transcripts/</guid>
+      <pubDate>Wed, 13 Nov 2024 03:32:56 GMT</pubDate>
+    </item>
     <item>
       <title>截至 2024 年 12 月 12 日（26 天），Coursera Plus 一年可优惠 160 美元。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq2xdp/get_160_off_a_year_of_coursera_plus_through/</link>
@@ -18,20 +60,6 @@
       <description><![CDATA[有人用 AI 创建员工福利文件吗？例如，我采用并要求它从我拥有的 PDF 中获取一些信息，并创建一本福利手册，其中包括所有福利、我自己的联系信息、所有福利的详细信息，并包括福利的额外摘要。  我还没有成功制作出任何实质性的东西 - 有没有办法将文档放在某处并让人工智能将其构建出来？    提交人    /u/kingfelix333   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpym32/benefit_booklet/</guid>
       <pubDate>Tue, 12 Nov 2024 23:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何资源可以用于创建商业风格的活动吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpy3he/any_resources_for_creating_a_commercial_style/</link>
-      <description><![CDATA[对于我的一门课程，我们负责一个项目，以改造臭名昭著的 Frye 节。我们有一篇论文和一个视觉辅助工具要展示，但我认为一个很酷的想法是将商业视频融入我们的项目。但是，我没有视频编辑技能，其他人也没有。有什么资源可以用来创建这样的内容吗？     提交人    /u/Setsuo35   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpy3he/any_resources_for_creating_a_commercial_style/</guid>
-      <pubDate>Tue, 12 Nov 2024 22:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想找一位定制的 LLM 作为我的助手，以便我可以继续培训和提高。最好的选择是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpxw7f/id_like_a_custom_llm_as_my_own_assistant_that_i/</link>
-      <description><![CDATA[我应该去哪里？我对 chatGPT 不太满意，为特定目的保留自定义 LLM 似乎比实际功能更麻烦。     提交人    /u/fanzakh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpxw7f/id_like_a_custom_llm_as_my_own_assistant_that_i/</guid>
-      <pubDate>Tue, 12 Nov 2024 22:48:36 GMT</pubDate>
     </item>
     <item>
       <title>关于使用人工智能提供个性化财务建议的思考</title>
@@ -53,27 +81,6 @@
       <description><![CDATA[如果你在社交媒体（尤其是 Reddit）上发表大量想法/评论，任何人都可以在几秒钟内对你有深入的了解。 阅读它对你自己的 Reddit 个人资料的分析非常有趣。但必须注意的是，你在网上所采用的角色可能与现实生活中对你的看法大不相同。  将最近 2-3 个月的评论复制到 ChatGPT 中 要求它建立心理档案并避免粉饰。 （最好使用 o1-preview 或 o1-mini。） 完成。  我认为这些信息在某些情况下非常有价值。 我的结论是： u/ahtoshkaa 似乎是一个聪明的人，受到个人和环境挑战的影响。他们务实、往往愤世嫉俗的世界观很可能是生活在冲突频发地区的产物，在那里信任稀缺，生存至关重要。这导致他们非常关注自我和家庭，对社会结构持怀疑态度，并且更喜欢逻辑、技术追求而不是情感或社交活动。虽然他们直率的沟通风格和批判性的观点可能会疏远一些人，但他们揭示了一个人在复杂的现实中航行，使用他们的智力和技术技能作为应对和联系的工具，在传统支持系统可能不可靠或危险的环境中。 编辑： 这里有一个提示让你自己做：  请创建以下用户的心理档案。我会从他们的 reddit 个人资料中为你提供抓取的消息。在创建答案时不要粉饰太平。要诚实客观。  为获得最佳效果，请使用 o1-preview 或 o1-mini     提交人    /u/ahtoshkaa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt3kv/if_youre_an_avid_reddit_user_you_are_an_open_book/</guid>
       <pubDate>Tue, 12 Nov 2024 19:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用人工智能模型如何‘看见’周围的世界？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt1pn/how_does_a_genai_model_see_the_world_around_it/</link>
-      <description><![CDATA[OpenAI 的许多模型都具有视觉功能。有什么简单的方法来思考它是如何工作的？这实际上是一个将传统计算机视觉模型附加在其上的 gen-AI 模型吗？或者模型本身处理图像的方式与我们过去的方式相比根本不同/新颖？    提交人    /u/baconsarnie62   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt1pn/how_does_a_genai_model_see_the_world_around_it/</guid>
-      <pubDate>Tue, 12 Nov 2024 19:25:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们 Snapchat Ai 提供的信息好吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt13d/guys_is_snapchat_ai_good_with_the_information_it/</link>
-      <description><![CDATA[我使用 ChatGPT 和 Claude Ai，但当我试图理解某些东西时，他们的“专业回复”让我望而却步，哈哈。我正在参加远程学习课程，所以很明显我不能随时联系导师，所以当我学习内容时，我总是问这些人工智能机器人，比如哦，这是什么词，一步一步地说明这个过程是如何工作的，给我举个例子等等。Snapchat 的回答方式更热情     提交人    /u/Icy_Western9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt13d/guys_is_snapchat_ai_good_with_the_information_it/</guid>
-      <pubDate>Tue, 12 Nov 2024 19:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对最佳开源编码模型的“预训练”和“微调”权重进行了平均。结果非常好。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt0i1/i_averaged_the_weights_of_the_best_open_sourced/</link>
-      <description><![CDATA[模型在此处发布，因为这是每个人都想首先看到的： - https://huggingface.co/collections/rombodawg/rombos-coder-v25-67331272e3afd0ba9cd5d031 但基本上我的方法是结合微调和预训练模型的权重，以减少微调过程中所谓的灾难性遗忘。我将我的方法称为“连续微调” 我将在下面链接该文章。到目前为止，这是我制作的最高质量的编码模型（32b 版本），除了（Rombos-LLM-V2.5-Qwen-72b）模型之外。 这里是上面提到的写作： - https://docs.google.com/document/d/1OjbjU5AOz4Ftn9xHQrX3oFQGhQ6RDUuXQipnQ9gn6tU/edit?usp=sharing 如果您想跳到好的部分，这里是我用于合并模型的方法： 模型：-模型：./models/Qwen2.5-Coder-32B-Instruct 参数：权重：1 密度：1 merge_method：ties base_model：./models/Qwen2.5-Coder-32B 参数：权重：1 密度：1 normalize：true int8_mask：false dtype：bfloat16  无论如何，如果您有任何编码需求，就本地运行具有 apache 2.0 许可证的开源模型而言，14b 和 32b 模型应该是一些最好的编码模型。    提交人    /u/Rombodawg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpt0i1/i_averaged_the_weights_of_the_best_open_sourced/</guid>
-      <pubDate>Tue, 12 Nov 2024 19:24:16 GMT</pubDate>
     </item>
     <item>
       <title>我在使用 ChatGPT 和我的简历时不断收到大量面试邀请</title>
@@ -109,13 +116,6 @@
       <description><![CDATA[分享 AI 领域过去一周主要更新的易于理解且较小的版本。  NVIDIA 的新 AI 和模拟工具推动机器人技术发展 - 该公司的新工具和工作流程包括其 Isaac Lab 机器人学习框架、用于 Project GR00T 的六个新人形机器人学习工作流程，以及 NVIDIA 的 Cosmos 分词器和用于视频处理的 NeMo Curator。 Mistral 通过新的审核 API 升级 - 这家初创公司新推出的内容审核 API 由 Ministral 8B 提供支持，经过训练可以将多种语言的文本分为九类，并且可以应用于原始文本和对话文本。  全球首款人形机器人在拍卖会上出售艺术品 - Ai-Da 机器人绘制的二战著名密码破译者阿兰·图灵的画作以 1,084,800 美元的价格售出。此次活动标志着视觉艺术的一个重要里程碑，为人形机器人的艺术品树立了拍卖基准。  X 开放 Grok 供免费公开测试 - 通过免费向用户开放 Grok，xAI 可能正在为其产品寻求更大的用户群和更快的反馈周期。截至目前，新西兰的用户可以免费访问聊天机器人。  Anthropic 和 Palantir 与 AWS 合作为美国国防服务 - 此次合作促进了人工智能的负责任应用，使 Palantir 产品中的 Claude 能够改进情报分析，协助官员快速决策，并简化资源密集型任务。   还有更多……  微软为 Paint 推出了新的 AI 功能，例如生成填充和生成擦除，包括记事本的重写功能。  Qwen 发布三个新的 Qwen 2.5 开源编码器系列，每个系列有六种型号：Qwen2.5-Coder（0.5B/1.5B/3B/7B/14B/32B）。  苹果推出 iOS 18.2 beta 3，具有 Genmoji、Image Playground、Siri ChatGPT 集成、写作工具、视觉智能和 Image Wand 等智能功能。  OpenAI 以未公开的价格购买了 Chat.com 域名，该域名之前由 Hbuspot 首席技术官 Dharmesh Shah 所有。该域名将用户重定向到 ChatGPT 网站。  Nous Research 宣布推出面向用户的聊天机器人 Nous Chat，该机器人具有推理增强功能、新模型、实验功能等。  新 AI 初创公司 Panjaya 在其新工具中使用 deepfake 技术，通过模仿身体动作来匹配语音模式，从而用新语言重现说话者的原始声音。  OpenAI 的研究和安全副总裁 Lilian Weng 宣布辞职。她的离职是众多 AI 安全和政策研究人员离开公司的最新一例。  谷歌推出了一款基于 LearnLM AI 模型的新 AI 工具 LearnAbout，该工具提供具有教育格式的视觉和交互元素的答案。  谷歌推出了一款适用于 iOS 的独立 Gemini 应用，名为“Google Gemini”，目前在 iOS 应用商店的部分地区可用。  据消息人士透露，亚马逊可能会再向一家名为 Anthropic 的 AI 初创公司投资数十亿美元。这项投资将使其客户能够提前使用 Anthropic 技术。   有关这些新闻和创新的更详细分类，请参阅时事通讯。    提交人    /u/RohitAkki   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpqcus/weekly_ai_updates_nov_06_to_nov_12_major_news/</guid>
       <pubDate>Tue, 12 Nov 2024 17:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一种方法将 ChatGPT（或其他工具？）转变为一种交互式库。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gppaw4/need_a_way_to_turn_chatgpt_or_another_tool_into_a/</link>
-      <description><![CDATA[您好， 我接到了一项工作任务，这项任务似乎开始变得不可能完成，至少对于 ChatGPT 来说是这样。 我从事媒体制作工作。我正在尝试设计一种方法，让用户可以上传一系列培训和技术手册，并提出查询，ChatGPT 将充当这些查询的代理。 例如，在尝试识别技术含量高的教育动画所需的 3D 资产时，用户应该能够询问“文档 A、B 和 C 中提到的哪些项目是完成文档 D 中的第一个目标所必需的？”  使用基本 ChatGPT 时，我已经接近了，但出现了大量幻觉，我无法相信这种方法是准确的。 我尝试了一些 PDF 阅读器 GPT，但它们不是很有效，似乎它们只能处理任何一个查询的几页。我需要一种方法让 LLM 一次表示数千页。  任何帮助都值得赞赏！  谢谢。     提交人    /u/FutureSpread   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gppaw4/need_a_way_to_turn_chatgpt_or_another_tool_into_a/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:53:21 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
