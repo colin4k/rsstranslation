@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 00:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 03:04:49 GMT</lastBuildDate>
+    <item>
+      <title>截至 2024 年 12 月 12 日（26 天），Coursera Plus 一年可优惠 160 美元。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gq2xdp/get_160_off_a_year_of_coursera_plus_through/</link>
+      <description><![CDATA[  由    /u/ewan_m  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gq2xdp/get_160_off_a_year_of_coursera_plus_through/</guid>
+      <pubDate>Wed, 13 Nov 2024 02:48:39 GMT</pubDate>
+    </item>
     <item>
       <title>福利手册</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpym32/benefit_booklet/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[嗨，我是 Austin！我是一名视觉学习者和数据分析研究生，对 LLM、RAG 和矢量数据库的疯狂技术进步感到兴奋。我对所有尖端人工智能都很着迷。我参观了旧金山，被我从未听说过的概念所震撼：从 RAG 到幻觉。 我制作此视频是为了自学和其他人学习与检索增强生成相关的概念。如果您想查看，请点击以下链接：https://youtu.be/zzRQNSpyUPQ 我很想知道您对我的解释、您建议我涵盖的其他主题或任何（很好的）建设性反馈的看法。我喜欢这个主题，想制作更多视频。更深入地探索向量数据库、LLM、检索器算法等。 非常感谢！    提交人    /u/SoftwareDream   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpuv90/rag_explained_in_7_minutes_the_future_of_ai/</guid>
       <pubDate>Tue, 12 Nov 2024 20:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该从 DS 转到 SWE 以从事 AI 职业？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gptq92/should_i_switch_from_ds_to_swe_for_a_career_in_ai/</link>
-      <description><![CDATA[大家好，我目前正在学习数据科学，目标是从事人工智能工作。 我的最终目标是找到一份能让我深入了解人工智能的工作，以便有朝一日能在该领域创造出一些创新的东西。我可以选择转到计算机科学专业（即转到 SWE 职业而不是 DS 职业），但如果这样做，我将失去一个学期甚至一年的时间。 我的主要问题是：  多年的数据科学家工作经验能否为我打下坚实的 AI 基础，尤其是在实际的模型构建和开发方面？ 数据科学中的 AI 角色是否主要侧重于数据分析而不是实际建模？ 对于渴望在 AI 领域创造新颖事物的人来说，从事软件工程而不是数据科学的职业道路更好，还是 DS 同样有效？  感谢您的任何建议，尤其是那些可能面临类似决定的人的建议！ 这应该可以澄清您的问题，并让社区更清楚地了解您的意图。    提交人    /u/Filippo295   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gptq92/should_i_switch_from_ds_to_swe_for_a_career_in_ai/</guid>
-      <pubDate>Tue, 12 Nov 2024 19:53:33 GMT</pubDate>
     </item>
     <item>
       <title>如果你是一个狂热的 Reddit 用户，你就是一本打开的书</title>
@@ -113,7 +113,7 @@
     <item>
       <title>需要一种方法将 ChatGPT（或其他工具？）转变为一种交互式库。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gppaw4/need_a_way_to_turn_chatgpt_or_another_tool_into_a/</link>
-      <description><![CDATA[您好， 我被要求完成一项工作任务，这似乎是不可能的，至少对于 ChatGPT 来说是这样。 我从事媒体制作工作。我正在尝试设计一种方法，让用户可以上传一系列培训和技术手册，并提出查询，ChatGPT 将充当这些查询的代理。 例如，在尝试识别技术含量高的教育动画所需的 3D 资产时，用户应该能够询问“文档 A、B 和 C 中提到的哪些项目是完成文档 D 中的第一个目标所必需的？”  使用基本 ChatGPT 时，我已经接近了，但出现了大量幻觉，我无法相信这种方法是准确的。 我尝试了一些 PDF 阅读器 GPT，但它们不是很有效，似乎它们只能处理任何一个查询的几页。我需要一种方法让 LLM 一次表示数千页。  任何帮助都值得赞赏！  谢谢。     提交人    /u/FutureSpread   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我接到了一项工作任务，这项任务似乎开始变得不可能完成，至少对于 ChatGPT 来说是这样。 我从事媒体制作工作。我正在尝试设计一种方法，让用户可以上传一系列培训和技术手册，并提出查询，ChatGPT 将充当这些查询的代理。 例如，在尝试识别技术含量高的教育动画所需的 3D 资产时，用户应该能够询问“文档 A、B 和 C 中提到的哪些项目是完成文档 D 中的第一个目标所必需的？”  使用基本 ChatGPT 时，我已经接近了，但出现了大量幻觉，我无法相信这种方法是准确的。 我尝试了一些 PDF 阅读器 GPT，但它们不是很有效，似乎它们只能处理任何一个查询的几页。我需要一种方法让 LLM 一次表示数千页。  任何帮助都值得赞赏！  谢谢。     提交人    /u/FutureSpread   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gppaw4/need_a_way_to_turn_chatgpt_or_another_tool_into_a/</guid>
       <pubDate>Tue, 12 Nov 2024 16:53:21 GMT</pubDate>
     </item>
