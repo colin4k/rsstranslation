@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 13 Nov 2024 09:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:02:24 GMT</lastBuildDate>
+    <item>
+      <title>WebVM 2.0：通过 WebAssembly 在浏览器中实现完整的 Linux 桌面环境</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqazit/webvm_20_a_complete_linux_desktop_environment_in/</link>
+      <description><![CDATA[  由    /u/alexp_lt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqazit/webvm_20_a_complete_linux_desktop_environment_in/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>分布式系统如何使用悲观锁定避免竞争条件？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqaujf/how_distributed_systems_avoid_race_conditions/</link>
+      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqaujf/how_distributed_systems_avoid_race_conditions/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 VSCode 主题社区创建、共享和发现新的 VSCode 主题</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqajhb/create_share_and_discover_new_vscode_themes_at/</link>
+      <description><![CDATA[  由    /u/Ill-Ebb351  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqajhb/create_share_and_discover_new_vscode_themes_at/</guid>
+      <pubDate>Wed, 13 Nov 2024 11:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>近期现代安全漏洞的注意事项</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq9lmp/donts_from_recent_breaches_in_modern_security/</link>
+      <description><![CDATA[  由    /u/soap94  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq9lmp/donts_from_recent_breaches_in_modern_security/</guid>
+      <pubDate>Wed, 13 Nov 2024 10:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>古老而宝贵：模块化整体结构 • Simon Brown</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq9k9x/old_but_gold_modular_monoliths_simon_brown/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq9k9x/old_but_gold_modular_monoliths_simon_brown/</guid>
+      <pubDate>Wed, 13 Nov 2024 10:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>告别 Scrum 黄金时代</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq8uy7/sayonaratothegoldenageofscrum/</link>
+      <description><![CDATA[  由   ​​ /u/signalbound  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq8uy7/sayonaratothegoldenageofscrum/</guid>
+      <pubDate>Wed, 13 Nov 2024 09:08:56 GMT</pubDate>
+    </item>
     <item>
       <title>值得关注的非法学硕士软件趋势</title>
       <link>https://www.reddit.com/r/programming/comments/1gq8fyd/nonllm_software_trends_to_be_excited_about/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gprbx3/introducing_copilot_edits/</guid>
       <pubDate>Tue, 12 Nov 2024 18:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 .NET 9</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpqh7z/announcing_net_9/</link>
-      <description><![CDATA[  由    /u/Atulin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpqh7z/announcing_net_9/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要对 Postgres 这样做</title>
-      <link>https://www.reddit.com/r/programming/comments/1gppvpj/dont_do_this_with_postgres/</link>
-      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gppvpj/dont_do_this_with_postgres/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试不可测试的内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpouil/testing_the_untestable/</link>
-      <description><![CDATA[  由    /u/jerodsanto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpouil/testing_the_untestable/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎩 介绍 SITS - Snake In The Shell 🐍：您的一站式 Python 管理套件！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpobq8/introducing_sits_snake_in_the_shell_your_onestop/</link>
-      <description><![CDATA[  由    /u/Emergency-Ad666  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpobq8/introducing_sits_snake_in_the_shell_your_onestop/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码是资产还是负债？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpnyff/is_code_an_asset_or_a_liability/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpnyff/is_code_an_asset_or_a_liability/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:57:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webhook 版本控制：如何对 Webhook 进行版本控制</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpncuf/webhook_versioning_how_to_version_webhooks/</link>
-      <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpncuf/webhook_versioning_how_to_version_webhooks/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:31:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

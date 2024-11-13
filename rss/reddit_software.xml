@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 09:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:02:18 GMT</lastBuildDate>
+    <item>
+      <title>用于密码保护常规闪存驱动器/SD 卡内容的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gq9kva/software_to_passwordprotect_the_contents_of_a/</link>
+      <description><![CDATA[基本上，我的手机没有足够的存储空间，而且我偶尔需要访问一堆媒体（主要是视频和图像），通常是只读的。 因此，我的解决方案是钥匙串存储。问题是，如果我丢了钥匙，任何聪明到理解 USB C 闪存驱动器概念的人都可以完全查看内容，我想避免这种情况。 基本上，它必须对 Android 和 Windows 都可读，解密（？）不应该是一个巨大的 PITA，输入 4 到 6 个数字就可以了。它不必是 FBI 的证据，只要激励 95% 的不诚实发现者将其擦除即可。内容无论如何都会备份。或者，任何“隐藏”内容（也导致大多数用户只是格式化）也应该比没有好。 免费和开源的解决方案将是一个巨大的积极因素。    提交人    /u/Alias_X_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gq9kva/software_to_passwordprotect_the_contents_of_a/</guid>
+      <pubDate>Wed, 13 Nov 2024 10:03:31 GMT</pubDate>
+    </item>
     <item>
       <title>现场音频混音器（混音 + VB 电缆）和输出软件（免费）。</title>
       <link>https://www.reddit.com/r/software/comments/1gq3f3i/live_audio_mixer_mix_vb_cable_output_software_free/</link>
-      <description><![CDATA[hii 我需要一个音频软件，让我可以组合我的麦克风输入 + VB 电缆输出，并且它应该实时输出两者的组合（通过该应用程序输出）。 类似于音板 + 语音的东西，可以在游戏/通话等中使用。 我猜它们被称为“音频混音器应用程序”，但对我来说 VoiceMeeter 不起作用。 （输出不起作用，也许可以排除故障。）    提交人    /u/ThatMovieGuy9937   [链接] [评论]]]></description>
+      <description><![CDATA[hii 我需要一个音频软件，让我可以组合我的麦克风输入 + VB 电缆输出，并且它应该实时输出两者的组合（通过该应用程序输出）。 类似于音板 + 语音的东西，可用于游戏/通话等。 我猜它们被称为“音频混音器应用程序”，但对我来说 VoiceMeeter 不起作用。 （输出不起作用，也许可以排除故障。）    提交人    /u/ThatMovieGuy9937   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gq3f3i/live_audio_mixer_mix_vb_cable_output_software_free/</guid>
       <pubDate>Wed, 13 Nov 2024 03:13:41 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在为学校拍摄班级照片，今年有 5,000 名毕业生。我们想找到一个软件，可以标记每个学生，然后搜索该学生并突出显示他在照片中的位置。是否有任何在线工具可以执行此操作并且可以嵌入或从外部网站链接到？    提交人    /u/ReadThinkDoMore   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gow55r/photo_tagging_software_online_tag_5000_people_in/</guid>
       <pubDate>Mon, 11 Nov 2024 16:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>刺绣软件 - pyembroidery 文件类型</title>
-      <link>https://www.reddit.com/r/software/comments/1gou796/embroidery_software_pyembroidery_file_types/</link>
-      <description><![CDATA[大家好， 我正在做一个小项目，我可以从刺绣设计文件中创建缩略图。这只是一个更大的整体项目中的一个子集功能。我目前正在使用 pyembroidery 库（https://github.com/EmbroidePy/pyembroidery）并希望扩展可以转换的文件类型。 有技术上精通的人可以帮忙补偿吗？您知道还有其他有用的刺绣库（最好是 python）吗？最后，我想问一下人群中是否有任何刺绣软件大师。 TIA    提交人    /u/tkaldridge88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gou796/embroidery_software_pyembroidery_file_types/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:02:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
