@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 13 Nov 2024 18:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 21:02:00 GMT</lastBuildDate>
+    <item>
+      <title>在 Linux 上生成进程</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqnfrs/spawning_processes_on_linux/</link>
+      <description><![CDATA[  由    /u/bobbobbio2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqnfrs/spawning_processes_on_linux/</guid>
+      <pubDate>Wed, 13 Nov 2024 21:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brian Kernighan 在 1996 年第一次 CS50 讲座上修剪胡子</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqn344/brian_kernighan_trims_his_beard_in_first_cs50/</link>
+      <description><![CDATA[  由    /u/davey_b  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqn344/brian_kernighan_trims_his_beard_in_first_cs50/</guid>
+      <pubDate>Wed, 13 Nov 2024 20:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索历史趋势存储库</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqlu4y/explore_historical_trending_repositories/</link>
+      <description><![CDATA[  由    /u/onurkanbkrc  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqlu4y/explore_historical_trending_repositories/</guid>
+      <pubDate>Wed, 13 Nov 2024 19:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>高级 ZIP 文件可无限扩展</title>
       <link>https://www.reddit.com/r/programming/comments/1gqj1vi/advanced_zip_files_that_infinitly_expand_itself/</link>
       <description><![CDATA[对于我的硕士论文，我编写了一个 zip quines 生成器。这些 zip 可以无限包含自身。 one.zip -&gt; one.zip -&gt; one.zip -&gt; ... 通过进一步阐述 Russ Cox 在 Zip Files All The Way Down 中的解释，我能够在 zip quines 中包含额外的文件。 这类似于 Erling Ellingsen 的 droste.zip，他丢失了创建它的方法。通过使用生成器，现在每个人都可以创建这样的文件。 更进一步，我研究了创建具有以下结构的 zip 文件的可能性： one.zip -&gt; two.zip -&gt; one.zip -&gt; ... 这种类型的 zip 文件具有两个相互包含的 zip 的无限循环。据我所知，以前从未这样做过。这就是为什么我很自豪地说我成功创建了这样的文件，这将是世界首创。 因此，我的教授和我决定在期刊上发表使用的方法。现在完成了，我终于可以与大家分享这个程序了。我想你们可能会喜欢这个。    提交人    /u/GunGambler   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gqj1vi/advanced_zip_files_that_infinitly_expand_itself/</guid>
       <pubDate>Wed, 13 Nov 2024 17:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>JetBrains 2024.3 版本提升了开发人员体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqixh7/jetbrains_20243_release_elevates_the_developer/</link>
-      <description><![CDATA[  由    /u/livaoexperience  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqixh7/jetbrains_20243_release_elevates_the_developer/</guid>
-      <pubDate>Wed, 13 Nov 2024 17:53:35 GMT</pubDate>
     </item>
     <item>
       <title>使用 eBPF 分析 Lua</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gq8b5k/how_to_optimize_css_for_speed/</guid>
       <pubDate>Wed, 13 Nov 2024 08:24:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Entity Framework Core 中臭名昭著的 N+1 查询问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1gq88ju/infamous_n1_query_problem_with_entity_framework/</link>
-      <description><![CDATA[  由    /u/kbegiedza  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gq88ju/infamous_n1_query_problem_with_entity_framework/</guid>
-      <pubDate>Wed, 13 Nov 2024 08:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Excel、Python、运输大亨进行数据科学</title>
-      <link>https://www.reddit.com/r/programming/comments/1gq7u7d/data_science_with_excel_python_transport_tycoon/</link>
-      <description><![CDATA[  由    /u/DataQuality  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gq7u7d/data_science_with_excel_python_transport_tycoon/</guid>
-      <pubDate>Wed, 13 Nov 2024 07:49:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
