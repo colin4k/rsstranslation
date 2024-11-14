@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Nov 2024 09:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:02:25 GMT</lastBuildDate>
+    <item>
+      <title>🤝 开放源代码倡议 (OSI) 和 Eclipse 基金会签署了一份谅解备忘录，以推进支持负责任的 #opensource AI 的政策。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gr2b8h/the_open_source_initiative_osi_and_eclipse/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gr2b8h/the_open_source_initiative_osi_and_eclipse/</guid>
+      <pubDate>Thu, 14 Nov 2024 11:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>适用于模块化 AI 项目的全新开源 ESP32 机器人套件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gr08qf/new_opensource_esp32_robotics_kit_for_modular/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨，Reddit！ 我是一名大学生，正在为我的团队完成代码优化任务，我们正在寻找可以进行一些改进的 Java 代码库。我们对代码指标较差（例如，高复杂性、较差的内聚性或高耦合）的项目感兴趣，我们可以将其作为任务的一部分来解决。 项目要求  Java 代码库：用 Java 编写，包含 100 到 500 个类。 可构建：项目应该易于构建，并且有设置说明或文档将会非常有帮助！  如果您有任何建议或知道符合这些标准的开源 Java 项目，请分享链接或联系我们。提前感谢您提供的任何帮助！   由    /u/Individual-Bowler-10  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gpmdb9/looking_for_java_projects_with_optimization/</guid>
       <pubDate>Tue, 12 Nov 2024 14:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有可定制 UI 和高性能的轻量级开源浏览器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gpm1v4/looking_for_lightweight_opensource_browser_with/</link>
-      <description><![CDATA[我想从 Chrome 转移，所以我安装了 Via，它非常适合我的用例 - 出色的用户界面、大量自定义选项以及仅 2 MB 中包含的所有必要功能。它非常适合我的低端 2 GB RAM 设备，直到我发现它是一个中文应用程序，它的 GitHub 页面只是一个查询页面，没有开源可用性。当我开始寻找 Via 的开源替代品时，我一个也找不到。FOSS 和 STYX 很接近，但 STYX 已经两年没有维护了，而 FOSS 有点复杂，缺少导航栏。它们甚至都没有搜索小部件。 我发现的所有 Chromium 分支都很大，Firefox 分支既不可定制也不快。 我正在寻找一款具有良好用户界面且速度快的开源浏览器。如果它基于 WebView，那就更好了，因为它体积更小，整体速度更快。但是，如果重量轻且速度快，我也愿意接受基于 Chromium 或 Firefox 的选项。    提交人    /u/Important_Scale_7550   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gpm1v4/looking_for_lightweight_opensource_browser_with/</guid>
-      <pubDate>Tue, 12 Nov 2024 14:33:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
