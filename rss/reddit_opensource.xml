@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Nov 2024 12:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 15:02:02 GMT</lastBuildDate>
+    <item>
+      <title>让我们加密证书管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gr5lnn/lets_encrypt_cert_manager/</link>
+      <description><![CDATA[我一直在寻找，但找不到自动更新我的 VM 和机器的 lets encrypt 证书的方法。  有人知道一些开源 docker 或 VM 可以在证书到期时检查、更新然后替换它们吗？  或者给我指出一个 Linux 脚本的方向，该脚本可以将我的 opnsense 通配符复制到其他人。  谢谢    提交人    /u/AmaTxGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gr5lnn/lets_encrypt_cert_manager/</guid>
+      <pubDate>Thu, 14 Nov 2024 14:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>SFTP 服务器 Windows</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gr4jsq/sftp_server_windows/</link>
+      <description><![CDATA[大家好！ 就像标题所说，我正在寻找一个免费的开源 SFTP 服务器解决方案。我有一个媒体服务器，我正在使用它来流式传输我的音乐。我正在寻找一个安全的远程上传音乐解决方案。    提交人    /u/Olaf2k4   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gr4jsq/sftp_server_windows/</guid>
+      <pubDate>Thu, 14 Nov 2024 13:17:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gr4hky/adobe/</link>
+      <description><![CDATA[大家好，我想知道是否有 photoshop 和 acrobat reader 的替代版本？如果可能的话，可以在 Linux 系统上运行。    提交人    /u/LAIK_HUKUKCU   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gr4hky/adobe/</guid>
+      <pubDate>Thu, 14 Nov 2024 13:14:24 GMT</pubDate>
+    </item>
     <item>
       <title>🤝 开放源代码倡议 (OSI) 和 Eclipse 基金会签署了一份谅解备忘录，以推进支持负责任的 #opensource AI 的政策。</title>
       <link>https://www.reddit.com/r/opensource/comments/1gr2b8h/the_open_source_initiative_osi_and_eclipse/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[每当我尝试为开源项目贡献一些功能或修复错误时，我都发现很难理解代码和软件架构，因此我现在很少为新项目做出贡献，因为我知道维护者只需要 10 分钟就能完成的简单修复，而我却需要花费数小时甚至数天的时间来开发。即使是那些我花了很多时间调试的项目，在架构方面也往往难以理解，我开始想知道是否有更好的方法来进入这样的项目并理解现有的代码。即使项目有良好的文档，它也很少能很好地解决源代码结构，从而很好地掌握执行流程和架构。 我曾考虑尝试使用函数流图工具来解决这个问题，以生成一些视觉帮助来理解代码结构，但也许有更好的方法可以快速理解完全陌生的代码。 任何关于这方面的建议都将不胜感激。   由    /u/ElectronicComplex182  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gps6a9/how_to_get_and_understanding_of_the_code_for/</guid>
       <pubDate>Tue, 12 Nov 2024 18:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Java 脚本的 PDF2CSV 转换器的最佳开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gpr9v2/best_open_source_for_pdf2csv_converter_based_on/</link>
-      <description><![CDATA[  由    /u/dambrubaba  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gpr9v2/best_open_source_for_pdf2csv_converter_based_on/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么欧盟公民可以请愿软件自由，而我们不能？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gpo4dd/why_can_eu_citizens_petition_for_software_freedom/</link>
-      <description><![CDATA[       由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gpo4dd/why_can_eu_citizens_petition_for_software_freedom/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有优化潜力的 Java 项目进行作业练习📉➡️📈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gpmdb9/looking_for_java_projects_with_optimization/</link>
-      <description><![CDATA[嗨，Reddit！ 我是一名大学生，正在为我的团队完成代码优化任务，我们正在寻找可以进行一些改进的 Java 代码库。我们对代码指标较差（例如，高复杂性、较差的内聚性或高耦合）的项目感兴趣，我们可以将其作为任务的一部分来解决。 项目要求  Java 代码库：用 Java 编写，包含 100 到 500 个类。 可构建：项目应该易于构建，并且有设置说明或文档将会非常有帮助！  如果您有任何建议或知道符合这些标准的开源 Java 项目，请分享链接或联系我们。提前感谢您提供的任何帮助！   由    /u/Individual-Bowler-10  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gpmdb9/looking_for_java_projects_with_optimization/</guid>
-      <pubDate>Tue, 12 Nov 2024 14:48:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
