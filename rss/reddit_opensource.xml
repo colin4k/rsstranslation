@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Nov 2024 00:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 03:05:56 GMT</lastBuildDate>
+    <item>
+      <title>Onestack.cloud - 一家致力于为所有开源应用程序（Cal、n8n、penpot）开发第一个控制中心的初创公司！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gqslx1/onestackcloud_startup_working_on_first_control/</link>
+      <description><![CDATA[嘿，大家好！！我和我的联合创始人 George 一直致力于开发第一个适用于所有开源应用程序的控制中心（如果您愿意自行托管） - 从实际意义上讲，这意味着您可以从订阅中添加或删除工具，并只需单击一下即可管理团队对所有工具中工作区的访问权限 - 就像 ERP 一样，但是是开放和分散的。 链接可访问我们的网站和演示！！ 在构建跨应用程序集成时，我们不仅仅是连接软件 - 我们还发现错误、改进代码，并将这些改进推回原始项目（下面是上周的一个例子）。 Onestack 包括以下应用程序：  Penpot n8n Element Chatwoot Plane Cal Formbricks Documenso  我们的定价为每 10 个用户每月每件产品 10 美元（我们讨厌按用户/月计算），每个产品订阅中的 1 美元将返还给原始产品。 我们有 15 个设计合作伙伴每周提供反馈，他们在早期访问期间为所有产品支付 10 美元。我们希望有更多技术团队加入我们的平台并提供一些很棒的反馈！ Onestack PR 在为 Cal.com 进行 Zoho 集成时，我们发现了一个障碍：Cal 的 Zoho 集成假定数据中心位置代码与顶级域名相匹配（例如，澳大利亚数据中心的 AU）。但 Zoho 使用“.com.au”而不是“.au”，这意味着澳大利亚用户根本无法将他们的 Zoho 日历连接到 Cal！我们介入并提交了一个干净的 PR 来修复 OAuth 回调，现在澳大利亚人可以无缝链接他们的 Zoho 帐户。    提交人    /u/Traditional-Belt-219   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gqslx1/onestackcloud_startup_working_on_first_control/</guid>
+      <pubDate>Thu, 14 Nov 2024 00:51:01 GMT</pubDate>
+    </item>
     <item>
       <title>Musoq 0.17.2：类似 SQL 的 Git 存储库查询、C# 代码分析等</title>
       <link>https://www.reddit.com/r/opensource/comments/1gqqw1w/musoq_0172_sqllike_querying_for_git_repositories/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[介绍 Buttercup，这是一款轻量级的 Linux CLI 应用程序，可让您通过播放跟踪流式传输种子，由 Jackett 和 Peerflix 提供支持。享受 MPV 中的直接种子流式传输、可自定义的配置和 Rofi 集成，以便于选择。查看演示并尝试一下！ Github 链接：https://github.com/Wraient/buttercup    提交人    /u/WraientDaemon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gpkp6c/buttercup_a_simple_cli_tool_for_streaming/</guid>
       <pubDate>Tue, 12 Nov 2024 13:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何具有端到端数据加密的位置跟踪的开源应用程序吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gphv4z/any_opensource_application_for_location_tracking/</link>
-      <description><![CDATA[我想让我的家人和销售团队随时跟踪他们的位置。我不想将其用于间谍或任何其他恶意目的。    提交人    /u/dg02512021   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gphv4z/any_opensource_application_for_location_tracking/</guid>
-      <pubDate>Tue, 12 Nov 2024 10:37:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
