@@ -4,7 +4,105 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 14 Nov 2024 06:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 09:02:08 GMT</lastBuildDate>
+    <item>
+      <title>使用 WebAssembly 在浏览器中构建分析工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1gr0oqs/building_an_analytics_tool_in_the_browser_with/</link>
+      <description><![CDATA[  由    /u/Dilocan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gr0oqs/building_an_analytics_tool_in_the_browser_with/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为了让每一位程序员都掌握TCP分析的技能，我开发了一个TCP分析工具：ChatTCP。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gr0ngf/in_order_to_equip_every_programmer_with_the_skill/</link>
+      <description><![CDATA[  由    /u/PassengerLate3644  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gr0ngf/in_order_to_equip_every_programmer_with_the_skill/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:53:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁使用代码生成器来制作 UI：您的反馈是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gr0be9/anybody_using_code_generators_for_the_ui_whats/</link>
+      <description><![CDATA[  由    /u/Sea-Blacksmith-5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gr0be9/anybody_using_code_generators_for_the_ui_whats/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raku 的五个不同寻常的功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1gr03l9/five_unusual_raku_features/</link>
+      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gr03l9/five_unusual_raku_features/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个分支统治所有分支 | 指南系列 #1</title>
+      <link>https://www.reddit.com/r/programming/comments/1gr0330/one_branch_to_rule_them_all_guides_series_1/</link>
+      <description><![CDATA[  由    /u/data_owner  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gr0330/one_branch_to_rule_them_all_guides_series_1/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:08:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个基于浏览器的玩具操作系统，模仿 Debian 系统，ElectronOS（与 Electron JS 无关）是一个开源项目，它也有一个带有原始 JS 核心的 GUI 用于逻辑。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqzyuu/made_a_browser_based_toy_operating_system_that/</link>
+      <description><![CDATA[  由    /u/Mean_Option_7459  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqzyuu/made_a_browser_based_toy_operating_system_that/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始创建受《星际迷航》启发的 GenAI 副驾驶</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqzy3c/creating_a_star_trekinspired_genai_copilot_from/</link>
+      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqzy3c/creating_a_star_trekinspired_genai_copilot_from/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>对新手来说很好的教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqzv6w/good_turorial_for_noobs/</link>
+      <description><![CDATA[我在网上找到了这个很酷的教程，我想在这里分享一下    提交人    /u/Cosmote_Is_Me   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqzv6w/good_turorial_for_noobs/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新审视发件箱模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqzojt/revisiting_the_outbox_pattern/</link>
+      <description><![CDATA[  由    /u/gunnarmorling 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqzojt/revisiting_the_outbox_pattern/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个浏览器扩展（玩具项目）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqzjq9/first_browser_extension_toy_project/</link>
+      <description><![CDATA[我编写了一个扩展程序，用于从 Instagram 帖子和卷轴下载媒体（适用于公共帐户和您关注的私人帐户）。请随意尝试，欢迎任何反馈。    提交人    /u/gokulraj_v8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqzjq9/first_browser_extension_toy_project/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:27:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google：go-safeweb 是使用 Go 编写默认安全 HTTP 服务器的库的集合</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqzj01/google_gosafeweb_is_a_collection_of_libraries_for/</link>
+      <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqzj01/google_gosafeweb_is_a_collection_of_libraries_for/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Langchain4J 的思考</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqytsw/langchain4j_musings/</link>
+      <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqytsw/langchain4j_musings/</guid>
+      <pubDate>Thu, 14 Nov 2024 06:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TargetJ 简介：事件、动画、API 调用等的统一框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqypkk/introducing_targetj_a_unified_framework_for/</link>
+      <description><![CDATA[  由    /u/Various-Beautiful417  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqypkk/introducing_targetj_a_unified_framework_for/</guid>
+      <pubDate>Thu, 14 Nov 2024 06:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>改善生产级系统的 Git 工作流程：我的经验之谈</title>
+      <link>https://www.reddit.com/r/programming/comments/1gqyjh6/improving_git_workflows_for_productiongrade/</link>
+      <description><![CDATA[  由    /u/ashwin2125  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gqyjh6/improving_git_workflows_for_productiongrade/</guid>
+      <pubDate>Thu, 14 Nov 2024 06:14:57 GMT</pubDate>
+    </item>
     <item>
       <title>开启 37 小时 Flutter 教程之旅！有人想加入小组学习吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1gqy3zg/starting_a_37hour_flutter_tutorial_journey_anyone/</link>
@@ -46,104 +144,6 @@
       <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gqvjsr/private_llm_integration_with_ragflow_a_stepbystep/</guid>
       <pubDate>Thu, 14 Nov 2024 03:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在尝试克隆 React 的同时，构建了一个受 Rust 启发的小型前端框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1gquern/built_a_small_rustinspired_frontend_framework/</link>
-      <description><![CDATA[  由    /u/InfinityZeroFive  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gquern/built_a_small_rustinspired_frontend_framework/</guid>
-      <pubDate>Thu, 14 Nov 2024 02:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>emiT - 一种时间旅行编程语言 - Alpha 1 - 首次正式发布！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqs4my/emit_a_time_traveling_programming_language_alpha/</link>
-      <description><![CDATA[  由    /u/nimrag_is_coming  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqs4my/emit_a_time_traveling_programming_language_alpha/</guid>
-      <pubDate>Thu, 14 Nov 2024 00:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Musoq 0.17.2：类似 SQL 的 Git 存储库查询、C# 代码分析等</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqp0z6/musoq_0172_sqllike_querying_for_git_repositories/</link>
-      <description><![CDATA[  由    /u/Puchaczov  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqp0z6/musoq_0172_sqllike_querying_for_git_repositories/</guid>
-      <pubDate>Wed, 13 Nov 2024 22:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我按照官方的 AWS Amplify 指南操作，结果被收取了 1,100 美元</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqntum/i_followed_the_official_aws_amplify_guide_and_was/</link>
-      <description><![CDATA[  由    /u/coding-account  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqntum/i_followed_the_official_aws_amplify_guide_and_was/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Linux 上生成进程</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqnfrs/spawning_processes_on_linux/</link>
-      <description><![CDATA[  由    /u/bobbobbio2000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqnfrs/spawning_processes_on_linux/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索历史趋势存储库</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqlu4y/explore_historical_trending_repositories/</link>
-      <description><![CDATA[  由    /u/onurkanbkrc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqlu4y/explore_historical_trending_repositories/</guid>
-      <pubDate>Wed, 13 Nov 2024 19:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级 ZIP 文件可无限扩展</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqj1vi/advanced_zip_files_that_infinitly_expand_itself/</link>
-      <description><![CDATA[对于我的硕士论文，我编写了一个 zip quines 生成器。这些 zip 可以无限包含自身。 one.zip -&gt; one.zip -&gt; one.zip -&gt; ... 通过进一步阐述 Russ Cox 在 Zip Files All The Way Down 中的解释，我能够在 zip quines 中包含额外的文件。 这类似于 Erling Ellingsen 的 droste.zip，他丢失了创建它的方法。通过使用生成器，现在每个人都可以创建这样的文件。 更进一步，我研究了创建具有以下结构的 zip 文件的可能性： one.zip -&gt; two.zip -&gt; one.zip -&gt; ... 这种类型的 zip 文件具有两个相互包含的 zip 的无限循环。据我所知，以前从未这样做过。这就是为什么我很自豪地说我成功创建了这样的文件，这将是世界首创。 因此，我的教授和我决定在期刊上发表使用的方法。现在完成了，我终于可以与大家分享这个程序了。我想你们可能会喜欢这个。    提交人    /u/GunGambler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqj1vi/advanced_zip_files_that_infinitly_expand_itself/</guid>
-      <pubDate>Wed, 13 Nov 2024 17:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 eBPF 分析 Lua</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqiovb/profiling_lua_with_ebpf/</link>
-      <description><![CDATA[  由    /u/kakkoyun  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqiovb/profiling_lua_with_ebpf/</guid>
-      <pubDate>Wed, 13 Nov 2024 17:43:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>进行远程 mob 编程时的 Git 交接</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqgafg/git_handover_when_doing_remote_mob_programming/</link>
-      <description><![CDATA[  由    /u/Dals  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqgafg/git_handover_when_doing_remote_mob_programming/</guid>
-      <pubDate>Wed, 13 Nov 2024 16:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>当今 SQL 注入的现状</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqfr9t/the_state_of_sql_injection_today/</link>
-      <description><![CDATA[  由    /u/Advocatemack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqfr9t/the_state_of_sql_injection_today/</guid>
-      <pubDate>Wed, 13 Nov 2024 15:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>f(x) 在 C++ 中是什么意思？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqfont/what_does_fx_mean_in_c/</link>
-      <description><![CDATA[  由   提交  /u/Immediate_Studio1950   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqfont/what_does_fx_mean_in_c/</guid>
-      <pubDate>Wed, 13 Nov 2024 15:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>凝聚</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqf27b/cohesion/</link>
-      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqf27b/cohesion/</guid>
-      <pubDate>Wed, 13 Nov 2024 15:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手必知的 Postgres 约束</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqeljg/postgres_constraints_for_newbies/</link>
-      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqeljg/postgres_constraints_for_newbies/</guid>
-      <pubDate>Wed, 13 Nov 2024 14:51:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>清洁架构在移动开发中难以扩展</title>
-      <link>https://www.reddit.com/r/programming/comments/1gqdglt/clean_architecture_struggles_to_scale_in_mobile/</link>
-      <description><![CDATA[  由   提交  /u/ElyeProj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gqdglt/clean_architecture_struggles_to_scale_in_mobile/</guid>
-      <pubDate>Wed, 13 Nov 2024 13:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
