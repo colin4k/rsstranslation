@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 14 Nov 2024 15:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 18:03:49 GMT</lastBuildDate>
+    <item>
+      <title>刚刚发布了 Novus 的新版本 🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gra5ki/just_released_a_new_version_of_novus/</link>
+      <description><![CDATA[大家好，我刚刚发布了我的宠物项目 novus 的新版本。 如果您是一名 Web 开发人员，并且厌倦了 localhost:3000 URL，请查看 novus - 一个小型 Go 实用程序，可为本地开发提供良好的 HTTPS URL。 阅读 v0.0.4 中的新增功能，并让我知道您的想法！欢迎提供任何反馈或想法！    提交人    /u/jozef_cipa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gra5ki/just_released_a_new_version_of_novus/</guid>
+      <pubDate>Thu, 14 Nov 2024 17:29:43 GMT</pubDate>
+    </item>
     <item>
       <title>让我们加密证书管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gr5lnn/lets_encrypt_cert_manager/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[你好！ 我一直在开发一个非常简单的 JavaScript 状态管理库，名为 Hali，希望得到这个子版块的反馈。我已经有一个 React 适配器，它可以工作，但我希望得到关于整个库的更广泛的反馈，了解你喜欢什么，不喜欢什么。 背景 到目前为止，它运行良好。我也在工作中的一些小项目中使用过它，反馈非常积极。我们也正在考虑将其应用于我们的主要面向消费者的应用程序中。 目前已经有许多状态管理库，它们非常出色，但开发人员在工作中不断提到的常见问题是，新的库已经发展得太快，学习起来非常困难。 我收到的最重要的 +ve 反馈是  易于使用 完整的端到端类型安全 动作 / 效果时间轴 可组合性（将代码拆分为动作和效果，以了解哪些会更新状态以及哪些会产生效果）  我收到的最重要的 -ve 反馈  缺乏文档（同意，现在没有任何文档） 缺乏针对多种用例的具体指南 / 示例 没有基于字符串的调度方法（下面会解释这一点）  关于 - 没有基于字符串的调度方法 现在，这是创建动作并调度它的方式： const store = new Store(0) const increase = store.action(&quot;increment&quot;, (state) =&gt; &gt; state + 1) store.dispatch(increment)  但是我收到的反馈 - 很多人想要的是： const store = new Store(0) const increasing = store.action(&quot;increment&quot;, (state) =&gt; state + 1) store.dispatch(&quot;increment&quot;)  我反对这样做，因为字符串本质上很难处理并且更容易出错。 框架 我收到的另一个常见请求是，是否可以将其扩展为某种框架，以便与 React 很好地配合。期望这将为您提供一种构造文件、拆分代码的方法，并提供一种统一的编写组件和整个屏幕的方法。    提交人    /u/tueieo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gqin86/hali_another_state_management_library_for/</guid>
       <pubDate>Wed, 13 Nov 2024 17:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palantir Open Tier Account 太疯狂了</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gqikww/palantir_open_tier_account_is_crazy/</link>
-      <description><![CDATA[我在 X 上看到了关于使用 Palantir 的 Foundry 进行开发的视频，并惊讶地看到该应用程序在管道化复杂任务和应用程序方面的强大功能。显然，他们开放了它用于开源开发和个人开发。查看：https://x.com/shivambans1409/status/1856033336466256088?s=46    提交人    /u/straightouttadilli   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gqikww/palantir_open_tier_account_is_crazy/</guid>
-      <pubDate>Wed, 13 Nov 2024 17:38:56 GMT</pubDate>
     </item>
     <item>
       <title>开源智能手机</title>
