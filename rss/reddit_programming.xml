@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 15 Nov 2024 09:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>从 Squeak 中的冻结图像中恢复</title>
+      <link>https://www.reddit.com/r/programming/comments/1grtoxy/recovering_from_frozen_images_in_squeak/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grtoxy/recovering_from_frozen_images_in_squeak/</guid>
+      <pubDate>Fri, 15 Nov 2024 10:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发送了一个以太网数据包</title>
+      <link>https://www.reddit.com/r/programming/comments/1grto59/i_sent_an_ethernet_packet/</link>
+      <description><![CDATA[  由    /u/FrancisStokes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grto59/i_sent_an_ethernet_packet/</guid>
+      <pubDate>Fri, 15 Nov 2024 10:46:41 GMT</pubDate>
+    </item>
     <item>
       <title>通过将 websocket 消息代理到 HTTP 扩展到 100 万个 websocket</title>
       <link>https://www.reddit.com/r/programming/comments/1grs5qz/scaling_to_1_million_websockets_by_proxying/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/RodionGork  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1grhgwz/puzzles_by_my_somewhat_shy_colleague_kevin_b/</guid>
       <pubDate>Thu, 14 Nov 2024 22:42:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Justine Gehring：利用 AI 大规模重构软件 [播客]</title>
-      <link>https://www.reddit.com/r/programming/comments/1grg0kg/justine_gehring_refactoring_software_at_scale/</link>
-      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grg0kg/justine_gehring_refactoring_software_at_scale/</guid>
-      <pubDate>Thu, 14 Nov 2024 21:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>.NET 中使用 OpenTelemetry 进行分布式跟踪：实现端到端微服务可视性的友好旅程</title>
-      <link>https://www.reddit.com/r/programming/comments/1grf7o5/distributed_tracing_with_opentelemetry_in_net_a/</link>
-      <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grf7o5/distributed_tracing_with_opentelemetry_in_net_a/</guid>
-      <pubDate>Thu, 14 Nov 2024 21:03:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

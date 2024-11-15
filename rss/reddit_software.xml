@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 09:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:02:21 GMT</lastBuildDate>
+    <item>
+      <title>帮助中心/知识库</title>
+      <link>https://www.reddit.com/r/software/comments/1grty4e/help_center_knowledge_base/</link>
+      <description><![CDATA[大家好！ 我正在寻找帮助中心/知识库软件。 我们现在使用 Wordpress + WPML。 我们的库中有 5 种不同语言的约 200 篇文章 + 30 个简短的常见问题。 （最后是 Tl;dr） Wordpress 的问题是：  界面相当慢（这可能与服务器性能有关吗？） 您无法授予编辑者编辑翻译的权限，因为 WPML 只允许管理员这样做。 帖子始终根据日期排序（从最近到最旧） 我无法轻松创建包含文章和子文章的方案  ‐----------- 我的灵感来自：help.shopify.com 我喜欢他们不使用类别，而是有主文章和子文章。  我最近所做的事情：  精炼我们已经在内部使用 confluence，因此使用起来很容易，但我不确定语言管理，因为我们的 confluence 只使用一种语言 + 它看起来很贵。此外，UX 个性化可能非常有限。 Gitbook 就我个人而言，这将是我现在的首选。看起来易于使用且易于个性化 + 相当便宜。   TL;DR 我们正在寻找一些不太昂贵的东西（我们可以外包平台的开发或 8000 欧元） 我希望能够用最少的编码（或没有编码）来设置它 它必须是公开的，用户才能访问 管理角色 有多种语言  谢谢！！！    提交人    /u/TrickyRow463   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1grty4e/help_center_knowledge_base/</guid>
+      <pubDate>Fri, 15 Nov 2024 11:06:04 GMT</pubDate>
+    </item>
     <item>
       <title>有任何开源的剪贴板管理器可以将您选择和链接的任何内容复制到历史记录中吗？</title>
       <link>https://www.reddit.com/r/software/comments/1grsafo/any_clipboard_managers_that_are_open_source_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[因此，我制作了一个程序并将其出售给几个客户，我想知道如何通过发送补丁来更新软件，而这个补丁只需要我的客户重新启动软件即可。 目前，我必须手动向他们发送更新后的版本，然后他们必须重新安装。 这适用于 Mac 和 Windows    提交人    /u/VrPillow   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gr1naa/how_to_send_updates_to_self_made_software/</guid>
       <pubDate>Thu, 14 Nov 2024 10:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Play 商店疑难解答</title>
-      <link>https://www.reddit.com/r/software/comments/1gr0z2b/google_play_store_troubleshooting/</link>
-      <description><![CDATA[大家好，我的手机（readmi note 11 5G）更新有点困难，我不知道为什么，因为在过去的两年里它运行良好。已经成功更新了 Play Store 本身，多次重新启动手机，确保我有足够的内存空间等。这一切都始于大约 2/3 周前，有时我会删除 APP 并再次下载，有时可以正常工作，但所有的 Google 应用都不能用，还有一些其他应用不能用...有人可以发表评论并提供帮助吗？     提交人    /u/Traditional_Major941   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gr0z2b/google_play_store_troubleshooting/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:18:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
