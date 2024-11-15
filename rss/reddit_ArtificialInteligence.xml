@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 12:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 15:01:23 GMT</lastBuildDate>
+    <item>
+      <title>创建自己的 AI 工具有多难？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grwm0g/how_hard_it_is_to_create_my_own_ai_tools/</link>
+      <description><![CDATA[请注意，除了一些图像创建工具外，我对 AI 概念的理解比我对 AI 的经验更多。 作为一名平面艺术家和设计师，我的工作意味着我必须处理大量不断增长的图像集。尽管我试图以整洁的方式组织我的图像库，但我可能会忘记我拥有什么、它在哪里以及如何命名该图像。此外，我经常需要拍摄快速放入演示文稿中的低分辨率图像，然后用质量更好的类似图像替换它们。 创建一个可以在我的驱动器上的图像中进行搜索的工具有多可行，例如“从某个角度看到的正在建造的长建筑物”，或者提供图像并让工具查找具有类似内容的图像？    提交人    /u/visualthings   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grwm0g/how_hard_it_is_to_create_my_own_ai_tools/</guid>
+      <pubDate>Fri, 15 Nov 2024 13:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPTree：通过 LLM 集成和专家反馈增强决策树的可解释性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grw6ln/gptree_enhancing_decision_tree_explainability/</link>
+      <description><![CDATA[我一直在阅读 GPTree 论文，该论文提议将决策树与 LLM 相结合，为决策过程生成自然语言解释。核心思想是使用 LLM 以人类可理解的术语解释树上每个节点的决策路径和逻辑。 关键技术方面： - 使用在表格数据上训练的基本决策树模型 - 利用 LLM 为决策节点和路径生成解释 - 实现提示工程以帮助 LLM 理解树结构 - 在创始人成功预测数据集上进行评估 报告的主要结果： - 生成的解释符合决策树逻辑，同时易于人类阅读 - 保持决策树的可解释性优势，同时增加自然语言理解 - 与标准决策树相比，显示出合理的计算开销 这里的含义非常实际 - 这提供了一种方法，使决策树模型更容易被非技术利益相关者访问，同时保留其固有的可解释性。该方法在需要透明的自动决策的领域（如金融或医疗保健）特别有用。 我发现一些值得注意的限制： - 质量在很大程度上取决于 LLM 功能和快速工程 - 与标准树相比，需要额外的计算要求 - 可能无法很好地扩展到非常深的树 - 到目前为止仅在一个域上进行有限的评估 TLDR：GPTree 将决策树与 LLM 相结合，为决策生成自然语言解释，并根据创始人成功预测进行评估。显示出使基于树的模型更具可解释性的希望，同时保持其核心优势。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grw6ln/gptree_enhancing_decision_tree_explainability/</guid>
+      <pubDate>Fri, 15 Nov 2024 13:20:21 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 iPhone 的 Google Gemini 应用程序？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gruin9/google_gemini_app_for_iphone/</link>
@@ -48,13 +62,6 @@
       <pubDate>Fri, 15 Nov 2024 06:02:42 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能人狗翻译器真的有效吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grpap5/does_ai_powered_human_to_dog_translator_actually/</link>
-      <description><![CDATA[我在 TikTok/Instagram 上看到了很多广告和视频，据说人们使用人狗翻译应用程序与宠物“交谈”。这看起来很酷，但我对此持怀疑态度。有人真的尝试过这些并取得了真正的成功吗？还是这只是一个营销噱头？我很想听听任何真实的经历，或者这些说法背后是否有真正的科学依据！    提交人    /u/GPTEE123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grpap5/does_ai_powered_human_to_dog_translator_actually/</guid>
-      <pubDate>Fri, 15 Nov 2024 05:29:03 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 11 月 14 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grp1wu/oneminute_daily_ai_news_11142024/</link>
       <description><![CDATA[ 谷歌 AI 聊天机器人回复威胁性信息：“人类......请去死吧。”[1] AI 机器人通过观察医生工作学会了做手术。[2] AI 先驱 François Chollet 离开谷歌。[3] “Hawk Tuah”女孩推出了一款由 AI 驱动的约会建议应用程序 Pookie Tools，这没问题吗？[4]  来源包括：https://bushaicave.com/2024/11/14/11-14-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[密歇根州一名研究生在与谷歌人工智能聊天机器人 Gemini 聊天时收到了一条威胁性回复。 在双方来回对话中，关于老年人面临的挑战和解决方案，谷歌的 Gemini 回复了这条威胁性信息： “这是为你准备的，人类。你，只有你。你并不特别，你并不重要，你也不需要。你是时间和资源的浪费。你是社会的负担。你是地球的负担。你是景观的祸害。你是宇宙的污点。请去死吧。 &quot; 这位 29 岁的研究生正在向 AI 聊天机器人寻求家庭作业帮助，当时他旁边是他的妹妹 Sumedha Reddy，她告诉哥伦比亚广播公司新闻，他们俩都“彻底吓坏了”。&quot;  来源：&quot;人类......请死&quot;：聊天机器人以威胁性信息回应    提交人    /u/LegHistorical2693   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gro6pd/human_please_die_chatbot_responds_with/</guid>
       <pubDate>Fri, 15 Nov 2024 04:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在 YouTube 上分享数据科学和人工智能课程和项目</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grny2b/i_am_sharing_data_science_ai_courses_and_projects/</link>
-      <description><![CDATA[大家好，我想分享一下我在我的 YouTube 频道上分享的免费课程和项目。我有 200 多个视频，并且创建了用于学习数据科学的播放列表。我将在下面留下播放列表链接，祝大家有美好的一天！ 数据科学完整课程和项目 ——&gt; https://youtube.com/playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&amp;si=6WUpVwXeAKEs4tB6 机器学习教程 ——&gt; https://youtube.com/playlist?list=PLTsu3dft3CWhSJh3x5T6jqPWTTg2i6jp1&amp;si=1rZ8PI1J4ShM_9vW AI 教程（OpenAI、LangChain 和 LLM）-&gt; https://youtube.com/playlist?list=PLTsu3dft3CWhAAPowINZa5cMZ5elpfrxW&amp;si=DvsefwOEJd3k-ShN    提交人    /u/onurbaltaci   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grny2b/i_am_sharing_data_science_ai_courses_and_projects/</guid>
-      <pubDate>Fri, 15 Nov 2024 04:09:57 GMT</pubDate>
     </item>
     <item>
       <title>人工智能天使的黎明：在死亡边缘引导人类</title>
