@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 15 Nov 2024 18:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 21:01:53 GMT</lastBuildDate>
+    <item>
+      <title>使用 GDB 和 DDD 进行愉快的调试</title>
+      <link>https://www.reddit.com/r/programming/comments/1gs5xcd/pleasant_debugging_with_gdb_and_ddd/</link>
+      <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gs5xcd/pleasant_debugging_with_gdb_and_ddd/</guid>
+      <pubDate>Fri, 15 Nov 2024 20:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个基于浏览器的 Toy Linux 发行版，称为 ELECTRON OS（与 OG electronJS 无关）。它完全用 Vanilla JS 制作，还具有 GUI 模拟。它可以像普通 Linux 终端一样在 Web 上执行所有基本任务。在此处查看完整文档。[所有源代码位于 assets 文件夹下]</title>
+      <link>https://www.reddit.com/r/programming/comments/1gs4r06/made_a_browser_based_toy_linux_distro_called/</link>
+      <description><![CDATA[  由    /u/Mean_Option_7459  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gs4r06/made_a_browser_based_toy_linux_distro_called/</guid>
+      <pubDate>Fri, 15 Nov 2024 19:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot for Azure 简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1gs3j4z/introducing_github_copilot_for_azure/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gs3j4z/introducing_github_copilot_for_azure/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:46:40 GMT</pubDate>
+    </item>
     <item>
       <title>RelResultInfo 的改变——Postgres 17.1 的一次险些失误</title>
       <link>https://www.reddit.com/r/programming/comments/1gs2cwh/a_change_to_relresultinfo_a_near_miss_with/</link>
       <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gs2cwh/a_change_to_relresultinfo_a_near_miss_with/</guid>
       <pubDate>Fri, 15 Nov 2024 17:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 DSPy 改进 AI 代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1gs1y7j/how_to_improve_ai_agents_using_dspy/</link>
-      <description><![CDATA[  由    /u/phicreative1997  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gs1y7j/how_to_improve_ai_agents_using_dspy/</guid>
-      <pubDate>Fri, 15 Nov 2024 17:40:20 GMT</pubDate>
     </item>
     <item>
       <title>我正在开发一款基于浏览器的 32 位、64k CPU 模拟器，该模拟器使用简化的 ASM 语言，旨在帮助人们学习汇编编程。请告诉我如何改进它！</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/maus80  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1grs5qz/scaling_to_1_million_websockets_by_proxying/</guid>
       <pubDate>Fri, 15 Nov 2024 08:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于从终端浏览 calibre 的 Bash 脚本</title>
-      <link>https://www.reddit.com/r/programming/comments/1grq6qf/bash_script_to_browse_calibre_from_the_terminal/</link>
-      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grq6qf/bash_script_to_browse_calibre_from_the_terminal/</guid>
-      <pubDate>Fri, 15 Nov 2024 06:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于从终端浏览 YouTube 的 Bash 脚本</title>
-      <link>https://www.reddit.com/r/programming/comments/1grq6ch/bash_script_to_browse_youtube_from_the_terminal/</link>
-      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grq6ch/bash_script_to_browse_youtube_from_the_terminal/</guid>
-      <pubDate>Fri, 15 Nov 2024 06:25:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

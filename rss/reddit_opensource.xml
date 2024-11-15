@@ -4,20 +4,34 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 15 Nov 2024 18:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 21:02:00 GMT</lastBuildDate>
+    <item>
+      <title>建造了 Zetamax，一种现代化的 Zetamac</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gs4xgc/built_zetamax_a_modern_zetamac/</link>
+      <description><![CDATA[大家好！我创建了一些很酷的东西想要分享 - 一个具有内置分析跟踪功能的 Zetamac 风格应用。为什么？因为我又陷入了 Zetamac 的兔子洞 (我们都去过那里)，并且想看看我进步的漂亮图表。 我构建的内容：  原始：Zetamac 实时应用程序：Zetamax 源代码  技术堆栈：使用 Next.js、Convex 和 Clerk 构建以进行身份​​验证 (是的，我知道 Convex 内置了身份验证，但我坚持自己的方式 😅)。代码是完全开源的，所以请随意使用！ 当前功能：  您喜欢 Zetamac 的一切 跟踪您的最高分数 查看您的平均表现 随时间推移的进度可视化 还有更多！  缺少的功能：  自定义持续时间设置 练习特定范围/操作 模仿 github/monkey 类型的用户配置文件 多人游戏功能，其中 5 个人进入一个房间并以 120 秒模式竞争（默认操作） （欢迎贡献 - 欢迎 PR！）  快速免责声明：我主要不是前端开发人员，所以如果您看到让您感到畏缩的东西，请随时提交改进！我希望得到您的支持，以帮助使其成为 zetamac 的 monkeytype 等价物。在 3 天内，已经有 100 名用户。第一件事，重写我的垃圾代码哈哈。 编辑 1：Zetamac 是一款在线心算游戏，用户可以在其中练习算术。挑战是您在 120 秒内可以解答多少个问题。它是许多人用来练习心算的工具，也用于量化金融面试准备等。    提交人    /u/mathememer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gs4xgc/built_zetamax_a_modern_zetamac/</guid>
+      <pubDate>Fri, 15 Nov 2024 19:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建浏览器指纹识别演示以了解设备识别</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gs41ys/built_a_browser_fingerprinting_demo_to_learn/</link>
+      <description><![CDATA[大家好！创建 trackme.dev 是为了了解和演示网站如何通过浏览器特征识别访问者。 该项目使用 Nuxt 3 和 Shadcn-Vue 构建，展示： - 实时指纹生成 - 通过 WebGL 进行硬件检测 - Canvas 指纹识别 - 浏览器功能分析 - ... 代码可在 GitHub 上获得。我构建它是为了了解指纹识别技术并与他人分享这些知识。欢迎贡献或将其用于教育目的！ 很高兴听到您的反馈和改进想法。    提交人    /u/LeonKohli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gs41ys/built_a_browser_fingerprinting_demo_to_learn/</guid>
+      <pubDate>Fri, 15 Nov 2024 19:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个神经网络库并举办了一场设有 100 美元现金奖励的漏洞消除活动！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gs3jc5/created_a_neural_network_library_and_hosting_a/</link>
+      <description><![CDATA[大家好！ 我和我的朋友一直在从头开始开发一个神经网络库，只使用 NumPy 和矩阵操作/矢量化。 我们正在举办一个有现金奖励的 bug 粉碎活动，并希望社区能够测试我们的库并为我们找出尽可能多的 bug。  网站：https://www.ncxlib.com 该库可在 Pypi 上获得：https://pypi.org/project/ncxlib/  该库支持： 输入/隐藏/输出层 激活函数：Sigmoid、ReLU、Leaky ReLU、Softmax 和 TanH 优化器：Adam、RMS Prop、SGD、带动量的 SGD 损失函数：二元和分类交叉熵、MSE 大量用于图像和原始表格数据的预处理器 有关 bug smash 和我们的库文档的所有信息都可以在我们的网站。 谢谢！我们希望收到很多改进的反馈！ 如果您喜欢我们的工作，请给我们一颗星！    由    /u/MoistYak 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gs3jc5/created_a_neural_network_library_and_hosting_a/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:46:55 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub - 0xCUB3/wBlock：Safari 的下一代广告拦截器。</title>
       <link>https://www.reddit.com/r/opensource/comments/1gs27za/github_0xcub3wblock_the_nextgeneration_ad_blocker/</link>
       <description><![CDATA[        由    /u/void_const  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gs27za/github_0xcub3wblock_the_nextgeneration_ad_blocker/</guid>
       <pubDate>Fri, 15 Nov 2024 17:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codai：终端中的 AI 代码助手，可了解项目背景</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gs1tpg/codai_ai_code_assistant_in_terminal_with/</link>
-      <description><![CDATA[Codai 是一款 AI 代码助手，旨在通过基于会话的 CLI 帮助开发人员高效管理日常任务，例如添加新功能、重构和执行详细的代码审查。codai 的突出之处在于它对项目整个上下文的深刻理解，使其能够分析您的代码库并根据您的上下文建议改进或新代码。这款 AI 驱动的工具支持多种 LLM 模型，包括 GPT-4o、GPT-4、Ollama 等。 https://github.com/meysamhadeli/codai    提交人    /u/Spare-Spray6508   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gs1tpg/codai_ai_code_assistant_in_terminal_with/</guid>
-      <pubDate>Fri, 15 Nov 2024 17:34:58 GMT</pubDate>
     </item>
     <item>
       <title>本地 macOS (14+) 视频转录应用程序</title>
@@ -34,7 +48,7 @@
       <pubDate>Fri, 15 Nov 2024 15:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>业余项目本地推理UI Llama3.1</title>
+      <title>业余项目本地推理 UI Llama3.1</title>
       <link>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</link>
       <description><![CDATA[我开始使用 Angular、Deno（Oak）、Ollama 和 Llama3.1、Microsoft Garnet 和 PostgreSQL 开发本地 dockerized web 应用程序。 https://github.com/WingZer0o/lwollama    提交人    /u/Life_Dentist_445   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>从 Windows 向 Android 传输文件时，LocalSend 速度仅为 1-2mbps。</title>
       <link>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</link>
-      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    提交人    /u/udayramp   [链接] [评论]]]></description>
+      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    由    /u/udayramp  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</guid>
       <pubDate>Fri, 15 Nov 2024 05:22:44 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://github.com/Puchaczov/Musoq    由   提交  /u/Puchaczov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gqqw1w/musoq_0172_sqllike_querying_for_git_repositories/</guid>
       <pubDate>Wed, 13 Nov 2024 23:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 帮助我们通过 Nightsound Audio 改善音频体验——一款适用于电影和连续剧的动态音频调整工具 🎬🔊</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gqp1vx/help_us_improve_the_audio_experience_with/</link>
-      <description><![CDATA[大家好！👋 我想向你们介绍我的新开源项目Nightsound Audio，该项目旨在改善观看电影和电视剧时的音频体验。🎥🍿 Nightsound Audio背后的核心理念简单而强大：动态调整音量，以便放大对话并降低响亮的音效。这对于在薄墙环境中观看内容的人或需要中等音量的人（例如深夜）来说是完美的选择。 🔊📽️ 目前，该项目处于早期概念阶段，我正在寻找愿意帮助将这个想法变成现实的贡献者。我们特别寻找：  声音设计师，帮助改进音频处理（语音/效果分离） 音频工程师，具有实时音频处理经验 机器学习专家，帮助分析和动态调整音频内容 开发人员  如果您对音频、电影充满热情，或者只是想提供帮助，请查看 repo 并做出贡献！ ✨ 您可以在 GitHub 页面上阅读有关该项目的更多信息，并查看您可以参与哪些工作。 https://github.com/chefderschwaetzer/Nightsound-Audio 期待看到您的贡献！🎉    提交人    /u/Master_Cup_9730   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gqp1vx/help_us_improve_the_audio_experience_with/</guid>
-      <pubDate>Wed, 13 Nov 2024 22:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以让我查询电子表格的应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gqoak5/looking_for_an_application_to_let_me_query/</link>
-      <description><![CDATA[长话短说，我必须定期与大型数据集进行交互才能工作，而且我非常讨厌使用 Excel/LibreOffice Calc/等及其公式语法。有人遇到过本地兼容 Linux 的应用程序吗？它可以让我使用查询语言以交互方式挖掘大型 CSV？ CLI 完全没问题，与 Python 兼容的东西也是如此。    提交人    /u/cerialphreak   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gqoak5/looking_for_an_application_to_let_me_query/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:36:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
