@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 14 Nov 2024 21:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 00:03:42 GMT</lastBuildDate>
+    <item>
+      <title>我们从分析主干不稳定测试中的 2020 万个 CI 作业中学到了什么 - 第 1 部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1gripce/what_we_learned_from_analyzing_202_million_ci/</link>
+      <description><![CDATA[  由    /u/Available_Wear_1558  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gripce/what_we_learned_from_analyzing_202_million_ci/</guid>
+      <pubDate>Thu, 14 Nov 2024 23:39:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能代码审查很差劲</title>
+      <link>https://www.reddit.com/r/programming/comments/1gri842/ai_sucks_at_code_reviews/</link>
+      <description><![CDATA[  由    /u/MikeSStacks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gri842/ai_sucks_at_code_reviews/</guid>
+      <pubDate>Thu, 14 Nov 2024 23:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kafka Connect：构建和运行数据管道 • Kate Stanley、Mickael Maison 和 Danica Fine</title>
+      <link>https://www.reddit.com/r/programming/comments/1grhr3t/kafka_connect_build_run_data_pipelines_kate/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grhr3t/kafka_connect_build_run_data_pipelines_kate/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>ls 的另一种替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1grhjfs/aanother_alternative_to_ls/</link>
+      <description><![CDATA[我用 go 编写了 ls 命令的替代方案。我希望能够更好地浏览更大的目录，并更好地概览它们及其中的文件信息。这促使我创建了 https://github.com/OpusMag/lds 与 eza 或 lsd 等其他 ls 替代方案不同，lds 在视觉上将目录与文件清晰地分开，允许您搜索您要查找的确切内容并查看文件信息，如 git 状态、符号链接、权限等。希望其他人觉得它有用！    提交人    /u/opusmag_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grhjfs/aanother_alternative_to_ls/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的同事 Kevin B.（有点害羞）的谜题（数学、几何、统计编程）</title>
+      <link>https://www.reddit.com/r/programming/comments/1grhgwz/puzzles_by_my_somewhat_shy_colleague_kevin_b/</link>
+      <description><![CDATA[  由    /u/RodionGork  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grhgwz/puzzles_by_my_somewhat_shy_colleague_kevin_b/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Justine Gehring：利用 AI 大规模重构软件 [播客]</title>
+      <link>https://www.reddit.com/r/programming/comments/1grg0kg/justine_gehring_refactoring_software_at_scale/</link>
+      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grg0kg/justine_gehring_refactoring_software_at_scale/</guid>
+      <pubDate>Thu, 14 Nov 2024 21:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 中使用 OpenTelemetry 进行分布式跟踪：实现端到端微服务可视性的友好旅程</title>
+      <link>https://www.reddit.com/r/programming/comments/1grf7o5/distributed_tracing_with_opentelemetry_in_net_a/</link>
+      <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grf7o5/distributed_tracing_with_opentelemetry_in_net_a/</guid>
+      <pubDate>Thu, 14 Nov 2024 21:03:29 GMT</pubDate>
+    </item>
     <item>
       <title>掌握工厂方法设计模式：构建任务管理 CLI</title>
       <link>https://www.reddit.com/r/programming/comments/1grd3sy/mastering_the_factory_method_design_pattern/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/alfianlo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gr3gfm/bytecast_15_apple_intelligence_image_playground/</guid>
       <pubDate>Thu, 14 Nov 2024 12:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 .NET 工作流中构建坚如磐石的业务逻辑和验证规则</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr339u/building_rocksolid_business_logic_and_validation/</link>
-      <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr339u/building_rocksolid_business_logic_and_validation/</guid>
-      <pubDate>Thu, 14 Nov 2024 11:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Simon Holywell 的 SQL 风格指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr2jpg/sql_style_guide_by_simon_holywell/</link>
-      <description><![CDATA[  由    /u/lelanthran  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr2jpg/sql_style_guide_by_simon_holywell/</guid>
-      <pubDate>Thu, 14 Nov 2024 11:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>💥 每周技术讲座 #37：过去 7 天上传的所有技术会议新讲座。本期内容包括 Clojure Conj '24、EuroRust '24、CppCon '24、KubeDay '24、CPH DevFest '24，...</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr1t14/tech_talks_weekly_37_all_the_new_talks_from_tech/</link>
-      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr1t14/tech_talks_weekly_37_all_the_new_talks_from_tech/</guid>
-      <pubDate>Thu, 14 Nov 2024 10:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是函数式编程？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr1bwm/what_is_functional_programming/</link>
-      <description><![CDATA[  由    /u/adamw1pl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr1bwm/what_is_functional_programming/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Snyk 查找并修复 CI/CD 管道中的漏洞</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr13vk/how_to_find_and_fix_vulnerabilities_in_your_cicd/</link>
-      <description><![CDATA[  由    /u/kirshiyin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr13vk/how_to_find_and_fix_vulnerabilities_in_your_cicd/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:29:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库匿名化工具发布。Greenmask v0.2.3</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr129o/database_anonymization_tool_release_greenmask_v023/</link>
-      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr129o/database_anonymization_tool_release_greenmask_v023/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scrum还能被挽救吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gr0zbz/can_scrum_be_salvaged/</link>
-      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gr0zbz/can_scrum_be_salvaged/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:19:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
