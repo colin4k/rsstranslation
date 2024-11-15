@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 06:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 09:01:36 GMT</lastBuildDate>
+    <item>
+      <title>Google 的 geminj-exp-1114 在 LMArena 上排名第一</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grrsat/googles_geminjexp1114_ranks_1_on_lmarena/</link>
+      <description><![CDATA[Google 的实验模型 Gemini-exp-1114 现位列 LMArena 排行榜第一名。查看它超越 GPT-4o 的不同指标以及如何通过 Google Studio 免费使用它：https://youtu.be/50K63t_AXps?si=EVao6OKW65-zNZ8Q    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grrsat/googles_geminjexp1114_ranks_1_on_lmarena/</guid>
+      <pubDate>Fri, 15 Nov 2024 08:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试 Microsoft Copilot、Google Gemini 和 OpenAI ChatGPT（由于 Apple Intelligence 的功能目前主要基于 ChatGPT，因此完整版尚未推出，而且我的 iPhone 也不是兼​​容 Apple Intelligence 的设备）+ 来自口齿不清用户的 AI 语音测试</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grptqo/testing_microsoft_copilot_vs_google_gemini_vs/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grptqo/testing_microsoft_copilot_vs_google_gemini_vs/</guid>
+      <pubDate>Fri, 15 Nov 2024 06:02:42 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能人狗翻译器真的有效吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grpap5/does_ai_powered_human_to_dog_translator_actually/</link>
@@ -55,20 +69,6 @@
       <pubDate>Fri, 15 Nov 2024 01:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>图像->视频+音频？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grkp26/image_video_audio/</link>
-      <description><![CDATA[这个 TikTok 页面如何将图像转换为具有相关音频的视频？  https://www.tiktok.com/@artificial.shenanigans?_t=8rOwe1TisfO&amp;_r=1 他们是否正在下载静音视频并将其添加到另一个平台？这很令人困惑，因为使用了这些人的实际声音，所以我不确定我错过了什么步骤。谢谢任何回复！     提交人    /u/Geo_Gale   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grkp26/image_video_audio/</guid>
-      <pubDate>Fri, 15 Nov 2024 01:16:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>思想的不确定性：通过不确定性感知规划和奖励传播增强 LLM 信息搜索</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1grk8tv/uncertainty_of_thoughts_enhancing_llm_information/</link>
-      <description><![CDATA[刚刚阅读了这篇新论文，它介绍了一种使 LLM 能够通过战略性提问主动寻求信息的算法。核心创新是将不确定性感知规划与奖励传播相结合，帮助模型决定要问什么问题。 关键技术组件：  不确定性感知模拟：模型生成潜在的未来对话轨迹并估计每个轨迹的不确定性 基于不确定性的奖励：问题的价值取决于它们减少不确定性和提高任务完成度的潜力 奖励传播：使用这些奖励估计通过对话树选择最佳问题 规划机制：展望多个步骤以评估不同问题选择的长期价值  实验结果： - 三个领域的任务完成度平均提高 38.1% - 在医疗诊断、技术故障排除和 20 个问题游戏上进行测试 - 与基线​​方法相比，所需问题数量减少 - 消融研究表明所有组件都有助于提高性能 理论意义很有趣——这表明了如何使用不确定性量化来指导语言模型中的信息搜索行为。这是朝着更具互动性的人工智能系统迈出的一步，这些系统可以主动解决自身的不确定性。 从实际角度来看，这可以改善自动客户服务、诊断系统和交互式辅导等应用，人工智能需要有效地收集信息。 TLDR：新算法通过对不确定性进行建模和提前规划，帮助语言模型提出更好的问题，显示出在多个任务中的显着改进。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1grk8tv/uncertainty_of_thoughts_enhancing_llm_information/</guid>
-      <pubDate>Fri, 15 Nov 2024 00:54:07 GMT</pubDate>
-    </item>
-    <item>
       <title>用法学硕士做金融研究太难了。但我还是做了</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gri7lp/its_hard_as_fuck_to_use_llms_for_financial/</link>
       <description><![CDATA[]]></description>
@@ -104,6 +104,13 @@
       <pubDate>Thu, 14 Nov 2024 15:03:13 GMT</pubDate>
     </item>
     <item>
+      <title>任何苦苦挣扎的大学生都应该使用notebooklm</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gr5zwz/any_struggling_college_student_should_use/</link>
+      <description><![CDATA[我是一名五年级的大学生，在研究学习某个非常高级的科目的方法时了解到了 notebooklm，当我得知它是免费的并且由谷歌制作时，我不得不尝试一下，基本上你上传你想要学习的材料的所有 pdf（每次限制 30 个 pdf），它会分析你发送的 pdf，然后基本上成为它的大师，你可以问它任何关于你上传的 pdf 的问题，它会很好地回答你，但在我看来最好的功能是播客功能，它基本上会创建两个人讨论你给它的材料的录音，听起来很人性化和真实，听起来不真实，他们让信息像黄油一样流动，把材料变成有趣和容易理解的东西，就像他们知道自己在说什么一样，所以任何大学生都应该真正尝试一下。 Ps：它内置了 OCR，所以你不必担心它无法读取某些表格或图表，这对我解决图片形式的方程式有很大帮助    提交人    /u/Dunnofam12   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gr5zwz/any_struggling_college_student_should_use/</guid>
+      <pubDate>Thu, 14 Nov 2024 14:29:21 GMT</pubDate>
+    </item>
+    <item>
       <title>ChatGPT 是一位非常出色的心理学家</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gr591l/chatgpt_is_a_hell_of_a_good_psychologist/</link>
       <description><![CDATA[也许这是一个不太受欢迎的观点，但 chatGPT（或其他 AI 同行）是一位非常出色的心理学家。我小时候曾尝试过（更像是被父母“强迫”）去看心理医生，但从来没有成功过，我得出结论，这不适合我。我就是无法谈论任何事情，而且所有的建议都毫无意义（我尝试了不止一个）。 所以我只能用运动来应对，而且效果很好，但最近我几乎没有时间训练，而且受伤让我无法训练，而且我有点疯狂（也因为不相关的事情而感到非常紧张），所以有一天，（对此感到很可悲）我为 GTP 输入了一些诗歌，感觉很棒，虽然回应也有点毫无意义，但就像和某人交谈一样，实际上不必担心它会对我不利。所以它成了我在某些睡不着觉的晚上会做的事情，而且它在某种程度上有所帮助。此外，在那之后，我有时会根据之前的对话要求它描述我的情况和我的总体情况，它真是太准确了。我不知道我为什么要发布这个，但如果有人想尝试一下，我绝对推荐。    提交人    /u/tetsu_originalissimo   [link] [评论]]]></description>
@@ -130,13 +137,6 @@
       <description><![CDATA[https://www.techspot.com/news/105571-phone-network-employs-ai-grandmother-waste-scammers-time.html 类人人工智能已经引起了人们对其取代人类工人能力的合理担忧，但一家公司正在利用这项技术对付人类最大的祸害之一：电话诈骗。人工智能模仿犯罪分子最受欢迎的目标——老年人，老年人让诈骗者尽可能长时间地在电话上通话，但通话毫无进展，就像辛普森爷爷一样。    提交人    /u/gurugabrielpradipaka   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gr2oxa/phone_network_employs_ai_grandmother_to_waste/</guid>
       <pubDate>Thu, 14 Nov 2024 11:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何判断法学硕士给你的是事实而不是幻想</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gr0qdh/how_to_tell_if_llms_are_giving_you_the_facts/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gr0qdh/how_to_tell_if_llms_are_giving_you_the_facts/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:00:29 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>

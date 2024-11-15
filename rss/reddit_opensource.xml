@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 15 Nov 2024 06:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 09:02:03 GMT</lastBuildDate>
+    <item>
+      <title>业余项目本地推理 UI Llama3.1</title>
+      <link>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</link>
+      <description><![CDATA[我开始使用 Angular、Deno（Oak）、Ollama 和 Llama3.1、Microsoft Garnet 和 PostgreSQL 开发本地 dockerized web 应用程序。 https://github.com/WingZer0o/lwollama    提交人    /u/Life_Dentist_445   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</guid>
+      <pubDate>Fri, 15 Nov 2024 07:48:31 GMT</pubDate>
+    </item>
     <item>
       <title>从 Windows 向 Android 传输文件时，LocalSend 速度仅为 1-2mbps。</title>
       <link>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我是一名 IT 学生，我喜欢编程，当我听说“开源智能手机”时，我来这里想问你们几个问题。1) 它们真的是开源的吗？比如，我可以对内核或可视化界面进行编程吗？或者它就像一部手机，你可以看到它在做什么，但你无法真正改变它。2) 如果它们真的是开源的，我该如何对它们进行编程？有没有软件（也许也是开源的或者只是免费的）可以对它们进行编程？它们可以用什么语言进行编程？（请不要使用汇编语言）3) 它们通常使用哪种操作系统？是否有专门用于智能手机的开源操作系统，或者他们使用开源版本的 Android？或者像 Linux？4) 你知道有什么好的品牌吗？我见过像努比亚、CMF 和 ODM 这样的品牌。我听说谷歌也做了一个，但它们有相关性吗？感谢那些回答的人。    提交人    /u/lory52   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gqig6o/open_source_smartphone/</guid>
       <pubDate>Wed, 13 Nov 2024 17:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找自托管的工作状态显示板实用程序......</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gq6a0s/looking_for_a_selfhosted_job_status_display_board/</link>
-      <description><![CDATA[我正在寻找一个小型、简单的实用程序，它可以在 LAMP 服务器上运行，可以管理“作业”（我将使用汽车修理店作为示例，但它可以用于任何小型商店）并将创建一个 HTML 作业状态页面，该页面旨在显示在大型显示器上。  这旨在非常简单，非技术人员也可以轻松与之交互。 我设想一个数据库，其中每个作业都有一个状态代码、一个描述符和一个注释。 HTML 页面将列出作业，显示其当前状态和其他配置的数据，例如作业年龄。 HTML 可以根据优先级、状态、年龄等因素对每个作业进行排名和颜色编码。 （我设想了一个网格，其中有用于显示作业的大型水平条，以及用于显示描述、状态和期限等内容的列。 这样，用户只需看一眼显示屏，就能看到琼斯先生的车正在抽水，但工作尚未开始。（“琼斯水泵 | 等待启动 | 1 小时”为绿色，但在 2 小时后变为黄色）当技术人员开始工作时，他们可以发送短信或点击手机将作业更新为“进行中”。仪表板将反映这一变化。然后，当他们需要零件时，他们可以将其更改为“等待零件”并附上评论，仪表板将更新，零件人员将收到通知。等等。 这必须极其易于使用，并且不旨在与任何其他应用程序集成或提供指标。它的主要目的是快速直观地显示当前内部作业及其状态，并防止优先级较低但稍后需要升级的作业被遗忘在小商店中，每分钟都处于混乱之中。  我的 Google 魔力无法帮我找到可以轻松适应此目的的东西。我一直使用的关键字大多让我陷入了瑞士军刀般的境地！我可以写出来，但我们都知道，即​​使是像这样的简单工具也需要几天或几周的时间才能正常工作。  有人对我可能在哪里找到适用的东西有什么好的建议吗？    提交人    /u/desertdilbert   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gq6a0s/looking_for_a_selfhosted_job_status_display_board/</guid>
-      <pubDate>Wed, 13 Nov 2024 05:59:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

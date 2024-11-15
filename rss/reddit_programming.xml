@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 15 Nov 2024 06:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 09:01:56 GMT</lastBuildDate>
+    <item>
+      <title>通过将 websocket 消息代理到 HTTP 扩展到 100 万个 websocket</title>
+      <link>https://www.reddit.com/r/programming/comments/1grs5qz/scaling_to_1_million_websockets_by_proxying/</link>
+      <description><![CDATA[  由    /u/maus80  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grs5qz/scaling_to_1_million_websockets_by_proxying/</guid>
+      <pubDate>Fri, 15 Nov 2024 08:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于从终端浏览 calibre 的 Bash 脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1grq6qf/bash_script_to_browse_calibre_from_the_terminal/</link>
+      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grq6qf/bash_script_to_browse_calibre_from_the_terminal/</guid>
+      <pubDate>Fri, 15 Nov 2024 06:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于从终端浏览 YouTube 的 Bash 脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1grq6ch/bash_script_to_browse_youtube_from_the_terminal/</link>
+      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grq6ch/bash_script_to_browse_youtube_from_the_terminal/</guid>
+      <pubDate>Fri, 15 Nov 2024 06:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>BASIC 发明者 Thomas E. Kurtz 去世</title>
+      <link>https://www.reddit.com/r/programming/comments/1grq3fo/thomas_e_kurtz_the_inventor_or_basic_has_passed/</link>
+      <description><![CDATA[  由    /u/intelw1zard  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grq3fo/thomas_e_kurtz_the_inventor_or_basic_has_passed/</guid>
+      <pubDate>Fri, 15 Nov 2024 06:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解字符编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1grpwxh/understanding_character_encoding/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grpwxh/understanding_character_encoding/</guid>
+      <pubDate>Fri, 15 Nov 2024 06:08:11 GMT</pubDate>
+    </item>
     <item>
       <title>将业务逻辑放在应用程序中，而不是数据库中</title>
       <link>https://www.reddit.com/r/programming/comments/1grpohb/put_business_logic_in_the_application_not_the/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/Don_Crespo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1grf7o5/distributed_tracing_with_opentelemetry_in_net_a/</guid>
       <pubDate>Thu, 14 Nov 2024 21:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握工厂方法设计模式：构建任务管理 CLI</title>
-      <link>https://www.reddit.com/r/programming/comments/1grd3sy/mastering_the_factory_method_design_pattern/</link>
-      <description><![CDATA[  由    /u/Main-Humor-6933  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grd3sy/mastering_the_factory_method_design_pattern/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顾我的编码之路：我走在正确的道路上吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1grc7au/looking_back_on_my_coding_path_was_i_on_the_right/</link>
-      <description><![CDATA[  由    /u/tiserge2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grc7au/looking_back_on_my_coding_path_was_i_on_the_right/</guid>
-      <pubDate>Thu, 14 Nov 2024 18:54:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>s/sed/ed</title>
-      <link>https://www.reddit.com/r/programming/comments/1grbh15/sseded/</link>
-      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grbh15/sseded/</guid>
-      <pubDate>Thu, 14 Nov 2024 18:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能代理现状报告</title>
-      <link>https://www.reddit.com/r/programming/comments/1grb91e/state_of_ai_agents_report/</link>
-      <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grb91e/state_of_ai_agents_report/</guid>
-      <pubDate>Thu, 14 Nov 2024 18:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国土安全部公布在关键基础设施中安全部署人工智能的突破性框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1granuw/groundbreaking_framework_for_the_safe_and_secure/</link>
-      <description><![CDATA[  由    /u/Several_Print4633  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1granuw/groundbreaking_framework_for_the_safe_and_secure/</guid>
-      <pubDate>Thu, 14 Nov 2024 17:50:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
