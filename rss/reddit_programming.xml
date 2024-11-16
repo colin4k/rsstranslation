@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 16 Nov 2024 06:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 09:01:57 GMT</lastBuildDate>
+    <item>
+      <title>快速 Git 教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsjczd/quick_git_tutorial/</link>
+      <description><![CDATA[  由    /u/Cosmote_Is_Me  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsjczd/quick_git_tutorial/</guid>
+      <pubDate>Sat, 16 Nov 2024 08:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对各种固件文件格式（Intel Hex、Motorola Hex、elf）优化的新 Hex 编辑器软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsijfd/new_hex_editor_software_optimized_for_various/</link>
+      <description><![CDATA[  由    /u/dataescher  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsijfd/new_hex_editor_software_optimized_for_various/</guid>
+      <pubDate>Sat, 16 Nov 2024 07:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用正则表达式在 Node.js 中一线解决贪婪骰子游戏挑战！| CodeWars 教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsi705/oneline_solution_with_regex_for_the_greed_dice/</link>
+      <description><![CDATA[  由    /u/The_Random_Coder  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsi705/oneline_solution_with_regex_for_the_greed_dice/</guid>
+      <pubDate>Sat, 16 Nov 2024 07:29:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 与 TypeScript：选择哪一个？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsi5d0/javascript_vs_typescript_which_to_choose/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsi5d0/javascript_vs_typescript_which_to_choose/</guid>
+      <pubDate>Sat, 16 Nov 2024 07:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>ellycache：简单、高性能的 Postgres 查询缓存，带有内置 HTTP 服务器</title>
       <link>https://www.reddit.com/r/programming/comments/1gsgfp4/ellycache_simple_performant_query_cache_for/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>Twilio 可编程视频尚未结束</title>
       <link>https://www.reddit.com/r/programming/comments/1gsdg2g/twilio_programmable_video_is_no_longer_end_of_life/</link>
-      <description><![CDATA[Twilio 的视频产品原本应该在 2026 年停产，但现在看来已经倒退了。    提交人    /u/protecz   [链接] [评论]]]></description>
+      <description><![CDATA[Twilio 的视频产品本应在 2026 年停产，但现在看来已经倒退了。    由    /u/protecz 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gsdg2g/twilio_programmable_video_is_no_longer_end_of_life/</guid>
       <pubDate>Sat, 16 Nov 2024 02:33:47 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/innochenti  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1grzgx6/exploring_mixins/</guid>
       <pubDate>Fri, 15 Nov 2024 15:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要混淆跟踪和跨度 - 危险和最佳实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1grz5r1/stop_confusing_traces_and_spans_dangers_and_best/</link>
-      <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grz5r1/stop_confusing_traces_and_spans_dangers_and_best/</guid>
-      <pubDate>Fri, 15 Nov 2024 15:41:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个基于浏览器的 Linux 发行版模拟，称为 ELECTRON OS（与 OG electronJS 无关）。它完全用 JS 制作，还具有 GUI 模拟。它可以像普通 Linux 终端一样在 Web 上执行所有基本任务。在此处查看完整文档。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gryu0r/made_a_browser_based_linux_distro_simulation/</link>
-      <description><![CDATA[  由    /u/Mean_Option_7459  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gryu0r/made_a_browser_based_linux_distro_simulation/</guid>
-      <pubDate>Fri, 15 Nov 2024 15:27:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高 Python 水平的谜题 - 觉醒的书呆子</title>
-      <link>https://www.reddit.com/r/programming/comments/1gryfsb/puzzles_to_improve_python_awake_nerd/</link>
-      <description><![CDATA[  由    /u/janodusho  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gryfsb/puzzles_to_improve_python_awake_nerd/</guid>
-      <pubDate>Fri, 15 Nov 2024 15:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jujutsu (JJ) 版本控制工具 | 第 5 集 Bits and Booze</title>
-      <link>https://www.reddit.com/r/programming/comments/1gryexo/jujutsu_jj_version_control_tool_ep_5_bits_and/</link>
-      <description><![CDATA[  由    /u/icyFur  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gryexo/jujutsu_jj_version_control_tool_ep_5_bits_and/</guid>
-      <pubDate>Fri, 15 Nov 2024 15:08:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

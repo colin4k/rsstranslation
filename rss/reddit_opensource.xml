@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 16 Nov 2024 06:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 09:02:04 GMT</lastBuildDate>
+    <item>
+      <title>DataAuto - 简化数据分析的开源工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gsirnk/dataauto_an_opensource_tool_for_streamlined_data/</link>
+      <description><![CDATA[我很高兴地宣布推出 DataAuto，这是一款开源 Python 工具，旨在自动执行常见的数据分析任务，使您的工作流程更高效、更不容易出错。在大量从事数据项目之后，我注意到加载数据集、汇总数据和创建图表等重复性任务会耗费大量时间。这启发我创建了 DataAuto 来简化这些流程。我渴望听到您的想法、反馈以及您可能对 DataAuto 有的任何问题！无论您是数据科学家、分析师，还是只是喜欢处理数据的人，我相信 DataAuto 都能帮助简化您的工作流程。 感谢您的支持！让我们一起让数据分析更顺畅、更高效。 🚀 链接：www.github.com/r4mp4g3r/dataauto    由   提交  /u/KrimKarma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gsirnk/dataauto_an_opensource_tool_for_streamlined_data/</guid>
+      <pubDate>Sat, 16 Nov 2024 08:10:33 GMT</pubDate>
+    </item>
     <item>
       <title>从 1 到 10 的范围内，您对所使用的 AI 工具是否开源有多在意？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gsepab/on_a_scale_from_1_to_10_how_much_do_you_care/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>构建浏览器指纹识别演示以了解设备识别</title>
       <link>https://www.reddit.com/r/opensource/comments/1gs41ys/built_a_browser_fingerprinting_demo_to_learn/</link>
-      <description><![CDATA[大家好！创建 trackme.dev 是为了了解和演示网站如何通过浏览器特征识别访问者。 该项目使用 Nuxt 3 和 Shadcn-Vue 构建，展示： - 实时指纹生成 - 通过 WebGL 进行硬件检测 - Canvas 指纹识别 - 浏览器功能分析 - ... 代码可在 GitHub 上获得。我构建它是为了了解指纹识别技术并与他人分享这些知识。欢迎贡献或将其用于教育目的！ 很高兴听到您的反馈和改进想法。    提交人    /u/LeonKohli   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！创建 trackme.dev 是为了了解和演示网站如何通过其浏览器特征识别访问者。 该项目使用 Nuxt 3 和 Shadcn-Vue 构建，展示： - 实时指纹生成 - 通过 WebGL 进行硬件检测 - Canvas 指纹识别 - 浏览器功能分析 - ... 代码可在 GitHub 上获得。我构建它是为了了解指纹识别技术并与他人分享这些知识。欢迎随意贡献或将其用于教育目的！ 很高兴听到您的反馈和改进想法。    提交人    /u/LeonKohli   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gs41ys/built_a_browser_fingerprinting_demo_to_learn/</guid>
       <pubDate>Fri, 15 Nov 2024 19:08:34 GMT</pubDate>
     </item>
@@ -76,23 +83,16 @@
       <pubDate>Fri, 15 Nov 2024 16:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>Quicken LifeHub 开源替代品</title>
+      <title>Quicken LifeHub 开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1grykdr/quicken_lifehub_opensource_alternative/</link>
       <description><![CDATA[https://www.quicken.com/lp/em/exist-pfm/lifehub/w6b 今天上午我刚在我的 feed 中看到这个。Quicken 的新产品。我不是程序员类型——更像是长期、热情的开源用户。我一直在寻找这样的开源解决方案，并希望看到像这样的开源和自托管的东西，既安全又私密——可以隐藏起来，同时使用顶级安全性。有点像 VaultWarden——但更适合这些用例。还有人认为这是一个好主意吗？知道做起来有多难吗？    提交人    /u/609JerseyJack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grykdr/quicken_lifehub_opensource_alternative/</guid>
       <pubDate>Fri, 15 Nov 2024 15:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>业余项目本地推理 UI Llama3.1</title>
-      <link>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</link>
-      <description><![CDATA[我开始使用 Angular、Deno（Oak）、Ollama 和 Llama3.1、Microsoft Garnet 和 PostgreSQL 开发本地 dockerized web 应用程序。 https://github.com/WingZer0o/lwollama    提交人    /u/Life_Dentist_445   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</guid>
-      <pubDate>Fri, 15 Nov 2024 07:48:31 GMT</pubDate>
-    </item>
-    <item>
       <title>从 Windows 向 Android 传输文件时，LocalSend 速度仅为 1-2mbps。</title>
       <link>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</link>
-      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    由    /u/udayramp  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    提交人    /u/udayramp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</guid>
       <pubDate>Fri, 15 Nov 2024 05:22:44 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>小更新：音频文件终于在音频增强器中得到支持了！（想想吧！）</title>
       <link>https://www.reddit.com/r/opensource/comments/1grdzdx/miniupdate_audio_files_are_finally_supported_in/</link>
-      <description><![CDATA[我们正在 fast-music-remover 上增强互联网媒体的音频质量！讲座、访谈、社交媒体帖子；消除噪音、效果和受版权保护的音乐，而不会扭曲音频质量！ 我们是一个活跃的项目，有很多事情要做，我们推迟在音频增强器中原生支持音频文件似乎很奇怪...由于主要重点是改善视频，似乎我们忽略了音频作为用户输入.. 好吧，今天随着我刚刚推送的最新更新，情况发生了变化，我们现在正式在核心中支持音频文件。 正如标题所说，这是一个小更新，因为 UI 需要.. 嗯.. 成为一个合适的 UI，并且后端已经在进行中，所以这会稍后出现。 但是从终端使用它很容易，请查看doxy-doc 在我们的主页上阅读它是如何工作的以及如何使用它！ 如果您的机器上出现问题，请告诉我！    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <description><![CDATA[我们正在 fast-music-remover 上增强互联网媒体的音频质量！讲座、访谈、社交媒体帖子；消除噪音、效果和受版权保护的音乐，而不会扭曲音频质量！ 我们是一个活跃的项目，有很多事情要做，我们推迟在音频增强器中原生支持音频文件似乎很奇怪...由于主要重点是改善视频，似乎我们忽略了音频作为用户输入.. 好吧，今天随着我刚刚推送的最新更新，情况发生了变化，我们现在正式支持核心中的音频文件。 正如标题所说，这是一个小更新，因为 UI 需要.. 嗯.. 成为一个合适的 UI，并且后端已经在进行中，所以这会稍后出现。 不过，从终端使用它很容易，请查看doxy-doc 在我们的主页上阅读它是如何工作的以及如何使用它！ 如果您的机器上出现问题，请告诉我！    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grdzdx/miniupdate_audio_files_are_finally_supported_in/</guid>
       <pubDate>Thu, 14 Nov 2024 20:10:23 GMT</pubDate>
     </item>
