@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 16 Nov 2024 00:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 03:09:51 GMT</lastBuildDate>
+    <item>
+      <title>编程语言的演变</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsdx87/evolution_of_programming_languages/</link>
+      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsdx87/evolution_of_programming_languages/</guid>
+      <pubDate>Sat, 16 Nov 2024 03:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twilio 可编程视频尚未结束</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsdg2g/twilio_programmable_video_is_no_longer_end_of_life/</link>
+      <description><![CDATA[Twilio 的视频产品原本应该在 2026 年停产，但现在看来已经倒退了。    提交人    /u/protecz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsdg2g/twilio_programmable_video_is_no_longer_end_of_life/</guid>
+      <pubDate>Sat, 16 Nov 2024 02:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在编程时使用这些键吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gscxbf/do_you_use_these_keys_when_programming/</link>
+      <description><![CDATA[我不使用这些，但显然它们被称为文本编辑器键，所以有点好奇它们是否真的有用你使用它们吗？你认为学习使用它们值得吗？    由   提交  /u/Annyones   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gscxbf/do_you_use_these_keys_when_programming/</guid>
+      <pubDate>Sat, 16 Nov 2024 02:04:46 GMT</pubDate>
+    </item>
     <item>
       <title>计算机语言 Basic 联合创始人托马斯·库尔茨去世，享年 96 岁 - 彭博社</title>
       <link>https://www.reddit.com/r/programming/comments/1gsajxy/thomas_kurtz_cocreator_of_computer_language_basic/</link>
@@ -32,13 +53,6 @@
       <description><![CDATA[  由    /u/ryanlpeterman  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gs7t9l/how_i_ship_projects_at_big_tech_companies/</guid>
       <pubDate>Fri, 15 Nov 2024 21:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHK：第一印象：联想 T14s 搭载高通骁龙 ARM64 CPU</title>
-      <link>https://www.reddit.com/r/programming/comments/1gs6s6x/phk_first_impressions_lenovo_t14s_with_qualcomm/</link>
-      <description><![CDATA[  由    /u/Mcnst  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gs6s6x/phk_first_impressions_lenovo_t14s_with_qualcomm/</guid>
-      <pubDate>Fri, 15 Nov 2024 21:08:54 GMT</pubDate>
     </item>
     <item>
       <title>使用 GDB 和 DDD 进行愉快的调试</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/ymz-ncnk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1grxwmu/commands_vs_rpc/</guid>
       <pubDate>Fri, 15 Nov 2024 14:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚与 LangChain 一起启动了我的 AgentCraft Hackathon - 以下是专家会议！（提供录音）</title>
-      <link>https://www.reddit.com/r/programming/comments/1grxkas/just_kicked_off_my_agentcraft_hackathon_with/</link>
-      <description><![CDATA[刚刚与 LangChain 合作举办了我公司 DiamantAI 的 AgentCraft 黑客马拉松的启动仪式。录制了一些精彩的会议，专家们分享了最新的 AI 代理开发成果：  LangChain 的 Lance Martin 介绍了 LangGraph——一种用于构建可靠 AI 代理的新框架 Monday.com 的 AI 负责人演示了 GPT-Researcher（15K GitHub 星）——一款质量提升 40% 的多代理研究助手 微软演示了 Azure AI Studio，提供 200 美元免费积分 + 为初创公司提供高达 15 万美元的资助 Dynamiq 首席执行官展示了他们的企业编排平台，可将票务处理量减少 50% CopilotKit 首席执行官展示了如何使用人机循环工作流构建复杂的 AI 应用程序  完整的录音和资源可在所附链接中找到。 如果您对会议或黑客马拉松有任何疑问，请告诉我！    由   提交  /u/Diamant-AI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grxkas/just_kicked_off_my_agentcraft_hackathon_with/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Python 中实现函数重载的终极指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1grx6wm/the_ultimate_guide_to_implement_function/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grx6wm/the_ultimate_guide_to_implement_function/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:10:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
