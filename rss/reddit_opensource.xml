@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 16 Nov 2024 18:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 21:02:01 GMT</lastBuildDate>
+    <item>
+      <title>FreeCAD BIM 更新 26</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gswcyd/freecad_bim_update_26/</link>
+      <description><![CDATA[        提交人    /u/buovjaga   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gswcyd/freecad_bim_update_26/</guid>
+      <pubDate>Sat, 16 Nov 2024 20:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 日历替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gsu6gr/google_calendar_alternative/</link>
+      <description><![CDATA[您好。我正在重新设计我的整个数字环境。我使用 GAFAM 已经很久了，我已经非常习惯使用它们了。 我正在将我的 Gmail 迁移到一个名为 Mailo 的道德且免费的邮箱。到目前为止一切顺利，但当要为我的 Agenda 寻找替代方案时，就很难了。我想使用链接到我的 Mailo 地址的日历，但使用外部界面。我试过 Thunderbird，但我不太喜欢它…… 您对我的日历有什么界面建议吗？我需要能够查看和创建事件（并且我创建的事件需要与 Mailo 日历同步）。 它可以是软件或在线服务。注意：我在 Linux mint 上  我还在寻找与 /e/os 兼容的应用程序    提交人    /u/ParkingAssociation20   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gsu6gr/google_calendar_alternative/</guid>
+      <pubDate>Sat, 16 Nov 2024 18:55:24 GMT</pubDate>
+    </item>
     <item>
       <title>Voice Lab - 一个开放框架，用于评估不同模型、提示和角色的 LLM 驱动的代理</title>
       <link>https://www.reddit.com/r/opensource/comments/1gssf7z/voice_lab_an_open_framework_to_evaluate/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>Codai：终端人工智能代码助手，了解整个项目背景</title>
       <link>https://www.reddit.com/r/opensource/comments/1gskc0v/codai_ai_code_assistant_in_terminal_with/</link>
-      <description><![CDATA[Codai 是一款 AI 代码助手，旨在帮助开发人员通过 基于会话的 CLI 高效管理日常任务，例如 添加新功能、重构和执行详细的代码审查。codai 的突出之处在于 它深入了解您项目的整个背景，使其能够分析您的代码库并根据您的背景提出改进或新代码建议。这个由 AI 驱动的工具支持多种 LLM 模型，包括 GPT-4o、GPT-4、Ollama 等。 此外，我正在致力于添加 Vscode 和 JetBrains 插件，以便与 UI 中的其他 IDE 集成。 https://github.com/meysamhadeli/codai    提交人    /u/Spare-Spray6508   [链接] [评论]]]></description>
+      <description><![CDATA[Codai 是一款 AI 代码助手，旨在通过 基于会话的 CLI 帮助开发人员高效管理日常任务，例如 添加新功能、重构和执行详细的代码审查。codai 的突出之处在于 它深入了解您项目的整个背景，使其能够分析您的代码库并根据您的背景提出改进或新代码建议。这个由 AI 驱动的工具支持多种 LLM 模型，包括 GPT-4o、GPT-4、Ollama 等。 此外，我正在致力于添加 Vscode 和 JetBrains 插件，以便与 UI 中的其他 IDE 集成。 https://github.com/meysamhadeli/codai    提交人    /u/Spare-Spray6508   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gskc0v/codai_ai_code_assistant_in_terminal_with/</guid>
       <pubDate>Sat, 16 Nov 2024 10:11:24 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://www.quicken.com/lp/em/exist-pfm/lifehub/w6b 今天上午我刚在我的 feed 中看到这个。Quicken 的新产品。我不是程序员类型——更像是长期、热情的开源用户。我一直在寻找这样的开源解决方案，并希望看到像这样的开源和自托管的东西，既安全又私密——可以隐藏起来，同时使用顶级安全性。有点像 VaultWarden——但更适合这些用例。还有人认为这是一个好主意吗？知道做起来有多难吗？    提交人    /u/609JerseyJack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grykdr/quicken_lifehub_opensource_alternative/</guid>
       <pubDate>Fri, 15 Nov 2024 15:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Windows 向 Android 传输文件时，LocalSend 速度仅为 1-2mbps。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</link>
-      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    提交人    /u/udayramp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</guid>
-      <pubDate>Fri, 15 Nov 2024 05:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>httptoolkit 修补工具已被 httptoolkit 撤下</title>
-      <link>https://www.reddit.com/r/opensource/comments/1grokmj/httptoolkit_patching_tools_have_been_taken_down/</link>
-      <description><![CDATA[httptoolkit 迅速撤下了这些 repos 托管的所有修补工具。没有任何信息表明这些 repos 的开发人员为何删除了所有文件，现在 httptoolkit dev 只剩下 README.md。 httptoolkit 并未透露他们是否威胁要起诉这些开发人员，或者是否要求他们删除文件等。 httptoolkit 应该出来告诉公众为什么我们在 github 的修补仓库中看到来自 httptoolkit dev 的信件。 https://github.com/Titoot/httptoolkit-interceptor https://github.com/XielQs/httptoolkit-pro-patcher    提交人    /u/f3-thinker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1grokmj/httptoolkit_patching_tools_have_been_taken_down/</guid>
-      <pubDate>Fri, 15 Nov 2024 04:45:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
