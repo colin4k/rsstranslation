@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 15 Nov 2024 21:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 00:04:51 GMT</lastBuildDate>
+    <item>
+      <title>互联网最新（也是最活跃？）音频增强器的 UI 更新！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gsalck/ui_update_for_internets_latest_and_most_active/</link>
+      <description><![CDATA[在 fast-music-remover 中，我们致力于为学生、教师、音频爱好者和其他人提供免费工具，通过消除背景音乐和噪音来轻松提高音频质量，使语音更清晰、更容易理解。 我们正在积极开发应用程序的核心，为了使测试和使用更容易，我们提供了一个轻量级的 UI，可以使用提供的 Docker 设置在本地运行。 显然不能在这里添加图像，但你不会在自述文件的顶部错过它！ 我们还有很长的路要走，但我非常高兴与您分享这一更新。我希望你能从中得到一些好处，如果你对我们项目的任何方面有任何反馈，请告诉我。    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gsalck/ui_update_for_internets_latest_and_most_active/</guid>
+      <pubDate>Sat, 16 Nov 2024 00:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Zerocam 的开源替代品 - unprocess</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gs98e5/i_made_an_open_source_alternative_to_zerocam/</link>
+      <description><![CDATA[大家好！ 作为一名摄影爱好者，我决定在 Zerocam 最近在 Android 上发布时试用一下。我和网上的其他人一样，对应用程序的订阅和无法保存为 RAW 感到失望。因此，我决定尽快制作一款具有相同功能的免费应用程序。 它有什么用？好吧，我试图提供与 Zerocam 相同的功能。Zerocam 是一款 1 页应用程序，只需拍摄未处理的照片并将其保存为 .jpg 文件。unprocess 可以做到这一点，并保存为 RAW！但基本上就是这样。它缺少的一项重要功能是订阅，我会保持这种状态。  提醒一下，本周一（大约 4 天前）之前，我从未为 Android 编写过任何代码。该应用基于 Google 示例应用，展示了 Camera2 API，看起来非常相似。但是，我已经对其进行了很大程度的底层更改，以便让它能够完成需要做的事情。  对于任何阅读本文且具有 Android/Kotlin 经验的人，我都欢迎您提供任何帮助。我已将 4 个问题添加到 GitHub，这些问题是最明显的待解决问题，如果您知道自己在做什么，您可能可以在不到一小时内解决这些问题。  这里是 GitHub 存储库，.apk 可以在“发布”选项卡下找到。如果有足够的兴趣，我可能会尝试将其放入 Play 商店。如果有人想问或者想贡献任何东西，我都会在评论中留言！    提交人    /u/Eubank31   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gs98e5/i_made_an_open_source_alternative_to_zerocam/</guid>
+      <pubDate>Fri, 15 Nov 2024 22:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我列出了开源应用程序的清单...尽情享受吧</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gs8hex/i_made_a_teirlist_of_open_source_appsenjoy/</link>
+      <description><![CDATA[https://tiermaker.com/create/open-source-apps-17638318    由   提交  /u/Better-Quote1060   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gs8hex/i_made_a_teirlist_of_open_source_appsenjoy/</guid>
+      <pubDate>Fri, 15 Nov 2024 22:24:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHK：第一印象：联想 T14s 搭载高通骁龙 ARM64 CPU</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gs6txp/phk_first_impressions_lenovo_t14s_with_qualcomm/</link>
+      <description><![CDATA[  由    /u/Mcnst  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gs6txp/phk_first_impressions_lenovo_t14s_with_qualcomm/</guid>
+      <pubDate>Fri, 15 Nov 2024 21:11:03 GMT</pubDate>
+    </item>
     <item>
       <title>建造了 Zetamax，一种现代化的 Zetamac</title>
       <link>https://www.reddit.com/r/opensource/comments/1gs4xgc/built_zetamax_a_modern_zetamac/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gr2b8h/the_open_source_initiative_osi_and_eclipse/</guid>
       <pubDate>Thu, 14 Nov 2024 11:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于模块化 AI 项目的全新开源 ESP32 机器人套件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gr08qf/new_opensource_esp32_robotics_kit_for_modular/</link>
-      <description><![CDATA[去年，我们推出了第一款 CYOBot，这是一款开源腿式机器人。它具有基于 WiFi 的编码接口，但面临一些限制，例如 SRAM 有限，导致多个外设出现内存错误，以及不支持清晰语音命令的基本 ADC 音频。之前的设计还缺乏模块化，使硬件扩展具有挑战性。 在 CYOBot V2 中，我们已升级到具有 8MB 闪存和 PSRAM 的 ESP32-S3，使其能够处理更大的库并高效地执行多任务。新的 I2S 麦克风和扬声器配有专用音频编解码器，可为语音命令提供清晰的音频。此外，模块化设计现在可以轻松地在机器人配置或自定义底座之间进行切换。 请在此处查看我们活动中的新设计：https://www.kickstarter.com/projects/cyobot/cyobot-a-transformable-quadruped-robot-for-innovation-and-fun?ref=6waexz 另一方面，电路板的原理图和源代码可在 Hackaday 上找到：https://hackaday.io/project/199084-cyobot-v2-transformable-quadruped-robot    由   提交  /u/buzinguyen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gr08qf/new_opensource_esp32_robotics_kit_for_modular/</guid>
-      <pubDate>Thu, 14 Nov 2024 08:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否认为 FOSS 项目应该在其网站上投放广告来为其项目提供资金？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gqzx2s/do_you_think_foss_projects_should_put_ads_on/</link>
-      <description><![CDATA[  由    /u/NoGravitySpacee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gqzx2s/do_you_think_foss_projects_should_put_ads_on/</guid>
-      <pubDate>Thu, 14 Nov 2024 07:56:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Expedite v0.1.0 现已在 PyPI、GitHub 和 DockerHub 上发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gqxzcx/expedite_v010_is_out_now_on_pypi_github_and/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gqxzcx/expedite_v010_is_out_now_on_pypi_github_and/</guid>
-      <pubDate>Thu, 14 Nov 2024 05:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Musoq 0.17.2：类似 SQL 的 Git 存储库查询、C# 代码分析等</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gqqw1w/musoq_0172_sqllike_querying_for_git_repositories/</link>
-      <description><![CDATA[https://github.com/Puchaczov/Musoq    由   提交  /u/Puchaczov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gqqw1w/musoq_0172_sqllike_querying_for_git_repositories/</guid>
-      <pubDate>Wed, 13 Nov 2024 23:30:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
