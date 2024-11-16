@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 16 Nov 2024 03:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 06:01:58 GMT</lastBuildDate>
+    <item>
+      <title>ellycache：简单、高性能的 Postgres 查询缓存，带有内置 HTTP 服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsgfp4/ellycache_simple_performant_query_cache_for/</link>
+      <description><![CDATA[  由    /u/jmswlms  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsgfp4/ellycache_simple_performant_query_cache_for/</guid>
+      <pubDate>Sat, 16 Nov 2024 05:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 VS Code 插件，实现超快的 React.js 开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1gse703/introducing_a_vs_code_plugin_for_ultrafast/</link>
+      <description><![CDATA[嗨，开发人员， 我们一直在开发一款 VS 代码插件，旨在让前端 React 开发更快、更高效。 使用此工具，您可以： 通过直观的界面使用高质量组件（从您选择的基础库中）设计和自定义 UI。构建和共享您自己的组件库。随时随地测试多种屏幕尺寸的响应能力。在此处查看演示视频：https://youtu.be/DRvF1o3TlCI?si=gzHsaupbRZN4WJhO 我们很乐意听取您的反馈！您的见解将帮助我们在发布前进行改进。让我们知道您的想法或您希望看到的功能。如果您有兴趣对此产品进行 Beta 测试，请加入等候名单：https://www.webtistic.dev/ 也欢迎通过 team.webtistic@gmail.com 写信给我们。提前感谢您帮助我们塑造这个工具！    提交人    /u/Inside-Stay2539   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gse703/introducing_a_vs_code_plugin_for_ultrafast/</guid>
+      <pubDate>Sat, 16 Nov 2024 03:16:01 GMT</pubDate>
+    </item>
     <item>
       <title>编程语言的演变</title>
       <link>https://www.reddit.com/r/programming/comments/1gsdx87/evolution_of_programming_languages/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/icyFur  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gryexo/jujutsu_jj_version_control_tool_ep_5_bits_and/</guid>
       <pubDate>Fri, 15 Nov 2024 15:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>幂等命令处理</title>
-      <link>https://www.reddit.com/r/programming/comments/1grxx7k/idempotent_command_handling/</link>
-      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grxx7k/idempotent_command_handling/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令与 RPC</title>
-      <link>https://www.reddit.com/r/programming/comments/1grxwmu/commands_vs_rpc/</link>
-      <description><![CDATA[  由    /u/ymz-ncnk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grxwmu/commands_vs_rpc/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:44:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

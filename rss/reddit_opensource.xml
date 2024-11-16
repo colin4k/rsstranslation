@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 16 Nov 2024 03:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 06:02:05 GMT</lastBuildDate>
+    <item>
+      <title>从 1 到 10 的范围内，您对所使用的 AI 工具是否开源有多在意？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gsepab/on_a_scale_from_1_to_10_how_much_do_you_care/</link>
+      <description><![CDATA[此外，它的透明度和对开源的贡献是否提高了它的感知价值？我问这个问题是为了看看开发人员（这个社区的典型成员）对开源的信任程度，或者他们是否只是因为它的便利和好处而喜欢它。 就我个人而言，它很重要 8/10。我相信它对社会技术发展有着深远的影响——从想法出发并创造适应性推动创新和增长。不过，这是我个人的看法。我想看看其他人是否也持这种观点，或者其他人是否只是享受它的好处（例如灵活且适用于您开发的应用程序和程序），而不是从社会影响的角度看待这个问题。    提交人    /u/Rajan-Thakur01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gsepab/on_a_scale_from_1_to_10_how_much_do_you_care/</guid>
+      <pubDate>Sat, 16 Nov 2024 03:44:15 GMT</pubDate>
+    </item>
     <item>
       <title>互联网最新（也是最活跃？）音频增强器的 UI 更新！</title>
       <link>https://www.reddit.com/r/opensource/comments/1gsalck/ui_update_for_internets_latest_and_most_active/</link>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 15 Nov 2024 15:15:14 GMT</pubDate>
     </item>
     <item>
-      <title>业余项目本地推理UI Llama3.1</title>
+      <title>业余项目本地推理 UI Llama3.1</title>
       <link>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</link>
       <description><![CDATA[我开始使用 Angular、Deno（Oak）、Ollama 和 Llama3.1、Microsoft Garnet 和 PostgreSQL 开发本地 dockerized web 应用程序。 https://github.com/WingZer0o/lwollama    提交人    /u/Life_Dentist_445   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grrbuv/hobby_project_local_inference_ui_llama31/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>从 Windows 向 Android 传输文件时，LocalSend 速度仅为 1-2mbps。</title>
       <link>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</link>
-      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    提交人    /u/udayramp   [链接] [评论]]]></description>
+      <description><![CDATA[我的手机上有一个 5GHz 热点。从手机传输到 PC 时，速度为 30-40mbps。    由    /u/udayramp  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1grp748/localsend_speed_is_just_12mbps_while_transferring/</guid>
       <pubDate>Fri, 15 Nov 2024 05:22:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我想知道是否有 photoshop 和 acrobat reader 的替代版本？如果可能的话，可以在 Linux 系统上运行。    提交人    /u/LAIK_HUKUKCU   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gr4hky/adobe/</guid>
       <pubDate>Thu, 14 Nov 2024 13:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤝 开放源代码倡议 (OSI) 和 Eclipse 基金会签署了一份谅解备忘录，以推进支持负责任的 #opensource AI 的政策。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gr2b8h/the_open_source_initiative_osi_and_eclipse/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gr2b8h/the_open_source_initiative_osi_and_eclipse/</guid>
-      <pubDate>Thu, 14 Nov 2024 11:01:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
