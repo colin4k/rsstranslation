@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 17 Nov 2024 06:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 09:01:27 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找类似 chatlabs 的替代 LLM 聚合器。帮助。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7xzh/looking_for_alternative_llm_aggregators_like/</link>
+      <description><![CDATA[TLDR：寻找 writingmate.ai 的替代方案 Chatlabs，您可以以一个价格访问多个 AI 服务（包括 chatgpt、claude、Gemin 和其他大公司。） 我相信这项服务正在获得所有这些服务的 API 访问权限，以一个价格进行聚合，然后将其作为服务提供。 嗨，我正在寻找 LLM 聚合器，您只需支付一个价格即可访问来自不同公司的多个 LLM。我曾尝试通过谷歌寻找其中一些的“替代方案”，但我没有找到任何结果，部分原因是没有标准的方式来表达我在寻找什么。LLM 聚合器意味着很多不同的东西，并且可能有很多其他东西可以调用这种服务。我花了几个小时搜索谷歌、博客、社交媒体，甚至问过人工智能本身。到目前为止，我发现 writingmate.ai CHATLABS 似乎是一个非常好的交易，而唯一看起来在做同样事情的替代方案是 https://quantileai.in，但它们处于演示阶段并且没有定价。 我还有哪些 CHATLABS 的其他替代方案？    提交人    /u/warriorjoe007   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7xzh/looking_for_alternative_llm_aggregators_like/</guid>
+      <pubDate>Sun, 17 Nov 2024 06:58:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能与道德现实主义：人工智能能否符合客观伦理？ - Eric Sampson</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7xm0/ai_moral_realism_can_ai_align_with_objective/</link>
+      <description><![CDATA[Eric Sampson 就人工智能和道德现实主义进行访谈 - 我们深入探讨人工智能是否能够发现并符合客观的道德真理，以及这对更广泛的人工智能道德和一致性项目意味着什么。主题包括将人工智能设计为道德探究者的挑战、间接规范性、人口伦理以及人工智能成为超级智能的影响 - 以及成为更接近理想道德观察者。我们讨论了人工智能出现危险转变的风险、人工智能道德推理中的偏见以及人工智能优化超越人类价值观的可能性。对话还深入探讨了自由意志、道德本体论以及包括动物和人工智能在内的非人类实体的道德意义。我们还讨论了乌托邦、诺齐克的“体验机器”和蜂巢思维。 https://www.youtube.com/watch?v=OrdQ6YzRsBM    提交人    /u/adam_ford   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7xm0/ai_moral_realism_can_ai_align_with_objective/</guid>
+      <pubDate>Sun, 17 Nov 2024 06:57:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>多 AI 代理教程（AutoGen、LangGraph、OpenAI Swarm 等）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7c4j/multi_ai_agent_tutorials_autogen_langgraph_openai/</link>
+      <description><![CDATA[多 AI 代理编排现在是 GenAI 领域的最新关注领域，最近 OpenAI 和 Microsoft 都发布了新框架（Swarm、Magentic-One）。查看有关多 AI 代理编排的广泛播放列表，其中包含 LangGraph、AutoGen、CrewAI、OpenAI Swarm 和 Magentic One 上的教程以及一些有趣的 POC，如多代理面试系统、简历检查器等。播放列表：https://youtube.com/playlist?list=PLnH2pfPCPZsKhlUSP39nRzLkfvi_FhDdD&amp;si=9LknqjecPJdTXUzH    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7c4j/multi_ai_agent_tutorials_autogen_langgraph_openai/</guid>
+      <pubDate>Sun, 17 Nov 2024 06:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在努力研究多代理系统......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt762d/i_am_struggling_with_multi_agent_system/</link>
+      <description><![CDATA[你好... 我已经努力了好几个星期，试图为一个项目创建一个多智能体系统，我需要一些帮助，因为我是一个完全的初学者。所以基本上我想做的是一个学习伙伴（也许有人认出我了），这是计划，我将用 python 编写它并使用 streamlit 作为前端。搜索代理是用 Vertex AI Builder 制作的，我不知道如何在我的代码中调用它，基本上一切对我来说都是个谜.... 不要问我代码，它完全是垃圾....有人知道我可以观看/阅读什么视频/文档吗？请尽量给我具体的文档，不要太笼统。    提交人    /u/the_man_with_drip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt762d/i_am_struggling_with_multi_agent_system/</guid>
+      <pubDate>Sun, 17 Nov 2024 06:03:55 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道是否可以在本地或以合理的价格配音约 6 小时的音频吗？我知道这是一个昂贵的过程，但我付不起 elevenlabs 99 美元来配音一个简短的 YouTube 播放列表教程。我只是想在 YouTube 上学习这个教程，但它是俄语的。有什么想法吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt6v6a/does_anyone_know_if_ifs_possible_to_dub_6_hours/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>有人知道 FoleyCrafter (视频转音频) 的演示版本怎么样了吗</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt2nvk/does_anyone_know_what_happened_to_the_demo/</link>
-      <description><![CDATA[这是演示的链接 - 所有代码都返回错误 - 看起来像一个很棒的工具 - 我不知道有任何类似的工具。脚本是否托管在其他地方以用户友好的方式使用？我不知道如何在 github 上运行代码 https://huggingface.co/spaces/ymzhang319/FoleyCrafter    提交人    /u/Tavrabbit   [链接] [评论]]]></description>
+      <description><![CDATA[这是演示的链接 - 所有代码都返回错误 - 看起来像一个很棒的工具 - 我不知道有任何类似的。脚本是否托管在其他地方以用户友好的方式使用？我不知道如何在 github 上运行代码 https://huggingface.co/spaces/ymzhang319/FoleyCrafter    提交人    /u/Tavrabbit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt2nvk/does_anyone_know_what_happened_to_the_demo/</guid>
       <pubDate>Sun, 17 Nov 2024 01:41:30 GMT</pubDate>
     </item>
@@ -69,20 +97,6 @@
       <pubDate>Sat, 16 Nov 2024 20:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>配音歌曲</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsvnns/dubbing_song/</link>
-      <description><![CDATA[有人知道有什么软件或网站可以生成配音克隆声音来配音并制作其他语言的歌曲封面吗？     提交人    /u/Vejzzi   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsvnns/dubbing_song/</guid>
-      <pubDate>Sat, 16 Nov 2024 20:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>解锁未来：加密货币、人工智能和奖励 - Grass DePIN shib</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsveuj/unlock_the_future_cryptocurrency_ai_and_rewards/</link>
-      <description><![CDATA[🌿 通过 Grass 项目探索通往绿草的道路！ 您准备好以革命性的加密和人工智能融合迈向未来了吗？加入 Grass 项目 - 通往技术领域下一件大事的门户！ 为什么选择 GetGrass.io？  加密与人工智能的集成人工智能：将两大最热门的技术趋势无缝集成到一个项目中。 早期采用者优势：成为一个具有早期资金和巨大潜力的爆炸性项目的先锋。 人工智能知识中心：见证一个项目的发展，该项目将成为尖端人工智能知识的主要来源。 无需承诺，只需资源：利用现有资源，无需承诺 - 这是参与未来的明智方式。 使用代码独家访问：使用推荐代码SEsneMoIYQS6M3w独家访问令人兴奋的功能！  入门： 注册：使用推荐代码注册（它将为您提供 5000 积分）：SEsneMoIYQS6M3w或使用以下链接踏上这一不可思议的旅程：https://app.getgrass.io/register?referralCode=SEsneMoIYQS6M3w 安装扩展程序：通过安装浏览器扩展程序来增强您的体验：https://chromewebstore.google.com/detail/grass-lite-node/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en CoinMarketCap：https://coinmarketcap.com/currencies/grass/ 连接：登录扩展程序，如果它显示连接后，您已经在赚取积分了！ 有疑问或需要帮助？随时联系我；我在这里指导您。 了解更多：在我们的 Discord 频道上深入了解该项目，并在 getgrass.io 上浏览我们的网站。 🌱今天加入我们，让我们与 Grass 一起成长！    提交人    /u/WarriorNysty   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsveuj/unlock_the_future_cryptocurrency_ai_and_rewards/</guid>
-      <pubDate>Sat, 16 Nov 2024 19:51:16 GMT</pubDate>
-    </item>
-    <item>
       <title>建议：对于自由职业，您认为我现在最适合参加哪些与人工智能相关的课程？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsu31i/suggestion_for_freelancing_what_ai_related_course/</link>
       <description><![CDATA[背景： 网络安全学生 想要在人工智能行业学习和工作 每月需要至少赚 35 美元，原因不详。 不在美国或欧洲，所以课程应该在线（我有 Pluralsight（学习平台）订阅）    提交人    /u/Apprehensive-Joke769   [链接] [评论]]]></description>
@@ -97,25 +111,11 @@
       <pubDate>Sat, 16 Nov 2024 18:26:56 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助开发 KI AI 模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsqjtl/need_help_with_development_of_a_ki_ai_model/</link>
-      <description><![CDATA[嗨，开发人员，我目前正在开展一个项目，我想开发一个知识智能 Al 模型（模型抓取内部组织数据并自行训练），就像 watsonx 排序一样，但需要设计方面的帮助。我应该从哪些步骤开始？市场上已经有哪些这种类型的 Al？我可以为此探索任何预先训练的模型服务吗？谢谢    提交人    /u/Desperate_Sand_8789   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsqjtl/need_help_with_development_of_a_ki_ai_model/</guid>
-      <pubDate>Sat, 16 Nov 2024 16:10:53 GMT</pubDate>
-    </item>
-    <item>
       <title>帮我了解一下最近我们在改进方面遇到的“障碍”的消息吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsojyu/help_me_understand_the_recent_news_that_weve_hit/</link>
-      <description><![CDATA[过去一周，有消息称人工智能改进已陷入困境，我们正走向崩溃。 如果我理解正确的话，长期以来，“越多越好”的意思是，用于训练模型的数据越多，模型的表现就越好。现在他们意识到这种策略不再有效了。 我们已经有了经过数万亿个单词训练的 LLM，难道目前没有方法或策略专注于改进注意力和变压器等概念，从而实现下一波重大改进吗？    提交人    /u/Nicarlo   [链接] [评论]]]></description>
+      <description><![CDATA[过去一周，有消息称人工智能改进已陷入困境，我们正走向崩溃。 如果我理解正确的话，长期以来，越多越好，这意味着用于训练模型的数据越多，模型的性能就越好。现在他们意识到这种策略不再有效了。 我们已经有了经过数万亿个单词训练的 LLM，难道目前没有正在研究的方法或策略专注于改进注意力和变压器等概念，从而实现下一波重大改进吗？    提交人    /u/Nicarlo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsojyu/help_me_understand_the_recent_news_that_weve_hit/</guid>
       <pubDate>Sat, 16 Nov 2024 14:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以输入翻译版和原始的中文小说来训练人工智能翻译吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsn02r/can_i_feed_translated_and_raw_chinese_novels_to/</link>
-      <description><![CDATA[我读过中文和韩文翻译的网络小说，但很多都没有翻译完成或被译者删除。是否可以输入翻译和原始小说来训练 AI 模型来翻译小说？这可行吗？    提交人    /u/IamFizzlord   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsn02r/can_i_feed_translated_and_raw_chinese_novels_to/</guid>
-      <pubDate>Sat, 16 Nov 2024 13:13:45 GMT</pubDate>
     </item>
     <item>
       <title>新的“通用”人工智能发展是否过度？</title>
