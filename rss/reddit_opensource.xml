@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 17 Nov 2024 09:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 12:02:45 GMT</lastBuildDate>
+    <item>
+      <title>我应该选择什么许可证？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gtc0zh/what_license_should_i_choose/</link>
+      <description><![CDATA[大家好， 我分叉了一个 Apache 2.0 许可证存储库，该存储库已闲置多年。我花了 6 个月的时间对其进行改进，并修复错误等。我想根据不同的许可证重新发布修改后的代码（原始代码将根据其要求保留为 Apache 2.0）。我希望它保持开源。我不希望有人分叉它然后将其关闭源代码。我希望他们可以自由地分叉并用于他们想要的任何目的（包括商业用途），但代码必须保持公开。 是否有任何许可证可以满足所有这些要求？到目前为止，我认为以下 3 个可以做到  GPL AGPL MPL  我倾向于 GPL，因为它可以最大限度地提高自由度和开放性，同时防止专有分叉。 对于完整免责声明，我计划提供该应用程序的托管版本作为 SAAS 产品。它是一个前端包。    提交人    /u/zZurf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gtc0zh/what_license_should_i_choose/</guid>
+      <pubDate>Sun, 17 Nov 2024 11:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以使用 Android 平板电脑作为笔记本电脑的第二个显示器的软件吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gta0e6/software_to_use_android_tablet_as_second_display/</link>
+      <description><![CDATA[我刚听说你可以将 Android 平板电脑用作第二个显示器（非镜像），并使用类似 mountie 的东西将其物理连接到你的笔记本电脑上。很好奇，是否有任何开源项目可以轻松做到这一点？或者如果你碰巧知道的话，有硬件的话。    由   提交  /u/TechBasedQuestion   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gta0e6/software_to_use_android_tablet_as_second_display/</guid>
+      <pubDate>Sun, 17 Nov 2024 09:31:17 GMT</pubDate>
+    </item>
     <item>
       <title>开源 DTMF 语音助手会受到欢迎吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gt8c0r/would_an_open_source_dtmf_voice_assistant_be_well/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！创建 trackme.dev 是为了了解和演示网站如何通过浏览器特征识别访问者。 该项目使用 Nuxt 3 和 Shadcn-Vue 构建，展示： - 实时指纹生成 - 通过 WebGL 进行硬件检测 - Canvas 指纹识别 - 浏览器功能分析 - ... 代码可在 GitHub 上获得。我构建它是为了了解指纹识别技术并与他人分享这些知识。欢迎贡献或将其用于教育目的！ 很高兴听到您的反馈和改进想法。    提交人    /u/LeonKohli   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gs41ys/built_a_browser_fingerprinting_demo_to_learn/</guid>
       <pubDate>Fri, 15 Nov 2024 19:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个神经网络库并举办了一场设有 100 美元现金奖励的漏洞消除活动！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gs3jc5/created_a_neural_network_library_and_hosting_a/</link>
-      <description><![CDATA[大家好！ 我和我的朋友一直在从头开始开发一个神经网络库，只使用 NumPy 和矩阵操作/矢量化。 我们正在举办一个有现金奖励的 bug 粉碎活动，并希望社区能够测试我们的库并为我们找出尽可能多的 bug。  网站：https://www.ncxlib.com 该库可在 Pypi 上获得：https://pypi.org/project/ncxlib/  该库支持： 输入/隐藏/输出层 激活函数：Sigmoid、ReLU、Leaky ReLU、Softmax 和 TanH 优化器：Adam、RMS Prop、SGD、带动量的 SGD 损失函数：二元和分类交叉熵、MSE 大量用于图像和原始表格数据的预处理器 有关 bug smash 和我们的库文档的所有信息都可以在我们的网站。 谢谢！我们希望收到很多改进的反馈！ 如果您喜欢我们的工作，请给我们一颗星！    由    /u/MoistYak 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gs3jc5/created_a_neural_network_library_and_hosting_a/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地 macOS (14+) 视频转录应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gs0lud/a_local_macos_14_video_transcription_app/</link>
-      <description><![CDATA[这是我的第 4 个 OSS macOS 迷你应用，我花了很长时间才让它工作。它可以转录本地视频或粘贴的 YouTube 链接。对于 YouTube，它需要 yt-dlp 才能工作。我正在使用像这样的本地迷你应用优化我的设计师/开发人员工作流程。 Github：https://github.com/nuance-dev/vocal    提交人    /u/sirjoaco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gs0lud/a_local_macos_14_video_transcription_app/</guid>
-      <pubDate>Fri, 15 Nov 2024 16:43:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
