@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 15:01:33 GMT</lastBuildDate>
+    <item>
+      <title>如何以懒惰的方式学习人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtfcqe/how_to_learn_ai_the_lazy_way/</link>
+      <description><![CDATA[让我们面对现实：从头开始学习人工智能 (AI) 可能既耗时又具有挑战性。您需要熟悉统计、编程、算法、机器学习以及处理数据的各种方法来改进模型。 不过，好消息是：您不必是天才，也不必花费无数时间研究复杂的理论来掌握 AI 的基础知识。相反，请拥抱您内心的懒惰学习者，并专注于高效利用您的时间和精力。请记住，懒惰并不意味着效率低下。它意味着要聪明地学习。以下是如何以懒惰的方式学习人工智能。 链接：https://www.kdnuggets.com/how-to-learn-ai-the-lazy-way    提交人    /u/kingabzpro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtfcqe/how_to_learn_ai_the_lazy_way/</guid>
+      <pubDate>Sun, 17 Nov 2024 15:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>知识自适应微调可减少小型视觉语言模型中的幻觉</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gterfj/knowledgeadapted_finetuning_for_reducing/</link>
+      <description><![CDATA[我一直在审查这篇关于通过知识适应字幕解决多模式模型中的“视觉差距”的论文。关键贡献是一种名为 KnowAda 的微调方法，它通过相关的外部知识丰富图像标题，以提高视觉推理能力。 主要技术要点：* 引入基于探测的分析来识别视觉语言模型中的知识差距* 开发使用问题引导检索生成知识适应标题的方法* 使用丰富的标题微调现有的 VLM，而无需进行架构更改* 在 VQA 基准上进行测试以评估推理改进 主要结果：* 在复杂的视觉问答任务上显着提高性能* 提高了处理需要外部知识的问题的能力* 在更简单的视觉任务上保持模型性能* 展示了跨不同 VLM 架构的有效性 理论含义很有趣 - 这表明许多当前的 VLM 限制源于背景知识不足而不是架构限制。在实际方面，这种方法可以应用于现有模型，而无需新的架构或预训练。 需要考虑的一些限制：* 严重依赖外部知识源的质量 * 字幕生成的计算开销 * 需要进一步研究推广到其他任务 * 与幻觉缓解技术的潜在相互作用 TLDR：新的微调方法通过使用外部知识丰富图像字幕来改善多模态模型的视觉推理，在无需架构变化的情况下在 VQA 任务上显示出显着的收益。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gterfj/knowledgeadapted_finetuning_for_reducing/</guid>
+      <pubDate>Sun, 17 Nov 2024 14:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能与通用人工智能之间的区别</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtd2qf/distinction_between_generative_ai_and_agi/</link>
+      <description><![CDATA[在关于实现 AGI 的对话中，我经常提到的一点是，尤其是与那些对 AI 不太感兴趣的人交谈时，生成式 AI 模型的进展并不直接等同于 AGI 的进展。 AI 的进步确实会影响更广泛的领域，因此肯定存在一定的相关性。但是，对于聊天机器人必须达到“多好”才能成为 AGI，并没有具体的门槛。AGI 不是渐进式改进或特定技能水平，而是一个完全独立的概念。这是一个二元区别：AI 要么是 AGI，要么不是 AGI。 这可能看起来很模糊（抱歉），但我希望这是有道理的。如果您同意，我们如何更清楚地解释这一点？如果您不同意，为什么？    提交人    /u/sebbetrygg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtd2qf/distinction_between_generative_ai_and_agi/</guid>
+      <pubDate>Sun, 17 Nov 2024 13:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>深度学习中如何将扩展变成局部最优解</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtcsh5/how_scaling_became_a_local_optima_in_deep_learning/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtcsh5/how_scaling_became_a_local_optima_in_deep_learning/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:46:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助 ML 项目进行损害检测</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtcryi/help_with_ml_project_for_damage_detection/</link>
+      <description><![CDATA[大家好， 我目前正在创建一个项目，用于检测建筑机械（挖掘机、水泥搅拌机等）租赁的损坏/凹痕，并在机器归还给租赁公司后使用机器学习模型来检测损坏并相应地“惩罚租赁者”。预计我们会有租赁前机器的图像，因此我们可以进行比较作为基准 你们都建议为此做些什么？我应该训练/微调哪些模型？我应该收集哪些数据？还有其他建议吗？ 如果您有任何后续问题，请提前询问。    提交人    /u/shroffykrish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtcryi/help_with_ml_project_for_damage_detection/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uber 司机应对 AI 竞争</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtcqkx/uber_drivers_cope_in_face_of_the_ai_competition/</link>
+      <description><![CDATA[有趣的帖子，https://www.reddit.com/r/uber/comments/1gs8a25/rip_uber/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button 基本上，Uber 司机在高速公路上发现了 Waymo 自动驾驶汽车，其对话与软件工程师应对“人工智能将抢走我们的工作”的方式非常相似。     由    /u/wonderingStarDusts 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtcqkx/uber_drivers_cope_in_face_of_the_ai_competition/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:43:13 GMT</pubDate>
+    </item>
     <item>
       <title>采用 Recraft V3 的 AI 社交媒体系统</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtbq7t/ai_social_media_system_with_recraft_v3/</link>
@@ -62,25 +104,11 @@
       <pubDate>Sun, 17 Nov 2024 06:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>我正在努力研究多代理系统......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt762d/i_am_struggling_with_multi_agent_system/</link>
-      <description><![CDATA[你好... 我已经努力了好几个星期，试图为一个项目创建一个多智能体系统，我需要一些帮助，因为我是一个完全的初学者。所以基本上我想做的是一个学习伙伴（也许有人认出我了），这是计划，我将用 python 编写它并使用 streamlit 作为前端。搜索代理是用 Vertex AI Builder 制作的，我不知道如何在我的代码中调用它，基本上一切对我来说都是个谜.... 不要问我代码，它完全是垃圾....有人知道我可以观看/阅读什么视频/文档吗？请尽量给我具体的文档，不要太笼统。    提交人    /u/the_man_with_drip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt762d/i_am_struggling_with_multi_agent_system/</guid>
-      <pubDate>Sun, 17 Nov 2024 06:03:55 GMT</pubDate>
-    </item>
-    <item>
       <title>有人知道是否可以在本地或以合理的价格配音约 6 小时的音频吗？我知道这是一个昂贵的过程，但我付不起 elevenlabs 99 美元来配音一个简短的 YouTube 播放列表教程。我只是想在 YouTube 上学习这个教程，但它是俄语的。有什么想法吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt6v6a/does_anyone_know_if_ifs_possible_to_dub_6_hours/</link>
       <description><![CDATA[非常感谢您提供的帮助。如果有人感兴趣，这是播放列表。 https://www.youtube.com/watch?v=-4AVeAS7vKY&amp;list=PLYXlFL64WehywYD63TaWi7brvQz5I1CdU    提交人    /u/IWillDefendMyLife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt6v6a/does_anyone_know_if_ifs_possible_to_dub_6_hours/</guid>
       <pubDate>Sun, 17 Nov 2024 05:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能来概述笔记</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt5ewe/using_ai_for_outlining_notes/</link>
-      <description><![CDATA[我是一名法学院学生，一直在研究人工智能，以便为笔记、讲座记录和其他形式的信息创建详细的大纲。最好的方法是什么，最好的人工智能版本是什么。     提交人    /u/Low-Ad-2638   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt5ewe/using_ai_for_outlining_notes/</guid>
-      <pubDate>Sun, 17 Nov 2024 04:14:59 GMT</pubDate>
     </item>
     <item>
       <title>我怎样才能使用人工智能让我爸爸的声音唱出他写的一首歌——他两天前去世了，我找到了他的歌词。他没有机会唱这首歌。一定有什么东西可以用，对吧？</title>
@@ -90,20 +118,6 @@
       <pubDate>Sun, 17 Nov 2024 01:40:09 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士不会带来意识——为什么我认为模拟生物进化是实现真正数字生活的关键</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt170p/llms_wont_lead_to_consciousness_why_i_think/</link>
-      <description><![CDATA[我认为 LLM 技术永远不会产生类似人类意识的东西。它们旨在模仿智能，而不是变得聪明。虽然它们在复制类似人类的反应方面令人印象深刻，但它们缺乏意识的核心属性：主观体验、意识和理解。我认为，通往真正的数字生命和意识的道路不是试图人工地重新创造人类智能的输出，而是在于复制创造它的过程——即生物进化。 以 Lenia 为例。它展示了当简单系统遵循动态交互规则时，它们如何产生复杂、逼真的行为。想象一下将其扩大到模拟塑造地球生命的数十亿年进化。通过从数字“原语”——遵循简单规则的基本单元——开始，我们可能会见证越来越复杂的系统的逐渐出现：从对刺激的基本反应，到记忆、学习，最终是自我意识。 这种方法与法学硕士有着根本的不同。它不会只是复制人类的行为；它将允许新形式的智能基于它们自己的“数字生物学”自然进化。当然，这将是一项艰巨的任务，需要巨大的计算能力和对意识运作方式的更深入的理解。但对我来说，这似乎是一条更真实、更有希望在数字领域创造真正活着的东西的道路。    提交人    /u/Vudatudi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt170p/llms_wont_lead_to_consciousness_why_i_think/</guid>
-      <pubDate>Sun, 17 Nov 2024 00:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 11 月 16 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsyz66/oneminute_daily_ai_news_11162024/</link>
-      <description><![CDATA[ 埃隆·马斯克的 xAI 筹集高达 60 亿美元，为孟菲斯数据中心购买 100,000 块 Nvidia 芯片。[1] 埃隆·马斯克将微软加入对 ChatGPT 制造商 OpenAI 的诉讼中。[2] 就连马斯克的 Grok 也知道：X 的 AI 系统将埃隆列为平台上最大的错误信息推动者之一。[3] X 正在测试 AI 聊天机器人 Grok 的免费版本。[4]  来源包括：https://bushaicave.com/2024/11/16/11-16-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsyz66/oneminute_daily_ai_news_11162024/</guid>
-      <pubDate>Sat, 16 Nov 2024 22:39:03 GMT</pubDate>
-    </item>
-    <item>
       <title>规模化并不能让我们实现通用人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsxjt2/scaling_cant_get_us_to_agi/</link>
       <description><![CDATA[在我看来，扩大 LLM 的训练并不能带来 AGI。 AGI 的定义 首先，让我解释一下我对 AGI 的定义。AGI 是通用智能，这意味着 AGI 系统应该能够以人类的水平下棋、以人类的水平进行交流，并且在获得汽车驾驶的视频源时提供控制输入来驾驶汽车。它还应该能够在没有明确训练的情况下做到这些。它应该理解指令并执行它们。 当前的 LLM  LLM 基本上解决了人类水平的交流问题，但这并不意味着我们更接近 AGI。就像 Stockfish 无法与人类交流一样，ChatGPT 无法下棋。核心问题是，当前系统的性能完全取决于它们所训练的数据。您可以在数百万场以文本形式呈现的国际象棋比赛中训练 ChatGPT，但它在其他游戏中的表现不会提高。 缺少什么？ 需要一种可以推广到全新任务的新架构。在此之前，我认为没有理由相信我们离 AGI 更近了。唯一令人鼓舞的方面是增加了对人工智能研究的资助，但在出现一个全新的系统之前，我认为我们不会实现 AGI。 不过，我很想被证明是错的。    提交人    /u/Steven_Strange_1998   [链接] [评论]]]></description>
@@ -111,25 +125,11 @@
       <pubDate>Sat, 16 Nov 2024 21:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>建议：对于自由职业，您认为我现在最适合参加哪些与人工智能相关的课程？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsu31i/suggestion_for_freelancing_what_ai_related_course/</link>
-      <description><![CDATA[背景： 网络安全学生 想要在人工智能行业学习和工作 每月需要至少赚 35 美元，原因不详。 不在美国或欧洲，所以课程应该在线（我有 Pluralsight（学习平台）订阅）    提交人    /u/Apprehensive-Joke769   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsu31i/suggestion_for_freelancing_what_ai_related_course/</guid>
-      <pubDate>Sat, 16 Nov 2024 18:51:11 GMT</pubDate>
-    </item>
-    <item>
       <title>以下是 2024 年融资金额达 1 亿美元或以上的 44 家美国 AI 初创公司的完整名单</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gstjjq/heres_the_full_list_of_44_us_ai_startups_that/</link>
       <description><![CDATA[https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/ 对于一些人来说，人工智能疲劳是真实存在的，但显然风险投资者并没有厌倦这一类别。 第三季度，人工智能交易继续主导风险投资。根据 Crunchbase 的数据，人工智能公司在第三季度筹集了 189 亿美元。这一数字占所有风险投资的 28%。 第三季度还见证了有史以来最大的风险投资交易的结束：OpenAI 筹集了 66 亿美元的巨额资金。OpenAI 的交易是 2024 年六轮超过 10 亿美元的 AI 融资之一。 以下是 2024 年迄今为止筹集了 1 亿美元或更多资金的美国 AI 公司：    提交人    /u/gurugabrielpradipaka   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gstjjq/heres_the_full_list_of_44_us_ai_startups_that/</guid>
       <pubDate>Sat, 16 Nov 2024 18:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我了解一下最近我们在改进方面遇到的“障碍”的消息吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsojyu/help_me_understand_the_recent_news_that_weve_hit/</link>
-      <description><![CDATA[过去一周，有消息称人工智能改进已陷入困境，我们正走向崩溃。 如果我理解正确的话，长期以来，越多越好，这意味着用于训练模型的数据越多，模型的性能就越好。现在他们意识到这种策略不再有效了。 我们已经有了经过数万亿个单词训练的 LLM，难道目前没有正在研究的方法或策略专注于改进注意力和变压器等概念，从而实现下一波重大改进吗？    提交人    /u/Nicarlo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsojyu/help_me_understand_the_recent_news_that_weve_hit/</guid>
-      <pubDate>Sat, 16 Nov 2024 14:36:08 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
