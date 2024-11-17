@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 17 Nov 2024 18:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 21:01:56 GMT</lastBuildDate>
+    <item>
+      <title>公钥加密的真正工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtmuw3/how_public_key_cryptography_really_works/</link>
+      <description><![CDATA[  由    /u/waozen  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtmuw3/how_public_key_cryptography_really_works/</guid>
+      <pubDate>Sun, 17 Nov 2024 20:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Terminal3d - 在终端中查看 3d 模型，用 Rust 编写🦀</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtmrz1/terminal3d_view_3d_models_in_your_terminal/</link>
+      <description><![CDATA[  由    /u/liamilan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtmrz1/terminal3d_view_3d_models_in_your_terminal/</guid>
+      <pubDate>Sun, 17 Nov 2024 20:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>外行人的秘密管理</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtmofu/secret_management_for_the_layman/</link>
+      <description><![CDATA[  由    /u/oliveoilcheff  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtmofu/secret_management_for_the_layman/</guid>
+      <pubDate>Sun, 17 Nov 2024 20:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Go 开发 Bubble Tea 终端应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtmm27/developing_a_terminal_app_in_go_with_bubble_tea/</link>
+      <description><![CDATA[  由    /u/der_gopher  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtmm27/developing_a_terminal_app_in_go_with_bubble_tea/</guid>
+      <pubDate>Sun, 17 Nov 2024 20:19:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mirror：基于 LLM 的示例编程编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtlid6/mirror_an_llmpowered_programmingbyexample/</link>
+      <description><![CDATA[  由    /u/azhenley  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtlid6/mirror_an_llmpowered_programmingbyexample/</guid>
+      <pubDate>Sun, 17 Nov 2024 19:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSSPledge 能否解决开源可持续性问题？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtjqcz/can_osspledge_fix_open_source_sustainability/</link>
+      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtjqcz/can_osspledge_fix_open_source_sustainability/</guid>
+      <pubDate>Sun, 17 Nov 2024 18:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 HTML CSS 和 JavaScript 创建响应式科学计算器 | JV 代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtjltj/how_to_create_a_responsive_scientific_calculator/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtjltj/how_to_create_a_responsive_scientific_calculator/</guid>
+      <pubDate>Sun, 17 Nov 2024 18:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何成为兼职 CTO？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gtjl1s/how_to_become_a_fractional_cto/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gtjl1s/how_to_become_a_fractional_cto/</guid>
+      <pubDate>Sun, 17 Nov 2024 18:06:35 GMT</pubDate>
+    </item>
     <item>
       <title>React 应用程序性能优化的 7 个实用技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1gtjd2m/7_practical_tips_on_performance_optimizations_in/</link>
@@ -18,13 +74,6 @@
       <description><![CDATA[  由    /u/chiangmai17  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gtj8z8/understanding_the_trunkbased_development_workflow/</guid>
       <pubDate>Sun, 17 Nov 2024 17:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开始学习还太晚吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gtiy45/is_it_too_late_for_me_to_start_learning/</link>
-      <description><![CDATA[正如标题所说，我是一名刚毕业的学生，​​今年 22 岁，从小我就一直觉得技术很有趣，但我从来没有想过要开始学习编程语言。然而，最近有一些东西激起了我的兴趣，我发现当我看到教程时，我往往很容易理解它。但唯一阻碍我前进的事实是，我看到很多人，比如电脑极客和技术天才，平均都是 12 岁左右开始学习的。我有可能学习一些语言并有可能在网络安全等领域找到工作吗？    提交人    /u/Z3XQ   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gtiy45/is_it_too_late_for_me_to_start_learning/</guid>
-      <pubDate>Sun, 17 Nov 2024 17:39:05 GMT</pubDate>
     </item>
     <item>
       <title>vueframe 一个简单的 Vue 3 组件库，用于嵌入视频播放器</title>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/kingabzpro  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gtffo0/getting_addicted_to_coding/</guid>
       <pubDate>Sun, 17 Nov 2024 15:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写干净代码的技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1gtehw3/tips_for_writing_clean_code/</link>
-      <description><![CDATA[  由    /u/Artemis-Arrow-795  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gtehw3/tips_for_writing_clean_code/</guid>
-      <pubDate>Sun, 17 Nov 2024 14:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framer Motion 现已独立，引入 Motion</title>
-      <link>https://www.reddit.com/r/programming/comments/1gte6ca/framer_motion_is_now_independent_introducing/</link>
-      <description><![CDATA[  由    /u/getriglad  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gte6ca/framer_motion_is_now_independent_introducing/</guid>
-      <pubDate>Sun, 17 Nov 2024 14:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChibiHash：小型、快速的 64 位哈希函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1gtcxlp/chibihash_small_fast_64_bit_hash_function/</link>
-      <description><![CDATA[  由    /u/pavel_v  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gtcxlp/chibihash_small_fast_64_bit_hash_function/</guid>
-      <pubDate>Sun, 17 Nov 2024 12:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodePen 体脂计算器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gt9zcn/codepen_body_fat_calculator/</link>
-      <description><![CDATA[  由    /u/Gagan444  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gt9zcn/codepen_body_fat_calculator/</guid>
-      <pubDate>Sun, 17 Nov 2024 09:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有时，工程流程并非官僚机构，而是一种高度优化的机制。为什么要跳过一些旨在提高效率的东西呢？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gt9bsd/sometimes_engineering_processes_are_not/</link>
-      <description><![CDATA[  由    /u/strategizeyourcareer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gt9bsd/sometimes_engineering_processes_are_not/</guid>
-      <pubDate>Sun, 17 Nov 2024 08:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>用什么来代替 PGP</title>
-      <link>https://www.reddit.com/r/programming/comments/1gt97jd/what_to_use_instead_of_pgp/</link>
-      <description><![CDATA[  由    /u/ScottContini  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gt97jd/what_to_use_instead_of_pgp/</guid>
-      <pubDate>Sun, 17 Nov 2024 08:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件——SAPJRadioScanningDB</title>
-      <link>https://www.reddit.com/r/programming/comments/1gt8u3t/software_sapjradioscanningdb/</link>
-      <description><![CDATA[  由    /u/Clown1577  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gt8u3t/software_sapjradioscanningdb/</guid>
-      <pubDate>Sun, 17 Nov 2024 08:02:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
