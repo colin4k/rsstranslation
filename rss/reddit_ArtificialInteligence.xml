@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 16 Nov 2024 21:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 00:03:41 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 11 月 16 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsyz66/oneminute_daily_ai_news_11162024/</link>
+      <description><![CDATA[ 埃隆·马斯克的 xAI 筹集高达 60 亿美元，为孟菲斯数据中心购买 100,000 块 Nvidia 芯片。[1] 埃隆·马斯克将微软加入对 ChatGPT 制造商 OpenAI 的诉讼中。[2] 就连马斯克的 Grok 也知道：X 的 AI 系统将埃隆列为平台上最大的错误信息推动者之一。[3] X 正在测试 AI 聊天机器人 Grok 的免费版本。[4]  来源包括：https://bushaicave.com/2024/11/16/11-16-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsyz66/oneminute_daily_ai_news_11162024/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:39:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>规模化并不能让我们实现通用人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsxjt2/scaling_cant_get_us_to_agi/</link>
+      <description><![CDATA[在我看来，扩大 LLM 的训练并不能带来 AGI。 AGI 的定义 首先，让我解释一下我对 AGI 的定义。AGI 是通用智能，这意味着 AGI 系统应该能够以人类的水平下棋、以人类的水平进行交流，并且在获得汽车驾驶的视频源时提供控制输入来驾驶汽车。它还应该能够在没有明确训练的情况下做到这些。它应该理解指令并执行它们。 当前的 LLM  LLM 基本上解决了人类水平的交流问题，但这并不意味着我们更接近 AGI。就像 Stockfish 无法与人类交流一样，ChatGPT 无法下棋。核心问题是，当前系统的性能完全取决于它们所训练的数据。您可以在数百万场以文本形式呈现的国际象棋比赛中训练 ChatGPT，但它在其他游戏中的表现不会提高。 缺少什么？ 需要一种可以推广到全新任务的新架构。在此之前，我认为没有理由相信我们离 AGI 更近了。唯一令人鼓舞的方面是增加了对人工智能研究的资助，但在出现一个全新的系统之前，我认为我们不会实现 AGI。 不过，我很想被证明是错的。    提交人    /u/Steven_Strange_1998   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsxjt2/scaling_cant_get_us_to_agi/</guid>
+      <pubDate>Sat, 16 Nov 2024 21:31:21 GMT</pubDate>
+    </item>
     <item>
       <title>我致 Ilya Sutskever、Daniel Gross、Daniel Levy 和 Safe Super Intelligence Inc. 领导团队的公开信</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gswubi/my_open_letter_to_ilya_sutskever_daniel_gross/</link>
@@ -97,13 +111,6 @@
       <pubDate>Sat, 16 Nov 2024 12:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 11 月 15 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gshfpj/oneminute_daily_ai_news_11152024/</link>
-      <description><![CDATA[ 周四，英国最大的移动网络运营商 O2 推出了一款旨在挫败电话诈骗者的聊天机器人。它被称为“dAIsy”，可以模仿一位有时间聊天的年长女性。[1] Google 将 Gemini AI 图像生成器引入 Docs。[2] Anthropic 首席执行官表示，人类级别的 AI 模型可能会在 2026 年问世。[3] 埃隆·马斯克的 X 就针对深度伪造和欺骗性选举内容的 AI 法起诉加州。[4]  来源包括：https://bushaicave.com/2024/11/16/11-15-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gshfpj/oneminute_daily_ai_news_11152024/</guid>
-      <pubDate>Sat, 16 Nov 2024 06:37:09 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能领域正在发生哪些新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gsgb5l/heres_what_is_making_news_in_ai/</link>
       <description><![CDATA[聚焦 - Bluesky 表示不会在您的帖子上训练 AI（来源 The verge）  AI 初创公司 Gendo — 建筑界的 Midjourney — 获得新资本（来源 The Next web） ESPN 正在测试一个名为“FACTS”的生成式 AI 头像（来源 The Verge） Google 将允许您为文档制作 AI 剪贴画（来源 The Verge） OpenAI 曾一度考虑收购 AI 芯片初创公司 Cerebras（来源 Techcrunch） 中国自动驾驶初创公司 Pony AI 在美国 IPO 中寻求高达 2.24 亿美元的资金（来源 Techcrunch） “AI 奶奶”诈骗者用无聊的聊天浪费电话诈骗者的时间（来源 Techcrunch） Cruise 因上次提交虚假报告被罚款 50 万美元   提交人    /u/codeharman   [link] [评论]]]></description>
@@ -116,13 +123,6 @@
       <description><![CDATA[完整文章在此。 由于监管不确定性，包括谷歌、苹果和 Meta 在内的美国科技公司正在推迟在欧洲发布新的人工智能产品和服务。这些公司将《通用数据保护条例》、《数字市场法案》和《人工智能法案》视为部署的障碍，担心数据收集、互操作性和某些人工智能用途的合法性。尽管如此，欧洲政策制定者仍致力于严格的监管，一些公司在做出调整以遵守欧盟规则后开始在欧洲发布产品。    提交人    /u/CEPAORG   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gse6c4/europes_ai_blues_us_companies_slow_deployment/</guid>
       <pubDate>Sat, 16 Nov 2024 03:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据这份报告，消费者对人工智能的态度变得更加负面，12 个月内下降了 11%。只有 1% 和 4% 的受访者相信组织会负责任地使用人工智能。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gscb4a/according_to_this_report_consumer_attitudes/</link>
-      <description><![CDATA[我对此感到非常惊讶，因为你会认为随着人们对人工智能的熟悉，人们会越来越习惯它。以下是摘录：人工智能炒作让位于怀疑。感觉你每天都会听到一个品牌告诉你他们的产品和服务现在使用人工智能——这让消费者望而却步。在过去的 12 个月里，人们对人工智能的态度变得更加消极，使用人工智能的舒适度下降了 11%，只有四分之一的人相信组织会负责任地使用它。&quot; 当一个品牌试图诚实地向你推销他们的人工智能时，这很烦人。以下是完整报告。不幸的是，这是一个下载，但里面有一些有趣的花絮！    提交人    /u/MadisonJonesHR   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gscb4a/according_to_this_report_consumer_attitudes/</guid>
-      <pubDate>Sat, 16 Nov 2024 01:31:54 GMT</pubDate>
     </item>
     <item>
       <title>我们需要学会编码爱和同理心，这样人工智能才不会杀死我们所有人</title>

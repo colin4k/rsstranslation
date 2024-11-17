@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 16 Nov 2024 21:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 00:04:09 GMT</lastBuildDate>
+    <item>
+      <title>Obsidian 中的 Miss Notion AI？这是我用插件将其带回来的计划！🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsz7op/miss_notion_ai_in_obsidian_heres_my_plan_to_bring/</link>
+      <description><![CDATA[作为一名最近从 Notion 转到 Obsidian 的大学生，我非常怀念的一个功能是浮动的 Notion AI 聊天机器人，它总是可以提供快速帮助。受此启发，我开始为 Obsidian 开发一个插件，带来类似的体验，使用 Gemini API 进行笔记摘要、内容生成等 - 所有这些都直接在 Obsidian 工作区内完成！ 该插件 Obsi AI 旨在无缝集成到 Obsidian 强大的 markdown 环境中，在您需要时提供 AI 驱动的帮助。无论您是在寻找快速笔记摘要、集思广益还是生成内容，Obsi AI 都旨在简化您的工作流程，而无需离开您的笔记。 🔹 主要特点：  即时内容生成和笔记摘要 基于您的笔记的上下文感知响应 Obsidian 工作区内可用的交互式助手  ⚠️ 注意：我开发这个插件是出于爱好，虽然我是一名网络安全本科生而不是专业开发人员，所以代码可能是我热衷于让这个工具对其他 Obsidian 用户有用。如果您有兴趣合作或有功能建议，我很乐意听取您的意见！ 请随时查看 GitHub 存储库，如果您喜欢所看到的内容，请给它一个 ⭐️ 以表示您的支持！ https://github.com/tharushkadinujaya05/ObsiAI 我很高兴听到您的想法和反馈。让我们将 Obsi AI 打造成每个热爱 Obsidian 的人的有用工具！    提交人    /u/tharushkadinujaya05   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsz7op/miss_notion_ai_in_obsidian_heres_my_plan_to_bring/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:50:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建用于管理广告的自定义 Web 应用</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsyxa4/creating_a_custom_web_app_for_managing_ads/</link>
+      <description><![CDATA[  由    /u/Cheap-Picks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsyxa4/creating_a_custom_web_app_for_managing_ads/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 UNNEST 将 Postgres INSERT 性能提高 50%</title>
+      <link>https://www.reddit.com/r/programming/comments/1gsylyv/boosting_postgres_insert_performance_by_50_with/</link>
+      <description><![CDATA[  由    /u/jamesgresql  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gsylyv/boosting_postgres_insert_performance_by_50_with/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:21:20 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Mill Build 工具实现更好的 Scala 构建</title>
       <link>https://www.reddit.com/r/programming/comments/1gswhv1/better_scala_builds_with_the_mill_build_tool/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由   提交  /u/Only_Piccolo5736   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gsq5j0/converting_a_dart_google_chrome_extension_to_a/</guid>
       <pubDate>Sat, 16 Nov 2024 15:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 DevOps KPI 与公司目标保持一致</title>
-      <link>https://www.reddit.com/r/programming/comments/1gsponc/align_devops_kpi_with_companys_goals/</link>
-      <description><![CDATA[示例，公司目标：将数据仓库迁移到公共云以增强可扩展性，降低基础设施成本并提高分析能力 将 DevOps 目标映射到公司目标：  专注于在迁移过程中提高部署速度、系统可靠性和成本效率。     提交人    /u/rasvi786   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gsponc/align_devops_kpi_with_companys_goals/</guid>
-      <pubDate>Sat, 16 Nov 2024 15:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的网站，我们可以随时尝试字体（尽管字体数量有限）。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gsoweu/interesting_site_where_we_can_try_out_fonts_on/</link>
-      <description><![CDATA[  由    /u/peripateticman2026  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gsoweu/interesting_site_where_we_can_try_out_fonts_on/</guid>
-      <pubDate>Sat, 16 Nov 2024 14:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程师的日志记录最佳实践清单</title>
-      <link>https://www.reddit.com/r/programming/comments/1gsnso0/an_engineers_checklist_of_logging_best_practices/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gsnso0/an_engineers_checklist_of_logging_best_practices/</guid>
-      <pubDate>Sat, 16 Nov 2024 13:56:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
