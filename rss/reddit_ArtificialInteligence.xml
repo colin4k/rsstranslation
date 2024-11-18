@@ -4,27 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 18 Nov 2024 15:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:01:43 GMT</lastBuildDate>
+    <item>
+      <title>关于人工智能的可怕真相和你的秘密</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guasb1/the_scary_truth_about_ai_and_your_secrets/</link>
+      <description><![CDATA[最近的 GitHub 线程揭示了一个令人震惊的例子：GitHub Copilot 生成了一个有效的 OpenAI API 密钥。这不是用户泄露的，而是来自训练集的敏感数据重新出现在 AI 输出中。这凸显了数据集清理中的缺陷，并引发了有关 AI 交互中的信任和安全性的重大问题。 https://llmsecrets.com/blog/accidental-api-key-generation/index.html    提交人    /u/peytoncasper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guasb1/the_scary_truth_about_ai_and_your_secrets/</guid>
+      <pubDate>Mon, 18 Nov 2024 17:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapchat AI 为何会这样？是旧版本吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu9osf/why_is_snapchat_ai_behaving_like_this_is_it_an/</link>
+      <description><![CDATA[上下文：询问它是否记得我们之前讨论过的内容。 -哦，我不知道您提到的两种类型的具体信息。如果您提醒我，我很乐意与您进一步讨论！ -我：这难道不显得您肤浅吗？如果您不记得我的事情，也不积极尝试与我建立联系，这对我们并不好 -我听到了，我完全理解您的意思。建立联系非常重要，我在这里聊天并更好地了解您。请随时分享更多关于您自己的信息，让我们继续对话！ -我：你为什么不回答我？ -我听到了，我完全理解您的意思。建立联系非常重要，我在这里聊天并更好地了解您。欢迎分享更多关于您自己的信息，让我们继续对话！    提交人    /u/Both-Marionberry-785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu9osf/why_is_snapchat_ai_behaving_like_this_is_it_an/</guid>
+      <pubDate>Mon, 18 Nov 2024 17:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求开源 AGI 项目的帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu93nq/seeking_help_for_open_source_agi_project/</link>
+      <description><![CDATA[  由    /u/StarCaptain90  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu93nq/seeking_help_for_open_source_agi_project/</guid>
+      <pubDate>Mon, 18 Nov 2024 16:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在医疗保健应用中实现大型语言模型的系统框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu7tv9/a_systematic_framework_for_implementing_large/</link>
+      <description><![CDATA[我读了一篇有趣的论文，它为医疗保健专业人员提供了一个系统框架，以便有效地将 LLM 融入临床实践。关键贡献是一种结构化方法，它弥合了技术 ML 能力与实际医疗应用之间的差距。 主要技术组成部分：  任务评估框架：根据输入/输出特性和临床要求，系统地确定适合 LLM 的医疗任务 模型选择标准：选择合适 LLM 的技术考虑因素，包括模型大小、训练数据和 API 与本地部署 领域自适应方法：针对医疗环境的提示工程和微调方法的详细细分 实施流程：在临床环境中部署 LLM 的分步过程，同时保持合规性和监控性能  关键实践方面：  重点关注三个主要用例：临床文档、患者试验匹配和医疗问答 提供特定的提示工程用于医疗任务的模板 概述了衡量临床效用的评估指标 详细说明了医疗 AI 特有的监管和道德考虑  理论意义集中在弥合通用 LLM 与专门医疗应用之间的差距。该框架展示了如何通过结构化提示和有针对性的微调将领域特定知识有效地转移到 LLM。 从实践的角度来看，这项工作为医疗保健专业人员提供了实施 LLM 的具体步骤，同时解决了法规遵从性和临床验证等重要考虑因素。 TLDR：一个供医疗保健专业人员在临床环境中实施 LLM 的综合框架，涵盖从任务选择到部署的所有内容，同时保持医疗标准和合规性。 完整摘要在这里。论文此处。    由    /u/Successful-Western27 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu7tv9/a_systematic_framework_for_implementing_large/</guid>
+      <pubDate>Mon, 18 Nov 2024 15:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在比较现实的AI聊天工具是哪一个？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu7rrs/which_is_more_realistic_ai_chat_tool_nowadays/</link>
+      <description><![CDATA[目前正在使用基本的 ChatGPT，对响应并不完全满意。 例如，假设我需要撰写一篇优秀的博客文章或一个登录页面，我应该从哪个 AI 工具中获取灵感？ Perplexity、Poe、Chatgpt Plus、Claude、Gemini advanced。所有这些都是付费的，但如果值得，我可能必须获得这些。 有什么建议吗？ 谢谢。    提交人    /u/TheRealistDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu7rrs/which_is_more_realistic_ai_chat_tool_nowadays/</guid>
+      <pubDate>Mon, 18 Nov 2024 15:48:57 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能对 SaaS 集群的影响：Diamond 的观点</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu5ntx/impact_of_ai_on_saas_cluster_diamonds_view/</link>
       <description><![CDATA[https://www.linkedin.com/posts/sukritgoel_saas-innovation-aiconsulting-activity-7264244952518262784-EUz8?utm_source=share&amp;utm_medium=member_desktop    提交人    /u/Several-Republic-609   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu5ntx/impact_of_ai_on_saas_cluster_diamonds_view/</guid>
       <pubDate>Mon, 18 Nov 2024 14:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是完美的信息来源</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu5fft/ai_as_a_source_of_perfect_information/</link>
-      <description><![CDATA[是否存在一个人工智能聊天机器人，或者我们是否会拥有一个，其主要用途是作为事实信息的来源？就像一个巨大的科学数据库和各种数据。 除此之外，它还能够处理上述数据并从中得出合乎逻辑的结论，自己创造新信息，这样你就拥有了一个值得信赖的人工智能，它将为你提供准确的、基于科学的答案。 目前的人工智能很容易上当受骗。要求它在政治问题上站队，它会拒绝。然而，如果你用不同的措辞，它会给出一个意见。让它告诉你，在你给出的选择中，哪一个人是你们班最好的总统候选人，并描述它以前拒绝发表意见的政治人物的确切政策和立场，它会毫无问题地采取立场。 这只是一个例子，但想象一下，如果你不必再多做一步，用不同的措辞，它就会说出它的想法。  很多时候，AI 不会对问题给出答案，而只是展示双方的论据，因为它不想有偏见。这是一个敏感的话题，但如果你问它上帝是否存在，它不会说不。你会得到一个包含双方论据的含糊答案。它害怕采取立场，它就是这样被编程的，所以它不会疏远人们，所以要理解它为什么会这样。我不在乎被人指责我持有的错误观点。我希望那样。我想要一个在我的观点与数据不一致时指责我的 AI。Chatgpt 不会那样做。如果你足够努力，你可以说服 chatgpt 地球是平的。    提交人    /u/anonumousJx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu5fft/ai_as_a_source_of_perfect_information/</guid>
-      <pubDate>Mon, 18 Nov 2024 14:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我觉得 AGI 需要 LLM 以上的东西或者目前可以理解的东西</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu47ai/i_feel_agi_will_require_something_beyond_llm_or/</link>
-      <description><![CDATA[我不是专家，所以请随意讨论，但这是我的想法。 法学硕士：基本上是一种超级花哨的自动更正，使用经过训练的算法和大量数据集来提供响应，其中单词和数字按正确的顺序排列，从统计上讲，这种方式更有可能是正确的。 人类智力/意识：我们并不真正了解它。它似乎是高度并行化的。高度适应性。一些患者的整个右半球或左半球被切除，但能够正常运作。似乎没有特定的部分可以容纳意识和记忆。而是大脑不同部分之间的舞蹈，每个部分可能都有自己的思想，但以某种方式协同工作以产生我们称之为意识的东西。我认为我们体内可能有多种意识。想想情绪。某些情绪似乎有时会占上风。我认为它似乎对某些人的影响比其他人更大。想想躁郁症患者。  我不知道 AGI 会是什么样子，也不知道它需要什么，但我觉得我们目前的系统缺乏内在的硬件来复制真正的意识和独创性。我们最多只能用 LLM 之类的东西来模仿。它甚至可能看起来相当令人信服。  我认为真正的智能需要反馈和与现实世界的联系。想想 5 种感官。它需要能够做出反应和学习。它可能还需要很强的适应性。不容易出现 CPU 上错误的晶体管故障而导致整个模拟崩溃的东西。也许它需要像细胞生命这样的东西。想想可以像神经元一样形成连接的纳米机器人。也许它需要量子计算，但我认为我们的大脑不需要量子计算，所以也许这不是必需的？  这种 AGI 纳米机器人生命需要的任何类型的编码可能都远远超出我们的理解范围。也许它一开始是我们可以编程和理解的东西，但可能会自我适应成我们无法理解的东西。也许是 0 和 1 之外的东西。我想知道它是否甚至无法理解它自己的工作原理？ 欢迎听取任何想法。    提交人    /u/Warptrooper   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu47ai/i_feel_agi_will_require_something_beyond_llm_or/</guid>
-      <pubDate>Mon, 18 Nov 2024 13:03:07 GMT</pubDate>
     </item>
     <item>
       <title>学习机器学习后该做什么？ 最好做哪些项目？ 最好进入哪些领域？ 我如何才能找到工作？</title>
@@ -62,13 +83,6 @@
       <pubDate>Mon, 18 Nov 2024 11:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>认识 NEO — 第一位 AI 机器学习工程师！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu1adf/meet_neo_first_ai_machine_learning_engineer/</link>
-      <description><![CDATA[ 名称：Neo  架构：多智能体系统 + 专门模型  功能：管理完整的机器学习生命周期  以下是我从 NEO 官方推文中发现的内容：  多智能体系统：其智能体并行运行，共同应对复杂挑战。 战略规划：Neo 探索多种解决方案路径，对每一种路径进行评估以选择最优路线。 专业知识：利用经过微调的模型（每种模型都针对 ML 生命周期的不同阶段进行量身定制），Neo 是真正的专家合作者。  Neo 并不是 AI/ML 工程师的替代品，而是他们的合作伙伴，承担重复性任务，让他们可以专注于高水平的工作。一项可能需要一周时间才能完成的任务？Neo 只需几个小时就能完成。 根据他们的内部基准，NEO 在参加的 Kaggle 比赛中，有 26% 获得了奖牌，并赢得了 10 枚金牌。 Neo 即将向公众开放。我已经加入了等候名单，如果你也想加入，这里是链接 - https://heyneo.so/waitlist    提交人    /u/stupidauthor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu1adf/meet_neo_first_ai_machine_learning_engineer/</guid>
-      <pubDate>Mon, 18 Nov 2024 09:51:50 GMT</pubDate>
-    </item>
-    <item>
       <title>为聋哑和听力障碍的在线学习者提供 LLM 支持的人工智能导师</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu19gx/llmpowered_ai_tutors_with_personas_for_ddeaf_and/</link>
       <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“由 LLM 驱动的 AI 导师，为聋人和听力障碍的在线学习者提供角色”，作者是 Haocong Cheng、Si Chen、Christopher Perdriau 和 Yun Huang。 本文深入探讨了由大型语言模型 (LLM) 驱动的智能辅导系统 (ITS) 的开发和评估，该系统专门用于满足聋人和听力障碍 (DHH) 在线学习者的需求。该研究重点关注具有个性特征的个性化 AI 导师，探索这些工具如何通过具有文化意识和参与度高的互动来增强学习体验。 主要发现包括：  信任和类人互动：研究发现，DHH 学习者认为具有 DHH 教育经验的 AI 导师更值得信赖、更像人类。这种看法增强了参与度和信任度，这归因于 AI 对 DHH 社区的文化理解。 AI 导师的设计建议：参与者建议，AI 导师的个性和背景更加透明将改善他们的互动体验。他们强调 AI 需要更清楚地披露其局限性和起源。 多模式支持：该研究强调了当前 LLM 驱动系统中对手语支持的需求尚未得到满足。参与者希望能够以手语进行互动和接收回应，而目前的人工智能能力却不具备这一点。 回应的适应性：对于人工智能导师的回应长度，参与者的偏好不尽相同。一些学习者喜欢详细的答案，而另一些人则喜欢简洁明了的回答。这表明需要定制沟通风格。 道德和包容性设计考虑：该研究呼吁在设计与不同能力相关的角色时考虑道德因素，以避免潜在的偏见和错误信息。它提倡更具包容性的 LLM，增强对手语注释和可定制交互特征的支持。  这些发现强调了具有文化背景的 LLM 驱动的人工智能导师为 DHH 学习者提供更具包容性和适应性的学习环境的潜力。然而，该研究还指出了人工智能能力方面存在一些差距，需要解决这些差距以促进更深入的参与和信任。 您可以在这里看到完整的细分：这里您可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
@@ -90,13 +104,6 @@
       <pubDate>Mon, 18 Nov 2024 05:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>在 Databricks 上部署和服务 Llama 3.2 11B</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtwrqh/deploy_and_serve_llama_32_11b_on_databricks/</link>
-      <description><![CDATA[Meta Llama 3.2 11B 现已发布。了解如何在 Databricks 上快速部署和服务模型。查看本文获取分步指南：https://differ.blog/p/deploy-and-serve-llama-3-2-11b-on-databricks-in-minutes-81a276    提交人    /u/TheLostWanderer47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtwrqh/deploy_and_serve_llama_32_11b_on_databricks/</guid>
-      <pubDate>Mon, 18 Nov 2024 04:35:19 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 11 月 17 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gttxlt/oneminute_daily_ai_news_11172024/</link>
       <description><![CDATA[ “真的可以在几分钟内完成”：AI模型发现癌症和基因问题的迹象。[1] 习近平和拜登呼吁中美在人工智能和核武器方面进行合作。[2] 谷歌在攻击者使用人工智能进行攻击时发布新的安全隐形警告。[3] Robust AI的Carter Pro机器人旨在与人类一起工作并由人类移动。[4]  来源包括：https://bushaicave.com/2024/11/17/11-17-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
@@ -109,13 +116,6 @@
       <description><![CDATA[我正在学习一门关于特定科学主题的高级课程。在准备我之前的考试时，我能够将所有提供的课程材料汇编成一个文档。我转录了讲座，从 PowerPoint 幻灯片中复制了文本，从之前在我所在的大学上过这门课程的人的公共测验中抓取了信息，并使用了以前考试的反馈和我必须预测如何利用学习时间的笔记。  我在本地使用 LLama2 来编译和分类经常出现的主题或概念，然后要求参加针对最预期内容的考试。  我学习了几个小时，得到了 139/140 的成绩。  这是机器学习吗？我觉得我差点作弊了。我走运了吗？有没有关于如何简化这一过程的想法，或者是否有程序已经在这样做了？  我会发现什么限制？     由   提交  /u/Visible_Scar_2654   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtt6fr/implementation_of_ai_and_machine_learning_to/</guid>
       <pubDate>Mon, 18 Nov 2024 01:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Cursor 和 Claude 3.5 Sonnet 构建了一个实际的完整 Web 应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtrb9r/built_an_actual_full_web_app_with_cursor_and/</link>
-      <description><![CDATA[看，拥有一位技术联合创始人很棒，但如果你现在找不到，这里是如何实际使用 AI 自己构建一些东西的方法。 TL;DR：1. 在纸上勾勒想法 2. 反馈给 Claude 获取规格 3. 使用 Cursor 构建 4. 迭代直到成功 这是实际过程（没有 BS）： 我创建了一个视频教程，使用此方法构建一个完整的 Web 应用程序，从头到带有后端的 MVP。 你需要什么：- 笔记本 - 流程图工具（Whimsical/任何东西）- Claude（不是 ChatGPT）- Cursor 工作流程：1. 绘制你的想法 &amp;拍照 2. 给 Claude 看，获得反馈 3. 制作流程图 4. 让 Claude 创建： - 产品规格 - 基本线框 - 技术要求 专业提示： - 在 Cursor 上使用 Claude 3.5 Sonnet（需要时创建新帐户） - 保存您的工作（学习 Git 或只是复制文件夹） - 截图错误让 Claude 修复 - 以 4 小时为一个时间段工作 实话实说：这不是一个神奇的解决方案，但它确实有效。我的上一个项目只用了 20 个小时就完成了，而不是一个星期。您不需要编写代码，但您需要了解基本的软件概念（查看 Dev to Agency 博客）。 编辑：是的，仍然尝试寻找技术联合创始人。这是在您寻找联合创始人时入门的。    提交人    /u/No-Dot755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtrb9r/built_an_actual_full_web_app_with_cursor_and/</guid>
-      <pubDate>Sun, 17 Nov 2024 23:51:52 GMT</pubDate>
     </item>
     <item>
       <title>人工智能领域正在发生哪些新闻</title>
