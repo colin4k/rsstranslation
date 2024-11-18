@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 18 Nov 2024 09:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 12:02:00 GMT</lastBuildDate>
+    <item>
+      <title>构建 CRM Copilot：我需要广泛的意图分类吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2tcr/building_a_crm_copilot_do_i_need_extensive_intent/</link>
+      <description><![CDATA[大家好，我正在使用 LLM API 开发 CRM 副驾驶。我的 CRM 数据存储在 SQL 数据库中，我还计划向矢量数据库添加一些语义内容。 对于意图分类，我最初计划使用 LLM API 根据用户查询从一组预定义选项中快速识别意图。但是，我注意到大多数 LLM 似乎已经非常了解 CRM 结构和工作流程。我甚至尝试直接从用户提示生成 SQL 查询，并且在大多数情况下效果很好 - 查询成功运行并回答了用户问题。 话虽如此，我想知道我是否真的需要一个全面的意图分类系统。是否最好仅仅利用 LLM 的知识，更有效地提供我的模式（也许使用像 LangChain 这样的工具），并依靠查询生成？ 我想我仍然需要一些基本的意图分类来确定从哪里获取数据（例如，SQL 与矢量 DB），但除此之外，是否值得为我的 CRM 专门构建一个更广泛的意图分类系统？ 很想听听你对这种方法的想法或建议！    提交人    /u/Creepy-Use-9305   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2tcr/building_a_crm_copilot_do_i_need_extensive_intent/</guid>
+      <pubDate>Mon, 18 Nov 2024 11:40:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建用于潜在客户捕获的 AI 聊天机器人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2ne1/how_to_build_an_ai_chatbot_for_lead_capture/</link>
+      <description><![CDATA[刚刚发布了一个视频，我向你展示了如何构建一个 AI 聊天机器人来有效地捕获和管理潜在客户。你将一步步学习如何设置一个可以吸引你的观众、收集联系信息并无缝集成到你的工作流程中的聊天机器人。 https://youtu.be/79J4W_v4nKE 让我知道你的想法！    提交人    /u/y10p   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2ne1/how_to_build_an_ai_chatbot_for_lead_capture/</guid>
+      <pubDate>Mon, 18 Nov 2024 11:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Claude 创建了一个 2500 行代码的 AI 电子邮件应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2i37/i_used_claude_to_create_a_2500_lines_of_code_ai/</link>
+      <description><![CDATA[你好 Reddit， 这已经是近四个星期的工作了。作为免责声明，我不是任何类型的程序员，我有一些通过他们的 api 与 AI 打交道的 Python 经验，但这是一个完全不同的事情...... 这一切都始于一位使用 Chatgpt 回复电子邮件的朋友的评论，他抱怨复制粘贴部分很累，因为它很慢，缺乏上下文，而且因为他甚至没有使用自定义 GPT，所以这对回答他的客户没有什么帮助。 所以我决定弄乱代码，看看我是否能从中做出一些有用的东西。我制作了一个早期原型来从 Gmail 检索电子邮件并通过 API 使用我的一个 OpenAi 助手回复它们，这似乎很容易。然后我开始在 Claude 的帮助下将其应用于可视化界面，以创建 MAIA 应用程序（邮件人工智能助手） 与 Claude 合作非常有趣，它对项目有深入的了解。您只需将代码上传给他，然后开始进行更改、添加等即可……唯一的问题是，有时当您从开发环境（我的情况是 Jupyter 实验室）传递到实际的 python 项目时，它会忘记某些函数或类。知道您可以将一些提示发送给它，并确保一切都在正确的位置。 还值得一提的是，要求它从一开始就创建一个强大的错误处理系统，并尽可能创建稳定的版本。Claude 对每个聊天的令牌有限制，聊天越大，它消耗的令牌就越多。因此，最好先获得一个稳定的版本，然后再次开始聊天，上传此版本，然后再要求它进行更改。 Maia 电子邮件助手应用程序有超过 2500 行代码，通过安全的 OAuth 通过 API 连接到 GMail 和 Exchange，并连接到任何 SMTP/IMAP 帐户。它支持多个助手，可以同时回复多封电子邮件，并且有一个“重新生成答案”按钮，您可以在其中添加评论，它会将它们添加到答案中。显然，您需要解决助手部分的问题，但添加自定义说明和文档库作为内部知识可以完全改变游戏规则，为任何客户提供正确的答案。 如果您想了解有关 MAIA 的更多信息，您可以查看我的 YouTube 视频，其中解释了它的工作原理，如果您愿意，可以下载它。它是免费的，可以在任何安装了 python 的计算机上运行（我还制作了一个安装所有必要库的 Windows 安装程序） MAIA 电子邮件助手     提交人    /u/Nalrod   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2i37/i_used_claude_to_create_a_2500_lines_of_code_ai/</guid>
+      <pubDate>Mon, 18 Nov 2024 11:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>认识 NEO — 第一位 AI 机器学习工程师！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu1adf/meet_neo_first_ai_machine_learning_engineer/</link>
+      <description><![CDATA[ 名称：Neo  架构：多智能体系统 + 专门模型  功能：管理完整的机器学习生命周期  以下是我从 NEO 官方推文中发现的内容：  多智能体系统：其智能体并行运行，共同应对复杂挑战。 战略规划：Neo 探索多种解决方案路径，对每一种路径进行评估以选择最优路线。 专业知识：利用经过微调的模型（每种模型都针对 ML 生命周期的不同阶段进行量身定制），Neo 是真正的专家合作者。  Neo 并不是 AI/ML 工程师的替代品，而是他们的合作伙伴，承担重复性任务，让他们可以专注于高水平的工作。一项可能需要一周时间才能完成的任务？Neo 只需几个小时就能完成。 根据他们的内部基准，NEO 在参加的 Kaggle 比赛中，有 26% 获得了奖牌，并赢得了 10 枚金牌。 Neo 即将向公众开放。我已经加入了等候名单，如果你也想加入，这里是链接 - https://heyneo.so/waitlist    提交人    /u/stupidauthor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu1adf/meet_neo_first_ai_machine_learning_engineer/</guid>
+      <pubDate>Mon, 18 Nov 2024 09:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为聋哑和听力障碍的在线学习者提供 LLM 支持的人工智能导师</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu19gx/llmpowered_ai_tutors_with_personas_for_ddeaf_and/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“由 LLM 驱动的 AI 导师，为聋人和听力障碍的在线学习者提供角色”，作者是 Haocong Cheng、Si Chen、Christopher Perdriau 和 Yun Huang。 本文深入探讨了由大型语言模型 (LLM) 驱动的智能辅导系统 (ITS) 的开发和评估，该系统专门用于满足聋人和听力障碍 (DHH) 在线学习者的需求。该研究重点关注具有个性特征的个性化 AI 导师，探索这些工具如何通过具有文化意识和参与度高的互动来增强学习体验。 主要发现包括：  信任和类人互动：研究发现，DHH 学习者认为具有 DHH 教育经验的 AI 导师更值得信赖、更像人类。这种看法增强了参与度和信任度，这归因于 AI 对 DHH 社区的文化理解。 AI 导师的设计建议：参与者建议，AI 导师的个性和背景更加透明将改善他们的互动体验。他们强调 AI 需要更清楚地披露其局限性和起源。 多模式支持：该研究强调了当前 LLM 驱动系统中对手语支持的需求尚未得到满足。参与者希望能够以手语进行互动和接收回应，而目前的人工智能能力却不具备这一点。 回应的适应性：对于人工智能导师的回应长度，参与者的偏好不尽相同。一些学习者喜欢详细的答案，而另一些人则喜欢简洁明了的回答。这表明需要定制沟通风格。 道德和包容性设计考虑：该研究呼吁在设计与不同能力相关的角色时考虑道德因素，以避免潜在的偏见和错误信息。它提倡更具包容性的 LLM，增强对手语注释和可定制交互特征的支持。  这些发现强调了具有文化背景的 LLM 驱动的人工智能导师为 DHH 学习者提供更具包容性和适应性的学习环境的潜力。然而，该研究还指出了人工智能能力方面存在一些差距，需要解决这些差距以促进更深入的参与和信任。 您可以在这里看到完整的细分：这里您可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu19gx/llmpowered_ai_tutors_with_personas_for_ddeaf_and/</guid>
+      <pubDate>Mon, 18 Nov 2024 09:49:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Mamba 的时间序列模型：TSMamba</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu13hm/mamba_based_time_series_model_tsmamba/</link>
+      <description><![CDATA[TSMamba 是一个基于 Mamba（Transformer 的替代品）的时间序列预测模型，可生成最先进的时间序列结果。该模型使用双向编码器，甚至支持零样本预测。在此处查看更多详细信息：https://youtu.be/WvMDKCfJ4nM    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu13hm/mamba_based_time_series_model_tsmamba/</guid>
+      <pubDate>Mon, 18 Nov 2024 09:36:34 GMT</pubDate>
+    </item>
     <item>
       <title>最好的人工智能治疗师？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu01vj/best_ai_therapist/</link>
@@ -48,13 +90,6 @@
       <pubDate>Mon, 18 Nov 2024 01:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini 没有听懂笑话，但 ChatGPT 听懂了。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtsvig/gemini_didnt_get_a_joke_but_chatgpt_get_it/</link>
-      <description><![CDATA[我是 AI 新手，所以我对这次对话完全惊呆了：）与 ChatGPT 就电子商务教堂和虚拟神奇修道院 Brightside 进行简短对话。  https://chatgpt.com/share/673a8e0c-e68c-800b-963d-e5cf6d8d8c00    提交人    /u/Green_Hawk_1939   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtsvig/gemini_didnt_get_a_joke_but_chatgpt_get_it/</guid>
-      <pubDate>Mon, 18 Nov 2024 01:07:22 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 Cursor 和 Claude 3.5 Sonnet 构建了一个实际的完整 Web 应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtrb9r/built_an_actual_full_web_app_with_cursor_and/</link>
       <description><![CDATA[看，拥有一位技术联合创始人很棒，但如果你现在找不到，这里是如何实际使用 AI 自己构建一些东西的方法。 TL;DR：1. 在纸上勾勒想法 2. 反馈给 Claude 获取规格 3. 使用 Cursor 构建 4. 迭代直到成功 这是实际过程（没有 BS）： 我创建了一个视频教程，使用此方法构建一个完整的 Web 应用程序，从头到带有后端的 MVP。 你需要什么：- 笔记本 - 流程图工具（Whimsical/任何东西）- Claude（不是 ChatGPT）- Cursor 工作流程：1. 绘制你的想法 &amp;拍照 2. 给 Claude 看，获得反馈 3. 制作流程图 4. 让 Claude 创建： - 产品规格 - 基本线框 - 技术要求 专业提示： - 在 Cursor 上使用 Claude 3.5 Sonnet（需要时创建新帐户） - 保存您的工作（学习 Git 或只是复制文件夹） - 截图错误让 Claude 修复 - 以 4 小时为一个时间段工作 实话实说：这不是一个神奇的解决方案，但它确实有效。我的上一个项目只用了 20 个小时就完成了，而不是一个星期。您不需要编写代码，但您需要了解基本的软件概念（查看 Dev to Agency 博客）。 编辑：是的，仍然尝试寻找技术联合创始人。这是在您寻找联合创始人时入门的。    提交人    /u/No-Dot755   [链接] [评论]]]></description>
@@ -62,18 +97,11 @@
       <pubDate>Sun, 17 Nov 2024 23:51:52 GMT</pubDate>
     </item>
     <item>
-      <title>以下是人工智能领域的新闻</title>
+      <title>人工智能领域正在发生哪些新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtqx8i/heres_what_is_making_news_in_ai/</link>
       <description><![CDATA[聚焦：马斯克、奥特曼等人的电子邮件披露了埃隆·马斯克早年对 OpenAI 的诉讼（来源：TechCrunch）  欧盟更新了他们的人工智能法案（来源：TechCrunch） 马克·洛尔正在创建一个由人工智能驱动的垂直整合餐饮和配送平台。（来源：TechCrunch） 哈佛大学的研究表明，量化一种流行的提高人工智能效率的技术存在缺陷（来源：TechCrunch） Robust AI 的 Carter Pro 机器人旨在与人类一起工作并由人类移动（来源：TechCrunch） 挪威初创公司 Factiverse 希望利用人工智能打击虚假信息（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtqx8i/heres_what_is_making_news_in_ai/</guid>
       <pubDate>Sun, 17 Nov 2024 23:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能能否取代收费服务的金融规划行业？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtncbg/could_ai_replace_the_fee_for_service_financial/</link>
-      <description><![CDATA[我通常喜欢管理自己的投资，但越接近退休，我就越想知道我是否应该付钱给别人准备一份针对我所在国家的长期财务计划/策略（考虑到特定地区的税收影响、优势、账户类型等）。在我所在的地区，这些似乎要花费 1000 美元以上，所以我还没有下定决心。我越想越觉得这是人工智能擅长的事情。给它一堆输入（账户类型、余额、年龄、退休目标等），让它审查税收影响并制定执行策略。这是一项已经存在的服务吗？似乎它有可能使财务规划过时。     提交人    /u/Socialmediaismyenemy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtncbg/could_ai_replace_the_fee_for_service_financial/</guid>
-      <pubDate>Sun, 17 Nov 2024 20:51:49 GMT</pubDate>
     </item>
     <item>
       <title>ChatOn，ChatGPT 4.0，克劳德</title>
@@ -92,16 +120,9 @@
     <item>
       <title>如何利用AI进行分析和预测？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtk25b/how_to_use_ai_for_analysis_and_prediction/</link>
-      <description><![CDATA[大家好， 我对使用 AI 和 chatgpt 还很陌生。我在渔业行业工作，想汇编捕捞量和环境数据，并用它来预测不同地区的捕捞量和效率建议。什么程序最适合用来输入这些数据，以便 chatgpt 能够使用。 我使用 Excel 的经验很少，也没有使用 python 或任何其他程序的经验，但我愿意学习，只是不想花时间学习一个程序，结果却发现有更好的东西我从未听说过。 任何帮助或建议都非常感谢。    提交人    /u/TequalsMC2   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我对使用 AI 和 chatgpt 还很陌生。我在渔业行业工作，想汇编捕捞量和环境数据，并用它来对不同区域进行捕捞量预测和效率建议。什么程序最适合用于输入这些数据以供 chatgpt 使用。 我使用 Excel 的经验很少，也没有使用 python 或任何其他程序的经验，但我愿意学习，只是不想花时间学习一个程序，结果却发现有更好的东西我从未听说过。 任何帮助或建议都非常感谢。    提交人    /u/TequalsMC2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtk25b/how_to_use_ai_for_analysis_and_prediction/</guid>
       <pubDate>Sun, 17 Nov 2024 18:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能语音创作者（免费）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gti3fl/ai_voice_creators_free/</link>
-      <description><![CDATA[有没有免费的网站或软件可以让我根据其他人的剪辑创建语音模型？我需要它来制作人工智能歌曲封面和其他东西谢谢     提交人    /u/B00mShoom   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gti3fl/ai_voice_creators_free/</guid>
-      <pubDate>Sun, 17 Nov 2024 17:02:47 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能与通用人工智能之间的区别</title>
@@ -109,27 +130,6 @@
       <description><![CDATA[在关于实现 AGI 的对话中，我经常提到的一点是，尤其是与那些对 AI 不太感兴趣的人交谈时，生成式 AI 模型的进展并不直接等同于 AGI 的进展。 AI 的进步确实会影响更广泛的领域，因此肯定存在一定的相关性。但是，对于聊天机器人必须达到“多好”才能成为 AGI，并没有具体的门槛。AGI 不是渐进式改进或特定技能水平，而是一个完全独立的概念。这是一个二元区别：AI 要么是 AGI，要么不是 AGI。 这可能看起来很模糊（抱歉），但我希望这是有道理的。如果您同意，我们如何更清楚地解释这一点？如果您不同意，为什么？    提交人    /u/sebbetrygg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtd2qf/distinction_between_generative_ai_and_agi/</guid>
       <pubDate>Sun, 17 Nov 2024 13:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么意识可能像密码学一样是单向函数</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt9qrf/why_consciousness_might_be_a_oneway_function_like/</link>
-      <description><![CDATA[大家好！在学习人工智能和密码学时，我有一个奇怪的想法。你知道在密码学中我们有这些单向函数吗——非常容易向前计算，但实际上不可能逆转（比如乘以巨大的素数而不是尝试分解它们）？ 如果意识以同样的方式工作会怎样？这就是我的意思：  我们的大脑形成“向前”的神经连接和记忆很容易 但尝试对这些完全相同的过程进行逆向工程却极其困难（甚至不可能？） 这就像试图将鸡蛋重新打散 - 理论上可行，但需要大量的能量  这也许可以解释原因：  尽管拥有超强大的计算机，我们仍然无法在人工智能中复制意识 人类大脑仅使用约 20W 的功率，但却可以做不可思议的事情 我们可以轻松地形成记忆，但无法完美地回忆起它们 意识似乎有这种奇怪的“只进”特性时间的流动  也许我们对人工智能意识的处理方式是错误的——试图对自然界中从根本上来说是一个单向过程的东西进行逆向工程？ 好奇你们都怎么想：  这能解释为什么意识如此难以复制吗？ 自然界中还有其他我们可以学习的“单向”过程吗？ 如果量子计算可以帮助打破这个“单向”障碍会怎样？     提交人    /u/gizia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt9qrf/why_consciousness_might_be_a_oneway_function_like/</guid>
-      <pubDate>Sun, 17 Nov 2024 09:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>多 AI 代理教程（AutoGen、LangGraph、OpenAI Swarm 等）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7c4j/multi_ai_agent_tutorials_autogen_langgraph_openai/</link>
-      <description><![CDATA[多 AI 代理编排现在是 GenAI 领域的最新关注领域，最近 OpenAI 和 Microsoft 都发布了新框架（Swarm、Magentic-One）。查看有关多 AI 代理编排的广泛播放列表，其中包含 LangGraph、AutoGen、CrewAI、OpenAI Swarm 和 Magentic One 上的教程以及一些有趣的 POC，如多代理面试系统、简历检查器等。播放列表：https://youtube.com/playlist?list=PLnH2pfPCPZsKhlUSP39nRzLkfvi_FhDdD&amp;si=9LknqjecPJdTXUzH    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt7c4j/multi_ai_agent_tutorials_autogen_langgraph_openai/</guid>
-      <pubDate>Sun, 17 Nov 2024 06:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能使用人工智能让我爸爸的声音唱出他写的一首歌——他两天前去世了，我找到了他的歌词。他没有机会唱这首歌。一定有什么东西可以用，对吧？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gt2myh/how_can_i_use_ai_to_have_my_dads_voice_sing_a/</link>
-      <description><![CDATA[我父亲一生都是词曲作者和表演者。他于周三去世，昨天我​​在一张纸上发现了这些歌词。歌词名为“Time to Go”，所以我知道他最近写了这首歌。虽然他的音乐风格是独立摇滚，但我并不在乎音乐本身，只想给他机会唱他的最后一首歌。 至于他的声音，我保存了几条简短的语音邮件和一个他唱歌的 mp3，但还有伴唱歌手、完整乐队等；所以他的声音并不孤立。 关于如何实现这一点，有什么想法吗？我知道语音克隆 AI 是存在的，但我不知道什么是信誉良好的，什么是高质量的，或者哪些可能支持用他的声音制作歌曲。 有什么想法吗？ （并感谢您）    由    /u/Yisevery1nuts 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gt2myh/how_can_i_use_ai_to_have_my_dads_voice_sing_a/</guid>
-      <pubDate>Sun, 17 Nov 2024 01:40:09 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
