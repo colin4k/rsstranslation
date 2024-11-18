@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 18 Nov 2024 12:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 15:02:01 GMT</lastBuildDate>
+    <item>
+      <title>Notpad：使用 Svelte、Shadcn 和 Tauri 重塑普通记事本体验 ✨📝🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu51ut/notpad_reinventing_the_ordinary_notepad/</link>
+      <description><![CDATA[        由    /u/Muhammed_Rahif 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu51ut/notpad_reinventing_the_ordinary_notepad/</guid>
+      <pubDate>Mon, 18 Nov 2024 13:46:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 Hercules：开源端到端软件测试代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu4kin/launching_hercules_open_source_end_to_end/</link>
+      <description><![CDATA[很高兴推出 Hercules：世界上第一个开源软件测试代理。输入您的测试，观察它们的运行并获取结果（无需代码、维护或成本）。在此处查看：https://testzeus.com/hercules     由   提交  /u/Unhappy-Economics-43   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu4kin/launching_hercules_open_source_end_to_end/</guid>
+      <pubDate>Mon, 18 Nov 2024 13:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>OPAL - 一个用于细粒度权限的开源授权服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu4ame/opal_an_open_source_authorization_service_for/</link>
+      <description><![CDATA[        提交人    /u/odd_sherlock   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu4ame/opal_an_open_source_authorization_service_for/</guid>
+      <pubDate>Mon, 18 Nov 2024 13:08:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[我制作] Artelier_Tab - 一个将你的浏览器变成艺术画廊的新标签扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu3vhf/i_made_artelier_tab_a_new_tab_extension_that/</link>
+      <description><![CDATA[大家好！我创建了一个 Firefox 扩展，可将您的新选项卡转变为动态艺术画廊，展示芝加哥艺术学院的杰作。每次打开新选项卡时，您都会发现不同的艺术品，让您的浏览体验更加鼓舞人心和美妙。它重量轻、干净，并且专注于将艺术带入您的日常浏览习惯。 # 主要特点 * 来自芝加哥艺术学院的随机杰作 * 智能昼/夜主题切换 * 干净、简约的界面 * 零膨胀，只有艺术 # 链接 * Firefox 附加组件：https://addons.mozilla.org/en-US/firefox/addon/artelier_tab/ * GitHub：https://github.com/c3t1nn/artelier_tab 这是我的第一个扩展，完全开源。希望得到您的反馈和建议！    由    /u/cetinodinson 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu3vhf/i_made_artelier_tab_a_new_tab_extension_that/</guid>
+      <pubDate>Mon, 18 Nov 2024 12:45:34 GMT</pubDate>
+    </item>
     <item>
       <title>我应该修正文档中的拼写错误和语法错误吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gu128v/should_i_fix_typos_and_grammatical_errors_in/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我刚听说你可以将 Android 平板电脑用作第二个显示器（非镜像），并使用类似 mountie 的东西将其物理连接到你的笔记本电脑上。很好奇，是否有任何开源项目可以轻松做到这一点？或者如果你碰巧知道硬件的话。    由   提交  /u/TechBasedQuestion   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gta0e6/software_to_use_android_tablet_as_second_display/</guid>
       <pubDate>Sun, 17 Nov 2024 09:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 DTMF 语音助手会受到欢迎吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gt8c0r/would_an_open_source_dtmf_voice_assistant_be_well/</link>
-      <description><![CDATA[基本上，助手将在树莓派上运行，并在主菜单上操作，所有应用程序都可以通过 A# 调用。 A6 - 天气 A0 - 列出技能 可以使用 B 调用应用内功能。 B4 - 上一首歌曲 B6 - 下一首歌曲 B5 - 播放/暂停 B2 - 喜欢 B8 - 不喜欢 使用 C 配置应用程序。 系统功能为 D（音量、电源）保留    提交人    /u/ki4jgt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gt8c0r/would_an_open_source_dtmf_voice_assistant_be_well/</guid>
-      <pubDate>Sun, 17 Nov 2024 07:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeCAD BIM 更新 26</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gswcyd/freecad_bim_update_26/</link>
-      <description><![CDATA[        提交人    /u/buovjaga   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gswcyd/freecad_bim_update_26/</guid>
-      <pubDate>Sat, 16 Nov 2024 20:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 日历替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gsu6gr/google_calendar_alternative/</link>
-      <description><![CDATA[您好。我正在重新设计我的整个数字环境。我使用 GAFAM 已经很久了，我已经非常习惯使用它们了。 我正在将我的 Gmail 迁移到一个名为 Mailo 的道德且免费的邮箱。到目前为止一切顺利，但当要为我的 Agenda 寻找替代方案时，就很难了。我想使用链接到我的 Mailo 地址的日历，但使用外部界面。我试过 Thunderbird，但我不太喜欢它…… 您对我的日历有什么界面建议吗？我需要能够查看和创建事件（并且我创建的事件需要与 Mailo 日历同步）。 它可以是软件或在线服务。注意：我在 Linux mint 上  我还在寻找与 /e/os 兼容的应用程序    提交人    /u/ParkingAssociation20   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gsu6gr/google_calendar_alternative/</guid>
-      <pubDate>Sat, 16 Nov 2024 18:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Voice Lab - 一个开放框架，用于评估不同模型、提示和角色的 LLM 驱动的代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gssf7z/voice_lab_an_open_framework_to_evaluate/</link>
-      <description><![CDATA[        由    /u/koryoislie  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gssf7z/voice_lab_an_open_framework_to_evaluate/</guid>
-      <pubDate>Sat, 16 Nov 2024 17:36:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

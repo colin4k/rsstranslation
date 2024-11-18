@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 12:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 15:02:08 GMT</lastBuildDate>
     <item>
       <title>梦盘</title>
       <link>https://www.producthunt.com/posts/dreamdisk</link>
@@ -79,7 +79,7 @@
       <title>MarqueeKit</title>
       <link>https://www.producthunt.com/posts/marqueekit</link>
       <description><![CDATA[
-轻松无限滚动字幕
+简单的无限滚动字幕
 
 
 讨论
@@ -107,7 +107,7 @@
       <title>弗利兹V2</title>
       <link>https://www.producthunt.com/posts/fliz-v2</link>
       <description><![CDATA[
-将您的视频创作提升到一个新的水平 
+将您的视频创作提升到新的水平 
 
 
 讨论
@@ -116,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/fliz-v2</guid>
       <pubDate>Thu, 14 Nov 2024 07:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙宝</title>
-      <link>https://www.producthunt.com/posts/sharbo</link>
-      <description><![CDATA[
-轻松了解竞争对手的产品
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sharbo</guid>
-      <pubDate>Mon, 11 Nov 2024 20:17:49 GMT</pubDate>
     </item>
     <item>
       <title>层</title>
@@ -177,7 +163,7 @@
       <title>白色的</title>
       <link>https://www.producthunt.com/posts/blanka</link>
       <description><![CDATA[
-在 5 分钟内开始美容或化妆品系列！
+不到 5 分钟即可开始美容或化妆品系列！
 
 
 讨论
@@ -233,7 +219,7 @@
       <title>涡轮镜头</title>
       <link>https://www.producthunt.com/posts/turbolens</link>
       <description><![CDATA[
-快速、准确的 OCR 和洞察，适用于任何图像。
+快速、准确的 OCR 和对任何图像的洞察。
 
 
 讨论
@@ -244,24 +230,38 @@
       <pubDate>Wed, 06 Nov 2024 23:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>斯波克</title>
-      <link>https://www.producthunt.com/posts/spokk-8757ad37-92da-4156-ab05-1bbe320e88f3</link>
+      <title>Kidtivity 实验室</title>
+      <link>https://www.producthunt.com/posts/kidtivity-lab</link>
       <description><![CDATA[
-小型企业的客户体验管理
+您的 AI 合作伙伴，为孩子们创造有趣的活动
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/spokk-8757ad37-92da-4156-ab05-1bbe320e88f3</guid>
-      <pubDate>Wed, 09 Oct 2024 05:37:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/kidtivity-lab</guid>
+      <pubDate>Thu, 31 Oct 2024 21:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能游戏大师</title>
+      <link>https://www.producthunt.com/posts/ai-game-master</link>
+      <description><![CDATA[
+由 AI 驱动的完全沉浸式 DnD 体验
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-game-master</guid>
+      <pubDate>Wed, 23 Oct 2024 11:51:32 GMT</pubDate>
     </item>
     <item>
       <title>脉冲式</title>
       <link>https://www.producthunt.com/posts/pulsetic-1</link>
       <description><![CDATA[
-状态页面和网站正常运行时间检查器 - 无需专家！
+状态页面和网站正常运行时间检查器 — 无需专家！
 
 
 讨论
@@ -275,7 +275,7 @@
       <title>雷霆计算</title>
       <link>https://www.producthunt.com/posts/thunder-compute</link>
       <description><![CDATA[
-1 分钟内免费获得 GPU。
+面向 AI/ML 开发人员的 GPU 云平台
 
 
 讨论
