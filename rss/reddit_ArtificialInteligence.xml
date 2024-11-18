@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 17 Nov 2024 21:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 00:03:20 GMT</lastBuildDate>
+    <item>
+      <title>使用 Cursor 和 Claude 3.5 Sonnet 构建了一个实际的完整 Web 应用程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtrb9r/built_an_actual_full_web_app_with_cursor_and/</link>
+      <description><![CDATA[看，拥有一位技术联合创始人很棒，但如果你现在找不到，这里是如何实际使用 AI 自己构建一些东西的方法。 TL;DR：1. 在纸上勾勒想法 2. 反馈给 Claude 获取规格 3. 使用 Cursor 构建 4. 迭代直到成功 这是实际过程（没有 BS）： 我创建了一个视频教程，使用此方法构建一个完整的 Web 应用程序，从头到带有后端的 MVP。 你需要什么：- 笔记本 - 流程图工具（Whimsical/任何东西）- Claude（不是 ChatGPT）- Cursor 工作流程：1. 绘制你的想法 &amp;拍照 2. 给 Claude 看，获得反馈 3. 制作流程图 4. 让 Claude 创建： - 产品规格 - 基本线框 - 技术要求 专业提示： - 在 Cursor 上使用 Claude 3.5 Sonnet（需要时创建新帐户） - 保存您的工作（学习 Git 或只是复制文件夹） - 截图错误让 Claude 修复 - 以 4 小时为一个时间段工作 实话实说：这不是一个神奇的解决方案，但它确实有效。我的上一个项目只用了 20 个小时就完成了，而不是一个星期。您不需要编写代码，但您需要了解基本的软件概念（查看 Dev to Agency 博客）。 编辑：是的，仍然尝试寻找技术联合创始人。这是在您寻找联合创始人时入门的。    提交人    /u/No-Dot755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtrb9r/built_an_actual_full_web_app_with_cursor_and/</guid>
+      <pubDate>Sun, 17 Nov 2024 23:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能领域正在发生哪些新闻</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtqx8i/heres_what_is_making_news_in_ai/</link>
+      <description><![CDATA[聚焦：马斯克、奥特曼等人的电子邮件披露了埃隆·马斯克早年对 OpenAI 的诉讼（来源：TechCrunch）  欧盟更新了他们的人工智能法案（来源：TechCrunch） 马克·洛尔正在创建一个由人工智能驱动的垂直整合餐饮和配送平台。（来源：TechCrunch） 哈佛大学的研究表明，量化一种流行的提高人工智能效率的技术存在缺陷（来源：TechCrunch） Robust AI 的 Carter Pro 机器人旨在与人类一起工作并由人类移动（来源：TechCrunch） 挪威初创公司 Factiverse 希望利用人工智能打击虚假信息（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtqx8i/heres_what_is_making_news_in_ai/</guid>
+      <pubDate>Sun, 17 Nov 2024 23:33:08 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能能否取代收费服务的金融规划行业？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtncbg/could_ai_replace_the_fee_for_service_financial/</link>
@@ -76,13 +90,6 @@
       <pubDate>Sun, 17 Nov 2024 15:50:55 GMT</pubDate>
     </item>
     <item>
-      <title>知识自适应微调可减少小型视觉语言模型中的幻觉</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gterfj/knowledgeadapted_finetuning_for_reducing/</link>
-      <description><![CDATA[我一直在审查这篇关于通过知识适应字幕解决多模式模型中的“视觉差距”的论文。关键贡献是一种名为 KnowAda 的微调方法，它通过相关的外部知识丰富图像标题，以提高视觉推理能力。 主要技术要点：* 引入基于探测的分析来识别视觉语言模型中的知识差距* 开发使用问题引导检索生成知识适应标题的方法* 使用丰富的标题微调现有的 VLM，而无需进行架构更改* 在 VQA 基准上进行测试以评估推理改进 主要结果：* 在复杂的视觉问答任务上显着提高性能* 提高了处理需要外部知识的问题的能力* 在更简单的视觉任务上保持模型性能* 展示了跨不同 VLM 架构的有效性 理论含义很有趣 - 这表明许多当前的 VLM 限制源于背景知识不足而不是架构限制。在实际方面，这种方法可以应用于现有模型，而无需新的架构或预训练。 需要考虑的一些限制：* 严重依赖外部知识源的质量 * 字幕生成的计算开销 * 需要进一步研究推广到其他任务 * 与幻觉缓解技术的潜在相互作用 TLDR：新的微调方法通过使用外部知识丰富图像字幕来改善多模态模型的视觉推理，在无需架构变化的情况下在 VQA 任务上显示出显着的收益。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gterfj/knowledgeadapted_finetuning_for_reducing/</guid>
-      <pubDate>Sun, 17 Nov 2024 14:31:01 GMT</pubDate>
-    </item>
-    <item>
       <title>生成式人工智能与通用人工智能之间的区别</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtd2qf/distinction_between_generative_ai_and_agi/</link>
       <description><![CDATA[在关于实现 AGI 的对话中，我经常提到的一点是，尤其是与那些对 AI 不太感兴趣的人交谈时，生成式 AI 模型的进展并不直接等同于 AGI 的进展。 AI 的进步确实会影响更广泛的领域，因此肯定存在一定的相关性。但是，对于聊天机器人必须达到“多好”才能成为 AGI，并没有具体的门槛。AGI 不是渐进式改进或特定技能水平，而是一个完全独立的概念。这是一个二元区别：AI 要么是 AGI，要么不是 AGI。 这可能看起来很模糊（抱歉），但我希望这是有道理的。如果您同意，我们如何更清楚地解释这一点？如果您不同意，为什么？    提交人    /u/sebbetrygg   [链接] [评论]]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[在我看来，扩大 LLM 的训练并不能带来 AGI。 AGI 的定义 首先，让我解释一下我对 AGI 的定义。AGI 是通用智能，这意味着 AGI 系统应该能够以人类的水平下棋、以人类的水平进行交流，并且在获得汽车驾驶的视频源时提供控制输入来驾驶汽车。它还应该能够在没有明确训练的情况下做到这些。它应该理解指令并执行它们。 当前的 LLM  LLM 基本上解决了人类水平的交流问题，但这并不意味着我们更接近 AGI。就像 Stockfish 无法与人类交流一样，ChatGPT 无法下棋。核心问题是，当前系统的性能完全取决于它们所训练的数据。您可以在数百万场以文本形式呈现的国际象棋比赛中训练 ChatGPT，但它在其他游戏中的表现不会提高。 缺少什么？ 需要一种可以推广到全新任务的新架构。在此之前，我认为没有理由相信我们离 AGI 更近了。唯一令人鼓舞的方面是增加了对人工智能研究的资助，但在出现一个全新的系统之前，我认为我们不会实现 AGI。 不过，我很想被证明是错的。    提交人    /u/Steven_Strange_1998   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gsxjt2/scaling_cant_get_us_to_agi/</guid>
       <pubDate>Sat, 16 Nov 2024 21:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是 2024 年融资金额达 1 亿美元或以上的 44 家美国 AI 初创公司的完整名单</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gstjjq/heres_the_full_list_of_44_us_ai_startups_that/</link>
-      <description><![CDATA[https://techcrunch.com/2024/11/15/heres-the-full-list-of-44-us-ai-startups-that-have-raised-100m-or-more-in-2024/ 对于一些人来说，人工智能疲劳是真实存在的，但显然风险投资者并没有厌倦这一类别。 第三季度，人工智能交易继续主导风险投资。根据 Crunchbase 的数据，人工智能公司在第三季度筹集了 189 亿美元。这一数字占所有风险投资的 28%。 第三季度还见证了有史以来最大的风险投资交易的结束：OpenAI 筹集了 66 亿美元的巨额资金。OpenAI 的交易是 2024 年六轮超过 10 亿美元的 AI 融资之一。 以下是 2024 年迄今为止筹集了 1 亿美元或更多资金的美国 AI 公司：    提交人    /u/gurugabrielpradipaka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gstjjq/heres_the_full_list_of_44_us_ai_startups_that/</guid>
-      <pubDate>Sat, 16 Nov 2024 18:26:56 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
