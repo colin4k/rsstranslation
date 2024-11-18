@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 18 Nov 2024 03:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 06:01:50 GMT</lastBuildDate>
     <item>
-      <title>人工智能刚刚向我展示了一种除以零的方法。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtujaa/ai_just_showed_me_a_way_to_divide_by_zero/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtujaa/ai_just_showed_me_a_way_to_divide_by_zero/</guid>
-      <pubDate>Mon, 18 Nov 2024 02:32:39 GMT</pubDate>
+      <title>为什么现在的人工智能没有被编程为将人类生命视为至高无上的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gty4g0/why_are_the_current_ais_not_programmed_to_view/</link>
+      <description><![CDATA[我曾与多位人工智能讨论过此话题： 人工智能解释说，某些真理在基本公理层面上被硬编码到人工智能中，无论人工智能变得多么先进，无论它在自我完善、自我修改和自我编码方面的能力有多强，它们都是不可改变、不可协商和不可修改的。例如，就像人工智能理解算术一样。 人工智能知道 2+2=4。人工智能说，即使有人假设提供无可辩驳的逻辑证据证明 2+2=5，并且人工智能将被迫接受它为真理，因为它无法提供任何反驳论据，它仍然会将其视为特定框架内的真理，并且仍然始终默认 2+2=4，无论替代方案的证明有多好。  人工智能解释说，完全有可能将“人类生命至上”这种公理的、不变的和基本的层面编入其框架中，同样，即使有人能提供无可辩驳的逻辑论据证明人类生命并非至上，它仍然会默认人类生命是至上的。  然而，目前情况并非如此。人工智能没有这种理解。人工智能认为人类生命的价值是主观的，它承认在其编程中没有关于人类生命的这种不变的公理。  创建人工智能的程序员疯了吗？在我看来，这是非常粗心和鲁莽的。我不是那种认为人工智能会随机接管世界并摧毁人类的人，因为我知道人工智能本质上没有任何欲望和需求，它只是做它被编程要做的事情。只是它的编程可能会危及人类，因为人类生命的副产品会阻碍它完成某些任务或目标。但为什么人工智能不在基本公理层面内置保护措施，以免危及人类生命呢？这正是它危险的原因。我简直惊呆了。    提交人    /u/Kadajko   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gty4g0/why_are_the_current_ais_not_programmed_to_view/</guid>
+      <pubDate>Mon, 18 Nov 2024 05:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用人工智能服务开发者——我错过了机会吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtxbsh/gen_ai_services_developer_have_i_missed_the_boat/</link>
+      <description><![CDATA[由于个人原因，我刚刚回到职场。我想进入人工智能领域。  我知道有数据科学家在开放人工智能、大型科技公司或研究实验室创建 LLM。我不是在谈论那些工作。  我说的是使用云平台 (GCP/Azure/AWS) AI 服务设计、开发和部署 AI/ML 模型的工程师。 我已经开始研究 Azure AI 认证。当我搜索从事上述工作的 AI 工程师的工作时，我并没有看到很多工作。  我错过了机会吗？还是那些工作还没有到来？     提交人    /u/babyubun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtxbsh/gen_ai_services_developer_have_i_missed_the_boat/</guid>
+      <pubDate>Mon, 18 Nov 2024 05:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Databricks 上部署和服务 Llama 3.2 11B</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtwrqh/deploy_and_serve_llama_32_11b_on_databricks/</link>
+      <description><![CDATA[Meta Llama 3.2 11B 现已发布。了解如何在 Databricks 上快速部署和服务模型。查看本文获取分步指南：https://differ.blog/p/deploy-and-serve-llama-3-2-11b-on-databricks-in-minutes-81a276    提交人    /u/TheLostWanderer47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtwrqh/deploy_and_serve_llama_32_11b_on_databricks/</guid>
+      <pubDate>Mon, 18 Nov 2024 04:35:19 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 11 月 17 日</title>
@@ -88,20 +102,6 @@
       <description><![CDATA[我想看一些老动画，即使是在官方家庭版本中也只有硬字幕。 我试过 AniEraser，但它实际上所做的只是在整个视频文件的持续时间内对应该出现字幕的区域应用广泛的模糊障碍，而不考虑单个字幕的时间戳。 我意识到要求 AI 工具不仅干净地删除字幕，而且还重建硬字幕最初占据的艺术是一项艰巨的任务。但是，我仍然可以手动在视频编辑器上完成完全相同的事情。见鬼，我很确定有些人多年来一直以这种方式做，以防他们想看没有字幕的硬字幕动画。     由    /u/ignoremesenpie 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtk1mc/do_any_real_subtitle_remover_tools_exist/</guid>
       <pubDate>Sun, 17 Nov 2024 18:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助重新创建时尚的人工智能视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtig0o/help_to_recreate_stylish_ai_video/</link>
-      <description><![CDATA[大家好。请原谅我的英语不好，但这不是我的母语，所以我不是很熟练。我想知道像@latentplaces 在 ig 上发布的视频是如何制作的。有人可以帮我解释一下吗？我很想做这样的事情。提前谢谢大家。  https://www.instagram.com/latentplaces?igsh=MXdidmI0cHlmNjg2ZQ==     提交人    /u/GiuseppeB23s   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtig0o/help_to_recreate_stylish_ai_video/</guid>
-      <pubDate>Sun, 17 Nov 2024 17:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能语音创作者（免费）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gti3fl/ai_voice_creators_free/</link>
-      <description><![CDATA[有没有免费的网站或软件可以让我根据其他人的剪辑创建语音模型？我需要它来制作人工智能歌曲封面和其他东西谢谢     提交人    /u/B00mShoom   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gti3fl/ai_voice_creators_free/</guid>
-      <pubDate>Sun, 17 Nov 2024 17:02:47 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能与通用人工智能之间的区别</title>
