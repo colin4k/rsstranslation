@@ -4,86 +4,87 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 17 Nov 2024 23:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 02:56:03 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在这篇博文中，我深入研究了 iOS 18 新的不活动 reb 的逆向工程 [...]</title>
-      <link>https://t.me/hn_summary/116998</link>
-      <description><![CDATA[逆向工程 iOS 18 不活动重启
-在这篇博文中，我深入研究了 iOS 18 新的不活动重启功能的逆向工程，该功能旨在通过在 72 小时不活动后重启设备来增强安全性。此功能很有趣，因为它独立于无线连接运行，挑战了它可能由网络交互触发的观点。这篇文章探讨了此功能的技术工作原理，包括它对安全区域处理器 (SEP) 和 AppleSEPKeyStore 内核模块的依赖。一份执法文件中令人惊讶的说法表明，iOS 18 设备可以无线指示旧款 iPhone 重启，如果属实，可能会产生重大影响。该帖子还强调了首次解锁后 (AFU) 状态下的潜在安全漏洞，攻击者可在此状态下更轻松地获取解密数据。（基于 81% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/116998</guid>
-      <pubDate>Sun, 17 Nov 2024 23:26:06 GMT</pubDate>
+      <title>[媒体] 在《为什么不是蓝天》一书中，作者探讨了当前的社交媒体格局，特别是 [...]</title>
+      <link>https://t.me/hn_summary/117012</link>
+      <description><![CDATA[为什么不使用 Bluesky
+在《为什么不使用 Bluesky》一文中，作者探讨了当前的社交媒体格局，特别关注了 Bluesky 和 ​​Fediverse，其中包括 Mastodon 等平台。作者欣赏 Bluesky，但由于 Fediverse 的去中心化性质，他仍然致力于该平台。该文章根据技术、文化和金钱对社交网络进行了评估，强调金钱是最关键的因素。作者认为，单一所有者的网络往往难以维持长久并影响用户体验，并引用了电子邮件作为去中心化模式的成功经验。虽然 Bluesky 前景光明，但它对风险投资的依赖引发了人们对其未来独立性和“enshittification”可能性的担忧。作者强调 Fediverse 的韧性和社区驱动模式是他们继续支持的原因。有争议的是，作者认为技术是最不重要的因素，而一家不可靠的风险投资公司参与 Bluesky 的融资被视为潜在风险。]]></description>
+      <guid>https://t.me/hn_summary/117012</guid>
+      <pubDate>Mon, 18 Nov 2024 02:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇文章中，我们探讨了 Transformer 模型中位置编码的演变，最终 [...]</title>
-      <link>https://t.me/hn_summary/116997</link>
-      <description><![CDATA[您本可以设计最先进的位置编码
-在这篇文章中，我们探讨了 Transformer 模型中位置编码的演变，最终在 LLama 3.2 中使用的最先进的旋转位置编码 (RoPE) 中达到顶峰。旅程从理解位置编码的必要性开始，因为自注意力机制具有置换不变性，否则无法捕捉序列的顺序相关含义。作者引导我们了解各种编码策略，从简单的整数加法到二进制和正弦编码，强调它们的局限性和改进。这篇文章巧妙地简化了复杂的概念，只需要基本的线性代数和三角学知识。一个令人惊讶的见解是使用正弦函数进行平滑、连续的编码，这是受到“注意力就是您所需要的一切”论文的启发。在正弦编码中，选择 10,000 作为基波长是一个容易混淆的地方，这促使读者探索其几何级数。（基于 41% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/116997</guid>
-      <pubDate>Sun, 17 Nov 2024 23:25:03 GMT</pubDate>
+      <title>[媒体] 在《我放弃了禅宗》一书中，约翰·霍根讲述了他对禅宗修行的幻灭感，同时 [...]</title>
+      <link>https://t.me/hn_summary/117011</link>
+      <description><![CDATA[我放弃了禅宗——约翰·霍根 (2008)
+在《我放弃了禅宗》中，约翰·霍根讲述了他对禅宗修行的失望，他最初修行禅宗是为了补充他对科学和神秘主义的研究。尽管禅宗因其形而上的极简主义而具有吸引力，但霍根对它的教义，尤其是他的导师 Sumi 的教义持怀疑态度。他质疑长期冥想和追求童真等极端做法的精神益处，他认为这些做法肤浅而逃避现实。霍根在拥抱正念和他批判性、知识分子的天性之间的内心冲突导致他放弃了禅宗，强调了对否认严酷现实的精神实践的更广泛批判。该作品巧妙地将他最初的热情与最终的怀疑态度并列，为具有科学头脑的人提供了关于禅宗局限性的独特视角。]]></description>
+      <guid>https://t.me/hn_summary/117011</guid>
+      <pubDate>Mon, 18 Nov 2024 02:48:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 苹果似乎正在逐步淘汰其 Lightning 至 3.5 毫米耳机插孔适配器，最初 [...]</title>
-      <link>https://t.me/hn_summary/116996</link>
-      <description><![CDATA[Apple 似乎停止提供 Lightning 转耳机插孔适配器
-Apple 似乎正在逐步淘汰其 Lightning 转 3.5 毫米耳机插孔适配器，该适配器最初于 2016 年随 iPhone 7 推出。这款适配器允许用户将有线耳机连接到没有耳机插孔的 iPhone，目前在 Apple 的在线商店中，美国和许多其他国家/地区的产品都已列为“已售罄”。它仍在一些国家/地区有售，但可能只能在现有库存耗尽之前。此举与 Apple 在较新的 iPhone 型号（例如 iPhone 15 和 16）中转向 USB-C 端口相一致，这些型号仍通过 USB-C 转 3.5 毫米适配器支持有线耳机。 Lightning 适配器的停产标志着一个时代的结束，因为 Apple 仍在继续推广其无线 AirPods 和各种配置的有线 EarPods。这一转变反映了 Apple 简化产品供应和拥抱新技术的更广泛战略。]]></description>
-      <guid>https://t.me/hn_summary/116996</guid>
-      <pubDate>Sun, 17 Nov 2024 23:21:58 GMT</pubDate>
+      <title>[媒体] 在预期的 Linux 6.12 内核发布之前，一个关键的“x86/紧急”拉取请求 [...]</title>
+      <link>https://t.me/hn_summary/117010</link>
+      <description><![CDATA[Linux 修复了使用 Ryzen 7000/8000 进行虚拟化时主机随机重启的问题
+在预期的 Linux 6.12 内核发布之前，一个关键的“x86/紧急”拉取请求解决了影响 AMD Ryzen Zen 4 客户端处理器（特别是 Ryzen 7000/8000 系列）的一个重大问题。这个问题于 7 月报告，涉及使用嵌套虚拟机进行虚拟化期间主机随机重启，没有任何内核崩溃或日志条目。根本原因是这些处理器上 VMLOAD/VMSAVE 支持的错误宣传。修复包括清除 Zen 4 客户端 SoC 的此功能，同时保持对 AMD EPYC 服务器处理器的支持。此外，还修复了 AMD 安全内存加密系统上的 Kdump 内核故障。此次紧急更新凸显了及时修补内核补丁以确保系统稳定性的重要性。]]></description>
+      <guid>https://t.me/hn_summary/117010</guid>
+      <pubDate>Mon, 18 Nov 2024 02:25:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nova JavaScript 引擎是一个正在开发中的 JavaScript 和 WebAssembly 引擎，由 [...]</title>
-      <link>https://t.me/hn_summary/116995</link>
-      <description><![CDATA[显示 HN：Nova JavaScript 引擎
-Nova JavaScript 引擎是一个正在开发中的 JavaScript 和 WebAssembly 引擎，用 Rust 编写，旨在作为库集成到 Rust 项目中。它的目的是作为执行 JavaScript 代码的运行时，从 Kiesel 和 SerenityOS 的 LibJS 中汲取灵感。Nova 通过面向数据的设计脱颖而出，旨在通过使常用操作快速运行，同时使不常用操作变慢来优化性能。这种方法以其缓存友好性而闻名。该项目遵循 ECMAScript 规范，但为 ECMAScript 类型引入了独特的双重定义以提高效率。该项目开放贡献，更多详细信息请参阅 CONTRIBUTING.md 文件。]]></description>
-      <guid>https://t.me/hn_summary/116995</guid>
-      <pubDate>Sun, 17 Nov 2024 23:19:53 GMT</pubDate>
+      <title>[媒体] 在日本，像 Momuri 这样的辞职机构在年轻工人中越来越受欢迎 [...]</title>
+      <link>https://t.me/hn_summary/117009</link>
+      <description><![CDATA[五分之一的 20 多岁日本工人求助于辞职机构
+在日本，像 Momuri 这样的辞职机构在年轻工人中越来越受欢迎，近五分之一的 20 多岁工人使用这些服务来辞职。这一趋势凸显了在日本辞职的挑战，日本的传统工作文化将就业视为终身承诺。许多公司抵制辞职，导致采取极端措施，例如强迫员工道歉，甚至去寺庙“治愈”他们的辞职欲望。辞职机构的兴起反映了更广泛的心理健康危机，以及一代人向优先考虑幸福而不是过时规范的转变。这一运动可能预示着日本工作文化的变革。争议在于企业对辞职的强烈抵制和社会压力，而辞职中介机构正在帮助缓解这些压力。]]></description>
+      <guid>https://t.me/hn_summary/117009</guid>
+      <pubDate>Mon, 18 Nov 2024 02:22:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Blue Sky OAuth 客户端实施指南提供了全面的演练[...]</title>
-      <link>https://t.me/hn_summary/116994</link>
-      <description><![CDATA[Blue Sky OAuth 客户端实施文档
-Blue Sky OAuth 客户端实施指南为希望在不依赖 SDK 的情况下实施 atproto OAuth 客户端的开发人员提供了全面的指导。它针对早期采用者、SDK 维护者和具有高级 OAuth 需求的开发人员，提供有关为 app.bsky 微博词典和新应用程序词典构建客户端的见解。该文件强调了遵守 atproto OAuth 规范的重要性，尤其是在出现差异时。它将 OAuth 客户端分为 Web 服务、浏览器应用程序和移动/桌面应用程序，详细说明了它们各自的 OAuth 2 客户端类型和要求。值得注意的是，该指南强调了实施 PKCE、PAR 和 DPoP 以实现安全客户端-服务器交互的必要性。 atproto 网络的一个独特之处在于其去中心化特性，它允许任何客户端应用无需事先协调即可针对任何 PDS 实例获得授权。本指南不推荐用于“无头”客户端，如命令行工具或机器人。（摘要基于 57% 的故事文本。）]]></description>
-      <guid>https://t.me/hn_summary/116994</guid>
-      <pubDate>Sun, 17 Nov 2024 23:16:50 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，我探讨了定义除以零的有争议的概念，具体来说 [...]</title>
+      <link>https://t.me/hn_summary/117008</link>
+      <description><![CDATA[/ 0 = 0
+在这篇文章中，我探讨了定义除以零的有争议的概念，特别是 1/0 = 0 的说法，以及为什么它在数学上是一致的。争议源于传统观点，即除以零是未定义的，但一些数学框架允许对其进行定义而不会产生矛盾。我解释了域的属性以及除法的典型定义，并指出零没有乘法逆元，这使除以零变得复杂。通过重新定义除法以将零作为特殊情况处理，我们可以保持一致性而不违反数学原理。批评者经常误解这种方法，认为它意味着零的逆元的存在，但事实并非如此。这种探索挑战了传统观念，并强调了数学定义的灵活性。 （根据 65% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/117008</guid>
+      <pubDate>Mon, 18 Nov 2024 02:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Linus Torvalds 刚刚发布了 Linux 6.12 的稳定版本，预计 [...]</title>
-      <link>https://t.me/hn_summary/116993</link>
-      <description><![CDATA[Linux 6.12 发布，具有实时功能、Sched_Ext、AMD RDNA4 等
-Linus Torvalds 刚刚发布了 Linux 6.12 的稳定版本，预计将成为今年的长期支持 (LTS) 内核。此版本包含许多新功能，尤其是期待已久的实时“PREEMPTRT”支持，以及包含利用 eBPF 的 schedext 可扩展调度程序代码。此外，还增强了对 AMD RDNA4 的支持，为即将推出的 Radeon 显卡铺平了道路，并为 Intel Lunar Lake 和 Battlemage 提供了稳定的 Xe2 显卡。最近的错误修复包括对 Bcachefs 文件系统的改进以及解决 AMD Ryzen 7000/8000 系列在虚拟化期间随机重启的问题。Linus Torvalds 在 LKML 上分享了他的 v6.12 发布评论。Linux 6.13 合并窗口承诺提供更多新功能。]]></description>
-      <guid>https://t.me/hn_summary/116993</guid>
-      <pubDate>Sun, 17 Nov 2024 23:04:39 GMT</pubDate>
+      <title>[媒体] Chrome 是新的 IE 吗？</title>
+      <link>https://t.me/hn_summary/117007</link>
+      <description><![CDATA[Chrome 是新的 IE 吗？
+Magic Lasso 的文章探讨了谷歌的 Chrome 是否会成为新的 Internet Explorer (IE)，因为它占据了 65% 的市场份额，而且受到的批评与 IE 曾经面临的批评类似。Chrome 的主导地位导致网络开发人员优先考虑它而不是开放的网络标准，这与 IE 的过去如出一辙。批评者认为，Chrome 已经成为资源消耗大户，而且在采用隐私计划方面进展缓慢，引发了人们对自满情绪的担忧。尽管存在这些问题，但 Firefox、Safari 和 Microsoft Edge 等可行的替代方案仍在努力打破 Chrome 的主导地位。这篇文章表明，支持开放标准的多样化浏览器生态系统可能是网络的更健康解决方案。争议在于 Chrome 的数据收集实践及其对网络标准的影响，而巧妙的洞察是集体浏览器生态系统有可能挑战 Chrome 的主导地位。]]></description>
+      <guid>https://t.me/hn_summary/117007</guid>
+      <pubDate>Mon, 18 Nov 2024 02:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 时间网络是一个有趣的平台，用户可以在其中探索联系[...]</title>
-      <link>https://t.me/hn_summary/116992</link>
-      <description><![CDATA[时间网络：选择任意两个人，看看他们如何通过时间联系起来
-时间网络是一个有趣的平台，允许用户探索不同时代的任意两个人之间的联系。通过从亚伯拉罕·林肯等历史人物到阿黛尔等当代名人等众多人物中进行选择，用户可以发现时间中令人惊讶的联系和互动。这个独特的概念提供了一种令人着迷的方式来理解人类历史和文化的相互联系。虽然这个想法本身很吸引人，但它可能会引发关于所呈现联系的准确性和相关性的争议，以及过度简化复杂历史关系的可能性。（基于 1% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/116992</guid>
-      <pubDate>Sun, 17 Nov 2024 22:41:24 GMT</pubDate>
+      <title>[媒体] Terminal3d (t3d) 是一个基于 Rust 的工具，旨在直接在 t 中查看 3D .obj 文件 [...]</title>
+      <link>https://t.me/hn_summary/117006</link>
+      <description><![CDATA[显示 HN：Terminal3d – 使用 Rust 构建的终端中查看 3D 模型
+Terminal3d (t3d) 是一款基于 Rust 的工具，旨在直接在终端中查看 3D .obj 文件。它满足了对轻量级、基于终端的 3D 模型查看器的需求，提供使用盲文和块字符渲染以及线框和顶点可视化模式等功能。用户可以使用鼠标控件与模型交互，类似于传统的 3D 软件。Terminal3d 可以通过 Homebrew、crates.io 或直接从源代码安装。它的独特之处在于它在基于文本的环境中渲染 3D 模型的独特能力，使其成为喜欢或需要基于终端的工具的开发人员和工程师的新颖解决方案。]]></description>
+      <guid>https://t.me/hn_summary/117006</guid>
+      <pubDate>Mon, 18 Nov 2024 01:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 美国环保署监察长办公室 (OIG) 发现了严重的网络安全漏洞 [...]</title>
-      <link>https://t.me/hn_summary/116991</link>
-      <description><![CDATA[2600 万美国人的饮用水系统面临高网络安全风险
-美国环保署监察长办公室 (OIG) 发现 97 个饮用水系统存在严重的网络安全漏洞，影响了 2660 万美国人。该报告强调，美国环保署缺乏事件报告系统，目前依靠国土安全部的 CISA 提供此类信息。与 CISA 和其他当局缺乏协调和记录程序构成了重大风险。OIG 的评估涵盖了 1,062 个系统，发现另外 211 个系统存在中等或低严重程度的漏洞。Morgan Wright 和 Ken Dunham 等专家强调解决这些问题的紧迫性，并警告由于水系统治理分散，可能会发生灾难性事件。 Dale Fairbrother 指出，OT 安全预算不足，导致关键基础设施面临风险。争议在于 EPA 缺乏准备和协调，而令人惊讶的是，如果漏洞被利用，可能会造成大规模破坏和疾病。]]></description>
-      <guid>https://t.me/hn_summary/116991</guid>
-      <pubDate>Sun, 17 Nov 2024 22:36:12 GMT</pubDate>
+      <title>[媒体] The New Stack 的文章认为，在软件中使用大型语言模型 (LLM) [...]</title>
+      <link>https://t.me/hn_summary/117005</link>
+      <description><![CDATA[为什么 LLM 在软件开发中可能是一个死胡同
+The New Stack 的文章认为，在软件开发中使用大型语言模型 (LLM) 可能是一个死胡同，因为它们缺乏可分解性和可解释性。与传统软件组件不同，LLM 不能分解成更小的可测试单元，因此很难将其集成到软件开发生命周期中。这与计算的基本原理形成鲜明对比，计算的基本原理是任务是模块化和可测试的。文章强调了对安全性、隐私和合法所有权的担忧，因为 LLM 与其训练数据密不可分，这引发了潜在的知识产权盗窃问题。此外，LLM 的高计算需求与减少碳足迹的努力相冲突。作者建议 LLM 应该是产品本身，而不是产品内的服务，并警告不要将创新外包给 LLM 供应商。文章提倡转向具有可测试组件的可解释人工智能，强调人工智能开发中透明度和问责制的必要性。有争议的方面是对法学硕士目前在软件开发中的作用的批评，挑战了当前的行业趋势。]]></description>
+      <guid>https://t.me/hn_summary/117005</guid>
+      <pubDate>Mon, 18 Nov 2024 01:05:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Nature.com 上发表的一项研究中，研究人员探讨了参与者的能力 [...]</title>
-      <link>https://t.me/hn_summary/116990</link>
-      <description><![CDATA[AI 生成的诗歌与人类创作的诗歌难以区分，且更受欢迎
-在 Nature.com 上发表的一项研究中，研究人员探索了参与者区分 AI 生成的诗歌和人类创作的诗歌的能力。令人惊讶的是，参与者更有可能将 AI 生成的诗歌误认为是人类创作的，准确率略低于 46.6% 的概率。这表明 AI 诗歌可以令人信服地模仿人类的创造力。有趣的是，被评为最像人类的诗歌通常是 AI 生成的，而被评为最不像人类的诗歌实际上是人类创作的。研究还发现，参与者的诗歌创作经验并没有显著提高他们辨别作者的能力。在第二项研究中，尽管参与者在得知作者身份后对人工智能产生了偏见，但人工智能创作的诗歌的质量评分高于人类创作的诗歌。这凸显了一个独特的悖论：当人工智能诗歌的来源不明时，人们会认为它更优秀，这挑战了人们对创造力和作者身份的传统看法。（基于 56% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/116990</guid>
-      <pubDate>Sun, 17 Nov 2024 21:56:55 GMT</pubDate>
+      <title>[媒体] Urban Machine 正在通过使用机器人和人工智能来回收木材，从而彻底改变木材行业[...]</title>
+      <link>https://t.me/hn_summary/117004</link>
+      <description><![CDATA[Urban Machine：利用机器人和人工智能回收木材以供再利用
+Urban Machine 正在彻底改变木材行业，利用机器人和人工智能回收和再利用建筑物中的优质木材，为原木提供可持续且经济可行的替代品。这种创新方法大大降低了成本，使再生木材的价格与新木材具有竞争力。通过促进循环利用，Urban Machine 最大限度地减少了垃圾填埋场废物、运输需求和碳排放，同时提供优质的本地采购材料。该工艺保持了木纤维的完整性，确保回收的木材保持其优越的硬度、直度和紧密的纹理。这种方法不仅支持环境可持续性，而且还提高了可用于建筑的材料质量。]]></description>
+      <guid>https://t.me/hn_summary/117004</guid>
+      <pubDate>Mon, 18 Nov 2024 00:50:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，我们探讨了 RevEng.AI 为装饰开发的创新 AI 模型 [...]</title>
-      <link>https://t.me/hn_summary/116989</link>
-      <description><![CDATA[用于反编译汇编代码的 AI 模型
-在这篇博文中，我们探讨了由 RevEng.AI 开发的创新 AI 模型，用于将汇编代码反编译为人类可读的源代码，这是逆向工程中的一项关键任务。像 Ghidra 这样的传统反编译器依赖于预定义的规则，通常会导致复杂的输出。相比之下，AI 模型从大型数据集中学习，生成的代码与人类编写的源代码非常相似。这种方法表现出令人惊讶的准确性，在 HumanEval 等基准测试中的表现优于现有工具。一个值得注意的讨论点是使用中间表示（例如 Ghidra 的输出）是否可以进一步提高性能。 AI 反编译器的成功凸显了其彻底改变逆向工程和软件安全分析的潜力。（基于 91% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/116989</guid>
-      <pubDate>Sun, 17 Nov 2024 21:54:50 GMT</pubDate>
+      <title>[媒体] 该应用程序由 ANTHROPOMETRIC LTD 开发，旨在帮助用户管理糖尿病 [...]</title>
+      <link>https://t.me/hn_summary/117003</link>
+      <description><![CDATA[显示 HN：我开发的应用程序，由 GPT-4o-Mini 提供支持，可帮助管理我的糖尿病
+
+该应用程序由 ANTHROPOMETRIC LTD 开发，旨在利用 GPT-4o-Mini 的功能帮助用户管理糖尿病。该应用程序的一个突出特点是它对隐私的承诺，因为它不收集任何用户数据。在数据隐私成为许多用户关注的重要问题的时代，这种方法尤其值得注意。但是，该应用程序的隐私实践可能会因所使用的功能或用户的年龄而有所不同，这表明其实施存在一些差异。有关更多详细信息，建议用户查看开发人员的隐私政策。]]></description>
+      <guid>https://t.me/hn_summary/117003</guid>
+      <pubDate>Mon, 18 Nov 2024 00:46:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
