@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 18 Nov 2024 06:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:01:40 GMT</lastBuildDate>
+    <item>
+      <title>最好的人工智能治疗师？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu01vj/best_ai_therapist/</link>
+      <description><![CDATA[我知道许多人使用 Character AI 中的“治疗师”或“心理学家”角色。然而，这些角色的能力似乎有限，我正在寻找一种最值得信赖的专门定制 AI 模型，可以充当 AI 治疗师。 请不要告诉我为什么我不应该使用 AI 治疗师，而应该去看真正的人类专业人士。我非常清楚，AI 不能完全取代人类治疗。但它可以是一种始终可用且成本低廉的有用工具，因此如果您有良好的体验或对 AI 治疗聊天机器人的建议，请告诉我。谢谢。    提交人    /u/Jake-NL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu01vj/best_ai_therapist/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:13:46 GMT</pubDate>
+    </item>
     <item>
       <title>为什么现在的人工智能没有被编程为将人类生命视为至高无上的？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gty4g0/why_are_the_current_ais_not_programmed_to_view/</link>
@@ -76,13 +83,6 @@
       <pubDate>Sun, 17 Nov 2024 19:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>您认为人们撤出网络空间以抗议抓取人工智能模型的数据会产生什么影响？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtl5c0/what_do_you_think_will_be_the_impact_of_people/</link>
-      <description><![CDATA[作为一个知识有限的人，我对此很感兴趣。 一方面，我可以理解（并就我的理解范围分享）许多人对人工智能发展的保留意见，尤其是艺术家和从事创意职业的人。另一方面，作为一名外行，我想知道这些模型是否容易因这种抗议而失败，或者我们是否冒着这样的风险：如果所有相关人员都退出，亿万富翁支持的模型将只是在代表性较低的样本上进行训练？我相信在维基百科等互联网的大部分领域中，女性代表性不足的问题已经存在。 考虑到这一点，普通互联网用户管理其在线状态的最佳方式是什么？ 对着机器人大喊大叫，希望得到人类的回应。    提交人    /u/saddest-song   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtl5c0/what_do_you_think_will_be_the_impact_of_people/</guid>
-      <pubDate>Sun, 17 Nov 2024 19:14:56 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能聊天机器人在疾病诊断方面击败了医生</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtkjhy/ai_chatbots_defeated_doctors_at_diagnosing_illness/</link>
       <description><![CDATA[&quot;OpenAI 公司的聊天机器人在根据病例报告诊断医疗状况并解释其原因时平均得分为 90%。随机分配使用聊天机器人的医生平均得分为 76%。那些随机分配不使用聊天机器人的医生平均得分为 74%。&quot; https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html 这既令人惊讶又不足为奇。我不知道 ChatGBT4 这么好。另一方面，当使用它来协助 SQL 查询时，它会立即了解您正在处理的数据类型，比人类程序员通常了解的要多得多，因为它可以访问百科全书知识。 我可以想象 ChatGPT 可以掌握所有医学知识，而医生在不同领域可能会更弱或更强。    提交人    /u/happyasanicywind   [link] [评论]]]></description>
@@ -97,11 +97,11 @@
       <pubDate>Sun, 17 Nov 2024 18:27:29 GMT</pubDate>
     </item>
     <item>
-      <title>是否存在真正的字幕删除工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtk1mc/do_any_real_subtitle_remover_tools_exist/</link>
-      <description><![CDATA[我想看一些老动画，即使是在官方家庭版本中也只有硬字幕。 我试过 AniEraser，但它实际上所做的只是在整个视频文件的持续时间内对应该出现字幕的区域应用广泛的模糊障碍，而不考虑单个字幕的时间戳。 我意识到要求 AI 工具不仅干净地删除字幕，而且还重建硬字幕最初占据的艺术是一项艰巨的任务。但是，我仍然可以手动在视频编辑器上完成完全相同的事情。见鬼，我很确定有些人多年来一直以这种方式做，以防他们想看没有字幕的硬字幕动画。     由    /u/ignoremesenpie 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtk1mc/do_any_real_subtitle_remover_tools_exist/</guid>
-      <pubDate>Sun, 17 Nov 2024 18:26:49 GMT</pubDate>
+      <title>人工智能语音创作者（免费）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gti3fl/ai_voice_creators_free/</link>
+      <description><![CDATA[有没有免费的网站或软件可以让我根据其他人的剪辑创建语音模型？我需要它来制作人工智能歌曲封面和其他东西谢谢     提交人    /u/B00mShoom   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gti3fl/ai_voice_creators_free/</guid>
+      <pubDate>Sun, 17 Nov 2024 17:02:47 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能与通用人工智能之间的区别</title>

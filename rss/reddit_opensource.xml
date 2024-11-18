@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 18 Nov 2024 06:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:02:12 GMT</lastBuildDate>
+    <item>
+      <title>使用 Fraction.js 在 JavaScript 中实现精确十进制数学运算</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gu01uf/precise_decimal_math_in_javascript_with_fractionjs/</link>
+      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gu01uf/precise_decimal_math_in_javascript_with_fractionjs/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能是开源软件、开放数据、开放知识和开放科学以新方式融合的地方。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gtzvrj/ai_is_where_open_source_software_open_data_open/</link>
+      <description><![CDATA[        由    /u/opensourceinitiative 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gtzvrj/ai_is_where_open_source_software_open_data_open/</guid>
+      <pubDate>Mon, 18 Nov 2024 08:01:02 GMT</pubDate>
+    </item>
     <item>
       <title>歌曲托管电子邮件通知</title>
       <link>https://www.reddit.com/r/opensource/comments/1gtplgi/song_hosting_email_notifications/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://github.com/nevalang/neva/releases/tag/v0.26.0 自上次发布以来已经过去了 4 个月，我们很高兴地宣布该语言的各个部分（从语法到运行时实现）都发生了重大变化。以下是简要概述： 现有功能的变化：  def 关键字：用于定义组件。 延迟连接：新语法 {} 替换 ()。 结构选择器：新语法替换旧语法  新语言功能：  二元运算符：编写类似 (1 + 2) -&gt; println 的表达式。 三元运算符：使用 ? : 用于条件表达式。 Switch 语句：简化分支逻辑。 范围表达式：示例：1..99 -&gt; println  新的运行时设计：采用无连接设计，无竞争、更简单、更快。 删除解释器：Nevalang 现在始终编译为 Go 进行执行。 文档：现在位于主存储库的 docs 文件夹中。 编译器改进：更好的错误处理和更干净的代码。 查看完整的更新日志以了解更多详细信息：完整更新日志    提交人    /u/urlaklbek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gsqlnj/nevalang_v026_dataflow_programming_language_with/</guid>
       <pubDate>Sat, 16 Nov 2024 16:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于完成了：周末完成的个人项目 - Netflix 字幕翻译</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gsm7n8/finally_completed_a_personal_project_built_over/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gsm7n8/finally_completed_a_personal_project_built_over/</guid>
-      <pubDate>Sat, 16 Nov 2024 12:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codai：终端人工智能代码助手，了解整个项目背景</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gskc0v/codai_ai_code_assistant_in_terminal_with/</link>
-      <description><![CDATA[Codai 是一款 AI 代码助手，旨在通过 基于会话的 CLI 帮助开发人员高效管理日常任务，例如 添加新功能、重构和执行详细的代码审查。codai 的突出之处在于 它深入了解您项目的整个背景，使其能够分析您的代码库并根据您的背景提出改进或新代码建议。这个由 AI 驱动的工具支持多种 LLM 模型，包括 GPT-4o、GPT-4、Ollama 等。 此外，我正在致力于添加 Vscode 和 JetBrains 插件，以便与 UI 中的其他 IDE 集成。 https://github.com/meysamhadeli/codai    提交人    /u/Spare-Spray6508   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gskc0v/codai_ai_code_assistant_in_terminal_with/</guid>
-      <pubDate>Sat, 16 Nov 2024 10:11:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
