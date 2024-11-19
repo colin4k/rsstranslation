@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 19 Nov 2024 18:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:01:55 GMT</lastBuildDate>
+    <item>
+      <title>一名年仅 28 岁的谷歌工程师是如何成为员工的</title>
+      <link>https://www.reddit.com/r/programming/comments/1gv7fuc/how_a_google_engineer_became_staff_at_the_age_of/</link>
+      <description><![CDATA[  由    /u/btccit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gv7fuc/how_a_google_engineer_became_staff_at_the_age_of/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 1Password 管理多个 GitHub 帐户（包括 WSL）的 SSH 密钥</title>
+      <link>https://www.reddit.com/r/programming/comments/1gv5vce/how_i_use_1password_to_manage_ssh_keys_for/</link>
+      <description><![CDATA[  由    /u/ejmck55  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gv5vce/how_i_use_1password_to_manage_ssh_keys_for/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 GCP 上设计 URL 缩短系统我刚刚发表了一篇文章，对新成绩很有用</title>
+      <link>https://www.reddit.com/r/programming/comments/1gv5j9v/how_to_design_a_url_shortener_system_on_gcp_i/</link>
+      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gv5j9v/how_to_design_a_url_shortener_system_on_gcp_i/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>逆向工程 iOS 18 不活动重启 - “iOS 18 引入了一项新的不活动重启安全功能。它可以保护什么？它是如何工作的？这篇博文涵盖了内核扩展和安全区域处理器的所有细节。”</title>
+      <link>https://www.reddit.com/r/programming/comments/1gv50e9/reverse_engineering_ios_18_inactivity_reboot_ios/</link>
+      <description><![CDATA[  由   提交  /u/throwaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gv50e9/reverse_engineering_ios_18_inactivity_reboot_ios/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>yaht——又一个超参数调节器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gv49ge/yaht_yet_another_hyperparameter_tuner/</link>
+      <description><![CDATA[  由    /u/Moist_Soup_231  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gv49ge/yaht_yet_another_hyperparameter_tuner/</guid>
+      <pubDate>Tue, 19 Nov 2024 18:32:12 GMT</pubDate>
+    </item>
     <item>
       <title>创建自己的编程语言</title>
       <link>https://www.reddit.com/r/programming/comments/1gv2n9p/creating_your_own_programing_language/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gurvq2/ionq_to_advance_hybrid_quantum_computing_with_new/</guid>
       <pubDate>Tue, 19 Nov 2024 07:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA C++ 静态分析器开源</title>
-      <link>https://www.reddit.com/r/programming/comments/1guqlxz/nasa_c_static_analyzer_open_source/</link>
-      <description><![CDATA[  由    /u/morglod  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guqlxz/nasa_c_static_analyzer_open_source/</guid>
-      <pubDate>Tue, 19 Nov 2024 06:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 Ponylang 进行快速排序</title>
-      <link>https://www.reddit.com/r/programming/comments/1gupsmm/quicksort_en_ponylang/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gupsmm/quicksort_en_ponylang/</guid>
-      <pubDate>Tue, 19 Nov 2024 05:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时视频处理 - iPhone 连续互通摄像头 - Active Graph Networks</title>
-      <link>https://www.reddit.com/r/programming/comments/1guohc7/realtime_video_processing_iphone_continuity/</link>
-      <description><![CDATA[嗨，r/Programming， 我一直在研究一个实时处理原始 iPhone 相机数据的项目，应用动态增强功能，如稳定、紫外线过滤，甚至模拟 AC130 式热效应。所有这些都通过一个紧凑的定制管道运行，使用关系神经网络和我一直在试验的 4D 编程框架。 该框架模拟视频数据随时间的状态变化，将其映射到包括空间、时间和属性维度的“4D”结构中。这允许实时效果随着相机移动或条件变化而动态调整。 很酷的部分？它运行在消费级硬件上 - MacBook 与使用 Continuity Camera 作为供稿的 iPhone 配对。该框架的重点是轻量级、高效的处理，可以适用于移动设备或边缘计算。 我不完全确定这与相机或计算机的传统工作方式相比如何，但我认为这里有一些新颖的东西。 很高兴被告知我错了——或者这只是重新发明了其他地方做得更好的东西！无论哪种方式，我都希望得到反馈，或者听听这是否会激发我可能没有考虑过的应用程序的想法。    提交人    /u/Internal_Vibe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guohc7/realtime_video_processing_iphone_continuity/</guid>
-      <pubDate>Tue, 19 Nov 2024 04:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elixir：并发变得简单</title>
-      <link>https://www.reddit.com/r/programming/comments/1gunfl7/elixir_concurrencia_hecha_sencilla/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gunfl7/elixir_concurrencia_hecha_sencilla/</guid>
-      <pubDate>Tue, 19 Nov 2024 03:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国命名惯例</title>
-      <link>https://www.reddit.com/r/programming/comments/1gulac0/german_naming_convention/</link>
-      <description><![CDATA[  由    /u/Harzer-Zwerg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gulac0/german_naming_convention/</guid>
-      <pubDate>Tue, 19 Nov 2024 01:17:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

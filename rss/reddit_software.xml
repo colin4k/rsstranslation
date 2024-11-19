@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 18:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:01:45 GMT</lastBuildDate>
+    <item>
+      <title>您会使用像这样的人工智能文件管理器应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</link>
+      <description><![CDATA[大家好， 我一直在考虑为 macOS 创建一个文件管理应用，该应用使用 AI 以最简单、最智能的方式处理文件组织。这个想法是让用户给出简单的自然语言指令来组织、清理和管理他们的文件，而无需创建复杂的规则。我的意思是： 您只需输入一个提示，例如：  “将每个带有单词经济的文档标记为 #finance，然后将其移动到 Finance 文件夹。”  从那里，该应用处理所有事情 - 建议组织，帮助您删除旧文件或重复文件，甚至直接重新格式化或编辑文件（例如，将 PDF 转换为文本或调整图像大小）。所有操作在提交之前都可以预览，如果您改变主意，可以使用撤消功能。  它还可以处理计划的清理（例如在 X 天后自动删除临时文件夹），让您搜索文件中的内容，甚至可以与 Google Drive、Dropbox 或 OneDrive 等工具同步。您可以为快速任务制定一次性规则或设置临时工作流程，例如对过去 2 小时内处理过的文件进行分组。  目标：无需复杂的设置，只需告诉应用程序您想要什么，它就会在后端计算出来。  我考虑将这些功能定价为每月 8.99 美元。 您觉得怎么样？ 1. 您会使用这样的东西吗？ 2. 你会为此付费吗？如果不，什么让它值得？ 3. 您想要其他什么功能？  请随意发表评论，或者如果您愿意，可以给我发消息，安排一次关于您的需求或建议的快速聊天——我真的在尝试构建一些解决实际痛点的东西。  谢谢！     提交人    /u/Mattparr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>第二屏软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</link>
+      <description><![CDATA[大家好，我正在寻找一种可以在第一个屏幕上播放我的第二个屏幕的软件。 我的第二个屏幕在另一个房间，运行时，我需要从我的第一个屏幕（比如在一个小窗口中）观看它。 有人能帮帮我吗？谢谢    提交人    /u/Stock_Pitch_2966   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:22:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 增加了秘密智能安全功能，可在三天后重启 iThings——“安全研究人员的逆向工程工作揭示了未记录的重启计时器，这将使攻击者的生活更加困难”</title>
+      <link>https://www.reddit.com/r/software/comments/1gv4v2l/ios_18_added_secret_and_smart_security_feature/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv4v2l/ios_18_added_secret_and_smart_security_feature/</guid>
+      <pubDate>Tue, 19 Nov 2024 18:56:30 GMT</pubDate>
+    </item>
     <item>
       <title>多格式图书阅读器</title>
       <link>https://www.reddit.com/r/software/comments/1gv1py7/multiformat_book_reader/</link>
@@ -83,13 +104,6 @@
       <pubDate>Mon, 18 Nov 2024 21:33:03 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 PotPlayer 的图像与 Windows Media Player 相比看起来如此褪色？我没有应用任何设置。</title>
-      <link>https://www.reddit.com/r/software/comments/1guf7fz/why_does_potplayer_image_looks_so_washed_out/</link>
-      <description><![CDATA[  由    /u/Bell_Jolly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1guf7fz/why_does_potplayer_image_looks_so_washed_out/</guid>
-      <pubDate>Mon, 18 Nov 2024 20:51:57 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找一款可以大声朗读 PDF 的程序，而不是 Edge</title>
       <link>https://www.reddit.com/r/software/comments/1gu7kaz/looking_for_something_that_reads_pdfs_aloud_that/</link>
       <description><![CDATA[这个出乎意料地难找。而且我也不喜欢 Acrobar Reader。    提交者    /u/letsgobombtelaviv_   [link] [comments]]]></description>
@@ -106,7 +120,7 @@
     <item>
       <title>哪一个更好？ Hancom Office 2024 还是 O365？我应该选择 Hancom 还是 Microsoft？</title>
       <link>https://www.reddit.com/r/software/comments/1gu4du5/which_one_is_better_hancom_office_2024_or_o365/</link>
-      <description><![CDATA[嗨，我之前用过 Polaris Office，现在想换个 Office 程序，因为不知道什么原因，Polaris 无法在我的 Windows 11 桌面上运行，我正在考虑使用付费的 Office 程序，下面是我正在考虑的两个选项，Hancom Inc. 生产的 Hancom Office 2024（如果我们简单地说，它是微软的韩国版），以及微软的 O365。但是，我不知道该选哪一个。你们能推荐我哪一个更好吗？    提交者    /u/Ha_1133   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我之前用过 Polaris Office，现在想换个 Office 程序，因为出于某种原因，Polaris 无法在我的 Windows 11 桌面上运行，我正在考虑使用付费的办公程序，这里有两个我正在考虑的选项，Hancom Inc. 生产的 Hancom Office 2024（如果我们简单地说，它是微软的韩国版），以及微软的 O365。但是，我不知道该选哪一个。你们能推荐我哪一个更好吗？    提交者    /u/Ha_1133   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gu4du5/which_one_is_better_hancom_office_2024_or_o365/</guid>
       <pubDate>Mon, 18 Nov 2024 13:12:44 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我尝试过 bluestacks，它无法正常运行游戏，但可以很好地运行其他应用程序，而 mumu player 可以流畅运行游戏，但无法很好地运行其他应用程序，请给我推荐一个好的模拟器    提交人    /u/Some_Extent_6184   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gtygng/looking_for_an_good_emulator/</guid>
       <pubDate>Mon, 18 Nov 2024 06:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找快速文件传输软件（Windows 7）</title>
-      <link>https://www.reddit.com/r/software/comments/1gttjib/looking_for_speedy_file_transfer_software_windows/</link>
-      <description><![CDATA[最近刚修好我的旧 Windows 7 N7020 笔记本电脑，充电端口脱落了。我上面有大约 100GB 的旧游戏编辑文件，我想将它们传输到我今天购买的新 USB 上，封面上说它能够传输 200MB/1s。具有讽刺意味的是，100GB 根本不需要很长时间。但是，现在的答案速度只有每秒 4MB。我想尽快把这些东西传输出去，因为这是一个超级有趣的爱好，但如果可能的话，我不想整晚都开着笔记本电脑。有没有一些软件可以在下载时以更快的速度完成？任何方法都可以。 我知道这台电脑非常旧，我知道这就是它这么慢的原因。我并不是在责怪它，但如果你们知道一些可靠的软件，不会在我的系统中寻找信息，我确实希望尽快完成我的事情，哈哈。    提交人    /u/DevThaGodfatha   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gttjib/looking_for_speedy_file_transfer_software_windows/</guid>
-      <pubDate>Mon, 18 Nov 2024 01:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>冰淇淋幻灯片</title>
-      <link>https://www.reddit.com/r/software/comments/1gtlpvh/icecream_slide_show/</link>
-      <description><![CDATA[想要将其移动到另一台电脑，但 Icecream Software 说必须“手动”完成。技术服务一周后没有响应。只想在一台电脑（台式机）上运行它 - Win 11 环境     提交人    /u/MidwestDuckGuy70   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gtlpvh/icecream_slide_show/</guid>
-      <pubDate>Sun, 17 Nov 2024 19:40:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
