@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 19 Nov 2024 03:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 09:02:01 GMT</lastBuildDate>
+    <item>
+      <title>IonQ 利用新化学应用和 NVIDIA CUDA-Q 推进混合量子计算</title>
+      <link>https://www.reddit.com/r/programming/comments/1gurvq2/ionq_to_advance_hybrid_quantum_computing_with_new/</link>
+      <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gurvq2/ionq_to_advance_hybrid_quantum_computing_with_new/</guid>
+      <pubDate>Tue, 19 Nov 2024 07:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>NASA C++ 静态分析器开源</title>
+      <link>https://www.reddit.com/r/programming/comments/1guqlxz/nasa_c_static_analyzer_open_source/</link>
+      <description><![CDATA[  由    /u/morglod  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guqlxz/nasa_c_static_analyzer_open_source/</guid>
+      <pubDate>Tue, 19 Nov 2024 06:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Ponylang 进行快速排序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gupsmm/quicksort_en_ponylang/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gupsmm/quicksort_en_ponylang/</guid>
+      <pubDate>Tue, 19 Nov 2024 05:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时视频处理 - iPhone 连续互通摄像头 - Active Graph Networks</title>
+      <link>https://www.reddit.com/r/programming/comments/1guohc7/realtime_video_processing_iphone_continuity/</link>
+      <description><![CDATA[嗨，r/Programming， 我一直在研究一个实时处理原始 iPhone 相机数据的项目，应用动态增强功能，如稳定、紫外线过滤，甚至模拟 AC130 式热效应。所有这些都通过一个紧凑的定制管道运行，使用关系神经网络和我一直在试验的 4D 编程框架。 该框架模拟视频数据随时间的状态变化，将其映射到包括空间、时间和属性维度的“4D”结构中。这允许实时效果随着相机移动或条件变化而动态调整。 很酷的部分？它运行在消费级硬件上 - MacBook 与使用 Continuity Camera 作为供稿的 iPhone 配对。该框架的重点是轻量级、高效的处理，可以适用于移动设备或边缘计算。 我不完全确定这与相机或计算机的传统工作方式相比如何，但我认为这里有一些新颖的东西。 很高兴被告知我错了——或者这只是重新发明了其他地方做得更好的东西！无论哪种方式，我都希望得到反馈，或者听听这是否会激发我可能没有考虑过的应用程序的想法。    提交人    /u/Internal_Vibe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guohc7/realtime_video_processing_iphone_continuity/</guid>
+      <pubDate>Tue, 19 Nov 2024 04:02:21 GMT</pubDate>
+    </item>
     <item>
       <title>Elixir：并发变得简单</title>
       <link>https://www.reddit.com/r/programming/comments/1gunfl7/elixir_concurrencia_hecha_sencilla/</link>
@@ -20,7 +48,7 @@
       <pubDate>Tue, 19 Nov 2024 01:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>有没有想过 40 年前游戏的源代码是什么样的？我们恢复并开源了 ChipWits，这是一款经典的 Mac 和 Commodore 64 游戏，游戏内容是编程机器人，用 FORTH 编写！</title>
+      <title>有没有想过 40 年前的游戏源代码是什么样的？我们恢复并开源了 ChipWits，这是一款经典的 Mac 和 Commodore 64 游戏，游戏内容是编程机器人，用 FORTH 编写！</title>
       <link>https://www.reddit.com/r/programming/comments/1guke97/ever_curious_what_the_source_code_to_a_40year_old/</link>
       <description><![CDATA[  由    /u/markroth8  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1guke97/ever_curious_what_the_source_code_to_a_40year_old/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gu9eze/llql_020_has_matcher_functions_for_instruction/</guid>
       <pubDate>Mon, 18 Nov 2024 16:56:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码 + 数学 = 艺术 - 平衡离心机挑战之美与神奇的一句话！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gu8y77/coding_maths_art_the_beauty_of_the_balanced/</link>
-      <description><![CDATA[  由    /u/The_Random_Coder  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gu8y77/coding_maths_art_the_beauty_of_the_balanced/</guid>
-      <pubDate>Mon, 18 Nov 2024 16:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GitHub Copilot 之前先学习这些简单技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1gu8cs6/learn_these_simple_tricks_before_using_github/</link>
-      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gu8cs6/learn_these_simple_tricks_before_using_github/</guid>
-      <pubDate>Mon, 18 Nov 2024 16:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>独自前行很危险：按照我们的指南使用“理想” HTTP 客户端！（Ruby 中的示例）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gu6c2b/its_dangerous_to_go_alone_take_our_guide_to_the/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gu6c2b/its_dangerous_to_go_alone_take_our_guide_to_the/</guid>
-      <pubDate>Mon, 18 Nov 2024 14:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候打击 Bash 语言了</title>
-      <link>https://www.reddit.com/r/programming/comments/1gu69nz/time_to_bash_the_bash_language/</link>
-      <description><![CDATA[  由    /u/Due_Block_3054  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gu69nz/time_to_bash_the_bash_language/</guid>
-      <pubDate>Mon, 18 Nov 2024 14:42:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
