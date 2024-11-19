@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 19 Nov 2024 12:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:01:49 GMT</lastBuildDate>
+    <item>
+      <title>LlamaPReview – 2000 个代码库信赖的 AI 代码审查器，效率超过 40%</title>
+      <link>https://www.reddit.com/r/programming/comments/1guz22o/llamapreview_ai_code_reviewer_trusted_by_2000/</link>
+      <description><![CDATA[  由    /u/Jet_Xu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guz22o/llamapreview_ai_code_reviewer_trusted_by_2000/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>值班时间应为周二至周二</title>
+      <link>https://www.reddit.com/r/programming/comments/1guyp9c/oncall_should_be_tuesday_to_tuesday/</link>
+      <description><![CDATA[  由    /u/ForgotMyPassword17  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guyp9c/oncall_should_be_tuesday_to_tuesday/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:42:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bryan Cantrill：“数十年来的博客生涯”</title>
+      <link>https://www.reddit.com/r/programming/comments/1guyjk7/bryan_cantrill_blogging_through_the_decades/</link>
+      <description><![CDATA[  由    /u/swdevtest  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guyjk7/bryan_cantrill_blogging_through_the_decades/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:35:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cats-Actors 2.0.0：可用于生产的功能性 Actor 模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1guyhuc/catsactors_200_productionready_functional_actor/</link>
+      <description><![CDATA[  由    /u/kloudmark  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guyhuc/catsactors_200_productionready_functional_actor/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>微服务小组 • Ian Cooper、James Lewis 和 Kris Jenkins</title>
+      <link>https://www.reddit.com/r/programming/comments/1guxky7/microservices_panel_ian_cooper_james_lewis_kris/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guxky7/microservices_panel_ian_cooper_james_lewis_kris/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>收集和处理结果值</title>
+      <link>https://www.reddit.com/r/programming/comments/1guxkrk/collecting_and_handling_result_values/</link>
+      <description><![CDATA[  由    /u/cherry-pie123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guxkrk/collecting_and_handling_result_values/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>本科软件开发人员 vs 学士软件工程师</title>
+      <link>https://www.reddit.com/r/programming/comments/1guxhvb/undergraduate_software_developer_vs_bachelor/</link>
+      <description><![CDATA[  由    /u/Only_Morning_2256  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guxhvb/undergraduate_software_developer_vs_bachelor/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:46:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布 ESLint 插件 Perfectionist v4.0.0。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gux3zl/released_eslint_plugin_perfectionist_v400/</link>
+      <description><![CDATA[  由    /u/azat_io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gux3zl/released_eslint_plugin_perfectionist_v400/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 火焰图</title>
+      <link>https://www.reddit.com/r/programming/comments/1gux3lj/ai_flame_graphs/</link>
+      <description><![CDATA[  由    /u/finallyanonymous  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gux3lj/ai_flame_graphs/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI 构建欺诈检测应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gux20n/build_a_fraud_detection_app_with_ai/</link>
+      <description><![CDATA[  由    /u/RymMichaut  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gux20n/build_a_fraud_detection_app_with_ai/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 golang 制作了一个简单的间谍像素服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1guwj00/made_a_simple_spy_pixel_server_using_golang/</link>
+      <description><![CDATA[  由    /u/Serious_Worker_9871  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guwj00/made_a_simple_spy_pixel_server_using_golang/</guid>
+      <pubDate>Tue, 19 Nov 2024 12:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>矩阵乘法</title>
+      <link>https://www.reddit.com/r/programming/comments/1guw4xt/matrix_multiplication/</link>
+      <description><![CDATA[  由    /u/hmoein  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1guw4xt/matrix_multiplication/</guid>
+      <pubDate>Tue, 19 Nov 2024 12:37:19 GMT</pubDate>
+    </item>
     <item>
       <title>使用 ClickHouse 和 Grafana 构建基于 SQL 的可观察性</title>
       <link>https://www.reddit.com/r/programming/comments/1guugbd/building_sqlbased_observability_with_clickhouse/</link>
@@ -60,90 +144,6 @@
       <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gunfl7/elixir_concurrencia_hecha_sencilla/</guid>
       <pubDate>Tue, 19 Nov 2024 03:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国命名惯例</title>
-      <link>https://www.reddit.com/r/programming/comments/1gulac0/german_naming_convention/</link>
-      <description><![CDATA[  由    /u/Harzer-Zwerg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gulac0/german_naming_convention/</guid>
-      <pubDate>Tue, 19 Nov 2024 01:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有想过 40 年前的游戏源代码是什么样的？我们恢复并开源了 ChipWits，这是一款经典的 Mac 和 Commodore 64 游戏，游戏内容是编程机器人，用 FORTH 编写！</title>
-      <link>https://www.reddit.com/r/programming/comments/1guke97/ever_curious_what_the_source_code_to_a_40year_old/</link>
-      <description><![CDATA[  由    /u/markroth8  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guke97/ever_curious_what_the_source_code_to_a_40year_old/</guid>
-      <pubDate>Tue, 19 Nov 2024 00:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>会议对开发人员来说是浪费时间——苏格拉底式提问的例子</title>
-      <link>https://www.reddit.com/r/programming/comments/1gui809/meetings_are_a_waste_of_time_for_devs_case_for/</link>
-      <description><![CDATA[  由    /u/dmp0x7c5  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gui809/meetings_are_a_waste_of_time_for_devs_case_for/</guid>
-      <pubDate>Mon, 18 Nov 2024 22:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>POSIX 2024 中的新增功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1guhr89/whats_new_in_posix_2024/</link>
-      <description><![CDATA[  由    /u/cosmic-parsley  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guhr89/whats_new_in_posix_2024/</guid>
-      <pubDate>Mon, 18 Nov 2024 22:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome For Developers 播客：与 Dylibso 的 Steve Manuel 一起利用 Extism 开发 Squishy Wasm 应用</title>
-      <link>https://www.reddit.com/r/programming/comments/1guh0pp/chrome_for_developers_podcast_squishy_wasm_apps/</link>
-      <description><![CDATA[  由    /u/nilslice  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guh0pp/chrome_for_developers_podcast_squishy_wasm_apps/</guid>
-      <pubDate>Mon, 18 Nov 2024 22:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playground 智慧：线程胜过 Async/Await</title>
-      <link>https://www.reddit.com/r/programming/comments/1guft07/playground_wisdom_threads_beat_asyncawait/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guft07/playground_wisdom_threads_beat_asyncawait/</guid>
-      <pubDate>Mon, 18 Nov 2024 21:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了自己的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1gueqsj/i_made_my_own_programming_language/</link>
-      <description><![CDATA[  由    /u/BinaryBillyGoat  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gueqsj/i_made_my_own_programming_language/</guid>
-      <pubDate>Mon, 18 Nov 2024 20:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助您构建、设计和赢得黑客马拉松的工具和资源！🏆</title>
-      <link>https://www.reddit.com/r/programming/comments/1guej8l/tools_and_resources_to_help_you_build_design_and/</link>
-      <description><![CDATA[  由    /u/dogancanbakir  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guej8l/tools_and_resources_to_help_you_build_design_and/</guid>
-      <pubDate>Mon, 18 Nov 2024 20:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何仅使用 HTML 和 CSS 创建响应式元素周期表？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gubcti/how_to_create_a_responsive_periodic_table_of/</link>
-      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gubcti/how_to_create_a_responsive_periodic_table_of/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为你的微服务选择正确的通信模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1gub6nn/picking_the_right_communication_pattern_for_your/</link>
-      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gub6nn/picking_the_right_communication_pattern_for_your/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看 2024 年 Web AI 峰会视频</title>
-      <link>https://www.reddit.com/r/programming/comments/1guazsy/watch_the_web_ai_summit_2024_videos/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guazsy/watch_the_web_ai_summit_2024_videos/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Go 从头构建 SimpleDB 数据库 - 系列简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1guazsv/building_simpledb_database_from_scratch_in_go/</link>
-      <description><![CDATA[  由    /u/inelp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guazsv/building_simpledb_database_from_scratch_in_go/</guid>
-      <pubDate>Mon, 18 Nov 2024 18:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
