@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 00:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 03:10:43 GMT</lastBuildDate>
+    <item>
+      <title>意识场理论（CFT）的提案</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guln93/a_proposal_for_a_consciousness_field_theory_cft/</link>
+      <description><![CDATA[  由    /u/Neural-Systems  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guln93/a_proposal_for_a_consciousness_field_theory_cft/</guid>
+      <pubDate>Tue, 19 Nov 2024 01:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，我是新来的。有人能给我展示一下比聊天 gpt 更广泛主题的免费 AI 应用吗？只是一个列表，我不是在寻找说明。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gul90d/hello_new_guy_here_can_a_human_show_me_free_ai/</link>
+      <description><![CDATA[从本月开始，我一直在使用 Chat GPT 来帮助我完成论文，这是一个非常棒的搜索引擎，但我也会要求它提供其他内容，有时它不会超出某些限制，例如无限图像。由于我正在尝试，所以我不会寻找付费应用程序或网址。NSFW 也是我想探索的一个话题，不完全是色情，但嘿，我是一个好奇的人，想学点东西。如果这含糊不清，我很抱歉。请任何人回应    提交人    /u/RadioactiveOtter_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gul90d/hello_new_guy_here_can_a_human_show_me_free_ai/</guid>
+      <pubDate>Tue, 19 Nov 2024 01:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Memoripy：通过短期和长期存储为人工智能带来记忆</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gul5f0/memoripy_bringing_memory_to_ai_with_shortterm/</link>
+      <description><![CDATA[嘿 r/ArtificialInteligence！ 我一直在研究 Memoripy，这是一个为 AI 应用程序带来真实记忆功能的 Python 库。无论您是在构建对话式 AI、虚拟助手，还是需要一致、上下文感知响应的项目​​，Memoripy 都能提供结构化的短期和长期记忆存储，以使交互随着时间的推移保持意义。 Memoripy 将交互组织到短期和长期记忆中，优先考虑近期事件，同时保留重要细节以备将来使用。这可确保 AI 保持相关上下文，而不会被不必要的数据淹没。 借助语义聚类，类似的记忆被分组在一起，使 AI 能够快速高效地检索相关上下文。为了模拟我们忘记和强化信息的方式，Memoripy 具有记忆衰退和强化功能，其中不太有用的记忆会逐渐消失，而经常访问的记忆会保持清晰。 Memoripy 的关键方面之一是它专注于本地存储。它旨在与本地托管的 LLM 无缝协作，非常适合注重隐私并希望避免外部 API 调用的开发人员。Memoripy 还与 OpenAI 和 Ollama 集成。 如果这听起来像您可以使用的东西，请在GitHub上查看！它是开源的，我很想听听您如何使用它或您可能有的任何反馈。    提交人    /u/xazarall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gul5f0/memoripy_bringing_memory_to_ai_with_shortterm/</guid>
+      <pubDate>Tue, 19 Nov 2024 01:11:06 GMT</pubDate>
+    </item>
     <item>
       <title>好莱坞剧本为人工智能提供动力，这一点毋庸置疑</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gugk47/theres_no_longer_any_doubt_that_hollywood_writing/</link>
@@ -76,25 +97,11 @@
       <pubDate>Mon, 18 Nov 2024 15:48:57 GMT</pubDate>
     </item>
     <item>
-      <title>学习机器学习后该做什么？ 最好做哪些项目？ 最好进入哪些领域？ 我如何才能找到工作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu3uge/what_to_do_after_learning_machine_learning_what/</link>
-      <description><![CDATA[大家好， 我渴望在机器学习领域开创一番事业，并希望您能指导我制定可靠的路线图。虽然我已经开始探索编程基础知识和一些 ML 概念，但我想确保自己走在正确的轨道上。 以下是我有一些具体问题：1. 作为机器学习的初学者，我应该优先考虑哪些技能？2. 哪些项目或认证可以帮助我在求职时脱颖而出？3. NLP 或计算机视觉等高级主题对于入门级职位有多重要？4. 有没有推荐的学习和练习资源（书籍、课程、平台）？5. 哪些策略对您（或您认识的人）在 ML 领域找到工作有用？    提交人    /u/Independent-Big-713   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu3uge/what_to_do_after_learning_machine_learning_what/</guid>
-      <pubDate>Mon, 18 Nov 2024 12:43:58 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普上台后，美国对中国人工智能初创企业的投资禁令或将升级</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu3kcf/a_us_ban_on_investing_in_chinese_ai_startups/</link>
       <description><![CDATA[拜登政府针对的是开发前沿人工智能模型的中国公司，但唐纳德·特朗普可能会采取更全面的做法。    提交人    /u/wiredmagazine   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu3kcf/a_us_ban_on_investing_in_chinese_ai_startups/</guid>
       <pubDate>Mon, 18 Nov 2024 12:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 CRM Copilot：我需要广泛的意图分类吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2tcr/building_a_crm_copilot_do_i_need_extensive_intent/</link>
-      <description><![CDATA[大家好，我正在使用 LLM API 开发 CRM 副驾驶。我的 CRM 数据存储在 SQL 数据库中，我还计划向矢量数据库添加一些语义内容。 对于意图分类，我最初计划使用 LLM API 根据用户查询从一组预定义选项中快速识别意图。但是，我注意到大多数 LLM 似乎已经非常了解 CRM 结构和工作流程。我甚至尝试直接从用户提示生成 SQL 查询，并且在大多数情况下效果很好 - 查询成功运行并回答了用户问题。 话虽如此，我想知道我是否真的需要一个全面的意图分类系统。是否最好仅仅利用 LLM 的知识，更有效地提供我的模式（也许使用像 LangChain 这样的工具），并依靠查询生成？ 我想我仍然需要一些基本的意图分类来确定从哪里获取数据（例如，SQL 与矢量 DB），但除此之外，是否值得为我的 CRM 专门构建一个更广泛的意图分类系统？ 很想听听你对这种方法的想法或建议！    提交人    /u/Creepy-Use-9305   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu2tcr/building_a_crm_copilot_do_i_need_extensive_intent/</guid>
-      <pubDate>Mon, 18 Nov 2024 11:40:42 GMT</pubDate>
     </item>
     <item>
       <title>人机关系硕士论文</title>
@@ -116,13 +123,6 @@
       <description><![CDATA[TSMamba 是一个基于 Mamba（Transformer 的替代品）的时间序列预测模型，可生成最先进的时间序列结果。该模型使用双向编码器，甚至支持零样本预测。在此处查看更多详细信息：https://youtu.be/WvMDKCfJ4nM    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gu13hm/mamba_based_time_series_model_tsmamba/</guid>
       <pubDate>Mon, 18 Nov 2024 09:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>实施人工智能和机器学习以提高学术效率。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gtt6fr/implementation_of_ai_and_machine_learning_to/</link>
-      <description><![CDATA[我正在学习一门关于特定科学主题的高级课程。在准备我之前的考试时，我能够将所有提供的课程材料汇编成一个文档。我转录了讲座，从 PowerPoint 幻灯片中复制了文本，从之前在我所在的大学上过这门课程的人的公共测验中抓取了信息，并使用了以前考试的反馈和我必须预测如何利用学习时间的笔记。  我在本地使用 LLama2 来编译和分类经常出现的主题或概念，然后要求参加针对最预期内容的考试。  我学习了几个小时，得到了 139/140 的成绩。  这是机器学习吗？我觉得我差点作弊了。我走运了吗？有没有关于如何简化这一过程的想法，或者是否有程序已经在这样做了？  我会发现什么限制？     由   提交  /u/Visible_Scar_2654   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gtt6fr/implementation_of_ai_and_machine_learning_to/</guid>
-      <pubDate>Mon, 18 Nov 2024 01:22:34 GMT</pubDate>
     </item>
     <item>
       <title>人工智能聊天机器人在疾病诊断方面击败了医生</title>
