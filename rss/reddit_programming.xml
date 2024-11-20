@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 Nov 2024 00:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 03:10:29 GMT</lastBuildDate>
+    <item>
+      <title>🚀 简化的 C# HTTP 服务器 – 受 ExpressJS 启发，跨平台且界面直观！🌍</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvfnj3/simplified_http_server_for_c_inspired_by/</link>
+      <description><![CDATA[🚀 受 ExpressJS 启发的简化 C# HTTP 服务器，跨平台且界面直观🌎 大家好！👋 我即将结束我一直在做的一个项目 - TGV（法国特快列车），这是一个轻量级的 C# 库，旨在简化构建 HTTP 服务器的过程。受 ExpressJS 的简单性和灵活性的启发，我创建了一个易于使用的跨平台应用程序构建框架。  🎯特点： 🌐使用路由处理 HTTP(S) 请求  🔓中间件支持 🖥️跨平台（至少 Linux 和 Windows） 📦最小依赖性且无样板 🚀入门 您今天可以在 GitHub 和 NuGet 上查看并试用该库！该库仍处于开发阶段，因此非常欢迎任何反馈、建议或贡献！ 请随时提问，我很乐意回答！    提交人    /u/Oshi41   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvfnj3/simplified_http_server_for_c_inspired_by/</guid>
+      <pubDate>Wed, 20 Nov 2024 02:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 JavaScript 对 HTML 中的列表进行排序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvfcia/how_to_sort_a_list_in_html_using_javascript/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvfcia/how_to_sort_a_list_in_html_using_javascript/</guid>
+      <pubDate>Wed, 20 Nov 2024 02:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 推出全新 Python 库，优化基于 GPU 的数值计算，助力工业设计和科学研究</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvf851/new_python_library_from_nvidia_optimizes_gpubased/</link>
+      <description><![CDATA[  由    /u/SilkyJohnson2019  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvf851/new_python_library_from_nvidia_optimizes_gpubased/</guid>
+      <pubDate>Wed, 20 Nov 2024 02:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Talking Postgres 播客第 21 集与《High Performance PostgreSQL for Rails》一书的作者进行对话</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvdq2s/conversation_with_author_of_book_high_performance/</link>
+      <description><![CDATA[  由    /u/clairegiordano  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvdq2s/conversation_with_author_of_book_high_performance/</guid>
+      <pubDate>Wed, 20 Nov 2024 01:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>12 分钟内了解 12 个日志记录最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvc551/12_logging_best_practices_in_12_minutes/</link>
+      <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvc551/12_logging_best_practices_in_12_minutes/</guid>
+      <pubDate>Wed, 20 Nov 2024 00:07:03 GMT</pubDate>
+    </item>
     <item>
       <title>Flutter MediaQuery 详解：DevicePixelRatio 变得简单 | amplifyabhi</title>
       <link>https://www.reddit.com/r/programming/comments/1gvc0pr/flutter_mediaquery_explained_devicepixelratio/</link>
@@ -18,13 +53,6 @@
       <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gvba7b/compile_javascript_to_a_assembly_ast_c_and/</guid>
       <pubDate>Tue, 19 Nov 2024 23:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是合法的吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvb3bt/is_this_legit/</link>
-      <description><![CDATA[  由    /u/canimailthat  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvb3bt/is_this_legit/</guid>
-      <pubDate>Tue, 19 Nov 2024 23:20:06 GMT</pubDate>
     </item>
     <item>
       <title>论安全Cxx</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/simon_o  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gv03y9/on_safe_c/</guid>
       <pubDate>Tue, 19 Nov 2024 15:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>值班时间应为周二至周二</title>
-      <link>https://www.reddit.com/r/programming/comments/1guyp9c/oncall_should_be_tuesday_to_tuesday/</link>
-      <description><![CDATA[  由    /u/ForgotMyPassword17  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guyp9c/oncall_should_be_tuesday_to_tuesday/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bryan Cantrill：“数十年来的博客生涯”</title>
-      <link>https://www.reddit.com/r/programming/comments/1guyjk7/bryan_cantrill_blogging_through_the_decades/</link>
-      <description><![CDATA[  由    /u/swdevtest  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guyjk7/bryan_cantrill_blogging_through_the_decades/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cats-Actors 2.0.0：可用于生产的功能性 Actor 模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1guyhuc/catsactors_200_productionready_functional_actor/</link>
-      <description><![CDATA[  由    /u/kloudmark  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guyhuc/catsactors_200_productionready_functional_actor/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务小组 • Ian Cooper、James Lewis 和 Kris Jenkins</title>
-      <link>https://www.reddit.com/r/programming/comments/1guxky7/microservices_panel_ian_cooper_james_lewis_kris/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1guxky7/microservices_panel_ian_cooper_james_lewis_kris/</guid>
-      <pubDate>Tue, 19 Nov 2024 13:51:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
