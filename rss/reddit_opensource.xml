@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:01:37 GMT</lastBuildDate>
+    <item>
+      <title>就开源现状调查发表您的意见</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvxcd3/give_your_input_on_the_state_of_open_source_survey/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvxcd3/give_your_input_on_the_state_of_open_source_survey/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:06:01 GMT</pubDate>
+    </item>
     <item>
       <title>Endurain - 一款开源健身追踪器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</link>
-      <description><![CDATA[大家好， 根据 Strava 最近的 API 新闻，我想在这里分享我的项目“Endurain”：https://github.com/joaovitoriasilva/endurain Endurain 是一种自托管健身追踪服务，旨在让用户完全控制他们的数据和托管环境。构建于： - 前端：Vue.js 和 Bootstrap CSS - 后端：Python FastAPI、Alembic、SQLAlchemy、stravalib 用于 Strava 集成，gpxpy 和 fitdecode 分别用于 .gpx 和 .fit 文件导入 - 数据库：MariaDB 用于高效的用户数据管理 - 可观察性：Jaeger 用于基本的跟踪和监控 由于 Strava 的变化，我将不得不改变一些东西，但我真的很想听听你对此的意见，也许你对此有所贡献。  谢谢。     提交人    /u/joaovsilva   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 根据 Strava 最近的 API 新闻，我想在这里分享我的项目“Endurain”：https://github.com/joaovitoriasilva/endurain Endurain 是一种自托管健身追踪服务，旨在让用户完全控制他们的数据和托管环境。构建于： - 前端：Vue.js 和 Bootstrap CSS - 后端：Python FastAPI、Alembic、SQLAlchemy、stravalib 和 python-garminconnect 分别用于 Strava 和 Garmin Connect 集成，gpxpy 和 fitdecode 分别用于 .gpx 和 .fit 文件导入 - 数据库：MariaDB 用于高效的用户数据管理 - 可观察性：Jaeger 用于基本的跟踪和监控 由于 Strava 的变化，我将不得不改变一些东西，但我真的很想听听你对此的意见，也许你对此有所贡献。  谢谢。     提交人    /u/joaovsilva   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</guid>
       <pubDate>Wed, 20 Nov 2024 16:54:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Consistent-Emu-3442  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gubbwz/does_anybody_have_a_fork_of_the_deleted/</guid>
       <pubDate>Mon, 18 Nov 2024 18:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找寻求贡献者的 OSS 项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gu6u39/find_oss_projects_looking_for_contributors/</link>
-      <description><![CDATA[嗨 r/opensource！ 我正在与一个小型团队合作创建 Echo，这是一种浏览开源生态系统的新方式。我为您创建了一种简单的方法来查找正在积极寻求贡献的项目。这是基于标记的问题、活动和可用的贡献者指南。 工作原理如下：  单击此处的任何生态系统：https://ecosystems.gitwallet.co 单击&amp;;为项目做出贡献&amp;;以查看具有开放问题并正在寻找贡献者的项目列表 当您点击任何项目时，您将看到一个&amp;;寻找贡献者&amp;;徽章，单击后将转到其贡献者指南。  这是来自 Django 生态系统的一个示例。仍在努力为整个网站提供更好的用户体验，但希望从这个社区获得反馈！希望这对那些想为之做出贡献的人有用！    提交人    /u/Longjumping-Spend   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gu6u39/find_oss_projects_looking_for_contributors/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:08:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

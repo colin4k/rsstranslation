@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:01:25 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以输出 midi 信号到 midi 控制器的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</link>
+      <description><![CDATA[我有一个 MIDI 控制器，它通过 USB 向我的笔记本电脑输出信号。它还可以接收 MIDI 信号来控制控制器内置的 LED。现在，正如标题所示，我正在寻找一个可以通过 USB 向控制器输出 MIDI 信号的简单程序。 Ps. 我需要在 Windows 上运行它    提交人    /u/kikstraa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:37:47 GMT</pubDate>
+    </item>
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我一直在考虑为 macOS 创建一个文件管理应用，该应用使用 AI 以最简单、最智能的方式处理文件组织。这个想法是让用户给出简单的自然语言指令来组织、清理和管理他们的文件，而无需创建复杂的规则。我的意思是： 您只需输入一个提示，例如：  “将每个带有单词经济的文档标记为 #finance，然后将其移动到 Finance 文件夹。”  从那里，该应用处理所有事情 - 建议组织，帮助您删除旧文件或重复文件，甚至直接重新格式化或编辑文件（例如，将 PDF 转换为文本或调整图像大小）。所有操作在提交之前都可以预览，如果您改变主意，可以使用撤消功能。  它还可以处理计划的清理（例如在 X 天后自动删除临时文件夹），让您搜索文件中的内容，甚至可以与 Google Drive、Dropbox 或 OneDrive 等工具同步。您可以为快速任务制定一次性规则或设置临时工作流程，例如对过去 2 小时内处理过的文件进行分组。  目标：无需复杂的设置，只需告诉应用程序您想要什么，它就会在后端计算出来。  我考虑将这些功能定价为每月 8.99 美元。 您觉得怎么样？ 1. 您会使用这样的东西吗？ 2. 你会为此付费吗？如果不，什么让它值得？ 3. 您想要其他什么功能？  请随意发表评论，或者如果您愿意，可以给我发消息，安排一次关于您的需求或建议的快速聊天——我真的在尝试构建一些解决实际痛点的东西。  谢谢！     提交人    /u/Mattparr   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</guid>
       <pubDate>Tue, 19 Nov 2024 20:45:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>第二屏软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</link>
-      <description><![CDATA[大家好，我正在寻找一种可以在第一个屏幕上播放我的第二个屏幕的软件。 我的第二个屏幕在另一个房间，运行时，我需要从我的第一个屏幕（比如在一个小窗口中）观看它。 有人能帮帮我吗？谢谢    提交人    /u/Stock_Pitch_2966   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</guid>
-      <pubDate>Tue, 19 Nov 2024 20:22:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
