@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 15:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:02:14 GMT</lastBuildDate>
+    <item>
+      <title>paintribbon 静默安装</title>
+      <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
+      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序，它看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给了我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是给出了那个错误 是不是因为我在 Windows 11 上？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>意外删除了系统程序 – 恢复出厂设置后浏览器和媒体无法使用，如何恢复系统文件？</title>
       <link>https://www.reddit.com/r/software/comments/1gvqf4v/accidentally_deleted_a_system_program_browser_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我正在寻找一种可以在第一个屏幕上播放我的第二个屏幕的软件。 我的第二个屏幕在另一个房间，运行时，我需要从我的第一个屏幕（比如在一个小窗口中）观看它。 有人能帮帮我吗？谢谢    提交人    /u/Stock_Pitch_2966   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</guid>
       <pubDate>Tue, 19 Nov 2024 20:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 增加了秘密智能安全功能，可在三天后重启 iThings——“安全研究人员的逆向工程工作揭示了未记录的重启计时器，这将使攻击者的生活更加困难”</title>
-      <link>https://www.reddit.com/r/software/comments/1gv4v2l/ios_18_added_secret_and_smart_security_feature/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv4v2l/ios_18_added_secret_and_smart_security_feature/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
