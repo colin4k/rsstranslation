@@ -4,18 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 21 Nov 2024 03:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 06:02:21 GMT</lastBuildDate>
     <item>
       <title>有没有专门用于组织研究/知识的 Linux 和/或 Windows 写作软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gw64yl/any_writing_software_for_linux_andor_windows/</link>
-      <description><![CDATA[我知道 libreoffice，只有 office 等，但我正在寻找具有知识库功能或类似功能的东西，它是 foss，适用于 linux 和/或 windows，但也专注于在写作时组织信息。 我不确定是否有任何适合这个的东西，但我还是想问一下。    提交人    /u/CloudyyySXShadowH   [link] [评论]]]></description>
+      <description><![CDATA[我知道 libreoffice，只有 office 等，但我正在寻找具有知识库功能的东西，或者类似的东西，它是 foss，适用于 linux 和/或 windows，但也专注于在写作时组织信息。 我不确定是否有任何适合这个的东西，但无论如何我都想问一下。 编辑 - 我看了 jupyter labs（因为它有桌面版），但我使用 python，而且我正在寻找更多用于历史研究而不是特定于数据科学的研究，所以 jupyter labs 不适合我。    提交人    /u/CloudyyySXShadowH   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gw64yl/any_writing_software_for_linux_andor_windows/</guid>
       <pubDate>Thu, 21 Nov 2024 02:55:29 GMT</pubDate>
     </item>
     <item>
       <title>通过精准知识编辑 (PKE) 增强 LLM 安全性</title>
       <link>https://www.reddit.com/r/opensource/comments/1gw5itr/enhancing_llm_safety_with_precision_knowledge/</link>
-      <description><![CDATA[大家好， 我一直在研究一个名为 PKE（精确知识编辑）的项目，这是一种开源方法，通过减少有毒内容生成而不影响其总体性能来提高 LLM 的安全性。它的工作原理是使用神经元权重跟踪和激活通路跟踪来识别模型中的“有毒热点”，并通过自定义损失函数对其进行修改。 如果您对方法和结果感兴趣，我们还发表了一篇论文，详细介绍了我们的方法和实验结果。它包括与现有技术（如解毒实例神经元修改 (DINM)）的比较，并展示了 PKE 在降低攻击成功率 (ASR) 方面的显著改进。 该项目是开源的，我很乐意听取您的反馈！ GitHub repo 中有一个 Jupyter Notebook，提供了将 PKE 应用于 Meta-Llama-3-8B-Instruct 等模型的实际演示：https://github.com/HydroXai/Enhancing-Safety-in-Large-Language-Models 如果您对 AI 安全感兴趣，我将非常感谢您的想法和建议。感谢您的关注！    提交人    /u/lial4415   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我一直在研究一个名为 PKE（精确知识编辑）的项目，这是一种开源方法，通过减少有毒内容生成而不影响其总体性能来提高 LLM 的安全性。它的工作原理是使用神经元权重跟踪和激活通路跟踪来识别模型中的“有毒热点”，并通过自定义损失函数对其进行修改。 如果您对方法和结果感兴趣，我们还发表了一篇论文，详细介绍了我们的方法和实验结果。它包括与现有技术（如解毒实例神经元修改 (DINM)）的比较，并展示了 PKE 在降低攻击成功率 (ASR) 方面的显著改进。 该项目是开源的，我很乐意听取您的反馈！ GitHub repo 中有一个 Jupyter Notebook，提供了将 PKE 应用于 Meta-Llama-3-8B-Instruct 等模型的实际操作演示：https://github.com/HydroXai/Enhancing-Safety-in-Large-Language-Models 如果您对 AI 安全感兴趣，我将非常感谢您的想法和建议。感谢您的关注！    提交人    /u/lial4415   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gw5itr/enhancing_llm_safety_with_precision_knowledge/</guid>
       <pubDate>Thu, 21 Nov 2024 02:25:15 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>想找个地方学习！</title>
       <link>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</link>
-      <description><![CDATA[大家好！我是来自荷兰的一名软件开发学生，我想学习计算机编程。我刚刚进入编程领域，正在通过我的教育和 Packt 的一些书籍学习基础知识。我很乐意向经验丰富的程序员学习，我认为开源世界可能是一个很好的起点，我不需要对我的贡献有任何报酬，只是我想向能够指导我或向我展示他或她的工作/代码方式并教我行业诀窍的人学习。如果您想联系我，请给我发消息，我也想知道哪些开源项目可能正在寻找像我这样的初级开发人员。提前谢谢大家！    提交人    /u/Battletower   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我是来自荷兰的一名软件开发学生，我想学习计算机编程。我刚刚进入编程领域，正在通过我的教育和 Packt 的一些书籍学习基础知识。我很乐意向经验丰富的程序员学习，我认为开源世界可能是一个很好的起点，我不需要对我的贡献有任何报酬，只是我想向能够指导我或向我展示他或她的工作/编码方式并教我行业诀窍的人学习。如果您想联系我，请给我发消息，我也想知道哪些开源项目可能正在寻找像我这样的初级开发人员。提前谢谢大家！    提交人    /u/Battletower   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</guid>
       <pubDate>Tue, 19 Nov 2024 14:02:02 GMT</pubDate>
     </item>

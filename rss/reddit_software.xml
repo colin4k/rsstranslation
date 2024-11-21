@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 03:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 06:02:09 GMT</lastBuildDate>
     <item>
       <title>帮我记住一个视频转换器程序/应用程序的名称</title>
       <link>https://www.reddit.com/r/software/comments/1gw3pkh/help_me_remember_the_name_of_a_video_converter/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序，它看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给了我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是给出了那个错误 是不是因为我在 Windows 11 上？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它会给我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是它给出了那个错误 是不是因为我在 Windows 11 上？ 更新：我发现这是因为它试图从不存在的服务器下载东西，它仍然可以工作只是给出了那个错误，所以有什么办法可以告诉它......不要尝试下载它？   由    /u/AvailableLet7347  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
       <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
     </item>
