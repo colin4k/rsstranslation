@@ -4,11 +4,32 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 09:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:02:42 GMT</lastBuildDate>
+    <item>
+      <title>类似于 Windows Sandbox 的虚拟机/沙盒</title>
+      <link>https://www.reddit.com/r/software/comments/1gwebgi/a_virtual_machinesandbox_similar_to_windows/</link>
+      <description><![CDATA[是否有第三方 VM/Sandbox 软件可以将我当前的桌面复制为 VM/Sandbox 环境（如 Windows Sandbox）？在 Windows Sandbox 中，它会加载我的桌面副本（作为 VM/Sandbox 环境），无需设置/配置。 我想知道是否有一个 VM/Sandbox 软件，一旦安装，我就会加载 VM/Sandbox 软件，然后我的桌面副本就会出现（作为 VM/Sandbox 环境）。 虽然有第三方 VM/Sandbox 软件，如 VirtualBox 和 Sandboxie（作为典型示例），但可以创建 VM/Sandbox 环境，但需要在其上安装操作系统。我没有额外的 Windows OS 软件副本（也不想购买）。    提交人    /u/Samta752   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwebgi/a_virtual_machinesandbox_similar_to_windows/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧头像生成器。有人记得它的名字吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gwdpwh/old_avatar_generator_does_anyone_remember_its_name/</link>
+      <description><![CDATA[有人记得可以创建这些图像的头像生成器叫什么名字吗？ https://preview.redd.it/21y5a9i5l82e1.jpg?width=178&amp;format=pjpg&amp;auto=webp&amp;s=bd3953e9e494170d7aecffe3139473315df3045d 编辑：抱歉，我没想到图像会如此大    由   提交  /u/maephisto666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwdpwh/old_avatar_generator_does_anyone_remember_its_name/</guid>
+      <pubDate>Thu, 21 Nov 2024 11:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于显示复杂游戏控制的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gwcomm/software_for_displaying_controls_for_complex_games/</link>
+      <description><![CDATA[目前正在玩《精英危机四伏》，作为一名新玩家，控制菜单真的、真的需要搜索栏。但这不是重点，如果有人已经做了，我想知道是否有软件可以显示用户可自定义的控制方案。也许可以读取多个操作层的输入，但我觉得这可能接近恶意软件。 只是在侧面提供一些东西，这样您就可以查看并查看您的按钮的作用，而不必翻阅 E;D 的菜单或任何游戏菜单。    提交人    /u/RandomGuy640   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwcomm/software_for_displaying_controls_for_complex_games/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:50:42 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个名为 Tagline 的人工智能图像标记应用程序 - 而且它是免费的！</title>
       <link>https://www.reddit.com/r/software/comments/1gwats9/i_built_an_aipowered_image_tagging_app_called/</link>
-      <description><![CDATA[嗨 r/software， 我想分享一个我一直在研究的个人项目 - 一个名为 Tagline 的图像标记/字幕桌面应用程序。我认为你可能会发现它很有用！我利用了人工智能的强大功能（我可能会补充说，相当随意）使标记照片变得轻而易举。 Tagline 会自动为您的图像生成标题和关键字/主题标签。只需拖放，然后让人工智能完成繁重的工作！它将元数据直接嵌入到您的图像文件（JPEG、PNG 和 WebP）中，这样您就不会丢失您的工作。 以下是 Tagline 可以做的事情：  人工智能驱动的标题和标签：根据图像内容生成描述性标题和相关关键字，为您节省大量时间。您甚至可以自定义它使用的提示以获得超具体的结果。 批处理：一次上传多张图片以实现高效标记。 元数据嵌入：将生成的标题和标签直接写入您的图像文件中，以便它们始终与您的照片在一起。 可自定义的查询：调整 AI 的标题和标签提示以满足您的特定需求。 多 API 密钥管理：支持多个 Google Cloud API 密钥（用于 Vertex AI），并允许在它们之间切换以避免速率限制。 安全设置：为生成的内容配置安全过滤级别。 重试机制：自动重试失败的标记尝试，确保即使 AI 出现故障也能获得结果。 跨平台：适用于 Windows， macOS 和 Linux。 开源：代码可在 GitHub 上获得（[链接到您的 GitHub 存储库]），因此您可以贡献代码、自定义代码或只是了解一下。 其他标题和标签：在生成的标题和标签文本后添加固定的标题和标签文本。 另存为 TXT：将标题和标签另存为单独的文本文件。  工作原理（AI 魔法）： 在底层，Tagline 使用 Google 的 Gemini 生成 AI 模型。它会分析图像，然后制作适当的标题和标签。 支持和错误报告 我对这个项目感到非常兴奋，并希望您查看它！如果您发现 Tagline 有用，请考虑支持我。此外，请报告您遇到的任何错误或错误，以便我可以解决它们。您的反馈非常宝贵！ 下载    提交人    /u/riade3788   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 r/software， 我想分享一个我一直在研究的个人项目 - 一个名为 Tagline 的图像标记/字幕桌面应用程序。我认为你可能会发现它很有用！我利用了人工智能的强大功能（我可能会补充说，相当随意）使标记照片变得轻而易举。 Tagline 会自动为您的图像生成标题和关键字/主题标签。只需拖放，然后让人工智能完成繁重的工作！它将元数据直接嵌入到您的图像文件（JPEG、PNG 和 WebP）中，这样您就不会丢失您的工作。 以下是 Tagline 可以做的事情：  人工智能驱动的标题和标签：根据图像内容生成描述性标题和相关关键字，为您节省大量时间。您甚至可以自定义它使用的提示以获得超具体的结果。 批处理：一次上传多张图片以实现高效标记。 元数据嵌入：将生成的标题和标签直接写入您的图像文件中，以便它们始终与您的照片在一起。 可自定义的查询：调整标题和标签的 AI 提示以满足您的特定需求。 多 API 密钥管理：支持多个 Google Cloud API 密钥并允许在它们之间切换以避免速率限制。 安全设置：为生成的内容配置安全过滤级别。 重试机制：自动重试失败的标记尝试，确保即使 AI 出现故障也能获得结果。 跨平台：适用于 Windows、macOS 和Linux。 开源：代码可在 GitHub 上获取，因此您可以贡献代码、自定义代码或只是了解代码内部情况。 附加标题和标签：在生成的标题和标签文本后添加固定的标题和标签文本。 另存为 TXT：将标题和标签另存为单独的文本文件。  工作原理（AI 魔法）： 在底层，Tagline 使用 Google 的 Gemini 生成 AI 模型。它会分析图像，然后制作适当的标题和标签。 支持和错误报告 我对这个项目感到非常兴奋，并希望您能查看一下！如果您发现 Tagline 有用，请考虑支持我。此外，请报告您遇到的任何错误或错误，以便我可以解决它们。您的反馈非常宝贵！ 下载    提交人    /u/riade3788   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gwats9/i_built_an_aipowered_image_tagging_app_called/</guid>
       <pubDate>Thu, 21 Nov 2024 07:30:36 GMT</pubDate>
     </item>
@@ -22,7 +43,7 @@
     <item>
       <title>我正在寻找一个可以输入我的电子邮件账户的邮件客户端，</title>
       <link>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</link>
-      <description><![CDATA[它们将保存在我的所有设备上，而无需我将每封电子邮件输入到每台设备中。我有大量设备，如果我的主要移动设备死机，我想要一个简单的解决方案。云解决方案很好。我的手机上有 Gmail，里面有我所有的账户，只有我能把它们导出并导入到另一部手机上……我知道这可能不可能，但如果有人有想法，请提出来？ 跨平台和云解决方案很受欢迎。主要是我害怕丢失手机或手机故障，不得不检查我所有的密码和账户，因为有很多    提交人    /u/riade3788   [链接] [评论]]]></description>
+      <description><![CDATA[它们将保存在我的所有设备上，而无需我将每封电子邮件输入到每台设备中。我有大量设备，如果我的主要移动设备死机，我想要一个简单的解决方案。云解决方案很好。我的手机上有 Gmail，里面有我所有的账户，只有我能把它们导出并导入到另一部手机上……我知道这可能是不可能的，但如果有人有想法，请提出来？ 跨平台和云解决方案很受欢迎。主要是我害怕丢失手机或手机故障，不得不检查我所有的密码和账户，因为有很多    提交人    /u/riade3788   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</guid>
       <pubDate>Thu, 21 Nov 2024 06:02:05 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>流程图优化</title>
       <link>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</link>
-      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我所做的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</guid>
       <pubDate>Wed, 20 Nov 2024 23:38:25 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它会给我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是它给出了那个错误 是不是因为我在 Windows 11 上？ 更新：我发现这是因为它试图从不存在的服务器下载东西，它仍然可以工作只是给出了那个错误，所以有什么办法可以告诉它......不要尝试下载它？   由    /u/AvailableLet7347  提交  [链接] [评论]]]></description>
+      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它会给我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是它给出了那个错误 是不是因为我在 Windows 11 上？ 更新：我发现这是因为它试图从不存在的服务器下载东西，它仍然可以工作只是给出了那个错误，所以有没有办法告诉它......不要尝试下载它？   由    /u/AvailableLet7347  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
       <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[寻找一个允许录制的 IPTV Windows 播放器，理想情况下无需在录制时观看流媒体。 我用过 MyIPTV，但每次录制似乎都会在 10 或 20 分钟后停止，即使是在没有连接问题的良好流媒体上，而且你必须打开流媒体才能录制。    提交人    /u/Sportfreunde   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvg294/iptv_player_which_allows_reliable_recording_on/</guid>
       <pubDate>Wed, 20 Nov 2024 03:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年用于下载您自己制作的 Dailymotion 视频的最佳在线工具是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvfrby/best_tool_online_to_download_your_own_created/</link>
-      <description><![CDATA[一个，可以工作，不需要下载其他软件即可运行。 可以以最高质量下载。谢谢。    提交人    /u/WrestlingGuru2021   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvfrby/best_tool_online_to_download_your_own_created/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于批量检查提示文件是否损坏的程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvdp71/program_to_masscheck_if_cue_files_are_not_broken/</link>
-      <description><![CDATA[有没有什么软件可以让我将其指向一个文件夹，然后它会搜索该文件夹和任何子文件夹中的提示文件，然后验证这些提示文件中的条目是否正确指向实际文件？我一直在做一些维护和重命名，我想确保我没有犯任何拼写错误并破坏其中一些文件。    提交人    /u/Cyber​​_Akuma   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvdp71/program_to_masscheck_if_cue_files_are_not_broken/</guid>
-      <pubDate>Wed, 20 Nov 2024 01:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些可以追踪工作室会员剩余时间的应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvd84s/recommendation_for_app_that_tracks_studio/</link>
-      <description><![CDATA[嗨，有人可以推荐一个调度软件/应用程序，让我们可以为会员分配工作室小时数，并为他们跟踪他们的会员计划中还剩下多少小时以及到期日期？谢谢。    提交人    /u/gentlehours   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvd84s/recommendation_for_app_that_tracks_studio/</guid>
-      <pubDate>Wed, 20 Nov 2024 00:57:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
