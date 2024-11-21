@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 15:01:34 GMT</lastBuildDate>
+    <item>
+      <title>寻找人工智能照片增强器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwh2ik/looking_for_an_aipowered_photo_enhancer/</link>
+      <description><![CDATA[嗨，Reddit！ 我正在寻找一款可靠的 AI 照片增强器，它可以改善图像质量，尤其是增强细节、锐度和活力。我已经尝试了一些知名的工具，如 Topaz 和其他基于浏览器的标准增强器，但我希望获得一些适用于以下用途的增强器的建议：  增强照片以恢复细节。 通过使颜色鲜艳和细化面部特征来改善肖像。  最好是基于浏览器或带有免费试用/演示选项的工具。我不是在寻找基本的升级，而是在寻找真正细化细节的工具。 非常感谢您对任何特定工具的建议和经验。    提交人    /u/deltasplur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwh2ik/looking_for_an_aipowered_photo_enhancer/</guid>
+      <pubDate>Thu, 21 Nov 2024 14:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对高中项目的 Copilot Pro 调查</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgwbw/copilot_pro_survey_for_a_high_school_project/</link>
+      <description><![CDATA[嗨， 我是一名高中生，正在尝试对 Microsoft 的 Copilot Pro 定价策略进行一些商业分析。这是该项目所需的主要研究部分，我必须获得大量不同的回应和一般数据，以便回答研究问题。 这个子版块很大，拥有我正在寻找的受众。我很感激任何 AI 用户，无论您是 AI 爱好者还是投资者，都能协助我开发这个项目。 调查应该不到一分钟。它是完全匿名的，并使用 Google 表单（所以没有什么可害怕的 - 版主，请不要删除此帖子！）提前致谢。这是链接： https://docs.google.com/forms/d/e/1FAIpQLSdpOk5SpXq0jh5Fmet_fnaOlXAKIx_C8mItElipUc717yicjw/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;fbzx=6073149300593572432    由    /u/do0mwolf9267  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgwbw/copilot_pro_survey_for_a_high_school_project/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:58:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>抢走我旧工作的 AI 记者刚刚被解雇</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgdq0/the_ai_reporter_that_took_my_old_job_just_got/</link>
+      <description><![CDATA[夏威夷的一家当地报纸尝试使用人工智能生成的主持人来吸引读者并增加读者数量。两个月后，这些机器人被搁置了。    提交人    /u/wiredmagazine   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgdq0/the_ai_reporter_that_took_my_old_job_just_got/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:34:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>简短采访</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfno2/short_interview/</link>
+      <description><![CDATA[嗨，Reddit， 我是 AI EdTech 开发人员。我们正在寻找为孩子购买或曾经购买过 EdTech 解决方案的父母，进行 5-10 分钟的采访。  采访将被录音，不会分享任何私人信息。我们的创业提案需要主要研究结果！ 如果您想参与，请随时给我发私信，您的帮助将非常宝贵！    提交人    /u/Sad-Ad1330   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfno2/short_interview/</guid>
+      <pubDate>Thu, 21 Nov 2024 12:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经诱导与传导：小样本抽象推理的互补方法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfm34/neural_induction_vs_transduction_complementary/</link>
+      <description><![CDATA[我读了一篇论文，探讨是推断一个可以解释几个例子的潜在函数更好，还是直接使用神经网络预测新的测试输出更好。关键技术贡献是使用通过 LLM 生成的 Python 函数生成的合成训练数据比较抽象推理任务中的归纳方法与传导方法。 关键技术要点：- 使用 GPT-4 生成指定抽象函数和输入生成的 Python 代码- 训练了两个具有相同架构但不同目标的模型变体：- 归纳：学习从示例中推断底层函数- 传导：直接预测测试输出而不对函数进行建模- 在 ARC 数据集上评估抽象推理- 尽管架构相同，但模型解决了截然不同的问题 结果：- 专门用于不同类型的抽象推理任务的模型- 专注于推断一般规则的归纳模型- 针对直接输入输出映射优化的传导模型- 在不同问题类型中性能差异很大 我认为这指出了我们如何设计用于小样本学习的 ML 系统的一个重要考虑因素。即使架构相同，推断一般函数和直接预测之间的选择似乎从根本上改变了模型的学习内容。这可以为更好的系统设计提供信息，具体取决于我们是需要快速解决特定问题还是想要学习可概括的规则。 我认为后续工作应该探索： - 量化不同领域方法之间的权衡 - 找到有效结合两种方法的方法 - 理解为什么相同的架构会根据目标产生如此大的差异 TLDR：归纳方法与传导方法的比较表明，训练目标从根本上改变了神经网络的学习内容，即使架构相同。尽管训练数据相似，但模型专注于不同类型的抽象推理。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfm34/neural_induction_vs_transduction_complementary/</guid>
+      <pubDate>Thu, 21 Nov 2024 12:55:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube Studio 推出一项新的 AI 功能，可帮助创作者自动配音视频，以扩大影响力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfee5/youtube_studio_has_a_new_ai_feature_to_help/</link>
+      <description><![CDATA[  由    /u/Technicallysane02  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfee5/youtube_studio_has_a_new_ai_feature_to_help/</guid>
+      <pubDate>Thu, 21 Nov 2024 12:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 Make.com 中无需代码进行情感分析</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwee2c/how_to_do_sentiment_analysis_in_makecom_without/</link>
@@ -48,39 +90,11 @@
       <pubDate>Thu, 21 Nov 2024 05:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>为了给老板留下深刻印象，我还应该在人工智能领域探索哪些不在我的清单上的东西。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw7j7n/looking_to_impress_boss_what_else_should_i/</link>
-      <description><![CDATA[大家好，我正在努力拓宽我的知识面。我一直在探索 ChatGPT、Claude 和 LLaMA 等 LLM，用于生成文本、代码、图像、音频和视频。我使用 Aider、Cline 和 Cursor 等工具来编写代码，并使用 OpenRouter 连接多个 LLM API。最近，我开始深入研究检索增强生成 (RAG) 系统和矢量数据库。 我觉得我已经很好地掌握了 LLM 基础知识、编码助手、RAG 系统、矢量数据库以及用于音频和视频的生成式 AI。 但现在我想知道：我可能错过了哪些其他新兴的 AI 工具或技术？ 我很想了解新的或正在开发的工具——一些可以给我的老板留下深刻印象或扩展我的技能的东西。  自从人工智能开始引起轰动以来，人工智能领域是否有任何创新或“新奇”的东西让你兴奋不已？我很想听听你对任何不在我提到的类别中的东西感兴趣！    提交人    /u/rageagainistjg   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw7j7n/looking_to_impress_boss_what_else_should_i/</guid>
-      <pubDate>Thu, 21 Nov 2024 04:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[D] 去年每个人都应该知道的机器学习论文或研究突破是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw6kqy/d_whats_a_machine_learning_paper_or_research/</link>
-      <description><![CDATA[  由    /u/Aichoffectionate  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw6kqy/d_whats_a_machine_learning_paper_or_research/</guid>
-      <pubDate>Thu, 21 Nov 2024 03:17:41 GMT</pubDate>
-    </item>
-    <item>
       <title>我们都会有工作！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw5l8j/well_all_have_jobs/</link>
       <description><![CDATA[... 以最低工资筛选训练数据。我认为，有一件事将比其他工作更持久，那就是人工策划的训练数据。清除垃圾、无用或人工智能生成的训练数据将变得越来越困难。保持新鲜需要大量的人力。而企业和人工智能组织将能够轻松负担得起，通过越来越好的数据来追求越来越好的模型。我们都会仔细检查人工智能*现在*制造的所有垃圾，以将其清除，这样未来的人工智能训练就只涉及“真实”数据，这样它就不会一遍又一遍地重复同样的东西。他们可以用他们所有的人工智能利润来支付农民微薄的收入，更好的训练数据将证明这笔费用是合理的。     提交人    /u/fluffy_assassins   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw5l8j/well_all_have_jobs/</guid>
       <pubDate>Thu, 21 Nov 2024 02:28:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>它怎么知道的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw4hv9/how_does_it_know/</link>
-      <description><![CDATA[我在本地安装了 qwen2.5。qwen 报告说，其最后一次培训截止日期是 2023 年 10 月。但是，我问 qwen 唐纳德·特朗普何时连任，它报告说唐纳德·特朗普在 2024 年 11 月连任，结果在投票结束后的几个小时内就基本为人所知。2023 年最后一次培训的法学硕士如何掌握时事信息？我有这次对话的屏幕截图，但无法发布。PS。本地安装的法学硕士新手    提交人    /u/Aardvark-One   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw4hv9/how_does_it_know/</guid>
-      <pubDate>Thu, 21 Nov 2024 01:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Worker - 为你完成任务的 AI 代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2a5e/worker_an_ai_agent_that_does_your_tasks_for_you/</link>
-      <description><![CDATA[大家好！我们的小团队一直在全力打造 Worker，一个可以为您完成任务的 AI 代理。 它基本上充当行政助理，您告诉它做某事，它就会去做。 每天总有事情要做，而且总是堆积如山，我们总是拖延或忘记。因此，我们的愿景是让 Worker 成为一个 AI 代理，能够完成您需要在互联网上完成的许多事情，甚至完成现实世界中的某些事情，例如与其他人打电话。 我们希望我们的私人测试版能够在 2025 年 1 月准备就绪，因此请加入等候名单！很乐意让您随时了解旅程的最新进展，并让我们知道您对该项目的想法:) 这是加入链接：www.workerassistant.com    提交人    /u/abusama7a   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw2a5e/worker_an_ai_agent_that_does_your_tasks_for_you/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:55:05 GMT</pubDate>
     </item>
     <item>
       <title>美国召集盟友讨论人工智能安全，特朗普誓言废除拜登的人工智能政策，给他们的工作蒙上阴影</title>
@@ -116,20 +130,6 @@
       <description><![CDATA[关于人工智能最常见的说法是“它会扼杀工作，让每个人都失业”。我认为这种说法只有一半是对的，因为人工智能会扼杀工作，但另一部分应该得到扩展。 如果我们保持社会现状，人工智能将使每个人都失业。我们必须重组它以保持平衡。我是这样看的： 目前的人工智能公司将变得非常富有，并为人类的进步提供人工智能，我认为没有它，我们的文明就无法进步。如果每个人都打好自己的牌，我们就有机会让世界变得更美好。因为说实话，生活糟透了，糟透了，大多数人每天早上 6 点起床，半睡半醒地走到汽车站/火车站去上班（单程通常需要 1 个多小时），下午 5 点或更晚才回到家，然后因为精疲力竭而整天看电视，或者如果你在学习，你必须为一些愚蠢的考试和其他废话而学习。人工智能可以改变这一点，但工作、学校、政治和经济也必须改变。我们本质上创造了一种基于人与人之间交流的经济，但现在当一个新的“玩家”进入游戏时，它将不再起作用。现在最大的问题是公司，因为他们会： 1. 制造 AI 2. 抢走人们的工作 3. 拿走人们工作所需的钱 这意味着在这种情况下人们会失业和贫穷，公司将几乎统治世界（赛博朋克 2077 氛围）。所以我认为在公司变得过于强大之前要对它们征税，并将 AI 研究转移到由国家税收资助的国际努力中。然后可以开发和使用 AI 来减轻普通面包消费者的压力，创造新的工作，消除普通工作，为人类创造光明的未来。 就是这样，请注意我只是一个高中生，你几乎不懂经济和政治，我只是想在这里表达我的意见。    提交人    /u/Mesrszmit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvpbno/people_look_at_the_ai_revolution_very_wrong/</guid>
       <pubDate>Wed, 20 Nov 2024 13:20:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似曼哈顿计划的计划，致力于竞相获得通用人工智能 (AGI) 能力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvp1dk/manhattan_projectlike_program_dedicated_to_racing/</link>
-      <description><![CDATA[https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf 委员会建议：I. 国会建立并资助一个类似曼哈顿计划的计划，致力于竞相获得通用人工智能 (AGI) 能力。AGI 通常被定义为在所有认知领域都与人类能力相当或更胜一筹的系统，并且会在每项任务中取代最敏锐的人类思维。委员会向国会提出的具体行动包括：向行政部门提供广泛的多年期合同授权，并为领先的人工智能、云计算和数据中心公司等提供相关资金，以符合美国 AGI 领导地位目标的速度和规模推进既定政策；指示美国国防部长为人工智能生态系统中的项目提供国防优先事项和分配系统“DX 评级”，以确保该项目获得国家优先考虑。    提交人    /u/DC_cyber   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvp1dk/manhattan_projectlike_program_dedicated_to_racing/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</link>
-      <description><![CDATA[Automated-AI-Web-Researcher：经过数月的工作，我编写了一个 Python 程序，可以将 Ollama 上运行的本地 LLM 转变为您的在线研究人员，只需输入一个问题或主题，然后等到您返回一个包含指向来源和摘要的链接的研究内容的文本文档，并向它提问！还有更多！ 此自动研究人员使用互联网搜索和网络抓取来收集信息，根据您选择的主题或问题，它将生成与您的主题相关的重点领域，旨在探索您主题的各个方面并调查您主题或问题的各个相关方面，以通过在线研究检索相关信息来回答您的主题或问题。 LLM 将您的查询分解为最多 5 个特定的研究重点，根据相关性对它们进行优先排序，然后通过有针对性的网络搜索和内容分析从最相关的开始系统地调查每一个。 然后，在收集那些搜索并用尽所有重点领域的内容后，它将检查内容并使用其中的信息来生成新的重点领域，并且在过去，它经常根据已经收集的研究内容中的发现来找到新的相关重点领域（例如，它会寻找与您的主题或问题特别相关的特定案例研究），以前这种使用已经收集的研究内容来开发新研究领域的方法最终导致了有趣和新颖的研究重点，在某些情况下，这些重点是人类永远不会想到的，尽管里程可能会有所不同，但这个程序仍然是一个原型，但令人震惊的是，它确实有效！ 主要特点：  根据发现的内容不断生成新的研究重点 保存它找到的每条内容以及源 URL 完成研究内容后创建综合摘要，并使用它来回答您最初的疑问/问题 提供摘要后进入对话模式，您可以就其研究结果和研究提出具体问题，甚至可以询问摘要中未提及的内容，只要其发现的研究提供了有关所述内容的相关信息。 您可以根据需要运行它，直到 LLM 的上下文达到最大值，然后会自动停止研究，但仍然允许进行摘要和提问。或者随时停止它，这将导致它生成摘要。 但它还包括暂停功能以评估研究进度以确定是否收集了足够的信息，让您可以选择取消暂停并继续或终止研究并接收摘要。 适用于流行的 Ollama 本地模型（推荐使用 phi3：3.8b-mini-128k-instruct 或 phi3：14b-medium-128k-instruct，这是我迄今为止测试过并且有效的模型） 一切都在您的机器上本地运行，但仍然为您提供来自互联网的结果，只有一个查询，您就可以在相对较短的时间内获得大量实际研究结果。  最好的部分？您可以让它在后台运行，同时您做其他事情。回来找到一份详细的研究文件，其中包含数十个相关来源和提取的内容，所有这些都已组织并准备好进行审查。加上相关发现的摘要，并且能够向 LLM 询问有关这些发现的问题。非常适合研究、难以研究和新颖的问题，这些问题您懒得亲自研究，或者只是满足您对复杂主题的好奇心！ 带有完整说明的 GitHub repo： https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama （使用 Python 构建，完全开源，应该可以与任何兼容 Ollama 的 LLM 一起使用，尽管我只测试了 phi 3）    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</guid>
-      <pubDate>Wed, 20 Nov 2024 09:55:45 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
