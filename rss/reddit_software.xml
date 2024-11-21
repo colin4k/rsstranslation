@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 21:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 00:03:31 GMT</lastBuildDate>
+    <item>
+      <title>流程图优化</title>
+      <link>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</link>
+      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我所做的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</guid>
+      <pubDate>Wed, 20 Nov 2024 23:38:25 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以输出 midi 信号到 midi 控制器的软件</title>
       <link>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序，它看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给了我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是给出了那个错误 是不是因为我在 Windows 11 上？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <description><![CDATA[有一款名为 paintribbon 的应用，它看起来像 Windows 7 的画图程序，但可以在 Windows 7 之前的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给出了这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该程序安装成功，只是给出了那个错误 是不是因为我使用的是 Windows 11？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
       <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在寻找一种软件，我可以通过拖动来选择一段文本（显然可能是 PDF 格式，我不想复制粘贴到谷歌翻译中）或一张无法复制粘贴的图片，这样我就可以立即进行翻译。基本上就是 gyazo 翻译器，不是为了截图。     提交人    /u/ayanakamuraa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gv7xqq/translator_software_that_works_like_gyazo/</guid>
       <pubDate>Tue, 19 Nov 2024 21:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会使用像这样的人工智能文件管理器应用程序吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</link>
-      <description><![CDATA[大家好， 我一直在考虑为 macOS 创建一个文件管理应用，该应用使用 AI 以最简单、最智能的方式处理文件组织。这个想法是让用户给出简单的自然语言指令来组织、清理和管理他们的文件，而无需创建复杂的规则。我的意思是： 您只需输入一个提示，例如：  “将每个带有单词经济的文档标记为 #finance，然后将其移动到 Finance 文件夹。”  从那里，该应用处理所有事情 - 建议组织，帮助您删除旧文件或重复文件，甚至直接重新格式化或编辑文件（例如，将 PDF 转换为文本或调整图像大小）。所有操作在提交之前都可以预览，如果您改变主意，可以使用撤消功能。  它还可以处理计划的清理（例如在 X 天后自动删除临时文件夹），让您搜索文件中的内容，甚至可以与 Google Drive、Dropbox 或 OneDrive 等工具同步。您可以为快速任务制定一次性规则或设置临时工作流程，例如对过去 2 小时内处理过的文件进行分组。  目标：无需复杂的设置，只需告诉应用程序您想要什么，它就会在后端计算出来。  我考虑将这些功能定价为每月 8.99 美元。 您觉得怎么样？ 1. 您会使用这样的东西吗？ 2. 你会为此付费吗？如果不，什么让它值得？ 3. 您想要其他什么功能？  请随意发表评论，或者如果您愿意，可以给我发消息，安排一次关于您的需求或建议的快速聊天——我真的在尝试构建一些解决实际痛点的东西。  谢谢！     提交人    /u/Mattparr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</guid>
-      <pubDate>Tue, 19 Nov 2024 20:45:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
