@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 21:01:50 GMT</lastBuildDate>
+    <item>
+      <title>用于在窗口中镜像另一个显示器的程序</title>
+      <link>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</link>
+      <description><![CDATA[嗨， 我有一台 Wacom 绘图板，可用作辅助显示器，我想知道是否有一个程序可以将第二台显示器投影到我可以放在第一台显示器上的窗口上。为了说明这一点，这里有一张图片： https://preview.redd.it/8k33iu5tfb2e1.png?width=522&amp;format=png&amp;auto=webp&amp;s=b4c9aa0175fe902184530de2dcfd7f02dec7a8be 谢谢，    提交人    /u/pangredditlamang   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>文本清理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gwkv5i/text_cleanup_softwares/</link>
+      <description><![CDATA[嗨！我正在寻找一款可以清理大型文本文件的文本处理软件。基本上是 Windows 版 TextSoap 或 Clean Text 的替代品    提交人    /u/awkwardpotato0813   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwkv5i/text_cleanup_softwares/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于设计老式汽车电气系统的 CAD 软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1gwib4r/cad_software_for_designing_vintage_car_electrical/</link>
+      <description><![CDATA[您好， 我想重新绘制我的老式汽车的电气图，我需要某种 CAD 软件来完成此操作（使用图层、不同颜色等）。另外，如果它易于使用，那就更好了。 您能推荐一些软件给我吗？我希望它是免费的（或者更好的是 OSS），并且与 Windows 10 兼容。 谢谢！:)    提交人    /u/menguanito   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwib4r/cad_software_for_designing_vintage_car_electrical/</guid>
+      <pubDate>Thu, 21 Nov 2024 15:26:40 GMT</pubDate>
+    </item>
     <item>
       <title>我可以安全地将启动从其他操作系统更改为 Windows UEFI 吗？（Windows 11）</title>
       <link>https://www.reddit.com/r/software/comments/1gwh4o7/can_i_safely_change_boot_from_other_os_to_windows/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我的电脑连接了多个音频输出（通过简单的插孔和扬声器音频接口） 我正在寻找一种用户友好的软件，可以轻松管理我的每个应用程序以使用特定的音频输出。 例如，我想轻松更改 Spotify 是在扬声器上播放还是在耳机上播放，或者切换 Google Chrome 输出。 我可以在 Windows 设置中执行此操作，但我正在寻找一种轻松访问这些内容的方法。谢谢    提交人    /u/AzBako   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvoky1/recommendation_for_audio_mixing_on_windows/</guid>
       <pubDate>Wed, 20 Nov 2024 12:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>新软件技术建议</title>
-      <link>https://www.reddit.com/r/software/comments/1gvo26b/recommendations_for_tech_for_new_software/</link>
-      <description><![CDATA[嗨 我是一名软件开发人员/工程师，大约 30 年前开始全职工作。在过去的几年里，我只是时不时地开发软件，并更改一些小项目。 我需要创建一个简单的应用程序，并希望获得一些关于使用的技术及其优点/缺点的建议。 该应用程序需要：- 向用户询问一些信息 - 通过 FTP 与施耐德控制器通信并放入/获取文件 - 目前它只需要在 Windows 上运行，但将来可能需要支持 macos - Windows 版本“面向未来”会很好。因为它在新版本的 Windows 中停止工作而不得不更改应用程序并不好 - html/js/Python 会很好，对我来说学习更少 - 简单的安装程序会很好。单个可执行文件？ 建议？  谢谢，安东尼奥     由    /u/eightBPooler 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvo26b/recommendations_for_tech_for_new_software/</guid>
-      <pubDate>Wed, 20 Nov 2024 12:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jdwonloader 2 太棒了！我最近了解了下载管理器，对 Jdownloader 的出色表现感到震惊。</title>
-      <link>https://www.reddit.com/r/software/comments/1gvk39l/jdwonloader_2_is_awesome_i_learned_about_download/</link>
-      <description><![CDATA[作为一个尝试使用免费软件（最好是 FOSS）的人，我尝试了很多东西，最终选择了 Jdownloader2。它太棒了！youtube 最近似乎让从 YouTube 下载变得更加困难，而 yt-dlp 遇到了一个问题，如果你想要超过 360p，你必须下载一个视频流和一个音频流，然后使用视频编辑器将它们合并。这非常麻烦。然而，Jdownloader 似乎非常擅长这种任务。更不用说它真的很酷。比如下载速度的视觉效果等。我知道 torrent 客户端一直都很酷，在下载时可以做各种有趣的事情，对我个人来说，这已经是老生常谈了，让我回想起我第一次使用它的时候。至于普通下载，这真的很酷很有用。对于不是 youtube 的网站，也没有针对它的措施 - 它也对这些网站非常有用。就像 Odysee 一样。无论如何，它超级酷。如果有人有任何很酷的功能可以告诉我，我很乐意听到它。    提交人    /u/secular-human-12006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvk39l/jdwonloader_2_is_awesome_i_learned_about_download/</guid>
-      <pubDate>Wed, 20 Nov 2024 07:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>突出显示文章中的实体的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gvj75g/software_that_highlights_entities_in_an_article/</link>
-      <description><![CDATA[我最近参加了一个研讨会，有人向我展示了一个网站，你可以在其中粘贴一篇文章，然后它会突出显示 Google 已识别为实体的单词。 它显示了一个词云，其中的人、产品被识别为实体，颜色不同。有人知道那个软件是什么或类似的工具可以做到这一点。最好是免费的，但我愿意支付合理的金额。    提交人    /u/nsillk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvj75g/software_that_highlights_entities_in_an_article/</guid>
-      <pubDate>Wed, 20 Nov 2024 06:19:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
