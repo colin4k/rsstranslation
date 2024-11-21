@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 21 Nov 2024 06:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 09:02:04 GMT</lastBuildDate>
+    <item>
+      <title>如何发布和托管开源软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwbvav/how_to_release_and_host_open_source_software/</link>
+      <description><![CDATA[我开发了一个程序几十年了。我一直把它出售，并通过邮寄的 DVD 分发。 我上了年纪，有兴趣将这个程序发布到公共领域，这样它就能比我活得更久。 对我来说，分发这个软件的最佳方式是什么？需要：1. 免费托管空间，我可以提供一个 URL 供人们下载。2. 10GB 空间。3. 在我死后幸存下来。 我发现最接近的是 github，但我的项目太大了。 有什么建议吗？    提交人    /u/hspindel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwbvav/how_to_release_and_host_open_source_software/</guid>
+      <pubDate>Thu, 21 Nov 2024 08:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Studio 虚拟设备管理器替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwberc/android_studio_virtual_device_manager_alternative/</link>
+      <description><![CDATA[是否有类似 android studio 开源的 android 模拟器应用程序测试替代方案？    提交人    /u/TechBasedQuestion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwberc/android_studio_virtual_device_manager_alternative/</guid>
+      <pubDate>Thu, 21 Nov 2024 08:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于撰写期刊的 FOSS 应用程序。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwalfk/foss_application_for_writing_journals/</link>
+      <description><![CDATA[大家好， 我一直想继续写生活日志，但一直找不到适合我的 FOSS（免费开源软件）应用程序。DayOne 和 Diarium 等应用程序给我带来了很棒的体验，但它们不是开源的，而且价格昂贵。 有人知道功能强大、使用方便的 FOSS 日志应用程序吗？我很乐意听取建议！    提交人    /u/amitsarkar__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwalfk/foss_application_for_writing_journals/</guid>
+      <pubDate>Thu, 21 Nov 2024 07:13:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于部署应用程序的 SCA 工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gw9yt9/sca_tools_for_deployed_application/</link>
+      <description><![CDATA[我一直在研究一些软件组合分析 (SCA) 工具，这些工具据称可以扫描和分析组件的开源许可证和安全性以及其他合规性功能。但是，据我所知，它们面向开发人员和开发公司，因为它们会扫描其代码库以确保合规性。 我正在寻找一种工具来扫描已在运行的应用程序，并向我提供正在使用的工具及其许可证的报告。我认为流程是让我提供安装文件夹，然后工具完成其余工作。 假设我正在运行 mysql DB，它应该能够检查安装文件夹并报告。 有这样的工具吗？或者标准 SCA 工具可以做同样的事情吗？    提交人    /u/Thighsander   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gw9yt9/sca_tools_for_deployed_application/</guid>
+      <pubDate>Thu, 21 Nov 2024 06:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>有没有专门用于组织研究/知识的 Linux 和/或 Windows 写作软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gw64yl/any_writing_software_for_linux_andor_windows/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好， 由于我收到了很多关于评估流程和 Contribank 背后意图的问题，包括在 DM 中，我已经更新了网站，将所有详细信息包含在专门的页面上。它解释了：  当前的评估过程。 下一次迭代的计划。 平台的总体愿景和目标。  您可以在此处查看：它是如何工作的？ 如果您感兴趣，请随时留下反馈或注册候补名单 - 我很想听听您的想法！    提交人    /u/pagnumomus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gv6928/update_evaluation_process_and_intentions_behind_it/</guid>
       <pubDate>Tue, 19 Nov 2024 19:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源与 GAFAM 能和解吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gv5l6j/is_it_possible_to_reconcile_open_source_and_gafam/</link>
-      <description><![CDATA[大家好。我正在尝试重新设计我的整个数字环境。我有个缺点，就是太过极端。我做事不能半途而废，所以我想彻底从我的生活中移除 GAFAM。这很难。我一直在想这件事，甚至想着它就是我所做的一切。 我一开始只是使用 Linux（我喜欢），然后我对开源（我喜欢）产生了兴趣，然后我对互联网上的免费软件理念产生了兴趣，现在我想废除所有的 GAFAM。 我一生都在使用 GAFAM，尤其是 Google。我有自己的习惯，并且正在努力寻找 Gmail、Google 日历、Google Drive 等的替代品。我尝试过 Mailo 和 Pro。我尝试过 Mailo 和 Proton，但我真的不满意：Mailo 的基础设施太小而且不可靠，Proton 的 Bridge 有点奇怪（我知道你可以付费）。此外，在这两种情况下，你发送的邮件都有可能被归为垃圾邮件。  还有 Nextcloud，看起来还不错，但对于新手来说需要时间。我不一定拥有这些东西（尽管我已经花了很多时间考虑可以使用的替代方案）。  更重要的是，我是一名学生，没有收入来源。要在网上订购或购买东西，我必须直接问我父亲，这真的很痛苦，因为他不理解。 你觉得我的想法太极端了吗？我有一种印象，对开源和免费软件感兴趣和拥有 Google 帐户是不相容的？当我每天仍在使用 GAFAM 时，当我与某人谈论这些话题时，我会觉得自己像个冒名顶替者吗？我不是说偶尔，而是一直这样：我的邮箱是 Gmail，我的通讯应用程序是 Messenger，等等……  你们当中，是否有人完全支持 Open，但仍在使用微软、谷歌等服务？这不兼容吗？ 感谢您的关注    提交人    /u/ParkingAssociation20   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gv5l6j/is_it_possible_to_reconcile_open_source_and_gafam/</guid>
-      <pubDate>Tue, 19 Nov 2024 19:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于观看葡萄牙语动画的 CLI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gv4kxa/cli_tool_for_watching_anime_with_portuguese_sub/</link>
-      <description><![CDATA[这是为社区的巴西人和葡萄牙人准备的。试试看！  https://github.com/eduardonery1/ani-tupi    提交人    /u/Enough_Ad_8041   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gv4kxa/cli_tool_for_watching_anime_with_portuguese_sub/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vratix CLI：简化后端 API 开发的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gv1f9g/vratix_cli_opensource_tool_to_simplify_backend/</link>
-      <description><![CDATA[大家好 r/opensource！我一直在研究 Vratix CLI，这是一个开源工具，可帮助开发人员在几分钟内设置 Node.js API。它附带用户身份验证、Stripe 订阅、交易电子邮件和 S3 文件上传模块。 注意：这是一个早期版本，因此如果您有机会试用它，我很乐意听取您的反馈，了解您认为应该改进的地方或您认为有用的其他功能。输入越多越好！ 您可以根据需要贡献和扩展它，所有这些都可以在 GitHub 上找到。如果您正在寻找新的后端服务的起点，而又不想重新发明轮子，请查看它。  以下是文档和最新的更新日志：vratix.com 很想看看其他人如何贡献或使用它！    提交人    /u/CommissionExact1566   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gv1f9g/vratix_cli_opensource_tool_to_simplify_backend/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:37:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>想找个地方学习！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</link>
-      <description><![CDATA[大家好！我是来自荷兰的一名软件开发学生，我想学习计算机编程。我刚刚进入编程领域，正在通过我的教育和 Packt 的一些书籍学习基础知识。我很乐意向经验丰富的程序员学习，我认为开源世界可能是一个很好的起点，我不需要对我的贡献有任何报酬，只是我想向能够指导我或向我展示他或她的工作/编码方式并教我行业诀窍的人学习。如果您想联系我，请给我发消息，我也想知道哪些开源项目可能正在寻找像我这样的初级开发人员。提前谢谢大家！    提交人    /u/Battletower   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:02:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
