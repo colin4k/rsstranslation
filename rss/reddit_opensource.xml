@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Nov 2024 00:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 09:01:59 GMT</lastBuildDate>
+    <item>
+      <title>项目预算</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gx2wm8/project_budgeting/</link>
+      <description><![CDATA[大家好，我在寻找一款非常简单的预算软件。 我的想法是，我希望能够链接我的银行账户，然后将每笔交易放入一个“项目”中 例如，交易 1 - 100 英镑 - 项目 1，交易 2 - 300 英镑 - 项目 1，交易 3 - 150 英镑 - 项目 2 然后，当我点击该项目时，我将看到项目 1 = 400 英镑，项目 2 = 150 英镑 找到了一些项目管理软件，但它们似乎都过于复杂！ 有人知道有什么可用的软件吗？ 蒂亚    提交人    /u/Bobathy91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gx2wm8/project_budgeting/</guid>
+      <pubDate>Fri, 22 Nov 2024 08:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nitric：一个轻松的后端开发框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwwtaz/nitric_a_framework_for_effortless_backend_dev/</link>
+      <description><![CDATA[嗨 r/opensource  过去几年我一直与一个小团队合作开发此产品，今年我们刚刚发布了 1.0 版！ https://github.com/nitrictech/nitric 我们一直在努力尝试构建一些可以让后端开发人员的生活更简单的东西，我们一直在寻求更多的反馈和贡献，所以如果你喜欢我们所做的事情，欢迎加入我们的社区 :)。    提交人    /u/WearsOddSox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwwtaz/nitric_a_framework_for_effortless_backend_dev/</guid>
+      <pubDate>Fri, 22 Nov 2024 02:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>更好的 github 同步和 kftray 中新重构的前端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwukbk/better_github_sync_and_new_refactored_frontend_in/</link>
+      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwukbk/better_github_sync_and_new_refactored_frontend_in/</guid>
+      <pubDate>Fri, 22 Nov 2024 00:12:30 GMT</pubDate>
+    </item>
     <item>
       <title>带有开放 API 软件的 GPS 硬件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>有人正试图劫持 OpenSign 项目🚨</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwgpvj/someone_is_attempting_to_hijack_the_opensign/</link>
-      <description><![CDATA[大家好， 我是 OpenSign 的联合创始人，OpenSign 是 DocuSign 的一个开源替代方案。我想与大家分享我们项目中正在发生的令人担忧的情况。 最近，有人分叉了 OpenSign，并积极尝试取消所有付费计划限制，用他们自己的徽标替换我们项目的徽标。为了让事情变得更加复杂，他们甚至提出了这些更改的拉取请求。虽然在 AGPLv3 许可下技术上允许，但这感觉像是一个道德灰色地带。 可选的付费计划是 OpenSign 如何在免费提供核心功能的同时维持自身的关键部分。这次分叉直接危及我们资助开发和进一步发展项目的能力。 开源是关于协作和透明的，但这更像是剥削。这难道只是“开源的代价”吗？是否应该制定一些不成文的规则或指导方针，以防止分叉损害母项目的可持续性？ 我很想听听你对此的看法，特别是如果你在自己的项目中也遇到过类似的情况。最好的回应方式是什么？    提交人    /u/andrew-opensign   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我是 OpenSign 的联合创始人，OpenSign 是 DocuSign 的一个开源替代方案。我想与大家分享我们项目中正在发生的令人担忧的情况。 最近，有人分叉了 OpenSign，并积极尝试取消所有付费计划限制，用他们自己的徽标替换我们项目的徽标。为了让事情变得更加复杂，他们甚至提出了这些更改的拉取请求。虽然在 AGPLv3 许可下技术上允许，但这感觉像是一个道德灰色地带。 可选的付费计划是 OpenSign 如何在免费提供核心功能的同时维持自身的关键部分。这次分叉直接危及我们资助开发和进一步发展项目的能力。 开源是关于协作和透明的，但这更像是剥削。这难道只是“开源的代价”吗？是否应该有一些不成文的道德/伦理规则或指导方针来防止分叉损害母项目的可持续性？ 我很想听听你对此的看法，特别是如果你在自己的项目中遇到过类似的情况。最好的回应方式是什么？    提交人    /u/andrew-opensign   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwgpvj/someone_is_attempting_to_hijack_the_opensign/</guid>
       <pubDate>Thu, 21 Nov 2024 13:50:09 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我知道 libreoffice，只有 office 等，但我正在寻找具有知识库功能的东西，或者类似的东西，它是 foss，适用于 linux 和/或 windows，但也专注于在写作时组织信息。 我不确定是否有任何适合这个的东西，但无论如何我都想问一下。 编辑 - 我看了 jupyter labs（因为它有桌面版），但我使用 python，而且我正在寻找更多用于历史研究而不是特定于数据科学的研究，所以 jupyter labs 不适合我。    提交人    /u/CloudyyySXShadowH   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gw64yl/any_writing_software_for_linux_andor_windows/</guid>
       <pubDate>Thu, 21 Nov 2024 02:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过精准知识编辑 (PKE) 增强 LLM 安全性</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gw5itr/enhancing_llm_safety_with_precision_knowledge/</link>
-      <description><![CDATA[大家好， 我一直在研究一个名为 PKE（精确知识编辑）的项目，这是一种开源方法，通过减少有毒内容生成而不影响其总体性能来提高 LLM 的安全性。它的工作原理是使用神经元权重跟踪和激活通路跟踪来识别模型中的“有毒热点”，并通过自定义损失函数对其进行修改。 如果您对方法和结果感兴趣，我们还发表了一篇论文，详细介绍了我们的方法和实验结果。它包括与现有技术（如解毒实例神经元修改 (DINM)）的比较，并展示了 PKE 在降低攻击成功率 (ASR) 方面的显著改进。 该项目是开源的，我很乐意听取您的反馈！ GitHub repo 中有一个 Jupyter Notebook，提供了将 PKE 应用于 Meta-Llama-3-8B-Instruct 等模型的实际演示：https://github.com/HydroXai/Enhancing-Safety-in-Large-Language-Models 如果您对 AI 安全感兴趣，我将非常感谢您的想法和建议。感谢您的关注！    提交人    /u/lial4415   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gw5itr/enhancing_llm_safety_with_precision_knowledge/</guid>
-      <pubDate>Thu, 21 Nov 2024 02:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>就开源现状调查发表您的意见</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gvxcd3/give_your_input_on_the_state_of_open_source_survey/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gvxcd3/give_your_input_on_the_state_of_open_source_survey/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endurain - 一款开源健身追踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</link>
-      <description><![CDATA[大家好， 根据 Strava 最近的 API 新闻，我想在这里分享我的项目“Endurain”：https://github.com/joaovitoriasilva/endurain Endurain 是一种自托管健身追踪服务，旨在让用户完全控制他们的数据和托管环境。构建于： - 前端：Vue.js 和 Bootstrap CSS - 后端：Python FastAPI、Alembic、SQLAlchemy、stravalib 和 python-garminconnect 分别用于 Strava 和 Garmin Connect 集成，gpxpy 和 fitdecode 分别用于 .gpx 和 .fit 文件导入 - 数据库：MariaDB 用于高效的用户数据管理 - 可观察性：Jaeger 用于基本的跟踪和监控 由于 Strava 的变化，我将不得不改变一些东西，但我真的很想听听你对此的意见，也许你对此有所贡献。  谢谢。     提交人    /u/joaovsilva   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:54:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
