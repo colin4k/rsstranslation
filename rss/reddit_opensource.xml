@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 18:02:18 GMT</lastBuildDate>
+    <item>
+      <title>在框架之上还是从头开始构建开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gxbzbc/building_opensource_project_on_top_of_a_framework/</link>
+      <description><![CDATA[我（和一些开发人员）计划启动一个开源项目，但我们无法决定是使用框架还是从头开始。 从头开始构建总是更好吗？我说的是后端（PHP）？ 附带问题：PHP 真的是人们可以在共享主机上使用该项目的开源项目的最佳语言吗？    提交人    /u/KoalNix   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gxbzbc/building_opensource_project_on_top_of_a_framework/</guid>
+      <pubDate>Fri, 22 Nov 2024 16:35:40 GMT</pubDate>
+    </item>
     <item>
       <title>Streamsphere - 一款用于下载和管理媒体的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1gx6091/streamsphere_an_app_to_dl_manage_your_media/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>带有开放 API 软件的 GPS 硬件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</link>
-      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    提交人    /u/LongevityFutureMe   [链接] [评论]]]></description>
+      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    由   提交  /u/LongevityFutureMe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</guid>
       <pubDate>Thu, 21 Nov 2024 22:26:53 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>商业硬件中的开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</link>
-      <description><![CDATA[嗨，我很难理解一件事： 我正在使用一款采用 GPL V3 许可证的软件。我计划将我开发的所有软件都置于同一许可证之下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可证条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我很难理解一些事情： 我正在使用具有 GPL V3 许可证的软件。我计划将我开发的所有软件保留在同一许可证下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</guid>
       <pubDate>Thu, 21 Nov 2024 20:30:38 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>开源流式语音转文本 AI</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwegfh/open_source_streaming_speech_to_text_ai/</link>
-      <description><![CDATA[嗨，开源！我正在寻找创建类似于 https://voicewriter.io/app 的东西，能够打开麦克风，让用户说话并实时转录！有没有好的开源软件可以做到这一点；我知道例如，耳语在流媒体方面不是很好？    提交人    /u/Btmn101   [link] [评论]]]></description>
+      <description><![CDATA[嗨，开源！我正在寻找创建类似于 https://voicewriter.io/app 的东西，能够打开麦克风，让用户说话并实时转录！有没有好的开源软件可以做到这一点；例如，我知道 whisper 在流媒体方面不是很好？    提交人    /u/Btmn101   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwegfh/open_source_streaming_speech_to_text_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:51:33 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[       由    /u/yossthedev  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwd8tk/i_make_thissimple_cli_tool_for_hosting_static/</guid>
       <pubDate>Thu, 21 Nov 2024 10:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何发布和托管开源软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gwbvav/how_to_release_and_host_open_source_software/</link>
-      <description><![CDATA[我开发了一个程序几十年了。我一直把它出售，并通过邮寄的 DVD 分发。 我上了年纪，有兴趣将这个程序发布到公共领域，这样它就能比我活得更久。 对我来说，分发这个软件的最佳方式是什么？需要：1. 免费托管空间，我可以提供一个 URL 供人们下载。2. 10GB 空间。3. 在我死后幸存下来。 我发现最接近的是 github，但我的项目太大了。 有什么建议吗？    提交人    /u/hspindel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gwbvav/how_to_release_and_host_open_source_software/</guid>
-      <pubDate>Thu, 21 Nov 2024 08:49:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
