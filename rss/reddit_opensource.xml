@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 Nov 2024 18:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:02:42 GMT</lastBuildDate>
+    <item>
+      <title>预提交——即时 AI 代码审查您的拉取请求</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gxi3xp/presubmit_instant_ai_code_reviews_for_your_pull/</link>
+      <description><![CDATA[      嗨，开源， 今年我审查了 1000 多个代码更改。大部分时间都花在了发现明显的错误上，而不是讨论复杂的设计决策。估计每次审查大约需要 10 分钟，一年内审查代码就需要 160 多个小时。 所以我想：我可以使用 LLM 节省一些时间吗？ 这就是为什么我花了几个周末的时间构建 Presubmit，这是一个开源 AI 审阅器，当您打开 Pull 请求时，它会作为 Github Action 运行。到目前为止，结果令人鼓舞：我估计它可以将审阅时间缩短 50%，对我来说，这意味着我每年可以节省 80 小时（约 10 个工作日）。 与类似的 SaaS 解决方案不同，我们的目标不是取代人工审阅者，而是尽早发现明显的错误，发现安全漏洞并提供有关更改的更多背景信息。我喜欢把它想象成一个“预审员”。 它的一些功能包括：• 逐行注释 • PR 摘要 • 根据要求生成标题 • 回复审核评论 它支持所有主要的 LLM，但在我看来，Anthropic 的 Claude 最适合这种用例。 请尝试一下，期待任何反馈或贡献！这可能是第一个真正的开源项目😅 https://github.com/presubmit/ai-reviewer    提交人    /u/Lucky_Swim_178   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gxi3xp/presubmit_instant_ai_code_reviews_for_your_pull/</guid>
+      <pubDate>Fri, 22 Nov 2024 20:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在哪里找到可以贡献的新开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gxhbsz/where_can_i_find_new_opensource_projects_to/</link>
+      <description><![CDATA[作为一名不太专注于为开源项目做出贡献的开发人员，我在哪里可以找到准备启动但需要开发人员组建完整团队的项目？ 我认为对于准备加入此类“行业”的开发人员来说，这是正确的讨论主题。    提交人    /u/KoalNix   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gxhbsz/where_can_i_find_new_opensource_projects_to/</guid>
+      <pubDate>Fri, 22 Nov 2024 20:20:29 GMT</pubDate>
+    </item>
     <item>
       <title>在框架之上还是从头开始构建开源项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gxbzbc/building_opensource_project_on_top_of_a_framework/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>带有开放 API 软件的 GPS 硬件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</link>
-      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    由   提交  /u/LongevityFutureMe   [链接] [评论]]]></description>
+      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    提交人    /u/LongevityFutureMe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</guid>
       <pubDate>Thu, 21 Nov 2024 22:26:53 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>商业硬件中的开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</link>
-      <description><![CDATA[嗨，我很难理解一些事情： 我正在使用具有 GPL V3 许可证的软件。我计划将我开发的所有软件保留在同一许可证下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我很难理解一件事： 我正在使用一款采用 GPL V3 许可证的软件。我计划将我开发的所有软件都置于同一许可证之下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可证条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</guid>
       <pubDate>Thu, 21 Nov 2024 20:30:38 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>开源流式语音转文本 AI</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwegfh/open_source_streaming_speech_to_text_ai/</link>
-      <description><![CDATA[嗨，开源！我正在寻找创建类似于 https://voicewriter.io/app 的东西，能够打开麦克风，让用户说话并实时转录！有没有好的开源软件可以做到这一点；例如，我知道 whisper 在流媒体方面不是很好？    提交人    /u/Btmn101   [link] [评论]]]></description>
+      <description><![CDATA[嗨，开源！我正在寻找创建类似于 https://voicewriter.io/app 的东西，能够打开麦克风，让用户说话并实时转录！有没有好的开源软件可以做到这一点；我知道例如，耳语在流媒体方面不是很好？    提交人    /u/Btmn101   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwegfh/open_source_streaming_speech_to_text_ai/</guid>
       <pubDate>Thu, 21 Nov 2024 11:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>一款简洁干净的电子书阅读应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gwdgiu/a_clean_and_minimalist_ebook_reading_app/</link>
-      <description><![CDATA[大家好，我一直在开发一款名为 uRead 的电子书阅读应用程序，我很乐意与大家分享。它旨在为 Android 用户提供简单且可自定义的阅读体验。 主要功能：  电子书和有声读物支持：在 uRead 中，您可以阅读电子书（EPUB / PDF）和有声读物 可自定义的主题：更改文本和背景颜色以适合您的喜好。 注释：阅读时突出显示、下划线和做笔记。 阅读统计：跟踪您的进度和阅读习惯。 书架：使用对您有意义的书架来组织您的图书馆。  还有更多！ 我为什么制作 uRead： 我自己是一个读者，想要一个易于使用但仍然足够灵活的应用程序来适应不同的阅读风格。 uRead 可免费使用，开源，对于需要更多自定义功能的用户，还提供可选的高级功能。 如果您觉得这有用，您可以在 Google Play 商店这里查看。我很乐意听到您的想法、反馈或对未来更新的建议。 您还可以在这里找到 github Repo&gt; 感谢您的关注！😊    提交人    /u/RicDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gwdgiu/a_clean_and_minimalist_ebook_reading_app/</guid>
-      <pubDate>Thu, 21 Nov 2024 10:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了这个简单的 CLI 工具来托管静态文件。使用 Typescript 编写</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gwd8tk/i_make_thissimple_cli_tool_for_hosting_static/</link>
-      <description><![CDATA[       由    /u/yossthedev  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gwd8tk/i_make_thissimple_cli_tool_for_hosting_static/</guid>
-      <pubDate>Thu, 21 Nov 2024 10:29:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
