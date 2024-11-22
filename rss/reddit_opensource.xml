@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 21 Nov 2024 21:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 00:03:56 GMT</lastBuildDate>
+    <item>
+      <title>带有开放 API 软件的 GPS 硬件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</link>
+      <description><![CDATA[正在寻找开源的 airtag 复制品，有人知道好的吗？    提交人    /u/LongevityFutureMe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gws7ms/gps_hardware_with_open_api_software/</guid>
+      <pubDate>Thu, 21 Nov 2024 22:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>献给开源志愿者的安魂曲</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwqw15/requiem_for_the_volunteer_open_source_contributor/</link>
+      <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwqw15/requiem_for_the_volunteer_open_source_contributor/</guid>
+      <pubDate>Thu, 21 Nov 2024 21:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>商业硬件中的开源许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</link>
-      <description><![CDATA[嗨，我很难理解一些事情： 我正在使用具有 GPL V3 许可证的软件。我计划将我开发的所有软件保留在同一许可证下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我很难理解一件事： 我正在使用一款采用 GPL V3 许可证的软件。我计划将我开发的所有软件都置于同一许可证之下。但我计划开发自己的硬件（PCB、外壳等），并销售产品及其安装。因此，从技术上讲，我是将该软件用于商业用途。不是吗？我这样做是否违反了许可证条款？换句话说，软件许可证是否会转移到最终产品的非软件方面？    提交人    /u/Wild-Carry-9253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwpgsj/open_source_license_in_commercial_hardware/</guid>
       <pubDate>Thu, 21 Nov 2024 20:30:38 GMT</pubDate>
     </item>
@@ -106,14 +120,14 @@
     <item>
       <title>有没有专门用于组织研究/知识的 Linux 和/或 Windows 写作软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gw64yl/any_writing_software_for_linux_andor_windows/</link>
-      <description><![CDATA[我知道 libreoffice，只有 office 等，但我正在寻找具有知识库功能的东西，或者类似的东西，那是 foss，适用于 linux 和/或 windows，但也专注于在写作时组织信息。 我不确定是否有任何适合这个的东西，但无论如何我都想问一下。 编辑 - 我看了 jupyter labs（因为它有桌面版），但我使用 python，而且我正在寻找更多用于历史研究而不是特定于数据科学的研究，所以 jupyter labs 不适合我。    提交人    /u/CloudyyySXShadowH   [链接] [评论]]]></description>
+      <description><![CDATA[我知道 libreoffice，只有 office 等，但我正在寻找具有知识库功能的东西，或者类似的东西，它是 foss，适用于 linux 和/或 windows，但也专注于在写作时组织信息。 我不确定是否有任何适合这个的东西，但无论如何我都想问一下。 编辑 - 我看了 jupyter labs（因为它有桌面版），但我使用 python，而且我正在寻找更多用于历史研究而不是特定于数据科学的研究，所以 jupyter labs 不适合我。    提交人    /u/CloudyyySXShadowH   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gw64yl/any_writing_software_for_linux_andor_windows/</guid>
       <pubDate>Thu, 21 Nov 2024 02:55:29 GMT</pubDate>
     </item>
     <item>
       <title>通过精准知识编辑 (PKE) 增强 LLM 安全性</title>
       <link>https://www.reddit.com/r/opensource/comments/1gw5itr/enhancing_llm_safety_with_precision_knowledge/</link>
-      <description><![CDATA[大家好， 我一直在研究一个名为 PKE（精确知识编辑）的项目，这是一种开源方法，通过减少有毒内容生成而不影响其总体性能来提高 LLM 的安全性。它的工作原理是使用神经元权重跟踪和激活通路跟踪来识别模型中的“有毒热点”，并通过自定义损失函数对其进行修改。 如果您对方法和结果感兴趣，我们还发表了一篇论文，详细介绍了我们的方法和实验结果。它包括与现有技术（如解毒实例神经元修改 (DINM)）的比较，并展示了 PKE 在降低攻击成功率 (ASR) 方面的显著改进。 该项目是开源的，我很乐意听取您的反馈！ GitHub repo 中有一个 Jupyter Notebook，提供了将 PKE 应用于 Meta-Llama-3-8B-Instruct 等模型的实际操作演示：https://github.com/HydroXai/Enhancing-Safety-in-Large-Language-Models 如果您对 AI 安全感兴趣，我将非常感谢您的想法和建议。感谢您的关注！    提交人    /u/lial4415   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我一直在研究一个名为 PKE（精确知识编辑）的项目，这是一种开源方法，通过减少有毒内容生成而不影响其总体性能来提高 LLM 的安全性。它的工作原理是使用神经元权重跟踪和激活通路跟踪来识别模型中的“有毒热点”，并通过自定义损失函数对其进行修改。 如果您对方法和结果感兴趣，我们还发表了一篇论文，详细介绍了我们的方法和实验结果。它包括与现有技术（如解毒实例神经元修改 (DINM)）的比较，并展示了 PKE 在降低攻击成功率 (ASR) 方面的显著改进。 该项目是开源的，我很乐意听取您的反馈！ GitHub repo 中有一个 Jupyter Notebook，提供了将 PKE 应用于 Meta-Llama-3-8B-Instruct 等模型的实际演示：https://github.com/HydroXai/Enhancing-Safety-in-Large-Language-Models 如果您对 AI 安全感兴趣，我将非常感谢您的想法和建议。感谢您的关注！    提交人    /u/lial4415   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gw5itr/enhancing_llm_safety_with_precision_knowledge/</guid>
       <pubDate>Thu, 21 Nov 2024 02:25:15 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 根据 Strava 最近的 API 新闻，我想在这里分享我的项目“Endurain”：https://github.com/joaovitoriasilva/endurain Endurain 是一种自托管健身追踪服务，旨在让用户完全控制他们的数据和托管环境。构建于： - 前端：Vue.js 和 Bootstrap CSS - 后端：Python FastAPI、Alembic、SQLAlchemy、stravalib 和 python-garminconnect 分别用于 Strava 和 Garmin Connect 集成，gpxpy 和 fitdecode 分别用于 .gpx 和 .fit 文件导入 - 数据库：MariaDB 用于高效的用户数据管理 - 可观察性：Jaeger 用于基本的跟踪和监控 由于 Strava 的变化，我将不得不改变一些东西，但我真的很想听听你对此的意见，也许你对此有所贡献。  谢谢。     提交人    /u/joaovsilva   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gvu338/endurain_an_open_source_fitness_tracker/</guid>
       <pubDate>Wed, 20 Nov 2024 16:54:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 软件安装程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gvs2df/windows_software_installer/</link>
-      <description><![CDATA[我决定尝试建立一个网站，该网站可生成一个脚本，您可以运行该脚本在 Windows 上安装软件。目前，它支持 60 多个应用程序，包括浏览器、游戏启动器、通信服务和软件开发工具。 此工具的目标是使计算机的初始设置过程更加简单和流畅，而不是手动导航到每个站点下载这些程序的安装程序。 您可以在 https://easyinstall.zachbaker.dev 找到它。 我想获得一些反馈：  它是否按您认为的方式工作？ 用户界面是否有意义，还是应该将其分解为不同的页面或多个页面？  是否有任何您希望看到但未包含的应用程序？ 还有其他一般反馈吗？  您还可以在 GitHub 上查看源代码。    提交人    /u/ZachT112   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gvs2df/windows_software_installer/</guid>
-      <pubDate>Wed, 20 Nov 2024 15:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我们的开源位置跟踪应用程序构建 E2EE——寻求建议！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gvpmcq/building_e2ee_for_our_opensource_location/</link>
-      <description><![CDATA[大家好！👋 不久前，我分享了有关 GroupTrack 的更新，这是我们的开源应用，可帮助群组实时共享其位置。这个社区的反响令人难以置信 - 感谢大家的所有反馈和支持！ 我们现在开始开发一项重要功能：用于位置共享的端到端加密 (E2EE)。我们的目标是确保位置数据的私密性和安全性，同时确保应用保持简单和用户友好。 由于这是一个棘手的领域，我们很乐意听听您的想法！您是否研究过 E2EE 或类似的隐私优先功能？任何建议或资源都将不胜感激。 该项目是开源的，因此如果您好奇或想要做出贡献，这里是 repo：https://github.com/canopas/group-track-android 再次感谢您迄今为止的所有鼓励 - 期待听到您的想法！    提交人    /u/jimmy0251   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gvpmcq/building_e2ee_for_our_opensource_location/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

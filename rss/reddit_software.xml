@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 21:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 00:03:41 GMT</lastBuildDate>
+    <item>
+      <title>需要排序的多个驱动器</title>
+      <link>https://www.reddit.com/r/software/comments/1gwrsdy/multiple_drives_that_need_to_be_sorted/</link>
+      <description><![CDATA[我有两个内置驱动器和两个外置驱动器，这些年来我把它们弄得一团糟。我想找一些软件，可以按类型将它们组织到文件夹中。有人有什么想法吗？提前谢谢了。 是的，我可以自己按每个驱动器的文件类型排序等等。但肯定有一个我可以买的程序可以帮我做这件事。    提交人    /u/puledrotauren   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwrsdy/multiple_drives_that_need_to_be_sorted/</guid>
+      <pubDate>Thu, 21 Nov 2024 22:08:45 GMT</pubDate>
+    </item>
     <item>
       <title>用于在窗口中镜像另一个显示器的程序</title>
       <link>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</link>
@@ -43,14 +50,14 @@
     <item>
       <title>最好的 AI 图像生成器应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1gwfcxl/best_ai_image_generator_app/</link>
-      <description><![CDATA[我正在寻找一个允许我训练自定义图像模型的应用程序。我需要在我公司的产品上训练它，然后能够在任何地方生成产品的图像。 我使用过的所有应用程序都明显是 AI 生成的，或者它们的手和其他功能存在奇怪的错误。另一个常见问题是它会弄乱文本。 提前谢谢您     提交人    /u/BlueChimp5   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个允许我训练自定义图像模型的应用程序。我需要在我公司的产品上训练它，然后能够在任何地方生成产品的图像。 我使用过的所有应用程序都明显是 AI 生成的，或者它们的手和其他功能存在奇怪的错误。另一个常见问题是它会弄乱文本。 提前谢谢您    提交人    /u/BlueChimp5   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gwfcxl/best_ai_image_generator_app/</guid>
       <pubDate>Thu, 21 Nov 2024 12:42:03 GMT</pubDate>
     </item>
     <item>
       <title>类似于 Windows Sandbox 的虚拟机/沙盒</title>
       <link>https://www.reddit.com/r/software/comments/1gwebgi/a_virtual_machinesandbox_similar_to_windows/</link>
-      <description><![CDATA[是否有第三方 VM/Sandbox 软件可以将我当前的桌面复制为 VM/Sandbox 环境（如 Windows Sandbox）？在 Windows Sandbox 中，它会加载我的桌面副本（作为 VM/Sandbox 环境），无需设置/配置。 我想知道是否有一个 VM/Sandbox 软件，一旦安装，我就会加载 VM/Sandbox 软件，然后我的桌面副本就会出现（作为 VM/Sandbox 环境）。 虽然有第三方 VM/Sandbox 软件，如 VirtualBox 和 Sandboxie（作为典型示例），但可以创建 VM/Sandbox 环境，但需要在其上安装操作系统。我没有额外的 Windows OS 软件副本（也不想购买）。    提交人    /u/Samta752   [链接] [评论]]]></description>
+      <description><![CDATA[是否有第三方 VM/Sandbox 软件可以将我当前的桌面复制为 VM/Sandbox 环境（如 Windows Sandbox）？在 Windows Sandbox 中，它会加载我的桌面副本（作为 VM/Sandbox 环境），无需设置/配置。 我想知道是否有一个 VM/Sandbox 软件，一旦安装，我就会加载 VM/Sandbox 软件，然后会出现我的桌面副本（作为 VM/Sandbox 环境）。 虽然有第三方 VM/Sandbox 软件，如 VirtualBox 和 Sandboxie（作为典型示例），但可以创建 VM/Sandbox 环境，但需要在其上安装操作系统。我没有额外的 Windows OS 软件副本（也不想购买）。    提交人    /u/Samta752   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gwebgi/a_virtual_machinesandbox_similar_to_windows/</guid>
       <pubDate>Thu, 21 Nov 2024 11:42:50 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>寻找一个可以正确比较文件大小并查找重复项的文件比较工具</title>
       <link>https://www.reddit.com/r/software/comments/1gw9xry/looking_for_a_file_comparison_tool_that_properly/</link>
-      <description><![CDATA[我有多个文件夹，里面有各种随机文件，这些文件的名称各不相同，具体取决于它们所在的文件夹，我想检查其中是否有重复项。我搜索并尝试了多个程序，我使用过 WinMerge、Compare It、FreeFileSync 和 Beyond Compare，它们中的每一个在比较文件大小时都使用文件名称。我可以通过从文件夹 1 复制文件并将其粘贴到文件夹 2 并更改名称来轻松测试这一点。每个程序都将它们视为不同的文件，即使它们的大小完全相同（精确到字节）。是否有一个程序可以真正比较文件大小，忽略文件名，或者有一种方法可以让这些程序忽略文件的名称？    提交人    /u/DorrajD   [链接] [评论]]]></description>
+      <description><![CDATA[我有多个文件夹，里面有各种随机文件，这些文件的名称各不相同，具体取决于它们所在的文件夹，我想检查其中是否有重复项。我搜索并尝试了多个程序，我使用过 WinMerge、Compare It、FreeFileSync 和 Beyond Compare，它们中的每一个在比较文件大小时都使用文件名称。我可以通过从文件夹 1 复制文件并将其粘贴到文件夹 2 并更改名称来轻松测试这一点。每个程序都将它们视为不同的文件，即使它们的大小完全相同（精确到字节）。是否有一个程序可以真正比较文件大小，而忽略文件名，或者有一种方法可以让这些程序忽略文件的名称？    提交人    /u/DorrajD   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw9xry/looking_for_a_file_comparison_tool_that_properly/</guid>
       <pubDate>Thu, 21 Nov 2024 06:30:16 GMT</pubDate>
     </item>
     <item>
       <title>我正在寻找一个可以输入我的电子邮件账户的邮件客户端，</title>
       <link>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</link>
-      <description><![CDATA[它们将保存在我的所有设备上，而无需我将每封电子邮件输入到每台设备中。我有大量设备，如果我的主要移动设备死机，我想要一个简单的解决方案。云解决方案很好。我的手机上有 Gmail，里面有我所有的账户，只有我能把它们导出并导入到另一部手机上……我知道这可能是不可能的，但如果有人有想法，请提出来？ 跨平台和云解决方案很受欢迎。主要是我害怕丢失手机或手机故障，不得不检查我所有的密码和账户，因为有很多    提交人    /u/riade3788   [链接] [评论]]]></description>
+      <description><![CDATA[它们将保存在我的所有设备上，而无需我将每封电子邮件输入到每台设备中。我有大量设备，如果我的主要移动设备死机，我想要一个简单的解决方案。云解决方案很好。我的手机上有 Gmail，里面有我所有的账户，只有我能把它们导出并导入到另一部手机上……我知道这可能不可能，但如果有人有想法，请提出来？ 跨平台和云解决方案很受欢迎。主要是我害怕丢失手机或手机故障，不得不检查我所有的密码和账户，因为有很多    提交人    /u/riade3788   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</guid>
       <pubDate>Thu, 21 Nov 2024 06:02:05 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>流程图优化</title>
       <link>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</link>
-      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我所做的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</guid>
       <pubDate>Wed, 20 Nov 2024 23:38:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[伙计们，我正在努力为我工作的公司寻找软件...  我需要一个程序对某些产品的管理，指出生产成本以及生产过程中可能的损失、库存管理和投入。财务... 我用谷歌搜索了一下，我也在国外寻找一个程序，但我只找到了一个糟糕的程序，即使它是付费的...如果有人知道并可以推荐它，甚至包含这些资源的自动电子表格。我真的很感激...   由   提交/u/Witty_Macaron_2869   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvpayq/sistema_de_produção_erp/</guid>
       <pubDate>Wed, 20 Nov 2024 13:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 上音频混合的推荐</title>
-      <link>https://www.reddit.com/r/software/comments/1gvoky1/recommendation_for_audio_mixing_on_windows/</link>
-      <description><![CDATA[我的电脑连接了多个音频输出（通过简单的插孔和扬声器音频接口） 我正在寻找一种用户友好的软件，可以轻松管理我的每个应用程序以使用特定的音频输出。 例如，我想轻松更改 Spotify 是在扬声器上播放还是在耳机上播放，或者切换 Google Chrome 输出。 我可以在 Windows 设置中执行此操作，但我正在寻找一种轻松访问这些内容的方法。谢谢    提交人    /u/AzBako   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvoky1/recommendation_for_audio_mixing_on_windows/</guid>
-      <pubDate>Wed, 20 Nov 2024 12:40:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
