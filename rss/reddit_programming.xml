@@ -4,20 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 22 Nov 2024 21:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 00:04:45 GMT</lastBuildDate>
+    <item>
+      <title>介绍 Srcbook：只需提出请求即可构建 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxm21a/introducing_srcbook_build_web_apps_just_by_asking/</link>
+      <description><![CDATA[  由    /u/nichochar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxm21a/introducing_srcbook_build_web_apps_just_by_asking/</guid>
+      <pubDate>Fri, 22 Nov 2024 23:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 EYG 解释效果和效果处理程序 [视频]</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxlx0n/explaining_effects_and_effect_handlers_with_eyg/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxlx0n/explaining_effects_and_effect_handlers_with_eyg/</guid>
+      <pubDate>Fri, 22 Nov 2024 23:45:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Sorbet 逐步实现 Ruby 大规模输入</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxlwxd/gradual_typing_for_ruby_at_scale_with_sorbet/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxlwxd/gradual_typing_for_ruby_at_scale_with_sorbet/</guid>
+      <pubDate>Fri, 22 Nov 2024 23:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>GoMLX：不使用 Python 的 Go 机器学习</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxlwvp/gomlx_ml_in_go_without_python/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxlwvp/gomlx_ml_in_go_without_python/</guid>
+      <pubDate>Fri, 22 Nov 2024 23:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>vueframe V2 就在这里！！！</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxkcju/vueframe_v2_is_here/</link>
+      <description><![CDATA[  由    /u/Medical_Start4604  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxkcju/vueframe_v2_is_here/</guid>
+      <pubDate>Fri, 22 Nov 2024 22:34:30 GMT</pubDate>
+    </item>
     <item>
       <title>我对新加入值班团队的人说的话</title>
       <link>https://www.reddit.com/r/programming/comments/1gxia53/what_i_tell_people_new_to_oncall/</link>
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gxia53/what_i_tell_people_new_to_oncall/</guid>
       <pubDate>Fri, 22 Nov 2024 21:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的笑话生成器网站！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxhyuf/check_out_my_joke_generator_website/</link>
-      <description><![CDATA[  由    /u/Open_Crazy_7456  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxhyuf/check_out_my_joke_generator_website/</guid>
-      <pubDate>Fri, 22 Nov 2024 20:48:04 GMT</pubDate>
     </item>
     <item>
       <title>LLM 需要额外的 20% 来弥补编码方面的差距，这就是为什么我们永远不会用变形金刚取代软件工程师</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gxd4tc/reliably_benchmarking_small_changes/</guid>
       <pubDate>Fri, 22 Nov 2024 17:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级内核旁路 I/O 抽象的案例</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxd4n5/the_case_for_a_highlevel_kernelbypass_io/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxd4n5/the_case_for_a_highlevel_kernelbypass_io/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jainja：用 Java 编写的 JVM</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxd4kv/jainja_a_jvm_written_in_java/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxd4kv/jainja_a_jvm_written_in_java/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>宝宝的第二个垃圾收集器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxd41m/babys_second_garbage_collector/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxd41m/babys_second_garbage_collector/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>真正可移植的 C 应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxd1v6/truly_portable_c_applications/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxd1v6/truly_portable_c_applications/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:20:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

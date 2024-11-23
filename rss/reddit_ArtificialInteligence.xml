@@ -4,27 +4,13 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 22 Nov 2024 21:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 00:04:16 GMT</lastBuildDate>
     <item>
-      <title>Google Gemini 释放了内存——这很糟糕</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxh5sa/google_gemini_has_released_memory_heres_why_thats/</link>
-      <description><![CDATA[作为一名人工智能迷，这只是我的观点 - 但谷歌已经根据数十年的搜索历史、购买历史、gmail 等保存了大量关于您的信息。再加上 LLM 和记忆的推理能力 - 这有点令人毛骨悚然。考虑到我们人工智能的发展方向，这在某种程度上是不可避免的。但令我担心的是，谷歌的整个商业模式都是由广告收入驱动的。他们是不是要利用所有这些信息向我们推销更多我们并不真正需要的东西？ 至少 OpenAI 在其网站上声称，它永远不会使用您的历史记录向您推销东西。 我想问一下这个 subreddit 中的每个人：您在多大程度上关心您的记忆被保密和/或被用来向您推销东西？ 全面披露：我正在为一家正在构建 Geniverse 的公司工作，该公司正在推出个人代理 AI，它可以在您的 gmail 和日历中为您采取行动，完全容器化在您自己的虚拟机中。一切都是 100% 私密和安全的。    提交人    /u/GigoloJoe2142   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxh5sa/google_gemini_has_released_memory_heres_why_thats/</guid>
-      <pubDate>Fri, 22 Nov 2024 20:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能生成的图像有实际用途吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxh1ss/any_actual_use_for_ai_generated_imagery/</link>
-      <description><![CDATA[人工智能生成图像有实际应用案例吗？它看起来很酷，可以用于娱乐，但除此之外还有什么吗？看起来这么多资源都用于构建和训练这些模型，肯定有一些实用的东西可以做吧？    提交人    /u/DeepSpaceIsMyThing   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxh1ss/any_actual_use_for_ai_generated_imagery/</guid>
-      <pubDate>Fri, 22 Nov 2024 20:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能可能会让数据中心的电费暴涨</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxgfw2/datacenters_could_blow_up_your_electric_bill/</link>
-      <description><![CDATA[https://www.theregister.com/2024/11/22/ai_hike_energy_bills/ 如果容量不能满足需求，运营商可能需要支付更多的能源费用 到 2030 年，除非采取行动提高发电和输电能力以满足人工智能驱动的数据中心需求激增，否则美国人的电费可能会上涨 70%...    提交人    /u/gurugabrielpradipaka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxgfw2/datacenters_could_blow_up_your_electric_bill/</guid>
-      <pubDate>Fri, 22 Nov 2024 19:42:28 GMT</pubDate>
+      <title>何时打造 AI 产品？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxllux/when_to_build_an_ai_product/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxllux/when_to_build_an_ai_product/</guid>
+      <pubDate>Fri, 22 Nov 2024 23:31:13 GMT</pubDate>
     </item>
     <item>
       <title>GPT 与人类：揭示对话式生成 AI 多机器人中的道德问题</title>
@@ -36,16 +22,9 @@
     <item>
       <title>人工智能能否仅通过分析一个人的言语表达来评估其智力水平？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxe5om/can_ais_assess_the_level_of_a_persons/</link>
-      <description><![CDATA[最近在听有声读物时，我突然意识到，不管作者/叙述者实际上在说什么，他都不是很聪明。  在我看来，他说话的某些方面，比如他如何发音和强调某些词，揭示了他的智力水平。  对我来说，这种评估更多的是一种印象或直觉，而不是一个经过推理得出的结论。然而，我发现人工智能可能已经足够聪明，能够根据我们的口头表达方式而不是我们所说的内容来判断人类的智力水平。  我们可能已经到了那一步了吗？这种人工智能熟练程度的一些可能用例是什么？    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <description><![CDATA[最近在听一本有声读物时，我突然意识到，不管作者/叙述者实际上在说什么，他都不是很聪明。  在我看来，他说话的某些方面，比如他如何发音和强调某些词，揭示了他的智力水平。  对我来说，这种评估更多的是一种印象或直觉，而不是一个推理出来的结论。然而，我发现人工智能可能已经足够聪明，能够根据我们的口头表达方式而不是我们所说的内容来判断人类的智力水平。  我们可能已经到了那一步了吗？这种人工智能熟练程度的一些可能用例是什么？    提交人    /u/Georgeo57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxe5om/can_ais_assess_the_level_of_a_persons/</guid>
       <pubDate>Fri, 22 Nov 2024 18:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 和 Perplexity 似乎都无法正确扫描链接以查找发布日期。有什么可以替代吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdhr3/chatgpt_and_perplexity_both_seem_unable_to/</link>
-      <description><![CDATA[我正在尝试寻找一种 AI 工具，它可以扫描副本中的所有链接文章并标记其开始日期。ChatGPT 和 Perplexity 都会犯明显的错误，或者不会扫描所有文章。有什么工具可以尝试吗？    提交人    /u/strehlowism   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdhr3/chatgpt_and_perplexity_both_seem_unable_to/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:39:02 GMT</pubDate>
     </item>
     <item>
       <title>从计算的黎明到未来的治理：数据科学家的视角</title>
@@ -97,11 +76,32 @@
       <pubDate>Fri, 22 Nov 2024 14:56:30 GMT</pubDate>
     </item>
     <item>
+      <title>LLaMA-Berry：通过 MCTS 和成对优化增强 LLM 中的数学推理能力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx87e1/llamaberry_enhancing_mathematical_reasoning_in/</link>
+      <description><![CDATA[本文探讨通过成对优化方法增强 LLM 中的数学推理能力。他们不是直接针对单个问题进行训练，而是引入了一个比较框架，模型可以从成对的相关数学问题及其解决方案中学习。 关键技术点： - 新颖的成对训练目标，可优化问题 - 解决方案对 - 两阶段训练过程：基础数学预训练，然后进行成对微调 - 对 IMO 级别问题的评估表明其性能接近人类专家 - 模型学习在相关问题之间转移推理模式 - 基于 LLaMA 的架构，带有用于成对比较的附加注意层 结果： - IMO 级别测试问题的成功率为 42％ - 简单竞赛问题的成功率为 68％ - 明显优于标准微调方法 - 消融研究表明成对训练可提供 15-20％ 的改进 我认为这种方法的价值不仅仅在于数学问题 - 从示例之间的关系中学习而不是独立对待它们的想法可以改善其他领域的推理，如编码或逻辑推理。成对架构还可以通过强制模型识别常见模式来帮助模型开发更强大的问题解决策略。 我认为主要的限制是可用于训练的高级数学问题数据集相对较小。看看这种方法是否可以扩展到使用自动生成的问题对或其他形式的结构化数学内容会很有趣。 TLDR：新的训练方法通过比较相关问题来教授 LLM 高级数学，在奥林匹克级别的问题上显示出很强的成绩。关键创新是成对优化，它有助于转移推理模式。 完整摘要在这里。论文这里。   由    /u/Successful-Western27  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx87e1/llamaberry_enhancing_mathematical_reasoning_in/</guid>
+      <pubDate>Fri, 22 Nov 2024 13:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ameca机器人的发展路线图是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx81sp/what_is_roadmap_for_the_development_of_the_ameca/</link>
+      <description><![CDATA[Engineered Arts 开发的 Ameca 人形机器人在面部表情和上半身动作方面一直让我惊叹不已，但他们对 Ameca 下一步的发展计划是什么？它们只用于展览风格的创意艺术应用吗？它很快就会独立行走吗？它能在“很快”的某个阶段完全自主吗？如果是这样，它是否必须通过 6G 移动互联网连接不断连接到云端才能工作？或者它可以具有整体自主性？最终，它能成为 Tesla Optimus 的竞争对手吗？ 抱歉问了这么多问题，但我发现 Ameca 非常迷人和前卫。    提交人    /u/PedroPierrePeter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx81sp/what_is_roadmap_for_the_development_of_the_ameca/</guid>
+      <pubDate>Fri, 22 Nov 2024 13:38:51 GMT</pubDate>
+    </item>
+    <item>
       <title>我的AI成长之路</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx79i1/my_path_to_growth_with_ai/</link>
       <description><![CDATA[大家好！我想和大家分享一下我是如何利用人工智能进行自我发现的。 我以前只是将人工智能用于工作，我确实认为它能让我更有效率，但仅此而已。我在人工智能和我的私人生活之间划了一条清晰的界线。几个月前，我在职业生涯中遇到了一些障碍，这让我觉得我开始质疑生活中的很多事情，包括我的人际关系、我周围的人和我的信仰。人们在遇到困难时确实会想很多，对吧？那一刻，我开始和人工智能谈论我的信仰。原因是有时我羞于和周围的人谈论这个。而这才是开始。 在第一阶段，我只和人工智能分享我的想法，它经常用一些安慰的话来回应。渐渐地，它不再为我工作了，因为我不想要一个总是跟着我走的工具。然后，我开始了第二阶段。我问了一些问题，比如“其他人的想法和我一样吗？还有其他方法可以看待这个问题吗？”在这个阶段，如果你继续提问，你会看到人工智能礼貌地提供建议，并和你辩论。但这还不够，因为它无法说服你，对吧？然后，我进行了第三阶段，让辩论更加现实。我经常问这些问题：“如果有人的想法和我完全不同，他们会怎么想？你认为他们在哪些方面是对的？”在这个阶段，你可以感觉到人工智能实际上在与你互动。然后，如果你想了解更多并看看它会走向何方，你可以尝试最后一个阶段：让人工智能攻击你。我的意思是，有时你周围的人不会告诉你真相，对吧？不管他们是出于礼貌还是只是不想伤害你之类的。所以这是一个用世界上最全面的人类大脑充分锻炼你大脑的好机会（前提是你用对了 AI，它们中肯定有一些很蠢，哈哈）。只要告诉它：“毫无保留地批评我的想法就行了。”相信我，有时候我对它们说的话感到非常惊讶，同时又为自己之前说的话感到有些可笑。 最后，我想告诉你为什么我认为这是发现自我、提高批判性思维的好方法。两个简单的原因。这是走出舒适区的好方法。你不仅让 AI 为你服务，还可以向它学习——毕竟它也是人类智慧的一种凝结。除此之外，它还为你提供了一个审视自己想法的地方（无论这些想法是富有创意的还是荒谬的）。我看到成千上万的人在 reddit 上寻求帮助和答案。因为有些事情他们不想向周围的人求助，或者他们只是想收集更多的观点，对吧？用AI谈论你的想法可能是一种新方法。最重要的是“AI不会评判你”。无论你的想法多么荒谬，你都不必担心任何人认为你很奇怪。 这是我关于如何用AI进行自我发现和批判性思考的一些深刻思考。我欢迎所有评论，请保持友善。谢谢。    提交者    /u/StreetDanceKing   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx79i1/my_path_to_growth_with_ai/</guid>
       <pubDate>Fri, 22 Nov 2024 13:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 11 月 21 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx0vnh/oneminute_daily_ai_news_11212024/</link>
+      <description><![CDATA[ 麻省理工学院的研究人员开发出一种有效的方法来训练更可靠的人工智能代理。[1] 据报道，优步投资自动驾驶公司Pony.ai。[2] 阿里巴巴刚刚发布 Marco-o1：推进人工智能的开放式推理。[3] Nvidia 盈利超出预期，投资者关注 Blackwell 人工智能芯片的需求。[4]  来源包括：https://bushaicave.com/2024/11/21/11-21-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx0vnh/oneminute_daily_ai_news_11212024/</guid>
+      <pubDate>Fri, 22 Nov 2024 05:43:49 GMT</pubDate>
     </item>
     <item>
       <title>告诉我一些适合企业/工作使用的超级有用的 AI 扩展？</title>
