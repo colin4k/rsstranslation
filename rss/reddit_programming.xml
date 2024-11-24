@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 24 Nov 2024 09:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 12:02:24 GMT</lastBuildDate>
+    <item>
+      <title>Jekyll 对于小型个人博客来说似乎有点麻烦 - 所以我又建了一个静态站点生成器 :)</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</link>
+      <description><![CDATA[  由    /u/jarvuyirttehc  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</guid>
+      <pubDate>Sun, 24 Nov 2024 11:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>统计数据 spotify 已包装</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyopc8/a_statistic_spotify_wrapped/</link>
+      <description><![CDATA[  由    /u/Rich_Walrus_1648  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyopc8/a_statistic_spotify_wrapped/</guid>
+      <pubDate>Sun, 24 Nov 2024 11:13:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个动态帖子分发算法，可以根据用户活动调整内容交付。活跃用户会先收到帖子，而不太活跃的用户则会稍后收到帖子。最终每个用户都会收到帖子，帮助小型创作者成长。完整代码如下</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyomnv/i_built_a_dynamic_post_distribution_algorithm/</link>
+      <description><![CDATA[  由   提交  /u/No-Abroad-5213   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyomnv/i_built_a_dynamic_post_distribution_algorithm/</guid>
+      <pubDate>Sun, 24 Nov 2024 11:08:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了 SongBar：一款极简的 macOS 菜单栏应用，可显示当前正在播放的 Spotify 曲目</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyomdv/i_built_songbar_a_minimal_macos_menu_bar_app_that/</link>
+      <description><![CDATA[  由    /u/niyoseris  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyomdv/i_built_songbar_a_minimal_macos_menu_bar_app_that/</guid>
+      <pubDate>Sun, 24 Nov 2024 11:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>克服不够优秀的程序员</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyoeit/getting_over_not_being_a_good_enough_programmer/</link>
+      <description><![CDATA[  由    /u/the_nifty_programmer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyoeit/getting_over_not_being_a_good_enough_programmer/</guid>
+      <pubDate>Sun, 24 Nov 2024 10:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 安全检查表：9 个必须遵循的最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1gynnvm/github_security_checklist_9_mustfollow_best/</link>
+      <description><![CDATA[  由    /u/hectormoodya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gynnvm/github_security_checklist_9_mustfollow_best/</guid>
+      <pubDate>Sun, 24 Nov 2024 10:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 标准贡献者因“未定义行为问题”被开除</title>
+      <link>https://www.reddit.com/r/programming/comments/1gynl1v/c_standards_contributor_expelled_for_the/</link>
+      <description><![CDATA[  由    /u/hectormoodya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gynl1v/c_standards_contributor_expelled_for_the/</guid>
+      <pubDate>Sun, 24 Nov 2024 09:58:58 GMT</pubDate>
+    </item>
     <item>
       <title>从游戏到网络的磨砂玻璃</title>
       <link>https://www.reddit.com/r/programming/comments/1gymb4z/frosted_glass_from_games_to_the_web/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/phicreative1997  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gy2uur/how_to_make_more_reliable_reports_using_ai_a/</guid>
       <pubDate>Sat, 23 Nov 2024 16:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有并行循环接口的 C++ 线程池</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy2o1m/c_threadpool_with_parallel_loop_interface/</link>
-      <description><![CDATA[  由    /u/hmoein  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy2o1m/c_threadpool_with_parallel_loop_interface/</guid>
-      <pubDate>Sat, 23 Nov 2024 15:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>逆向工程 Microsoft BASIC</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy1vrp/reverse_engineering_microsoft_basic/</link>
-      <description><![CDATA[  由    /u/fredoverflow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy1vrp/reverse_engineering_microsoft_basic/</guid>
-      <pubDate>Sat, 23 Nov 2024 15:17:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年航天飞机圣诞节代码搜寻——AoC 风格的 Rust 代码挑战！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy1azn/shuttle_christmas_code_hunt_2024_aocstyle_rust/</link>
-      <description><![CDATA[  由    /u/blastecksfour  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy1azn/shuttle_christmas_code_hunt_2024_aocstyle_rust/</guid>
-      <pubDate>Sat, 23 Nov 2024 14:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>让 JavaScript 摆脱 Oracle 控制的斗争</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxzhty/the_fight_to_free_javascript_from_oracles_control/</link>
-      <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxzhty/the_fight_to_free_javascript_from_oracles_control/</guid>
-      <pubDate>Sat, 23 Nov 2024 13:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>新语言：通用脚本语言 (.usl)</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxypvr/new_language_universal_scripting_language_usl/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxypvr/new_language_universal_scripting_language_usl/</guid>
-      <pubDate>Sat, 23 Nov 2024 12:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 Rust 构建的高性能 IoT 开发平台，专为多协议支持和实时数据处理而设计。该平台支持 MQTT、WebSockets (WS)、TCP 和 CoAP 协议，可高度灵活地适用于各种 IoT 应用。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxy34o/a_highperformance_iot_development_platform_built/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxy34o/a_highperformance_iot_development_platform_built/</guid>
-      <pubDate>Sat, 23 Nov 2024 12:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速、精确的 D&D 概率分布计算</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxwo0h/fast_and_exact_probability_distributions/</link>
-      <description><![CDATA[  由    /u/Knaapje  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxwo0h/fast_and_exact_probability_distributions/</guid>
-      <pubDate>Sat, 23 Nov 2024 10:25:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

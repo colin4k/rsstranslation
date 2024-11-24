@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 24 Nov 2024 09:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 12:02:33 GMT</lastBuildDate>
+    <item>
+      <title>对“Apache 2”许可证有点困惑。如果我包含“node_modules”，并且包具有“apache 2”许可证，并且我没有修改该包本身的任何文件，我是否应该添加一个额外的文件来描述该 node.js 包的未修改文件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gynb3n/a_bit_confused_with_the_apache_2_license_if_i/</link>
+      <description><![CDATA[ 在我的项目中，我正在创建针对具有 ARM64 CPU 的设备的实现（脚本），并且我不希望我的软件包的用户关心特定 CPU 架构的 node_modules 的安装（因为他们，用户，可能有 PC，它本身就是 AMD64 CPU，但是他们的设备，平板电脑，仍然在 ARM64 上），因此，我在我的存储库中包含 node_modules，以简化软件包的使用。 在这些 node_modules 中，会有多个 Node.js 软件包，其中大多数是基于 MIT 许可证的，但其中一个有 Apache 2 许可证。 现在，我已经阅读了许可证的这段文字https://httpd.apache.org/docs/trunk/license.html   重新分发。您可以以任何媒体复制和分发作品或其衍生作品的副本，无论是否经过修改，以源形式或对象形式，只要您满足以下条件： • 您必须向作品或衍生作品的任何其他接收者提供本许可证的副本；并且 • 您必须使任何修改后的文件带有显著的声明，说明您更改了文件；并且 • 您必须在您分发的任何衍生作品的源形式中保留作品源形式中的所有版权、专利、商标和归属声明，但与衍生作品任何部分无关的声明除外；并且 • 如果作品在分发时包含“通知”文本文件，则您分发的任何衍生作品都必须在以下至少一处包含此类通知文件中所含归属通知的可读副本（不属于衍生作品任何部分的通知除外）：在作为衍生作品一部分分发的通知文本文件中；在源形式或文档中（如果与衍生作品一起提供）；或者，在衍生作品生成的显示中（如果此类第三方通知通常出现）。通知文件的内容仅供参考，不会修改许可证。您可以在您分发的衍生作品中添加您自己的归属声明，将其作为作品声明文本的附录或附在作品声明文本旁边，但前提是此类附加归属声明不能解释为修改许可证。 。 您可以在您的修改中添加您自己的版权声明，并可以为您的修改的使用、复制或分发，或为任何此类衍生作品整体提供额外或不同的许可条款和条件，但前提是您对作品的使用、复制和分发符合本许可证中规定的条件。  但我仍然有点困惑，我是否需要做任何额外的事情，特别是在我的项目中的开源许可方面。因此，我的整个项目（包括 node_modules 文件夹）都以 MIT 许可证 进行许可。但是，node_modules 文件夹下的那些特定包已经包含 Apache 2 许可证。而且，我没有修改那些特定的软件包。那么，我是对的吗？我不需要从具有 Apache 2 许可证 的软件包中添加任何额外内容，例如“未修改文件列表”，以遵守任何潜在的许可证声明..？ 提前致谢。    提交人    /u/anti22dot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gynb3n/a_bit_confused_with_the_apache_2_license_if_i/</guid>
+      <pubDate>Sun, 24 Nov 2024 09:38:34 GMT</pubDate>
+    </item>
     <item>
       <title>使用 FastAPI 和 pytest 的 OAuth 教程</title>
       <link>https://www.reddit.com/r/opensource/comments/1gyaq14/oauth_tutorial_using_fastapi_and_pytest/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>最好的开源一体化 AI 助手 Chrome 扩展程序是什么？我一直在使用 HARPA AI，但我发现免费使用量很快就用完了</title>
       <link>https://www.reddit.com/r/opensource/comments/1gxpu7k/whats_the_top_opensource_allinone_ai_assistant/</link>
-      <description><![CDATA[AI 扩展程序极大地帮助了我的日常生活，尤其是在管理电子邮件等任务方面。我目前正在寻找一个可以在使用 Google Chrome 时帮助我高效完成任务的 AI 助手。    提交人    /u/4everonlyninja   [link] [评论]]]></description>
+      <description><![CDATA[AI 扩展程序极大地帮助了我日常生活，尤其是在管理电子邮件等任务方面。我目前正在寻找一个可以在使用 Google Chrome 时帮助我高效完成任务的 AI 助手。    提交人    /u/4everonlyninja   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gxpu7k/whats_the_top_opensource_allinone_ai_assistant/</guid>
       <pubDate>Sat, 23 Nov 2024 03:00:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨 r/opensource  过去几年我一直与一个小团队合作开发此产品，今年我们刚刚发布了 1.0 版！ https://github.com/nitrictech/nitric 我们一直在努力尝试构建一些可以让后端开发人员的生活更简单的东西，我们一直在寻求更多的反馈和贡献，所以如果你喜欢我们所做的事情，那就加入我们的社区吧 :)。    提交人    /u/WearsOddSox   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwwtaz/nitric_a_framework_for_effortless_backend_dev/</guid>
       <pubDate>Fri, 22 Nov 2024 02:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>更好的 github 同步和 kftray 中新重构的前端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gwukbk/better_github_sync_and_new_refactored_frontend_in/</link>
-      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gwukbk/better_github_sync_and_new_refactored_frontend_in/</guid>
-      <pubDate>Fri, 22 Nov 2024 00:12:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
