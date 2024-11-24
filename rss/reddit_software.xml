@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 24 Nov 2024 03:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 09:01:45 GMT</lastBuildDate>
+    <item>
+      <title>远程访问整个系统</title>
+      <link>https://www.reddit.com/r/software/comments/1gykt1p/remote_access_entire_system/</link>
+      <description><![CDATA[我有一台台式电脑和一台性能严重不足的笔记本电脑，我想用笔记本电脑访问电脑。但是，我希望能够远程访问整个系统，而不仅仅是单个用户会话（两个系统都运行 Arch） 例如，我可以转到 TTY 或切换用户而不会丢失连接 理想情况下，它只使用本地网络以最小化延迟，因为我希望通过这样的连接玩游戏 有这样的程序吗？    提交人    /u/Super_Effective1203   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gykt1p/remote_access_entire_system/</guid>
+      <pubDate>Sun, 24 Nov 2024 06:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有免费软件可以加密 USB 吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gyk6b9/free_software_to_encrypt_a_usb/</link>
+      <description><![CDATA[我没有 Windows 10 专业版，所以我无法使用 BitLocker 加密我的 USB。有人知道有什么免费的选项可以给我的工作 USB 设置密码，这样我的重要信息就不会被盗吗？    提交人    /u/ZooterTheWooter   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gyk6b9/free_software_to_encrypt_a_usb/</guid>
+      <pubDate>Sun, 24 Nov 2024 05:58:57 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11 照片编辑软件</title>
       <link>https://www.reddit.com/r/software/comments/1gygbm4/windows_11_photo_editing_software/</link>
@@ -48,7 +62,7 @@
       <pubDate>Sat, 23 Nov 2024 22:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>PDF 表单字段异常行为（UPDF）</title>
+      <title>PDF 表单字段的奇怪行为（UPDF）</title>
       <link>https://www.reddit.com/r/software/comments/1gyb5nu/pdf_form_fields_weird_behavior_updf/</link>
       <description><![CDATA[  由    /u/linnoff  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gyb5nu/pdf_form_fields_weird_behavior_updf/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>我正在寻找会员管理软件（非政府组织）</title>
       <link>https://www.reddit.com/r/software/comments/1gy5irb/im_looking_for_member_managment_software_at_ngo/</link>
-      <description><![CDATA[您好， 我正在寻找一款软件，可以让我和我的同事管理小型非营利组织 (NGO)。我需要一些数据库来存储成员信息，例如姓名、电子邮件、联系方式。 我想要一些功能，例如邮件发送器（用于发送新闻通讯）和财务详情，例如会员费。 您会给我推荐什么？如果软件是免费或便宜的，那就太好了。我们有自己的服务器，所以可以把它放在那里。    提交人    /u/PoncMst   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我正在寻找一款软件，可以让我和我的同事管理小型非营利组织 (NGO)。我需要一些数据库来存储成员信息，例如姓名、电子邮件、联系方式。 我想要一些功能，例如邮件发送器（用于发送新闻稿）和财务详情，例如会员费。 您会给我推荐什么？如果软件是免费或便宜的，那就太好了。我们有自己的服务器，所以可以把它放在那里。    提交人    /u/PoncMst   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gy5irb/im_looking_for_member_managment_software_at_ngo/</guid>
       <pubDate>Sat, 23 Nov 2024 17:56:23 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我建立了 https://digil.ink，这是一个免费的文件共享服务，上传任何文档图像或文件或文件集，并接收可与他人共享以访问同一文档的短链接和二维码 您可以用密码保护链接，设置到期日期，完全免费，无需注册，如果用户愿意，可以付费计划，允许他们编辑链接的内容和更大的存储上传。     提交人    /u/yevo_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gxtfmt/free_file_document_or_image_sharing/</guid>
       <pubDate>Sat, 23 Nov 2024 06:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适用于 Windows 11 的具有缩略图预览功能的 ePub 阅读器软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1gxt98w/any_epub_reader_software_for_windows_11_with/</link>
-      <description><![CDATA[这是 Android 上的 ReadEra Premium 版本： https://preview.redd.it/1j22mu5vgl2e1.jpg?width=1116&amp;format=pjpg&amp;auto=webp&amp;s=44b49e697689dfb5679d2be5d1f2fddb93892bd8 https://preview.redd.it/su8ovu3wgl2e1.jpg?width=894&amp;format=pjpg&amp;auto=webp&amp;s=d5778616c1e4028ed51aa5065165c77a13482a50 Win11 上有类似的东西吗？    提交人    /u/sebastiandresilva   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gxt98w/any_epub_reader_software_for_windows_11_with/</guid>
-      <pubDate>Sat, 23 Nov 2024 06:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 注释软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gxrbp1/pdf_annotation_software/</link>
-      <description><![CDATA[我目前使用 Xodo。有没有开源替代品？在互联网上搜索时，我使用了自由办公室 Draw，但它更像是一个 pdf 编辑器而不是注释器！    提交人    /u/Sonulob   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gxrbp1/pdf_annotation_software/</guid>
-      <pubDate>Sat, 23 Nov 2024 04:24:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
