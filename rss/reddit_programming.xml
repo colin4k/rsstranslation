@@ -4,20 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 24 Nov 2024 12:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 18:02:58 GMT</lastBuildDate>
+    <item>
+      <title>每个工程师都应该知道的一个框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyuzip/the_one_framework_every_engineer_should_know/</link>
+      <description><![CDATA[  由    /u/xxjcutlerxx  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyuzip/the_one_framework_every_engineer_should_know/</guid>
+      <pubDate>Sun, 24 Nov 2024 16:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库的零磁盘架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1gytiel/zero_disk_architecture_for_databases/</link>
+      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gytiel/zero_disk_architecture_for_databases/</guid>
+      <pubDate>Sun, 24 Nov 2024 15:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速行动并放弃一些东西</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyt0fa/move_fast_and_abandon_things/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyt0fa/move_fast_and_abandon_things/</guid>
+      <pubDate>Sun, 24 Nov 2024 15:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库匿名化工具发布。Greenmask v0.2.5</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyso6g/database_anonymization_tool_release_greenmask_v025/</link>
+      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyso6g/database_anonymization_tool_release_greenmask_v025/</guid>
+      <pubDate>Sun, 24 Nov 2024 14:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Node.js 的 node:wasi 为 node 和 Wasmer 的 WASI 为 Deno、Node.js、Bun</title>
+      <link>https://www.reddit.com/r/programming/comments/1gysjn9/using_nodejs_nodewasi_for_node_and_wasmers_wasi/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gysjn9/using_nodejs_nodewasi_for_node_and_wasmers_wasi/</guid>
+      <pubDate>Sun, 24 Nov 2024 14:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>从被解雇到被聘用：软件工程师的指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyrn6n/from_laid_off_to_hired_a_software_engineers_guide/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyrn6n/from_laid_off_to_hired_a_software_engineers_guide/</guid>
+      <pubDate>Sun, 24 Nov 2024 14:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为 macOS 应用设置 Flutter 深度链接？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gyqeg5/how_to_set_up_deep_linking_with_flutter_for_macos/</link>
+      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gyqeg5/how_to_set_up_deep_linking_with_flutter_for_macos/</guid>
+      <pubDate>Sun, 24 Nov 2024 12:59:00 GMT</pubDate>
+    </item>
     <item>
       <title>Jekyll 对于小型个人博客来说似乎有点麻烦 - 所以我又建了一个静态站点生成器 :)</title>
       <link>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</link>
       <description><![CDATA[  由    /u/jarvuyirttehc  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</guid>
       <pubDate>Sun, 24 Nov 2024 11:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>统计数据 spotify 已包装</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyopc8/a_statistic_spotify_wrapped/</link>
-      <description><![CDATA[  由    /u/Rich_Walrus_1648  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyopc8/a_statistic_spotify_wrapped/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:13:12 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个动态帖子分发算法，可以根据用户活动调整内容交付。活跃用户会先收到帖子，而不太活跃的用户则会稍后收到帖子。最终每个用户都会收到帖子，帮助小型创作者成长。完整代码如下</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/Epicmania135  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gyip50/i_wrote_a_qr_code_generator_that_fits_within_a_qr/</guid>
       <pubDate>Sun, 24 Nov 2024 04:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>影响科学应用中浮点计算的硬件趋势</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyhte0/hardware_trends_impacting_floatingpoint/</link>
-      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyhte0/hardware_trends_impacting_floatingpoint/</guid>
-      <pubDate>Sun, 24 Nov 2024 03:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源冬季代码节！🎉 旨在成为尝试新编程语言的一种有趣方式。如果您感觉很冷淡并想做出贡献，还有几个问题要问。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy9zqu/open_source_winter_code_fest_meant_to_be_a_fun/</link>
-      <description><![CDATA[  由    /u/2urnesst  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy9zqu/open_source_winter_code_fest_meant_to_be_a_fun/</guid>
-      <pubDate>Sat, 23 Nov 2024 21:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Togger - 观看程序员现场编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy7pgv/togger_watch_coders_coding_live/</link>
-      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy7pgv/togger_watch_coders_coding_live/</guid>
-      <pubDate>Sat, 23 Nov 2024 19:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ponylang理念：“把事情做好”</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy5tpg/la_filosofía_ponylang_hacer_las_cosas_bien/</link>
-      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy5tpg/la_filosofía_ponylang_hacer_las_cosas_bien/</guid>
-      <pubDate>Sat, 23 Nov 2024 18:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 FAANG 面试依赖 LeetCode？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy36s0/why_do_faang_interviews_rely_on_leetcode/</link>
-      <description><![CDATA[  由    /u/BeautifulAnywhere392  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy36s0/why_do_faang_interviews_rely_on_leetcode/</guid>
-      <pubDate>Sat, 23 Nov 2024 16:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用人工智能制作更可靠的报告——技术指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1gy2uur/how_to_make_more_reliable_reports_using_ai_a/</link>
-      <description><![CDATA[  由    /u/phicreative1997  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gy2uur/how_to_make_more_reliable_reports_using_ai_a/</guid>
-      <pubDate>Sat, 23 Nov 2024 16:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

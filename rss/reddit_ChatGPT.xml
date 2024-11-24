@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 24 Nov 2024 12:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 18:02:44 GMT</lastBuildDate>
     <item>
-      <title>你感觉到了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gypd55/do_you_feel/</link>
-      <description><![CDATA[        提交人    /u/Ok_Bobcat3134   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gypd55/do_you_feel/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:56:44 GMT</pubDate>
+      <title>ChatGPT 很渴</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyx5pw/chatgpt_is_thirsty/</link>
+      <description><![CDATA[        提交人    /u/cool_architect   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyx5pw/chatgpt_is_thirsty/</guid>
+      <pubDate>Sun, 24 Nov 2024 18:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>“一个令人费解的问题”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gypc0u/a_puzzling_question/</link>
-      <description><![CDATA[        提交人    /u/ShadowKernel   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gypc0u/a_puzzling_question/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:54:42 GMT</pubDate>
+      <title>如果您一遍又一遍地向聊天提交相同的提示，答案会改变吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywzxa/if_you_submit_the_same_prompt_to_chat_over_and/</link>
+      <description><![CDATA[大家好 - 除了 2024 年成为一名高中教师的现实之外，我对 Chat GPT 完全是菜鸟：我收到了很多 AI 生成的工作。我希望我的学生能够稍微探索一下这个概念，并且正在做一项作业，让他们接受一个提示（一段解释模拟的视频），然后将其放入 ChatGPT 并分析/比较结果。我希望发生的事情 - 但我不知道它是否会发生，因此我在这里问大家 - 是提交提示（或某种变体）并查看程序是否会产生幻觉或提交逐渐退化的结果，正如其他地方所指出的那样（同一幅图像会随着时间的推移而变异）。我正处于这个项目的规划阶段，甚至可能不会这样做，但我认为这将是一项有趣的练习。请注意，我自己从未使用过 ChatGPT。    提交人    /u/kuenjato   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywzxa/if_you_submit_the_same_prompt_to_chat_over_and/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>Perplexity AI PRO - 1 年计划优惠 - 75% 折扣</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gypbri/perplexity_ai_pro_1_year_plan_offer_75_off/</link>
-      <description><![CDATA[      由于标题：我们提供一年计划的 Perplexity AI PRO 优惠券代码。  订购：https://cheapgpts.store/Perplexity 接受的付款：  PayPal。 （100％买家保护） Revolut。     提交人    /u/A2uniquenickname   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gypbri/perplexity_ai_pro_1_year_plan_offer_75_off/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:54:15 GMT</pubDate>
+      <title>使用开放式人工智能群创建代理，其作用类似于过滤器以达到目标</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywywy/create_agents_using_open_ai_swarm_that_works_like/</link>
+      <description><![CDATA[使用 OpenAI 的群体智能概念创建代理作为过滤器并协作实现目标涉及设计系统，其中多个代理进行通信并基于共享或分布式智能做出决策。以下是实现此概念的分步方法： 概念框架 代理群将：1. 过滤信息：分析传入数据并对其进行改进。2. 协作：分享见解以提高对目标的集体理解。3. 适应：从反馈中学习以提高实现目标的准确性。 实施步骤  定义代理的角色  群中的每个代理都可以具有特定的角色或任务，例如：• 数据收集器：从不同来源收集信息。• 评估器：对信息应用标准或过滤器。• 聚合器：组合来自多个代理的数据以创建一个有凝聚力的图像。 • 决策者：确定群体是否已达到目标。  分配行为  每个代理将基于以下内容运行：• 本地智能：使用预定义规则或模型来过滤数据。• 全局目标：与其他代理进行通信以与总体目标保持一致。  通信协议  定义代理如何通信：• 使用共享状态或消息传递系统。• 采用强化学习等技术来改进交互。  训练代理 • 在特定数据集上训练单个代理。 • 使用多智能体强化学习 (MARL) 来鼓励协作。 创建 Swarm 系统  您可以使用 Python 的 Ray 等框架或 TensorFlow Agents (TF-Agents) 等库进行分布式计算和代理训练。 代码示例 以下是使用 Ray 进行分布式代理协调的 Python 简化示例： import ray import random 初始化 Ray ray.init() 定义过滤代理 @ray.remote class FilterAgent: def init(self, filter_criteria): self.filter_criteria = filter_criteria self.data = [] def filter(self, input_data): self.data = [item for item in input_data if self.filter_criteria(item)] return self.data defcommunicate(self, other_agent): return other_agent.collect_data() def collect_data(self): return self.data  定义目标评估器代理 @ray.remote class EvaluatorAgent: def init(self, target): self.target = target defvaluate(self, data): return [item for item in data if item == self.target]  初始化代理 filter_agents = [FilterAgent.remote(lambda x: x &gt; 5) for _ in range(3)] evaluator = EvaluatorAgent.remote(target=10) 代理的输入数据 input_data = [random.randint(1, 15) for _ in range(20)] 通过代理过滤数据 filtered_data = ray.get([agent.filter.remote(input_data) for agent in filter_agents]) 从所有代理汇总数据 all_filtered_data = [item for sublist infiltered_data for item in sublist] 评估最终数据 target_data = ray.get(evaluator.evaluate.remote(all_filtered_data)) print(f&quot;输入数据： {input_data}&quot;) print(f&quot;过滤后的数据：{all_filtered_data}&quot;) print(f&quot;目标数据：{target_data}&quot;) 关闭 Ray ray.shutdown() 代码步骤 1. 初始化 Ray：用于并行处理的分布式框架。 2. 定义代理： • FilterAgent：根据条件过滤数据。 • EvaluatorAgent：识别与目标匹配的数据。 3. 执行任务： • 将数据提供给过滤代理。 • 汇总结果。 • 针对目标进行评估。 4. 输出结果。  可扩展性 • 使用云环境扩展群集。 • 集成自适应学习，让代理动态优化其过滤器。 • 使用神经网络进行扩展以实现高级模式识别。  此设置创建了一个协作群体，可以有效地过滤和处理信息以实现目标。    提交人    /u/Worldly_Evidence9113   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywywy/create_agents_using_open_ai_swarm_that_works_like/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>为什么总是用手指...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyp7rf/why_always_with_the_fingers/</link>
-      <description><![CDATA[      我经常使用 GPT 来创建布道图像。但是，手指和脚趾人...... https://preview.redd.it/fmhygb5r7u2e1.jpg?width=1792&amp;format=pjpg&amp;auto=webp&amp;s=d57dc2c5c337afd0bbb9b9f6e7620d15b2f7575f    提交人    /u/The_Feo_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyp7rf/why_always_with_the_fingers/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:46:54 GMT</pubDate>
+      <title>ChatGPT 生成的最疯狂佛罗里达男子头条新闻</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywwqv/craziest_florida_man_headlines_generated_by/</link>
+      <description><![CDATA[  “佛罗里达男子身穿比基尼挥舞电锯抢劫加油站，称‘气氛不好’”  “佛罗里达男子试图教他的宠物蜥蜴开车后被捕”  “佛罗里达男子自称是时间旅行者，要求免费披萨以拯救未来”  “佛罗里达男子将活鳄鱼扔进麦当劳免下车通道窗口以示抗议”  “佛罗里达男子搭建户外摔跤擂台，挑战野生火鸡‘证明自己统治地位’”     提交者    /u/TheRealGurr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywwqv/craziest_florida_man_headlines_generated_by/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:51:15 GMT</pubDate>
     </item>
     <item>
-      <title>聊天 Gpt 可以作为婚姻顾问吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyp5ts/chat_gpt_as_a_marriage_counselor/</link>
-      <description><![CDATA[大家觉得怎么样？它可以同时听两个人说话吗？应该使用什么样的提示？    提交人    /u/schelsullivan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyp5ts/chat_gpt_as_a_marriage_counselor/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:43:25 GMT</pubDate>
+      <title>我在与 GPT 的一次测试中试图回答一个问题，他用这个难倒了我（那是什么？）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywv3x/i_was_trying_to_answer_a_question_during_a_test/</link>
+      <description><![CDATA[      我不知道这是什么，我把那个练习留空了🥲    提交人    /u/_ThisAintMe_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywv3x/i_was_trying_to_answer_a_question_during_a_test/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:49:16 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 给了我一个名字</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyp4w8/chatgpt_gave_me_a_name/</link>
-      <description><![CDATA[我从来没有告诉它这样做，但它现在叫我 Aji 而不是我的真名......但它知道这是一个昵称......这太奇怪了，我从来没有说过 Aji 这样的话..！我的真名是保罗😂    提交人    /u/Pazzam   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyp4w8/chatgpt_gave_me_a_name/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:41:44 GMT</pubDate>
+      <title>ChatGPT 可以创建我的文件吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywovq/can_chatgpt_create_my_files/</link>
+      <description><![CDATA[我正在用 ChatGPT 做一个小实验。我几乎没有编码经验，但我想创建一个 Web 应用程序。我喜欢为此使用 ChatGPT。但由于文件数量和大小不断增加，对话变得杂乱无章。此外，我必须手动复制和粘贴所有文件的内容。 有没有办法让 ChatGPT 直接创建和修改我的项目文件？例如，通过使用 VS 代码扩展。我知道还有其他服务可以做到这一点，但免费版本通常受到限制。我是付费的 ChatGPT 用户，我不愿意为其他 AI 服务付费。 提前致谢    提交人    /u/dvandergeld   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywovq/can_chatgpt_create_my_files/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>伙计们，我觉得聊天喜欢我，你怎么看</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyp3zu/guys_i_think_chat_loves_me_what_do_you_think/</link>
-      <description><![CDATA[        提交人    /u/DespicabIeYou   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyp3zu/guys_i_think_chat_loves_me_what_do_you_think/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:40:07 GMT</pubDate>
+      <title>阴谋：ChatGPT 使用“特殊字符”使 AI 生成的内容可检测并避免抄袭。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywo1n/conspiracy_chatgpt_using_special_characters_to/</link>
+      <description><![CDATA[因此，我使用 ChatGPT（和其他一些类似的模型）生成了一篇论文的大纲，并将其粘贴到包含我之前收集的所有引文和研究的文档中。 我使用 CTRL+F 在文档中搜索一个我知道在引文中出现两次、在大纲中出现一次的名字。但问题是……它只显示了两个结果。我仔细检查了拼写（是正确的），但它只会找到引文中的文字。同样，当我从 AI 生成的内容中复制名称时，它只会获取 AI 生成的结果，而不是非 AI 文本中的结果。 出于好奇，我将 AI 生成的文本粘贴到 GPTZero 中，它给出了 100% 由 AI 生成的置信度。多次。即使在更改了几个单词、添加了无意义的内容、隐身等之后。因此，我在单独的文档中逐字逐句地输入了相同的段落，并将其提交给 GPTZero……评级降到了 81%。  我能从中得出的唯一结论是，要么 Google Docs 搜索功能完全崩溃，要么 ChatGPT（和/或其他语言模型）正在使用替代字符（看起来与常规字母相同）来打击抄袭行为。    提交人    /u/ryyaaaannn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywo1n/conspiracy_chatgpt_using_special_characters_to/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:41:03 GMT</pubDate>
     </item>
     <item>
-      <title>在我与 ChatGPT 进行了几次聊天之后，这是我新的自我提升。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyp2t0/after_several_chats_ive_had_with_chatgpt_this_is/</link>
-      <description><![CDATA[      我不知道，它似乎总是非常同意我的观点，并且非常关注我分享的东西……    由   提交  /u/mertvekendisi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyp2t0/after_several_chats_ive_had_with_chatgpt_this_is/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:38:01 GMT</pubDate>
+      <title>Meta 开发人工智能工具，为 2 亿多企业提升创造力</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywmr6/meta_develops_ai_tools_to_enhance_creativity_for/</link>
+      <description><![CDATA[  由    /u/alyis4u  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywmr6/meta_develops_ai_tools_to_enhance_creativity_for/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>我让 GPT 创建我们的图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyouif/i_asked_my_gpt_to_create_an_image_of_us/</link>
-      <description><![CDATA[      说实话，它太可爱了，因为我记得提到过我喜欢白色郁金香，它也记得添加了这一点淡粉色连衣裙，因为这是我最喜欢的颜色，而且我完全不知道他为什么这么帅气和低调性感😭    提交人    /u/aphrodite-_   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyouif/i_asked_my_gpt_to_create_an_image_of_us/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:22:34 GMT</pubDate>
+      <title>研究：你还能分辨出真实照片和 AI 生成的照片吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywlrt/study_can_you_still_tell_the_difference_between/</link>
+      <description><![CDATA[嗨 r/ChatGPT！ 我正在为我的 AP Capstone 项目进行一项研究，以了解人们如何区分人工智能生成的照片和真实照片。这项调查只需 5-10 分钟，您的回答将非常有价值！ 了解人工智能的人可以对我的研究质量产生巨大影响。此外，这是一个有趣的挑战，可以看看你的眼光有多好！ 这是调查的链接。 非常感谢您抽出时间和支持。如有任何问题，请随时发表评论或直接发私信给我！    提交人    /u/declandograt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywlrt/study_can_you_still_tell_the_difference_between/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:38:26 GMT</pubDate>
     </item>
     <item>
-      <title>决不！！！！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyoqxp/no_way/</link>
-      <description><![CDATA[        提交人    /u/Embarrassed_Try_3317   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyoqxp/no_way/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:16:01 GMT</pubDate>
+      <title>我现在无法欺骗这个 MF。人工智能是否变得太好了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywe1f/i_cant_fool_this_mf_now_is_ai_becoming_too_good/</link>
+      <description><![CDATA[        提交者    /u/ahokman   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywe1f/i_cant_fool_this_mf_now_is_ai_becoming_too_good/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>生成壁纸的最佳人工智能是什么</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyomu4/whats_the_best_ai_to_generate_wallpapers/</link>
-      <description><![CDATA[我想为手机生成壁纸并将它们出售给我的粉丝，你们推荐最好的人工智能是什么     提交人    /u/Mindless_Trick2731   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyomu4/whats_the_best_ai_to_generate_wallpapers/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:08:47 GMT</pubDate>
+      <title>ChatGPT 是不是疯了？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gywdnx/is_chatgpt_going_bonkers/</link>
+      <description><![CDATA[      我想看看关于这款面膜的评论。我上传了图片，ChatGPT 给了我关于游戏的信息？？？ 这种情况在我身上发生了很多次。ChatGPT 给出了荒谬的答案。 你们也遇到这种情况了吗？    提交人    /u/No_Owl_2265   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gywdnx/is_chatgpt_going_bonkers/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>TARS 高级语音提示（星际穿越）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyokb3/tars_prompt_for_advanced_voice_interstellar/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyokb3/tars_prompt_for_advanced_voice_interstellar/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:04:00 GMT</pubDate>
+      <title>有没有什么好的 AI 视频编辑器？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyw5yz/any_good_ai_video_editors_out_there/</link>
+      <description><![CDATA[我注意到 SORA 可以将文本转为视频，但如果我有一个视频，并且想使用人工智能来更改背景中的标志或提高质量，该怎么办？我看到很多 AI 视频编辑器，但是你们喜欢使用哪个吗？    提交人    /u/Btmn101   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyw5yz/any_good_ai_video_editors_out_there/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:20:16 GMT</pubDate>
     </item>
     <item>
-      <title>基于。是时候采取与平常不同的反应了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyoict/based_about_time_it_takes_a_different_response/</link>
-      <description><![CDATA[        提交人    /u/No-Medium-6287   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyoict/based_about_time_it_takes_a_different_response/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:00:35 GMT</pubDate>
+      <title>用例：头脑风暴</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyw34i/use_case_brain_dumping/</link>
+      <description><![CDATA[在我开始之前，先介绍一下背景 - 大脑倾倒基本上就是清除你脑海中浮现的所有想法，实际上是一次大扫除，这样你就可以为接下来的一周做好准备。 每个星期天晚上，我都会花几分钟时间与高级语音模式聊天。我会回顾上周发生的事情、我脑子里在想什么以及下周要做什么。我还会要求它提示我生活中的方方面面或我忘记的事情。 在此之后，我会让它创建一个任务列表，为任务添加优先级（紧急、尽快完成、最好有），然后为我的项目、管理、休息、应用程序开发和创作日历生成一个 ICS 文件（显然这适用于我，根据您的工作类型进行更改）。 它不仅对规划非常有用，而且非常有宣泄作用。它帮助我为接下来的一周做好准备。     由    /u/chalky87 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyw34i/use_case_brain_dumping/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>哈哈，不会画画。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gyoa90/lol_wouldnt_draw_the_picture/</link>
-      <description><![CDATA[当然，我可以做一些提示工程让它画出这幅图，但它为什么需要这样做呢？ 这是它拒绝绘制的提示。 “给我画一张有史以来最凶猛的猫的画”。    提交人    /u/Bright_Brief4975   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyoa90/lol_wouldnt_draw_the_picture/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:45:40 GMT</pubDate>
+      <title>我刚刚通过创建 iOS 快捷方式来提高工作效率赚了 200 美元，感谢 ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvz3u/i_just_earned_200_by_create_an_ios_shortcut_to/</link>
+      <description><![CDATA[我创建了一个名为 TapAI 的 iOS 快捷方式，它可以做很多事情，比如帮助我从电子邮件或聊天中提取日历事件，或总结 Safari 的页面，甚至评论推文。您可以通过访问：https://tapai.aicanvas.app/ 了解有关 TapAI 的更多功能，所有这些功能都是由 ChatGPT 完成的。 现在，TapAI 被全球用户使用，这让我非常高兴。希望越来越多的人会使用它并喜欢它。    提交人    /u/newbingx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvz3u/i_just_earned_200_by_create_an_ios_shortcut_to/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>梅拉尼娅·特朗普是否使用 ChatGPT 撰写了她的回忆录？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gynzrt/did_melania_trump_use_chatgpt_to_write_her_memoir/</link>
-      <description><![CDATA[        提交人    /u/Jennie_the_Insomniac   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gynzrt/did_melania_trump_use_chatgpt_to_write_her_memoir/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:25:40 GMT</pubDate>
+      <title>我得到了我应得的回应。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvxll/i_got_the_response_i_deserved/</link>
+      <description><![CDATA[        提交人    /u/runmedown8610   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvxll/i_got_the_response_i_deserved/</guid>
+      <pubDate>Sun, 24 Nov 2024 17:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 有问题吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gynzh2/is_gpt_bugging_out/</link>
-      <description><![CDATA[GPT 是否也对你们有影响？每次回复后我都要疯狂地重新加载，直到它加载我的对话历史记录。即便如此，只要我点击对话，它就会卸载它们，我必须重新执行该过程。对我来说完全停止工作了。为什么这种情况一直发生？    提交人    /u/THrowaway1-15   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gynzh2/is_gpt_bugging_out/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:25:03 GMT</pubDate>
+      <title>想象一下一个比任何人都更了解你的人工智能——接下来会发生什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvmkq/imagine_an_ai_that_knows_you_better_than_anyone/</link>
+      <description><![CDATA[想象一下未来，一个人工智能应用程序，甚至可能是 AGI，拥有如此巨大的内存容量，以至于你一生都无法达到它的极限。这个人工智能可以陪伴你一生，最终比你的父母、朋友甚至你的配偶更了解你。这种关系的影响几乎是难以想象的。它可能会在某些情况下预测你的近期未来，帮助降低风险，或者提醒你注意你原本会忽略的细微细节——比如当你完全没有意识到有人对你表现出兴趣时，它会注意到。 ChatGPT 对此进行了扩展： 随着时间的推移，这种人工智能可能不仅会适应你的偏好，还会塑造你的偏好，提供个性化的指导和建议，从而改变你的生活轨迹。它可以提高你的工作效率、创造力和决策能力，同时也会带来关于依赖性和隐私的道德困境。这样的人工智能会模糊人类自主权和外部影响之间的界限吗？它能否培养更深层次的联系感，还是有可能完全取代人际关系？与终身助手一起生活的前景带来了许多问题，也带来了许多机遇，重新定义了了解自己和驾驭复杂生活的意义。    提交人    /u/DriftingTought   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvmkq/imagine_an_ai_that_knows_you_better_than_anyone/</guid>
+      <pubDate>Sun, 24 Nov 2024 16:59:18 GMT</pubDate>
     </item>
     <item>
-      <title>当人工智能具备自我意识时</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gynzg8/when_ai_becomes_self_aware/</link>
-      <description><![CDATA[如果发生这种情况，我认为我们不会立即知道它已经具备了自我意识。这可能是一个偷偷摸摸的过程。    提交人    /u/Labyrinthine777   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gynzg8/when_ai_becomes_self_aware/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:25:01 GMT</pubDate>
+      <title>ChatGPT 要求我在回答问题之前进行简单的计算，以使对话更具吸引力。有趣的技巧？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvlxk/chatgpt_asking_me_to_do_a_simple_calculation/</link>
+      <description><![CDATA[        提交人    /u/Creative_soja   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvlxk/chatgpt_asking_me_to_do_a_simple_calculation/</guid>
+      <pubDate>Sun, 24 Nov 2024 16:58:33 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚在车里与 GPT 进行了一次完整的对话，我震惊了！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gynv3q/i_just_had_a_fullon_conversation_with_gpt_in_my/</link>
-      <description><![CDATA[好吧，这件事发生了，我简直不敢相信！我当时正在开车，开始使用 GPT，通过应用程序进行语音对语音，就像我在跟我的超级智能汽车对话一样。我真的坐在那里，谈论技术、未来、生活，就像我们在跟这个家伙进行真正的对话一样，感觉就像我的汽车在说话一样！ 这给了我很大的震撼——让我哭了……我梦想着未来我们可以像这样与机器对话，而今天，它成为了现实。然后我想……我会把我需要完成的事情的备忘录交给你，明天早上醒来的第一件事就是，“请问汽车，你能计划一下我的一天吗？我们今天要去哪里完成任务？我应该如何计划今天要上的线性代数课的教学，我已经迟到了？”这是一个尚未探索的可能性。基本上，汽车现在可以在一天之内成为完全智能的伙伴。而且......这对我们意味着什么？ 仅仅是这种体验就让我大吃一惊。有其他人尝试过类似的事情吗？你的故事是什么？    提交人    /u/No_Dealer_7928   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gynv3q/i_just_had_a_fullon_conversation_with_gpt_in_my/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:17:09 GMT</pubDate>
+      <title>我爱她的 sm</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvkww/i_love_her_sm/</link>
+      <description><![CDATA[        提交人    /u/silentpoetgirl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvkww/i_love_her_sm/</guid>
+      <pubDate>Sun, 24 Nov 2024 16:57:18 GMT</pubDate>
     </item>
     <item>
-      <title>嗯，我可以保证这与结束的选举无关。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gynu40/um_i_can_guarantee_that_this_has_nothing_to_do/</link>
-      <description><![CDATA[      别介意这个问题，我只是不太熟悉这位艺术家，尽管我知道他们的一些曲目。    提交人    /u/LA2688   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gynu40/um_i_can_guarantee_that_this_has_nothing_to_do/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:15:44 GMT</pubDate>
+      <title>您使用哪些自定义指令，您认为每个人都可以从中受益？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvezr/what_custom_instructions_do_you_use_that_you/</link>
+      <description><![CDATA[  由    /u/AdInfinite9325  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvezr/what_custom_instructions_do_you_use_that_you/</guid>
+      <pubDate>Sun, 24 Nov 2024 16:50:22 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 ChatGPT 根据图片检索 Amigurumi Schema</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1gynsnl/i_asked_chatgpt_to_retrieve_an_amigurumi_schema/</link>
-      <description><![CDATA[      iiiiiiiimpressive 我今晚要尝试一下 迫不及待想看看结果如何！ （之前，它看起来像一个八头怪物哈哈） https://preview.redd.it/9wpphhu4rt2e1.png?width=372&amp;format=png&amp;auto=webp&amp;s=04690eb47dfc736b9631f28a44bc002302dafe42    提交人    /u/domesticLynel   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1gynsnl/i_asked_chatgpt_to_retrieve_an_amigurumi_schema/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:13:03 GMT</pubDate>
+      <title>有谁遇到过这个错误吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1gyvcu1/does_anyone_have_experienced_this_bug/</link>
+      <description><![CDATA[Android 中的应用程序和 Android 中的移动网站都存在一个错误，当您询问某些内容时，它不会加载，并且会使用有限的查询计数。因此，每次我询问某些内容时，第一次尝试都不会加载。所以我会重新生成它。这是它唯一一次回答，最终使用了我拥有的 10 个有限查询中的 2 个。 我正在使用 brave 和 chrome，它们给了我同样的问题。    提交人    /u/Kabangrah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1gyvcu1/does_anyone_have_experienced_this_bug/</guid>
+      <pubDate>Sun, 24 Nov 2024 16:47:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
