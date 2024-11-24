@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 23 Nov 2024 21:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:04:24 GMT</lastBuildDate>
+    <item>
+      <title>使用 FastAPI 和 pytest 的 OAuth 教程</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gyaq14/oauth_tutorial_using_fastapi_and_pytest/</link>
+      <description><![CDATA[我已经使用测试驱动开发创建了一个教程，介绍如何在 FastAPI 中实现 OAuth。 https://github.com/louisheal/oauth-tutorial 我正在寻找熟悉此内容的任何人来帮助查找代码中的任何错误。 如果您发现需要改进的地方，请创建一个问题。 如果您发现想要解决的问题，请发表评论，我会将其分配给您。    提交人    /u/LJRex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gyaq14/oauth_tutorial_using_fastapi_and_pytest/</guid>
+      <pubDate>Sat, 23 Nov 2024 21:44:39 GMT</pubDate>
+    </item>
     <item>
       <title>高级 JS/TS 开发人员希望为维护良好的存储库做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1gy82aw/senior_jsts_dev_looking_to_contribute_to_a/</link>
@@ -20,25 +27,11 @@
       <pubDate>Sat, 23 Nov 2024 19:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>使用我的手机作为遥控器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gy2z06/using_my_phone_as_a_fob/</link>
-      <description><![CDATA[华威大学有一个钥匙卡系统，你需要一个小遥控器来解锁你的宿舍门。  这非常烦人，因为我总是丢失遥控器，不得不不断获得一个新的。  所以我在想是否有办法使用我手机的无线功能来模拟遥控器。 这可能吗？    提交人    /u/RoboReings   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gy2z06/using_my_phone_as_a_fob/</guid>
-      <pubDate>Sat, 23 Nov 2024 16:05:30 GMT</pubDate>
-    </item>
-    <item>
       <title>开源会计软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gy12vl/opensource_accounting_software/</link>
       <description><![CDATA[我最近开始了我的第一家基督教服装公司，我们非常希望在可预见的未来保持我们的账簿公开。哪些应用程序适合跟踪费用、报告税款。它们中是否有任何一个可以显示总收入的选项？    提交人    /u/Bored_gamer1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gy12vl/opensource_accounting_software/</guid>
       <pubDate>Sat, 23 Nov 2024 14:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>可定制的触摸屏显示器仪表板/控制器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gxwmbi/customizable_dashboardcontroller_for_touchscreen/</link>
-      <description><![CDATA[请耐心等待，我不知道这个软件叫什么，但我正在寻找一个可自定义的仪表板式软件来显示我想在不同的触摸屏上监控的内容。我在网上找到了很多小型触摸屏显示器，想买一个专门用来监控我的 CPU 和 GPU 负载和温度。我还想用它来控制播放音乐。如果可能的话，我在玩游戏时甚至可以快速设置 AMD Adrenaline，比如在性能或质量之间切换，甚至控制录制。我在 Windows(11) 和 Linux 桌面上工作，偶尔会在这些操作系统之间切换。 此外，我不知道桌面触摸屏的状态。但上次我尝试的时候（大约 2006 年），屏幕上的每次按压都被视为鼠标单击。我更喜欢这个应用程序，它不会干扰我的鼠标并作为独立输入工作。它可能会影响我正在做的事情，尤其是在玩游戏时。    提交人    /u/neospygil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gxwmbi/customizable_dashboardcontroller_for_touchscreen/</guid>
-      <pubDate>Sat, 23 Nov 2024 10:21:39 GMT</pubDate>
     </item>
     <item>
       <title>针对旧照片的开源图像去噪器/升频器/色彩校正器？</title>
@@ -141,9 +134,16 @@
     <item>
       <title>Nitric：一个轻松的后端开发框架</title>
       <link>https://www.reddit.com/r/opensource/comments/1gwwtaz/nitric_a_framework_for_effortless_backend_dev/</link>
-      <description><![CDATA[嗨 r/opensource  过去几年我一直与一个小团队合作开发此产品，今年我们刚刚发布了 1.0 版！ https://github.com/nitrictech/nitric 我们一直在努力尝试构建一些可以让后端开发人员的生活更简单的东西，我们一直在寻求更多的反馈和贡献，所以如果你喜欢我们所做的事情，欢迎加入我们的社区 :)。    提交人    /u/WearsOddSox   [链接] [评论]]]></description>
+      <description><![CDATA[嗨 r/opensource  过去几年我一直与一个小团队合作开发此产品，今年我们刚刚发布了 1.0 版！ https://github.com/nitrictech/nitric 我们一直在努力尝试构建一些可以让后端开发人员的生活更简单的东西，我们一直在寻求更多的反馈和贡献，所以如果你喜欢我们所做的事情，那就加入我们的社区吧 :)。    提交人    /u/WearsOddSox   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gwwtaz/nitric_a_framework_for_effortless_backend_dev/</guid>
       <pubDate>Fri, 22 Nov 2024 02:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>更好的 github 同步和 kftray 中新重构的前端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwukbk/better_github_sync_and_new_refactored_frontend_in/</link>
+      <description><![CDATA[  由    /u/Beginning_Dot_1310  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwukbk/better_github_sync_and_new_refactored_frontend_in/</guid>
+      <pubDate>Fri, 22 Nov 2024 00:12:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
