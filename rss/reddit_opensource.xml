@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:13:36 GMT</lastBuildDate>
+    <item>
+      <title>有任何基于时间线的开源无头视频编辑器吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gz681i/any_open_source_timeline_based_headless_video/</link>
+      <description><![CDATA[我找不到。有像 Olive、Shotcut 和 KdenLive 这样的开源视频编辑器。但它们似乎与 GUI 紧密相关。是否有任何 API 可以抽象出许多较低级别的细节，并让用户剪切、过渡、缩放、添加文本以及视频编辑的最基本功能，全部以文本形式呈现？    提交人    /u/sheababeyeah   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gz681i/any_open_source_timeline_based_headless_video/</guid>
+      <pubDate>Mon, 25 Nov 2024 00:37:32 GMT</pubDate>
+    </item>
     <item>
       <title>为 Turso 创建 ORM/包装器</title>
       <link>https://www.reddit.com/r/opensource/comments/1gz1s9q/created_an_ormwrapper_for_turso/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>最好的开源一体化 AI 助手 Chrome 扩展程序是什么？我一直在使用 HARPA AI，但我发现免费使用量很快就用完了</title>
       <link>https://www.reddit.com/r/opensource/comments/1gxpu7k/whats_the_top_opensource_allinone_ai_assistant/</link>
-      <description><![CDATA[AI 扩展程序极大地帮助了我的日常生活，尤其是在管理电子邮件等任务方面。我目前正在寻找一个可以在使用 Google Chrome 时帮助我高效完成任务的 AI 助手。    提交人    /u/4everonlyninja   [link] [评论]]]></description>
+      <description><![CDATA[AI 扩展程序极大地帮助了我日常生活，尤其是在管理电子邮件等任务方面。我目前正在寻找一个可以在使用 Google Chrome 时帮助我高效完成任务的 AI 助手。    提交人    /u/4everonlyninja   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gxpu7k/whats_the_top_opensource_allinone_ai_assistant/</guid>
       <pubDate>Sat, 23 Nov 2024 03:00:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好！首先，我很抱歉问错了地方。我也为我的笨拙语言感到抱歉，英语不是我的母语。最后，我对开源贡献还很陌生，而且基本上只是从我们的首席程序员那里借用它，所以我的问题可能有点偏题；请原谅我。 我是一群朋友中的一员，梦想着对某个特定的开源项目进行分叉（一开始是私有的，然后等到我们有足够的内容来吸引更多的贡献者时再公开）。原始项目托管在 Github 上，我们所知道的大多数分叉也是如此（虽然很久以前，我认为古老的版本曾经托管在 Sourceforge 上）。然而，随着最近全球事件的发生，我们发现 Github 不再允许我们的首席程序员根据他们的位置充分利用其功能。他们尝试了几种解决方法，但这些方法太过妨碍工作流程。 要求： — 可以从 Windows 访问该平台。我们并非所有人都使用开源操作系统。 — 允许合并和还原提交、创建和合并分支、比较文件差异、筛选团队外贡献者的贡献，我希望所有这些功能都是 Github 类存储库的基本功能。 — 可从世界任何国家/地区访问，没有基于政治的禁令。 — 允许将媒体文件（图形资产）包含在源代码中。 — 允许以私有方式启动项目，然后将其更改为公开。我们确实希望最终吸引外部贡献者，并努力让他们感到受欢迎。 — 不限制/收取下载项目的最终用户数量或参与项目的贡献者数量。 — 最好易于学习、访问和使用。（有 GUI 就更好了，尽管我知道这只是一个白日梦。） — 从 Github 导入/上传一个相当大的现有项目并不太难（不过，我再次理解这是一个低俗的请求。） 提前感谢任何建议。    提交人    /u/Eovacious   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gx5wri/suggestions_on_a_github_alternative/</guid>
       <pubDate>Fri, 22 Nov 2024 11:42:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rimusic 太棒了</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gx4s8f/rimusic_is_just_woaw/</link>
-      <description><![CDATA[我刚刚发现 Rimusic，我印象深刻。多年来我一直在为 Spotify 付费，而 Rimusic 没有什么可羡慕 Spotify 的。我不明白这怎么可能。是否存在隐藏的缺陷？这合法吗？我们冒着有一天应用程序消失的风险吗？    提交人    /u/ParkingAssociation20   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gx4s8f/rimusic_is_just_woaw/</guid>
-      <pubDate>Fri, 22 Nov 2024 10:25:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
