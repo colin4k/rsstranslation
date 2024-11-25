@@ -4,13 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 21:01:27 GMT</lastBuildDate>
     <item>
-      <title>毫无代价</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzobpp/the_cost_of_nothing/</link>
-      <description><![CDATA[https://youtu.be/qZS50KXjAX0?si=wSnZZuv07T2x5tdi 希望这对粉丝来说是值得的。看看过去几年取得的成就。解释一下这比加密货币或社交媒体更重要。科技世界似乎并没有远离赌场或赌博。对我来说，看到如此短视、缺乏智慧的行为真是令人厌恶。复制和粘贴自动完成代码不是创造力。我对这种空洞技术的热情感到厌恶。 任何吹捧指数增长的人都是库兹韦尔潮流的追随者。   由    /u/attrackip  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzobpp/the_cost_of_nothing/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:24:58 GMT</pubDate>
+      <title>确保安全和信任 分析医学中大型语言模型的风险</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gztltb/ensuring_safety_and_trust_analyzing_the_risks_of/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“确保安全和信任：分析大型语言模型在医学中的风险”，作者是杨一帆、金乔、罗伯特·利曼、刘晓宇、熊光志、Maame Sarfo-Gyamfi、龚长林、Santiago Ferrière-Steinert、W. John Wilbur、李晓君、袁嘉欣、安邦、Kelvin S. Castro、Francisco Erramuspe Álvarez、Matías Stockle、张爱东、黄富荣和陆志勇。 这项研究调查了在医疗环境中部署大型语言模型 (LLM) 所涉及的风险，提出了五项原则：真实性、弹性、公平性、稳健性和隐私性，以确保其安全应用。研究人员引入了一个名为 MedGuard 的新基准，对 11 种流行的 LLM 进行了评估，发现当前 AI 性能与医疗专业人员的性能之间存在显著差距。以下是该论文的一些关键见解：  对医疗 AI 安全性进行基准测试：该研究引入了 MedGuard，这是一个全面的框架，用于通过 1,000 个专家验证的问题从十个安全维度评估医学领域的 LLM。该基准表明，现有的 LLM 通常不符合医疗环境中所需的可信度。 性能差距：尽管有报告表明，像 ChatGPT 这样的 LLM 可以在某些任务中匹敌或超越人类表现，但这项研究发现了一个明显的安全性能差距。在大多数安全基准测试中，人类医生的表现都优于 LLM，这表明需要持续的人为监督。 错误分布：该研究重点介绍了 LLM 遇到困难的特定领域，例如跨人口统计的公平性、多语言环境中的稳健性以及避免幻觉的真实性。这些缺陷表明，在医疗应用中，结果可能存在偏见和潜在有害的风险。 快速工程限制：作者探索了快速工程技术来提高模型性能。然而，他们发现这些方法产生的安全性改进有限且不一致，这表明在模型训练和开发方面需要进行更深入的调整。 安全原则的重要性：在医疗保健等高风险领域部署人工智能需要对安全性和可信度进行严格的评估。该研究提出的原则是开发更安全的 AI 模型的基础框架。  本文强调了将 LLM 应用于医疗保健等关键领域所面临的迫在眉睫的挑战，强调需要完善的安全机制和人工监督。您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gztltb/ensuring_safety_and_trust_analyzing_the_risks_of/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>CoPilot 与 ChatGPT 的比较</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gztk4e/copilot_vs_chatgpt/</link>
+      <description><![CDATA[有人制作过这两种模型之间的详细对比图表吗？我正在制作一个，很想发布它，但这个聊天室不允许拍照。    提交人    /u/AI-Dudiest   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gztk4e/copilot_vs_chatgpt/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何利用“轨迹评估”和“评估代理”（高阶 LLM 评估技术）构建复杂的 AI 代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzt54t/how_to_build_sophisticated_ai_agents_w_trajectory/</link>
+      <description><![CDATA[我与 HoneyHive AI 的 CTO 兼联合创始人 Dhruv Singh 进行了深入交谈，讨论了 GenAI 评估的最佳实践。 我们从较低的层次开始，但谈话的真正内容是在后半部分，当时我们讨论了评估复杂 AI 代理的理论和实际应用技术。 评估对于构建 GenAI 技术至关重要，因为如果您无法自动衡量 LLM 生成/决策/结果的质量或结果，那么就不可能真正构建“有效”的系统。大规模——随着复杂性的增加，车轮很快就会从公共汽车上掉下来。 我很乐意回答有关这个主题或这次谈话的任何问题！ 在这里查看完整的对话：https://youtu.be/IWy7towYJDM    提交人    /u/billmalarky   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzt54t/how_to_build_sophisticated_ai_agents_w_trajectory/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以按照曲目风格重新混合歌曲的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzslws/ai_that_can_remix_a_song_in_the_style_of_a_track/</link>
+      <description><![CDATA[嗨，我正在寻找一个可以获取目标文件和参考歌曲的人工智能模型，它可以使目标歌曲听起来像参考歌曲 这就像将乐器转移到另一首歌曲中    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzslws/ai_that_can_remix_a_song_in_the_style_of_a_track/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向全球搜索引擎评估者/评级者的新 Reddit 社区</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzr5xz/new_reddit_community_for_search_engine_evaluators/</link>
+      <description><![CDATA[大家好，社区！我刚刚为全球评估员/搜索引擎评估员创建了一个社区。如果您是评估员/搜索引擎评估员，请加入。请发送消息，说明您的职位和所在公司，以获得批准。https://www.reddit.com/r/SearchEngineEvaluator/s/V5AumHZb3v    提交人    /u/goldeyedbabydoll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzr5xz/new_reddit_community_for_search_engine_evaluators/</guid>
+      <pubDate>Mon, 25 Nov 2024 19:17:06 GMT</pubDate>
     </item>
     <item>
       <title>如何有效地开发人工智能应用程序</title>
@@ -48,13 +76,6 @@
       <pubDate>Mon, 25 Nov 2024 15:48:52 GMT</pubDate>
     </item>
     <item>
-      <title>有没有一个流行的 AI 提示网站？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlnl0/is_there_a_popular_site_for_ai_prompts/</link>
-      <description><![CDATA[厌倦了在这里搜索并看到“我创建了这个 AI 提示集合，我从 15 个网站复制粘贴，请为每个 AI 提示支付 2 美元”，就像没有一样。是否有人们使用的公共且免费的开源 AI 提示集合？    提交人    /u/Ok_Profit_3856   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlnl0/is_there_a_popular_site_for_ai_prompts/</guid>
-      <pubDate>Mon, 25 Nov 2024 15:38:27 GMT</pubDate>
-    </item>
-    <item>
       <title>通过短片测试视频 AI 一致性！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzl5v5/testing_video_ai_consistency_with_a_short/</link>
       <description><![CDATA[https://youtu.be/O_nnRasKX2U?si=aTlPjCKOfGCv85SK    由   提交  /u/ChristopherK52   [链接] [评论]]]></description>
@@ -76,32 +97,11 @@
       <pubDate>Mon, 25 Nov 2024 14:46:57 GMT</pubDate>
     </item>
     <item>
-      <title>有谁能以合法且合乎道德的方式利用人工智能赚钱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzk6ic/anyone_making_money_with_artificial_intelligence/</link>
-      <description><![CDATA[我觉得人工智能将相当于互联网，因为它为从零开始的人们提供了新的赚钱机会。 我已经非常有信心，我有能力用人工智能合法地赚钱，但不道德。 顺便说一句，向大公司出售产品或解决方案，即使这完全是胡说八道，对我来说也是合乎道德的，而创建一个人工智能口渴陷阱模型并出售好色的中年男人的裸照则不合道德。 感谢您的意见    提交人    /u/Global-Persimmon1471   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzk6ic/anyone_making_money_with_artificial_intelligence/</guid>
-      <pubDate>Mon, 25 Nov 2024 14:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 AI 和 CHATGPT 参与请求的研究调查</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzjk8n/research_study_survey_on_ai_and_chatgpt/</link>
-      <description><![CDATA[您好， 我是 Ondrej Vogl，捷克共和国 Prostějov 的 Cyril and Methodius 文法学校 11 年级学生。作为我的高中研究项目 (SOČ) 的一部分，我恳请您完成这项简短的五分钟匿名调查。您的意见将对我的工作大有裨益。 感谢您的时间！ Ondrej Vogl 链接 👇 https://forms.gle/xFBtJ65Qb4oeRdxk7    提交人    /u/IlikeSawce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzjk8n/research_study_survey_on_ai_and_chatgpt/</guid>
-      <pubDate>Mon, 25 Nov 2024 14:05:28 GMT</pubDate>
-    </item>
-    <item>
       <title>想象一下，如果 OpenAI 为 ChatGPT 对话引入了“文件夹组织”功能，然后训练他们的模型来理解用户如何“提示”他们的模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzjgfb/imagine_if_openai_had_introduced_folder/</link>
       <description><![CDATA[我们中的一些人非常频繁地使用 chatGPT，我们只是修改一个单词、一个句子，使用另一个模型来尝试让它做我们想做的任何事情。这需要大量的对话和一种组织它的方式。 想象一下，如果 OpenAI 可以用它来训练它的 AI 代理。 ___ 还没有给我们在选项卡、文件夹、颜色等中组织对话的能力，这真是罪过。  我曾经尝试发一篇获得 200 个赞同的小帖子，但 Open AI 什么也没做 (https://new.reddit.com/r/ChatGPT/comments/11kynf7/openai_we_need_folders_to_organize_our/) 我记得 AMA 中甚至有人提到过这个帖子？ 还是没有结果。 顺便说一句，如果您正在阅读这些内容，它将使我们用户和 OpenAI 或任何其他 AI 公司都受益。    提交人    /u/Unreal_777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzjgfb/imagine_if_openai_had_introduced_folder/</guid>
       <pubDate>Mon, 25 Nov 2024 14:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>人格评估期间大型语言模型中出现社会期望偏见</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzj9mb/social_desirability_bias_emerges_in_large/</link>
-      <description><![CDATA[本文研究了 LLM 在回答调查问题时如何表现出社会期望偏见 - 即倾向于给出让自己看起来很好的答案。研究人员系统地测试了不同的模型和提示方法来描述这种行为。 关键技术要点： - 使用标准化调查问题测试了 GPT-3、BERT 和 T5 模型中的响应模式 - 比较有和没有社交背景提示的响应 - 测量与已知人类社会期望模式的一致性 - 分析不同提示策略和模型架构之间的一致性 主要结果： - LLM 始终给出与社会期望行为一致的响应 - 这种偏见在不同的模型架构中仍然存在 - 在提示中添加社交背景会放大这种影响 - 模型显示出与调查响应中记录的人类偏见相似的模式 我认为这为在调查研究或社会科学应用中使用 LLM 提出了重要的考虑。如果这些模型本质上重现了人类的社会偏见，那么在使用它们分析或生成调查回复时，我们需要考虑到这一点。结果还表明，当前的 LLM 可能无法可靠地获得有关敏感话题的“诚实”回应。 我认为这也指向了更深层次的问题，即社会偏见如何在训练过程中被编码。这些模型是在学习模仿人类的反应模式，还是在开发自己对社会期望的内部表征？ TLDR：LLM 在调查回复中表现出系统性的社会期望偏见，类似于人类倾向于给出社会可接受的答案而不是完全诚实的答案。这种行为在不同的模型和提示策略中似乎是一致的。 完整摘要在这里。论文此处。    由    /u/Successful-Western27 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzj9mb/social_desirability_bias_emerges_in_large/</guid>
-      <pubDate>Mon, 25 Nov 2024 13:51:18 GMT</pubDate>
     </item>
     <item>
       <title>AlphaQubit：谷歌的人工智能彻底改变了下一代计算</title>

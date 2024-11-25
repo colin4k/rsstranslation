@@ -4,13 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 21:01:49 GMT</lastBuildDate>
     <item>
-      <title>会编码用于送餐/取餐</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzobzb/will_code_for_food_deliverypickup/</link>
-      <description><![CDATA[  由    /u/LemmerElAssal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzobzb/will_code_for_food_deliverypickup/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:25:15 GMT</pubDate>
+      <title>软件开发最佳实践到底是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gztrf1/what_are_software_development_best_practices/</link>
+      <description><![CDATA[  由    /u/hamburga  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gztrf1/what_are_software_development_best_practices/</guid>
+      <pubDate>Mon, 25 Nov 2024 21:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>标记—清除：等待垃圾自行清除</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzt7kc/markscavenge_waiting_for_trash_to_take_itself_out/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzt7kc/markscavenge_waiting_for_trash_to_take_itself_out/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>到目前为止我已经收集了超过 290 条 Laravel/PHP 技巧 🙌</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzsjje/over_290_laravelphp_tips_ive_collected_so_far/</link>
+      <description><![CDATA[  由    /u/According_Ant_5944  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzsjje/over_290_laravelphp_tips_ive_collected_so_far/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>FastEmbed-rs - 一个用于生成向量嵌入并在本地重新排序的库</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzr36b/fastembedrs_a_library_to_generate_vector/</link>
+      <description><![CDATA[  由    /u/code9855  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzr36b/fastembedrs_a_library_to_generate_vector/</guid>
+      <pubDate>Mon, 25 Nov 2024 19:14:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fleng 22（并发逻辑编程）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzqhso/fleng_22_concurrent_logic_programming/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzqhso/fleng_22_concurrent_logic_programming/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 与 C 的速度</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzpjzi/speed_of_rust_vs_c/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzpjzi/speed_of_rust_vs_c/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态、动态、可合并，天哪！</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzpi38/static_dynamic_mergeable_oh_my/</link>
+      <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzpi38/static_dynamic_mergeable_oh_my/</guid>
+      <pubDate>Mon, 25 Nov 2024 18:10:41 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 Google 表格作为微控制器的远程配置</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/verdagon  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gznz94/understanding_simd_infinite_complexity_of_trivial/</guid>
       <pubDate>Mon, 25 Nov 2024 17:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deegen：一种适用于动态语言且支持 JIT 的 VM 生成器 [pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1gznvpw/deegen_a_jitcapable_vm_generator_for_dynamic/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gznvpw/deegen_a_jitcapable_vm_generator_for_dynamic/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Owl Lisp – 统治世界的功能方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1gznv14/owl_lisp_a_functional_scheme_for_world_domination/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gznv14/owl_lisp_a_functional_scheme_for_world_domination/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>日常生活：全球 BGP 表</title>
-      <link>https://www.reddit.com/r/programming/comments/1gznudi/a_day_in_the_life_the_global_bgp_table/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gznudi/a_day_in_the_life_the_global_bgp_table/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>hydra 0.1.0.0，用 Haskell 编写的源代码行计数器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gznu3m/hydra_0100_a_source_code_line_counter_written_in/</link>
-      <description><![CDATA[  由    /u/haquire0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gznu3m/hydra_0100_a_source_code_line_counter_written_in/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免这种常见的 OOP 反模式：贫血域模型！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gznfyu/avoid_this_common_oop_antipattern_the_anemic/</link>
-      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gznfyu/avoid_this_common_oop_antipattern_the_anemic/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何作为第三方工具无缝接入 AWS 开放生态系统 • Filip Pyrek</title>
-      <link>https://www.reddit.com/r/programming/comments/1gznau0/how_to_seamlessly_plug_into_awss_open_ecosystem/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gznau0/how_to_seamlessly_plug_into_awss_open_ecosystem/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:45:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
