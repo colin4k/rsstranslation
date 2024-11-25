@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 25 Nov 2024 06:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 09:02:05 GMT</lastBuildDate>
     <item>
-      <title>React、Vue 还是 Angular 才是王道？投票吧！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzc388/which_is_the_goat_react_vue_or_angular_vote/</link>
-      <description><![CDATA[  由    /u/Heavy_Fly_4976  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzc388/which_is_the_goat_react_vue_or_angular_vote/</guid>
-      <pubDate>Mon, 25 Nov 2024 05:57:14 GMT</pubDate>
+      <title>博客文章：Java 编译速度有多快？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gze7e3/blog_post_how_fast_does_java_compile/</link>
+      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gze7e3/blog_post_how_fast_does_java_compile/</guid>
+      <pubDate>Mon, 25 Nov 2024 08:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Pprof 调查 Golang 内存泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzdv8y/investigating_golang_memory_leak_with_pprof/</link>
+      <description><![CDATA[  由    /u/arshidwahga  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzdv8y/investigating_golang_memory_leak_with_pprof/</guid>
+      <pubDate>Mon, 25 Nov 2024 07:59:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 C# 中的 JSON Web 令牌保护您的 ASP.NET 应用程序 - 分步指南！</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzddcb/secure_your_aspnet_apps_with_json_web_tokens_in_c/</link>
+      <description><![CDATA[  由    /u/nickproud  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzddcb/secure_your_aspnet_apps_with_json_web_tokens_in_c/</guid>
+      <pubDate>Mon, 25 Nov 2024 07:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>确保 API 可靠性：指标、工具和最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1gzd9pe/ensuring_api_reliability_metrics_tools_and_best/</link>
+      <description><![CDATA[  由    /u/No_Athlete7350  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gzd9pe/ensuring_api_reliability_metrics_tools_and_best/</guid>
+      <pubDate>Mon, 25 Nov 2024 07:15:17 GMT</pubDate>
     </item>
     <item>
       <title>C++ 的两个派系</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gyqeg5/how_to_set_up_deep_linking_with_flutter_for_macos/</guid>
       <pubDate>Sun, 24 Nov 2024 12:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jekyll 对于小型个人博客来说似乎有点麻烦 - 所以我又建了一个静态站点生成器 :)</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</link>
-      <description><![CDATA[  由    /u/jarvuyirttehc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个动态帖子分发算法，可以根据用户活动调整内容交付。活跃用户会先收到帖子，而不太活跃的用户则会稍后收到帖子。最终每个用户都会收到帖子，帮助小型创作者成长。完整代码如下</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyomnv/i_built_a_dynamic_post_distribution_algorithm/</link>
-      <description><![CDATA[  由   提交  /u/No-Abroad-5213   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyomnv/i_built_a_dynamic_post_distribution_algorithm/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了 SongBar：一款极简的 macOS 菜单栏应用，可显示当前正在播放的 Spotify 曲目</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyomdv/i_built_songbar_a_minimal_macos_menu_bar_app_that/</link>
-      <description><![CDATA[  由    /u/niyoseris  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyomdv/i_built_songbar_a_minimal_macos_menu_bar_app_that/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:07:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
