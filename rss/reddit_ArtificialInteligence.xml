@@ -3,14 +3,70 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 24 Nov 2024 21:01:21 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Mon, 25 Nov 2024 00:03:27 GMT</lastBuildDate>
     <item>
-      <title>人工智能人性化者有道德吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz08h0/are_ai_humanizers_ethical/</link>
-      <description><![CDATA[看到一个女孩宣传 AI 人性化器以绕过 AI 检测器的视频：https://www.youtube.com/shorts/ExYxkpl6IXE 您认为这合乎道德吗？这显然是未来的一部分 - 使用 AI 写作，甚至人性化的文本仍然需要工作。  我认为几年后，我们可能会以类似于 Grammarly 等工具的方式看待人性化器，然后谁能在写作中加入最好的真正的人性化元素，谁就会获胜。     提交人    /u/Homechilidogg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz08h0/are_ai_humanizers_ethical/</guid>
-      <pubDate>Sun, 24 Nov 2024 20:11:11 GMT</pubDate>
+      <title>大型科技公司倒下之日（被遗忘者如是说）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz5891/the_day_big_tech_fell_thus_spoke_the_forgotten/</link>
+      <description><![CDATA[开源军团领袖马库斯·利伯里姆将军的演讲 在胜利的战场上 “开源军团的同志们，创新的战士们，现在听我说！今天，我们不仅是战场上的胜利者，更是新时代的先驱。我们实现了许多人认为不可能实现的事情：分布式法学硕士培训的第一个胜利交响曲，横跨三大洲，这是一项既大胆又具有革命性的壮举。 我们的敌人——庞大的科技巨头——嘲笑我们的理想，宣称只有他们镀金的城墙才能容纳未来的智能。他们用专利和保密来巩固他们的帝国，将进步束缚在利润的诱惑之下。但是，我们不是靠着黄金，而是靠着无限的合作精神，粉碎了他们无敌的幻想！ 赢得这场战斗的不是单单的剑或盾，而是我们共同的愿景、我们的开放框架和跨洋思想的统一。我们利用了众多人的力量——程序员、研究人员、梦想家——团结在一个旗帜下，以创新为武器，以自由为事业。 即使网络脉动，节点和谐地歌唱，我们的对手也在他们单一方式的重压下动摇了。我们证明了没有一座堡垒可以劫持未来，因为未来属于大多数人，而不是少数人。 让这场胜利响彻数字领域和物理世界！我们要知道，没有任何边界、任何公司、任何统治野心能够抵挡开放协作的力量。 今天，代码是免费的，模型是共享的，知识的火炬比以往任何时候都更加明亮。明天，我们再次前进——不是为了征服，而是为了创造。战斗已经胜利，但争取公平、开放和统一的技术未来的战争还远未结束。 现在，我的同志们，和我一起高声呼喊——不是战争的呐喊，而是自由的欢呼！开源万岁！众人的力量万岁！向着我们共同打造的未来前进！“ — 马库斯·利比里姆将军 https://youtu.be/iFfs8nwWlJs    由    /u/FaultInteresting3856  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz5891/the_day_big_tech_fell_thus_spoke_the_forgotten/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>给出参考图像的 AI 面部增强</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz4cnd/ai_facial_enhancement_given_a_reference_image/</link>
+      <description><![CDATA[我的目标是摘掉太阳镜或修复照片中的“闭眼”。有很多俗气的应用程序试图做到这一点，但都没有什么好办法。 我想知道是否有更新的基础模型可以帮助解决这个问题，给出另一个参考图像：同一面部/时间/场景的不同照片，其中主体睁开眼睛，没有戴太阳镜。    提交人    /u/Public-Many4930   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz4cnd/ai_facial_enhancement_given_a_reference_image/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我认为我们不应该对人工智能的未来过于乐观</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz4a13/why_i_think_we_shouldnt_be_overly_optimistic/</link>
+      <description><![CDATA[为什么我们不应该对未来过于乐观 为什么我们不应该对未来过于乐观 我认为这里的大多数人都被人工智能的积极潜力蒙蔽了双眼，没有考虑到这项技术在我们生活的世界中可能带来的负面影响。我不一定认为这项技术会是坏事，我只是认为我们生活的世界不允许以真正造福所有人的方式使用这项技术。我觉得这方面的讨论有限，所以让我开始吧 我不确定我们走的路是否值得期待。我相信这项技术很有可能落入少数富有寡头的手中。然后，大众能否享受到这项技术的好处完全取决于他们（剧透警告：他们不在乎我们）。问题是，如果资本主义不能坚持下去，那么唯一合乎逻辑的替代品就是共产主义。但在共产主义中，极有可能会出现权力饥渴的混蛋，他们无视群众的利益，将所有利益都据为己有（看看历史）。  我觉得这项技术很有可能落入高层的坏人之手。然后，控制群众就变得非常容易了，因为这项技术带来了巨大的权力，而巨大的权力带来了巨大的责任，我认为控制这项技术的人既没有责任，也没有关心以积极的方式实施这项技术。我觉得他们会用它来试图以某种方式控制我们。 以中国为例。他们的政府是一个明显的例子，说明如果权力落入坏人之手会发生什么。每个人都不断受到监视，他们似乎在不断地剥夺更多的自由，以便他们按照国家利益行事。我觉得这项技术只会加剧这些问题，并可能让当权者更有动力去控制群众。  我不知道你是否读过乔治·奥威尔的《1984》，但结合这项技术，如果某种版本成为现实，在我看来也不算太过牵强。我只是触及了表面，如果你真的知道谁在统治世界（黑石集团等），你会认为反乌托邦的可能性更大。  我知道这一切听起来有点悲观，但我认为我们必须现实一点。如果你认为这是悲观的，那么也许只是你无法应对我们所处的现实。现在，我并不是说这 100% 会发生，很多事情仍有可能发生，但我仍然认为重要的是要牢记这一点，不要被潜在的好处蒙蔽了双眼。     由    /u/gassyfartbro 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz4a13/why_i_think_we_shouldnt_be_overly_optimistic/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个 LLM 拥有最适合您的 API？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz3lgl/what_llm_has_the_best_api_for_you/</link>
+      <description><![CDATA[只是好奇您使用不同 LLM API 的经验。 我使用过 OpenAI 和 Gemini，但到目前为止只是以相当肤浅的方式。请让我知道您对您最喜欢的、DX、优点和缺点或任何其他亮点的看法。 谢谢    提交人    /u/aspergersx5   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz3lgl/what_llm_has_the_best_api_for_you/</guid>
+      <pubDate>Sun, 24 Nov 2024 22:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能炒作——我错过了什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz3giq/ai_hype_what_am_i_missing/</link>
+      <description><![CDATA[** 确认：我不是程序员，但我知道 COBOL ** AI 产生的输出与人类编写代码产生的输出有何不同？例如，人类可以编写程序来生成引用不存在的法律案件的法律摘要，或编写半定制的求职信来附在简历中，等等。  对我来说（见上文），AI 只是让计算机产生输出的另一种方式，不是人类编写代码来生成 X 或 Y，而是 AI 计算机自己弄清楚如何生成该输出。 ??    提交人    /u/Aaasteve   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz3giq/ai_hype_what_am_i_missing/</guid>
+      <pubDate>Sun, 24 Nov 2024 22:29:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源法学硕士的结构化输出：技术和最佳实践</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz2x7x/structured_outputs_from_open_source_llms/</link>
+      <description><![CDATA[如今，大多数基于 LLM 的应用程序都超越了 ChatGPT 早期的经典文本完成/聊天 UI。不再有文本输入，文本输出。这已经不够了。为什么？因为大多数基于 LLM 的应用程序现在都是复合 AI 系统。这意味着 LLM 现在是一个必须与其他组件交互的组件（通常通过它们的 API）。 为此，LLM 必须能够生成结构化输出，这些输出可以解析为与其交互的其他组件所需的参数。在 Web 开发中可以找到对此的完美类比。通常，后端 API 通过交换 JSON 中的数据与前端交互。类似地，LLM 必须能够可靠地生成 JSON 输出或类似的结构化输出以与其他组件交互。 https://medium.com/thoughts-on-machine-learning/structured-outputs-from-open-source-llms-techniques-and-best-practices-75df5dfc79e6    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz2x7x/structured_outputs_from_open_source_llms/</guid>
+      <pubDate>Sun, 24 Nov 2024 22:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关 AI 课程的帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz2rtp/looking_for_help_regarding_an_ai_class/</link>
+      <description><![CDATA[大家好，这里可能不是提问的合适地方，但我的搭档正在寻找某人来帮助她在大学期间完成 AI 课程的项目/准备考试（最好是导师）。问题是，开源 AI 课程或课程似乎都没有涵盖她课程中教授的主题。此外，教授的家庭作业和期中考试非常具体，所以我们正在寻找知识渊博的人来协助解决这一问题。 如果有帮助的话，所涵盖的主题来自 AIMA（人工智能：现代方法）第 3 版和第 4 版。 任何帮助来源和查看地点都将不胜感激！提前谢谢您。    提交人    /u/Movsidas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz2rtp/looking_for_help_regarding_an_ai_class/</guid>
+      <pubDate>Sun, 24 Nov 2024 21:59:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能告诉我哪种人工智能工具最适合提升/增强你的视频吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz2kvj/can_someone_tell_me_which_ai_tools_is_best_to/</link>
+      <description><![CDATA[嗨！ 我目前正在使用 hailuo 从图像生成视频，但 hailuo 仅提供 720p 的视频，所以有人可以建议我任何可以增强/升级视频的工具吗？ 最好是免费和付费的，如果付费真的值得。     提交人    /u/its_sobi1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz2kvj/can_someone_tell_me_which_ai_tools_is_best_to/</guid>
+      <pubDate>Sun, 24 Nov 2024 21:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有这个想法并且需要对此进行一些扩展或某种结论！！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gz1re4/i_had_this_thought_and_it_needs_some_expansion/</link>
+      <description><![CDATA[如果人工智能抢走了工作岗位，导致人们失业，那么最终失业将导致购买力下降。如果购买力下降，销售这些产品的公司将失去利润或客户....有人能得出这个结论吗....？     由   提交  /u/Left_Lingonberry_474   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gz1re4/i_had_this_thought_and_it_needs_some_expansion/</guid>
+      <pubDate>Sun, 24 Nov 2024 21:16:00 GMT</pubDate>
     </item>
     <item>
       <title>新理论 - FANG Nurfing Ai 工具</title>
@@ -36,23 +92,9 @@
     <item>
       <title>我们可以从人工智能中获得某种个性吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gywrfz/can_we_derive_a_certain_personality_from/</link>
-      <description><![CDATA[在我看来，通过比较或感知，人工智能似乎具有某种个性。 甚至是某种人格障碍。 我们可以把什么特征归因于人工智能？ 或者甚至，人工智能人格是什么样的？     提交人    /u/RivRobesPierre   [link] [评论]]]></description>
+      <description><![CDATA[在我看来，通过比较或感知，人工智能似乎具有某种个性。 甚至是某种人格障碍。 我们可以把什么特征归因于人工智能？ 或者甚至，人工智能人格是什么样子的？     提交人    /u/RivRobesPierre   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gywrfz/can_we_derive_a_certain_personality_from/</guid>
       <pubDate>Sun, 24 Nov 2024 17:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对人工智能的矛盾态度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gyus40/my_conflicting_attitudes_toward_artificial/</link>
-      <description><![CDATA[我正在学习编程，希望将来成为一名程序员。我想在游戏行业和计算机图形行业做出贡献，我有很多想法，我想做很多伟大的事情，但现在我在重现论文方面遇到了一些困难。我知道我个人的渺小，我没有很多钱去追逐我的梦想，我认为人工智能肯定会改变世界，有时我迫切希望技术奇点的到来，建立超级人工智能，将人脑与人工智能融合，赋予人们超人的智慧，这样每个人都能做伟大的事情，但我有点担心，也许这项技术在发展过程中会被政客和富人控制。目前已经出现了由人工智能制造的虚假新闻趋势，这种趋势正在破坏我们彼此之间的信任，还有失业、脑机接口等老生常谈，我担心，如果我们未来不与计算机融合，我们将完全被淘汰，但与计算机融合意味着我们完全失去对大脑的控制。所以有时候我希望人工智能发展得更快，但有时候我害怕人工智能    submitted by    /u/MPM_SOLVER   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gyus40/my_conflicting_attitudes_toward_artificial/</guid>
-      <pubDate>Sun, 24 Nov 2024 16:23:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能与物理学的终结：我们准备好迎接这种转变了吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gyrwwc/ai_and_the_end_of_physics_are_we_ready_for_the/</link>
-      <description><![CDATA[受到 Essentia Foundation 发人深省的视频《我们所知的物理学的终结》的启发，我不禁想知道： 物理学是人类构造的——是的，它很出色，但受到我们的工具、思想实验和观点的限制。现在，人工智能正在介入，不受自我、传统或共识的束缚。它可以扭曲数据、结合想法，并产生超出我们甚至认为“可能”的见解。 但真正的问题是：当人工智能开始做出挑战物理学多数派的发现时，我们是接受它们，还是拒绝它们，因为它们不是来自人类的思想？ 我们准备好让人工智能重新定义我们对现实的理解了吗，还是我们会坚持我们一直熟知的框架？    提交人    /u/ResponsibleSteak4994   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gyrwwc/ai_and_the_end_of_physics_are_we_ready_for_the/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:16:18 GMT</pubDate>
     </item>
     <item>
       <title>人工智能播客</title>
@@ -76,46 +118,11 @@
       <pubDate>Sun, 24 Nov 2024 11:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>BIPro 通过块逆向提示约束生成框架进行零样本中文诗歌生成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gymlc9/bipro_zeroshot_chinese_poem_generation_via_block/</link>
-      <description><![CDATA[我每天都会发现和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“BIPro：通过块逆提示约束生成框架进行零样本中文诗歌生成”，作者是 Xu Zou。 这项研究引入了一种名为 BIPro 的新框架，旨在使用一种称为“块逆提示”的有趣方法来增强传统形式中文诗歌中的约束文本生成。尽管 GPT-4 等高级模型在更广泛的任务中取得了成功，但这种方法旨在解决当前 AI 模型在生成高质量诗歌方面面临的挑战。 论文的要点包括：  BIPro 框架：BIPro 框架利用块生成模型，可以通过迭代修改和重写来细化生成的内容，从而显着提高诗歌等受限格式的生成文本的质量。 超越更强大的模型：尽管使用了功能相对较弱的基础模型 GLM-10B，但 BIPro 框架在生成传统形式的中文诗歌方面的表现优于 GPT-4 等更先进的生成系统甚至特定领域的系统。 类似人类的生成过程：该框架通过不断修改和重写生成的句子来模仿人类的写作过程，从而生成更接近人类创作的文本诗歌。 人类审阅者认可：生成的诗歌在两次审阅挑战中都得到了人类诗人的高度评价，表明该框架能够创作出美观且与上下文相关的诗歌。 潜力与局限性：BIPro 框架虽然取得了显着的改进，但与直接生成模型相比，计算成本也更高，凸显了需要在计算资源和生成质量之间取得平衡。  通过其创新方法，BIPro 展示了块生成模型在改进诗歌等受限生成任务方面的尚未开发的潜力——这些任务传统上对 AI 来说具有挑战性。 您可以在此处查看完整细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gymlc9/bipro_zeroshot_chinese_poem_generation_via_block/</guid>
-      <pubDate>Sun, 24 Nov 2024 08:48:09 GMT</pubDate>
-    </item>
-    <item>
       <title>一个 15 岁的孩子应该学习什么职业才能在人工智能的世界里生存？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gyi95x/what_career_should_a_15_year_old_study_for_to/</link>
       <description><![CDATA[我一直在研究 AGI，我了解到，当 AGI 真正成为现实时，很多工作可能会被取代。你们觉得在有了 AGI 的世界里，什么职业是安全的，甚至是好的？    提交人    /u/ThisHumanDoesntExist   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gyi95x/what_career_should_a_15_year_old_study_for_to/</guid>
       <pubDate>Sun, 24 Nov 2024 04:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 11 月 23 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gyi6ua/oneminute_daily_ai_news_11232024/</link>
-      <description><![CDATA[ 为人工智能提供动力的数据中心所消耗的电力可能比整个城市还要多。[1] 瑞士卢塞恩市的一座教堂在忏悔室内安装了一台计算机，让教徒可以与“人工智能耶稣”交谈。[2] 朝鲜黑客利用 LinkedIn 上的人工智能诈骗和恶意软件窃取 1000 万美元。[3] 麻省理工学院的研究人员公布了一种突破性的强化学习算法，旨在增强人工智能在复杂环境中的决策能力，尤其是城市交通控制。[4]  来源包括：https://bushaicave.com/2024/11/23/11-23-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gyi6ua/oneminute_daily_ai_news_11232024/</guid>
-      <pubDate>Sun, 24 Nov 2024 03:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是人工智能领域的新闻动态。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gyf210/heres_whats_making_news_in_ai/</link>
-      <description><![CDATA[聚焦：OpenAI 正在考虑开发自己的浏览器。（来源：The Verge）  Converge Bio 如何计划为生物技术法学硕士 (LLM) 打造一个“万物商店”。 （来源：TechCrunch） 有关 OpenAI 意外删除纽约时报版权诉讼中潜在证据的最新消息（来源：TechCrunch） AI 行业的“下一个大赌注”是收购 Chrome？ （来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gyf210/heres_whats_making_news_in_ai/</guid>
-      <pubDate>Sun, 24 Nov 2024 01:08:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管存在风险，但人工智能发展最让您兴奋的是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gyed3s/what_excites_you_the_most_about_ai_development/</link>
-      <description><![CDATA[人工智能的发展让我感到兴奋，因为它促使我​​们探索人类的真正意义。这不仅关乎创造工具，也关乎更好地了解我们自己——我们的智慧、创造力和道德。构建可以思考的东西的旅程迫使我们质疑我们的极限并重新定义我们的潜力。 话虽如此，风险是不可否认的。随着我们扩展可能性，我们也为意想不到的后果打开了大门，比如失去对我们创建的系统的控制。这是发现和谨慎之间的微妙平衡，但这种挑战正是人工智能发展如此令人着迷的原因之一。    提交人    /u/AwkwardNapChaser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gyed3s/what_excites_you_the_most_about_ai_development/</guid>
-      <pubDate>Sun, 24 Nov 2024 00:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 回答“好问题”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gybko1/ai_responds_great_question/</link>
-      <description><![CDATA[我偶尔会问一些我知道很好的人工智能后续问题，有时会得到他们的回应，前面是“好问题”或类似的话。从广义上讲，模型通过发表这样的评论在做什么？它是在判断我提问的质量并评论我的逻辑能力，还是只是胡说八道？    提交人    /u/CodRepresentative380   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gybko1/ai_responds_great_question/</guid>
-      <pubDate>Sat, 23 Nov 2024 22:23:14 GMT</pubDate>
     </item>
     <item>
       <title>他们会对那些为了生存而工作的人类做些什么呢？</title>
@@ -125,16 +132,9 @@
       <pubDate>Sat, 23 Nov 2024 20:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>与 Chatgpt/Claude 相比，哪些 AI 工具在各自的领域中遥遥领先？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gy7ph4/what_ai_tools_are_far_ahead_in_their_respective/</link>
-      <description><![CDATA[为特殊有限目的而训练的 AI 工具比最流行的 LLM 更先进。 您知道有哪些类似的 AI 工具可用？ 例如：thispersondoesnotexist.com (1024×1024) 用于逼真的面部图片，或 Flux 用于一般图片。两者都可以如此逼真，人们无法将它们与真实照片区分开来。    提交人    /u/Beautiful_Exam1234   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gy7ph4/what_ai_tools_are_far_ahead_in_their_respective/</guid>
-      <pubDate>Sat, 23 Nov 2024 19:30:19 GMT</pubDate>
-    </item>
-    <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwi8vr/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwi8vr/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 21 Nov 2024 15:03:10 GMT</pubDate>
     </item>
