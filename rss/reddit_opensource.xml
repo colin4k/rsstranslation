@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 25 Nov 2024 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 18:03:08 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一个开源 CMS：FluentCMS 🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gzoihf/i_have_developed_an_open_source_cms_fluentcms/</link>
+      <description><![CDATA[我们非常高兴地宣布 FluentCMS 测试版正式上线！ FluentCMS 是一个基于 ASP.NET Core Blazor 的内容管理系统，它使网站构建变得简单、快速且直观。借助测试版，您现在可以直接在 FluentCMS 中创建完整的网站！ 它采用现代堆栈构建！ UI 由 TailwindCSS 提供支持，提供时尚、响应迅速且高度可定制的设计。对于数据库，目前支持 MongoDB 和 LiteDB。 SQL 支持已在开发中，将很快推出以适应更多用例和偏好。 我们很乐意听取您的反馈！ 您喜欢哪些功能？缺少什么？我们可以改进什么？您的建议将指导 FluentCMS 的未来。    提交人    /u/pournasserian   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gzoihf/i_have_developed_an_open_source_cms_fluentcms/</guid>
+      <pubDate>Mon, 25 Nov 2024 17:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找贡献者——开源 AI 前端开发助手！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gzo6qy/looking_for_contributors_opensource_ai_frontend/</link>
+      <description><![CDATA[你好，OSS 社区！ 我们正在构建 Superflex，这是一个开源的 VSCode/Cursor 前端助手。它与 Figma 集成，编写与您的设计系统、编码风格相匹配的代码，并重用您的 UI 组件。 在短短 2 个月内，我们的安装量超过 3000 次，并且增长速度非常快。但是，我们收到了很多功能请求，要求改进我们落后的 VSCode 扩展的 UX（我知道这很讽刺！） 我们正在寻找贡献者和愿意加入我们的社区并构建最佳 AI 前端助手的人！该项目遵循 MIT 许可证。 网站：superflex.ai Github：https://github.com/aquila-lab/superflex-vscode 如果您有我可以回答的问题，请随时在此处留言！    提交人    /u/qlut   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gzo6qy/looking_for_contributors_opensource_ai_frontend/</guid>
+      <pubDate>Mon, 25 Nov 2024 17:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>RenameToIX 1.0.12 是一款可视化 Linux 文件重命名器，现已推出对 Python lambda 表达式和宏的新支持。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gznox8/renametoix_1012_a_visual_linux_file_renamer_is/</link>
+      <description><![CDATA[描述 RenameToIX 是一个使用 GTK 构建的可视化 Linux 文件重命名器，具有对 Nemo、Nautilus 和 Thunar 文件管理器的集成支持。 项目页面  https://www.devtoix.com/en/projects/renametoix https://github.com/a-bentofreire/renametoix  特点  GUI 和控制台模式。 单击宏。 计数器、文件日期时间和扩展宏。 带有正则表达式组捕获的函数宏：小写、大写、大写和标题。 评估 Python lambda 表达式的宏。 计数器宏的起始索引。 可配置的宏列表。 还原以前的重命名（首先在“设置”对话框中激活）。 重命名后发送通知（首先在“设置”对话框中激活）。 与 Nemo、Nautilus 和 Thunar 文件管理器集成。 对 mtp 设备（智能手机、相机等...）的支持有限。     提交人    /u/abentofreire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gznox8/renametoix_1012_a_visual_linux_file_renamer_is/</guid>
+      <pubDate>Mon, 25 Nov 2024 17:01:03 GMT</pubDate>
+    </item>
     <item>
       <title>Canonical CISO 揭穿有关开源安全的谣言</title>
       <link>https://www.reddit.com/r/opensource/comments/1gzg9u6/canonical_ciso_debunks_myths_about_opensource/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我正式发布了 vueframe V2 版，它从头开始完全重建，性能大幅提升，并配备了全新的吉祥物。 https://github.com/vueframe/vueframe 一颗星就太棒了 + 我希望得到你的反馈 :)    提交人    /u/Medical_Start4604   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gxkd7y/vueframe_v2_is_here/</guid>
       <pubDate>Fri, 22 Nov 2024 22:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里找到可以贡献的新开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gxhbsz/where_can_i_find_new_opensource_projects_to/</link>
-      <description><![CDATA[作为一名不太专注于为开源项目做出贡献的开发人员，我在哪里可以找到准备启动但需要开发人员组建完整团队的项目？ 我认为对于准备加入此类“行业”的开发人员来说，这是正确的讨论主题。    提交人    /u/KoalNix   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gxhbsz/where_can_i_find_new_opensource_projects_to/</guid>
-      <pubDate>Fri, 22 Nov 2024 20:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在框架之上还是从头开始构建开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gxbzbc/building_opensource_project_on_top_of_a_framework/</link>
-      <description><![CDATA[我（和一些开发人员）计划启动一个开源项目，但我们无法决定是使用框架还是从头开始。 从头开始构建总是更好吗？我说的是后端（PHP）？ 附带问题：PHP 真的是人们可以在共享主机上使用该项目的开源项目的最佳语言吗？    提交人    /u/KoalNix   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gxbzbc/building_opensource_project_on_top_of_a_framework/</guid>
-      <pubDate>Fri, 22 Nov 2024 16:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streamsphere - 一款用于下载和管理媒体的应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gx6091/streamsphere_an_app_to_dl_manage_your_media/</link>
-      <description><![CDATA[大家好！ 我开发了一个网络应用程序 Streamsphere，它可以帮助从 yt-dlp 下载并管理/服务器您的媒体；它完全可自托管。使用 github 上提供的 docker compose 可以非常轻松地进行设置！ 功能  📺 从支持的域下载频道 📼 从支持的域下载和更新播放列表 📽️ 从支持的域下载视频 🔍 按标题搜索和播放视频 👾 用于浏览媒体库的 UI 📥 通过浏览器下载已添加到 streamsphere 的媒体内容 ✨ 查看下载内容的标签、类别、媒体文件大小和其他详细信息 🎴 轻量 &amp;深色主题支持  技术堆栈是 Angular + Golang。努力使资源利用率尽可能低。https://github.com/rs-anantmishra/streamsphere 我已经发布了预发布版 v0.1.10，请在我的 github 页面上查看！我希望得到这个很棒的社区的反馈！:-) 谢谢！ 截图：https://imgur.com/a/4DIt8AI    提交人    /u/am_streamsphere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gx6091/streamsphere_an_app_to_dl_manage_your_media/</guid>
-      <pubDate>Fri, 22 Nov 2024 11:48:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
