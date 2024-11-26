@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 26 Nov 2024 18:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 21:01:50 GMT</lastBuildDate>
+    <item>
+      <title>如何解决背压生产者消费者问题？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0mh35/how_to_solve_producer_consumer_problem_with/</link>
+      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0mh35/how_to_solve_producer_consumer_problem_with/</guid>
+      <pubDate>Tue, 26 Nov 2024 20:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meetcode：人工智能驱动的协作代码编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0m31n/meetcode_ai_powered_collaborative_code_compiler/</link>
+      <description><![CDATA[  由    /u/sperodev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0m31n/meetcode_ai_powered_collaborative_code_compiler/</guid>
+      <pubDate>Tue, 26 Nov 2024 20:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 代码生成仍将保持碎片化</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0kmkz/ai_code_generation_will_remain_fragmented/</link>
+      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0kmkz/ai_code_generation_will_remain_fragmented/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Neon + PostgREST 重建 Supabase 的 API 体验</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0k1mw/rebuilding_supabases_api_experience_using_neon/</link>
+      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0k1mw/rebuilding_supabases_api_experience_using_neon/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 PostgreSQL 批量提取进行基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1h0k0ww/benchmarking_postgresql_batch_ingest/</link>
+      <description><![CDATA[  由    /u/jamesgresql  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h0k0ww/benchmarking_postgresql_batch_ingest/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:12:48 GMT</pubDate>
+    </item>
     <item>
       <title>上下文感知的拉取请求 AI 审阅者（逐行评论、即时摘要、标题生成、评论回复）</title>
       <link>https://www.reddit.com/r/programming/comments/1h0i13f/contextaware_ai_reviewer_for_pull_requests/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h08z3n/designing_service_discovery_and_load_balancing_in/</guid>
       <pubDate>Tue, 26 Nov 2024 10:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Windows 95 安装使用三个操作系统？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h07ldp/why_did_windows_95_setup_use_three_operating/</link>
-      <description><![CDATA[  由    /u/bit810  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h07ldp/why_did_windows_95_setup_use_three_operating/</guid>
-      <pubDate>Tue, 26 Nov 2024 09:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍模型上下文协议</title>
-      <link>https://www.reddit.com/r/programming/comments/1h07dv1/introducing_the_model_context_protocol/</link>
-      <description><![CDATA[  由    /u/kloexnamik  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h07dv1/introducing_the_model_context_protocol/</guid>
-      <pubDate>Tue, 26 Nov 2024 08:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何懒惰地学习前端开发</title>
-      <link>https://www.reddit.com/r/programming/comments/1h06ero/how_to_study_frontend_development_the_lazy_way/</link>
-      <description><![CDATA[  由    /u/joyancefa  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h06ero/how_to_study_frontend_development_the_lazy_way/</guid>
-      <pubDate>Tue, 26 Nov 2024 07:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 HTML onclick 属性</title>
-      <link>https://www.reddit.com/r/programming/comments/1h05w7d/understanding_the_html_onclick_attribute/</link>
-      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h05w7d/understanding_the_html_onclick_attribute/</guid>
-      <pubDate>Tue, 26 Nov 2024 06:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 和 jujutsu：微型</title>
-      <link>https://www.reddit.com/r/programming/comments/1h054un/git_and_jujutsu_in_miniature/</link>
-      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h054un/git_and_jujutsu_in_miniature/</guid>
-      <pubDate>Tue, 26 Nov 2024 06:06:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
