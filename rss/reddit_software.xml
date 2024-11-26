@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 21:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 03:12:29 GMT</lastBuildDate>
+    <item>
+      <title>简单的 3D 软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1h01ldu/simple_3d_software/</link>
+      <description><![CDATA[嗨 r/software，你可能是我唯一的希望。我目前正在做一个项目，需要做一些 3D 建模，建模对象和内部等等。我已经尝试了很多选项（包括几个版本的 Blender），但它们似乎都太复杂了，我认为我学不会其中任何一个。 我想知道是否有更简单、功能有限的 3D 软件？我真正需要的是能够添加简单的几何图形、纹理，也许还可以添加灯光。我也不需要导出它。 我向天上地下的所有神发誓，如果你们能帮我找到有用的东西，我会把你的名字添加到我的项目信用中   由    /u/kansaslml  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h01ldu/simple_3d_software/</guid>
+      <pubDate>Tue, 26 Nov 2024 02:49:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找垃圾箱路线软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gzzmw2/looking_for_routing_software_for_dumpsters/</link>
+      <description><![CDATA[我正在尝试寻找一种软件，通过识别哪些任务最接近以最大限度地减少旅行时间，帮助优化我的垃圾箱公司的路线。但是，当某些任务（例如卸货、取货或交换）由于紧急或特定截止日期而必须优先处理时，我还需要灵活性来手动覆盖路线。这是我可以借助 AI 或已经创建的软件来完成的事情吗？ 关键细节：  任务类型： 投放：将空垃圾箱运送到客户现场。 取货：收集满的垃圾箱并将其运送到六个当地垃圾填埋场之一。 交换：在客户所在地将满的垃圾箱换成空的垃圾箱。  垃圾箱尺寸：我们管理 15、20 和 30 码的垃圾箱。如果某项任务需要卡车目前没有的特定尺寸，则必须先在我们的院子里将其换出。 垃圾填埋场注意事项：必须根据距离和运营效率将装满的垃圾箱运送到附近的六个垃圾填埋场之一。 车队详情： 我们运营两辆卡车，因此必须以最有效的方式在它们之间分配任务。  灵活性和覆盖：软件应根据距离和工作量自动创建优化路线，但允许我调整时间表以在必要时优先处理某些任务。     提交人    /u/ArabBak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gzzmw2/looking_for_routing_software_for_dumpsters/</guid>
+      <pubDate>Tue, 26 Nov 2024 01:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何好的软件可以准确捕捉现场讲话并将其转换为文本/字幕？</title>
+      <link>https://www.reddit.com/r/software/comments/1gzz7dp/is_there_any_good_software_that_captures/</link>
+      <description><![CDATA[我正在寻找这样的东西，不会有背景噪音，但是说话者在说英语时可能会有一些口音，我在想，随着人工智能的所有进步，是否存在这样的软件？  有人可以说话，它会识别声音并将其转换为文本，并且实际上在录制时也会自动嵌入到视频本身中。    提交人    /u/ZxZ239   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gzz7dp/is_there_any_good_software_that_captures/</guid>
+      <pubDate>Tue, 26 Nov 2024 00:54:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>怎样才是好的变更日志？</title>
+      <link>https://www.reddit.com/r/software/comments/1gzwhe9/what_makes_a_good_changelog/</link>
+      <description><![CDATA[  由    /u/Smooth-Loquat-4954  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gzwhe9/what_makes_a_good_changelog/</guid>
+      <pubDate>Mon, 25 Nov 2024 22:51:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何重新映射 Drevo Owl 无线鼠标侧键？</title>
       <link>https://www.reddit.com/r/software/comments/1gzsill/how_to_remap_drevo_owl_wireless_mouse_side_buttons/</link>
@@ -78,7 +106,7 @@
     <item>
       <title>是否有可以处理 txt 文件集合的 Windows 软件。</title>
       <link>https://www.reddit.com/r/software/comments/1gz1i0a/is_there_a_windows_software_that_can_process/</link>
-      <description><![CDATA[我收集了数百个 txt 文件。我需要挑选出包含特定文本/句子/短语的 txt 文件。当然，我可以手动完成此操作，但有数百个（实际上超过一千个）这样的文件，我想知道是否有软件可以搜索这些 txt 文件并自动标记我需要的文件。 示例：- 搜索并标记所有包含句子“Mozart 确实提到过”的 Txt 文件     提交者    /u/angel_eyes619   [链接] [评论]]]></description>
+      <description><![CDATA[我收集了数百个 txt 文件。我需要挑选出包含特定文本/句子/短语的 txt 文件。当然，我可以手动完成此操作，但有数百个（实际上超过一千个）这样的文件，我想知道是否有软件可以搜索这些 txt 文件并自动标记我需要的文件。 示例：- 搜索并标记所有包含句子“Mozart did mention”的 Txt 文件     提交人    /u/angel_eyes619   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gz1i0a/is_there_a_windows_software_that_can_process/</guid>
       <pubDate>Sun, 24 Nov 2024 21:04:36 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好，我正在寻找一款能够自动裁剪已分割图像并将它们保存为单个文件的软件。如果它们能够执行其他任务（例如使每幅图像透明）就太好了。  示例：https://dribbble.com/shots/22991774-100-Logos-On-Behance  无论如何，任何有关此事的信息都将不胜感激，谢谢。    提交人    /u/Humbaba3344   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gyrj8l/photograph_cropping_tool_for_segmented_imageslogos/</guid>
       <pubDate>Sun, 24 Nov 2024 13:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程访问整个系统</title>
-      <link>https://www.reddit.com/r/software/comments/1gykt1p/remote_access_entire_system/</link>
-      <description><![CDATA[我有一台台式电脑和一台性能严重不足的笔记本电脑，我想用笔记本电脑访问电脑。但是，我希望能够远程访问整个系统，而不仅仅是单个用户会话（两个系统都运行 Arch） 例如，我可以转到 TTY 或切换用户而不会丢失连接 理想情况下，它只使用本地网络以最小化延迟，因为我希望通过这样的连接玩游戏 有这样的程序吗？    提交人    /u/Super_Effective1203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gykt1p/remote_access_entire_system/</guid>
-      <pubDate>Sun, 24 Nov 2024 06:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有免费软件可以加密 USB 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1gyk6b9/free_software_to_encrypt_a_usb/</link>
-      <description><![CDATA[我没有 Windows 10 专业版，所以我无法使用 BitLocker 加密我的 USB。有人知道有什么免费的选项可以给我的工作 USB 设置密码，这样我的重要信息就不会被盗吗？    提交人    /u/ZooterTheWooter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gyk6b9/free_software_to_encrypt_a_usb/</guid>
-      <pubDate>Sun, 24 Nov 2024 05:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 照片编辑软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gygbm4/windows_11_photo_editing_software/</link>
-      <description><![CDATA[几个月后我会买一台 Windows 11 电脑，但我已经很多年没有玩电脑软件了。大家都在使用什么样的照片编辑软件？给你一个想法，我目前在一台旧的 Chromebook 上运行免费的照片编辑器“SnapSeed”我更愿意一次性购买而不是按年付费（除非你能解释为什么按年付费的软件值得）我想现在做研究，希望找到一个有许多 YouTube 教程和不同编辑技术操作方法的软件。     提交人    /u/Kayloves420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gygbm4/windows_11_photo_editing_software/</guid>
-      <pubDate>Sun, 24 Nov 2024 02:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么应用程序可以深入查看 ISO 文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1gyeqm1/any_apps_for_looking_deeply_to_iso_files/</link>
-      <description><![CDATA[是的，我有一些 ISO 文件，我想对其进行分析，主要是如果它可以运行并更改（tes、纹理、代码等）其中的一些内容，任何可以进行这些更改的应用程序对我都会有用    提交人    /u/AndrusPlay   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gyeqm1/any_apps_for_looking_deeply_to_iso_files/</guid>
-      <pubDate>Sun, 24 Nov 2024 00:52:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
