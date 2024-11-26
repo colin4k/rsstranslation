@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 26 Nov 2024 06:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 09:02:00 GMT</lastBuildDate>
+    <item>
+      <title>FreeCAD 1.0 终于发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h07i7k/freecad_10_finally_released/</link>
+      <description><![CDATA[https://blog.freecad.org/2024/11/19/freecad-version-1-0-released/ 经过 20 年的发展，FreeCAD 项目决定他们的最新版本终于配得上 1.0 的标签！这似乎是一个值得注意的时刻！:)    提交人    /u/xtifr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h07i7k/freecad_10_finally_released/</guid>
+      <pubDate>Tue, 26 Nov 2024 08:53:20 GMT</pubDate>
+    </item>
     <item>
       <title>怎样才是好的变更日志？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gzwnsf/what_makes_a_good_changelog/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[AI 扩展程序极大地帮助了我日常生活，尤其是在管理电子邮件等任务方面。我目前正在寻找一个可以在使用 Google Chrome 时帮助我高效完成任务的 AI 助手。    提交人    /u/4everonlyninja   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gxpu7k/whats_the_top_opensource_allinone_ai_assistant/</guid>
       <pubDate>Sat, 23 Nov 2024 03:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找基于网络的排行榜</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gxkvtx/looking_for_web_based_leaderboard/</link>
-      <description><![CDATA[大家好 正在寻找一个基于 Web 的（最好是自托管）程序来托管销售排行榜。这是为销售竞赛准备的。希望参与者能够增加销售额并让其显示在排行榜上。 我尝试过的： Knack：用户无法使用 knack 删除记录，所以我没有选择他们。除非您额外付费，否则没有使用自定义域的选项。没有自托管选项。 LeaderboardHQ：无法跟踪销售金额，用户很难添加数据。 欢迎任何和所有建议 - 首选开源/免费/免费增值，但也愿意为程序付费。 提前谢谢您    提交人    /u/caliinsuranceguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gxkvtx/looking_for_web_based_leaderboard/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:59:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 26 Nov 2024 06:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 09:01:54 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Windows 95 安装使用三个操作系统？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h07ldp/why_did_windows_95_setup_use_three_operating/</link>
+      <description><![CDATA[  由    /u/bit810  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h07ldp/why_did_windows_95_setup_use_three_operating/</guid>
+      <pubDate>Tue, 26 Nov 2024 09:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍模型上下文协议</title>
+      <link>https://www.reddit.com/r/programming/comments/1h07dv1/introducing_the_model_context_protocol/</link>
+      <description><![CDATA[  由    /u/kloexnamik  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h07dv1/introducing_the_model_context_protocol/</guid>
+      <pubDate>Tue, 26 Nov 2024 08:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>将文档从框架转移到哈希节点</title>
+      <link>https://www.reddit.com/r/programming/comments/1h078ov/shifting_docs_from_framer_to_hashnode/</link>
+      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h078ov/shifting_docs_from_framer_to_hashnode/</guid>
+      <pubDate>Tue, 26 Nov 2024 08:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何懒惰地学习前端开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1h06ero/how_to_study_frontend_development_the_lazy_way/</link>
+      <description><![CDATA[  由    /u/joyancefa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h06ero/how_to_study_frontend_development_the_lazy_way/</guid>
+      <pubDate>Tue, 26 Nov 2024 07:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解 HTML onclick 属性</title>
+      <link>https://www.reddit.com/r/programming/comments/1h05w7d/understanding_the_html_onclick_attribute/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h05w7d/understanding_the_html_onclick_attribute/</guid>
+      <pubDate>Tue, 26 Nov 2024 06:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git 和 jujutsu：微型</title>
+      <link>https://www.reddit.com/r/programming/comments/1h054un/git_and_jujutsu_in_miniature/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h054un/git_and_jujutsu_in_miniature/</guid>
+      <pubDate>Tue, 26 Nov 2024 06:06:27 GMT</pubDate>
+    </item>
     <item>
       <title>陷入成功的陷阱 (2007)</title>
       <link>https://www.reddit.com/r/programming/comments/1h03lil/falling_into_the_pit_of_success_2007/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/According_Ant_5944  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gzsjje/over_290_laravelphp_tips_ive_collected_so_far/</guid>
       <pubDate>Mon, 25 Nov 2024 20:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>FastEmbed-rs - 一个用于生成向量嵌入并在本地重新排序的库</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzr36b/fastembedrs_a_library_to_generate_vector/</link>
-      <description><![CDATA[  由    /u/code9855  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzr36b/fastembedrs_a_library_to_generate_vector/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fleng 22（并发逻辑编程）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzqhso/fleng_22_concurrent_logic_programming/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzqhso/fleng_22_concurrent_logic_programming/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 与 C 的速度</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzpjzi/speed_of_rust_vs_c/</link>
-      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzpjzi/speed_of_rust_vs_c/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态、动态、可合并，天哪！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzpi38/static_dynamic_mergeable_oh_my/</link>
-      <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzpi38/static_dynamic_mergeable_oh_my/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:10:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Google 表格作为微控制器的远程配置</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzobr2/how_i_used_google_sheets_as_a_remote_config_for/</link>
-      <description><![CDATA[  由    /u/theapache64  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzobr2/how_i_used_google_sheets_as_a_remote_config_for/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[RFC] 基于 ClangIR 的安全 C++</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzo4da/rfc_a_clangir_based_safe_c/</link>
-      <description><![CDATA[  由    /u/ketralnis 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzo4da/rfc_a_clangir_based_safe_c/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:16:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
