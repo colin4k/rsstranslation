@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 26 Nov 2024 03:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 06:02:31 GMT</lastBuildDate>
+    <item>
+      <title>陷入成功的陷阱 (2007)</title>
+      <link>https://www.reddit.com/r/programming/comments/1h03lil/falling_into_the_pit_of_success_2007/</link>
+      <description><![CDATA[  由    /u/gavinhoward  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h03lil/falling_into_the_pit_of_success_2007/</guid>
+      <pubDate>Tue, 26 Nov 2024 04:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Kubernetes 中启用 Cosign 图像签名和验证、使用策略进行持续验证以及对存储库中的工件进行分析。</title>
+      <link>https://www.reddit.com/r/programming/comments/1h02wu6/how_to_enable_cosign_image_signing_and_validation/</link>
+      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h02wu6/how_to_enable_cosign_image_signing_and_validation/</guid>
+      <pubDate>Tue, 26 Nov 2024 03:58:29 GMT</pubDate>
+    </item>
     <item>
       <title>细分 CPU 速度：利用率如何影响性能</title>
       <link>https://www.reddit.com/r/programming/comments/1gzymlo/breaking_down_cpu_speed_how_utilization_impacts/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gzo4da/rfc_a_clangir_based_safe_c/</guid>
       <pubDate>Mon, 25 Nov 2024 17:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClickHouse — 快速、去重读取</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzo3ij/clickhouse_fast_deduplicated_reads/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzo3ij/clickhouse_fast_deduplicated_reads/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>CHERI 误区：CHERI 与安全关键型系统不兼容</title>
-      <link>https://www.reddit.com/r/programming/comments/1gzo2cr/cheri_myths_cheri_is_incompatible_with/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gzo2cr/cheri_myths_cheri_is_incompatible_with/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:14:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
