@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 06:02:15 GMT</lastBuildDate>
+    <item>
+      <title>实现 Shopify 等平台的 API 并将其开源是否合法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h0xkbt/is_it_legal_to_implement_the_api_of_a_platform/</link>
+      <description><![CDATA[大家好，我有一个问题就像标题一样。从法律角度来看，开源实现 Shopify 等商业平台的 API 是否合法？我只是想知道为什么以前没有人这样做？    提交人    /u/K-artisan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h0xkbt/is_it_legal_to_implement_the_api_of_a_platform/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:59:22 GMT</pubDate>
+    </item>
     <item>
       <title>将 DHT22 传感器数据从 ESP32 开发板安全地发送到 PostgreSQL</title>
       <link>https://www.reddit.com/r/opensource/comments/1h0pl6g/securely_sending_dht22_sensor_data_from_an_esp32/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>项目构想：一款记录您使用每个开源程序的时间并据此分配每月捐款的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1h0io46/project_idea_an_app_that_records_how_much_time/</link>
-      <description><![CDATA[今天晚上，我在思考我的 Apple Arcade 订阅，以及为什么许多之前付费游戏的开发者选择将其作为货币化选项。然后我有了一个想法：如果我们使用相同的原则来分配 FOSS 捐款会怎么样？ 许多优秀的开源应用程序和库没有获得足够的资金，因为它们的名字并不为人所知（例如 Blender 或 Krita），它们不会在弹出窗口中要求捐款，而且总体而言是日常计算的无缝组成部分。我认为他们会从可以自动分配捐款的应用程序中受益。这样的应用程序会从用户那里收取少量的月度捐款（例如每月 7 美元），记录给定用户在其计算机上使用每个应用程序的时间，并相应地分配给定的金额。 根据桌面应用程序窗口聚焦的时间在桌面应用程序之间分配 70%，在后台进程之间分配 30% 听起来像是一个可靠的默认算法。当然，它必须是可定制的。 我相信，如果这样的应用程序成为每个主要桌面环境的一部分，并预装在大多数 GNU+Linux 发行版上，效果会更好。    提交人    /u/Qwert-4   [链接] [评论]]]></description>
+      <description><![CDATA[今天晚上，我在思考我的 Apple Arcade 订阅，以及为什么许多之前付费的游戏开发者选择将其作为货币化选项。然后我有了一个想法：如果我们使用相同的原则来分配 FOSS 捐款会怎么样？ 许多优秀的开源应用程序和库没有获得足够的资金，因为它们的名字并不为人所知（例如 Blender 或 Krita），它们不会在弹出窗口中要求捐款，而且总体而言是日常计算的无缝组成部分。我认为他们会从可以自动分配捐款的应用程序中受益。这样的应用程序会从用户那里收取少量的月度捐款（例如每月 7 美元），记录给定用户在其计算机上使用每个应用程序的时间，并相应地分配给定的金额。 根据桌面应用程序窗口聚焦的时间在桌面应用程序之间分配 70%，在后台进程之间分配 30% 听起来像是一个可靠的默认算法。当然，它必须是可定制的。 我相信，如果这样的应用程序成为每个主要桌面环境的一部分，并预装在大多数 GNU+Linux 发行版上，效果会更好。    提交人    /u/Qwert-4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h0io46/project_idea_an_app_that_records_how_much_time/</guid>
       <pubDate>Tue, 26 Nov 2024 18:18:54 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我想进行多流传输，但从未找到我真正喜欢的多流传输服务。我可以自行托管；开源。所以我做了一个。 介绍 xplex v1.0.0 — 一个自托管、容器化、多流传输服务器，具有用户友好的 Web 仪表板。它让您完全控制：  托管在任何您喜欢的地方 通过实例正常运行时间管理成本 流式传输到您想要的任意数量的平台  为了使其更加简单，我在 DigitalOcean 市场上推出了 xplex 作为一键式应用程序。这是我现在为方便起见所使用方法：上线时启动一个服务器，然后在完成流式传输后删除该实例，以将成本降至最低。 xplex 适用于任何想要进行多流式传输的人，它不需要高级的技术魔法。它被设计为可访问的，但我正在积极寻求反馈以使其更加简单。 相关链接  文档：https://xplex.me/setup/ GitHub：https://github.com/debloper/xplex 一键：https://marketplace.digitalocean.com/apps/xplex  我还将于 UTC 时间 15:00 在 Twitch 和 YouTube 上进行多流式传输；因此，请随时提出您的问题或建议，以改进 xplex！    提交人    /u/Debloper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gysgh3/i_made_xplexme_selfhosted_open_source/</guid>
       <pubDate>Sun, 24 Nov 2024 14:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 变得简单</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gyqg3v/githubmadesimple/</link>
-      <description><![CDATA[      GitHub-Made-Simple ( 请给我任何建议或任何报告 :) ) 大家好，我制作了一个小工具来简化 Git — 因为说实话，Git 有时会有点复杂。（它有 GUI 界面） 它的作用是： 推送代码，不会产生任何干扰 注意到更改（创建、删除）或特定文件内容更改（子模块）等。 还有更多功能，我也尝试过覆盖边缘情况（更少的错误*） 它有两种身份验证方式 1）通过 SSH 2）HTTPS 尝试一下，如果它确实使您使用 git 的体验更容易，请告诉我 :)  您可以在 GitHub 上找到源代码。    提交人    /u/Better-Sleep8296   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gyqg3v/githubmadesimple/</guid>
-      <pubDate>Sun, 24 Nov 2024 13:01:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

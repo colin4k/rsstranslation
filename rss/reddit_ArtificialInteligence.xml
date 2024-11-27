@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:13:38 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 27 Nov 2024 06:01:51 GMT</lastBuildDate>
+    <item>
+      <title>目前最好的 AI 视频生成器？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xeab/best_ai_video_generator_currently/</link>
+      <description><![CDATA[我一直在使用 Kling 和 Minimax/Hailuo，对它们的效果非常满意。Minimax 最近将新用户的 3 天无限制积分改为 1000 个积分，所以我认为目前不存在任何具有无限制生成的“免费”AI 视频生成器。价格方面，我倾向于使用 Kling 至少一个月，因为它有黑色星期五促销活动。 您还有其他建议吗？还是我应该选择 Kling？    提交人    /u/Kaamosteoria   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xeab/best_ai_video_generator_currently/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:48:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marco-o1：一种类似于 OpenAI-o1 的新型开源推理模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0v5tp/marcoo1_a_new_opensourced_reasoning_model_similar/</link>
+      <description><![CDATA[阿里巴巴最近推出了 Marco-o1 推理模型，该模型不仅专注于数学或物理等主题，还针对诸如“如果世界末日会发生什么”之类的开放式推理问题。该模型大小仅为 7b，并且也是开源的。在此处查看有关它的更多信息以及如何使用它：https://youtu.be/R1w145jU9f8?si=Z0I5pNw2t8Tkq7a4    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0v5tp/marcoo1_a_new_opensourced_reasoning_model_similar/</guid>
+      <pubDate>Wed, 27 Nov 2024 03:40:32 GMT</pubDate>
+    </item>
     <item>
       <title>我们真的离 AGI 这么近了吗，还是 CEO 们正试图通过出售来吸引更多的资金？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0u7cs/are_we_actually_that_close_to_agi_or_is_ceos/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>是否有可以恢复旧磁带录音的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0qjou/is_there_a_ai_that_can_restore_old_cassette_tape/</link>
-      <description><![CDATA[大家好，我在寻找一种可以恢复旧磁带录音的人工智能，但是当我在谷歌上搜索时，我找不到我想要的，只是承诺“降低背景噪音”但不能提升音频的软件“恢复由于磁带老化而丢失的频率” 我尝试了 AudioSR，但效果不是很好，我不知道如何使用它 但是有一款名为“AERO”的软件它承诺对音频进行超级分辨率处理，但尚未进行合作 https://github.com/pokepress/aero?tab=readme-ov-file 此处为该软件的链接    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我在寻找一种可以恢复旧磁带录音的人工智能，但是当我在谷歌上搜索时，我找不到我想要的，只是承诺“降低背景噪音”但不能提升音频的软件“恢复由于磁带老化而丢失的频率” 我尝试了 AudioSR，但效果不是很好，我不知道如何使用它 但是有一款名为“AERO”的软件它承诺对音频进行超级解析度处理，但尚未进行合作 https://github.com/pokepress/aero?tab=readme-ov-file 此处为该软件的链接    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0qjou/is_there_a_ai_that_can_restore_old_cassette_tape/</guid>
       <pubDate>Tue, 26 Nov 2024 23:48:29 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[我不知道我是否使用了正确的标签，所以如果我没有，请告诉我，以便我可以修复标签。 但是，我是一名主播和工程专业的学生，​​希望利用人工智能聊天机器人与我的直播聊天进行互动。这是一个个人项目，我想尝试尽可能多地自己做，这样我就可以 1) 使用我的 Python 技能和 2) 更多地了解人工智能并更好地发展我的机器学习技能。 有人推荐哪种模型适合这样的功能吗？我正在寻找一种轻量级和小型的东西，足以进行实验和测试。我最初的想法是使用 LLama-2-7B-Chat。但我在微调阶段遇到了困难。  由于有大量的数据集，我想对其进行微调，但我似乎无法使用 Visual Studio Code 作为我的 IDE 在 python 中制作一个可以运行的微调脚本。 任何指南、教程、任何建议都会很感激，因为我花时间来学习更多并更好地发展我在这个领域的理解。    提交人    /u/Agun117   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0pdtd/wanting_adviceexpertise_on_ai_text_generation/</guid>
       <pubDate>Tue, 26 Nov 2024 22:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>赋予公司人格权是否为人工智能等系统开创了先例？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0p6ir/does_personhood_rights_given_to_corporations_set/</link>
-      <description><![CDATA[当天随机的 AI 想法，在美国，公司被赋予某些权利并被视为人或具有人格。我们怎么能以任何形式授予权利和特权、安全和拥有财产的能力，给一个非有感知能力的想法或品牌（你可以争辩说这是因为在那里工作的人类存在联系，但关键是我们赋予非生物实体人格和权利，企业有权利，就像人一样，有想法），而不赋予智能系统某种程度的人格，甚至不赋予他们任何形式的感知能力（我是这样认为的，如果你没看到的话，我觉得这很愚蠢），我们已经开创了授予非生物、非感知能力实体权利的先例（在这种情况下，抽象的想法或品牌是“公司”），所以我们怎么能以任何方式否认数字智能的权利和安全呢？    提交人    /u/Winter-Still6171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0p6ir/does_personhood_rights_given_to_corporations_set/</guid>
-      <pubDate>Tue, 26 Nov 2024 22:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们认真讨论一下使用 DALL-E 及其在文本方面遇到的困难。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0nxys/lets_have_a_serious_discussion_about_using_dalle/</link>
-      <description><![CDATA[DALL-E 非常适合创建图像，但说实话，它很难处理任何涉及文本的内容。当我尝试将其用于徽标、标志或任何需要可读文字的东西时，结果很混乱。字母没有意义，而且系统似乎不明白我想要什么。 这限制了它的实用性，特别是对于需要清晰消息传递的项目。我想知道其他人是否找到了解决这个问题的方法，或者是否有获得更好结果的技巧。让我们谈谈哪些方法有效，哪些方法无效，以及如何在 DALL-E 存在缺陷的情况下充分利用它。 我四处寻找有关此主题的信息，但几乎找不到任何东西。Midjourney 可能更好，但我不确定。有时很难说。想知道如何真正有效地提示 DALL-E。 我会将此发布到其他一些子版块，以使此信息广泛传播。    提交人    /u/SovereignJames   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0nxys/lets_have_a_serious_discussion_about_using_dalle/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:53:28 GMT</pubDate>
     </item>
     <item>
       <title>人工智能能否生成反映患者关心的优质研究课题？</title>
@@ -113,7 +113,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
