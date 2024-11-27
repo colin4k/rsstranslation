@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Nov 2024 09:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 12:02:32 GMT</lastBuildDate>
+    <item>
+      <title>用于运行生物信息学实验的无代码工作流引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h11y4x/nocode_workflow_engine_for_running_bioinformatics/</link>
+      <description><![CDATA[嗨， 我和我的朋友制作了一个平台，允许您使用分布式工作流运行不同的生物信息学工具和 AI 模型并获得可视化报告。我想说它有点独特，因为我没有看到任何接近此的开源工作流解决方案。它为您提供无代码视觉效果、节点连接 IO 的属性类型验证，基于 celery，它允许您以分布式方式运行动态制作的工作流，并且添加新类型的节点非常容易（只需从 Component 和 ComponentFlowHandler 类继承并覆盖几个方法）。 NoLabs 如果您有任何问题或建议，请随时提出！ 如果您想使用它或从代码或架构中学到了一些东西，请告诉我，我会非常高兴 :)   由    /u/Jack_Hackerman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h11y4x/nocode_workflow_engine_for_running_bioinformatics/</guid>
+      <pubDate>Wed, 27 Nov 2024 11:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建您自己的自定义开发工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h11a3h/build_you_own_custom_dev_tool/</link>
+      <description><![CDATA[过去几个月我一直在开发 potpie，我喜欢它让为您的工作流程创建自定义开发工具变得如此简单。  软件一直是批量生产的，几乎没有定制的余地。在工程团队中，一刀切并不总是适合所有人。因此，我创建了 potpie，它让您可以非常轻松地为您的独特用例构建自定义开发工具，而无需深入构建自己的工具。  我仅使用文本构建的示例工具：  代码更改分析： 旨在分析 PR 影响的范围。它使用 potpie 的 change_detection 工具比较分支，使用 get_code_graph_from_node_id 工具了解组件关系。 LLD Creator：专为功能实施规划而设计。使用 ask_knowledge_graph_queries 工具查找相关代码模式，使用 get_code_file_structure 工具了解项目布局。 入职助手：创建以了解未记录的功能。将 get_code_from_probable_node_name 工具与图形遍历相结合以跟踪功能实现。 我很乐意听到您对这样的工具的用例，并看到您对社区的贡献！很高兴回答有关其工作原理的任何问题。    提交人    /u/ner5hd__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h11a3h/build_you_own_custom_dev_tool/</guid>
+      <pubDate>Wed, 27 Nov 2024 10:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 git 方面的帮助。在使用 docker 提交项目时遇到了麻烦。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h11743/need_help_with_git_messed_up_while_committing_to/</link>
+      <description><![CDATA[我是一名大四学生（所以请原谅我对技术的幼稚了解）。最近我开始从事一个开源项目。我看到一个问题，并要求将其分配给我，然后我得到了分配。我将其分叉并克隆，开始处理它，并完成了它。 现在，当我需要将其推送到我分叉的仓库时，它比原始仓库落后了 36 个提交。因此，我使用 github 中的同步选项使我的分叉保持最新。但是现在，当我尝试在推送更改之前拉取此仓库时，它会出现冲突。 所以我的一个朋友告诉我再对“最新”仓库进行一次本地克隆，然后手动移动这些更改，然后推送它。没问题。但如果我需要检查所有这些是否正常工作，我需要在本地运行它（新的克隆，其中完成了我的更改）。但是这个项目使用docker，并且旧设置正在运行，我认为这是一项繁琐的任务，因为我需要&quot;docker compose down&quot;旧设置并组建新设置以查看一切是否正常运行。 我需要知道是否有任何解决方法。或者请解释一下应该如何实际完成。请记住，我只是一名最后一年的学生，我正在学习做事情，也请用我能理解的方式向我解释。 提前致谢。    提交人    /u/DopeSignature5762   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h11743/need_help_with_git_messed_up_while_committing_to/</guid>
+      <pubDate>Wed, 27 Nov 2024 10:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了我的第一个 Firefox 扩展来控制任何网站上的视频速度</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h1064m/i_made_my_first_firefox_extension_to_control_the/</link>
+      <description><![CDATA[对于任何人来说，这可能都不是什么大问题，但这是我在开源中的第一个贡献。我知道有很多扩展可以做到这一点，但至少我相信这个扩展，因为我的账户因从 addon.mozilla 下载的扩展而被盗。  所以如果你想尝试它，这里是插件链接 https://addons.mozilla.org/en-US/firefox/addon/speedervideo/ 和源代码： https://github.com/AbdElhalim12/firefox_video_speeder/    提交人    /u/Haleem97   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h1064m/i_made_my_first_firefox_extension_to_control_the/</guid>
+      <pubDate>Wed, 27 Nov 2024 09:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>社区竞赛让你的设计成为 Neovim 的官方商品</title>
       <link>https://www.reddit.com/r/opensource/comments/1h0z5h9/community_contest_to_have_your_design_become/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[Canonical 的 CISO Stephanie Domas 讨论了有关开源安全性的常见误解以及社区如何努力消除这些误解。她解释了开源解决方案如何与神话相反，提供企业级的成熟度、可靠性和透明度。 https://www.helpnetsecurity.com/2024/11/20/stephanie-domas-canonical-open-source-maturity/    提交人    /u/tekz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gzg9u6/canonical_ciso_debunks_myths_about_opensource/</guid>
       <pubDate>Mon, 25 Nov 2024 10:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何基于时间线的开源无头视频编辑器吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gz681i/any_open_source_timeline_based_headless_video/</link>
-      <description><![CDATA[我找不到。有像 Olive、Shotcut 和 KdenLive 这样的开源视频编辑器。但它们似乎与 GUI 紧密相关。是否有任何 API 可以抽象出许多较低级别的细节，并让用户剪切、过渡、缩放、添加文本以及视频编辑的最基本功能，全部以文本形式呈现？    提交人    /u/sheababeyeah   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gz681i/any_open_source_timeline_based_headless_video/</guid>
-      <pubDate>Mon, 25 Nov 2024 00:37:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Turso 创建 ORM/包装器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gz1s9q/created_an_ormwrapper_for_turso/</link>
-      <description><![CDATA[https://github.com/Marcus-Peterson/tursopy  所以，libsql-experimental 让我头疼。我使用请求与 Turso API 进行交互，但我意识到我在不断重复代码。所以我创建了这个。它轻量级且易于使用。已经有很多 turso python 包装器。所以如果你不喜欢这个，你可以改用它们    提交人    /u/Gorrilac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gz1s9q/created_an_ormwrapper_for_turso/</guid>
-      <pubDate>Sun, 24 Nov 2024 21:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 AHDA：您真正有用的数字助理 🌐🗣️</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gyuynj/introducing_ahda_your_actually_helpful_digital/</link>
-      <description><![CDATA[嘿 Reddit！👋 我一直在研究一个名为AHDA（真正有用的数字助理）的开源项目，我很高兴与大家分享它！ AHDA 是一款语音控制、人工智能驱动的数字助理，可让你通过时尚的 Web 界面从世界任何地方轻松管理计算机。 ✨ 功能包括：  🌍 远程控制：从任何地方管理你的电脑。 🎤 语音激活：通过语音命令实现免提控制。 💼 人工智能自动化：处理复杂的任务，如文件传输、Web 浏览、项目构建等。 📊 系统监控：实时 CPU、内存和磁盘使用情况可视化。 🌤️ 天气更新：随时了解最新天气情况。 🧩 可自定义的界面：拖动、调整大小、并为您的仪表板设置主题。  🚀 为什么它很棒：  完全开源（MIT 许可证） 跨平台，支持移动和桌面 构建时考虑到隐私 - 您甚至可以自己托管它！  我目前正在准备一个测试版程序，我希望您加入并帮助塑造 AHDA 的未来。您的反馈对我意义重大！ 👉 查看 GitHub 仓库： https://github.com/ActuallyAdvanced/AHDA 欢迎加入 Discord 进行 beta 访问和更新（您可以在 GitHub ReadMe 中找到它） 让我知道您的想法或者如果您有任何疑问！    提交人    /u/Neotastisch_YT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gyuynj/introducing_ahda_your_actually_helpful_digital/</guid>
-      <pubDate>Sun, 24 Nov 2024 16:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 xplex.me — 自托管、开源、多流服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gysgh3/i_made_xplexme_selfhosted_open_source/</link>
-      <description><![CDATA[我想进行多流传输，但从未找到我真正喜欢的多流传输服务。我可以自行托管；开源。所以我做了一个。 介绍 xplex v1.0.0 — 一个自托管、容器化、多流传输服务器，具有用户友好的 Web 仪表板。它让您完全控制：  托管在任何您喜欢的地方 通过实例正常运行时间管理成本 流式传输到您想要的任意数量的平台  为了使其更加简单，我在 DigitalOcean 市场上推出了 xplex 作为一键式应用程序。这是我现在为方便起见所使用方法：上线时启动一个服务器，然后在完成流式传输后删除该实例，以将成本降至最低。 xplex 适用于任何想要进行多流式传输的人，它不需要高级的技术魔法。它被设计为可访问的，但我正在积极寻求反馈以使其更加简单。 相关链接  文档：https://xplex.me/setup/ GitHub：https://github.com/debloper/xplex 一键：https://marketplace.digitalocean.com/apps/xplex  我还将于 UTC 时间 15:00 在 Twitch 和 YouTube 上进行多流式传输；因此，请随时提出您的问题或建议，以改进 xplex！    提交人    /u/Debloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gysgh3/i_made_xplexme_selfhosted_open_source/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:42:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
