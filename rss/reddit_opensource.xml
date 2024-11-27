@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Nov 2024 12:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 18:01:57 GMT</lastBuildDate>
+    <item>
+      <title>有没有 UI/UX 设计师想要为开源项目做出贡献？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h175pc/is_there_any_uiux_designer_that_is_looking_for/</link>
+      <description><![CDATA[今天 tuono 获得了前 200 个 GitHub ⭐️，我们的社区发展非常迅速。到目前为止，我们自己处理品牌和网站，但我们是开发人员，所以......可以说我们已经尽力了😬。 我们正在寻找一些对设计方面的贡献！如果您有兴趣，请直接发私信给我！    提交人    /u/ValerioAgeno   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h175pc/is_there_any_uiux_designer_that_is_looking_for/</guid>
+      <pubDate>Wed, 27 Nov 2024 15:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>LUAmacros 或 HIDmacros 替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h16t75/luamacros_or_hidmacros_alternatives/</link>
+      <description><![CDATA[大家好！ 我找到了 LUAmacros 或 HIDmacros 的替代品。它是 evilC 开发的名为 AutoHotkey Intercaption 的 AuotHotkey 包装器。与 LUAmacros 或 HIDmacros 类似，它可以在特定设备上重新映射。它使用 oblitum 的 Interception 驱动程序来实现这一点。它使用键盘或鼠标 VID 和 PID 或句柄来工作。 这是 AutoHotkey Interception 的链接：https://github.com/evilC/AutoHotInterception 此外，因为我之前制作了一个免费的开源项目来创建或管理具有用户友好 GUI 的 AutoHotkey 脚本，所以我决定添加相同的功能以在特定键盘或鼠标上的脚本上分配重新映射。它还使用 AutoHotkey 拦截来做到这一点。 这是我的项目的链接：https://github.com/Fajar-RahmadJaya/KeyTik    提交人    /u/National_Operation14   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h16t75/luamacros_or_hidmacros_alternatives/</guid>
+      <pubDate>Wed, 27 Nov 2024 15:24:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我完成了我的第一个完整申请，FOIAs。寻求反馈和建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h14bg7/i_finished_my_first_full_application_foias/</link>
+      <description><![CDATA[       由    /u/AdventurousPolicy  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h14bg7/i_finished_my_first_full_application_foias/</guid>
+      <pubDate>Wed, 27 Nov 2024 13:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有开源的 YouTube 视频修剪器吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</link>
+      <description><![CDATA[我一直使用 Appsgolem YT 视频修剪器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</guid>
+      <pubDate>Wed, 27 Nov 2024 12:32:37 GMT</pubDate>
+    </item>
     <item>
       <title>用于运行生物信息学实验的无代码工作流引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1h11y4x/nocode_workflow_engine_for_running_bioinformatics/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/Smooth-Loquat-4954  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gzwnsf/what_makes_a_good_changelog/</guid>
       <pubDate>Mon, 25 Nov 2024 22:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个开源 CMS：FluentCMS 🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gzoihf/i_have_developed_an_open_source_cms_fluentcms/</link>
-      <description><![CDATA[我们非常高兴地宣布 FluentCMS 测试版正式上线！ FluentCMS 是一个基于 ASP.NET Core Blazor 的内容管理系统，它使网站构建变得简单、快速且直观。借助测试版，您现在可以直接在 FluentCMS 中创建完整的网站！ 它采用现代堆栈构建！ UI 由 TailwindCSS 提供支持，提供时尚、响应迅速且高度可定制的设计。对于数据库，目前支持 MongoDB 和 LiteDB。 SQL 支持已在开发中，将很快推出以适应更多用例和偏好。 我们很乐意听取您的反馈！ 您喜欢哪些功能？缺少什么？我们可以改进什么？您的建议将指导 FluentCMS 的未来。    提交人    /u/pournasserian   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gzoihf/i_have_developed_an_open_source_cms_fluentcms/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找贡献者——开源 AI 前端开发助手！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gzo6qy/looking_for_contributors_opensource_ai_frontend/</link>
-      <description><![CDATA[你好，OSS 社区！ 我们正在构建 Superflex，这是一个开源的 VSCode/Cursor 前端助手。它与 Figma 集成，编写与您的设计系统、编码风格相匹配的代码，并重用您的 UI 组件。 在短短 2 个月内，我们的安装量超过 3000 次，并且增长速度非常快。但是，我们收到了很多功能请求，要求改进我们落后的 VSCode 扩展的 UX（我知道这很讽刺！） 我们正在寻找贡献者和愿意加入我们的社区并构建最佳 AI 前端助手的人！该项目遵循 MIT 许可证。 网站：superflex.ai Github：https://github.com/aquila-lab/superflex-vscode 如果您有我可以回答的问题，请随时在此处留言！    提交人    /u/qlut   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gzo6qy/looking_for_contributors_opensource_ai_frontend/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>RenameToIX 1.0.12 是一款可视化 Linux 文件重命名器，现已推出对 Python lambda 表达式和宏的新支持。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gznox8/renametoix_1012_a_visual_linux_file_renamer_is/</link>
-      <description><![CDATA[描述 RenameToIX 是一个使用 GTK 构建的可视化 Linux 文件重命名器，具有对 Nemo、Nautilus 和 Thunar 文件管理器的集成支持。 项目页面  https://www.devtoix.com/en/projects/renametoix https://github.com/a-bentofreire/renametoix  特点  GUI 和控制台模式。 单击宏。 计数器、文件日期时间和扩展宏。 带有正则表达式组捕获的函数宏：小写、大写、大写和标题。 评估 Python lambda 表达式的宏。 计数器宏的起始索引。 可配置的宏列表。 还原以前的重命名（首先在“设置”对话框中激活）。 重命名后发送通知（首先在“设置”对话框中激活）。 与 Nemo、Nautilus 和 Thunar 文件管理器集成。 对 mtp 设备（智能手机、相机等...）的支持有限。     提交人    /u/abentofreire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gznox8/renametoix_1012_a_visual_linux_file_renamer_is/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canonical CISO 揭穿有关开源安全的谣言</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gzg9u6/canonical_ciso_debunks_myths_about_opensource/</link>
-      <description><![CDATA[Canonical 的 CISO Stephanie Domas 讨论了有关开源安全性的常见误解以及社区如何努力消除这些误解。她解释了开源解决方案如何与神话相反，提供企业级的成熟度、可靠性和透明度。 https://www.helpnetsecurity.com/2024/11/20/stephanie-domas-canonical-open-source-maturity/    提交人    /u/tekz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gzg9u6/canonical_ciso_debunks_myths_about_opensource/</guid>
-      <pubDate>Mon, 25 Nov 2024 10:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
