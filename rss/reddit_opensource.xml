@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 21:01:52 GMT</lastBuildDate>
+    <item>
+      <title>PostgreSQL 的创建、读取、更新和删除 (CRUD) 操作变得简单而快速。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h1dtww/create_read_update_and_delete_crud_operations_for/</link>
+      <description><![CDATA[我的项目的作用 pgcrud 是一个 Python 库，它使 PostgreSQL 的创建、读取、更新和删除 (CRUD) 操作变得简单快捷。它充当 PostgreSQL 适配器 psycopg 和 Pydantic 之间的桥梁，Pydantic 是数据建模、数据序列化和验证的领先库 目标受众 所有使用 PostgreSQL 的 Python 开发人员。他们中的大多数人要么编写原始 SQL，要么使用 SQLAlchemy 或 SQLModel 等 ORM。 比较 当前方法的缺点： - 经典 ORM 很方便，但难以处理关系。此外，您通常需要为输出层（API 接口）使用单独的（Pydantic）模型 - 原始 SQL 可能重复，并且很难处理动态过滤或排序条件（我不是参数化而是可选参数） pgcrud 通过在 Pydantic 模型中使用强大的数据注释来解决这些问题，以便您可以将任何 Pydantic 模型字段映射到相应的数据库对象。 pgcrud 是一种抽象声明，类似于 SQLAlchemy Core，但专门针对 PostgreSQL 并内置了 Pydantic 支持。  在我的 Github repo 中，您可以看到如何在单个数据库调用中使用 pgcrud 处理父子关系并接收 Pydantic 模型列表作为结果。 本质上任何“n + 1”问题可以通过使用 pgcrud 的单个数据库调用来解决。 我的 Github 存储库的链接在这里： https://github.com/dakivara/pgcrud 如果您喜欢 pgcrud，请考虑在 GitHub 上加注！我也想避免将来向这个 subreddit 发送垃圾邮件，因此我创建了一个专用的 pgcrud subreddit： https://www.reddit.com/r/pgcrud/ 如果您有兴趣，请随时加入！我会更频繁地在那里发帖，非常感谢那里的任何问题或反馈。    提交人    /u/dakivara   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h1dtww/create_read_update_and_delete_crud_operations_for/</guid>
+      <pubDate>Wed, 27 Nov 2024 20:17:31 GMT</pubDate>
+    </item>
     <item>
       <title>有没有 UI/UX 设计师想要为开源项目做出贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h175pc/is_there_any_uiux_designer_that_is_looking_for/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>有开源的 YouTube 视频修剪器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</link>
-      <description><![CDATA[我一直使用 Appsgolem YT 视频修剪器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
+      <description><![CDATA[我一直使用 Appsgolem YT 视频剪辑器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</guid>
       <pubDate>Wed, 27 Nov 2024 12:32:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h09yjs/the_digital_public_goods_alliance_dpga_annual/</guid>
       <pubDate>Tue, 26 Nov 2024 11:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>怎样才是好的变更日志？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gzwnsf/what_makes_a_good_changelog/</link>
-      <description><![CDATA[  由    /u/Smooth-Loquat-4954  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gzwnsf/what_makes_a_good_changelog/</guid>
-      <pubDate>Mon, 25 Nov 2024 22:58:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
