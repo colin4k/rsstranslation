@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Nov 2024 06:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 09:01:56 GMT</lastBuildDate>
+    <item>
+      <title>Nuxt Blog Kit — 使用 Nuxt3 和 TailwindCSS 构建的组件库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h1pqop/nuxt_blog_kit_a_component_library_built_with/</link>
+      <description><![CDATA[我们刚刚发布了一个开源 Nuxt Blog Kit，它使使用 Nuxt 3 和 TailwindCSS 构建和展示博客变得比以往更轻松、更有趣！ 您可以根据需要自定义组件，还可以按标签、作者姓名等显示博客。 尝试一下，让我们知道您的想法！我们很乐意听到您的反馈或您想做的任何贡献。    提交人    /u/dg02512021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h1pqop/nuxt_blog_kit_a_component_library_built_with/</guid>
+      <pubDate>Thu, 28 Nov 2024 06:26:53 GMT</pubDate>
+    </item>
     <item>
       <title>Steel.dev - 适用于您的 AI 代理的开源浏览器 API</title>
       <link>https://www.reddit.com/r/opensource/comments/1h1i122/steeldev_an_open_source_browser_api_for_your_ai/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>有开源的 YouTube 视频修剪器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</link>
-      <description><![CDATA[我一直使用 Appsgolem YT 视频剪辑器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
+      <description><![CDATA[我一直使用 Appsgolem YT 视频修剪器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</guid>
       <pubDate>Wed, 27 Nov 2024 12:32:37 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>项目构想：一款记录您使用每个开源程序的时间并据此分配每月捐款的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1h0io46/project_idea_an_app_that_records_how_much_time/</link>
-      <description><![CDATA[今天晚上，我在思考我的 Apple Arcade 订阅，以及为什么许多之前付费游戏的开发者选择将其作为货币化选项。然后我有了一个想法：如果我们使用相同的原则来分配 FOSS 捐款会怎么样？ 许多优秀的开源应用程序和库没有获得足够的资金，因为它们的名字并不为人所知（例如 Blender 或 Krita），它们不会在弹出窗口中要求捐款，而且总体而言是日常计算的无缝组成部分。我认为他们会从可以自动分配捐款的应用程序中受益。这样的应用程序会从用户那里收取少量的月度捐款（例如每月 7 美元），记录给定用户在其计算机上使用每个应用程序的时间，并相应地分配给定的金额。 根据桌面应用程序窗口聚焦的时间在桌面应用程序之间分配 70%，在后台进程之间分配 30% 听起来像是一个可靠的默认算法。当然，它必须是可定制的。 我相信，如果这样的应用程序成为每个主要桌面环境的一部分，并预装在大多数 GNU+Linux 发行版上，效果会更好。    提交人    /u/Qwert-4   [链接] [评论]]]></description>
+      <description><![CDATA[今天晚上，我在思考我的 Apple Arcade 订阅，以及为什么许多之前付费的游戏开发者选择将其作为货币化选项。然后我有了一个想法：如果我们使用相同的原则来分配 FOSS 捐款会怎么样？ 许多优秀的开源应用程序和库没有获得足够的资金，因为它们的名字并不为人所知（例如 Blender 或 Krita），它们不会在弹出窗口中要求捐款，而且总体而言是日常计算的无缝组成部分。我认为他们会从可以自动分配捐款的应用程序中受益。这样的应用程序会从用户那里收取少量的月度捐款（例如每月 7 美元），记录给定用户在其计算机上使用每个应用程序的时间，并相应地分配给定的金额。 根据桌面应用程序窗口聚焦的时间在桌面应用程序之间分配 70%，在后台进程之间分配 30% 听起来像是一个可靠的默认算法。当然，它必须是可定制的。 我相信，如果这样的应用程序成为每个主要桌面环境的一部分，并预装在大多数 GNU+Linux 发行版上，效果会更好。    提交人    /u/Qwert-4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h0io46/project_idea_an_app_that_records_how_much_time/</guid>
       <pubDate>Tue, 26 Nov 2024 18:18:54 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我的意思是像某个网站或工具或某种构建计划的方式，使其他人更容易使用？    提交人    /u/ybot01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h0eu3t/i_have_a_plan_for_an_open_source_project_but_i/</guid>
       <pubDate>Tue, 26 Nov 2024 15:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 维护者 Santiago Pastorino 踏上开源之路</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h0eavr/rust_maintainer_santiago_pastorino_on_his_path/</link>
-      <description><![CDATA[       由    /u/rubiesordiamonds  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h0eavr/rust_maintainer_santiago_pastorino_on_his_path/</guid>
-      <pubDate>Tue, 26 Nov 2024 15:20:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
