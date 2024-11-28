@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 28 Nov 2024 09:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 12:02:20 GMT</lastBuildDate>
+    <item>
+      <title>HMPL：HTMX 和 Alpine.js 的替代品</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1u53l/hmpl_alternative_to_htmx_and_alpinejs/</link>
+      <description><![CDATA[  由    /u/aanthonymax  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1u53l/hmpl_alternative_to_htmx_and_alpinejs/</guid>
+      <pubDate>Thu, 28 Nov 2024 11:40:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Knex 和管道编写可组合 SQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1ts0s/writing_composable_sql_using_knex_and_pipelines/</link>
+      <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1ts0s/writing_composable_sql_using_knex_and_pipelines/</guid>
+      <pubDate>Thu, 28 Nov 2024 11:15:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neutralinojs v5.5 发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1t971/neutralinojs_v55_released/</link>
+      <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1t971/neutralinojs_v55_released/</guid>
+      <pubDate>Thu, 28 Nov 2024 10:39:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>列存储数据库太棒了！</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1t0xz/column_store_databases_are_awesome/</link>
+      <description><![CDATA[  由    /u/Dilocan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1t0xz/column_store_databases_are_awesome/</guid>
+      <pubDate>Thu, 28 Nov 2024 10:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF 查看器库中应具备的 5 个基本功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1sw6f/5_essential_features_to_look_for_in_a_pdf_viewer/</link>
+      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1sw6f/5_essential_features_to_look_for_in_a_pdf_viewer/</guid>
+      <pubDate>Thu, 28 Nov 2024 10:13:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 中的列表理解</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1sqnj/listas_por_comprensión_en_python/</link>
+      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1sqnj/listas_por_comprensión_en_python/</guid>
+      <pubDate>Thu, 28 Nov 2024 10:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以将 C-Reduce 用于任何语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1h1sd3d/you_can_use_creduce_for_any_language/</link>
+      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h1sd3d/you_can_use_creduce_for_any_language/</guid>
+      <pubDate>Thu, 28 Nov 2024 09:34:33 GMT</pubDate>
+    </item>
     <item>
       <title>其他挑战，例如 Advent of Code</title>
       <link>https://www.reddit.com/r/programming/comments/1h1rwk4/other_challenges_like_advent_of_code/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h1a66t/data_modeling_with_sums_and_products/</guid>
       <pubDate>Wed, 27 Nov 2024 17:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>这不是我的软件设计哲学</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a65f/not_my_philosophy_of_software_design/</link>
-      <description><![CDATA[  由    /u/Master-Region-140  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a65f/not_my_philosophy_of_software_design/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>即时解析和转换</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a5rr/parsing_converting_on_the_fly/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a5rr/parsing_converting_on_the_fly/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对跨站点攻击的现代解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a55b/modern_solutions_against_crosssite_attacks/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a55b/modern_solutions_against_crosssite_attacks/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>if constexpr 需要 需要 { 需要 }</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a4yr/if_constexpr_requires_requires_requires/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a4yr/if_constexpr_requires_requires_requires/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 中被诅咒的线性类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a4b5/cursed_linear_types_in_rust/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a4b5/cursed_linear_types_in_rust/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 Bcrypt</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a42w/beyond_bcrypt/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a42w/beyond_bcrypt/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haskell：一种伟大的过程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1a3x5/haskell_a_great_procedural_language/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1a3x5/haskell_a_great_procedural_language/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:44:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
