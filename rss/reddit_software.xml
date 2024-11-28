@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 15:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 18:01:56 GMT</lastBuildDate>
+    <item>
+      <title>我需要一个用于未知连接器的通用驱动程序</title>
+      <link>https://www.reddit.com/r/software/comments/1h1zxep/i_need_a_generic_driver_for_a_unknown_conector/</link>
+      <description><![CDATA[我有一个很长一段时间的连接器，它是一个 vga 到 usb 转换器，但现在我没有盒子，或者没有出现他的名字的东西，只是在小工具中出现了类似“foinnex”的东西，现在，我的屏幕开始断开和连接，甚至没有断开连接它只是关闭了几秒钟，有人知道这种类型的东西的通用驱动程序吗？     提交人    /u/Hot-Light1671   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h1zxep/i_need_a_generic_driver_for_a_unknown_conector/</guid>
+      <pubDate>Thu, 28 Nov 2024 16:38:11 GMT</pubDate>
+    </item>
     <item>
       <title>无损剪切合并片段</title>
       <link>https://www.reddit.com/r/software/comments/1h1xlmh/lossless_cut_merging_segments/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>在不强制使用 Google Lens 的情况下，是否仍然可以使用 Google 反向图像搜索？</title>
       <link>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</link>
-      <description><![CDATA[（已解决，我目前找到了 2 个解决方法： 1：此浏览器扩展程序（您需要在扩展程序选项中重新选择 Google Image而不是 Google Lens）：https://github.com/dessant/search-by-image 2：将以下代码复制到书签/收藏夹项目的链接字段中（称为bookmarklet）：  javascript: (() =&gt; {window.open(`https://www.google.com/searchbyimage?&amp;client=Chrome&amp;image_url=`+location.href, &quot;_self&quot;);})(); 然后当您在图像 URL 上时，只需点击上面的项目是你之前创建的，它会带你进入传统/经典的 Google 图片搜索） ----------------------------------------------- 下面的 OP： 所以，在过去，你曾经能够通过图片进行反向搜索，并在 Google 上检查所有可用的从大到小的图片，然后在某个时候，谷歌强迫你只通过 Google Lens 搜索（但你仍然可以点击 Google Lens 结果中的链接进入旧的反向图片搜索），但几天前，这个选项被完全删除了。 因此，目前我不再有任何办法用 Google 反向图片搜索来找到最大的图片，Google Lens 在这一点上已经完全没用了（网上已经有很多关于这一点的抱怨，但在过去至少我们还有一个选择，但那个选项现在已经没有了） 现在我正在使用Tineye 和 Yandex 作为替代方案，Google 确实需要修复此问题并停止破坏功能完好的产品    提交人    /u/NeverFated   [link] [comments]]]></description>
+      <description><![CDATA[（已解决，我目前找到了 2 个解决方法： 1：此浏览器扩展程序（您需要在扩展程序选项中重新选择 Google Image而不是 Google Lens）：https://github.com/dessant/search-by-image 2：将以下代码复制到书签/收藏夹项目的链接字段中（称为bookmarklet）：  javascript: (() =&gt; {window.open(`https://www.google.com/searchbyimage?&amp;client=Chrome&amp;image_url=`+location.href, &quot;_self&quot;);})(); 然后当您在图像 URL 上时，只需点击上面的项目是你之前创建的，它会带你进入传统/经典的 Google 图片搜索） ----------------------------------------------- 下面的 OP： 所以，在过去，你曾经能够通过图片进行反向搜索，并在 Google 上检查所有可用的从大到小的图片，然后在某个时候，谷歌强迫你只通过 Google Lens 搜索（但你仍然可以点击 Google Lens 结果中的链接进入旧的反向图片搜索），但几天前，这个选项被完全删除了。 因此，目前我不再有任何办法用 Google 反向图片搜索来找到最大的图片，Google Lens 在这一点上已经完全没用了（网上已经有很多关于这一点的抱怨，但在过去至少我们还有一个选择，但那个选项现在已经消失了） 现在我正在使用Tineye 和 Yandex 作为替代方案，Google 确实需要修复此问题并停止破坏功能完好的产品    提交人    /u/NeverFated   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</guid>
       <pubDate>Thu, 28 Nov 2024 07:40:47 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>如何进入？</title>
       <link>https://www.reddit.com/r/software/comments/1h1jifc/how_to_get_into_it/</link>
-      <description><![CDATA[我今年 21 岁，目前从事建筑行业（这很糟糕）我知道有人说市场已经饱和，但我愿意至少尝试一些训练营并获得一些证书。你们有什么建议？请互联网人祝福我🙏    提交人    /u/NefariousnessLow736   [link] [评论]]]></description>
+      <description><![CDATA[我今年 21 岁，目前从事建筑行业（这很糟糕）我知道市场已经饱和，但我愿意至少尝试一些训练营并获得一些证书。你们有什么建议？请互联网人祝福我🙏    提交人    /u/NefariousnessLow736   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1jifc/how_to_get_into_it/</guid>
       <pubDate>Thu, 28 Nov 2024 00:35:05 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[所以我管理一家树木服务公司，我们在春季和秋季进行大量的植物保健应用。过去 9 年，我一直在跟踪每个单独的应用并手动安排它们，我对此感到厌倦。  我想要一个可以让我根据该周完成的应用来映射我的 PHC 客户并根据此制定路线的东西。每个客户可能有多个需要在 3 月至 5 月期间完成的应用。 我看过的大多数东西对我来说太大了。我不想通过这个来管理我的所有业务。不需要报价或发票功能。我只想规划和更好地规划这个特定的方面。我为美国的一个县提供服务。  我已经进行了六个演示，感觉就像大海捞针。     由    /u/loganberryjunkie 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h0n1lq/looking_for_a_program/</guid>
       <pubDate>Tue, 26 Nov 2024 21:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找适用于 Windows 11 的 Dropzone (Mac) 和 Dropover (Mac) 等实用程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1h0jycw/looking_for_dropzone_mac_and_dropover_mac_like/</link>
-      <description><![CDATA[感谢您的帮助。    由   提交  /u/LightDarkCloud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h0jycw/looking_for_dropzone_mac_and_dropover_mac_like/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:09:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
