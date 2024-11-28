@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Nov 2024 18:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 21:01:58 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以贡献的开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h22iz6/looking_for_opensource_projects_to_contribute_to/</link>
+      <description><![CDATA[大家好！希望你们感恩节过得愉快。我正在寻找一个开源项目，希望成为一名积极的贡献者。我最熟悉 Python，并且是一名学习计算机科学和物理学的本科生。 我有兴趣为一个可以应用我的计算机科学和物理学知识的项目做贡献，但我愿意听取任何建议。理想情况下，我很乐意从事一些有助于科学计算、模拟或数据分析的工作，因为这些是我热衷的领域。但是，我也渴望更多地了解软件开发，特别是在开源环境中。 如果有人对活跃且热情的社区有建议，或者您知道任何可以在这些领域使用贡献者的项目，请告诉我！我很高兴开始并为一些有意义的事情做出贡献。 谢谢！   由    /u/buggingbug  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h22iz6/looking_for_opensource_projects_to_contribute_to/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:33:34 GMT</pubDate>
+    </item>
     <item>
       <title>呼吁贡献者（Cap - 开源 Loom 替代品）</title>
       <link>https://www.reddit.com/r/opensource/comments/1h1xi3o/call_for_contributors_cap_the_open_source_loom/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>为什么“廉价”的中国克隆公司不开源他们的软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h1x762/why_dont_cheap_chinese_clone_companies_open/</link>
-      <description><![CDATA[我刚买了一个便宜的中国版 DJI 克隆产品。从硬件角度看，它似乎确实很强大，但软件有点垃圾。用户界面丑陋，布局糟糕，跟随模式非常简陋等。手册也很糟糕。 这些公司不尝试围绕其产品启动开源社区的原因是什么？我可以想象，很多人都希望将更高级的功能集成到技术先进的东西中。他们仍将通过销售赚钱，因为人们需要硬件。最坏的情况是没有人帮助他们。 我认为 Spotify 为他们的汽车产品做了类似的事情，似乎有很多人对此感兴趣。    提交人    /u/duckbeater69   [链接] [评论]]]></description>
+      <description><![CDATA[我刚买了一个便宜的中国版 DJI 克隆产品。从硬件角度来看，它似乎确实很强大，但软件有点垃圾。用户界面丑陋，布局糟糕，跟随模式非常简陋等。手册也很糟糕。 这些公司不尝试围绕其产品启动开源社区的原因是什么？我可以想象，很多人都希望将更高级的功能集成到技术先进的东西中。他们仍将通过销售赚钱，因为人们需要硬件。最坏的情况是没有人帮助他们。 我认为 Spotify 为他们的汽车产品做了类似的事情，似乎有很多人对此感兴趣。    提交人    /u/duckbeater69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h1x762/why_dont_cheap_chinese_clone_companies_open/</guid>
       <pubDate>Thu, 28 Nov 2024 14:32:08 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>有开源的 YouTube 视频修剪器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</link>
-      <description><![CDATA[我一直使用 Appsgolem YT 视频修剪器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
+      <description><![CDATA[我一直使用 Appsgolem YT 视频剪辑器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</guid>
       <pubDate>Wed, 27 Nov 2024 12:32:37 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我是一名大四学生（所以请原谅我对技术的幼稚了解）。最近我开始从事一个开源项目。我看到一个问题，并要求将其分配给我，然后我得到了分配。我将其分叉并克隆，开始处理它，并完成了它。 现在，当我需要将其推送到我分叉的仓库时，它比原始仓库落后了 36 个提交。因此，我使用 github 中的同步选项使我的分叉保持最新。但是现在，当我尝试在推送更改之前拉取此仓库时，它会出现冲突。 所以我的一个朋友告诉我再对“最新”仓库进行一次本地克隆，然后手动移动这些更改，然后推送它。没问题。但如果我需要检查所有这些是否正常工作，我需要在本地运行它（新的克隆，其中完成了我的更改）。但是这个项目使用docker，并且旧设置正在运行，我认为这是一项繁琐的任务，因为我需要&quot;docker compose down&quot;旧设置并组建新设置以查看一切是否正常运行。 我需要知道是否有任何解决方法。或者请解释一下应该如何实际完成。请记住，我只是一名最后一年的学生，我正在学习做事情，也请用我能理解的方式向我解释。 提前致谢。    提交人    /u/DopeSignature5762   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h11743/need_help_with_git_messed_up_while_committing_to/</guid>
       <pubDate>Wed, 27 Nov 2024 10:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了我的第一个 Firefox 扩展来控制任何网站上的视频速度</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h1064m/i_made_my_first_firefox_extension_to_control_the/</link>
-      <description><![CDATA[对于任何人来说，这可能都不是什么大问题，但这是我在开源中的第一个贡献。我知道有很多扩展可以做到这一点，但至少我相信这个扩展，因为我的账户因从 addon.mozilla 下载的扩展而被盗。  所以如果你想尝试它，这里是插件链接 https://addons.mozilla.org/en-US/firefox/addon/speedervideo/ 和源代码： https://github.com/AbdElhalim12/firefox_video_speeder/    提交人    /u/Haleem97   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h1064m/i_made_my_first_firefox_extension_to_control_the/</guid>
-      <pubDate>Wed, 27 Nov 2024 09:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

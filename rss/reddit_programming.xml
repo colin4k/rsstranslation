@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 28 Nov 2024 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 21:01:51 GMT</lastBuildDate>
+    <item>
+      <title>OReilly 黑色星期五 - 22 本编码书籍仅售 25 美元 - 优质书目</title>
+      <link>https://www.reddit.com/r/programming/comments/1h24dvo/oreilly_black_friday_22_coding_books_for_25_solid/</link>
+      <description><![CDATA[  由    /u/YellowTime9637  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h24dvo/oreilly_black_friday_22_coding_books_for_25_solid/</guid>
+      <pubDate>Thu, 28 Nov 2024 20:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLVM 中的 C++ Switch 语句 - Hans Wennborg</title>
+      <link>https://www.reddit.com/r/programming/comments/1h23ua5/c_switch_statements_under_the_hood_in_llvm_hans/</link>
+      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h23ua5/c_switch_statements_under_the_hood_in_llvm_hans/</guid>
+      <pubDate>Thu, 28 Nov 2024 19:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 background-clip 的精彩文章</title>
+      <link>https://www.reddit.com/r/programming/comments/1h23201/great_article_about_backgroundclip/</link>
+      <description><![CDATA[  由    /u/Embarrassed_Brick746  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h23201/great_article_about_backgroundclip/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年运行 100 万个并发任务需要多少内存？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h22aq6/how_much_memory_do_you_need_in_2024_to_run_1/</link>
+      <description><![CDATA[  由    /u/hez2010  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h22aq6/how_much_memory_do_you_need_in_2024_to_run_1/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:23:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何成为一名优秀的经理</title>
+      <link>https://www.reddit.com/r/programming/comments/1h22266/how_to_be_a_great_manager/</link>
+      <description><![CDATA[  由    /u/skwee357  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h22266/how_to_be_a_great_manager/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:12:26 GMT</pubDate>
+    </item>
     <item>
       <title>对于 UNTHINKABLE SOLUTIONS 的安置，可以提出什么样的问题？</title>
       <link>https://www.reddit.com/r/programming/comments/1h21q94/what_kind_of_questions_can_be_asked_for/</link>
@@ -34,7 +69,7 @@
       <pubDate>Thu, 28 Nov 2024 13:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>HMPL：用于从服务器向客户端显示 UI 的小型模板语言。它基于通过 fetch 发送到服务器并处理成现成 HTML 的可定制请求。</title>
+      <title>HMPL：用于从服务器向客户端显示 UI 的小型模板语言。它基于通过 fetch 发送到服务器的可定制请求，并处理为现成的 HTML。</title>
       <link>https://www.reddit.com/r/programming/comments/1h1uw7g/hmpl_small_template_language_for_displaying_ui/</link>
       <description><![CDATA[  由    /u/aanthonymax  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h1uw7g/hmpl_small_template_language_for_displaying_ui/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/matbaylaw  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h1rn1r/macos_tips_for_programmers_threading/</guid>
       <pubDate>Thu, 28 Nov 2024 08:39:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>性能之王：最快的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1msn7/king_of_performance_the_fastest_programming/</link>
-      <description><![CDATA[  由    /u/No_Schedule7680  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1msn7/king_of_performance_the_fastest_programming/</guid>
-      <pubDate>Thu, 28 Nov 2024 03:29:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenShift 集群的 DR 至关重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1ices/dr_for_an_openshift_cluster_is_critical/</link>
-      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1ices/dr_for_an_openshift_cluster_is_critical/</guid>
-      <pubDate>Wed, 27 Nov 2024 23:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>教程：使用 TypeScript 从 Scratch 构建 I/O 数据解码/编码库</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1heq5/tutorial_io_data_decodingencoding_library_from/</link>
-      <description><![CDATA[  由    /u/davimiku  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1heq5/tutorial_io_data_decodingencoding_library_from/</guid>
-      <pubDate>Wed, 27 Nov 2024 22:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何意外地创建了更好的 RAG 相邻工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1fwmv/how_i_accidentally_created_a_better_ragadjacent/</link>
-      <description><![CDATA[  由    /u/boneMechBoy69420  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1fwmv/how_i_accidentally_created_a_better_ragadjacent/</guid>
-      <pubDate>Wed, 27 Nov 2024 21:48:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士法官评估的结构化生成</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1fsvu/structured_generation_for_llmasajudge_evaluations/</link>
-      <description><![CDATA[  由    /u/thetasprayer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1fsvu/structured_generation_for_llmasajudge_evaluations/</guid>
-      <pubDate>Wed, 27 Nov 2024 21:43:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
