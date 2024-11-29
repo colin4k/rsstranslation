@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 00:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 03:13:42 GMT</lastBuildDate>
+    <item>
+      <title>Memoripy：AI 内存变得更智能 – 现已获得 OpenRouter 支持</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h298ph/memoripy_ai_memory_made_smarter_now_with/</link>
+      <description><![CDATA[嘿 r/ArtificialInteligence！ 我一直在研究 Memoripy，这是一个为 AI 应用程序带来真实记忆功能的 Python 库。无论您是在构建对话式 AI、虚拟助手，还是需要一致、上下文感知响应的项目​​，Memoripy 都能提供结构化的短期和长期记忆存储，以使交互随着时间的推移保持意义。 Memoripy 将交互组织到短期和长期记忆中，优先考虑近期事件，同时保留重要细节以备将来使用。这可确保 AI 保持相关上下文，而不会被不必要的数据淹没。 通过语义聚类，类似的记忆被分组在一起，使 AI 能够快速高效地检索相关上下文。为了模拟我们忘记和强化信息的方式，Memoripy 具有记忆衰减和强化功能，其中不太有用的记忆会逐渐消失，而经常访问的记忆会保持清晰。 Memoripy 的一个关键方面是它专注于本地存储。它旨在与本地托管的 LLM 无缝协作，非常适合希望避免外部 API 调用的注重隐私的开发人员。 Memoripy 还与 OpenAI 和 Ollama 集成。 有什么新功能？ 感谢 FrancescoCaracciolo 和 sjwang05 的贡献，Memoripy 现在包括：  支持任意聊天完成端点：使用最适合您设置的任何端点。 OpenRouter 集成：扩展对更灵活工作流程的支持。 错误修复：根据社区反馈，提供更流畅、更可靠的体验。  非常感谢 Memoripy 在 GitHub 上刚刚获得 400 多颗星，如果没有您的支持，我不可能做到这一点！您的反馈和贡献对于使这个库成为今天的样子至关重要。 如果这听起来像是您可以使用的东西，请在 GitHub 上查看！它是开源的，我很想听听您的想法、您将如何使用它，或者您希望接下来看到哪些功能。让我知道您接下来想看到什么！    提交人    /u/xazarall   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h298ph/memoripy_ai_memory_made_smarter_now_with/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的数据标记员/注释员的职业道路。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2976f/career_path_for_an_experienced_data/</link>
+      <description><![CDATA[大家好， 如果这不是合适的 subreddit 发帖，我深表歉意，但自从过去几年第一次尝试 GenAI 角色以来，我一直想知道如何成长并真正使用 GenAI 和大型语言模型。 到目前为止，我已经与 Meta 合作担任数据标签分析师，在那里我已经开始提示编写和分析以执行红队功能，以训练产品 llms 检测和拒绝特定的用户意图。 然后我与 Scale ai 合作，在那里我从事两个主要项目：改进聊天 gpt 的 llms，通过基于事实、用户意图、物流、对话一致性创建“理想”响应来改进响应生成。 我对我在提示工程方面的经验非常有信心，我想看看我能否凭借我的背景在 genAI 中发展出更强大的职业生涯。  哪些课程、教育或整体职业道路最能利用我的背景？ 任何指导都值得赞赏！ 感恩节快乐！    提交人    /u/fieryllamaboner74   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2976f/career_path_for_an_experienced_data/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:06:38 GMT</pubDate>
+    </item>
     <item>
       <title>我正在尝试从文档中学习，如何让 NotebookLM 获取整个网站而不是仅仅单个页面？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h27c0t/i_am_trying_to_learn_from_a_documentation_how_do/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[您好，  是否可以使用 AI（聊天 GPT 或其他）仅根据我上传的一组文档提供答案？我正在尝试将其用于航空培训……但我不希望它从网络上的随机内容中获取材料。     提交人   ​​ /u/carnivoreindexfund   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h25omp/get_answers_only_from_provided_material/</guid>
       <pubDate>Thu, 28 Nov 2024 21:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT 担任白宫代笔作家</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h25b92/gpt_as_ghostwriter_at_the_white_house/</link>
-      <description><![CDATA[标题：GPT 在白宫担任代笔作家 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“GPT 在白宫担任代笔作家”，作者是 Jacques Savoy。 本文深入探讨了一个有趣的问题：像 ChatGPT 这样的大型语言模型是否能够令人信服地模仿美国总统的演讲风格，特别是国情咨文。该研究对 ChatGPT-3.5 产生的演讲和里根总统对奥巴马的实际演讲进行了比较分析。以下是该研究的一些关键见解：  风格元素：ChatGPT 生成的演讲表现出一种独特的风格，其特点是频繁使用代词“我们”，  词汇和句法特征：研究显示，GPT 的输出大词比例更高，名词短语的使用更为广泛，而奥巴马或拜登等一些总统则偏爱动词丰富的风格，这表明 GPT 倾向于使用更抽象和中性的语气。 情感和修辞语气：GPT 的演讲以保持积极的语气、非常有限的负面表达和极少使用责备词汇而著称。这与人类演讲形成了鲜明对比，人类演讲通常包含更广泛的情感和语调细微差别。 内容和语境锚点：与传统总统代笔作家的演讲不同，GPT 的输出缺乏对特定历史或地理背景的实质性锚点，因此显得超越了时间和地点，而这正是引起特定受众和时刻共鸣的关键因素。 互文距离：研究得出结论，GPT 生成的演讲和实际的总统演讲之间存在明显的风格差异，因此可以区分它们。但是，每位总统生成的文本差异足以表明，通过改进，GPT 可以更紧密地模仿特定的风格。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h25b92/gpt_as_ghostwriter_at_the_white_house/</guid>
-      <pubDate>Thu, 28 Nov 2024 20:45:10 GMT</pubDate>
     </item>
     <item>
       <title>Cal AI 声称其对照片中食物卡路里的估算准确率高达 90%</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[我可以预见，人工智能将在未来几年取代我的工作，并在未来 10 到 20 年取代我的职业。但是，如果其他一切都受到人工智能的威胁，我该如何改变职业？在一个希望人们自力更生的政府的资本主义制度下，我该如何生存？我担心人工智能将不再能让人们自力更生。我很害怕    提交者    /u/Normal-Cow-9784   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1m56o/im_terrified/</guid>
       <pubDate>Thu, 28 Nov 2024 02:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在硬件受到严重阻碍的情况下，中国如何能够与美国人工智能公司竞争？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1dft9/how_is_china_able_to_compete_with_us_ai_companies/</link>
-      <description><![CDATA[台积电、NVDA、ASML 等都对向中国销售产品有限制和/或禁令。即使台积电或 NVDA 等地可以，他们也忙不过来，甚至无法先在美国生产足够的产品。华为似乎有一些 A100 同等级别的硬件，但这是我在中国看到的最好的硬件了。 那么，尽管 OpenAI 和 Anthropic 拥有更多的资源，他们如何能够推出像 Deepseek 这样的模型，其测试结果与 01-preview 和 3.5 Sonnet 一样好甚至更好？ 中国是否可以利用一些相当大的收益，而这些收益并不涉及大量的硬件能力？或者美国公司是否比公众认为的要领先得多？ *许多回复者对这种情况的理解明显弱于只进行快速 Google 搜索的普通人。人们更关心的是认为我低估了中国，而不是用证据证实这一说法，而中国人自己也说过，即使是他们获得的最强大的法学硕士学位，他们在每种情况下都受到硬件限制。这很不幸，因为我们知道美国公司现在正在使用 Reddit 等平台训练人工智能，比如（FFS）Facebook 和 X。发现问题了吗？数据质量差。仔细想想，也许这实际上也是我问题的一点答案。我很好奇 Deepseek 是否被特别禁止使用某些数据进行训练，或者它训练的数据的质量是否是硬件资源较少的情况下取得成功的部分原因。    提交人    /u/agoldprospector   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h1dft9/how_is_china_able_to_compete_with_us_ai_companies/</guid>
-      <pubDate>Wed, 27 Nov 2024 20:01:07 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>

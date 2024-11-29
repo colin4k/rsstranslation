@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 29 Nov 2024 00:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 03:14:11 GMT</lastBuildDate>
+    <item>
+      <title>关于去中心化网络和系统的输入</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h2bpps/input_on_decentralized_networks_and_systems/</link>
+      <description><![CDATA[我正在开发一个库来支持分布式和去中心化网络和通信，很像 Libp2p，但更侧重于自我修复和组织算法，以及共识机制。 如果可能的话，我想听听你在使用这样的库开发 dApp 时想要什么类型的功能的意见，因为我相信去中心化和 web3 有很多东西可以做，但尚未在库中实现。 请就此事提供评论和意见，以便我学习和更新我的路线图    提交人    /u/Critical_Pipe1134   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h2bpps/input_on_decentralized_networks_and_systems/</guid>
+      <pubDate>Fri, 29 Nov 2024 02:31:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>✨ 使用这个新的开源 VS Code 在本地运行你的 GitHub Actions！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h29wi8/run_your_github_actions_locally_with_this_new/</link>
+      <description><![CDATA[  由    /u/sanjulag  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h29wi8/run_your_github_actions_locally_with_this_new/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:46:51 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以贡献的开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1h22iz6/looking_for_opensource_projects_to_contribute_to/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨， 我和我的朋友制作了一个平台，允许您使用分布式工作流运行不同的生物信息学工具和 AI 模型并获得可视化报告。我想说它有点独特，因为我没有看到任何接近此的开源工作流解决方案。它为您提供无代码视觉效果、节点连接 IO 的属性类型验证，基于 celery，它允许您以分布式方式运行动态制作的工作流，并且添加新类型的节点非常容易（只需从 Component 和 ComponentFlowHandler 类继承并覆盖几个方法）。 NoLabs 如果您有任何问题或建议，请随时提出！ 如果您想使用它或从代码或架构中学到了一些东西，请告诉我，我会非常高兴 :)   由    /u/Jack_Hackerman  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h11y4x/nocode_workflow_engine_for_running_bioinformatics/</guid>
       <pubDate>Wed, 27 Nov 2024 11:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建您自己的自定义开发工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h11a3h/build_you_own_custom_dev_tool/</link>
-      <description><![CDATA[过去几个月我一直在开发 potpie，我喜欢它让为您的工作流程创建自定义开发工具变得如此简单。  软件一直是批量生产的，几乎没有定制的余地。在工程团队中，一刀切并不总是适合所有人。因此，我创建了 potpie，它让您可以非常轻松地为您的独特用例构建自定义开发工具，而无需深入构建自己的工具。  我仅使用文本构建的示例工具：  代码更改分析： 旨在分析 PR 影响的范围。它使用 potpie 的 change_detection 工具比较分支，使用 get_code_graph_from_node_id 工具了解组件关系。 LLD Creator：专为功能实施规划而设计。使用 ask_knowledge_graph_queries 工具查找相关代码模式，使用 get_code_file_structure 工具了解项目布局。 入职助手：创建以了解未记录的功能。将 get_code_from_probable_node_name 工具与图形遍历相结合以跟踪功能实现。 我很乐意听到您对这样的工具的用例，并看到您对社区的贡献！很高兴回答有关其工作原理的任何问题。    提交人    /u/ner5hd__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h11a3h/build_you_own_custom_dev_tool/</guid>
-      <pubDate>Wed, 27 Nov 2024 10:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 git 方面的帮助。在使用 docker 提交项目时遇到了麻烦。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h11743/need_help_with_git_messed_up_while_committing_to/</link>
-      <description><![CDATA[我是一名大四学生（所以请原谅我对技术的幼稚了解）。最近我开始从事一个开源项目。我看到一个问题，并要求将其分配给我，然后我得到了分配。我将其分叉并克隆，开始处理它，并完成了它。 现在，当我需要将其推送到我分叉的仓库时，它比原始仓库落后了 36 个提交。因此，我使用 github 中的同步选项使我的分叉保持最新。但是现在，当我尝试在推送更改之前拉取此仓库时，它会出现冲突。 所以我的一个朋友告诉我再对“最新”仓库进行一次本地克隆，然后手动移动这些更改，然后推送它。没问题。但如果我需要检查所有这些是否正常工作，我需要在本地运行它（新的克隆，其中完成了我的更改）。但是这个项目使用docker，并且旧设置正在运行，我认为这是一项繁琐的任务，因为我需要&quot;docker compose down&quot;旧设置并组建新设置以查看一切是否正常运行。 我需要知道是否有任何解决方法。或者请解释一下应该如何实际完成。请记住，我只是一名最后一年的学生，我正在学习做事情，也请用我能理解的方式向我解释。 提前致谢。    提交人    /u/DopeSignature5762   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h11743/need_help_with_git_messed_up_while_committing_to/</guid>
-      <pubDate>Wed, 27 Nov 2024 10:19:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
