@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 29 Nov 2024 18:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 21:01:36 GMT</lastBuildDate>
+    <item>
+      <title>YTSage：一款具有令人惊叹的 PyQt6 界面的现代 YouTube 下载器！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h2t1kw/ytsage_a_modern_youtube_downloader_with_a/</link>
+      <description><![CDATA[嗨，Reddit！🚀  我很高兴介绍YTSage，这是一款功能强大的 YouTube 下载器，采用简洁、现代的 PyQt6 界面设计。  YTSage 能做什么？ - 🎥 智能视频下载：自动合并最佳视频和音频。 - 🎵 音频提取：以您喜欢的格式下载纯音频文件。 - 📝 字幕支持：获取手动和自动生成的字幕。 - ℹ️ 视频元数据：显示观看次数、上传日期、时长等。 - 🖼️ 缩略图预览：下载前查看视频缩略图。 - 🎨 用户友好界面：简单易用。  为什么使用 YTSage？ 它基于 yt-dlp 构建，功能强大、速度快，并支持最新的 YouTube 功能。无论您需要保存高质量视频还是仅从您喜欢的内容中提取音频，YTSage 都能让一切变得简单！ 入门 您可以从 发布 页面下载适用于 Windows 的预构建可执行文件 - 无需安装！ 对于开发人员来说，源代码是开放的，构建您的版本很容易。查看存储库以获取详细说明。 屏幕截图 主界面 带有视频元数据和缩略图预览的主界面  字幕选项 支持手动和自动生成的字幕   我希望您尝试 YTSage 并分享您的反馈。如果您想让它变得更好，欢迎做出贡献！  🔗 在此处查看： GitHub 存储库    由   提交  /u/NO-N_A_M_E   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h2t1kw/ytsage_a_modern_youtube_downloader_with_a/</guid>
+      <pubDate>Fri, 29 Nov 2024 19:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>如何向多个项目捐款？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h2qg5w/how_to_donate_to_multiple_projects/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>有开源的 YouTube 视频修剪器吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</link>
-      <description><![CDATA[我一直使用 Appsgolem YT 视频剪辑器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
+      <description><![CDATA[我一直使用 Appsgolem YT 视频修剪器，但创建者本月将其置于付费墙后面。你知道其他可用的开源替代品吗？    提交人    /u/LostDremer29   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h13878/an_opensource_youtube_video_trimmer/</guid>
       <pubDate>Wed, 27 Nov 2024 12:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于运行生物信息学实验的无代码工作流引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h11y4x/nocode_workflow_engine_for_running_bioinformatics/</link>
-      <description><![CDATA[嗨， 我和我的朋友制作了一个平台，允许您使用分布式工作流运行不同的生物信息学工具和 AI 模型并获得可视化报告。我想说它有点独特，因为我没有看到任何接近此的开源工作流解决方案。它为您提供无代码视觉效果、节点连接 IO 的属性类型验证，基于 celery，它允许您以分布式方式运行动态制作的工作流，并且添加新类型的节点非常容易（只需从 Component 和 ComponentFlowHandler 类继承并覆盖几个方法）。 NoLabs 如果您有任何问题或建议，请随时提出！ 如果您想使用它或从代码或架构中学到了一些东西，请告诉我，我会非常高兴 :)   由    /u/Jack_Hackerman  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h11y4x/nocode_workflow_engine_for_running_bioinformatics/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:12:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
