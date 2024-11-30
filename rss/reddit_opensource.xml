@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 30 Nov 2024 15:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 18:02:04 GMT</lastBuildDate>
+    <item>
+      <title>RenameToIX 1.1.0 推出了一个使用地理插件进行反向地理编码的新宏。RenameToIX 是一个可视化 Linux 文件重命名器，支持宏，包括 Python 表达式和文件管理器集成</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h3h0wz/renametoix_110_is_out_with_a_new_macro_for/</link>
+      <description><![CDATA[描述 RenameToIX 是一个使用 Gtk 构建的可视化 Linux 文件重命名器，集成对 Nemo、Nautilus 和 Thunar 文件管理器的支持。 项目页面  https://www.devtoix.com/en/projects/renametoix https://github.com/a-bentofreire/renametoix  特点  GUI 和控制台模式。 单击宏。 计数器、文件日期时间和扩展宏。 带有正则表达式组捕获的函数宏：lower、upper、capitalize 和 title。 Python lambda 表达式宏。 通过geo 插件从 GPS 信息对 JPEG 图像进行反向地理编码。 使用插件进行宏扩展。 计数器宏的起始索引。 可配置的宏列表。 还原以前的重命名（首先在“设置”对话框中激活）。 重命名后发送通知（首先在“设置”对话框中激活）。 与 Nemo 集成， Nautilus 和 Thunar 文件管理器。 对 mtp 设备（智能手机、相机等...）的支持有限。  语言  英语 葡萄牙语 西班牙语 德语 俄语 乌克兰语​     提交人    /u/abentofreire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h3h0wz/renametoix_110_is_out_with_a_new_macro_for/</guid>
+      <pubDate>Sat, 30 Nov 2024 17:03:21 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯使用基于 Debian 的定制 Linux</title>
       <link>https://www.reddit.com/r/opensource/comments/1h3b2nr/russia_uses_custom_linux_based_on_debian/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我目前正在使用 Notion，并正在考虑 Appflowy 和 Affine - 这两款应用外观精美，功能强大。但最近我有点笨，需要将我的所有管理员生活备份到云端。 它需要密码锁定。 它需要在 AFK 几分钟后自动锁定。 它需要与其他成员共享某些笔记块 - 但不是全部 - 并且他们也有一个具有 AFK 密码锁定的应用程序。 Trilium 非常接近 - 但它只有一个用户。如果我分享该密码 - 它会解锁我所有的笔记。 我发现的唯一一款可以做到这一切的笔记应用程序？Microsoft Onenote。是的 - 今天看起来像 DOS 和 Deadpool 生了一个孩子的 Notes 应用程序 - 而不是像 Dogpool 那样丑陋可爱的方式！ 请告诉我我错了，Onenote 不是唯一的一个？因为有人用丑陋的棍子击打那个应用程序，直到它瘀伤流血并且无法直行。（好吧 - 不能向下滚动而不从左到右摇晃。） 还有其他想法吗？    由   提交  /u/eclipsenow   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h1tm01/any_real_competitors_to_onenote_with_password/</guid>
       <pubDate>Thu, 28 Nov 2024 11:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>还剩 33 天可资助 Framasoft 及其服务再运行一年</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h1sz75/33_days_left_to_fund_framasoft_and_its_services/</link>
-      <description><![CDATA[       由    /u/We-had-a-hedge  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h1sz75/33_days_left_to_fund_framasoft_and_its_services/</guid>
-      <pubDate>Thu, 28 Nov 2024 10:19:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

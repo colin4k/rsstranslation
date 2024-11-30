@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 30 Nov 2024 15:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 18:01:57 GMT</lastBuildDate>
     <item>
-      <title>如果你在 Stackoverflow 上发帖就能解决问题，那么你如何称呼它？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3e0b2/what_do_you_call_it_when_just_the_act_of_making/</link>
-      <description><![CDATA[我觉得它应该有自己的名字。  我认为如果 stack overflow 解决了您的问题，也许您可​​以说，“是的，我终于解决了这个问题。”  如果只是发布帖子这一行为解决了您的问题，也许您可​​以说，“是的，我终于解决了这个问题。”  您还能怎么称呼它？    提交人    /u/SoBeefy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3e0b2/what_do_you_call_it_when_just_the_act_of_making/</guid>
-      <pubDate>Sat, 30 Nov 2024 14:44:26 GMT</pubDate>
+      <title>在 Angular 中构建 CRUD 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3ht3d/building_a_crud_application_in_angular/</link>
+      <description><![CDATA[  由    /u/programmerjunky  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3ht3d/building_a_crud_application_in_angular/</guid>
+      <pubDate>Sat, 30 Nov 2024 17:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>实践机器学习：建立模型并进行预测</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3hr6i/handson_machine_learning_building_models_and/</link>
+      <description><![CDATA[  由    /u/programmerjunky  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3hr6i/handson_machine_learning_building_models_and/</guid>
+      <pubDate>Sat, 30 Nov 2024 17:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年前端开发人员路线图：必备工具和技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3hi5d/frontend_developer_roadmap_2025_essential_tools/</link>
+      <description><![CDATA[  由    /u/programmerjunky  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3hi5d/frontend_developer_roadmap_2025_essential_tools/</guid>
+      <pubDate>Sat, 30 Nov 2024 17:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neit：一种比 Python 更简单的编程语言，允许在运行时更改语法</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3fs28/neit_a_simpler_than_python_programming_language/</link>
+      <description><![CDATA[  由    /u/skub0007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3fs28/neit_a_simpler_than_python_programming_language/</guid>
+      <pubDate>Sat, 30 Nov 2024 16:08:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>破解 4Chan 验证码</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3efuk/breaking_the_4chan_captcha/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3efuk/breaking_the_4chan_captcha/</guid>
+      <pubDate>Sat, 30 Nov 2024 15:04:59 GMT</pubDate>
     </item>
     <item>
       <title>Google 采用 Rust 使 Android 内存漏洞减少了 68%</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/rkasper  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h31ax9/online_spanishlanguage_coding_dojo_tdd_pair/</guid>
       <pubDate>Sat, 30 Nov 2024 01:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>这不是我的软件设计哲学</title>
-      <link>https://www.reddit.com/r/programming/comments/1h2yxfl/not_my_philosophy_of_software_design/</link>
-      <description><![CDATA[  由    /u/Master-Region-140  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h2yxfl/not_my_philosophy_of_software_design/</guid>
-      <pubDate>Fri, 29 Nov 2024 23:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过交互式模拟理解小世界网络</title>
-      <link>https://www.reddit.com/r/programming/comments/1h2xi7o/understanding_small_world_networks_with/</link>
-      <description><![CDATA[  由    /u/sanity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h2xi7o/understanding_small_world_networks_with/</guid>
-      <pubDate>Fri, 29 Nov 2024 22:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bruno：开源且 Git 友好的 API 客户端</title>
-      <link>https://www.reddit.com/r/programming/comments/1h2wcei/bruno_opensource_and_gitfriendly_api_client/</link>
-      <description><![CDATA[很高兴我找到了一个易于使用、免费且没有愚蠢额外功能的 api 客户端！    提交人    /u/JollyShopland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h2wcei/bruno_opensource_and_gitfriendly_api_client/</guid>
-      <pubDate>Fri, 29 Nov 2024 21:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署缓慢导致会议</title>
-      <link>https://www.reddit.com/r/programming/comments/1h2vr5x/slow_deployment_causes_meetings/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h2vr5x/slow_deployment_causes_meetings/</guid>
-      <pubDate>Fri, 29 Nov 2024 21:01:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
