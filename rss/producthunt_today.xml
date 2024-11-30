@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Nov 2024 12:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 15:01:57 GMT</lastBuildDate>
     <item>
       <title>隨身而行</title>
       <link>https://www.producthunt.com/posts/xbeast</link>
@@ -118,6 +118,20 @@ Slack 上的即时图表
       <pubDate>Thu, 28 Nov 2024 03:48:54 GMT</pubDate>
     </item>
     <item>
+      <title>代理授权</title>
+      <link>https://www.producthunt.com/posts/agentauth</link>
+      <description><![CDATA[
+将您的 AI 代理与您的帐户连接起来
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/agentauth</guid>
+      <pubDate>Tue, 26 Nov 2024 11:14:58 GMT</pubDate>
+    </item>
+    <item>
       <title>费米子</title>
       <link>https://www.producthunt.com/posts/fermion</link>
       <description><![CDATA[
@@ -202,18 +216,18 @@ Slack 上的即时图表
       <pubDate>Wed, 20 Nov 2024 16:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>分析球</title>
-      <link>https://www.producthunt.com/posts/analyzesphere</link>
+      <title>MindPal 的 Canvas</title>
+      <link>https://www.producthunt.com/posts/canvas-by-mindpal</link>
       <description><![CDATA[
-一键式 AI 竞争分析 Chrome 扩展程序
+运行 AI 代理和多代理系统的无限画布
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/analyzesphere</guid>
-      <pubDate>Tue, 19 Nov 2024 09:47:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/canvas-by-mindpal</guid>
+      <pubDate>Thu, 14 Nov 2024 14:15:34 GMT</pubDate>
     </item>
     <item>
       <title>凯斯特拉</title>
@@ -270,20 +284,6 @@ Slack 上的即时图表
 ]]></description>
       <guid>https://www.producthunt.com/posts/assignly-2</guid>
       <pubDate>Tue, 08 Oct 2024 00:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Spark 到创业公司</title>
-      <link>https://www.producthunt.com/posts/from-spark-to-startup</link>
-      <description><![CDATA[
-您可以在周末启动的创业想法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/from-spark-to-startup</guid>
-      <pubDate>Wed, 25 Sep 2024 20:21:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

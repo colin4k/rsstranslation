@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 30 Nov 2024 12:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 15:01:37 GMT</lastBuildDate>
+    <item>
+      <title>非常简单的命令行日志</title>
+      <link>https://www.reddit.com/r/software/comments/1h3bght/very_simple_command_line_journal/</link>
+      <description><![CDATA[嗨，我创建了一个加密日志命令行应用程序，灵感来自 https://jrnl.sh。它只是应用程序的一个 bash 脚本，以及另一个用于设置的脚本。我想要一个非常简单的东西，并且没有太多依赖的东西。 我们的想法是使用现有工具开始编写，并将记录自动排列在指定的文件夹中。 请在此处查看项目：https://github.com/nilz-bilz/cli-jrnl，如果您希望看到任何更改或改进，请告诉我。我还没有在 mac 和其他 Unix 系统上测试过它，因此在这些平台上获得一些反馈也很好。谢谢    由   提交  /u/nilz_bilz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h3bght/very_simple_command_line_journal/</guid>
+      <pubDate>Sat, 30 Nov 2024 12:22:06 GMT</pubDate>
+    </item>
     <item>
       <title>每日活动追踪</title>
       <link>https://www.reddit.com/r/software/comments/1h39oc7/daily_tracking_of_activity/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>修改历史及相关文件的保存</title>
       <link>https://www.reddit.com/r/software/comments/1h38ryh/modification_history_and_saving_of_related_files/</link>
-      <description><![CDATA[大家好，我正在寻找一款可以自动保存文件更改的软件，FileHamster 似乎很有用，但是当我下载试用版的 exe 文件时，我收到一条消息，告诉我下载已停止，请在打开前检查可靠性。我可以信任它并强制下载吗？或者您能推荐一些其他具有文件历史记录功能的应用程序吗？如果需要，我可以回溯到其中一个文件？谢谢    提交人    /u/Faoineag   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我正在寻找一款可以自动保存文件更改的软件，FileHamster 似乎很有用，但是当我下载试用版的 exe 文件时，我收到一条消息，告诉我下载已停止，请在打开前检查可靠性。我可以信任它并强制下载吗？或者您能推荐一些其他具有文件历史记录功能的应用程序吗？如果需要，您可以让我回溯到其中一个文件？谢谢    提交人    /u/Faoineag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h38ryh/modification_history_and_saving_of_related_files/</guid>
       <pubDate>Sat, 30 Nov 2024 09:08:50 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>寻找一个可以限制查看并共享数据的程序</title>
       <link>https://www.reddit.com/r/software/comments/1h2np7o/looking_for_a_program_to_share_data_with/</link>
-      <description><![CDATA[我的大家庭越来越大，圣诞节购物变得越来越复杂。我们想建立某种文档，人们可以在其中共享愿望清单，我们可以跟踪谁为谁买了什么。 理想情况下，我们可以设置一个带有标签的电子表格，并限制谁可以查看每个标签。Google 表格可以工作，但您只能限制谁可以编辑标签，而不能限制谁可以查看标签。理想情况下，我们希望在移动设备和计算机上都可以访问。 是否有可以满足我需求的应用或程序？    提交人    /u/The_Real_Scrotus   [链接] [评论]]]></description>
+      <description><![CDATA[我的大家庭越来越大，圣诞节购物变得越来越复杂。我们想建立某种文档，人们可以在其中共享愿望清单，我们可以跟踪谁为谁买了什么。 理想情况下，我们可以设置一个带有标签的电子表格，并限制谁可以查看每个标签。Google 表格可以工作，但您只能限制谁可以编辑标签，而不能限制谁可以查看标签。理想情况下，我们希望在移动设备和计算机上都可以访问。 是否有应用程序或程序可以满足我的要求？    提交人    /u/The_Real_Scrotus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h2np7o/looking_for_a_program_to_share_data_with/</guid>
       <pubDate>Fri, 29 Nov 2024 15:03:34 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨。大家好，您知道任何简单的免费远程文件系统控制/共享应用程序吗（AnyDesk、TeamViewer、RustDesk 除外）？（我有 2 台电脑，在不同的房间，我想从 Y 电脑控制 X 电脑的文件系统。我不想要使用内置 Windows 功能共享驱动器，我想要用于此的软件）。 我想要远程文件系统访问/控制/共享应用程序，类似于此 UI（我不想要像 anydesk 和其他类似应用程序提供的桌面控制功能）： https://preview.redd.it/vokq2xbmqq3e1.png?width=787&amp;format=png&amp;auto=webp&amp;s=ac2897d478aff0a7dcb565b26d03973368a26853    提交人    /u/antikfilosov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h2aavn/remote_file_system_accesscontrol_software/</guid>
       <pubDate>Fri, 29 Nov 2024 01:09:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以制作教程用的 gif 动图的截图软件</title>
-      <link>https://www.reddit.com/r/software/comments/1h26z2e/screenshot_software_that_can_make_gifs_for/</link>
-      <description><![CDATA[嗨 r/software，这是我在这个子版块的第一篇帖子。 正如标题所暗示的，我正在寻找类似于 lightshot、greenshot、snagit 等的软件。它可以让我创建屏幕的 gif，就像它们是屏幕截图一样，我的意思是我可以选择它开始的时间、结束的时间以及我想要捕获的特定区域。我的想法是用它来制作小型教程 gif，就像我下面放的 gif 一样，它用于我正在处理的页面。 https://i.redd.it/mmj53pafsp3e1.gif 如果加分： -让我以不同的大小和质量保存 gif -让我切换鼠标箭头是否在 gif 中可见 谢谢。    提交人    /u/SandwichDeBronca   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h26z2e/screenshot_software_that_can_make_gifs_for/</guid>
-      <pubDate>Thu, 28 Nov 2024 22:07:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
