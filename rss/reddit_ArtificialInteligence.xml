@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 30 Nov 2024 21:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 00:03:55 GMT</lastBuildDate>
+    <item>
+      <title>以下是人工智能领域的新闻动态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3ocdm/heres_whats_making_news_in_ai/</link>
+      <description><![CDATA[聚焦：加拿大最大媒体起诉 OpenAI（来源：The Verge、TechCrunch）  ChatGPT 引用研究让出版商感到沮丧（来源：TechCrunch） 为什么女性不太可能使用人工智能？（来源：BNN Bloomberg） 打破谷歌的搜索垄断会对人工智能产生什么影响（来源：The Atlantic） 人工智能代理会为单人独角兽创造者打开大门吗？（来源：福布斯）     提交人    /u/codeharman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3ocdm/heres_whats_making_news_in_ai/</guid>
+      <pubDate>Sat, 30 Nov 2024 22:37:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>fast.ai—让神经网络再次变得不再酷</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3n9l7/fastaimaking_neural_nets_uncool_again/</link>
+      <description><![CDATA[  由    /u/Imagine-your-success  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3n9l7/fastaimaking_neural_nets_uncool_again/</guid>
+      <pubDate>Sat, 30 Nov 2024 21:47:39 GMT</pubDate>
+    </item>
     <item>
       <title>用于设计弹性物联网应用的 RITA 自动框架</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3m7ic/rita_automatic_framework_for_designing_of/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[大家好，我刚刚做了这个：Tech Company Orchestrator。请告诉我你的想法！这只是一个开源仓库，没有任何盈利。 这是 AI 代理的基本样板设置。老实说，我仍在弄清楚什么才是真正的“AI 代理”，而不是仅在可调用函数中进行 LLM 调用。但是，我想探索如何使用图形、节点和边（通过 NetworkX）等工具来协调这些代理之间的任务 - 这就是我构建的。 对于这个例子，我试图模拟一家软件工程公司。它以初始提示开始，例如“设计博客...”，然后通过一系列代理传递。首先是产品经理充实想法，然后是设计、工程、测试、安全、 DevOps，最后是“最终代理”评估项目是否完成。 我使用的图表目前非常基础，但可以轻松修改以允许更复杂的逻辑结构。例如，您可以创建反馈循环，其中测试中标记的问题将项目发送回工程部门进行修复。 我完全是自学成才，所以这更像是一种学习练习。就目前的形式而言，该程序并不完美 - 它只是运行一个简单的循环，可以选择迭代。最终输出将写入文件，您需要自己解析该文件。 话虽如此，但仍有很大的改进空间，它被设计为一个样板，易于修改以适应各种用例。您甚至可以将其用作构建更好东西的起点。主要目标是演示如何协调 LLM 调用、在它们之间传递数据以及创建处理特定任务的“代理”。 例如，您可以构建一个路由代理，它接收提示、应用自定义逻辑并输出可以指导程序流程的变量。将其与图表相结合，您可以协调更复杂的 LLM 交互。 查看、试验它，然后让我知道您的想法或改进想法！很乐意听到您的反馈。 就像我说的，这只是我为了自学概念而制作的东西，而不是成品。我只是认为你们可能会发现它有助于学习这个概念，也许可以作为您自己项目的起点。    提交人    /u/KonradFreeman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3iedz/tech_company_orchestrator_a_framework_for/</guid>
       <pubDate>Sat, 30 Nov 2024 18:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>与音频相关的 AI 平台/服务？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3hsjj/audio_related_ai_platformsservices/</link>
-      <description><![CDATA[我对寻找新的音频相关 AI 工具感兴趣（语音克隆、文本转语音、音频编辑、AI 创建的音频/音乐内容等）。是否有专门的网站列出此类服务？如果没有，请向我推荐您最喜欢的。    提交人    /u/Zero29   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3hsjj/audio_related_ai_platformsservices/</guid>
-      <pubDate>Sat, 30 Nov 2024 17:37:20 GMT</pubDate>
     </item>
     <item>
       <title>黑色星期五促销好吗？</title>
@@ -97,13 +104,6 @@
       <pubDate>Sat, 30 Nov 2024 15:23:51 GMT</pubDate>
     </item>
     <item>
-      <title>用于阅读 epub 或书籍的人工智能......注意力缺陷多动障碍</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3dydf/ai_for_reading_epubs_or_books_for_self_adhd/</link>
-      <description><![CDATA[想知道是否有一个程序，可以将我购买的电子书输入 AI，让它变成我自己的有声读物...我有注意力缺陷多动症， 是的，我理解，买有声读物，我也买了，但是我买了很多电子书，想用它们来测试一下... 这也是一件 $$$$$ 的事情，就像重新购买书籍一样，建议 关于可以做到这一点的免费程序，以及是否有已知的过程 我受到某人的启发，他训练 AI 使用克里斯蒂安·贝尔的声音 阅读美国精神病人有声读物，（前半部分在 youtube 上）但他们实际上 向人们收取剩余部分的费用，即使他们不拥有知识产权，我认为这也不是那么好    提交人    /u/karatemnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3dydf/ai_for_reading_epubs_or_books_for_self_adhd/</guid>
-      <pubDate>Sat, 30 Nov 2024 14:41:53 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 等法学硕士会被广告业取代吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3dscq/will_llm_such_as_chatgpt_be_taken_over_by/</link>
       <description><![CDATA[其实这是一个简单的问题。目前我还没有注意到使用 LLM 模型的广告，我猜想由于他们的订阅模式，他们可能还不需要（暂时不需要）。但是，考虑到公司永远都在追求更大的利润，广告似乎是他们前进的方向，这是不可避免的。 如果 LLM 知道你的所有习惯、需求和问题，它似乎是一个完美的平台（甚至比社交媒体或搜索更完美）来向最终用户做广告。他们可以像 Google 一样嵌入“赞助”结果，甚至可以微调模型以更自然的方式偏向某些品牌。 我个人认为，一旦 LLM 的使用变得更加广泛，这将是不可避免的。我很想知道你的想法。    提交人    /u/NFTArtist   [链接] [评论]]]></description>
@@ -113,7 +113,7 @@
     <item>
       <title>您希望更多人了解有关 AI 的哪些知识？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3auf8/what_is_something_you_wish_more_people_knew_about/</link>
-      <description><![CDATA[你希望更多人知道什么？或者你认为哪些东西被 AI 社区严重低估和/或被普遍炒作？    提交人    /u/AdaKingLovelace   [link] [评论]]]></description>
+      <description><![CDATA[你希望更多人知道什么？或者你认为哪些东西被人工智能社区严重低估和/或被普遍炒作？    提交人    /u/AdaKingLovelace   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3auf8/what_is_something_you_wish_more_people_knew_about/</guid>
       <pubDate>Sat, 30 Nov 2024 11:40:47 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
