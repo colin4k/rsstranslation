@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Dec 2024 18:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 21:02:02 GMT</lastBuildDate>
+    <item>
+      <title>视频流和资产管理后端的想法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h4c21z/idea_for_a_video_streaming_and_asset_management/</link>
+      <description><![CDATA[大家好。我目前在大学的一个小组工作。我们与周围的企业合作并为其提供软件解决方案。我们目前使用 Firebase Storage 来存储所有资产（例如前端的图像、用户上传的文件）。但是，我们的一个项目大量使用视频流来存储其内容，但由于业务规模较小，他们不愿意支付云对象存储或 CDN 的费用。此外，最近我们也在尝试优化我们的资产存储成本。 因此，我有了构建一个可以自托管的简单后端的想法。它将公开 API 以支持上传资产，并支持视频流。我认为这将是一个有趣的项目，我想将其作为 OSS 发布，人们可以自行托管以与自己的系统集成。 我对这个想法有几个问题：  已经有类似的东西了吗，是否需要这样的产品？在我看来，它的主要吸引力在于小规模使用案例，在这些案例中，您知道您不需要云的无限可扩展性，并且想要节省成本，或者您想要一种简单的方法将视频服务器集成到您的应用程序中（有点像制作 YouTube 克隆）。 您认为哪些功能是必备的？理想情况下，我希望首先关注视频和图像上传的功能。  谢谢阅读。    提交人    /u/qhung312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h4c21z/idea_for_a_video_streaming_and_asset_management/</guid>
+      <pubDate>Sun, 01 Dec 2024 20:02:50 GMT</pubDate>
+    </item>
     <item>
       <title>Noema – 声明式 AI 编程库</title>
       <link>https://www.reddit.com/r/opensource/comments/1h47000/noema_a_declarative_ai_programming_library/</link>
@@ -83,7 +90,7 @@
       <pubDate>Sat, 30 Nov 2024 10:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>Bountyboard——利用开源赚钱的新方式</title>
+      <title>Bountyboard——利用开源赚钱的新方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1h384uy/bountyboard_a_new_way_to_earn_money_with_open/</link>
       <description><![CDATA[在过去的一年里，我为多个开源项目做出了贡献，并完成了来自各种项目的许多付费赏金。 在整个过程中，我最大的悲痛之一就是很难找到有赏金的有趣项目。 为了帮助其他人轻松找到开源赏金，我制作了https://bountyboard.btsht.xyz 非常高兴听到您的反馈/问题并进一步联系 谢谢！    提交人    /u/aaronbalzac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h384uy/bountyboard_a_new_way_to_earn_money_with_open/</guid>
@@ -111,7 +118,7 @@
       <pubDate>Sat, 30 Nov 2024 02:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>通过 Squid 的 HMAC 签名进行基本身份验证</title>
+      <title>通过 HMAC 签名对 Squid 进行基本身份验证</title>
       <link>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</link>
       <description><![CDATA[       由    /u/yarmak  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在开发一个库来支持分布式和去中心化网络和通信，很像 Libp2p，但更侧重于自我修复和组织算法，以及共识机制。 如果可能的话，我想听听你在使用这样的库开发 dApp 时想要什么类型的功能的意见，因为我相信去中心化和 web3 有很多东西可以做，但尚未在库中实现。 请就此事提供评论和意见，以便我学习和更新我的路线图    提交人    /u/Critical_Pipe1134   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h2bpps/input_on_decentralized_networks_and_systems/</guid>
       <pubDate>Fri, 29 Nov 2024 02:31:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>✨ 使用这个新的开源 VS Code 在本地运行你的 GitHub Actions！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h29wi8/run_your_github_actions_locally_with_this_new/</link>
-      <description><![CDATA[  由    /u/sanjulag  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h29wi8/run_your_github_actions_locally_with_this_new/</guid>
-      <pubDate>Fri, 29 Nov 2024 00:46:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,29 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 18:01:24 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sun, 01 Dec 2024 21:01:29 GMT</lastBuildDate>
+    <item>
+      <title>探索生成式人工智能在调查翻译的 TRAPD 程序中的潜在作用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4dc8w/exploring_the_potential_role_of_generative_ai_in/</link>
+      <description><![CDATA[标题：探索生成式 AI 在 TRAPD 调查翻译程序中的潜在作用 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“探索生成式 AI 在 TRAPD 调查翻译程序中的潜在作用”，作者是 Erica Ann Metheney 和 Lauren Yehle。 本文探讨了生成式 AI（特别是 ChatGPT）如何帮助翻译用于多语言和多文化背景的调查工具。作者认识到调查中的翻译错误会严重影响数据的可用性和得出结论的准确性，因此使用 ChatGPT 进行了零样本即时实验，以评估其识别复杂翻译问题的能力。以下是论文的一些要点：  翻译挑战：本文强调了跨不同语言和文化翻译调查问卷时遇到的复杂问题，例如语义差异、文化细微差别和敏感性问题。 AI 在翻译中的作用：ChatGPT 成功识别了各种翻译障碍，包括常见的调查问卷语言复杂性、文化不敏感性以及目标语言中不存在的概念，展示了其作为调查问卷准备工具的潜力。 实验设计和结果：作者使用来自全球主要调查组织的 282 个调查问题设计了一项计算实验。结果表明，ChatGPT 4.0 在识别语法和敏感性问题方面更有效率，而 ChatGPT 3.5 则更擅长识别技术术语和地域特异性。  实用见解：该研究为在调查翻译中使用人工智能提供了实用指导，考察了软件可访问性、成本和运行时间等方面。研究结果表明，人工智能能够有效地辅助翻译，而不会取代最佳实践，而是作为人类专业知识的补充。 未来的研究路径：本文提出了未来的研究活动，以将人工智能更有效地融入调查翻译实践中，强调评估人工智能输出准确性和探索不同方法的必要性，例如少量提示。  这项研究代表着朝着利用人工智能提高调查翻译效率和准确性迈出了一步，特别是在资源受限的环境中。 你可以在这里看到完整的细分：这里你可以在这里看到完整的原始研究论文：原始论文    由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4dc8w/exploring_the_potential_role_of_generative_ai_in/</guid>
+      <pubDate>Sun, 01 Dec 2024 20:58:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS、Azure 和 Google Cloud 对比</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4cfsy/aws_vs_azure_vs_google_cloud/</link>
+      <description><![CDATA[大家好， 想知道排名前三的云提供商中哪一家拥有用于创建 AI 解决方案的最佳 AI 平台。    提交人    /u/According_Ice6515   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4cfsy/aws_vs_azure_vs_google_cloud/</guid>
+      <pubDate>Sun, 01 Dec 2024 20:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 11 月 AI 亮点：Rogue 聊天机器人、AI 音乐热门、Sora“泄密”、全球权力游戏等</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4an3p/november_2024_ai_highlights_rogue_chatbot_ai/</link>
+      <description><![CDATA[1) 谷歌 AI 的“Please Die”：当聊天机器人走得太远时 2) 可口可乐的 AI 圣诞节广告：创新还是失误？ 3) Mistral 的 Le Chat：ChatGPT 的欧洲新挑战者 4) Suno v4：AI 音乐生成达到新高度 5) Runner H：欧洲新的 2.2 亿美元 AI 竞争者加入竞赛 6) OpenAI 在艺术家的反对和反对后停止了 Sora 访问7）阿里巴巴的 QwQ-32B：中国新的开源 AI 挑战者 8）当 ChatGPT 的“英雄事迹”变成人工智能制作时 全文（包括评论、来源等）    提交人    /u/DarknStormyKnight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4an3p/november_2024_ai_highlights_rogue_chatbot_ai/</guid>
+      <pubDate>Sun, 01 Dec 2024 19:03:17 GMT</pubDate>
+    </item>
     <item>
       <title>考虑投资 Nvidia 股票的投资者可能希望考虑通过购买其他 AI 股票来实现多元化。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h494sx/investors_considering_nvidia_stock_may_want_to/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>一部关于人工智能在人工智能的帮助下进化为通用人工智能的科幻小说</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h44wh1/a_scifi_fiction_story_about_ai_evolving_to_agi/</link>
-      <description><![CDATA[我正在开发一种可以创作文字、有声读物和语言翻译的工具。对于我的第二个故事，我写了一部关于人工智能进化为通用人工智能的科幻反乌托邦惊悚片：  书籍：Esteban Gallardo 的《Conscious》 有声读物（语音、图像、声音由人工智能生成）： 《Conscious》（桌面友好型） 《Conscious》（移动友好）  翻译： Consciente（西班牙语，PDF） Bewusst（德语，PDF） Conscient（法语，PDF） Consapevole（意大利语，PDF）   如果有人对我的项目（AI Story Book Editor）感兴趣并希望帮助我继续开发它，请随时联系。    由    /u/Plus_West_4939  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一种可以创作文字、有声读物和语言翻译的工具。对于我的第二个故事，我写了一部关于人工智能进化为通用人工智能的科幻反乌托邦惊悚片：  书籍：Esteban Gallardo 的《Conscious》 有声读物（语音、图像、声音由人工智能生成）： 《Conscious》（桌面友好型） 《Conscious》（移动友好型）  翻译： Consciente（西班牙语，PDF） Bewusst（德语，PDF） Conscient（法语，PDF） Consapevole（意大利语，PDF）   如果有人对我的项目感兴趣(AI Story Book Editor）并希望帮助我继续开发它，请随时联系。    提交人    /u/Plus_West_4939   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h44wh1/a_scifi_fiction_story_about_ai_evolving_to_agi/</guid>
       <pubDate>Sun, 01 Dec 2024 14:51:53 GMT</pubDate>
     </item>
@@ -74,13 +95,6 @@
       <description><![CDATA[https://www.tiktok.com/@richyfantasy/video/7443217893069770030 据我猜测，他们在 Midjourney 中渲染图像，然后在 Runway 中生成视频？对吗？    提交人    /u/Whencowscanfly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h418s2/what_is_the_step_by_step_workflow_to_making_a/</guid>
       <pubDate>Sun, 01 Dec 2024 11:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士 (LLM) 的代币及其限制</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h40w07/tokens_and_their_limits_for_llms/</link>
-      <description><![CDATA[我正在观看这个 YT - Intelligence Artificielle: la fin du bullshit ? (AI News)（抱歉，是法语）它让我思考使用 token 作为 LLM 基础的影响/限制，所以我对此做了一个简短的描述。希望你会觉得它很有趣，请告诉我你的想法！ 摘要：像 ChatGPT 这样的 LLM 依靠token（小段文本）作为语言处理的基础，但这种基于 token 的系统限制了它们推理、计划或真正理解概念的能力。为了迈向 AGI，研究人员正在探索互补方法，如神经符号 AI、多模态模型、动态学习和具身智能。这些创新旨在超越模式识别，使机器能够像人类一样概括和适应。  完整帖子：了解大型语言模型：标记、限制和通往 AGI 的道路。    提交人    /u/killermouse0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h40w07/tokens_and_their_limits_for_llms/</guid>
-      <pubDate>Sun, 01 Dec 2024 10:58:10 GMT</pubDate>
     </item>
     <item>
       <title>面向大型语言模型的中间件</title>
@@ -104,13 +118,6 @@
       <pubDate>Sun, 01 Dec 2024 04:35:59 GMT</pubDate>
     </item>
     <item>
-      <title>有声读物旁白</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3r9qo/audiobook_narration/</link>
-      <description><![CDATA[不确定这里是不是最好的地方，所以提前说声抱歉 :/ 我真的很喜欢有声读物，最近听了 Micheal C. Hall 朗读的《宠物墓地》。我真的很喜欢他朗读这本书的方式，并想尝试为另一部 Stephen King 小说制作有声读物，以 Hall 的声音作为朗读者。我尝试使用 Elevationlab，说实话，它对于我所寻找的内容来说相当不错，但是我可以制作的音频文件数量有限，而且我又不能花大价钱，这让我感觉很糟糕。 有人知道我可以为此研究的其他网站吗？我不介意付一点钱，但最好不要太贵。 谢谢！    提交人    /u/Toysoldier574   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3r9qo/audiobook_narration/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:59:21 GMT</pubDate>
-    </item>
-    <item>
       <title>萨姆·奥特曼 (Sam Altman) 令人印象深刻，我真的很想听听他的采访，但他的声音表演让这成为不可能。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3le5s/sam_altman_is_impressive_and_i_really_want_to/</link>
       <description><![CDATA[我和一群朋友讨论过这个问题。就像标题所说的那样，Sam 的嗓音太难听了，我做不到。我知道这是在演戏，因为有时他不是在演戏，但只要他开始觉得很酷——指甲就会在黑板上划来划去。听听他的采访会很好，因为我想向最聪明的人学习，但我不能因此而认真对待他。    提交人    /u/SL1200mkII   [链接] [评论]]]></description>
@@ -125,13 +132,6 @@
       <pubDate>Sat, 30 Nov 2024 15:46:19 GMT</pubDate>
     </item>
     <item>
-      <title>您希望更多人了解有关 AI 的哪些知识？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3auf8/what_is_something_you_wish_more_people_knew_about/</link>
-      <description><![CDATA[你希望更多人知道什么？或者你认为哪些东西被 AI 社区严重低估和/或被普遍炒作？    提交人    /u/AdaKingLovelace   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3auf8/what_is_something_you_wish_more_people_knew_about/</guid>
-      <pubDate>Sat, 30 Nov 2024 11:40:47 GMT</pubDate>
-    </item>
-    <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h1xufm/weekly_self_promotion_post/</link>
       <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
