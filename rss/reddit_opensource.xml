@@ -4,20 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:02:08 GMT</lastBuildDate>
     <item>
       <title>Firefox 密码容器与 Keepass</title>
       <link>https://www.reddit.com/r/opensource/comments/1h3y2d6/firefox_password_container_vs_keepass/</link>
       <description><![CDATA[有了好的主密钥并通过帐户同步，Firefox 密码是否像任何 Keepass 解决方案一样安全？您登录的所有操作中有 90% 实际上都是通过浏览器完成的……    提交人    /u/NewspaperEcstatic884   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h3y2d6/firefox_password_container_vs_keepass/</guid>
       <pubDate>Sun, 01 Dec 2024 07:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源：Zenshin - 拥有 8000 多个动漫系列的动漫流媒体应用程序。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3wxq0/open_source_zenshin_anime_streaming_app_with_8000/</link>
-      <description><![CDATA[        由    /u/hitarth_gg 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3wxq0/open_source_zenshin_anime_streaming_app_with_8000/</guid>
-      <pubDate>Sun, 01 Dec 2024 06:14:42 GMT</pubDate>
     </item>
     <item>
       <title>TidesDB - 高性能、事务性、持久性、嵌入式键值存储引擎</title>
@@ -97,13 +90,6 @@
       <pubDate>Sat, 30 Nov 2024 06:16:09 GMT</pubDate>
     </item>
     <item>
-      <title>TextCraft 1.0.6 更新：在 Word 评论中直接与你的 AI 对话</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h33a5h/textcraft_106_update_talk_to_your_ai_directly_in/</link>
-      <description><![CDATA[        由    /u/SuccessIsHardWork  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h33a5h/textcraft_106_update_talk_to_your_ai_directly_in/</guid>
-      <pubDate>Sat, 30 Nov 2024 03:16:42 GMT</pubDate>
-    </item>
-    <item>
       <title>键盘声音 — 为您的打字体验添加声音效果</title>
       <link>https://www.reddit.com/r/opensource/comments/1h32a3i/keyboard_sounds_add_sound_effects_to_your_typing/</link>
       <description><![CDATA[  由    /u/MediocreAnywhere1221  提交  [链接] [评论]]]></description>
@@ -144,6 +130,20 @@
       <description><![CDATA[  由    /u/sanjulag  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h29wi8/run_your_github_actions_locally_with_this_new/</guid>
       <pubDate>Fri, 29 Nov 2024 00:46:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找可以贡献的开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h22iz6/looking_for_opensource_projects_to_contribute_to/</link>
+      <description><![CDATA[大家好！希望你们感恩节过得愉快。我正在寻找一个开源项目，希望成为一名积极的贡献者。我最熟悉 Python，并且是一名学习计算机科学和物理学的本科生。 我有兴趣为一个可以应用我的计算机科学和物理学知识的项目做贡献，但我愿意听取任何建议。理想情况下，我很乐意从事一些有助于科学计算、模拟或数据分析的工作，因为这些是我热衷的领域。但是，我也渴望更多地了解软件开发，特别是在开源环境中。 如果有人对活跃且热情的社区有建议，或者您知道任何可以在这些领域使用贡献者的项目，请告诉我！我很高兴开始并为一些有意义的事情做出贡献。 谢谢！   由    /u/buggingbug  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h22iz6/looking_for_opensource_projects_to_contribute_to/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:33:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么“廉价”的中国克隆公司不开源他们的软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h1x762/why_dont_cheap_chinese_clone_companies_open/</link>
+      <description><![CDATA[我刚买了一个便宜的中国版 DJI 克隆产品。从硬件角度看，它似乎确实很强大，但软件有点垃圾。用户界面丑陋，布局糟糕，跟随模式非常简陋等。手册也很糟糕。 这些公司不尝试围绕其产品启动开源社区的原因是什么？我可以想象，很多人都希望将更高级的功能集成到技术先进的东西中。他们仍将通过销售赚钱，因为人们需要硬件。最坏的情况是没有人帮助他们。 我认为 Spotify 为他们的汽车产品做了类似的事情，似乎有很多人对此感兴趣。    提交人    /u/duckbeater69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h1x762/why_dont_cheap_chinese_clone_companies_open/</guid>
+      <pubDate>Thu, 28 Nov 2024 14:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
