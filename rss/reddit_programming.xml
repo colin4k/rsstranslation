@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 01 Dec 2024 00:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 03:20:55 GMT</lastBuildDate>
+    <item>
+      <title>理论突破：自我修正如何增强 OpenAI o1 的推理能力</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3t710/theoretical_breakthrough_how_selfcorrection/</link>
+      <description><![CDATA[  由    /u/Several_Relation_920  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3t710/theoretical_breakthrough_how_selfcorrection/</guid>
+      <pubDate>Sun, 01 Dec 2024 02:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perl 降临节日历 2024 - 第 1 天 - 等待科琳娜时，作者 Ovid</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3qwyi/perl_advent_calendar_2024_day_1_while_youre/</link>
+      <description><![CDATA[  由    /u/oalders  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3qwyi/perl_advent_calendar_2024_day_1_while_youre/</guid>
+      <pubDate>Sun, 01 Dec 2024 00:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>每两周开发一款新应用</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3qhhe/making_a_new_app_every_2_weeks/</link>
+      <description><![CDATA[几天前，我分享了一个挑战：每两周开发一个免费的移动应用程序，下一个项目将根据获得最多点赞的评论来选择。 我很高兴地宣布，我已经开始了这段旅程，并创建了 YouTube 和 TikTok 频道来展示进展——这一切都是出于对这门手艺的热爱。请注意，所有内容都将以西班牙语提供。 如果您有兴趣并希望参与这项工作，请随时与我们联系。我愿意接受建议和建设性的批评。我的目标是分享这种经验，而不会向社区发送垃圾邮件。 感谢您的支持！    提交人    /u/Murisho_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3qhhe/making_a_new_app_every_2_weeks/</guid>
+      <pubDate>Sun, 01 Dec 2024 00:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Motoko 中构建正则表达式引擎第 3 部分：编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1h3qbtq/building_a_regex_engine_in_motoko_part_3_compiler/</link>
+      <description><![CDATA[  由    /u/Demali876  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h3qbtq/building_a_regex_engine_in_motoko_part_3_compiler/</guid>
+      <pubDate>Sun, 01 Dec 2024 00:12:46 GMT</pubDate>
+    </item>
     <item>
       <title>我最近写了一篇关于创建无缝拆分付款处理系统的文章，该系统解决了当今电子商务面临的一个重大挑战</title>
       <link>https://www.reddit.com/r/programming/comments/1h3p15v/i_recently_wrote_an_article_about_creating_a/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/andatki  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h3c4bw/django_and_postgres_for_the_busy_rails_developer/</guid>
       <pubDate>Sat, 30 Nov 2024 13:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个非常简单的命令行日志（加密条目且几乎没有依赖关系）</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3bdh2/a_dead_simple_command_line_journal_encrypted/</link>
-      <description><![CDATA[  由    /u/nilz_bilz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3bdh2/a_dead_simple_command_line_journal_encrypted/</guid>
-      <pubDate>Sat, 30 Nov 2024 12:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 交互式测验</title>
-      <link>https://www.reddit.com/r/programming/comments/1h39ouh/javascript_interactive_quiz/</link>
-      <description><![CDATA[对于我的 JS 面试，我厌倦了浏览 GitHub 仓库中的一些著名 JS 琐事问题仓库，所以最终创建了一个交互式 JS 问答游戏。  虽然我想学习，但我几乎什么都没学到，把所有的时间都花在了构建这个上。 （为自己辩护一下，我花时间玩 JS 测验而不是在厕所里浏览 Reddit） 我知道这没什么特别的，但可能会帮助你在面试前复习概念。 欢迎提供反馈、建议和 PR。 仓库链接：https://github.com/ishwarrimal/javascript-quiz    提交人    /u/theHumbleBeing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h39ouh/javascript_interactive_quiz/</guid>
-      <pubDate>Sat, 30 Nov 2024 10:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>决策中的直方图</title>
-      <link>https://www.reddit.com/r/programming/comments/1h39cwy/on_histograms_in_decision_making/</link>
-      <description><![CDATA[  由    /u/radekmie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h39cwy/on_histograms_in_decision_making/</guid>
-      <pubDate>Sat, 30 Nov 2024 09:52:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CAP 定理的图解证明</title>
-      <link>https://www.reddit.com/r/programming/comments/1h38r86/an_illustrated_proof_of_the_cap_theorem/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h38r86/an_illustrated_proof_of_the_cap_theorem/</guid>
-      <pubDate>Sat, 30 Nov 2024 09:07:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
