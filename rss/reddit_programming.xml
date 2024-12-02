@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 02 Dec 2024 18:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 21:01:52 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 brainrot 版本的 Python</title>
+      <link>https://www.reddit.com/r/programming/comments/1h53msv/i_made_a_brainrot_version_of_python/</link>
+      <description><![CDATA[  由    /u/commie_chaplin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h53msv/i_made_a_brainrot_version_of_python/</guid>
+      <pubDate>Mon, 02 Dec 2024 19:38:27 GMT</pubDate>
+    </item>
     <item>
       <title>Leetcode 81. 在旋转排序数组中搜索 II | 简单试运行🔥🔥🔥 | 视频 09</title>
       <link>https://www.reddit.com/r/programming/comments/1h512d3/leetcode_81_search_in_rotated_sorted_array_ii/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/AsuGhi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h4poh8/diy_dense_layered_neural_network_framework_in_c/</guid>
       <pubDate>Mon, 02 Dec 2024 07:31:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>此 PR 用一行代码替换了 is-number 包。作者认为这一微小的更改每周可节省 440GB 的流量。JavaScript 微包争论</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4pggn/this_pr_replaces_isnumber_package_with_a_oneliner/</link>
-      <description><![CDATA[is-number 包（以及 is-odd、is-even 和 1500more）的作者与 PR 作者就微型库展开了一场争论。https://github.com/micromatch/to-regex-range/pull/17 PR 建议用其内联代码替换 &#39;is-number&#39; 包。虽然代码为 &lt;1KB，但带有 README/license 的完整包约为 10KB。每周下载量达 70M，这一简单更改每周可节省 440GB 的 npm 带宽。 &#39;is-number&#39; 的作者称 PR “无用”——尽管这是他自己的代码，但只是内联而已。他的其他一些软件包包括 &#39;is-odd&#39;，它依赖于 &#39;is-even&#39;，而 &#39;is-even&#39; 又依赖于......你猜对了，&#39;is-number&#39;。 争论： 支持微包：经过充分测试、自动更新、节省开发时间 反对：安全风险、脆弱的依赖关系（还记得 left-pad 吗？）、不必要的膨胀 TL;DR：JavaScript 的微包生态系统可能已经失控。有时最简单的解决方案就是自己编写代码。或者什么时候使用标准库？    提交人    /u/JollyShopland   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4pggn/this_pr_replaces_isnumber_package_with_a_oneliner/</guid>
-      <pubDate>Mon, 02 Dec 2024 07:16:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
