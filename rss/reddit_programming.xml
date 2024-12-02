@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 02 Dec 2024 06:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 09:01:56 GMT</lastBuildDate>
+    <item>
+      <title>理解 JavaScript 中的 DOM：动态 Web 交互指南 - Makemychance</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4qugi/understanding_the_dom_in_javascript_a_guide_to/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4qugi/understanding_the_dom_in_javascript_a_guide_to/</guid>
+      <pubDate>Mon, 02 Dec 2024 09:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件架构、设计思维和知识流 • Diana Montalion 和 Kris Jenkins</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4qqov/software_architecture_design_thinking_knowledge/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4qqov/software_architecture_design_thinking_knowledge/</guid>
+      <pubDate>Mon, 02 Dec 2024 08:52:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用可观察性：与 Hazel Weakly 一起从战略到实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4pvak/applying_observability_from_strategy_to_practice/</link>
+      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4pvak/applying_observability_from_strategy_to_practice/</guid>
+      <pubDate>Mon, 02 Dec 2024 07:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 C 语言 DIY 密集分层神经网络框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4poh8/diy_dense_layered_neural_network_framework_in_c/</link>
+      <description><![CDATA[  由    /u/AsuGhi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4poh8/diy_dense_layered_neural_network_framework_in_c/</guid>
+      <pubDate>Mon, 02 Dec 2024 07:31:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>此 PR 用一行代码替换了 is-number 包。作者认为这一微小的更改每周可节省 440GB 的流量。JavaScript 微包争论</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4pggn/this_pr_replaces_isnumber_package_with_a_oneliner/</link>
+      <description><![CDATA[is-number 包（以及 is-odd、is-even 和 1500more）的作者与 PR 作者就微型库展开了一场争论。https://github.com/micromatch/to-regex-range/pull/17 PR 建议用其内联代码替换 &#39;is-number&#39; 包。虽然代码为 &lt;1KB，但带有 README/license 的完整包约为 10KB。每周下载量达 70M，这一简单更改每周可节省 440GB 的 npm 带宽。 &#39;is-number&#39; 的作者称 PR “无用”——尽管这是他自己的代码，但只是内联而已。他的其他一些软件包包括 &#39;is-odd&#39;，它依赖于 &#39;is-even&#39;，而 &#39;is-even&#39; 又依赖于......你猜对了，&#39;is-number&#39;。 争论： 支持微包：经过充分测试、自动更新、节省开发时间 反对：安全风险、脆弱的依赖关系（还记得 left-pad 吗？）、不必要的膨胀 TL;DR：JavaScript 的微包生态系统可能已经失控。有时最简单的解决方案就是自己编写代码。或者什么时候使用标准库？    提交人    /u/JollyShopland   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4pggn/this_pr_replaces_isnumber_package_with_a_oneliner/</guid>
+      <pubDate>Mon, 02 Dec 2024 07:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 与 Sass：更智能的网页设计完整指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4pf76/css_vs_sass_a_complete_guide_to_smarter_web/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4pf76/css_vs_sass_a_complete_guide_to_smarter_web/</guid>
+      <pubDate>Mon, 02 Dec 2024 07:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年的 Avalonia UI：发展、挑战和未来之路</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4p09d/avalonia_ui_in_2024_growth_challenges_and_the/</link>
+      <description><![CDATA[  由    /u/jmacato  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4p09d/avalonia_ui_in_2024_growth_challenges_and_the/</guid>
+      <pubDate>Mon, 02 Dec 2024 06:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>布隆过滤器的数学之美</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4ouol/the_beautiful_math_of_bloom_filters/</link>
+      <description><![CDATA[  由    /u/No-Bug-242  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4ouol/the_beautiful_math_of_bloom_filters/</guid>
+      <pubDate>Mon, 02 Dec 2024 06:35:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助解决电脑问题，我和一个程序员约会，他毁了我儿子的电脑</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4od8k/need_help_with_pc_dated_a_programmer_who_ruined/</link>
+      <description><![CDATA[如果这是错误的地方，有人可以帮助我吗？我很抱歉。我尝试了此网站上的所有方法。     提交人    /u/Purple-daydream   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4od8k/need_help_with_pc_dated_a_programmer_who_ruined/</guid>
+      <pubDate>Mon, 02 Dec 2024 06:03:46 GMT</pubDate>
+    </item>
     <item>
       <title>Ring 编程语言 1.22 版本已经发布！</title>
       <link>https://www.reddit.com/r/programming/comments/1h4o33b/ring_programming_language_version_122_has_been/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/xAconitex  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h4b1uo/leetcode_153_find_minimum_in_rotated_sorted_array/</guid>
       <pubDate>Sun, 01 Dec 2024 19:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码降临 2024 第 1 天，但采用可视化编程语言 vvvv</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4az4x/advent_of_code_2024_day_1_but_in_the_visual/</link>
-      <description><![CDATA[我不是作者，但我是 vvvv 社区的一员。该视频将引导您使用 vvvv 解决第一天挑战的两个部分，vvvv 是一种静态类型和编译的可视化编程语言，适用于 .NET，具有状态热重载功能。 使用的大多数节点都是实际的 C# 方法，因此 C#/.NET 开发人员会发现它很熟悉。该视频还展示了 vvvv 如何以可视化方式表示循环、分支、集合、泛型以及可变和不可变数据类型。 如果您加入了 Advent of Code 挑战，这个示例可能会让您对可视化编程有新的视角。 实际编码从第 9 分钟左右开始。    提交人    /u/tebjan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4az4x/advent_of_code_2024_day_1_but_in_the_visual/</guid>
-      <pubDate>Sun, 01 Dec 2024 19:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>布隆过滤器的交互式指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4ac8e/an_interactive_guide_to_bloom_filter/</link>
-      <description><![CDATA[  由    /u/Sagyam  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4ac8e/an_interactive_guide_to_bloom_filter/</guid>
-      <pubDate>Sun, 01 Dec 2024 18:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - tiagorangel1/bunbuster：速度超快的 Web 和 TCP 模糊测试器，专为暴力破解 Web 服务器上的目录、子域和文件而设计。</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4aa0a/github_tiagorangel1bunbuster_ridiculously_fast/</link>
-      <description><![CDATA[  由    /u/tiagorangel2011  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4aa0a/github_tiagorangel1bunbuster_ridiculously_fast/</guid>
-      <pubDate>Sun, 01 Dec 2024 18:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nginx 如何处理数千个并发请求</title>
-      <link>https://www.reddit.com/r/programming/comments/1h46w8u/how_nginx_handles_thousands_of_concurrent_requests/</link>
-      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h46w8u/how_nginx_handles_thousands_of_concurrent_requests/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 7 周内 7 个数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1h46l4a/7_databases_in_7_weeks_for_2025/</link>
-      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h46l4a/7_databases_in_7_weeks_for_2025/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:08:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 S3 构建分布式日志</title>
-      <link>https://www.reddit.com/r/programming/comments/1h46jkh/building_a_distributed_log_using_s3/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h46jkh/building_a_distributed_log_using_s3/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Golang 切片仍然让我感到惊讶</title>
-      <link>https://www.reddit.com/r/programming/comments/1h43ap1/why_golang_slices_still_surprise_me/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h43ap1/why_golang_slices_still_surprise_me/</guid>
-      <pubDate>Sun, 01 Dec 2024 13:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年前端开发将会有什么新动向？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h42umq/whats_coming_for_frontend_development_in_2025/</link>
-      <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h42umq/whats_coming_for_frontend_development_in_2025/</guid>
-      <pubDate>Sun, 01 Dec 2024 13:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordHopper 的一年——现代 DOS 游戏开发回顾</title>
-      <link>https://www.reddit.com/r/programming/comments/1h42o41/a_year_of_wordhopper_modern_dos_game_development/</link>
-      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h42o41/a_year_of_wordhopper_modern_dos_game_development/</guid>
-      <pubDate>Sun, 01 Dec 2024 12:54:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
