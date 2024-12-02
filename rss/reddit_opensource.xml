@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Dec 2024 21:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 00:04:00 GMT</lastBuildDate>
+    <item>
+      <title>我无法为这个 repo 设置环境，请帮忙</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h4fkqv/i_cant_set_the_environment_up_for_this_repo_pls/</link>
+      <description><![CDATA[这是 repo ：https://github.com/zibojia/COCOCO 我需要使用 graido 接口运行 app.py 文件。我很迷茫，请帮忙，这是我到目前为止所做的：（P.S. 需要在 colab 上）https://colab.research.google.com/drive/1fPGfQE0gzs9jJEBQdVLViLxEYzAkGh0I?usp=sharing   由    /u/Atomcocuk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h4fkqv/i_cant_set_the_environment_up_for_this_repo_pls/</guid>
+      <pubDate>Sun, 01 Dec 2024 22:33:23 GMT</pubDate>
+    </item>
     <item>
       <title>视频流和资产管理后端的想法</title>
       <link>https://www.reddit.com/r/opensource/comments/1h4c21z/idea_for_a_video_streaming_and_asset_management/</link>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 30 Nov 2024 10:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>Bountyboard——利用开源赚钱的新方法</title>
+      <title>Bountyboard——利用开源赚钱的新方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1h384uy/bountyboard_a_new_way_to_earn_money_with_open/</link>
       <description><![CDATA[在过去的一年里，我为多个开源项目做出了贡献，并完成了来自各种项目的许多付费赏金。 在整个过程中，我最大的悲痛之一就是很难找到有赏金的有趣项目。 为了帮助其他人轻松找到开源赏金，我制作了https://bountyboard.btsht.xyz 非常高兴听到您的反馈/问题并进一步联系 谢谢！    提交人    /u/aaronbalzac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h384uy/bountyboard_a_new_way_to_earn_money_with_open/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我有一个小型家庭实验室，主要由其他人的垃圾硬件组成，运行着许多开源服务。我想通过向创作者捐款来回馈他们，唯一的问题是：我是一名大学生，财务状况一般。实际上，我每个月有 20 美元用于此，还有 30 多个我喜欢的项目。我应该怎么做？每个月专注于不同的项目？还是将其分成很细？对于后者，有没有什么平台可以帮助我？（例如，我可以选择我的预算和目标项目，只在一次交易中，这样收款方的交易费用就不会全部吃掉）。还有其他想法吗？    提交人    /u/SilentlyItchy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h2qg5w/how_to_donate_to_multiple_projects/</guid>
       <pubDate>Fri, 29 Nov 2024 17:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于去中心化网络和系统的输入</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h2bpps/input_on_decentralized_networks_and_systems/</link>
-      <description><![CDATA[我正在开发一个库来支持分布式和去中心化网络和通信，很像 Libp2p，但更侧重于自我修复和组织算法，以及共识机制。 如果可能的话，我想听听你在使用这样的库开发 dApp 时想要什么类型的功能的意见，因为我相信去中心化和 web3 有很多东西可以做，但尚未在库中实现。 请就此事提供评论和意见，以便我学习和更新我的路线图    提交人    /u/Critical_Pipe1134   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h2bpps/input_on_decentralized_networks_and_systems/</guid>
-      <pubDate>Fri, 29 Nov 2024 02:31:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

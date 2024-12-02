@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 01 Dec 2024 21:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 00:03:52 GMT</lastBuildDate>
+    <item>
+      <title>我和 GPT 成功制作出了这款时钟。我该如何让它更酷呢？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4hhsh/gpt_and_i_managed_to_slap_this_clock_together_how/</link>
+      <description><![CDATA[  由    /u/iCE_Teetee  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4hhsh/gpt_and_i_managed_to_slap_this_clock_together_how/</guid>
+      <pubDate>Mon, 02 Dec 2024 00:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，我有一个 Arduino 项目，我想通过 MIT App Inventor 开发的应用程序测量电压、电流和电阻，但我不知道该怎么做，也不知道我需要什么。我搜索了互联网，但没有找到任何相关信息。有人能帮我吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4f7j3/hello_i_have_an_arduino_project_where_i_want_to/</link>
+      <description><![CDATA[  由    /u/LostInSky1626  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4f7j3/hello_i_have_an_arduino_project_where_i_want_to/</guid>
+      <pubDate>Sun, 01 Dec 2024 22:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>新扩展</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4e1zd/new_extension/</link>
+      <description><![CDATA[立即安装Visual Studio Code 扩展 特点： 🚀 快速启动 Vue.js 前端和 Laravel 后端 💻 自动运行两个终端 (npm run dev 和 php artisan serve) 🔄 从状态栏轻松切换开始/停止 ⚡ 支持两种模式：Dev Serve 和 Vue Laravel 📁 灵活配置前端和后端文件夹 加入对话：https://whatsapp.com/channel/0029VajruV0Fcow1ma2uX00I/150    由   提交  /u/Ryoukaii22149   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4e1zd/new_extension/</guid>
+      <pubDate>Sun, 01 Dec 2024 21:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布 rust-query：使用 Rust 类型系统进行安全的关系数据库查询</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4dovu/announcing_rustquery_safe_relational_database/</link>
+      <description><![CDATA[rust-query 是 Rust 的一个新的类型安全数据库库，它通过与 Rust 的类型系统深度集成，为数据库操作提供编译时保证，而无需直接编写 SQL，从而提供了传统 SQL 的替代方案。该库具有显式表别名、通过 Rust 的 Option 类型实现的空安全、保证每个连接行单一结果的直观聚合、类型安全的外键导航和唯一查找、具有类型安全迁移的多版本架构支持以及与事务生存期绑定的封装行 ID，同时使用 SQLite 作为其后端数据库引擎。它允许开发人员编写感觉对 Rust 来说很原生的数据库查询，使用枚举语法定义的架构会生成必要的数据库 API 代码，从而通过强大的编译时检查实现安全直观的数据库交互。​​​​​​​​​​​​​​​​   由    /u/Balance-  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4dovu/announcing_rustquery_safe_relational_database/</guid>
+      <pubDate>Sun, 01 Dec 2024 21:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您难以在一小时内调试基础设施的 5 个关键原因 - Anyshift.io</title>
+      <link>https://www.reddit.com/r/programming/comments/1h4dkmf/5_key_reasons_youre_struggling_to_debug_your/</link>
+      <description><![CDATA[  由    /u/New_Detective_1363  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h4dkmf/5_key_reasons_youre_struggling_to_debug_your/</guid>
+      <pubDate>Sun, 01 Dec 2024 21:07:30 GMT</pubDate>
+    </item>
     <item>
       <title>一行代码如何每周节省 440GB……</title>
       <link>https://www.reddit.com/r/programming/comments/1h4c8kv/how_a_single_line_of_code_saved_440gb_a_week/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/Substantial-Hawk-919  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h400g0/postman_automation_testing_for_indepth_comparison/</guid>
       <pubDate>Sun, 01 Dec 2024 09:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>TidesDB - 开源高性能、耐用、事务性嵌入式键值存储引擎（BETA 版本）</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3yih8/tidesdb_opensource_highperformance_durable/</link>
-      <description><![CDATA[  由    /u/diagraphic  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3yih8/tidesdb_opensource_highperformance_durable/</guid>
-      <pubDate>Sun, 01 Dec 2024 08:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Strava API 和装满 M&M 的物联网狗食碗训练自己跑得更远</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3w9w7/i_trained_myself_to_run_farther_using_the_strava/</link>
-      <description><![CDATA[  由    /u/Rooftoptile2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3w9w7/i_trained_myself_to_run_farther_using_the_strava/</guid>
-      <pubDate>Sun, 01 Dec 2024 05:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>理论突破：自我修正如何增强 OpenAI o1 的推理能力</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3t710/theoretical_breakthrough_how_selfcorrection/</link>
-      <description><![CDATA[  由    /u/Several_Relation_920  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3t710/theoretical_breakthrough_how_selfcorrection/</guid>
-      <pubDate>Sun, 01 Dec 2024 02:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perl 降临节日历 2024 - 第 1 天 - 等待科琳娜时，作者 Ovid</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3qwyi/perl_advent_calendar_2024_day_1_while_youre/</link>
-      <description><![CDATA[  由    /u/oalders  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3qwyi/perl_advent_calendar_2024_day_1_while_youre/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Motoko 中构建正则表达式引擎第 3 部分：编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1h3qbtq/building_a_regex_engine_in_motoko_part_3_compiler/</link>
-      <description><![CDATA[  由    /u/Demali876  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h3qbtq/building_a_regex_engine_in_motoko_part_3_compiler/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:12:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
