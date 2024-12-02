@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Dec 2024 03:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 06:02:01 GMT</lastBuildDate>
+    <item>
+      <title>自动化标签管理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h4mt7r/automating_tab_management/</link>
+      <description><![CDATA[      您是否发现自己被多个项目中无数打开的标签淹没了？ AI Tab Organiser 可以节省您的时间并为您提供有组织的工作区，只需单击一下即可，免去了手动组织选项卡的麻烦。 主要特点 工作区创建：由相似性预测机器学习模型提供支持，自动将您的选项卡分组到有意义的工作区中。 轻松搜索：只需单击即可快速查找和切换工作区。标签保存：确保您的标签集合安全且井然有序。 它是如何工作的？ 分析标签 当您单击“分析标签”时按钮，扩展： •查看您当前打开的选项卡 •根据我们的机器学习算法预测的相似性对选项卡进行分组 •创建适合您的浏览习惯的工作区 工作区管理 •重命名工作区：单击工作区名称并键入新名称 •打开工作区：一键切换到特定的选项卡集 •删除工作区：删除不再需要的工作区    提交人    /u/MasterK0925   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h4mt7r/automating_tab_management/</guid>
+      <pubDate>Mon, 02 Dec 2024 04:31:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 应用程序可以接收 webhook 通知吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h4ltqc/android_app_to_receive_webhook_notifications/</link>
+      <description><![CDATA[嗨， 有人知道可以接收从我的 WordPress SMTP 插件发送的 webhook 通知的 Android 应用程序吗？ 我正在尝试接收任何可能发送失败的电子邮件的警报。    提交人    /u/SudoMason   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h4ltqc/android_app_to_receive_webhook_notifications/</guid>
+      <pubDate>Mon, 02 Dec 2024 03:37:10 GMT</pubDate>
+    </item>
     <item>
       <title>Google Podcast 关闭后 Android 版 Podcast 应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1h4k5dp/podcast_app_for_android_after_google_podcast/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Dapper-Courage-1498  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h36bl0/volunteer_work/</guid>
       <pubDate>Sat, 30 Nov 2024 06:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>键盘声音 — 为您的打字体验添加声音效果</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h32a3i/keyboard_sounds_add_sound_effects_to_your_typing/</link>
-      <description><![CDATA[  由    /u/MediocreAnywhere1221  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h32a3i/keyboard_sounds_add_sound_effects_to_your_typing/</guid>
-      <pubDate>Sat, 30 Nov 2024 02:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Squid 的 HMAC 签名进行基本身份验证</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</link>
-      <description><![CDATA[       由    /u/yarmak  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</guid>
-      <pubDate>Fri, 29 Nov 2024 23:45:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
