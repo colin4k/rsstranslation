@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Dec 2024 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 03:16:35 GMT</lastBuildDate>
+    <item>
+      <title>Google Podcast 关闭后 Android 版 Podcast 应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h4k5dp/podcast_app_for_android_after_google_podcast/</link>
+      <description><![CDATA[希望看看是否有播客听众/Android 用户可能有兴趣为这样的事情做出贡献。我是一个狂热的播客听众，在 Google Podcast 关闭后，其他选项确实有些不足。当然，我并不反对该应用程序也出现在 IOS 上，但他们已经有了 Apple Podcast，我想这消除了对它的需要。 我不太熟悉其他播客应用程序的工作原理，但我认为它们可以使用 API 来获取播客数据。我还假设有关用户收藏夹、收听历史等的所有其他信息都可以本地保存在设备上，以避免托管成本。 我是一名刚毕业的计算机科学毕业生，正在寻找我的第一份 SWE 工作。我认为这对我自己以及其他处于类似位置并有兴趣创建此类软件的人来说可能是对开源的一个很好的介绍。 如果这样的项目已经存在，我也很乐意为其做出贡献。    提交人    /u/boomkablamo   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h4k5dp/podcast_app_for_android_after_google_podcast/</guid>
+      <pubDate>Mon, 02 Dec 2024 02:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>typeconf：一个用于编写类型配置的 Typescript 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h4hnms/typeconf_a_typescript_tool_to_write_configs_with/</link>
+      <description><![CDATA[        提交人    /u/heraldev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h4hnms/typeconf_a_typescript_tool_to_write_configs_with/</guid>
+      <pubDate>Mon, 02 Dec 2024 00:07:31 GMT</pubDate>
+    </item>
     <item>
       <title>我无法为这个 repo 设置环境，请帮忙</title>
       <link>https://www.reddit.com/r/opensource/comments/1h4fkqv/i_cant_set_the_environment_up_for_this_repo_pls/</link>
@@ -125,25 +139,11 @@
       <pubDate>Sat, 30 Nov 2024 02:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>通过 HMAC 签名对 Squid 进行基本身份验证</title>
+      <title>通过 Squid 的 HMAC 签名进行基本身份验证</title>
       <link>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</link>
       <description><![CDATA[       由    /u/yarmak  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h2z92w/basic_auth_via_hmac_signatures_for_squid/</guid>
       <pubDate>Fri, 29 Nov 2024 23:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>YTSage：一款具有令人惊叹的 PyQt6 界面的现代 YouTube 下载器！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h2t1kw/ytsage_a_modern_youtube_downloader_with_a/</link>
-      <description><![CDATA[嗨，Reddit！🚀  我很高兴介绍YTSage，这是一款功能强大的 YouTube 下载器，采用简洁、现代的 PyQt6 界面设计。  YTSage 能做什么？ - 🎥 智能视频下载：自动合并最佳视频和音频。 - 🎵 音频提取：以您喜欢的格式下载纯音频文件。 - 📝 字幕支持：获取手动和自动生成的字幕。 - ℹ️ 视频元数据：显示观看次数、上传日期、时长等。 - 🖼️ 缩略图预览：下载前查看视频缩略图。 - 🎨 用户友好界面：简单易用。  为什么使用 YTSage？ 它基于 yt-dlp 构建，功能强大、速度快，并支持最新的 YouTube 功能。无论您需要保存高质量视频还是仅从您喜欢的内容中提取音频，YTSage 都能让一切变得简单！ 入门 您可以从 发布 页面下载适用于 Windows 的预构建可执行文件 - 无需安装！ 对于开发人员来说，源代码是开放的，构建您的版本很容易。查看存储库以获取详细说明。 屏幕截图 主界面 带有视频元数据和缩略图预览的主界面  字幕选项 支持手动和自动生成的字幕   我希望您尝试 YTSage 并分享您的反馈。如果您想让它变得更好，欢迎做出贡献！  🔗 在此处查看： GitHub 存储库    由   提交  /u/NO-N_A_M_E   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h2t1kw/ytsage_a_modern_youtube_downloader_with_a/</guid>
-      <pubDate>Fri, 29 Nov 2024 19:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何向多个项目捐款？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h2qg5w/how_to_donate_to_multiple_projects/</link>
-      <description><![CDATA[我有一个小型家庭实验室，主要由其他人的垃圾硬件组成，运行着许多开源服务。我想通过向创作者捐款来回馈他们，唯一的问题是：我是一名大学生，财务状况一般。实际上，我每个月有 20 美元用于此，还有 30 多个我喜欢的项目。我应该怎么做？每个月专注于不同的项目？还是将其分成很细？对于后者，有没有什么平台可以帮助我？（例如，我可以选择我的预算和目标项目，只在一次交易中，这样收款方的交易费用就不会全部吃掉）。还有其他想法吗？    提交人    /u/SilentlyItchy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h2qg5w/how_to_donate_to_multiple_projects/</guid>
-      <pubDate>Fri, 29 Nov 2024 17:08:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

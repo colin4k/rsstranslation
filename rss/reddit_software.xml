@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 02 Dec 2024 00:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 03:16:22 GMT</lastBuildDate>
+    <item>
+      <title>多年来，我一直在寻找一种真正将用户安全放在首位的云存储解决方案。</title>
+      <link>https://www.reddit.com/r/software/comments/1h4l9rd/for_years_i_have_been_looking_for_a_cloud_storage/</link>
+      <description><![CDATA[多年来，我一直在寻找一种真正将用户安全放在首位的云存储解决方案。许多用户依赖端到端加密，但后来才发现他们的提供商拥有访问数据的解密密钥，有了它，我做了一件我从未想过的事情：根据我对他们的信任程度，为他们提供对我数据的访问权限。随着FileLu 的安全单密码加密技术的出现，所有其他尝试都逐渐消失 - 这项技术在云存储安全游戏中没有留下任何灰色地带。 问题：传统云存储中的虚假安全感 到目前为止，对于许多云存储服务提供商来说，这似乎是一个令人感觉良好的提议，即他们据称通过端到端加密为我们提供传输和静止加密的安全性。这话有多真实？事实是，我们见过存储提供商确实有权访问解密密钥，从而访问您的数据，并且通常是数据泄露的罪魁祸首。对于像我这样的人来说，这个事实令人难以接受；如果其他人有解锁密钥，加密还有什么意义？ 解决方案：FileLu 的安全单密码加密 (SSCE) FileLu 现在，云存储游戏变得神奇了，这要归功于 FileLu 的 SSCE：扭转局面的下一代加密协议。它与传统模型不同，确保您（用户）并且只有您拥有解密文件的密钥。 FileLu 无法访问您的文件，使您的云存储具有独特的个性 请告诉我您正在使用什么工具进行安全存储？    提交人    /u/rasvi786   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h4l9rd/for_years_i_have_been_looking_for_a_cloud_storage/</guid>
+      <pubDate>Mon, 02 Dec 2024 03:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似于 Windows 版的 ImageToolbox 的东西？</title>
+      <link>https://www.reddit.com/r/software/comments/1h4kop8/something_like_imagetoolbox_for_windows/</link>
+      <description><![CDATA[ImageToolbox: https://github.com/T8RIN/ImageToolbox 基本上是一堆用于快速图像处理的工具，如拼接、裁剪、调整色相/饱和度、对比度、亮度、一些滤镜等。 来自其 github 的功能： 批处理 应用滤镜链（超过 230 种不同的滤镜） 可用滤镜 通过模板滤镜创建自定义滤镜 您可以从任何滤镜链创建滤镜 通过二维码共享创建的滤镜 从应用程序中扫描滤镜以将它们发送到您的设备 AES-256 GCM 无填充文件加密和解密 从图像中提取文本 120 多种语言 3 种数据类型：快速、标准、最佳分割模式选择 引擎模式选择 自定义 Tesseract 选项输入 同时输入多种语言 EXIF 元数据编辑/删除 从互联网加载图像图像拼接 图像堆叠 图像分割 背景去除 通过绘图 自动加水印 通过文本 通过图像 在图像/背景上绘图 笔 霓虹灯荧光笔 隐私模糊像素化 油漆文本 图像画笔 滤镜画笔 污点修复 箭头线 双箭头线箭头双线箭头 轮廓矩形 轮廓椭圆 轮廓三角形 轮廓多边形 轮廓星形矩形 椭圆三角形 多边形 星形 套索 线条样式 虚线点 虚线曲折 印章 图像调整大小 宽度变化 高度变化 自适应调整大小 调整大小保持纵横比 按给定限制调整大小 中心裁剪并改变背景颜色 背景模糊绘制 不同的缩放算法  不如 Photoshop 那么全面，但提供的工具非常完整，就像图像的瑞士军刀一样。 在任何人建议 ImageMagick 或其他 CLI 软件之前，请允许我先说一下，我想要一个带有 GUI 的，非常感谢。   由    /u/ikantolol  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h4kop8/something_like_imagetoolbox_for_windows/</guid>
+      <pubDate>Mon, 02 Dec 2024 02:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个游戏化的任务管理器，因为常规的待办事项应用程序很无聊</title>
+      <link>https://www.reddit.com/r/software/comments/1h4izpo/i_made_a_gamified_task_manager_because_regular/</link>
+      <description><![CDATA[查看：https://smart-listapp.vercel.app/ 主要特点：  基于 XP 的任务完成 - 更难的任务获得更多积分。 具有里程碑通知和动态升级系统；连胜追踪 徽章系统可解锁不同的成就 提前完成可获得 XP 奖励，逾期完成任务将受到惩罚 全球排行榜可激发竞争动力（完全可选，您可以随时“加入”和“退出”）。 Google OAuth 集成 跨设备同步（数据跨设备持久保存） 访客用户（数据保存到本地存储）和经过身份验证的用户（允许数据同步）  欢迎提出任何建议/改进！🫡    提交人    /u/Relevant_Bird_7347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h4izpo/i_made_a_gamified_task_manager_because_regular/</guid>
+      <pubDate>Mon, 02 Dec 2024 01:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>宏录制器替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1h4i6l2/macro_recorder_alterative/</link>
+      <description><![CDATA[我正在寻找宏记录器的替代品，因为我买不起它。我专门寻找一种可以查找特定颜色的像素然后引发动作或者查找屏幕的一小部分并引发动作的东西    提交人    /u/No-Pie-1112   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h4i6l2/macro_recorder_alterative/</guid>
+      <pubDate>Mon, 02 Dec 2024 00:32:37 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个 Windows 程序来压缩臃肿的应用程序，并恢复了 SSD 上的 70GB</title>
       <link>https://www.reddit.com/r/software/comments/1h4cvac/i_created_a_program_for_windows_to_compress/</link>
@@ -55,13 +83,6 @@
       <pubDate>Sun, 01 Dec 2024 13:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 用户评选的最佳 VPN 服务？</title>
-      <link>https://www.reddit.com/r/software/comments/1h42dfq/best_vpn_service_according_to_reddit_users/</link>
-      <description><![CDATA[  由    /u/Small-Ship7883  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h42dfq/best_vpn_service_according_to_reddit_users/</guid>
-      <pubDate>Sun, 01 Dec 2024 12:36:59 GMT</pubDate>
-    </item>
-    <item>
       <title>谁能帮我找到适合我的 Xstrike me 鼠标的软件？</title>
       <link>https://www.reddit.com/r/software/comments/1h42apy/can_anyone_help_me_find_the_software_for_my/</link>
       <description><![CDATA[这是 Xtrike Me GM-415    由   提交  /u/XoXoxFarhan   [链接] [评论]]]></description>
@@ -99,7 +120,7 @@
     <item>
       <title>管理保存</title>
       <link>https://www.reddit.com/r/software/comments/1h3vp6o/managing_saves/</link>
-      <description><![CDATA[有没有办法管理来自 insta 线程 fb 和其他网站的保存？我曾经看到过一个 AI，也许有，但我记不清了！    提交人    /u/Sonulob   [link] [comments]]]></description>
+      <description><![CDATA[有没有办法管理来自 insta 线程 fb 和其他网站的保存？我曾经看到过一个 AI，也许可以，但我记不起来了！    提交人    /u/Sonulob   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h3vp6o/managing_saves/</guid>
       <pubDate>Sun, 01 Dec 2024 05:00:17 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在寻找与此类似的程序。 我有两个剪辑，剪辑 A 和剪辑 B。 剪辑 A 是吉他音乐，剪辑 B 是鼓音乐。 我将剪辑 A 和剪辑 B 都放入程序中，程序将生成从吉他到鼓的音频过渡，听起来像自然的进展。 有类似的东西吗？    提交人    /u/SeaThePirate   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h3m2o2/soundclip_ai_merging/</guid>
       <pubDate>Sat, 30 Nov 2024 20:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>是我错了还是“文件”权限对于文件资源管理器来说太多了？</title>
-      <link>https://www.reddit.com/r/software/comments/1h3kumt/am_i_trippin_or_are_files_permission_too_much_for/</link>
-      <description><![CDATA[我正在尝试安装文件，因为我厌倦了 Windows 的文件资源管理器不断发疯: https://preview.redd.it/d08omoqhf34e1.png?width=3533&amp;format=png&amp;auto=webp&amp;s=72719528d9075ba321e1f5d99800cffc51976957 但是当我尝试安装它要求的文件： https://preview.redd.it/36srqiaqf34e1.png?width=958&amp;format=png&amp;auto=webp&amp;s=915e03a7624fba3760118cb5c329919b1584506c 我知道它是一个文件资源管理器，需要广泛的权限才能按预期工作，但这些不是有点太多了？我认为它基本上拥有所有可能的权限，还是我无缘无故地偏执？    提交人    /u/LoayTattan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h3kumt/am_i_trippin_or_are_files_permission_too_much_for/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:56:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以帮我保管钥匙的软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1h3ic5d/is_there_a_software_that_can_hold_keys_for_me/</link>
-      <description><![CDATA[我需要一个可以无限期地为我保留 Enter 键的软件（不反复点击）我在 Windows 11 上    提交人    /u/Hashe123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h3ic5d/is_there_a_software_that_can_hold_keys_for_me/</guid>
-      <pubDate>Sat, 30 Nov 2024 18:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全购买</title>
-      <link>https://www.reddit.com/r/software/comments/1h3fkni/safe_purchases/</link>
-      <description><![CDATA[我刚刚开始我的 IT/编码/网络安全之旅 我没有任何背景知识 我刚刚开始了解坏 USB 和假充电线 为了省钱，我倾向于购买几乎所有东西的无名品牌 刚刚从亚马逊订购了几个 USB 驱动器和读卡器，当然它们没有名气，但有很多评论 如何确保我没有插入坏 USB？ 这应该是一个问题吗？还是在从已知来源订购时这种情况极不可能发生？ 有没有办法检查？    提交人    /u/Atmosphere_Eater   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h3fkni/safe_purchases/</guid>
-      <pubDate>Sat, 30 Nov 2024 15:59:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
