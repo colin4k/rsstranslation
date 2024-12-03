@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Dec 2024 06:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 09:02:03 GMT</lastBuildDate>
+    <item>
+      <title>访问 Uber Eats、Door Dash、Grub Hub 餐厅点评 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5ihj0/access_uber_eats_door_dash_grub_hub_restaurant/</link>
+      <description><![CDATA[我想检索餐厅的客户评论。是否存在提供访问这些评论的 API，最好使用 OAuth 2.0。    提交人    /u/polodisd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5ihj0/access_uber_eats_door_dash_grub_hub_restaurant/</guid>
+      <pubDate>Tue, 03 Dec 2024 07:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个机器人棋盘</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5ic0e/i_made_a_robotic_chess_board/</link>
+      <description><![CDATA[已经研究了一段时间，使用 raspberry pi 并用 python 编码。棋盘使用一些磁铁自动与您对弈，有关项目网站的更多信息，请参阅所附链接。     提交人    /u/Lower_Ad530   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5ic0e/i_made_a_robotic_chess_board/</guid>
+      <pubDate>Tue, 03 Dec 2024 07:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“如何”进行代码审查的文章已经很多，但“何时”进行代码审查呢？是在合并到主干之前还是之后？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5hymd/much_has_been_written_about_how_to_do_code/</link>
+      <description><![CDATA[  由    /u/awesomealchemy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5hymd/much_has_been_written_about_how_to_do_code/</guid>
+      <pubDate>Tue, 03 Dec 2024 07:20:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>遗留安全：弗罗茨瓦夫 C++ 会议</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5hf3z/legacy_safety_the_wrocław_c_meeting/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5hf3z/legacy_safety_the_wrocław_c_meeting/</guid>
+      <pubDate>Tue, 03 Dec 2024 06:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>GCP 上的欺诈检测数据管道 (ETL)</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5hcpz/fraud_detection_data_pipeline_etl_on_gcp/</link>
+      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5hcpz/fraud_detection_data_pipeline_etl_on_gcp/</guid>
+      <pubDate>Tue, 03 Dec 2024 06:37:47 GMT</pubDate>
+    </item>
     <item>
       <title>Ecto = 数据库 + Elixir</title>
       <link>https://www.reddit.com/r/programming/comments/1h5gar6/ecto_bases_de_datos_elixir/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/Hiresh1206  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h4xg1p/join_tynet_20_empowering_women_in_tech_through_a/</guid>
       <pubDate>Mon, 02 Dec 2024 15:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>再见 Make 和 Shell，你好... Python？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4wwnm/goodbye_make_and_shell_hello_python/</link>
-      <description><![CDATA[  由    /u/chillysurfer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4wwnm/goodbye_make_and_shell_hello_python/</guid>
-      <pubDate>Mon, 02 Dec 2024 15:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年的 SQL 注入 - 不会消失的漏洞</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4wm6a/sql_injection_in_2024_the_vulnerability_that_wont/</link>
-      <description><![CDATA[  由    /u/Advocatemack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4wm6a/sql_injection_in_2024_the_vulnerability_that_wont/</guid>
-      <pubDate>Mon, 02 Dec 2024 14:49:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>ContainerScript：用于以编程方式将 URL 分配给容器的 Firefox 插件。</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4vn7q/containerscript_firefox_addon_for/</link>
-      <description><![CDATA[  由    /u/br1ghtsid3  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4vn7q/containerscript_firefox_addon_for/</guid>
-      <pubDate>Mon, 02 Dec 2024 14:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>更好、更快的 Python 项目：深入探究 uv</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4vcqh/better_faster_python_projects_a_deep_dive_into_uv/</link>
-      <description><![CDATA[  由    /u/czue13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4vcqh/better_faster_python_projects_a_deep_dive_into_uv/</guid>
-      <pubDate>Mon, 02 Dec 2024 13:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>航天飞机圣诞代码搜寻 '24 - Rust 风格 AoC 挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4usv7/shuttle_christmas_code_hunt_24_rust_style_aoc/</link>
-      <description><![CDATA[  由    /u/openquery  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4usv7/shuttle_christmas_code_hunt_24_rust_style_aoc/</guid>
-      <pubDate>Mon, 02 Dec 2024 13:20:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

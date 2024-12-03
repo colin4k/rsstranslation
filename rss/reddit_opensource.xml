@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Dec 2024 06:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 09:02:09 GMT</lastBuildDate>
+    <item>
+      <title>我需要一个 PDF 编辑器，但不需要 OCR 或类似的东西，只需要转换为图像、组织页面等基本功能。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5hcdy/i_need_a_pdf_editor_but_i_dont_need_ocr_or/</link>
+      <description><![CDATA[  由    /u/ThaisaGuilford  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5hcdy/i_need_a_pdf_editor_but_i_dont_need_ocr_or/</guid>
+      <pubDate>Tue, 03 Dec 2024 06:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 LLM 网关和 API Hub 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5gwg5/opensource_llm_gateway_and_api_hub_project/</link>
+      <description><![CDATA[AI相关产品的LLM调用成本仍然相对较高，集成多个LLM并根据API成本和具体业务需求动态选择合适的LLM变得越来越重要。这就是我们创建APIPark的原因，它是一个开源的LLM网关和API中心。我们的目标是帮助开发者简化这一过程。  Github： https://github.com/APIParkLab/APIPark  使用 APIPark，您可以在单个平台上调用多个 LLM，同时将提示和 AI 工作流转换为 API，然后可以与内部或外部用户共享。 我们计划在未来推出更多功能，您的反馈对我们意义重大。    提交人    /u/Vast-Witness-7651   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5gwg5/opensource_llm_gateway_and_api_hub_project/</guid>
+      <pubDate>Tue, 03 Dec 2024 06:07:49 GMT</pubDate>
+    </item>
     <item>
       <title>我为 Windows 制作了一个简单的屏幕录像程序，因为我怀念在 MacBook 上截屏的简单性。它有 3 个按钮，你可以选择要录制的屏幕区域。这是我的第一个开源软件版本，我希望我做得对！</title>
       <link>https://www.reddit.com/r/opensource/comments/1h5ew3c/i_made_a_simple_screen_recorder_program_for/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我正在寻找免费开源软件的推荐，该软件允许员工通过扫描 NFC 标签使用手机打卡上下班。有人有这样的经验吗？    提交人    /u/ok_Caraculo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h3n9hd/nfc_time_tracking_foss_options/</guid>
       <pubDate>Sat, 30 Nov 2024 21:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源事件聚合器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3ljze/open_source_event_aggregator/</link>
-      <description><![CDATA[嗨！ 我正在寻找构建或寻找事件聚合器 - 基本上是获取链接列表（如此 Notion doc），但在其上添加一些基本的 UI 功能，例如按类别进行过滤。如果您查看类似 Luma 的内容，它允许您订阅日历/收藏夹，获取事件新闻提要，并享受使用它的绝妙体验。我很想看看是否可以通过无代码构建一些简单的东西，或者是否存在某些东西而我只是没有看到它。  谢谢！   由    /u/justanotherlostgirl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3ljze/open_source_event_aggregator/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>STELLA DIY 乐器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3kyor/stella_diy_instruments/</link>
-      <description><![CDATA[STELLA DIY 开源教育工具通过可扩展的真实 STEM 体验帮助培养未来的工程师和科学家。  STELLA 通过指导您如何构建自己的光谱仪、空气质量或太阳物理仪器，使地球观测和仪器概念更加易于理解和接受！  “能够将仪器握在手中并自行进行测量，这让 STELLA 变得很有价值。” - Allison Leidner，NASA 零件清单、如何构建它们、对它们进行编程以及如何收集和分析数据都可以在网站上找到。  STELLA 网站：https://landsat.gsfc.nasa.gov/stella/ 想加入扩大 STELLA 可能性的行列吗？看看我们的社区论坛！  提出想法，修改你的 STELLA，与社区合作，排除设备故障或询问你迫切需要的 STELLA 问题！ STELLA 社区论坛： https://github.com/STELLA-Landsat/STELLA/discussions NASA #Goddard #Landsat #STELLA #STEM    提交人    /u/yannienyahum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3kyor/stella_diy_instruments/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
