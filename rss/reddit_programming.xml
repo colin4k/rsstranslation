@@ -4,20 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Dec 2024 00:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 06:02:21 GMT</lastBuildDate>
+    <item>
+      <title>Ecto = 数据库 + Elixir</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5gar6/ecto_bases_de_datos_elixir/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5gar6/ecto_bases_de_datos_elixir/</guid>
+      <pubDate>Tue, 03 Dec 2024 05:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>TIL：Auth 提供商更新 - 比较 Supabase、Firebase、Auth.js、Ory、Clerk 和其他提供商的 Auth</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5fnqh/til_auth_provider_updates_comparing_auth_from/</link>
+      <description><![CDATA[  由    /u/Suspicious_Market561  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5fnqh/til_auth_provider_updates_comparing_auth_from/</guid>
+      <pubDate>Tue, 03 Dec 2024 04:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎯 刚刚发布：CLI 习惯追踪器 - 养成更好习惯的简单工具！🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5fkuu/just_released_cli_habit_tracker_a_simple_tool_to/</link>
+      <description><![CDATA[  由    /u/No_Nefariousness9830  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5fkuu/just_released_cli_habit_tracker_a_simple_tool_to/</guid>
+      <pubDate>Tue, 03 Dec 2024 04:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>造成千年虫问题的真正原因是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5cc10/what_really_caused_the_y2k_bug/</link>
+      <description><![CDATA[  由    /u/nicbarkeragain  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5cc10/what_really_caused_the_y2k_bug/</guid>
+      <pubDate>Tue, 03 Dec 2024 01:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Freenet 如何在高度分布式系统中处理一致性（附交互式插图）</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5c3zr/how_freenet_handles_consistency_in_a_highly/</link>
+      <description><![CDATA[  由    /u/sanity  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5c3zr/how_freenet_handles_consistency_in_a_highly/</guid>
+      <pubDate>Tue, 03 Dec 2024 01:45:52 GMT</pubDate>
+    </item>
     <item>
       <title>延迟和系统设计</title>
       <link>https://www.reddit.com/r/programming/comments/1h58cml/latency_and_system_design/</link>
       <description><![CDATA[  由    /u/Martynoas  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h58cml/latency_and_system_design/</guid>
       <pubDate>Mon, 02 Dec 2024 22:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试在 Roblox 中实现一个跟随我的 AI，但我不知道怎么做。它必须在本地运行，而不是在特定游戏中运行。我希望我的 alt 跟随我。请帮忙。我什么都不懂，所以我不能自己编写代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1h588o9/im_trying_to_get_my_hands_on_an_ai_that_follows/</link>
-      <description><![CDATA[  由    /u/Dapper-Function-6839  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h588o9/im_trying_to_get_my_hands_on_an_ai_that_follows/</guid>
-      <pubDate>Mon, 02 Dec 2024 22:48:07 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个 brainrot 版本的 Python</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/openquery  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h4usv7/shuttle_christmas_code_hunt_24_rust_style_aoc/</guid>
       <pubDate>Mon, 02 Dec 2024 13:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Flutter 构建仿 Mac Dock</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4u4j2/build_an_imitation_mac_dock_with_flutter/</link>
-      <description><![CDATA[  由   提交  /u/Only_Piccolo5736   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4u4j2/build_an_imitation_mac_dock_with_flutter/</guid>
-      <pubDate>Mon, 02 Dec 2024 12:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能生成的代码会让你成为一名糟糕的程序员</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4r995/using_ai_generated_code_will_make_you_a_bad/</link>
-      <description><![CDATA[  由    /u/Comfortable-Site8626  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4r995/using_ai_generated_code_will_make_you_a_bad/</guid>
-      <pubDate>Mon, 02 Dec 2024 09:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 JavaScript 中的 DOM：动态 Web 交互指南 - Makemychance</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4qugi/understanding_the_dom_in_javascript_a_guide_to/</link>
-      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4qugi/understanding_the_dom_in_javascript_a_guide_to/</guid>
-      <pubDate>Mon, 02 Dec 2024 09:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件架构、设计思维和知识流 • Diana Montalion 和 Kris Jenkins</title>
-      <link>https://www.reddit.com/r/programming/comments/1h4qqov/software_architecture_design_thinking_knowledge/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h4qqov/software_architecture_design_thinking_knowledge/</guid>
-      <pubDate>Mon, 02 Dec 2024 08:52:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
