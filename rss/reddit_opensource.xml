@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Dec 2024 12:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 18:02:31 GMT</lastBuildDate>
+    <item>
+      <title>打开产品-想法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5o49j/open_product_thoughts/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5o49j/open_product_thoughts/</guid>
+      <pubDate>Tue, 03 Dec 2024 14:04:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSequencer 扩展截屏视频 009</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5nipv/gsequencer_extended_screencast_009/</link>
+      <description><![CDATA[        提交人    /u/joel2001k   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5nipv/gsequencer_extended_screencast_009/</guid>
+      <pubDate>Tue, 03 Dec 2024 13:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于实施角色和权限的灵活工具：与语言无关、无状态、SDK 支持所有流行语言。刚刚超过 3333 颗星！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5nd2b/flexible_tool_for_implementing_roles_permissions/</link>
+      <description><![CDATA[        提交者    /u/West-Chard-1474   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5nd2b/flexible_tool_for_implementing_roles_permissions/</guid>
+      <pubDate>Tue, 03 Dec 2024 13:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用新的 GitHub 安全开源基金提高开源安全性</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5n59d/improving_open_source_security_with_the_new/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   ​​[链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5n59d/improving_open_source_security_with_the_new/</guid>
+      <pubDate>Tue, 03 Dec 2024 13:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>BunBuster：一款速度超快的 Web 和 TCP 模糊测试器，专为暴力破解 Web 服务器上的目录、子域和文件而设计。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5mtiq/bunbuster_a_ridiculously_fast_web_tcp_fuzzer/</link>
+      <description><![CDATA[        提交人    /u/tiagorangel2011   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5mtiq/bunbuster_a_ridiculously_fast_web_tcp_fuzzer/</guid>
+      <pubDate>Tue, 03 Dec 2024 12:59:00 GMT</pubDate>
+    </item>
     <item>
       <title>开源 LLM 网关和 API Hub 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1h5gwg5/opensource_llm_gateway_and_api_hub_project/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[        提交人    /u/Super_Dependent_2978   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h47000/noema_a_declarative_ai_programming_library/</guid>
       <pubDate>Sun, 01 Dec 2024 16:27:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>html2llm - 检测 LLM 的网页元素，我将 OmniParser 的一部分迁移到 WebAssembly，该项目允许在浏览器中解析网站上的可见内容</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h42fv3/html2llm_detect_elements_on_webpage_for_llms_i/</link>
-      <description><![CDATA[        提交人    /u/b4rtaz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h42fv3/html2llm_detect_elements_on_webpage_for_llms_i/</guid>
-      <pubDate>Sun, 01 Dec 2024 12:41:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 密码容器与 Keepass</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3y2d6/firefox_password_container_vs_keepass/</link>
-      <description><![CDATA[有了好的主密钥并通过帐户同步，Firefox 密码是否像任何 Keepass 解决方案一样安全？您登录的所有操作中有 90% 实际上都是通过浏览器完成的……    提交人    /u/NewspaperEcstatic884   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3y2d6/firefox_password_container_vs_keepass/</guid>
-      <pubDate>Sun, 01 Dec 2024 07:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>TidesDB - 高性能、事务性、持久性、嵌入式键值存储引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3qurw/tidesdb_high_performance_transactional_durable/</link>
-      <description><![CDATA[大家好，希望你们都过得好。我想介绍一下 TidesDB，这是我大约一个月前开始开发的开源键值存储引擎。它与 RocksDB 相当，但具有完全不同的设计和实现——完全没有从其他基于 LSM 树的存储引擎中借鉴任何东西。 我是一名充满激情的工程师，热爱并痴迷于数据库。我创建了多个开源数据库，例如 CursusDB、K4、LSMT、ChromoDB、AriaSQL 以及现在的 TidesDB！ TidesDB 的目标是构建一个可以轻松绑定到任何编程语言的低级库，同时也是多平台的，并提供卓越的速度和耐用性保证。用 C 编写，保持简单并避免复杂性，目标是成为最快的键值存储引擎（持久化）。  请注意，TidesDB 仍处于 beta 开发阶段，但初始版本即将发布。我预计它将在未来一两天内准备就绪。 以下是一些当前功能   并发多个线程可以读取和写入存储引擎。跳跃列表使用 RW 锁，这意味着多个读取器和一个真正的写入器。SSTable 是经过排序的、不可变的，可以同时读取它们通过页面锁进行保护。  列系列将数据存储在单独的键值存储中。  原子事务以原子方式提交或回滚多个操作。  游标向前和向后迭代键值对。（正在努力：P）  WAL预写日志以确保持久性。随着操作被附加，一旦持久化到 sstable，它们也会在特定点被截断。  多线程压缩手动多线程配对和合并 sstable 压缩。运行时例如 10 个 sstable 压缩为 5 个配对和合并。每个线程负责一对 - 您可以设置用于压缩的线程数。  后台刷新内存表刷新被排队然后在后台刷新。  链式布隆过滤器通过读取 sstable 的初始页面来检查密钥的存在，从而减少磁盘读取。布隆过滤器使用链接和链接随着 sstable 的大小而增长。  Zstandard 压缩压缩是使用 Zstandard 实现的。 SStable 条目可以像 WAL 条目一样被压缩。  TTL 键值对的生存时间。  可配置 可以为引擎和列族配置许多选项。  错误处理 大多数函数返回错误代码。  简便的 API 简单易用的 api  我很乐意听取您的想法、问题、想法等。 感谢您查看我的帖子！！ TidesDB 的 Repo 如下 🌊 https://github.com/tidesdb/tidesdb  亚历克斯    由    /u/diagraphic  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3qurw/tidesdb_high_performance_transactional_durable/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>NFC 时间跟踪 - FOSS 选项？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3n9hd/nfc_time_tracking_foss_options/</link>
-      <description><![CDATA[大家好，我正在寻找免费开源软件的推荐，该软件允许员工通过扫描 NFC 标签使用手机打卡上下班。有人有这样的经验吗？    提交人    /u/ok_Caraculo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3n9hd/nfc_time_tracking_foss_options/</guid>
-      <pubDate>Sat, 30 Nov 2024 21:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源事件聚合器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3ljze/open_source_event_aggregator/</link>
-      <description><![CDATA[嗨！ 我正在寻找构建或寻找事件聚合器 - 基本上是获取链接列表（如此 Notion doc），但在其上添加一些基本的 UI 功能，例如按类别进行过滤。如果您查看类似 Luma 的内容，它允许您订阅日历/收藏夹，获取事件新闻提要，并享受使用它的绝妙体验。我很想看看是否可以通过无代码构建一些简单的东西，或者是否存在某些东西而我只是没有看到它。  谢谢！   由    /u/justanotherlostgirl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3ljze/open_source_event_aggregator/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:28:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
