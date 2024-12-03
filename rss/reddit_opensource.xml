@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Dec 2024 21:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:03:56 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个游戏化的任务管理器，因为常规的待办事项应用程序很无聊</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h55uec/i_made_a_gamified_task_manager_because_regular/</link>
+      <description><![CDATA[查看：https://smart-listapp.vercel.app/ 主要特点：  基于 XP 的任务完成 - 更难的任务获得更多积分。 快速添加选项，使用默认 XP 设置快速添加任务 具有里程碑通知和动态升级系统；连胜追踪 徽章系统可解锁不同的成就 提前完成可获得 XP 奖励，逾期完成任务将受到惩罚 全球排行榜可激发竞争动力（完全可选，您可以随时“加入”和“退出”）。 Google OAuth 集成 跨设备同步（数据跨设备持久保存） 访客用户（数据保存到本地存储）和经过身份验证的用户（允许数据同步）  欢迎提出任何建议/改进！🫡 欢迎查看源代码并做出贡献（链接在应用程序上），也可以考虑加星标以提高知名度！非常感谢    提交人    /u/Relevant_Bird_7347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h55uec/i_made_a_gamified_task_manager_because_regular/</guid>
+      <pubDate>Mon, 02 Dec 2024 21:08:28 GMT</pubDate>
+    </item>
     <item>
       <title>Linkwarden 已超过 9000 颗星！⭐️ 一个开源的协作书签管理器，用于收集、组织和保存网页、文章等……</title>
       <link>https://www.reddit.com/r/opensource/comments/1h51cwa/linkwarden_passed_9000_stars_an_opensource/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[STELLA DIY 开源教育工具通过可扩展的真实 STEM 体验帮助培养未来的工程师和科学家。  STELLA 通过指导您如何构建自己的光谱仪、空气质量或太阳物理仪器，使地球观测和仪器概念更加易于理解和接受！  “能够将仪器握在手中并自行进行测量，这让 STELLA 变得很有价值。” - Allison Leidner，NASA 零件清单、如何构建它们、对它们进行编程以及如何收集和分析数据都可以在网站上找到。  STELLA 网站：https://landsat.gsfc.nasa.gov/stella/ 想加入扩大 STELLA 可能性的行列吗？看看我们的社区论坛！  提出想法，修改你的 STELLA，与社区合作，排除设备故障或询问你迫切需要的 STELLA 问题！ STELLA 社区论坛： https://github.com/STELLA-Landsat/STELLA/discussions NASA #Goddard #Landsat #STELLA #STEM    提交人    /u/yannienyahum   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h3kyor/stella_diy_instruments/</guid>
       <pubDate>Sat, 30 Nov 2024 20:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的桌面 UI 框架是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h3jehp/what_is_the_best_ui_framework_for_desktop/</link>
-      <description><![CDATA[我每天都用 Windows，我想要一些容易学习和使用的东西    提交人    /u/Limp_Replacement_596   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h3jehp/what_is_the_best_ui_framework_for_desktop/</guid>
-      <pubDate>Sat, 30 Nov 2024 18:50:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
