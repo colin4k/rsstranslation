@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Dec 2024 18:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 21:01:46 GMT</lastBuildDate>
+    <item>
+      <title>你听说过 F# 吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5xyg9/have_you_heard_of_f/</link>
+      <description><![CDATA[  由    /u/JustCode101  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5xyg9/have_you_heard_of_f/</guid>
+      <pubDate>Tue, 03 Dec 2024 20:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>模型过度拟合的诊断清单（来自 10 多年的咨询经验）</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5xlhu/diagnostic_checklist_for_model_overfitting_from/</link>
+      <description><![CDATA[  由    /u/jasonb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5xlhu/diagnostic_checklist_for_model_overfitting_from/</guid>
+      <pubDate>Tue, 03 Dec 2024 20:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经开发这个调度 SAAS 三个月了，我很想听听你的想法</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5vxqk/ive_been_developing_this_scheduling_saas_for_3/</link>
+      <description><![CDATA[  由    /u/Gabeciii  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5vxqk/ive_been_developing_this_scheduling_saas_for_3/</guid>
+      <pubDate>Tue, 03 Dec 2024 19:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>mattwparas/steel：Rust 中的嵌入式方案解释器</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5v6r5/mattwparassteel_an_embedded_scheme_interpreter_in/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5v6r5/mattwparassteel_an_embedded_scheme_interpreter_in/</guid>
+      <pubDate>Tue, 03 Dec 2024 19:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Slack 统一网格、CQRS 模式以及分布式系统中的架构风险的见解</title>
+      <link>https://www.reddit.com/r/programming/comments/1h5v2k1/insights_on_slacks_unified_grid_cqrs_patterns_and/</link>
+      <description><![CDATA[  由    /u/moeinxyz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h5v2k1/insights_on_slacks_unified_grid_cqrs_patterns_and/</guid>
+      <pubDate>Tue, 03 Dec 2024 19:00:48 GMT</pubDate>
+    </item>
     <item>
       <title>工程师在建立账本时不会犯创业错误</title>
       <link>https://www.reddit.com/r/programming/comments/1h5t6wi/engineers_do_not_get_to_make_startup_mistakes/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/moumensoliman  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h5m0sh/simple_meal_planner_ai_add_calorie_and_get_meal/</guid>
       <pubDate>Tue, 03 Dec 2024 12:12:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>微服务中的监控和可观察性的价值及相关挑战（数据孤岛的交互、可扩展性、缺乏标准工具）</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5l4r4/the_value_of_monitoring_and_observability_in/</link>
-      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5l4r4/the_value_of_monitoring_and_observability_in/</guid>
-      <pubDate>Tue, 03 Dec 2024 11:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍模型上下文协议</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5l2zl/introducing_the_model_context_protocol/</link>
-      <description><![CDATA[  由    /u/woltan_4  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5l2zl/introducing_the_model_context_protocol/</guid>
-      <pubDate>Tue, 03 Dec 2024 11:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>摆脱编程项目的焦虑</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5kp06/freeing_myself_from_programming_project_anxieties/</link>
-      <description><![CDATA[  由    /u/the_nifty_programmer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5kp06/freeing_myself_from_programming_project_anxieties/</guid>
-      <pubDate>Tue, 03 Dec 2024 10:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个机器人棋盘</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5ic0e/i_made_a_robotic_chess_board/</link>
-      <description><![CDATA[已经研究了一段时间，使用 raspberry pi 并用 python 编码。棋盘使用一些磁铁自动与您对弈，有关项目网站的更多信息，请参阅所附链接。     提交人    /u/Lower_Ad530   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5ic0e/i_made_a_robotic_chess_board/</guid>
-      <pubDate>Tue, 03 Dec 2024 07:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于“如何”进行代码审查的文章已经很多，但“何时”进行代码审查呢？是在合并到主干之前还是之后？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5hymd/much_has_been_written_about_how_to_do_code/</link>
-      <description><![CDATA[  由    /u/awesomealchemy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5hymd/much_has_been_written_about_how_to_do_code/</guid>
-      <pubDate>Tue, 03 Dec 2024 07:20:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
