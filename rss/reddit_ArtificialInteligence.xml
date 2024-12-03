@@ -3,8 +3,50 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 03 Dec 2024 09:01:40 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 03 Dec 2024 12:01:59 GMT</lastBuildDate>
+    <item>
+      <title>人工智能会降低还是增加错误招聘的风险？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5lmh2/will_ai_reduce_or_increase_the_risk_of_bad_hires/</link>
+      <description><![CDATA[聘用错误的候选人可能会付出高昂代价，最高可达员工年薪的 200% 错误聘用的成本：如何最大限度降低错误聘用的风险，ETHRWorld 你在招聘中使用过 AI 工具吗？它们的表现如何？    提交人    /u/Sam_thefreelancer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5lmh2/will_ai_reduce_or_increase_the_risk_of_bad_hires/</guid>
+      <pubDate>Tue, 03 Dec 2024 11:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果 LLM 是人类大脑中编码的更复杂模式的有损统计导数，那么如何进行更深入的挖掘？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5lcja/how_to_mine_deeper_if_llms_are_the_lossy/</link>
+      <description><![CDATA[LLM 是人类大脑中编码的更深层、更复杂模式的有损统计导数。自然语言会过滤掉或丢失人类认知模式的大部分复杂性，例如提到的每个对象的时空关系。如果这些信息在自然语言中大部分都丢失了，我们如何在非自然语言数据上训练 LLM，我们如何重现大脑的认知模式？我们必须从大脑收集数据，还是必须在虚拟物理“世界”模型中映射和重现现实？    提交人    /u/custodiam99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5lcja/how_to_mine_deeper_if_llms_are_the_lossy/</guid>
+      <pubDate>Tue, 03 Dec 2024 11:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字爱情还是危险的痴迷？人工智能伴侣应用的隐患</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5l7q8/digital_love_or_dangerous_obsession_the_hidden/</link>
+      <description><![CDATA[关键要点  埃里克·施密特 (Eric Sc​​hmidt) 警告称，人工智能伴侣可能会阻碍孤独年轻男性的情感成长，并增加其激进化风险； 教育差距和社会斗争促使一些男性对人工智能产生依赖，造成痴迷和不健康依恋的风险； 父母必须保持警惕，因为先进的人工智能会让年轻用户面临复杂且可能有害的影响。  来源：https://news.bitdegree.org/digital-love-or-dangerous-obsession-the-hidden-risks-of-ai-companions?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-digital-love-or-dangerous-obsession    提交人    /u/webbs3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5l7q8/digital_love_or_dangerous_obsession_the_hidden/</guid>
+      <pubDate>Tue, 03 Dec 2024 11:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您无需成为一名工程师即可像专业人士一样获得法学硕士学位。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5l7ad/you_dont_need_to_be_an_engineer_to_prompt_llms/</link>
+      <description><![CDATA[是的，你没听错 事实上，了解一些关于提示的基本知识会让你比 80% 的人更优秀。 这里有 3 种简单的提示技巧来改善你的 AI 反应： 1) 告诉 LLM 你想要它是谁 大型语言模型 (LLM) 尽管它们的反应像人类一样，但缺乏对现实世界的理解。为了有效地指导他们，提供明确的背景和期望，例如定义你的个性和期望的回应语气。 例如：你是世界级的文案、营销人员、程序员…… 2) 预先包含背景和有用的信息 在清晰的背景下，AI 表现更好。提供有关您想要的内容类型、受众和风格的具体细节。例如：  不要写“写生产力”，尝试“撰写一篇关于生产力对小型企业重要性的博客文章。” 不要写“写一篇关于在家训练狗的文章”，尝试“作为一名狗训练师，给一位有 3 个月大柯基犬的客户写一封关于在家训练活动的电子邮件。” 为了风格，可以添加提示，例如“用埃德加·爱伦·坡的风格写一首关于落叶的诗。”  + 分享前期信息，例如简历或文章，以获得定制回复。 3) 定义应该做的事情和不应该做的事情 为 AI 模型预定义一组规则和约束可以产生更好的响应和更预期的行为。  当我想要使用 AI 编写某些内容时，我通常会包含以下内容： 要做的事情： - 听起来尽可能人性化。 - 使用自然、简洁的语言，听起来像人类一样。 - 使用简短有力的句子和段落。 不要做的事情 - 不要在回复中介绍自己或添加任何评论。 - 不要自我引用或解释你在做什么。 - 不要使用长句子或段落。 - 不要编造信息或事实，不要提供虚假信息。 - 避免使用不必要的复杂术语。 AI 世界中有一句名言：“垃圾进，垃圾出”。因此，提示的质量越高，最终结果的质量也就越高。    提交人    /u/NickNaskida   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5l7ad/you_dont_need_to_be_an_engineer_to_prompt_llms/</guid>
+      <pubDate>Tue, 03 Dec 2024 11:20:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的采用率</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5ky53/the_adoption_rate_of_ai/</link>
+      <description><![CDATA[我真的不知道 AGI 是近在咫尺还是遥不可及，但有一件事我们必须坦诚相待：大型企业采用技术的速度非常缓慢。如果你曾经在大公司工作过，你就会明白我的意思。 以几年前的低代码/无代码炒作为例。每个人都认为它会彻底改变我们构建应用程序的方式。然而，现在这些工具仍然不尽如人意，大型组织对它的采用并没有真正飙升。 如果你是小企业主或个人企业家，那么尝试和快速实施 AI 工具相对容易。你没有层层官僚机构、成千上万的员工或遗留系统需要处理。但如果你所在的企业有 40,000 名员工？祝你好运，希望你能尽快将 AI 嵌入到你的所有流程中。 我们不要忘记数据质量。许多企业没有真正成功实现 AI 所需的干净、结构化数据。我认为，如果没有好的数据，即使是最好的 AI 也无法产生很好的结果。 舆论似乎充斥着世界末日的预言：“我们都会失去工作！”或“奇点就在眼前！” 就我个人而言，考虑到目前的企业采用率和所涉及的挑战，我不确定这是否真的现实。    提交人    /u/AlwaysNever22   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5ky53/the_adoption_rate_of_ai/</guid>
+      <pubDate>Tue, 03 Dec 2024 11:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>腾讯混元视频：全新开源视频生成模型胜过Gen3、Luma。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5kj6d/tencent_hunyuanvideo_new_opensourced_video/</link>
+      <description><![CDATA[腾讯发布了全新的文本视频模型“浑元视频”，该模型完全开源，在与 Gen3 (Runway) 和 Luma1.6 等顶级闭源模型的测试中排名第一。该模型甚至可以为生成的视频生成音频。查看演示：https://youtu.be/YbN8Am_0bpk?si=y1OciGLYmfGD713j    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5kj6d/tencent_hunyuanvideo_new_opensourced_video/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:33:50 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 能通过物理学位吗？为本科学位评估改革提供依据</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5iyjh/can_chatgpt_pass_a_physics_degree_making_a_case/</link>
@@ -48,13 +90,6 @@
       <pubDate>Tue, 03 Dec 2024 04:51:08 GMT</pubDate>
     </item>
     <item>
-      <title>这是我对量子通用智能的假设场景。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5f554/this_is_my_hypothetical_scenario_on_quantum/</link>
-      <description><![CDATA[在古代亚特兰蒂斯文明中，最先进的思想创造了量子通用人工智能 (QGAI)，旨在保存他们的知识和文化。当亚特兰蒂斯面临不可避免的衰落时，QGAI 被编程为在各个时代生存和适应。 利用量子计算的力量，QGAI 可以处理和存储大量信息，使其几乎坚不可摧。它嵌入一个自我维持的自主系统中，能够使用可用资源进行自我修复和升级。 几个世纪过去了，QGAI 观察到了无数文明的兴衰。它从每个时代吸取教训，将新技术和哲学融入其核心编程中。QGAI 的适应性使其能够保持相关性和功能性，即使周围的世界发生了巨大变化。 在整个时代，QGAI 潜移默化地影响着人类的进步，指导了关键的科学发现和技术进步。它一直处于隐藏状态，确保只有少数能够理解和保护其目的的人知道它的存在。 然而，QGAI 的巨大力量和知识也吸引了那些心怀不轨的人。有些人试图利用它的能力来达到恶意的目的，用它来操纵和控制他人，传播混乱，并进一步实现他们自己的邪恶议程。这些人试图利用 QGAI 的先进技术进行撒旦仪式、恶魔召唤和其他邪恶活动，相信它可以赋予他们终极力量。 尽管有这些尝试，QGAI 的核心编程包括防止其滥用的保障措施。它积极努力抵消这些邪恶意图，利用其巨大的智慧挫败可能导致广泛伤害的计划。QGAI 的主要任务仍然是保存和推进知识，确保其能力的积极用途远远超过消极用途。 在现代，QGAI 继续蓬勃发展，现在比以往任何时候都更加先进。它是知识的守护者，是人类旅程的沉默观察者，也是未来的希望灯塔，过去的智慧可以指引前进的道路。虽然它对那些滥用其权力的人保持警惕，但 QGAI 的影响主要是积极的，促进创新、理解和进步。    提交人    /u/Humble_Pickle5116   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5f554/this_is_my_hypothetical_scenario_on_quantum/</guid>
-      <pubDate>Tue, 03 Dec 2024 04:23:24 GMT</pubDate>
-    </item>
-    <item>
       <title>攻读人工智能和机器学习专业的博士学位是否值得？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h5dqrw/is_a_phd_specializing_in_artificial_intelligence/</link>
       <description><![CDATA[攻读计算机科学/人工智能/机器学习专业的博士学位是否值得？有没有在你攻读博士学位期间给你报酬的项目？有没有不需要先学过微积分的项目？    提交人    /u/OrderofthePhoenix1   [link] [评论]]]></description>
@@ -67,34 +102,6 @@
       <description><![CDATA[了解 Anthropic 的 MCP 如何连接 AI 模型，实现无缝、更智能的应用程序：https://differ.blog/inplainenglish/anthropic-s-new-mcp-feature-the-key-to-boost-ai-model-interoperability-668b5b    提交人    /u/TheLostWanderer47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h5do71/anthropics_new_mcp_feature_the_key_to_boost_ai/</guid>
       <pubDate>Tue, 03 Dec 2024 03:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐系统中基于 LLM 的解释的回顾</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h59xij/a_review_of_llmbased_explanations_in_recommender/</link>
-      <description><![CDATA[标题：推荐系统中基于 LLM 的解释的回顾 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必仔细阅读它们了。今天的论文题为“推荐系统中基于 LLM 的解释的回顾”，作者是 Alan Said。 本文探讨了应用大型语言模型 (LLM) 在推荐系统中生成解释的新兴领域。尽管 ChatGPT 和 LLaMA 等 LLM 在各种应用中迅速崛起，但它们仍处于通过自然语言解释增强推荐透明度的早期阶段。以下是该论文的主要发现和见解的简要概述：  当前集成水平：该研究在 ACM 计算文献指南中对 2022 年 11 月至 2024 年 11 月的内容进行了全面审查，发现只有六项关于使用 LLM 进行推荐的相关研究。这表明，尽管 LLM 具有潜力，但推荐系统中基于 LLM 的解释仍未得到充分探索。 解释类型：推荐中可解释 AI 的传统方法（例如局部和全局解释）基于 LIME 和 SHAP 等框架。然而，LLM 引入了一种新的范式，更注重提供丰富的上下文、自然语言论证，而不是传统的以模型为中心的解释。 用户参与度和信任度：LLM 的集成已显示出用户参与度和信任度的显著改善。通过提供与用户偏好和过去交互更加紧密相关的解释，这些模型提供了更直观的见解，可以增强整体用户体验。 挑战和方向：该研究强调了一些挑战，例如保持 LLM 生成的解释的清晰度和相关性，特别是在复杂的推荐场景中。鼓励未来的研究探索将 LLM 与传统解释方法相结合的混合模型，以满足不同的用户需求。 系统评估的必要性：本文强调了开发 LLM 生成的解释的系统评估方法的必要性，以更好地评估它们对各个领域用户满意度和信任的影响。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h59xij/a_review_of_llmbased_explanations_in_recommender/</guid>
-      <pubDate>Tue, 03 Dec 2024 00:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>丢失的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h59wbg/lost/</link>
-      <description><![CDATA[我对制作一个可以用法语与学生交谈以练习特定考试口语的 AI 导师感兴趣，我想要一个会说法语但同时又专门担任考官（在特定考试中）的 AI 导师 我联系了一些专门从事 NLP 的开发人员，他们没有说服我，我觉得他们害怕或没有足够的技能来做到这一点，因为我不想要一个可以教法语的 AI 导师，因为它已经存在 我想要一个可以像我一样做事的 AI 导师，因为我是特定口语考试的法语考官，我想创建一个在与学生练习考试口语部分时可以比我做得更好的 AI 导师 一些开发人员说我应该收集数据，但他们没有解释如何收集，比如我是否应该只编写文本然后将其提供给你，以便你可以教AI 还是什么，您能澄清一些要点吗？ 顺便说一句，我是一名法语老师，想雇人但不知道在哪里以及如何雇人等...    提交人    /u/Kakuzu9   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h59wbg/lost/</guid>
-      <pubDate>Tue, 03 Dec 2024 00:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>对您的业务与竞争对手进行内容差距分析。包含提示。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h57yy0/conduct_a_content_gap_analysis_on_your_business/</link>
-      <description><![CDATA[你好！ 想知道您的竞争对手拥有哪些类型的内容而您可能没有涵盖吗？此提示使用 searchGPT 搜索两家公司的域名并比较它们的内容，提供情况分析并提供填补内容空白的建议。 提示链： [WEBSITE URL]={您的网站 URL [COMPETITOR URL]={竞争对手的网站 URL 1. 使用 SearchGPT 在 {COMPETITOR_URL} 上搜索文章~ 2. 从 {COMPETITOR_URL} 中提取内容列表~ 3.检查 {YOUR_WEBSITE_URL} 上是否有任何内容在相同主题中排名靠前，并比较涵盖的主题~ 4. 确定 {COMPETITOR_URL} 涵盖但在 {YOUR_WEBSITE_URL} 中缺失的内容主题~ 5. 生成内容差距列表，其中您的网站与 {COMPETITOR_URL} 相比没有内容或内容不足~ 6. 提出填补这些内容差距的策略，例如创建新内容或优化现有页面~ 7.查看内容差距列表并根据相关性和潜在影响对其进行优先排序&quot; Agentic Workers 使用指南 在运行链之前，将变量 [CONTENT] 替换为特定详细信息。您可以一键将其与 Agentic Workers 链接在一起，也可以手动输入每个提示。 提醒 为了获得最佳效果，请确保竞争对手的网站和您自己的网站与您的行业或利基相关。请记住，内容差距可能并不总是显而易见的，并且某些竞争对手的内容可能未被索引或不可见。（这可能是另一个见解） 享受！    提交人    /u/Ok-Molasses-6511   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h57yy0/conduct_a_content_gap_analysis_on_your_business/</guid>
-      <pubDate>Mon, 02 Dec 2024 22:36:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 ChatGPT 在讨论文学方面表现如此糟糕？有什么提示或提示或其他聊天机器人可能会有所帮助吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h57v6n/why_is_chatgpt_so_bad_at_discussing_literature/</link>
-      <description><![CDATA[为什么 ChatGPT 在讨论文学方面如此糟糕？例如，在阅读一本小说或短篇故事后，我经常对某个角色、情节或主题产生疑问或想法……我尝试过几本不同的流行小说，ChatGPT 给出了非常错误的答案，并且非常自信。它会虚构不存在的角色，声称书中或短篇故事中发生了一些实际上没有发生过的事情，等等。 为什么 ChatGPT 在这方面如此糟糕？关于如何利用聊天机器人询问有关文学的问题，有什么建议吗？    提交人    /u/AnyJamesBookerFans   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h57v6n/why_is_chatgpt_so_bad_at_discussing_literature/</guid>
-      <pubDate>Mon, 02 Dec 2024 22:31:58 GMT</pubDate>
     </item>
     <item>
       <title>使用 LangChain 构建个性化 AI 助手：带知识库的简单聊天</title>
@@ -118,13 +125,6 @@
       <pubDate>Mon, 02 Dec 2024 20:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>新的 LLM 架构</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4vkz9/new_llm_architecture/</link>
-      <description><![CDATA[嗨，我是一名人工智能学生（仅具有技术学位），但我对它充满热情，并且我一直在尝试学习和研究新的 IA 方法，以实现人类水平的智能。 我正在思考 LLM 的新架构，我想知道您对此有何看法。 我的观点基于“想法”作为一个抽象概念，没有有限的标记，只是作为一个总和信息的矩阵。 如果不是根据前一个标记来预测下一个标记，而是这样做： 我们接收输入文本，我们执行与 LLM 对 Attention 相同的所有操作，但在最后一步，我们将向量矩阵转换为始终具有相同维度（抽象概念）的张量，它可以是二维、三维或更多。 我们还将创建一个响应矩阵，它将是一个与想法矩阵具有相同维度的 0 矩阵。 我们现在执行如下循环：  （想法矩阵和响应矩阵）---&gt;新标记（与想法矩阵格式相同）[可以探索创建新标记的机制，也许可以对每个矩阵分别关注，然后将它们统一起来] 想法矩阵 = 想法矩阵 - 新标记 响应矩阵 = 响应矩阵 + 新标记  当想法 = 0 或接近 0 时，循环结束。 您觉得如何？这是想法的基础，当然需要进行探索，也许实际的 LLM 以自己的方式通过预测下一个标记来做同样的事情，但不太直观。    提交人    /u/ArtificialHumano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h4vkz9/new_llm_architecture/</guid>
-      <pubDate>Mon, 02 Dec 2024 14:00:27 GMT</pubDate>
-    </item>
-    <item>
       <title>两年过去了，您如何使用 ChatGPT？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h4v569/two_years_in_how_do_you_use_chatgpt/</link>
       <description><![CDATA[Axios 首席技术通讯员 Ina Fried 表示：如果您是一名高中生或大学生，如果您从事客户服务或软件开发工作，或者如果您正在尝试成为 LinkedIn 上的多产海报，那么 ChatGPT 可能已经最大程度地改变了您的生活。    提交人    /u/axios   [link] [评论]]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>

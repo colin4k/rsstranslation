@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 03 Dec 2024 09:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:02:16 GMT</lastBuildDate>
+    <item>
+      <title>目前仍在使用且仍在开发的最古老的软件或程序是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1h5kihd/what_is_the_oldest_software_or_program_still_in/</link>
+      <description><![CDATA[一直在研究编程历史，发现一个非常有趣的事实：我们今天使用的许多软件都非常古老，并且自诞生以来一直在发展，而不是被抛弃并重新开始。例如，Windows 11 实际上只是 Windows NT 的深层核心，它最初创建于 1993 年。 我想知道的是： 今天仍在以某种形式活跃使用并且仍在由某人开发的最古老的软件是什么（或一些最古老的软件）？ 今天仍在广泛使用但不一定在积极开发的最古老的软件是什么？（想到了遗留程序）    提交人    /u/ThePenguinMan111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h5kihd/what_is_the_oldest_software_or_program_still_in/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用手册录入软件</title>
+      <link>https://www.reddit.com/r/software/comments/1h5ke2i/general_purpose_manual_entry_software/</link>
+      <description><![CDATA[有人知道是否需要像表格这样的通用手动输入软件吗？ 我在想，我见过的大多数数据集总是存在问题，有人输入时，它总是与应有的值略有不同。 我认为，如果有一种软件可以让普通人用来设置限制和组织保存的数据，这个问题就可以解决。 如果有人需要这样的东西，请告诉我。如果有人愿意，我也会开放给他们测试原型。    提交人    /u/Competitive-Fun-5969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h5ke2i/general_purpose_manual_entry_software/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:23:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一种能够即时映射宏键盘的软件！</title>
+      <link>https://www.reddit.com/r/software/comments/1h5k922/im_developing_a_software_that_enables_onthefly/</link>
+      <description><![CDATA[  由    /u/Tizzu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h5k922/im_developing_a_software_that_enables_onthefly/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一款特定的截图软件</title>
       <link>https://www.reddit.com/r/software/comments/1h5imxh/looking_for_a_specific_screenshot_software/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在学习一门新语言，因此我需要一直记住新单词。我在想是否有一个应用程序/游戏可用于创建带有自己的问题和答案集的测验？ 例如，我定义一个问答对列表，然后应用程序会从该列表中向我提出一个问题，例如：“法语中的单词 x 是什么”，并显示四个可能的答案，包括正确答案和来自单词数据库的三个随机错误答案。然后我需要选择正确的答案。 以后还应该可以添加更多问答对。 这可能是 ios/android/浏览器的事情。    提交人    /u/Diligent-Salary-1949   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h4qa0s/application_to_create_quizzes/</guid>
       <pubDate>Mon, 02 Dec 2024 08:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个游戏化的任务管理器，因为常规的待办事项应用程序很无聊</title>
-      <link>https://www.reddit.com/r/software/comments/1h4izpo/i_made_a_gamified_task_manager_because_regular/</link>
-      <description><![CDATA[查看：https://smart-listapp.vercel.app/ 主要特点：  基于 XP 的任务完成 - 更难的任务获得更多积分。 具有里程碑通知和动态升级系统；连胜追踪 徽章系统可解锁不同的成就 提前完成可获得 XP 奖励，逾期完成任务将受到惩罚 全球排行榜可激发竞争动力（完全可选，您可以随时“加入”和“退出”）。 Google OAuth 集成 跨设备同步（数据跨设备持久保存） 访客用户（数据保存到本地存储）和经过身份验证的用户（允许数据同步）  欢迎提出任何建议/改进！🫡    提交人    /u/Relevant_Bird_7347   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h4izpo/i_made_a_gamified_task_manager_because_regular/</guid>
-      <pubDate>Mon, 02 Dec 2024 01:11:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>宏录制器替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1h4i6l2/macro_recorder_alterative/</link>
-      <description><![CDATA[我正在寻找宏记录器的替代品，因为我买不起它。我专门寻找一种可以查找特定颜色的像素然后引发动作或者查找屏幕的一小部分并引发动作的东西    提交人    /u/No-Pie-1112   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h4i6l2/macro_recorder_alterative/</guid>
-      <pubDate>Mon, 02 Dec 2024 00:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 Windows 程序来压缩臃肿的应用程序，并恢复了 SSD 上的 70GB</title>
-      <link>https://www.reddit.com/r/software/comments/1h4cvac/i_created_a_program_for_windows_to_compress/</link>
-      <description><![CDATA[CompactGUI 奇怪的功能缺失让我很沮丧 - 所以我创建了自己的 Windows 程序来高效智能地压缩文件（使用内置的&quot;compact.exe&quot; 实用程序）。 这是我在 2 天内创建的应用程序，每天工作 3-4 小时（全部使用 GitHub Copilot，主要使用 Claude 3.5 Sonnet）：https://github.com/misha1350/trash-compactor CompactGUI 是为压缩 Steam 游戏（并且只用于 Steam 游戏）而设计的，而我创建程序时遵循了 DRY（不要重复自己）、KISS 和 80/20 原则，这是在已由 CompactGUI 压缩的文件夹上运行应用程序后的结果 -我恢复了 25% 的空间： https://preview.redd.it/yb715njaqa4e1.png?width=1721&amp;format=png&amp;auto=webp&amp;s=88ed2715c335d355fdc1ef00f19162d507949c38 我建议您这样使用它：  下载 WizTree 以分析您的存储空间 确定哪些文件夹（而不是单个文件）占用最多空间，查找 Program Files（不包括 Steam 文件夹）和 AppData 中的文件夹以及存储缓存库和二进制文件的其他文件夹 在这些文件夹中运行应用程序（特别是对于 Steam 游戏，最好使用 CompactGUI）。不要在最晦涩的文件格式（如 VirtualBox 图像）上运行它 再次在这些文件夹中运行应用程序完全没问题 - 与 CompactGUI 不同，它会检查文件是否已压缩，因此您不会破坏 SSD。这意味着您可以安排任务每周对某些文件夹运行压缩。   不要使用此命令压缩 Windows 安装 - 而是使用“compact.exe /compactos:always”。使用此命令以最安全的方式压缩 Windows 库和二进制文件完全没问题。    提交人    /u/misha1350   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h4cvac/i_created_a_program_for_windows_to_compress/</guid>
-      <pubDate>Sun, 01 Dec 2024 20:37:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
