@@ -4,16 +4,41 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>来自 martinfowler.com 的主要新闻和更新信息</description>
-    <lastBuildDate>Tue, 19 Nov 2024 18:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 15:02:21 GMT</lastBuildDate>
     <item>
-      <title>单页应用程序中的代码分割</title>
-      <link>https://martinfowler.com/articles/data-fetch-spa.html#IntroducingUserdetailcardComponent</link>
-      <description><![CDATA[单页应用程序通常需要将大量代码下载到浏览器，这可能会延迟页面的初始显示。Juntao Qiu 的下一个模式，代码拆分，
-
-描述了如何拆分这些代码，以便仅在需要时才加载模块，以及这样做的危险。
+      <title>参数化 HTML 模板测试</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</link>
+      <description><![CDATA[
+用于生成 HTML 的测试模板会导致非常相似的测试。Matteo Vaccari 明智地喜欢将测试的共同元素与不同的元素分开。他继续在他的文章中展示了他如何通过参数化测试来做到这一点。由此产生的测试
+更容易编写，更重要的是，理解和修改起来更快。
 更多…]]></description>
-      <guid>https://martinfowler.com/articles/data-fetch-spa.html#IntroducingUserdetailcardComponent</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:44 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>单页应用程序中的预取</title>
+      <link>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</link>
+      <description><![CDATA[Juntao Qiu 完成了单页应用程序的数据获取模式集。预获取涉及在应用程序流程中调用数据之前获取数据。虽然这可能意味着不必要地获取数据，但如果需要数据，它可以减少延迟。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要限制人工智能和算法，而要让它们可解释</title>
+      <link>https://martinfowler.com/articles/2024-restrict-algorithm.html</link>
+      <description><![CDATA[关于使用法规来限制人工智能和其他软件算法的使用有很多讨论。我认为更好的法规是确保软件做出的决策必须是可解释的。 
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/2024-restrict-algorithm.html</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>在生成的 HTML 中测试服务器调用</title>
+      <link>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</link>
+      <description><![CDATA[
+Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研究如何在调用服务器的页面中使用 TDD。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:19 GMT</pubDate>
     </item>
     <item>
       <title>测试生成的 HTML 的行为</title>
@@ -24,42 +49,7 @@
 来测试 HTML 模板的行为。这很好，但是如果我们想测试 HTML 本身的行为，以及它可能使用的任何 CSS 和 JavaScript，该怎么办？
 更多…]]></description>
       <guid>https://martinfowler.com/articles/tdd-html-templates.html#Level3TestingHtmlBehaviour</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>参数化 HTML 模板测试</title>
-      <link>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</link>
-      <description><![CDATA[
-用于生成 HTML 的测试模板会导致非常相似的测试。Matteo Vaccari 明智地喜欢将测试的共同元素与不同的元素分开。他继续在他的文章中展示了他如何通过参数化测试来做到这一点。由此产生的测试
-更容易编写，更重要的是，理解和修改起来更快。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/tdd-html-templates.html#MakeItEasyToAddNewTests</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>单页应用程序中的预取</title>
-      <link>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</link>
-      <description><![CDATA[Juntao Qiu 完成了单页应用程序的数据获取模式集。预获取涉及在应用程序流程中调用数据之前获取数据。虽然这可能意味着不必要地获取数据，但如果需要数据，它可以减少延迟。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/data-fetch-spa.html#prefetching</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要限制人工智能和算法，而要让它们可解释</title>
-      <link>https://martinfowler.com/articles/2024-restrict-algorithm.html</link>
-      <description><![CDATA[关于使用法规来限制人工智能和其他软件算法的使用有很多讨论。我认为更好的法规是确保软件做出的决策必须是可解释的。 
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/2024-restrict-algorithm.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>在生成的 HTML 中测试服务器调用</title>
-      <link>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</link>
-      <description><![CDATA[
-Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研究如何在调用服务器的页面中使用 TDD。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/tdd-html-templates.html#Round-tripToTheServer</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:42 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:19 GMT</pubDate>
     </item>
     <item>
       <title>在人工智能的帮助下加入“遗留”代码库</title>
@@ -68,38 +58,29 @@ Matteo Vaccari 完成了关于测试模板生成的 HTML 的文章，通过研�
 Birgitta Böckeler 通过从开源医院管理系统中挑选一个问题并探索人工智能如何帮助她处理这个问题，展示了这里的可能性。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:41 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:18 GMT</pubDate>
     </item>
     <item>
       <title>刷新 PoEAA 目录页面</title>
       <link>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</link>
-      <description><![CDATA[我会不时查看我的网站分析，看看这个网站的各个部分获得了多少流量。在这样做的时候，我发现我继续为企业应用程序架构模式目录带来大量流量。我在写完这本书后不久就整理了这个目录，而且内容相当少。由于它仍然有流量，我觉得是时候进行一些整理了。内容是一样的，即书中模式的摘要。我更改了主目录页面以包含模式意图。我还在oreilly.com上添加了这本书的深层链接，因此如果您订阅了该网站，它将直接跳转到该文本。希望这些更改能让目录页面更有用一些。]]></description>
+      <description><![CDATA[我会不时查看我的网站分析，看看这个网站的各个部分获得了多少流量。在这样做的时候，我发现我继续为企业应用程序架构模式目录带来大量流量。我在写完这本书后不久就整理了这个目录，它相当简单。由于它仍然有流量，我觉得是时候进行一些修饰了。内容是一样的，即书中模式的摘要。我更改了主目录页面以包含模式意图。我还在oreilly.com上添加了指向本书的深层链接，因此如果您订阅了该网站，它将直接跳转到该文本。希望这些更改能让目录页面更有用一些。]]></description>
       <guid>https://martinfowler.com/articles/2024-eaa-catalog-refresh.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用适应度函数管理数据产品</title>
-      <link>https://martinfowler.com/articles/fitness-functions-data-products.html</link>
-      <description><![CDATA[
-去中心化数据管理需要自动化才能有效扩展治理。适应度函数是一种强大的自动化治理技术，我的同事已将其应用于数据网格环境中的数据产品。由于数据产品是数据战略的基础构建块，因此确保围绕它们的强大治理可以大大增加成功的机会。 Kiran Prakash 解释了如何做到这一点，从对关键架构特征的简单测试开始，然后利用元数据和大型语言模型。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/fitness-functions-data-products.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:40 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:18 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：周期时间</title>
       <link>https://martinfowler.com/bliki/CycleTime.html</link>
       <description><![CDATA[]]></description>
       <guid>https://martinfowler.com/bliki/CycleTime.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:40 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:17 GMT</pubDate>
     </item>
     <item>
       <title>重写 Strangler Fig</title>
       <link>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</link>
-      <description><![CDATA[二十年前，我发帖说，我发现绞杀榕植物是逐步取代遗留系统的有趣比喻。从那以后，我再也没有提到过这个比喻，但与此同时，它却有了它自己的生命。其他人越来越多地提到绞杀榕现代化方法，该帖子的流量稳步增加：目前每月页面浏览量约为 5000 次，是本网站最受欢迎的页面之一。所以我决定我需要更新该页面，并重写了它，重点关注我们需要做的核心活动，以使这样的冒险取得成功。
+      <description><![CDATA[二十年前，我发帖说我发现绞杀榕植物是逐步取代遗留系统的有趣比喻。从那以后，我再也没有提到过这个比喻，但与此同时，它却有了自己的生命。其他人越来越多地提到绞杀榕现代化方法，该帖子的流量稳步增加：目前每月页面浏览量约为 5000 次，是本网站最受欢迎的页面之一。所以我决定需要更新该页面，并重写了它，重点关注我们需要做的核心活动，以使这样的冒险取得成功。
 （这总结了 Ian Cartwright、Rob Horn 和 James Lewis 的更详细的文字。）]]></description>
       <guid>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:40 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:17 GMT</pubDate>
     </item>
     <item>
       <title>使用 GenAI 从遗留系统中提取低级细节和高级解释</title>
@@ -110,7 +91,7 @@ Shodhan Sheth 使用 AST 驱动的
 知识图谱和 LLM 来了解遗留系统。他们发现它既可以帮助他们提取代码的低级细节，又可以提供高级解释来支持以人为本的方法，例如事件风暴。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:39 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:16 GMT</pubDate>
     </item>
     <item>
       <title>遗留系统现代化与 GenAI 相遇</title>
@@ -124,16 +105,16 @@ Sheth 一直在考虑 GenAI 如何做到这一点，
 
 更多…]]></description>
       <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:39 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:16 GMT</pubDate>
     </item>
     <item>
-      <title>将 Strangler Fig 与移动应用程序结合使用</title>
-      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</link>
+      <title>使用适应度函数管理数据产品</title>
+      <link>https://martinfowler.com/articles/fitness-functions-data-products.html</link>
       <description><![CDATA[
-我的同事经常参与对遗留系统的现代化改造，而我们的方法是循序渐进地进行。使用移动应用程序进行现代化改造会带来一些特定的挑战。Matthew Foster 和 John Mikel Amiel Regida 分享了他们最近参与的经验，从单片遗留应用程序转变为使用模块化微应用程序架构的应用程序。 
+去中心化数据管理需要自动化才能有效扩展治理。适应度函数是一种强大的自动化治理技术，我的同事已将其应用于数据网格环境中的数据产品。由于数据产品是数据战略的基础构建块，因此确保围绕它们的强大治理可以大大增加成功的机会。 Kiran Prakash 解释了如何做到这一点，从对关键架构特征的简单测试开始，然后利用元数据和大型语言模型。
 更多…]]></description>
-      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:38 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/fitness-functions-data-products.html</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:16 GMT</pubDate>
     </item>
     <item>
       <title>接受 Book Overflow 播客关于重构的采访</title>
@@ -141,7 +122,7 @@ Sheth 一直在考虑 GenAI 如何做到这一点，
       <description><![CDATA[我在 Book Overflow 播客 上接受了有关 《重构》一书 的采访。我们讨论了这本书的起源、重构、测试和极限编程之间的关系、重构在实际中的应用，以及书籍和长篇散文在当今的作用。
 更多…]]></description>
       <guid>https://www.youtube.com/watch?v=CjCJ76oZXTE</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:38 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:15 GMT</pubDate>
     </item>
     <item>
       <title>使用 GenAI 构建能力图并转换遗留系统</title>
@@ -153,16 +134,7 @@ Shodhan Sheth 完成了他们的文章，介绍了他们从使用 GenAI 处理�
 识别死代码区域，并有望更好地在平台和语言之间翻译系统。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>评估在移动应用程序上使用 Strangler Fig 的结果</title>
-      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</link>
-      <description><![CDATA[
-Matthew Foster 和 John Mikel Amiel Regida 完成了他们如何通过查看工作成果逐步实现移动应用程序现代化的说明。他们大大缩短了获得新价值的时间，并发现新应用程序中的更改可以在旧代码库所需时间的一半左右完成准备。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:37 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:15 GMT</pubDate>
     </item>
     <item>
       <title>深入了解 Strangler Fig 与移动应用的使用</title>
@@ -172,15 +144,16 @@ Matthew Foster 和 John Mikel Amiel
 Regida 深入探讨了逐步现代化遗留移动应用程序的细节。 他们研究如何将绞杀者图植入现有应用程序，在新应用程序和旧应用程序之间建立双向通信，并确保对整个系统进行有效的回归测试。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:37 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>探索 Gen AI：Copilot 的新多文件编辑</title>
-      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</link>
-      <description><![CDATA[10 月底，GitHub Copilot 引入了一项非常强大的新编码辅助功能。这项新的“多文件编辑”功能将 AI 辅助的范围从小型本地化建议扩展到跨多个文件的更大规模实现。Birgitta Böckeler 试用了这项新功能，发现它的更改往往非常有用，并想知道它们需要哪些反馈循环。
+      <title>将 Strangler Fig 与移动应用程序结合使用</title>
+      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</link>
+      <description><![CDATA[
+我的同事经常参与对遗留系统的现代化改造，而我们的方法是循序渐进地进行。使用移动应用程序进行现代化改造会带来一些特定的挑战。Matthew Foster 和 John Mikel Amiel Regida 分享了他们最近参与的经验，从单片遗留应用程序转变为使用模块化微应用程序架构的应用程序。 
 更多…]]></description>
-      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:36 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:14 GMT</pubDate>
     </item>
     <item>
       <title>在 Bluesky 上发帖，以及在社交媒体上发表其他想法</title>
@@ -191,7 +164,33 @@ Regida 深入探讨了逐步现代化遗留移动应用程序的细节。 他们
 我还整理了我对社交媒体现状的总体看法，以及我如何使用社交媒体，现在距离马斯克沃事件已经过去了两年。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/2024-social-media.html</guid>
-      <pubDate>Tue, 19 Nov 2024 18:02:36 GMT</pubDate>
+      <pubDate>Tue, 03 Dec 2024 15:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>评估在移动应用程序上使用 Strangler Fig 的结果</title>
+      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</link>
+      <description><![CDATA[
+Matthew Foster 和 John Mikel Amiel Regida 完成了他们如何通过查看工作成果逐步实现移动应用程序现代化的说明。他们大大缩短了获得新价值的时间，并发现新应用程序中的更改可以在旧代码库所需时间的一半左右完成准备。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计数据产品：从用例开始逆向思考</title>
+      <link>https://martinfowler.com/articles/designing-data-products.html</link>
+      <description><![CDATA[
+业界越来越多地将创建数据产品作为分析数据的核心组织原则的价值视为其中的价值。Kiran Prakash 已帮助许多客户设计他们的数据产品，并分享他所学到的知识。特别是，他的方法论并不从考虑一些可能方便分享的数据开始，而是从数据产品的消费者需要开始。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/designing-data-products.html</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 Gen AI：Copilot 的新多文件编辑</title>
+      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</link>
+      <description><![CDATA[10 月底，GitHub Copilot 引入了一项非常强大的新编码辅助功能。这项新的“多文件编辑”功能将 AI 辅助的范围从小型本地化建议扩展到跨多个文件的更大规模实现。Birgitta Böckeler 试用了这项新功能，发现它的更改往往非常有用，并想知道它们需要哪些反馈循环。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</guid>
+      <pubDate>Tue, 03 Dec 2024 15:02:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
