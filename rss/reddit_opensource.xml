@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Dec 2024 00:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 03:15:38 GMT</lastBuildDate>
+    <item>
+      <title>有没有类似 Thorium Reader 的电子阅读器应用程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h64otn/is_there_an_ereader_app_that_is_like_thorium/</link>
+      <description><![CDATA[到目前为止，我很喜欢 Thorium Reader（适用于 Windows），我希望它有一个移动应用程序。话虽如此，有没有一个与 Thorium Reader 的工作方式类似的移动应用程序？    提交人    /u/gwrecker89   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h64otn/is_there_an_ereader_app_that_is_like_thorium/</guid>
+      <pubDate>Wed, 04 Dec 2024 01:52:28 GMT</pubDate>
+    </item>
     <item>
       <title>SuiteCRM——开源 CRM</title>
       <link>https://www.reddit.com/r/opensource/comments/1h629gj/suitecrm_the_open_source_crm/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨， 有人知道可以接收从我的 WordPress SMTP 插件发送的 webhook 通知的 Android 应用程序吗？ 我正在尝试接收任何可能发送失败的电子邮件的警报。    提交人    /u/SudoMason   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h4ltqc/android_app_to_receive_webhook_notifications/</guid>
       <pubDate>Mon, 02 Dec 2024 03:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Podcast 关闭后 Android 版 Podcast 应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h4k5dp/podcast_app_for_android_after_google_podcast/</link>
-      <description><![CDATA[希望看看是否有播客听众/Android 用户可能有兴趣为这样的事情做出贡献。我是一个狂热的播客听众，在 Google Podcast 关闭后，其他选项确实有些不足。当然，我并不反对该应用程序也出现在 IOS 上，但他们已经有了 Apple Podcast，我想这消除了对它的需要。 我不太熟悉其他播客应用程序的工作原理，但我认为它们可以使用 API 来获取播客数据。我还假设有关用户收藏夹、收听历史等的所有其他信息都可以本地保存在设备上，以避免托管成本。 我是一名刚毕业的计算机科学毕业生，正在寻找我的第一份 SWE 工作。我认为这对我自己以及其他处于类似位置并有兴趣创建此类软件的人来说可能是对开源的一个很好的介绍。 如果这样的项目已经存在，我也很乐意为其做出贡献。    提交人    /u/boomkablamo   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h4k5dp/podcast_app_for_android_after_google_podcast/</guid>
-      <pubDate>Mon, 02 Dec 2024 02:09:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
