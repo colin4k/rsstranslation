@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Dec 2024 18:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 21:02:08 GMT</lastBuildDate>
     <item>
       <title>阴谋</title>
       <link>https://www.producthunt.com/posts/plot-c18cd190-9919-4ac7-9b09-57a9723e4ffa</link>
@@ -46,6 +46,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pearl-10</guid>
       <pubDate>Tue, 03 Dec 2024 19:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应式工作流程 [LW24]</title>
+      <link>https://www.producthunt.com/posts/reactive-workflows-lw24</link>
+      <description><![CDATA[
+针对您的 GitHub 存储库执行“如果 X，则执行 Y”
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/reactive-workflows-lw24</guid>
+      <pubDate>Tue, 03 Dec 2024 14:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>打开Int [LW24]</title>
+      <link>https://www.producthunt.com/posts/openint-lw24</link>
+      <description><![CDATA[
+开源嵌入式产品集成
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/openint-lw24</guid>
+      <pubDate>Tue, 03 Dec 2024 14:32:42 GMT</pubDate>
     </item>
     <item>
       <title>Adobe 的 Project Neo（测试版）</title>
@@ -90,38 +118,52 @@
       <pubDate>Tue, 03 Dec 2024 06:16:28 GMT</pubDate>
     </item>
     <item>
-      <title>超级列表</title>
-      <link>https://www.producthunt.com/posts/hypelist-4</link>
+      <title>青蛙博士</title>
+      <link>https://www.producthunt.com/posts/frogdr</link>
       <description><![CDATA[
-发现您喜欢的一切的个性化推荐
+监控您的域名评级
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/hypelist-4</guid>
-      <pubDate>Tue, 03 Dec 2024 02:09:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/frogdr</guid>
+      <pubDate>Tue, 03 Dec 2024 02:41:30 GMT</pubDate>
     </item>
     <item>
-      <title>无代码 2024 的到来</title>
-      <link>https://www.producthunt.com/posts/advent-of-no-code-2024</link>
+      <title>零</title>
+      <link>https://www.producthunt.com/posts/lzero</link>
       <description><![CDATA[
-每天进行 24 个无代码挑战，创造新事物
+Web3 的 DevOps
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/advent-of-no-code-2024</guid>
-      <pubDate>Tue, 03 Dec 2024 00:45:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/lzero</guid>
+      <pubDate>Mon, 02 Dec 2024 20:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>vscode-pokemon</title>
+      <link>https://www.producthunt.com/posts/vscode-pokemon</link>
+      <description><![CDATA[
+将 Pokémon 怀旧情怀带入您的代码编辑器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/vscode-pokemon</guid>
+      <pubDate>Mon, 02 Dec 2024 15:24:27 GMT</pubDate>
     </item>
     <item>
       <title>Pollo.ai</title>
       <link>https://www.producthunt.com/posts/pollo-ai</link>
       <description><![CDATA[
-无限 AI 视频生成器，将您的创意可视化
+无限 AI 视频生成器，让您的创意可视化
 
 
 讨论
@@ -130,34 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pollo-ai</guid>
       <pubDate>Mon, 02 Dec 2024 13:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>锅2.0</title>
-      <link>https://www.producthunt.com/posts/potis-2-0</link>
-      <description><![CDATA[
-远程团队的 AI 招聘人员
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/potis-2-0</guid>
-      <pubDate>Sun, 01 Dec 2024 22:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase 人工智能助手 [LW24]</title>
-      <link>https://www.producthunt.com/posts/supabase-ai-assistant-lw24</link>
-      <description><![CDATA[
-Postgres 数据库的想法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/supabase-ai-assistant-lw24</guid>
-      <pubDate>Sat, 30 Nov 2024 07:16:13 GMT</pubDate>
     </item>
     <item>
       <title>破产</title>
@@ -230,6 +244,20 @@ Postgres 数据库的想法
       <pubDate>Mon, 25 Nov 2024 06:27:38 GMT</pubDate>
     </item>
     <item>
+      <title>Tactiq AI 工作流程</title>
+      <link>https://www.producthunt.com/posts/tactiq-ai-workflows</link>
+      <description><![CDATA[
+自动提取和分享会议见解
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tactiq-ai-workflows</guid>
+      <pubDate>Mon, 25 Nov 2024 06:06:32 GMT</pubDate>
+    </item>
+    <item>
       <title>氡IDE</title>
       <link>https://www.producthunt.com/posts/radon-ide</link>
       <description><![CDATA[
@@ -256,34 +284,6 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/focu</guid>
       <pubDate>Fri, 15 Nov 2024 06:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stackfix</title>
-      <link>https://www.producthunt.com/posts/stackfix</link>
-      <description><![CDATA[
-几秒钟内比较软件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/stackfix</guid>
-      <pubDate>Fri, 01 Nov 2024 20:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙德网络用户界面</title>
-      <link>https://www.producthunt.com/posts/shadcn-ui</link>
-      <description><![CDATA[
-手工制作的 UI 元素可粘贴到您的应用中
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/shadcn-ui</guid>
-      <pubDate>Sun, 03 Sep 2023 22:24:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
