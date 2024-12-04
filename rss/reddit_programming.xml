@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 04 Dec 2024 03:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 06:02:19 GMT</lastBuildDate>
     <item>
-      <title>我需要我的代码战斗原型的反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1h65aie/necesito_feedback_de_mi_prototipo_code_combat/</link>
-      <description><![CDATA[作为一个学校项目，我开发了 CODE COMBAT，一个关于编程的理论实战竞技场，（他强调这是一个原型，非常基础，我只是想知道用户的意见，以便他们可以尝试并告诉我效果如何） 我将链接附加到我的原型 &lt;!-- SC_ON - -&gt;  由   提交 /u/Comfortable-Bad-5668   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h65aie/necesito_feedback_de_mi_prototipo_code_combat/</guid>
-      <pubDate>Wed, 04 Dec 2024 02:22:07 GMT</pubDate>
+      <title>React 真的像听起来那么难/复杂吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h698yt/is_react_as_hardcomplex_as_it_sounds/</link>
+      <description><![CDATA[  由    /u/joyancefa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h698yt/is_react_as_hardcomplex_as_it_sounds/</guid>
+      <pubDate>Wed, 04 Dec 2024 05:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解分布式权限系统的权衡 | 软件架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1h68stt/understanding_the_tradeoffs_of_distributed/</link>
+      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h68stt/understanding_the_tradeoffs_of_distributed/</guid>
+      <pubDate>Wed, 04 Dec 2024 05:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最常用的 Python 数据库迁移工具是什么？为什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h68pjv/whats_your_goto_database_migration_tool_in_python/</link>
+      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h68pjv/whats_your_goto_database_migration_tool_in_python/</guid>
+      <pubDate>Wed, 04 Dec 2024 05:24:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++：基于范围的 for 循环（或 foreach）</title>
+      <link>https://www.reddit.com/r/programming/comments/1h67csh/c_rangebased_for_loop_o_foreach_para_los_amigos/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h67csh/c_rangebased_for_loop_o_foreach_para_los_amigos/</guid>
+      <pubDate>Wed, 04 Dec 2024 04:08:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>将指令带入数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1h66v84/bringing_the_instructions_to_the_data/</link>
+      <description><![CDATA[  由    /u/mUmblrman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h66v84/bringing_the_instructions_to_the_data/</guid>
+      <pubDate>Wed, 04 Dec 2024 03:42:13 GMT</pubDate>
     </item>
     <item>
       <title>开源的力量：我的项目在开源几周内就被翻译成了 37 种语言！</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/programmerjunky  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h5skfh/building_a_crud_application_in_angular/</guid>
       <pubDate>Tue, 03 Dec 2024 17:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Advent of Code 类似，但用于实现 Arxiv 论文，开始于 12 月 9 日，结束于 12 月 24 日</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5rvta/like_advent_of_code_but_for_implementing_arxiv/</link>
-      <description><![CDATA[  由    /u/DataBaeBee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5rvta/like_advent_of_code_but_for_implementing_arxiv/</guid>
-      <pubDate>Tue, 03 Dec 2024 16:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Rust 🦀 值得在后端使用</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5rjky/why_rust_is_worth_using_on_the_backend/</link>
-      <description><![CDATA[  由    /u/Live_Leader1214  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5rjky/why_rust_is_worth_using_on_the_backend/</guid>
-      <pubDate>Tue, 03 Dec 2024 16:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目命名的三条规则</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5rita/three_rules_for_naming_projects/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5rita/three_rules_for_naming_projects/</guid>
-      <pubDate>Tue, 03 Dec 2024 16:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么管道有时会“卡住”：缓冲</title>
-      <link>https://www.reddit.com/r/programming/comments/1h5qys7/why_pipes_sometimes_get_stuck_buffering/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h5qys7/why_pipes_sometimes_get_stuck_buffering/</guid>
-      <pubDate>Tue, 03 Dec 2024 16:09:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
