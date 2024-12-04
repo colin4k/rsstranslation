@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Dec 2024 21:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:03:48 GMT</lastBuildDate>
+    <item>
+      <title>SuiteCRM——开源 CRM</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h629gj/suitecrm_the_open_source_crm/</link>
+      <description><![CDATA[SuiteCRM 是一个开源客户关系管理 (CRM) 软件解决方案，可提供 360 度的客户和业务视图。让您的销售、营销和客户服务部门轻松发现关键信息，帮助您发展、留住和取悦客户。 请考虑为这个出色的开源 CRM 软件捐款。 https://opencollective.com/suitecrm    提交人    /u/Shub_007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h629gj/suitecrm_the_open_source_crm/</guid>
+      <pubDate>Tue, 03 Dec 2024 23:59:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有趣的 API CLI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h61gfb/fun_apis_cli/</link>
+      <description><![CDATA[      Fun APIs CLI 是一个 Python 风格的 CLI，可以玩转 WWW 上的一些有趣 API，感受一下免费查看它甚至为它做出贡献，那将不胜感激！    提交人    /u/Atlas-Lion_28   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h61gfb/fun_apis_cli/</guid>
+      <pubDate>Tue, 03 Dec 2024 23:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github 是全球最受欢迎的开源平台，而它却隶属于微软，这家公司通过专有软件和窃取开源项目代码牟利，赚取了数十亿美元，这难道不有些矛盾吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h5z9ai/isnt_it_a_little_contradictory_that_github_the/</link>
+      <description><![CDATA[  由    /u/challenger_official  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h5z9ai/isnt_it_a_little_contradictory_that_github_the/</guid>
+      <pubDate>Tue, 03 Dec 2024 21:50:59 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以替代 autocad 软件的软件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h5wx7a/any_alternative_to_autocad_software/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[希望看看是否有播客听众/Android 用户可能有兴趣为这样的事情做出贡献。我是一个狂热的播客听众，在 Google Podcast 关闭后，其他选项确实有些不足。当然，我并不反对该应用程序也出现在 IOS 上，但他们已经有了 Apple Podcast，我想这消除了对它的需要。 我不太熟悉其他播客应用程序的工作原理，但我认为它们可以使用 API 来获取播客数据。我还假设有关用户收藏夹、收听历史等的所有其他信息都可以本地保存在设备上，以避免托管成本。 我是一名刚毕业的计算机科学毕业生，正在寻找我的第一份 SWE 工作。我认为这对我自己以及其他处于类似位置并有兴趣创建此类软件的人来说可能是对开源的一个很好的介绍。 如果这样的项目已经存在，我也很乐意为其做出贡献。    提交人    /u/boomkablamo   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h4k5dp/podcast_app_for_android_after_google_podcast/</guid>
       <pubDate>Mon, 02 Dec 2024 02:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>typeconf：一个用于编写类型配置的 Typescript 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h4hnms/typeconf_a_typescript_tool_to_write_configs_with/</link>
-      <description><![CDATA[        提交人    /u/heraldev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h4hnms/typeconf_a_typescript_tool_to_write_configs_with/</guid>
-      <pubDate>Mon, 02 Dec 2024 00:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法为这个 repo 设置环境，请帮忙</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h4fkqv/i_cant_set_the_environment_up_for_this_repo_pls/</link>
-      <description><![CDATA[这是 repo ：https://github.com/zibojia/COCOCO 我需要使用 graido 接口运行 app.py 文件。我很迷茫，请帮忙，这是我到目前为止所做的：（P.S. 需要在 colab 上）https://colab.research.google.com/drive/1fPGfQE0gzs9jJEBQdVLViLxEYzAkGh0I?usp=sharing   由    /u/Atomcocuk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h4fkqv/i_cant_set_the_environment_up_for_this_repo_pls/</guid>
-      <pubDate>Sun, 01 Dec 2024 22:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频流和资产管理后端的想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h4c21z/idea_for_a_video_streaming_and_asset_management/</link>
-      <description><![CDATA[大家好。我目前在大学的一个小组工作。我们与周围的企业合作并为其提供软件解决方案。我们目前使用 Firebase Storage 来存储所有资产（例如前端的图像、用户上传的文件）。但是，我们的一个项目大量使用视频流来存储其内容，但由于业务规模较小，他们不愿意支付云对象存储或 CDN 的费用。此外，最近我们也在尝试优化我们的资产存储成本。 因此，我有了构建一个可以自托管的简单后端的想法。它将公开 API 以支持上传资产，并支持视频流。我认为这将是一个有趣的项目，我想将其作为 OSS 发布，人们可以自行托管以与自己的系统集成。 我对这个想法有几个问题：  已经有类似的东西了吗，是否需要这样的产品？在我看来，它的主要吸引力在于小规模使用案例，在这些案例中，您知道您不需要云的无限可扩展性，并且想要节省成本，或者您想要一种简单的方法将视频服务器集成到您的应用程序中（有点像制作 YouTube 克隆）。 您认为哪些功能是必备的？理想情况下，我希望首先关注视频和图像上传的功能。  谢谢阅读。    提交人    /u/qhung312   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h4c21z/idea_for_a_video_streaming_and_asset_management/</guid>
-      <pubDate>Sun, 01 Dec 2024 20:02:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

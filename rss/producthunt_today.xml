@@ -4,20 +4,20 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Dec 2024 21:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:03:53 GMT</lastBuildDate>
     <item>
-      <title>钥匙河马 [LW24]</title>
-      <link>https://www.producthunt.com/posts/keyhippo-lw24</link>
+      <title>反应式工作流程 [LW24]</title>
+      <link>https://www.producthunt.com/posts/reactive-workflows-lw24</link>
       <description><![CDATA[
-将 API 密钥身份验证添加到 Postgres 行级安全 (RLS) 策略
+针对您的 GitHub 存储库执行“如果 X，则执行 Y”
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/keyhippo-lw24</guid>
-      <pubDate>Tue, 03 Dec 2024 08:27:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/reactive-workflows-lw24</guid>
+      <pubDate>Tue, 03 Dec 2024 14:54:21 GMT</pubDate>
     </item>
     <item>
       <title>魔法图案 [LW24]</title>
@@ -46,6 +46,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/they-see-your-photos</guid>
       <pubDate>Tue, 03 Dec 2024 05:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>克拉夫</title>
+      <link>https://www.producthunt.com/posts/clave-3</link>
+      <description><![CDATA[
+简单、安全的身份验证
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/clave-3</guid>
+      <pubDate>Tue, 03 Dec 2024 03:25:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>青蛙博士</title>
+      <link>https://www.producthunt.com/posts/frogdr</link>
+      <description><![CDATA[
+监控您的域名评级
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/frogdr</guid>
+      <pubDate>Tue, 03 Dec 2024 02:41:30 GMT</pubDate>
     </item>
     <item>
       <title>超级列表</title>
@@ -90,20 +118,6 @@
       <pubDate>Tue, 03 Dec 2024 00:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>零</title>
-      <link>https://www.producthunt.com/posts/lzero</link>
-      <description><![CDATA[
-Web3 的 DevOps
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/lzero</guid>
-      <pubDate>Mon, 02 Dec 2024 20:51:39 GMT</pubDate>
-    </item>
-    <item>
       <title>名册</title>
       <link>https://www.producthunt.com/posts/roster-2</link>
       <description><![CDATA[
@@ -118,20 +132,6 @@ Web3 的 DevOps
       <pubDate>Mon, 02 Dec 2024 15:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>vscode-pokemon</title>
-      <link>https://www.producthunt.com/posts/vscode-pokemon</link>
-      <description><![CDATA[
-将 Pokémon 怀旧情怀带入您的代码编辑器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/vscode-pokemon</guid>
-      <pubDate>Mon, 02 Dec 2024 15:24:27 GMT</pubDate>
-    </item>
-    <item>
       <title>大型解析 [LW24]</title>
       <link>https://www.producthunt.com/posts/megaparse-lw24</link>
       <description><![CDATA[
@@ -144,6 +144,20 @@ Web3 的 DevOps
 ]]></description>
       <guid>https://www.producthunt.com/posts/megaparse-lw24</guid>
       <pubDate>Mon, 02 Dec 2024 15:07:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>锅2.0</title>
+      <link>https://www.producthunt.com/posts/potis-2-0</link>
+      <description><![CDATA[
+远程团队的 AI 招聘人员
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/potis-2-0</guid>
+      <pubDate>Sun, 01 Dec 2024 22:14:42 GMT</pubDate>
     </item>
     <item>
       <title>Supabase 人工智能助手 [LW24]</title>
@@ -214,20 +228,6 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/y-sweet-by-jamsocket-lw24</guid>
       <pubDate>Wed, 27 Nov 2024 21:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级广告</title>
-      <link>https://www.producthunt.com/posts/superads-2</link>
-      <description><![CDATA[
-面向营销人员和创意团队的 AI 创意分析
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/superads-2</guid>
-      <pubDate>Wed, 27 Nov 2024 08:46:15 GMT</pubDate>
     </item>
     <item>
       <title>多云</title>
