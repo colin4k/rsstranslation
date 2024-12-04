@@ -4,7 +4,7 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 04 Dec 2024 09:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:02:48 GMT</lastBuildDate>
     <item>
       <title>通知声音管理器应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1h66j0x/notification_sound_manager_app/</link>
@@ -46,13 +46,6 @@
       <description><![CDATA[因此，我想尝试使用 VoiceMeeter 的 VBan 将音频从我的 PC（运行 Windows 10）发送到我的 MacBook Pro（运行 MacOS Ventura 13.6.9），并且能够仅录制音频，我知道 OBS 有一个插件可以添加 VBan 音频输入源，但是 OBS 也可以录制视频，当然，我可以以非常低的分辨率录制并仅使用音频部分，但我想看看是否有可以仅录制音频的软件，而且它必须以一种我可以从中分离录制的 VBan 流的格式录制音频（我知道它被称为 OBS 的音频分割，但我不知道这是否是一个通用术语）。如果可能的话，也可以通过其他软件将音频从我的 Mac 发送到我的 PC，但这会很好 我真的不知道还能添加什么，但如果我以令人困惑的方式解释了某件事，那么我很抱歉，我在沟通方面存在问题，如果它令人困惑，那么就说出来，我会尝试以一种不令人困惑的方式来解释它    提交人    /u/Blackninja004010   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h5zpry/vban_audio_recorder_for_macos/</guid>
       <pubDate>Tue, 03 Dec 2024 22:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发个性化版本的 Ahrefs 工具是否可行？</title>
-      <link>https://www.reddit.com/r/software/comments/1h5z61y/is_it_feasible_to_develop_a_personalized_version/</link>
-      <description><![CDATA[如果是这样，那么我可以使用哪个平台来创建它？从我的角度来看，时间充足，我全力以赴学习。    提交人    /u/jefferymr15   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h5z61y/is_it_feasible_to_develop_a_personalized_version/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:47:13 GMT</pubDate>
     </item>
     <item>
       <title>帮助解决 Windows 上的错误 0x80010135 - 需要帮助！</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[Botbrushes 是一个免费网站，用于分享和发现 Ai 生成的艺术品。用户可以上传自己的艺术品或发现和查找其他艺术品进行下载。完全免费，可供所有人使用。  https://botbrushes.com     由   提交  /u/yevo_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h59tb5/website_for_ai_generated_art/</guid>
       <pubDate>Mon, 02 Dec 2024 23:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何确定 Linux 系统的文件系统类型</title>
+      <link>https://www.reddit.com/r/software/comments/1h53n2e/how_to_determine_your_linux_systems_filesystem/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h53n2e/how_to_determine_your_linux_systems_filesystem/</guid>
+      <pubDate>Mon, 02 Dec 2024 19:38:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
