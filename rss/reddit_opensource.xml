@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Dec 2024 21:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:04:02 GMT</lastBuildDate>
+    <item>
+      <title>我是不是又在重新发明轮子了？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h6uoqk/am_i_reinventing_the_wheel/</link>
+      <description><![CDATA[我制作了一个简单的浏览器扩展程序，它可以从黑名单中的网站中删除任何 Reddit 帖子。也就是说，不再有像 DailyMail、New Republic、Newsweek 等小报。您可以屏蔽您放入黑名单的任何 URL，它会完全从您的订阅源中删除帖子。 目前，它对于个人使用来说非常棒，但我有几个问题： A) 它已经存在了吗？ B) 有人想要吗？ 我制作它只是因为错误信息和垃圾网站让我抓狂。现在它们消失了，我的 Reddit 体验好多了。我的订阅源中不再有愚蠢的 New Republic 文章。 我的目标是将这个东西扩展到整个互联网，也许还包括情绪分析或关键字过滤，这样您就可以屏蔽有关政治、总统或某位科技大亨的帖子。  我非常乐意免费提供它，因为它是客户端的东西。不过如果其他人想使用它，仍然需要做很多工作。例如，我需要制作一个 UI 并扩展功能以阻止 Facebook 和其他任何地方的帖子。现在我必须直接将列入黑名单的网站输入代码并每次重新上传扩展。     提交人    /u/MrBeanDaddy86   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h6uoqk/am_i_reinventing_the_wheel/</guid>
+      <pubDate>Wed, 04 Dec 2024 23:32:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个小项目的提案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h6sh3y/a_proposal_for_a_little_project/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h6sh3y/a_proposal_for_a_little_project/</guid>
+      <pubDate>Wed, 04 Dec 2024 21:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Allgood - 即时检查您的 TS/JS 应用的健康情况（支持 Express、Hono 和 Fastify）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</link>
+      <description><![CDATA[嘿 r/opensource，我最终设置的样板文件的一部分是健康检查系统。受到 Ruby Gem（同名）的启发，我决定创建一个健康检查页面，您可以将其附加到 javascript 或 typescript 项目的路由（通常是 /healthcheck）。 这是一个有趣的学习项目，开源无疑让我更加注意我的代码质量。 我还添加了一些测试（我真的应该进行 TDD，但没关系），这样我就可以轻松接受贡献和修复。 希望你喜欢！    提交人    /u/joshghent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</guid>
+      <pubDate>Wed, 04 Dec 2024 21:29:52 GMT</pubDate>
+    </item>
     <item>
       <title>开源项目如何执行其商业许可？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h6qkl2/how_does_an_open_source_project_enforce_its/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>Spottube 安全/合法吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h6dolp/is_spotube_safelegit/</link>
-      <description><![CDATA[我发现一个开源免费应用程序&quot;Spotube&quot;可以替代 Spotify Music，它似乎是 Spotify 的一个克隆版。 这是它的官方下载链接。 https://spotube.krtirtho.dev/downloads 有没有人有使用过这个应用程序，请评论一下。 提前致谢    提交人    /u/StormBotrex   [链接] [评论]]]></description>
+      <description><![CDATA[我发现一个开源免费应用程序&quot;Spotube&quot;可以替代 Spotify Music，它似乎是 Spotify 的一个克隆版。 这是它的官方下载链接。 https://spotube.krtirtho.dev/downloads 有没有人有使用过这个程序，请评论一下。 提前致谢    提交人    /u/StormBotrex   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h6dolp/is_spotube_safelegit/</guid>
       <pubDate>Wed, 04 Dec 2024 11:16:02 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我需要的只是 2D 图纸。没有什么太复杂的，虽然它也有快照功能来帮助我处理工作内容，但它会非常有用    提交人    /u/Rukasu17   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h5wx7a/any_alternative_to_autocad_software/</guid>
       <pubDate>Tue, 03 Dec 2024 20:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>推动开源向前发展：在 2025 年发挥影响力</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h5uuwq/driving_open_source_forward_make_your_impact_in/</link>
-      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h5uuwq/driving_open_source_forward_make_your_impact_in/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>打开产品-想法？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h5o49j/open_product_thoughts/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h5o49j/open_product_thoughts/</guid>
-      <pubDate>Tue, 03 Dec 2024 14:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSequencer 扩展截屏视频 009</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h5nipv/gsequencer_extended_screencast_009/</link>
-      <description><![CDATA[        提交人    /u/joel2001k   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h5nipv/gsequencer_extended_screencast_009/</guid>
-      <pubDate>Tue, 03 Dec 2024 13:35:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
