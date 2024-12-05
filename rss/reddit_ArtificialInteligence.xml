@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 05 Dec 2024 06:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 09:01:33 GMT</lastBuildDate>
+    <item>
+      <title>是否有可以写书的人工智能：从大到更大？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h74rva/is_there_an_ai_for_writing_books_for_going_from/</link>
+      <description><![CDATA[我一直在转录我的讲座，每堂讲座大约有 10 页 A4 纸，每门课程有 15 堂讲座，大量的幻灯片和一个大型 Zotero 数据库，我想付钱给 AI 编辑帮我创建一本书。 但一般来说，AI 喜欢从大到小。它总结得很好。 但我想从大到更大。甚至从很多比特和博客到海量。有没有我可以付钱让 AI 实现这一目标的？    提交人    /u/timtak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h74rva/is_there_an_ai_for_writing_books_for_going_from/</guid>
+      <pubDate>Thu, 05 Dec 2024 08:42:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于缓解幻觉的进化大型语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h74pj5/an_evolutionary_large_language_model_for/</link>
+      <description><![CDATA[标题：用于缓解幻觉的进化大型语言模型 内容：我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览它们了。今天的论文题为“用于缓解幻觉的进化大型语言模型”，作者是 Abdennour Boulesnane 和 Abdelhakim Souilah。 本文深入探讨了大型语言模型 (LLM) 中持续存在的幻觉问题，其中模型会自信地生成不准确或虚假的信息。此类幻觉在需要高事实准确性的领域（如医疗保健和法律）构成重大风险。作者介绍了 EvoLLMs，这是一个受进化计算启发的创新框架，旨在通过自动创建高度准确的数据集来减轻问答系统中的幻觉。 论文要点：  受进化计算启发的方法：EvoLLMs 利用遗传算法来模拟选择和突变等进化过程，从而生成高质量的问答对。这一过程旨在在保持深度和相关性的同时，最大限度地减少幻觉。 与人类生成的数据集的比较：该框架在深度、相关性和覆盖率等几个关键指标上都优于人类生成的数据集，同时在减少幻觉方面提供了可比的性能。 有效的思维链提示：使用思维链提示可引导模型产生连贯且逻辑结构化的反应，从而显著减少幻觉。 自动化和减少手动管理：EvoLLMs 提供了一种可扩展的手动数据集生成替代方案，大大减少了传统上所需的时间和资源，同时减少了人工管理中固有的潜在偏见。 多种领域应用的潜力：虽然 EvoLLMs 展示了幻觉缓解方面的显着改善，未来的工作可能涉及对高度专业化领域的应用进行微调进化算法。  该研究最后提出了整合实时数据库和领域特定本体的建议，以进一步提高事实准确性，暗示了 EvoLLM 在不同信息领域的更广泛应用。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h74pj5/an_evolutionary_large_language_model_for/</guid>
+      <pubDate>Thu, 05 Dec 2024 08:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们有真实用户部署和使用人工智能代理的例子吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7411i/do_you_guys_have_examples_of_ai_agents_deployed/</link>
+      <description><![CDATA[据彭博社报道，2025 年将是人工智能代理之年： https://www.youtube.com/watch?v=kHPXbo2OkzA 你们有真实用户部署和使用人工智能代理的例子吗？    提交人    /u/CuriousActive2322   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7411i/do_you_guys_have_examples_of_ai_agents_deployed/</guid>
+      <pubDate>Thu, 05 Dec 2024 07:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Experience AI 是 Raspberry Pi 基金会的资源，为学生提供基本 AI 概念和技能的指南。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h73uz0/experience_ai_is_a_raspberry_pi_foundation/</link>
+      <description><![CDATA[它符合联合国教科文组织的 AI for Good 目标，旨在协助制定学校的 AI 教育政策和计划。该资源旨在让学生掌握 AI 知识和技能，加深他们对 AI 潜力和负责任使用的理解。 来源：https://remoteupskill.com    提交人    /u/Diligent_Relative_36   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h73uz0/experience_ai_is_a_raspberry_pi_foundation/</guid>
+      <pubDate>Thu, 05 Dec 2024 07:34:49 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 12 月 4 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h724nc/oneminute_daily_ai_news_1242024/</link>
@@ -48,13 +76,6 @@
       <pubDate>Thu, 05 Dec 2024 00:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能黑魔法防御术</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6vnur/defense_against_the_ai_dark_arts/</link>
-      <description><![CDATA[美国和其他社会将如何防范人工智能系统可能释放的“黑暗艺术”？ 这是一份新报告的主题，该报告由曾担任 9/11 委员会主任的历史学家和外交官 Philip Zelikow、卡内基国际和平基金会主席 Mariano-Florentino Cuéllar、谷歌前董事长兼首席执行官 Eric Sc​​hmidt 和兰德公司总裁兼首席执行官 Jason Matheny 共同撰写。 该报告包含美国政策制定者可以立即采取的可行步骤，以更好地为国家防御人工智能武器化做好准备，并确保民主国家在前沿人工智能能力方面保持优势。 作者就管理三个向量的融合提出了建议：私营部门主导的创新、新出现的威胁和国际努力。作者指出，一个重要的起点是制定人工智能的国家安全议程。 “许多美国人认为美国在人工智能发展方面遥遥领先，但这种自满是危险的，”施密特说。“现在是采取行动的时候了，这将需要政策制定者、技术领导者和国际盟友的参与，以应对国家安全风险，推动全球合作，建立历史性的公私伙伴关系，并确保政府能够独立评估强大的人工智能模型所带来的威胁。” “人工智能安全议程远不止监管私人产品，”泽利科夫说。 “我们必须考虑防御问题，并制定路线图，为世界上最坏的人可能利用前沿人工智能做的事情做好准备。” 完整报告可在此处获取，该报告基于以下评估：“[人工智能开发] 能力是广泛的；重要的可能是可用的计算能力。” 这意味着，目前人们普遍认为的美国在人工智能方面的优势可能是暂时的，这一发展将产生广泛的技术和地缘政治影响。 对于任何对人工智能的政策、安全和/或国家安全影响感兴趣的人来说，本报告都有很多值得考虑的地方。    提交人    /u/HooverInstitution   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h6vnur/defense_against_the_ai_dark_arts/</guid>
-      <pubDate>Thu, 05 Dec 2024 00:15:56 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有人工智能视频聊天网站或应用程序？比如互动视频聊天，比如我说的 wave，它符合要求等等</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6uo0x/is_there_any_ai_video_chat_sites_or_apps_like/</link>
       <description><![CDATA[有没有人工智能视频聊天网站或应用？比如我说的互动视频聊天，wave 可以满足要求等等 ...     提交人    /u/Ok_Communication5967   [link] [评论]]]></description>
@@ -64,30 +85,9 @@
     <item>
       <title>为初学者简化人工智能艺术 - 只需按照您的想法进行创作，快速且免费</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6rovl/ai_art_simplified_for_dummys_just_create_as_you/</link>
-      <description><![CDATA[我不知道有什么更好的方法，但这是与朋友合作并使用 AI 创造有趣事物的最快方式  请来查看它 - 它是值得的 :)    提交人    /u/GenTube0   [链接] [评论]]]></description>
+      <description><![CDATA[我不知道哪个更好，但这是与朋友合作并使用 AI 创造有趣事物的最快方式  请来查看它 - 它是值得的 :)    提交人    /u/GenTube0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h6rovl/ai_art_simplified_for_dummys_just_create_as_you/</guid>
       <pubDate>Wed, 04 Dec 2024 21:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果埃莉诺·里格比遇见了 ChatGPT，一项关于法学硕士后世界中孤独感的研究</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6r0pv/if_eleanor_rigby_had_met_chatgpt_a_study_on/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“如果 Eleanor Rigby 遇到了 ChatGPT：后法学硕士时代的孤独感研究”，作者是 Adrian de Wynter。 这篇发人深省的论文探讨了孤独与 AI 的交集，特别是研究了用户在面对孤立感时如何与 ChatGPT 等语言模型互动。研究表明，虽然这样的 AI 伴侣可以提供参与和暂时的安慰，但它们无法解决更深层次的情感需求或危机，例如自杀意念或创伤经历。以下是一些主要发现：  与 AI 互动以缓解孤独：大约 8% 的用户与 ChatGPT 的互动可以归类为孤独的表现。这些对话持续时间比平均水平要长，用户会寻求建议或确认。 对复杂问题的处理不足：在用户向 ChatGPT 提出严重问题（如自杀想法或创伤）时，该模型通常会提供一些琐碎的解决方案（例如锻炼），而无法提供适当的紧急联系人或干预措施。 有害内容增多：研究强调，在孤独的对话中，有害内容明显增加——55% 对比一般互动中的 20%。尤其是女性，她们更容易成为此类内容的目标，这种模式令人担忧，发生的可能性是男性的 22 倍。 道德和法律影响：本文提出了一些重要问题，即当用户向这些系统寻求情感支持时，人工智能的道德和法律责任。还指出，该模型在心理健康支持方面的能力和局限性缺乏足够的免责声明。 监管和行业建议：本文最后呼吁监管行动和行业合作，以解决人工智能在解决孤独问题上的滥用问题，强调透明度、安全标准，并通过技术设计促进健康的人际关系。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h6r0pv/if_eleanor_rigby_had_met_chatgpt_a_study_on/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找新的 AI 简报/视频博主</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6q5g6/looking_for_new_ai_newsletters_vloggers/</link>
-      <description><![CDATA[嗨，请分享您知道的任何 AI 时事通讯 / youtubers / xers 等，特别是那些在该领域崭露头角的人。谢谢！    提交人    /u/vaaaida   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h6q5g6/looking_for_new_ai_newsletters_vloggers/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是人工智能领域的新闻动态。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6k70q/heres_whats_making_news_in_ai/</link>
-      <description><![CDATA[聚焦：OpenAI 从 DeepMind 挖走 3 名顶级工程师（来源：WIRED）  谷歌的全新生成式 AI 视频模型现已推出（来源：The Verge） Encore 的 AI 网站可帮助您购买古董和二手物品（来源：WIRED） OpenAI 为期 12 天的“shipmas”包括 Sora 和新推理模型（来源：The Verge） HuggingFace 首席执行官对中国开源 AI 模型表示担忧（来源：TechCrunch）  如果您想在第一时间了解 AI 新闻，它将于 2020 年 10 月 23 日在 WIRED 上线。 href=&quot;https://unfoldxyz.beehiiv.com/p/openai-stole-three-top-engineers-from-google-s-deepmind?utm_source=unfoldxyz.beehiiv.com&amp;utm_medium=newsletter&amp;utm_campaign=openai-stole-three-top-engineers-from-google-s-deepmind&amp;_bhlid=d19b152d58761e96e007b487eee81656d0e7f84b&quot;&gt;这里首先。包含所有来源和文章的完整摘要    提交人    /u/codeharman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h6k70q/heres_whats_making_news_in_ai/</guid>
-      <pubDate>Wed, 04 Dec 2024 16:27:41 GMT</pubDate>
     </item>
     <item>
       <title>Spotify Wrapped 现已包含一个由人工智能生成的播客，可分析你的收听习惯</title>
@@ -99,7 +99,7 @@
     <item>
       <title>您对公司从比特币挖矿转向人工智能数据中心有何看法？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h6gix6/what_are_your_thoughts_on_companies_converting/</link>
-      <description><![CDATA[这是 Core Scientific 关于此举背后原因的最新视频。 Core Scientific 将其一半以上的比特币挖矿业务转变为人工智能数据中心，引起了轰动。虽然许多矿工才刚刚开始探索人工智能，但 Core Scientific 在人工智能领域的旅程始于 2019 年。首席执行官 Adam Sullivan 和首席开发官 Russell Cann 揭示了这一战略转变背后的原因，打破了公司对人工智能的早期愿景以及推动这一行业领先转型的因素。    提交人    /u/CHESTXRS_DOME   [链接] [评论]]]></description>
+      <description><![CDATA[这是 Core Scientific 最新视频中关于他们此举背后原因的片段。 Core Scientific 正将其一半以上的比特币挖矿业务转变为人工智能数据中心，引起轰动。虽然许多矿工才刚刚开始探索人工智能，但 Core Scientific 在人工智能领域的旅程始于 2019 年。首席执行官 Adam Sullivan 和首席开发官 Russell Cann 揭示了这一战略转变背后的原因，分解了公司对人工智能的早期愿景以及推动这一行业领先转型的因素。    提交人    /u/CHESTXRS_DOME   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h6gix6/what_are_your_thoughts_on_companies_converting/</guid>
       <pubDate>Wed, 04 Dec 2024 13:54:17 GMT</pubDate>
     </item>
