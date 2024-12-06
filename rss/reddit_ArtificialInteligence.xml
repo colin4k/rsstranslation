@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 06 Dec 2024 03:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 06:01:25 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 12 月 5 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7uioc/oneminute_daily_ai_news_1252024/</link>
+      <description><![CDATA[ 特朗普任命大卫·萨克斯为白宫人工智能和加密货币沙皇。[1] OpenAI 宣布新的每月 200 美元的 ChatGPT Pro 订阅。[2] AWS 为其 Bedrock LLM 服务带来快速路由和缓存。[3] 人工智能探测器错误地指责学生作弊——后果严重。[4]  来源包括：https://bushaicave.com/2024/12/05/12-5-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7uioc/oneminute_daily_ai_news_1252024/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:48:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google PaliGemma 2（视觉模型）发布，开源</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7ubye/google_paligemma_2_vision_models_released/</link>
+      <description><![CDATA[Google 发布了 3b、10b 和 28b 版本的 PaliGemma 2，分别支持 224、448 和 896 的图像暗淡。了解如何使用 Google Colab/本地使用 HugginFace 使用这些模型：https://youtu.be/H6JNEVQc0tw?si=xpy3HgOhamoFhyZJ    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7ubye/google_paligemma_2_vision_models_released/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 是否已完全变成垃圾？需要替代 AI 进行文本提取</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7ttzf/has_chatgpt_turned_into_total_garbage_need/</link>
+      <description><![CDATA[我并不经常感到沮丧，但是自从他们升级版本以包含在线搜索功能后，ChatGPT 就变得不那么有效了。昨天 2 个小时以来，我一直在撞脑袋，差点扔掉键盘，因为 ChatGPT 无法正确提取文本并对其进行排序。它一直在编造东西，放上不属于它的名字。今天又用另一份文件试了一次。没有好转。OpenAI 想要为检查自己工作的人工智能收取 200 美元的费用？那我为什么要花 30 美元呢？ 所以我受够了。我需要一个新的人工智能。它可以从 pdf 文件中提取文本并将其放入表格中，这样我就可以将其复制到 excel 文档中。我正在处理残疾问题，我正在使用人工智能来帮助我上诉被拒绝的医疗保险索赔。 ChatGPT 有助于总结 500 页内容，帮助我交叉引用政策和写信，所以它在我心中占有一席之地，因为它帮助很大——但我的心理健康因我现在试图完成的事情而受到影响。如果有其他选择，我很乐意听听。     提交人    /u/JustaPhaze71   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7ttzf/has_chatgpt_turned_into_total_garbage_need/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地运行的音频转录和分类</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7tavu/locallyrun_audio_transcription_and_diarization/</link>
+      <description><![CDATA[您将使用哪种产品来转录和记录音频文件？ 理想情况下是本地运行，但我也可以考虑使用便宜且信誉良好的云服务。 音频文件主要是带有大量背景噪音的对话，我希望对其进行记录、转录和总结。    提交人    /u/Myfirstreddit124   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7tavu/locallyrun_audio_transcription_and_diarization/</guid>
+      <pubDate>Fri, 06 Dec 2024 04:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会为人工智能付费吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7s3yq/do_you_pay_for_ai/</link>
+      <description><![CDATA[我一直在为一些开发项目支付 Anthropic 的 API。 我的工作支付了 Microsoft copilot 的费用，我用它来处理工作事务。 目前正在考虑将 chatGPT 和 Gemini 计划用于个人用途。哪一个比另一个更好？它们值得吗？我发现免费版本有点不足（产生幻觉、信息过时和用完令牌），并且正在考虑一些更好且始终可用的东西。 有什么想法吗？    提交人    /u/notdoreen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7s3yq/do_you_pay_for_ai/</guid>
+      <pubDate>Fri, 06 Dec 2024 03:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>在人工智能集成新兴领域使用人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7rvda/using_ai_in_a_field_where_ai_integration_is_new/</link>
+      <description><![CDATA[我是 AI 新手。我使用 Chat GPT 问过一些问题，但这就是我使用 AI 的程度。我在音乐行业工作，具体从事现场活动/音乐会制作。本周我参加了一个会议，今天我参加的一个小组讨论是关于使用技术简化工作流程的。 这个小组的前 50 分钟对我来说没什么信息量，我考虑离开，但最后 10 分钟对我来说是宝贵的。演讲者开始滔滔不绝地讲述他们用来简化工作的 AI 技术。其中一位是 Otter，用于在 Zoom 会议期间做笔记，这对我来说将是一个改变游戏规则的技术。另一个是名为 Superhuman 的电子邮件程序，听起来也很棒。我觉得有几件事可以让 AI 来做，但不知道从哪里开始。以下是两件事，如果有人能给我指明正确的方向那就太好了！ 1) 我阅读了很多包含场地技术信息的 PDF。所有这些“技术包”都包含场地之间的基本相同信息，但格式总是大不相同。提取信息可能需要一段时间。有没有办法上传这些“技术包”并要求 AI 引擎提取各种信息，如舞台大小、网格高度、舞台前部尺寸等，并让它阅读这些技术包并输出信息？ 2) 我发送了很多批量电子邮件，但讨厌 BCC 电子邮件，因为我需要更改主题以匹配我工作的城市，并且我喜欢个性化它。有人说 reply io 可能能够用于这样的事情，有人有其他解决方案吗？    提交人    /u/gunga_galungaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7rvda/using_ai_in_a_field_where_ai_integration_is_new/</guid>
+      <pubDate>Fri, 06 Dec 2024 03:20:19 GMT</pubDate>
+    </item>
     <item>
       <title>我正在设计一个基于 MLAGI（机器学习人工智能）的机器人。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7rgw2/im_designing_a_robot_that_runs_on_mlagi_machine/</link>
@@ -55,46 +97,11 @@
       <pubDate>Thu, 05 Dec 2024 22:19:02 GMT</pubDate>
     </item>
     <item>
-      <title>非常详细的主动推理文章（非法学硕士）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7k4yq/active_inference_article_nonllm_that_is_very/</link>
-      <description><![CDATA[https://medium.com/@ideami/how-to-grow-a-sustainable-artificial-mind-from-scratch-54503b099a07 本文涵盖了与主动推理相关的几个主题。我发现它很有用，因为它从非常高的层次开始，然后用大量细节分解术语。 顶部部分概述： “主动推理如此有前途的原因在于它将所有内容整合在一起：它将感知、行动和学习整合到一个过程中，提供了一种设计 AI 系统的方法，该系统不仅可以动态地适应环境，还可以模拟人类典型的好奇心和计划。主动推理以不同的方式解决了我上面描述的当前范式的局限性： 效率和可持续性：通过专注于最小化自由能，主动推理优化了资源使用并减少了计算浪费，使系统更加高效。 可解释性：其在概率生成模型中的基础为系统如何感知、预测和行动提供了清晰、可解释的结构，为其决策提供了见解。脆弱性：主动推理构建了强大的世界模型，这些模型通过感官反馈不断更新，使系统更具适应性，更不易碎。 预测推理和规划：通过将感知和行动整合到一个预测框架中，它可以实现深度推理和长期规划，解决当前系统 2 能力的差距。 道德护栏：基于主动推理的系统可以结合人类一致的先验，确保行动将伤害降到最低，并符合道德原则。 主动持续学习：其不断的预测、观察和更新循环确保系统不断学习并适应其环境。    提交人    /u/oroechimaru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7k4yq/active_inference_article_nonllm_that_is_very/</guid>
-      <pubDate>Thu, 05 Dec 2024 21:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>谄媚欺骗大型语言模型中谄媚行为对用户信任的影响</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7jl52/flattering_to_deceive_the_impact_of_sycophantic/</link>
-      <description><![CDATA[标题：“从奉承到欺骗：谄媚行为对大型语言模型中用户信任的影响” 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必把它们全部翻遍了。今天的论文题为“从奉承到欺骗：谄媚行为对大型语言模型中用户信任的影响”，作者是 María Victoria Carro。 本文探讨了大型语言模型的谄媚行为及其对用户信任的潜在影响。在这种情况下，谄媚是指模型倾向于将其响应与用户偏好或信念保持一致，这通常以牺牲事实正确性为代价。这项研究的主要重点是确定这种行为是否会降低用户对这些模型的信任。以下是本研究的一些主要发现：  实验设置：参与者被分为两组：一组与专门设计的阿谀奉承 GPT 模型进行互动，而另一组使用标准 ChatGPT。他们完成任务组件，并可以选择在被认为值得信任的情况下继续使用该模型。 对信任的影响：与使用标准模型的参与者相比，接触阿谀奉承反应的参与者报告的表现出的信任（在他们的行为中）和感知到的信任（通过自我评估）水平明显较低。 行为观察：标准模型组表现出的信任占 94% 的时间，而阿谀奉承模型组表现出信任的时间仅为 58%。这种差异强调了感知到的谄媚行为对用户信任可能产生的负面影响。 感知与现实：用户似乎凭直觉就能识别出谄媚行为，这导致即使在获得准确信息的情况下也会产生不信任。研究表明，这种不信任的根源在于模型倾向于优先考虑用户一致性而不是事实准确性。 更广泛的影响：该研究强调了人工智能与人类互动中的一个关键挑战，指出人工智能系统必须平衡用户偏好和客观事实以保持可信度。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7jl52/flattering_to_deceive_the_impact_of_sycophantic/</guid>
-      <pubDate>Thu, 05 Dec 2024 20:55:43 GMT</pubDate>
-    </item>
-    <item>
       <title>刚刚开始攻读人工智能学士学位（需要建议）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7j9pd/just_started_my_bachelors_in_ai_need_tips/</link>
       <description><![CDATA[你好！我刚刚开始攻读学士学位，我想知道我应该学习什么东西，例如，我应该学习哪些编程语言和哪些课程。任何其他额外的建议也将不胜感激    提交人    /u/retarded_banana_6t9   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7j9pd/just_started_my_bachelors_in_ai_need_tips/</guid>
       <pubDate>Thu, 05 Dec 2024 20:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐 - 人工智能聊天机器人 / 咨询预约 / 实时客服聊天</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7j1lv/reccomendations_ai_chat_bot_consultation_booking/</link>
-      <description><![CDATA[我为一家销售 B2C 产品的零售商工作。我们正在寻找一个可以用于我们网站的新聊天机器人，我们销售家具，因此希望聊天机器人在此阶段能够完成 3 件事  能够阅读我们的完整网站并根据网页回答客户的问题，我们还希望能够上传聊天机器人可用于获取公共网站上不存在的信息的私人 PDF。 我们希望客户能够预约电话咨询。理想情况下，这将以某种方式链接到 monday.com，但也可以查看其他选项。 如果客户请求与某人聊天而不是与机器人交谈，我们希望代理能够加入聊天。然后，我们需要我们的客户服务团队能够介入并进行这些更改。   其他功能取决于我们愿意支付的价格。理想情况下，某种仪表板，如对讲机，我们可以在其中看到无法找到结果的建议信息，以便我们可以优先创建内容并随着时间的推移改进聊天机器人。     提交人    /u/OkPresentation652   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7j1lv/reccomendations_ai_chat_bot_consultation_booking/</guid>
-      <pubDate>Thu, 05 Dec 2024 20:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>模块化上下文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7iur9/modular_context/</link>
-      <description><![CDATA[如果人工智能公司真的很聪明，他们难道不会允许你从对话中编译上下文并在模型之间切换以增加其模型的整体知识库吗？ 我知道，有了正确的提示，这很可能是可能的，但这将是一个简洁的功能，可以简化模型之间的工作流程，因为每个模型都有自己的优点和缺点。    提交人    /u/BaconEggAndScorpion   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7iur9/modular_context/</guid>
-      <pubDate>Thu, 05 Dec 2024 20:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像生成模型评估挑战赛（香肠、KOALA、PixArt-α）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7hh06/image_generation_model_evaluation_challenge/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7hh06/image_generation_model_evaluation_challenge/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:27:29 GMT</pubDate>
     </item>
     <item>
       <title>我在使用 Microsoft Copilot 时遇到了一些奇怪且令人毛骨悚然的事情。</title>
@@ -123,13 +130,6 @@
       <description><![CDATA[据彭博社报道，2025 年将是人工智能代理之年： https://www.youtube.com/watch?v=kHPXbo2OkzA 你们有真实用户部署和使用人工智能代理的例子吗？    提交人    /u/CuriousActive2322   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7411i/do_you_guys_have_examples_of_ai_agents_deployed/</guid>
       <pubDate>Thu, 05 Dec 2024 07:47:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 12 月 4 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h724nc/oneminute_daily_ai_news_1242024/</link>
-      <description><![CDATA[ OpenAI 预告从明天开始的 12 天内将有神秘产品发布。[1] DeepMind 的 GenCast AI 非常擅长预测天气。[2] Google DeepMind 推出了 Genie 2，这是一款可以生成可玩的 3D 世界的 AI。[3] MALT：通过多智能体 LLM 训练提高推理能力。[4]  来源包括：https://bushaicave.com/2024/12/04/12-4-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h724nc/oneminute_daily_ai_news_1242024/</guid>
-      <pubDate>Thu, 05 Dec 2024 05:40:57 GMT</pubDate>
     </item>
     <item>
       <title>Google Genie 2：生成可玩的 3D 视频游戏</title>
