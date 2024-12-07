@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 06 Dec 2024 18:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 00:03:48 GMT</lastBuildDate>
+    <item>
+      <title>为了软件维护者的利益，请帮助我减少使用 git 的麻烦</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8adez/help_me_be_less_shit_at_git_for_the_sake_of/</link>
+      <description><![CDATA[我编程和使用 git 已经有一段时间了。我从来没有合作过，所以我的 git 工作流程到目前为止都是一个主分支，我会在提交功能时将其推送到我的远程仓库。我很少将它用于任何严肃的目的，它主要用于在我的工作站和笔记本电脑之间同步我的代码。 我开始为 Github 上的几个开源项目做贡献。这让我意识到我并不真正了解使用 git 进行协作的最佳方式。没有人对我说过这件事，但在我看来，我的提交看起来很混乱。 例如：我正在编写三个单独的功能/修复。它们都将获得自己的提交。我希望它们都是单独的拉取请求，因为它们每个都需要单独的讨论。如果我只是对同一个分支进行三次提交，那么它们都会被集中到一个 PR 中。 我是否应该为每个功能创建一个新分支，从分支提交 PR，然后将它们全部合并回我的主分支以继续我的工作？如何确保我可以将我的 PR 作为干净的单个提交提交，而不会因为尝试使我的本地代码保持最新而产生大量噪音？ 如果我有几个应该单独进行 PR 的功能，但是我在本地测试它们的方式要求它们都在我的本地代码中一起实现，该怎么办？我是否应该合并它们进行测试，进行测试，然后删除合并的分支并提交，然后再使用单个分支提交我的 PR？ 我想我只是在寻找最佳实践，这样我就不会惹恼维护我试图为其贡献代码的项目的人。    提交人    /u/HittingSmoke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8adez/help_me_be_less_shit_at_git_for_the_sake_of/</guid>
+      <pubDate>Fri, 06 Dec 2024 20:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>围巾峰会 2024 年 12 月 10 日——因为即使是您的数据也值得变得舒适！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h89ezl/scarf_summit_dec_10_2024_because_even_your_data/</link>
+      <description><![CDATA[如果您想知道如何让您的开源项目更智能，而不是更努力地工作，请于2024 年 12 月 10 日下午 3:00 - 下午 4:30（美国东部标准时间）参加 Scarf 峰会。完全免费参加。 🧣 https://about.scarf.sh/webinars/scarf-summit-2412    提交人    /u/IdaBzo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h89ezl/scarf_summit_dec_10_2024_because_even_your_data/</guid>
+      <pubDate>Fri, 06 Dec 2024 19:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有记忆功能的 Agentic RAG</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</link>
+      <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理是： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</guid>
+      <pubDate>Fri, 06 Dec 2024 19:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAPS.ME 联合创始人 Alexander Borsuk 试图关闭 Organic Maps 开源分支</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8936b/mapsme_cofounder_alexander_borsuk_tries_to_close/</link>
+      <description><![CDATA[更多详细信息：https://github.com/orgs/organicmaps/discussions/9837    由   提交  /u/andoriyu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8936b/mapsme_cofounder_alexander_borsuk_tries_to_close/</guid>
+      <pubDate>Fri, 06 Dec 2024 19:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Nothing 主题笔记应用程序的新更新。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</link>
+      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，并附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:54:43 GMT</pubDate>
+    </item>
     <item>
       <title>查看我的 Spotify 自动音乐下载器</title>
       <link>https://www.reddit.com/r/opensource/comments/1h81d4l/check_out_my_spotify_automated_music_downloader/</link>
@@ -55,7 +90,7 @@
       <pubDate>Thu, 05 Dec 2024 14:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>HandiRokuRemote - 通过手势控制你的 Roku</title>
+      <title>HandiRokuRemote - 使用手势控制你的 Roku</title>
       <link>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</link>
       <description><![CDATA[这是一个 Python 应用程序，让您只用手势即可控制您的 Roku 设备！使用 Mediapipe 的手部标志检测器，它可以跟踪您的手、识别手势并通过其外部控制协议向您的 Roku 发送命令。 查看 演示 gif 功能： *实时手部跟踪：“竖起大拇指”等手势可控制音量或导航。 *跨设备支持：可与同一网络上的任何 Roku 设备配合使用。 *设置简单：插入摄像头，即可开始使用。 目前仅限于 PC。  在 Github 上查看代码 或者下载 .exe 并试用！ 下载 让我知道你的想法！    提交人    /u/BB_dev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</guid>
@@ -104,46 +139,11 @@
       <pubDate>Wed, 04 Dec 2024 21:58:59 GMT</pubDate>
     </item>
     <item>
-      <title>Allgood - 即时检查您的 TS/JS 应用的健康情况（支持 Express、Hono 和 Fastify）</title>
+      <title>Allgood - 为您的 TS/JS 应用提供即时健康检查（支持 Express、Hono 和 Fastify）</title>
       <link>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</link>
       <description><![CDATA[嘿 r/opensource，我最终设置的样板文件的一部分是健康检查系统。受到 Ruby Gem（同名）的启发，我决定创建一个健康检查页面，您可以将其附加到 javascript 或 typescript 项目的路由（通常是 /healthcheck）。 这是一个有趣的学习项目，开源无疑让我更加注意我的代码质量。 我还添加了一些测试（我真的应该进行 TDD，但没关系），这样我就可以轻松接受贡献和修复。 希望你喜欢！    提交人    /u/joshghent   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</guid>
       <pubDate>Wed, 04 Dec 2024 21:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目如何执行其商业许可？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6qkl2/how_does_an_open_source_project_enforce_its/</link>
-      <description><![CDATA[有些项目是开源的，但需要购买许可证才能用于商业用途，例如 FancyBox https://github.com/fancyapps/fancybox?tab=readme-ov-file。  我想知道这究竟是如何工作的？完整的代码在 GitHub 上，可以自由分叉，并且无论有没有“许可证”，功能都没有任何限制。我实际上购买了许可证，结果只是发送给我的一个 PDF，就像一张收据一样。如果我只是使用代码而不购买许可证，他们怎么会发现？他们是否在代码中嵌入了某种跟踪器，以便他们可以监控每个分叉并查看它们是否处于“商业用途”？    由    /u/mikeVVcm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6qkl2/how_does_an_open_source_project_enforce_its/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的 ToDo 列表应用程序，不基于云 + 支持子任务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6o6uz/todo_list_application_for_windows_that_is_not/</link>
-      <description><![CDATA[我正在寻找一个适用于 Windows 的开源非云子任务支持的待办事项列表应用程序。该应用程序必须支持子任务。我说的不是 MS ToDo 那样的“步骤”。我真的想要一个允许我缩进任务的待办事项列表应用程序，这样它们就会显示父子关系。不是在寻找基于终端的应用程序。如果它支持标记就好了。按标记排序，按标记搜索。还想更改任务的颜色并为所有任务/子任务添加注释。有人有什么建议吗？希望那里有一些东西…… 编辑：好吧，我找到了我想要的东西，看看 ToDoList https://www.abstractspoon.com/ 它满足了我的所有需求 + 更多。   由    /u/OMGZwhitepeople  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6o6uz/todo_list_application_for_windows_that_is_not/</guid>
-      <pubDate>Wed, 04 Dec 2024 19:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>矢量数据库和 AI 代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6nva8/vector_database_and_ai_proxy/</link>
-      <description><![CDATA[        提交人    /u/diretnan   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6nva8/vector_database_and_ai_proxy/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025年FOSDEM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6l7t9/fosdem_2025/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6l7t9/fosdem_2025/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:07:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟开源政策峰会</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6l50t/eu_open_source_policy_summit/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6l50t/eu_open_source_policy_summit/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:05:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

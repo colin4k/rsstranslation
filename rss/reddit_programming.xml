@@ -4,7 +4,119 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Dec 2024 18:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 00:03:41 GMT</lastBuildDate>
+    <item>
+      <title>800% 细节：调整 Stunt Island 已有 30 年历史的 3D 引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8f8rm/800_detail_tweaking_stunt_islands_30yearold_3d/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8f8rm/800_detail_tweaking_stunt_islands_30yearold_3d/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>悲观还是乐观并发控制？从真实客户场景中吸取的教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8er0g/pessimistic_or_optimistic_concurrency_control/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8er0g/pessimistic_or_optimistic_concurrency_control/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Vale 和 Mojo 中实现线性/不可破坏类型 [视频]</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8eqru/implementing_linear_nondestructible_types_in_vale/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8eqru/implementing_linear_nondestructible_types_in_vale/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 V7 引入 stdio 之前，Unix 中的缓冲 IO</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8eqij/buffered_io_in_unix_before_v7_introduced_stdio/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8eqij/buffered_io_in_unix_before_v7_introduced_stdio/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>恶意 Ruby 代码的出现</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8eq2d/advent_of_criminally_bad_ruby_code/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8eq2d/advent_of_criminally_bad_ruby_code/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>从历史上看，4NF 的解释不必要地令人困惑</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8epvp/historically_4nf_explanations_are_needlessly/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8epvp/historically_4nf_explanations_are_needlessly/</guid>
+      <pubDate>Fri, 06 Dec 2024 23:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typeconf：像代码一样管理你的配置</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8cjms/typeconf_manage_your_configs_like_code/</link>
+      <description><![CDATA[  由    /u/heraldev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8cjms/typeconf_manage_your_configs_like_code/</guid>
+      <pubDate>Fri, 06 Dec 2024 21:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[WIP] Type-C 编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8cj4m/wip_typec_programming_language/</link>
+      <description><![CDATA[  由    /u/praisethemoon_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8cj4m/wip_typec_programming_language/</guid>
+      <pubDate>Fri, 06 Dec 2024 21:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Go 标准库开始</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8cff6/start_with_the_go_standard_library/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8cff6/start_with_the_go_standard_library/</guid>
+      <pubDate>Fri, 06 Dec 2024 21:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的代码通过了土耳其测试吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8ccad/does_your_code_pass_the_turkey_test/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8ccad/does_your_code_pass_the_turkey_test/</guid>
+      <pubDate>Fri, 06 Dec 2024 21:32:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于协作编辑的谎言（一）：离线编辑算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8cbj9/lies_i_was_told_about_collab_editing_part_1/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8cbj9/lies_i_was_told_about_collab_editing_part_1/</guid>
+      <pubDate>Fri, 06 Dec 2024 21:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title><dialog>：对话框元素</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8cbbz/dialog_the_dialog_element/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8cbbz/dialog_the_dialog_element/</guid>
+      <pubDate>Fri, 06 Dec 2024 21:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的贪吃蛇游戏通过修改代码和重构大部分代码，最终缩减到了 57 个字节</title>
+      <link>https://www.reddit.com/r/programming/comments/1h89eyl/my_snake_game_got_to_57_bytes_by_just_messing/</link>
+      <description><![CDATA[这次字节减少与其他不同。 通常，我心中有一个如何减少字节的想法，并尝试操纵代码使其工作。 这次我很无聊，所以我再次查看了代码，只是因为我想删除 BP 寄存器的使用，因为我认为“它有潜力”，你可以看到 PR，我设法在不增加字节数的情况下做到这一点这里，然后过了很长一段时间，我意识到一种滥用它的方法，即使用另一个寄存器（DX）来存储一些值而不添加任何字节，并且认为它也有一些潜力，因为 DX 初始化需要 3 个字节，也许可以通过某种方式减少... 我合并了 PR，因为它使游戏速度变慢了一点，即使它没有节省任何字节，因为我不能想办法优化 DX 的初始化，但后来我意识到 DX 的初始化不是问题，而是另一个问题的解决方案。 到目前为止，我初始化 AX 的方式是使用 MOV，将 AX 设置为 0 是相当浪费的，但我必须使用 MOV 进行 LDS 初始化，因为 MOV 的第一个字节是 0xB8，但如果我在那里初始化 DX，我将解决问题，并且能够在不到 3 个字节内设置 AX。 问题是 MOV DX, 开头没有 0xB8，所以我必须使用 MOV AX,，但没问题，我可以将 AX 初始化为我想要的 DX 中的值并执行 XCHG，但这样就只剩下一个字节了将 AX 设置为 0，这是不可能的（这就是我没有将其提交到原始 PR 中的原因）。  但是，后来我意识到，我们可以只用 1 个字节将 DX 设置为 0，这样 XCHG 之后 AX 就已经包含 0。 我在 MOV 和 XCHG 之间植入了一个 CWD，这样 DX 将被设置为 DX 中所需值的 MSB，该值是正数，因此 MSB 为 0。 我撤销了从第一个 PR 所做的更改并合并了新的。 顺便说一句，这次我不能只使用 0x0 虚拟字节，因为那会错误地设置 DX，所以我不得不使用 LDS DI，[BX+SI+0x0]，这显然是行不通的即使使用 -O0，nasm 也能正确解析，因为它总是会丢弃 0x0，所以我不得不对其进行硬编码。    提交人    /u/Perfect-Highlight964   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h89eyl/my_snake_game_got_to_57_bytes_by_just_messing/</guid>
+      <pubDate>Fri, 06 Dec 2024 19:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 进行自动化：再也不会错过免费游戏！- 第 1 部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1h898mh/automation_with_python_never_miss_a_free_game/</link>
+      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h898mh/automation_with_python_never_miss_a_free_game/</guid>
+      <pubDate>Fri, 06 Dec 2024 19:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有记忆功能的 Agentic RAG</title>
+      <link>https://www.reddit.com/r/programming/comments/1h89602/agentic_rag_with_memory/</link>
+      <description><![CDATA[  由    /u/External_Ad_11  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h89602/agentic_rag_with_memory/</guid>
+      <pubDate>Fri, 06 Dec 2024 19:13:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>编程中一切罪恶的平方根</title>
+      <link>https://www.reddit.com/r/programming/comments/1h87ue9/the_square_roots_of_all_evil_in_programming/</link>
+      <description><![CDATA[  由    /u/neilmadden  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h87ue9/the_square_roots_of_all_evil_in_programming/</guid>
+      <pubDate>Fri, 06 Dec 2024 18:16:46 GMT</pubDate>
+    </item>
     <item>
       <title>Leetcode 为何如此受欢迎</title>
       <link>https://www.reddit.com/r/programming/comments/1h87eyz/why_leetcode_is_so_popular/</link>
@@ -32,118 +144,6 @@
       <description><![CDATA[  由    /u/GitNation  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h84fgo/call_for_presentations_react_summit_june_13_17/</guid>
       <pubDate>Fri, 06 Dec 2024 15:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计初创企业基础设施团队</title>
-      <link>https://www.reddit.com/r/programming/comments/1h82jvs/designing_a_startup_infra_team/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h82jvs/designing_a_startup_infra_team/</guid>
-      <pubDate>Fri, 06 Dec 2024 14:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>采访 Microchess 创始人 Peter Jennings</title>
-      <link>https://www.reddit.com/r/programming/comments/1h80vz6/interview_with_microchess_creator_peter_jennings/</link>
-      <description><![CDATA[  由    /u/NoSoftware3721  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h80vz6/interview_with_microchess_creator_peter_jennings/</guid>
-      <pubDate>Fri, 06 Dec 2024 13:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI O1 来了——您将如何使用它？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7yi7z/openai_o1_is_here_how_will_you_use_it/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7yi7z/openai_o1_is_here_how_will_you_use_it/</guid>
-      <pubDate>Fri, 06 Dec 2024 10:33:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在基础设施中导航人工智能：应该做的、不应该做的以及它为何重要</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7yfx1/navigating_ai_in_your_infrastructure_dos_donts/</link>
-      <description><![CDATA[  由    /u/New_Detective_1363  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7yfx1/navigating_ai_in_your_infrastructure_dos_donts/</guid>
-      <pubDate>Fri, 06 Dec 2024 10:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现大型机 Cobol 代码库现代化的 5 种方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7y1sv/5_ways_to_modernize_a_mainframe_cobol_codebase/</link>
-      <description><![CDATA[  由    /u/codingdecently  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7y1sv/5_ways_to_modernize_a_mainframe_cobol_codebase/</guid>
-      <pubDate>Fri, 06 Dec 2024 10:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>70% 的问题：关于人工智能辅助编码的残酷事实</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/</link>
-      <description><![CDATA[  由    /u/_srbhr_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/</guid>
-      <pubDate>Fri, 06 Dec 2024 09:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何让 Celery 任务变得坚不可摧</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7xtew/how_we_made_celery_tasks_bulletproof/</link>
-      <description><![CDATA[  由    /u/protoplancton  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7xtew/how_we_made_celery_tasks_bulletproof/</guid>
-      <pubDate>Fri, 06 Dec 2024 09:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>从第一原理出发的 TLA</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7xt2j/tla_from_first_principles/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7xt2j/tla_from_first_principles/</guid>
-      <pubDate>Fri, 06 Dec 2024 09:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对 /tmp</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7xdie/against_tmp/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7xdie/against_tmp/</guid>
-      <pubDate>Fri, 06 Dec 2024 09:08:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[书评] 有效的平台工程 • Chankramath、Cheneweth、Oliver、Alvarez 和 Reisz</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7x2fm/book_review_effective_platform_engineering/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7x2fm/book_review_effective_platform_engineering/</guid>
-      <pubDate>Fri, 06 Dec 2024 08:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>模式是否是编程语言弱点的标志？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7wt37/are_patterns_a_sign_of_weakness_in_programming/</link>
-      <description><![CDATA[  由    /u/interetest  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7wt37/are_patterns_a_sign_of_weakness_in_programming/</guid>
-      <pubDate>Fri, 06 Dec 2024 08:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年你应该使用的现代 JavaScript 数组方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7w848/modern_javascript_array_methods_you_should_be/</link>
-      <description><![CDATA[  由    /u/programmerjunky  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7w848/modern_javascript_array_methods_you_should_be/</guid>
-      <pubDate>Fri, 06 Dec 2024 07:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国软件工程薪酬地图</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/</guid>
-      <pubDate>Fri, 06 Dec 2024 05:06:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>React v19 – React</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7tgk0/react_v19_react/</link>
-      <description><![CDATA[  由    /u/Abhi_mech007  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7tgk0/react_v19_react/</guid>
-      <pubDate>Fri, 06 Dec 2024 04:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用排序集成学习的机器学习交易机器人</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7s4gp/ml_trading_bot_that_uses_ranked_ensemble_learning/</link>
-      <description><![CDATA[  由    /u/Inevitable-Air-1712  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7s4gp/ml_trading_bot_that_uses_ranked_ensemble_learning/</guid>
-      <pubDate>Fri, 06 Dec 2024 03:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Apryse 和 GPT 从 PDF 文件生成见解</title>
-      <link>https://www.reddit.com/r/programming/comments/1h7pz8m/how_to_generate_insights_from_pdf_files_with/</link>
-      <description><![CDATA[  由    /u/TheLostWanderer47  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h7pz8m/how_to_generate_insights_from_pdf_files_with/</guid>
-      <pubDate>Fri, 06 Dec 2024 01:43:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
