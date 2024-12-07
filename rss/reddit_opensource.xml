@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Dec 2024 03:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 06:02:10 GMT</lastBuildDate>
+    <item>
+      <title>贪吃蛇 AI 游戏/模拟器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8kjm7/snake_ai_gamesimulator/</link>
+      <description><![CDATA[大家好， 在过去的 72 小时里，我一直在开发一款 AI 贪吃蛇游戏（我知道，非常基础），但这只是我使用一段时间以来学到的一些寻路算法进行练习。这款游戏很酷，但也存在一些重大缺陷。 https://github.com/jsap7/snake 目前，它使用 Tkinter 和 Pygame 等 Python 包在您的桌面上本地运行，但我的目标是最终将其转换为 Web 应用程序，以便互联网上的任何人都可以访问它并使用它。目标是让它变得信息丰富且有趣！ 我的一些算法不像定义的那样工作，比如汉密尔顿循环、遗传算法（根本不训练）和其他一些算法都很糟糕。我其中也有几个混合算法，它们表现还不错，但它们可以改进。 我将开放这个项目以使其开源。 这个项目的概念很简单，但在过去几天里，代码库变得复杂了。 如果你们中有人对以下内容感兴趣： - 升级算法 - 添加更多算法 - 升级 UI - 添加任何很酷的新功能 -等等... 请随意分叉 repo 或打开拉取请求。请随时给我发私信以获取更多信息。 最初是一个短期个人项目，后来成为我真正感兴趣充实的东西。 我对所有想法持开放态度，欢迎大家贡献自己的力量。我也不介意你想把它当作你自己的。这只是为了好玩。希望这能引起你们中的一些人的兴趣，因为我计划休息几天，因为我变得有点太痴迷了，在实际过去的时间里花了太多时间在这上面。我需要去摸摸草地。    提交人    /u/jsap777   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8kjm7/snake_ai_gamesimulator/</guid>
+      <pubDate>Sat, 07 Dec 2024 04:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>原理框架：使用第一原理推理生成 AI 代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8jsly/principles_framework_generate_ai_agents_using/</link>
+      <description><![CDATA[  由    /u/miltonian3  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8jsly/principles_framework_generate_ai_agents_using/</guid>
+      <pubDate>Sat, 07 Dec 2024 03:43:03 GMT</pubDate>
+    </item>
     <item>
       <title>Fiddler Classic ZSTD 解压自定义规则。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h8ix8h/fiddler_classic_zstd_decompression_custom_rule/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨 r/opensource！ 我很高兴与大家分享，我已更新了我的分支，即 7-Zip 的修补版本。最新的改进使其功能更强大、更用户友好，提供的功能可满足开发人员和系统管理员的实际使用情况。 存储库： github.com/keklick1337/7zip-extended 有什么新内容？ 1.密码暴力破解支持（新功能）  现在，您可以使用 -fp 参数提供密码列表来暴力破解加密档案。 示例：此工具将尝试列表中的所有密码，并在找到后在终端中显示有效密码。./7zz x test.7z -fppasswords.txt  2. 高级文件掩码提取（旧功能）  改进了掩码处理，支持使用特殊字符 $? 的基于后缀的模式。这使得文件匹配更加准确和高效，特别是对于复杂的目录结构。 使用示例：  Linux： ./7zz x test.7z -i&#39;!\*/\*ense\*.txt$?&#39; -i&#39;!\*/\*ip\*.hhp$?&#39; -i&#39;!\*.mak$?&#39; -ssc- Windows： 7zz.exe x test.7z -i!\*/\*ense\*.txt$? -i!\*/\*ip\*.hhp$? -i!\*.mak$? -ssc-   构建说明 对于 基于 Debian 的系统： apt update -y apt install make gcc libc-dev git -y git clone cd 7zip-extended/CPP/7zip/Bundles/Alone2 make -j -f makefile.gcc cd _o chmod 777 7zz mv 7zz /bin/7zzhttps://github.com/keklick1337/7zip-extended  为什么使用此分支？ 此分支为处理大规模文件提取或加密档案的任何人提供了必要的增强功能。无论您是开发人员、渗透测试人员还是 IT 管理员，这些新功能都会使其更加通用且省时。 反馈请求 我很乐意听取社区的意见：  哪些其他功能或用例会使此工具更加有用？ 您是否对针对不同平台的预构建二进制文件感兴趣？  请随时查看存储库、尝试一下，并分享您的想法或建议以进一步改进。    提交人    /u/Front-Buyer3534   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h78qwk/update_7zzextended_now_with_password_bruteforce/</guid>
       <pubDate>Thu, 05 Dec 2024 13:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - openorch/openorch：协调 AI 模型、微服务、容器等。将您的服务器变成强大的开发环境。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h75jjr/github_openorchopenorch_orchestrate_ai_models/</link>
-      <description><![CDATA[        提交人    /u/dobikasd   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h75jjr/github_openorchopenorch_orchestrate_ai_models/</guid>
-      <pubDate>Thu, 05 Dec 2024 09:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Packen - Node.js 和 TypeScript 的快速现代捆绑器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h73roc/packen_a_fast_and_modern_bundler_for_nodejs_and/</link>
-      <description><![CDATA[适用于 Node.js 和 TypeScript 的快速而现代的捆绑器。 支持多个运行时、共享模块、服务器组件、动态导入、wasm、css 等。 建立在 Rollup 之上，与您喜欢的转换器（如 esbuild、swc 或 sucrase）相结合。 如果您正在寻找 tsup / unbuild 的替代方案，或者您的 rollup 配置失控，请尝试  https://www.npmjs.com/package/@visulima/packem 我很高兴收到反馈 :)    提交人    /u/prisis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h73roc/packen_a_fast_and_modern_bundler_for_nodejs_and/</guid>
-      <pubDate>Thu, 05 Dec 2024 07:28:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
