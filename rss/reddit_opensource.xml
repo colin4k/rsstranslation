@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Dec 2024 06:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 12:02:20 GMT</lastBuildDate>
     <item>
-      <title>贪吃蛇 AI 游戏/模拟器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8kjm7/snake_ai_gamesimulator/</link>
-      <description><![CDATA[大家好， 在过去的 72 小时里，我一直在开发一款 AI 贪吃蛇游戏（我知道，非常基础），但这只是我使用一段时间以来学到的一些寻路算法进行练习。这款游戏很酷，但也存在一些重大缺陷。 https://github.com/jsap7/snake 目前，它使用 Tkinter 和 Pygame 等 Python 包在您的桌面上本地运行，但我的目标是最终将其转换为 Web 应用程序，以便互联网上的任何人都可以访问它并使用它。目标是让它变得信息丰富且有趣！ 我的一些算法不像定义的那样工作，比如汉密尔顿循环、遗传算法（根本不训练）和其他一些算法都很糟糕。我其中也有几个混合算法，它们表现还不错，但它们可以改进。 我将开放这个项目以使其开源。 这个项目的概念很简单，但在过去几天里，代码库变得复杂了。 如果你们中有人对以下内容感兴趣： - 升级算法 - 添加更多算法 - 升级 UI - 添加任何很酷的新功能 -等等... 请随意分叉 repo 或打开拉取请求。请随时给我发私信以获取更多信息。 最初是一个短期个人项目，后来成为我真正感兴趣充实的东西。 我对所有想法持开放态度，欢迎大家贡献自己的力量。我也不介意你想把它当作你自己的。这只是为了好玩。希望这能引起你们中的一些人的兴趣，因为我计划休息几天，因为我变得有点太痴迷了，在实际过去的时间里花了太多时间在这上面。我需要去摸摸草地。    提交人    /u/jsap777   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8kjm7/snake_ai_gamesimulator/</guid>
-      <pubDate>Sat, 07 Dec 2024 04:25:58 GMT</pubDate>
+      <title>您使用什么反馈赞同工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8m9fh/what_feedback_upvoting_tool_do_you_use/</link>
+      <description><![CDATA[我很快就要推出我的开放核心项目的 v1 版了，我想知道这里的大多数开发人员使用什么来为功能请求点赞/反馈点赞？我可以看到 GitHub 问题很方便，但查看 GitHub 问题上的竖起大拇指表情符号计数似乎不是确定最重要功能请求的最佳方式。 我使用 canny.io 来运行我运行的微型 saas，我也一直在关注 featurebase.app。 你们有偏好吗？我真的很纠结。    提交人    /u/SirLagsABot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8m9fh/what_feedback_upvoting_tool_do_you_use/</guid>
+      <pubDate>Sat, 07 Dec 2024 06:12:52 GMT</pubDate>
     </item>
     <item>
       <title>原理框架：使用第一原理推理生成 AI 代理</title>
