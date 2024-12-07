@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Dec 2024 12:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 15:01:51 GMT</lastBuildDate>
+    <item>
+      <title>奔腾搜索</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8u4d2/galloping_search/</link>
+      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8u4d2/galloping_search/</guid>
+      <pubDate>Sat, 07 Dec 2024 14:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>事务隔离如何保证数据库中的数据完整性</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8u1dt/how_transaction_isolation_provides_data_integrity/</link>
+      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8u1dt/how_transaction_isolation_provides_data_integrity/</guid>
+      <pubDate>Sat, 07 Dec 2024 14:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握调试：修复代码时保持冷静的技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8tq49/mastering_debugging_tips_for_staying_calm_while/</link>
+      <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8tq49/mastering_debugging_tips_for_staying_calm_while/</guid>
+      <pubDate>Sat, 07 Dec 2024 14:34:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>两台 MenuetOS 计算机之间的网络通话（视频、音频）。（100% asm）。</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8tnrv/webcall_videoaudio_between_two_menuetos_computers/</link>
+      <description><![CDATA[  由    /u/westernguy323  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8tnrv/webcall_videoaudio_between_two_menuetos_computers/</guid>
+      <pubDate>Sat, 07 Dec 2024 14:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPU 驱动的低 MD5 哈希查找器</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8swoj/gpu_powered_low_md5_hash_finder/</link>
+      <description><![CDATA[  由    /u/NumbersAreNotPro  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8swoj/gpu_powered_low_md5_hash_finder/</guid>
+      <pubDate>Sat, 07 Dec 2024 13:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技从业者的日常生活：工作日</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8sd5u/a_day_in_the_life_of_a_tech_aspirant_weekday/</link>
+      <description><![CDATA[  由    /u/raj_bopche  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8sd5u/a_day_in_the_life_of_a_tech_aspirant_weekday/</guid>
+      <pubDate>Sat, 07 Dec 2024 13:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建用于视网膜图像诊断的 CNN 模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1h8s7b2/build_a_cnn_model_for_retinal_image_diagnosis/</link>
+      <description><![CDATA[  由    /u/Feitgemel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h8s7b2/build_a_cnn_model_for_retinal_image_diagnosis/</guid>
+      <pubDate>Sat, 07 Dec 2024 13:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>每个 V4 UUID</title>
       <link>https://www.reddit.com/r/programming/comments/1h8qdj9/every_v4_uuid/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h8eqij/buffered_io_in_unix_before_v7_introduced_stdio/</guid>
       <pubDate>Fri, 06 Dec 2024 23:21:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>恶意 Ruby 代码的出现</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8eq2d/advent_of_criminally_bad_ruby_code/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8eq2d/advent_of_criminally_bad_ruby_code/</guid>
-      <pubDate>Fri, 06 Dec 2024 23:20:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>从历史上看，4NF 的解释不必要地令人困惑</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8epvp/historically_4nf_explanations_are_needlessly/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8epvp/historically_4nf_explanations_are_needlessly/</guid>
-      <pubDate>Fri, 06 Dec 2024 23:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typeconf：像代码一样管理你的配置</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8cjms/typeconf_manage_your_configs_like_code/</link>
-      <description><![CDATA[  由    /u/heraldev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8cjms/typeconf_manage_your_configs_like_code/</guid>
-      <pubDate>Fri, 06 Dec 2024 21:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[WIP] Type-C 编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8cj4m/wip_typec_programming_language/</link>
-      <description><![CDATA[  由    /u/praisethemoon_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8cj4m/wip_typec_programming_language/</guid>
-      <pubDate>Fri, 06 Dec 2024 21:40:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Go 标准库开始</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8cff6/start_with_the_go_standard_library/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8cff6/start_with_the_go_standard_library/</guid>
-      <pubDate>Fri, 06 Dec 2024 21:36:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的代码通过了土耳其测试吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8ccad/does_your_code_pass_the_turkey_test/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8ccad/does_your_code_pass_the_turkey_test/</guid>
-      <pubDate>Fri, 06 Dec 2024 21:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于协作编辑的谎言（一）：离线编辑算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1h8cbj9/lies_i_was_told_about_collab_editing_part_1/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h8cbj9/lies_i_was_told_about_collab_editing_part_1/</guid>
-      <pubDate>Fri, 06 Dec 2024 21:31:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
