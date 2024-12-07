@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Dec 2024 00:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 03:14:31 GMT</lastBuildDate>
+    <item>
+      <title>Fiddler Classic ZSTD 解压自定义规则。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8ix8h/fiddler_classic_zstd_decompression_custom_rule/</link>
+      <description><![CDATA[我一直很喜欢使用 fiddler classic 进行开发，并且注意到很多网站都在使用 ZSTD！希望它能帮助到其他人。  它仅适用于 Windows，但您可以对其进行调整。通过规则 -&gt; 自定义规则添加必要的更改。  https://gist.github.com/moorer2k/f78891a168eb7d5a0bb10f52c418f252    提交人    /u/moorer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8ix8h/fiddler_classic_zstd_decompression_custom_rule/</guid>
+      <pubDate>Sat, 07 Dec 2024 02:54:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harmony Music - 跨平台流媒体音乐应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8h3og/harmony_music_a_cross_platform_app_for_streaming/</link>
+      <description><![CDATA[        提交人    /u/reps_up   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8h3og/harmony_music_a_cross_platform_app_for_streaming/</guid>
+      <pubDate>Sat, 07 Dec 2024 01:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找可以贡献的开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h8g464/looking_for_open_source_projects_to_contribue/</link>
+      <description><![CDATA[大家好！我是一名计算机科学专业的学生，​​我参加了一个名为“开源开发”的课程，我们必须为开源项目做出贡献。我正在尝试寻找结构化的开源项目，我认为这里是寻找它们的好地方。 你们能帮我找到好的存储库来处理吗？    提交人    /u/koziel_gpc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h8g464/looking_for_open_source_projects_to_contribue/</guid>
+      <pubDate>Sat, 07 Dec 2024 00:29:12 GMT</pubDate>
+    </item>
     <item>
       <title>为了软件维护者的利益，请帮助我减少使用 git 的麻烦</title>
       <link>https://www.reddit.com/r/opensource/comments/1h8adez/help_me_be_less_shit_at_git_for_the_sake_of/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>我的 Nothing 主题笔记应用程序的新更新。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</link>
-      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，并附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</guid>
       <pubDate>Fri, 06 Dec 2024 18:54:43 GMT</pubDate>
     </item>
@@ -90,7 +111,7 @@
       <pubDate>Thu, 05 Dec 2024 14:20:21 GMT</pubDate>
     </item>
     <item>
-      <title>HandiRokuRemote - 使用手势控制你的 Roku</title>
+      <title>HandiRokuRemote - 通过手势控制你的 Roku</title>
       <link>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</link>
       <description><![CDATA[这是一个 Python 应用程序，让您只用手势即可控制您的 Roku 设备！使用 Mediapipe 的手部标志检测器，它可以跟踪您的手、识别手势并通过其外部控制协议向您的 Roku 发送命令。 查看 演示 gif 功能： *实时手部跟踪：“竖起大拇指”等手势可控制音量或导航。 *跨设备支持：可与同一网络上的任何 Roku 设备配合使用。 *设置简单：插入摄像头，即可开始使用。 目前仅限于 PC。  在 Github 上查看代码 或者下载 .exe 并试用！ 下载 让我知道你的想法！    提交人    /u/BB_dev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[适用于 Node.js 和 TypeScript 的快速而现代的捆绑器。 支持多个运行时、共享模块、服务器组件、动态导入、wasm、css 等。 建立在 Rollup 之上，与您喜欢的转换器（如 esbuild、swc 或 sucrase）相结合。 如果您正在寻找 tsup / unbuild 的替代方案，或者您的 rollup 配置失控，请尝试  https://www.npmjs.com/package/@visulima/packem 我很高兴收到反馈 :)    提交人    /u/prisis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h73roc/packen_a_fast_and_modern_bundler_for_nodejs_and/</guid>
       <pubDate>Thu, 05 Dec 2024 07:28:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是又在重新发明轮子了？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6uoqk/am_i_reinventing_the_wheel/</link>
-      <description><![CDATA[我制作了一个简单的浏览器扩展程序，它可以从黑名单中的网站中删除任何 Reddit 帖子。也就是说，不再有像 DailyMail、New Republic、Newsweek 等小报。您可以屏蔽您放入黑名单的任何 URL，它会完全从您的订阅源中删除帖子。 目前，它对于个人使用来说非常棒，但我有几个问题： A) 它已经存在了吗？ B) 有人想要吗？ 我制作它只是因为错误信息和垃圾网站让我抓狂。现在它们消失了，我的 Reddit 体验好多了。我的订阅源中不再有愚蠢的 New Republic 文章。 我的目标是将这个东西扩展到整个互联网，也许还包括情绪分析或关键字过滤，这样您就可以屏蔽有关政治、总统或某位科技大亨的帖子。  我非常乐意免费提供它，因为它是客户端的东西。不过如果其他人想使用它，仍然需要做很多工作。例如，我需要制作一个 UI 并扩展功能以阻止 Facebook 和其他任何地方的帖子。现在我必须直接将列入黑名单的网站输入代码并每次重新上传扩展。     提交人    /u/MrBeanDaddy86   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6uoqk/am_i_reinventing_the_wheel/</guid>
-      <pubDate>Wed, 04 Dec 2024 23:32:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个小项目的提案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6sh3y/a_proposal_for_a_little_project/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6sh3y/a_proposal_for_a_little_project/</guid>
-      <pubDate>Wed, 04 Dec 2024 21:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allgood - 为您的 TS/JS 应用提供即时健康检查（支持 Express、Hono 和 Fastify）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</link>
-      <description><![CDATA[嘿 r/opensource，我最终设置的样板文件的一部分是健康检查系统。受到 Ruby Gem（同名）的启发，我决定创建一个健康检查页面，您可以将其附加到 javascript 或 typescript 项目的路由（通常是 /healthcheck）。 这是一个有趣的学习项目，开源无疑让我更加注意我的代码质量。 我还添加了一些测试（我真的应该进行 TDD，但没关系），这样我就可以轻松接受贡献和修复。 希望你喜欢！    提交人    /u/joshghent   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h6rrkl/allgood_instant_health_checks_for_your_tsjs_app/</guid>
-      <pubDate>Wed, 04 Dec 2024 21:29:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
