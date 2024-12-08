@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 08 Dec 2024 15:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 21:02:05 GMT</lastBuildDate>
+    <item>
+      <title>关于密码</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9nln1/on_passwords/</link>
+      <description><![CDATA[  由    /u/zudellio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9nln1/on_passwords/</guid>
+      <pubDate>Sun, 08 Dec 2024 17:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starlark 语言实用入门</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9ndqa/a_practical_introduction_to_the_starlark_language/</link>
+      <description><![CDATA[  由    /u/laurentlb  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9ndqa/a_practical_introduction_to_the_starlark_language/</guid>
+      <pubDate>Sun, 08 Dec 2024 17:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，Deno，是时候带头了。让 Node.js 与 Deno 兼容：“沙盒可能会或可能不会实现”是模糊的，不是具体的，是优柔寡断的</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9msza/hey_deno_time_to_take_the_lead_make_nodejs_be/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9msza/hey_deno_time_to_take_the_lead_make_nodejs_be/</guid>
+      <pubDate>Sun, 08 Dec 2024 16:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>任务：进口 - 对马岛之魂 PC 事后分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9makp/mission_importable_ghost_of_tsushima_pc_postmortem/</link>
+      <description><![CDATA[  由    /u/coloco21  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9makp/mission_importable_ghost_of_tsushima_pc_postmortem/</guid>
+      <pubDate>Sun, 08 Dec 2024 16:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写系统软件：代码注释</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9kqvq/writing_system_software_code_comments/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9kqvq/writing_system_software_code_comments/</guid>
+      <pubDate>Sun, 08 Dec 2024 15:06:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单、轻量级的依赖图来构建复杂的模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1h9knfv/simple_lightweight_dependency_graph_to_build/</link>
+      <description><![CDATA[  由    /u/hmoein  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h9knfv/simple_lightweight_dependency_graph_to_build/</guid>
+      <pubDate>Sun, 08 Dec 2024 15:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>了解 C# 中的多维数组</title>
       <link>https://www.reddit.com/r/programming/comments/1h9k7p4/understanding_multidimensional_arrays_in_c/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h961td/i_think_the_creator_of_python_created_gui_based/</guid>
       <pubDate>Sun, 08 Dec 2024 00:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试：线束与单元</title>
-      <link>https://www.reddit.com/r/programming/comments/1h94pzk/testing_harness_vs_unit/</link>
-      <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h94pzk/testing_harness_vs_unit/</guid>
-      <pubDate>Sat, 07 Dec 2024 23:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>康威生命游戏和 CA 规则 30</title>
-      <link>https://www.reddit.com/r/programming/comments/1h93wk6/conways_game_of_life_and_ca_rule_30/</link>
-      <description><![CDATA[  由    /u/zudellio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h93wk6/conways_game_of_life_and_ca_rule_30/</guid>
-      <pubDate>Sat, 07 Dec 2024 22:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从米尔格拉姆写给 Freenet 的信中：去中心化可扩展性的惊人根源</title>
-      <link>https://www.reddit.com/r/programming/comments/1h93mpf/from_milgrams_letters_to_freenet_the_surprising/</link>
-      <description><![CDATA[  由    /u/sanity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h93mpf/from_milgrams_letters_to_freenet_the_surprising/</guid>
-      <pubDate>Sat, 07 Dec 2024 22:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源样板目录 :D</title>
-      <link>https://www.reddit.com/r/programming/comments/1h93cua/i_made_an_open_source_boilerplate_directory_d/</link>
-      <description><![CDATA[  由    /u/sadekships  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h93cua/i_made_an_open_source_boilerplate_directory_d/</guid>
-      <pubDate>Sat, 07 Dec 2024 21:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>过程化编程的回归</title>
-      <link>https://www.reddit.com/r/programming/comments/1h91xzo/the_return_of_procedural_programming/</link>
-      <description><![CDATA[  由    /u/self  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h91xzo/the_return_of_procedural_programming/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为流程寻找问题，而不是为问题寻找流程</title>
-      <link>https://www.reddit.com/r/programming/comments/1h90w9q/finding_problems_for_processes_rather_than/</link>
-      <description><![CDATA[  由    /u/d0liver  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h90w9q/finding_problems_for_processes_rather_than/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
