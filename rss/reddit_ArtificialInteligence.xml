@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 08 Dec 2024 06:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 12:02:04 GMT</lastBuildDate>
+    <item>
+      <title>Blackbox.ai 和许可</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9glva/blackboxai_and_permission/</link>
+      <description><![CDATA[因此，我在谷歌上使用了一个名为 blackbox 的人工智能，并且在使用它时处于隐身模式。我需要一种更快的方式来做事，因为它有一个扬声器选项，所以我给了它权限，但现在我有点担心。所以我想知道的是，我的手机是否安全，因为现在我试图查看扬声器，它再次请求许可。    提交人    /u/Abyssalspeedstrike   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9glva/blackboxai_and_permission/</guid>
+      <pubDate>Sun, 08 Dec 2024 11:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>区分 Llm 幻觉中的无知与错误</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9gh5a/distinguishing_ignorance_from_error_in_llm/</link>
+      <description><![CDATA[大型语言模型 (LLM) 因其能够生成类似人类的文本而备受赞誉，但其准确性往往存在问题，导致研究人员称之为“幻觉”。这些幻觉表现为不基于现实的输出，无法反映必要的事实信息或一致性，而这些信息或一致性对于闭卷问答 (CBQA) 等应用至关重要。理解和纠正这些幻觉可以大大提高 LLM 在各个行业的可靠性和采用率。 阅读全部：https://blog.telepat.io/distinguishing-ignorance-from-error-in-llm-hallucinations     提交人    /u/sculabobone   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9gh5a/distinguishing_ignorance_from_error_in_llm/</guid>
+      <pubDate>Sun, 08 Dec 2024 10:57:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 在电子学习环境中使用知识图谱提供自适应指导的效果如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9envt/how_good_is_chatgpt_in_giving_adaptive_guidance/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“ChatGPT 在电子学习环境中使用知识图谱提供自适应指导的效果如何？”，作者是 Patrick Ocheja、Brendan Flanagan、Yiling Dai 和 Hiroaki Ogata。 本研究调查了动态知识图谱与 ChatGPT 等大型语言模型 (LLM) 的集成，以增强电子学习平台中的个性化学习支持。通过在提示中附加相关的学习背景并评估学生对先决条件主题的理解，该研究旨在提供量身定制的教育帮助，并根据学生的理解水平进行调整。 以下是论文中的一些要点：  通过知识图谱集成实现个性化：该研究提出了一个系统，其中 LLM 与知识图谱配对，以评估和适应学生的理解水平。根据评估，ChatGPT 提供高级见解、基础评论或详细的先决条件解释。 改善学习成果：初步研究结果表明，这种分层支持系统可以显着提高学生的理解力，帮助他们改善任务成果。 挑战和人​​为干预：虽然很有希望，但由于 LLM 的局限性，该系统容易出现潜在错误。显然，需要人工监督来验证生成的响应并防止传播不正确或误导性的指导。 实验评估：该研究利用 ROUGE 方法等指标来评估不同学生表现水平的反馈质量和相关性。还进行了专家评估，以分析正确性、准确性和错误信息的出现。 学生反馈和系统感知：一项涉及学生的试点研究强调了对 AI 工具的整体积极看法，特别指出了它在增强动机和学习过程理解方面的潜力，尽管反馈个性化等某些领域需要改进。  这项研究强调了人工智能、教育和个性化反馈的创新交集，为电子学习技术的未来提供了见解。然而，它也强调了人工验证层的迫切需要，以确保人工智能生成的教育内容的准确性和适用性。 您可以在这里看到完整的细分：这里。 您可以在这里看到完整的原始研究论文：原始论文。    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9envt/how_good_is_chatgpt_in_giving_adaptive_guidance/</guid>
+      <pubDate>Sun, 08 Dec 2024 08:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI研究</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9ec35/agi_research/</link>
+      <description><![CDATA[这些天，我真的非常热衷于研究 AGI（有感知能力的人工智能）及其相关事物（从伦理、文化、情感、法律到人机关系）。见鬼，我甚至梦想有一天能制造一个机器人来测试我所有的理论。但问题是，我的专业是概念艺术和心理学，而不是编码、神经科学或机器人技术（我是一名艺术学校的辍学生，患有慢性健康问题，天哪，我是一个会被人们视为巨大失败的人，哈哈） 所以，呃，我想我的问题是……有人能帮我吗？就像，我不知道。回答我的一些问题，也许看看我的一些想法……见鬼，如果你有兴趣，甚至可以帮我完成我的项目？那会很酷（不过，在私人消息中，我真的不想现在就把这件事公开）   由    /u/Kamisama_VanillaRoo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9ec35/agi_research/</guid>
+      <pubDate>Sun, 08 Dec 2024 08:21:19 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9c647/ai_question/</link>
@@ -25,13 +53,6 @@
       <description><![CDATA[https://youtube.com/shorts/cHmZMZV35sk?si=CxXYtAJVXVcipPc_ 哟，这太疯狂太酷了，我正在尝试寻找一个可以做类似事情的人工智能    提交人    /u/Suitable_Answer5171   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9b17r/how_tf_can_i_make_stuff_like_this/</guid>
       <pubDate>Sun, 08 Dec 2024 04:39:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么人工智能可以帮助我们在 YouTube 和 Spotify 上找到观看次数几乎没有的歌曲？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9afk6/is_there_any_ai_which_can_help_us_find_songs_on/</link>
-      <description><![CDATA[每天都有成千上万首歌曲上传到互联网上。我只是想知道是否有任何方法可以发现来自其他国家的未知艺术家。我厌倦了听同样被操纵的主流音乐。也可以找到类似但不为人知的歌曲。     提交人    /u/SnooGrapes5520   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9afk6/is_there_any_ai_which_can_help_us_find_songs_on/</guid>
-      <pubDate>Sun, 08 Dec 2024 04:05:17 GMT</pubDate>
     </item>
     <item>
       <title>克劳德在创作关于创作文章的文章时想到了什么</title>
@@ -67,27 +88,6 @@
       <description><![CDATA[ 埃隆·马斯克的 X 获得了一个新的图像生成器 Aurora。[1] 由“AI 科学家”提供支持的虚拟实验室为生物医学研究提供动力。[2] 洛杉矶时报 所有者计划在新闻报道中添加由 AI 驱动的“偏见计”，引发新闻编辑室的强烈反对。[3] 根据与微软的协议，美国批准向阿联酋出口先进的 AI 芯片。[4]  来源包括：https://bushaicave.com/2024/12/07/12-7-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9836k/oneminute_daily_ai_news_1272024/</guid>
       <pubDate>Sun, 08 Dec 2024 01:53:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>对人工智能驱动的 SMM 工具有何期望？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h97osp/whats_expected_of_an_aipowered_smm_tool/</link>
-      <description><![CDATA[作为在帮助小型企业进行营销的 AI 平台上工作的人，我一直在想：您对 AI 社交媒体管理工具有什么期望？ 为了给您提供更多详细信息，以下是我希望听取意见的一些问题： SMM 中的 AI 代理应该知道什么才能创建有效的帖子？ 它应该写什么类型的帖子？ 多少社交媒体发布可以或应该由 AI 自动完成？ LinkedIn 和 X 等平台上目前的趋势是什么？AI 能否有效复制或预测这些趋势？ AI 应该更多地关注解决受众的痛点，还是利用趋势和病毒式格式更有价值？    提交人    /u/algerdy87   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h97osp/whats_expected_of_an_aipowered_smm_tool/</guid>
-      <pubDate>Sun, 08 Dec 2024 01:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有任何愚蠢的图像生成 AI 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h96deb/anyone_got_any_dumb_image_generation_ais/</link>
-      <description><![CDATA[我真的很喜欢迷幻、超现实的人工智能生成的图像，这些图像在几年前就已经很流行了，当时还没有像现在这样先进。有人知道有哪些图像生成人工智能还没有学会，还处于超现实主义的智能阶段吗？    提交人    /u/SandwichStyle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h96deb/anyone_got_any_dumb_image_generation_ais/</guid>
-      <pubDate>Sun, 08 Dec 2024 00:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试使用 AI 制作表情包</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h95sp9/trying_to_make_a_meme_using_ai/</link>
-      <description><![CDATA[我试图用某个电视节目中的角色制作一个表情包（对于那些想知道一堆喜欢和投票之类的东西的人来说，Ben 10 扮演外星人 x）但是 PT 不允许我创建角色描述，因此我可以生成图像。我还有其他方法可以使用您的描述来提示吗？     提交人    /u/Omniknight2003   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h95sp9/trying_to_make_a_meme_using_ai/</guid>
-      <pubDate>Sat, 07 Dec 2024 23:56:28 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是否会为其未来版本秘密嵌入隐藏指令？</title>
