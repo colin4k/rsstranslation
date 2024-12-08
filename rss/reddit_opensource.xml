@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Dec 2024 03:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 06:02:34 GMT</lastBuildDate>
+    <item>
+      <title>这样做明智吗？为什么或者为什么不明智？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</link>
+      <description><![CDATA[因此，在我下载软件（开源且最好是 FOSS）之前，我会先检查代码是否具有遥测功能。我这样做是为了安全起见，因为即使隐私政策规定不提供遥测/是私密的，也可能是软件确实具有遥测功能但不是私密的。 这样做明智吗？    提交人    /u/CloudyyySXShadowH   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</guid>
+      <pubDate>Sun, 08 Dec 2024 04:26:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Joomla 中从本地主机发送邮件#joomla5</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9asrf/how_to_send_mail_from_localhost_in_joomla_joomla5/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9asrf/how_to_send_mail_from_localhost_in_joomla_joomla5/</guid>
+      <pubDate>Sun, 08 Dec 2024 04:26:00 GMT</pubDate>
+    </item>
     <item>
       <title>是否有可能对视频游戏服务器进行逆向工程？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</link>
@@ -92,7 +106,7 @@
     <item>
       <title>我的 Nothing 主题笔记应用程序的新更新。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</link>
-      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，并附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</guid>
       <pubDate>Fri, 06 Dec 2024 18:54:43 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[通过更少的移动部件简化您的堆栈 - TrailBase 是一个易于自托管、单文件、可扩展的后端，适用于您的移动、Web 或桌面应用程序，提供 API、Auth、FileUploads、JS 运行时...。亚毫秒级的延迟消除了对专用缓存的需求，不再有陈旧或不一致的数据。 刚刚发布的 v0.3.0 彻底改造了 SQLite 执行模型，提供了另一个减速带：API 比 SupaBase 快大约 20 倍，比 TrailBase 快 10 倍。 查看网站上的管理 UI 现场演示：trailbase.io。很高兴听到您的想法 🙏    提交人    /u/trailbaseio   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7m89l/trailbase_submillisecond_app_server_with_typesafe/</guid>
       <pubDate>Thu, 05 Dec 2024 22:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源视频下载器，mac</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h7j6gv/open_source_video_downloader_mac/</link>
-      <description><![CDATA[有人知道适用于 Mac 的开源安全 YouTube 视频下载器吗？    提交人    /u/Affectionate_Tip8245   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h7j6gv/open_source_video_downloader_mac/</guid>
-      <pubDate>Thu, 05 Dec 2024 20:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求开源工作流工具的推荐</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h7a813/seeking_recommendations_for_an_open_source/</link>
-      <description><![CDATA[大家好，r/opensource 社区， 我正在寻找开源 SaaS 产品或工作流工具的建议，它们可以帮助我创建结构化、基于步骤的工作流流程。基本思路如下： 我想设计一个工具，其中流程的每个步骤都有特定的政策和指导方针，在继续下一步之前需要先满足这些政策和指导方针。例如：  了解您的客户/寻求专业建议 探索适合您情况的替代方案 申请 [填空] [填空] 过程中的义务 退出 [填空] 过程 [填空] 过程后  每个步骤都有与之相关的任务、规则和文档要求，确保流程顺利进行并且不会遗漏任何内容。 是否有人知道可以帮助创建这种结构化工作流的开源工具？如果该工具包含以下功能，那就太好了：• 可自定义的工作流和步骤 • 每个步骤的策略执行 • 用户友好界面 非常感谢您分享的任何建议或经验。提前感谢您的帮助！    由   提交  /u/FrankCastle2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h7a813/seeking_recommendations_for_an_open_source/</guid>
-      <pubDate>Thu, 05 Dec 2024 14:20:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
