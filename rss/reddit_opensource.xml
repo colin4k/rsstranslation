@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Dec 2024 15:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:04:20 GMT</lastBuildDate>
+    <item>
+      <title>是否有可能对视频游戏服务器进行逆向工程？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</link>
+      <description><![CDATA[基本上，我非常喜欢的这款名为《超级机甲冠军》的游戏将于 1 月关闭，我和一小队人正在尝试恢复它，所以我在询问是否有可能，我也在寻求有关如何进行的指导，因为我甚至不知道基础知识，我所知道的是，如果这意味着恢复我最喜欢的游戏并能够托管私人服务器以使其在关闭后保持活力，我愿意学习任何东西    提交人    /u/diavolosRequiem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</guid>
+      <pubDate>Sat, 07 Dec 2024 21:09:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>最近，威胁行为者正在冒充开源项目……</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h91zg0/threat_actors_are_impersonating_open_source/</link>
+      <description><![CDATA[我发现了 2 个假冒网站，一个冒充 Android 设备的 Aurora Store，另一个似乎是用新名称命名的旧 PCSX4 骗局。 从 Aurora Store 开始…… https://old.reddit.com/r/degoogle/comments/1az35y9/there_are_two_websites_for_aurora_store_which_one/ 这个假冒网站似乎通过在点击下载按钮后重定向到真实网站来建立了自己的声誉，但在我最近开始和停止下载之后，我发现他们现在已经用自己的 APK 替换了它。 有趣的是， Google 已将假冒产品从其搜索结果中删除，但 Duckduckgo 仍将其显示为您搜索“Aurora Store”时出现的第一件事。 至于 PS4 模拟器，当您在 Google 或 DDG 上搜索“PS4 模拟器”时，首先出现的东西是名为 RPCS4 的东西。这似乎是用新名称进行的 PCSX4 骗局，因为真正的 RPCS4 似乎处于非活动状态。reddit 搜索显示 2 个月前有 2 个人试图下载它，结果像以前的骗局一样被调查和验证码所困扰。 所以是的，我不是开发人员，但这看起来像是最近一个日益严重的问题……    提交人    /u/HarbringerHarHarHar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h91zg0/threat_actors_are_impersonating_open_source/</guid>
+      <pubDate>Sat, 07 Dec 2024 20:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>愿望清单应用/网站</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h90tu3/wishlist_appwebsite/</link>
+      <description><![CDATA[有人知道 FOSS 愿望清单应用程序和/或网站吗？最好不是圣诞主题的，因为我想全年使用它    由    /u/turritopsi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h90tu3/wishlist_appwebsite/</guid>
+      <pubDate>Sat, 07 Dec 2024 20:00:38 GMT</pubDate>
+    </item>
     <item>
       <title>您使用什么反馈赞同工具？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h8m9fh/what_feedback_upvoting_tool_do_you_use/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>具有记忆功能的 Agentic RAG</title>
       <link>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</link>
-      <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理是： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
+      <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理如下： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</guid>
       <pubDate>Fri, 06 Dec 2024 19:12:22 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>我的 Nothing 主题笔记应用程序的新更新。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</link>
-      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，并附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</guid>
       <pubDate>Fri, 06 Dec 2024 18:54:43 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，r/opensource 社区， 我正在寻找开源 SaaS 产品或工作流工具的建议，它们可以帮助我创建结构化、基于步骤的工作流流程。基本思路如下： 我想设计一个工具，其中流程的每个步骤都有特定的政策和指导方针，在继续下一步之前需要先满足这些政策和指导方针。例如：  了解您的客户/寻求专业建议 探索适合您情况的替代方案 申请 [填空] [填空] 过程中的义务 退出 [填空] 过程 [填空] 过程后  每个步骤都有与之相关的任务、规则和文档要求，确保流程顺利进行并且不会遗漏任何内容。 是否有人知道可以帮助创建这种结构化工作流的开源工具？如果该工具包含以下功能，那就太好了：• 可自定义的工作流和步骤 • 每个步骤的策略执行 • 用户友好界面 非常感谢您分享的任何建议或经验。提前感谢您的帮助！    由   提交  /u/FrankCastle2020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7a813/seeking_recommendations_for_an_open_source/</guid>
       <pubDate>Thu, 05 Dec 2024 14:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>HandiRokuRemote - 通过手势控制你的 Roku</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</link>
-      <description><![CDATA[这是一个 Python 应用程序，让您只用手势即可控制您的 Roku 设备！使用 Mediapipe 的手部标志检测器，它可以跟踪您的手、识别手势并通过其外部控制协议向您的 Roku 发送命令。 查看 演示 gif 功能： *实时手部跟踪：“竖起大拇指”等手势可控制音量或导航。 *跨设备支持：可与同一网络上的任何 Roku 设备配合使用。 *设置简单：插入摄像头，即可开始使用。 目前仅限于 PC。  在 Github 上查看代码 或者下载 .exe 并试用！ 下载 让我知道你的想法！    提交人    /u/BB_dev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</guid>
-      <pubDate>Thu, 05 Dec 2024 14:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 免费开源软件 - KeyTik：一体化自动化工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h79bbt/windows_free_and_opensource_software_keytik_the/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h79bbt/windows_free_and_opensource_software_keytik_the/</guid>
-      <pubDate>Thu, 05 Dec 2024 13:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[更新] 7zz-extended – 现在具有密码暴力破解功能和增强的可用性</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h78qwk/update_7zzextended_now_with_password_bruteforce/</link>
-      <description><![CDATA[嗨 r/opensource！ 我很高兴与大家分享，我已更新了我的分支，即 7-Zip 的修补版本。最新的改进使其功能更强大、更用户友好，提供的功能可满足开发人员和系统管理员的实际使用情况。 存储库： github.com/keklick1337/7zip-extended 有什么新内容？ 1.密码暴力破解支持（新功能）  现在，您可以使用 -fp 参数提供密码列表来暴力破解加密档案。 示例：此工具将尝试列表中的所有密码，并在找到后在终端中显示有效密码。./7zz x test.7z -fppasswords.txt  2. 高级文件掩码提取（旧功能）  改进了掩码处理，支持使用特殊字符 $? 的基于后缀的模式。这使得文件匹配更加准确和高效，特别是对于复杂的目录结构。 使用示例：  Linux： ./7zz x test.7z -i&#39;!\*/\*ense\*.txt$?&#39; -i&#39;!\*/\*ip\*.hhp$?&#39; -i&#39;!\*.mak$?&#39; -ssc- Windows： 7zz.exe x test.7z -i!\*/\*ense\*.txt$? -i!\*/\*ip\*.hhp$? -i!\*.mak$? -ssc-   构建说明 对于 基于 Debian 的系统： apt update -y apt install make gcc libc-dev git -y git clone cd 7zip-extended/CPP/7zip/Bundles/Alone2 make -j -f makefile.gcc cd _o chmod 777 7zz mv 7zz /bin/7zzhttps://github.com/keklick1337/7zip-extended  为什么使用此分支？ 此分支为处理大规模文件提取或加密档案的任何人提供了必要的增强功能。无论您是开发人员、渗透测试人员还是 IT 管理员，这些新功能都会使其更加通用且省时。 反馈请求 我很乐意听取社区的意见：  哪些其他功能或用例会使此工具更加有用？ 您是否对针对不同平台的预构建二进制文件感兴趣？  请随时查看存储库、尝试一下，并分享您的想法或建议以进一步改进。    提交人    /u/Front-Buyer3534   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h78qwk/update_7zzextended_now_with_password_bruteforce/</guid>
-      <pubDate>Thu, 05 Dec 2024 13:06:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
