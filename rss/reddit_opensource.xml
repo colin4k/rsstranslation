@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Dec 2024 00:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 09:02:11 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个 Golang 开源存储库🎉</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ha5jpg/my_first_golang_open_source_repository/</link>
+      <description><![CDATA[        提交人    /u/Pigotz_9   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ha5jpg/my_first_golang_open_source_repository/</guid>
+      <pubDate>Mon, 09 Dec 2024 08:49:30 GMT</pubDate>
+    </item>
     <item>
       <title>寻找 Hamachi 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9pbk2/looking_for_an_open_source_alternative_to_hamachi/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>与您的电子邮件配合使用的消息应用程序。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</link>
-      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。https://github.com/ThriveEngineer/messages    提交人    /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。 https://github.com/ThriveEngineer/messages    由   提交  /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</guid>
       <pubDate>Sun, 08 Dec 2024 17:05:01 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[更多详细信息：https://github.com/orgs/organicmaps/discussions/9837    由   提交  /u/andoriyu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h8936b/mapsme_cofounder_alexander_borsuk_tries_to_close/</guid>
       <pubDate>Fri, 06 Dec 2024 19:09:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Nothing 主题笔记应用程序的新更新。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</link>
-      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，并附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</guid>
-      <pubDate>Fri, 06 Dec 2024 18:54:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

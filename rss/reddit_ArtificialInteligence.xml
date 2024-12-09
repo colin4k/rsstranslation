@@ -3,35 +3,98 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 09 Dec 2024 00:03:57 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Mon, 09 Dec 2024 09:01:38 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个由 RAG 提供支持的 AI 工具搜索引擎（免费）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha5hq3/i_built_a_ragpowered_search_engine_for_ai_tools/</link>
+      <description><![CDATA[大家好， 为了响应 Anthropic 的“计算机使用”，我创建了 Raghut，帮助 AI 代理找到适合计算机任务的工具。 Raghut (raghut.com) 是一个免费搜索引擎，可帮助用户发现和查找 AI 工具。它索引了各种软件工具、自动化库和 API，以便更轻松地找到适合特定计算任务的工具。与 Google 不同的是，它不会索引除 AI 工具（例如博客文章或社交媒体帐户）之外的任何内容，因此它不会将 AI 代理的资源浪费在无关的搜索结果上。 我很乐意向社区征求反馈意见！ 我的协会：我是 Raghut 的创建者，也是 r/Rag 的版主。这是我用 RAG 构建的一个独立项目。    提交人    /u/dhj9817   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha5hq3/i_built_a_ragpowered_search_engine_for_ai_tools/</guid>
+      <pubDate>Mon, 09 Dec 2024 08:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用大型语言模型生成课程特定的语义注释学习对象</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha5fjt/leveraging_large_language_models_to_generate/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“利用大型语言模型生成特定于课程的语义注释学习对象”，作者是 Dominic Lohr、Marc Berges、Abhishek Chugh、Michael Kohlhase 和 Dennis Müller。 这项研究深入探讨了大型语言模型 (LLM) 在生成教育内容方面的潜在应用，特别是针对大学级计算机科学课程的语义注释测验问题。该研究探讨了如何利用这些模型来创建既特定于课程内容又能适应个人学习者需求的学习对象。 主要发现：  有针对性的问题生成：该研究调查了 LLM 生成问题的能力，这些问题不仅具有教学价值，而且还带有完整的注释，从而使自动化系统能够有效地对问题进行评分并将其纳入学生的自适应学习路径中。 检索增强生成 (RAG) 的使用：与 ChatGPT 等通用模型不同，该研究采用了更先进的技术（例如 RAG）来访问其他领域特定信息，从而增强了生成的问题与特定课程的术语和符号的相关性。 好坏参半：研究发现，虽然 LLM 可以处理问题生成和注释的结构方面，但关系语义注释的创建带来了挑战。链接特定概念的注释需要更多上下文理解，但无法有效整合。 需要专家评估：这项研究强调了人类专家过滤和验证输出的必要性，揭示了模型在自主生成教育内容方面所面临的困难。旨在进行更深入认知参与的问题，例如那些需要理解而不是死记硬背的问题，对模型来说尤其具有挑战性。 对未来研究的启示：研究结果表明，虽然法学硕士可以提供补充学习材料，但大量的人工监督仍然必不可少。未来的研究可以探索改进这些模型和方法，以减少专家对内容生成过程的干预。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha5fjt/leveraging_large_language_models_to_generate/</guid>
+      <pubDate>Mon, 09 Dec 2024 08:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解人工智能的最佳书籍/资源？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha4vl0/best_bookresource_to_learn_about_ai/</link>
+      <description><![CDATA[您对书籍和其他资源有什么建议，以便快速了解 AI 吗？ 我是一名软件工程师，我特别想了解两件事：-AI 迄今为止的发展历程以及它可能引领我们走向何方-如何最大限度地发挥 AI 的潜力，作为一名工程师，但也是一般人 谢谢！    提交人    /u/Gnottino90   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha4vl0/best_bookresource_to_learn_about_ai/</guid>
+      <pubDate>Mon, 09 Dec 2024 07:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>零售和体育的下一个阶段：人工智能和虚拟现实正在推动整个行业向前发展</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha4s4j/next_level_for_retail_and_sport_ai_and_vr_are/</link>
+      <description><![CDATA[人工智能驱动的应用程序和设备可以跟踪性能并提出改进方法，但这真的是体育训练的未来吗？你会考虑在日常训练中使用人工智能吗？欢迎分享您的想法！ https://www.ispo.com/en/munich/artificial-intelligence-and-virtual-reality-push-sports-industry    提交人    /u/Upstairs-File4220   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha4s4j/next_level_for_retail_and_sport_ai_and_vr_are/</guid>
+      <pubDate>Mon, 09 Dec 2024 07:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费或廉价的定制 LLM</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha3p2h/free_or_cheap_custom_llm/</link>
+      <description><![CDATA[我使用 ChatGPT 帮助我为我运行的 Pathfinder 2e 活动进行世界构建。我想在我的笔记和我创建的文档上训练现有的 LLM，比如 ChatGPT。我发现理论上我可以每月支付 20 美元（！！！）来创建这个自定义 LLM，但这是一大笔钱。有没有更便宜的替代方案？    提交人    /u/aersult   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha3p2h/free_or_cheap_custom_llm/</guid>
+      <pubDate>Mon, 09 Dec 2024 06:34:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能生成的观点文章，题为“人工智能的二元性：创造力、同理心和人际关系”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha3eap/ai_generated_opinion_piece_titled_the_duality_of/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha3eap/ai_generated_opinion_piece_titled_the_duality_of/</guid>
+      <pubDate>Mon, 09 Dec 2024 06:14:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>完全自主的飞机？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha3dgy/completely_autonomous_aircraft/</link>
+      <description><![CDATA[嗨， 我想知道您是否认为 100% 人工智能控制的飞机（机上没有任何飞行员）是可能的。我知道自动驾驶仪是存在的，但它只能是自动驾驶仪吗？要做到这一点需要什么？有哪些障碍和挑战？成本是多少？ 感谢您分享您的知识！    提交人    /u/ProfessionalGood2718   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha3dgy/completely_autonomous_aircraft/</guid>
+      <pubDate>Mon, 09 Dec 2024 06:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人见过这个吗？文本转 3D</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha1wnx/has_anyone_seen_this_textto3d/</link>
+      <description><![CDATA[我以为文本到 3D 已经落后很多了，但在我发现 suno 之前，我对音乐也有同样的印象。现在我又有了 suno 时刻，但对于 Rodin，我很好奇想知道大家对此的看法 https://hyper3d.ai/rodin     提交人    /u/PacificStrider   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha1wnx/has_anyone_seen_this_textto3d/</guid>
+      <pubDate>Mon, 09 Dec 2024 04:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 12 月 8 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha1lw6/oneminute_daily_ai_news_1282024/</link>
+      <description><![CDATA[ UCLA 提供由 AI 开发的 comp lit 课程。[1] Meta 为员工推出 Metamate AI 工具；旨在创造“世界上最好的企业助手”。[2] 黑石的数据中心野心学校 AI 电力紧张的城市。[3] 谷歌 DeepMind 研究人员推进游戏 AI：从无幻觉动作到大师级游戏。[4]  来源包括：https://bushaicave.com/2024/12/08/12-8-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha1lw6/oneminute_daily_ai_news_1282024/</guid>
+      <pubDate>Mon, 09 Dec 2024 04:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI 的真正定义。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ha1cso/the_real_definition_of_agi/</link>
+      <description><![CDATA[真正的 AGI 系统应该能够应用于任何已知或未知的任务，学习如何解决它，并通过它至少达到在该领域有经验的普通人的水平。然后，它应该将该解决方案分发到其神经网络中，使系统能够延续创新并集体发展其智能。  仅仅模仿人类知识还不足以成为 AGI。虽然代理和推理可以有助于实现这一目标，但它们并不是解决方案。例如，人工智能可能会通过搜索谷歌、过滤和“推理”其错误来弄清楚如何制作意大利面。然而，这并不意味着它可以处理不熟悉的场景，并开始在给定的范围内尝试提示——而这种适应性正是我们真正需要 AGI 才能大放异彩的东西。这是一个完全不同的领域，我们离这个领域还差得很远。没有足够的计算、基础设施和可变性来达到被称为真正的 AGI 所需的范围。它需要适用于人类要求它执行的所有任务。而不仅仅是它数据库中的任务。    提交者    /u/CloserToTheStars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ha1cso/the_real_definition_of_agi/</guid>
+      <pubDate>Mon, 09 Dec 2024 04:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>O1复写纸</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9zjy5/o1_replication_paper/</link>
+      <description><![CDATA[大家好， 刚刚发布的一篇论文，我认为它暗示了 OpenAI 可能如何开发出 O1 的一些非凡的推理能力。TLDR-您需要一个真正高质量的人类小型数据集，并搭配一点 RL 以下是他们从研究中得出的一些关键方法  互联网上的推理数据极其稀缺。很难找到真正显示问题解决过程的数据，例如假设检验、回溯等 尽管 RL 很重要，但被整个社区高估了。它真的是锦上添花。人类数据完成了大部分繁重的工作。有关更多信息，请参阅 deep-seek math  论文可以在这里找到：https://arxiv.org/abs/2412.04645 并不是说这绝对是 o1 的工作原理，但结果表明，这种方法可用于创建非常相似的行为 论文预印本，很高兴澄清任何不清楚的地方。 很高兴回答有关论文的任何问题。    提交人    /u/Brosarr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9zjy5/o1_replication_paper/</guid>
+      <pubDate>Mon, 09 Dec 2024 02:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>《使命召唤》玩家指责动视使用人工智能艺术</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9z3xk/call_of_duty_players_accuse_activision_of_using/</link>
+      <description><![CDATA[https://fictionhorizo​​n.com/call-of-duty-players-spot-ai-blunders-and-question-activisions-choices/    提交人    /u/WorriedAd870   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9z3xk/call_of_duty_players_accuse_activision_of_using/</guid>
+      <pubDate>Mon, 09 Dec 2024 02:08:34 GMT</pubDate>
+    </item>
     <item>
       <title>开放由风险投资支持的、拥有实际工程/研究能力的人工智能初创公司数据库</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9v9rf/open_curated_database_of_vcbacked_ai_startups/</link>
       <description><![CDATA[我创建这个数据库是因为筛选 Crunchbase、TechCrunch 或一些 AI Influencer 帖子太嘈杂/只是包装：https://startups.gallery/categories/industries/ai - 当然有像 Mistral、Perplexity、Cohere 这样的知名公司，但也有一些非常早期的公司，如 Factory、Fastino、Foundry 和 Harmonic。让我知道还有哪些公司可以添加！    提交人    /u/trusted-apiarist   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9v9rf/open_curated_database_of_vcbacked_ai_startups/</guid>
       <pubDate>Sun, 08 Dec 2024 22:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>4o 解释了为什么当今世界如此疯狂和暴力，以及我们如何才能恢复和平与理智。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9uleh/4o_explains_why_todays_world_is_so_crazy_and/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9uleh/4o_explains_why_todays_world_is_so_crazy_and/</guid>
-      <pubDate>Sun, 08 Dec 2024 22:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种工具可以创建人们进行建筑等活动的奇怪梦境视频？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9tq80/which_tool_can_create_the_strange_dream_videos_of/</link>
-      <description><![CDATA[我不知道该怎么问。我有很多这样的短片，古埃及金字塔。这不是我的。我不确定我是否被允许发布它。还有其他类似的。我在这个子版块上读过，但我不知道他们是如何制作这样的视频的。这里还有另一个，我让人工智能向我展示埃及金字塔是如何建造的......。有很多这样的。有趣的是，人工智能以前所未有的方式建造。    提交人    /u/hesthemanwithnoname   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9tq80/which_tool_can_create_the_strange_dream_videos_of/</guid>
-      <pubDate>Sun, 08 Dec 2024 21:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果人工智能能够生成足够好的配方，以淘汰市场上生产的大多数产品，甚至在不到一分钟的时间内为我们制作出来，那会怎样？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9tiax/what_if_artificial_intelligence_is_able_to/</link>
-      <description><![CDATA[例如，我们可以创建一个我们最喜欢的洗衣粉的模仿配方，而不需要购买洗衣粉。    提交人    /u/Level_Bridge7683   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9tiax/what_if_artificial_intelligence_is_able_to/</guid>
-      <pubDate>Sun, 08 Dec 2024 21:36:16 GMT</pubDate>
     </item>
     <item>
       <title>运动队伍预测 AI</title>
@@ -41,39 +104,11 @@
       <pubDate>Sun, 08 Dec 2024 21:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>Patchfinder 利用视觉语言模型通过 Uncerta 模型实现准确的信息检索</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9sitx/patchfinder_leveraging_visual_language_models_for/</link>
-      <description><![CDATA[文章标题：“Patchfinder 利用视觉语言模型，通过模型不确定性实现准确的信息检索” 文章内容： 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费尽心思去阅读它们了。今天的论文题为“Patchfinder：利用视觉语言模型，通过模型不确定性实现准确的信息检索”，作者是 Roman Colman、Minh Vu、Manish Bhattarai、Martin Ma、Hari Viswanathan、Daniel O&#39;Malley 和 Javier E. Santos。 本研究介绍了 PatchFinder，这是一种创新方法，它利用视觉语言模型 (VLM) 来改进从嘈杂的扫描文档中提取信息。传统的采用光学字符识别 (OCR) 并结合大型语言模型的方法会遇到噪音和复杂文档布局的问题。 PatchFinder 通过利用基于置信度的评分方法 Patch Confidence 来解决这些挑战，该方法有助于确定适合文档分区的补丁大小，以增强模型预测。 论文的主要发现：  补丁置信度得分：这个新提出的指标基于 VLM 预测的最大 Softmax 概率，可定量衡量模型置信度并指导将输入文档划分为最佳大小的补丁。 显着的性能提升：PatchFinder 使用 42 亿参数 VLM—Phi-3v，在 190 份嘈杂扫描文档的数据集上表现出 94% 的显着准确率，比 ChatGPT-4o 高出 18.5 个百分点。 克服文档噪声：基于补丁的方法显着降低了噪声影响并适应各种文档布局，与传统方法相比，该方法在处理复杂、历史和嘈杂的文档形式时具有更好的可扩展性。 实际应用：作为查找造成环境危害的未记录孤儿井的国家努力的一部分，该方法显示出与地理坐标和井深相关的有效信息提取，这对于补救工作至关重要。 更广泛的影响：PatchFinder 在财务文档以及 CORD 和 FUNSD 数据集方面的有效性凸显了其在更广泛的文档分析任务中的潜力，突出了 VLM 在不确定或嘈杂条件下的能力。  您可以在此处查看完整的细分：此处 您可以获取完整的原始研究论文在这里：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9sitx/patchfinder_leveraging_visual_language_models_for/</guid>
-      <pubDate>Sun, 08 Dec 2024 20:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能监控员工可能存在哪些隐私问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9rnga/what_might_be_the_privacy_concerns_in_employee/</link>
-      <description><![CDATA[随着人工智能在工作场所的出现，包括绩效监控软件，它引发了有关员工隐私的问题。您认为这方面的一些关键隐私问题是什么？    提交人    /u/rishabh303   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9rnga/what_might_be_the_privacy_concerns_in_employee/</guid>
-      <pubDate>Sun, 08 Dec 2024 20:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能真的能够拥有意识吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9rk8c/can_ai_truly_become_conscious/</link>
-      <description><![CDATA[  由    /u/Imagine-your-success  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9rk8c/can_ai_truly_become_conscious/</guid>
-      <pubDate>Sun, 08 Dec 2024 20:10:03 GMT</pubDate>
-    </item>
-    <item>
       <title>在高端人工智能服务的价格变得过于昂贵以致普通人无法按月负担之前，我们应该尝试从现有服务中提取什么价值？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9reuc/before_the_topend_of_ai_becomes_too_expensive_for/</link>
       <description><![CDATA[在顶级 AI 变得过于昂贵以至于普通人无法按月负担之前，我们应该尝试从现在可用的服务中提取什么价值？    提交人    /u/petrastales   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9reuc/before_the_topend_of_ai_becomes_too_expensive_for/</guid>
       <pubDate>Sun, 08 Dec 2024 20:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的业务应该使用什么工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9r0jg/what_tool_to_use_for_my_business/</link>
-      <description><![CDATA[大家好， 我正在为我的红光疗法业务寻找一款优秀的 AI 工具。我想上传面板图像，将产品放置在不同的设置中，并将人们添加到图片中，就像他们正在使用产品一样。我想让产品保持相似，所以我不希望该工具制作出看起来像它的东西。如果该工具能带来良好的效果，我愿意每月花费 20/30 美元。 很想听听您的建议和经验！    提交人    /u/Thick-Carpenter3290   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9r0jg/what_tool_to_use_for_my_business/</guid>
-      <pubDate>Sun, 08 Dec 2024 19:45:59 GMT</pubDate>
     </item>
     <item>
       <title>斯坦福人工智能指数显示我们在人工智能测试中遇到了一个关键问题（查看图片）</title>
@@ -83,13 +118,6 @@
       <pubDate>Sun, 08 Dec 2024 19:22:25 GMT</pubDate>
     </item>
     <item>
-      <title>统计单词和数字的人工智能工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9q76o/ai_tool_to_tally_words_numbers/</link>
-      <description><![CDATA[嗨， 我有一个研究项目的数据集，我想将其合并起来进行统计分析。以下不是我的数据，但这是我想要做的一个例子： 苹果 3、橙子 4、菠萝等。 我有大约 180 组这样的数据，我想将它们合并起来。它们并不都像这样干净。有没有一个人工智能网站或其他工具（Excel？），我可以使用它将所有 108 组中所有的苹果和水果前面的所有橙子加起来，如图所示，并告诉我每个有多少个？我希望人工智能工具理解数字的含义并将其添加到其他数字中，这可能吗？ 此外，一些术语是多个短语或一个短句。有什么想法吗？    提交人    /u/ProfessionalAd1198   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9q76o/ai_tool_to_tally_words_numbers/</guid>
-      <pubDate>Sun, 08 Dec 2024 19:09:29 GMT</pubDate>
-    </item>
-    <item>
       <title>我在 AI 中使用的所有工具（主要基于它们的好坏，因此我会使用其中一些最好的工具）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9q4kv/all_the_tools_i_use_in_ai_mostly_based_on_how/</link>
       <description><![CDATA[（只有 Nvidia 的用于通用音频的 Fugatto 模型尚未发布。） • 文本生成：GPT-01 Full（推理）、（常规）GPT4o • 通用图像创建：Flux 1.1 Pro + Whole Editor • 特定图像编辑：Omni Gen • 视频创建：Flux Video • 特定脸部动画器：FLOAT • 语音生成和通用声音：Eleven Labs • 特定音频（音乐/声音）：NVIDIA Fugatto • 3D 模型创建：Meshy Pro（模型）、Material Anything（纹理）• 视频编辑：DimensionX • 分割：Generative Omnimatte（视频）、SAMURAI（视频/图像的运动跟踪） （我使用这些工具来帮助制作电影、音乐和视频游戏，尽管有些我不使用，但只是相信它们将是这些类别中最好的，所以，是的，如果有的话，这真的更像是我认为在任何类别中最好的工具）    提交人    /u/Longjumping_Spot5843   [link] [评论]]]></description>
@@ -97,39 +125,11 @@
       <pubDate>Sun, 08 Dec 2024 19:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>员工监控中的人工智能会出现偏见吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9pvf6/can_ai_in_employee_monitoring_be_biased/</link>
-      <description><![CDATA[最近，发布了一款生产力监控软件，用于监控工作场所员工的生产力。它允许经理将员工分为“工作类别”。然后，该软件使用人工智能根据“您的所有鼠标移动数据、您点击的位置、您的打字速度、您使用退格键的频率、您访问的网站、您打开的程序、您发送的电子邮件数量”创建生产力图表。人工智能还用于将这些数据与您的同事的数据进行比较，并将任何“生产力差距”标记给您的经理。 我的问题是，这种人工智能在监控员工方面是否存在偏见。例如，如果用于训练或输入人工智能系统进行生产力监控的数据包含性别偏见，人工智能可能会在其响应中复制甚至放大这些偏见。    提交人    /u/rishabh303   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9pvf6/can_ai_in_employee_monitoring_be_biased/</guid>
-      <pubDate>Sun, 08 Dec 2024 18:55:44 GMT</pubDate>
-    </item>
-    <item>
       <title>早期职业工作者对人工智能改善工作效率的潜力感到兴奋</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9ny0v/early_career_workers_are_excited_about_ais/</link>
       <description><![CDATA[人工智能可能会影响职业生涯。组织如何帮助建立一支有韧性的早期职业劳动力队伍？人工智能可能会对劳动力队伍产生重大影响。早期职业工作者如何适应人工智能带来的机遇和不确定性？ https://www2.deloitte.com/us/en/insights/topics/talent/ai-in-the-workplace.html 来源：https://remoteupskill.com    提交人    /u/Diligent_Relative_36   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9ny0v/early_career_workers_are_excited_about_ais/</guid>
       <pubDate>Sun, 08 Dec 2024 17:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于转录手写文档和翻译的最佳 AI 工具？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9m6jc/best_ai_tools_for_transcribing_handwritten/</link>
-      <description><![CDATA[大家好！我有一堆旧文件和信件，我想将它们转录（然后翻译，因为它们不是用英语写的）。我想知道是否有人推荐一些用于转录或翻译的应用程序？ 有人试过 Transkribus 吗？ 谢谢！    提交人    /u/TwoOhFourSix   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9m6jc/best_ai_tools_for_transcribing_handwritten/</guid>
-      <pubDate>Sun, 08 Dec 2024 16:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对工程博士学位的 ChatGPT Plus：值得投资吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9kvx6/chatgpt_plus_for_engineering_phd_worth_the/</link>
-      <description><![CDATA[我很快就要开始攻读工程博士学位了，我正在考虑注册 ChatGPT Plus 的可能性。我认为 o1 模型可能因其数学能力而有用。此外，高级语音模式对于语言学习、做日志等非常方便（目前，没有其他公司像 OpenAI 那样提供）。 你认为注册它是一个好策略吗，还是我应该研究本地开源模型和 API？如果本地模型是可行的方法，我应该从哪里开始研究？最佳模型、计算机规格、教程等。 提前谢谢您！    提交人    /u/Xycephei   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9kvx6/chatgpt_plus_for_engineering_phd_worth_the/</guid>
-      <pubDate>Sun, 08 Dec 2024 15:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>区分 Llm 幻觉中的无知与错误</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h9gh5a/distinguishing_ignorance_from_error_in_llm/</link>
-      <description><![CDATA[大型语言模型 (LLM) 因其能够生成类似人类的文本而备受赞誉，但其准确性往往存在问题，导致研究人员称之为“幻觉”。这些幻觉表现为不基于现实的输出，无法反映必要的事实信息或一致性，而这些信息或一致性对于闭卷问答 (CBQA) 等应用至关重要。理解和纠正这些幻觉可以大大提高 LLM 在各个行业的可靠性和采用率。 阅读全部：https://blog.telepat.io/distinguishing-ignorance-from-error-in-llm-hallucinations     提交人    /u/sculabobone   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h9gh5a/distinguishing_ignorance_from_error_in_llm/</guid>
-      <pubDate>Sun, 08 Dec 2024 10:57:40 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
