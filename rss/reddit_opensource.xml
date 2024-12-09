@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Dec 2024 12:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 18:02:29 GMT</lastBuildDate>
+    <item>
+      <title>生态系统基金：为您的关键软件依赖项提供精心策划的支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hafkcu/ecosystem_funds_curated_support_for_your_critical/</link>
+      <description><![CDATA[       由    /u/augspurger  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hafkcu/ecosystem_funds_curated_support_for_your_critical/</guid>
+      <pubDate>Mon, 09 Dec 2024 17:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找开源 c++ 项目的贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1habta8/looking_for_contributors_for_an_opensource_c/</link>
+      <description><![CDATA[大家好， 在过去的一个月里，我一直在研究一些用于生物力学和机器人建模的有趣工具，TinyURDF 一个用于处理 URDF 模型数据格式的独立现代 C++ 库。该项目仍处于早期阶段，我正在寻找各种贡献者：现代 C++（&gt;17）开发人员、想要使用/学习各种数据格式（JSON、YAML、Protobuf 等）和使用 C++ 进行操作的初学者、那些使用 VTK 进行 3D 可视化工作或学习的人。如果您有兴趣，请随时联系我们！    提交人    /u/Physical_Challenge51   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1habta8/looking_for_contributors_for_an_opensource_c/</guid>
+      <pubDate>Mon, 09 Dec 2024 15:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天发布我的第 9 个开源 macOS 应用 - 文件合并到提示或 PDF</title>
+      <link>https://www.reddit.com/r/opensource/comments/1habphd/dropping_my_9th_opensource_macos_app_today_a_file/</link>
+      <description><![CDATA[我正在构建 26 个开源 macOS 应用程序，这个过程很愚蠢但很有趣，每个字母对应一个。今天我完成了 (U) Uno，你可以拖放文件（几乎任何文件类型）或文件夹，然后它们合并为 PDF 或 AI 提示。我目前正在提高拖放 10-20 个以上文件时的性能。 Github 下载链接：https://github.com/nuance-dev/uno 我几乎完成了另外 2 个应用程序、一个通用文件转换器（拖放音频 - 它会变成视频，拖放图像它会变成 PDF 等），这需要一段时间，以及一个发布日期跟踪器。我大约 2 个月前开始公开构建，这是我一生中最好的决定之一。   由    /u/sirjoaco  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1habphd/dropping_my_9th_opensource_macos_app_today_a_file/</guid>
+      <pubDate>Mon, 09 Dec 2024 15:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名独立的 OSS 开发人员，如何处理代码审查和 Git 策略？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1haalrp/how_do_you_handle_code_reviews_and_git_strategies/</link>
+      <description><![CDATA[大家好！ 我是一名拥有 11 年以上经验的高级工程师，目前在一家初创公司工作。在过去的一年里，我一直在为 React 构建一个开源 UI 库。这个项目最初是一个业余项目，旨在学习如何构建库，现在变成了我真正喜欢做的事情，我想将它提升到一个新的水平。 话虽如此，单独工作也会带来挑战。没有合作者或贡献者，我一直在自己处理所有事情——代码审查、git 策略决策，以及介于两者之间的一切。我还没有找到有兴趣做出贡献的工程师，所以到目前为止，这还是一段单人旅程。 我很好奇其他独立 OSS 开发人员如何处理这个问题。您如何：  自己进行有效的代码审查？ 在没有其他人帮助的情况下决定 git 合并策略？  我相信我并不孤单，我很乐意听取社区的任何提示或建议。如果您愿意，请随时查看我的 repo（链接如下）并对其进行批评 - 我愿意接受所有反馈并渴望改进。 Repo：rad-ui/ui    提交人    /u/DuctTapeDiplomat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1haalrp/how_do_you_handle_code_reviews_and_git_strategies/</guid>
+      <pubDate>Mon, 09 Dec 2024 14:13:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>SigNoz - DataDog 的自托管开源替代品，NewRelic 发布了 v0.60.0，支持基础设施监控</title>
+      <link>https://www.reddit.com/r/opensource/comments/1haaj5g/signoz_a_selfhosted_and_open_source_alternative/</link>
+      <description><![CDATA[    /u/pranay01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1haaj5g/signoz_a_selfhosted_and_open_source_alternative/</guid>
+      <pubDate>Mon, 09 Dec 2024 14:09:40 GMT</pubDate>
+    </item>
     <item>
       <title>HackerNews 新职位 - 深入了解 HN“谁在招聘”主题中最新和重复的招聘广告</title>
       <link>https://www.reddit.com/r/opensource/comments/1ha6wo9/hackernews_new_jobs_insights_into_fresh_and/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/miltonian3  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h8jsly/principles_framework_generate_ai_agents_using/</guid>
       <pubDate>Sat, 07 Dec 2024 03:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fiddler Classic ZSTD 解压自定义规则。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8ix8h/fiddler_classic_zstd_decompression_custom_rule/</link>
-      <description><![CDATA[我一直很喜欢使用 fiddler classic 进行开发，并且注意到很多网站都在使用 ZSTD！希望它能帮助到其他人。  它仅适用于 Windows，但您可以对其进行调整。通过规则 -&gt; 自定义规则添加必要的更改。  https://gist.github.com/moorer2k/f78891a168eb7d5a0bb10f52c418f252    提交人    /u/moorer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8ix8h/fiddler_classic_zstd_decompression_custom_rule/</guid>
-      <pubDate>Sat, 07 Dec 2024 02:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Harmony Music - 跨平台流媒体音乐应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8h3og/harmony_music_a_cross_platform_app_for_streaming/</link>
-      <description><![CDATA[        提交人    /u/reps_up   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8h3og/harmony_music_a_cross_platform_app_for_streaming/</guid>
-      <pubDate>Sat, 07 Dec 2024 01:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以贡献的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8g464/looking_for_open_source_projects_to_contribue/</link>
-      <description><![CDATA[大家好！我是一名计算机科学专业的学生，​​我参加了一个名为“开源开发”的课程，我们必须为开源项目做出贡献。我正在尝试寻找结构化的开源项目，我认为这里是寻找它们的好地方。 你们能帮我找到好的存储库来处理吗？    提交人    /u/koziel_gpc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8g464/looking_for_open_source_projects_to_contribue/</guid>
-      <pubDate>Sat, 07 Dec 2024 00:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了软件维护者的利益，请帮助我减少使用 git 的麻烦</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8adez/help_me_be_less_shit_at_git_for_the_sake_of/</link>
-      <description><![CDATA[我编程和使用 git 已经有一段时间了。我从来没有合作过，所以我的 git 工作流程到目前为止都是一个主分支，我会在提交功能时将其推送到我的远程仓库。我很少将它用于任何严肃的目的，它主要用于在我的工作站和笔记本电脑之间同步我的代码。 我开始为 Github 上的几个开源项目做贡献。这让我意识到我并不真正了解使用 git 进行协作的最佳方式。没有人对我说过这件事，但在我看来，我的提交看起来很混乱。 例如：我正在编写三个单独的功能/修复。它们都将获得自己的提交。我希望它们都是单独的拉取请求，因为它们每个都需要单独的讨论。如果我只是对同一个分支进行三次提交，那么它们都会被集中到一个 PR 中。 我是否应该为每个功能创建一个新分支，从分支提交 PR，然后将它们全部合并回我的主分支以继续我的工作？如何确保我可以将我的 PR 作为干净的单个提交提交，而不会因为尝试使我的本地代码保持最新而产生大量噪音？ 如果我有几个应该单独进行 PR 的功能，但是我在本地测试它们的方式要求它们都在我的本地代码中一起实现，该怎么办？我是否应该合并它们进行测试，进行测试，然后删除合并的分支并提交，然后再使用单个分支提交我的 PR？ 我想我只是在寻找最佳实践，这样我就不会惹恼维护我试图为其贡献代码的项目的人。    提交人    /u/HittingSmoke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8adez/help_me_be_less_shit_at_git_for_the_sake_of/</guid>
-      <pubDate>Fri, 06 Dec 2024 20:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有记忆功能的 Agentic RAG</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</link>
-      <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理是： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</guid>
-      <pubDate>Fri, 06 Dec 2024 19:12:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
