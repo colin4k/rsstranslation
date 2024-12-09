@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Dec 2024 21:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 00:04:40 GMT</lastBuildDate>
     <item>
       <title>寻找 Hamachi 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9pbk2/looking_for_an_open_source_alternative_to_hamachi/</link>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 08 Dec 2024 07:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>这样做明智吗？为什么或为什么不？</title>
+      <title>这样做明智吗？为什么或者为什么不明智？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</link>
       <description><![CDATA[因此，在我下载软件（开源且最好是 FOSS）之前，我会先检查代码是否具有遥测功能。我这样做是为了安全起见，因为即使隐私政策规定不提供遥测/是私密的，也可能是软件确实具有遥测功能但不是私密的。 这样做明智吗？    提交人    /u/CloudyyySXShadowH   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</guid>
@@ -127,7 +127,7 @@
     <item>
       <title>具有记忆功能的 Agentic RAG</title>
       <link>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</link>
-      <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理如下： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
+      <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理是： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</guid>
       <pubDate>Fri, 06 Dec 2024 19:12:22 GMT</pubDate>
     </item>
