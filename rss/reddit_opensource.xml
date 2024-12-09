@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Dec 2024 18:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 21:02:15 GMT</lastBuildDate>
+    <item>
+      <title>为我推荐一款适用于金融科技初创公司的 OS 钱包管理（后端）系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hajx75/recommend_me_an_os_wallet_managementbackend/</link>
+      <description><![CDATA[大家好，我是一家金融科技初创公司的早期创始团队的成员。我们正在尝试构建一个数字钱包，使用户可以在钱包之间转账、使用钱包支付产品/服务费用、具有存取现金功能。 您能否推荐一个 OS 后端软件，该软件能够管理钱包，并能够通过适当的分类账系统为数字钱包的基本功能提供支持，该系统能够跟踪钱包余额和已完成的交易。 感谢您的意见。    提交人    /u/Clear_Performer_556   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hajx75/recommend_me_an_os_wallet_managementbackend/</guid>
+      <pubDate>Mon, 09 Dec 2024 20:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>有机地图所有地图下载</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hahpgv/organic_maps_all_maps_download/</link>
+      <description><![CDATA[有没有办法在 organic 地图中一次性下载所有地图     提交人    /u/SogianX   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hahpgv/organic_maps_all_maps_download/</guid>
+      <pubDate>Mon, 09 Dec 2024 19:14:32 GMT</pubDate>
+    </item>
     <item>
       <title>生态系统基金：为您的关键软件依赖项提供精心策划的支持</title>
       <link>https://www.reddit.com/r/opensource/comments/1hafkcu/ecosystem_funds_curated_support_for_your_critical/</link>
@@ -111,7 +125,7 @@
       <pubDate>Sun, 08 Dec 2024 07:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>这样做明智吗？为什么或者为什么不明智？</title>
+      <title>这样做明智吗？为什么或为什么不？</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</link>
       <description><![CDATA[因此，在我下载软件（开源且最好是 FOSS）之前，我会先检查代码是否具有遥测功能。我这样做是为了安全起见，因为即使隐私政策规定不提供遥测/是私密的，也可能是软件确实具有遥测功能但不是私密的。 这样做明智吗？    提交人    /u/CloudyyySXShadowH   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[有人知道 FOSS 愿望清单应用程序和/或网站吗？最好不是圣诞主题的，因为我想全年使用它    由    /u/turritopsi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h90tu3/wishlist_appwebsite/</guid>
       <pubDate>Sat, 07 Dec 2024 20:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么反馈赞同工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8m9fh/what_feedback_upvoting_tool_do_you_use/</link>
-      <description><![CDATA[我很快就要推出我的开放核心项目的 v1 版了，我想知道这里的大多数开发人员使用什么来为功能请求点赞/反馈点赞？我可以看到 GitHub 问题很方便，但查看 GitHub 问题上的竖起大拇指表情符号计数似乎不是确定最重要功能请求的最佳方式。 我使用 canny.io 来运行我运行的微型 saas，我也一直在关注 featurebase.app。 你们有偏好吗？我真的很纠结。    提交人    /u/SirLagsABot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8m9fh/what_feedback_upvoting_tool_do_you_use/</guid>
-      <pubDate>Sat, 07 Dec 2024 06:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>原理框架：使用第一原理推理生成 AI 代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h8jsly/principles_framework_generate_ai_agents_using/</link>
-      <description><![CDATA[  由    /u/miltonian3  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h8jsly/principles_framework_generate_ai_agents_using/</guid>
-      <pubDate>Sat, 07 Dec 2024 03:43:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
