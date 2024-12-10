@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Dec 2024 09:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:02:38 GMT</lastBuildDate>
+    <item>
+      <title>Ruby 中的 OpenAI 实时 API 到 twilio</title>
+      <link>https://www.reddit.com/r/programming/comments/1hazsqj/openai_realtime_api_to_twilio_in_ruby/</link>
+      <description><![CDATA[  由   提交  /u/Ok_Shallot9490   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hazsqj/openai_realtime_api_to_twilio_in_ruby/</guid>
+      <pubDate>Tue, 10 Dec 2024 11:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>结对编程：两年来，这些是好处和挑战</title>
+      <link>https://www.reddit.com/r/programming/comments/1hazbh2/pair_programming_2_years_in_these_are_the/</link>
+      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hazbh2/pair_programming_2_years_in_these_are_the/</guid>
+      <pubDate>Tue, 10 Dec 2024 11:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSON 到 Youtube Shorts</title>
+      <link>https://www.reddit.com/r/programming/comments/1hayoeu/json_to_youtube_shorts/</link>
+      <description><![CDATA[JSON 到 Youtuber Shorts 大家好， 过去几个月，我一直在开发一个用于创建无脸视频的开源库。 我正在考虑将其转变为 API，以便开发人员只需在场景中提供脚本即可轻松集成它。 该 API 将生成：• 语音 • 图像 • 过渡 • 字幕 我考虑将其定价为每分钟 0.10 美元左右，以支付 AI 生成成本。 这是您愿意支付的费用吗？ 感谢您的反馈！    提交人    /u/Professional-Pie3323   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hayoeu/json_to_youtube_shorts/</guid>
+      <pubDate>Tue, 10 Dec 2024 10:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近配置了大量 VPS，并决定自动化我的终端配置。玩得开心，开始发货！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hay4th/i_have_been_provisioning_an_absurd_number_of_vps/</link>
+      <description><![CDATA[  由    /u/Solvicode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hay4th/i_have_been_provisioning_an_absurd_number_of_vps/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员使用手机和触摸屏编写了 25000 行 Neovim 插件代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hay1z3/developer_wrote_25k_lines_of_neovim_plugin_code/</link>
+      <description><![CDATA[  由    /u/NXGZ  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hay1z3/developer_wrote_25k_lines_of_neovim_plugin_code/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 NestJS：面向开发人员的综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1haxuyz/mastering_nestjs_a_comprehensive_guide_for/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1haxuyz/mastering_nestjs_a_comprehensive_guide_for/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:13:42 GMT</pubDate>
+    </item>
     <item>
       <title>尝试这个免费工具来安全地加密和解密您的文本！</title>
       <link>https://www.reddit.com/r/programming/comments/1haxhtf/try_this_free_tool_to_encrypt_and_decrypt_your/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hak25t/memorysafe_png_decoders_now_vastly_outperform_c/</guid>
       <pubDate>Mon, 09 Dec 2024 20:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>司机被派往非洲</title>
-      <link>https://www.reddit.com/r/programming/comments/1haiaza/drivers_are_getting_sent_to_africa/</link>
-      <description><![CDATA[  由    /u/heraldev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1haiaza/drivers_are_getting_sent_to_africa/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:39:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止 Go 中的恐慌</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahj9c/how_to_prevent_panics_in_go/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahj9c/how_to_prevent_panics_in_go/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>逆向工程的 Pentium FDIV 漏洞</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahj8b/the_pentium_fdiv_bug_reverseengineered/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahj8b/the_pentium_fdiv_bug_reverseengineered/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中的直觉</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahj6g/intuition_in_software_development/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahj6g/intuition_in_software_development/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>在稳定的 Rust 中设计一个 const array::from_fn</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahivr/designing_a_const_arrayfrom_fn_in_stable_rust/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahivr/designing_a_const_arrayfrom_fn_in_stable_rust/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:06:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>内联何时有用？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahiu1/when_is_inlining_useful/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahiu1/when_is_inlining_useful/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:06:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
