@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Dec 2024 21:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:03:53 GMT</lastBuildDate>
+    <item>
+      <title>什么是高阶组件 (HOC)？综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1hanm9u/what_are_higherorder_components_hocs_a/</link>
+      <description><![CDATA[  由    /u/landonwjohnson  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hanm9u/what_are_higherorder_components_hocs_a/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 Socket-Flow 更新：新功能和压缩支持！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hamwdm/socketflow_updates_new_features_and_compression/</link>
+      <description><![CDATA[  由    /u/felipemeriga  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hamwdm/socketflow_updates_new_features_and_compression/</guid>
+      <pubDate>Mon, 09 Dec 2024 22:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于协同编辑的谎言（一）：离线编辑算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1haknnc/lies_i_was_told_about_collaborative_editing_part/</link>
+      <description><![CDATA[  由    /u/hausdorff_spaces  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1haknnc/lies_i_was_told_about_collaborative_editing_part/</guid>
+      <pubDate>Mon, 09 Dec 2024 21:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>NanoCode - 一个简约、开源、轻量级的代码编辑器。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hakkak/nanocode_a_minimalistic_opensource_and/</link>
+      <description><![CDATA[  由    /u/AzEStudios  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hakkak/nanocode_a_minimalistic_opensource_and/</guid>
+      <pubDate>Mon, 09 Dec 2024 21:12:55 GMT</pubDate>
+    </item>
     <item>
       <title>具有记忆功能的 Agentic RAG</title>
       <link>https://www.reddit.com/r/programming/comments/1hak2cq/agentic_rag_with_memory/</link>
@@ -18,27 +46,6 @@
       <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hak25t/memorysafe_png_decoders_now_vastly_outperform_c/</guid>
       <pubDate>Mon, 09 Dec 2024 20:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于人工智能用于编码的调查结果令人好奇。40% 的人认为人工智能比他们预期的更糟糕。40% 的人认为人工智能比预期的要好，20% 的人认为它正是他们所期望的。还有其他有趣的见解。填写表格后，您可以看到结果</title>
-      <link>https://www.reddit.com/r/programming/comments/1hajafj/curious_results_on_survey_about_ai_use_for_coding/</link>
-      <description><![CDATA[  由    /u/Sea-Conference6165  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hajafj/curious_results_on_survey_about_ai_use_for_coding/</guid>
-      <pubDate>Mon, 09 Dec 2024 20:19:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化递归 - 递归简介（视频 01）</title>
-      <link>https://www.reddit.com/r/programming/comments/1haj7vi/recursion_simplified_introduction_to_recursion/</link>
-      <description><![CDATA[  由    /u/xAconitex  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1haj7vi/recursion_simplified_introduction_to_recursion/</guid>
-      <pubDate>Mon, 09 Dec 2024 20:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI：索拉</title>
-      <link>https://www.reddit.com/r/programming/comments/1haifva/openai_sora/</link>
-      <description><![CDATA[  由    /u/tchanu06  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1haifva/openai_sora/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:44:56 GMT</pubDate>
     </item>
     <item>
       <title>司机被派往非洲</title>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 09 Dec 2024 19:02:29 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年的类型化 Python：广受欢迎，但可用性挑战依然存在</title>
+      <title>2024 年的类型化 Python：广泛采用，但可用性挑战依然存在</title>
       <link>https://www.reddit.com/r/programming/comments/1hahdcd/typed_python_in_2024_well_adopted_yet_usability/</link>
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hahdcd/typed_python_in_2024_well_adopted_yet_usability/</guid>
       <pubDate>Mon, 09 Dec 2024 19:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>调试超级块 Percpu_rw_semaphore 死锁</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahatf/debugging_a_superblock_percpu_rw_semaphore/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahatf/debugging_a_superblock_percpu_rw_semaphore/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:58:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
