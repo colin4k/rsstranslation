@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 10 Dec 2024 00:04:01 GMT</lastBuildDate>
-    <item>
-      <title>显示每位首席执行官的网站</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hanr5e/website_that_shows_every_ceo/</link>
-      <description><![CDATA[谁想要建立一个网站，列出每个 CEO 的名字，并附上他们的照片，可能还链接到他们的专业网站，如 LinkedIn 😀  如果是这样，请联系我，我们可以在 github 上启动一个 repo 并开始工作。    提交人    /u/link30224   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hanr5e/website_that_shows_every_ceo/</guid>
-      <pubDate>Mon, 09 Dec 2024 23:31:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Dec 2024 03:16:32 GMT</lastBuildDate>
     <item>
       <title>观点：微软商店流行的 FOSS 软件收费策略弊大于利</title>
       <link>https://www.reddit.com/r/opensource/comments/1halxit/opinion_a_popular_strategy_of_charging_for_foss/</link>
@@ -99,7 +92,7 @@
     <item>
       <title>与您的电子邮件配合使用的消息应用程序。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</link>
-      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。 https://github.com/ThriveEngineer/messages    由   提交  /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。https://github.com/ThriveEngineer/messages    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</guid>
       <pubDate>Sun, 08 Dec 2024 17:05:01 GMT</pubDate>
     </item>
@@ -144,6 +137,13 @@
       <description><![CDATA[        提交人    /u/ad-on-is   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9dw0r/github_adonisstowman_stowmansh_lets_you_easily/</guid>
       <pubDate>Sun, 08 Dec 2024 07:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>这样做明智吗？为什么或者为什么不明智？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</link>
+      <description><![CDATA[因此，在我下载软件（开源且最好是 FOSS）之前，我会先检查代码是否具有遥测功能。我这样做是为了安全起见，因为即使隐私政策规定不提供遥测/是私密的，也可能是软件确实具有遥测功能但不是私密的。 这样做明智吗？    提交人    /u/CloudyyySXShadowH   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</guid>
+      <pubDate>Sun, 08 Dec 2024 04:26:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
