@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Dec 2024 06:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:02:22 GMT</lastBuildDate>
+    <item>
+      <title>第四部分版权声明？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hbnglx/4th_part_copyright_notice/</link>
+      <description><![CDATA[嗨 在您自己的项目中包含所有具有此类版权声明的第三方组件是明智之举，但我还没有想清楚必须深入到什么程度。 如果第三方库正在使用其他库，并且它们的库通常是其他库。我必须深入到什么程度并包含版权声明？    提交人    /u/AdventurousMinute334   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hbnglx/4th_part_copyright_notice/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:32:35 GMT</pubDate>
+    </item>
     <item>
       <title>带标签的费用管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1hbm852/expense_manager_with_tags/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[    /u/pranay01   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1haaj5g/signoz_a_selfhosted_and_open_source_alternative/</guid>
       <pubDate>Mon, 09 Dec 2024 14:09:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>HackerNews 新职位 - 深入了解 HN“谁在招聘”主题中最新和重复的招聘广告</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ha6wo9/hackernews_new_jobs_insights_into_fresh_and/</link>
-      <description><![CDATA[该网站面向在 HackerNews “招聘信息” 帖子上寻找工作并希望关注最新广告和公司，或快速查找任何公司广告历史的人。 Github 存储库：https://github.com/nemanjam/hn-new-jobs 演示网站：https://hackernews-new-jobs.arm1.nemanjamitic.com 我使用 Algolia API 作为数据源，以及在每个月初解析新线程几次的计划任务。然后将提​​取的数据存储在 SQLite 数据库中以进行快速查询，并使用 Keyv 缓存结果以加快页面响应速度。我将在未来查看该网站的流量，以及此堆栈的性能是否足够好。对于该网站，我使用了带有默认 ShadcnUI 组件和图表的 Next.js 应用程序。我只是想要一个快速的功能原型来测试公众对具有此类功能的应用程序的兴趣程度。 如果您对更多实现细节感兴趣，可以在 Github 上的 Readme 文件中找到它们。 该项目是免费和开源的。请随意使用、自行托管、分叉和修改以及做出贡献。我很乐意听到您的印象和建议，并期待讨论功能和技术细节。    提交人    /u/nemanja_codes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ha6wo9/hackernews_new_jobs_insights_into_fresh_and/</guid>
-      <pubDate>Mon, 09 Dec 2024 10:35:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

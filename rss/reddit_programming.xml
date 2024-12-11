@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 11 Dec 2024 06:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:02:14 GMT</lastBuildDate>
+    <item>
+      <title>印刷订单安排的科学</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbpda1/the_science_of_routing_print_orders/</link>
+      <description><![CDATA[  由    /u/SerCeMan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbpda1/the_science_of_routing_print_orders/</guid>
+      <pubDate>Wed, 11 Dec 2024 08:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 还不是反编译器……</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbnz76/chatgpt_isnt_a_decompiler_yet/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbnz76/chatgpt_isnt_a_decompiler_yet/</guid>
+      <pubDate>Wed, 11 Dec 2024 07:08:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>1v1 代码战斗与能力？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbnxyi/1v1_code_battle_with_abilities/</link>
+      <description><![CDATA[  由    /u/baochidang  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbnxyi/1v1_code_battle_with_abilities/</guid>
+      <pubDate>Wed, 11 Dec 2024 07:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ed(1) 作为我的静态站点生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbnw70/using_ed1_as_my_static_site_generator/</link>
+      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbnw70/using_ed1_as_my_static_site_generator/</guid>
+      <pubDate>Wed, 11 Dec 2024 07:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 重写的优势：Rust 比 C 更具可移植性</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbnhhs/advantage_of_rewriting_in_rust_rust_is_more/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbnhhs/advantage_of_rewriting_in_rust_rust_is_more/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:34:23 GMT</pubDate>
+    </item>
     <item>
       <title>Steve Yegge 的《固执的开发者之死》</title>
       <link>https://www.reddit.com/r/programming/comments/1hbmy6e/the_death_of_the_stubborn_developer_by_steve_yegge/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/dperez-buf  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hb8c8n/nobody_gets_fired_for_picking_json_but_maybe_they/</guid>
       <pubDate>Tue, 10 Dec 2024 18:20:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>整洁代码的艺术：掌握可读性和可维护性</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb7u4m/the_art_of_clean_code_mastering_readability_and/</link>
-      <description><![CDATA[  由    /u/allien_88  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb7u4m/the_art_of_clean_code_mastering_readability_and/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>幽灵工程师</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb7nu2/ghost_engineers/</link>
-      <description><![CDATA[  由    /u/skwee357  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb7nu2/ghost_engineers/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年基线：更多工具助力 Web 开发人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb7hux/baseline_2024_more_tools_to_help_web_developers/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb7hux/baseline_2024_more_tools_to_help_web_developers/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devin 现已正式发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb77ap/devin_is_now_generally_available/</link>
-      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb77ap/devin_is_now_generally_available/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 MySQL 数据库构建 PostgREST API</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb7759/building_a_postgrest_api_for_your_mysql_database/</link>
-      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb7759/building_a_postgrest_api_for_your_mysql_database/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
