@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Dec 2024 21:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 06:02:10 GMT</lastBuildDate>
+    <item>
+      <title>Steve Yegge 的《固执的开发者之死》</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbmy6e/the_death_of_the_stubborn_developer_by_steve_yegge/</link>
+      <description><![CDATA[  由    /u/skinny85  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbmy6e/the_death_of_the_stubborn_developer_by_steve_yegge/</guid>
+      <pubDate>Wed, 11 Dec 2024 05:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>签名并盖章</title>
+      <link>https://www.reddit.com/r/programming/comments/1hblvss/signed_and_sealed/</link>
+      <description><![CDATA[  由    /u/lood9phee2Ri  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hblvss/signed_and_sealed/</guid>
+      <pubDate>Wed, 11 Dec 2024 04:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI Copilot 从头构建 Flutter Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1hblulb/building_a_flutter_web_app_from_scratch_using_ai/</link>
+      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hblulb/building_a_flutter_web_app_from_scratch_using_ai/</guid>
+      <pubDate>Wed, 11 Dec 2024 04:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 中的多态类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbl6h6/tipos_de_polimorfismo_en_c/</link>
+      <description><![CDATA[ 由   提交/u/emanuelpeg  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbl6h6/tipos_de_polimorfismo_en_c/</guid>
+      <pubDate>Wed, 11 Dec 2024 04:12:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>原生 TypeScript 数据结构：零依赖、快速、轻量且经过全面测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbjg2f/native_typescript_data_structures_zero/</link>
+      <description><![CDATA[  由    /u/artiom_baloian  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbjg2f/native_typescript_data_structures_zero/</guid>
+      <pubDate>Wed, 11 Dec 2024 02:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越炒作：发掘 GenAI 编码助手的真正价值</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbi3tv/beyond_the_hype_uncovering_the_true_value_of/</link>
+      <description><![CDATA[  由    /u/mattfrasernz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbi3tv/beyond_the_hype_uncovering_the_true_value_of/</guid>
+      <pubDate>Wed, 11 Dec 2024 01:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 开发者企业计划</title>
+      <link>https://www.reddit.com/r/programming/comments/1hbgmmg/apple_developer_enterprise_program/</link>
+      <description><![CDATA[正在寻找 Apple Developer Enterprise Program 的帐户。（1000 美元作为感谢！）有什么线索吗？    由   提交  /u/Fit-Panic-8777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hbgmmg/apple_developer_enterprise_program/</guid>
+      <pubDate>Wed, 11 Dec 2024 00:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>需要废除的命名惯例</title>
       <link>https://www.reddit.com/r/programming/comments/1hbc6kz/naming_conventions_that_need_to_die/</link>
@@ -76,13 +125,6 @@
       <pubDate>Tue, 10 Dec 2024 17:52:15 GMT</pubDate>
     </item>
     <item>
-      <title>深入了解 DnD 中的“优势”机制</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb7jk8/a_closer_look_at_the_advantage_mechanic_from_dnd/</link>
-      <description><![CDATA[  由    /u/Knaapje  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb7jk8/a_closer_look_at_the_advantage_mechanic_from_dnd/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:47:14 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年基线：更多工具助力 Web 开发人员</title>
       <link>https://www.reddit.com/r/programming/comments/1hb7hux/baseline_2024_more_tools_to_help_web_developers/</link>
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hb7759/building_a_postgrest_api_for_your_mysql_database/</guid>
       <pubDate>Tue, 10 Dec 2024 17:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPU 上的 Linux</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb746h/linux_on_gpu/</link>
-      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb746h/linux_on_gpu/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Limbo 介绍：用 Rust 完全重写 SQLite</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb6vg1/introducing_limbo_a_complete_rewrite_of_sqlite_in/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb6vg1/introducing_limbo_a_complete_rewrite_of_sqlite_in/</guid>
-      <pubDate>Tue, 10 Dec 2024 17:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库如何对内存中容纳不下的行进行排序（k 路合并算法）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb5z5l/how_a_db_may_sort_rows_that_dont_fit_in_memory/</link>
-      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb5z5l/how_a_db_may_sort_rows_that_dont_fit_in_memory/</guid>
-      <pubDate>Tue, 10 Dec 2024 16:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布推出适用于 Kotlin 的不可变数组：比列表更安全、更高效的替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb5822/announcing_immutable_arrays_for_kotlin_a_safer/</link>
-      <description><![CDATA[  由    /u/Determinant  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb5822/announcing_immutable_arrays_for_kotlin_a_safer/</guid>
-      <pubDate>Tue, 10 Dec 2024 16:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual6502 和 VisualZ80 混合版</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb47xy/visual6502_and_visualz80_remixed/</link>
-      <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb47xy/visual6502_and_visualz80_remixed/</guid>
-      <pubDate>Tue, 10 Dec 2024 15:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解开发人员的拖延症及其解决方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1hb467o/understanding_developer_procrastination_and_ways/</link>
-      <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hb467o/understanding_developer_procrastination_and_ways/</guid>
-      <pubDate>Tue, 10 Dec 2024 15:22:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
