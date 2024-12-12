@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Dec 2024 12:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 15:02:32 GMT</lastBuildDate>
+    <item>
+      <title>[wharf] 关于我的开源项目的问题（硬编码）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hcl0ob/wharf_question_about_my_open_source_project/</link>
+      <description><![CDATA[如果感兴趣，欢迎为该仓库点赞或者通过 PR 做出贡献。  仓库：https://github.com/currenjin/wharf 问题：https://github.com/currenjin/wharf/issues/2  先简单介绍一下我的开源项目：它是一个只需一个命令，就能通过分析你的项目来创建 Dockerfile 和 docker-compose.yml 文件的生成器。 我目前关注的是硬编码和工作流程简化。Wharf 主要有两个领域：框架和服务。目前支持的框架有 SpringBoot 和 NodeJS，支持的服务包括 MySQL、PostgreSQL、Redis 和 RabbitMQ。 挑战在于我们需要为每个支持的服务创建单独的实现类，因为我们使用 FrameworkDetector 和 ServiceDetector 接口。开发生态系统有许多服务和框架，但为所有这些服务创建单独的检测器需要大量时间和精力。 我有一个简单的想法来解决这个问题：使用 YAML 配置文件映射服务。 yamlCopyservices：mysql：类型：DATABASE 版本：“8.0”依赖项：- group：mysql 工件：mysql-connector-java - group：org.springframework.boot 工件：spring-boot-starter-data-jpa postgresql：类型：DATABASE 版本：“15.0”依赖项： - 组：org.postgresql 工件：postgresql - 组：org.springframework.boot 工件：spring-boot-starter-data-jpa  这个想法是定义服务并映射它们的依赖关系如上所示。 但是，在继续这种方法之前，我想听听不同的观点和意见，看看是否有更好的解决方案。 感谢您的时间。在这些充满挑战的时刻保持安全和快乐。    提交人    /u/Emotional_Cut_6475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hcl0ob/wharf_question_about_my_open_source_project/</guid>
+      <pubDate>Thu, 12 Dec 2024 13:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费、开源无代码 Web 数据提取，支持登录！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hcknbw/free_opensource_nocode_web_data_extraction_with/</link>
+      <description><![CDATA[大家好。上个月我们开源了 Maxun。我们决定在这里发布我们的新功能，以防有人需要它。 现在，可以使用用户名和密码抓取登录背后的数据。我们正在积极开发相同的 cookie 会话 - 并将在本周推出。 这是一个示例视频：https://www.youtube.com/watch?v=_-n6OFQI_x4  谢谢！    提交人    /u/carishmaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hcknbw/free_opensource_nocode_web_data_extraction_with/</guid>
+      <pubDate>Thu, 12 Dec 2024 13:04:20 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 OpenSource.net 上的热门文章</title>
       <link>https://www.reddit.com/r/opensource/comments/1hcjcvn/top_articles_at_opensourcenet_in_2024/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>我发布了我的消息应用程序的 Windows 版本。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hc002l/i_released_the_windows_version_of_my_messaging_app/</link>
-      <description><![CDATA[嗨，我今天发布了我的消息应用程序的 Windows 版本。我很乐意获得反馈并改进该应用程序。 您可以在此处获取它：https://github.com/ThriveEngineer/messages    由   提交  /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我今天发布了我的消息应用程序的 Windows 版本。我很乐意获得反馈并改进该应用程序。 您可以在此处获取它：https://github.com/ThriveEngineer/messages    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hc002l/i_released_the_windows_version_of_my_messaging_app/</guid>
       <pubDate>Wed, 11 Dec 2024 18:16:24 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[嘿，Reddit！我很高兴与大家分享我一直在研究的东西：payloads_flipperZero，一个 GitHub 存储库，其中充满了预先配置的有效载荷，旨在释放 Flipper Zero 的全部潜力！ 如果您像我一样喜欢摆弄您的 Flipper Zero，您会发现这个存储库非常方便，可以自动执行任务、测试安全设置以及使用您的设备获得一些乐趣。 我包含的内容：  🛠️ 为 Flipper Zero 量身定制的即用型有效载荷集合 📄 用于简化安全评估和实验的脚本 🔄 针对不同用例不断增长的工具和有效载荷库  我为什么制作这个： 我想制作它让 Flipper Zero 用户能够更轻松地直接投入使用，而无需手动设置一切。无论您是喜欢黑客攻击、安全研究还是只是探索，这个 repo 都能满足您的需求！ 👉 查看：payloads_flipperZero GitHub Repo 我很乐意听到您的反馈、建议，甚至看看您如何在项目中使用该 repo。让我们一起创造一些很棒的东西吧！    提交人    /u/BST04   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hb523p/my_flipper_zero_payloads/</guid>
       <pubDate>Tue, 10 Dec 2024 16:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络安全所有工具 - 开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hb4yrz/cybersecurity_all_tools_open_source/</link>
-      <description><![CDATA[大家好！ 我刚刚启动了一个新的 GitHub 存储库 cybersources，它汇编了各种各样的网络安全资源。 这个存储库旨在成为专业人士、学习者和业余爱好者的首选之地。它包括：  用于渗透测试、事件响应和网络分析的工具。 分步教程，以提高您的网络安全技能。 行业标准和最佳实践参考。  无论您是经验丰富的专家还是初学者，我都希望您觉得它有用。 请随意探索、贡献和分享您的反馈！ 让我们一起建立一个强大的网络安全社区！ 🚀 👉 [链接至存储库] 期待您的想法和建议！😊    由   提交  /u/BST04   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hb4yrz/cybersecurity_all_tools_open_source/</guid>
-      <pubDate>Tue, 10 Dec 2024 15:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年开源日 - 意大利 - 征文开始！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hb3ruo/open_source_day_2025_italy_call_for_papers_open/</link>
-      <description><![CDATA[大家好， 本次社区活动由 Schrödinger Hat 主办，这是一个传播开源热爱的非营利组织。如果您对开源充满热情，或者您有项目或经验可以分享，您可能会喜欢第四届开源日！  📅 日期：2025 年 3 月 21 日 🌍 地点：意大利佛罗伦萨 Nana Bianca 🎟 费用：免费 – 感谢捐赠和赞助商。 为什么要参加？  与开源维护者、开发人员（初级到高级）、工程师和爱好者交流。 向演讲者学习并与社区建立联系。 在热情、包容的环境中享受对话。  征文已开放！ 我们正在寻找热衷于分享有关任何开源知识的演讲者：工具、项目、工作流程、挑战等等。无论您是经验丰富的演讲者还是舞台新手，我们都很乐意听到您的声音！ 👉 提交您的演讲：https://sessionize.com/open-source-day-2025/ 👉 了解有关该活动的更多信息：osday.dev 谢谢，如果您有任何问题，我们很乐意回答！    提交人    /u/schrodinger_hat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hb3ruo/open_source_day_2025_italy_call_for_papers_open/</guid>
-      <pubDate>Tue, 10 Dec 2024 15:05:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
