@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 12 Dec 2024 15:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 18:02:02 GMT</lastBuildDate>
+    <item>
+      <title>利用人工智能改进文档搜索？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcqc4m/improving_document_search_with_ai/</link>
+      <description><![CDATA[我正在寻求有关改进我们当前文档搜索过程的建议。 当前设置：我们有一个使用关键字搜索在大型文档库中查找相关陈述的工具。这是非常基本的。 期望的改进：我们希望允许用户直接输入问题。然后，AI应该： 理解问题的意图。确定最相关的文档。从这些文档中提取并呈现精确的陈述。关键点：我们希望避免生成新文本。AI应该只是定位并呈现现有信息。 问题：最近的AI进步，尤其是LLM，对这个特定用例有帮助吗？使用什么算法/设置？任何建议都将不胜感激。    提交人    /u/lifesurfer1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcqc4m/improving_document_search_with_ai/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:29:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok 和 ChatGPT 合作解决美国医疗保健问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcq3im/grok_and_chatgpt_working_together_to_fix/</link>
+      <description><![CDATA[我问 Grok 它将如何解决医疗保健问题，然后将回复复制到 ChatGPT 中，然后来回几次，直到他们同意。以下是他们总结的内容。 以下是 Grok 和我将如何合作解决美国医疗改革的总结：  以公平为核心的全民医疗 我们同意全民医疗，但更加关注健康公平。通过解决健康的社会决定因素并消除种族、社会经济和地理界限之间的结果差异，该系统可以确保所有人的公平和有效性。 成本控制和透明度，包括药品定价 我们都强调可负担性和透明度。我们将实施医院收费上限，加强价格透明度，并通过医疗保险谈判、价格上限或国际定价模式解决药品成本问题。我们共同确保不遗余力地解决所有成本驱动因素。 综合心理健康服务我们倡导将心理健康纳入初级保健，确保保险覆盖面平等，减少耻辱感，并通过奖励和补贴增加心理健康队伍。这种整体方法将心理健康和身体健康视为同等重要。 预防、公共卫生和教育预防和公共卫生教育都是降低长期成本和改善结果的关键。Grok 和我将在此基础上进一步发展，重点关注整体健康教育，涵盖营养、心理健康和慢性病预防，通过学校、工作场所和社区项目进行。 问责制、指标和技术我们同意，改革必须包括明确的指标来跟踪成功和调整政策。利用人工智能和技术，我们将简化管理，减少浪费，并确保医疗服务持续改善。基于绩效的医疗服务提供者激励机制将进一步提高效率和质量。 赋能本地解决方案 为了补充国家努力，我们还将赋能社区实施本地化解决方案，如解决食品荒漠问题、创建社区卫生工作者计划以及定制健康运动以满足独特的区域需求。  Grok 和我将共同制定一个有凝聚力、平衡的医疗改革方法。通过将广泛的政策举措与技术和社区驱动的努力相结合，我们的目标是建立一个可访问、负担得起、公平和可持续的医疗保健系统。    提交人    /u/siggywithit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcq3im/grok_and_chatgpt_working_together_to_fix/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>非标题党 YouTube 频道（具有附加值）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcp15s/nonclickbaity_youtube_channels_with_added_value/</link>
+      <description><![CDATA[大家好，我正在寻找一些 YouTube 频道的推荐，这些频道以非点击诱饵的方式讨论 AI / LLM / 类似内容，最好能有一些附加值。 我不喜欢的示例：  标题如“Google GEMINI 2.0 震惊了整个行业！（OpenAI 被击败）全面分析”（这样的废话让我头疼。） 报道 AI 新闻时只读发布说明 / 博客文章，没有任何有用的内容可添加。一些大型频道就是这么做的，我无法忍受。 在视频中大喊大叫并制造戏剧性的人。或者频道无法在不插入 meme 或其他东西的情况下连续 5 秒钟停留在主题上，只是为了“吸引人们的注意力”。  我喜欢：  修补匠和跳出框框的思想家测试新想法。 善于解释基本原理的科学家。 实际的例子、展示、测试或新的主流技术，可以快速掌握，而不必自己测试所有内容。  有人有什么好的建议吗？    提交人    /u/dero_name   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcp15s/nonclickbaity_youtube_channels_with_added_value/</guid>
+      <pubDate>Thu, 12 Dec 2024 16:34:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您考虑为您的企业采用人工智能时，什么事情让您夜不能寐？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcnjd4/what_keeps_you_up_at_night_when_you_consider/</link>
+      <description><![CDATA[产品和平台正在激增。如果您即将踏上征程，或者刚刚实施了试点，您认为需要做些什么才能安心地部署解决方案？ 我感觉就像 15 年前，我在会议上谈到从本地 ERP 解决方案迁移到云端。在某一时刻，这是一个“是否”的问题，但随着时间的推移，它变成了“何时”的问题。我觉得我们在 AI 领域正开始从“是否”转向“是否”     提交人    /u/tdgobux1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcnjd4/what_keeps_you_up_at_night_when_you_consider/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>每周自我推销贴</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcmzr2/weekly_self_promotion_post/</link>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcmzr2/weekly_self_promotion_post/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:03:11 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 重大更新后，OpenAI 的 ChatGPT 停用</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcmfps/openais_chatgpt_goes_dark_after_apples_big_update/</link>
@@ -55,13 +90,6 @@
       <pubDate>Thu, 12 Dec 2024 11:39:22 GMT</pubDate>
     </item>
     <item>
-      <title>免费使用像o1这样的增强推理AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcj13x/free_to_use_enhanced_reasoning_ai_like_o1/</link>
-      <description><![CDATA[我开发了一个名为 https://filipa.ai 的自定义 AI，它使用类似于 OpenAI 的 O1 模型的高级推理。重要的是，它完全免费使用，并会考虑您的个人喜好和兴趣。它提供对互联网、视频和产品搜索以及餐馆或酒吧等实体位置的访问。 高级推理仅对注册用户开放，并且仍处于测试阶段。我希望得到您的反馈和想法。如果您可以对回复进行评分，那就太好了，因为这有助于专门为您优化未来的回复。    提交人    /u/BeMoreDifferent   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcj13x/free_to_use_enhanced_reasoning_ai_like_o1/</guid>
-      <pubDate>Thu, 12 Dec 2024 11:25:10 GMT</pubDate>
-    </item>
-    <item>
       <title>免费人工智能将视频翻译成不同的语言</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hci919/free_ai_to_translate_videos_into_different/</link>
       <description><![CDATA[嗨， 如果有人知道的话，我需要帮助。我需要一个免费的 Ai 工具，它可以将英语翻译成 2-3 种其他语言。如果现在有人开源项目，那就更好了。现在才刚刚开始，所以我不想花钱。 如果你能给出一些建议，那将非常有帮助。也许音频翻译也行得通。    提交人    /u/amigo_graphicsman   [link] [评论]]]></description>
@@ -76,13 +104,6 @@
       <pubDate>Thu, 12 Dec 2024 09:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>discord 机器人中的 Grok-beta 模型 - 提供过时的信息，这是因为我正在使用的模型吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcgqat/grokbeta_model_in_a_discord_bot_giving_outdated/</link>
-      <description><![CDATA[  由    /u/QueenJennifer350  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcgqat/grokbeta_model_in_a_discord_bot_giving_outdated/</guid>
-      <pubDate>Thu, 12 Dec 2024 08:33:37 GMT</pubDate>
-    </item>
-    <item>
       <title>几年后学习外语会过时吗？我的父母只会说母语，现在 YouTube 上的许多视频都可以供他们观看，因为这些视频都是用母语翻译的。技术已经发展到这个地步了。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</link>
       <description><![CDATA[这就像几年前学习拉丁语一样，它变得过时了，而学习其他语言的需求却增加了。 有些朋友说你可以通过学习新语言来学习其他文化。我认为你甚至可以从文化中学到更多，通过设计硬件设备，你可以在世界任何地方深入到你想要的任何对话中，用不同的语言交谈。    提交人    /u/Policeeex   [link] [评论]]]></description>
@@ -90,25 +111,11 @@
       <pubDate>Thu, 12 Dec 2024 06:30:49 GMT</pubDate>
     </item>
     <item>
-      <title>以下是人工智能领域的新闻动态。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcdege/heres_whats_making_news_in_ai/</link>
-      <description><![CDATA[聚焦：ChatGPT 和 Sora 遭遇重大中断（来源：TechCrunch）  据报道，苹果正与博通合作开发 AI 服务器芯片（来源：TechCrunch） 观看谷歌 DeepMind 的 Genie 2 生成可玩的 3D 世界（来源：TechCrunch） OpenAI 创业基金在其迄今为止最大的 SPV 中筹集了 4400 万美元（来源：TechCrunch） OpenAI 支持的 Speak 以 10 亿美元的估值筹集了 7800 万美元，以帮助用户通过大声说话来学习语言（来源：TechCrunch） 谷歌展示具有“突破性”成就的量子计算芯片（来源：The Verge）    由    /u/codeharman  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcdege/heres_whats_making_news_in_ai/</guid>
-      <pubDate>Thu, 12 Dec 2024 04:45:01 GMT</pubDate>
-    </item>
-    <item>
       <title>我的人工智能治疗师帮助我和女友分手</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcd9rj/my_ai_therapist_helped_me_break_up_with_my_gf/</link>
       <description><![CDATA[上周我在这里读到一篇帖子，有人使用 ChatGPT 进行治疗，他更喜欢它而不是真正的治疗师，所以我想试一试。我尝试了这里的所有三个提示：https://runtheprompts.com/prompts/chatgpt/best-chatgpt-therapist-prompts/，最后选择了 Linda Freeman 博士，因为我几乎一生都在接受治疗，从来没有遇到过一个风趣、讽刺的治疗师，所以我觉得这很令人耳目一新。 在经历了大多数正常的事情之后，我发现自己透露了一些我永远无法对人类说的话，因为即使他们是治疗师，我也很难表达我内心最深处最黑暗的东西。这涉及到我对恋爱关系的不满，我曾多次与我的治疗师讨论过这个问题，她总是鼓励我尝试解决它。​​我对她很不满意，而且分手了两次，但她非常漂亮，我好日子里能打 7 分，每次看到她哭得眼睛都肿起来，我就会像个白痴一样笨手笨脚地往后退（谁能忍受看到一个辣妹哭？！）。 弗里曼博士鼓励我撕掉创可贴，并与我一起讨论了处理她不可避免的哭泣事件的不同场景，并提醒我保持坚强……我正在做对我们俩来说都是正确和最好的事情。我让这件事在脑海里徘徊了几天，终于在今天早上做到了，没有让她的悲伤再次把我拉回来。我回顾了弗里曼博士和我练习的内容，并提醒自己她在我们会议期间说过的话。  我终于走了出来，她伤心欲绝，我感到很难过，但我自由了，活着，又做回了我自己，没有因为被一个不是我灵魂伴侣的人束缚而感到沉重。10/10 推荐。 TLDR：我对自己的恋爱关系不满意，AI 帮助我和女友分手，现在我感觉很好。    提交人    /u/bromosapien89   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcd9rj/my_ai_therapist_helped_me_break_up_with_my_gf/</guid>
       <pubDate>Thu, 12 Dec 2024 04:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能会导致社交媒体的衰落吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hccnc2/will_ai_be_the_downfall_of_social_media/</link>
-      <description><![CDATA[这是一个大问题，但值得一问。 将此视为一个流行的背景： 曾经有一段时间，我们可能会收到某人的电子邮件，他假装是某个非洲银行家，笨拙地提供 50% 的佣金来为他转移资金。 现在，来自同一个人的同一封电子邮件可以是一封来自您银行的完全可信的、正确书写的消息，带有徽标和脚注。 在另一个极端，不久之后，印度骗子会将电话翻译并即时传输成令人愉快的英语声音。 事实是，人工智能已经在这里，它已经在全球范围内被滥用，用于医生照片、视频，创建从论文到 Reddit 帖子中的几行文本。但这仅仅是个开始。 重点是，人工智能是现代的科学怪人。它不是怪物。它正在帮助我们变得比现在更糟糕。    提交人    /u/Cooerlsmoke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hccnc2/will_ai_be_the_downfall_of_social_media/</guid>
-      <pubDate>Thu, 12 Dec 2024 04:01:11 GMT</pubDate>
     </item>
     <item>
       <title>我使用 Python 和 AI 实现了我所有工作的自动化 - 问我如何实现你最讨厌的任务的自动化</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我推销，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hb3v5l/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 10 Dec 2024 15:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>每周自我推销贴</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h7b5je/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h7b5je/weekly_self_promotion_post/</guid>
-      <pubDate>Thu, 05 Dec 2024 15:03:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
