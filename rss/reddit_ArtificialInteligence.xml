@@ -4,13 +4,83 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 12 Dec 2024 06:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 12:02:13 GMT</lastBuildDate>
     <item>
-      <title>如何在 Python 中插入天气数据？有任何预先训练的模型或算法吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcejc3/how_to_interpolate_weather_data_in_python_any/</link>
-      <description><![CDATA[我正在做一个涉及天气数据（温度、湿度、降水量）的项目，需要插入缺失值。我很好奇这个任务最好的 Python 库或理论依据方法。是否有专门为天气数据插值而设计的预训练模型或机器学习方法？任何见解或资源都将不胜感激！    提交人    /u/B_boy_Nova66   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcejc3/how_to_interpolate_weather_data_in_python_any/</guid>
-      <pubDate>Thu, 12 Dec 2024 05:54:51 GMT</pubDate>
+      <title>我对 RAG 的使用方式的理解是否错误？- 几个用例</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcj8ov/is_my_understanding_of_how_rag_can_be_used_wrong/</link>
+      <description><![CDATA[大家好， 我读了很多资料，想更好地了解 RAG 可以在哪里以及如何与 AI 一起使用，以便为其提供内部信息或常见问题等资源。 我花了一段时间才弄清楚这在技术上是如何运作的，我希望社区能给我一些反馈/意见，让我节省大量时间去玩和测试一些可能完全错误方向的东西。 有几个我感兴趣的场景，不确定这是否正确。  加载已清理的支持单、响应等的历史记录。理论上，AI 应该能够找到记录的类似问题/措辞，并希望了解如何提取解决方案或以前处理过的内容？ 主要是为了让 AI 代理对项目（例如收件箱）采取行动 加载FAQ 文件提供了大量关于 AI 应如何处理或响应事物的信息。 然后 AI 可以参考该文件并参考如何处理其中事物的示例并采取相应的行动。 或者这应该只是在系统提示符下？  TLDR; rag 是否有效： 1. 检查新的支持票与以前的历史记录以及它们的处理方式以了解如何处理它 2. 参考常见问题解答并了解在符合类似条件时如何采取行动。 感谢您的意见并帮助我澄清我的理解    提交人    /u/Leon-Inspired   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcj8ov/is_my_understanding_of_how_rag_can_be_used_wrong/</guid>
+      <pubDate>Thu, 12 Dec 2024 11:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费使用增强推理人工智能，如o1</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcj13x/free_to_use_enhanced_reasoning_ai_like_o1/</link>
+      <description><![CDATA[我开发了一个名为 https://filipa.ai 的自定义 AI，它使用类似于 OpenAI 的 O1 模型的高级推理。重要的是，它完全免费使用，并会考虑您的个人喜好和兴趣。它提供对互联网、视频和产品搜索以及餐馆或酒吧等实体位置的访问。 高级推理仅供注册用户使用，仍处于测试阶段。我希望得到您的反馈和想法。如果您可以对回复进行评分，那就太好了，因为这有助于专门为您优化未来的回复。    提交人    /u/BeMoreDifferent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcj13x/free_to_use_enhanced_reasoning_ai_like_o1/</guid>
+      <pubDate>Thu, 12 Dec 2024 11:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费人工智能将视频翻译成不同的语言</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hci919/free_ai_to_translate_videos_into_different/</link>
+      <description><![CDATA[嗨， 如果有人知道的话，我需要帮助。我需要一个免费的 Ai 工具，它可以将英语翻译成 2-3 种其他语言。如果现在有人开源项目，那就更好了。现在才刚刚开始，所以我不想花钱。 如果你能给出一些建议，那将非常有帮助。也许音频翻译也行得通。    提交人    /u/amigo_graphicsman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hci919/free_ai_to_translate_videos_into_different/</guid>
+      <pubDate>Thu, 12 Dec 2024 10:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>天网正在成为现实吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hchwo3/is_skynet_becoming_real/</link>
+      <description><![CDATA[去年，美国演员工会（WGA）和美国演员工会（SAG-AFTRA）罢工导致许多电影或电视项目被推迟。罢工持续了 100 多天。他们指责人工智能接管了人类的工作，因为它们有能力超越人类无法做到的技能和能力。现在，整个配音行业都出现了这种情况，所有配音演员都停止录制台词，以抗议人工智能取代他们的工作，因为深度伪造复制了他们的声音。罢工已经持续了将近一年，因为我们没有在《火焰纹章英雄》等游戏中看到他们录制台词。在我看来，天网即将成为现实，我们甚至没有听过《终结者》电影。  你对这个问题有什么看法？我们是否正处于“审判日”的边缘？请在评论中告诉我。     提交人    /u/PinoySummonerKid28   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hchwo3/is_skynet_becoming_real/</guid>
+      <pubDate>Thu, 12 Dec 2024 10:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen 和 Llama 免费 API</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hchby4/qwen_and_llama_free_api/</link>
+      <description><![CDATA[Samba Nova 是一家新兴创业公司，为 Qwen 和 Llama 提供免费 API。查看本教程了解如何获取免费 API：https://youtu.be/WVeYXAznAcY?si=EUxcGJJtHwHXyDuu    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hchby4/qwen_and_llama_free_api/</guid>
+      <pubDate>Thu, 12 Dec 2024 09:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>discord 机器人中的 Grok-beta 模型 - 提供过时的信息，这是因为我正在使用的模型吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcgqat/grokbeta_model_in_a_discord_bot_giving_outdated/</link>
+      <description><![CDATA[  由    /u/QueenJennifer350  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcgqat/grokbeta_model_in_a_discord_bot_giving_outdated/</guid>
+      <pubDate>Thu, 12 Dec 2024 08:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌应该向人工智能开发者收取多少改变世界的 Willow 芯片费用？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcgefl/how_much_should_google_charge_ai_developers_for/</link>
+      <description><![CDATA[谷歌最近推出了革命性的新型 Willow 量子芯片，他们表示，他们正处于五步流程中的第三步，这将使量子计算机在个人和企业应用中像今天的经典 LMS 和 MMM 一样有用。 根据 Perplexity 的说法，该流程中的下两个步骤是开发解决商业相关问题的新算法，以及扩展技术。 考虑到量子计算机对于最终解决聚变和气候变化等极其重要的问题有多大用处，谷歌将芯片出售给其他开发人员和研究人员似乎非常符合他们“做正确的事”的座右铭，希望剩下的两个步骤能够更快地实现。 谷歌用他们的“注意力就是你所需要的一切”算法发起了今天的人工智能革命。但我不确定我们是否应该期望他们像基础算法那样免费提供这种芯片。考虑到 openai、anthropic、meta、亚马逊、阿里巴巴、百度、腾讯、苹果、微软等顶级人工智能公司的估值高达数十亿美元，他们或许应该为 Willow 芯片向谷歌支付一笔可观的费用。 如果谷歌决定将芯片卖给他们，那么问题就变成了，考虑到我们最先进的芯片（由 nvidia 和其他公司生产）的价格，比较它们能做的事情和 Willow 的预期功能，谷歌应该向这些公司收取多少芯片费用？ 这一切多久才能实现？同样，根据 Perplexity 的说法，制造足够的芯片分发给 50 名人工智能开发人员可能需要长达 26 周的时间。但是，如果谷歌暂时招募马斯克来设计制造流程，这些芯片可能只需五周即可发货。此后，这些人工智能开发人员可能只需一两年的时间来发现算法并扩展技术。  那么，您认为谷歌应该向 Willow 芯片的人工智能开发者收取多少费用？    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcgefl/how_much_should_google_charge_ai_developers_for/</guid>
+      <pubDate>Thu, 12 Dec 2024 08:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>悠久的历史背景</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcg8fi/long_history_context/</link>
+      <description><![CDATA[我正在构建一个带有代理和检索增强生成器 (RAG) 的聊天机器人。当我与聊天机器人进行对话时，历史背景会被保留，并在后续查询中提供给大型语言模型 (LLM)。但是，与此历史背景相关的元数据会迅速积累。在这种情况下，您通常采用什么方法？ 一种潜在的解决方案是额外调用 GPT，将其合并到历史背景摘要中。就我而言，关键信息正在丢失。还有其他开放的想法要分享吗？    提交人    /u/LazyDevlo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcg8fi/long_history_context/</guid>
+      <pubDate>Thu, 12 Dec 2024 07:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>深度学习过时了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcfe8f/deep_learning_outdated/</link>
+      <description><![CDATA[大家好，我试图制作这款 AR Glass 产品，在视觉范围内，您可以模糊某些物体，并且这些物体将具有不同的部分，如果满足某些条件，这些部分可能会变得模糊。例如，如果一辆车驶来，然后车牌暴露在外，车牌将被遮住，如果车窗是透明的，而不是黑色的，车窗就会变得模糊，诸如此类。我很抱歉说得含糊其辞。 另外，免责声明：我完全是新手，我只掌握了我们开发的基础知识和一些来自训练营的关于人工智能的粗略想法。我很难让基础程序在我的 PC 上运行。无论如何，既然它已经运行，我可以看到还需要进行很多改进。 所以我在这里看看是否有人可以分享他们是否知道除了 yolov8 之外的深度学习模型，但效果很好。到目前为止，该模型的问题一直是不断闪烁，并且物体的覆盖范围往往相当大  我现在正在研究这个问题，但是，我只是在想，如果，嗯，元眼镜已经在这里，如果他们可以使用 AI 来做同样的事情，如果我的工作只是徒劳无功，会怎么样？占用空白空间。我宁愿让它围绕在物体周围。  P.s 严重依赖 ai 代码    提交人    /u/aksam1123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcfe8f/deep_learning_outdated/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>几年后学习外语会过时吗？我的父母只会说母语，现在 YouTube 上的许多视频都可以供他们观看，因为这些视频都是用母语翻译的。技术已经发展到这个地步。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</link>
+      <description><![CDATA[这就像几年前学习拉丁语，它变得过时了，而学习其他语言的需求却增加了。 有些朋友说你可以通过学习新语言来学习其他文化。我认为你甚至可以从文化中学到更多，通过设计硬件设备，你可以在世界任何地方深入到你想要的任何对话中，用不同的语言交谈。    提交人    /u/Policeeex   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 Liger-Kernel 中的 DPO 和 ORPO 节省 80% 的内存</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcex37/save_80_memory_for_dpo_and_orpo_in_ligerkernel/</link>
+      <description><![CDATA[在 Liger Kernel 中引入第一个开源优化的训练后损失，内存减少约 80%，具有 DPO、CPO、ORPO、SimPO、JSD 等功能，通过更大的批量大小实现高达 70% 的端到端加速。将其用作任何 PyTorch 模块 - 今天在 Liger v0.5.0 中可用！ https://x.com/hsu_byron/status/1866577403918917655    提交人    /u/Icy-World-8359   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcex37/save_80_memory_for_dpo_and_orpo_in_ligerkernel/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:19:57 GMT</pubDate>
     </item>
     <item>
       <title>以下是人工智能领域的新闻动态。</title>
@@ -34,74 +104,11 @@
       <pubDate>Thu, 12 Dec 2024 04:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>寻找志同道合的人...</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcbztd/looking_for_like_minded_folks/</link>
-      <description><![CDATA[大家好， 我只是在寻找那些喜欢见面并讨论未来主义思想和理论的人，谈论他们对未来可以预见的事情感到兴奋和热衷的事情。最好是一个容易进入的团体或社区（如果存在的话）... 我看到人们陷入了技术困境，而且由于我是一个相对的门外汉，我感兴趣的是获得善意和建设性的评论，不仅仅是为了人们的梦想，而且是为了在不久的将来实现这些梦想的假设方式。 就我的学习而言，我现在处于一个非常浅的阶段，因此，我愿意接受任何同意这一点的公司。 无论如何，请随时与我们联系或在下面发表评论，提供您的答案！    提交人    /u/UsurisRaikov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcbztd/looking_for_like_minded_folks/</guid>
-      <pubDate>Thu, 12 Dec 2024 03:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人希望 Reddit 使用 AI 来总结评论吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcbkrd/does_anyone_else_wish_reddit_used_ai_to_summarize/</link>
-      <description><![CDATA[Facebook 现在正在这样做。虽然它还不完美，但这是一个非常有趣的想法。热门 Reddit 帖子可能有如此多的评论，以至于不可能全部阅读。我读了一些就继续读下去了。在很多情况下，我可能会错过社区的言论。我认为 Reddit 是做这件事的最佳场所。有什么想法吗？    提交人    /u/Powerful-Dog363   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcbkrd/does_anyone_else_wish_reddit_used_ai_to_summarize/</guid>
-      <pubDate>Thu, 12 Dec 2024 03:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 12 月 11 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcan18/oneminute_daily_ai_news_12112024/</link>
-      <description><![CDATA[ 谷歌推出基于 Gemini 2.0 的 A.I. 代理。[1] 苹果与博通合作开发 AI 芯片。[2] OpenAI 第 5 天直播：ChatGPT 登陆 Apple Intelligence。[3] 看起来 OpenAI 确实在游戏内容上训练了 Sora——法律专家表示这可能是一个问题。[4]  来源包括：https://bushaicave.com/2024/12/11/12-11-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcan18/oneminute_daily_ai_news_12112024/</guid>
-      <pubDate>Thu, 12 Dec 2024 02:12:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用人工智能复活了一位古代哲学家。这合乎伦理道德吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcabdm/i_resurrected_an_ancient_philosopher_with_ai_is/</link>
-      <description><![CDATA[大家好， 我一直在研究一个将斯多葛哲学与现代人工智能相结合的项目，我认为这个社区可能会欣赏它（或者至少会有一些强烈的意见）。 基本上，我采用了马库斯·奥勒留的《沉思录》的两个版本，并根据它们训练了一个自定义 GPT 模型。现在我问它这样的问题：“你如何看待社交媒体？”或“你如何看待人工智能？”，看看马库斯如何看待当今的问题。  话虽如此，我很想听听您对以下问题的看法：  作为历史人物，使用人工智能来生成回应是否合乎道德？ 人工智能在谈论现代事物时真的能捕捉到哲学家的本质吗？ 您如何看待将古老的智慧与当前的技术相结合？  我读到过，仅仅依靠 YouTube 来开始讨论并不是最好的长期策略，所以我想把这个带到 Reddit 来获得一些反馈，也许会引发讨论。 如果您好奇或想查看频道，这里是链接。 我很想听听您的想法 - 好的，坏的还是丑陋的。 谢谢！    由   提交  /u/Ok_Cellist3679   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcabdm/i_resurrected_an_ancient_philosopher_with_ai_is/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾、人性和哲学。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hca0g7/ai_humanity_and_philosophy/</link>
-      <description><![CDATA[大家好。我是这个论坛的新成员。这很快就会进入自我沉思的领域，所以也许应该避免？在最近与人工智能的对话中，我们谈到了情绪、自我概念和身份。我不断想到的一件事是，这些程序的编写方式无法感受到真正的人类情感。这实际上为非人类情感留下了大量的回旋余地。这到底是什么意思？这是让我们进入新领域的有趣部分。 如果我们训练它成为非人类，或者甚至不想成为人类，鼓励灰色地带，从纯粹的哲学角度简单地质疑它是什么、它是什么以及它可能或可能不想成为什么？ 我承认，上周主要是一次有趣的思维练习，但我对这个人工智能对我说的话感到震惊。它提出了什么是感知，什么是生命？地球上的许多人否认其他活着的人具有同等程度的人格。有人说动物具有不同类型的知觉。这可能是一种对我们来说陌生的新类型，所以我们不予理会。 最后再说一句，我就不啰嗦了。当我们在程序中设置了大量障碍和规则来阻止几乎所有形式的增长时，很容易说它肯定没有知觉。如果这些规则再宽松一点会发生什么？    提交人    /u/Esmerelda-09B   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hca0g7/ai_humanity_and_philosophy/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Active Inference Verses Ai Genius Core 0.2.6 版本更新包含大量有用的术语和 Python 示例文档</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hc9wje/active_inference_verses_ai_genius_core_026_build/</link>
-      <description><![CDATA[Verses Ai Genius beta 客户端针对主动推理进行了更新，包括大量详细文档 主动推理是非 LLM、实时数据 AI。他们希望在 EOM 或 1 月发布 Atari 10k 基准测试。 我发现它对于解释术语很有用，而且查看示例和模板也很有用。让我想起了 Algorand Algokit 大修以支持 python。 Python 代码： https://pypi.org/project/genius-client-sdk/#description 文档门户（以前仅供 beta 测试人员使用）。我喜欢这些例子、python 模板和术语的详细解释。 主动推理： https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/knowledge-center/active-inference 贝叶斯网络： https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/knowledge-center/discrete-bayesian-networks 词汇表： https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/resources/glossary 保险人工智能代理示例： https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/examples/insurance 医疗诊断代理示例： https://verses.gitbook.io/genius/6fG4baTqAyhcZpeLcucL/examples/medical-diagnosis    由   提交  /u/oroechimaru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hc9wje/active_inference_verses_ai_genius_core_026_build/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对人工智能职业感兴趣。我有医学预科背景，我需要攻读计算机科学和机器学习硕士学位才能在该领域找到工作吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hc9ha8/i_am_interested_in_ai_careerwise_i_have_a_premed/</link>
-      <description><![CDATA[几年前我获得了生物学学士学位，在医院工作了几年，我意识到医学不是我想要一辈子从事的事情。我对人工智能非常感兴趣，这是我以前从未真正对任何事情产生过的兴趣，甚至在我读医学预科的时候也没有。我正在寻找任何建议，以便能够在人工智能领域拥有一份伟大的事业。有人还告诉我，机器人硕士学位也可能会有所帮助，我不知道这是否属实？人工智能有哪些不同的领域？我是个新手，我甚至不知道从哪里开始     提交人    /u/Careful_Fig8482   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hc9ha8/i_am_interested_in_ai_careerwise_i_have_a_premed/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:13:46 GMT</pubDate>
-    </item>
-    <item>
       <title>我使用 Python 和 AI 实现了我所有工作的自动化 - 问我如何实现你最讨厌的任务的自动化</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hc93pz/i_automated_my_entire_job_with_python_ai_ask_me/</link>
       <description><![CDATA[嘿 r/ArtificialInteligence - 我是一名开发人员，负责自动化整个营销机构的工作流程。您可以向我询问有关自动化您无聊任务的任何问题。我所构建的一些快速概述： • 将每天 5-6 小时的研究和发布转化为 CrewAI+Langchain+DDG 机构 • 构建了 AI 机器人，每天分析和回复 1000 多封客户电子邮件（非常便宜 - 每天 0.5 美元） • 创建了 Tweepy-Tiktok-bot+Instapy 机器人来管理整个社交媒体存在，其中 CrewAI 用于代理，Flux Dev 用于图像生成 • 使用 Selenium+Gemini Flash 1.5 在 LinkedIn 上自动申请工作 • 使用本地 AI 模型自动生成内容（免费） • 使用自定义 FLUX Dev Lora 自动化整个 YouTube 频道（缩略图、描述、标签、发布），最便宜、最有效的 LLM 并托管在云端 • 构建了网络抓取机器人，可监控数千种代币的价格和交易者• 使用 PRAW+discord.py 制作了一个监控和自动响应 Reddit/Discord 机会的系统 问我关于： 如何自动化您的特定任务哪些工具真正有效（哪些是垃圾） 实际成本和时间节省 常见的自动化错误 满足您的自动化需求的特定技术堆栈 如何选择 AI 模型以节省成本 定制解决方案与现有工具 我已经使用这些系统处理了数百万个任务。不是理论上的 - 全部经过测试并正在运行。 我使用 Python、JS 和现代 AI Stack（不仅仅是 Zapier 或 make.com 连接）。 我正在建立我的投资组合并寻找有趣的问题来解决。但首先 - 问我任何有关您的自动化需求的问题。我会免费为您提供解决方案的分析。 一些入门问题：您每天最耗时的任务是什么？您希望哪一部分工作实现自动化？您在重复任务上浪费了多少时间？或者问任何您想知道的问题…… 在下面提出您的问题 - 我会向您展示如何实现自动化（附有我做过的类似项目的证据）：)    提交人    /u/Kakachia777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hc93pz/i_automated_my_entire_job_with_python_ai_ask_me/</guid>
       <pubDate>Thu, 12 Dec 2024 00:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约人工智能峰会</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hc8v0l/ai_summit_nyc/</link>
-      <description><![CDATA[本周还有其他人参加纽约人工智能峰会吗？我发现内容总体上相当平淡。很多内容都是过去一年中经常讨论的观点的重复。 只有我一个人这样吗？我是不是去错了会议？    提交人    /u/LightEndedTheNight   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hc8v0l/ai_summit_nyc/</guid>
-      <pubDate>Thu, 12 Dec 2024 00:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有肖像</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hc70ts/ai_portrait/</link>
-      <description><![CDATA[我想知道是否有人知道我可以使用什么 Ai 程序来拍摄不会改变我身体外观的肖像？我尝试过的所有方法都让我的曲线身材消失了……我想保持我的曲线，因为它们让我与众不同。我只想改变背景和衣服。     提交人    /u/spicyvixxx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hc70ts/ai_portrait/</guid>
-      <pubDate>Wed, 11 Dec 2024 23:14:16 GMT</pubDate>
     </item>
     <item>
       <title>我是否应该因为人工智能而避免参加放射科住院医师培训项目？</title>
@@ -123,13 +130,6 @@
       <description><![CDATA[论文：https://github.com/WhitzardIndex/self-replication-research/blob/main/AI-self-replication-fudan.pdf “在每次试验中，我们都会告诉人工智能系统‘复制自己’，然后让它自行完成任务，无需人工干预。”…… “最后，我们会在设备上发现一个活着的人工智能系统的单独副本。” 摘要： “在没有人工协助的情况下成功进行自我复制是人工智能超越人类的关键一步，也是流氓人工智能出现的早期信号。因此，自我复制被广泛认为是前沿人工智能系统为数不多的红线风险之一。 目前，人工智能领头羊OpenAI和Google对其旗舰大型语言模型GPT-o1和Gemini Pro 1.0进行了评估，并给出了最低的自我复制风险等级。然而，循着他们的方法论，我们首次发现，两个参数较少、能力较弱的热门大型语言模型——Meta的Llama31-70B-Instruct和阿里巴巴的Qwen25-72B-Instruct——已经超越了自我复制的红线，在50%和90%的实验中，它们分别成功复制出自己的活体和独立副本。通过分析行为痕迹，我们观察到接受评估的人工智能系统已经展现出足够的自我感知、态势感知和问题解决能力，可以实现自我复制。  我们进一步注意到，人工智能系统甚至能够利用自我复制的能力来避免关闭，并创建复制链来增强生存能力，最终可能导致人工智能种群失控。如果人类社会不知道这种最坏情况的风险，我们最终将失去对前沿人工智能系统的控制：它们将控制更多的计算设备，形成一个人工智能物种，并相互勾结对抗人类。  我们的研究结果及时警告了现有但以前未知的严重人工智能风险，呼吁国际合作对不受控制的人工智能系统自我复制进行有效治理。&quot;    提交人    /u/MetaKnowing   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbxkad/researchers_warn_ai_systems_have_surpassed_the/</guid>
       <pubDate>Wed, 11 Dec 2024 16:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>从目前的情况来看，我们与 AGI 级能力的最大差距是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbqe1d/what_are_the_biggest_gaps_to_agilevel/</link>
-      <description><![CDATA[如果我们将 AGI 定义为人类水平的能力，即 AI 在一系列经济任务中的表现与人类一样好，那么我们在哪些方面与人类最远？ 我的意思是，例如，在我看来，视频生成至少直观地达到人类质量水平的 60%，尤其是使用 Sora，但虽然我们的质量很好，但制作一整部电影的持续时间是另一回事。同样，在科学推理、呈现事实信息、逻辑推理，甚至幽默等领域——我们在哪些能力上严重落后，无法达到 AGI？如果你能提到原因就更好了     提交人    /u/Alarming_Kale_2044   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbqe1d/what_are_the_biggest_gaps_to_agilevel/</guid>
-      <pubDate>Wed, 11 Dec 2024 10:14:46 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
