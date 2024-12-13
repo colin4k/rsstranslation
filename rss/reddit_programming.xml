@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Dec 2024 03:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 09:01:58 GMT</lastBuildDate>
+    <item>
+      <title>协作软件设计 • Evelyn van Kelle、Gien Verschatze、Kenny Baas-Schwegler 和 Xin Yao</title>
+      <link>https://www.reddit.com/r/programming/comments/1hd88i5/collaborative_software_design_evelyn_van_kelle/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hd88i5/collaborative_software_design_evelyn_van_kelle/</guid>
+      <pubDate>Fri, 13 Dec 2024 08:57:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>JS 中的匿名函数是什么？我无法想象它们最适合用于哪些情况，而且在我看来，它们甚至似乎与函数式编程完全相反，因为函数的要点是定义一次但使用多次。有人能给我解释一下吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hd7or4/what_are_anonymous_functions_in_js_i_cant_imagine/</link>
+      <description><![CDATA[  由    /u/Sea-Pound-8690  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hd7or4/what_are_anonymous_functions_in_js_i_cant_imagine/</guid>
+      <pubDate>Fri, 13 Dec 2024 08:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 AI 模板助您构建下一个产品</title>
+      <link>https://www.reddit.com/r/programming/comments/1hd7jzy/open_source_ai_templates_to_build_your_next/</link>
+      <description><![CDATA[  由    /u/sahilypatel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hd7jzy/open_source_ai_templates_to_build_your_next/</guid>
+      <pubDate>Fri, 13 Dec 2024 08:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SQL Bolt 释放 SQL 的强大功能：初学者指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1hd6jua/unlocking_the_power_of_sql_with_sql_bolt_a/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hd6jua/unlocking_the_power_of_sql_with_sql_bolt_a/</guid>
+      <pubDate>Fri, 13 Dec 2024 06:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>直接链接到网页内容</title>
+      <link>https://www.reddit.com/r/programming/comments/1hd4tzh/linking_directly_to_web_page_content/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hd4tzh/linking_directly_to_web_page_content/</guid>
+      <pubDate>Fri, 13 Dec 2024 04:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>认知负荷才是最重要的</title>
+      <link>https://www.reddit.com/r/programming/comments/1hd34rn/cognitive_load_is_what_matters/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hd34rn/cognitive_load_is_what_matters/</guid>
+      <pubDate>Fri, 13 Dec 2024 03:20:20 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 网络性能终极指南</title>
       <link>https://www.reddit.com/r/programming/comments/1hd1np2/linux_network_performance_ultimate_guide/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hcqjri/beyond_gaming_x11_bridging_in_muvm/</guid>
       <pubDate>Thu, 12 Dec 2024 17:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 提案：有限类型集接口为联合类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1hcqjg7/go_proposal_finite_type_set_interface_as_union/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hcqjg7/go_proposal_finite_type_set_interface_as_union/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>外在设计</title>
-      <link>https://www.reddit.com/r/programming/comments/1hcqixg/outside_in_design/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hcqixg/outside_in_design/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 中的临时效果</title>
-      <link>https://www.reddit.com/r/programming/comments/1hcqird/adhoc_effects_in_rust/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hcqird/adhoc_effects_in_rust/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于将 Rust 添加到 Git 的持续讨论</title>
-      <link>https://www.reddit.com/r/programming/comments/1hcqik6/nonstop_discussion_around_adding_rust_to_git/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hcqik6/nonstop_discussion_around_adding_rust_to_git/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple M2 上的非临时存储启发式方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1hcqii3/nontemporal_store_heuristics_on_the_apple_m2/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hcqii3/nontemporal_store_heuristics_on_the_apple_m2/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释 C++ 编译器错误：函数声明中的无意义错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1hcqgwz/deciphering_c_compiler_errors_nonsensical_errors/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hcqgwz/deciphering_c_compiler_errors_nonsensical_errors/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
