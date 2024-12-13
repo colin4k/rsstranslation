@@ -3,8 +3,15 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 00:03:45 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 13 Dec 2024 03:15:52 GMT</lastBuildDate>
+    <item>
+      <title>为什么电影中的人工智能大多是邪恶的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd0niq/why_is_ai_mostly_evil_in_movies/</link>
+      <description><![CDATA[如果这是一个警告，为什么我们不听呢？这是公司最终走得太远之前的“有趣”时期吗？    提交人    /u/Burlingtonfilms   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd0niq/why_is_ai_mostly_evil_in_movies/</guid>
+      <pubDate>Fri, 13 Dec 2024 01:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>草图渲染 API</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcxpbj/sketch_to_render_api/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>AMD GPU 上的图像生成和文本模型？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcvaht/image_generation_and_text_models_on_amd_gpu/</link>
-      <description><![CDATA[大家好！我有一台 RX 6600，我一直在等待一些更新或类似的东西，以便我能够使用显卡以不错的速度使用本地 AI 模型，但由于有太多选项和信息需要遵循，我迷失了方向，我就是无法弄清楚我的 GPU 是否与 IA 兼容，我一直在搜索，但一切都非常模糊，没有“正确”的答案。我的观点是......我想知道我的 GPU 是否可以完成 IA 工作，以及你们使用什么工具以及我应该使用什么工具。提前感谢任何看到和阅读此内容的好心人！    提交人    /u/-ImPerium   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我有一台 RX 6600，我一直在等待一些更新或类似的东西，以便我能够使用显卡以不错的速度使用本地 AI 模型，但由于有太多选项和信息需要关注，我迷失了方向，我就是无法弄清楚我的 GPU 是否与 IA 兼容，我一直在搜索，但一切都非常模糊，没有“正确”的答案。我的观点是……我想知道我的 GPU 是否可以完成 IA 工作，以及你们使用什么工具以及我应该使用什么工具。提前感谢任何看到和阅读此内容的好心人！    提交人    /u/-ImPerium   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcvaht/image_generation_and_text_models_on_amd_gpu/</guid>
       <pubDate>Thu, 12 Dec 2024 21:02:10 GMT</pubDate>
     </item>
@@ -62,13 +69,6 @@
       <pubDate>Thu, 12 Dec 2024 18:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>利用人工智能改进文档搜索？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcqc4m/improving_document_search_with_ai/</link>
-      <description><![CDATA[我正在寻求有关改进我们当前文档搜索过程的建议。 当前设置：我们有一个使用关键字搜索在大型文档库中查找相关陈述的工具。这是非常基本的。 期望的改进：我们希望允许用户直接输入问题。然后，AI应该： 理解问题的意图。确定最相关的文档。从这些文档中提取并呈现精确的陈述。关键点：我们希望避免生成新文本。AI应该只是定位并呈现现有信息。 问题：最近的AI进步，尤其是LLM，对这个特定用例有帮助吗？使用什么算法/设置？任何建议都将不胜感激。    提交人    /u/lifesurfer1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcqc4m/improving_document_search_with_ai/</guid>
-      <pubDate>Thu, 12 Dec 2024 17:29:57 GMT</pubDate>
-    </item>
-    <item>
       <title>非标题党 YouTube 频道（具有附加值）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcp15s/nonclickbaity_youtube_channels_with_added_value/</link>
       <description><![CDATA[大家好，我正在寻找一些 YouTube 频道的推荐，这些频道以非点击诱饵的方式讨论 AI / LLM / 类似内容，最好能有一些附加值。 我不喜欢的示例：  标题如“Google GEMINI 2.0 震惊了整个行业！（OpenAI 被击败）全面分析”（这样的废话让我头疼。） 报道 AI 新闻时只读发布说明 / 博客文章，没有任何有用的内容可添加。一些大型频道就是这么做的，我无法忍受。 在视频中大喊大叫并制造戏剧性的人。或者频道无法在不插入 meme 或其他东西的情况下连续 5 秒钟停留在主题上，只是为了“吸引人们的注意力”。  我喜欢：  修补匠和跳出框框的思想家测试新想法。 善于解释基本原理的科学家。 实际的例子、展示、测试或新的主流技术，可以快速掌握，而不必自己测试所有内容。  有人有什么好的建议吗？    提交人    /u/dero_name   [链接] [评论]]]></description>
@@ -78,7 +78,7 @@
     <item>
       <title>当您考虑为您的企业采用人工智能时，什么事情让您夜不能寐？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcnjd4/what_keeps_you_up_at_night_when_you_consider/</link>
-      <description><![CDATA[产品和平台正在激增。如果您即将踏上征程，或者刚刚实施了试点，您认为需要做些什么才能安心地部署解决方案？ 我感觉就像 15 年前，我在会议上谈到从本地 ERP 解决方案迁移到云端。在某一时刻，这是一个“是否”的问题，但随着时间的推移，它变成了“何时”的问题。我觉得我们在 AI 领域正开始从“是否”转向     提交人    /u/tdgobux1   [链接] [评论]]]></description>
+      <description><![CDATA[产品和平台正在激增。如果您即将踏上征程，或者刚刚实施了试点，您认为需要做些什么才能安心地部署解决方案？ 我感觉就像 15 年前，我在会议上谈到从本地 ERP 解决方案迁移到云端。在某一时刻，这是一个“是否”的问题，但随着时间的推移，它变成了“何时”的问题。我觉得我们在 AI 领域正开始从“是否”转向“是否”     提交人    /u/tdgobux1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcnjd4/what_keeps_you_up_at_night_when_you_consider/</guid>
       <pubDate>Thu, 12 Dec 2024 15:28:09 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>几年后学习外语会过时吗？我的父母只会说母语，现在 YouTube 上的许多视频都可以供他们观看，因为这些视频都是用母语翻译的。技术已经发展到这个地步。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</link>
-      <description><![CDATA[这就像几年前学习拉丁语一样，它变得过时了，而学习其他语言的需求却增加了。 有些朋友说你可以通过学习新语言来学习其他文化。我认为你甚至可以从文化中学到更多，通过设计硬件设备，你可以在世界任何地方深入到你想要的任何对话中，用不同的语言交谈。    提交人    /u/Policeeex   [link] [评论]]]></description>
+      <description><![CDATA[这就像几年前学习拉丁语，它变得过时了，而学习其他语言的需求却增加了。 有些朋友说你可以通过学习新语言来学习其他文化。我认为你甚至可以从文化中学到更多，通过设计硬件设备，你可以在世界任何地方深入到你想要的任何对话中，用不同的语言交谈。    提交人    /u/Policeeex   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</guid>
       <pubDate>Thu, 12 Dec 2024 06:30:49 GMT</pubDate>
     </item>
