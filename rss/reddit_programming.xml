@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 14 Dec 2024 06:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 09:01:55 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Vite 设置 Tailwind CSS</title>
+      <link>https://www.reddit.com/r/programming/comments/1hdxy17/how_to_set_up_tailwind_css_with_vite/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hdxy17/how_to_set_up_tailwind_css_with_vite/</guid>
+      <pubDate>Sat, 14 Dec 2024 07:45:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用哪些工具进行基准测试？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hdwpr2/which_tools_you_use_for_benchmark/</link>
+      <description><![CDATA[您使用哪些工具对代码（应用程序）进行基准测试，以显示执行时间、CPU 使用率、内存使用率？（最好是 ubuntu 工具）。     提交人    /u/Harut3   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hdwpr2/which_tools_you_use_for_benchmark/</guid>
+      <pubDate>Sat, 14 Dec 2024 06:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>当今软件的性能越来越差</title>
       <link>https://www.reddit.com/r/programming/comments/1hdvtpy/software_is_way_less_performant_today/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hdl5nb/the_secret_life_of_dns_packets/</guid>
       <pubDate>Fri, 13 Dec 2024 20:13:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>终端程序遵循的“规则”</title>
-      <link>https://www.reddit.com/r/programming/comments/1hdl5e4/rules_that_terminal_programs_follow/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hdl5e4/rules_that_terminal_programs_follow/</guid>
-      <pubDate>Fri, 13 Dec 2024 20:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>lfi 是一个用于 JavaScript 和 TypeScript 的惰性函数同步、异步和并发迭代库</title>
-      <link>https://www.reddit.com/r/programming/comments/1hdl58f/lfi_is_a_lazy_functional_sync_async_and/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hdl58f/lfi_is_a_lazy_functional_sync_async_and/</guid>
-      <pubDate>Fri, 13 Dec 2024 20:13:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
