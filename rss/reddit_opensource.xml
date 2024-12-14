@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 13 Dec 2024 21:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 06:02:14 GMT</lastBuildDate>
+    <item>
+      <title>制作了一个 Chrome 扩展程序，可以帮助我跟踪我的健康习惯（需要贡献和反馈）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hdtdrl/made_a_chrome_extension_that_will_help_me_keep/</link>
+      <description><![CDATA[大家好，各位开发者！我今年刚开始学习编程，想成为一名开发者，并使用 React + TailwindCSS 制作了一个扩展。 它被称为 Reboost，它有 2 个功能，用户可以跟踪和记录他们的饮水量或设置自定义提醒。 我想其他人也可能会觉得它有用！欢迎贡献和反馈🤗    提交人    /u/HikkiSummers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hdtdrl/made_a_chrome_extension_that_will_help_me_keep/</guid>
+      <pubDate>Sat, 14 Dec 2024 02:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源代码生成和 React 运行时探索平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hdnh3o/opensourcing_a_platform_for_code_generation_and/</link>
+      <description><![CDATA[六个月前，我开始了一段旅程，驱动我的是一个问题：如何才能让每个人都拥有软件创作的力量？ 我构建了一个自然语言代码生成器，能够将自然语言转换为功能齐全的 React Web 应用。在此过程中，我发现，虽然这项技术很有前景，但尚未达到非技术用户可以无缝表达和实现其愿景的程度，因此没有“创业”或商业潜力。 但我相信我们构建的东西仍然可以激发探索。我们开发了一个平台，该平台具有基于代理的代码生成器、用于动态呈现 React 应用的强大运行时、集成清理功能以及对 Google Charts 等库的支持。这些部分用于引导、调整和迭代代码生成想法。 今天，我开源了该平台，作为任何看到同样机会并希望在此基础上构建的人的起点。 Repo：https://github.com/MuneebRasool/iterative    提交人    /u/CryptoWaliSerkar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hdnh3o/opensourcing_a_platform_for_code_generation_and/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:58:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个开放的合成安全数据集，帮助人工智能开发人员调整语言模型以获得安全和合乎道德的响应。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hdmfjb/an_open_synthetic_safety_dataset_to_help_ai/</link>
+      <description><![CDATA[        由    /u/Repeat-or  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hdmfjb/an_open_synthetic_safety_dataset_to_help_ai/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:11:22 GMT</pubDate>
+    </item>
     <item>
       <title>图像和文本模型的包装器，如 Flux 和 gpt 4o @ Pollination Ai</title>
       <link>https://www.reddit.com/r/opensource/comments/1hdkkpc/a_wrapper_for_image_and_text_models_like_flux_and/</link>
@@ -34,13 +55,6 @@
       <pubDate>Fri, 13 Dec 2024 18:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Windows 的最佳 PDF 阅读器？Adobe Acrobat 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hditm3/best_pdf_reader_for_windows_adobe_acrobat/</link>
-      <description><![CDATA[我已经尝试过 sumatra pdf，它速度快，性能好，但用户界面感觉有点过时和粗糙。有人能推荐一个更好的替代品吗？    提交人    /u/midhun956   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hditm3/best_pdf_reader_for_windows_adobe_acrobat/</guid>
-      <pubDate>Fri, 13 Dec 2024 18:30:38 GMT</pubDate>
-    </item>
-    <item>
       <title>开源 GTK 习惯追踪器能帮我赚钱吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hdh1we/can_an_open_source_gtk_habit_tracker_help_me_make/</link>
       <description><![CDATA[我是一名穷困潦倒的大学生，我有一个项目构想，想做一个适用于 Linux 的开源习惯追踪器。现在我想用 GTK 和 Python 来构建它，因为 Python 很简单，而且我喜欢 gnome。我对 Python 了解一点，但对 GTK 一无所知，但我会开始学习。 这个项目的主要原因之一是钱。我来自埃及，这里的经济状况很糟糕。所以我想养家糊口。 这个项目能帮我赚点钱吗？我想达到每月 100 美元左右的收入。 所以，请给我任何见解或任何提示，我将不胜感激。    提交人    /u/Agreeable-Elk-1321   [链接] [评论]]]></description>
@@ -50,7 +64,7 @@
     <item>
       <title>奥斯汀近期有什么活动吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hdbnli/any_events_in_austin_soon/</link>
-      <description><![CDATA[我在奥斯汀地区待了几天。我是一名具有软件开发背景的开源/版权律师。我很乐意与对类似事物感兴趣的人建立联系。  有什么事吗？     提交人    /u/newz2000   [link] [评论]]]></description>
+      <description><![CDATA[我在奥斯汀地区待了几天。我是一名具有软件开发背景的开源/版权律师。我很乐意与对类似事物感兴趣的人联系。  有什么事吗？     提交人    /u/newz2000   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hdbnli/any_events_in_austin_soon/</guid>
       <pubDate>Fri, 13 Dec 2024 12:59:44 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨， 我正在尝试为网络工程师“CCNP 级别”寻找 Linux 网络学习材料。专业，但同时拥有 RHCE，我想将 Linux 知识与网络知识结合起来，诸如此类，有没有什么书籍、课程、youtube、实验室等可以教授 Linux 世界中的以下概念？：  路由 交换 防火墙 代理 网桥 命名空间 iptables Docker 网络 openswitch vswitch 软件定义网络  等等，如果有适合 Linux 网络的书籍或课程？ 谢谢    提交人    /u/ko0oke   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hch5kb/learning_material_for_linux_networking_and/</guid>
       <pubDate>Thu, 12 Dec 2024 09:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoBuilder：通过人工智能自动构建小型副项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hcgmob/autobuilder_auto_build_small_side_project_by_ai/</link>
-      <description><![CDATA[我是一名机器学习工程师，对前端语言了解不多。当我使用copilot构建一些非常小的附带项目时，例如图片压缩器，简单的图像生成器，copilot可以帮助我编写几乎所有的html和js代码，但我仍然有大量的重复工作。  总是通过copilot接受代码，因为我不知道在构建和显示之前它是否正确。 构建，打开chrome，刷新网页，测试功能。 找到错误的代码块，并向copilot描述。  所以，我认为更多的事情可以自动完成，此外，LLM还可以从屏幕截图中获得反馈，这就是我构建AutoBuilder的原因，开发人员唯一需要做的就是测试产品的功能并提供反馈，它非常适合构建小型项目。 例如，我在11分钟内构建了ID_confuser，即使它是一个非常小的项目。 我在开源领域还很新，欢迎大家多多指教！！    提交人    /u/Logical_Divide_3595   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hcgmob/autobuilder_auto_build_small_side_project_by_ai/</guid>
-      <pubDate>Thu, 12 Dec 2024 08:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源的困难</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hca0h8/open_source_difficulties/</link>
-      <description><![CDATA[考虑创办一家 OSS 公司，有哪些困难 - 特别是在获得客户/资金后 编辑：我正在考虑成立一家 OSS 公司，从事 AI 工作流管理/笔记记录工作。记录会议记录并将其转化为需求文档，同时考虑到公司的优先事项。我想知道创始人面临的一些困难 - 解决问题是否需要大量的手动工作？您如何知道首先要集成什么（例如，如果有很多贡献）？我想是这样的 :) 任何建议都值得赞赏！    提交人    /u/Ancient_Scallion105   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hca0h8/open_source_difficulties/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:40:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
