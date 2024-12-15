@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 15 Dec 2024 06:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 09:02:58 GMT</lastBuildDate>
+    <item>
+      <title>为什么开发人员在问题跟踪器中使用 ChatGPT？调查对 ChatGPT 的使用和依赖情况-</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1heohm4/why_do_developers_engage_with_chatgpt_in/</link>
+      <description><![CDATA[我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“为什么开发人员在问题跟踪器中使用 ChatGPT？调查对 ChatGPT 生成代码的使用和依赖”，作者是 Joy Krishan Das、Saikat Mondal 和 Chanchal K. Roy。 这项研究深入探讨了 ChatGPT 在 GitHub 上的协作问题解决中的作用，分析了超过一千次开发人员与 ChatGPT 的对话。研究人员试图了解开发人员如何以及为何使用 ChatGPT，并发现使用 ChatGPT 生成代码的领域。 主要发现包括：1. 主要用途和参与领域：开发人员主要使用 ChatGPT 进行构思，后端问题占据了讨论的主导地位。令人惊讶的是，与测试相关的问题在对话中出现的频率较低。2. 对 ChatGPT 生成的代码的依赖：在 ChatGPT 生成的代码的帮助下，只有一小部分 (12.78%) 的问题得到了解决，只有 5.83% 的问题未经修改就按原样使用。3. 开发人员情绪：对于使用 ChatGPT 的情绪褒贬不一，对重构和数据分析等任务的满意度较高，而对调试和自动化任务的满意度较低。 4. 任务特定的性能：看来开发人员发现该模型对于涉及自包含数据的任务更令人满意，但在处理需要细致入微的后端理解的复杂任务时效率较低。 这些发现突出了需要改进的重要领域，并表明需要针对特定​​任务的解决方案来增强 ChatGPT 在软件开发中的可用性和可靠性。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1heohm4/why_do_developers_engage_with_chatgpt_in/</guid>
+      <pubDate>Sun, 15 Dec 2024 08:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能工作？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hens46/ai_jobs/</link>
+      <description><![CDATA[  由    /u/Reddit_kmgm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hens46/ai_jobs/</guid>
+      <pubDate>Sun, 15 Dec 2024 07:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找免费的第三方人工智能服务，如 Hoody、Poe、chatbot arena、Monic、anakin 等</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hemlu8/looking_for_free_third_party_ai_services_like/</link>
+      <description><![CDATA[基本上是第三方应用程序或网站界面/基于网站的第三方人工智能工具，具有多个人工智能模型，如 chatgpt、claude、gemini 等。它们应该有每日限制，并且限制应该重置。    提交人    /u/Emad_341   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hemlu8/looking_for_free_third_party_ai_services_like/</guid>
+      <pubDate>Sun, 15 Dec 2024 06:19:37 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 12 月 14 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1helz14/oneminute_daily_ai_news_12142024/</link>
@@ -97,13 +118,6 @@
       <pubDate>Sat, 14 Dec 2024 17:48:53 GMT</pubDate>
     </item>
     <item>
-      <title>您对 AGI、ASI、老龄化治疗、完全潜入式 VR 和后稀缺社会有何时间表？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he67qf/what_are_your_timelines_for_agi_asi_ageing/</link>
-      <description><![CDATA[（请注意，我昨天在 r/singularity 上发布了这篇文章，但希望从这个 subreddit 得到更现实的答案。我也没有断言这些主题中的任何一个都是现实的或可以实现的） 请给出一个粗略的时间表，以年份为单位（例如 2035 年），您认为以下里程碑将首次实现，然后是普通人可以使用它们的时间： AGI 定义：AGI 是一种人工智能或机器智能，它具有理解或学习人类可以完成的任何智力任务的能力。这与谷歌的定义类似。 对我来说，这意味着这样的人工智能应该能够完成人类可以完成的任何智力任务。例如，它应该已经具备或有能力学习如何在 Blender 中创建 3D 模型和动画，使用这些模型并在 Unity3D 等游戏引擎中编写代码来制作复杂、适销对路的视频游戏。它应该有能力营销这款游戏，在 Steam 等商店销售，并管理财务和税务。这是一个单独的人类在花时间学习完成这些任务后可以做的事情的例子。所有这些都应该自主完成。 另一个例子是能够与其他 AI 或人类合作完成一项大型、复杂的任务，例如经营一家会计师事务所。由于大多数人类工作都需要能够在大型项目上进行合作（无论是超市、会计、工程公司等），AGI 也应该能够自主完成这项工作。 ASI 定义：一种人工智能或机器智能，在所有领域（包括学习）都远远超过最有天赋的人类。 衰老：抗衰老治疗足够有效，可以为健康人的寿命延长 50 年或更长时间。 全潜伏 VR：一种能够拦截人类神经信号并发送自己的信号的系统，目的是欺骗大脑让它认为它在某个地方，而它并不在某个地方。 后稀缺社会：与西欧经济体普通人相似的电力、水、医疗保健、足够的食物和物质商品的平均成本降至零或接近零。    提交人    /u/LordFumbleboop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he67qf/what_are_your_timelines_for_agi_asi_ageing/</guid>
-      <pubDate>Sat, 14 Dec 2024 16:14:27 GMT</pubDate>
-    </item>
-    <item>
       <title>如果有一天，植入物被推向市场，用来提高智力能力，你会支持还是反对？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he59oo/if_one_day_implants_were_to_be_marketed_to/</link>
       <description><![CDATA[我知道这是一个很难的问题。就我个人而言，我会反对，但我很想听听你对此的看法。    由   提交  /u/Trash-Bubbly   [link] [评论]]]></description>
@@ -116,20 +130,6 @@
       <description><![CDATA[想象一下，你有机会在数字世界中克隆自己。基本上就是创建一个永远存在于互联网上的副本。问题是什么？它将是一个自主实体，能够独立做出自己的决定，并且无法关闭它。 你会这么做吗？    提交人    /u/Machboos   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he3tp6/would_you_clone_yourself_digitally_if_the_clone/</guid>
       <pubDate>Sat, 14 Dec 2024 14:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建了一个由人工智能驱动的搜索引擎，使用自然语言描述来探索超过 50 万件国立博物馆的艺术品，以增添乐趣</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he0m31/we_built_an_aipowered_search_engine_for_exploring/</link>
-      <description><![CDATA[一款 AI 搜索引擎，让您使用自然语言探索艺术品。它将您的描述转换为嵌入，并从超过 50 万个 CLIP 嵌入的艺术品中找到 10 个最接近的匹配项。结果显示在数字画布上，显示它们与您的文本以及彼此之间的密切关系。您可以继续这样做以找到有趣的联系！ 您可以在这里尝试： https://artexplorer.ai/ 并搜索类似“阴郁的冬日”的内容。    提交人    /u/stefanvdw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he0m31/we_built_an_aipowered_search_engine_for_exploring/</guid>
-      <pubDate>Sat, 14 Dec 2024 10:59:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果这个问题听起来有点愚蠢，请原谅我，但是……所谓的“奇点”到底是什么？为什么这么多人害怕它？它是否被夸大了？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdsr3z/forgive_me_if_this_comes_off_as_a_bit_of_a_stupid/</link>
-      <description><![CDATA[我最近看到了整个涉及所谓“奇点”的事情，老实说，作为一个人工智能新手，我对此一无所知。  甚至有一个专门讨论这个想法的 Reddit 社区，但我仍然无法理解它。老实说，似乎很多人都害怕它。  它到底是什么？我应该害怕吗？     提交人    /u/Class_of_22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdsr3z/forgive_me_if_this_comes_off_as_a_bit_of_a_stupid/</guid>
-      <pubDate>Sat, 14 Dec 2024 02:21:12 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>

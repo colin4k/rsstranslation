@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Dec 2024 06:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 09:03:42 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到 r/softwareshare :)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1heo9ng/welcome_to_rsoftwareshare/</link>
+      <description><![CDATA[在这里，您可以分享任何对社区有益的软件、工具、产品等。     提交人    /u/Tall-Strike-6226   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1heo9ng/welcome_to_rsoftwareshare/</guid>
+      <pubDate>Sun, 15 Dec 2024 08:22:18 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么好的人工智能可以很好地模仿青蛙科米特的声音？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</link>
-      <description><![CDATA[我发现一个用 emo 风格唱歌的家伙模仿科米特，现在我还想听更多。想知道是否有人知道任何好的语音克隆软件，可以很好地模仿科米特，而且听起来自然，而不是像大多数 TTS ai 那样机械化？    提交人    /u/ZooterTheWooter   [link] [评论]]]></description>
+      <description><![CDATA[我发现一个用 emo 风格唱歌的家伙模仿科米特，现在我想要更多。想知道是否有人知道任何好的语音克隆软件，可以很好地模仿科米特，而且听起来自然，而不是像大多数 TTS ai 那样机械化？    由   提交  /u/ZooterTheWooter   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</guid>
       <pubDate>Sun, 15 Dec 2024 03:34:07 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>寻找适用于 Windows 且具有出色用户界面的免费开源音乐播放器</title>
       <link>https://www.reddit.com/r/opensource/comments/1he4vze/looking_for_free_opensource_music_player_with_a/</link>
-      <description><![CDATA[我最近一直在将 spotify 与 Spicetify 一起使用，我非常喜欢歌词 UI 扩展！它太棒了，我想要一个类似的体验，我正在寻找一个看起来很棒并且具有嵌入式歌词支持（不是 .lrc 文件）的扩展，我在 android 上使用 musicolet 来嵌入我的歌词。    提交人    /u/TheKingofStupidness   [link] [评论]]]></description>
+      <description><![CDATA[我最近一直在将 spotify 与 Spicetify 一起使用，我非常喜欢歌词 UI 扩展！它太棒了，我想要一个类似的体验，我正在寻找一个看起来很棒并且具有嵌入式歌词支持（不是 .lrc 文件）的体验，我在 android 上使用 musicolet 来嵌入我的歌词。    提交人    /u/TheKingofStupidness   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1he4vze/looking_for_free_opensource_music_player_with_a/</guid>
       <pubDate>Sat, 14 Dec 2024 15:11:26 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/Repeat-or  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hdmfjb/an_open_synthetic_safety_dataset_to_help_ai/</guid>
       <pubDate>Fri, 13 Dec 2024 21:11:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像和文本模型的包装器，如 Flux 和 gpt 4o @ Pollination Ai</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hdkkpc/a_wrapper_for_image_and_text_models_like_flux_and/</link>
-      <description><![CDATA[很高兴分享我的个人项目，一个更标准化的 Python 包装器 Pollinations.ai！🌱 此工具简化了对用于图像和文本创建的生成模型的访问。敬请期待即将推出的更新，这些更新将引入强大的类来处理更多参数！在这里查看： https://pypi.org/project/pypollinations/    提交人    /u/JOHNJRAMBO2403   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hdkkpc/a_wrapper_for_image_and_text_models_like_flux_and/</guid>
-      <pubDate>Fri, 13 Dec 2024 19:47:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
