@@ -4,18 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Dec 2024 09:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 12:02:43 GMT</lastBuildDate>
     <item>
-      <title>欢迎来到 r/softwareshare :)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1heo9ng/welcome_to_rsoftwareshare/</link>
-      <description><![CDATA[在这里，您可以分享任何对社区有益的软件、工具、产品等。     提交人    /u/Tall-Strike-6226   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1heo9ng/welcome_to_rsoftwareshare/</guid>
-      <pubDate>Sun, 15 Dec 2024 08:22:18 GMT</pubDate>
+      <title>为 Todoist 创建终端客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1her2yq/created_a_terminal_client_for_todoist/</link>
+      <description><![CDATA[https://github.com/illiteratewriter/todoist-rs 是 todoist 的开源终端客户端。    由   提交  /u/remembermylast   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1her2yq/created_a_terminal_client_for_todoist/</guid>
+      <pubDate>Sun, 15 Dec 2024 11:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSH 桌面文件管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1heqz1e/ssh_desktop_file_manager/</link>
+      <description><![CDATA[https://github.com/0xb-s/ssh-browser/ SSH 浏览器是一个桌面应用程序，用于管理远程服务器上的文件，通过图形界面提供文件导航、上传、下载、修改和删除等功能。 该项目仍处于早期开发阶段，需要进一步努力来增强功能和提高稳定性。 欢迎所有贡献！    提交人    /u/Ok_Inevitable_3392   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1heqz1e/ssh_desktop_file_manager/</guid>
+      <pubDate>Sun, 15 Dec 2024 11:46:13 GMT</pubDate>
     </item>
     <item>
       <title>有没有什么好的人工智能可以很好地模仿青蛙科米特的声音？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</link>
-      <description><![CDATA[我发现一个用 emo 风格唱歌的家伙模仿科米特，现在我想要更多。想知道是否有人知道任何好的语音克隆软件，可以很好地模仿科米特，而且听起来自然，而不是像大多数 TTS ai 那样机械化？    由   提交  /u/ZooterTheWooter   [link] [评论]]]></description>
+      <description><![CDATA[我发现一个用 emo 风格唱歌的家伙模仿科米特，现在我还想听更多。想知道是否有人知道任何好的语音克隆软件，可以很好地模仿科米特，而且听起来自然，而不是像大多数 TTS ai 那样机械化？    提交人    /u/ZooterTheWooter   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</guid>
       <pubDate>Sun, 15 Dec 2024 03:34:07 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>寻找适用于 Windows 且具有出色用户界面的免费开源音乐播放器</title>
       <link>https://www.reddit.com/r/opensource/comments/1he4vze/looking_for_free_opensource_music_player_with_a/</link>
-      <description><![CDATA[我最近一直在将 spotify 与 Spicetify 一起使用，我非常喜欢歌词 UI 扩展！它太棒了，我想要一个类似的体验，我正在寻找一个看起来很棒并且具有嵌入式歌词支持（不是 .lrc 文件）的体验，我在 android 上使用 musicolet 来嵌入我的歌词。    提交人    /u/TheKingofStupidness   [link] [评论]]]></description>
+      <description><![CDATA[我最近一直在将 spotify 与 Spicetify 一起使用，我非常喜欢歌词 UI 扩展！它太棒了，我想要一个类似的体验，我正在寻找一个看起来很棒并且具有嵌入式歌词支持（不是 .lrc 文件）的扩展，我在 android 上使用 musicolet 来嵌入我的歌词。    提交人    /u/TheKingofStupidness   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1he4vze/looking_for_free_opensource_music_player_with_a/</guid>
       <pubDate>Sat, 14 Dec 2024 15:11:26 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[六个月前，我开始了一段旅程，驱动我的是一个问题：如何才能让每个人都拥有软件创作的力量？ 我构建了一个自然语言代码生成器，能够将自然语言转换为功能齐全的 React Web 应用。在此过程中，我发现，虽然这项技术很有前景，但尚未达到非技术用户可以无缝表达和实现其愿景的程度，因此没有“创业”或商业潜力。 但我相信我们构建的东西仍然可以激发探索。我们开发了一个平台，该平台具有基于代理的代码生成器、用于动态呈现 React 应用的强大运行时、集成清理功能以及对 Google Charts 等库的支持。这些部分用于引导、调整和迭代代码生成想法。 今天，我开源了该平台，作为任何看到同样机会并希望在此基础上构建的人的起点。 Repo：https://github.com/MuneebRasool/iterative    提交人    /u/CryptoWaliSerkar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hdnh3o/opensourcing_a_platform_for_code_generation_and/</guid>
       <pubDate>Fri, 13 Dec 2024 21:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个开放的合成安全数据集，帮助人工智能开发人员调整语言模型以获得安全和合乎道德的响应。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hdmfjb/an_open_synthetic_safety_dataset_to_help_ai/</link>
-      <description><![CDATA[        由    /u/Repeat-or  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hdmfjb/an_open_synthetic_safety_dataset_to_help_ai/</guid>
-      <pubDate>Fri, 13 Dec 2024 21:11:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
