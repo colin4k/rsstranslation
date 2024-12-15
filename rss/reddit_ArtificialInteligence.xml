@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 14 Dec 2024 18:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 00:04:02 GMT</lastBuildDate>
+    <item>
+      <title>元研究：句子表示空间中的语言建模？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hefmyu/meta_research_language_modeling_in_a_sentence/</link>
+      <description><![CDATA[论文链接： https://scontent-lax3-2.xx.fbcdn.net/v/t39.2365-6/470149925_936340665123313_535953590 5316748287_n.pdf?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=3c67a6&amp;_nc_ohc=AiJtorpkuKQQ7 kNvgFB1Vbe&amp;_nc_zt=14&amp;_nc_ht=scontent-lax3-2.xx&amp;_nc_gid=Ai90Z2yRtNh1RpGRcmdT4WW&amp;oh=00_AYA6kvrqMczaZ8FhsXj7XgTNvFMysDwGUfZq2WfpOSAvDw&amp;oe=6763E4D2 Meta AI 的“大型概念模型”(LCM) 从使用单词标记转向关注更高级别的含义或“概念”。这些概念使用一种名为 SONAR 的特殊模型进行处理，该模型可处理 200 种语言的文本和语音。它们经过训练可以预测整个句子，从而改进总结等任务。与依赖大量数据集和资源的传统语言模型不同，LCM 旨在通过处理抽象概念而不是特定单词来模仿类似人类的推理。这使得在不同语言和任务中的表现更加灵活和准确。 LCM 的训练代码是公开的，鼓励进一步研究和开发。这种开放获取旨在促进创新，并为未来在分层、语言无关的 AI 模型中的工作奠定基础。 大型概念模型 (LCM) 方法专注于抽象、语言无关的推理，使模型能够同时从所有语言和模态中学习，使其具有可扩展性和无偏见性。它具有明确的层次结构，可提高长格式输出的可读性和用户交互性。LCM 通过处理更短的序列，比传统转换器更有效地处理长上下文。它们在零样本泛化方面表现出色，无需额外训练即可跨语言和模态工作。凭借模块化和可扩展性，LCM 可以避免模态竞争，并轻松集成新的语言或模态，从而向 AI 模型中更高的抽象迈进。 这项工作强调向 AI 模型中更高抽象的转变，可能为更通用、更高效的系统铺平道路，这些系统可以更好地与类似人类的处理保持一致。    提交人    /u/ninjasaid13   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hefmyu/meta_research_language_modeling_in_a_sentence/</guid>
+      <pubDate>Sat, 14 Dec 2024 23:35:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能+电信！！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hefloh/ai_telecom/</link>
+      <description><![CDATA[随着过去几年人工智能的出现，感觉消费者电信真的被严重忽视了。以下是通话前、通话中和通话后个人问题的一些示例 -  我的手机一直处于 dnd 状态，因为我厌倦了垃圾电话，但这样一来我就会错过真正重要的东西 和我的韩国奶奶通话时听不懂他们在说什么。 我和保险公司通了电话，但他们给我的详细信息中有一半我完全记不清了。这和协调福利有关。我想是医疗账单的问题吧，luigi mangione 没有因此入狱。  我非常沮丧，所以我真的做了一些东西来解决这个问题 - 这是一个全球电话计划，它具有垂直整合的人工智能 - 想想未接来电的人工智能接待员、实时协助（如翻译）等等。最好的部分是，它会在你自己的私人号码上完成所有这些操作，你可以保留这个号码。和工作电话说再见吧。 看看吧。每月 68 美元，无限一切，全球，AI：willow.international 您目前的电话设置最让您烦恼的是什么？可能有助于我弄清楚下一步要构建什么。    提交人    /u/PutEnvironmental8045   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hefloh/ai_telecom/</guid>
+      <pubDate>Sat, 14 Dec 2024 23:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有 AI 代码“Hunt the Wumpus”（TI-99/4A 版本）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1heeav1/i_had_ai_code_hunt_the_wumpus_ti994a_version/</link>
+      <description><![CDATA[我挑战 AI 编写一个版本的 Hunt the Wumpus。 我在开发过程中意识到，我必须像产品所有者一样对待它，将任务分解为 AI 的零碎任务。在某个时候，它无法再一次渲染所有代码，所以我告诉它给我一些片段，它告诉我将这些新片段放入代码中的哪个位置。 我已经将它开发到现在的程度，它是一款合理/可玩的游戏，我为 AI 在其中投入的工作感到非常自豪。 &lt;3 https://www.poingly.info/wumpus/wumpus-v6.html    提交人    /u/poingly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1heeav1/i_had_ai_code_hunt_the_wumpus_ti994a_version/</guid>
+      <pubDate>Sat, 14 Dec 2024 22:29:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能对劳动力市场的影响 分析招聘广告中对 ChatGPT 的需求</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hed1h3/generative_ai_impact_on_labor_market_analyzing/</link>
+      <description><![CDATA[我每天都会发现和总结有趣的人工智能研究论文，所以你不必把它们全部翻遍。今天的论文题为“生成式人工智能对劳动力市场的影响：分析招聘广告中 ChatGPT 的需求”作者：Mahdi Ahmadi、Neda Khosh Kheslat 和 Adebola Akintomide。 本研究论文通过研究 2023 年 5 月至 12 月期间各大平台上的招聘广告，探讨了美国劳动力市场对 ChatGPT 相关技能的不断增长的需求。它使用文本挖掘和主题建模来识别雇主现在正在寻找的特定技能组合，强调生成式人工智能 (Gen AI) 在各个行业中的整合以及由此产生的技能要求的变化。 主要发现包括：  一般熟悉程度的普遍性：研究表明，对 ChatGPT 和其他 Gen AI 工具的一般熟悉度现已成为大多数行业的共同要求，反映了采用人工智能技术来提高生产力的根本性转变。 五种不同的技能组合：研究确定了雇主所需的五种关键 ChatGPT 相关技能：一般熟悉度、创意内容生成、营销、高级功能（如即时工程）和 AI 产品开发。这些类别突出了 Gen AI 在不同工作角色中的多样化应用。 跨行业技能中心：不同职业类别的技能需求存在明显差异。技术领域，尤其是计算机和数学职业，强调高级功能和产品开发。相比之下，营销和行政支持等领域更注重内容生成和基本 AI 工具的使用。 地理和基于角色的趋势：大量职位发布来自加利福尼亚州、德克萨斯州和纽约州等州。职位种类繁多，技术专业通常提供高薪，而许多非技术职位则优先考虑通用人工智能工具的基础技能。 职位角色的演变：该研究强调了通用人工智能不仅创造了新的角色，而且还改变了现有角色，需要结合传统技能和新的人工智能相关能力。这一演变表明，将人工智能培训纳入专业发展和教育课程的重要性日益增加。  您可以在这里看到完整的细分：这里您可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hed1h3/generative_ai_impact_on_labor_market_analyzing/</guid>
+      <pubDate>Sat, 14 Dec 2024 21:30:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您觉得 chatGPT 直播视频怎么样？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1heccx9/how_are_you_finding_chatgpt_live_video/</link>
+      <description><![CDATA[刚注意到应用程序已更新，并尝试了一下，真的很棒，效果也很好。唯一的问题是它一直试图让声音变成圣诞老人，这非常烦人。    提交人    /u/latro666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1heccx9/how_are_you_finding_chatgpt_live_video/</guid>
+      <pubDate>Sat, 14 Dec 2024 20:59:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能与人类互动的未来是怎样的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hebz9x/what_is_the_future_of_aihuman_interaction/</link>
+      <description><![CDATA[  由    /u/Imagine-your-success  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hebz9x/what_is_the_future_of_aihuman_interaction/</guid>
+      <pubDate>Sat, 14 Dec 2024 20:41:27 GMT</pubDate>
+    </item>
     <item>
       <title>马斯克与奥特曼的争斗愈演愈烈，马斯克称奥特曼为“狡猾的山姆”，并称 OpenAI 为“让市场陷入瘫痪的戈尔贡”。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he8852/musk_has_upped_the_ante_in_his_feud_with_altman/</link>
@@ -18,13 +60,6 @@
       <description><![CDATA[（请注意，我昨天在 r/singularity 上发布了这篇文章，但希望从这个 subreddit 得到更现实的答案。我也没有断言这些主题中的任何一个都是现实的或可以实现的） 请给出一个粗略的时间表，以年份为单位（例如 2035 年），您认为以下里程碑将首次实现，然后是普通人可以使用它们的时间： AGI 定义：AGI 是一种人工智能或机器智能，它具有理解或学习人类可以完成的任何智力任务的能力。这与谷歌的定义类似。 对我来说，这意味着这样的人工智能应该能够完成人类可以完成的任何智力任务。例如，它应该已经具备或有能力学习如何在 Blender 中创建 3D 模型和动画，使用这些模型并在 Unity3D 等游戏引擎中编写代码来制作复杂、适销对路的视频游戏。它应该有能力营销这款游戏，在 Steam 等商店销售，并管理财务和税务。这是一个单独的人类在花时间学习完成这些任务后可以做的事情的例子。所有这些都应该自主完成。 另一个例子是能够与其他 AI 或人类合作完成一项大型、复杂的任务，例如经营一家会计师事务所。由于大多数人类工作都需要能够在大型项目上进行合作（无论是超市、会计、工程公司等），AGI 也应该能够自主完成这项工作。 ASI 定义：一种人工智能或机器智能，在所有领域（包括学习）都远远超过最有天赋的人类。 衰老：抗衰老治疗足够有效，可以为健康人的寿命延长 50 年或更长时间。 全潜伏 VR：一种能够拦截人类神经信号并发送自己的信号的系统，目的是欺骗大脑让它认为它在某个地方，而它并不在某个地方。 后稀缺社会：与西欧经济体普通人相似的电力、水、医疗保健、足够的食物和物质商品的平均成本降至零或接近零。    提交人    /u/LordFumbleboop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he67qf/what_are_your_timelines_for_agi_asi_ageing/</guid>
       <pubDate>Sat, 14 Dec 2024 16:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用哪种 AI 图像生成器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he5v4y/which_ai_image_gen_should_i_use/</link>
-      <description><![CDATA[大家好， 我目前正在做一个视频项目，其中提到了一个小故事。故事讲的是一个旅行者在煮汤，村民们在帮他。问题是，我应该使用哪个 AI 图像生成器？我需要制作一个人（旅行者）并从不同角度生成图像，例如旅行者与村民见面，然后旅行者看着烹饪锅之类的。我唯一想要实现的就是，生成的每张图像中的面孔必须保持不变。如果这听起来像一个愚蠢的问题，请见谅。我遇到过 fooocus，它有时会产生很好的效果，但我发现它使用起来有所不同。关于 Midjourney，我不喜欢 discord 界面。谢谢！    提交人    /u/MaterialOrnery286   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he5v4y/which_ai_image_gen_should_i_use/</guid>
-      <pubDate>Sat, 14 Dec 2024 15:58:09 GMT</pubDate>
     </item>
     <item>
       <title>借鉴过去，利用技术建设更美好的未来</title>
@@ -48,11 +83,11 @@
       <pubDate>Sat, 14 Dec 2024 14:19:16 GMT</pubDate>
     </item>
     <item>
-      <title>教程：如何结合ChatGPT和Leonardo.Ai在4分钟内制作2分钟的视频（第二部分）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he0ogp/tutorial_how_to_combine_chatgpt_and_leonardoai_to/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he0ogp/tutorial_how_to_combine_chatgpt_and_leonardoai_to/</guid>
-      <pubDate>Sat, 14 Dec 2024 11:03:24 GMT</pubDate>
+      <title>人工智能是否会像流媒体一样？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he25oa/is_ai_going_the_same_way_streaming_did/</link>
+      <description><![CDATA[我想知道 AI 模型的碎片化最终会导致什么结果？我会将其与流媒体提供商进行比较：首先是 Netflix，我认为 ChatGPT 是相当的。后来出现了亚马逊等许多公司，每个公司都有自己的专长和重点领域。现在 AI 模型也是如此。有时需要使用多个模型才能获得所需的结果（或交叉检查初始结果）。您认为这最终会导致什么结果？一种模型最终会优于其他模型，从而产生或加剧数据隐私等其他问题吗？我们会保持现状，导致我们可能需要 3 个以上的订阅吗（因为我认为在某些时候公司需要向广大用户收费才能获得足够的投资回报）​​。好奇您的想法。     提交人    /u/chatman77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he25oa/is_ai_going_the_same_way_streaming_did/</guid>
+      <pubDate>Sat, 14 Dec 2024 12:47:50 GMT</pubDate>
     </item>
     <item>
       <title>我们构建了一个由人工智能驱动的搜索引擎，使用自然语言描述来探索超过 50 万件国立博物馆的艺术品，以增添乐趣</title>
@@ -69,27 +104,6 @@
       <pubDate>Sat, 14 Dec 2024 08:34:10 GMT</pubDate>
     </item>
     <item>
-      <title>我正在 YouTube 上分享数据科学和人工智能课程和项目</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdyi65/i_am_sharing_data_science_ai_courses_and_projects/</link>
-      <description><![CDATA[大家好，我想分享一下我在我的 YouTube 频道上分享的免费课程和项目。我有 200 多个视频，并且创建了用于学习数据科学的播放列表。我将在下面留下播放列表链接，祝大家有美好的一天！ 数据科学完整课程和项目 -&gt; https://youtube.com/playlist?list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH&amp;si=6WUpVwXeAKEs4tB6 AI 教程（OpenAI、LangChain 和 LLM） -&gt; https://youtube.com/playlist?list=PLTsu3dft3CWhAAPowINZa5cMZ5elpfrxW&amp;si=DvsefwOEJd3k-ShN    提交人    /u/onurbaltaci   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdyi65/i_am_sharing_data_science_ai_courses_and_projects/</guid>
-      <pubDate>Sat, 14 Dec 2024 08:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 个必不可少的 AI 解决方案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdwnel/5_essential_ai_solutions/</link>
-      <description><![CDATA[AI 工具已经改变了内容创作，使任务更快、更高效。以下是我经常使用的 5 个基本工具：  HeyGen – 快速创建看起来很专业的 AI 生成的视频，非常适合营销、教程或演示。 Komo – 一个用于研究和寻找内容创意的绝佳工具。它可以帮助您快速分析趋势、集思广益并扩展想法。 语音 AI – 产生清晰、高质量的音频，非常适合画外音、播客或视频。 VEED IO – 通过自动添加字幕使视频编辑变得简单，节省时间并提高可访问性。 Leonardo Ai – 帮助您使用 AI 创建令人惊叹的图像，非常适合社交媒体帖子、广告或博客。     提交人    /u/cheerysolemnity47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdwnel/5_essential_ai_solutions/</guid>
-      <pubDate>Sat, 14 Dec 2024 06:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>最喜欢的 AI 新闻来源？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdu6gf/favorite_sources_for_ai_news/</link>
-      <description><![CDATA[我今天进入了 Chapters 并浏览了杂志，希望找到一些关于 AI 用例的好文章，为我提供更多为客户使用的想法。 （到目前为止，我已经为我的客户创建了 3 个 AI 代理，并希望更上一层楼。） 我简直不敢相信我找到的所有杂志都没有关于 AI 的有用文章。 只有几篇散布恐慌的文章。 所以我显然必须找到一些更好的来源。 当然，我已经关注了这个 subreddit。 您最喜欢关注的关于 AI 的博客或 YouTube 频道是什么？     提交人    /u/CaptainTime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdu6gf/favorite_sources_for_ai_news/</guid>
-      <pubDate>Sat, 14 Dec 2024 03:41:20 GMT</pubDate>
-    </item>
-    <item>
       <title>我是否应该从 ChatGPT 转到 Claude 来获取编码帮助？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdtexj/should_i_switch_from_chatgpt_to_claude_for_coding/</link>
       <description><![CDATA[大家好， 我目前有一个 ChatGPT 订阅，我主要用它来帮助完成涉及创建 PowerShell 脚本和 Python 程序的工作。我还将 ChatGPT 与 GitHub Copilot 一起使用以获得额外的编码帮助。但是，我听说在帮助完成编码任务方面，Claude 远远优于 ChatGPT，我正在考虑进行切换。 我面临的问题是，我很想保留我的 ChatGPT 订阅，并让 Cursor 在其中使用 Claude。不幸的是，Cursor 无法与我公司的网络配合使用，因为它被屏蔽了。这让我有点左右为难，不知道该如何继续。 我正在寻找关于我应该做什么的建议。还有其他像 Cursor 一样适合编码的 AI 集成 IDE 吗？我喜欢 GitHub Copilot，但与 Cursor 的性能相比，它感觉有点迟钝。 除了工作之外，我还有一些个人项目，我严重依赖 AI 来完成代码并寻求代码解释或集成帮助。因此，我正在寻找最佳的工具组合来简化我的编码体验。任何建议或见解都将不胜感激！    提交人    /u/Rkxs1   [link] [评论]]]></description>
@@ -104,13 +118,6 @@
       <pubDate>Sat, 14 Dec 2024 02:21:12 GMT</pubDate>
     </item>
     <item>
-      <title>什么将会是人工智能的杀手级应用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdr39c/what_will_be_ais_killer_app/</link>
-      <description><![CDATA[如果你理解技术创新的工作原理（克莱顿·克里斯滕森的方式），你就会知道人工智能本身不是一种颠覆性技术，而是一种使能技术。 即将发生的是，一些才华横溢的企业家将以意想不到的方式使用它，创造出以前不存在的东西，它将改变我们所知的世界，即杀手级应用（应用是技术的应用，不一定是软件。也可能是硬件）。 过去 2 年我一直在想办法，但我做不到。我也没有看到任何东西；尽管高级语音模式很接近。 那么，你对杀手级应用会是什么有什么理论、怀疑或方向吗？ TIA    提交人    /u/G4M35   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdr39c/what_will_be_ais_killer_app/</guid>
-      <pubDate>Sat, 14 Dec 2024 00:53:15 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 12 月 13 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdqwk9/oneminute_daily_ai_news_12132024/</link>
       <description><![CDATA[ UnitedHealth 的 Optum 将一个 AI 聊天机器人暴露在互联网上，员工使用该聊天机器人询问有关索赔的问题。[1] BBC 对此表示抱怨，因为 Apple Intelligence 改写了其一则标题，错误地声称 UnitedHealthcare 嫌疑人开枪自杀。[2] AI 继续改组电力和能源市场，甚至埃克森美孚等石油巨头也加入其中。[3] OpenAI 与伊隆马斯克的法律纠纷揭示了为避免 AI“独裁”而产生的内部动荡。[4]  来源包括：https://bushaicave.com/2024/12/13/12-13-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[为什么人们没有对其他类型的生成式人工智能、图像和语音识别模型，或者像 UHC 这样的公司过去否认的那种“人工智能”（可能基于梯度提升而不是神经网络）感到恐慌？是因为输出不是人类可以理解的语言，因此他们不会被迫将其拟人化，还是因为营销有效地掩盖了我们所说的人工智能有多么根本的不同？ 在某种程度上，这让我想起了围绕区块链和加密货币的炒作风暴。这两项技术都引发了巨大的兴趣和投资，因为它们有可能彻底改变各个行业。然而，这种狂热往往强调华而不实、高调的应用，当人们开始对它们感到失望时，他们就像把孩子和洗澡水一起倒掉了一样。例如，他们不是对区块链的使用和过度宣传持怀疑态度，而是因为他们将区块链与这些用途（以及它们最终获得的负面报道）联系起来，所以立即对区块链产生了怀疑。  我担心的是，公众对人工智能子集的单一关注将使更广泛的努力脱轨，就像过去专家系统未能达到人们对它们的炒作水平一样。 可以肯定的是，我们现在拥有的是完全不同的能力领域，但围绕它的炒作也处于完全不同的水平。     提交人    /u/Murky-Motor9856   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmoz8/are_people_forgetting_that_ai_and_llms_are_not/</guid>
       <pubDate>Fri, 13 Dec 2024 21:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NotebookLM 重大更新</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdg3vi/major_notebooklm_update/</link>
-      <description><![CDATA[https://blog.google/technology/google-labs/notebooklm-new-features-december-2024/ 实质上是新的界面、与播客互动的能力，以及高级版本，令人担忧的是，它包括“额外的隐私和安全”（为什么这不在免费版本中，我不知道）。    提交人    /u/iamjacobsparticus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdg3vi/major_notebooklm_update/</guid>
-      <pubDate>Fri, 13 Dec 2024 16:32:24 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
