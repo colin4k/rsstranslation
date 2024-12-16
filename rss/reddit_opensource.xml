@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Dec 2024 09:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 12:02:42 GMT</lastBuildDate>
+    <item>
+      <title>我使用 pygame 在 python 中制作了一个自上而下的射击引擎，任何人都可以为其做出贡献，就像吸血鬼幸存者只用枪和能力一样......</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hfgxot/i_made_a_top_down_shooter_engine_in_python_using/</link>
+      <description><![CDATA[如果您制作了一些很酷的东西，请随时停下来并贡献无需经验的东西，我们可以将其添加到引擎中。 https://github.com/Poppadomus/pygameTDS    提交人    /u/BornTailor6583   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hfgxot/i_made_a_top_down_shooter_engine_in_python_using/</guid>
+      <pubDate>Mon, 16 Dec 2024 11:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人在没有 GPU 的情况下运行稳定扩散吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hffd86/anyone_running_stable_diffusion_without_gpu/</link>
+      <description><![CDATA[我想尝试在仅使用 CPU 且不使用 GPU 的设置上运行它，看看是否有任何方法可以在不使用 GPU 的情况下运行，但我仍然这样做了，所以我很想从您的提示中学习 我的设置包括： ▸四核 CPU（Intel Core i7-1165G7） ▸ 64 GB RAM 我每张图片（512x512 分辨率）花费约 10-15 分钟，内存使用量约为 8 GB RAM。 有没有其他人在仅使用 CPU 的设置上成功运行稳定扩散？我的预算有限，您能给我一些建议吗？谢谢    提交人    /u/kaydyday   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hffd86/anyone_running_stable_diffusion_without_gpu/</guid>
+      <pubDate>Mon, 16 Dec 2024 09:21:55 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个命令行工具，可以同时分部分下载文件并将这些部分分布到多条路径上。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hfdpw2/i_made_a_command_line_tool_that_downloads_a_file/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我很想在业余时间从事各种自己的项目，但我也希望能从这些项目中赚到一些钱。我并不想通过我的小项目致富，但理想的情况是能够靠自己软件项目的钱生活，或者至少赚到一些钱。但我注意到，如果我做一个开源项目，几乎不可能赚钱，对吧？除了可能从一些捐赠中获得 20 美元（这笔钱可能在几年后我的项目足够大时才会到账）之外，你不可能从开源项目中赚钱，除非它是一个像 Linux 这样的成熟而庞大的项目。也许开源有什么让我不满意的地方，或者实际上赚到薪水真的是不可能的？我知道开源的想法通常只是创建一个“漂亮的软件”，但要生活在这个世界上，你仍然需要钱……    由    /u/challenger_official  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hebcxz/how_it_is_possible_to_earn_from_making_a_project/</guid>
       <pubDate>Sat, 14 Dec 2024 20:12:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找适用于 Windows 且具有出色用户界面的免费开源音乐播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1he4vze/looking_for_free_opensource_music_player_with_a/</link>
-      <description><![CDATA[我最近一直在将 spotify 与 Spicetify 一起使用，我非常喜欢歌词 UI 扩展！它太棒了，我想要一个类似的体验，我正在寻找一个看起来很棒并且具有嵌入式歌词支持（不是 .lrc 文件）的体验，我在 android 上使用 musicolet 来嵌入我的歌词。    提交人    /u/TheKingofStupidness   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1he4vze/looking_for_free_opensource_music_player_with_a/</guid>
-      <pubDate>Sat, 14 Dec 2024 15:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于开源的常见误解</title>
-      <link>https://www.reddit.com/r/opensource/comments/1he3wad/common_misconceptions_about_opensource/</link>
-      <description><![CDATA[我在基于 OSS 的公司工作，拥有自己受欢迎的 OSS 项目，并为 OSS 做出贡献，已经 15 年了。所以没有 BS。 1.“如果我分享我的代码，有人会窃取我的想法” 项目的成功取决于人，而不仅仅是代码。您还可以通过选择正确的许可证来合法保护自己。  “开源等于免费”  开源只是意味着与公众分享您的工作。它不会决定您项目的商业方面。  “如果我开源我的产品，没有人会购买它”  有很多方法可以合法保护您的产品免遭未经授权的使用。公司非常重视许可，因为违反许可可能会在审计、投资或认证期间造成严重问题。滥用许可的风险是不值得的。 事实上，开源可以成为一个主要卖点，因为它可以降低供应商锁定风险并有助于安全审计流程。  &quot;开源意味着将控制权交给社区&quot;  拒绝与您的愿景不一致的社区贡献是完全可以接受的。您没有义务围绕您的项目建立一个社区。  &quot;只有开发人员才能为开源做出贡献&quot;  许多项目实际上在用户界面、设计、文档和社区支持方面都遇到了困难。无论您的技能如何，您都可能为开源项目做出有意义的贡献。  “开源全是关于代码的”  开源从根本上讲是关于共享，而不仅仅是代码。例如，像 undraw.co 这样的项目展示了设计师如何为开源社区做出贡献。 请记住：开源是一种促进透明度和协作的开发理念和许可方法。这并不意味着放弃控制权、失去商业机会或将贡献限制在代码上。    提交人    /u/leonidbugaev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1he3wad/common_misconceptions_about_opensource/</guid>
-      <pubDate>Sat, 14 Dec 2024 14:22:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
