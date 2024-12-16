@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Dec 2024 06:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 09:03:08 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个命令行工具，可以同时分部分下载文件并将这些部分分布到多条路径上。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hfdpw2/i_made_a_command_line_tool_that_downloads_a_file/</link>
+      <description><![CDATA[我将其命名为 partdec。它的灵感来自 axel、aria2 和 gnu/posix split。 用例：  下载加速 数据分区和分发 大文件管理  小众用例，但您也可以将其用作普通下载器、文件传输工具或文件分割器。 Repo：https://github.com/cjijcb/partdec    提交人    /u/CiedJij   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hfdpw2/i_made_a_command_line_tool_that_downloads_a_file/</guid>
+      <pubDate>Mon, 16 Dec 2024 07:14:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于多个平台的轻量级 TypeScript AI 工具包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hfdc51/a_lightweight_typescript_ai_toolkit_for_multiple/</link>
+      <description><![CDATA[        提交人    /u/wangzuo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hfdc51/a_lightweight_typescript_ai_toolkit_for_multiple/</guid>
+      <pubDate>Mon, 16 Dec 2024 06:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>大家好，我创建了一个网站来帮助找到开源项目中的良好第一个问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1hfboam/hi_everyone_i_made_a_site_to_help_find_good_first/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>开源软件的安全和隐私问题。</title>
       <link>https://www.reddit.com/r/opensource/comments/1heip81/security_and_privacy_question_for_open_source/</link>
-      <description><![CDATA[这是一篇开放式帖子。我 100% 了解这些软件的工作原理。但这里有一些问题 - 这些开源软件有多安全？通常新手会看到类似大项目的东西，可以“免费”（显然是自由的自由），不附带任何金钱，并认为其中存在某种收入模式（数据？）。这个软件会对我的电脑造成什么影响？它会破坏制造商的任何安全功能吗？如果我在官方商店购买某些东西，我会更好吗（隐私和安全方面）？大多数大公司都依赖遥测数据。收获，使他们的产品更好等等。开发人员宣传 OSS 的方式是任何人都可以验证他们的代码并自己检查？有多少最终用户实际上这样做了？这是关于信任人们使用他们的软件（谈论没有安全审计的项目）。对于新手来说，他们通常信任他们的 OEM 而不是第三方开发商。我认为大部分原因是因为他们有这样的设置 - “仅从 app/window/play store 安装经过验证的软件”。即使软件很好，他们也不会允许它，因为它缺少他们授权的认证流程。这些证书需要花钱，大多数免费的 OSS 开发人员都不适用。你从 GitHub 安装某些东西并像从 App/Windows Store 下载一样信任它，感觉有多舒服？    提交人    /u/imsyndrom   [link] [评论]]]></description>
+      <description><![CDATA[这是一篇开放式帖子。我 100% 了解这些软件的工作原理。但这里有一些问题 - 这些开源软件有多安全？通常新手会看到类似大项目的东西，可以“免费”（显然是自由的自由），不附带任何费用，并认为其中存在某种收入模式（数据？）。这个软件会对我的电脑造成什么影响？它会破坏制造商的任何安全功能吗？如果我在官方商店购买某些东西，我会更好吗（隐私和安全方面）？大多数大公司都依赖遥测数据。收获，使他们的产品更好等等。开发人员宣传 OSS 的方式是任何人都可以验证他们的代码并自己检查？有多少最终用户实际上这样做了？这是关于信任人们使用他们的软件（谈论没有安全审计的项目）。对于新手来说，他们通常信任他们的 OEM 而不是第三方开发商。我认为大部分原因是因为他们有这样的设置 - “仅从 app/window/play store 安装经过验证的软件”。即使软件很好，他们也不会允许它，因为它缺少他们授权的认证流程。这些证书需要花钱，大多数免费的 OSS 开发人员都不适用。你从 GitHub 安装某些东西并像从 App/Windows Store 下载一样信任它，感觉有多舒服？    提交人    /u/imsyndrom   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1heip81/security_and_privacy_question_for_open_source/</guid>
       <pubDate>Sun, 15 Dec 2024 02:18:17 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我在基于 OSS 的公司工作，拥有自己受欢迎的 OSS 项目，并为 OSS 做出贡献，已经 15 年了。所以没有 BS。 1.“如果我分享我的代码，有人会窃取我的想法” 项目的成功取决于人，而不仅仅是代码。您还可以通过选择正确的许可证来合法保护自己。  “开源等于免费”  开源只是意味着与公众分享您的工作。它不会决定您项目的商业方面。  “如果我开源我的产品，没有人会购买它”  有很多方法可以合法保护您的产品免遭未经授权的使用。公司非常重视许可，因为违反许可可能会在审计、投资或认证期间造成严重问题。滥用许可的风险是不值得的。 事实上，开源可以成为一个主要卖点，因为它可以降低供应商锁定风险并有助于安全审计流程。  &quot;开源意味着将控制权交给社区&quot;  拒绝与您的愿景不一致的社区贡献是完全可以接受的。您没有义务围绕您的项目建立一个社区。  &quot;只有开发人员才能为开源做出贡献&quot;  许多项目实际上在用户界面、设计、文档和社区支持方面都遇到了困难。无论您的技能如何，您都可能为开源项目做出有意义的贡献。  “开源全是关于代码的”  开源从根本上讲是关于共享，而不仅仅是代码。例如，像 undraw.co 这样的项目展示了设计师如何为开源社区做出贡献。 请记住：开源是一种促进透明度和协作的开发理念和许可方法。这并不意味着放弃控制权、失去商业机会或将贡献限制在代码上。    提交人    /u/leonidbugaev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1he3wad/common_misconceptions_about_opensource/</guid>
       <pubDate>Sat, 14 Dec 2024 14:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Easyboxify - 一个开源 SaaS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1he33lz/easyboxify_an_open_source_saas/</link>
-      <description><![CDATA[      对于任何想知道它是什么的人是，它是一个用 nextjs 和 express 与 postgresDB 构建的书签管理器 Web 应用程序。 我将其作为学习新东西的附带项目进行构建，现在我刚刚完成它，并希望使这个产品变得更好并成为竞争对手之一。 最后，如果有人感兴趣，请成为第一个贡献并发展这个项目的人。谢谢！ 链接：Github    提交人    /u/Tall-Strike-6226   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1he33lz/easyboxify_an_open_source_saas/</guid>
-      <pubDate>Sat, 14 Dec 2024 13:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个漂亮的看板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1he2gfl/i_built_a_kanban_board_that_looks_pretty/</link>
-      <description><![CDATA[        提交人    /u/Mesthabro   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1he2gfl/i_built_a_kanban_board_that_looks_pretty/</guid>
-      <pubDate>Sat, 14 Dec 2024 13:05:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
