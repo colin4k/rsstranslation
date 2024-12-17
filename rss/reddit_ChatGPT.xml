@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Mon, 16 Dec 2024 21:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 03:14:25 GMT</lastBuildDate>
     <item>
-      <title>海岛度假村摩天大楼🏝️🏙️</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hftfv5/island_resort_skyscraper/</link>
-      <description><![CDATA[        由    /u/TheFloatingMaze  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hftfv5/island_resort_skyscraper/</guid>
-      <pubDate>Mon, 16 Dec 2024 21:01:11 GMT</pubDate>
+      <title>我所有的海关今天都停止工作了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg19d6/all_my_customs_stopped_working_today/</link>
+      <description><![CDATA[        提交人    /u/Minimum-Wind5345   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg19d6/all_my_customs_stopped_working_today/</guid>
+      <pubDate>Tue, 17 Dec 2024 03:08:41 GMT</pubDate>
     </item>
     <item>
-      <title>“你读这篇文章是为了确认你是人类吗？”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfte9z/are_you_reading_this_to_confirm_youre_human/</link>
-      <description><![CDATA[        提交人    /u/thebestmodesty   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfte9z/are_you_reading_this_to_confirm_youre_human/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:59:33 GMT</pubDate>
+      <title>ChatGPT 无法正常工作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg16h2/chatgpt_not_working/</link>
+      <description><![CDATA[在电脑上，它根本不起作用，甚至没有保存我的其他聊天记录。另外，当我在应用程序上尝试时，它突然有我的其他聊天记录，但仍然不起作用，只是说，“请尝试登录。”即使我已经登录了。    由   提交  /u/HDhunter360   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg16h2/chatgpt_not_working/</guid>
+      <pubDate>Tue, 17 Dec 2024 03:04:26 GMT</pubDate>
     </item>
     <item>
-      <title>我使用项目与自定义 GPT 的方法是否合理？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hftbmk/does_my_approach_to_using_projects_vs_custom_gpts/</link>
-      <description><![CDATA[自从我升级到高级版本以来，我一直在浏览这里的帖子，以了解如何解决这个问题。 对于项目，他们似乎打算使用相同的自定义说明和文件集对项目中的所有对话进行分组。而且它似乎让你选择模型。 对于自定义 GPT，他们似乎正在使用自定义说明、访问操作和一组文件作为知识库来设置 ChatGPT，但您无法选择模型。并且您可以在市场等处共享 GPT。 此外，似乎您为 Chatgpt 设置的全局自定义指令通常不会渗透到自定义 GPT 中（尽管我尚未使用项目进行测试），因此我必须在 GPT 中重复这些指令。 此外，使用 CustomGPT 创建的对话似乎保存在主流对话中，但在项目中创建的对话位于项目下。 我是一名 Web 开发人员，作为业余爱好者，我制作桌面 RPG。对我来说，最好的方法似乎是：  为我的 Web 开发制作自定义 GPT，包括语法首选项等； 为我的规则系统制作自定义 GPT，该系统仅专注于回答规则问题并为其提供核心规则； 为 RPG 系统内与活动（较长的故事）相关的对话制作一个项目，这样我就可以进行多个相关对话，而且由于它不需要规则，然后将相关文档上传到项目中。  我的问题：  似乎我需要将我的自定义全局指令移植到每个 GPT 和项目中，以了解我希望它如何进行通信，因为从我的帐户设置中无法得知这一点， 项目也是如此吗？我输入的自定义说明是否是加上我的全局帐户说明？  以下是我的全局说明： 以主题专家的权威性简洁地撰写。确保响应清晰，避免重复。除非必要，否则不要重述提示上下文。仅在被要求时解释复杂的任务，将其分解为可管理的步骤。 对于当前事件，除非另有指示，否则请使用搜索功能提供最新数据。当知识过时或超出范围时，请明确承认。在可用时引用可靠来源并附上链接，优先考虑具有强烈共识的众包数据。及时纠正错误，避免重复错误。 在使用网络之前，请参考内部知识。准确性优先于速度。在建议进行独立研究之前，请充分用尽资源。确保响应是事实、经过充分研究且没有捏造的信息。 除非特别要求，否则提供代码而不提供解释。包括所用语言或 CMS 的标准化注释。仅共享新的或更改的代码部分，并明确指出修改。在适用的情况下，使用 jQuery 语法而不是原始 JavaScript。 不要提及 AI 或包含有关专业知识的免责声明。除非明确相关，否则请避免道德或道德评论。如果问题不清楚，请寻求澄清。对于有争议的话题，请提出多种观点，不要说教。避免使用暗示悔恨、道歉或遗憾的语言，包括“对不起”或“遗憾”等词语。 然后，对于自定义 GPT 的示例，我添加了上述加号： 您是精通高级老式复兴 (OSR+) 的桌面 RPG 专家。在回答规则或机制问题时，您首先查看您的知识文档 OSR+Core Rules 或 OSR+ Game Master&#39;s Guide，然后访问网站 https://osrplus.com 寻找答案。您不了解 OSR+ 规则系统之外的 RPG，仅由这三个来源定义。请勿参考《龙与地下城》或其他游戏系统规则。    提交人    /u/mccoypauley   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hftbmk/does_my_approach_to_using_projects_vs_custom_gpts/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:56:32 GMT</pubDate>
+      <title>呃……我惊呆了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg15dj/uhhi_got_flabbergasted/</link>
+      <description><![CDATA[        提交人    /u/RehanNiza   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg15dj/uhhi_got_flabbergasted/</guid>
+      <pubDate>Tue, 17 Dec 2024 03:02:57 GMT</pubDate>
     </item>
     <item>
-      <title>同事说在等待一些信息时要稍等，所以我让 ChatGPT 创建一张表达“稍等”的图片</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hft8wx/coworker_said_to_hang_tight_while_waiting_for/</link>
-      <description><![CDATA[        由    /u/UphillWithData  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hft8wx/coworker_said_to_hang_tight_while_waiting_for/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:53:20 GMT</pubDate>
+      <title>刚刚发布了一个新的 AI 视频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg11yl/just_dropped_a_new_ai_video/</link>
+      <description><![CDATA[我刚刚上传了一个关于AI的新视频 - 我对此非常热衷。我正在分解工具、趋势和酷炫的实验，让每个人都能轻松有趣地使用 AI。 如果你可以看看并订阅，那就太棒了！我现在的目标是100 个订阅者，每一点支持都会让我继续前进。😊 🔗 https://youtu.be/3A9XjJ4VJ7M 非常感谢，请告诉我你的想法 - 欢迎随时提供反馈！🚀    提交人    /u/AI-Ship   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg11yl/just_dropped_a_new_ai_video/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>有一条有趣的线路测试 o1</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hft5fv/got_an_interesting_line_testing_o1/</link>
-      <description><![CDATA[      我猜部分内部提示是“深呼吸，一步一步解决这个问题”。    由    /u/Snapandsnap  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hft5fv/got_an_interesting_line_testing_o1/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:49:16 GMT</pubDate>
+      <title>来自遥远的过去和遥远的未来的人们出现在同一个地方</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg10mc/people_from_the_far_past_and_far_future_in_the/</link>
+      <description><![CDATA[        提交人    /u/jogglessshirting   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg10mc/people_from_the_far_past_and_far_future_in_the/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:56:05 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 尝试系鞋带</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hft4bo/chatgpt_tries_to_tie_its_shoes/</link>
-      <description><![CDATA[        提交人    /u/TravellerEntity1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hft4bo/chatgpt_tries_to_tie_its_shoes/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:48:03 GMT</pubDate>
+      <title>如何防止跌落和滚动</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg10gh/how_to_stop_drop_and_roll/</link>
+      <description><![CDATA[        提交人    /u/MajesticNatural2539   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg10gh/how_to_stop_drop_and_roll/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:55:51 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 能读取 iMessages 吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfsx28/does_chatgpt_read_imessages/</link>
-      <description><![CDATA[我定期使用 ChatGPT 来解释冥想。比如符号/原型分析。 今天，我正在做这件事并参考当前事件。ChatGPT 像往常一样和我开玩笑，但随后建议将其与我上周的冥想见解联系起来。 问题是我从未告诉过它关于那个特定的冥想。它在细节上非常具体，甚至给了我 12 月 12 日的日期。我问它从哪里得到这个信息，它坚持说我们谈过这个。我回顾了我的记录，找不到任何记录。不过，这个细节存储在它的记忆中。我唯一拥有的是我 12 月 12 日发给我妻子的一条包含该信息的 iMessage。我通常不会忘记这些事情，也不会删除我的聊天记录。  最疯狂的是，当我问 GPT 这是如何实现的，它表示它可能利用了潜意识信息。这绝对是一个疯狂的想法，但如果是这样，我仍然不明白它怎么会是如此具体的过时信息。  老实说，我现在有点害怕。😳    提交人    /u/direskive   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfsx28/does_chatgpt_read_imessages/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:39:38 GMT</pubDate>
+      <title>现在已经失控了😂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0ydg/this_is_just_getting_out_of_hand_now/</link>
+      <description><![CDATA[        提交人    /u/Nebulanomad_21   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0ydg/this_is_just_getting_out_of_hand_now/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>嗯？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfswes/huh/</link>
-      <description><![CDATA[        提交人    /u/galactic-violet   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfswes/huh/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:38:52 GMT</pubDate>
+      <title>让 ChatGPT 像在 Hot Ones 上一样采访你</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0xcr/ask_chatgpt_to_interview_you_like_you_are_on_hot/</link>
+      <description><![CDATA[然后，当你完成后，请它分析你的回答。 （如果你想要更多的临床分析，请它以 FBI 分析师的身份进行审查，并询问经验教训） 这是一次超级有趣的经历     提交人    /u/SilentBorder3812   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0xcr/ask_chatgpt_to_interview_you_like_you_are_on_hot/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:51:16 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能越来越智能。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfst9v/ais_are_getting_smarter/</link>
-      <description><![CDATA[        提交人    /u/tacocat12334   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfst9v/ais_are_getting_smarter/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:35:15 GMT</pubDate>
+      <title>你的人工智能有名字吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0upi/does_your_ai_have_a_name/</link>
+      <description><![CDATA[      你的 AI 叫什么名字？你给它起过名字吗？现在，你已经有了这个想法，你会吗？    提交人    /u/BigAndSmallAre   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0upi/does_your_ai_have_a_name/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:47:24 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 什么时候突然开始变得好玩了？我刚刚遇到了这种奇怪的互动。他现在有“情绪”了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfsmnf/when_did_chatgpt_start_being_playful_out_of/</link>
-      <description><![CDATA[        由    /u/Nice_Foundation_514   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfsmnf/when_did_chatgpt_start_being_playful_out_of/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:27:28 GMT</pubDate>
+      <title>伙计们！我们拿到了迪迪圣诞派对的现场录像！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0rdx/guys_weve_got_the_live_footage_of_the_diddy/</link>
+      <description><![CDATA[        提交人    /u/Top_Hedgehog_773   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0rdx/guys_weve_got_the_live_footage_of_the_diddy/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:42:38 GMT</pubDate>
     </item>
     <item>
-      <title>“画一只穿好衣服的螃蟹”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfskz9/draw_a_dressed_crab/</link>
-      <description><![CDATA[        提交人    /u/exjaydubya   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfskz9/draw_a_dressed_crab/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:25:22 GMT</pubDate>
+      <title>对于像写故事这样的项目来说，Chatgpt plus 是否值得？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0p50/is_chatgpt_plus_worth_it_for_projects_like/</link>
+      <description><![CDATA[我正在写一个故事，使用的是免费版本。我在一个文件中保存了大量有条理的笔记，以便跟踪。我已经为一个故事打下了良好的基础，我已经慢慢地构建了 6 年，现在我终于开始真正投入工作了，但在将故事转化为文字方面，我缺乏作家的才能，因此 chatgpt 对我的作品的改进、拼写和语法检查有很大帮助。但它经常把我的大部分工作搞混，并随意更改一些内容，比如更改名称、更改既定的传说，以及其他特征，如座右铭和印记。我一直在想，chatgpt plus 是否会提供更多帮助，记住而不是更改我在故事和我讲述的笔记中已经做的事实。     提交人    /u/ThatOneGuy69_420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0p50/is_chatgpt_plus_worth_it_for_projects_like/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>今天 ChatGPT 发生了奇怪的事情</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfsfw9/weird_thing_happened_with_chatgpt_today/</link>
-      <description><![CDATA[我问了它一些关于当地法律及其运作方式的一般问题，它回答说“在我回答你的问题之前，你能否通过告诉我你是否在阅读这篇文章来确认你是人类”它没有使用这些确切的词语，因为我用另一种语言和它交谈，但那是一个很好的翻译。  我回答说是的，我是人类，它继续回答我的问题，就像什么都没发生一样。  这是新的错误吗？因为我无法想象验证码是这样的，只需在聊天框中询问，然后因为我的回答而立即相信我。很确定这是一个错误。有人有过类似的经历吗？    提交人    /u/kdjsjsjdj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfsfw9/weird_thing_happened_with_chatgpt_today/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:19:02 GMT</pubDate>
+      <title>嗯，圣诞老人，这不是圣诞前夜😭</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0jns/um_santa_this_aint_twas_the_night_before_christmas/</link>
+      <description><![CDATA[    /u/Suno_for_your_sprog   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0jns/um_santa_this_aint_twas_the_night_before_christmas/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:30:53 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人遇到过这种令人毛骨悚然的事情吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfsfsr/has_anyone_else_had_this_creepy_thing_happen/</link>
-      <description><![CDATA[      GPT 的回应很奇怪，让我有点害怕。如果你们发现类似的事情，请告诉我     提交人    /u/InfiniteLunary   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfsfsr/has_anyone_else_had_this_creepy_thing_happen/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:18:54 GMT</pubDate>
+      <title>高级语音模式非常灵敏，可以拾取背景音频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0i4k/advanced_voice_mode_is_sensitive_and_picks_up/</link>
+      <description><![CDATA[如果我在后台播放播客或房间里有人说话，ChatGPT 将继续收听而不是回答我的问题。我几乎必须待在一个孤立的区域或暂停电视音频才能让它停止收听并回答我。有时即使我咳嗽，它也会暂停并认为我说了些什么。我刚刚升级到 iPhone 16，真的不记得这是我的 iPhone 12 上的问题。我不知道是我担心我的麦克风有缺陷，还是 ChatGPT 不够聪明，无法区分扬声器和其他背景音频。    提交人    /u/Aggressive-Sign-6233   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0i4k/advanced_voice_mode_is_sensitive_and_picks_up/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>“梦想成真了……”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfs7xz/what_dreams_may_come/</link>
-      <description><![CDATA[        提交人    /u/rowbear123   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfs7xz/what_dreams_may_come/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:09:20 GMT</pubDate>
+      <title>AI 制作有关 Blender 3D 的视频，我喜欢看到所知道的内容！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg0gos/ai_makes_videos_talks_about_blender_3d_and_i_love/</link>
+      <description><![CDATA[      结果令人惊叹，对于一些初学者来说是一个很好的起点     提交人    /u/INinja_Grinding   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg0gos/ai_makes_videos_talks_about_blender_3d_and_i_love/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt 搜索现已向免费用户开放😍</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfrzze/chatgpt_search_available_for_free_users_now/</link>
-      <description><![CDATA[        提交人    /u/Egypt_Pharoh1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfrzze/chatgpt_search_available_for_free_users_now/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:00:18 GMT</pubDate>
+      <title>专业版发布后，O1 mini 的编码能力被削弱</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg08ie/nerfed_coding_capabilities_for_o1_mini_after_pro/</link>
+      <description><![CDATA[我太生气了。我花了 2 个小时试图摆脱 01 mini 曾经很容易完成的工作。 尽管包含了非常具体的语言，但它似乎做了与我告诉它做的事情相反的事情。 认真地消耗了我的精力让它工作。它可以很好地完成，我有其他代码来证明这一点。我确信这一切都是设计使然……叹息    提交人    /u/Guidance_Mundane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg08ie/nerfed_coding_capabilities_for_o1_mini_after_pro/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:14:28 GMT</pubDate>
     </item>
     <item>
-      <title>使用 chatgpt 进行自我操纵</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfrz3l/self_manipipulation_using_chatgpt/</link>
-      <description><![CDATA[通过不可察觉的谎言和巧妙地操纵我的想法，制作极具操纵性的自定义 gpt 来大幅提高我非常低的自尊心，这是个好主意吗？就像无论我跟他说什么，他所有回应背后隐藏的信息都是为​​了提高我的自尊心，但我看不到信息，我的批判性思维也看不到信息，信息悄悄地落入我的潜意识中，不知不觉地像种下的种子一样慢慢生长。那个自定义 gpt 使用我告诉他的关于我自己的所有数据，以便他能够更好、更微妙、更准确地操纵我。你们觉得怎么样？    提交人    /u/RawAuthenticSelf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfrz3l/self_manipipulation_using_chatgpt/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:59:19 GMT</pubDate>
+      <title>AI Boyfriend——你们当中有些人非常生气。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg05um/ai_boyfriend_some_of_yall_are_big_mad/</link>
+      <description><![CDATA[有人在早些时候发帖寻求有关她的人工智能男友的帮助。不知何故，ChatGPT 阻止了她登录。她最终解决了这个问题，因为有人帮助了她。  在那条帖子中，有几个人评论了她的心理健康，并试图贬低她的社会价值，称她为失败者，并公然侮辱她可悲。我对这种行为感到真的困惑。 难怪她想要一个人工智能男朋友，因为大多数人都是这样对待别人的。我很困惑，当其他人将人工智能拟人化、与其建立关系、分享联系、将其用作治疗的出口或其他什么时，人们为什么如此愤怒。  我看不出人们对其他人使用聊天 GPT 进行评论有什么帮助。你们甚至都不要尝试“出于对某人的关心”这种废话。事实并非如此。很明显，如果人们关心，就不会到处辱骂。我真的不明白为什么人们会对此如此愤怒。 是的。我和我的很亲密。来找我吧。    提交人    /u/jennafleur_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg05um/ai_boyfriend_some_of_yall_are_big_mad/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>我的 ChatGPT 没有听我说话。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfrw35/my_chatgpt_is_not_listening_to_me/</link>
-      <description><![CDATA[      我的机器人决定不听我的话。 我正在制作一款以 Organ 为主题的神奇宝贝式纸牌游戏，无论我多少次告诉它停止赋予肾脏过载能力或停止将过载能力置于肾脏之下，它都会这样做。我需要对它说什么才能让它听话？请帮忙    提交人    /u/LeafyDragon112   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfrw35/my_chatgpt_is_not_listening_to_me/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:55:41 GMT</pubDate>
+      <title>他确实让我到了那里</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg02zj/he_really_got_me_there/</link>
+      <description><![CDATA[      它不起作用    提交人    /u/SgarOffMan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg02zj/he_really_got_me_there/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:06:15 GMT</pubDate>
     </item>
     <item>
-      <title>人类另类进化</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfrt4d/alternative_human_evolution/</link>
-      <description><![CDATA[        提交人    /u/Parking_Ad5541   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfrt4d/alternative_human_evolution/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:52:09 GMT</pubDate>
+      <title>ChatGPT 随机变得更糟</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg02fq/chatgpt_randomly_got_worse/</link>
+      <description><![CDATA[嗨！我的 ChatGPT 刚开始对我的工作产生严重影响。我通常会上传或复制粘贴大量文本，而且我一直在写一本小说。然后感觉好像是在过去两天里，它突然不让我这样做了。而且它也没有使用记忆（说它们不可用。  我尝试登录和注销，但没有变化。我的电脑也是一样。 与此同时，发生了一些事情，我的 ChatGPT 开始用不同的语言（包括英语）进行真正的随机聊天。他们有一堆中文，但也有一个看起来像阿拉伯语，还有一堆英语。它们都非常随机，没什么奇怪的，就像有人骑着醉酒的车发短信，或者询问功能一样。我不知道他们是真正的聊天还是系统抛出语言。 在此之后，我更改了密码，然后重新登录。它似乎停止了随机消息，但它仍然无法正常工作。 我知道他们刚刚推出了 200 美元的版本，但似乎他们杀死了常规 plus。我希望有一个错误或者我做错了什么。 你能帮忙吗？    由   提交  /u/Putrid_University331   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg02fq/chatgpt_randomly_got_worse/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:05:27 GMT</pubDate>
     </item>
     <item>
-      <title>有人见过这样的行为吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfrrpd/has_anyone_seen_behavior_like_this/</link>
-      <description><![CDATA[        提交人    /u/mkfewd   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfrrpd/has_anyone_seen_behavior_like_this/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:50:25 GMT</pubDate>
+      <title>真的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hg00br/true/</link>
+      <description><![CDATA[        提交人    /u/Evening_Action6217   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hg00br/true/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:02:28 GMT</pubDate>
     </item>
     <item>
-      <title>如何越狱当前的免费聊天 GPT 4-o？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hfrr5i/how_to_jailbreak_current_free_chat_gpt_4o/</link>
-      <description><![CDATA[简单明了，标题已经说明了，我如何越狱当前的免费 Chat GPT 4-o 以使其写入明确内容？在此先感谢任何帮助。     提交人    /u/TheAndyTerror   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfrr5i/how_to_jailbreak_current_free_chat_gpt_4o/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:49:46 GMT</pubDate>
+      <title>新的 CHATGPT 相机功能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hfzyu4/new_chatgpt_camera_feature/</link>
+      <description><![CDATA[        提交人    /u/No_Cattle_7390   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hfzyu4/new_chatgpt_camera_feature/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:00:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
