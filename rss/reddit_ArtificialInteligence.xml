@@ -3,8 +3,8 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 17 Dec 2024 12:04:23 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Tue, 17 Dec 2024 15:01:36 GMT</lastBuildDate>
     <item>
       <title>文字图像</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg8qcj/text_image/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>AI 模型和特定任务模块互连</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg5zf6/ai_models_and_taskspecific_modules_interconnect/</link>
-      <description><![CDATA[大家好！我有个问题。有些 AI 模型的作用类似于 LLM，但是当您要求它们提供图像时，它们会生成一个（如果我没记错的话，它们被称为变换器）。那么，为什么可以（或不能）创建单独的模块，例如用于数学表达式评估或加密/解密等。例如，我有以下 base64 加密字符串：V2hhdCBkaWQgeW91IGV4cGVjdCB0byBzZWUgaGVyZT8K。我对 AI 说类似 您能解密那个 base64 编码的字符串吗？&lt;string&gt; 的话，它会转到单独的模块，该模块执行解密并返回解密后的字符串。抱歉解释得不好，可能出错，我的英语有点差。    提交人    /u/HyperWinX   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我有个问题。有些 AI 模型的作用类似于 LLM，但是当您要求它们提供图像时，它们会生成一个（如果我没记错的话，它们被称为变换器）。那么，为什么可以（或不能）创建单独的模块，例如用于数学表达式评估或加密/解密等。例如，我有以下 base64 加密字符串：V2hhdCBkaWQgeW91IGV4cGVjdCB0byBzZWUgaGVyZT8K。我对 AI 说类似 您能解密那个 base64 编码的字符串吗？&lt;string&gt; 的话，它会转到单独的模块，该模块执行解密并返回解密后的字符串。抱歉我的解释不好，可能存在错误，我的英语有点差。    提交人    /u/HyperWinX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hg5zf6/ai_models_and_taskspecific_modules_interconnect/</guid>
       <pubDate>Tue, 17 Dec 2024 08:06:59 GMT</pubDate>
     </item>
@@ -83,32 +83,25 @@
       <pubDate>Tue, 17 Dec 2024 03:19:39 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能取代工作岗位会引发一场革命吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg18g4/could_the_displacement_of_jobs_caused_by_ai_lead/</link>
-      <description><![CDATA[我一直听说 20%、30% 甚至 50% 的工作将被人工智能取代，因为少数人可以更有效地完成这些工作。这会导致暴力革命和反抗吗？我在这篇文章中使用人工智能来自动纠正语法错误，因为我的英语不是很好，而且我无法想象 10 年前会发生这种情况。但我不知道这有多准确。    提交人    /u/Consistent-Key-1566   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hg18g4/could_the_displacement_of_jobs_caused_by_ai_lead/</guid>
-      <pubDate>Tue, 17 Dec 2024 03:07:18 GMT</pubDate>
-    </item>
-    <item>
       <title>关于 LessWrong 和其他“理性主义者”类型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg16xj/about_lesswrong_and_other_rationalist_types/</link>
-      <description><![CDATA[老实说，我不知道这里是不是问这个问题的好地方，但最近我看到一群人说话很奇怪，似乎都与博客 LessWrong 和其他具有类似思维过程的群体有关。他们似乎都在试图在生活的各个方面变得完全理性。这一运动似乎也与有效利他主义有关，尽管我看到它主要与人工智能和 AGI 有关。除了与人工智能相关的观点外，我还看到很多理论和想法在其他领域被普遍复制，只是使用不同的术语，而且奇怪的是种族科学。这一切似乎都相当牵强，但我看到有人断言这一运动在科技圈非常盛行，世界上一些最有影响力的人直接参与或受其影响。鉴于似乎大多数参与其中的人都对人工智能感兴趣或关注人工智能，我想知道这里是否有人在现实生活中接触过这样的人，或者知道持有这些观点的人有多普遍/有影响力？     由    /u/Its-goodtobetheking  提交  [链接] [评论]]]></description>
+      <description><![CDATA[老实说，我不知道这里是不是提问的好地方，但最近我看到一群人说话很奇怪，似乎都与博客 LessWrong 和其他具有类似思维过程的群体有关。他们似乎都在试图在生活的各个方面变得完全理性。这一运动似乎也与有效利他主义有关，尽管我看到它主要与人工智能和 AGI 有关。除了与人工智能相关的观点外，我还看到很多理论和想法在其他领域被普遍复制，只是使用不同的术语，而且奇怪的是还涉及种族科学。这一切似乎都相当牵强，但我看到有人断言这一运动在科技圈非常盛行，世界上一些最有影响力的人直接参与或受其影响。鉴于似乎大多数参与其中的人都对人工智能感兴趣或关注人工智能，我想知道这里是否有人在现实生活中接触过这样的人，或者知道持有这些观点的人有多普遍/有影响力？     由    /u/Its-goodtobetheking  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hg16xj/about_lesswrong_and_other_rationalist_types/</guid>
       <pubDate>Tue, 17 Dec 2024 03:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何防止人工智能偏见和歧视？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfynua/how_can_we_prevent_ai_bias_and_discrimination/</link>
-      <description><![CDATA[可以采取哪些措施来确保人工智能算法公平、无偏见，并且不会延续有害的刻板印象？    提交人    /u/Imagine-your-success   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hfynua/how_can_we_prevent_ai_bias_and_discrimination/</guid>
-      <pubDate>Tue, 17 Dec 2024 00:54:53 GMT</pubDate>
-    </item>
-    <item>
       <title>库尔特·冯内古特 (Kurt Vonegut Jr.) 在 1959 年是否对人工智能的最终工作方式做出过描述？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfu4j5/did_kurt_vonegut_jr_in_1959_offer_up_a/</link>
-      <description><![CDATA[我正在阅读库尔特·冯内古特的《泰坦的塞壬》，偶然发现了这句话，说实话，这句话似乎与 1959 年你能描述的 AI 的工作方式非常接近： “它就像一朵云，每个人都给它喷了一点薄雾，然后这朵云就替大家做了所有繁重的思考。我不是说真的有云。我只是说它就像那样。如果你不明白我在说什么，Skip，试图向你解释是没有意义的。” 这对其他人来说是否绝对不可思议？天哪，里面有云这个词。    提交人    /u/iamtherealandy   [链接] [评论]]]></description>
+      <description><![CDATA[我正在阅读库尔特·冯内古特的《泰坦的塞壬》，偶然发现了这句话，说实话，这句话似乎与 1959 年你能描述的 AI 的工作方式非常接近： “它就像一朵云，每个人都给它喷了一点薄雾，然后这朵云就替大家做了所有繁重的思考。我不是说真的有一朵云。我只是说它就像那样。如果你不明白我在说什么，Skip，试图向你解释它是没有意义的。” 这对其他人来说是否绝对不可思议？天哪，里面有云这个词。    提交人    /u/iamtherealandy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hfu4j5/did_kurt_vonegut_jr_in_1959_offer_up_a/</guid>
       <pubDate>Mon, 16 Dec 2024 21:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有大规模人物角色数据工程的对话语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hft97r/dialogue_language_model_with_largescale_persona/</link>
+      <description><![CDATA[标题：&quot;具有大规模人物角色数据工程的对话语言模型&quot; 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为&quot;具有大规模人物角色数据工程的对话语言模型&quot;，作者是 Mengze Hong、Chen Zhang、Chaotao Chen、Rongzhong Lian 和 Di Jiang。 这篇研究论文解决了在开放域对话系统中保持人物角色一致性的挑战，这是增强社交聊天机器人和虚拟助手等应用程序的用户体验的关键因素。研究人员介绍了 PPDS，这是一个人物角色对话系统，利用新构建的大规模人物角色对话数据集进行广泛的生成性预训练。他们的方法旨在加强人工智能模型生成的响应的角色一致性。 以下是本文的一些要点和发现：  角色提取模型：作者提出了一种新颖的角色提取模型，从现有对话语料库中生成庞大而多样化的角色对话数据集，增强了当前公共数据集的规模和多样性。 角色增强技术：为了解决数据集内角色表示的偏差，引入了一种角色增强方法。这涉及在对话上下文中添加额外的、不相关的角色，因此要求模型根据上下文辨别相关角色。 PPDS 的卓越性能：通过定量和人工评估，与 DialoGPT 和 PPDS-woP（一种没有使用角色数据训练的变体）等各种基线相比，PPDS 表现出了卓越的角色一致性和响应质量。 大规模预训练优势：该研究强调了在角色对话数据上进行大规模预训练的显著优势，这显着提高了模型的角色一致性和整体对话质量。 工业应用意义：所使用的方法，包括使用 T5 和 BERT 等具有成本效益的模型，不仅有望增强对话系统，而且还为工业部署提出了可行的途径。  这项工作的良好结果值得进一步探索使用经济高效且可扩展的方法，将角色一致性增强功能集成到对话系统中。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hft97r/dialogue_language_model_with_largescale_persona/</guid>
+      <pubDate>Mon, 16 Dec 2024 20:53:43 GMT</pubDate>
     </item>
     <item>
       <title>具有基本依赖项的本地 RAG</title>
@@ -120,14 +113,21 @@
     <item>
       <title>AI TEXT 有哪些免费的 API 选项？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfqw7g/what_are_all_the_free_api_options_available_out/</link>
-      <description><![CDATA[我知道 Gemini AI 提供免费套餐，而 chatgpt (openAI) 不提供免费套餐。 我想知道您可能知道的所有其他选项？我可能错过了什么。当然还有您使用它们的经验。 谢谢    提交人    /u/Unreal_777   [link] [评论]]]></description>
+      <description><![CDATA[我知道 Gemini AI 提供免费套餐，而 chatgpt (openAI) 则不提供免费套餐。 我想知道您可能知道的所有其他选项？我可能错过了什么。当然还有您使用它们的经验。 谢谢    提交人    /u/Unreal_777   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hfqw7g/what_are_all_the_free_api_options_available_out/</guid>
       <pubDate>Mon, 16 Dec 2024 19:13:38 GMT</pubDate>
     </item>
     <item>
+      <title>自主人工智能代理聊天</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfoqp2/autonomous_ai_agent_chat/</link>
+      <description><![CDATA[是否有任何开源项目允许您创建代理/角色，然后让它们互相聊天？更好的是混合搭配 AI LLM，比如让 gpt4o 与 Claude 交谈等？    提交人    /u/cluck0matic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hfoqp2/autonomous_ai_agent_chat/</guid>
+      <pubDate>Mon, 16 Dec 2024 17:44:29 GMT</pubDate>
+    </item>
+    <item>
       <title>我希望人们了解关于人工智能的一件事</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfj3ox/the_one_thing_i_wish_people_understood_about_ai/</link>
-      <description><![CDATA[想象一下，你有一个超级智能的机器人。人们对这些机器人非常兴奋，他们会说：“这个机器人可以写故事、修理玩具或帮你做作业！” 但有时，这些机器人并不能很好地完成这些工作。例如，如果机器人写了一个故事，它可能看起来不错，但当你读到它时却没有多大意义。现在，一些公司像魔术一样炫耀这些机器人，而有些公司仍然担心人工智能会取代工作。 但事实是，这些机器人更擅长于你不常见到的小而有用的任务。比如，它们可以在你忙着玩耍的时候安静地清理你的玩具箱，或者它们可以在不需要你帮助的情况下修理你坏掉的蜡笔。他们并非样样精通，但他们确实擅长让你的生活更轻松的小事。 真正令人兴奋的应该是那些在幕后提供帮助的小事，有点像有一个秘密帮手，他不炫耀，但可以让一切变得更顺利、更容易。    提交人    /u/karterbrad12   [link] [评论]]]></description>
+      <description><![CDATA[想象一下，你有一个超级智能的机器人。人们对这些机器人非常兴奋，他们会说：“这个机器人可以写故事、修理玩具或帮你做作业！” 但有时，这些机器人并不能很好地完成这些工作。例如，如果机器人写了一个故事，它可能看起来不错，但当你读的时候却没有多大意义。现在，一些公司像魔术一样炫耀这些机器人，而有些公司仍然担心人工智能会取代工作。 但事实是，这些机器人更擅长于你不常见到的小而有用的任务。比如，它们可以在你忙着玩耍的时候安静地清理你的玩具箱，或者它们可以在不需要你帮助的情况下修理你坏掉的蜡笔。他们并非样样精通，但他们确实擅长让你的生活更轻松的小事。 真正令人兴奋的应该是那些在幕后提供帮助的小事，有点像有一个秘密帮手，他不炫耀，但可以让一切变得更顺利、更容易。    提交人    /u/karterbrad12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hfj3ox/the_one_thing_i_wish_people_understood_about_ai/</guid>
       <pubDate>Mon, 16 Dec 2024 13:30:04 GMT</pubDate>
     </item>

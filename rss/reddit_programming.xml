@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Dec 2024 12:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 15:02:02 GMT</lastBuildDate>
+    <item>
+      <title>DeceptionAds 通过 3,000 个网站和虚假 CAPTCHA 页面每天提供 100 多万次展示</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgc3ny/deceptionads_delivers_1m_daily_impressions_via/</link>
+      <description><![CDATA[  由    /u/vrebtimaj  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgc3ny/deceptionads_delivers_1m_daily_impressions_via/</guid>
+      <pubDate>Tue, 17 Dec 2024 14:43:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>最小 wasi_snapshot_preview1，不包含预打开或文件系统读/写功能，适用于 Deno、Node.js、Bun</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgb9yv/minimal_wasi_snapshot_preview1_without_preopens/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgb9yv/minimal_wasi_snapshot_preview1_without_preopens/</guid>
+      <pubDate>Tue, 17 Dec 2024 14:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过可塑性开发革新软件 • Tudor Girba 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgaolm/revolutionizing_software_with_moldable/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgaolm/revolutionizing_software_with_moldable/</guid>
+      <pubDate>Tue, 17 Dec 2024 13:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 项目中的特殊属性</title>
+      <link>https://www.reddit.com/r/programming/comments/1hganc3/special_properties_in_net_projects/</link>
+      <description><![CDATA[  由    /u/macrohard_certified  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hganc3/special_properties_in_net_projects/</guid>
+      <pubDate>Tue, 17 Dec 2024 13:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>三年后，我失败了。以下是我创业公司的所有代码。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hg9mu3/after_3_years_i_failed_heres_all_my_startups_code/</link>
+      <description><![CDATA[  由    /u/_srbhr_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hg9mu3/after_3_years_i_failed_heres_all_my_startups_code/</guid>
+      <pubDate>Tue, 17 Dec 2024 12:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于编写可读代码的随机意见和其他吐槽的另一份清单</title>
+      <link>https://www.reddit.com/r/programming/comments/1hg9bh7/yet_another_list_of_random_opinions_on_writing/</link>
+      <description><![CDATA[  由    /u/lucavallin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hg9bh7/yet_another_list_of_random_opinions_on_writing/</guid>
+      <pubDate>Tue, 17 Dec 2024 12:13:20 GMT</pubDate>
+    </item>
     <item>
       <title>[PSA：npm 已损坏] - AWS EC2：Ubuntu npm 警告 tar TAR_BAD_ARCHIVE：无法识别的存档格式</title>
       <link>https://www.reddit.com/r/programming/comments/1hg8iyv/psa_npm_is_broken_aws_ec2_ubuntu_npm_warn_tar_tar/</link>
@@ -62,13 +104,6 @@
       <pubDate>Tue, 17 Dec 2024 06:43:13 GMT</pubDate>
     </item>
     <item>
-      <title>Nintendo DS 上的《Adventure of Code》</title>
-      <link>https://www.reddit.com/r/programming/comments/1hg4a4u/advent_of_code_on_the_nintendo_ds/</link>
-      <description><![CDATA[作者讲解了 Nitro（DS 代号）的硬件和软件架构，包括它的两个 ARM 处理器、图形系统和内存布局，然后介绍了设置开发环境、创建 C 运行时、配置内存保护和缓存的过程，最后实现了一个基本的图形渲染管道来显示第一个 Advent of Code 问题的解决方案。    提交人    /u/NXGZ   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hg4a4u/advent_of_code_on_the_nintendo_ds/</guid>
-      <pubDate>Tue, 17 Dec 2024 06:05:02 GMT</pubDate>
-    </item>
-    <item>
       <title>可乐和二郎</title>
       <link>https://www.reddit.com/r/programming/comments/1hg3qbj/colas_en_erlang/</link>
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/swdevtest  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hftgwv/c_designer_eric_lippert_on_technical_blogging/</guid>
       <pubDate>Mon, 16 Dec 2024 21:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>经典 3D 视频游戏阴影技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1hftg3n/classic_3d_videogame_shadow_techniques/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hftg3n/classic_3d_videogame_shadow_techniques/</guid>
-      <pubDate>Mon, 16 Dec 2024 21:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建了 Tailwind CSS 背景和文本生成器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hftdgf/we_have_built_a_tailwind_css_background_and_text/</link>
-      <description><![CDATA[  由    /u/Michael_andreuzza  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hftdgf/we_have_built_a_tailwind_css_background_and_text/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:58:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>毒害生成式人工智能：Nightshade 的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1hfsxpn/poisoning_generative_ai_how_nightshade_works/</link>
-      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hfsxpn/poisoning_generative_ai_how_nightshade_works/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Java 中的 ScheduledExecutorService 构建计时器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hfs0yo/building_a_timer_using_scheduledexecutorservice/</link>
-      <description><![CDATA[  由    /u/jupiter_traveller  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hfs0yo/building_a_timer_using_scheduledexecutorservice/</guid>
-      <pubDate>Mon, 16 Dec 2024 20:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能安全从这里开始：重新审视基本原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1hfrh4b/ai_security_starts_here_revisiting_the/</link>
-      <description><![CDATA[  由    /u/zerolayers  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hfrh4b/ai_security_starts_here_revisiting_the/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:37:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
