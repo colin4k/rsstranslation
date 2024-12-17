@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 17 Dec 2024 03:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:02:08 GMT</lastBuildDate>
+    <item>
+      <title>有可能后退最终会成为前进的方向吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg3kz2/is_it_possible_that_going_backwards_may/</link>
+      <description><![CDATA[随着关于 AGI 的讨论越来越多，我认为提出这样一个事实会很有趣：我们必须限制神经网络的泛化能力，才能让它们发挥出如此出色的性能。我不知道我是否在向信徒布道，但多层感知器（最初于 1958 年提出）在理论上能够完成当今最先进的架构所能完成的一切。原因在于，根据通用近似定理，足够大且经过适当训练的 MLP 可以将任何连续函数近似到任意精度。不幸的是，这并没有说明通过训练找到这些表示有多么容易——我们仅限于解决较小的问题，因为对于 NLP 和计算机视觉之类的东西来说，计算要求是天文数字。 当今的深度学习架构——用于图像的卷积神经网络、用于序列的循环或基于变换器的模型、用于图形数据的图形神经网络——在很大程度上受到这些计算限制和对效率的需求的影响。我们有意将某些“结构先验”嵌入到模型中，以降低复杂性，强制参数共享，并使训练易于处理。换句话说，我们付出了巨大的努力来理解需要学习的特定结构，以便有效地处理特定问题，而不是让网络自己学习，而是告诉它们去哪里看（可以这么说）。从模型训练的角度来看，我们不一定能提高神经网络的泛化能力，我们只是减少了它们可以学习的函数范围，以提高预定义任务的性能。 如果我们可以随意训练庞大的全连接网络 (MLP)，那么对这些人工偏差的需求就会减少。我们不必设计复杂的架构来处理视觉或语言任务，至少在原则上，我们可以简单地强行构建一个过度参数化的全连接网络，只要有足够的数据，它就会发现自己的内部表示 - 无需卷积、无需注意机制、无需手动调整结构。这可能会导致一种架构融合，其中模型在形式上变得更简单，而复杂性纯粹来自规模和数据。 换句话说，我们可以通过“向后移动”来前进：提高 MLP 的计算效率和可扩展性并突破我们目前的限制。通过这样做，我们消除了（或更实际地减少）对专门架构的需求 - 以及对训练神经网络进行仔细指导以完成它们现在所做的事情（以及我们尚未创建专门架构的事情）的需求。但真正的问题是：大规模训练完全连接的网络是否可能，或者这是否像那篇关于曲速驱动的物理论文一样在理论上是可能的 - 即使你拥有为其提供动力所需的奇异物质 - 你所需的能量数量级也远远超出我们目前所知的可能？ 鉴于我们目前必须手动定制架构以适应特定领域或任务，如果不克服 MLP 的计算障碍，我们是否必然会在使用神经网络方面存在差距？我猜问题在于我们正在对它们进行定制以适应明确定义的任务/领域，但不知道从我们甚至还没有想到的结构中会产生什么样的突发属性（如果这没有任何意义，那是因为我大约 90 分钟前吃了一种可食用的东西，它正在努力发挥作用）。    提交人    /u/Murky-Motor9856   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hg3kz2/is_it_possible_that_going_backwards_may/</guid>
+      <pubDate>Tue, 17 Dec 2024 05:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是人工智能领域的新闻动态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg3gpc/heres_whats_making_news_in_ai/</link>
+      <description><![CDATA[聚焦：OpenAI 告密者被发现死亡 (TechCrunch)  谷歌 DeepMind 推出全新视频模型与 Sora 竞争 (TechCrunch) Meta 要求加州总检察长阻止 OpenAI 转为营利性公司 (TechCrunch) Liquid AI 刚刚筹集 2.5 亿美元，用于开发更高效的 AI 模型 (TechCrunch)  如果您想及时了解 AI 新闻，请首先在此处发布。，其中包含所有来源和文章的完整摘要    提交人    /u/codeharman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hg3gpc/heres_whats_making_news_in_ai/</guid>
+      <pubDate>Tue, 17 Dec 2024 05:13:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>20 世纪 60 年代的人工智能广播电台项目</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg1gps/1960s_ai_radio_station_project/</link>
+      <description><![CDATA[首先我要说的是，我知道这很疯狂，也有点愚蠢。但我有一辆 1960 年代的汽车，我喜欢在开车时感受这种氛围。当然我可以上 Spotify 听播放列表，但那只是音乐，我怀念旧时的广告和 DJ 在歌曲之间插入，我也想知道历史上那一天发生的新闻……比如说 1963 年 6 月 9 日。我很好奇我们是否可以让 AI 成为电台 DJ（像老 DJ 一样说话，谈论新闻），并在音乐之间插入旧广告。我很好奇你的想法。    提交人    /u/Serious-Pear-2230   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hg1gps/1960s_ai_radio_station_project/</guid>
+      <pubDate>Tue, 17 Dec 2024 03:19:39 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚发布了一个新的 AI 视频</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hg19v9/just_dropped_a_new_ai_video/</link>
@@ -83,13 +104,6 @@
       <pubDate>Mon, 16 Dec 2024 17:44:29 GMT</pubDate>
     </item>
     <item>
-      <title>寻求人工智能艺术社区获取商业洞察</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfom5n/seeking_ai_art_communities_for_business_insights/</link>
-      <description><![CDATA[大家好， 我目前正在以创建 AI 生成的图像和视频作为业余爱好，但最近收到了一些商业咨询。虽然这很令人兴奋，但也让人感到不知所措，我想在正式开始之前做好准备。 我一直在研究其他 AI 艺术家如何构建他们的业务，但我很难找到详细的信息或一个集中的社区，让创作者可以分享见解、经验和建议。 以下是我希望进一步了解的一些主题：  定价模式：AI 艺术家通常按小时、按项目收费，还是通过许可费收费？ 提供的服务：哪些类型的服务最常见 - 定制 AI 视频创作、咨询、教学或许可预制艺术品？ 工作流程：提供这些服务需要多长时间，以及以何种格式提供？ 业务流程：处理查询、合同和付款的最佳方式是什么？ 许可选项：创作者如何处理独家权利与非独家权利？  到目前为止，我已经在 Fiverr 和社交媒体上找到了一些来自 AI 艺术家的有用示例，但我很惊讶没有一个更大、更有组织的 AI 创造者社区来交流知识——除非我错过了什么。 有人知道有抱负的 AI 艺术家可以联系、提出这样的问题并相互学习的社区、论坛或其他资源吗？ 非常感谢您为我指明正确的方向！    提交人    /u/BasilButters   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hfom5n/seeking_ai_art_communities_for_business_insights/</guid>
-      <pubDate>Mon, 16 Dec 2024 17:39:09 GMT</pubDate>
-    </item>
-    <item>
       <title>可以根据特定标准从长视频中创建单独片段的 AI 平台？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hfmz7l/ai_platform_that_can_create_separate_clips_from_a/</link>
       <description><![CDATA[有这个功能吗？我想从较长的视频中创建剪辑，但我不确定哪个 AI 平台（如果有的话）有这个功能。 提前谢谢您！    提交人    /u/badger802   [link] [评论]]]></description>
@@ -116,20 +130,6 @@
       <description><![CDATA[LLM 是否已经取得了足够的进展，可以构建自主 AI 代理，这些代理可以规划任务并将其分配给完成任务的其他专门代理？在 llms 的初期，我们遇到了诸如 llms 陷入循环和上下文窗口较小的问题。随着最近发布的强大模型（如 claude 3.5-sonnet、o1 系列和 gemini 2.0），情况有何改善。是否有人构建了足以满足生产用例的自主系统？    提交人    /u/SnooSquirrels6702   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hffm3i/how_soon_are_we_going_to_see_autonomous_ai_agents/</guid>
       <pubDate>Mon, 16 Dec 2024 09:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>分散的人工智能数据平台是一个好主意吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hf4yst/are_decentralized_ai_data_platforms_a_good_idea/</link>
-      <description><![CDATA[我读到了一个由 OORT 创建的新平台，该平台几天前刚刚推出。引起我注意的是它专注于去中心化——使用区块链支持的系统在 AI 训练中进行数据收集和标记。我最近看到 AI 代币在空间中四处流传，但实际上没有任何有趣的价值。这个想法是它可以削减中介机构，并为处理 AI 数据集提供更多的信任、透明度甚至全球协作。 如果有人好奇，这里有文章。有没有人看到类似的去中心化方法在 AI 领域获得关注？很想听听你的想法。    提交人    /u/nadofa841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hf4yst/are_decentralized_ai_data_platforms_a_good_idea/</guid>
-      <pubDate>Sun, 15 Dec 2024 23:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界上大多数人都不知道他们的工作迟早会被人工智能取代。您如何为即将到来的时代做好准备？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hevbsv/most_people_in_the_world_have_no_idea_that_their/</link>
-      <description><![CDATA[至少你是个水管工或类似的，很多工作都会有风险，或者对某些工作的需求会比平时少，我知道有些人认为人工智能不会抢走工作，而知道如何使用人工智能的人会找到更好的工作等等。 我确实喜欢人工智能，我认为人类应该全力以赴（确保安全），同时我这么说，我明白事情会发生很大的变化，我们必须为即将发生的事情做好准备，因为这是一个为对人工智能感兴趣的人开设的论坛，我想知道其他人对此有何看法，他们如何准备自己以驾驭人工智能浪潮。    提交人    /u/Halcon_ve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hevbsv/most_people_in_the_world_have_no_idea_that_their/</guid>
-      <pubDate>Sun, 15 Dec 2024 15:49:27 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
