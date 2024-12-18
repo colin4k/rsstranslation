@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 17 Dec 2024 21:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 00:04:08 GMT</lastBuildDate>
+    <item>
+      <title>介绍 LightUp：一款用于即时 AI 注释的开源 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hgndg6/introducing_lightup_an_opensource_chrome/</link>
+      <description><![CDATA[嘿 Reddit！👋 我很高兴与大家分享我一直在做的一个项目，名为 LightUp。这是一个实验性的开源 Chrome 扩展程序，旨在让您更快、更轻松地理解和处理 Web 内容。 什么是 LightUp？ LightUp 通过提供即时 AI 注释来增强您的浏览体验。突出显示网页上的任何文本，LightUp 就会弹出一些有用的选项，例如： 🔍 解释 - 获取复杂文本的详细解释。 📝 总结 - 将长段落浓缩为简洁的要点。 📊 分析 - 深入了解上下文和含义。 🌐 翻译 - 在语言之间快速切换。 使用 LightUp，目标是让您保持流畅，而无需切换标签或打破焦点。 我为什么要创建它？ 这个想法受到 Genius 歌词注释的启发，但适用于网络上的所有内容。无论您是在阅读文章、学习还是只是对某个术语感到好奇，LightUp 都会以优雅、直观的方式直接为您提供答案。 它是如何工作的？ 它使用 ReactJS、TypeScript 和 TailwindCSS 构建，并无缝集成到您的浏览器中。它支持本地模型（如 LLaMA）和云 API，以根据您的设置处理文本。 部分功能包括 实时反馈和交互式定制。 用户友好设置，用于配置模型、键等。 这适合谁？ 任何重视重点和背景的人： 学生：学习时总结或解释复杂主题。 专业人士：分析报告或快速翻译内容。 好奇心强的人：无需离开页面即可深入研究主题。 您如何尝试？ 该项目根据 Apache 2.0 许可开源。我希望您能查看、试用并分享您的反馈。 这是 GitHub 链接：https://github.com/mohamedsadiq/LightUp 以及网站：https://www.boimaginations.com/lightup 我仍在完善它，并希望听到您的想法或创意。哪些功能会让它对您更有用？ 谢谢阅读！    提交人    /u/bronz32   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hgndg6/introducing_lightup_an_opensource_chrome/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:59:34 GMT</pubDate>
+    </item>
     <item>
       <title>nGPT——完全不是，但也许是 AI 的未来？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hgk43k/ngpt_totally_not_but_maybe_the_future_of_ai/</link>
+      <link>https://www.reddit.com/r/opensource/comments/1hgndb3/ngpt_totally_not_but_maybe_the_future_of_ai/</link>
       <description><![CDATA[所以基本上我制作了这个可以在任何模型上运行的本地运行的 AI 工具，除了它可以执行诸如搜索网页、打开和关闭灯光以及制作歌曲（通过使用 DeepAI.org 通过 Selenium 生成它）之类的操作之外 我几乎只是想知道还能让它做什么，因为我希望它能够做比普通 AI 更多的事情，并且很多错误报告（问题），因为它充满了这些问题... 玩得开心https://github.com/nlckysolutions/nGPT    提交人    /u/nicky547   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hgk43k/ngpt_totally_not_but_maybe_the_future_of_ai/</guid>
-      <pubDate>Tue, 17 Dec 2024 20:33:46 GMT</pubDate>
+      <guid>https://www.reddit.com/r/opensource/comments/1hgndb3/ngpt_totally_not_but_maybe_the_future_of_ai/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Onenote 转到 Obsidian 或 Joplin？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hgmhbk/going_from_onenote_to_obsidian_or_joplin/</link>
+      <description><![CDATA[我喜欢 Onenote，只是厌倦了微软让我专注于将 Windows 保留在一个程序中。根据我的研究，Joplin 和 Obsidian 似乎与 Onenote 非常相似。只是不确定选择哪一个。听起来 Joplin 更适合即插即用，但 Obsidian 更适合“知识管理”这与笔记记录有何不同，我不知道。想法和意见？    提交人    /u/uvuguy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hgmhbk/going_from_onenote_to_obsidian_or_joplin/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:19:25 GMT</pubDate>
     </item>
     <item>
       <title>很高兴与大家分享 Bruin，一个用 Go 构建的端到端数据管道工具！</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[我想尝试在仅使用 CPU 且不使用 GPU 的设置上运行它，看看是否有任何方法可以在不使用 GPU 的情况下运行，但我仍然这样做了，所以我很想从您的提示中学习 我的设置包括： ▸四核 CPU（Intel Core i7-1165G7） ▸ 64 GB RAM 我每张图片（512x512 分辨率）花费约 10-15 分钟，内存使用量约为 8 GB RAM。 有没有其他人在仅使用 CPU 的设置上成功运行稳定扩散？我的预算有限，您能给我一些建议吗？谢谢    提交人    /u/kaydyday   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hffd86/anyone_running_stable_diffusion_without_gpu/</guid>
       <pubDate>Mon, 16 Dec 2024 09:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个命令行工具，可以同时分部分下载文件并将这些部分分布到多条路径上。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hfdpw2/i_made_a_command_line_tool_that_downloads_a_file/</link>
-      <description><![CDATA[我将其命名为 partdec。它的灵感来自 axel、aria2 和 gnu/posix split。 用例：  下载加速 数据分区和分发 大文件管理  小众用例，但您也可以将其用作普通下载器、文件传输工具或文件分割器。 Repo：https://github.com/cjijcb/partdec    提交人    /u/CiedJij   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hfdpw2/i_made_a_command_line_tool_that_downloads_a_file/</guid>
-      <pubDate>Mon, 16 Dec 2024 07:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于多个平台的轻量级 TypeScript AI 工具包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hfdc51/a_lightweight_typescript_ai_toolkit_for_multiple/</link>
-      <description><![CDATA[        提交人    /u/wangzuo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hfdc51/a_lightweight_typescript_ai_toolkit_for_multiple/</guid>
-      <pubDate>Mon, 16 Dec 2024 06:46:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

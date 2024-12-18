@@ -4,7 +4,70 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 17 Dec 2024 15:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 00:03:50 GMT</lastBuildDate>
+    <item>
+      <title>IDM 正在将 Chrome 的政策更改为“由您的组织管理”</title>
+      <link>https://www.reddit.com/r/software/comments/1hgknl0/idm_is_changing_chromes_policies_to_managed_by/</link>
+      <description><![CDATA[这是一封通知邮件。我仔细查看了它，找到了罪魁祸首。 IDM 现在正在 chrome 浏览器中添加策略，该策略表明浏览器由您的组织管理。起初我以为是 chrome 的问题，新的清单导致了这种情况，而且这是在浏览器端，所以没什么可担心的。但后来我又想起了这个问题，我又搜索了一下，reddit 上有人提到 IDM 可能是导致这种情况的原因。 我删除了 IDM，但它没有删除策略。我不得不在 regedit 中手动删除策略并重新安装浏览器。我全新安装了 IDM，但它又恢复了“由您的组织管理”。所以我摆脱了 IDM，删除了策略并重新安装了 chrome。 请注意，如果浏览器由组织管理，他们可以查看所有内容，甚至阻止您的个人资料。因此，各位，无论是盗版软件还是正版软件，罪魁祸首都是 IDM。摆脱它。我正在寻找它的替代品。    提交人    /u/awaixjvd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgknl0/idm_is_changing_chromes_policies_to_managed_by/</guid>
+      <pubDate>Tue, 17 Dec 2024 20:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>pdf 查看器选项？</title>
+      <link>https://www.reddit.com/r/software/comments/1hgkl2j/pdf_viewer_opptions/</link>
+      <description><![CDATA[我只是在寻找一个 PDF 查看器，让我可以填写可填写的 PDF 并使用现有文档中的图像设置。我不需要 Acrobat Pro 来支付巨额年费，我只需要一个更灵活的方式来填写现有的 PDF，让我可以拖动图像。    提交人    /u/shabutie8   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgkl2j/pdf_viewer_opptions/</guid>
+      <pubDate>Tue, 17 Dec 2024 20:54:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Panasonic Toughbook cf33 win 10 内置 GPS 的地图软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hgixla/map_software_with_turn_by_turn_using_onboard_gps/</link>
+      <description><![CDATA[大家好，我有一台松下 Toughbook cf33 i7 16gb 专用 GPS 和 4G，配有 Havis 底座和外部天线，我真的很想用它导航。除非我遗漏了什么，否则谷歌地图不会让您通过它导航。内置的 Windows 地图总是说目的地不可用，所以正在寻找一些可以使用板载 ublox GPS 的东西。如果我可以下载地图进行离线导航，我可以接受一个大程序。不在乎它是否是一个寻找好东西的付费程序。     提交人    /u/Tgambob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgixla/map_software_with_turn_by_turn_using_onboard_gps/</guid>
+      <pubDate>Tue, 17 Dec 2024 19:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>为您提供的 Web Styler 扩展</title>
+      <link>https://www.reddit.com/r/software/comments/1hgicuo/web_styler_extension_for_you/</link>
+      <description><![CDATA[嘿，我想分享一个我开始开发的浏览器扩展。到目前为止，我已经拥有 50 个免费用户和 2 个订阅者。 它允许您轻松自定义任何网页。它不仅允许您更改暗/亮模式，还可以更改任何背景颜色，扩展程序将根据当前网站主题调整该颜色。 然而，还有更多功能。在 https://tweakit.today 查看它 它有免费套餐，不需要任何登录墙。尝试一下，如果您能提供有关此扩展的任何反馈，我将不胜感激。    提交人    /u/thomas-brillion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgicuo/web_styler_extension_for_you/</guid>
+      <pubDate>Tue, 17 Dec 2024 19:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twos PALs - 对你有用的列表</title>
+      <link>https://www.reddit.com/r/software/comments/1hghk7u/twos_pals_lists_that_do_work_for_you/</link>
+      <description><![CDATA[大家好，我开发了一款简单的一体化生产力应用程序（笔记、提醒、待办事项、日历、日记），名为 Twos。我们刚刚发布了一项名为 PALs（个人活动列表）或对您有用的列表的新 AI 功能。它已在 The Verge 和 TechCrunch 中进行了报道。我们将限制早期采用者的访问权限，直到 1 月，但我为 reddit 社区制作了一个代码，因此如果您想试用 PAL 的第一个版本，您可以在 https://www.TwosApp.com/pals 使用访问代码“Reddit”。我们希望它能帮助您记住更多生活，让您更有条理、更高效。如果您有任何问题，请告诉我。这里有 twos 帮助！✌️    提交人    /u/twosballer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hghk7u/twos_pals_lists_that_do_work_for_you/</guid>
+      <pubDate>Tue, 17 Dec 2024 18:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔥 One UI 7 测试版</title>
+      <link>https://www.reddit.com/r/software/comments/1hggc4n/one_ui_7_beta/</link>
+      <description><![CDATA[  由    /u/Psudo-Existant19  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hggc4n/one_ui_7_beta/</guid>
+      <pubDate>Tue, 17 Dec 2024 17:50:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 One UI 7.0 Beta</title>
+      <link>https://www.reddit.com/r/software/comments/1hgf2g9/for_one_ui_70_beta/</link>
+      <description><![CDATA[  由    /u/Psudo-Existant19  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgf2g9/for_one_ui_70_beta/</guid>
+      <pubDate>Tue, 17 Dec 2024 16:56:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款可以按住按键（更具体地说是鼠标按钮）的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hgdptl/looking_for_a_software_that_holds_down_keys_more/</link>
+      <description><![CDATA[最好是免费的    由   提交  /u/spoiledfan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgdptl/looking_for_a_software_that_holds_down_keys_more/</guid>
+      <pubDate>Tue, 17 Dec 2024 15:57:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找小巧、快速、免费的 PDF 阅读器。</title>
+      <link>https://www.reddit.com/r/software/comments/1hgdi9t/looking_for_small_quick_free_pdf_reader/</link>
+      <description><![CDATA[寻找小巧、快速的 PDF 阅读器。无需编辑器。希望没有 AI。    由    /u/DrumrJoe 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hgdi9t/looking_for_small_quick_free_pdf_reader/</guid>
+      <pubDate>Tue, 17 Dec 2024 15:48:15 GMT</pubDate>
+    </item>
     <item>
       <title>需要批量转换视频和音频的软件建议。</title>
       <link>https://www.reddit.com/r/software/comments/1hgapip/need_software_suggestions_for_converting_videos/</link>
@@ -32,13 +95,6 @@
       <description><![CDATA[我三年前安装的 By Click Download 仍然存在，我无法卸载它。由于某些原因，我无法格式化 PC，是否有任何软件可以删除它？  我的 PC 规格：  Windows 7 处理器  Intel(R) Celeron(R) CPU N3060 160GHz 1.60 GH  RAM  2.00 GB（1.84 GB 可用）  系统类型  64 位操作系统。 旧 PC 但对我有用。   由    /u/The_Viewer2083  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hg6udf/hi_i_am_not_able_to_unistall_an_software_idk_why/</guid>
       <pubDate>Tue, 17 Dec 2024 09:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找批量图像转换器或批量 webp 到单个 PDF 转换器</title>
-      <link>https://www.reddit.com/r/software/comments/1hg4lnb/looking_for_a_bulk_image_converter_or_a_bulk_webp/</link>
-      <description><![CDATA[嗨，我喜欢从互联网上下载漫画，但最近我尝试使用的每个网站都从使用 jpg 或 png 切换到 webp，而我使用的程序（images2pdf）将它们转换为 pdf，在我的电子阅读器上阅读时不支持 webp，有谁能帮我找到一个批量转换器将 webp 转换为 png/jpg，或者一个让我只使用 webp 的程序    提交人    /u/LayerofCable   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hg4lnb/looking_for_a_bulk_image_converter_or_a_bulk_webp/</guid>
-      <pubDate>Tue, 17 Dec 2024 06:26:24 GMT</pubDate>
     </item>
     <item>
       <title>网站抓取工具不断格式化？</title>
@@ -88,62 +144,6 @@
       <description><![CDATA[大家好！有很多非英语讲座我都想学习，但是语言障碍很大。我想知道您能推荐什么软件，准确并且可以将音频文件翻译成英文音频文件吗？谢谢！    提交人    /u/Mountain-Character66   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hfqdzr/audio_to_audio_translation_for_lectures/</guid>
       <pubDate>Mon, 16 Dec 2024 18:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 Chatgpt 之外，还有其他可以翻译图像的 AI 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1hfoxwc/any_ai_for_translating_images_besides_chatgpt/</link>
-      <description><![CDATA[所以有很多漫画根本没有翻译，虽然我正在学习并且水平不错，但我还是无法全部理解。Chatgpt 在分析图像、翻译单词（甚至是拟声词）和关注上下文方面做得很好，但是......它对“成人内容”过于挑剔，并且经常拒绝翻译。如果它变得太血腥，或者甚至乳沟“太暴露”（如果有的话），它就不会翻译它。所以我想知道是否有具有相同功能的 AI。而且是免费的 编辑：我尝试过 Google Lens，但就我个人经验而言，它太笨拙而且经常出错    提交人    /u/XaiKholin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfoxwc/any_ai_for_translating_images_besides_chatgpt/</guid>
-      <pubDate>Mon, 16 Dec 2024 17:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClickMonitorDDC 替代软件使用自定义热键改变对比度和亮度</title>
-      <link>https://www.reddit.com/r/software/comments/1hfo2r5/clickmonitorddc_alternative_software_to_change/</link>
-      <description><![CDATA[  由    /u/nObRaInAsH  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfo2r5/clickmonitorddc_alternative_software_to_change/</guid>
-      <pubDate>Mon, 16 Dec 2024 17:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试从 apk 游戏中提取图像时没有其他选择</title>
-      <link>https://www.reddit.com/r/software/comments/1hfleb7/out_of_options_in_trying_to_extract_images_from_a/</link>
-      <description><![CDATA[我尝试将 APK 转换为 zip 文件，但找不到卡片艺术 我搜索了 android OBB 和数据文件夹，但什么都没有，或者我无法打开它们 我使用了 unity asset bundle 提取器，得到了一些文件，但没有游戏艺术 游戏可以离线工作，所以图像必须存储在某个地方，对吗？ 我没有其他选择，而且我对这个主题也不太了解，我只是按照其他帖子中的说明进行操作，因此任何帮助都将不胜感激 这是 APK：https://happymod.com/morels-mod/com.mossbark.morels/    提交人    /u/zimonster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfleb7/out_of_options_in_trying_to_extract_images_from_a/</guid>
-      <pubDate>Mon, 16 Dec 2024 15:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一个可以使用分配了快捷方式的宏键来切换监视器的程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1hfhejh/looking_for_a_program_that_i_can_use_to_switch/</link>
-      <description><![CDATA[我有一个带宏键的键盘，我想为其分配快捷键以使用 DDC 更改显示器。我知道有几个程序，有人对 Windows 和 MacOS 有什么特别的推荐吗？    提交人    /u/xenochria   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfhejh/looking_for_a_program_that_i_can_use_to_switch/</guid>
-      <pubDate>Mon, 16 Dec 2024 11:50:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找允许我从另一台电脑控制（至少关闭）我的电脑的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hfggqd/looking_for_software_that_allows_me_to_control/</link>
-      <description><![CDATA[如果我可以镜像我的屏幕并控制整个屏幕，那就太酷了。但我真正需要的是从远处关闭它。有时我会让它打开进行下载等，但之后它会运行几个小时（当我不在的时候）。    提交人    /u/Eagle_mf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfggqd/looking_for_software_that_allows_me_to_control/</guid>
-      <pubDate>Mon, 16 Dec 2024 10:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地产估价软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hfa0l6/property_valuation_software/</link>
-      <description><![CDATA[我正在寻找现有软件或平台的建议，以简化详细房产估价报告（60-70 页）的创建。目前，我们使用 Microsoft Word，但它的效率不足以满足我们的需求。该解决方案必须安全地处理机密数据并提供可定制功能以满足我们的特定要求。 所需的关键功能：  部分结构： 能够将报告划分为选项卡或部分（例如，文本块、表格或图形），并且一旦设置，结构就保持一致。  预填充注释： 支持插入预先写好的注释或模板，一个部分中的更新会自动反映在链接的部分中。  可比销售管理： 用于存储和链接报告间可比销售证据的数据库。 能够无缝添加新销售或检索现有数据。  导出功能： 以专业格式导出为 PDF。  安全性： 必须满足高安全标准以保护机密客户和财产数据。  易于使用： 简化的界面，在确定结构后，只需最少的设置即可高效生成报告。   我正在寻找什么：  可以根据这些需求量身定制的现有软件或平台。 在估价、房地产或类似行业中使用的工具示例。 基于实际使用和安全合规性的建议。  如果您知道任何解决方案或有使用符合这些要求的软件的经验，我将不胜感激您的见解！   由    /u/Bbtrojans7  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfa0l6/property_valuation_software/</guid>
-      <pubDate>Mon, 16 Dec 2024 03:23:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我找到我童年时期（2010-2012 年）的马戏团主题互动 CD-ROM 或游戏”</title>
-      <link>https://www.reddit.com/r/software/comments/1hf6hzs/help_me_find_a_circusthemed_interactive_cdrom_or/</link>
-      <description><![CDATA[大家好，我正在寻找一张我小时候玩过的旧互动 CD-ROM 或简单游戏，但我的记忆真的很模糊。以下是我能记得的： 我大约在 2010-2012 年玩过这款游戏，但可能更早。 它在 Windows 7 PC（Intel Core 2 Duo）上运行，并通过 CD 安装。 主题与马戏团有关，或者发生在马戏团场景中。 它不是一个复杂的游戏 - 更像是一种可以点击事物的互动体验。它可能有谜题、动画或简单的活动。 它不是平台游戏或模拟游戏，似乎是为小孩子设计的。 我相信它是西班牙语的（或有西班牙语版本），但我不知道它是否在全球发行。 我不记得任何特定的角色或制作它的公司，但我知道它不是一个知名的标题。它可能是杂志 CD 的一部分或教育产品。 如果有人认识这个或有建议，我将不胜感激！提前致谢！    提交人    /u/JoseTxiki_YT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hf6hzs/help_me_find_a_circusthemed_interactive_cdrom_or/</guid>
-      <pubDate>Mon, 16 Dec 2024 00:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找某种可以持续聆听直到你将其关闭的听写软件/语音输入软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hf4qq7/looking_for_some_kind_of_dictation_softwarevoice/</link>
-      <description><![CDATA[就像标题所说的那样。许多手机键盘在语音转文本方面做得很好，但问题是你只能在很短的时间内（大约 10 秒）口述你的信息，之后它就会自动关闭。我想要一个基本上可以一直听你说话的东西，直到你把它关掉，然后把口述的文字写到电子纸上。 如果解决方案正确，操作系统并不是一个主要考虑因素，但我希望将其限制在 Windows、Android 和桌面 Linux 的顺序。 谢谢！    提交人    /u/dumnezilla   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hf4qq7/looking_for_some_kind_of_dictation_softwarevoice/</guid>
-      <pubDate>Sun, 15 Dec 2024 22:54:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

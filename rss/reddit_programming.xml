@@ -4,13 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Dec 2024 21:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 00:03:59 GMT</lastBuildDate>
     <item>
-      <title>你好，作为新手，甚至是初级或中级程序员，你学习编程的日常是什么？ - 你每天学习几个小时？ - 你有编程天赋或记忆力好吗？ - 你是否参加过结构化的学习课程来帮助你了解概念和术语？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgko90/hi_what_is_your_routine_to_learn_programming_as/</link>
-      <description><![CDATA[  由    /u/AdFormal9428  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgko90/hi_what_is_your_routine_to_learn_programming_as/</guid>
-      <pubDate>Tue, 17 Dec 2024 20:59:44 GMT</pubDate>
+      <title>[开源] ssh-browser 是一款跨平台桌面应用程序，无需命令行即可管理您的 ssh</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgo9br/opensource_sshbrowser_a_crossplatform_desktop_app/</link>
+      <description><![CDATA[  由    /u/Ok_Inevitable_3392  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgo9br/opensource_sshbrowser_a_crossplatform_desktop_app/</guid>
+      <pubDate>Tue, 17 Dec 2024 23:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求合作伙伴开发者 – 为应用项目提供股权</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgnu4i/partner_developer_wanted_equity_offered_for_app/</link>
+      <description><![CDATA[大家好， 我正在寻找一名开发人员，帮助我将我的应用创意变为现实，以换取项目股权。该应用有潜力在电影/旅游行业中结合社区驱动功能和交互式用户体验的利基市场中发展。 您将要做的事情： • 为 iOS 和 Android（跨平台）构建应用。包括在两个平台上启动它 • 发布后维护和改进应用。 • 协作开发未来功能。例如创建网站 我也完全按照我的想法设计了该应用，所以如果这不是你的强项也没关系。我还附上了我的 TikTok，因此可以负责营销方面。 这是一个参与真正有潜力的项目的独特机会。如果您有兴趣并想了解更多信息，请给我留言，让我们聊聊吧！ 期待找到合作伙伴！    提交人    /u/AquaFresh3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgnu4i/partner_developer_wanted_equity_offered_for_app/</guid>
+      <pubDate>Tue, 17 Dec 2024 23:20:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个扩展真的有用吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgnfwi/is_this_extension_really_usefull/</link>
+      <description><![CDATA[本周，在向队友解释项目结构时，我发现自己手动输入了文件夹层次结构。你知道该怎么做：“这是 src 文件夹，这些是子文件夹，忽略 node_modules……等等。”感觉效率太低，而且说实话，相当无聊。 就在那时，我突然想到：为什么没有更简单的方法来复制和共享项目树？ 因此，利用一些空闲时间，我做了开发人员最擅长的事情 — 我自己构建了它！ 当然，Visual Studio Code Marketplace 上已经有一些工具，但我觉得它们缺少了一些东西。因此，我决定添加以下功能： - 能够排除大文件夹（如 node_modules）或任何其他您不想要的文件夹。 - 深度限制以保持输出整洁和集中。 - 可以将结构导出为纯文本、Markdown 甚至 JSON。 - 当剪贴板不够用时，可以将输出保存到文件。 请随时查看并告诉我您的想法 - 我很乐意听取您的反馈：https://marketplace.visualstudio.com/items?itemName=BrainstormDevelopment.copy-project-tree！😁 有趣的事实：在测试期间，我曾经不小心将整个 node_modules 文件夹（10,000 多行！）复制到 Slack 聊天中。我的队友……不太高兴。但是，嘿，它激励我完善排除功能！😂    提交人    /u/dbarisic10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgnfwi/is_this_extension_really_usefull/</guid>
+      <pubDate>Tue, 17 Dec 2024 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>C3-lang 版本 0.6.5 暂无可用</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgn5m8/c3lang_version_065_no_available/</link>
+      <description><![CDATA[  由    /u/heavymetalmixer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgn5m8/c3lang_version_065_no_available/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 数据可视化</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgn3o5/spotify_data_visualizations/</link>
+      <description><![CDATA[  由    /u/Rich_Walrus_1648  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgn3o5/spotify_data_visualizations/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个零检测工具，使用 eBPF 来捕获 CUDA 内存泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgm896/im_building_a_zeroinstrumentation_tool_that_uses/</link>
+      <description><![CDATA[  由    /u/zepotronic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgm896/im_building_a_zeroinstrumentation_tool_that_uses/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 事件事后分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1hgm7bd/openai_incident_postmortem/</link>
+      <description><![CDATA[  由    /u/Wild_Plantain528  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hgm7bd/openai_incident_postmortem/</guid>
+      <pubDate>Tue, 17 Dec 2024 22:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码外洞察 - 版本 1.0.8</title>
+      <link>https://www.reddit.com/r/programming/comments/1hglhbr/outofcode_insights_release_108/</link>
+      <description><![CDATA[  由    /u/Outrageous-Pea9611  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hglhbr/outofcode_insights_release_108/</guid>
+      <pubDate>Tue, 17 Dec 2024 21:35:35 GMT</pubDate>
     </item>
     <item>
       <title>Schematic2BLS：我的计算机科学学位如何拯救了我的 Mario 64 项目</title>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hghfix/effectful_build_fast_reliable_haskell_applications/</guid>
       <pubDate>Tue, 17 Dec 2024 18:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby 3.4 中的新功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghf00/whats_new_in_ruby_34/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghf00/whats_new_in_ruby_34/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在分布式数据库中使用高度同步的时钟</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghdxu/utilizing_highly_synchronized_clocks_in/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghdxu/utilizing_highly_synchronized_clocks_in/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>尚未实施的 Django 安全强化措施</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghdrs/django_security_hardenings_that_are_not_happening/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghdrs/django_security_hardenings_that_are_not_happening/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 的奇怪小迭代器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghdkf/gos_weird_little_iterators/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghdkf/gos_weird_little_iterators/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Unix Shell 应该有对象？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghdg3/why_should_a_unix_shell_have_objects/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghdg3/why_should_a_unix_shell_have_objects/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cr-SQLite – SQLite 的多写入器和 CRDT 支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghbpi/crsqlite_multiwriter_and_crdt_support_for_sqlite/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghbpi/crsqlite_multiwriter_and_crdt_support_for_sqlite/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go Protobuf：新的不透明 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1hghbk9/go_protobuf_the_new_opaque_api/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hghbk9/go_protobuf_the_new_opaque_api/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:32:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
