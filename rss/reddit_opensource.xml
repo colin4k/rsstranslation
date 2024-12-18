@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Dec 2024 15:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 18:02:25 GMT</lastBuildDate>
+    <item>
+      <title>GopherDrop：一种简单、安全的共享一次性秘密和文件的方法！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh7199/gopherdrop_a_simple_secure_way_to_share_onetime/</link>
+      <description><![CDATA[你好 /r/opensource ！ 我刚刚完成了 GopherDrop 的构建，这是一个受 Bitwarden Send 启发的自托管工具。它是一个安全的 REST API 和 UI，用于共享一次性机密和文件。使用 Go 为后端构建，使用 Vue.js 和 Vuetify 为前端构建。 你可以在这里查看：Github 链接 我很想听听你的想法和建议，因为这是我的第一个开源项目。    提交人    /u/Mparigas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh7199/gopherdrop_a_simple_secure_way_to_share_onetime/</guid>
+      <pubDate>Wed, 18 Dec 2024 17:41:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找小型 Rust 项目的贡献者、文档 + 配置</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh5qli/looking_for_contributors_to_a_small_rust_project/</link>
+      <description><![CDATA[您好，我有一个名为 SRHD（简单 rust 热键守护进程）的小项目。它是适用于 macOS 的宏软件，但希望将其扩展到 linux。自动生成的文档也不存在，并且普遍缺乏测试。如果您对 Rust 开发有任何了解，请帮助解决这些复杂问题，这将非常棒，但如果不了解，我也没有太多时间编写文档，这也太糟糕了！ https://github.com/SylvanFranklin/srhd    提交人    /u/Substantial_Tea_6549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh5qli/looking_for_contributors_to_a_small_rust_project/</guid>
+      <pubDate>Wed, 18 Dec 2024 16:46:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 OpenClimate.fund 推动社区驱动融资</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</link>
+      <description><![CDATA[我们正在启动OpenClimate.fund，这是一项社区驱动的倡议，旨在支持解决气候变化和生物多样性丧失问题的开源项目。这些是我们这个时代最紧迫的挑战之一，但这些领域的开源工作仍然资金严重不足。虽然在人工智能和安全等领域投入了大量资源，但在开源解决方案方面，环境部门基本上空手而归。是时候改变这种状况了。 ​​OpenClimate.fund旨在通过资助建立在透明度、信任和协作基础上的生态系统来弥合这一差距，以推进气候友好型技术和可衡量的环境影响。    提交人    /u/augspurger   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</guid>
+      <pubDate>Wed, 18 Dec 2024 16:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Storecraft CLI 可以创建一个完整的商务后端，可以使用 Javascript 与任何数据库、存储和计算一起运行</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh4w1m/storecraft_cli_can_create_a_complete_commerce/</link>
+      <description><![CDATA[        由    /u/hendrixstring 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh4w1m/storecraft_cli_can_create_a_complete_commerce/</guid>
+      <pubDate>Wed, 18 Dec 2024 16:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>备份软件推荐（Windows）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh3tz8/recommendations_for_backup_software_windows/</link>
+      <description><![CDATA[嗨！ 我正在寻找用于在 Windows 11 上创建备份的可靠软件。我需要能够执行以下操作的东西：  连接到我自己的云存储，例如 Mega 和 Google Drive。 灵活地同步多个文件夹。 允许我安排备份并控制其配置。  如果软件是免费和开源的，那就太好了。 到目前为止，我遇到过 Rclone 和 Duplicati，但我没有找到很多评论或用户体验来指导我。 有人有使用这些工具的经验或知道任何其他满足这些要求的解决方案吗？ 谢谢！    提交人    /u/Forkan5870   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh3tz8/recommendations_for_backup_software_windows/</guid>
+      <pubDate>Wed, 18 Dec 2024 15:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Markdown 的 AI 代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh3snl/markdown_based_ai_agents/</link>
+      <description><![CDATA[        提交人    /u/Primary-Avocado-3055   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh3snl/markdown_based_ai_agents/</guid>
+      <pubDate>Wed, 18 Dec 2024 15:18:55 GMT</pubDate>
+    </item>
     <item>
       <title>内部托管软件的 AGPL</title>
       <link>https://www.reddit.com/r/opensource/comments/1hh25a0/agpl_for_software_hosted_internally/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[有人知道任何用于音乐或声音的开源音频编辑软件吗？我现在就需要一个。一些易于使用的东西，一些真正开源的东西，你可以真正保留它，而不是试用版，或者你需要支付一点费用。感谢所有回复的人。    提交人    /u/tomatonator_0427   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hg7k1s/does_anyone_know_any_open_source_audio_editing/</guid>
       <pubDate>Tue, 17 Dec 2024 10:09:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeerTube v7：彻底改造您的视频平台！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hg6n9w/peertube_v7_offer_a_complete_makeover_to_your/</link>
-      <description><![CDATA[        由    /u/Framasoft  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hg6n9w/peertube_v7_offer_a_complete_makeover_to_your/</guid>
-      <pubDate>Tue, 17 Dec 2024 08:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间链</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hg4mrr/timechain/</link>
-      <description><![CDATA[大家好， 我发布了开源 REST 微服务的第一个版本，用于生成和使用无密钥加密时间戳。它引入了新概念（哈希证明的结构、承诺方案等）：它仍然很粗糙（正在进行大量重构），但我已尝试将其记录好，希望您尝试一下。 这是发布页面： https://github.com/crums-io/timechain/releases/tag/v0.1.0-ALPHA 此版本中有 2 个可交付成果：  ergd。时间链独立 REST 服务器 crum。用于见证远程链上的哈希和存档见证收据的 CLI。  我们在 https://crums.io 上设置了一个测试时间链，您可以使用它来测试客户端 CLI crum（而无需使用 ergd 设置自己的时间链）。 另请参阅  crums.io 演示网站。请注意，如果您使用 --demo 选项运行 ergd，您基本上会获得相同的网站。（仅将此选项用于测试。） 项目网站。概述和工具指南。 Github Repo     提交人    /u/gnahraf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hg4mrr/timechain/</guid>
-      <pubDate>Tue, 17 Dec 2024 06:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚拟开源/Linux 用户组？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hg1v70/virtual_open_source_linux_user_groups/</link>
-      <description><![CDATA[我想知道是否有任何用户组可以讨论虚拟的 Libre Open Source？    提交人    /u/lifeisbollocks   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hg1v70/virtual_open_source_linux_user_groups/</guid>
-      <pubDate>Tue, 17 Dec 2024 03:41:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>TypeScript 风格指南</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</link>
-      <description><![CDATA[https://mkosir.github.io/typescript-style-guide/    由   提交  /u/marko424_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</guid>
-      <pubDate>Mon, 16 Dec 2024 21:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有用于OCR文本差异映射的库？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hftnsq/is_there_a_library_for_ocr_text_difference_mapping/</link>
-      <description><![CDATA[例如，将 O（字母）读作 0（零），反之亦然？我知道模糊匹配之类的东西，但这对我当前的应用程序不起作用。它必须是视觉上相似的字符（我知道这也因语言、书写系统、图像质量和使用的字体而异，但仍然如此）。 我不能使用这些算法的原因是我的字符串彼此非常相似，例如“123456”与“123457”，其中模糊或 levenshtein 只会看到 1 个字符的差异并为我标记它，但显然这不是我在此应用程序中所需要的。 所以如果这个库不存在，我可能会自己创建它，但如果没有，我想我会在重新发明轮子之前先问一下。 提前谢谢大家！     由   提交  /u/MPGaming9000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hftnsq/is_there_a_library_for_ocr_text_difference_mapping/</guid>
-      <pubDate>Mon, 16 Dec 2024 21:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>许可问题：使用 GPLv3 软件作为训练自己的神经网络的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hfnnyj/licensing_question_using_gplv3_software_as_a_tool/</link>
-      <description><![CDATA[场景：  使用开源（GPLv3）软件作为工具来处理某些文件（比如说图像）。  源图像的版权属于我。 不接触源代码、不修改源代码、不分发源代码。  使用源图像和处理后的图像来训练自己的神经网络（完全独立的源代码，没有任何指向原始使用的软件的链接）。 将这个训练好的神经网络捆绑为软件包，进行商业分发（闭源）。  您可以将 GIMP 作为开源工具的示例（它不是，它是一个小得多的工具 - 但仅供参考）。 这种情况可以吗？我尝试用谷歌搜索，但没有在网上找到这个确切的用例描述。    提交人    /u/dmytrot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hfnnyj/licensing_question_using_gplv3_software_as_a_tool/</guid>
-      <pubDate>Mon, 16 Dec 2024 16:59:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
