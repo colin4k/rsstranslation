@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Dec 2024 00:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 06:02:31 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个 golang slack 机器人，用于通过 slash 命令创建 opsgenie 事件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hgt21t/built_a_golang_slack_bot_for_create_opsgenie/</link>
+      <description><![CDATA[仅分享我构建的一个小型 golang 工具，该工具允许您使用 Slack 中的斜线命令在 opsgenie 中创建事件。 只需输入斜线命令，在模式中填写详细信息，就完成了！🙃可在 gcp 云函数或 docker 上运行， 如果有人感兴趣，这里是项目：https://github.com/hcavarsan/slack-opsgenie-bot    提交人    /u/Beginning_Dot_1310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hgt21t/built_a_golang_slack_bot_for_create_opsgenie/</guid>
+      <pubDate>Wed, 18 Dec 2024 03:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 LightUp：一款用于即时 AI 注释的开源 Chrome 扩展程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1hgndg6/introducing_lightup_an_opensource_chrome/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[如果您制作了一些很酷的东西，请随时停下来并贡献无需经验的东西，我们可以将其添加到引擎中。 https://github.com/Poppadomus/pygameTDS    提交人    /u/BornTailor6583   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hfgxot/i_made_a_top_down_shooter_engine_in_python_using/</guid>
       <pubDate>Mon, 16 Dec 2024 11:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在没有 GPU 的情况下运行稳定扩散吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hffd86/anyone_running_stable_diffusion_without_gpu/</link>
-      <description><![CDATA[我想尝试在仅使用 CPU 且不使用 GPU 的设置上运行它，看看是否有任何方法可以在不使用 GPU 的情况下运行，但我仍然这样做了，所以我很想从您的提示中学习 我的设置包括： ▸四核 CPU（Intel Core i7-1165G7） ▸ 64 GB RAM 我每张图片（512x512 分辨率）花费约 10-15 分钟，内存使用量约为 8 GB RAM。 有没有其他人在仅使用 CPU 的设置上成功运行稳定扩散？我的预算有限，您能给我一些建议吗？谢谢    提交人    /u/kaydyday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hffd86/anyone_running_stable_diffusion_without_gpu/</guid>
-      <pubDate>Mon, 16 Dec 2024 09:21:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
