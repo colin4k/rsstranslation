@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Dec 2024 09:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 15:03:16 GMT</lastBuildDate>
+    <item>
+      <title>内部托管软件的 AGPL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh25a0/agpl_for_software_hosted_internally/</link>
+      <description><![CDATA[嗨。是否可以在公司内部网络上托管 AGPL 许可的软件，供部分员工使用，而这些员工无法访问公共互联网（即只能在 VPN 下）？ 抱歉在这里提问，我在其他地方找不到确切的信息，可能是因为我不熟悉这些术语 :-/  谢谢    提交人    /u/ihatebeinganonymous   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh25a0/agpl_for_software_hosted_internally/</guid>
+      <pubDate>Wed, 18 Dec 2024 13:59:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作 Meetup.com 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh0hgr/making_a_meetupcom_replacement/</link>
+      <description><![CDATA[大家好。我一直在 Meetup.com 的替代品上工作，网址为 https://github.com/OpenMeet-Team/ 。今年收购了 meetup 后，托管 meetup 小组的价格太高了。这些东西应该更适合那些最需要社区的人。所以就在这里。托管版本位于 platform.openmeet.net 。很高兴回答问题。 我非常有兴趣与想要使用和构建 Meetup 替代方案的人联系。    提交人    /u/clam-dinner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh0hgr/making_a_meetupcom_replacement/</guid>
+      <pubDate>Wed, 18 Dec 2024 12:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求现实世界的围棋挑战，参加 2025 年 1 月的开源编程马拉松</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hgxpyg/seeking_realworld_go_challenges_for_an_open/</link>
+      <description><![CDATA[大家好， 今年 1 月，我将开始为期 30 天的开源代码马拉松，重点是使用 Go、Kafka、MongoDB、ClickHouse 和其他高性能工具解决实际问题。目标是为社区贡献有意义的代码，同时通过解决具有挑战性的任务来磨练我的技能。 如果您有一个开源项目可以从其他功能或修复中受益，或者您正在努力应对涉及实时系统、数据管道或后端架构的技术挑战，我很乐意为您提供帮助。我将选择既有影响力又吸引人的任务，免费处理它们，并公开分享解决方案供所有人使用和构建。 提交您的想法的截止日期是 2024 年 12 月 31 日，我将于 1 月 1 日开始解决选定的问题。这是我通过解决实际问题和支持有意义的项目回馈开源社区的方式。 您可以在此处提交您的任务想法：https://github.com/devflex-pro/01-2025-Challenge/issues。如果您知道可以使用此功能的开源维护者或项目，请随时与他们分享此帖子。让我们一起创造一些很棒的东西！    提交人    /u/rapidcodelab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hgxpyg/seeking_realworld_go_challenges_for_an_open/</guid>
+      <pubDate>Wed, 18 Dec 2024 09:03:31 GMT</pubDate>
+    </item>
     <item>
       <title>开放议程</title>
       <link>https://www.reddit.com/r/opensource/comments/1hgxc2u/an_openagenda/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>我制作了 wut – 一个使用 LLM 解释你的最后一个命令的 CLI</title>
       <link>https://www.reddit.com/r/opensource/comments/1hgdceb/i_made_wut_a_cli_that_explains_your_last_command/</link>
-      <description><![CDATA[查看：https://github.com/shobrook/wut 你会惊讶于它有多么有用。我用它来调试错误，解释 HTTP 状态代码，修复输入错误的命令，了解日志输出等。希望你们也觉得它有用！    提交人    /u/jsonathan   [link] [评论]]]></description>
+      <description><![CDATA[查看：https://github.com/shobrook/wut 你会惊讶于它有多有用。我用它来调试错误，解释 HTTP 状态代码，修复输入错误的命令，理解日志输出等。希望你们也觉得它有用！    提交人    /u/jsonathan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hgdceb/i_made_wut_a_cli_that_explains_your_last_command/</guid>
       <pubDate>Tue, 17 Dec 2024 15:40:50 GMT</pubDate>
     </item>
@@ -104,7 +125,7 @@
       <pubDate>Tue, 17 Dec 2024 03:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>TypeScript 样式指南</title>
+      <title>TypeScript 风格指南</title>
       <link>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</link>
       <description><![CDATA[https://mkosir.github.io/typescript-style-guide/    由   提交  /u/marko424_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[场景：  使用开源（GPLv3）软件作为工具来处理某些文件（比如说图像）。  源图像的版权属于我。 不接触源代码、不修改源代码、不分发源代码。  使用源图像和处理后的图像来训练自己的神经网络（完全独立的源代码，没有任何指向原始使用的软件的链接）。 将这个训练好的神经网络捆绑为软件包，进行商业分发（闭源）。  您可以将 GIMP 作为开源工具的示例（它不是，它是一个小得多的工具 - 但仅供参考）。 这种情况可以吗？我尝试用谷歌搜索，但没有在网上找到这个确切的用例描述。    提交人    /u/dmytrot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hfnnyj/licensing_question_using_gplv3_software_as_a_tool/</guid>
       <pubDate>Mon, 16 Dec 2024 16:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用开源应用程序和可互操作协议使 Apple Watch 可以与 Android 兼容</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hfncrm/i_made_apple_watch_functional_with_android_using/</link>
-      <description><![CDATA[       由    /u/Abishek_Muthian  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hfncrm/i_made_apple_watch_functional_with_android_using/</guid>
-      <pubDate>Mon, 16 Dec 2024 16:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hfkkxo/looking_for_advice/</link>
-      <description><![CDATA[我创建了一个名为 SwitchAI 的库，以便在代码中无缝切换 AI 提供商。作为使用多个 AI API 的人，我发现为每个 API 编写单独的代码很令人沮丧。为了解决这个问题，我构建了一个标准化界面来简化集成。 目前，SwitchAI 支持文本生成和嵌入，但我计划通过图像生成、文本转语音等功能对其进行扩展。 虽然我之前曾为多个开源项目做出贡献，但这是我的第一个个人项目。我很感激任何建议，以确保我的工作不会白费，特别是因为我刚刚开始这个计划。    提交人    /u/LittleRedApp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hfkkxo/looking_for_advice/</guid>
-      <pubDate>Mon, 16 Dec 2024 14:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>不确定这里是不是合适的提问地点，但是有人能帮我解决我发现的这个死的黑白棋项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hfkb17/not_sure_if_this_is_the_right_place_to_ask_but/</link>
-      <description><![CDATA[https://github.com/xcesco/reversi-android 我发现了这个黑白棋应用，是由几个学生为一个大学项目制作的。老实说，尽管这是一个大学项目，但这个应用制作得非常好，而且它是我能找到的最好的 foss 黑白棋应用。唯一的问题是这个项目已经死了，上一次发布是 4 年前的源代码。如果你使用的是较新的 Android 版本，playstore 上的版本也不会让你安装它（尽管我设法绕过了这个问题，而是从 aurora store 安装它）。 我需要帮助的是添加一个使用深色主题的选项，并添加一个撤消选项。删除所有在线功能也很好。如果有人能做到这一点，我将不胜感激。如果他们做不到，那也没关系，但是你能帮我指出正确的方向，让我自己做吗？（目前只是一名学生，但将来想成为一名开发人员，这可能是一种练习） 谢谢！    提交人    /u/Spiritual_Damage_310   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hfkb17/not_sure_if_this_is_the_right_place_to_ask_but/</guid>
-      <pubDate>Mon, 16 Dec 2024 14:29:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
