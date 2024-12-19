@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 19 Dec 2024 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 21:02:00 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个软件可以通过文本中的标点符号自动在音频文件中创建静音？</title>
+      <link>https://www.reddit.com/r/software/comments/1hi2y4q/is_there_a_software_to_automatically_create/</link>
+      <description><![CDATA[我正在使用 Audacity 录制我朗读文本的语音。 有没有办法通过文本文件的标点符号自动编辑静音，比如每次出现逗号时就留出 0.5 秒的静音时间，或者每次出现句号时留出 1.5 秒的静音时间？    提交人    /u/shaggy98   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hi2y4q/is_there_a_software_to_automatically_create/</guid>
+      <pubDate>Thu, 19 Dec 2024 20:59:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>时间块示意图软件按时间顺序描述房间占用情况</title>
+      <link>https://www.reddit.com/r/software/comments/1hi2nhh/time_block_schematic_software_to_depict_room/</link>
+      <description><![CDATA[大家好，我正在计划一个活动，我需要创建一个房间示意图，并按小时列出几天内的房间占用情况。 我可以用很多不同的方式来解释我的想法。我想到的第一个方法是为此制作一个电子表格。在这个假想的电子表格中，列代表一天中的小时。因此，X 轴上是时间，每个单元格代表一个房间。显然，占用情况将跨越多个小时，因此跨越这些列/小时的单元格将合并为一个。单元格本身将包含诸如居住者姓名、他们前往活动场地的交通方式、联系电话等信息。 但这似乎不适合做这项工作，我希望能够灵活地放大/缩小时间尺度，例如，不是一列代表一小时，而是当你缩小时，一列将代表一天中的六个小时。有点像音频编辑软件 Audacity 中波形的放大或缩小。或者在 AutoCAD 中几乎可以无限放大或缩小，但即使在那里字体大小也保持不变/不会随着缩放级别而变化。 draw.io 或其他在线工具是否有更适合此任务的模板？允许共享原理图唯一副本的链接但作为查看器的功能也是理想的。 我不知道为什么，但似乎大多数时候阻止解决方案以天为列，以小时为行。我需要列都取决于缩放级别。对 Google 日历、Amie、Ellie、Taskade 等解决方案有什么看法？其中一些看起来像企业“需要与团队一起实现的全年目标”解决方案。 我不需要将视频或音频剪辑嵌入其中。我不需要与其他人合作。我并不想让所有数据工程师都陷入这种状态。我讨厌那些似乎只是在屏幕上用一百万个东西轰炸你的压倒性 UI（我发现 Discord 的 UI 非常令人焦虑）。哎呀，我甚至想过手动完成整个过程，或者做两全其美的事情，不确定这会包含什么，但我只是想看看是否有某种数字方法符合要求。    提交人    /u/koolestani   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hi2nhh/time_block_schematic_software_to_depict_room/</guid>
+      <pubDate>Thu, 19 Dec 2024 20:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全考试浏览器不让我通过修改过的光标进入？！</title>
+      <link>https://www.reddit.com/r/software/comments/1hi1b1k/secure_exam_browser_didnt_let_me_in_over_a/</link>
+      <description><![CDATA[嗨，我是一名学生，今天早些时候不得不使用安全考试浏览器。它的作用基本上就是锁定整个计算机，直到考试结束。我花了大约 20 分钟尝试打开它，因为无论我做什么，它都会给我一个错误消息，并在加载时将我淘汰。当我去阅读日志时，我发现了这个... https://preview.redd.it/16w66pz00v7e1.png?width=1426&amp;format=png&amp;auto=webp&amp;s=e48e19bd48630c4f672e8b46d08c2aaf1ae67682 这有什么原因吗？为什么要单独验证我所有的光标？创建者是否认为有人会将他们的光标修改为考试答案？值得庆幸的是，我没有浪费时间，因为考试开放了两个小时，只花了 45 分钟，但我很生气。这到底是什么。    提交人    /u/jennaboy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hi1b1k/secure_exam_browser_didnt_let_me_in_over_a/</guid>
+      <pubDate>Thu, 19 Dec 2024 19:46:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Win11破坏任务栏组</title>
+      <link>https://www.reddit.com/r/software/comments/1hi18qv/win11_ruining_taskbar_groups/</link>
+      <description><![CDATA[最后，任务栏组太糟糕了，我无法添加任何快捷方式，除非我删除所有组并从头开始创建它们 有没有办法修复它或者至少有一个替代方案 https://preview.redd.it/n6ywsxgmyu7e1.png?width=256&amp;format=png&amp;auto=webp&amp;s=9107fe1108955452191a0ef1c01ace14c41d25e9    由    /u/FROSKY- 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hi18qv/win11_ruining_taskbar_groups/</guid>
+      <pubDate>Thu, 19 Dec 2024 19:43:19 GMT</pubDate>
+    </item>
     <item>
       <title>文档写作生态系统的最佳工具？</title>
       <link>https://www.reddit.com/r/software/comments/1hhyn9z/best_tools_for_document_writing_ecosystem/</link>
@@ -36,14 +64,14 @@
     <item>
       <title>有 RVC 的便携版本吗？我需要在本地克隆语音，但无法安装任何东西</title>
       <link>https://www.reddit.com/r/software/comments/1hhssz3/is_there_a_portable_version_of_rvc_i_need_to/</link>
-      <description><![CDATA[我叔叔飞回家，留下了一台游戏笔记本电脑。我只得到了客人资料的密码。我想在它上面使用 RVC，这样我终于可以做我想做的翻唱歌曲了，但我没有被允许安装任何东西，因为我没有安装任何东西的权限。 它有多个便携式软件吗？如果有，我应该使用哪一个，有没有它的教程视频？我可能需要检查一下我是否具备先决条件。    提交人    /u/alwaysDC   [链接] [评论]]]></description>
+      <description><![CDATA[我叔叔飞回家，留下了一台游戏笔记本电脑。我只得到了客人资料的密码。我想在它上面使用 RVC，这样我终于可以做我想做的翻唱歌曲了，但我没有安装任何东西的权限，所以我不能安装任何东西。 它有多个便携软件吗？如果有，我应该使用哪一个，有它的教程视频吗？我可能需要检查一下我是否具备先决条件。    提交人    /u/alwaysDC   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hhssz3/is_there_a_portable_version_of_rvc_i_need_to/</guid>
       <pubDate>Thu, 19 Dec 2024 13:23:58 GMT</pubDate>
     </item>
     <item>
       <title>寻找播放视频时会变灰的媒体播放器，例如 MX 播放器</title>
       <link>https://www.reddit.com/r/software/comments/1hhrh9f/looking_for_media_player_that_greys_out_a_video/</link>
-      <description><![CDATA[我正在寻找一个具有这个简洁功能的播放器，您可以在其中观看视频，播放器在观看后会将其变灰，就像适用于 android 的 mx 播放器一样    提交人    /u/No-Jaguar-509   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个具有这个简洁功能的播放器，您可以在其中观看视频，播放器在观看后会将其变灰，就像 Android 的 mx 播放器一样    提交人    /u/No-Jaguar-509   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hhrh9f/looking_for_media_player_that_greys_out_a_video/</guid>
       <pubDate>Thu, 19 Dec 2024 12:07:16 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[你好，我正在寻找一款 PDF 阅读器，它能够制作抽认卡、突出显示、记下主题笔记，并特别在多个设备之间同步。我倾向于将这些笔记作为学习材料保存很长一段时间。     提交人    /u/EnergyFickle7587   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hh8pcr/pdf_reader/</guid>
       <pubDate>Wed, 18 Dec 2024 18:53:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>广告软件删除？</title>
-      <link>https://www.reddit.com/r/software/comments/1hh6r8f/adware_removal/</link>
-      <description><![CDATA[所以这个网站 shougnoboassi.net/4/4923326 最近出现在我的电脑上，我似乎找不到它。我试过 malwarebytes，但没有运气。现在每次我启动电脑时它都会弹出，老实说，我现在很迷茫。还有人有这个问题或知道如何解决吗？    提交人    /u/Icy-Sale-6178   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hh6r8f/adware_removal/</guid>
-      <pubDate>Wed, 18 Dec 2024 17:29:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Revo卸载程序</title>
-      <link>https://www.reddit.com/r/software/comments/1hh3axp/revo_uninstaller/</link>
-      <description><![CDATA[大家好，我有个快速问题。 自从看了 Jayz 的视频后，我就一直在使用 revo 卸载程序，一切都很顺利。 不过，当我使用笔记本电脑时，有时当我拔下充电器时，应用程序会自行启动。 今天，我的屏幕上弹出一个广告，我发现它是一个应用程序，特别是 revo 卸载程序。这是我第一次遇到这种情况，我的电脑上从未发生过。 您遇到过这种情况吗？还是我的设备出了问题？    提交人    /u/Iam_no_Nilfgaardian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hh3axp/revo_uninstaller/</guid>
-      <pubDate>Wed, 18 Dec 2024 14:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>相似图像查找器不重复</title>
-      <link>https://www.reddit.com/r/software/comments/1hh2zio/similar_image_finder_not_duplicates/</link>
-      <description><![CDATA[我正在寻找一种工具，可以让我加载图像，并在我的本地驱动器上找到视觉上相似的图像。不是重复或完全相同的图像，尽管如果它找到那些也可以。我只需要它来找到相似的视觉品质。我找到的所有内容只会扫描整个文件夹或驱动器并输出重复项。我想加载一个文件并说找到更多“类似”的文件。有人知道是否存在类似的东西吗？    提交人    /u/Shyt4brains   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hh2zio/similar_image_finder_not_duplicates/</guid>
-      <pubDate>Wed, 18 Dec 2024 14:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的屏幕上这些 x 标记是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1hh0t9e/what_are_these_x_marks_on_my_screen/</link>
-      <description><![CDATA[  由    /u/theobservantman07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hh0t9e/what_are_these_x_marks_on_my_screen/</guid>
-      <pubDate>Wed, 18 Dec 2024 12:46:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
