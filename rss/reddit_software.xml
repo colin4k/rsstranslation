@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:03:55 GMT</lastBuildDate>
+    <item>
+      <title>与开发人员沟通的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1hhd9zj/whats_the_best_way_to_communicate_with_a_developer/</link>
+      <description><![CDATA[我公司聘请了一位开发人员来为我的部门构建一个新的客户保留工具。他已经取得了很大进展，但我们一直通过电话和电子邮件进行沟通。他不做笔记，因此产生了很多误解。开发人员是否有一种标准的方法来接收反馈或指导？我希望能够比现在更成功地传达我的信息。     提交人    /u/SilentMulberry8514   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hhd9zj/whats_the_best_way_to_communicate_with_a_developer/</guid>
+      <pubDate>Wed, 18 Dec 2024 22:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF 阅读器</title>
+      <link>https://www.reddit.com/r/software/comments/1hh8pcr/pdf_reader/</link>
+      <description><![CDATA[你好，我正在寻找一款 PDF 阅读器，它能够制作抽认卡、突出显示、记下主题笔记，并特别在多个设备之间同步。我倾向于将这些笔记作为学习材料保存很长一段时间。     提交人    /u/EnergyFickle7587   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hh8pcr/pdf_reader/</guid>
+      <pubDate>Wed, 18 Dec 2024 18:53:42 GMT</pubDate>
+    </item>
     <item>
       <title>广告软件删除？</title>
       <link>https://www.reddit.com/r/software/comments/1hh6r8f/adware_removal/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>为您提供的 Web Styler 扩展</title>
       <link>https://www.reddit.com/r/software/comments/1hgicuo/web_styler_extension_for_you/</link>
-      <description><![CDATA[嘿，我想分享一个我开始开发的浏览器扩展。到目前为止，我已经拥有 50 个免费用户和 2 个订阅者。 它允许您轻松自定义任何网页。它不仅允许您更改暗/亮模式，还可以更改任何背景颜色，扩展程序将根据当前网站主题调整该颜色。 然而，还有更多功能。在 https://tweakit.today 查看 它有免费套餐，不需要任何登录墙。尝试一下，如果您能提供有关此扩展的任何反馈，我将不胜感激。    提交人    /u/thomas-brillion   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，我想分享一个我开始开发的浏览器扩展。到目前为止，我已经拥有 50 个免费用户和 2 个订阅者。 它允许您轻松自定义任何网页。它不仅允许您更改暗/亮模式，还可以更改任何背景颜色，扩展程序将根据当前网站主题调整该颜色。 然而，还有更多功能。在 https://tweakit.today 查看它 它有免费套餐，不需要任何登录墙。尝试一下，如果您能提供有关此扩展的任何反馈，我将不胜感激。    提交人    /u/thomas-brillion   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hgicuo/web_styler_extension_for_you/</guid>
       <pubDate>Tue, 17 Dec 2024 19:16:41 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我以前用过 Blackhole，但现在它已经停止服务了。我现在其实是个业余卧室 DJ，负担不起音乐服务的费用。 P.S. 将来我一定会的。 TIA    提交人    /u/MilkFabulous8715   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hg9ooc/does_anyone_know_any_app_like_blackhole_which_can/</guid>
       <pubDate>Tue, 17 Dec 2024 12:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关弹跳键的帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1hg77d7/looking_for_assistance_with_bounce_keys/</link>
-      <description><![CDATA[我和一个朋友有相同的 Logitech 键盘，我们遇到了相同的问题。每次都是按键重复输入。我朋友的按键是空格和 E。我的按键是 P 和 M。我们一直忽略这个问题，但今晚我了解了弹跳键设置并开始尝试。 我找到了一个帖子，其中链接了我到这个程序，然后我试了一下。使用我拥有的宏记录程序，我发现我的重复输入发生在 21ms 的间隔内，所以我用它来忽略 25ms 以下的按键。这个程序效果很好，但出于某种原因，这个程序也会破坏大量热键。像 ctrl+c/v 这样的双键热键很好，但是尝试按 crtl+shift+F2 来截取屏幕特定区域的屏幕截图或按 ctrl+alt+shift+Z 打开 Nvidia Geforce Experience 时，该程序运行时不起作用。  有没有人有任何解决方案可以允许 25ms 的忽略限制，同时不破坏 3 个以上的输入热键？     提交人    /u/cheezy805   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hg77d7/looking_for_assistance_with_bounce_keys/</guid>
-      <pubDate>Tue, 17 Dec 2024 09:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好。我无法卸载软件，不知道为什么。我的电脑是 Windows 7...</title>
-      <link>https://www.reddit.com/r/software/comments/1hg6udf/hi_i_am_not_able_to_unistall_an_software_idk_why/</link>
-      <description><![CDATA[我三年前安装的 By Click Download 仍然存在，我无法卸载它。由于某些原因，我无法格式化 PC，是否有任何软件可以删除它？  我的 PC 规格：  Windows 7 处理器  Intel(R) Celeron(R) CPU N3060 160GHz 1.60 GH  RAM  2.00 GB（1.84 GB 可用）  系统类型  64 位操作系统。 旧 PC 但对我有用。 P.S.：  为什么？它给出了什么错误？   实际上没有错误提示.. 我单击卸载，鼠标指针的蓝色圆圈像往常一样闪烁，什么也没有发生。 什么也没有发生。 我再次单击卸载，同一个鼠标指针工作了 40 秒，什么也没有发生。 什么也没有。    提交人    /u/The_Viewer2083   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hg6udf/hi_i_am_not_able_to_unistall_an_software_idk_why/</guid>
-      <pubDate>Tue, 17 Dec 2024 09:14:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

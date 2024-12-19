@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:04:11 GMT</lastBuildDate>
+    <item>
+      <title>GitHub - SenseUnit/dumbproxy: 简单、可编写脚本、安全的正向代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hhdjcz/github_senseunitdumbproxy_simple_scriptable/</link>
+      <description><![CDATA[        提交人    /u/yarmak   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hhdjcz/github_senseunitdumbproxy_simple_scriptable/</guid>
+      <pubDate>Wed, 18 Dec 2024 22:22:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在许可证中选择退出 AI 训练？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hhcg3q/how_to_opt_out_of_ai_training_in_a_license/</link>
+      <description><![CDATA[从我的（快速）搜索来看，似乎没有现成的许可证（或某种标准条款）来阻止将可公开访问的代码库用于 AI 训练。 是否有人知道现有的任何存储库在其许可证中说明了这一点？有什么建议吗？ 附注：我特别想了解如何在许可证中包含此限制，请继续关注此处的主题。 提前致谢！    提交人    /u/tallesl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hhcg3q/how_to_opt_out_of_ai_training_in_a_license/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe Acrobat 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hhafv1/opensource_alternative_to_adobe_acrobat/</link>
+      <description><![CDATA[大家好。从我记事起，我就一直在使用 Adob​​e Acrobat，我使用和喜欢的主要功能是：  PDF 查看器 表单填写/编辑 - 即使没有表单，Acrobat 也可以让我们创建表单、添加/删除字段和框，无论我们想要什么 将文件保存/转换为 Word 文档或 jpeg 图像等。 将文件夹中的许多图像合并为 pdf 等。  Acrobat 的问题在于它附带了一大堆其他不必要的垃圾，即使您不使用 Acrobat，它们也会在后台运行，它们会占用内存和 CPU，并大大降低整个系统的速度。所以我想知道是否有一个开源软件可以让我完成我上面提到的所有操作。    提交人    /u/DanteDarkKnight-Tbf   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hhafv1/opensource_alternative_to_adobe_acrobat/</guid>
+      <pubDate>Wed, 18 Dec 2024 20:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>优质 FOSS PowerPoint 超链接</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hh9nmq/good_foss_powerpoint_hyperlinks/</link>
+      <description><![CDATA[我一直在寻找一款优秀的 FOSS PowerPoint 替代品，它支持超链接到另一张幻灯片，您可以将鼠标悬停在包括图像或形状的元素上，然后发送到另一张幻灯片。最接近完美实现这一点的是 WPS office，它在价格上是免费的，但在自由度上却不免费。    提交人    /u/Extreme-Ad-9290   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hh9nmq/good_foss_powerpoint_hyperlinks/</guid>
+      <pubDate>Wed, 18 Dec 2024 19:34:26 GMT</pubDate>
+    </item>
     <item>
       <title>GopherDrop：一种简单、安全的共享一次性秘密和文件的方法！</title>
       <link>https://www.reddit.com/r/opensource/comments/1hh7199/gopherdrop_a_simple_secure_way_to_share_onetime/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>利用 OpenClimate.fund 推动社区驱动融资</title>
       <link>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</link>
-      <description><![CDATA[我们正在启动OpenClimate.fund，这是一项社区驱动的倡议，旨在支持解决气候变化和生物多样性丧失问题的开源项目。这些是我们这个时代最紧迫的挑战之一，但这些领域的开源工作仍然资金严重不足。虽然在人工智能和安全等领域投入了大量资源，但在开源解决方案方面，环境部门基本上空手而归。是时候改变这种状况了。 ​​OpenClimate.fund旨在通过资助建立在透明度、信任和协作基础上的生态系统来弥合这一差距，以推进气候友好型技术和可衡量的环境影响。    提交人    /u/augspurger   [链接] [评论]]]></description>
+      <description><![CDATA[我们正在启动OpenClimate.fund，这是一项社区驱动的倡议，旨在支持解决气候变化和生物多样性丧失问题的开源项目。这些是我们这个时代最紧迫的挑战之一，但这些领域的开源工作仍然资金严重不足。虽然在人工智能和安全等领域投入了大量资源，但环境部门在开源解决方案方面基本上一无所获。是时候改变这种状况了。 ​​OpenClimate.fund旨在通过资助建立在透明度、信任和协作基础上的生态系统来弥合这一差距，以推进气候友好型技术和可衡量的环境影响。    提交人    /u/augspurger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</guid>
       <pubDate>Wed, 18 Dec 2024 16:28:36 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好， 我构建了 Bruin，将数据提取、SQL 和 Python 转换以及数据质量检查结合到单个 CLI 工具中，并使用 VS Code 扩展实现无缝的本地工作流程。 我们很乐意听取您的反馈和支持，请查看并给我们一个 ⭐，如果您觉得有用：https://github.com/bruin-data/bruin    提交人    /u/karakanb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hggcsi/excited_to_share_bruin_an_endtoend_data_pipeline/</guid>
       <pubDate>Tue, 17 Dec 2024 17:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 wut – 一个使用 LLM 解释你的最后一个命令的 CLI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hgdceb/i_made_wut_a_cli_that_explains_your_last_command/</link>
-      <description><![CDATA[查看：https://github.com/shobrook/wut 你会惊讶于它有多有用。我用它来调试错误，解释 HTTP 状态代码，修复输入错误的命令，理解日志输出等。希望你们也觉得它有用！    提交人    /u/jsonathan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hgdceb/i_made_wut_a_cli_that_explains_your_last_command/</guid>
-      <pubDate>Tue, 17 Dec 2024 15:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源人工智能定义 v.1.0 的发布标志着确保人工智能系统创新并与开源基本原则保持一致的征程上的一个重要里程碑。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hganl8/the_release_of_v10_of_the_open_source_ai/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hganl8/the_release_of_v10_of_the_open_source_ai/</guid>
-      <pubDate>Tue, 17 Dec 2024 13:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>争论“OSS 为何需要这么糟糕？”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hg7psh/argue_with_why_oss_needs_to_be_so_bad/</link>
-      <description><![CDATA[我喜欢使用 FOSS。但是当我向朋友和同事推荐应用程序时，他们会使用它，比如 GIMP，很快我就会听到诸如“为什么 OSS 总是这么糟糕”之类的句子。 当然，我知道所有支持 foss 的论点。 但是，人们怎么能真正反驳糟糕的体验，因为 OSS 缺乏功能或只是糟糕的 GUI 或工作流程（感觉）2000 年代初期？“资金不足、人手不足、学习工作流程”的论点感觉不对。    提交人    /u/Hans_Wurst_42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hg7psh/argue_with_why_oss_needs_to_be_so_bad/</guid>
-      <pubDate>Tue, 17 Dec 2024 10:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道任何开源音频编辑软件吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hg7k1s/does_anyone_know_any_open_source_audio_editing/</link>
-      <description><![CDATA[有人知道任何用于音乐或声音的开源音频编辑软件吗？我现在就需要一个。一些易于使用的东西，一些真正开源的东西，你可以真正保留它，而不是试用版，或者你需要支付一点费用。感谢所有回复的人。    提交人    /u/tomatonator_0427   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hg7k1s/does_anyone_know_any_open_source_audio_editing/</guid>
-      <pubDate>Tue, 17 Dec 2024 10:09:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:04:03 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 如何为程序员服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1hh6c88/how_does_chatgpt_work_for_programmers/</link>
-      <description><![CDATA[  由    /u/Prior-Sink-4104  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hh6c88/how_does_chatgpt_work_for_programmers/</guid>
-      <pubDate>Wed, 18 Dec 2024 17:11:58 GMT</pubDate>
+      <title>RAM 神话</title>
+      <link>https://www.reddit.com/r/programming/comments/1hhds9c/the_ram_myth/</link>
+      <description><![CDATA[  由    /u/imachug  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hhds9c/the_ram_myth/</guid>
+      <pubDate>Wed, 18 Dec 2024 22:33:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git...隐藏的宝石</title>
+      <link>https://www.reddit.com/r/programming/comments/1hhchdo/git_hidden_gems/</link>
+      <description><![CDATA[自从 Scott Chacons 在 FOSDEM 上发表了精彩演讲“那么，您认为您了解 git？”以来，越来越多的人分享了他们的 git 别名和隐藏的 git 精华。 这些是我的一些。你的呢？    提交人    /u/awesomealchemy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hhchdo/git_hidden_gems/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:36:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布 1.5 亿开发人员和 VS Code 中 GitHub Copilot 的新免费套餐</title>
+      <link>https://www.reddit.com/r/programming/comments/1hhbrqr/announcing_150m_developers_and_a_new_free_tier/</link>
+      <description><![CDATA[  由    /u/Demon-Souls  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hhbrqr/announcing_150m_developers_and_a_new_free_tier/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>新一波代理原生应用 (ANA)（例如 Replit、Cursor 等）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hha6g3/the_new_wave_of_agentnative_apps_anas_ie_replit/</link>
+      <description><![CDATA[  由    /u/nate4t  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hha6g3/the_new_wave_of_agentnative_apps_anas_ie_replit/</guid>
+      <pubDate>Wed, 18 Dec 2024 19:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用条件渲染提升前端性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1hh9trk/level_up_your_frontend_performance_with/</link>
+      <description><![CDATA[  由    /u/Alternative_Ball_895  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hh9trk/level_up_your_frontend_performance_with/</guid>
+      <pubDate>Wed, 18 Dec 2024 19:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github Copilot 在 VS Code 中免费</title>
+      <link>https://www.reddit.com/r/programming/comments/1hh8c4x/github_copilot_is_free_in_vs_code/</link>
+      <description><![CDATA[  由    /u/connor4312  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hh8c4x/github_copilot_is_free_in_vs_code/</guid>
+      <pubDate>Wed, 18 Dec 2024 18:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TensorFlow 和 Keras 进行 U-net 医学分割（息肉分割）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hh81r4/unet_medical_segmentation_with_tensorflow_and/</link>
+      <description><![CDATA[  由    /u/Feitgemel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hh81r4/unet_medical_segmentation_with_tensorflow_and/</guid>
+      <pubDate>Wed, 18 Dec 2024 18:25:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>GStreamer 中发现 23 个安全漏洞 - 大多数与内存安全不足有关</title>
+      <link>https://www.reddit.com/r/programming/comments/1hh804z/23_security_vulnerabilities_found_in_gstreamer/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hh804z/23_security_vulnerabilities_found_in_gstreamer/</guid>
+      <pubDate>Wed, 18 Dec 2024 18:23:39 GMT</pubDate>
     </item>
     <item>
       <title>利用工具、美学和人工智能提高生产力 • Cassidy Williams 和 Ben Hong</title>
@@ -29,7 +78,7 @@
     <item>
       <title>命令式程序员尝试学习 Haskell</title>
       <link>https://www.reddit.com/r/programming/comments/1hh48wq/an_imperative_programmer_tries_to_learn_haskell/</link>
-      <description><![CDATA[最近有没有其他命令式程序员尝试学习像 Haskell 这样的纯函数式语言？你的经验是什么？ 我在这篇文章中写了我自己的经验。    提交人    /u/hatwd   [link] [comments]]]></description>
+      <description><![CDATA[最近有没有其他命令式程序员尝试学习像 Haskell 这样的纯函数式语言？你的经验是什么？ 我在这篇文章中写了我的经历。    提交人    /u/hatwd   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hh48wq/an_imperative_programmer_tries_to_learn_haskell/</guid>
       <pubDate>Wed, 18 Dec 2024 15:39:53 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/Due-Muscle4532  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hgwtca/library_for_transparent_data_encryption_in_mysql/</guid>
       <pubDate>Wed, 18 Dec 2024 07:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 Java 8 迁移到 Java 17：综合指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgwcy5/how_to_migrate_from_java_8_to_java_17_a/</link>
-      <description><![CDATA[  由    /u/erdsingh24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgwcy5/how_to_migrate_from_java_8_to_java_17_a/</guid>
-      <pubDate>Wed, 18 Dec 2024 07:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要被“5分钟开发一个应用”误导：用 Cursor 进行深入实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgsz6d/do_not_be_misled_by_build_an_app_in_5_minutes/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgsz6d/do_not_be_misled_by_build_an_app_in_5_minutes/</guid>
-      <pubDate>Wed, 18 Dec 2024 03:45:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ScriptShare.io 是一个具有标签、投票和评论的脚本共享平台。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgsr5e/scriptshareio_is_a_script_sharing_platform_with/</link>
-      <description><![CDATA[  由    /u/IWannaBeTheGuy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgsr5e/scriptshareio_is_a_script_sharing_platform_with/</guid>
-      <pubDate>Wed, 18 Dec 2024 03:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Clay - C 语言中的高性能 UI 布局</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgsr17/introducing_clay_high_performance_ui_layout_in_c/</link>
-      <description><![CDATA[  由    /u/nicbarkeragain  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgsr17/introducing_clay_high_performance_ui_layout_in_c/</guid>
-      <pubDate>Wed, 18 Dec 2024 03:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>写完 19,314 行代码后，我决定关闭我的项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgpopa/after_19314_lines_of_code_im_shutting_down_my/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgpopa/after_19314_lines_of_code_im_shutting_down_my/</guid>
-      <pubDate>Wed, 18 Dec 2024 00:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>高速软件开发风格</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgpcpv/a_highvelocity_style_of_software_development/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgpcpv/a_highvelocity_style_of_software_development/</guid>
-      <pubDate>Wed, 18 Dec 2024 00:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开源] ssh-browser 是一款跨平台桌面应用程序，无需命令行即可管理您的 ssh</title>
-      <link>https://www.reddit.com/r/programming/comments/1hgo9br/opensource_sshbrowser_a_crossplatform_desktop_app/</link>
-      <description><![CDATA[  由    /u/Ok_Inevitable_3392  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hgo9br/opensource_sshbrowser_a_crossplatform_desktop_app/</guid>
-      <pubDate>Tue, 17 Dec 2024 23:41:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
