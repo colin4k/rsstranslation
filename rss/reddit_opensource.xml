@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Dec 2024 03:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 09:02:17 GMT</lastBuildDate>
+    <item>
+      <title>Satty——现代截图注释工具——需要您的帮助！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hhopew/satty_the_modern_screenshot_annotation_tool_needs/</link>
+      <description><![CDATA[  由    /u/gabm-sn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hhopew/satty_the_modern_screenshot_annotation_tool_needs/</guid>
+      <pubDate>Thu, 19 Dec 2024 08:49:56 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub - SenseUnit/dumbproxy: 简单、可编写脚本、安全的正向代理</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhdjcz/github_senseunitdumbproxy_simple_scriptable/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我喜欢 Onenote，只是厌倦了微软让我专注于将 Windows 保留在一个程序中。根据我的研究，Joplin 和 Obsidian 似乎与 Onenote 非常相似。只是不确定选择哪一个。听起来 Joplin 更适合即插即用，但 Obsidian 更适合“知识管理”这与笔记记录有何不同，我不知道。想法和意见？    提交人    /u/uvuguy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hgmhbk/going_from_onenote_to_obsidian_or_joplin/</guid>
       <pubDate>Tue, 17 Dec 2024 22:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>很高兴与大家分享 Bruin，一个用 Go 构建的端到端数据管道工具！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hggcsi/excited_to_share_bruin_an_endtoend_data_pipeline/</link>
-      <description><![CDATA[大家好， 我构建了 Bruin，将数据提取、SQL 和 Python 转换以及数据质量检查结合到单个 CLI 工具中，并使用 VS Code 扩展实现无缝的本地工作流程。 我们很乐意听取您的反馈和支持，请查看并给我们一个 ⭐，如果您觉得有用：https://github.com/bruin-data/bruin    提交人    /u/karakanb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hggcsi/excited_to_share_bruin_an_endtoend_data_pipeline/</guid>
-      <pubDate>Tue, 17 Dec 2024 17:51:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

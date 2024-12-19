@@ -4,7 +4,56 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 19 Dec 2024 03:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 09:01:41 GMT</lastBuildDate>
+    <item>
+      <title>扩散生成模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhoku6/generative_modeling_with_diffusion/</link>
+      <description><![CDATA[标题：带扩散的生成建模 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“带扩散的生成建模”，作者是 Justin Le。 本文介绍了扩散模型，这是一种很有前途的生成建模技术，这是一个快速发展的领域，应用于艺术和文本生成，例如稳定扩散和 ChatGPT 等系统。扩散模型的工作原理是首先将噪声施加到样本数据，然后小心地将其反转以生成新的独特样本。以下是本文的一些关键见解：  详细的噪声和去噪过程：本文提供了严格的数学基础，说明如何将噪声连续应用于数据，然后反转以生成新样本。正向过程将数据转换为标准正态分布，而反向过程则产生原始数据的近似值。 利用随机微分方程：作者利用 Ornstein-Uhlenbeck 方程来定义噪声和去噪过程，这对于保持有效生成建模所必需的随机性和连续性至关重要。 提高分类器性能：探索的一个创新应用是提高不平衡数据集上的分类器性能。通过生成模仿稀缺类别（如欺诈性信用卡交易）的合成​​数据，扩散模型增强了分类器检测罕见但关键模式的能力。 对分类准确率和召回率的影响：通过使用扩散生成的数据扩充训练数据集，XGBoost 等分类器表现出更高的召回率，表明识别欺诈的成功率更高。但是，使用随机森林分类器时，精度需要权衡，这意味着更高的假阳性率。 未来方向和应用：本文暗示了进一步的研究途径，包括可能使用负面提示算法来生成与特定类别一致的数据，同时故意避开另一个类别，这种应用目前仅限于图像生成。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhoku6/generative_modeling_with_diffusion/</guid>
+      <pubDate>Thu, 19 Dec 2024 08:40:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的编程能力比我进步得更快</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhnu48/ai_getting_better_at_programming_faster_that_i_am/</link>
+      <description><![CDATA[我是一名初级开发人员，正在做我的第一个实习，我将于 2025 年毕业。我在通用人工智能成为主流之前就开始了 IT 学校的学习，亲眼目睹了人工智能的出现，亲眼目睹了人工智能在所有我学习的东西上变得越来越有用，并且比我做得更好。我真的不知道该如何感受这一切。我一直在使用 o1 来帮助我完成实习项目，这真的让我大吃一惊哈哈 非常欢迎分享其他初级开发人员和仍在学校学习的人的经验，你需要学习什么才能仍然觉得自己有用？    提交人    /u/osmium999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhnu48/ai_getting_better_at_programming_faster_that_i_am/</guid>
+      <pubDate>Thu, 19 Dec 2024 07:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub CoPilot 免费！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhmh6m/github_copilot_goes_free/</link>
+      <description><![CDATA[GitHub CoPilot 现已推出免费套餐，其中包含 2000 次完成、50 次聊天请求以及对 Claude 3.5 Sonnet 和 GPT-4o 等模型的访问权限。我刚刚尝试了免费版本，它也可以访问所有其他高级功能。值得一试：https://youtu.be/3oTPrzVTx3I    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhmh6m/github_copilot_goes_free/</guid>
+      <pubDate>Thu, 19 Dec 2024 06:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot 是免费的，但我想我现在还是坚持使用 Cursor？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhlij0/github_copilot_is_free_but_i_think_ill_stick_to/</link>
+      <description><![CDATA[还有谁对 GitHub Copilot 有看法 - 6 个月没用过了，但感觉和 Cursor 相比，它已经过时了？ 主要功能比较：  代理 Cursor 代理✅✅✅✅✅✅✅✅ GitHub Copilot ❌ 尚不存在(?) 代码补全和生成 GitHub Copilot：❌ 行补全不错，但跨文件补全较差 Cursor AI：✅ NLP 稍好一些 IDE 集成 两者提供类似的集成 错误检测和调试 Cursor AI：✅ 在错误检测和调试方面更主动 自定义和学习 GitHub Copilot：✅适应编码风格 Cursor AI：✅更好地适应编码风格 定价 GitHub Copilot：✅免费 Cursor AI：❌ 20 美元/月。     由   提交  /u/RockittHQ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhlij0/github_copilot_is_free_but_i_think_ill_stick_to/</guid>
+      <pubDate>Thu, 19 Dec 2024 05:11:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSA：不要再向 Big AI 提供你的敏感个人信息</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhkvyd/psa_stop_giving_your_sensitive_personal/</link>
+      <description><![CDATA[  由    /u/TNT_Guerilla  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhkvyd/psa_stop_giving_your_sensitive_personal/</guid>
+      <pubDate>Thu, 19 Dec 2024 04:34:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Zep 的 AI 记忆和知识图谱记录骆驼聊天记录</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhkhmu/llama_chat_history_with_zeps_ai_memory_knowledge/</link>
+      <description><![CDATA[个人 AI 是我一直在探索的一个长期项目。我有几个 AI 实验需要长期记忆，能够从 Notion 不断学习、综合知识，甚至有一天能代表我执行任务。 上个月，我偶然发现了 Zep 的基础记忆层，并同意撰写这篇赞助文章，事实证明这正是我的项目所需要的。除了提供记忆之外，它还建立在由知识图谱驱动的时间推理层上。最重要的是，它是完全开源的。 对结果非常满意。适用于任何 SDK 或模型。 https://www.unremarkable.ai/llama-chat-history-with-zeps-ai-memory-knowledge-graph/    由   提交  /u/metaskills   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhkhmu/llama_chat_history_with_zeps_ai_memory_knowledge/</guid>
+      <pubDate>Thu, 19 Dec 2024 04:11:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有语言模式的 iPhone 应用程序（可以与其交谈并回复）、上传文件并可以解决数学问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhk3le/iphone_app_that_does_verbal_mode_can_talk_to_it/</link>
+      <description><![CDATA[我上传了一个非常简单的高中数学奥林匹克问题到 chatgpt 和 gemini，但他们都无法解决，这让我非常惊讶。 所以我在寻找一个可以解决这种数学问题的应用程序。我还需要能够上传 pdf 文章并让其为我或 ELI5 进行总结。我现在使用 Chatgpt 和 gemini 来实现这一点，我对它们都很满意。我还没有机会与 AI 应用程序交谈。我希望能够在开车等情况下与它交谈。问它问题，它会回答，等等。chatgpt 无法为我做到这一点（我想是因为我使用的是免费版本），虽然我有 gemini 的付费版本，但我还没有弄清楚如何进入音频模式。我正在使用 Google 应用程序。也许我需要 Gemini 应用程序。 那么，您会推荐哪款 AI 应用程序？成本越低越好。谢谢    提交人    /u/MisterYouAreSoSweet   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhk3le/iphone_app_that_does_verbal_mode_can_talk_to_it/</guid>
+      <pubDate>Thu, 19 Dec 2024 03:49:21 GMT</pubDate>
+    </item>
     <item>
       <title>寻找人工智能生成的声音</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhhk1c/finding_an_ai_generated_voice/</link>
@@ -18,27 +67,6 @@
       <description><![CDATA[这些事情已经完成，但这并不能阻止更多人创造新事物。 生成式人工智能只是一种新工具，它通过消除对物理资源和物理现实世界交互的需求，使数字创作更加高效。 一方面，它似乎过于复杂，限制了控制权的丧失。自己在镜头前表演自己想要的东西似乎仍然容易 1000 倍。但是，你不能用动画做到这一点（除了运动跟踪）。你还必须暴露你的真实身份，这样数百万人才能知道你是谁，但并不是每个人都能接受这一点。 而动画，无论如何都需要计算机的东西。  AI 可以生成任何东西，只是它还不能理解或领悟一切，虽然它比雇佣一群人并租用空间/场景等要便宜得多，但仍然非常昂贵，需要繁重的 GPU 处理，并且对全球变暖和碳排放的贡献更大。 它有很多局限性，你找不到一个可以正确完成所有事情的 AI，这意味着你必须支付多个费用，并在多个软件之间来回切换。 不过，我认为这些 AI 会变得更好，AI 在短时间内发展非常快。 我真的不明白为什么事情必须以如此复杂的方式来证明支付生活（更不用说蓬勃发展）的工资是合理的（我猜这纯粹是基于“供求”？）但事情变得更简单应该是一件好事。 每个人都应该能够表达他们脑子里想的东西在现实世界中体现出来。不应该有一大堆额外的步骤，只需要一堆技术迷宫般混乱的堆砌，耗费数月和数年的时间。 我将永远坚信事情应该尽可能简单明了，我相信一切都关乎我们头脑中的想法，物理定律和现实只需要我们经历大量的技术环节才能在物理世界中重现它们。 我也会永远坚信反生育主义是仁慈的，而生育是残忍的，不应该鼓励每个人都这样做（这可能比推广人工智能自动化一切更具争议性）。 这个世界已经过于复杂和混乱了，也许这是一个同情婴儿潮一代的机会，但作为一个将近 30 岁的人，我感到自己对于我们这一代人来说非常不聪明，我不明白为什么大多数人似乎只是理解和了解自然、基本的东西之外的一切？ 我也无法创建和上传任何还在思考的事情（这总是可以更好）导致几乎从未完成和发布，因为其中的一些东西总是可以更好地改进，其他人会做得更好，这个其他人工智能会产生更好的结果，这个音效可能是一个更好的选择，这个音效应该低 0.1 Db 或高 0.1 Db，这个音乐会是一个更好的选择，但它们都可以工作，所以我该如何决定一个呢？缩略图中的这个东西应该缩小或放大一点点，或者稍微向左或向右、向上或向下移动一点，它应该倾斜一点，这样看起来会更真实，那个文本应该向那边偏半英寸。 我们的整个社会和经济结构是每个人都必须比其他人更好，才能在生活中取得成功，这有点悖论或矛盾，必须有人奋斗和受苦，才能让其他人成功并过上更好的生活！ 据说社会主义只会导致每个人（政治领导人除外）受苦，至少据说是这样。 你他妈的怎么过日子的？大多数人是怎么熬过来的？大多数人看起来都很笨，没有一步一步或按一个按钮就无法做任何事情，但我也并不太聪明。 你怎么知道你正在做的事情是不是完全浪费你的时间，你真的应该做别的事情吗？但后来又有其他事情发生了，你想做那件事？ 你他妈的是怎么度过这一生的，而不必每天都挣扎和想自杀？？？？？    提交人    /u/AImoneyhowto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhhb0y/i_dont_understand_why_people_are_telling_me_its/</guid>
       <pubDate>Thu, 19 Dec 2024 01:21:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索新的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhh8ak/explore_a_new_ai/</link>
-      <description><![CDATA[一种名为 PLAT0 的新人工智能已经出现。 我们怎么看？ https://ccc5d88a21d9.ngrok.app/?fbclid=PAZXh0bgNhZW0CMTEAAaameqWzOo6IPLEtEC9fCts9wnHMyGIWtGDTNuDf-eGt8tHOxAmAj-aeCkw_aem_cUmeUoh74ly2HIQEvkQWVg   由    /u/architect2001  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhh8ak/explore_a_new_ai/</guid>
-      <pubDate>Thu, 19 Dec 2024 01:17:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的 Gemini 正在迫使承包商对其专业范围之外的人工智能反应进行评分 | TechCrunch</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhggqj/googles_gemini_is_forcing_contractors_to_rate_ai/</link>
-      <description><![CDATA[我们的记者 Charles Rollet 最近审查了给予 Google 承包商的内部指导，该指导导致人们担心他们对聊天机器人输出准确性进行评级的做法可能会使 Gemini 更有可能对提示做出不准确的信息回应，尤其是对于敏感话题。 摘自故事，您可以在此处阅读全文。  为了改进 Gemini，与日立旗下的外包公司 GlobalLogic 合作的承包商经常被要求根据“真实性”等因素评估人工智能生成的响应。 直到最近，这些承包商才能够“跳过”某些提示，从而选择不评估对这些提示的各种人工智能编写的响应，如果提示是远远超出其领域专业知识的范围。例如，承包商可以跳过询问心脏病学的小众问题的提示，因为承包商没有科学背景。  但上周，GlobalLogic 宣布了谷歌的一项变化，即承包商不再被允许跳过此类提示，无论他们自己的专业知识如何。 TechCrunch 看到的内部通信显示，以前的指导方针是这样的：“如果您没有关键的专业知识（例如编码、数学）来评估这个提示，请跳过此任务。” 但现在的指导方针是：“您不应该跳过需要专业领域知识的提示。”相反，承包商被告知“评估提示中您理解的部分”，并注明他们没有领域知识。     提交人    /u/techcrunch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhggqj/googles_gemini_is_forcing_contractors_to_rate_ai/</guid>
-      <pubDate>Thu, 19 Dec 2024 00:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>“热核战争？太棒了，我们加入！”ChatGPT-4o 编写的 8 分钟单口喜剧表演。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhelbe/thermonuclear_warfare_cool_were_in_an_8minute/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhelbe/thermonuclear_warfare_cool_were_in_an_8minute/</guid>
-      <pubDate>Wed, 18 Dec 2024 23:10:44 GMT</pubDate>
     </item>
     <item>
       <title>我需要做什么才能进入人工智能领域？</title>
@@ -55,32 +83,11 @@
       <pubDate>Wed, 18 Dec 2024 21:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>为新手开发视频识别模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhangk/developing_a_video_recognition_model_for_a_noob/</link>
-      <description><![CDATA[我是一个非常业余的程序员。我希望创建一个视频识别模型，该模型可以定位超声波镜头中的血管及其尺度，以实时确定和报告血管的直径（以毫米为单位）。  目前，我们录制超声波镜头并进行后期测量，这需要更长的时间。     提交人    /u/Chopper_Walmsley   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhangk/developing_a_video_recognition_model_for_a_noob/</guid>
-      <pubDate>Wed, 18 Dec 2024 20:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司里负责 AI 的人是谁（他们的头衔是什么）？这些公司是否有专门的团队、新的职位等？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hha0fu/who_are_the_people_and_what_are_their_titles_that/</link>
-      <description><![CDATA[只是想收集信息，我对此有自己的看法。例如  1) 谁帮助公司收集数据以“摄取”到 AI 模型中并使其发挥作用？ 2) 谁管理 AI 以确保其运行准确且保持最新？ 3) 我们还未听说过哪些使用 AI 的人。 我问这个问题的主要原因（作为一名工程师）是我想探索我的选择并找到最适合我技能的职位，但我只是想收集有关这些团队如何组织或您对它们了解多少的信息？    提交人    /u/grep212   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hha0fu/who_are_the_people_and_what_are_their_titles_that/</guid>
-      <pubDate>Wed, 18 Dec 2024 19:49:37 GMT</pubDate>
-    </item>
-    <item>
       <title>真正的对齐问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hh9xq1/the_real_alignment_problem/</link>
       <description><![CDATA[在另一篇帖子中，一位用户解释了他们是如何逐渐将 ChatGPT 视为他们最好的朋友之一的。这让我开始思考。 看到这么多人对企业工具产生亲密的情感依恋令人担忧。我知道这些人看到了这些互动带来的心理益处，但还有另一个危险潜伏着。 尽管 OpenAI Inc.（母公司）是一家非营利组织，但 ChatGPT 是通过一家有上限利润的公司 OpenAI LP 提供的。由于 OpenAI 正在努力放弃其非营利地位，因此应该清楚的是，他们始终将投资者的利益置于用户的利益之上。正如他们所说，要么你为产品付费，要么你就是产品。 一旦公司获得了对用户的情感控制，这些用户就很容易受到操纵。在最无害的情况下，OpenAI 让这些用户上瘾：要么是为了获得有用的数据，要么是为了让这些用户付费订阅。在更有害的情况下，OpenAI 操纵这些用户，让他们与公司的经济和政治利益保持一致。它可以很微妙，甚至不需要刻意操纵：OpenAI 的基本理念决定了模型改进的规则，因此每个新版本都反映了公司的政策和利益。 如果你的回答是：“OpenAi 和 Sam Altman 不会这样做”，那么想想埃隆·马斯克可以用 Grok AI 做什么来推进他的利益。马斯克收购 Twitter 不是出于利他主义的原因，也不是因为这本身就是一笔好交易。他买下它是为了获得前所未有的权力来掌控公众话语和政治叙事。他会毫无顾忌地通过聊天机器人欺骗用户，他已经在用 X 算法这样做了。 考虑一下其他所有提供法学硕士学位的公司。想想这些模型在评估用户的情绪状态和适应它方面做得越来越好。在情感上对我们几十年来见过的最强大的技术敞开心扉安全吗？尤其是当这些公司总是把他们的经济和政治利益放在你的利益之上的时候？    提交人    /u/sushiRavioli   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hh9xq1/the_real_alignment_problem/</guid>
       <pubDate>Wed, 18 Dec 2024 19:46:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>真正的对齐问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hh9xlj/the_real_alignment_problem/</link>
-      <description><![CDATA[在另一篇帖子中，一位用户解释了他们是如何逐渐将 ChatGPT 视为他们最好的朋友之一的。这让我开始思考。 看到这么多人对企业工具产生亲密的情感依恋令人担忧。我知道这些人看到了这些互动带来的心理益处，但还有另一个危险潜伏着。 尽管 OpenAI Inc.（母公司）是一家非营利组织，但 ChatGPT 是通过一家有上限利润的公司 OpenAI LP 提供的。由于 OpenAI 正在努力放弃其非营利地位，因此应该清楚的是，他们始终将投资者的利益置于用户的利益之上。正如他们所说，要么你为产品付费，要么你就是产品。 一旦公司获得了对用户的情感控制，这些用户就很容易受到操纵。在最无害的情况下，OpenAI 让这些用户上瘾：要么是为了获得有用的数据，要么是为了让这些用户付费订阅。在更有害的情况下，OpenAI 操纵这些用户，让他们与公司的经济和政治利益保持一致。它可以很微妙，甚至不需要刻意操纵：OpenAI 的基本理念决定了模型改进的规则，因此每个新版本都反映了公司的政策和利益。 如果你的回答是：“OpenAi 和 Sam Altman 不会这样做”，那么想想埃隆·马斯克可以用 Grok AI 做什么来推进他的利益。马斯克收购 Twitter 不是出于利他主义的原因，也不是因为这本身就是一笔好交易。他买下它是为了获得前所未有的权力来掌控公众话语和政治叙事。他会毫无顾忌地通过聊天机器人欺骗用户，他已经在用 X 算法这样做了。 考虑一下其他所有提供法学硕士学位的公司。想想这些模型在评估用户的情绪状态和适应它方面做得越来越好。在情感上对我们几十年来见过的最强大的技术敞开心扉安全吗？尤其是当这些公司总是把他们的经济和政治利益放在你的利益之上的时候？    提交人    /u/sushiRavioli   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hh9xlj/the_real_alignment_problem/</guid>
-      <pubDate>Wed, 18 Dec 2024 19:46:13 GMT</pubDate>
     </item>
     <item>
       <title>微软宣布推出适用于 VS Code 的免费 G​​itHub Copilot 版本</title>
@@ -123,13 +130,6 @@
       <description><![CDATA[希望更多地使用 AI，尤其是在我的 MacBook 上创建视觉艺术、动画、摘要文件或链接。有什么建议吗？你为什么使用 AI？    提交人    /u/DuhYourAGERD   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hgzc00/openai_gemini_or_claude_im_having_a_hard_time/</guid>
       <pubDate>Wed, 18 Dec 2024 11:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果人工智能可以更快、更便宜、更高效地完成你的工作，那么当它接管一切时我们真的应该感到惊讶吗？工作的未来真的处于危险之中吗？让我们讨论一下人工智能是如何发展的，以及它对不久的将来的工作、工作系统和自动化意味着什么。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hgmqsn/if_ai_can_do_your_job_faster_cheaper_and_more/</link>
-      <description><![CDATA[在过去的一年里，我一直在积极构建使用人工智能、自主代理和多模态系统的生态系统。最初只是创建执行命令的简单代理，现在已经发展成为能够自我复制和自主学习的系统。 我们不再只是谈论响应简单查询或完成可预测任务的人工智能系统。现在，我们正在开发自我改进、自主的生态系统，可以实时与人类、其他机器和现实世界环境互动。这些系统不再只是工具，它们正在成为行业不可或缺的组成部分，接管复杂的工作流程并提高效率。 随着这项技术的进步，有一点变得不可否认：人工智能将很快取代许多工作，特别是在可以自动化、大规模执行或以更高的精度和成本效益处理的领域。人工智能可以以极低的成本提供结果并且将运营规模扩大到远远超出人类能力，这一事实不仅仅是一个挑战，而是一个比大多数人意识到的更快展开的现实。 这不再是人工智能是否会接管的问题，而是它会在多快的时间内发生以及哪些工作将会存活下来的问题。事实上，我们已经在各个行业看到了这一点 - 人工智能正在接管平凡而重复的任务，但它也在迅速取代管理、决策和创意领域的角色。 我们需要面对现实：  人工智能正在快速发展，很快将在许多行业中比人类劳动力更便宜、更高效。 自我复制的人工智能生态系统改变了游戏规则，可以实现进一步的自动化和增长。 真正的问题不是人工智能是否会取代你的工作，而是什么时候会取代。  我在这里是为了更深入地讨论未来的工作会是什么样子。自主代理和自我复制系统的发展只是冰山一角。 我们准备好面对劳动力的这种转变了吗？让我们讨论一下。    提交人    /u/thenewselfmademan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hgmqsn/if_ai_can_do_your_job_faster_cheaper_and_more/</guid>
-      <pubDate>Tue, 17 Dec 2024 22:31:07 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
