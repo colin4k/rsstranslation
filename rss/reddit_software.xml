@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 19 Dec 2024 09:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 12:02:24 GMT</lastBuildDate>
+    <item>
+      <title>用于向量函数内积的符号计算软件或计算机代数系统</title>
+      <link>https://www.reddit.com/r/software/comments/1hhrbgq/symbolic_computation_software_or_computer_algebra/</link>
+      <description><![CDATA[我之前没有使用过任何符号计算软件。通过粗略搜索，我知道 Mathematica、Maple、Maxima 和其他一些软件。通过我的机构，我可以使用 Mathematica 12.1.1 和 Maple 2018。但是，如果需要，我的教授愿意购买最新版本。 现在，我需要使用这种类型的软件来计算向量函数的内积，其定义为： ⟨f(x),g(x)⟩=∫f(x)⋅g(x)dx 还涉及与连续力学相关的张量。我只是在帮我教授做研究的手工计算，所以我自己还没有完全意识到数学的深度。他问我是否愿意学习和使用该软件，因为其中涉及相当多的术语，手工计算很可能会导致错误。所有计算都是符号计算，没有数值计算。 此外，将来我想继续将其用于自己的研究工作或仅用于我个人的好奇心。我正在考虑帮助他，因为我将学习这个新软件。 那么你会推荐什么？在以下方面：  能够处理内积（因为这是迫切需要的） 易于快速学习和执行，因为这将占用我正常研究的一些时间。 良好直观的用户界面（我不是程序员，最近才学 Latex） 计算能力（正如我所说，有很多术语） 未来更多的通用用例将是一个加分项，但如果没有，您可以推荐我两个软件：一个满足我的迫切需要，另一个用于一般用途。  编辑：帖子已自动从 r/math 中删除。希望这是正确的地方。如果不是，请告诉我更好的 subreddit。    提交人    /u/Lazy-Pervert-47   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hhrbgq/symbolic_computation_software_or_computer_algebra/</guid>
+      <pubDate>Thu, 19 Dec 2024 11:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>带注释预设的屏幕截图</title>
+      <link>https://www.reddit.com/r/software/comments/1hhp2ih/screen_capture_with_annotation_presets/</link>
+      <description><![CDATA[大家好，我正在寻找一款可以截取屏幕截图并插入注释的软件。我使用 Greenshoot 已经很多年了，它可以复制图像，但也可以编辑图像。 我最近换用了 Sharex，它具有更多功能（虚线、曲线、填充区域等...）。 遗憾的是，这两款软件都没有保存带注释预设的功能，例如，我想用细红笔和粗蓝笔创建一个按钮。在这两款软件中，我每次都必须更改线条的颜色和粗细，因为我使用了 5-6 种不同的预设。 您知道具有此功能的软件吗？或者您知道是否可以使用 Sharex 或 Greenshoot 创建预设？在网上搜索我没有找到任何关于它的信息。 谢谢！    提交人    /u/DegliA89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hhp2ih/screen_capture_with_annotation_presets/</guid>
+      <pubDate>Thu, 19 Dec 2024 09:17:10 GMT</pubDate>
+    </item>
     <item>
       <title>我需要一个 Android 应用来追踪我们的营销活动，并添加图片和电话号码</title>
       <link>https://www.reddit.com/r/software/comments/1hhokd2/i_need_an_android_app_to_track_where_we_have/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我有一台松下 Toughbook cf33 i7 16gb 专用 GPS 和 4G，配有 Havis 底座和外部天线，我真的很想用它导航。除非我遗漏了什么，否则谷歌地图不会让您通过它导航。内置的 Windows 地图总是说目的地不可用，所以正在寻找一些可以使用板载 ublox GPS 的东西。如果我可以下载地图进行离线导航，我可以接受一个大程序。不在乎它是否是一个寻找好东西的付费程序。     提交人    /u/Tgambob   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hgixla/map_software_with_turn_by_turn_using_onboard_gps/</guid>
       <pubDate>Tue, 17 Dec 2024 19:41:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为您提供的 Web Styler 扩展</title>
-      <link>https://www.reddit.com/r/software/comments/1hgicuo/web_styler_extension_for_you/</link>
-      <description><![CDATA[嘿，我想分享一个我开始开发的浏览器扩展。到目前为止，我已经拥有 50 个免费用户和 2 个订阅者。 它允许您轻松自定义任何网页。它不仅允许您更改暗/亮模式，还可以更改任何背景颜色，扩展程序将根据当前网站主题调整该颜色。 然而，还有更多功能。在 https://tweakit.today 查看它 它有免费套餐，不需要任何登录墙。尝试一下，如果您能提供有关此扩展的任何反馈，我将不胜感激。    提交人    /u/thomas-brillion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hgicuo/web_styler_extension_for_you/</guid>
-      <pubDate>Tue, 17 Dec 2024 19:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twos PALs - 对你有用的列表</title>
-      <link>https://www.reddit.com/r/software/comments/1hghk7u/twos_pals_lists_that_do_work_for_you/</link>
-      <description><![CDATA[大家好，我开发了一款简单的一体化生产力应用程序（笔记、提醒、待办事项、日历、日记），名为 Twos。我们刚刚发布了一项名为 PALs（个人活动列表）或对您有用的列表的新 AI 功能。它已在 The Verge 和 TechCrunch 中进行了报道。我们将限制早期采用者的访问权限，直到 1 月，但我为 reddit 社区制作了一个代码，因此如果您想试用 PAL 的第一个版本，您可以在 https://www.TwosApp.com/pals 使用访问代码“Reddit”。我们希望它能帮助您记住更多生活，让您更有条理、更高效。如果您有任何问题，请告诉我。这里有 twos 帮助！✌️    提交人    /u/twosballer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hghk7u/twos_pals_lists_that_do_work_for_you/</guid>
-      <pubDate>Tue, 17 Dec 2024 18:42:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
