@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 21:02:09 GMT</lastBuildDate>
+    <item>
+      <title>寻求项目的早期反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hirgpu/looking_for_early_feedback_on_project/</link>
+      <description><![CDATA[我目前正在为我制作的一种（严肃的）语言开发编译器。我之前从未开发过编译器或更大规模的开源项目，因此，一些早期的反馈将有助于避免早期出现问题。 欢迎任何贡献！ 链接：https://github.com/BlackFuffey/Polymerizer 请注意，语言规范的链接已损坏，因为该存储库很乱，我决定将其保密，直到编译器达到&quot;可用&quot; 阶段。所有已实现的内容都在 test.kev    提交人    /u/BlackFuffey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hirgpu/looking_for_early_feedback_on_project/</guid>
+      <pubDate>Fri, 20 Dec 2024 19:21:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kluger Sim - 基于浏览器的蒙特卡罗模拟构建器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiovl8/kluger_sim_browser_based_monte_carlo_simulation/</link>
+      <description><![CDATA[我正在开发一款在浏览器中运行的软件（以后肯定能够移植到 Tauri 或 Electron 以开发桌面应用版本），用于以沙盒风格构建蒙特卡罗模拟。从 UI 角度来看，它仍然非常丑陋，但已经可以构建基本模拟了。我正在使用 C++ 和 Emscripten 编译器来尝试加快模拟循环期间的计算时间。基本上，用户构建一个 Sim，该 sim 由一个大型 C++ 结构表示，然后它会循环用户想要的次数（根据需要从 sim 结构中提取和更新数据），然后它会吐出（现在到控制台）用户要求的任何输出。我设想一些第三方 JS 库最终会通过绘图或其他方式更好地可视化这些输出，但尚未实现这一桥梁。 我现在担心的是模拟循环的速度。我构建了一个用于近似 Pi 的模拟（蒙特卡洛 Pi 近似），然后我运行该模拟，比如说 10,000 次。我原本预计结果会在一秒或更短的时间内出现（对于 WASM 来说，这可能不现实？），但似乎需要的时间比这长得多……大约 10 秒或 15 秒（我从未严格计时过）。对于在现实生活中有用的更复杂的模拟，用户可能想要运行 sim 数百万次，因此显然所需的时间是不切实际的。 这是 tldr 的基本逻辑：通过拖放函数构造 sim，这些函数名称按顺序存储到向量中，然后 switch 语句通过循环该向量来确定要运行哪个函数，每个函数根据需要更新主结构，最后在按顺序调用函数多次（按照 sim 要求的顺序）后，将输出发送到控制台。 以下是我知道我已经可以做的一些改进：  目前，所有内容都作为字符串传递给 C++ 结构，因此发生的任何数学运算都必须首先将字符串转换为双精度数，执行数学运算，然后将其转换回字符串。我认为，改变这一点可以在 1 万个循环中节省几秒钟，但可能只有几秒钟。我可以实现可选线程（如果用户确信他们的特定模拟可以并行运行，那么我可以创建几个线程，而不是仅仅以串行方式运行所有线程，只使用互斥锁来跟踪结构中的共享变量） - 但这只会增加特定模拟的模拟速度......并且它本身并没有提高我的代码的效率。如果有人好奇或有兴趣拆开我的代码以使其更快，我洗耳恭听。堆栈只是 C++、Python（Flask）、JS、HTML、CSS......我不会使用前端框架，主要是为了最少的维护和更好的面向未来......所以 JS 有点像狂野的西部，但我想我大部分时间都把它保密了。如果您还在阅读并且好奇，谢谢...这里是 GitHub：Kluger Sim GitHub 整个项目都很新，因此目前尚无关于如何使用它的文档。我想那些既能编程又能理解蒙特卡罗模拟的人应该能够猜出目前 UI 中的东西是干什么的……但如果有什么不明显的地方，我会在需要时在这些评论中提供意见。    提交人    /u/zacguymarino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiovl8/kluger_sim_browser_based_monte_carlo_simulation/</guid>
+      <pubDate>Fri, 20 Dec 2024 17:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以找到开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hinsa5/where_to_find_open_source_projects/</link>
+      <description><![CDATA[我是初学者，我想知道在哪里可以找到可以贡献的开源项目     提交人    /u/Historical-Chip-5152   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hinsa5/where_to_find_open_source_projects/</guid>
+      <pubDate>Fri, 20 Dec 2024 16:39:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个极简的、仅供客户端使用的电子邮件签名生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1himzfp/created_an_ultraminimal_clientonly_email/</link>
+      <description><![CDATA[不想一直被打扰，所以我想我只需创建自己的生成器。  GitHub：https://github.com/activenode/signature-project  页面：signature.activeno.de     由   提交  /u/activenode   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1himzfp/created_an_ultraminimal_clientonly_email/</guid>
+      <pubDate>Fri, 20 Dec 2024 16:03:38 GMT</pubDate>
+    </item>
     <item>
       <title>开源产品的商业模式</title>
       <link>https://www.reddit.com/r/opensource/comments/1hildeu/business_model_for_open_source_product/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>Sirang - 基于 QUIC 的实验性 TCP 隧道</title>
       <link>https://www.reddit.com/r/opensource/comments/1hihx3w/sirang_an_experimental_tcp_tunnel_over_quic/</link>
-      <description><![CDATA[      &amp; #32；提交人  /u/Icelain  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[       由   提交/u/Icelain  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hihx3w/sirang_an_experimental_tcp_tunnel_over_quic/</guid>
       <pubDate>Fri, 20 Dec 2024 11:35:35 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[自 2006 年以来，我一直完全使用 FOSS。我并不后悔，如今，当我尝试使用主流专有解决方案时，我发现自己会抓狂。甚至安装 Windows 而不是 Linux。我的意思是，为什么人们要让自己的生活如此痛苦而低效。无论如何...... 随着微软将最新的 Windows 限制为带有 TPM2 芯片的系统，我经常被南非的人联系，他们正在认真考虑转向开源。在许多情况下，我最终会得到报酬来为他们处理转换。到目前为止，我完全转换的每个人，即操作系统和软件，都更快乐。好吧，除了一个。 两年前，我母亲让我把她换成 Debian。我照做了，三个月后，她又让我把她换回 Sindows。拼写错误是故意的。然后突然之间，两个月前，她来找我，让我做一切需要做的事情来加速她的旧笔记本电脑，因为她大部分时间都在等待 Sindows 启动、浏览器打开、页面打印等。 所以我给她买了一个 240GB 的 SSD，将她的 RAM 翻倍，拿了一个驱动器托架，拆下她的光盘驱动器，将旧的 500GB HDD 放在它的位置。然后我向她解释了 Linux 发行版相对于 Sindows 的性能优势。她说她不在乎……做任何需要做的事情。 所以我为她安装了带有 Plasma 的 Debian 12。她很激动。太开心了。事情进展得如此之快，她说上次她带着一种封闭的心态，但这次她意识到 Linux 更容易使用。 无论如何，随着南非想要转型的人的涌入，我在想……商业世界需要的是一份关于商业视角的开源的体面而专业的出版物。 我将从一个新闻风格的网站开始，各种作者可以提交文章、案例研究、评论、访谈等。一旦有了吸引力，我就会考虑向相关企业出售独立广告。我可以编写广告引擎，让它保留每篇文章上显示/点击的广告指标，这样文章的作者就可以获得一部分广告收入。 一旦事情进展顺利，我就会考虑每季度出版一份印刷出版物，可以发给世界各地的企业。印刷出版物将有独家内容。我还想制作每个印刷版的数字版本，可以免费下载。我会以 epub 和 pdf 格式制作数字版本。 我已经为这个项目做了所有研究，并强调了从网站到印刷出版物和广告销售等所有方面的关键方法。 我现在正在寻找的是其他像我一样有兴趣参与此类努力的人？给我留言或发送聊天请求。    提交人    /u/thisiszeev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hhs40x/thinking_of_starting_a_foss_publication_targeted/</guid>
       <pubDate>Thu, 19 Dec 2024 12:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过一年半的工作，我们开源了 NodeTool - 一个类似于 ComfyUI 的视觉 AI 游乐场</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhryxy/after_15_years_of_work_were_opensourcing_nodetool/</link>
-      <description><![CDATA[我们开始构建 NodeTool 来快速组合 AI 模型，例如将 GPT 输出输入 StableDiffusion 或将 TextToSpeech 与 LLM 相结合。 在过去的 1.5 年里，最初的实验变成了一种痴迷，导致了精致的桌面应用程序，如果您有 GPU（Apple Silicon 或 Nvidia），您可以在所有三个平台上下载和运行它。 我们认为 NodeTool 可以成为一种强大而有趣的方式来为许多 AI 应用程序制作原型，请查看 https://nodetool.ai/     提交人    /u/gurkitier   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhryxy/after_15_years_of_work_were_opensourcing_nodetool/</guid>
-      <pubDate>Thu, 19 Dec 2024 12:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用开源应用程序编写书籍/脚本？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhqwci/writing_booksscripts_with_an_open_source_app/</link>
-      <description><![CDATA[你好！ 仅标题：一个开源应用程序（当然，如果存在的话），具有编写电影/电视脚本或书籍的所有功能。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhqwci/writing_booksscripts_with_an_open_source_app/</guid>
-      <pubDate>Thu, 19 Dec 2024 11:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satty——现代截图注释工具——需要您的帮助！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhopew/satty_the_modern_screenshot_annotation_tool_needs/</link>
-      <description><![CDATA[  由    /u/gabm-sn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhopew/satty_the_modern_screenshot_annotation_tool_needs/</guid>
-      <pubDate>Thu, 19 Dec 2024 08:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - SenseUnit/dumbproxy: 简单、可编写脚本、安全的正向代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hhdjcz/github_senseunitdumbproxy_simple_scriptable/</link>
-      <description><![CDATA[        提交人    /u/yarmak   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hhdjcz/github_senseunitdumbproxy_simple_scriptable/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:22:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
