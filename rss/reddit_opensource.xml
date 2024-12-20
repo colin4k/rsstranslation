@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Dec 2024 03:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 06:01:59 GMT</lastBuildDate>
+    <item>
+      <title>[Windows 7] 卸载程序，用于删除 Windows 系统无法删除的软件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiccrq/windows_7_an_uninstaller_to_remove_softwares_that/</link>
+      <description><![CDATA[  由    /u/The_Viewer2083  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiccrq/windows_7_an_uninstaller_to_remove_softwares_that/</guid>
+      <pubDate>Fri, 20 Dec 2024 04:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有适用于 Windows 7 的反恶意软件/安全扫描程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hicc3c/is_there_any_anti_malwaresecurity_scanner_for/</link>
+      <description><![CDATA[我指的是防病毒扫描程序。    由   提交  /u/The_Viewer2083   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hicc3c/is_there_any_anti_malwaresecurity_scanner_for/</guid>
+      <pubDate>Fri, 20 Dec 2024 04:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>TidesDB v0.3.0 BETA 发布！（存储引擎，键值存储）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hic7nq/tidesdb_v030_beta_release_storage_engine_keyvalue/</link>
+      <description><![CDATA[各位开源爱好者，大家好！我很高兴地宣布 TidesDB v0.3.0 BETA 版发布。TidesDB 是一款开源、持久、事务性和嵌入式存储引擎。它是一个基于日志结构合并树架构从头开始设计和构建的共享 C 库。我之所以开始 TidesDB 是一个充满激情的项目，是因为我非常喜欢数据库和与存储相关的一切。TidesDB 的目标是创建最简单、最易用和最快的存储引擎。 以下是一些当前功能！   ACID 事务具有原子性、一致性、隔离性和持久性。事务与各自的列族相关联。  并发 多个线程可以读取和写入存储引擎。列族使用读写锁，因此每个列族允许多个读取器和一个写入器。提交的事务会阻止其他线程读取或写入列族，直到事务完成。事务是线程安全的。  列族将数据存储在单独的键值存储中。每个列族都有自己的内存表和 sstables。  原子事务以原子方式提交或回滚多个操作。当事务失败时，它会回滚所有操作。  Cursor向前和向后迭代键值对。  WAL预写日志以确保持久性。列族在启动时重放 WAL。如果列族在关闭前未达到阈值，则会重建内存表。  多线程压缩手动多线程配对和合并 sstables 压缩。例如，运行时 10 个 sstables 会压缩为 5 个配对和合并。每个线程负责一对 - 您可以设置用于压缩的线程数。  布隆过滤器通过读取 sstables 的初始块来检查密钥的存在，从而减少磁盘读取。  压缩压缩是使用 Snappy、LZ4 或 ZSTD 实现的。 SStable 条目可以像 WAL 条目一样被压缩。  TTL 键值对的生存时间。  可配置 列族可配置 memtable 刷新阈值、数据结构、如果跳过列表最大级别、如果跳过列表概率、压缩和布隆过滤器。  错误处理 API 函数返回错误代码和消息。  简单的 API 简单易用的 api。  多个 Memtable 数据结构 memtable 可以是跳过列表或哈希表。  我花了很多时间思考如何使用 API，并且对它感到非常满意。我很想听听你对这个版本的看法。 谢谢你查看我的帖子:) https://github.com/tidesdb/tidesdb    提交人    /u/diagraphic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hic7nq/tidesdb_v030_beta_release_storage_engine_keyvalue/</guid>
+      <pubDate>Fri, 20 Dec 2024 04:49:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年波兰最佳 IPTV 服务提供商</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hiao2o/best_iptv_service_providers_for_2025_in_poland/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hiao2o/best_iptv_service_providers_for_2025_in_poland/</guid>
+      <pubDate>Fri, 20 Dec 2024 03:21:01 GMT</pubDate>
+    </item>
     <item>
       <title>开源照片销售应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>Figma-to-code 与您的编码风格相匹配！</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhwqjl/figmatocode_that_matches_your_coding_style/</link>
-      <description><![CDATA[大家好！我们构建了一个工具来解决在现有项目之上编写前端代码的问题（这就是 v0/Cursor 目前落后的地方）。它是一个 VSCode/Cursor 扩展，它接受 Figma/images/prompts 并编写与您的设计系统、编码风格相匹配的代码并重用您的 UI 组件。很乐意收到反馈！ Github：https://github.com/aquila-lab/superflex-vscode 网站：superflex.ai     提交人    /u/qlut   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我们构建了一个工具来解决在现有项目之上编写前端代码的问题（这是 v0/Cursor 目前落后的地方）。它是一个 VSCode/Cursor 扩展，它接受 Figma/images/prompts 并编写与您的设计系统、编码风格相匹配的代码并重用您的 UI 组件。很乐意收到反馈！ Github：https://github.com/aquila-lab/superflex-vscode 网站：superflex.ai     提交人    /u/qlut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hhwqjl/figmatocode_that_matches_your_coding_style/</guid>
       <pubDate>Thu, 19 Dec 2024 16:29:37 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我一直在寻找一款优秀的 FOSS PowerPoint 替代品，它支持超链接到另一张幻灯片，您可以将鼠标悬停在包括图像或形状的元素上，然后发送到另一张幻灯片。最接近完美实现这一点的是 WPS office，它在价格上是免费的，但在自由度上却不免费。    提交人    /u/Extreme-Ad-9290   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hh9nmq/good_foss_powerpoint_hyperlinks/</guid>
       <pubDate>Wed, 18 Dec 2024 19:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>GopherDrop：一种简单、安全的共享一次性秘密和文件的方法！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh7199/gopherdrop_a_simple_secure_way_to_share_onetime/</link>
-      <description><![CDATA[你好 /r/opensource ！ 我刚刚完成了 GopherDrop 的构建，这是一个受 Bitwarden Send 启发的自托管工具。它是一个安全的 REST API 和 UI，用于共享一次性机密和文件。使用 Go 为后端构建，使用 Vue.js 和 Vuetify 为前端构建。 你可以在这里查看：Github 链接 我很想听听你的想法和建议，因为这是我的第一个开源项目。    提交人    /u/Mparigas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh7199/gopherdrop_a_simple_secure_way_to_share_onetime/</guid>
-      <pubDate>Wed, 18 Dec 2024 17:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找小型 Rust 项目的贡献者、文档 + 配置</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh5qli/looking_for_contributors_to_a_small_rust_project/</link>
-      <description><![CDATA[您好，我有一个名为 SRHD（简单 rust 热键守护进程）的小项目。它是适用于 macOS 的宏软件，但希望将其扩展到 linux。自动生成的文档也不存在，并且普遍缺乏测试。如果您对 Rust 开发有任何了解，请帮助解决这些复杂问题，这将非常棒，但如果不了解，我也没有太多时间编写文档，这也太糟糕了！ https://github.com/SylvanFranklin/srhd    提交人    /u/Substantial_Tea_6549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh5qli/looking_for_contributors_to_a_small_rust_project/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 OpenClimate.fund 推动社区驱动融资</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</link>
-      <description><![CDATA[我们正在启动OpenClimate.fund，这是一项社区驱动的倡议，旨在支持解决气候变化和生物多样性丧失问题的开源项目。这些是我们这个时代最紧迫的挑战之一，但这些领域的开源工作仍然资金严重不足。虽然在人工智能和安全等领域投入了大量资源，但在开源解决方案方面，环境部门基本上空手而归。是时候改变这种状况了。 ​​OpenClimate.fund旨在通过资助建立在透明度、信任和协作基础上的生态系统来弥合这一差距，以推进气候友好型技术和可衡量的环境影响。    提交人    /u/augspurger   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Storecraft CLI 可以创建一个完整的商务后端，可以使用 Javascript 与任何数据库、存储和计算一起运行</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh4w1m/storecraft_cli_can_create_a_complete_commerce/</link>
-      <description><![CDATA[        由    /u/hendrixstring 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh4w1m/storecraft_cli_can_create_a_complete_commerce/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:08:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
