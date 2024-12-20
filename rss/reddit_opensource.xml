@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Dec 2024 21:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 03:06:34 GMT</lastBuildDate>
+    <item>
+      <title>开源照片销售应用程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</link>
+      <description><![CDATA[我已经为系统管理编写 Python 脚本一段时间了，最​​近才开始摆弄 Flask 并学习 Django。我曾与我的兄弟讨论过，他是一名摄影师，他正在寻找一种方法来给照片加水印并与客户分享，并允许客户确认他们是否想要一张还是多张照片，并按选择收费，一旦购买，他们将收到没有水印的照片。  我认为在尝试从头开始构建它之前，找到一个已经存在的开源摄影应用程序并可能添加一些功能真的很酷。  有人知道任何仍在积极维护的管理照片的开源项目吗？     提交人    /u/sofloLinuxuser   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</guid>
+      <pubDate>Thu, 19 Dec 2024 23:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith 先生 – 用于构建项目脚手架的开源框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hi34fe/mr_smith_an_opensource_framework_for_building/</link>
+      <description><![CDATA[https://github.com/mr-smith-org/mr    由   提交  /u/BroccoliOdd3016   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hi34fe/mr_smith_an_opensource_framework_for_building/</guid>
+      <pubDate>Thu, 19 Dec 2024 21:06:43 GMT</pubDate>
+    </item>
     <item>
       <title>寻找 AI 文件管理器（带文本/图像的 PDF）</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhzjyg/looking_for_ai_file_organizer_pdfs_with_textimages/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>GitHub 受 450 万虚假星星问题困扰，误导用户</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhx2d2/github_plagued_by_45_million_fake_stars_problem/</link>
-      <description><![CDATA[GitHub 是开源软件协作的首要平台，但目前正面临日益严重的虚假星级活动问题，这种活动会人为地夸大存储库受欢迎程度指标。卡内基梅隆大学和北卡罗来纳州立大学的研究人员最近进行的一项研究揭示了这种趋势如何误导开发人员并为恶意软件的扩散开辟了道路。 https://cyberinsider.com/github-plagued-by-4-5-million-fake-stars-problem-misleading-users/    提交人    /u/trevor25   [链接] [评论]]]></description>
+      <description><![CDATA[GitHub 是开源软件协作的首要平台，但它正面临日益严重的虚假星级活动问题，这种活动会人为地夸大存储库的受欢迎程度指标。卡内基梅隆大学和北卡罗来纳州立大学的研究人员最近进行的一项研究揭示了这种趋势如何误导开发人员并为恶意软件的扩散开辟了道路。 https://cyberinsider.com/github-plagued-by-4-5-million-fake-stars-problem-misleading-users/    提交人    /u/trevor25   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hhx2d2/github_plagued_by_45_million_fake_stars_problem/</guid>
       <pubDate>Thu, 19 Dec 2024 16:44:00 GMT</pubDate>
     </item>
@@ -41,7 +55,7 @@
       <pubDate>Thu, 19 Dec 2024 14:56:20 GMT</pubDate>
     </item>
     <item>
-      <title>随着 2024 年接近尾声，OSI 回顾了这多事的一年，这一年在倡导全球政策和标准制定中的开源原则方面取得了重大成就。</title>
+      <title>随着 2024 年接近尾声，OSI 回顾了这多事的一年，这一年在全球政策和标准制定中倡导开源原则方面取得了重大成就。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhs5df/as_2024_draws_to_a_close_the_osi_reflects_on_an/</link>
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hhs5df/as_2024_draws_to_a_close_the_osi_reflects_on_an/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/hendrixstring 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hh4w1m/storecraft_cli_can_create_a_complete_commerce/</guid>
       <pubDate>Wed, 18 Dec 2024 16:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>备份软件推荐（Windows）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh3tz8/recommendations_for_backup_software_windows/</link>
-      <description><![CDATA[嗨！ 我正在寻找用于在 Windows 11 上创建备份的可靠软件。我需要能够执行以下操作的东西：  连接到我自己的云存储，例如 Mega 和 Google Drive。 允许我安排备份并控制其配置。  如果软件是免费和开源的，那就太好了。 到目前为止，我遇到过 Rclone 和 Duplicati，但我没有找到很多评论或用户体验来指导我。 有人有使用这些工具的经验或知道任何其他满足这些要求的解决方案吗？ 谢谢！    提交人    /u/Forkan5870   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh3tz8/recommendations_for_backup_software_windows/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Markdown 的 AI 代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh3snl/markdown_based_ai_agents/</link>
-      <description><![CDATA[        提交人    /u/Primary-Avocado-3055   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh3snl/markdown_based_ai_agents/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
