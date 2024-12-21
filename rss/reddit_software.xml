@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 21 Dec 2024 00:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 06:01:58 GMT</lastBuildDate>
+    <item>
+      <title>用于向员工展示行走路径的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hj356w/software_to_show_my_employees_walking_path/</link>
+      <description><![CDATA[大家好，我经营一家狗屎清理公司，我想提供一张团队成员在院子里行走的路径快照/图像。我们时不时会收到这样的评论：“你们的人在这里待了 5 分钟，不可能把所有东西都清理干净。”如果我们可以自动向他们发送他们行走的路径，那就太棒了。我们可以使用哪些应用程序，并有某种流程来收集这些数据、获取图像并将其发送给客户？你们有什么想法吗？    提交人    /u/GelatinousDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hj356w/software_to_show_my_employees_walking_path/</guid>
+      <pubDate>Sat, 21 Dec 2024 05:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPC-HC 字幕无法使用。</title>
+      <link>https://www.reddit.com/r/software/comments/1hj26sl/mpchc_subtitles_not_working/</link>
+      <description><![CDATA[我正在尝试为视频创建字幕文件。该视频文件是《星际迷航 DS9》的一集，我将其命名为“521 帝国士兵”。这个名字很重要，请耐心听我说。我已经创建了 .txt 文件，它很好（我制作了很多这样的文件，我知道格式是正确的），它具有相同的名称并且位于同一个文件夹中。但是当我在 MPC-HC 中播放视频时，字幕选项变灰，所以我无法加载字幕。该文件是一个 mp4 文件。我检查了所有能想到的设置，但找不到任何可以阻止它的设置。 最奇怪的是...... 这个文件夹中有多个 mp4 文件（是整个季的），还有其中一集的字幕文件（“503 在所有错误的地方寻找 Par&#39;Mach”），它运行正常。文件类型和其他所有内容都相同。 现在，文件名很重要......如果我将“521 帝国士兵”重命名为“503 在所有错误的地方寻找 Par&#39;Mach”，则“Par&#39;Mach”的字幕可以正常工作。实际上，我所做的就是更改文件名。文件中的其他设置均未更改。 这让我完全不知所措。有人可以解释一下可能发生的事情并提出建议吗？有什么可以解决问题吗？ 编辑：已解决 事实证明，我的字幕文件中确实存在格式错误。字幕开始的时间码和 --&gt; 箭头之间没有空格。    提交人    /u/Tiberius74205   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hj26sl/mpchc_subtitles_not_working/</guid>
+      <pubDate>Sat, 21 Dec 2024 04:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opensouce XML 查看器？</title>
+      <link>https://www.reddit.com/r/software/comments/1hj1pky/opensouce_xml_viewer/</link>
+      <description><![CDATA[[Linux 和/或 Microsoft Windows] 我在网上看了一些。  有人推荐 XML 查看器/编辑器 吗？ （类似于 XMLSpy？） 不，不是通用文本编辑器。特别是帮助跟踪文档结构等的 XML 查看器。     提交人    /u/elephantLYFE-games   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hj1pky/opensouce_xml_viewer/</guid>
+      <pubDate>Sat, 21 Dec 2024 03:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个能够以最小延迟运行 3D 游戏/图形的虚拟机</title>
+      <link>https://www.reddit.com/r/software/comments/1hize3h/i_need_a_vm_that_can_run_3d_games_graphics_with/</link>
+      <description><![CDATA[所以我目前正在尝试不同的 VM 软件，问题是它们并非全部都是免费的或非常容易使用的。 我可能希望在 VM 上运行 Windows 和 Linux，并且仍然能够使用我的 GPU，以便我可以测试游戏和 3D 图形等软件。 VMBox 是我以前使用过的应用程序，但它缺乏对使用 GPU 的适当/简单支持。因此，渲染 3D 图形的应用程序要么根本无法加载，要么如果它们在 CPU 上渲染则性能非常糟糕。 当然，距离我上次使用它已经好几年了，也许有些东西已经改变了。 但我非常感谢一些好的建议。 最好是免费的 VM 软件，因为我只是一个人，我没有经营或拥有公司，它只是用于我的家用电脑。   由    /u/Cartoon_Corpze  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hize3h/i_need_a_vm_that_can_run_3d_games_graphics_with/</guid>
+      <pubDate>Sat, 21 Dec 2024 01:46:23 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一种可以让我进行循环排名的东西，不是针对体育/锦标赛，而是针对今年我读过的所有书籍进行排名</title>
       <link>https://www.reddit.com/r/software/comments/1hiu51w/looking_for_something_that_allows_me_to_do_round/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>游戏内多人聊天翻译应用程序或游戏引擎插件，可以“廉价”地离线完成（无需 AI，无需 Google/DeepL API 调用）</title>
       <link>https://www.reddit.com/r/software/comments/1hieug4/ingame_multiplayer_chat_translation_app_or_game/</link>
-      <description><![CDATA[您好，我正在寻找一款后台应用，或者一款即将制作的游戏插件，它可以以最节省硬件成本的方式翻译消息。 对于英语使用者来说，将西里尔文文本翻译成任何内容，即使是胡言乱语，也比面对满墙的外星文字要好。我想知道这样的功能是否可以如此轻量，以至于成为游戏的标准。在聊天中简单地热交换单词，如果不会给硬件带来太多负担，可以选择对同时出现的单词进行上下文感知？鉴于这是游戏玩家的聊天，这样的翻译器不需要非常复杂。 我知道Danily07 的 Translumo 和LibreTranslate，看起来它可以很好地完成工作，只缺少对帖子标题的严格要求。    提交人    /u/Zloty_Diament   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我正在寻找一款后台应用，或者一款即将制作的游戏插件，它可以以最节省硬件成本的方式翻译消息。 对于英语使用者来说，将西里尔文文本翻译成任何内容，即使是胡言乱语，也比面对满墙的外星文字要好。我想知道这样的功能是否可以如此轻量，以至于成为游戏的标准。在聊天中简单地热交换单词，如果不会给硬件带来太多负担，可以选择对同时出现的单词进行上下文感知？鉴于这是游戏玩家的聊天，这样的翻译器不必非常复杂。 我知道Danily07 的 Translumo 和LibreTranslate，看起来它可以很好地完成工作，只缺少对帖子标题的严格要求。 已解决： https://www.reddit.com/r/GameDevelopment/comments/1hievx3/comment/m315n83   由    /u/Zloty_Diament  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hieug4/ingame_multiplayer_chat_translation_app_or_game/</guid>
       <pubDate>Fri, 20 Dec 2024 07:44:22 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[所以我正在浏览旧文件，然后找到了一个保存为 .DTP 文件的相册。它很旧了，我很好奇上面有什么。我在网上搜索过，但发现的很少。它似乎是很久以前公司使用的某种出版文件。我发现的唯一一个可以打开它的程序很旧，我无法让它工作（Timeworks Publisher，Publish It!：https://winworldpc.com/product/publish-it/40） 这里有人有更多关于如何打开这个文件或哪些程序支持它的信息吗？    提交人    /u/FakkaJohan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hi3k5t/i_found_a_dtp_file_on_my_pc_and_i_dont_know_how/</guid>
       <pubDate>Thu, 19 Dec 2024 21:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个软件可以通过文本中的标点符号自动在音频文件中创建静音？</title>
-      <link>https://www.reddit.com/r/software/comments/1hi2y4q/is_there_a_software_to_automatically_create/</link>
-      <description><![CDATA[我正在使用 Audacity 录制我朗读文本的语音。 有没有办法通过文本文件的标点符号自动编辑静音，比如每次出现逗号时就留出 0.5 秒的静音时间，或者每次出现句号时留出 1.5 秒的静音时间？    提交人    /u/shaggy98   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hi2y4q/is_there_a_software_to_automatically_create/</guid>
-      <pubDate>Thu, 19 Dec 2024 20:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间块示意图软件按时间顺序描述房间占用情况</title>
-      <link>https://www.reddit.com/r/software/comments/1hi2nhh/time_block_schematic_software_to_depict_room/</link>
-      <description><![CDATA[大家好，我正在计划一个活动，我需要创建一个房间示意图，并按小时列出几天内的房间占用情况。 我可以用很多不同的方式来解释我的想法。我想到的第一个方法是为此制作一个电子表格。在这个假想的电子表格中，列代表一天中的小时。因此，X 轴上是时间，每个单元格代表一个房间。显然，占用情况将跨越多个小时，因此跨越这些列/小时的单元格将合并为一个。单元格本身将包含诸如居住者姓名、他们前往活动场地的交通方式、联系电话等信息。 但这似乎不适合做这项工作，我希望能够灵活地放大/缩小时间尺度，例如，不是一列代表一小时，而是当你缩小时，一列将代表一天中的六个小时。有点像音频编辑软件 Audacity 中波形的放大或缩小。或者在 AutoCAD 中几乎可以无限放大或缩小，但即使在那里字体大小也保持不变/不会随着缩放级别而变化。 draw.io 或其他在线工具是否有更适合此任务的模板？允许共享原理图唯一副本的链接但作为查看器的功能也是理想的。 我不知道为什么，但似乎大多数时候阻止解决方案以天为列，以小时为行。我需要列都取决于缩放级别。对 Google 日历、Amie、Ellie、Taskade 等解决方案有什么看法？其中一些看起来像企业“需要与团队一起实现的全年目标”解决方案。 我不需要将视频或音频剪辑嵌入其中。我不需要与其他人合作。我并不想让所有数据工程师都陷入这种状态。我讨厌那些似乎只是在屏幕上用一百万个东西轰炸你的压倒性 UI（我发现 Discord 的 UI 非常令人焦虑）。哎呀，我甚至想过手动完成整个过程，或者做两全其美的事情，不确定这会包含什么，但我只是想看看是否有某种数字方法符合要求。    提交人    /u/koolestani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hi2nhh/time_block_schematic_software_to_depict_room/</guid>
-      <pubDate>Thu, 19 Dec 2024 20:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全考试浏览器不让我通过修改过的光标进入？！</title>
-      <link>https://www.reddit.com/r/software/comments/1hi1b1k/secure_exam_browser_didnt_let_me_in_over_a/</link>
-      <description><![CDATA[嗨，我是一名学生，今天早些时候不得不使用安全考试浏览器。它的作用基本上就是锁定整个计算机，直到考试结束。我花了大约 20 分钟尝试打开它，因为无论我做什么，它都会给我一个错误消息，并在加载时将我淘汰。当我去阅读日志时，我发现了这个... https://preview.redd.it/16w66pz00v7e1.png?width=1426&amp;format=png&amp;auto=webp&amp;s=e48e19bd48630c4f672e8b46d08c2aaf1ae67682 这有什么原因吗？为什么要单独验证我所有的光标？创建者是否认为有人会将他们的光标修改为考试答案？值得庆幸的是，我没有浪费时间，因为考试开放了两个小时，只花了 45 分钟，但我很生气。这到底是什么。    提交人    /u/jennaboy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hi1b1k/secure_exam_browser_didnt_let_me_in_over_a/</guid>
-      <pubDate>Thu, 19 Dec 2024 19:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Win11破坏任务栏组</title>
-      <link>https://www.reddit.com/r/software/comments/1hi18qv/win11_ruining_taskbar_groups/</link>
-      <description><![CDATA[最后，任务栏组太糟糕了，除非我删除所有组并从头开始创建它们，否则我无法添加任何快捷方式 有没有办法修复它或者至少有一个替代方案 https://preview.redd.it/n6ywsxgmyu7e1.png?width=256&amp;format=png&amp;auto=webp&amp;s=9107fe1108955452191a0ef1c01ace14c41d25e9    由    /u/FROSKY- 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hi18qv/win11_ruining_taskbar_groups/</guid>
-      <pubDate>Thu, 19 Dec 2024 19:43:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
