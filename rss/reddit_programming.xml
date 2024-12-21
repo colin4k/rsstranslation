@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 21 Dec 2024 15:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 18:02:14 GMT</lastBuildDate>
+    <item>
+      <title>什么是 DNS？域名系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjf6t7/what_is_dns_domain_name_system/</link>
+      <description><![CDATA[  由    /u/Delicious-Dust-9932  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjf6t7/what_is_dns_domain_name_system/</guid>
+      <pubDate>Sat, 21 Dec 2024 17:56:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免常见扩展内联汇编错误的规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjeypl/rules_to_avoid_common_extended_inline_assembly/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjeypl/rules_to_avoid_common_extended_inline_assembly/</guid>
+      <pubDate>Sat, 21 Dec 2024 17:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到 QuickJS-NG</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjd1dp/welcome_to_quickjsng/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjd1dp/welcome_to_quickjsng/</guid>
+      <pubDate>Sat, 21 Dec 2024 16:15:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Rust 宏解决编译时代码出现问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjc3st/solving_advent_of_code_at_compile_time_with_rust/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjc3st/solving_advent_of_code_at_compile_time_with_rust/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>多线程、并发、并行还是异步？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hjc2fu/multithreading_concurrency_parallelism_or/</link>
+      <description><![CDATA[  由    /u/mxr_9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hjc2fu/multithreading_concurrency_parallelism_or/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:28:23 GMT</pubDate>
+    </item>
     <item>
       <title>[软件开发网络安全调查] 硕士学位学术调查。私人使用，匿名，所有问题都是可选的，因此您可以跳过。大约需要 5 分钟才能完成。如果您想提供帮助，请提供一些答案。谢谢 <3</title>
       <link>https://www.reddit.com/r/programming/comments/1hjbaof/survey_around_cybersecurity_in_software/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hitweu/pragmatic_category_theory_part_3_associativity/</guid>
       <pubDate>Fri, 20 Dec 2024 21:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Go 编写并测试分页 API 迭代器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hitwdk/writing_testing_a_paginated_api_iterator_in_go/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hitwdk/writing_testing_a_paginated_api_iterator_in_go/</guid>
-      <pubDate>Fri, 20 Dec 2024 21:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>数组枚举</title>
-      <link>https://www.reddit.com/r/programming/comments/1hitwcq/enum_of_arrays/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hitwcq/enum_of_arrays/</guid>
-      <pubDate>Fri, 20 Dec 2024 21:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>io_uring 中的进程创建</title>
-      <link>https://www.reddit.com/r/programming/comments/1hitvjj/process_creation_in_io_uring/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hitvjj/process_creation_in_io_uring/</guid>
-      <pubDate>Fri, 20 Dec 2024 21:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Golang 和 GraphQL 的完全私有 GitHub README 统计生成器 GHA</title>
-      <link>https://www.reddit.com/r/programming/comments/1hitdkh/completely_private_github_readme_stats_generator/</link>
-      <description><![CDATA[  由    /u/mahmirr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hitdkh/completely_private_github_readme_stats_generator/</guid>
-      <pubDate>Fri, 20 Dec 2024 20:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Procnames 开始行。但是为什么呢？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hisnri/procnames_start_lines_but_why/</link>
-      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hisnri/procnames_start_lines_but_why/</guid>
-      <pubDate>Fri, 20 Dec 2024 20:15:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

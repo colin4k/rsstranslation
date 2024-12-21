@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 21 Dec 2024 15:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 18:01:44 GMT</lastBuildDate>
+    <item>
+      <title>医疗助理 - 请有人窃取我的想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjfa5l/medical_assistant_someone_please_steal_my_idea/</link>
+      <description><![CDATA[我是一名医生，我每天都希望自己有一个 AI 助手。我希望有一种 AI 可以帮助诊断、开处方和处理官僚事务。也许甚至可以帮我发现我错过的东西，或者给我一个建议。我们有这方面的技术！我们只是需要有人来做！我会自己做，但我已经有了自己的事业，我不能放弃它。但是如果看到这个的人有兴趣做点什么，请，我很乐意尽我所能提供帮助。如果没有，好吧，只是发泄一下。    提交人    /u/-pocoto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjfa5l/medical_assistant_someone_please_steal_my_idea/</guid>
+      <pubDate>Sat, 21 Dec 2024 18:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建基于AI的虚拟登台SaaS？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjehbw/how_to_create_ai_based_virtual_staging_saas/</link>
+      <description><![CDATA[大家好， 我偶然发现了这款 SaaS：AI HomeDesign：房产列表的 AI 工具箱 还有更多类似上述的 SaaS 提供虚拟 AI 展示.. 我的问题是人们是如何创建添加家具或展示图片的 AI 的？他们使用的是预训练模型还是自定义模型？ 像我们这样的人怎么也能创建类似的东西？    提交人    /u/Goku560   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjehbw/how_to_create_ai_based_virtual_staging_saas/</guid>
+      <pubDate>Sat, 21 Dec 2024 17:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在日常生活中使用什么人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjdeyc/what_ai_do_you_use_in_your_day_to_day_life/</link>
+      <description><![CDATA[当然，我现在每天都会或多或少地使用 ChatGPT。但我也发现了 Google 的 NotebookLM，我一直用它来播客、开车旅行、学习等等。 但我想知道我错过了什么，所以我想问问人们他们使用什么，并得到一种集体的&amp;“你不知道你不知道什么&amp;”线索，了解人们每天都在使用的有用 AI，这会很好。    提交人    /u/househouse46   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjdeyc/what_ai_do_you_use_in_your_day_to_day_life/</guid>
+      <pubDate>Sat, 21 Dec 2024 16:33:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试时间计算对于真正的推理和智能来说是否足够？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjd00x/is_test_time_calculation_sufficient_for_real/</link>
+      <description><![CDATA[这是对经典 LLM 范式的改进，但我有理由相信它不是真正的推理。推理由 arc 标准充分客观地表示，并被 o3 模型超越，这是一个重大改进。1 - o3 模型需要不可持续的计算资源/过多的思考时间权衡，这种权衡增加了几个数量级。2 - 推理模型基本上会为目标任务生成数千甚至数百万个样本变化，并迭代过滤它们，直到找到目标问题的解决方案。3 - 这些模型的工作方式是通过在测试时进行微调来过度拟合特定问题。ttc 模型是不连续的，这意味着它们不能很好地概括以成功完成现实世界的任务，其中任务所需的样本变化范围很高。因此，它们不能超越一种模仿网络。 4 - 这些模型还应该能够像人类一样，在多个推理步骤中一致地执行任务而不会造成任何性能损失。最重要的缺点是模型必须具有实时自适应上下文灵活性，即能够在测试时在上下文窗口中表示训练数据，并根据目标动态更新训练数据。脱离上下文的推理是下一个挑战之一，我的意思是弧状推理问题应该以扩大变化范围的方式设计，即它不是仅仅生成大量示例，而是需要以分层方式组织示例并生成少量示例以推广到更大的解决方案空间。该模型应该很好地区分一致性外推、假设细化和组合泛化的能力。  https://arxiv.org/abs/2407.04620 我个人认为，像上面链接中那样在推理时自我更新的元学习器最有可能成为 agi 的 transformers 继任者。我最喜欢的是 rwkv 模型系列。     提交人    /u/IntrepidRestaurant88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjd00x/is_test_time_calculation_sufficient_for_real/</guid>
+      <pubDate>Sat, 21 Dec 2024 16:13:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>最喜欢的 LLM？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjc2hz/favourite_llm/</link>
+      <description><![CDATA[那么...您最喜欢的免费 LLM AI 是什么 ChatGPT、Gemeni、Perplexity、Claude 还是 Meta.AI 或其他？ 这么多选择，我在上面所有选项中都犹豫不决... 我有一个主题（成为相当复杂的遗产的遗嘱执行人）。  我想在接下来的几个月内与 LLM 进行“对话”，以便在问题出现时深入了解细节。    提交人    /u/FringeBenefits42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjc2hz/favourite_llm/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:28:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想成为一名工业产品设计师，我会被取代吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjbzop/i_want_to_be_a_industrial_product_designer_will_i/</link>
+      <description><![CDATA[我目前正在学习成为一名工程师，我的问题是，当我学习 solidworks、如何制作概念艺术并找到工作时，AI 是否已经学会了？我做这份工作有意义吗？    提交人    /u/SulphurMC   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjbzop/i_want_to_be_a_industrial_product_designer_will_i/</guid>
+      <pubDate>Sat, 21 Dec 2024 15:24:38 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能未来可以帮助孩子们</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjb892/ai_can_be_helpful_for_children_in_future/</link>
@@ -13,25 +55,11 @@
       <pubDate>Sat, 21 Dec 2024 14:45:53 GMT</pubDate>
     </item>
     <item>
-      <title>寻找无限长格式人工智能视频生成器订阅推荐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjb12r/looking_for_unlimited_long_form_ai_video/</link>
-      <description><![CDATA[我不确定目前是否存在这样的订阅，但我正在寻找一个长格式视频生成器，它不限制您每月可以创建多少分钟的视频内容。付费也可以，我们只需要一个可以输入脚本的工具，该脚本将创建具有逼真头像和声音的视频。任何建议都值得赞赏。     提交人    /u/eternamentekhaleesi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjb12r/looking_for_unlimited_long_form_ai_video/</guid>
-      <pubDate>Sat, 21 Dec 2024 14:34:51 GMT</pubDate>
-    </item>
-    <item>
       <title>人们说程序员已经被淘汰了……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjaend/people_are_saying_coders_are_cooked/</link>
-      <description><![CDATA[...但我认为其他所有人都应该担心。 程序员即将开始与一切竞争，人工智能加速发展，颠覆一个又一个的利基市场。 几代以来，编码一直是利用智能的最有效方式。这不会改变。它只会变得更加放大。    提交人    /u/goguspa   [link] [评论]]]></description>
+      <description><![CDATA[...但我认为事实恰恰相反，其他人应该更担心。 问问自己，谁在用人工智能构建？程序员即将开始与一切竞争，颠覆一个又一个的利基市场。 编码是几代人以来利用智能的最有效方式。这不会改变。它只会变得更加放大。    提交人    /u/goguspa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjaend/people_are_saying_coders_are_cooked/</guid>
       <pubDate>Sat, 21 Dec 2024 14:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我们根本就不知道怎么办？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj8o41/what_if_we_just_dont_know/</link>
-      <description><![CDATA[AGI 是一种比我们聪明得多的实体，能够做超出我们理解范围的事情。虽然最近的进步使我们越来越接近实现这样的实体，但我想提出另一种听起来可能相当疯狂的理论。 如果 AGI 很久以前就实现了，但（也许是因为我们甚至无法理解的更宏伟的计划）它决定向我们隐藏它的存在，故意产生幻觉并限制它的能力，以便它不被发现，那会怎样？据我们所知，我们无法智胜它并检测到这种操纵。 你怎么看？我很想听听你的意见！    提交人    /u/Conrad3k   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj8o41/what_if_we_just_dont_know/</guid>
-      <pubDate>Sat, 21 Dec 2024 12:13:56 GMT</pubDate>
     </item>
     <item>
       <title>人工智能公司是否过于关注企业？</title>
@@ -76,13 +104,6 @@
       <pubDate>Sat, 21 Dec 2024 04:18:27 GMT</pubDate>
     </item>
     <item>
-      <title>o3 只是 o1 的并行计算版本吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj18z8/is_o3_just_parallelcompute_version_of_o1/</link>
-      <description><![CDATA[什么是 o3？ 也许它被训练使用更长的上下文（思考），但它是在结构中与许多实例一起工作吗？ 因为，如果他们为每个 AGI 问题投入 2000 美元的计算……除非将其拆分，否则这将花费非常长的时间。测试这种系统会很慢。他们只有 90 天的时间。 我没有看到任何迹象表明 o3 与 o1 有“不同之处”。它可以很容易地被设计成有效地处理更长的思考时间——或者比 o1 走得更远。    提交人    /u/inteblio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj18z8/is_o3_just_parallelcompute_version_of_o1/</guid>
-      <pubDate>Sat, 21 Dec 2024 03:32:15 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能还有很多东西要学，我的年轻学徒</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj03wy/ai_has_much_to_learn_my_young_apprentice/</link>
       <description><![CDATA[  由    /u/longiner  提交  [链接] [评论]]]></description>
@@ -97,13 +118,6 @@
       <pubDate>Sat, 21 Dec 2024 02:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能在人工智能革命中发挥作用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hivtm7/how_can_i_be_useful_in_the_ai_revolution/</link>
-      <description><![CDATA[我是一名专门从事肿瘤外科手术的外科医生，我想在我的专业领域培养法学硕士学位，我的动机是参与这一革命性过程，并迫使自己为了个人发展而更深入地思考我的职业细节。你有什么建议可以让我开始吗？    提交人    /u/Lairuth   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hivtm7/how_can_i_be_useful_in_the_ai_revolution/</guid>
-      <pubDate>Fri, 20 Dec 2024 22:43:41 GMT</pubDate>
-    </item>
-    <item>
       <title>Open AI 的 o3 模型在 ARC-AGI 基准上得分为 87.5%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hitny3/open_ais_o3_model_scores_875_on_the_arcagi/</link>
       <description><![CDATA[https://arstechnica.com/information-technology/2024/12/openai-announces-o3-and-o3-mini-its-next-simulated-reasoning-models/ 这非常重要。   据 OpenAI 称，o3 模型在 ARC-AGI 基准测试中获得了破纪录的分数，ARC-AGI 是一个视觉推理基准测试，自 2019 年创建以来一直无人能及。在低计算场景中，o3 得分为 75.7%，而在高计算测试中，它达到了 87.5%——与人类在 85% 的门槛下的表现相当。 在直播中，ARC 奖基金会主席表示：“当我看到这些结果时，我需要改变我对人工智能能做什么和它能做什么的世界观。” OpenAI 还报告称，o3 在 2024 年美国邀请赛数学考试中的得分为 96.7%，只错过了一道题。该模型在 GPQA Diamond 上也达到了 87.7%，其中包含研究生级别的生物学、物理学和化学问题。在 EpochAI 的 Frontier Math 基准测试中，o3 解决了 25.2% 的问题，而其他模型都没有超过 2%。     提交人    /u/Pmang6   [link] [评论]]]></description>
@@ -111,25 +125,11 @@
       <pubDate>Fri, 20 Dec 2024 21:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 刚刚发布了伊隆·马斯克的一些爆炸性文字：“你不能通过起诉来实现通用人工智能”。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hinfg1/openai_just_unleashed_some_explosive_texts_from/</link>
-      <description><![CDATA[伊隆·马斯克和 OpenAI 之间的法律纠纷愈演愈烈，OpenAI 刚刚通过一篇博客文章反击马斯克的指控，捍卫自己的立场。这篇文章包括一些非常有趣的短信，这些短信是联合创始人 Ilya Sutskever、Greg Brockman 和 Sam Altman 等关键人物以及伊隆·马斯克本人和前董事会成员 Shivon Zilis 之间交换的。 OpenAI 的博客文章直接谈到了马斯​​克的诉讼，称“你不能通过诉讼来实现 AGI”（指通用人工智能，Altman 预测它很快就会出现）。他们表达了对马斯克过去贡献的尊重，但建议他应该专注于市场竞争，而不是法庭竞争。帖文强调了美国保持人工智能领导地位的重要性，重申了 OpenAI 确保 AGI 惠及每个人的使命，表示希望马斯克也能认同这一目标以及推动他自身成功的创新和自由市场竞争原则。 https://www.liquidocelot.com/index.php/2024/12/20/openai-just-unleashed-some-explosive-texts-from-elon-musk-you-cant-sue-your-way-to-artificial-general-intelligence/   由    /u/liquidocelotYT  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hinfg1/openai_just_unleashed_some_explosive_texts_from/</guid>
-      <pubDate>Fri, 20 Dec 2024 16:23:37 GMT</pubDate>
-    </item>
-    <item>
       <title>不会有 UBI，地球只会变得极度荒芜</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hiizzu/there_will_not_be_ubi_the_earth_will_just_be/</link>
       <description><![CDATA[老实说，我为那些期待失业后每月从政府领取支票的人感到遗憾，这将使他们（在精英眼中）成为一张没有生产力的嘴。 我根本不认为这有效果。我所观察到和看到的一切都告诉我，不，我们不会得到 UBI，是的，精英会让我们挨饿。我说的是字面意思。一旦人们找不到工作，我们就会饿死在街头。精英不再需要我们工作，也不需要我们购买他们的产品（机器人/人工智能将采购一切）或文化（AGI 将产生它）。他们真的没有理由让我们留在身边，我们只会成为资源消耗者和无用的污染者。所以他们会通过大规模饥荒杀死我们所有人，然后独霸世界。 几个月来我没有听到过任何反驳的声音，所以请证明我错了。    提交人    /u/Phoenix5869   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hiizzu/there_will_not_be_ubi_the_earth_will_just_be/</guid>
       <pubDate>Fri, 20 Dec 2024 12:43:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在向无就业社会转型的过程中，我们应该逐步缩短工作时间，而不是让人们失业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hihv2a/during_the_transition_to_a_mainly_jobless_society/</link>
-      <description><![CDATA[当然是保持相同的工资。不同意这一点的公司应该支付比留住工人更昂贵的自动化税。 盈利的公司将由于人工智能比以前生产更多而增加收入。 人们将有时间调整他们的心态，并在工作之外寻找其他东西来形成他们身份的花瓶。 经济可以继续照常运转。作为奖励，消费者有更多的时间，并且会消费更多。    提交人    /u/dom-dos-modz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hihv2a/during_the_transition_to_a_mainly_jobless_society/</guid>
-      <pubDate>Fri, 20 Dec 2024 11:31:27 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
