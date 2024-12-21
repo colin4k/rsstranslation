@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 21 Dec 2024 09:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 15:02:09 GMT</lastBuildDate>
+    <item>
+      <title>我为我的 FOSS 项目添加了一个成熟的 AI 功能面板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hj7i2g/i_added_a_fullfledged_aifeature_palette_to_my/</link>
+      <description><![CDATA[大家好，👋， 临近年底，我想分享一些关于向我的开源项目添加 AI 功能的历程以及它如何影响其可见性和使用情况的见解。最后，我将分享一些有关这些功能的令人惊讶的指标。 该项目是一个 Markdown 编辑器，您可以在 Github 上找到它：https://github.com/fynnfluegge/rocketnotes 您可能会问，为什么要创建另一个 Markdown 编辑器？我在 Obsidian 流行之前就开始了这个项目，当时我并不知道 Obsidian。像 Evernote 这样的替代品对我来说不是一个选择，所以我决定自己构建一个。现在，我支付的费用远低于使用同步和发布附加组件的 Obsidian 许可证的费用，并且我在自己的应用程序中拥有所有这些功能（包括 AI 功能）——100％ 自托管且完全在我的控制之下。除此之外，我还免费向大约一千名活跃用户提供这个工具。 所以，我真的没有理由换用 Obsidian 或任何其他工具。 今年 4 月，我开始陆续添加以下 AI 功能： - ✍️ 类似 Copilot 的文本补全 - 🔦 语义搜索 - 🤖 与文档聊天 - 100% 无服务器 RAG - 📥 具有语义归档的 Zettelkasten - 使用向量索引将注释插入到语义排名最高的文档中 - 🗣️ 语音转文本笔记 这是对我的项目明星历史的影响：![明星历史图表]（https://api.star-history.com/svg?repos=fynnfluegge/rocketnotes&amp;type=Date） 令人惊讶的是——自从我开始添加 AI 功能以来，GitHub 星星和用户数量的明显增加形成了鲜明对比——只有大约 10% 的新用户真正为他们的帐户启用了这些 AI 功能。更不用说这 10% 中有多少人在积极使用它们。 这个事实让我怀疑：我的 AI 功能是否很花哨但最终毫无用处？还是说人们一般都喜欢具有花哨 AI 功能的工具，但最终并没有按照他们最初的意图使用它们？如果是这样的话，我会说 AI 功能至少是一个很好的营销机会。 但是，在接下来的一年里，我不会过多地关注新功能，而是希望在性能、稳定性和可用性方面改进应用程序。 感谢您的阅读，节日快乐！    提交人    /u/Fleischkluetensuppe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hj7i2g/i_added_a_fullfledged_aifeature_palette_to_my/</guid>
+      <pubDate>Sat, 21 Dec 2024 10:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有没有人推广他们的烹饪书？如果有，哪些平台/内容效果最好？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hj7a6v/does_anyone_here_promote_their_cookbooks_if_so/</link>
+      <description><![CDATA[我想发展一些开源项目。 提前致谢！    提交人    /u/omnisvosscio   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hj7a6v/does_anyone_here_promote_their_cookbooks_if_so/</guid>
+      <pubDate>Sat, 21 Dec 2024 10:34:10 GMT</pubDate>
+    </item>
     <item>
       <title>在我的专有软件中使用多许可代码作为库</title>
       <link>https://www.reddit.com/r/opensource/comments/1hj52ca/using_multilicensed_code_as_a_library_in_my/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/kresstein   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hiebcq/hi_im_luis_and_i_worked_the_last_2_weeks_on_this/</guid>
       <pubDate>Fri, 20 Dec 2024 07:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Windows 7] 卸载程序，用于删除 Windows 系统无法删除的软件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hiccrq/windows_7_an_uninstaller_to_remove_softwares_that/</link>
-      <description><![CDATA[  由    /u/The_Viewer2083  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hiccrq/windows_7_an_uninstaller_to_remove_softwares_that/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:58:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适用于 Windows 7 的反恶意软件/安全扫描程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hicc3c/is_there_any_anti_malwaresecurity_scanner_for/</link>
-      <description><![CDATA[我指的是防病毒扫描程序。    由   提交  /u/The_Viewer2083   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hicc3c/is_there_any_anti_malwaresecurity_scanner_for/</guid>
-      <pubDate>Fri, 20 Dec 2024 04:57:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
