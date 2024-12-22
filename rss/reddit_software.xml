@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 12:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:01:56 GMT</lastBuildDate>
+    <item>
+      <title>在我为我的小企业构建它之前，想知道它是否存在：类似于 Jotform 表单的东西，但为了更新和状态更改而连接到数据库</title>
+      <link>https://www.reddit.com/r/software/comments/1hk3bwt/wondering_if_this_exists_before_i_build_it_for_my/</link>
+      <description><![CDATA[.. 用于 B2B 服务的工作订单。  因此，客户会提交初始表单，但随后客户会定期更新表单，例如更改状态，了解这些更新对于我们调整自己的时间安排和提供服务的其他准备工作非常重要。  我想知道是否存在可以满足我需求的工作订单软件。  我需要的并不是购物车。不会发生任何交易或报价。定价太过细致，必须手动完成。例如，不可能将服务选项作为要购买的商品。可能会有成千上万种不同的价格。无论如何，也许购物应用程序可以工作，只是不进行交易。我这样说是因为毕竟我们正在接受订单。只是没有付款。 我唯一关注的是客户能够提交订单并更新订单以进行更改。我并不是在寻找包含员工开始工作步骤和与员工沟通的软件。但是，如果它具有这些功能（例如完整的工作订单软件），它可能是可行的（我只会使用它的订单提交方面）。 只是想知道是否有一个我不知道的明显适合我的东西。 谢谢。    提交人    /u/longunderscorestory   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hk3bwt/wondering_if_this_exists_before_i_build_it_for_my/</guid>
+      <pubDate>Sun, 22 Dec 2024 17:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个可以使用自定义热键更改对比度和亮度的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hk2me3/looking_for_a_software_to_change_contrast_and/</link>
+      <description><![CDATA[  由    /u/nObRaInAsH  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hk2me3/looking_for_a_software_to_change_contrast_and/</guid>
+      <pubDate>Sun, 22 Dec 2024 17:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeCommander XE 2025 Build 920 32位公开</title>
+      <link>https://www.reddit.com/r/software/comments/1hk0qux/freecommander_xe_2025_build_920_32bit_public/</link>
+      <description><![CDATA[FreeCommander (便携版) - 文件管理器（单/双面板、拖放、选项卡、插件、普通视图、收藏夹、搜索、查看器、队列、多重重命名、快速查看器/预览、快速过滤器、FTP、完全可自定义的布局和键盘快捷键、配色方案 - 包括深色方案...) 主页 | 下载 | 更新日志 | 论坛 | 在线帮助 | 常见问题 | 颜色方案 https://preview.redd.it/cih7t6717f8e1.png?width=256&amp;format=png&amp;auto=webp&amp;s=b186a5185f3ddd37995f0e9a603c3e66220fc444 一些新功能和选项：  已实现：现在可以从完整路径（c:\aa\ab）创建文件夹 F7 已实现：现在可以使用操作工具栏、收藏工具栏和选项卡的内置图标 已实现：可以进行快速操作（快速复制、快速移动）；快速操作设置：“工具-&gt;设置-&gt;文件/文件夹操作：快速操作” 已实现：多重重命名 - 在 FreeCommander.mren.ini 中定义 exiftool 时间戳格式的选项：ExifToolTimestampFormat 已实现：添加了新的快速操作操作：“执行快速复制...”，“执行快速移动”，“快速操作 - 设置目标路径...” 已实现：搜索重复项 - 为“重复项选择”添加了新项目：“使用路径模式标记所有...”，“使用路径模式取消标记所有...” 已实现：搜索对话框 - 添加编码“Unicode (UTF-16LE)”，“Unicode (UTF-16BE)” 已实现：可以保存和加载选项卡组（视图 -&gt; 选项卡组） 已实现：对于“使用 FreeCommander”方法，复制速度和剩余时间显示在复制对话框中 已实现：设置 -&gt; 文件/文件夹列表 -&gt; 鼠标快捷键 - 鼠标右键可以执行新操作“焦点项目 - 缩略图视图” 已实现：比较文件夹 - 添加了按内容比较文件（md5 总和） 已实现：属性/时间戳对话框 - 现在可以从 HEIC 文件的 Exiff 设置时间戳 已实现：“设置 -&gt; 视图 -&gt; 图标集”新的选项可用“使用暗模式图标进行配色方案” 已实现：现在可以复制到文件容器中的多个选定文件夹 已实现：自动视图 - 可以为每个视图定义快速过滤器 已实现：快速过滤器 - 开关 /+ 可以切换选项“也用于文件夹名称” 新的深暗配色方案 - 针对暗模式透明图标进行了优化 新的纯光配色方案 - 针对亮模式透明图标进行了优化  https://preview.redd.it/33hbpkeo4f8e1.png?width=784&amp;format=png&amp;auto=webp&amp;s=d0e0762ab51ef1f4bc423c4313b64a44a8b24a88  https://preview.redd.it/peio1hto4f8e1.png?width=776&amp;format=png&amp;auto=webp&amp;s=0c940a589c4ac6e10dd6a5e9753d40f3bab509da   由   提交 /u/DreamerEight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hk0qux/freecommander_xe_2025_build_920_32bit_public/</guid>
+      <pubDate>Sun, 22 Dec 2024 15:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>完美词和云</title>
+      <link>https://www.reddit.com/r/software/comments/1hjyp0q/word_perfect_and_cloud/</link>
+      <description><![CDATA[我正在尝试帮助我的父亲，他致力于使用 Word Perfect。有没有办法通过软件将 Word Perfect 文档保存到云端？    提交人    /u/Overall-Ad-4024   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hjyp0q/word_perfect_and_cloud/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:40:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 PAL DVD 电影转换为 NTSC - 需要帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1hjyh8g/convert_pal_dvd_movies_to_ntsc_need_help/</link>
+      <description><![CDATA[我有《荒野大镖客》完整版电影合集。我想将其从 PAL 转换为 NTSC。我研究过一些软件，但看不懂（handbrake）。正在寻找免费且安全的东西。    提交人    /u/BoardgameExplorer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hjyh8g/convert_pal_dvd_movies_to_ntsc_need_help/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 Windows Move Maker。</title>
+      <link>https://www.reddit.com/r/software/comments/1hjyh7d/need_windows_move_maker/</link>
+      <description><![CDATA[好吧，这可能听起来有点奇怪。 我需要旧版本的 Windows Movie Maker。任何帮助都将不胜感激。    提交人    /u/Kajal_slut   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hjyh7d/need_windows_move_maker/</guid>
+      <pubDate>Sun, 22 Dec 2024 13:27:36 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以隐藏自己是模拟器的Android模拟器？</title>
       <link>https://www.reddit.com/r/software/comments/1hju31f/is_there_an_android_emulator_that_can_hide_that/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我的工作之一就是推广开源食谱，我想知道这里是否有人通过任何方法获得了良好的效果。 提前致谢！    提交人    /u/omnisvosscio   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hja5j0/how_do_you_promote_your_github_cookbooks_blogs_x/</guid>
       <pubDate>Sat, 21 Dec 2024 13:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有热键控制的 Windows 10 屏幕调光软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hj7zwr/looking_for_screen_dimmer_software_on_windows_10/</link>
-      <description><![CDATA[我正在寻找一个可以执行以下操作的屏幕调光应用程序：  通过键盘调整亮度 无需将屏幕变为橙色（f.lux）即可完成此操作。 适用于 Windows 10 多显示器（它们可以全部具有相同的亮度，不必单独设置） 可以在登录时运行  我使用的是 PangoBright，但它没有键盘控制。谢谢。    提交人    /u/HiddenMushroom11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hj7zwr/looking_for_screen_dimmer_software_on_windows_10/</guid>
-      <pubDate>Sat, 21 Dec 2024 11:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>reddit 上的第三方应用程序是什么意思</title>
-      <link>https://www.reddit.com/r/software/comments/1hj70a2/what_does_third_party_apps_mean_on_reddit/</link>
-      <description><![CDATA[所以我尝试用谷歌搜索，但不知道有些人是否在“抗议” reddit 删除第三方应用程序，但他们删除的第三方应用程序是什么     提交人    /u/Hello12reddit   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hj70a2/what_does_third_party_apps_mean_on_reddit/</guid>
-      <pubDate>Sat, 21 Dec 2024 10:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>将字幕与源文本匹配</title>
-      <link>https://www.reddit.com/r/software/comments/1hj62sv/matching_subtitles_to_a_source_text/</link>
-      <description><![CDATA[大家好！我有一份 120 页左右的研究报告，老板让我用文本转语音软件来生成一种有声读物（“是的，用 AI 来做！”）。 问题是，该音轨必须放在带字幕的视频中。我使用 Clipchamp 来生成音频和字幕轨道，但是，由于研究报告包含技术词汇，Clipchamp 会错误解释很多单词，因此字幕轨道需要大量工作。 由于我有字幕轨道、音轨和研究报告的原始 Word 文档，有没有更快的方法来更正字幕，使其与原始文档匹配，并以此为参考？处理字幕时，我大部分时间都使用字幕编辑，但我看不到类似的选项。我向 ChatGPT 询问了同样的问题，它向我指出了字幕编辑中不存在的功能，所以是的。 是否存在可以做到这一点的软件？ 也许是一个 Phyton 脚本？ 你能帮我一下吗？ 我真的真的不想手动浏览 8 小时的字幕轨道。    提交人    /u/jaimedm_v3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hj62sv/matching_subtitles_to_a_source_text/</guid>
-      <pubDate>Sat, 21 Dec 2024 09:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想扩展 C: 而不格式化它</title>
-      <link>https://www.reddit.com/r/software/comments/1hj4jvx/i_want_to_extend_c_without_formatting_it/</link>
-      <description><![CDATA[我看到有人推荐 EaseUS Partition Master，但它是付费的。有没有免费软件允许我这样做？    提交人    /u/tymmmmmm   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hj4jvx/i_want_to_extend_c_without_formatting_it/</guid>
-      <pubDate>Sat, 21 Dec 2024 07:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何可以添加到 Chrome 扩展程序中的 IDM 替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1hj4i7u/any_alternative_of_idm_that_can_be_added_in/</link>
-      <description><![CDATA[我已经使用 idm 很多年了，发现 chrome 扩展不支持 idm。您能推荐其他替代方案吗？谢谢    提交人    /u/Healthy_Crew_3882   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hj4i7u/any_alternative_of_idm_that_can_be_added_in/</guid>
-      <pubDate>Sat, 21 Dec 2024 07:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于向员工展示行走路径的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hj356w/software_to_show_my_employees_walking_path/</link>
-      <description><![CDATA[大家好，我经营一家狗屎清理公司，我想提供一张团队成员在院子里行走的路径快照/图像。我们时不时会收到这样的评论：“你们的人在这里待了 5 分钟，不可能把所有东西都清理干净。”如果我们可以自动向他们发送他们行走的路径，那就太棒了。我们可以使用哪些应用程序，并有某种流程来收集这些数据、获取图像并将其发送给客户？你们有什么想法吗？    提交人    /u/GelatinousDude   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hj356w/software_to_show_my_employees_walking_path/</guid>
-      <pubDate>Sat, 21 Dec 2024 05:28:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
