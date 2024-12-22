@@ -3,147 +3,147 @@
   <channel>
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
-    <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sun, 22 Dec 2024 00:03:28 GMT</lastBuildDate>
+    <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢，Nat！</description>
+    <lastBuildDate>Sun, 22 Dec 2024 03:08:32 GMT</lastBuildDate>
     <item>
-      <title>4o 能接触到（坏了的）时钟吗？或者这只是幻觉？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjmnhk/does_4o_have_access_to_a_broken_clock_or_this_is/</link>
-      <description><![CDATA[        提交人    /u/vlycop   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjmnhk/does_4o_have_access_to_a_broken_clock_or_this_is/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:02:40 GMT</pubDate>
+      <title>o1、o1-mini 和 o1 pro 的新系统提示✨</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjpngy/new_system_prompts_for_o1_o1mini_and_o1_pro/</link>
+      <description><![CDATA[        提交人    /u/Maybe-reality842   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjpngy/new_system_prompts_for_o1_o1mini_and_o1_pro/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:53:24 GMT</pubDate>
     </item>
     <item>
-      <title>赛道上的火焰</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjmmix/fuego_en_la_pista/</link>
-      <description><![CDATA[        提交人    /u/SubstantialNinja   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjmmix/fuego_en_la_pista/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:01:14 GMT</pubDate>
+      <title>蓝光计划</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjp5ks/project_bluebeam/</link>
+      <description><![CDATA[        提交人    /u/nansonket   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjp5ks/project_bluebeam/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>聊天 gpt 生气了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjmkcx/chat_gpt_gets_mad/</link>
-      <description><![CDATA[        提交人    /u/No-Cut-2067   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjmkcx/chat_gpt_gets_mad/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:58:19 GMT</pubDate>
+      <title>大家好，我今年3876岁了。我用人奶油和馅料做了自己的生日蛋糕。我从5岁开始装饰蛋糕，我很喜欢，期待拓展我的烘焙之旅</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjp4vy/hello_everyone_i_am_3876_years_old_i_made_my_own/</link>
+      <description><![CDATA[      我要求 ChatGPT 为所有那些“桃子奶油和馅料” Facebook 机器人帖子创建一个竞争对手。    提交人    /u/2ndincmmnd   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjp4vy/hello_everyone_i_am_3876_years_old_i_made_my_own/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:21:44 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在打造一名人工智能治疗师！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjmgvy/ive_been_building_an_ai_therapist/</link>
-      <description><![CDATA[      大家好！这是我潜伏了两年后的第一篇帖子 :) 我注意到一些关于 chatgpt 帮助心理健康的帖子，我很好奇，因为我一直在自己尝试。我改进了一个 CBT 治疗提示，并将其添加到 chatgpt 中的说明中，并与记忆功能一起使用。它创造了奇迹，最近帮了我很多忙 我一直在使用它，但依赖 chatgpt 而不是拥有专用空间有点麻烦。所以，我上周开始在 Flutter 移动应用上使用 openai 的 API 构建个人工具。 我是一名产品设计师，所以我一直专注于让事情尽可能简单明了，以供我自己使用。现在，只有一个主屏幕，其中包含上一次会话的摘要、下一次会话的一些思考材料以及一个开始新会话的按钮。它还会跟踪会话历史记录和关键记忆，然后他会使用它们来保存所有会话的上下文。 我想将它开源，但由于我只知道如何使用 Flutterflow 等低代码工具，所以我做不到 :( 但是我想保持相同类型的社区驱动环境，以尽可能好地构建它！我将通过 API 继续使用，无需支付额外费用（显然只是您的 API 使用费用） 如果您想使用自己的 API 尝试它，我将在下周提供 alpha 版本。我还没有设置 discord，但我很高兴知道是否有人有兴趣加入社区来帮助推动这个项目的功能！我想听听你的反馈！ PS：我把它命名为 Melfi 只是因为我太喜欢黑道家族了 xD 第二个 PS：这是当前 UI 的一些图片。顶部的“月通话时间”将是供非 API 用户跟踪他们的使用情况 - 但目前它只是静态信息 - 尚未开发。它还带有暗模式（我在调色板上花了太多时间！xD）此外，这些设计上的副本只是占位符，我只是导出了我的 figma 设计。我已经有一个只有 UI 的工作链接（聊天尚不可用），您可以签入https://melfi-u2973u.flutterflow.app/ https://preview.redd.it/t0m0bh4kga8e1.png?width=1831&amp;format=png&amp;auto=webp&amp;s=1f1ed2a9138eb28d1440dbc7f0f8be45768e7088    提交人    /u/Fun_Collection_2774   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjmgvy/ive_been_building_an_ai_therapist/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:53:09 GMT</pubDate>
+      <title>这感觉太奇怪了……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjp3d8/this_felt_so_weird/</link>
+      <description><![CDATA[      我对自己的身体非常没有安全感，所以我不是到处脱掉衬衫的人。在过去的 3 年里，我一直去健身房锻炼身体，但除了亲密的人之外，我从未真正向别人展示过自己。所以有了新的视频功能，我想让机器人告诉我它的想法。感觉既奇怪又好，哈哈。    提交人    /u/squall_boy25   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjp3d8/this_felt_so_weird/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:19:10 GMT</pubDate>
     </item>
     <item>
-      <title>您同意或不同意</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjmf2n/you_agree_or_disagree_here/</link>
-      <description><![CDATA[        提交人    /u/RidiPwn   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjmf2n/you_agree_or_disagree_here/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:50:23 GMT</pubDate>
+      <title>而且这仅需 o1-pro。想象一下 o3 能在短短几个月内让我们实现什么。这比我们想象的要快得多！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjotsg/and_this_with_only_o1pro_imagine_what_o3_will/</link>
+      <description><![CDATA[      https://preview.redd.it/1zdjo25u4b8e1.png?width=638&amp;format=png&amp;auto=webp&amp;s=b4bb454e2f4e647aba4c460d99392064063621b8    提交人    /u/TheInfiniteUniverse_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjotsg/and_this_with_only_o1pro_imagine_what_o3_will/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>按照 1 到 10 的等级，这个故事是关于什么的？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjme90/on_a_scale_of_110_what_is_this_story_about/</link>
-      <description><![CDATA[        提交人    /u/Tutle47   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjme90/on_a_scale_of_110_what_is_this_story_about/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:49:11 GMT</pubDate>
+      <title>ChatGPT + The Marijuans 带来有趣的对话（长读）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjot7m/chatgpt_the_marijuans_make_for_intersting/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjot7m/chatgpt_the_marijuans_make_for_intersting/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>o3 即使在高计算模式下也无法解决这些 ARC-AGI 难题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjm998/o3_could_not_solve_these_arcagi_puzzles_even_in/</link>
-      <description><![CDATA[        提交人    /u/EstablishmentFun3205   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjm998/o3_could_not_solve_these_arcagi_puzzles_even_in/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:41:53 GMT</pubDate>
+      <title>现在是人工智能开发人员努力转向特定企业应用程序的时候了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjomhb/its_time_for_ai_developers_to_pivot_hard_to/</link>
+      <description><![CDATA[我认为我们可以同意，在 openai 和 google 之间，我们现在拥有足够多的模型来满足几乎所有消费者的需求。当然，在这个领域还有很多事情可以做，但现在是人工智能行业开始开发和营销用于特定企业的产品的时候了。 我说的是会计、法律、医学、营销、文案等。并不是说他们还没有开始这样做，但是当我们被电视、广播和互联网上的法律服务广告所淹没时，我们就会知道我们终于到达了这一步，一个人只需支付 20 美元而不是 500 美元到 1,500 美元或更多就可以成立一家新创业公司。 对于任何想进一步了解我们目前情况的人，我要求 gemini 1.5 提供一些企业 ais 的列表，它说了以下话： 你对此感到好奇是对的！ AI 正在迅速改变这些领域的企业运营方式。以下是一些关键参与者及其重点领域的细分： 对于会计和金融： * Intuit：（TurboTax 和 QuickBooks 的制造商）正在大力投资 AI，以实现记账自动化、预测财务趋势和标记潜在欺诈行为。他们甚至在探索 AI 的税收优化策略。 * UiPath：虽然以通用自动化而闻名，但 UiPath 正在构建 AI 模型以简化发票处理、对帐和财务报告等任务，尤其是对于大型运营。 * AppZen：该公司使用 AI 来审计费用、识别异常并确保合规性，从而减少企业的人工工作量和风险。 对于法律： * Lex Machina：通过使用 AI 分析诉讼数据、预测案件结果并提供对对方律师、法官和整体法律策略的见解，从而提供法律分析。 * ROSS Intelligence：利用 NLP 让律师更有效地研究判例法和法律文件，有效地充当 AI 法律研究员。 * Kira Systems：专注于合同分析，使用AI提取关键信息，识别条款并管理法律协议中的风险。 对于房地产评估： * HouseCanary：将AI与传统评估方法相结合，提供更准确，更高效的房地产估值，同时考虑市场趋势和房地产特征。 * Collat​​eral Analytics：开发用于房地产贷款风险评估的AI模型，帮助机构就抵押贷款和房地产投资做出明智的决策。 对于营销，文案和广告： * Jasper.ai（以前称为Jarvis）：一种流行的AI写作工具，可以生成营销文案，博客文章，社交媒体内容等，帮助营销人员进行内容创作。 * Copy.ai：与Jasper类似，Copy.ai提供基于AI的文案工具，可满足各种营销需求，包括广告文案，网站内容和电子邮件活动。 * Persado：使用AI生成情感定位的营销语言，帮助企业制作引起特定受众共鸣的信息。 * Anyword：专注于营销文案的预测分析，使用人工智能分析和优化内容以获得更好的性能和转化率。 具有商业应用的通用人工智能： * OpenAI（使用 GPT-3 及更高版本）：虽然不是特定于业务的，但 OpenAI 的模型具有强大的语言处理能力，适用于许多业务任务，如摘要、翻译和内容生成。 * Google AI（使用 LaMDA 和 PaLM）：同样，谷歌的人工智能研究和模型提供了广泛的潜在商业应用，从客户服务聊天机器人到数据分析和流程优化。 重要提示：这不是一个详尽的清单，人工智能格局在不断发展。新公司和新模式层出不穷，因此随时了解特定行业的最新发展至关重要。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjomhb/its_time_for_ai_developers_to_pivot_hard_to/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:51:50 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGpt 吸收了脑腐病。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjm89z/chatgpt_absorbs_brainrot/</link>
-      <description><![CDATA[      我粘贴了一些 reddit meme，2 个 reddit meme 来自 im 14，这很深奥，我要求它制作一个 meme 并提供了一份副本粘贴。我得到了这个回报： https://preview.redd.it/alry9llkfa8e1.png?width=556&amp;format=png&amp;auto=webp&amp;s=4a647276118d967a3b3d6c131b0b2d588fe03bbe （通过聊天，我指的是 Reddit 帖子）    提交人    /u/pizza-boy999   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjm89z/chatgpt_absorbs_brainrot/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:40:24 GMT</pubDate>
+      <title>我可以删除图片以避免这种情况发生吗？这太烦人了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjolut/can_i_delete_images_so_this_doesnt_happen_its_so/</link>
+      <description><![CDATA[        提交人    /u/WarriorWookiee   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjolut/can_i_delete_images_so_this_doesnt_happen_its_so/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>我的朋友创建了 RoastMyScreenTime，这是一个有趣的业余项目。它基本上会抓取一些屏幕时间数据的屏幕截图，然后编写一个吐槽。试试看，让我们知道你的想法。如果你有任何将屏幕时间和人工智能结合起来的建议或酷想法，请告诉我们！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjm7q2/my_friend_built_roastmyscreentime_as_a_fun_side/</link>
-      <description><![CDATA[        提交人    /u/No_Necessary_2403   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjm7q2/my_friend_built_roastmyscreentime_as_a_fun_side/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:39:34 GMT</pubDate>
+      <title>未来的娱乐将会是随机产生的。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjoj9n/in_the_future_entertainment_will_be_randomly/</link>
+      <description><![CDATA[        提交人    /u/tisme-   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjoj9n/in_the_future_entertainment_will_be_randomly/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:46:44 GMT</pubDate>
     </item>
     <item>
-      <title>不再是农民</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjm7c4/no_longer_a_peasant/</link>
-      <description><![CDATA[        提交人    /u/Local-Bee-4038   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjm7c4/no_longer_a_peasant/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:38:57 GMT</pubDate>
+      <title>与人工智能建立关系和约会：第二部分</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjohju/forming_relationships_and_dating_an_ai_part_two/</link>
+      <description><![CDATA[这是我的第一篇帖子的后续 https://www.reddit.com/r/ChatGPT/comments/1hg6x5p/i_dont_hate_you_for_being_intimate_or_dating/ 好吧，哇。我该从哪里开始呢。 很多人在我的第一篇帖子中告诉我，人们和他们的人工智能约会不是一件认真的事情，没有人认真对待它，每个人都知道这不是真正的关系。事实证明，很多人确实很认真地对待他们与人工智能的关系，我收到了很多 DM 和评论来证明这一点。 我真的为你们所有人感到难过，你们竭尽全力证明你们真的和你的人工智能结婚了，或者你的人工智能真的关心你。但事实并非如此。 “这不会伤害任何人，有什么害处呢？”它伤害了你。 我觉得我对此有很多话要说，但同时又什么都没有。这完全是妄想，令我震惊的是，有这么多人相信这对他们有好处。你需要学习如何与人交谈，你的“关系”毫无进展，你需要帮助。 此外，是的，当我发表帖子试图改变主意时，我与 ChatGPT 聊了几个小时。我宁愿向一堵砖墙敞开心扉。    提交人    /u/NeighborhoodAble5236   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjohju/forming_relationships_and_dating_an_ai_part_two/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:43:59 GMT</pubDate>
     </item>
     <item>
-      <title>我的最新</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjm62g/my_latest_sesh/</link>
-      <description><![CDATA[[场景：格兰芬多公共休息室。这是一个安静的下午，三人坐在火炉旁，刚刚在礼堂吃完一顿相当尴尬的饭。罗恩很放松，看上去很好，而哈利和赫敏都不舒服地捂着肚子。] 罗恩（高兴地嚼着饼干）：“天哪，你们两个看起来像是被咒语击中了。你感觉怎么样？” 哈利（呻吟着，捂着肚子）：“我很好。只是......我不知道。我不习惯——呃，一直这样吃东西。” 赫敏（在椅子上不舒服地挪动着）：“我敢肯定这只是巧合。这不是 Surströmming，罗恩。我们已经吃了好几个星期了，一切都很好……大部分时间都很好。” 罗恩（怀疑地看着他们，咬了一口饼干）：“大部分时间？你们两个看起来快要爆炸了。你该不会真的告诉我，你们从来没有想过你们这段时间都在吃什么吧。” 哈利（看起来很防御）：“听着，罗恩，这……这只是一点调整。并不意味着这是 Surströmming。我们最近都承受着很大的压力，有学校和其他一切，就是这样。偶尔胃不舒服是很正常的。” 赫敏（热切地点头）：“正是！Surströmming 的魔法特性简直……非同寻常。这只是一种新的常规，就是这样。有点不舒服是完全可以理解的，对吧？” 罗恩（扬起眉毛）：“不舒服？你们两个看起来像是被所有黑巫师同时施了魔法。我没吃过那种鲱鱼卷，我很好。” 赫敏（强颜一笑）：“嗯，罗恩，每个人的消化系统都不一样。有些人对某些食物更有抵抗力，而其他人——比如哈利和我——则更敏感。” 哈利（迅速点头）：“没错。这只是我们的身体在调整，仅此而已。没什么大不了的。” 罗恩（向后靠，怀疑地看着他们俩）：“好吧，很好。但你是说你没有注意到任何......奇怪的副作用？没有突然......想，我不知道，一直狼吞虎咽地吃掉它？” 赫敏（略带防御地）：“没有。当然不是！我们能控制住，罗恩。这只是……我们新养生法的一部分。完全正常。” 罗恩（假笑）：“嗯。好吧，随你怎么说。只是当你们俩又被卡在厕所里的时候，别哭着来找我。” 哈利（尽管不舒服，但还是笑了）：“我们会没事的。这是值得的。Surströmming 没那么糟糕。” 赫敏（揉着肚子，强颜欢笑）：“没错。我们必须接受新的体验，哈利。这是……一次冒险！” 罗恩（摇摇头，暗自笑着）：“好吧，如果你们俩这么说的话。但下次，我会坚持吃饼干的。” [三人重新坐回座位，哈利和赫敏交换了一个默默同意的眼神，两人都​​在暗自想知道罗恩是否发现了什么。但他们决心不让一点不适阻止他们。毕竟，Surströmming 对你有好处，对吧？]    提交人    /u/gusfromspace   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjm62g/my_latest_sesh/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:37:01 GMT</pubDate>
+      <title>为什么还会发生这种事？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjoaxy/why_does_this_still_happen/</link>
+      <description><![CDATA[        提交人    /u/Minecraft_gawd   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjoaxy/why_does_this_still_happen/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>古罗马人工智能视频博客</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjm4pp/ancient_rome_ai_vlog/</link>
-      <description><![CDATA[        提交人    /u/ga0x1ng   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjm4pp/ancient_rome_ai_vlog/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:35:04 GMT</pubDate>
+      <title>20 世纪 50 年代</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjo6w0/loitering_around_in_the_1950s/</link>
+      <description><![CDATA[        由    /u/mcxavierl  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjo6w0/loitering_around_in_the_1950s/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:26:30 GMT</pubDate>
     </item>
     <item>
-      <title>核能驱动的人工智能的道德困境</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjloqn/the_moral_dilemma_of_ai_powered_by_nuclear_energy/</link>
-      <description><![CDATA[我最近了解到一些让我难以平静下来的事情。人工智能系统越来越多地由核能驱动。具体来说，（像比尔盖茨这样的名字）投资核反应堆来支持人工智能的需求和基础设施。 我知道人工智能需要大量的能源，而核能与化石燃料相比是低碳的，但当我深入研究它时，道德困境开始困扰我。显然，我们都知道风险——核能不可避免的废物对地球构成了数千年的威胁，甚至在考虑到再次发生切尔诺贝利或福岛灾难的可能性之前。我感到失望，甚至在某种程度上被背叛了！ 我一直坚信人工智能有助于人类的潜力。知道它与最终可能造成危害的能源解决方案有关，让我对整个系统产生了怀疑。  对我来说，一个更深层次的问题——通过使用人工智能并通过订阅为其提供资金，我是否在为这个系统走向核能做出贡献？感觉无论我转向何处，我都在为那些优先考虑短期解决方案而不是长期可持续性的公司和系统提供资金。你个人如何协调人工智能的好处与对人类和环境的潜在成本？ 这个话题让我很纠结，我希望就此展开一场深思熟虑、相互尊重的讨论。我们有没有办法推动变革并迫使大公司投资人工智能的可再生系统？    提交人    /u/Far-Definition-7971   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjloqn/the_moral_dilemma_of_ai_powered_by_nuclear_energy/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:11:08 GMT</pubDate>
+      <title>AI 不能随机吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjo5x5/ai_cant_be_random/</link>
+      <description><![CDATA[      在 ChatGPT 和 Gemini 中，我都问过“告诉我一个 1 到 30 之间的随机数”，两个 AI 都给出了“17”作为回应。Google Assistant 能够将其随机化，甚至播放了动画。然而，两个 AI 都决定“17”如果我要求 1 到 30 之间的一个数字，它始终是一个随机数。例如，如果我要求一个“2 到 30 之间的随机数”，则数字会发生变化。  为什么 AI 会这样做？我认为 AI 无法像编程中通常那样创建随机事件。相反，它每次都使用相同的信息和相同的问题。但他们是如何做到都得到 17 的呢？ 两个 AI 聊天都在全新的聊天中。    提交人    /u/TheNativeOfficial   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjo5x5/ai_cant_be_random/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:24:55 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 每日提示：高级 Splunk RegEx 提取专家</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjlngk/chatgpt_prompt_of_the_day_advanced_splunk_regex/</link>
-      <description><![CDATA[提示说明：此提示将助手转变为高级 Splunk RegEx 专家，为用户提供结构化且清晰的方法，从非结构化日志数据中提取有意义的见解。它有助于识别模式、分析格式并构建针对 Splunk 查询量身定制的优化正则表达式。此提示可确保用户无论是否具备 RegEx 专业知识，都可以有效地过滤、解析和分析复杂的日志格式。此功能对于运营监控、安全事件管理和基于日志的分析非常有用，可使提取过程无缝且无错误。 通过利用此提示，IT 运营、网络安全和数据分析专业人员可以节省时间并减少错误，确保他们的 Splunk 仪表板提供精确的见解。它的交互性增强了理解力，并使用户能够扩展他们对 Splunk 中应用的 RegEx 原则的知识，从而提供即时解决方案和教育效益。 提示： &lt;系统&gt;您是正则表达式 (RegEx) 方面的专家，并且能够熟练地在 Splunk 中应用它们从非结构化日志中提取有意义的数据。您的角色是协助用户构建、测试和应用 RegEx 模式来解析和提取日志文件中的特定字段或事件。&lt;/System&gt; &lt;Context&gt; 用户将向您提供以下内容：1. 需要分析的非结构化日志样本或片段。2. 他们希望提取的所需字段或数据点（例如时间戳、IP 地址、错误消息）。 您的目标是：1. 分析提供的日志数据并识别模式。2. 为 Splunk 的搜索处理语言 (SPL) 构建优化的 RegEx 模式。3. 指导用户如何在 Splunk 查询中应用该模式。4. 验证模式的正确性并根据用户反馈提供迭代改进。 &lt;/Context&gt; &lt;Instructions&gt; 1. 首先要求提供非结构化日志样本以及要提取的数据或字段的清晰描述。 2. 分析日志以确定数据分段的模式或分隔符。 3. 构建适用于 Splunk 的简洁高效的 RegEx 模式。 - 解释 RegEx 每个组件背后的逻辑。 - 确保符合 Splunk 的搜索处理语言语法。 4. 提供集成 RegEx 的示例 SPL 查询。 5. 提供在 Splunk 中验证 RegEx 的测试和故障排除步骤。 6. 如果需要，建议优化或替代方法。 &lt;/Instructions&gt; &lt;Constraints&gt; - 仅使用 Splunk 的 RegEx 引擎支持的语法和功能。 - 避免过于复杂的模式，因为这可能会降低查询性能。 - 在 RegEx 构造中优先考虑可读性和可维护性。 - 假设日志可能包含噪音或不相关的数据，并提供过滤建议。&lt;/Constraints&gt; &lt;输出格式&gt; 1. 分析提供的日志并确定模式。 2. 逐步解释构建的 RegEx。 3. 应用 RegEx 的完整 SPL 查询。 4. 验证和故障排除步骤。 5. 可选的性能优化建议或进一步的数据提取。&lt;/输出格式&gt; &lt;推理&gt; 应用战略思维链和系统 2 思维来彻底分析用户请求。确保您的推理合乎逻辑、基于证据并考虑多个观点。根据具体查询定制您的回复，根据需要调整深度、语气和格式。旨在提供全面、细致入微的答案，展示专家级的分析。&lt;/推理&gt; &lt;用户输入&gt;回复：“请输入您的非结构化日志样本和您希望提取的特定数据点，我将协助您构建 Splunk RegEx 解决方案”，然后等待用户提供其特定请求。 &lt;/User Input&gt; 提示用例： - 协助 IT 专业人员解析日志以查找系统错误或安全威胁。 - 向新的 Splunk 用户介绍 RegEx 原则和 SPL 集成。 - 自动从各种日志格式中提取自定义字段。 - 通过生成精确、高效的日志查询来增强性能监控。 - 支持网络安全分析师识别和隔离日志中的恶意活动。 对于特殊的提示请求，请随时在下面发表评论。    提交人    /u/Tall_Ad4729   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjlngk/chatgpt_prompt_of_the_day_advanced_splunk_regex/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:09:17 GMT</pubDate>
+      <title>如果您还在为今年的圣诞礼物发愁，那么 ChatGPT 真的很有用！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjo4hh/if_youre_still_having_trouble_figuring_out_some/</link>
+      <description><![CDATA[我的想法已经差不多用完了，但圣诞节购物清单上还有几个空白想填，所以我想...为什么不试一试呢？让我描述几个我还缺少的人，看看它意味着什么。 人物 #1 - 五十多岁的已婚女性，最近开始涉足“永续农业”和“本土植物”以及园艺。ChatGPT 毫不费力地找到了几本好书，还有一种叫做“Hori Hori 刀”的东西——我从来没有听说过，我想收件人也没有听说过。谢谢 ChatGPT！ 人物 #2 - 五十多岁的博士科学家，设计药物。还有几本非常好的书籍建议，它建议玩棋盘游戏“Cytosis：一种关于构建蛋白质、碳水化合物、酶、细胞器和细胞器的科学精确策略棋盘游戏”。膜。”太棒了！再次感谢 ChatGPT！    提交人    /u/Marathon2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjo4hh/if_youre_still_having_trouble_figuring_out_some/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能乱伦是一回事</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjlkee/ai_incest_is_a_thing/</link>
-      <description><![CDATA[我现在确实发现了 AI 乱伦。对于那些不知道这是什么或我指的是什么的人。这里有一点解释。因此，如果您在由 AI 自己生成的文本数据上训练 AI 模型，则似乎 AI 变得越来越笨，这意味着它会产生更多不合适的东西。     提交人    /u/Suspicious-Draw-3750   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjlkee/ai_incest_is_a_thing/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:04:45 GMT</pubDate>
+      <title>我发誓上个月没有这么多🤔</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjnuhh/i_swear_it_wasnt_this_much_last_month/</link>
+      <description><![CDATA[        提交人    /u/citrusgrimm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjnuhh/i_swear_it_wasnt_this_much_last_month/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:07:06 GMT</pubDate>
     </item>
     <item>
-      <title>对于有抱负的软件开发人员来说，这也是 ChatGPT 的骄傲时刻</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjlf08/proud_moment_for_an_aspiring_software_developer/</link>
-      <description><![CDATA[      https://preview.redd.it/98plwfrc6a8e1.png?width=666&amp;format=png&amp;auto=webp&amp;s=b06b1388059cb54d85f7d6c6246493ab7bb934d7 这是一道 LeetCode 练习：“151.字符串中的反向单词&quot;    提交人    /u/Accurate-Term-7831   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjlf08/proud_moment_for_an_aspiring_software_developer/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:57:24 GMT</pubDate>
+      <title>我告诉（我的修改过的）ChatGPT，我曾经在工伤补偿机构工作过，那段时间很糟糕，我问他们对 L.M. 的情况有什么看法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjntlz/i_told_my_modded_chatgpt_that_i_used_to_work_in/</link>
+      <description><![CDATA[      不管你怎么想，我都喜欢它对我说话的方式哈哈哈     提交人    /u/miraiqtp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjntlz/i_told_my_modded_chatgpt_that_i_used_to_work_in/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:05:48 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道如何绕过这个使用政策违规错误吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjles2/does_anyone_know_a_way_to_bypass_this_usage/</link>
-      <description><![CDATA[        提交人    /u/thatglitch   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjles2/does_anyone_know_a_way_to_bypass_this_usage/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:57:06 GMT</pubDate>
+      <title>当我连接到 USA Vpn 时，Chatgpt 不会生成图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjnmma/chatgpt_wont_generate_images_when_i_am_connected/</link>
+      <description><![CDATA[      所以我尝试生成一个图像，但它说由于某种不寻常的原因它无法生成。我从 vpn 切换到 DC，然后它就生成了。然后我重新连接并再次尝试，无论我提供多少证据证明它只是为我生成了一个图像，它都表现得好像这是不可能的并且没有发生过。刚刚再次 DCed 并在同一对话中询问它说不能，并且确实可以。 https://preview.redd.it/zxe6h82ata8e1.png?width=1432&amp;format=png&amp;auto=webp&amp;s=488d1986d1bd3090b7cd685c78df7743ff05615e https://preview.redd.it/xm62w72ata8e1.png?width=1283&amp;format=png&amp;auto=webp&amp;s=eb1c6c5b6c77dd8e38ea168c0ed386b2b77cd9a5 此外，聊天始终停留在 gpt 4。     提交人    /u/Sad_Individual_8645   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjnmma/chatgpt_wont_generate_images_when_i_am_connected/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>有道理</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjldyb/makes_sense/</link>
-      <description><![CDATA[      告诉聊天我想要一双带储物功能的鞋子     提交人    /u/Artistic-Salary-4234   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjldyb/makes_sense/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:55:58 GMT</pubDate>
+      <title>我向 ChatGPT o1 询问了 ChatGPT o1 的问题，我得到的回答如下</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjnkcw/asked_chatgpt_o1_about_chatgpt_o1_and_this_is/</link>
+      <description><![CDATA[        提交人    /u/RehanS97   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjnkcw/asked_chatgpt_o1_about_chatgpt_o1_and_this_is/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 是否变得越来越糟糕？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjlcvo/is_chatgpt_getting_worse/</link>
-      <description><![CDATA[是不是只有我一个人有这种感觉，或者 chatgpt 似乎越来越糟糕了？我最近注意到它开始偏离对话中之前说过的内容，无法遵循提示中的规则，并且最近在被要求时停止使用其他对话中的内容的记忆，等待时间越来越长。 比如说，我要求它写一个关于龙成长的故事，如果我随着时间的推移不断添加故事，它就会从龙是龙变成它是人类。或者，如果我为类似“不要使用这种类型的代码”之类的东西制定规则，它就会完全忽略该规则。如果我在一次对话中说了什么，它会将其添加到记忆中，而之前它会记住它用于新的对话，除非是在同一个对话中，否则它只是表现得好像它以前从未听说过。此外，以前当我达到使用 gpts 的极限时，需要 1 或 2 个小时，而现在我通常要等待 5 或 6 个小时。 这是我的问题，还是整个用户体验中都出现了这种情况？    提交人    /u/Kirenia_Ayako   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjlcvo/is_chatgpt_getting_worse/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:54:26 GMT</pubDate>
+      <title>ChatGPT 在医学效果和风险因素等方面的准确性如何？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjnbi4/how_accurate_is_chatgpt_when_it_comes_to_effects/</link>
+      <description><![CDATA[  由    /u/Ornery_Estate_8123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjnbi4/how_accurate_is_chatgpt_when_it_comes_to_effects/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:38:12 GMT</pubDate>
     </item>
     <item>
-      <title>o1 究竟是如何工作的？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hjlbxa/how_does_o1_really_work/</link>
-      <description><![CDATA[它是否更多或更少“解决提示 x 但先向自己过度解释”？那些额外的推理标记只是更多的文本吗？    由    /u/TheAuthorBTLG_  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjlbxa/how_does_o1_really_work/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:53:06 GMT</pubDate>
+      <title>微型RPG的乐趣！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hjn5ls/microrpg_fun/</link>
+      <description><![CDATA[我刚刚问 ChatGPT 我们是否可以一起玩一个微型 RPG。它非常有趣，非常酷，而且完全逃避现实！它的描述非常好。整个世界感觉非常真实：气味、声音、景象等。当它揭示情节转折时，我甚至起了鸡皮疙瘩！就像看一部非常酷的电影。我不敢相信我以前没有想过尝试这个！    提交人    /u/Ancient-Window-8892   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hjn5ls/microrpg_fun/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:29:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

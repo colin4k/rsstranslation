@@ -4,20 +4,83 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 21 Dec 2024 18:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 03:08:23 GMT</lastBuildDate>
+    <item>
+      <title>记住我的话：AGI 的关键是推理过程中的训练</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjorzq/mark_my_words_the_key_to_agi_is_training_during/</link>
+      <description><![CDATA[TL;DR 目前我们无法实时更新模型的权重，这意味着我们无法从根本上在当前范式内实现 AGI（我一般的 reddit 用户无知的看法）。我们可以使用当前的架构获得非常智能的模型，但永远无法让它们真正永久地进行学习和适应（例如，在我看来，RAG 不算数，但它可能是拼图的一部分）；这种看法合理吗？ 这已经是我大约一年来一直在想的事情了，我觉得很奇怪，即使环顾网络，几乎没有人考虑过这个问题，我是不是偏离轨道了这么多？它开始变得令人沮丧，所以我会在这里发泄一下，希望得到支持或者被打倒在地，无论哪种方式都没问题。 AGI 的字面定义是一种可以即时学习并适应任何事物的人工智能，你无论如何都无法做到这一点，并且永远无法用当前（甚至 SOTA，如 o3）模型的当前基本架构做到这一点，这些模型首先经过训练，然后对它们进行推理，例如当你提示一个模型时；它们永远保持静态，只对它们进行推理（是的，我们仍然不了解 o3 的官方情况，但我确信这一点对于 SOTA 模型仍然成立）。 通过上下文学习和添加其他验证模型等，你可以在当前模型上获得一些（有限的）泛化，但从根本上讲，模型的权重永远保持不变并且永远是静态的，它们不会发展；它们只会在您进行另一次训练或微调模型时发生变化，而这种情况很少发生（目前每 n 个月发生一次）。 以我（无知的）观点来看，一旦我们找到一种可行的方法来更新模型权重，同时对模型本身进行推理，我们就可以开始谈论 AGI。这类似于我们人类学习时所做的事情，当我们思考、说话或做动作时，我们的突触（=神经元之间的连接）会发生变化并随着它们相互激发而更新；这在当前的 AI 模型中仍然不会实时发生；模型中与此等效的“动作”是在模型响应提示时更新模型的权重。请注意，我说的是 AGI 的“关键”，而不是 AGI 本身，因为在这个新的假设范式中首先想到的是，我们需要找到正确的算法/方法来更新权重，而不会让模型递归地“爆炸”到疯狂，而对我来说，这将是紧随其后的下一个非常难以解决的问题。我不是人工智能研究人员，但我确信这无法在基于 GPT（或一般的 Transformers）的神经网络上完成。我们需要一种新的架构。 如果有人比我聪明得多，可以加入并澄清/揭穿这种看法，我会感到心安。就像，必须在某个地方对此进行研究，对吧？似乎人们只是接受 Transformers 作为最终使用的架构，当它们开始变得相当老旧时（2017 年），我们确定它们是接近人工智能的最佳方式吗？ （我知道我问这个问题好像这是一个简单的问题，但我仍然想知道人们是否至少在考虑这个问题）。 我已经找到了一些术语，如在线学习和液体神经网络，但我还没有进行足够的研究来判断它们是否与我上面写的内容有关。 在写这篇文章的时候，我突然想到，也许这只是人工智能发展多个阶段的开始？也许现在我们正处于创建（静态）足够智能的模型的阶段，然后我们将切换阶段并使用这些已经静态创建的模型来构建新的前沿动态模型？ 请对我所说的一切持保留态度，因为我只是一个普通的 reddit 用户在网上发表自己的想法（抱歉，我的文字听起来很激烈，我已经考虑这个问题有一段时间了，所以在写作时有点过头了）。   由    /u/Techeable  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjorzq/mark_my_words_the_key_to_agi_is_training_during/</guid>
+      <pubDate>Sun, 22 Dec 2024 02:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在是人工智能开发人员努力转向特定企业应用程序的时候了。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjojdq/its_time_for_ai_developers_to_pivot_hard_to/</link>
+      <description><![CDATA[我认为我们可以同意，在 openai 和 google 之间，我们现在拥有足够多的模型来满足几乎所有消费者的需求。当然，在这个领域还有很多事情可以做，但现在是人工智能行业开始开发和营销用于特定企业的产品的时候了。 我说的是会计、法律、医学、营销、文案等。并不是说他们还没有开始这样做，但是当我们被电视、广播和互联网上的法律服务广告所淹没时，我们就会知道我们终于到达了这一步，一个人只需支付 20 美元而不是 500 美元到 1,500 美元或更多就可以成立一家新创业公司。 对于任何想进一步了解我们目前情况的人，我要求 gemini 1.5 提供一些企业 ais 的列表，它说了以下话： 你对此感到好奇是对的！ AI 正在迅速改变这些领域的企业运营方式。以下是一些关键参与者及其重点领域的细分： 对于会计和金融： * Intuit：（TurboTax 和 QuickBooks 的制造商）正在大力投资 AI，以实现记账自动化、预测财务趋势和标记潜在欺诈行为。他们甚至在探索 AI 的税收优化策略。 * UiPath：虽然以通用自动化而闻名，但 UiPath 正在构建 AI 模型以简化发票处理、对帐和财务报告等任务，尤其是对于大型运营。 * AppZen：该公司使用 AI 来审计费用、识别异常并确保合规性，从而减少企业的人工工作量和风险。 对于法律： * Lex Machina：通过使用 AI 分析诉讼数据、预测案件结果并提供对对方律师、法官和整体法律策略的见解，从而提供法律分析。 * ROSS Intelligence：利用 NLP 让律师更有效地研究判例法和法律文件，有效地充当 AI 法律研究员。 * Kira Systems：专注于合同分析，使用AI提取关键信息，识别条款并管理法律协议中的风险。 对于房地产评估： * HouseCanary：将AI与传统评估方法相结合，提供更准确，更高效的房地产估值，同时考虑市场趋势和房地产特征。 * Collat​​eral Analytics：开发用于房地产贷款风险评估的AI模型，帮助机构就抵押贷款和房地产投资做出明智的决策。 对于营销，文案和广告： * Jasper.ai（以前称为Jarvis）：一种流行的AI写作工具，可以生成营销文案，博客文章，社交媒体内容等，帮助营销人员进行内容创作。 * Copy.ai：与Jasper类似，Copy.ai提供基于AI的文案工具，可满足各种营销需求，包括广告文案，网站内容和电子邮件活动。 * Persado：使用AI生成情感定位的营销语言，帮助企业制作引起特定受众共鸣的信息。 * Anyword：专注于营销文案的预测分析，使用人工智能分析和优化内容以获得更好的性能和转化率。 具有商业应用的通用人工智能： * OpenAI（使用 GPT-3 及更高版本）：虽然不是特定于业务的，但 OpenAI 的模型具有强大的语言处理能力，适用于许多业务任务，如摘要、翻译和内容生成。 * Google AI（使用 LaMDA 和 PaLM）：同样，谷歌的人工智能研究和模型提供了广泛的潜在商业应用，从客户服务聊天机器人到数据分析和流程优化。 重要提示：这不是一个详尽的清单，人工智能格局在不断发展。新公司和新模式层出不穷，因此随时了解特定行业的最新发展至关重要。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjojdq/its_time_for_ai_developers_to_pivot_hard_to/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:46:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不会写代码，只能用 Trickle AI 帮我制作一个 AI 圣诞树提示制作器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjogbn/i_cant_code_and_i_just_use_trickle_ai_and_help_me/</link>
+      <description><![CDATA[我所做的只是聊天，我可以在单独的选项卡上看到网站预览和代码。请查看我的工具并分享您的反馈。这是我的 AI 圣诞树提示制作器。  您可以免费试用此工具，Trickle.so 谢谢。     提交人    /u/zengccfun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjogbn/i_cant_code_and_i_just_use_trickle_ai_and_help_me/</guid>
+      <pubDate>Sun, 22 Dec 2024 01:41:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>改变法学硕士观念的必要性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjmtke/the_necessity_of_changing_an_llms_mind/</link>
+      <description><![CDATA[这并不是要破解 LLM 政策，而是一个严肃的问题，即当 API 或语言规范发生根本性更新时，如何最好地利用 LLM 实现我们作为程序员每天都会完成的事情。 仅作为示例，我将使用从 reddit 的旧 API 到新的 Devvit API 和方法的转换。我可以努力训练 GPT，并特别将其指向 Devvit API url 和文档。 但是，在开始推荐已更改或完全弃用的旧版 devvit-cli 工具命令之前，只需要在对话中进行几次提示。 现在，作为程序员，我们有时会发现，一夜之间，您在给定语言或 API 上积累的所有经验知识可能突然变得毫无用处，我们忍受并在内心深处理解“好吧，现在我需要从我所知道的旧 2.7 重新学习 Python 3.x”，或者对开发 reddit 应用程序有同样的想法。 但是 LLM 的权重和偏见需要数月才能得到强化和调整，而事实是，过去对给定主题的正确答案可能会在一夜之间发生变化。 您发现哪些技巧最能有效地传达这一观点，尽管目前互联网上可能有更多的关于做某事的 *旧* 方法，当它与新标准相冲突时，是否应该将其全部忽略，因为互联网上可供训练的内容非常少？    提交人    /u/ripred3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjmtke/the_necessity_of_changing_an_llms_mind/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有人害怕人工智能的未来吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjmp3g/is_no_one_scared_of_the_future_with_ai/</link>
+      <description><![CDATA[我的意思是想想看。他们可能不会抢走所有的工作，但肯定会抢走一些。沃尔玛、星巴克或任何快餐店为什么要在可以使用人工智能的情况下向员工支付工资呢？我认为，像特斯拉或微软这样的公司会生产专门用于快餐店工作的人工智能，并将机器人卖给这些公司。 想想所有可能被抢走的记者工作。我不用调查和报道，只需将一些信息输入人工智能算法，让它打印出一些东西来发布即可。 对我来说，这是最可怕的部分。甚至我也犯了使用人工智能来帮助我学习或只是帮我解决问题的错误，而不是让我真正使用批判性思维。基本上，我的意思是让人们变得更笨。每个人都说“这取决于你如何使用它”，好吧，笨蛋们对手机说了同样的话，看看情况如何。如果人工智能已经存在，人们显然会使用它，贪婪的公司会确保你觉得你别无选择。  我不是说人工智能不好，我是说最终支持这些东西的人是坏人。真正聪明而强大的人会试图愚弄民众，让他们做他们想做的事，这可能和他们现在做的差不多。见鬼，我是一个保守派，我认为特朗普是做这件事最有罪的人之一。但我认为，如果还没有，还有很多更糟糕的人会支持这件事。我真的相信，如果我们不加以控制，这种技术的快速进步将会终结美国。我知道这听起来怎么样，但如果你不认为有国家通过媒体和技术腐蚀我们，那么你才是疯子。  无论如何，你们对此有什么感想？    提交人    /u/CommitteeCautious557   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjmp3g/is_no_one_scared_of_the_future_with_ai/</guid>
+      <pubDate>Sun, 22 Dec 2024 00:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以使用人工智能来分析公司的公开财务信息吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjldxr/are_there_any_ai_we_can_use_to_analyze_publicly/</link>
+      <description><![CDATA[例如：假设我想询问有关某个公司资产负债表或债务结构的问题。 我想向 AI 询问有关 SEC 上所有可用文件或有关该公司的所有新闻文章的问题。 这里唯一的问题是：它们必须是动态的，模型必须每天更新，或者需要具有较大的上下文内存来消化与所问问题相关的信息。    提交人    /u/BranchDiligent8874   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjldxr/are_there_any_ai_we_can_use_to_analyze_publicly/</guid>
+      <pubDate>Sat, 21 Dec 2024 22:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于在两幅图像之间转换的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjjla6/ai_for_transitioning_between_two_images/</link>
+      <description><![CDATA[大家好，我和我爸爸需要最好的工具来变形并在两个相似的图像之间创建过渡。上下文：我们有一个玫瑰花瓣，关闭和打开，需要在它们之间创建一个过渡。该工具可能很昂贵，只要它具有高质量的结果并且可以拍摄 3000x3000 像素的图像，提前致谢！    提交人    /u/Armour2make   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjjla6/ai_for_transitioning_between_two_images/</guid>
+      <pubDate>Sat, 21 Dec 2024 21:26:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如今，人工智能在解决不适定问题方面表现如何？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjimsk/how_good_is_ai_at_solving_illposed_problems_these/</link>
+      <description><![CDATA[对于那些不知道的人来说，不适定问题是指解决方案定义不明确的问题 - 这可能意味着数据不足，没有唯一的解决方案，或者问题对输入的微小变化高度敏感。  人工智能在深度学习、概率模型和生成方法方面取得了长足进步，但在高度模糊或不确定的情况下，它与人类的直觉和推理相比如何？ 有哪些情况人工智能明显优于人类 - 或者它有哪些不足之处？ 人工智能和人类可能以不同的方式表现出色的问题呢？    提交人    /u/Zestyclose_Hat1767   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjimsk/how_good_is_ai_at_solving_illposed_problems_these/</guid>
+      <pubDate>Sat, 21 Dec 2024 20:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>爆头生成器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjgfis/headshot_generator/</link>
+      <description><![CDATA[这里有人知道任何好的免费头像生成器吗？你可以上传你的照片，它会生成一张好的头像。这里的关键字是免费的，所以不寻找任何付费选项。    提交人    /u/According_Ice6515   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjgfis/headshot_generator/</guid>
+      <pubDate>Sat, 21 Dec 2024 18:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前软件开发人员中的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjg7qd/ai_in_software_developer_right_now/</link>
+      <description><![CDATA[LLM 进展非常快。但是现在，在 2024 年底，他们仍然无法解决任何有意义的问题。 大多数问题都需要大量背景、了解业务问题、重构大量代码、编写测试、进行手动测试、规划未来性能等等......这个清单永无止境。 目前，LLM 并非毫无用处，但也没有那么有用，因为它们会随机跳过和忽略一些东西。犯非常简单的错误。不要考虑性能，... Cursor 是一个不错的想法，但它无法解决上述问题。那么如何解决这个问题呢？ 似乎除非 LLM 性能提高 100 倍，错误减少到接近零，并且它能够真正注意到，否则我们能做的不多？ 描述简单但很大的重构工作是不可接受的，即使使用代理，也总是陷入无限循环，其中 LLM 会破坏整个过程，即使它可以访问它可以运行的测试集。真令人沮丧。 我想我的问题是有人解决了这个问题吗。如果能给 AI 工具一些它们可以真正完成并且不会破坏事物的任务，那就太好了。    提交人    /u/MaverickGuardian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjg7qd/ai_in_software_developer_right_now/</guid>
+      <pubDate>Sat, 21 Dec 2024 18:43:22 GMT</pubDate>
+    </item>
     <item>
       <title>医疗助理 - 请有人窃取我的想法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjfa5l/medical_assistant_someone_please_steal_my_idea/</link>
       <description><![CDATA[我是一名医生，我每天都希望自己有一个 AI 助手。我希望有一种 AI 可以帮助诊断、开处方和处理官僚事务。也许甚至可以帮我发现我错过的东西，或者给我一个建议。我们有这方面的技术！我们只是需要有人来做！我会自己做，但我已经有了自己的事业，我不能放弃它。但是如果看到这个的人有兴趣做点什么，请，我很乐意尽我所能提供帮助。如果没有，好吧，只是发泄一下。    提交人    /u/-pocoto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjfa5l/medical_assistant_someone_please_steal_my_idea/</guid>
       <pubDate>Sat, 21 Dec 2024 18:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建基于AI的虚拟登台SaaS？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjehbw/how_to_create_ai_based_virtual_staging_saas/</link>
-      <description><![CDATA[大家好， 我偶然发现了这款 SaaS：AI HomeDesign：房产列表的 AI 工具箱 还有更多类似上述的 SaaS 提供虚拟 AI 展示.. 我的问题是人们是如何创建添加家具或展示图片的 AI 的？他们使用的是预训练模型还是自定义模型？ 像我们这样的人怎么也能创建类似的东西？    提交人    /u/Goku560   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjehbw/how_to_create_ai_based_virtual_staging_saas/</guid>
-      <pubDate>Sat, 21 Dec 2024 17:23:18 GMT</pubDate>
     </item>
     <item>
       <title>您在日常生活中使用什么人工智能？</title>
@@ -27,32 +90,11 @@
       <pubDate>Sat, 21 Dec 2024 16:33:45 GMT</pubDate>
     </item>
     <item>
-      <title>测试时间计算对于真正的推理和智能来说是否足够？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjd00x/is_test_time_calculation_sufficient_for_real/</link>
-      <description><![CDATA[这是对经典 LLM 范式的改进，但我有理由相信它不是真正的推理。推理由 arc 标准充分客观地表示，并被 o3 模型超越，这是一个重大改进。1 - o3 模型需要不可持续的计算资源/过多的思考时间权衡，这种权衡增加了几个数量级。2 - 推理模型基本上会为目标任务生成数千甚至数百万个样本变化，并迭代过滤它们，直到找到目标问题的解决方案。3 - 这些模型的工作方式是通过在测试时进行微调来过度拟合特定问题。ttc 模型是不连续的，这意味着它们不能很好地概括以成功完成现实世界的任务，其中任务所需的样本变化范围很高。因此，它们不能超越一种模仿网络。 4 - 这些模型还应该能够像人类一样，在多个推理步骤中一致地执行任务而不会造成任何性能损失。最重要的缺点是模型必须具有实时自适应上下文灵活性，即能够在测试时在上下文窗口中表示训练数据，并根据目标动态更新训练数据。脱离上下文的推理是下一个挑战之一，我的意思是弧状推理问题应该以扩大变化范围的方式设计，即它不是仅仅生成大量示例，而是需要以分层方式组织示例并生成少量示例以推广到更大的解决方案空间。该模型应该很好地区分一致性外推、假设细化和组合泛化的能力。  https://arxiv.org/abs/2407.04620 我个人认为，像上面链接中那样在推理时自我更新的元学习器最有可能成为 agi 的 transformers 继任者。我最喜欢的是 rwkv 模型系列。     提交人    /u/IntrepidRestaurant88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjd00x/is_test_time_calculation_sufficient_for_real/</guid>
-      <pubDate>Sat, 21 Dec 2024 16:13:30 GMT</pubDate>
-    </item>
-    <item>
       <title>最喜欢的 LLM？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjc2hz/favourite_llm/</link>
       <description><![CDATA[那么...您最喜欢的免费 LLM AI 是什么 ChatGPT、Gemeni、Perplexity、Claude 还是 Meta.AI 或其他？ 这么多选择，我在上面所有选项中都犹豫不决... 我有一个主题（成为相当复杂的遗产的遗嘱执行人）。  我想在接下来的几个月内与 LLM 进行“对话”，以便在问题出现时深入了解细节。    提交人    /u/FringeBenefits42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjc2hz/favourite_llm/</guid>
       <pubDate>Sat, 21 Dec 2024 15:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想成为一名工业产品设计师，我会被取代吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjbzop/i_want_to_be_a_industrial_product_designer_will_i/</link>
-      <description><![CDATA[我目前正在学习成为一名工程师，我的问题是，当我学习 solidworks、如何制作概念艺术并找到工作时，AI 是否已经学会了？我做这份工作有意义吗？    提交人    /u/SulphurMC   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjbzop/i_want_to_be_a_industrial_product_designer_will_i/</guid>
-      <pubDate>Sat, 21 Dec 2024 15:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能未来可以帮助孩子们</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hjb892/ai_can_be_helpful_for_children_in_future/</link>
-      <description><![CDATA[大多数国家的教育系统都会失败，它本身就是一个注定要失败的系统，例如在印度，它是由一些殖民统治时期的访客建立的，至少人工智能会帮助学生在童年时期获得一些知识并进行大量探索，否则他们的童年就会被腐烂的教育体系摧毁 人工智能实际上有助于孩子们通过公正的对话了解自己，他们会有一个愿意倾听的人，然后不带任何偏见地向他们推荐一些令人兴奋的事情……    提交人    /u/TheLogiqueViper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hjb892/ai_can_be_helpful_for_children_in_future/</guid>
-      <pubDate>Sat, 21 Dec 2024 14:45:53 GMT</pubDate>
     </item>
     <item>
       <title>人们说程序员已经被淘汰了……</title>
@@ -81,48 +123,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj7b1m/after_the_launch_of_o3_i_am_suddenly_engulfed_by/</guid>
       <pubDate>Sat, 21 Dec 2024 10:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>o3 并没有接近 AGI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj6aeq/o3_is_not_any_closer_to_agi/</link>
-      <description><![CDATA[AGI 的定义 首先，让我解释一下我对 AGI 的定义，我认为这与经典定义一致。AGI 是通用智能，这意味着 AGI 系统应该能够以人类的水平下棋、以人类的水平交流，并且在获得汽车驾驶的视频源时，提供控制输入以驾驶汽车。它还应该能够无需明确的预训练做新的事情。正如人类可以被教导去做他们从未见过的新任务一样，AGI 系统也需要能够做同样的事情。 当前系统 这对许多人来说似乎很明显，但鉴于这里的一些帖子，值得一提。当前的 LLM 之所以看起来很聪明，只是因为人类将语言与智能联系起来。实际上，它们被训练根据大量的互联网文本预测下一个单词，模仿智能，但没有真正的人类理解能力。 虽然有些人认为从哲学上讲，人类智能可能以类似的方式工作，但很明显我们的大脑功能不同。例如，苹果的研究表明，对文字问题的细微更改（如重命名变量）会极大地影响 LLM 的性能。如果“4 个苹果加 5 个橙子”变成“4 个小部件加 5 个小玩意”，人类就不会感到吃力。（这是一个简化的示例。） 那么“推理”模型呢？ 推理模型只是经过训练的 LLM，首先概述了描述完成任务步骤的计划。此过程有助于模型“启动”自身，从而增加了预测更准确的下一个单词的可能性。 这允许模型通过有效地将其输出视为“便笺簿”的形式来遵循更复杂的指令。例如，当被问及单词“strawberry”中有多少个“r”时，模型并没有真正计算字母的数量，尽管它看起来像是这样。相反，它会生成关于计算“r”的解释性文字，从而让它更可靠地给出正确答案。 基准 人们经常对模型大惊小怪，不断地让基准过时。现实情况是很难对模型进行基准测试，因为一旦基准变得流行，公司不可避免地会使用与基准中的任务类似的数据来训练模型，即使不是完全按照基准进行训练。根据定义，如果一个模型是在其正在完成的任务的示例上进行训练的，那么它并不能证明它是通用的。如果你从 LLM 的训练数据中清除了所有人下棋的例子，然后向它描述国际象棋的规则并要求它和你下棋，它总是会失败，而这正是阻碍 LLM 成为 AGI 的主要限制。 我们能达到 AGI 吗 也许吧，但扩大 LLM 的规模并不能让我们达到这一目标。不过，在某种程度上，LLM 可能间接地促成了我们实现 AGI。围绕 LLM 的所有炒作已经导致公司将大量资金投入人工智能研究，这反过来又激励了大量人进入人工智能领域。所有这些增加的努力可能会导致一种新的架构，使我们能够实现 AGI。如果你告诉我 AGI 将在 50 年内的某个时候出现，我不会感到惊讶。 TLDR： 当前的 LLM 模仿智能，但缺乏真正的理解。基准具有误导性，因为模型是在类似的任务上进行训练的。扩大 LLM 规模并不能实现 AGI，但不断增长的研究投入可能会在 5 到 50 年内带来突破。    提交人    /u/Steven_Strange_1998   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj6aeq/o3_is_not_any_closer_to_agi/</guid>
-      <pubDate>Sat, 21 Dec 2024 09:17:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对人工智能的影响的判断错了吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj4038/am_i_wrong_about_the_impact_of_ai/</link>
-      <description><![CDATA[我现在在学校学习 IT。随着 o3 的发布，我看到了关于 AI 将如何取代计算机程序员工作的所有讨论，所以我想知道 IT 是否也会发生同样的事情。所以我在 ITCareerQuestions subreddit 中创建了一个关于它的帖子： https://www.reddit.com/r/ITCareerQuestions/comments/1hiylzl/are_we_not_also_just_cooked/ 最热门的评论说这是骗人的鬼话，我被否决了，许多评论都同意我们不应该担心。 我错了吗？随着人工智能变得越来越先进，它显然不会做这些工作吗？    提交人    /u/Timely-Inflation4290   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj4038/am_i_wrong_about_the_impact_of_ai/</guid>
-      <pubDate>Sat, 21 Dec 2024 06:25:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>进入人工智能研究领域有多难？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj20l6/how_difficult_is_it_to_get_into_ai_research/</link>
-      <description><![CDATA[我的目标是先获得计算机科学硕士学位，然后再获得人工智能和机器学习硕士学位，然后继续在这两个领域进行研究。 但事情似乎进展得很快。我担心在我有机会正式学习这些科目之前会发生更多大事。 在获得计算机科学学位的同时，自学人工智能主题直至进行研究是否可行？    提交人    /u/CrypticXSystem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj20l6/how_difficult_is_it_to_get_into_ai_research/</guid>
-      <pubDate>Sat, 21 Dec 2024 04:18:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能还有很多东西要学，我的年轻学徒</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hj03wy/ai_has_much_to_learn_my_young_apprentice/</link>
-      <description><![CDATA[  由    /u/longiner  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hj03wy/ai_has_much_to_learn_my_young_apprentice/</guid>
-      <pubDate>Sat, 21 Dec 2024 02:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>富人需要穷人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hizzfh/the_rich_need_the_poor/</link>
-      <description><![CDATA[我看到一篇关于社会将如何崩溃以及精英将让我们挨饿和死亡的帖子。虽然他们确实有心这么做，但我认为他们不会这么做。实际上，富人之所以是富人，是因为穷人。如果这个世界只充满精英，他们就不再是精英了。事实上，底层 50% 的亿万富翁将成为新的贫困阶层。这似乎是一场零和游戏。    由   提交  /u/kittencode   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hizzfh/the_rich_need_the_poor/</guid>
-      <pubDate>Sat, 21 Dec 2024 02:19:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open AI 的 o3 模型在 ARC-AGI 基准上得分为 87.5%</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hitny3/open_ais_o3_model_scores_875_on_the_arcagi/</link>
-      <description><![CDATA[https://arstechnica.com/information-technology/2024/12/openai-announces-o3-and-o3-mini-its-next-simulated-reasoning-models/ 这非常重要。   据 OpenAI 称，o3 模型在 ARC-AGI 基准测试中获得了破纪录的分数，ARC-AGI 是一个视觉推理基准测试，自 2019 年创建以来一直无人能及。在低计算场景中，o3 得分为 75.7%，而在高计算测试中，它达到了 87.5%——与人类在 85% 的门槛下的表现相当。 在直播中，ARC 奖基金会主席表示：“当我看到这些结果时，我需要改变我对人工智能能做什么和它能做什么的世界观。” OpenAI 还报告称，o3 在 2024 年美国邀请赛数学考试中的得分为 96.7%，只错过了一道题。该模型在 GPQA Diamond 上也达到了 87.7%，其中包含研究生级别的生物学、物理学和化学问题。在 EpochAI 的 Frontier Math 基准测试中，o3 解决了 25.2% 的问题，而其他模型都没有超过 2%。     提交人    /u/Pmang6   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hitny3/open_ais_o3_model_scores_875_on_the_arcagi/</guid>
-      <pubDate>Fri, 20 Dec 2024 21:01:26 GMT</pubDate>
     </item>
     <item>
       <title>不会有 UBI，地球只会变得极度荒芜</title>
