@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Dec 2024 00:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 06:02:17 GMT</lastBuildDate>
+    <item>
+      <title>GitHub - microsoft/markitdown：用于将文件和办公文档转换为 Markdown 的 Python 工具。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hl5zny/github_microsoftmarkitdown_python_tool_for/</link>
+      <description><![CDATA[       由    /u/RobinRelique  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hl5zny/github_microsoftmarkitdown_python_tool_for/</guid>
+      <pubDate>Tue, 24 Dec 2024 04:43:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何适用于 Windows 的离线打字练习应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hl4rz4/any_offline_typing_practice_apps_for_windows/</link>
+      <description><![CDATA[好吧，我知道所有这些网站（monkeytype、keybr 和那里的几十个网站），但我想要一个可安装的 Windows 应用程序，它可以离线执行这些操作，并且是 FOSS。如果您知道任何事情，请在评论中留下 提前致谢。    由   提交  /u/Xperian_48   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hl4rz4/any_offline_typing_practice_apps_for_windows/</guid>
+      <pubDate>Tue, 24 Dec 2024 03:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 Co-op Translator v0.6.2：无缝多语言翻译开源工具（仅 Markdown 模式更新）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hl41py/coop_translator_v062_opensource_tool_for_seamless/</link>
+      <description><![CDATA[        提交者    /u/Only-Reputation-3963   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hl41py/coop_translator_v062_opensource_tool_for_seamless/</guid>
+      <pubDate>Tue, 24 Dec 2024 02:48:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望能够帮助一些开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hl1hhi/wan_to_help_in_some_open_source_projects/</link>
+      <description><![CDATA[你好，我是一名刚毕业的系统工程师，我做了 3 年的全栈软件开发人员（next.js、react、node.js、python），我在同一家公司工作了几年，那是一家代理公司。我妈妈去世了，我非常伤心，几乎对一切都失去了兴趣，所以我的表现很差。我存了一些钱，因为我的生活方式不是很奢侈，所以我可以在悲伤中生存好几个月。但因为我不想失去所有的钱，所以我做了电子商务，这给了我足够的钱让我在情绪恢复期间生存下来，我现在感觉还好，但我觉得我现在无法就业，因为我已经一年没工作了，我想帮助一些开源项目。我没有停止编码，我一直在做我的论文项目，我完成了，现在我有更多的空闲时间，我想参与一些开源项目的合作，我不想为此而学习新东西，我已经知道一些东西，我认为我可以派上用场，我的技术栈是：前端使用 react 和 react native、next.js，后端使用 python、node.js 和 .net core。如果我可以帮助某人的项目，只需发送消息，我不想被氧化，我也不是以英语为母语的人，但我想我的英语足以进行交流。如果有人在他的项目中需要帮助，或者知道一个使用这个技术栈的开源项目，你能评论一下吗？我现在有很多空闲时间，顺便说一句，我并不富有，但我想用一些时间做一些有用的事情。    提交人    /u/RaveHunter05   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hl1hhi/wan_to_help_in_some_open_source_projects/</guid>
+      <pubDate>Tue, 24 Dec 2024 00:27:47 GMT</pubDate>
+    </item>
     <item>
       <title>GossipSampling - 用于去中心化网络的独立对等选择服务</title>
       <link>https://www.reddit.com/r/opensource/comments/1hl0xzd/gossipsampling_a_standalone_peer_selection/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我很高兴地宣布推出我的新 CLI 工具，它可让您直接从终端与 Chain of Thought AI 聊天。它是免费的，并且是开源的。并且可以告诉您 strawberry 中有多少个 R。尽情享受它吧，如果您喜欢它，请随意贡献。您可以在这里找到它：https://github.com/andreivisan/quantum_cli 亮点： - AI 驱动的开发：通过 Ollama 和 LangChain 利用思想链 AI 模型获得即时的 AI 辅助见解和解决方案。 - 离线访问：无需依赖云服务即可享受离线 AI 功能的好处。 - 速度和效率：直接在您的终端中体验快速高效的 AI 驱动响应。 - 美观且易于使用：使用 Markdown 渲染对 AI 响应进行美观的响应格式。 - Ollama 安装管理：如果您没有 CLI 工具，它将指导您完成安装。    提交人    /u/ProgrammingLifeIO   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hk6v5p/introducing_quantum_cli_a_cli_tool_that_lets_you/</guid>
       <pubDate>Sun, 22 Dec 2024 20:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>发展一个开源项目的重要步骤是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hk6cwo/what_are_the_big_steps_in_growing_an_open_source/</link>
-      <description><![CDATA[嗨，我正在启动一个开源项目（一些严肃的事情，几年来一直在编写代码），我有了最初的几颗星，事情看起来很好。  接下来我应该期待什么？我不应该在哪里绊倒？有没有关于何时可以获得赞助或捐赠的经验法则？     提交人    /u/cbjr77   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hk6cwo/what_are_the_big_steps_in_growing_an_open_source/</guid>
-      <pubDate>Sun, 22 Dec 2024 20:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>APICraft Rails 是如何创建的……</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hk4fcp/how_apicraft_rails_was_created/</link>
-      <description><![CDATA[最近，作为 API 设计优先工作流的一部分，我们正在寻找实现此目的的工具。我们最终观察到，实现此目的的生态系统相当分散，这是可以理解的。大多数社区都致力于快速原型设计。 但是，我们还发现，许多组织使用 Rails 作为其主要整体，为企业客户或内部 FE 客户端和其他工具提供 API。鉴于此用例，我们构建了一些内部工具来帮助我们更快地开发。它使我们能够在几秒钟内获得可用的 API，而无需实施。我们的客户可以从第 0 天开始使用它，仅基于合同。这种方法使我们能够并行化我们的开发工作流程，允许前端团队或其他消费者独立于 API 实施时间表进行。 结果对我们的工作流程产生了变革性的影响，我们意识到这个工具也可以使其他人受益。为了与社区分享此功能，我们将其打包为 Rails 珍品。虽然仍有改进空间，但该 gem 已经提供了显著的价值，并帮助团队轻松采用 API 设计优先的方法。 我们很高兴看到其他人如何使用它并为它的发展做出贡献！ https://github.com/apicraft-dev/apicraft-rails    提交人    /u/EcstaticDog4946   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hk4fcp/how_apicraft_rails_was_created/</guid>
-      <pubDate>Sun, 22 Dec 2024 18:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果有免费的开源替代品，为什么 Adob​​e 仍能从昂贵的软件中获利？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hk01hf/why_is_adobe_still_making_profits_on_expensive/</link>
-      <description><![CDATA[我的意思是 Photoshop -&gt; Gimp、Photopea Adob​​e Illustrator -&gt; Inkscape、Krita Adob​​e After Effects -&gt; Blender Adob​​e XD -&gt; Figma、Invision Adob​​e Indesign -&gt; Krita Adob​​e Premiere -&gt; Kdenlive Adob​​e Audition -&gt; Audacity  那么为什么有人会花钱购买 Adob​​e 软件（这些软件并不一定比免费软件替代品更好）呢？    提交人    /u/challenger_official   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hk01hf/why_is_adobe_still_making_profits_on_expensive/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手能用开源软件成功吗</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hjzcz4/can_a_fresher_make_it_with_open_source/</link>
-      <description><![CDATA[我听说过很多关于开源贡献如何为人们的生活带来机遇的故事。 一个新手（具有 Web 开发技能）能否通过开源取得成功。比如以此谋生（加入开源组织）。 如果你能分享这样的经验，我们会在评论中大量分享。    提交人    /u/DopeSignature5762   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hjzcz4/can_a_fresher_make_it_with_open_source/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:19:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
