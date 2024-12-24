@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Dec 2024 15:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 18:02:04 GMT</lastBuildDate>
+    <item>
+      <title>为什么我不认为 Proton 的产品是完全开源的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hlg446/why_i_dont_consider_protons_products_fully_open/</link>
+      <description><![CDATA[我在 r/ProtonMail 上发了同样的帖子，我的帖子立即被版主删除。在我看来，这似乎是奇怪的行为。所以我决定在这里发同样的帖子，看看其他人的想法： Proton 大力宣传自己是“开源”，但我认为他们并没有完全履行这一承诺。 “开源”对不同的人来说可能意味着不同的东西。大多数人都认为这意味着源代码是公开的。然而，我认识的和在软件行业共事的许多人认为开源不仅仅是代码可用性——它还涉及主动开发、问题跟踪和协作的透明度。 Proton 已在 GitHub 上公开了他们的代码，但他们的方法感觉很混乱。他们有多个产品，但每个产品都在不同的 GitHub 组织下发布。 Andy Yen（Proton 首席执行官）解释说，这是因为用户名“Proton”已被占用，而所有者不会放弃。这是可以理解的，但为什么不使用“ProtonAG”或“ProtonPrivacy”等替代方案呢？如果这些被占用，考虑到他们的声誉，GitHub 可能会毫不犹豫地帮助 Proton 收回它们。Proton 应该联系 GitHub。没有理由将他们的项目分散到这么多组织中。另一个问题是，他们的 GitHub 存储库似乎是过时的镜像，而不是他们的团队积极开发的存储库。如果 Proton 更喜欢使用其他平台（例如 GitLab 或自托管系统），那很好。但这意味着他们正在处理的问题不公开可见，从而降低了透明度。至少，他们的 GitHub 镜像应该保持更新。 例如，Proton Mail 和 Proton VPN 存储库似乎与当前的应用商店版本保持一致，即使它们不反映正在进行的开发。然而，iOS 版 Proton Drive 讲述了一个不同的故事。最新的应用商店版本 (v1.45.0) 于 12 月 18 日发布，但他们的 GitHub 存储库已经 4 个月没有更新了。这在任何意义上都不是开源。 大多数用户可能并不关心，但 Proton 大力推销其开源精神。如果这是他们品牌的一部分，他们需要完全实现它。透明度很重要，特别是对于一家注重隐私的公司而言。 我使用并喜欢 Proton 的产品，但作为一个重视透明度和开源原则的人，我感到有必要在这样的问题上对他们提出批评。 我这样的看法错了吗？    提交人    /u/Confident-Salad-839   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hlg446/why_i_dont_consider_protons_products_fully_open/</guid>
+      <pubDate>Tue, 24 Dec 2024 15:43:47 GMT</pubDate>
+    </item>
     <item>
       <title>SPDX许可证检测和管理工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1hld91h/spdx_license_detection_and_management_tool/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有没有带有 iOS 应用的 ifttt 替代品？    提交人    /u/Haleem97   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hkgwjy/any_ifttt_open_source_alternatives_with_ios_app/</guid>
       <pubDate>Mon, 23 Dec 2024 05:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Quantum CLI，一款可让你在终端中与本地思维链 AI 聊天的 CLI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hk6v5p/introducing_quantum_cli_a_cli_tool_that_lets_you/</link>
-      <description><![CDATA[我很高兴地宣布推出我的新 CLI 工具，它可让您直接从终端与 Chain of Thought AI 聊天。它是免费的，并且是开源的。并且可以告诉您 strawberry 中有多少个 R。尽情享受它吧，如果您喜欢它，请随意贡献。您可以在这里找到它：https://github.com/andreivisan/quantum_cli 亮点： - AI 驱动的开发：通过 Ollama 和 LangChain 利用思想链 AI 模型获得即时的 AI 辅助见解和解决方案。 - 离线访问：无需依赖云服务即可享受离线 AI 功能的好处。 - 速度和效率：直接在您的终端中体验快速高效的 AI 驱动响应。 - 美观且易于使用：使用 Markdown 渲染对 AI 响应进行美观的响应格式。 - Ollama 安装管理：如果您没有 CLI 工具，它将指导您完成安装。    提交人    /u/ProgrammingLifeIO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hk6v5p/introducing_quantum_cli_a_cli_tool_that_lets_you/</guid>
-      <pubDate>Sun, 22 Dec 2024 20:24:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
