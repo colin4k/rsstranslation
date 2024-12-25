@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 24 Dec 2024 21:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:04:32 GMT</lastBuildDate>
     <item>
       <title>我如何在不写一行代码的情况下关闭我的第一个 SaaS 客户端</title>
       <link>https://feed.indiehackers.world/post/8da39e833a</link>
@@ -12,6 +12,16 @@
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8da39e833a</guid>
       <pubDate>Tue, 24 Dec 2024 15:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 0 美元到 10,000 美元 MRR：我的独立黑客之旅 - 第 1 部分</title>
+      <link>https://feed.indiehackers.world/post/9f6dc1a5af</link>
+      <description><![CDATA[多亏了 Cursor，我才得以坚持下来，花了 100 多个小时来构建这个网站。内容量大，加上需要多语言翻译，这项任务令人望而生畏。如果没有人工智能的帮助，完成这个网站几乎是不可能的。单是翻译工作就足以让人望而却步。
+在这两个项目中，我开始注意到 Nuxt 框架的局限性。它的社区相对较小，这使得故障排除变得具有挑战性。此外，在使用 Nuxt 时，UI 资源的稀缺和人工智能编码助手可用的训练数据较少，也带来了额外的障碍。这些认识最终促使我在未来项目中转向 Next.js。
+在第 2 部分中，我将深入研究目前为我带来 1 万美元 MRR 的网站，分享我在此过程中学到的经验教训。敬请期待！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/9f6dc1a5af</guid>
+      <pubDate>Tue, 24 Dec 2024 08:29:20 GMT</pubDate>
     </item>
     <item>
       <title>为什么公共建筑永远改变了我的 SaaS 之旅</title>
@@ -221,23 +231,6 @@ Discord Indiehackers Chat广告此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/de3b2d5920</guid>
       <pubDate>Fri, 13 Dec 2024 09:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们开发了一款免费工具，帮助创始人避免扼杀初创企业的头号错误</title>
-      <link>https://feed.indiehackers.world/post/e4d3da77ee</link>
-      <description><![CDATA[
-与用户、队友或投资者分享您的原型以获得快速反馈。
-如果您的想法获得关注，可直接导出到 Figma 进行高级设计。
-
-最好的部分是什么？Helix 完全免费。无需订阅。没有障碍。只是更快、更智能的原型设计。
-Helix 为何重要
-作为创始人，我们知道在没有明确目标的情况下陷入无休止的构建循环是多么容易。Helix 通过使原型设计和验证变得轻松来解决此问题，为您节省时间、金钱和压力。
-Helix 可帮助创始人自信地进行验证和迭代。
-👉 在此处免费试用：https://shorturl.at/54eLa
-验证想法时面临的最大挑战是什么？下面我们来讨论一下吧！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e4d3da77ee</guid>
-      <pubDate>Fri, 13 Dec 2024 05:43:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

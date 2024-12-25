@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 24 Dec 2024 18:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:04:02 GMT</lastBuildDate>
     <item>
-      <title>我想制作一个在线点唱机来播放我的音乐</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlidqx/im_looking_to_make_a_online_jukebox_for_my_music/</link>
-      <description><![CDATA[我想制作一个在线点唱机，它将显示我已发布的两张专辑，并允许用户为每首歌曲支付 1 美元，我将通过 Stripe 付款接受。 我的问题是 React 应用程序是编程的好方法吗？ 目前，我正在使用 Claude 来帮助我完成此编码，她正在使用那个 完成后，我可以在哪里上传应用程序，我可以使用 squarespace 网站吗？ 你有什么建议让这更容易吗？ 当你选择一首歌曲时，我真的很想有一个旋转的黑胶唱片动画，并与点唱机打开的启动画面动画一起播放，它甚至可以作为切信用卡的起点，允许无缝购买下一首歌曲    提交人    /u/After-Ad2162   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlidqx/im_looking_to_make_a_online_jukebox_for_my_music/</guid>
-      <pubDate>Tue, 24 Dec 2024 17:35:25 GMT</pubDate>
+      <title>了解选择性测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1hlosfx/understanding_selective_testing/</link>
+      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hlosfx/understanding_selective_testing/</guid>
+      <pubDate>Tue, 24 Dec 2024 23:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS 初创公司是否应该提供本地服务？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hljyoj/should_saas_startups_offer_onprem/</link>
+      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hljyoj/should_saas_startups_offer_onprem/</guid>
+      <pubDate>Tue, 24 Dec 2024 18:52:14 GMT</pubDate>
     </item>
     <item>
       <title>深入研究开发中的部署策略</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hlgawd/compiling_c_to_safe_rust_formalized/</guid>
       <pubDate>Tue, 24 Dec 2024 15:53:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何上传到 hostinger VPS？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlfzcd/how_to_upload_to_hostinger_vps/</link>
-      <description><![CDATA[我已经在 vscode 中创建了一个项目，并且使用了 Python、Html、Css 和 JS，现在我尝试将其添加到我的网站，该网站基于 wordpress 构建，我的主机来自 hostinger。我购买了 Hostinger VPS，但我找不到针对我的具体问题的教程，因为我不知道如何将应用程序上传到 VPS 以便使其工作。有人能帮帮我吗？    提交人    /u/Dendo04   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlfzcd/how_to_upload_to_hostinger_vps/</guid>
-      <pubDate>Tue, 24 Dec 2024 15:37:08 GMT</pubDate>
     </item>
     <item>
       <title>hookcn，受 shadcn/ui 启发的开源 React Hooks 集合</title>
