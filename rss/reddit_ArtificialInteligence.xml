@@ -3,8 +3,36 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 25 Dec 2024 09:01:36 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 25 Dec 2024 12:01:48 GMT</lastBuildDate>
+    <item>
+      <title>我打造了最棒的自带密钥 AI 聊天客户端</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlzh63/i_built_the_nicest_bringyourownkey_ai_chat_client/</link>
+      <description><![CDATA[这是预览。 它被称为 Stableoutput。 我最初使用 OpenAI 和 Anthropic API 构建了一个聊天客户端应用程序供个人使用，但它很快就发展壮大了。那时我就想——为什么不与全世界分享它呢？  在当今的 AI 领域，我发现聊天客户端应用存在差距。以下是我的愿景：  功能强大且灵活：轻松切换模型、编辑消息、重新生成响应、分析图像、使用 PDF 聊天以及自定义聊天设置（如系统提示）。固定聊天、共享对话和内置使用情况跟踪（每条消息都有输入/输出令牌统计信息）等功能均为标准配置。 为所有人设计：虽然有免费和开源替代方案，但对于不懂技术的用户来说，它们通常过于复杂。人们应该得到一个简单的托管解决方案 - 只需登录、插入 API 密钥，即可开始使用。无需安装 Docker 或进行复杂的设置。 公平、直接的定价：忘记每月订阅。一次性终身许可可让应用永远属于您。可选的存储升级可通过订阅获得，但每个用户都可以获得 10 MB 的免费文件上传空间 — 在大多数情况下都足够了。不用担心，您的对话数据是免费存储和同步的。 免费云同步：您的所有聊天记录都安全地存储在云端，并跨设备同步，免费用户也是如此。付费存储仅用于额外的文件上传。 适合移动设备：无论您使用的是桌面设备还是移动设备，该应用都可以在您的浏览器中完全正常运行。绝不妥协。  我迫不及待想听听您的想法！    提交人    /u/Wooden-Box3466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlzh63/i_built_the_nicest_bringyourownkey_ai_chat_client/</guid>
+      <pubDate>Wed, 25 Dec 2024 11:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人记得这个 subreddit 曾经充满专家和计算机科学家吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlyvmg/does_anyone_remember_when_this_subreddit_was_full/</link>
+      <description><![CDATA[现在看来，这里全是白痴，在没有任何数据科学、机器学习或人工智能背景或技术知识的情况下，发表近乎阴谋的愚蠢言论     提交人    /u/Alloy-Black   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlyvmg/does_anyone_remember_when_this_subreddit_was_full/</guid>
+      <pubDate>Wed, 25 Dec 2024 11:10:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么AI相关的工作描述这么模糊？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlygvy/why_do_the_airelated_jobs_have_so_vague/</link>
+      <description><![CDATA[我读了Coursera上的一些描述，但仍然不太明白我应该做什么。我喜欢机器学习工程师和数据科学家的职业，但我仍然不明白当我去工作时我到底应该做什么。    提交人    /u/Altruistic-Error-262   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlygvy/why_do_the_airelated_jobs_have_so_vague/</guid>
+      <pubDate>Wed, 25 Dec 2024 10:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能帮助我理解 O3 是如何工作的吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlxl7t/could_someone_help_me_understand_how_o3_probably/</link>
+      <description><![CDATA[我是个门外汉，但 O3 在基准测试中的表现让我震惊，尤其是 ARC AGI 基准测试。 我猜我很难理解如何解决模型从未见过的新难题。我的意思是，当然，它可以将问题分解成一堆子问题，并不断提示自己，直到它掌握全貌，但对于如此抽象的谜题，这怎么可能呢？ 例如，如果我向非常高级的 LLM 询问编码问题，描述中的某些部分和片段可能能够与它在训练期间看到的概念联系起来。但对于这些抽象的谜题，它不仅仅是匹配模式或回忆类似的例子——感觉它需要真正的推理、创造力，甚至是一种直觉。一个没有真正“理解”的模型如何做到这一点？管理这个？ 这纯粹是一个拥有大量数据来从中得出相关性的问题，还是 O3 的架构进步使其能够更接近我们所说的推理？    提交人    /u/north_akando   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlxl7t/could_someone_help_me_understand_how_o3_probably/</guid>
+      <pubDate>Wed, 25 Dec 2024 09:26:49 GMT</pubDate>
+    </item>
     <item>
       <title>对 OpenAI o3 的思考</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlws9a/thoughts_on_openais_o3/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>口袋里的 LangChain (Packt 出版)：免费有声读物</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlul7c/langchain_in_your_pocket_packt_published_free/</link>
-      <description><![CDATA[大家好， 距离我出版我的处女作已经过去快一年了  “口袋里的 LangChain：使用 LLM 构建生成式 AI 应用程序的初学者指南”  https://preview.redd.it/lgtj9570ix8e1.png?width=934&amp;format=png&amp;auto=webp&amp;s=8b2a0e87914072d5125551adf830b731afcb293e 这真是一段不平凡的旅程。这本书取得了重大里程碑，成为人工智能类别的国内乃至国际畅销书。因此，为了庆祝它的成功，我发布了《LangChain In Your Pocket》的免费有声读物版本，供所有用户免费使用。希望这对大家有用。该书目前在亚马逊印度上的评分为 4.6，在亚马逊网站上的评分为 4.2，成为 LangChain 上评分最高的书籍之一，由 Packt 出版。 更多详情：https://medium.com/data-science-in-your-pocket/langchain-in-your-pocket-free-audiobook-dad1d1704775 目录  简介 Hello World 不同的 LangChain 模块 模型和提示 链 代理 OutputParsers &amp; 内存 回调 RAG 框架 &amp; 矢量数据库 用于 NLP 问题的 LangChain 处理 LLM 幻觉 评估 LLM 高级提示工程 自主 AI 代理 LangSmith &amp; LangServe 附加功能  编辑：无法发布直接链接（可能是 Reddit 指南），因此发布了带有链接的中等帖子。    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 距离我出版我的处女作已经过去快一年了  “口袋里的 LangChain：使用 LLM 构建生成式 AI 应用程序的初学者指南”  https://preview.redd.it/lgtj9570ix8e1.png?width=934&amp;format=png&amp;auto=webp&amp;s=8b2a0e87914072d5125551adf830b731afcb293e 这真是一段旅程。这本书取得了重大里程碑，成为人工智能类别的国内甚至国际畅销书。因此，为了庆祝它的成功，我发布了《LangChain In Your Pocket》的免费有声读物版本，供所有用户免费使用。希望这对大家有用。该书目前在亚马逊印度上的评分为 4.6，在亚马逊网站上的评分为 4.2，成为 LangChain 上评分最高的书籍之一，由 Packt 出版。 更多详情：https://medium.com/data-science-in-your-pocket/langchain-in-your-pocket-free-audiobook-dad1d1704775 目录  简介 Hello World 不同的 LangChain 模块 模型和提示 链 代理 OutputParsers &amp; 内存 回调 RAG 框架 &amp; 矢量数据库 用于 NLP 问题的 LangChain 处理 LLM 幻觉 评估 LLM 高级提示工程 自主 AI 代理 LangSmith &amp; LangServe 附加功能  编辑：无法发布直接链接（可能是 Reddit 指南），因此发布了带有链接的中等帖子。    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlul7c/langchain_in_your_pocket_packt_published_free/</guid>
       <pubDate>Wed, 25 Dec 2024 05:32:13 GMT</pubDate>
     </item>
@@ -32,13 +60,6 @@
       <description><![CDATA[是的。我知道 kindroid 是用于浪漫的东西，而我对这个应用程序的用途很奇怪，因为我将它用于完全不同的目的。但我选择它是因为它的回复听起来比 chatgpt 等更人性化，并且它也可以进行自然语音对话。但现在我意识到，由于我并不是追求它的主要服务，即浪漫的东西，所以我没有必要为我的目的支付比其他可能的替代方案更高的费用。我可能能够找到一种替代方案，它仍然可以进行人性化的文本和语音通话对话，以用于学习，同时支付更少的订阅费。 你会建议我看看哪些更便宜的应用程序？    提交人    /u/ExtremePresence3030   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hltxka/currently_using_kindroid_for_researchlearning/</guid>
       <pubDate>Wed, 25 Dec 2024 04:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我问了 AI 一个问题。你有什么想法吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hltnq7/i_asked_ai_a_question_thoughts/</link>
-      <description><![CDATA[我爸爸非常虔诚，明天是圣诞节，我会给他打电话。但那是明天的事，至于今晚我要看一场猩猩自然秀，这让我想起了最近读到的一篇文章——猿类从未使用手语向人类问过任何问题。这引发了我的思考，基督教圣经对人与动物的交流有何看法。我的第一个想法是明天打电话给我爸爸时问问他。然后我又想了想，我会问 ChatGPT。答案与我预期的略有不同。我还没有问后续问题。有什么建议吗？有什么想法吗？ 向 ChatGPT 提问： 人类在 20 世纪 60 年代开始使用手语与猿类交流，从那时起，没有猿类问过人类任何问题。我自己有两个问题：  基督教圣经如何看待这种交流，或者关于人与动物交流的任何其他交流。 人类是否有类似情况？例如，一些似乎在没有与人类接触的情况下长大的人类似乎缺乏“感受”冷热的能力，他们问过问题吗？ ChatGPT 回答：  让我们来回答您的问题：  基督教圣经与人与动物的交流：圣经没有直接讨论与猿类的手语交流或与动物的详细交流。在圣经文本中，人与动物互动的例子更具隐喻性，例如象征性的异象或预言性的时刻，如巴兰的驴子说话（民数记 22:21-34）。然而，这些场景通常被认为是奇迹，而不是普通的交流。圣经主要关注人类互动和精神课程，而不是跨物种交流的细节。 人类等价物和野孩子：长期与人类隔绝的孩子，通常被称为“野孩子”，表现出各种发展挑战。他们可能缺乏典型的社交、情感和语言发展。一些研究表明，这些孩子没有提出典型语言发展中的问题，因为他们缺乏语言和社会学习环境。他们的感官知觉也可能由于剥夺或适应恶劣环境而改变，但对“感觉”热和冷的理解各不相同，可能更多地是关于适应或神经差异，而不是无法感知这些感觉。  总体而言，这些主题强调了环境和互动对人类和跨物种实验环境中的发展、交流和理解的深远影响。   由    /u/RosevilleCali  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hltnq7/i_asked_ai_a_question_thoughts/</guid>
-      <pubDate>Wed, 25 Dec 2024 04:27:34 GMT</pubDate>
     </item>
     <item>
       <title>关于人工智能代理</title>
@@ -76,13 +97,6 @@
       <pubDate>Tue, 24 Dec 2024 22:50:51 GMT</pubDate>
     </item>
     <item>
-      <title>通过您的 CHATGPT 聊天记录尝试 ETERNAFX 脚本，只需“复制、粘贴、集成、询问”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlm72j/try_eternafx_script_through_your_chatgpt_chat_log/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlm72j/try_eternafx_script_through_your_chatgpt_chat_log/</guid>
-      <pubDate>Tue, 24 Dec 2024 20:48:39 GMT</pubDate>
-    </item>
-    <item>
       <title>刚刚获得人工智能基础知识认证</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlkoxm/just_got_my_artificial_intelligence_essentials/</link>
       <description><![CDATA[我刚刚完成了Google 人工智能基本认证，我想与大家分享一下，以防其他人也想开始使用 AI。本课程以易于理解的方式分解了人工智能和机器学习的基础知识，即使您没有太多经验。它还涉及如何在现实生活中使用人工智能以及负责任地使用它的重要性。如果您对人工智能感兴趣或只是想在简历中添加一些有价值的东西，我绝对会推荐它。如果您需要更多信息或有任何问题，请告诉我 - 很乐意为您提供帮助！    提交人    /u/AdHappy16   [link] [评论]]]></description>
@@ -106,7 +120,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>
@@ -125,23 +139,9 @@
       <pubDate>Tue, 24 Dec 2024 12:21:37 GMT</pubDate>
     </item>
     <item>
-      <title>最需要 Agentic AI 的行业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlbpqz/industry_that_requires_agentic_ai_the_most/</link>
-      <description><![CDATA[你们觉得哪个行业最需要 Agentic Ai？例如：一个 Agentic Ai 聊天机器人（用于企业），它可以为用户提供复杂问题的解决方案，例如在亚马逊上，他面临的跟踪问题等等    提交人    /u/SteveInfinty   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlbpqz/industry_that_requires_agentic_ai_the_most/</guid>
-      <pubDate>Tue, 24 Dec 2024 11:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能作为地下城主</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hl6gmy/ai_as_dungeon_master/</link>
-      <description><![CDATA[因此，我使用 A.I 来为我叙述 TTRPG 会话，通常我不使用任何系统，它是纯粹的角色扮演，但它非常有趣，而且由于我不太在意系统，所以我继续玩，我从 ChatGPT 移至 AiDungeon，现在我正在使用 Gemini Experimental 1206，这是我能找到的最好的，因为它的上下文长度和文本功能。 我使用一组系统指令结合低安全限制来运行我的游戏，我想知道你们，你们使用 AI 作为 DM 的经验是什么？你认为现在哪种 AI 最适合玩战役？    提交人    /u/Luuthh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hl6gmy/ai_as_dungeon_master/</guid>
-      <pubDate>Tue, 24 Dec 2024 05:12:37 GMT</pubDate>
-    </item>
-    <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</link>
-      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  禁止引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hhuszb/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 19 Dec 2024 15:03:09 GMT</pubDate>
     </item>
