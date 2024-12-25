@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Dec 2024 00:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 03:04:37 GMT</lastBuildDate>
+    <item>
+      <title>适用于 MacOS 的剪贴板管理器，支持图像、复制通知和与 Obsidian 同步</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hls0v1/clipboard_manager_for_macos_which_supports_images/</link>
+      <description><![CDATA[大家好， 很高兴与大家分享，我已经创建了一个 macos 应用程序，因为我需要一个剪贴板管理器，它也可以让我循环浏览剪贴内容。 您可以使用 rockstar：https://github.com/workhunters/clipboard-core/releases/tag/v1.2.2 尽管 repo 名称是 ClipboardManager。 *注意*：下载后，您必须从“隐私和”中执行“仍然打开”安全性` 来首次运行它。 如果您不相信我，您可以查看源代码，这其中没有恶意软件，实际上您所有的数据都在您的系统中，如果您想保存剪报，您也可以将其与 Obsidian Vault 链接。    提交人    /u/hp77reddits   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hls0v1/clipboard_manager_for_macos_which_supports_images/</guid>
+      <pubDate>Wed, 25 Dec 2024 02:33:05 GMT</pubDate>
+    </item>
     <item>
       <title>TorchLens：开源深度学习包，可以在一行代码中可视化任何 PyTorch 模型，以及提取所有激活和元数据</title>
       <link>https://www.reddit.com/r/opensource/comments/1hlofn9/torchlens_opensource_deep_learning_package_that/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>GossipSampling - 用于去中心化网络的独立对等选择服务</title>
       <link>https://www.reddit.com/r/opensource/comments/1hl0xzd/gossipsampling_a_standalone_peer_selection/</link>
-      <description><![CDATA[我一直在研究 Gossip Peer Sampling Service，想与大家分享。我很乐意找到对此感兴趣的人，他们可以提供一些反馈。 查看 repo 此处 我尝试对理论进行简要概述 此处 我在这里的首要目标就是找到有相似兴趣的人，所以如果您认为这很酷、有想法和/或建议，请与我们联系！    提交人    /u/Aktem   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在研究 Gossip Peer Sampling Service，想与大家分享。我很乐意找到对此感兴趣的人，他们可以提供一些反馈。 查看 此处 我尝试在 此处 简要概述该理论 我在这里的首要目标就是找到有相似兴趣的人，所以如果您认为这很酷、有想法和/或建议，请与我们联系！    提交人    /u/Aktem   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hl0xzd/gossipsampling_a_standalone_peer_selection/</guid>
       <pubDate>Mon, 23 Dec 2024 23:59:50 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>有没有适用于 Android 的开源货币兑换信息小部件应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hklyn4/are_there_any_open_source_currency_exchange/</link>
-      <description><![CDATA[有点不相关的文本，但我觉得这个 subreddit 足够大，可以有一个专门用于 Android 的单独开源 subreddit。我认为典型的 Android（例如 /r/AndroidQuestions）subreddit 根本不够用。如果能谈谈一些正在进行的项目就太好了。 无论如何，基本上，我想要一个小部件，显示几种不同货币的汇率，并以一定的间隔（可能是分钟、小时、天等）更新。有这样的应用程序吗？    提交人    /u/kr_tech   [链接] [评论]]]></description>
+      <description><![CDATA[有点不相关的文本，但我觉得这个 subreddit 足够大，可以有一个专门用于 Android 的单独开源 subreddit。我认为典型的 Android（例如 /r/AndroidQuestions）subreddit 根本不够用。谈论一些正在进行的项目也很好。 无论如何，基本上，我想要一个小部件，显示几种不同货币的汇率，并以一定的间隔（可能是分钟、小时、天等）更新。有这样的应用程序吗？    提交人    /u/kr_tech   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hklyn4/are_there_any_open_source_currency_exchange/</guid>
       <pubDate>Mon, 23 Dec 2024 11:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过开源贡献了解 Helm Charts！我们刚刚在 SigNoz（DataDog 的 OS 替代品）Helm Charts 存储库中标记了几个“好的第一个问题”，我们很乐意为您提供解决这些问题的任何帮助。这是获得 Helm Chart 开发实践经验的好机会。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hkluly/learn_about_helm_charts_with_open_source/</link>
-      <description><![CDATA[  由    /u/ankit01-oss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hkluly/learn_about_helm_charts_with_open_source/</guid>
-      <pubDate>Mon, 23 Dec 2024 11:30:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
