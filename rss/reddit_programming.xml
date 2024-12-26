@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 26 Dec 2024 06:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 12:02:31 GMT</lastBuildDate>
+    <item>
+      <title>如何使用共享“storageState”加速 Playwright 测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1hml2nn/how_to_speed_up_your_playwright_tests_with_shared/</link>
+      <description><![CDATA[  由    /u/bit810  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hml2nn/how_to_speed_up_your_playwright_tests_with_shared/</guid>
+      <pubDate>Thu, 26 Dec 2024 09:37:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 扩展 AI 套件：Copilot 实现多模型，Spark 首次亮相 Web 开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1hml1rl/github_expands_ai_suite_copilot_goes_multimodel/</link>
+      <description><![CDATA[  由    /u/MagicianPutrid5245  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hml1rl/github_expands_ai_suite_copilot_goes_multimodel/</guid>
+      <pubDate>Thu, 26 Dec 2024 09:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何修复开发中的产品性能跟踪</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmjvbu/how_we_fixed_our_product_performance_tracking_in/</link>
+      <description><![CDATA[  由    /u/professionalthing111  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmjvbu/how_we_fixed_our_product_performance_tracking_in/</guid>
+      <pubDate>Thu, 26 Dec 2024 08:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>BashForm - 终端中的表单</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmj7ss/bashform_forms_but_in_the_terminal/</link>
+      <description><![CDATA[大家好！👋  刚刚创建了 BashForm - 通过 SSH 创建和共享表单！无需安装，无需设置 - 只需纯粹的终端优点 ✨ 尝试一下（需要 30 秒）：ssh -t bashform.me f try 它就像 Google Forms，但用于终端（很酷）🤓 它是用 Golang、Bubble Tea 和 Wish 构建的 来源：https://github.com/devmegablaster/bashform PS：您只需要一个 SSH 密钥！    提交人    /u/Any_Friend_8551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmj7ss/bashform_forms_but_in_the_terminal/</guid>
+      <pubDate>Thu, 26 Dec 2024 07:10:45 GMT</pubDate>
+    </item>
     <item>
       <title>F*：一种通用的面向证明的编程语言</title>
       <link>https://www.reddit.com/r/programming/comments/1hmeqec/f_a_generalpurpose_prooforiented_programming/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hlosfx/understanding_selective_testing/</guid>
       <pubDate>Tue, 24 Dec 2024 23:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 初创公司是否应该提供本地服务？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hljyoj/should_saas_startups_offer_onprem/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hljyoj/should_saas_startups_offer_onprem/</guid>
-      <pubDate>Tue, 24 Dec 2024 18:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入研究开发中的部署策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlhf63/a_closer_look_at_deployment_strategies_in/</link>
-      <description><![CDATA[  由    /u/professionalthing111  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlhf63/a_closer_look_at_deployment_strategies_in/</guid>
-      <pubDate>Tue, 24 Dec 2024 16:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 C 编译为安全 Rust，形式化</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlgawd/compiling_c_to_safe_rust_formalized/</link>
-      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlgawd/compiling_c_to_safe_rust_formalized/</guid>
-      <pubDate>Tue, 24 Dec 2024 15:53:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>hookcn，受 shadcn/ui 启发的开源 React Hooks 集合</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlfpw1/hookcn_open_source_collection_of_react_hooks/</link>
-      <description><![CDATA[  由    /u/Moist-Championship79  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlfpw1/hookcn_open_source_collection_of_react_hooks/</guid>
-      <pubDate>Tue, 24 Dec 2024 15:23:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
