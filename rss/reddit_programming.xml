@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 27 Dec 2024 00:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 06:02:10 GMT</lastBuildDate>
+    <item>
+      <title>Valhalla - Java 的史诗级重构</title>
+      <link>https://www.reddit.com/r/programming/comments/1hn8dqx/valhalla_javas_epic_refactor/</link>
+      <description><![CDATA[  由    /u/daviddel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hn8dqx/valhalla_javas_epic_refactor/</guid>
+      <pubDate>Fri, 27 Dec 2024 05:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React-flow 制作 AI 数据建模工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1hn7n5h/made_an_ai_data_modeling_tool_with_reactflow/</link>
+      <description><![CDATA[  由    /u/Sea-Lie8848  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hn7n5h/made_an_ai_data_modeling_tool_with_reactflow/</guid>
+      <pubDate>Fri, 27 Dec 2024 05:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个自托管的 ebook2audiobook 转换器，支持语音克隆和 1107 多种语言 :)</title>
+      <link>https://www.reddit.com/r/programming/comments/1hn5p3n/made_a_self_hosted_ebook2audiobook_converter/</link>
+      <description><![CDATA[我一直在研究的一个很酷的可访问性副项目 完全免费离线 演示音频文件位于自述文件中 :) 如果您需要，还有一个独立的 docker 镜像    提交人    /u/Impossible_Belt_7757   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hn5p3n/made_a_self_hosted_ebook2audiobook_converter/</guid>
+      <pubDate>Fri, 27 Dec 2024 03:22:39 GMT</pubDate>
+    </item>
     <item>
       <title>编写自己的虚拟机（针对 LC-3，一种教育计算机架构）</title>
       <link>https://www.reddit.com/r/programming/comments/1hmzq3o/write_your_own_virtual_machine_for_lc3_an/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hmvq9h/into_cps_never_to_return/</guid>
       <pubDate>Thu, 26 Dec 2024 19:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>子进程：默认不关闭所有文件描述符（close_fds=False）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hmvpb0/subprocess_dont_close_all_file_descriptors_by/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hmvpb0/subprocess_dont_close_all_file_descriptors_by/</guid>
-      <pubDate>Thu, 26 Dec 2024 19:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postgres 中的读取引发写入</title>
-      <link>https://www.reddit.com/r/programming/comments/1hmvoj9/reads_causing_writes_in_postgres/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hmvoj9/reads_causing_writes_in_postgres/</guid>
-      <pubDate>Thu, 26 Dec 2024 19:19:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debian 对 Rust 的处理方式 – 依赖处理</title>
-      <link>https://www.reddit.com/r/programming/comments/1hmvoc2/debians_approach_to_rust_dependency_handling/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hmvoc2/debians_approach_to_rust_dependency_handling/</guid>
-      <pubDate>Thu, 26 Dec 2024 19:19:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
