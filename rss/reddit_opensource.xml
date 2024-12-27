@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:02:05 GMT</lastBuildDate>
+    <item>
+      <title>报表数据准备中间件，高效管理无休止的报表开发</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hnavp3/a_middleware_for_report_data_preparation_that/</link>
+      <description><![CDATA[https://github.com/SPLWare/esProc_Reporting 刚刚出炉。有什么好的建议吗？    提交人    /u/Vast_Lab8278   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hnavp3/a_middleware_for_report_data_preparation_that/</guid>
+      <pubDate>Fri, 27 Dec 2024 08:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们创建了一个开源 AI 代理市场</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hn900o/we_made_an_opensource_ai_agents_marketplace/</link>
+      <description><![CDATA[大家好！ 今天，我们很高兴地宣布推出我们的 AI 代理市场。这是一个开源市场，拥有 100 多个按类别组织的 AI 代理。 在此处探索：https://metaschool.so/ai-agents  这是我们存储库的链接：https://github.com/0xmetaschool/AI-Agents-Directory  我们为什么要构建它？ Vinod Khosla 曾经说过，未来，数十亿个 AI 代理将全天候运行，以提高我们的生产力和联系性。那个未来还没有到来，但它正在快速到来。当有数百万个代理时，您需要一个地方来找到最适合您工作的代理。这就是我们建立这个市场的原因。  我们发布此列表的目标是帮助您找到最佳代理，并为建筑商提供一个向世界展示其作品的平台。  如果您已经构建了 AI 代理，您可以免费列出它并向全球用户推广它。  现在还为时过早，但我们很乐意听到任何反馈。    提交人    /u/sahilypatel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hn900o/we_made_an_opensource_ai_agents_marketplace/</guid>
+      <pubDate>Fri, 27 Dec 2024 06:38:40 GMT</pubDate>
+    </item>
     <item>
       <title>Arch Gateway - AI 代理的智能网关。提供准确的多轮意图路由、护栏和⚡️功能调用（通过 API）在业务逻辑之外</title>
       <link>https://www.reddit.com/r/opensource/comments/1hn84xa/arch_gateway_intelligent_gateway_for_ai_agents/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我计划为 Windows（如果可能，也为 Linux）编写一个规模较小的开源应用程序，该应用程序需要 GUI 并使用 C#。它还将在一段时间内作为后台进程运行，因此效率低下并不理想。我想知道这里有没有人想过 Avalonia UI 是否理想，或者我是否应该使用其他/不那么臃肿的东西。    提交人    /u/ThankYouNeutronix_02   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hm1ct9/should_i_use_avalonia_ui_in_an_open_source_project/</guid>
       <pubDate>Wed, 25 Dec 2024 14:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源键盘 android</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hm14on/opensource_keyboard_android/</link>
-      <description><![CDATA[有人知道任何开源 Android 键盘吗？    提交人    /u/rhyan-jack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hm14on/opensource_keyboard_android/</guid>
-      <pubDate>Wed, 25 Dec 2024 13:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[推广] Mockstagram：一个社交媒体后端克隆，用于学习和试验微服务架构</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hm12n3/promotion_mockstagram_a_social_media_backend/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hm12n3/promotion_mockstagram_a_social_media_backend/</guid>
-      <pubDate>Wed, 25 Dec 2024 13:50:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
