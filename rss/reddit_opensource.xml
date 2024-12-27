@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 27 Dec 2024 09:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 15:02:10 GMT</lastBuildDate>
     <item>
-      <title>报表数据准备中间件，高效管理无休止的报表开发</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hnavp3/a_middleware_for_report_data_preparation_that/</link>
-      <description><![CDATA[https://github.com/SPLWare/esProc_Reporting 刚刚出炉。有什么好的建议吗？    提交人    /u/Vast_Lab8278   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hnavp3/a_middleware_for_report_data_preparation_that/</guid>
-      <pubDate>Fri, 27 Dec 2024 08:55:39 GMT</pubDate>
+      <title>如何使用 NAPS2 共享扫描仪</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hne8ik/how_to_share_scanner_using_naps2/</link>
+      <description><![CDATA[我尝试分享 NAPS 网站上的扫描仪指南，但没有显示扫描仪共享选项的按钮。    提交人    /u/Arihant_aj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hne8ik/how_to_share_scanner_using_naps2/</guid>
+      <pubDate>Fri, 27 Dec 2024 12:52:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>众筹 FOSS 值得吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hndfcb/is_crowdfunding_foss_worth_it/</link>
+      <description><![CDATA[大家好，我一直在考虑通过众筹来支持一个开源项目的想法，但我想听听其他做过或支持过该项目的人的意见。 如果你以前曾众筹过一个开源项目，你面临的最大挑战是什么/哪些方法有效？这值得吗？ 也想了解支持者的想法（我从未支持过软件众筹活动，哈哈），但是什么会让你考虑支持一个项目？ 提前谢谢大家！    提交人    /u/Havik772   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hndfcb/is_crowdfunding_foss_worth_it/</guid>
+      <pubDate>Fri, 27 Dec 2024 12:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Fast Music Remover 来控制您每天使用的媒体！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hnd9h9/take_control_of_the_media_you_consume_everyday/</link>
+      <description><![CDATA[        提交人    /u/Apart-Status9082   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hnd9h9/take_control_of_the_media_you_consume_everyday/</guid>
+      <pubDate>Fri, 27 Dec 2024 11:49:37 GMT</pubDate>
     </item>
     <item>
       <title>我们创建了一个开源 AI 代理市场</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[我很高兴地宣布 OpenHabitTracker 1.0.8 发布了！ OpenHabitTracker 是一个开源 Blazor 应用，用于在一个地方管理任务、笔记和习惯。它可在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。所有数据都存储在本地，优先考虑您的隐私。 感谢您的所有支持和反馈！我做了一些 UI 改进，使其更简洁易用。 查看：https://openhabittracker.net 祝社区中的每个人都度过一个快乐的节日！🎄 我很想听听您对未来更新的想法或想法！    提交人    /u/Jinjinov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hm65wu/openhabittracker_108_is_here/</guid>
       <pubDate>Wed, 25 Dec 2024 18:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>FixBrowser - 从头开始​​创建的轻量级 Web 浏览器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hm2n4t/fixbrowser_a_lightweight_web_browser_created_from/</link>
-      <description><![CDATA[您好，我正在开发一款专注于真正轻量级且专为隐私设计的 Web 浏览器。 在某个时候，我意识到 Web 浏览器的大部分复杂性和资源需求都来自 JavaScript。这是因为每个部分都需要动态且针对速度进行优化。 所以几年前，我开始开发一款故意不实现 JavaScript 的 Web 浏览器，而是包含一组更新的脚本，用于修复和改进各种网站。 几年来，我一直使用这种方法（使用代理服务器）作为我的主要 Web 浏览方式，效果很好。它使用白名单方法，默认情况下不会从不同域加载任何资源（修复脚本可以覆盖它以从 CDN 等加载图像）。默认情况下，这会避免任何跟踪器。 您可以在项目主页上找到更多详细信息： https://www.fixbrowser.org/ 我目前正在进行筹款活动以使其真正开始。所有基础模块都已存在，只需要再做一些工作。欢迎任何支持。    提交人    /u/jezek_2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hm2n4t/fixbrowser_a_lightweight_web_browser_created_from/</guid>
-      <pubDate>Wed, 25 Dec 2024 15:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在开源项目中使用 Avalonia UI 吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hm1ct9/should_i_use_avalonia_ui_in_an_open_source_project/</link>
-      <description><![CDATA[我计划为 Windows（如果可能，也为 Linux）编写一个规模较小的开源应用程序，该应用程序需要 GUI 并使用 C#。它还将在一段时间内作为后台进程运行，因此效率低下并不理想。我想知道这里有没有人想过 Avalonia UI 是否理想，或者我是否应该使用其他/不那么臃肿的东西。    提交人    /u/ThankYouNeutronix_02   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hm1ct9/should_i_use_avalonia_ui_in_an_open_source_project/</guid>
-      <pubDate>Wed, 25 Dec 2024 14:08:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
