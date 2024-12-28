@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 28 Dec 2024 09:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 12:02:25 GMT</lastBuildDate>
+    <item>
+      <title>将有线鼠标用作无线鼠标的应用程序。</title>
+      <link>https://www.reddit.com/r/software/comments/1ho48t9/app_to_use_wired_mouse_as_a_wireless_mouse/</link>
+      <description><![CDATA[嘿，有人知道有什么应用程序可以让你通过 otg 将鼠标插入 Android 手机，并通过 wifi 将手机连接到 PC，然后使用鼠标控制 PC（手机接受鼠标输入并将其作为鼠标输入发送到 PC）？    提交人    /u/MC625   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ho48t9/app_to_use_wired_mouse_as_a_wireless_mouse/</guid>
+      <pubDate>Sat, 28 Dec 2024 11:56:30 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找一个简单轻便的软件来增强我的麦克风音量。</title>
       <link>https://www.reddit.com/r/software/comments/1ho0gfs/looking_for_a_simple_and_lightweight_software/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 27 Dec 2024 20:37:20 GMT</pubDate>
     </item>
     <item>
-      <title>NeatShift：我构建的一款工具，可让我的文件井井有条，轻松无忧</title>
+      <title>NeatShift：我构建的一款工具，可让我的文件井井有条，省去很多麻烦</title>
       <link>https://www.reddit.com/r/software/comments/1hnnmna/neatshift_a_tool_i_built_to_keep_my_files/</link>
       <description><![CDATA[ 大家好！ 我想分享一个我一直在做的项目，叫做 NeatShift。这是一个适用于 Windows 的工具，可以非常轻松地组织文件，同时使用符号链接保持所有内容的可访问性。我之所以创建它是因为我厌倦了混乱，但又不想破坏其他程序所依赖的文件路径。  它的作用如下：   将文件移动到您想要的任何位置，并自动创建符号链接，以便它们仍然可以在原始位置访问。 在移动文件之前创建系统还原点，以确保安全。 具有简单、现代的用户界面，可通过拖放操作使用 - 无需任何技术技能。  您可以在此处下载：GitHub 上的 NeatShift。  它仍在进行中，如果您感兴趣，我希望您查看它、提供反馈，甚至做出贡献！让我知道您的想法。      提交人    /u/justausableusername   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hnnmna/neatshift_a_tool_i_built_to_keep_my_files/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>iPhone 语音录制应用程序，可转录并通过电子邮件发送录音/转录内容</title>
       <link>https://www.reddit.com/r/software/comments/1hn1yzg/iphone_voice_recording_app_that_transcribes_and/</link>
-      <description><![CDATA[我希望能够在我的 iPhone 上录制语音备忘录，然后将其转录并通过电子邮件发送到我选择的电子邮件地址。我尝试了许多应用程序，例如 Otter.ai，但它们都不能自动发送电子邮件。我知道我可以尝试 Apple 快捷方式或 Zapier 之类的东西，但我希望有一个可以执行此操作的简单优雅的应用程序。付费也可以。谢谢    提交者    /u/Responsible-Slide-26   [链接] [评论]]]></description>
+      <description><![CDATA[我希望能够在我的 iPhone 上录制语音备忘录，然后将其转录并通过电子邮件发送到我选择的电子邮件地址。我尝试了许多应用程序，例如 Otter.ai，但它们都无法实现自动发送电子邮件的功能。我知道我可以尝试 Apple 快捷方式或 Zapier 之类的东西，但我希望有一个可以执行此操作的简单而优雅的应用程序。付费也可以。谢谢    提交者    /u/Responsible-Slide-26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hn1yzg/iphone_voice_recording_app_that_transcribes_and/</guid>
       <pubDate>Fri, 27 Dec 2024 00:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮帮我，我不知道该怎么办</title>
-      <link>https://www.reddit.com/r/software/comments/1hn1szs/please_help_me_i_dont_know_what_to_do/</link>
-      <description><![CDATA[https://preview.redd.it/nlhxr2hs7a9e1.png?width=3468&amp;a​​mp;format=png&amp;auto=webp&amp;s=2f420d50bf936b3238c37c5be07a5e540cdd0be2    提交人    /u/Obvious_Editor8093   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hn1szs/please_help_me_i_dont_know_what_to_do/</guid>
-      <pubDate>Fri, 27 Dec 2024 00:01:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
