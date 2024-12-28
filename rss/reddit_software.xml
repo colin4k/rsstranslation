@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 28 Dec 2024 03:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 09:01:56 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一个简单轻便的软件来增强我的麦克风音量。</title>
+      <link>https://www.reddit.com/r/software/comments/1ho0gfs/looking_for_a_simple_and_lightweight_software/</link>
+      <description><![CDATA[我正在寻找一款只能增强或调整麦克风音量而没有其他功能的软件，最好是轻量级和开源的。    提交人    /u/RakinWoah   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ho0gfs/looking_for_a_simple_and_lightweight_software/</guid>
+      <pubDate>Sat, 28 Dec 2024 07:12:51 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以为我转录 YouTube 视频的软件/AI 网站。</title>
       <link>https://www.reddit.com/r/software/comments/1hnvrqh/looking_for_softwareai_site_that_can_transcribe_a/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 27 Dec 2024 20:37:20 GMT</pubDate>
     </item>
     <item>
-      <title>NeatShift：我构建的一款工具，可让我的文件井井有条，省去很多麻烦</title>
+      <title>NeatShift：我构建的一款工具，可让我的文件井井有条，轻松无忧</title>
       <link>https://www.reddit.com/r/software/comments/1hnnmna/neatshift_a_tool_i_built_to_keep_my_files/</link>
       <description><![CDATA[ 大家好！ 我想分享一个我一直在做的项目，叫做 NeatShift。这是一个适用于 Windows 的工具，可以非常轻松地组织文件，同时使用符号链接保持所有内容的可访问性。我之所以创建它是因为我厌倦了混乱，但又不想破坏其他程序所依赖的文件路径。  它的作用如下：   将文件移动到您想要的任何位置，并自动创建符号链接，以便它们仍然可以在原始位置访问。 在移动文件之前创建系统还原点，以确保安全。 具有简单、现代的用户界面，可通过拖放操作使用 - 无需任何技术技能。  您可以在此处下载：GitHub 上的 NeatShift。  它仍在进行中，如果您感兴趣，我希望您查看它、提供反馈，甚至做出贡献！让我知道您的想法。      提交人    /u/justausableusername   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hnnmna/neatshift_a_tool_i_built_to_keep_my_files/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>iPhone 语音录制应用程序，可转录并通过电子邮件发送录音/转录内容</title>
       <link>https://www.reddit.com/r/software/comments/1hn1yzg/iphone_voice_recording_app_that_transcribes_and/</link>
-      <description><![CDATA[我希望能够在我的 iPhone 上录制语音备忘录，然后将其转录并通过电子邮件发送到我选择的电子邮件地址。我尝试了许多应用程序，例如 Otter.ai，但它们都无法实现自动发送电子邮件的功能。我知道我可以尝试 Apple 快捷方式或 Zapier 之类的东西，但我希望有一个可以执行此操作的简单而优雅的应用程序。付费也可以。谢谢    提交者    /u/Responsible-Slide-26   [链接] [评论]]]></description>
+      <description><![CDATA[我希望能够在我的 iPhone 上录制语音备忘录，然后将其转录并通过电子邮件发送到我选择的电子邮件地址。我尝试了许多应用程序，例如 Otter.ai，但它们都不能自动发送电子邮件。我知道我可以尝试 Apple 快捷方式或 Zapier 之类的东西，但我希望有一个可以执行此操作的简单优雅的应用程序。付费也可以。谢谢    提交者    /u/Responsible-Slide-26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hn1yzg/iphone_voice_recording_app_that_transcribes_and/</guid>
       <pubDate>Fri, 27 Dec 2024 00:09:46 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[https://preview.redd.it/nlhxr2hs7a9e1.png?width=3468&amp;a​​mp;format=png&amp;auto=webp&amp;s=2f420d50bf936b3238c37c5be07a5e540cdd0be2    提交人    /u/Obvious_Editor8093   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hn1szs/please_help_me_i_dont_know_what_to_do/</guid>
       <pubDate>Fri, 27 Dec 2024 00:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>数码照片库帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1hn051u/digital_photo_gallery_help/</link>
-      <description><![CDATA[大家好，我正在寻找一款适用于 Windows 的照片库应用，该应用可以按子文件夹顺序显示照片。我的意思是，如果我有一个包含 3 个子文件夹的文件夹，例如 相册文件夹 1 文件夹 2 文件夹 3 我想一起显示照片，但不按日期或名称重新排序。 我尝试了多个应用，但似乎没有一个具有此功能。例如，在 Windows 照片中，如果您选择“图库”选项，则会显示图库中的每张照片，但它不会保持文件夹顺序，如果我创建相册，它会强制我选择一个子文件夹，否则我会收到一条消息，提示“此相册中没有照片，请检查子文件夹”。 我主要在寻找一个不会像文件资源管理器那样显示图像名称的图库应用程序。 如果有将子文件夹名称显示为标题的额外好处，将不胜感激。    提交人    /u/SilverInstinct   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hn051u/digital_photo_gallery_help/</guid>
-      <pubDate>Thu, 26 Dec 2024 22:42:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
