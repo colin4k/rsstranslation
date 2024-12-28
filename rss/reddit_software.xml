@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 28 Dec 2024 18:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 21:02:08 GMT</lastBuildDate>
+    <item>
+      <title>寻找跨多个文件的文件比较软件</title>
+      <link>https://www.reddit.com/r/software/comments/1hof1ii/looking_for_file_comparison_software_across/</link>
+      <description><![CDATA[假设我有 100 个不同文本文件的两个版本，分布在多个子目录中（每个版本集的目录结构相同）。版本集之间的大多数文件都相同，但其中有一些文件存在细微差异。我可以使用什么程序快速比较版本集 1 中的所有 100 个文件和版本集 2 中的所有 100 个文件，并标记有更改的文件（更好的方法是向我显示更改）。我是 Windows 用户，所以 Windows 程序是最好的。谢谢！    提交人    /u/Marc_NJ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hof1ii/looking_for_file_comparison_software_across/</guid>
+      <pubDate>Sat, 28 Dec 2024 20:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>将软件作为组件出售</title>
+      <link>https://www.reddit.com/r/software/comments/1hobcs9/selling_software_as_components/</link>
+      <description><![CDATA[大家好， 我是 Tim。是否存在一个软件市场，您可以在其中买卖软件组件或软件包，就像 Tailwind 在其代码上设置了 Stripe 结帐一样？ 我需要将一些代码出售给另一方。您之前遇到过这个问题吗 - 您是如何解决的？    提交人    /u/timothy-102   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hobcs9/selling_software_as_components/</guid>
+      <pubDate>Sat, 28 Dec 2024 18:06:44 GMT</pubDate>
+    </item>
     <item>
       <title>将有线鼠标用作无线鼠标的应用程序。</title>
       <link>https://www.reddit.com/r/software/comments/1ho48t9/app_to_use_wired_mouse_as_a_wireless_mouse/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[有没有什么视频下载器可以让我快速从 WCO 下载大量剧集？  我试过 YouTube-DL-GUI、stacher 和 iTubeGo，但都不起作用。想知道是否有人知道哪些视频适用于 WCO？    提交人    /u/ZooterTheWooter   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hn4vx6/looking_for_a_video_downloader_for_wco/</guid>
       <pubDate>Fri, 27 Dec 2024 02:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVDStyler 按钮帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1hn2b1a/dvdstyler_button_help/</link>
-      <description><![CDATA[我想知道我是否可以让 DVDStyler 中的按钮在特定的时间戳出现？比如，如果我的菜单是视频（不是循环），最后一帧是我希望屏幕冻结的帧，我已经完成了所有操作，但我希望按钮只在视频播放完毕、屏幕冻结后出现。     提交人    /u/Stabbing-Boxes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hn2b1a/dvdstyler_button_help/</guid>
-      <pubDate>Fri, 27 Dec 2024 00:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 语音录制应用程序，可转录并通过电子邮件发送录音/转录内容</title>
-      <link>https://www.reddit.com/r/software/comments/1hn1yzg/iphone_voice_recording_app_that_transcribes_and/</link>
-      <description><![CDATA[我希望能够在我的 iPhone 上录制语音备忘录，然后将其转录并通过电子邮件发送到我选择的电子邮件地址。我尝试了许多应用程序，例如 Otter.ai，但它们都无法实现自动发送电子邮件的功能。我知道我可以尝试 Apple 快捷方式或 Zapier 之类的东西，但我希望有一个可以执行此操作的简单而优雅的应用程序。付费也可以。谢谢    提交者    /u/Responsible-Slide-26   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hn1yzg/iphone_voice_recording_app_that_transcribes_and/</guid>
-      <pubDate>Fri, 27 Dec 2024 00:09:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
