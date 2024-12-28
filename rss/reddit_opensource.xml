@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Dec 2024 15:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 18:02:49 GMT</lastBuildDate>
+    <item>
+      <title>对于具有免费许可的项目来说，使用 CLA 有多普遍？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hoadru/how_common_is_the_use_of_cla_for_projects_with/</link>
+      <description><![CDATA[Drew DeVault 在他多年的旧博文中这样开头：  绝大多数开源项目都附带 CLA（贡献者许可协议）...  如今这是否或多或少是事实？是少数、绝大多数项目还是几乎没有项目？ 您知道哪些当前的例子？    提交人    /u/esiy0676   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hoadru/how_common_is_the_use_of_cla_for_projects_with/</guid>
+      <pubDate>Sat, 28 Dec 2024 17:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制文件并创建目录结构？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hoa48m/file_copy_with_directory_structure_creation/</link>
+      <description><![CDATA[我已经在 Google 上搜索到手指都流血了，却找不到解决办法。可能是因为咖啡不够，也可能只是我没有找到正确的搜索词。 我正在寻找一个 Windows 工具，无论是 UI 还是命令行，都可以让我指定一个文件目录并将它们复制到新的根目录，并根据源文件的日期和时间创建目录结构。 我放弃了 Lightroom，它做得很好的一件事就是提取媒体并将其放入我的根媒体文件夹中，结构如下： &lt;root&gt;\&lt;year&gt;\&lt;day&gt;最后一个文件夹的格式为 year-mo-day 如果该工具可以跳过目标中存在的文件，则可以获得加分。 我发现了很多专业的付费程序，它们可以做我想做的事情，但是无法证明成本是合理的，因为这些文件的创建/维护都不是用 $$ 进行的    提交人    /u/michaelh98   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hoa48m/file_copy_with_directory_structure_creation/</guid>
+      <pubDate>Sat, 28 Dec 2024 17:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找一款可以跨设备同步我的播客收听的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ho5p7x/looking_for_an_app_to_sync_my_podcast_listening/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[您好， 我正在寻找真正的用户手册，以将其用作我自己的示例和灵感。我仍在检查我所了解的软件。但我并不满意。 它应该是最终用户（桌面）软件。 有人记得一个非常好的用户手册的例子吗？    提交人    /u/buhtz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hmx94a/user_manual_good_real_life_example/</guid>
       <pubDate>Thu, 26 Dec 2024 20:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源开发人员回应“muhu.ai”垃圾邮件，其中未经请求就对其图书馆进行了嘲讽</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hmp3s6/open_source_developer_responds_to_muhuai_spam/</link>
-      <description><![CDATA[        由    /u/Soatok 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hmp3s6/open_source_developer_responds_to_muhuai_spam/</guid>
-      <pubDate>Thu, 26 Dec 2024 14:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用我构建的免费在线工具，立即将任何代码库可视化为交互式图表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hmmrfc/instantly_visualize_any_codebase_as_an/</link>
-      <description><![CDATA[        由    /u/DiamondsWorker  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hmmrfc/instantly_visualize_any_codebase_as_an/</guid>
-      <pubDate>Thu, 26 Dec 2024 11:45:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
