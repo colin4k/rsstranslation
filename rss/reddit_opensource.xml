@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Dec 2024 06:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 09:02:02 GMT</lastBuildDate>
+    <item>
+      <title>有没有 SmallPDF 的开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hoq6wz/is_there_an_opensource_alternative_to_smallpdf/</link>
+      <description><![CDATA[大家好， 您知道任何提供 SmallPDF 所有功能和选项的开源应用程序吗？或者，是否有几种工具可以组合以实现类似的功能？ 感谢您的帮助！    提交人    /u/umen   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hoq6wz/is_there_an_opensource_alternative_to_smallpdf/</guid>
+      <pubDate>Sun, 29 Dec 2024 06:37:28 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个库，只需一个 YAML 配置即可将 Kafka 主题转换为高性能 REST API</title>
       <link>https://www.reddit.com/r/opensource/comments/1hok8yg/i_built_a_library_that_turns_kafka_topics_into/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[https://github.com/katanemo/archgw 披露：我在这里工作，并沿着 Envoy 代理的核心贡献者构建了 Arch。问我任何事情。 Arch 建立在 Envoy Proxy 之上（并由其核心贡献者构建），其信念是： 提示是细致入微且不透明的用户请求，它们需要与传统 HTTP 请求相同的功能，包括安全处理、智能路由、强大的可观察性以及与后端（API）系统的集成以实现个性化——所有这些都在业务逻辑之外。 Arch 采用专门构建的 LLM 设计，可处理与提示的处理和处理有关的关键但未分化的任务，包括检测和拒绝越狱尝试、智能地调用“后端” API 来满足提示中表示的用户请求，路由到上游 LLM 并提供其之间的灾难恢复，以及集中管理提示和 LLM API 调用的可观察性。    提交人    /u/AdditionalWeb107   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hn84xa/arch_gateway_intelligent_gateway_for_ai_agents/</guid>
       <pubDate>Fri, 27 Dec 2024 05:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管 ebook2audiobook 转换器，支持语音克隆和 1107 多种语言:)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hn5ncv/self_hosted_ebook2audiobook_converter_supports/</link>
-      <description><![CDATA[      我一直在研究的一个很酷的可访问性副项目 完全免费离线 演示音频文件位于自述文件中 :) 如果您需要，它有一个独立的 docker 镜像    提交人    /u/Impossible_Belt_7757   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hn5ncv/self_hosted_ebook2audiobook_converter_supports/</guid>
-      <pubDate>Fri, 27 Dec 2024 03:20:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

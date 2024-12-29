@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 06:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 09:01:49 GMT</lastBuildDate>
+    <item>
+      <title>寻找与 Linux 上的 Caja 类似的文件管理器替代品。</title>
+      <link>https://www.reddit.com/r/software/comments/1hortub/looking_for_file_manager_alternative_that_is/</link>
+      <description><![CDATA[希望你们能帮上忙。我正在寻找一个文件管理器，它在树视图中可以一次显示多个打开的文件夹，允许您从不同的文件夹中选择多个文件。并且还显示每个文件夹中的对象数量。 这是 Linux 上 Mate Desktop 的 Caja 文件管理器 的屏幕截图。它显示了树视图，其中打开了多个文件夹并在不同文件夹中选择了多个文件。并且在“大小”列中，它显示了文件夹内的项目数。 另外，对于复制/移动文件，它还有一个内置队列，以便您可以在不同时间复制多个大文件，并且它会按顺序复制它们，而不是尝试同时复制两个文件（这会降低硬盘驱动器的速度）。如果我添加另一个要复制的大文件，它只会将其添加到队列中，而不是尝试再次同时执行所有操作。    提交人    /u/impactedturd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hortub/looking_for_file_manager_alternative_that_is/</guid>
+      <pubDate>Sun, 29 Dec 2024 08:33:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于某种原因，Shadowplay 无法超过 50 Mb/s！</title>
+      <link>https://www.reddit.com/r/software/comments/1horcct/shadowplay_does_not_surpass_50_mbs_for_some_reason/</link>
+      <description><![CDATA[Shadowplay 出于某种原因无法超过 50 Mb/s，即使我将其设置为 90 Mb/s。但是我可以使用低于 45-50k kbps 的速度，30k kbps 也可以，所以我假设低于这个速度的任何速度都可以。什么可能导致这种情况，我该如何修复它？    提交人    /u/mohamedkof97   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1horcct/shadowplay_does_not_surpass_50_mbs_for_some_reason/</guid>
+      <pubDate>Sun, 29 Dec 2024 07:58:27 GMT</pubDate>
+    </item>
     <item>
       <title>QR 码生成器</title>
       <link>https://www.reddit.com/r/software/comments/1honqsf/qr_code_generator/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[寻找一种方法来创建“单向”文件，就像一个文件夹，我可以在其中放入某些内容，但无法访问我的其他文件。我知道我可以设置虚拟机，但我想知道是否有更简单的方法来“监禁”我不确定的文件。不确定这里是否是询问的地方，但似乎不错。我只是不确定这应该叫什么，如果它真的存在的话，所以谷歌搜索没有太大帮助。    提交人    /u/Koraki_Ouranos   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hnabry/oneway_windows_folder/</guid>
       <pubDate>Fri, 27 Dec 2024 08:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建软件的路线图</title>
-      <link>https://www.reddit.com/r/software/comments/1hna6e7/roadmap_for_building_a_software/</link>
-      <description><![CDATA[大家好， 我有一个软件创意，我坚信它有潜力大获成功，但我对这个过程还不熟悉，需要你们的帮助。我的情况如下：1. 我很清楚自己想要构建什么。2. 我有大量预算来聘请开发人员。3. 我缺少的是一个可靠的路线图，以便开始并有效地执行这个想法。 我希望得到你们的建议和见解：1. 我需要采取哪些初始步骤？我应该如何构建软件开发过程的路线图？想开发软件，我应该聘请什么类型的开发人员，我很困惑。如果有任何有制作软件或应用程序经验的人，请提供指南或建议。 我愿意接受任何可以指导我完成这一旅程的建议、资源甚至相关经验。问候    由   提交  /u/Active_Affect_9722   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hna6e7/roadmap_for_building_a_software/</guid>
-      <pubDate>Fri, 27 Dec 2024 08:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有弹出/迷你播放器/画中画模式的 Windows 视频播放器？</title>
-      <link>https://www.reddit.com/r/software/comments/1hn9n26/windows_video_players_with/</link>
-      <description><![CDATA[如标题所示 -  我不喜欢 Windows 自带的播放器，在尝试调整其大小时遇到​​了一些问题。虽然我知道 VLC/Windows Media Player 都具有“始终在最前面”的模式，但这似乎缺少大多数在线播放器中存在的一些基本 QoL 功能 - 例如在播放时隐藏顶部标题栏、通过拖动窗口的任何部分（而不仅仅是顶部标题栏）来移动播放器，以及在调整大小时将窗口锁定为与视频相同的纵横比。  是否有任何好的桌面播放器具有弹出模式，并且具有部分/所有这些功能？    提交人    /u/rachiiebird   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hn9n26/windows_video_players_with/</guid>
-      <pubDate>Fri, 27 Dec 2024 07:23:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
