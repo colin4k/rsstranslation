@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 09:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 12:02:07 GMT</lastBuildDate>
+    <item>
+      <title>带有 2FA（Google/Microsoft Authenticator 令牌）的 VPN 和 Server 2019</title>
+      <link>https://www.reddit.com/r/software/comments/1hosi2j/vpn_with_2fa_token_for_googlemicrosoft/</link>
+      <description><![CDATA[我想设置一个 VPN 服务器。这应该是管理 VPN 连接的虚拟机。我已经拥有 Windows Server 2019 标准版许可证，如果可以的话就太好了。 但是 VPN 必须具有某种双因素身份验证。我正在考虑一种基于令牌的系统，例如 Google Authenticator 或 Microsoft Authenticator 中的系统。连接时必须输入用户名、密码和令牌。令牌在 VPN 服务器上生成并通过二维码传输到身份验证器应用程序。 Server 2019 中是否已经内置了用于 VPN 和 2FA 的功能，还是需要其他软件？    提交人    /u/greyish_sea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hosi2j/vpn_with_2fa_token_for_googlemicrosoft/</guid>
+      <pubDate>Sun, 29 Dec 2024 09:24:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>监控摄像机实时画面的windows软件推荐</title>
+      <link>https://www.reddit.com/r/software/comments/1hoseyr/windows_software_recommendation_for_surveillance/</link>
+      <description><![CDATA[我会买几个监控摄像头，我想在我的显示器上显示视频流。  实时视频流就足够了，不需要录制。必须显示 7 个或更多摄像头的视频流，必须能够在主窗口中排列视频流。 PTZ 功能是必须的。 Windows 10，硬件解码会很好。 有人可以给我一些软件推荐吗？最好是一些仍在开发中的开源软件。    提交人    /u/greyish_sea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hoseyr/windows_software_recommendation_for_surveillance/</guid>
+      <pubDate>Sun, 29 Dec 2024 09:18:00 GMT</pubDate>
+    </item>
     <item>
       <title>寻找与 Linux 上的 Caja 类似的文件管理器替代品。</title>
       <link>https://www.reddit.com/r/software/comments/1hortub/looking_for_file_manager_alternative_that_is/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Warm-Jellyfish5981  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hnessk/google_street_view_images_download_for_a_project/</guid>
       <pubDate>Fri, 27 Dec 2024 13:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动录音机？</title>
-      <link>https://www.reddit.com/r/software/comments/1hnes0d/auto_recorder/</link>
-      <description><![CDATA[我只想要一个免费的软件，让我可以记录键盘输入和鼠标移动，然后重复它们     提交人    /u/TheYeetForce   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hnes0d/auto_recorder/</guid>
-      <pubDate>Fri, 27 Dec 2024 13:23:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>单向 Windows 文件夹？</title>
-      <link>https://www.reddit.com/r/software/comments/1hnabry/oneway_windows_folder/</link>
-      <description><![CDATA[寻找一种方法来创建“单向”文件，就像一个文件夹，我可以在其中放入某些内容，但无法访问我的其他文件。我知道我可以设置虚拟机，但我想知道是否有更简单的方法来“监禁”我不确定的文件。不确定这里是否是询问的地方，但似乎不错。我只是不确定这应该叫什么，如果它真的存在的话，所以谷歌搜索没有太大帮助。    提交人    /u/Koraki_Ouranos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hnabry/oneway_windows_folder/</guid>
-      <pubDate>Fri, 27 Dec 2024 08:13:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
