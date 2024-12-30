@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 29 Dec 2024 21:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 03:07:18 GMT</lastBuildDate>
+    <item>
+      <title>[Kubernetes] OIDC 连接的自定义资源定义 (CRD)</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpbx4a/kubernetes_custom_resource_definition_crd_for_an/</link>
+      <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpbx4a/kubernetes_custom_resource_definition_crd_for_an/</guid>
+      <pubDate>Mon, 30 Dec 2024 01:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>软技能工程播客</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpayvf/soft_skills_engineering_podcast/</link>
+      <description><![CDATA[  由    /u/Austin_Aaron_Conlon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpayvf/soft_skills_engineering_podcast/</guid>
+      <pubDate>Mon, 30 Dec 2024 01:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>在安全关键系统中正确使用整数 - Robert Seacord - NDC TechTown 2024</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpaxp3/correct_use_of_integers_in_safetycritical_systems/</link>
+      <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpaxp3/correct_use_of_integers_in_safetycritical_systems/</guid>
+      <pubDate>Mon, 30 Dec 2024 00:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 Sceneri 的标准库——自定义分配器、高级 IO、3D 数学以及更多用于我们的 3D 体验和游戏的功能。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpag6l/opensourcing_sceneris_standard_librarycustom/</link>
+      <description><![CDATA[  由    /u/i59  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpag6l/opensourcing_sceneris_standard_librarycustom/</guid>
+      <pubDate>Mon, 30 Dec 2024 00:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个终端风格的网站</title>
+      <link>https://www.reddit.com/r/programming/comments/1hp94mb/built_a_terminalstyle_website/</link>
+      <description><![CDATA[  由    /u/fizzner  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hp94mb/built_a_terminalstyle_website/</guid>
+      <pubDate>Sun, 29 Dec 2024 23:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用人工智能来集思广益你的应用程序架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1hp8y3v/how_to_use_ai_to_brainstorming_your_application/</link>
+      <description><![CDATA[  由    /u/bobaburger  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hp8y3v/how_to_use_ai_to_brainstorming_your_application/</guid>
+      <pubDate>Sun, 29 Dec 2024 23:24:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fish 4.0：忒修斯之鱼（C++ 到 Rust 重写摘要）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hp8dhb/fish_40_the_fish_of_theseus_c_to_rust_rewrite/</link>
+      <description><![CDATA[  由    /u/eugay  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hp8dhb/fish_40_the_fish_of_theseus_c_to_rust_rewrite/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[YT-X] 从终端浏览 YouTube；yt-dlp 包装器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hp5rro/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</link>
+      <description><![CDATA[  由    /u/BenX855  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hp5rro/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:03:30 GMT</pubDate>
+    </item>
     <item>
       <title>我已经构建了 Noema：一种在 Python 中控制 LLM 的声明式方法！</title>
       <link>https://www.reddit.com/r/programming/comments/1hp1ike/ive_build_noema_a_declarative_way_to_control_llms/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[  由    /u/epasveer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</guid>
       <pubDate>Sat, 28 Dec 2024 23:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nevalang：具有匿名端口和增强型 DI 钻取功能的重大发布🎉</title>
-      <link>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</link>
-      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hodw39/nevalang_big_release_with_anonymous_ports_and/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯 SQL 中的 Code 2024 的出现</title>
-      <link>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</link>
-      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hod6ru/advent_of_code_2024_in_pure_sql/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>定制标准文本编辑器 ed(1)</title>
-      <link>https://www.reddit.com/r/programming/comments/1hod2vl/customizing_ed1_the_standard_text_editor/</link>
-      <description><![CDATA[  由    /u/aartaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hod2vl/customizing_ed1_the_standard_text_editor/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 2024 年学到的东西</title>
-      <link>https://www.reddit.com/r/programming/comments/1hod13q/stuff_i_learnt_in_2024/</link>
-      <description><![CDATA[  由    /u/InterviewKitchen4536  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hod13q/stuff_i_learnt_in_2024/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:21:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java：Tern 是一个使用 AES 算法加密和解密文件的命令行工具，用 Java 实现，还具有将文件数组压缩、加密和散列为一个大文件的特殊功能，该文件也可以再次解包以恢复所有文件，请查看源代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</link>
-      <description><![CDATA[  由    /u/Thoriumhexaflouride  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hocuzt/java_tern_is_a_command_inline_tool_to_encrypt_and/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏笔记本电脑值得吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hocrqz/is_gaming_laptop_worth_it/</link>
-      <description><![CDATA[大家好，我即将购买一台华硕 TUF dash f15，配备 rtx 3050 ti、i7 12650h、144hz 250 nit 62.5% sRGB，我只是对它的价值感兴趣，以同样的价格购买带有集成 GPU 的 ThinkPad 之类的产品会更好，因为我不是一个狂热游戏玩家，我不确定未来是否需要一些视频编辑或游戏开发，有什么建议吗？    提交人    /u/Ok-Sprinkles-2157   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hocrqz/is_gaming_laptop_worth_it/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能不适合懒人</title>
-      <link>https://www.reddit.com/r/programming/comments/1hocnxu/ai_isnt_for_lazy_people/</link>
-      <description><![CDATA[  由    /u/imlutr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hocnxu/ai_isnt_for_lazy_people/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle PL/SQL 中的 %TYPE 示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoc8uf/type_in_oracle_plsql_with_example/</link>
-      <description><![CDATA[  由    /u/apexysatish  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoc8uf/type_in_oracle_plsql_with_example/</guid>
-      <pubDate>Sat, 28 Dec 2024 18:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
