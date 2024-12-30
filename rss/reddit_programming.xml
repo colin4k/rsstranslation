@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 30 Dec 2024 03:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 06:02:00 GMT</lastBuildDate>
+    <item>
+      <title>Erlang 中的并发性（第三部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpfmga/concurrencia_en_erlang_parte_3/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpfmga/concurrencia_en_erlang_parte_3/</guid>
+      <pubDate>Mon, 30 Dec 2024 05:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 C++ 和 Raylib 创建了一个简单的配置 API！（非常感谢反馈）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpemr0/created_a_simple_config_api_for_c_and_raylib/</link>
+      <description><![CDATA[  由    /u/PraisePancakes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpemr0/created_a_simple_config_api_for_c_and_raylib/</guid>
+      <pubDate>Mon, 30 Dec 2024 04:08:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型语言模型的记忆库</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpdq09/a_memory_library_for_large_language_models/</link>
+      <description><![CDATA[  由    /u/hack_knight  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpdq09/a_memory_library_for_large_language_models/</guid>
+      <pubDate>Mon, 30 Dec 2024 03:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>[Kubernetes] OIDC 连接的自定义资源定义 (CRD)</title>
       <link>https://www.reddit.com/r/programming/comments/1hpbx4a/kubernetes_custom_resource_definition_crd_for_an/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1honbwk/installing_rust_on_an_external_usb_and_keeping/</guid>
       <pubDate>Sun, 29 Dec 2024 03:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们用烟花庆祝新年！仅 60 行纯 JavaScript</title>
-      <link>https://www.reddit.com/r/programming/comments/1holkg0/lets_celebrate_the_new_year_with_fireworks_only/</link>
-      <description><![CDATA[  由    /u/swe129  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1holkg0/lets_celebrate_the_new_year_with_fireworks_only/</guid>
-      <pubDate>Sun, 29 Dec 2024 02:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 argparse 制作了一个嵌入式包装器，可以自动创建 GUI 界面</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoiz51/i_made_a_dropin_wrapper_for_argparse_that/</link>
-      <description><![CDATA[  由    /u/passwordwork  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoiz51/i_made_a_dropin_wrapper_for_argparse_that/</guid>
-      <pubDate>Sat, 28 Dec 2024 23:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seergdb v2.5 适用于 Linux。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</link>
-      <description><![CDATA[  由    /u/epasveer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hoiqcg/seergdb_v25_released_for_linux/</guid>
-      <pubDate>Sat, 28 Dec 2024 23:47:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
