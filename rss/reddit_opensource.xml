@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 31 Dec 2024 09:03:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 12:02:00 GMT</lastBuildDate>
     <item>
       <title>任何提供类似功能的开源应用程序，如 goodnotes</title>
       <link>https://www.reddit.com/r/opensource/comments/1hq7184/any_opensource_app_providing_similar_features/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>C++ 日志库 - 我一直在研究的东西，第 4 部分（交叉发布）</title>
       <link>https://www.reddit.com/r/opensource/comments/1hprmrp/c_logging_library_something_ive_been_working_on/</link>
-      <description><![CDATA[大家好， 按照每年这个时候的传统，我想与大家分享我过去几年一直在研究的东西 - 又一个日志库，我知道这有多无聊。不过，这个项目代表着一段漫长的学习、成长和奉献之旅，如果您能花点时间看看它，我会很荣幸，因为这是我引以为豪的事情。 您可能已经猜到了，我已经在这里发布了关于这个库的信息，自去年我上次发布以来，发生了很多变化。我相信它已经成为一个非常全面的工具，可以很好地为您服务。它非常高效，并且非常易于配置。它提供了一个不错的 CMake，因此可以轻松集成到任何项目中，并且精心制作的持续集成管道可确保它在所有平台上运行。至少在我看来，所有这些都包含在一个编写得非常好且干净的代码库中。 为什么选择 lwlog？  性能：无论您使用的是同步还是异步日志记录，该库都能确保最小的开销，使其成为高性能应用程序的理想选择 可配置性：您可以使用策略类精确地自定义日志记录行为 现代设计：代码在编写时考虑了清晰度、优雅性和可读性。轻松与 CMake 集成以及周到的架构 可扩展性：轻松创建自定义接收器并根据特定需求进行定制  如果您提出批评、意见、想法，或者想为项目做出贡献，我将不胜感激：https://github.com/ChristianPanov/lwlog 感谢您的时间并祝您节日快乐， 克里斯    提交人    /u/ChrisPanov   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 按照每年这个时候的传统，我想与大家分享我过去几年一直在研究的东西 - 又一个日志库，我知道这有多无聊。不过，这个项目代表着一段漫长的学习、成长和奉献之旅，如果您能花点时间看看它，我会很荣幸，因为这是我引以为豪的事情。 正如您可能已经猜到的那样，我已经在这里发布了关于这个库的信息，自去年我上次发布以来，发生了很多变化。我相信它已经成为一个非常全面的工具，可以很好地为您服务。它非常高效，并且非常易于配置。它提供了一个不错的 CMake，因此可以轻松集成到任何项目中，并且精心制作的持续集成管道可确保它在所有平台上运行。至少在我看来，所有这些都包含在一个编写得非常好且干净的代码库中。 为什么选择 lwlog？  性能：无论您使用的是同步还是异步日志记录，该库都能确保最小的开销，使其成为高性能应用程序的理想选择 可配置性：您可以使用策略类精确地自定义日志记录行为 现代设计：代码在编写时考虑了清晰度、优雅性和可读性。轻松与 CMake 集成以及周到的架构 可扩展性：轻松创建自定义接收器并根据特定需求进行定制  如果您提出批评、意见、想法，或者想为项目做出贡献，我将不胜感激：https://github.com/ChristianPanov/lwlog 感谢您的时间并祝您节日快乐， 克里斯    提交人    /u/ChrisPanov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hprmrp/c_logging_library_something_ive_been_working_on/</guid>
       <pubDate>Mon, 30 Dec 2024 16:55:53 GMT</pubDate>
     </item>
@@ -67,13 +67,6 @@
       <description><![CDATA[大家好！ 我想分享一个我一直在做的项目，叫做 DiffDeck，它旨在简化处理代码差异和审查的工作。它是一个开源工具，有助于审查拉取请求、分支比较和存储库审计。 核心思想是提供一个统一的工作流程来比较和分析代码更改。您可以：  比较分支、提交或特定文件 以 Markdown、XML 或纯文本生成差异 配置文件的包含/排除模式 运行安全检查以查找潜在漏洞 使用行号差异分析目录结构 导出详细报告以用于文档或审核  您可以在以下位置找到源代码：https://github.com/KnockOutEZ/diffdeck 期待社区的任何反馈或建议！欢迎随时打开问题以获取功能请求或错误报告。    提交人    /u/KledMainSG   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hpr8l1/i_just_made_an_open_source_tool_for_making_code/</guid>
       <pubDate>Mon, 30 Dec 2024 16:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux、Mac 和 Windows 最佳免费应用程序列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hpqzy2/list_of_the_best_free_apps_for_linux_mac_and/</link>
-      <description><![CDATA[https://github.com/Axorax/awesome-free-apps 我正在尝试在一个地方列出最好的免费应用程序。所有应用程序都经过精心挑选和分类。 您可以为项目加注星标以保存它或表示支持！&lt;3 非常感谢任何贡献。    提交人    /u/axorax   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hpqzy2/list_of_the_best_free_apps_for_linux_mac_and/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:28:47 GMT</pubDate>
     </item>
     <item>
       <title>Gemini 2.0 多模式 API 包装器。以 Ja​​vaScript 编写，开源且适合移动设备。</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[寻求对我的全新 api 回归 cli 工具的反馈。它可以在 https://github.com/thecodinghumans/ApiRegressionCLI 上找到。 该项目的主要目标：支持使用单个命令测试 API 的多种场景和功能。 我发现现有 CLI 的主要问题是它们要么不在本地存储请求的集合/集合，要么它们的格式化方式与源代码控制不兼容。 其他优点 - 不存储在云中（也不打算这样做） - 不需要 GUI 来运行 - 允许对 api 进行比大多数合成物更多的检查 如果有人有任何想法，请告诉我    提交人    /u/metalprogrammer2024   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hp8cnm/new_open_source_api_regression_cli_tool/</guid>
       <pubDate>Sun, 29 Dec 2024 22:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>“但是你如何防止别人拿走你的东西呢？”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hp6mzu/but_how_do_you_prevent_someone_from_taking_your/</link>
+      <description><![CDATA[我正在开发一个免费软件项目。我父母经常问我一个关于这个项目的问题：“但是你如何防止别人窃取这个？”  我有自己的回答方式，无论是从实践上还是从哲学上，但我想知道其他人怎么说。如果你在一个免费软件和/或开源项目上投入了大量时间，而你生活中的某个人问了这个问题，你是如何回答的？    提交人    /u/AutomaticDoor75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hp6mzu/but_how_do_you_prevent_someone_from_taking_your/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:40:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
