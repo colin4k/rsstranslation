@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 30 Dec 2024 21:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:03:36 GMT</lastBuildDate>
+    <item>
+      <title>Wvlet：为现代数据分析重新设计已有 50 年历史的 SQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1hq02b6/wvlet_redesigning_50yearold_sql_for_modern_data/</link>
+      <description><![CDATA[  由    /u/taroleo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hq02b6/wvlet_redesigning_50yearold_sql_for_modern_data/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:58:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拉帕戈斯：简单的进化求解器 (Rust)</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpz903/galapagos_simple_evolutionary_solver_rust/</link>
+      <description><![CDATA[  由    /u/wpcarroll  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpz903/galapagos_simple_evolutionary_solver_rust/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>你只需要 Python 就能制作 AI 代理。——《美丽心灵》</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpy6zc/you_only_need_python_to_make_ai_agents_a/</link>
+      <description><![CDATA[  由    /u/Haghiri75  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpy6zc/you_only_need_python_to_make_ai_agents_a/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:36:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我自己的 Redis：一个键值存储</title>
+      <link>https://www.reddit.com/r/programming/comments/1hpxkf5/my_own_redis_a_keyvalue_store/</link>
+      <description><![CDATA[  由    /u/KingBig9811  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hpxkf5/my_own_redis_a_keyvalue_store/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:09:23 GMT</pubDate>
+    </item>
     <item>
       <title>为什么程序员总是忧郁的？💻😢</title>
       <link>https://www.reddit.com/r/programming/comments/1hputl5/why_are_programmers_always_sad/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由   提交  /u/delvin0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hpksni/things_senior_programmers_never_do/</guid>
       <pubDate>Mon, 30 Dec 2024 10:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在快速路径上</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpk7t9/on_fast_paths/</link>
-      <description><![CDATA[  由    /u/radekmie  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpk7t9/on_fast_paths/</guid>
-      <pubDate>Mon, 30 Dec 2024 10:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码库过度抽象的隐性成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpjpn0/hidden_costs_of_overabstracting_your_codebase/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpjpn0/hidden_costs_of_overabstracting_your_codebase/</guid>
-      <pubDate>Mon, 30 Dec 2024 09:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出新颖的 Sorted Maps Store 🚀</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpioyx/introducing_a_novel_sorted_maps_store/</link>
-      <description><![CDATA[  由    /u/Fast-Tourist5742  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpioyx/introducing_a_novel_sorted_maps_store/</guid>
-      <pubDate>Mon, 30 Dec 2024 08:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的：讨厌 TDD 的开发人员，因为我需要先编写代码才能理解我正在构建的东西</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpi8x6/dear_devs_who_hate_tdd_because_i_need_to_write/</link>
-      <description><![CDATA[  由    /u/chrisza4  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpi8x6/dear_devs_who_hate_tdd_because_i_need_to_write/</guid>
-      <pubDate>Mon, 30 Dec 2024 07:51:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

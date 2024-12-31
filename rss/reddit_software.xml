@@ -4,11 +4,39 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 30 Dec 2024 21:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:03:30 GMT</lastBuildDate>
+    <item>
+      <title>如何解决 Internet Download Manager 音频/视频拆分问题</title>
+      <link>https://www.reddit.com/r/software/comments/1hq18kn/how_to_solve_split_audiovideo_internet_download/</link>
+      <description><![CDATA[我使用的 IDM 版本是 6.42 build 26 我正尝试从网站下载嵌入的视频。原始文件是 m3u8 文件。 当我开始下载时，文件设置为转换为 .ts 文件。当我完成下载时，我只能获得视频的音频。如果我手动将输出文件设置为 .mp4，我只会获得视频而没有音频。如果我尝试设置为 .mkv，我只会从中获得音频。 IDM 是否将音频和视频从视频中分离出来？这是因为视频的源是 m3u8 吗？我需要更改设置吗？    提交人    /u/hyenagames   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hq18kn/how_to_solve_split_audiovideo_internet_download/</guid>
+      <pubDate>Mon, 30 Dec 2024 23:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找类似 Keypirinha / Playnite / Promptu 的启动器</title>
+      <link>https://www.reddit.com/r/software/comments/1hq0uio/looking_for_a_launcher_like_keypirinha_playnite/</link>
+      <description><![CDATA[嗨！ 我不是整理文件和文件夹的高手，所以我对一些可以随时访问所有内容的工具非常感兴趣。例如，我尝试了 StrokesPlus，我将其用于某些工具，我真的很喜欢这个概念。唯一的问题是我正在寻找一些更完整的东西，而且由于打字对我来说不是“问题”，我试图寻找一个启动器，它可以帮助我仅使用快捷方式然后使用我的工具来启动所有内容。我目前尝试了 3 种工具：   Keypirinha，可以完成基本工作。问题是它显示了太多东西，我无法对配置文件做任何事情。排除一些东西没有用，使用空白配置也无济于事。 Playnite。最好的解决方案。我非常喜欢它的一切，因为你可以使用空白配置。但问题是它太空白了，即使我可以为许多工具进行调整，你也必须逐个添加它们，而且非常以游戏为导向。 Promptu：平衡性很好，但我找不到添加更精确选项的方法。比如从一个快捷方式启动多个文件等。  还有其他这种启动器吗？这个想法是你可以进行足够的自定义以选择特定的程序/工具，而无需逐一设置所有内容。 谢谢！    提交人    /u/Aligatueur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hq0uio/looking_for_a_launcher_like_keypirinha_playnite/</guid>
+      <pubDate>Mon, 30 Dec 2024 23:33:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>非浏览器的快捷键盘</title>
+      <link>https://www.reddit.com/r/software/comments/1hq0bv5/quick_keyboard_for_nonbrowser/</link>
+      <description><![CDATA[我正在寻找一款可以完成上述两个操作之一的软件；  为特定粘贴设置按键绑定，例如，我希望 SHIFT+B 粘贴香蕉，SHIFT+A 粘贴苹果 能够切换将粘贴绑定到单个按键绑定的模式，例如，f8 切换模式，A 代表苹果，B 代表香蕉     提交人    /u/YeahitsDaguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hq0bv5/quick_keyboard_for_nonbrowser/</guid>
+      <pubDate>Mon, 30 Dec 2024 23:10:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于控制显示设置（亮度、对比度、饱和度）的软件，如 Nvidia 控制面板（不使用 DDC/CI）</title>
+      <link>https://www.reddit.com/r/software/comments/1hpyxm7/software_to_control_display_settings_brightness/</link>
+      <description><![CDATA[标题几乎说明了一切。    提交人    /u/7gasyuasdbd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hpyxm7/software_to_control_display_settings_brightness/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:08:18 GMT</pubDate>
+    </item>
     <item>
       <title>是否有一个可以在本机文本字段中运行的独立拼写检查应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1hpxdoh/is_there_a_standalone_spell_checking_app_that/</link>
-      <description><![CDATA[我希望找到一个 Windows 应用，可以在您输入时自动突出显示拼写错误的单词。许多应用和编辑器都内置了此功能，但我不得不使用非常简单的编辑器，例如默认记事本，这让我很无奈。 我需要一个应用或脚本，可以为那些尚未拥有拼写检查功能的输入字段进行拼写检查。 我知道有 tinySpell，但它很古老，而且要花钱。我更喜欢开源或至少免费使用（没有高级版本）的软件。谢谢。    提交人    /u/hamurlik_   [链接] [评论]]]></description>
+      <description><![CDATA[我希望找到一个 Windows 应用，可以在您输入时自动突出显示拼写错误的单词。许多应用和编辑器都内置了此功能，但我不得不使用一些非常简单的编辑器，例如默认记事本，这让我很为难。 我需要一个应用或脚本，可以为那些尚未拥有拼写检查功能的输入字段进行拼写检查。 我知道有 tinySpell，但它很古老，而且要花钱。我更喜欢开源或至少免费使用（没有高级版本）的软件。谢谢。    提交人    /u/hamurlik_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hpxdoh/is_there_a_standalone_spell_checking_app_that/</guid>
       <pubDate>Mon, 30 Dec 2024 21:01:18 GMT</pubDate>
     </item>
@@ -18,13 +46,6 @@
       <description><![CDATA[我一直在做一个个人项目 — 一种人工智能工具，可以根据您的要求启动完整的应用程序（前端 + Supabase 后端）。是的，后端会自动生成。我一直对现有无代码和低代码平台的一些限制感到沮丧，所以我决定构建一个灵活但仍然易于使用的东西。 现在，我正在寻找一些有兴趣测试它并提供诚实反馈的人。测试完全免费。我只是渴望看到人们构建了什么以及它在实际用例中的表现如何。 如果您想尝试一下或只是想了解更多信息，请告诉我！我很高兴听到您的想法，看看这个小小的激情项目是否能够实现更快、更简单、更强大的无代码应用程序创建的承诺。 谢谢！:) 如果您有兴趣测试，请在下面发表评论（或 DM）！    提交人    /u/Got_Restarted   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hpwh7k/i_built_an_ai_app_builder_that_could_outdo/</guid>
       <pubDate>Mon, 30 Dec 2024 20:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 ai 字幕生成器？</title>
-      <link>https://www.reddit.com/r/software/comments/1hpw374/best_ai_caption_generator/</link>
-      <description><![CDATA[我目前正在使用 Zeemo (android)，它的工作效果非常好。就速度而言，它是我在互联网上找到的最好的，但定制功能太有限了。比如我们不能在免费计划中使用自定义字体（试过 m0d，但互联网上的单个 apk 都不起作用），而且 Zeemo 提供的字体也很有限。  总的来说，它是自动字幕的好选择。但我想要一个更可定制的软件/应用程序来创作我的内容（我运行的主题页面有相当多的追随者），所以现在因为流行的文本动画，这很麻烦。那么我可以选择的最佳选择是什么？（只有自动字幕功能对我来说就足够了，我可以自己处理其他工作）    提交人    /u/reddituser--_--   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hpw374/best_ai_caption_generator/</guid>
-      <pubDate>Mon, 30 Dec 2024 20:04:51 GMT</pubDate>
     </item>
     <item>
       <title>与此类似的软件...笔记记录</title>
@@ -99,7 +120,7 @@
     <item>
       <title>检查平面图/绘制房间和房屋的软件，我会在检查完发现的内容后更新帖子，但如果有人有任何好的建议，请发表评论。</title>
       <link>https://www.reddit.com/r/software/comments/1hp5hw1/checking_out_software_for_floor_plansmapping_out/</link>
-      <description><![CDATA[嗨，我不是房屋设计师或其他什么人，我只是觉得如果我有一个漂亮整洁的房子平面图和一个 3D 模型，它会在发送给供应商进行 driwall 估算等时有所帮助。不幸的是，我已经发送了很多详细的图纸，并有人来测量等，但我仍然收到不完整或不准确的工作估算，所以我想要一些我可以清楚展示的东西。 话虽如此，我正在尝试一堆免费软件，因为我只会真正使用一次，然后再也不会用了，但如果我找到便宜且无需订阅的东西，我会尝试一下。  测试列表如下； 已试用； Live Home 3d（Windows 程序）； 一开始持怀疑态度，但它能满足我的需要，我不喜欢它根据我输入的测量值重新计算墙壁尺寸的方式，但它并没有改变太多，它可能试图根据其他墙壁给我一些更准确的数据，但我还是希望它询问我，而不是自动重新四舍五入测量值。我也不喜欢如果添加门或窗，你必须放大很多才能将它们拖到距离每面墙的正确尺寸，而不是只输入从左到右的距离。它还有一个 3d 按钮，一旦你构建了平面图，它就会在 3d 空间中显示房间，这很酷。它还有一个工具，你可以在屏幕上输入两点之间的测量值，这样我就可以单独显示门、窗的长度以及它们与墙壁其余部分之间的距离，这也真的很有帮助。  Arcadium; 这是在线/浏览器，这是一个优点，因为你不必安装任何东西。看起来非常古老但很有前途，我不喜欢这样，当我输入精确的测量值时，它只是将其四舍五入，所以没有分数等。  打算尝试： Floorplancreator . net; floorplanner .com; sweethome3d .com;  不会尝试：    提交人    /u/VURORA   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我不是房屋设计师，我只是觉得如果我有一个漂亮整洁的房子平面图以及 3D 模型，它将在发送给供应商进行墙板估算等时有所帮助。不幸的是，我已经发送了很多详细的图纸，并有人来测量等，但我仍然收到不完整或不准确的工作估算，所以我想要一些我可以清楚展示的东西。 话虽如此，我正在尝试一堆免费软件，因为我只会真正使用一次，然后再也不会使用，但如果我找到便宜且非订阅的东西，我会试一试。 测试列表如下； 尝试过； Live Home 3d（Windows 程序）； 一开始持怀疑态度，但它可以满足我的需要，我不喜欢它如何根据我输入的测量值重新计算墙壁尺寸，但它不会改变太多，它可能试图根据其他墙壁给我一些更准确的数据，但我仍然宁愿它询问我，而不是自动重新四舍五入测量值。我也不喜欢如果你添加门或窗户，你必须放大很多才能将它们拖动到它们与每面墙的正确尺寸，而不是只输入从左到右的距离。它还有一个 3d 按钮，一旦你构建了平面图，它就会在 3d 空间中向你显示房间，这很酷。还有一个工具真的很有帮助，你可以在屏幕上测量两点之间的距离，这样我就可以单独显示门、窗的长度以及它们与墙壁其余部分之间的距离。老实说，用了一天左右后，有一个学习曲线，但它最好的一点是免费，而且由于它有一个 ios 应用程序，所以可以切换到你的手机。唯一烦人的事情是，如果你靠得太近，某些固定装置（如门）会卡在墙上，如果你靠得太近，墙的大小和自动融合墙会导致你不得不删除你刚刚做的事情，避免靠得太近。  Arcadium; 这是在线/浏览器，这是一个优点，因为你不必安装任何东西。看起来非常古老但很有前途，我不喜欢这样，当我输入精确的测量值时，它只是将其四舍五入，所以没有分数等。 打算尝试： Floorplancreator . net; floorplanner .com; sweethome3d .com; 不会尝试：    提交人    /u/VURORA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hp5hw1/checking_out_software_for_floor_plansmapping_out/</guid>
       <pubDate>Sun, 29 Dec 2024 20:51:17 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[当我不在同一网络中，甚至在使用蜂窝数据时，我需要一种方法将本地服务器 IP 隧道传输到我的移动设备。显然，它必须是安全的。     提交人    /u/SolidIcecube   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hoxm7o/alternative_to_logmein_hamachi/</guid>
       <pubDate>Sun, 29 Dec 2024 14:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步软件新手</title>
-      <link>https://www.reddit.com/r/software/comments/1howzp5/new_to_syncing_software/</link>
-      <description><![CDATA[大家好， 我想改进我的方法 - 到目前为止，我都是手动将文件从台式电脑复制到一个外部磁盘，最好是两个外部磁盘，每个月轮换一次。 最好每天将文件复制到当前连接的一个外部驱动器。一个月后，我将驱动器切换到 no2 并开始在那里保存。 通过搜索，我得到了 wiki 比较和一些软件想法，但我仍然对这些选择感到不太确定。 我有我的 Windows 驱动器和一个固态驱动器，基本上用于保存所有需要保存的文件。以及已安装程序的不同其他驱动器和分区。如果使用此设置可以实现这一点，我还想镜像整个 Windows 系统作为备份，以便快速重新安装所有内容。使用不同的驱动器和分区是否仍然有效？或者它会导致问题吗？ 有什么限制？如果主板坏了，通常会导致重新安装某些程序（如 Adob​​e PS）时出现问题。在这种情况下，我还能用镜像备份重新安装所有内容吗？还是这些程序仍然无法工作？ 大多数同步软件选项甚至支持整个驱动器的备份吗？或者也许我混淆了一些东西，这个备份和备份一个文件夹是一样的，只是更大？我认为镜像整个驱动器是一个特殊的过程/格式。 与免费选项相比，付费软件有什么好的理由吗？ 谢谢你的帮助。    提交人    /u/Doomwaffel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1howzp5/new_to_syncing_software/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>SoundFX 安全吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1howwec/is_soundfx_safe/</link>
-      <description><![CDATA[我看到有人在这里提到 SoundFX 完全劫持了他们的系统。因此，下载它让我有点紧张。有人知道这是否真的发生过吗？或者这只是他们的侥幸？     提交人    /u/BoopPlaylistChannel   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1howwec/is_soundfx_safe/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法为 Balabolka 添加声音</title>
-      <link>https://www.reddit.com/r/software/comments/1howj4f/trouble_adding_voices_to_balabolka/</link>
-      <description><![CDATA[我从这里和 Win 11 中的选项下载了一些，但在 Bala 设置中的 SAPI 5 下没有出现任何内容。其他两个选项（4 和 Microsoft 选项）无法选择。请帮忙    提交人    /u/27remember   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1howj4f/trouble_adding_voices_to_balabolka/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:58:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

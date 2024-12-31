@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 30 Dec 2024 21:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:03:43 GMT</lastBuildDate>
+    <item>
+      <title>Graphite：用于矢量图形和程序设计的专业 2D 内容创建包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hpz02d/graphite_professional_2d_content_creation_package/</link>
+      <description><![CDATA[        由    /u/Impossible_Bed_9497  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hpz02d/graphite_professional_2d_content_creation_package/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要文档管理解决方案方面的帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hpyzsl/need_help_with_documents_management_solution/</link>
+      <description><![CDATA[大家好， 我需要一些建议，以便帮助律师事务所的少数内部用户管理数百份机密文件（PDF、Word 等）。他们面临的主要挑战是更新这些文档的内容。他们想要一个可以搜索特定单词、识别需要更新的文档并提供页码的解决方案。 我应该为此构建自定义解决方案，还是有现成的（最好是开源）工具可以使用？只有少数用户需要访问此解决方案。 谢谢    提交人    /u/nagagile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hpyzsl/need_help_with_documents_management_solution/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redis 的开源版本：键值存储</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hpxels/opensource_version_for_redis_a_keyvalue_store/</link>
+      <description><![CDATA[我从头开始创建了自己的 Redis 服务器，包括自己的 RESP 和 RDB 解析器。它支持核心 Redis 命令，甚至可以与 redis-cli 配合使用。它具有一些高级功能，如持久性、复制、流和事务。它仍在开发中，因此任何反馈或贡献都将不胜感激。https://github.com/vansh845/redis-clone 如果您喜欢它，请给一颗星。    提交人    /u/KingBig9811   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hpxels/opensource_version_for_redis_a_keyvalue_store/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:02:23 GMT</pubDate>
+    </item>
     <item>
       <title>开源 leetcode 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1hpunm0/open_source_leetcode_alternative/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在开发一个免费软件项目。我父母经常问我一个关于这个项目的问题：“但是你如何防止别人窃取这个？”  我有自己的回答方式，无论是从实践上还是从哲学上，但我想知道其他人怎么说。如果你在一个免费软件和/或开源项目上投入了大量时间，而你生活中的某个人问了这个问题，你是如何回答的？    提交人    /u/AutomaticDoor75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hp6mzu/but_how_do_you_prevent_someone_from_taking_your/</guid>
       <pubDate>Sun, 29 Dec 2024 21:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[YT-X] 从终端浏览 YouTube；yt-dlp 包装器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hp5oj5/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</link>
-      <description><![CDATA[    /u/BenX855   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hp5oj5/ytx_browse_youtube_from_the_terminal_ytdlp_wrapper/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Air Script 是一款可以破解 Wi-Fi 的瑞士军刀，当捕获到握手信息时还可以选择发送电子邮件通知。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hp1pke/air_script_is_wifi_pwning_swiss_army_knife_that/</link>
-      <description><![CDATA[      Air Script 是一种自动化工具，旨在促进 Wi-Fi 网络渗透测试。它通过自动执行网络扫描、握手捕获和暴力破解密码等任务，简化了识别和利用 Wi-Fi 网络的过程。主要功能包括： 自动攻击：Air Script 可以自动瞄准范围内的所有 Wi-Fi 网络，无需用户干预即可捕获握手。完成后，它会停用监控模式，并可以发送可选的电子邮件通知来通知用户。Air Script 还通过简化网络扫描、握手捕获和密码破解等任务来自动化 Wi-Fi 渗透测试，以实现有针对性的解除身份验证。 暴力破解功能：捕获握手后，该工具会提示用户提供单词列表以尝试破解 Wi-Fi 密码，或者将捕获的 Wi-Fi 握手上传到 WPA-sec 项目。该网站是一个公共存储库，用户可以在其中贡献和分析 Wi-Fi 握手以识别漏洞。该服务尝试使用其广泛的已知密码和单词表数据库来破解握手。 电子邮件通知：用户可以选择在成功捕获握手后接收电子邮件警报，从而可以远程监控攻击的进度。 附加工具：Air Script 包含各种补充工具，可增强黑客、渗透测试人员和安全研究人员的工作流程。用户可以根据需要选择要安装的工具。 兼容性：该工具与 Raspberry Pi 等设备兼容，可实现谨慎操作。用户可以从移动设备通过 SSH 进入 Pi，而无需越狱或 root 访问权限。    提交人    /u/AFGjkn2r   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hp1pke/air_script_is_wifi_pwning_swiss_army_knife_that/</guid>
-      <pubDate>Sun, 29 Dec 2024 18:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源劫持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hoxjz0/open_source_hijack/</link>
-      <description><![CDATA[我一直在使用一些故意限制分发的开源软件。您是否遇到过这种情况或使用过任何分发受限的开源软件？我相信主要的开发人员担心大型公司分叉并扼杀开发。我知道 IBM 和 MS 有一些这样的例子，他们采用了扩展消灭策略。这些人只是偏执吗？    提交人    /u/paulyivgotsomething   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hoxjz0/open_source_hijack/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:53:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
