@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 01 Jan 2025 09:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 12:03:34 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript 的现代基准测试工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr1k0r/modern_benchmarking_tooling_for_javascript/</link>
+      <description><![CDATA[  由    /u/VeryThiccCat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr1k0r/modern_benchmarking_tooling_for_javascript/</guid>
+      <pubDate>Wed, 01 Jan 2025 11:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络太大，或者缩小</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr1ffm/the_web_is_too_big_or_scaling_down/</link>
+      <description><![CDATA[  由    /u/aaimaadoctor  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr1ffm/the_web_is_too_big_or_scaling_down/</guid>
+      <pubDate>Wed, 01 Jan 2025 11:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>这家伙疯了</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr0fb8/this_dude_is_insane/</link>
+      <description><![CDATA[  由    /u/FullTube  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr0fb8/this_dude_is_insane/</guid>
+      <pubDate>Wed, 01 Jan 2025 10:28:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助训练 NLP 模型：分享与编程相关的提示！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hr0057/help_train_an_nlp_model_share_your/</link>
+      <description><![CDATA[  由    /u/Efficient_Bag_989  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hr0057/help_train_an_nlp_model_share_your/</guid>
+      <pubDate>Wed, 01 Jan 2025 09:55:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个由 AI 代理驱动的简历生成器 - 给它评分吧😫</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqzqkd/i_made_an_ai_agent_powered_resume_builder_rate_it/</link>
+      <description><![CDATA[  由    /u/anmolatschool03  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqzqkd/i_made_an_ai_agent_powered_resume_builder_rate_it/</guid>
+      <pubDate>Wed, 01 Jan 2025 09:34:01 GMT</pubDate>
+    </item>
     <item>
       <title>使用自定义 GraphQL 插件集成指标和分析：增强 GraphQL API</title>
       <link>https://www.reddit.com/r/programming/comments/1hqwuoy/integrating_metrics_and_analytics_with_custom/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/AsyncBanana  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hq3ybz/my_2025_javascript_wishlist/</guid>
       <pubDate>Tue, 31 Dec 2024 02:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>TIL 在 Java 中格式化日期时，YYYY 和 yyyy 之间存在差异</title>
-      <link>https://www.reddit.com/r/programming/comments/1hq3hzp/til_that_theres_a_difference_between_yyyy_and/</link>
-      <description><![CDATA[显然，如果您在 2024-12-30 这样的日期上使用 YYYY，它会转换为 2025-12-30（如果您使用 YYYY）    提交人    /u/neeraj8le   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hq3hzp/til_that_theres_a_difference_between_yyyy_and/</guid>
-      <pubDate>Tue, 31 Dec 2024 01:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>cointracker.lol - Django 框架中的开源加密投资组合追踪器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hq2ypa/cointrackerlol_an_open_source_crypto_portfolio/</link>
-      <description><![CDATA[  由    /u/Nice_Yak5142  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hq2ypa/cointrackerlol_an_open_source_crypto_portfolio/</guid>
-      <pubDate>Tue, 31 Dec 2024 01:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>转储内存以绕过 Windows 11 上的 BitLocker</title>
-      <link>https://www.reddit.com/r/programming/comments/1hq1qgh/dumping_memory_to_bypass_bitlocker_on_windows_11/</link>
-      <description><![CDATA[https://github.com/NoInitRD/Memory-Dump-UEFI    由   提交  /u/NXGZ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hq1qgh/dumping_memory_to_bypass_bitlocker_on_windows_11/</guid>
-      <pubDate>Tue, 31 Dec 2024 00:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wvlet：为现代数据分析重新设计已有 50 年历史的 SQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1hq02b6/wvlet_redesigning_50yearold_sql_for_modern_data/</link>
-      <description><![CDATA[  由    /u/taroleo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hq02b6/wvlet_redesigning_50yearold_sql_for_modern_data/</guid>
-      <pubDate>Mon, 30 Dec 2024 22:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拉帕戈斯：简单的进化求解器 (Rust)</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpz903/galapagos_simple_evolutionary_solver_rust/</link>
-      <description><![CDATA[  由    /u/wpcarroll  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpz903/galapagos_simple_evolutionary_solver_rust/</guid>
-      <pubDate>Mon, 30 Dec 2024 22:22:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
