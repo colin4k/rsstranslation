@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 Jan 2025 18:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 21:02:20 GMT</lastBuildDate>
+    <item>
+      <title>带有简单 Lua API 的 C++ 3D 游戏引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hrcck0/a_3d_game_engine_in_c_with_a_simple_lua_api/</link>
+      <description><![CDATA[Tesseract-Engine 是一款轻量级且功能强大的游戏引擎，专为从事中小型项目的开发人员而设计。它具有简单且视觉上吸引人的界面，提供 LUA 脚本环境，并采用 C++ 构建以获得最佳性能。 它目前没有照明引擎。但我一直在研究它。我编写了自己的 OBJ 导入，用于解析 OBJ、MTL 和相关资产。而且它还挺快的。 任何反馈都将不胜感激 链接：https://dock-it.dev/Bit-By-Byte/Tesseract-Engine    提交人    /u/GigabiteStudios   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hrcck0/a_3d_game_engine_in_c_with_a_simple_lua_api/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:58:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的开源项目刚刚达到 50 颗星！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hrc90i/my_opensource_project_just_reached_50_stars/</link>
+      <description><![CDATA[嘿 r/opensource ！ 我的开源产品刚刚达到了它的第一个里程碑，50 颗星！我知道从宏观角度来看这只是一个小数字，但我只是想与世界分享我的小胜利。:) 如果您想查看它，请访问 https://github.com/techblitzdev/TechBlitz/ 。欢迎所有反馈和贡献者！    提交人    /u/loganfordd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hrc90i/my_opensource_project_just_reached_50_stars/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:54:04 GMT</pubDate>
+    </item>
     <item>
       <title>一个故事：FOSS 意味着为残疾人提供便利！</title>
       <link>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</link>
@@ -113,7 +127,7 @@
     <item>
       <title>C++ 日志库 - 我一直在研究的东西，第 4 部分（交叉发布）</title>
       <link>https://www.reddit.com/r/opensource/comments/1hprmrp/c_logging_library_something_ive_been_working_on/</link>
-      <description><![CDATA[大家好， 按照每年这个时候的传统，我想与大家分享我过去几年一直在研究的东西 - 又一个日志库，我知道这有多无聊。不过，这个项目代表着一段漫长的学习、成长和奉献之旅，如果您能花点时间看看它，我会很荣幸，因为这是我引以为豪的事情。 您可能已经猜到了，我已经在这里发布了关于这个库的信息，自去年我上次发布以来，发生了很多变化。我相信它已经成为一个非常全面的工具，可以很好地为您服务。它非常高效，并且非常易于配置。它提供了一个不错的 CMake，因此可以轻松集成到任何项目中，并且精心制作的持续集成管道可确保它在所有平台上运行。至少在我看来，所有这些都包含在一个编写得非常好且干净的代码库中。 为什么选择 lwlog？  性能：无论您使用的是同步还是异步日志记录，该库都能确保最小的开销，使其成为高性能应用程序的理想选择 可配置性：您可以使用策略类精确地自定义日志记录行为 现代设计：代码在编写时考虑了清晰度、优雅性和可读性。轻松与 CMake 集成以及周到的架构 可扩展性：轻松创建自定义接收器并根据特定需求进行定制  如果您提出批评、意见、想法，或者希望为项目做出贡献，我将不胜感激：https://github.com/ChristianPanov/lwlog 感谢您的时间并祝您节日快乐， 克里斯    提交人    /u/ChrisPanov   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 按照每年这个时候的传统，我想与大家分享我过去几年一直在研究的东西 - 又一个日志库，我知道这有多无聊。不过，这个项目代表着一段漫长的学习、成长和奉献之旅，如果您能花点时间看看它，我会很荣幸，因为这是我引以为豪的事情。 您可能已经猜到了，我已经在这里发布了关于这个库的信息，自去年我上次发布以来，发生了很多变化。我相信它已经成为一个非常全面的工具，可以很好地为您服务。它非常高效，并且非常易于配置。它提供了一个不错的 CMake，因此可以轻松集成到任何项目中，并且精心制作的持续集成管道可确保它在所有平台上运行。至少在我看来，所有这些都包含在一个编写得非常好且干净的代码库中。 为什么选择 lwlog？  性能：无论您使用的是同步还是异步日志记录，该库都能确保最小的开销，使其成为高性能应用程序的理想选择 可配置性：您可以使用策略类精确地自定义日志记录行为 现代设计：代码在编写时考虑了清晰度、优雅性和可读性。轻松与 CMake 集成以及周到的架构 可扩展性：轻松创建自定义接收器并根据特定需求进行定制  如果您提出批评、意见、想法，或者想为项目做出贡献，我将不胜感激：https://github.com/ChristianPanov/lwlog 感谢您的时间并祝您节日快乐， 克里斯    提交人    /u/ChrisPanov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hprmrp/c_logging_library_something_ive_been_working_on/</guid>
       <pubDate>Mon, 30 Dec 2024 16:55:53 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！ 我想分享一个我一直在做的项目，叫做 DiffDeck，它旨在简化处理代码差异和审查的工作。它是一个开源工具，有助于审查拉取请求、分支比较和存储库审计。 核心思想是提供一个统一的工作流程来比较和分析代码更改。您可以：  比较分支、提交或特定文件 以 Markdown、XML 或纯文本生成差异 配置文件的包含/排除模式 运行安全检查以查找潜在漏洞 使用行号差异分析目录结构 导出详细报告以用于文档或审核  您可以在以下位置找到源代码：https://github.com/KnockOutEZ/diffdeck 期待社区的任何反馈或建议！欢迎随时打开问题以获取功能请求或错误报告。    提交人    /u/KledMainSG   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hpr8l1/i_just_made_an_open_source_tool_for_making_code/</guid>
       <pubDate>Mon, 30 Dec 2024 16:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 2.0 多模式 API 包装器。以 Ja​​vaScript 编写，开源且适合移动设备。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hppd2z/gemini_20_multimodal_api_wrapper_written_in/</link>
-      <description><![CDATA[Google 有一个用 React 和 Typescript 编写的漂亮的开源 Live API 演示包装器，以便人们可以轻松开发集成 Gemini 2.0 Flash 的应用程序并进行部署。 并且它是开源的：GitHub Repo 我已经编写了它的纯 Javascript 版本这里。它对初学者更友好，易于安装和启动。 由于这只是 HTML + CSS + JavaScript，我将它部署到 GitHub Pages。 您可以从 PC 或移动设备这里访问它。 （移动设备注意事项：麦克风在 Chrome 中不起作用。但一切在 Edge 上都有效。没有测试其他移动浏览器。） 我还在 Google 的存储库中修复了该问题：您现在也可以在 Firefox 中与 Gemini 交谈。 分享这个希望有人会发现它有用、有趣，或者如果有人想合作开展一个新的 AI 项目。如果您遇到任何问题，请随时打开问题或提交 PR。 感谢谷歌提供免费又酷的 API！祝大家圣诞快乐！    提交人    /u/Chris__Kyle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hppd2z/gemini_20_multimodal_api_wrapper_written_in/</guid>
-      <pubDate>Mon, 30 Dec 2024 15:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何完全免费的软件具有内置的文本效果（动画）吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hpm1ux/any_completely_free_software_that_has_built_in/</link>
-      <description><![CDATA[我正在寻找一款内置文本效果的免费或开源软件。与 After Effects 类似的软件有很多内置功能。我知道它们非常好而且很高级，但即使是基本的预设也可以使用。类似于我们在 Canva 视频编辑或 Adob​​e Express 中找到的那些。    提交人    /u/BeyondCraft   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hpm1ux/any_completely_free_software_that_has_built_in/</guid>
-      <pubDate>Mon, 30 Dec 2024 12:18:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

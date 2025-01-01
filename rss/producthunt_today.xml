@@ -2,11 +2,11 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 18:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 21:02:27 GMT</lastBuildDate>
     <item>
-      <title>埃拉雅哈</title>
+      <title>艾拉雅哈</title>
       <link>https://www.producthunt.com/posts/erayaha-ai</link>
       <description><![CDATA[
 MS Word/Google Docs 中更智能的合同审查和见解
@@ -135,7 +135,7 @@ AI 代理和自动化
       <title>3D 蓝天图</title>
       <link>https://www.producthunt.com/posts/3d-bluesky-chart</link>
       <description><![CDATA[
-在 3D 图表中直观显示您在 Bluesky 上的每周活动
+在 3D 图表中可视化您在 Bluesky 上的每周活动
 
 
 讨论
@@ -160,7 +160,7 @@ AI 代理和自动化
       <pubDate>Tue, 31 Dec 2024 08:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>蒙克特</title>
+      <title>僧</title>
       <link>https://www.producthunt.com/posts/monkt</link>
       <description><![CDATA[
 将文件和网页转换为 AI 就绪的 Markdown 或 JSON
@@ -172,6 +172,20 @@ AI 代理和自动化
 ]]></description>
       <guid>https://www.producthunt.com/posts/monkt</guid>
       <pubDate>Tue, 31 Dec 2024 07:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能辩论</title>
+      <link>https://www.producthunt.com/posts/debate-ai</link>
+      <description><![CDATA[
+利用人工智能更聪明地辩论
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/debate-ai</guid>
+      <pubDate>Tue, 31 Dec 2024 06:12:41 GMT</pubDate>
     </item>
     <item>
       <title>在线商店声誉监控</title>
@@ -188,21 +202,21 @@ AI 代理和自动化
       <pubDate>Mon, 30 Dec 2024 22:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>第一版</title>
-      <link>https://www.producthunt.com/posts/firstversion</link>
+      <title>建造</title>
+      <link>https://www.producthunt.com/posts/buildfy</link>
       <description><![CDATA[
-使用 AI 重建优秀产品的第一个版本
+创意成形的地方
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/firstversion</guid>
-      <pubDate>Mon, 30 Dec 2024 08:31:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/buildfy</guid>
+      <pubDate>Mon, 30 Dec 2024 11:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>包装.dev</title>
+      <title>包装的开发</title>
       <link>https://www.producthunt.com/posts/wrapped-dev</link>
       <description><![CDATA[
 Spotify 使用 AI 为 Github Repos 打包
@@ -216,24 +230,10 @@ Spotify 使用 AI 为 Github Repos 打包
       <pubDate>Sun, 29 Dec 2024 19:59:57 GMT</pubDate>
     </item>
     <item>
-      <title>虚拟表格</title>
-      <link>https://www.producthunt.com/posts/dummyforms</link>
-      <description><![CDATA[
-在几分钟内创建漂亮的表格
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dummyforms</guid>
-      <pubDate>Fri, 27 Dec 2024 15:03:30 GMT</pubDate>
-    </item>
-    <item>
       <title>下一个工作</title>
       <link>https://www.producthunt.com/posts/nextjob</link>
       <description><![CDATA[
-找到您梦想中的下一份工作
+找到下一份梦想的工作
 
 
 讨论

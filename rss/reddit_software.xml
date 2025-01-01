@@ -4,9 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 18:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 21:02:04 GMT</lastBuildDate>
     <item>
-      <title>真正的数字活页夹？</title>
+      <title>使用 Android 智能手机作为 DOS 的“串行调制解调器”——并且“无需 root 权限”。此“解决方案使用运行 NetBSD 的极简安装的 QEMU VM 工作，它充当往返于 DOS PC 的流量的调制解调器和路由器。”QEMU、termux-usb 和 usbredirect 在 Termux 下运行。</title>
+      <link>https://www.reddit.com/r/software/comments/1hrc088/use_an_android_smartphone_as_a_serial_modem_with/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hrc088/use_an_android_smartphone_as_a_serial_modem_with/</guid>
+      <pubDate>Wed, 01 Jan 2025 20:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>iTunes 解密器</title>
+      <link>https://www.reddit.com/r/software/comments/1hralze/itunes_decrypter/</link>
+      <description><![CDATA[有人可以推荐我一款解密 iTunes 备份的软件吗？顺便说一句，如果这不是合适的 subreddit 来发布它，请告诉我在哪个 subreddit 中发布它    提交人    /u/Ir0nOre33   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hralze/itunes_decrypter/</guid>
+      <pubDate>Wed, 01 Jan 2025 19:40:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>真正的数码活页夹？</title>
       <link>https://www.reddit.com/r/software/comments/1hr7nt8/a_true_digital_ringbinder/</link>
       <description><![CDATA[我正在寻找一种类似于物理活页夹的管理项目“文件夹”的方法。我目前正在使用 Obsidian，但它的 pdf 处理功能不是最好的。我也使用过 Zotero，但我不喜欢将 pdf 隐藏为附件的方式。 要求：- 处理每个项目孤立的 pdf 集合 - 最多可以包含数百个文档 - 文档不应合并为单个 pdf 或编辑 - 搜索给定项目的所有文档 - 标记、突出显示和评论文档 - 基于桌面，文档保存在本地 - 理想情况下，我喜欢交叉链接功能 我根本不需要任何协作功能 - 这纯粹是为了个人用途。我不介意付费，但我的预算不是很多。   由    /u/deep-blue-seams  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hr7nt8/a_true_digital_ringbinder/</guid>
@@ -15,7 +29,7 @@
     <item>
       <title>将 PDF 转换为音频文件的程序？</title>
       <link>https://www.reddit.com/r/software/comments/1hr4d2w/program_to_convert_pdf_to_audio_file/</link>
-      <description><![CDATA[我花了好几天的时间才为 Balabolka 添加声音。有没有其他免费或低于 30 美元的程序可以将我从 Kobo 下载的电子书（PDF 格式）转换为可以在手机上播放的音频文件？    提交人    /u/27remember   [link] [评论]]]></description>
+      <description><![CDATA[我花了好几天的时间才为 Balabolka 添加声音。有没有其他免费或低于 30 美元的程序可以将我从 Kobo 下载的电子书（pdf 格式）转换为可以在手机上播放的音频文件？    提交人    /u/27remember   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hr4d2w/program_to_convert_pdf_to_audio_file/</guid>
       <pubDate>Wed, 01 Jan 2025 14:51:54 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我曾尝试在互联网上研究这一点，但不幸的是，关键字“gif”和“浏览器”被我想要的另一种类型的东西占用，所以我没有运气。 我正在寻找一种可以 24/7 全天候运行的软件，基本上坐在系统托盘中，我可以在任何文本编辑器字段中随时按快捷方式“Windows + G”，它会在我正在输入的位置弹出一个窗口，就像 Windows + Period 打开 Emoji 弹出窗口一样。在这个弹出窗口中，它会自动控制搜索栏中的文本输入，我可以立即开始输入而无需单击，从我电脑本地的文件夹中搜索 gif 列表，该文件夹以网格方式显示并像 Discord gif 浏览器一样在此浏览器中实时自动播放 gif。想象一下，如果您能够按下 Windows + G 并立即输入“Hello”，它会立即显示本地文件夹中所有文件名中包含单词 Hello 的 gif。然后，当您单击它时，它会将 gif 文件粘贴到文本字段中。  所以我在寻找两个答案中的一个，它存在吗？如果不存在，我可以从哪些途径开始探索自己编写它？我非常愿意花几年时间学习如何编程等来创建这个软件，只是需要一个指针，因为我不想浪费几个月的时间学习不必要的东西。 谢谢    提交人    /u/Xsphyre   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hq83pn/does_this_exist_shortcut_based_gif_popup_browser/</guid>
       <pubDate>Tue, 31 Dec 2024 05:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何解决 Internet Download Manager 音频/视频拆分问题</title>
-      <link>https://www.reddit.com/r/software/comments/1hq18kn/how_to_solve_split_audiovideo_internet_download/</link>
-      <description><![CDATA[我使用的 IDM 版本是 6.42 build 26 我正尝试从网站下载嵌入的视频。原始文件是 m3u8 文件。 当我开始下载时，文件设置为转换为 .ts 文件。当我完成下载时，我只能获得视频的音频。如果我手动将输出文件设置为 .mp4，我只会获得视频而没有音频。如果我尝试设置为 .mkv，我只会从中获得音频。 IDM 是否将音频和视频从视频中分离出来？这是因为视频的源是 m3u8 吗？我需要更改设置吗？    提交人    /u/hyenagames   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hq18kn/how_to_solve_split_audiovideo_internet_download/</guid>
-      <pubDate>Mon, 30 Dec 2024 23:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似 Keypirinha / Playnite / Promptu 的启动器</title>
-      <link>https://www.reddit.com/r/software/comments/1hq0uio/looking_for_a_launcher_like_keypirinha_playnite/</link>
-      <description><![CDATA[嗨！ 我不是整理文件和文件夹的高手，所以我对一些可以随时访问所有内容的工具非常感兴趣。例如，我尝试了 StrokesPlus，我将其用于某些工具，我真的很喜欢这个概念。唯一的问题是我正在寻找一些更完整的东西，而且由于打字对我来说不是“问题”，我试图寻找一个启动器，它可以帮助我仅使用快捷方式然后使用我的工具来启动所有内容。我目前尝试了 3 种工具：   Keypirinha，可以完成基本工作。问题是它显示了太多东西，我无法对配置文件做任何事情。排除一些东西没有用，使用空白配置也无济于事。 Playnite。最好的解决方案。我非常喜欢它的一切，因为你可以使用空白配置。但问题是它太空白了，即使我可以为许多工具进行调整，你也必须逐个添加它们，而且非常以游戏为导向。 Promptu：平衡性很好，但是我找不到添加更精确选项的方法。比如从一个快捷方式启动多个文件等。  还有其他这种启动器吗？这个想法是你可以进行足够的自定义以选择特定的程序/工具，而无需逐一设置所有内容。 谢谢！    提交人    /u/Aligatueur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hq0uio/looking_for_a_launcher_like_keypirinha_playnite/</guid>
-      <pubDate>Mon, 30 Dec 2024 23:33:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
