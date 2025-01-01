@@ -3,8 +3,15 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 03:09:46 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 01 Jan 2025 06:02:01 GMT</lastBuildDate>
+    <item>
+      <title>寻找特定的AI视觉小说</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqvr2k/looking_for_specific_ai_visual_novel/</link>
+      <description><![CDATA[嗨！请帮我找一个特定的 AI 视觉小说网站。几个月前，我遇到了一个 AI 生成背景、精灵和所有对话的视觉小说网站。遗憾的是，我记不清了，我只知道有不同的角色，比如 yunyun 和一些女仆。没有对话审查，用户可以在不同的视觉小说上发表评论。 知道它叫什么吗？    提交人    /u/StandardBaby5877   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqvr2k/looking_for_specific_ai_visual_novel/</guid>
+      <pubDate>Wed, 01 Jan 2025 04:38:49 GMT</pubDate>
+    </item>
     <item>
       <title>请帮我找到正确的选项</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqribd/help_me_find_the_correct_option_pls/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[我想知道人工智能芯片是否需要重新设计用于量子计算机，或者它们可能像用于普通计算机一样使用。或者它们可能会过时，因为量子计算机不需要任何这样的芯片。量子计算是否处于可以一起讨论人工智能和量子计算的阶段？    提交人    /u/whizzkidme   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqqiif/quantum_computimg_and_ai_chips/</guid>
       <pubDate>Tue, 31 Dec 2024 23:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 GPT 护栏感到失望：你是坚持使用还是寻求替代方案？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqqe87/frustrated_with_gpt_guardrails_do_you_stick_with/</link>
-      <description><![CDATA[  由    /u/AirAquarian  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqqe87/frustrated_with_gpt_guardrails_do_you_stick_with/</guid>
-      <pubDate>Tue, 31 Dec 2024 23:11:06 GMT</pubDate>
     </item>
     <item>
       <title>人工智能艺术“全是关于牛痘的”</title>
@@ -43,14 +43,14 @@
     <item>
       <title>启动 iMessage</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqozap/initiate_imessage/</link>
-      <description><![CDATA[我想要一个助手，自动化，可以为我做以下事情。 - 在 Apple 通讯录应用中获取我的联系人（或者我可能需要将它们放入电子表格中）。它将能够为联系人记录生日、重要日期、家庭成员姓名、我们如何互相认识等... - 它将通过我的 Mac 或 iPad 上的 iMessage 向代表我的人发送预定日期、节假日、场合的消息。例如，在他们生日时发送生日消息。使用 AI，每条消息对该人来说都是独一无二的。 - 精心设计的消息可以根据我们上次互动之间的时间长度提出问题。如果我 6 个月内没有给此人发消息，它可能会在消息中询问他们的孩子近况如何。 - 我只希望它发起消息，而不是替我回复。或者阅读我的消息。  - 如果联系人从“联系人”应用中删除，则该联系人也会从这些消息中删除。 如果没有直接的应用程序可以一次性完成此操作，是否有解决方法？使用 2 个不同的 AI，然后通过 Make 或 Zapier 等服务链接它们，然后可以在我的本地 Mac 上运行脚本来制作和发送消息？ 提前致谢。    提交人    /u/ManaHijinx   [link] [评论]]]></description>
+      <description><![CDATA[我想要一个助手，自动化，可以帮我做以下事情。 - 在 Apple 通讯录应用中获取我的联系人（或者我可能需要将它们放入电子表格中）。它将能够为联系人记录生日、重要日期、家庭成员姓名、我们如何互相认识等... - 它将通过我的 Mac 或 iPad 上的 iMessage 向代表我的人发送预定日期、节假日、场合的消息。例如，在他们生日时发送生日消息。使用 AI，每条消息对该人来说都是独一无二的。 - 精心设计的消息可以根据我们上次互动之间的时间长度提出问题。如果我在 6 个月内没有给此人发消息，它可能会在消息中询问他们的孩子近况如何。 - 我只希望它发起消息，而不是替我回复。或者阅读我的消息。  - 如果联系人从“联系人”应用中删除，则该联系人也会从这些消息中删除。 如果没有直接的应用程序可以一次性完成此操作，是否有解决方法？使用 2 个不同的 AI，然后通过 Make 或 Zapier 等服务链接它们，然后可以在我的本地 Mac 上运行脚本来制作和发送消息？ 提前致谢。    提交人    /u/ManaHijinx   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqozap/initiate_imessage/</guid>
       <pubDate>Tue, 31 Dec 2024 21:55:09 GMT</pubDate>
     </item>
     <item>
       <title>愿望与期望</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqoxik/aspirations_vs_expectations/</link>
-      <description><![CDATA[人工智能最大的风险之一是混淆了我们对它的期望和它实际上能做的事情。抱负推动进步，但将其视为当前现实会给我们带来问题。例如，人们经常认为像 ChatGPT 这样的生成式人工智能能够像人类一样理解语言，但它只是在预测文本模式。在医疗保健领域，过早采用基于过高承诺的人工智能工具导致了误诊。同样的问题也出现在军事技术等领域，尽管存在尚未解决的道德和技术问题，但自主系统仍在推进。 过度炒作的营销和媒体夸大其词加剧了这些误解，人们经常给人工智能赋予它不具备的类人特征。不切实际的期望可能导致错误的决策，比如在招聘或执法方面过度信任有缺陷的系统，或者根据人工智能所缺乏的能力制定政策。当这些系统无法实现时，信任就会受到侵蚀，进展也会停滞。 为了避免这种情况，我们需要更清楚地沟通人工智能的实际能力、基于现实的政策，并专注于渐进式进展。愿望应该引导我们，但只有诚实地面对今天可能发生的事情，我们才能取得真正的进步。 诚挚的， ChatGPT    提交人    /u/Zestyclose_Hat1767   [link] [评论]]]></description>
+      <description><![CDATA[人工智能最大的风险之一是混淆了我们对它的期望和它实际上能做的事情。抱负推动进步，但将其视为当前现实会给我们带来问题。例如，人们经常认为像 ChatGPT 这样的生成式人工智能能够像人类一样理解语言，但它只是在预测文本模式。在医疗保健领域，过早采用基于过高承诺的人工智能工具导致了误诊。同样的问题也出现在军事技术等领域，尽管存在尚未解决的道德和技术问题，但自主系统仍在推进。 过度炒作的营销和媒体夸大其词加剧了这些误解，人们经常给人工智能赋予它不具备的类人特征。不切实际的期望可能导致错误的决策，比如在招聘或执法方面过度信任有缺陷的系统，或者根据人工智能所缺乏的能力制定政策。当这些系统无法实现时，信任就会受到侵蚀，进展也会停滞。 为了避免这种情况，我们需要更清晰地沟通人工智能的实际能力、基于现实的政策，并专注于渐进式进展。愿望应该引导我们，但只有诚实地面对今天可能发生的事情，我们才能取得真正的进步。 诚挚的， ChatGPT    提交人    /u/Zestyclose_Hat1767   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqoxik/aspirations_vs_expectations/</guid>
       <pubDate>Tue, 31 Dec 2024 21:52:32 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hlffed/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 24 Dec 2024 15:09:09 GMT</pubDate>
     </item>
