@@ -4,9 +4,9 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 21:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 00:03:37 GMT</lastBuildDate>
     <item>
-      <title>艾拉雅哈</title>
+      <title>埃拉雅哈</title>
       <link>https://www.producthunt.com/posts/erayaha-ai</link>
       <description><![CDATA[
 MS Word/Google Docs 中更智能的合同审查和见解
@@ -160,7 +160,7 @@ AI 代理和自动化
       <pubDate>Tue, 31 Dec 2024 08:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>僧</title>
+      <title>蒙克特</title>
       <link>https://www.producthunt.com/posts/monkt</link>
       <description><![CDATA[
 将文件和网页转换为 AI 就绪的 Markdown 或 JSON
@@ -172,20 +172,6 @@ AI 代理和自动化
 ]]></description>
       <guid>https://www.producthunt.com/posts/monkt</guid>
       <pubDate>Tue, 31 Dec 2024 07:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能辩论</title>
-      <link>https://www.producthunt.com/posts/debate-ai</link>
-      <description><![CDATA[
-利用人工智能更聪明地辩论
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/debate-ai</guid>
-      <pubDate>Tue, 31 Dec 2024 06:12:41 GMT</pubDate>
     </item>
     <item>
       <title>在线商店声誉监控</title>
@@ -202,6 +188,20 @@ AI 代理和自动化
       <pubDate>Mon, 30 Dec 2024 22:01:33 GMT</pubDate>
     </item>
     <item>
+      <title>合成流</title>
+      <link>https://www.producthunt.com/posts/synth-stream</link>
+      <description><![CDATA[
+汇集热门合成器新闻的绝美之地
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/synth-stream</guid>
+      <pubDate>Mon, 30 Dec 2024 21:21:12 GMT</pubDate>
+    </item>
+    <item>
       <title>建造</title>
       <link>https://www.producthunt.com/posts/buildfy</link>
       <description><![CDATA[
@@ -216,7 +216,7 @@ AI 代理和自动化
       <pubDate>Mon, 30 Dec 2024 11:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>包装的开发</title>
+      <title>包装.dev</title>
       <link>https://www.producthunt.com/posts/wrapped-dev</link>
       <description><![CDATA[
 Spotify 使用 AI 为 Github Repos 打包
