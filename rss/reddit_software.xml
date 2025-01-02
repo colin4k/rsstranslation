@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 21:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 03:04:46 GMT</lastBuildDate>
+    <item>
+      <title>根据软件/应用程序的稳健性得出的最佳 VPN</title>
+      <link>https://www.reddit.com/r/software/comments/1hrhrhl/best_vpn_based_on_the_robustness_of_their/</link>
+      <description><![CDATA[我已经使用 Nord 几年了。我对他们的 VPN 本身的质量很满意，但他们的应用程序让我抓狂——无论是 Windows 还是 iOS。关键问题是定期将我注销，将我踢到网络浏览器重新登录，更新缓慢且具有侵入性，iPhone 上的 VPN 设置会自动删除。最终，当 VPN 决定自行禁用时，它就毫无用处了。这曾经给我带来了真正的问题，因为雇主的政策不允许他们的系统在其本国以外被访问，而当 Nord 决定将我注销时，数据通过了。这导致我的帐户被雇主锁定，直到我返回办公室。永远在线的 VPN 设置就这样了。 我以前使用过 IPVanish，从来没有遇到过这些问题（其他问题，但没有这些问题）。 在主要的 VPN 提供商中，哪个拥有最好/最可靠/最稳定的应用程序？Windows 和 iOS，包括 Apple TV。     由    /u/AeroBoy71 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hrhrhl/best_vpn_based_on_the_robustness_of_their/</guid>
+      <pubDate>Thu, 02 Jan 2025 01:08:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许通过热键更改字体和背景颜色的 PDF 阅读器</title>
+      <link>https://www.reddit.com/r/software/comments/1hrh14t/a_pdf_reader_that_allows_for_changing_font_and/</link>
+      <description><![CDATA[是否有人知道 PDF 阅读器允许您将正在查看的文档的背景/字体配色方案更改为您设置的某些颜色，并通过热键在您的设置和原始颜色之间切换？    提交人    /u/themainheadcase   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hrh14t/a_pdf_reader_that_allows_for_changing_font_and/</guid>
+      <pubDate>Thu, 02 Jan 2025 00:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>切换视频编辑软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1hrgjd3/switching_video_editing_software/</link>
+      <description><![CDATA[近一年来，我使用 Adob​​e Premiere Pro 进行视频编辑/动画制作，这只是一个小爱好；但是，每月 35 美元对于我在 Premiere 中使用的基本编辑和效果来说实在是太贵了，因为我主要使用 Premiere 来重新排列剪辑、使用旧广告重现已取消的电视频道体验、使用 PNG 创建逐帧动画、更改视频的 FPS 以及其他编辑和项目。我决定购买具有永久许可证的视频编辑软件，这样我就不必再担心每月付款了，而且由于这是更便宜的选择，我决定尝试一下。  简单评价一下，到目前为止，它几乎满足了我想要/需要的所有功能，因为一旦您学会了快捷方式，您就可以以相似的方式轻松地重新排列剪辑，有无限或至少高水平的时间线轨道可用于在时间线中进行编辑，尽管我需要更多地了解细节，但在 PowerDirector 中规范音频要容易得多，尽管它似乎不能让您对规范化音频的音量进行太多控制。 PD Ultra 2025 附带一个 OBS 替代方案，我使用过一次，但在质量设置和视频/音频质量方面，它似乎比 OBS 好得多。 总的来说，到目前为止，PD Ultra 2025 似乎是一个很好的 Premiere Pro 替代品，只需一次性付款，非常用户友好，也是一个很好的视频编辑器，人们可以从 Adob​​e 转换过来。 OBS 替代方案也非常用户友好，并且似乎也是质量更好的软件。 如果有人对我的经验有任何疑问或有任何提示或建议，请询问或让我知道。    提交人    /u/AlertNectarine1854   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hrgjd3/switching_video_editing_software/</guid>
+      <pubDate>Thu, 02 Jan 2025 00:09:24 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Android 智能手机作为 DOS 的“串行调制解调器”——并且“无需 root 权限”。此“解决方案使用运行 NetBSD 的极简安装的 QEMU VM 工作，它充当往返于 DOS PC 的流量的调制解调器和路由器。”QEMU、termux-usb 和 usbredirect 在 Termux 下运行。</title>
       <link>https://www.reddit.com/r/software/comments/1hrc088/use_an_android_smartphone_as_a_serial_modem_with/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我最近买了一块新主板、内存和 CPU。AMD Ryzen 5 7600x cpu AMD R9 380 gpu 自从我买了它以来，我玩的多个游戏都说我需要更新我的 gpu 驱动程序。我已经从 AMD 网站和其他驱动程序网站更新了驱动程序。我应该能够运行这些游戏，但是不能吗？我的电脑是否识别 CPU 集成 GPU？我尝试将游戏与图形高级 Windows 选项关联以使用 R9 380，但它说同样的事情，需要更新 gpu 驱动程序。我该怎么办？    提交人    /u/Final-Positive-9541   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hqcqhz/recently_bought_a_new_cpu_now_my_pc_is_not/</guid>
       <pubDate>Tue, 31 Dec 2024 11:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一款类似 Voidtools 的 Everything 程序；但它可以像 markdown 文件一样索引内容</title>
-      <link>https://www.reddit.com/r/software/comments/1hqbyid/am_looking_for_a_program_like_everything_by/</link>
-      <description><![CDATA[Everything FAQ 说它不会索引文件内的内容；我需要一些可以索引 markdown 内容的东西，这样我就可以更快地找到材料     提交人    /u/JamesQGholden   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hqbyid/am_looking_for_a_program_like_everything_by/</guid>
-      <pubDate>Tue, 31 Dec 2024 10:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有最大防数字指纹功能的软件（可能是浏览器）</title>
-      <link>https://www.reddit.com/r/software/comments/1hq9cda/looking_for_software_may_be_browser_with_maximum/</link>
-      <description><![CDATA[我正在寻找类似 brave browser 或 Firefox 的带有容器但更高级的软件。我的想法是，我运行几个不同的商业账户，每当我登录其中一个账户时，系统中都会保留一些数字指纹，它检测到我有另一个账户（比如 facebook 页面、instagram 页面），然后他们会屏蔽我的一个账户。甚至是电子邮件。我试过 VPN，试过代理，显然我试过苹果的隐身模式，但所有浏览器仍然没有运气。任何其他软件或浏览器都像我是完全新用户一样，每当我关闭所有浏览器选项卡或软件并使用新 ip 启动新选项卡（可能是 vpn 或代理）时，它都会再次像新用户一样运行，可以在任何平台上。我有的设备是 iphone pixel、mac window 和 samsung    提交人    /u/Samir--   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hq9cda/looking_for_software_may_be_browser_with_maximum/</guid>
-      <pubDate>Tue, 31 Dec 2024 07:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是否存在：基于快捷方式的 GIF 弹出浏览器 Windows？</title>
-      <link>https://www.reddit.com/r/software/comments/1hq83pn/does_this_exist_shortcut_based_gif_popup_browser/</link>
-      <description><![CDATA[我曾尝试在互联网上研究这一点，但不幸的是，关键字“gif”和“浏览器”被我想要的另一种类型的东西占用，所以我没有运气。 我正在寻找一种可以 24/7 全天候运行的软件，基本上坐在系统托盘中，我可以在任何文本编辑器字段中随时按快捷方式“Windows + G”，它会在我正在输入的位置弹出一个窗口，就像 Windows + Period 打开 Emoji 弹出窗口一样。在这个弹出窗口中，它会自动控制搜索栏中的文本输入，我可以立即开始输入而无需单击，从我电脑本地的文件夹中搜索 gif 列表，该文件夹以网格方式显示并像 Discord gif 浏览器一样在此浏览器中实时自动播放 gif。想象一下，如果您能够按下 Windows + G 并立即输入“Hello”，它会立即显示本地文件夹中所有文件名中包含单词 Hello 的 gif。然后，当您单击它时，它会将 gif 文件粘贴到文本字段中。  所以我在寻找两个答案中的一个，它存在吗？如果不存在，我可以从哪些途径开始探索自己编写它？我非常愿意花几年时间学习如何编程等来创建这个软件，只是需要一个指针，因为我不想浪费几个月的时间学习不必要的东西。 谢谢    提交人    /u/Xsphyre   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hq83pn/does_this_exist_shortcut_based_gif_popup_browser/</guid>
-      <pubDate>Tue, 31 Dec 2024 05:46:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
