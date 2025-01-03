@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 02 Jan 2025 21:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 00:04:04 GMT</lastBuildDate>
+    <item>
+      <title>美颜滤镜</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hs6m3n/beauty_face_filter/</link>
+      <description><![CDATA[我正在开发一个开源项目，该项目包含您自己的虚拟克隆。 有人知道任何易于使用的免费开源美颜脸部滤镜吗？ 我尝试在 GitHub 和 Google 上搜索，但没有找到任何有希望的东西，大多数是为 Android SDK 或实时脸部滤镜流制作的。 我只需要一个具有皮肤平滑功能的图像到图像美颜滤镜，仅此而已。 提前致谢！    提交人    /u/OneKe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hs6m3n/beauty_face_filter/</guid>
+      <pubDate>Thu, 02 Jan 2025 22:35:32 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub 上有 450 万个（疑似）假星星：人气竞赛、诈骗和恶意软件不断滋生</title>
       <link>https://www.reddit.com/r/opensource/comments/1hs3qsu/45_million_suspected_fake_stars_in_github_a/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/jsonathan  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</guid>
       <pubDate>Wed, 01 Jan 2025 16:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>PeaZip 10.2.0 发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr0f8y/peazip_1020_released/</link>
-      <description><![CDATA[        提交人    /u/peazip   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr0f8y/peazip_1020_released/</guid>
-      <pubDate>Wed, 01 Jan 2025 10:28:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
