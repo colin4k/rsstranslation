@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 Jan 2025 00:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 06:02:19 GMT</lastBuildDate>
+    <item>
+      <title>开源蜂蜜替代品 第二部分</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsd2vj/opensource_honey_alternative_part_2/</link>
+      <description><![CDATA[electric boogaloo  原始帖子链接：https://www.reddit.com/ 重要安全通知：如我在上一篇帖子中的编辑所述 我已暂时暂停扩展的后端服务，因此它目前无法按预期工作。这是因为我了解到，当用户使用该服务时，我意外地获得了用户浏览历史记录的访问权限。这不会保存在我的任何数据库中，而是每个请求以及当前网站都由渲染记录，我托管后端，这使我无意中看到用户活动。我向受影响的任何用户深表歉意。我的下一次更新将是修复此问题。非常感谢您的耐心。我将尽快推出一个公共的安全版本。 与此同时，我已经更新了扩展的其他区域，我将在这里重点介绍。如果您愿意，您可以在本地测试扩展。  链接到 chrome 商店页面：Chrome 网上应用店 链接到项目代码仓库：Github 显著变化： - 增加了优惠券到期日期和季节性优惠券 - 更新了用户界面以更好地处理大量优惠券 - 增加了 Firefox 支持 - 将数据库移至 NoSQL （移至 nosql 花了整整两天时间，因为我没有意识到我必须在 mongodb atlas 上将 ip 地址列入白名单……叹息） 感谢所有对此项目感兴趣并就此向我提供建议/推荐的人如何推进它。     提交人    /u/zeemouu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsd2vj/opensource_honey_alternative_part_2/</guid>
+      <pubDate>Fri, 03 Jan 2025 03:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>启动了开源新闻或基于 RSS 源的服务？感觉怎么样？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</link>
+      <description><![CDATA[你的经历是怎样的？你面临了哪些挑战？如果你停止了，原因是什么？如果你继续坚持，什么方法有效？ 我在不同的子版块上看到过很多帖子，包括这个，关于人们开始建立网站或自托管新闻和/或 RSS 源的解决方案。其中大多数似乎都失败了。虽然有 Feedly 和其他一些选择，还有 Google 新闻，但我对它们并不是很满意，更重要的是，我对这个话题充满热情。所以我正在尝试从你的经验中学习。 对于那些说，继续做下去的人，我已经建立了一项服务。不放链接以避免自我推销。 为了提供更多背景信息，以下是我能想到的一些具体问题： 你停止是因为（或者尽管如此仍继续）吗？  运行成本太高（不适用于自托管解决方案）？ 太耗时？ 用户保留率低？ 没有盈利机会？ 法律问题？     提交人    /u/logicalcliff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</guid>
+      <pubDate>Fri, 03 Jan 2025 02:39:58 GMT</pubDate>
+    </item>
     <item>
       <title>美颜滤镜</title>
       <link>https://www.reddit.com/r/opensource/comments/1hs6m3n/beauty_face_filter/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>意大利手机扑克应用程序无需真钱，只是为了好玩？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hrrmly/italian_mobile_poker_app_without_real_money_and/</link>
-      <description><![CDATA[我一直在寻找不是骗局、没有广告、没有真钱和真正赌博的扑克应用程序 到目前为止，我发现的最好的是 PokerTH，但它是正常的世界扑克，我想要一个像 PokerTH 这样的东西，但它使用意大利扑克变体，有人知道替代方案吗？    提交人    /u/Sissiogamer1Reddit   [link] [评论]]]></description>
+      <description><![CDATA[我一直在寻找不是骗局、没有广告、没有真钱和真正赌博的扑克应用程序 到目前为止，我发现的最好的是 PokerTH，但它是正常的世界性扑克，我想要一个像 PokerTH 这样的东西，但它使用意大利扑克变体，有人知道替代方案吗？    提交人    /u/Sissiogamer1Reddit   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrrmly/italian_mobile_poker_app_without_real_money_and/</guid>
       <pubDate>Thu, 02 Jan 2025 11:24:43 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[嘿 r/opensource ！ 我的开源产品刚刚达到了它的第一个里程碑，50 颗星！我知道从宏观角度来看这只是一个小数字，但我只是想与世界分享我的小胜利。:) 如果您想查看它，请访问 https://github.com/techblitzdev/TechBlitz/ 。欢迎所有反馈和贡献者！    提交人    /u/loganfordd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrc90i/my_opensource_project_just_reached_50_stars/</guid>
       <pubDate>Wed, 01 Jan 2025 20:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个故事：FOSS 意味着为残疾人提供便利！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</link>
-      <description><![CDATA[  由    /u/petelombardio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Termite，这是一个可以通过简单的文本提示生成终端 UI 的 AI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</link>
-      <description><![CDATA[        由    /u/jsonathan  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</guid>
-      <pubDate>Wed, 01 Jan 2025 16:28:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
