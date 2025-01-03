@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 03 Jan 2025 06:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 09:01:56 GMT</lastBuildDate>
     <item>
-      <title>2025 年编写 Chrome 扩展程序的最简单方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsers7/easiest_way_to_program_chrome_extensions_in_2025/</link>
-      <description><![CDATA[从 React Dev 的角度来看，我总是放弃编写 chrome 扩展程序，尽管这可能是构建 chrome 扩展程序最简单的方法？    由   提交  /u/temurbv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsers7/easiest_way_to_program_chrome_extensions_in_2025/</guid>
-      <pubDate>Fri, 03 Jan 2025 05:05:51 GMT</pubDate>
+      <title>Yokai：用于生产级后端应用程序的模块化 Go 框架，内置可观察性（日志、跟踪、指标、健康检查）。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hshwe5/yokai_modular_go_framework_for_productiongrade/</link>
+      <description><![CDATA[  由    /u/No-Parsnip-5461  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hshwe5/yokai_modular_go_framework_for_productiongrade/</guid>
+      <pubDate>Fri, 03 Jan 2025 08:31:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 LoRA - 第 2 部分：通过在 MLP 上实施 LoRA 进行分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1hshtac/exploring_lora_part_2_analyzing_lora_through_its/</link>
+      <description><![CDATA[  由    /u/l1cache  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hshtac/exploring_lora_part_2_analyzing_lora_through_its/</guid>
+      <pubDate>Fri, 03 Jan 2025 08:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要破坏框架指针</title>
+      <link>https://www.reddit.com/r/programming/comments/1hsh7gb/dont_clobber_the_frame_pointer/</link>
+      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hsh7gb/dont_clobber_the_frame_pointer/</guid>
+      <pubDate>Fri, 03 Jan 2025 07:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 仅限语音挑战 = 我失败了</title>
+      <link>https://www.reddit.com/r/programming/comments/1hsgsht/chatgpt_voice_only_challenge_i_failed/</link>
+      <description><![CDATA[  由    /u/SF_Nick  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hsgsht/chatgpt_voice_only_challenge_i_failed/</guid>
+      <pubDate>Fri, 03 Jan 2025 07:11:51 GMT</pubDate>
     </item>
     <item>
       <title>Leetcode 问题 0001. 两个数之和，使用 hashmap/unordered_map 的 C++ 解决方案</title>
@@ -62,7 +83,7 @@
       <pubDate>Thu, 02 Jan 2025 17:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>理解语言服务器协议</title>
+      <title>了解语言服务器协议</title>
       <link>https://www.reddit.com/r/programming/comments/1hrwwyv/understanding_the_language_server_protocol/</link>
       <description><![CDATA[  由    /u/der_gopher  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hrwwyv/understanding_the_language_server_protocol/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hrqsti/how_javas_executable_assembly_jars_work/</guid>
       <pubDate>Thu, 02 Jan 2025 10:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 React Native、Flutter 和 Python 的新 Wake Word 包</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrqb85/new_wake_word_packages_for_react_native_flutter/</link>
-      <description><![CDATA[  由    /u/Solokdsa56456  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrqb85/new_wake_word_packages_for_react_native_flutter/</guid>
-      <pubDate>Thu, 02 Jan 2025 09:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从十亿扩展到百万再扩展到一</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrq35e/scaling_from_a_billion_to_a_million_to_one/</link>
-      <description><![CDATA[  由    /u/rchaves  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrq35e/scaling_from_a_billion_to_a_million_to_one/</guid>
-      <pubDate>Thu, 02 Jan 2025 09:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>heretek 的初始版本：另一个 GDB TUI 前端</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrkovr/initial_release_of_heretek_yet_another_gdb_tui/</link>
-      <description><![CDATA[  由    /u/arch_rust  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrkovr/initial_release_of_heretek_yet_another_gdb_tui/</guid>
-      <pubDate>Thu, 02 Jan 2025 03:37:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
