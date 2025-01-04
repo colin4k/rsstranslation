@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 04 Jan 2025 00:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 03:04:25 GMT</lastBuildDate>
+    <item>
+      <title>奥斯汀故事：让软件更容易更改、删除和发展</title>
+      <link>https://www.reddit.com/r/programming/comments/1ht39rj/austin_story_making_software_easier_to_change/</link>
+      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ht39rj/austin_story_making_software_easier_to_change/</guid>
+      <pubDate>Sat, 04 Jan 2025 01:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eutelsat 的 48 小时中断归咎于闰年错误：代价高昂的提醒，说明为什么处理软件中的边缘情况很重要</title>
+      <link>https://www.reddit.com/r/programming/comments/1ht2v5v/eutelsats_48hour_outage_blamed_on_leap_year_bug_a/</link>
+      <description><![CDATA[  由    /u/mrnitrate  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ht2v5v/eutelsats_48hour_outage_blamed_on_leap_year_bug_a/</guid>
+      <pubDate>Sat, 04 Jan 2025 01:24:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，这是我最新的 vscode 扩展，它可以帮助您实现开源免费且隐私的首要存储、跟踪和显示您在编程中的统计数据，有点新，所以我希望你们能关注它并告诉我在哪里可以升级这个项目，感谢大家阅读它</title>
+      <link>https://www.reddit.com/r/programming/comments/1ht2g2r/hey_here_this_is_my_latest_vscode_extention_that/</link>
+      <description><![CDATA[  由    /u/Embarrassed-Can8505  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ht2g2r/hey_here_this_is_my_latest_vscode_extention_that/</guid>
+      <pubDate>Sat, 04 Jan 2025 01:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用法学硕士和 Cursor 完成业余项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1ht1qto/using_llms_and_cursor_to_finish_side_projects/</link>
+      <description><![CDATA[  由    /u/zabirauf  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ht1qto/using_llms_and_cursor_to_finish_side_projects/</guid>
+      <pubDate>Sat, 04 Jan 2025 00:31:34 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年服务器端渲染趋势</title>
       <link>https://www.reddit.com/r/programming/comments/1ht0rwq/serverside_rendering_trends_for_2025/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/mrpro1a1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hslkbk/after_8_years_of_development_and_delivering_it_to/</guid>
       <pubDate>Fri, 03 Jan 2025 12:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭秘调试器，第一部分：繁忙的十字路口</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsk0m8/demystifying_debuggers_part_1_a_busy_intersection/</link>
-      <description><![CDATA[  由    /u/MartinLaSaucisse  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsk0m8/demystifying_debuggers_part_1_a_busy_intersection/</guid>
-      <pubDate>Fri, 03 Jan 2025 11:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wapi.go – 适用于 WhatsApp Business API 的开源 Golang SDK</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsjy30/wapigo_open_source_golang_sdk_for_whatsapp/</link>
-      <description><![CDATA[  由    /u/UnusualMeasurement10  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsjy30/wapigo_open_source_golang_sdk_for_whatsapp/</guid>
-      <pubDate>Fri, 03 Jan 2025 10:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您不断要求 LLM 编写“更好的代码”，他们能编写出更好的代码吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsjqos/can_llms_write_better_code_if_you_keep_asking/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsjqos/can_llms_write_better_code_if_you_keep_asking/</guid>
-      <pubDate>Fri, 03 Jan 2025 10:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erlang 中的并发第 4 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsjkl7/concurrencia_en_erlang_parte_4/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsjkl7/concurrencia_en_erlang_parte_4/</guid>
-      <pubDate>Fri, 03 Jan 2025 10:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
