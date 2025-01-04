@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 03 Jan 2025 18:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 00:03:46 GMT</lastBuildDate>
+    <item>
+      <title>2025 年服务器端渲染趋势</title>
+      <link>https://www.reddit.com/r/programming/comments/1ht0rwq/serverside_rendering_trends_for_2025/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ht0rwq/serverside_rendering_trends_for_2025/</guid>
+      <pubDate>Fri, 03 Jan 2025 23:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我的博客加载更快</title>
+      <link>https://www.reddit.com/r/programming/comments/1hsxqb0/making_my_blog_load_faster/</link>
+      <description><![CDATA[我之前使用过 gitlab 页面，但发现它们会导致一些延迟……所以让我们通过切换提供商并预取一些文档来做得更好。    提交人    /u/kn0rk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hsxqb0/making_my_blog_load_faster/</guid>
+      <pubDate>Fri, 03 Jan 2025 21:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>6 个适合初学者的 JavaScript 游戏源代码 - JV Codes</title>
+      <link>https://www.reddit.com/r/programming/comments/1hsxcj3/6_javascript_game_source_codes_for_beginners_jv/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hsxcj3/6_javascript_game_source_codes_for_beginners_jv/</guid>
+      <pubDate>Fri, 03 Jan 2025 21:19:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了手动将传统的 PHP bcrypt 转换为 JS bcrypt，所以我制作了一个 npm 包来帮我完成这项工作。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hswuh6/got_tired_of_manually_converting_legacy_php/</link>
+      <description><![CDATA[  由    /u/Dipppys  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hswuh6/got_tired_of_manually_converting_legacy_php/</guid>
+      <pubDate>Fri, 03 Jan 2025 20:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有状态架构与无状态架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1hsvfcx/stateful_architecture_vs_stateless_architecture/</link>
+      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hsvfcx/stateful_architecture_vs_stateless_architecture/</guid>
+      <pubDate>Fri, 03 Jan 2025 19:57:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>深入了解 Einsum</title>
+      <link>https://www.reddit.com/r/programming/comments/1hstv9m/einsum_in_depth/</link>
+      <description><![CDATA[  由    /u/joelburget  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hstv9m/einsum_in_depth/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>事情始于一篇讽刺性的 LinkedIn 帖子。现在，让我们来认识一下 Git Fakers：像专业人士一样自动执行虚假活动，由 Rust 提供支持。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hstn72/it_started_with_a_satirical_linkedin_post_now/</link>
+      <description><![CDATA[  由    /u/kanxx030  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hstn72/it_started_with_a_satirical_linkedin_post_now/</guid>
+      <pubDate>Fri, 03 Jan 2025 18:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>探索编程习语</title>
       <link>https://www.reddit.com/r/programming/comments/1hsqbsg/explore_programming_idioms/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hsjkl7/concurrencia_en_erlang_parte_4/</guid>
       <pubDate>Fri, 03 Jan 2025 10:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试法学硕士 (LLM) 的谜题答案 —— 他们到底有多聪明？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsjkem/testing_llms_on_cryptic_puzzles_how_smart_are/</link>
-      <description><![CDATA[  由    /u/geloop1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsjkem/testing_llms_on_cryptic_puzzles_how_smart_are/</guid>
-      <pubDate>Fri, 03 Jan 2025 10:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yokai：用于生产级后端应用程序的模块化 Go 框架，内置可观察性（日志、跟踪、指标、健康检查）。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hshwe5/yokai_modular_go_framework_for_productiongrade/</link>
-      <description><![CDATA[  由    /u/No-Parsnip-5461  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hshwe5/yokai_modular_go_framework_for_productiongrade/</guid>
-      <pubDate>Fri, 03 Jan 2025 08:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 LoRA - 第 2 部分：通过在 MLP 上实施 LoRA 进行分析</title>
-      <link>https://www.reddit.com/r/programming/comments/1hshtac/exploring_lora_part_2_analyzing_lora_through_its/</link>
-      <description><![CDATA[  由    /u/l1cache  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hshtac/exploring_lora_part_2_analyzing_lora_through_its/</guid>
-      <pubDate>Fri, 03 Jan 2025 08:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要破坏框架指针</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsh7gb/dont_clobber_the_frame_pointer/</link>
-      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsh7gb/dont_clobber_the_frame_pointer/</guid>
-      <pubDate>Fri, 03 Jan 2025 07:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 仅限语音挑战 = 我失败了</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsgsht/chatgpt_voice_only_challenge_i_failed/</link>
-      <description><![CDATA[  由    /u/SF_Nick  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsgsht/chatgpt_voice_only_challenge_i_failed/</guid>
-      <pubDate>Fri, 03 Jan 2025 07:11:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leetcode 问题 0001. 两个数之和，使用 hashmap/unordered_map 的 C++ 解决方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsdpk7/leetcode_problem_0001_two_sum_c_solution_with/</link>
-      <description><![CDATA[  由    /u/vinodxx  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsdpk7/leetcode_problem_0001_two_sum_c_solution_with/</guid>
-      <pubDate>Fri, 03 Jan 2025 04:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>SwarmGo 是一个 Go 软件包，可用于创建能够交互、协调和执行任务的 AI 代理。受 OpenAI 的 Swarm 框架的启发，SwarmGo 专注于使代理协调和执行变得轻量、高度可控且易于测试。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hsbtxb/swarmgo_is_a_go_package_that_allows_you_to_create/</link>
-      <description><![CDATA[  由    /u/Grand-Western-2130  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hsbtxb/swarmgo_is_a_go_package_that_allows_you_to_create/</guid>
-      <pubDate>Fri, 03 Jan 2025 02:30:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
