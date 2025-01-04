@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 Jan 2025 03:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 09:01:53 GMT</lastBuildDate>
+    <item>
+      <title>图像上的压缩伪影——如何判断它是文件的问题，还是我的 PDF 阅读器的问题？</title>
+      <link>https://www.reddit.com/r/software/comments/1ht7pc6/compression_artefacts_on_image_how_to_tell_if_its/</link>
+      <description><![CDATA[我有几个相册的 PDF 文件。我注意到，其中不少文件的前几页分辨率很好，但随后图像开始出现压缩伪影。 以下是示例： https://i.imgur.com/CFG9U35.png 在上面的屏幕截图中，您可以看到左侧页面的清晰度很好，而右侧页面则充满了伪影。这是书的第 5 页左右，在此之前的所有页面都很好 - 在此之后，所有页面的分辨率都很差。 这是 PDF 文件本身的问题，还是我用来读取文件的软件的问题？这些页面需要很长时间才能呈现，而且我假设它们是很大的 PDF（大约 7 到 9 MB）。  我使用的是 Mac OS，我尝试了默认的“预览”查看器，以及在 Chrome 浏览器和 Foxit PDF 阅读器上打开 PDF。均未成功。 有什么想法吗？    提交人    /u/cbars100   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ht7pc6/compression_artefacts_on_image_how_to_tell_if_its/</guid>
+      <pubDate>Sat, 04 Jan 2025 05:46:06 GMT</pubDate>
+    </item>
     <item>
       <title>创建“犯罪委员会”的计划</title>
       <link>https://www.reddit.com/r/software/comments/1hszdqo/program_to_create_crime_boards/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我认为一个好的发明是在老年人的电脑上安装一个程序，识别骗子是否正在使用屏幕共享（尤其是在银行网站附近），然后弹出一个红色的巨大标志，上面写着“你被骗了。立即给你的儿子或女儿打电话。”现在就挂断电话并关掉你的电脑。    提交人    /u/basilpurpletulip   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hs5gzc/ive_been_watching_the_funniest_scammer_youtube/</guid>
       <pubDate>Thu, 02 Jan 2025 21:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪贴板编辑宏？</title>
-      <link>https://www.reddit.com/r/software/comments/1hs54p5/clipboard_editing_macro/</link>
-      <description><![CDATA[我想指定从条形码扫描仪应用程序保存到剪贴板的一段文本。这是一个很长的字符串，我只想要其中的结尾。每次手动突出显示并复制终点真的很麻烦。基本上我只想要文本的结尾。  例如：␠Tord␞06␝10ZD009␝12Z21548602␝20Z␜␝31Z96320019607788403918039062873␝34Z01␝9K296234387␝␞␄ 我只想要字母 K 后面的数字。 296234387  也不想要奇怪的特殊字符 提前致谢 :)    提交人    /u/SolidIcecube   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hs54p5/clipboard_editing_macro/</guid>
-      <pubDate>Thu, 02 Jan 2025 21:33:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
