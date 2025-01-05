@@ -4,20 +4,41 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 Jan 2025 09:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>ShortMoji：让您的键盘轻松使用表情符号快捷方式！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hu4sk6/shortmoji_emoji_shortcuts_made_easy_for_your/</link>
+      <description><![CDATA[我的项目的作用 ShortMoji 是一个轻量级的开源程序，可让您使用简单、直观的键盘快捷键在任何地方插入表情符号。受 Discord 表情符号系统的启发，它支持 126 个独特的表情符号快捷键（并且还在增加！），使您的对话和工作流程更具表现力。 只需输入一个快捷方式，如 :ne，它就会立即转换为 🤓。 ShortMoji 在后台运行，专为速度和易用性而设计。 功能包括：  通过快捷方式快速插入表情符号。 低资源消耗。 按两次 Esc 快速终止程序。 免费并且根据 GNU 许可完全可定制。  目标受众 ShortMoji 适合任何喜欢表情符号并希望以更快的方式使用它们的人。无论您是：  追求效率的开发人员。 喜欢使用表情符号的普通用户。 已经熟悉表情符号快捷方式的 Discord 爱好者。  比较 虽然还有其他表情符号工具可用，但 ShortMoji 凭借以下特点脱颖而出：  可自定义的快捷方式：Discord 用户熟悉并可适应其他用户。 开源自由：与专有软件不同，您可以根据需要修改和扩展 ShortMoji。 最小的资源影响：轻量级实用程序，不会减慢系统速度。 简单的用户体验：无需浏览菜单或 GUI - 只需输入并见证奇迹！  与系统级表情符号不同菜单或臃肿的应用程序，ShortMoji 是一个专注于快速简便的表情符号输入的解决方案。 🎉 立即试用 ShortMoji！ 在 GitHub 上下载并加入表情符号革命！ 我致力于定期使用新的表情符号和功能更新 ShortMoji。欢迎贡献 - 提交拉取请求或提出帮助它成长的想法！接下来您希望看到哪些功能或表情符号？让我知道！🚀    提交人    /u/TooFu_Wone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hu4sk6/shortmoji_emoji_shortcuts_made_easy_for_your/</guid>
+      <pubDate>Sun, 05 Jan 2025 11:11:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍 Mockstagram：Instagram 后端克隆，用于学习和试验微服务架构</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hu4dve/introducing_mockstagram_an_instagram_backend/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hu4dve/introducing_mockstagram_an_instagram_backend/</guid>
+      <pubDate>Sun, 05 Jan 2025 10:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想作为一名学生做出贡献，请指导我</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hu4bqj/i_want_to_contribute_as_a_student_please_guide_me/</link>
+      <description><![CDATA[嘿，我是一名刚刚开始第二学期的学生。我正在攻读人工智能-机器学习学士学位。我在第一年学习了 Web 开发，并希望学习开源和最佳实践以做出贡献。我对以下方面有相当的了解：Javascript、CSS、HTML 语义、tailwind 和 react。这个学期我也要学习后端。    提交人    /u/asylumkhk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hu4bqj/i_want_to_contribute_as_a_student_please_guide_me/</guid>
+      <pubDate>Sun, 05 Jan 2025 10:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 LLM 简化贡献流程</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hu33sz/simplify_contribution_process_with_llm/</link>
+      <description><![CDATA[过去几天，我一直在思考不同开源项目的贡献格式。在大多数情况下，都有相关指南，但我懒得全部阅读，只想发布该功能。 我还没有找到旨在简化此过程的现成工具，也没有在搜索引擎首页上找到类似的东西。 总体思路非常简单。作为 MVP，它可以是在 VCS 下运行的 CLI 工具：  请求贡献（路径或文本）指南并提取规则。 请求一般性描述。 扫描 git log 并分析更改/提交消息。 根据前 3 个阶段收集的数据提出澄清问题。 指出应根据贡献指南进行更改的地方 将贡献消息写入文件。  换句话说，主要目标是统一贡献流程，将此工具纳入贡献流程，并节省注意力和脑力资源以实现实际内容。 在这里，我想得到一些反馈、可能的缺点和功能请求。🙏    提交人    /u/SciPunch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hu33sz/simplify_contribution_process_with_llm/</guid>
+      <pubDate>Sun, 05 Jan 2025 09:38:13 GMT</pubDate>
+    </item>
     <item>
       <title>Pull 请求采集 - 将任何 GitHub PR 转换为 LLM 的统一文本差异</title>
       <link>https://www.reddit.com/r/opensource/comments/1htzl4r/pull_request_ingest_turn_any_github_pr_into_a/</link>
       <description><![CDATA[大家好，我想分享一下 Pull Request Ingest。这是一个很棒的工具，它接受 PR URL 并以文本形式返回其差异，从而便于 LLM 提取。它对于理解不熟悉的代码库中的大型 PR 非常有用。 Pull Request Ingest 与 Gitingest 属于同一系列的工具，后者将整个 Git 存储库消化为 LLM 的文本。Gitingest 的创作者为灵感和设计提供了帮助。 代码在 https://github.com/skapoor68/pringest 上开源。欢迎以星号形式提供反馈和支持⭐️    提交人    /u/bottled_dog   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htzl4r/pull_request_ingest_turn_any_github_pr_into_a/</guid>
       <pubDate>Sun, 05 Jan 2025 06:29:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以将任何 GitHub Repo 变成即时 Wiki！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htym6i/i_built_a_tool_to_turn_any_github_repo_into_an/</link>
-      <description><![CDATA[嘿 r/opensource  我一直对理解新 GitHub 存储库中文件和文件夹的用途有多么困难感到沮丧。因此，我构建了 OpenRepoWiki — 一种可以自动为任何 GitHub 存储库生成详细 wiki 页面的工具。无需再猜测文件/文件夹的作用或项目的结构 — 此工具会为您一一列出！ 💡 功能：  自动创建 Wiki：立即生成 repo 的目的、功能和结构的摘要概述。 代码库分析：精确定位关键文件、解释其作用，甚至使用直接 GitHub 链接突出显示代码块。 直观的摘要：非常适合学习如何构建从网站到数据库的一切 - 而无需担心代码问题。  您可以在这里尝试：https://openrepowiki.xyz/ 代码：https://github.com/daeisbae/open-repo-wiki    由    /u/Physical-Physics6613  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htym6i/i_built_a_tool_to_turn_any_github_repo_into_an/</guid>
-      <pubDate>Sun, 05 Jan 2025 05:28:18 GMT</pubDate>
     </item>
     <item>
       <title>从闭源开发转向开源并管理文档</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[这里有人想讨论即将发布的 Zulip 团队聊天版本吗？Zulip Server 10 将于 2025 年 1 月底发布，Zulip Flutter 计划于 2 月底或之后发布。 您可以通过为 Zulip Flutter 测试版应用 (Android 和 iOS) 提供反馈来提供帮助。 如果有人感兴趣，我可以详细分享我作为翻译和 DevRel（社区代表）的贡献。我花了大约 30 天的时间才引起核心团队和第三方志愿者贡献者的关注。 为什么 Zulip 开源项目很有趣？因为 Google Summer of Code。每年都有 15 或 17 名新手得到指导，并有机会获得 3000 - 6600 美元的回报。这使得 Zulip 在印度等国家广受欢迎。 有人想分享使用 Zulip 软件、与 Zulip 团队互动以及为 Zulip 存储库做出贡献的自己的经验吗？    提交人    /u/sylvestris-   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htbsrq/zulip_server_10_zulip_flutter/</guid>
       <pubDate>Sat, 04 Jan 2025 10:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在过去的几年里，我对 FOSS 社区心怀感激，感谢你们所有人，我遇到了许多适用于 Android 的 FOSS 应用程序，但我很好奇，想知道你们认为 PC（Win/Linux）上最好的免费或开源应用程序是什么，你们认为这些应用程序必不可少，或者你们喜欢什么</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htbkx4/during_last_few_years_i_have_lot_of_gratitude/</link>
-      <description><![CDATA[最近我没怎么用，只用了少数几个，比如 spotube 听音乐，notion obsidian notesnook 记笔记，proton group 等等，只是最低限度而已。考虑扩大投资组合 xd 最重要的是祝大家新年快乐，保持希望    提交人    /u/Blackbird9120   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htbkx4/during_last_few_years_i_have_lot_of_gratitude/</guid>
-      <pubDate>Sat, 04 Jan 2025 10:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求反馈：离线应用程序 + 备份想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htaq95/seeking_feedback_offline_apps_backup_idea/</link>
-      <description><![CDATA[嗨，Android 开发者们， 我非常喜欢开源项目和离线应用。然而，我们总是会遇到一个挑战，那就是备份的需求。离线应用在设计上无法直接将数据备份到 Google Drive 等云服务，因为它们缺乏互联网权限。 为了解决这个问题，我一直在考虑一个潜在的解决方案：创建一个具有互联网权限的单独配套应用来处理备份。此应用将在 Google Drive（或类似服务）上存储和检索备份文件，而主应用则保持完全离线状态，并与任何互联网访问隔离。 我很想听听您对这种方法的看法。从技术或用户体验的角度来看，这种方法是否合理？您是否预见到任何潜在的陷阱，或者有更好的方法来处理这个问题？ 期待您的反馈！    提交人    /u/paliyalyogesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htaq95/seeking_feedback_offline_apps_backup_idea/</guid>
-      <pubDate>Sat, 04 Jan 2025 09:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源虚拟旅游软件？包括高斯飞溅使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ht5uow/open_source_virtual_tour_software_gaussian_splat/</link>
-      <description><![CDATA[我正在寻找类似 3D Vista Pro 的东西，他们开始在 3D 空间中使用高斯图案进行游览。     提交人    /u/orodltro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ht5uow/open_source_virtual_tour_software_gaussian_splat/</guid>
-      <pubDate>Sat, 04 Jan 2025 04:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
