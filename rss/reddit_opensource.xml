@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 Jan 2025 15:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 18:02:22 GMT</lastBuildDate>
     <item>
       <title>重新思考“公开”开源的敌人</title>
       <link>https://www.reddit.com/r/opensource/comments/1hu619e/rethinking_enemies_of_open_source_openly/</link>
@@ -48,7 +48,7 @@
       <pubDate>Sat, 04 Jan 2025 22:51:40 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个开源 HTML 到 PDF API</title>
+      <title>我创建了一个开源 HTML 转 PDF API</title>
       <link>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</link>
       <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
