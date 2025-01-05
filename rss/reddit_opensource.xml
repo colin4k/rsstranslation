@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 04 Jan 2025 18:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:04:04 GMT</lastBuildDate>
+    <item>
+      <title>从闭源开发转向开源并管理文档</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htqrjn/going_from_closed_source_development_to_open/</link>
+      <description><![CDATA[我对编码和构建大型项目还很陌生。所以，如果这是一个愚蠢的问题，我很抱歉，但我认为这会对我有益，我可能会从那些比我更优秀的人那里得到一些额外的提示。  我目前正处于构建我认为更大规模项目的早期阶段，该项目旨在为安全团队提供分布式解决方案。它将有一个后端 API、React 前端和一个设计用于在 Windows、Linux 甚至 Mac 上运行的代理。我已经开始使用它了，比如初始代理到服务器的通信和注册、前端身份验证和代理初始管理，以及后端处理它。  这是我目前的想法和问题。现在我正在开发中，不想发布一个没有达到我设定的最低要求的东西。所以我将存储库设置为私有（技术上是所有三个存储库）。我的意图是设定一个目标，即哪些特性和功能至少是可行的，我已经将这个里程碑设置为公开并发布它。我不确定这是否是最好的，并且很想听听大家的意见。不过，有一件事让我很纠结，那就是文档。 我不确定如何实现文档。我尝试将 GitHub 页面添加到我的后端存储库，因为它将是主要存储库，这样当我处理功能时，我可以记录使用情况并防止项目结束时文档过载和忘记东西。但是，GitHub 页面仅适用于公共存储库，并且阅读更多内容后，看起来页面应该设置在自己的存储库中，而不是附加到代码存储库。你们如何处理文档以帮助他人？ 我真的很感激和了解每个人可能有的见解。    提交人    /u/KingAroan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htqrjn/going_from_closed_source_development_to_open/</guid>
+      <pubDate>Sat, 04 Jan 2025 22:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个开源 HTML 到 PDF API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</link>
+      <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
+      <pubDate>Sat, 04 Jan 2025 19:06:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源仓库：Mapbox 代币？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</link>
+      <description><![CDATA[  由    /u/The_Wanderer33  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</guid>
+      <pubDate>Sat, 04 Jan 2025 18:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>PhantomGateC99 — 现在采用纯 C99，可实现更轻的端口欺骗！</title>
       <link>https://www.reddit.com/r/opensource/comments/1htk27c/phantomgatec99_now_in_pure_c99_for_even_lighter/</link>
@@ -62,7 +83,7 @@
       <pubDate>Sat, 04 Jan 2025 13:10:21 GMT</pubDate>
     </item>
     <item>
-      <title>Gsoc 备考指导</title>
+      <title>Gsoc 备战指导</title>
       <link>https://www.reddit.com/r/opensource/comments/1htdx9g/gsoc_preparation_guidance/</link>
       <description><![CDATA[我是一名想转行从事科技行业的在职专业人士。这个月我了解到了 gsoc。我正在提升自己的 HTML、CSS、JS 和 React 技能，我认为自己在这 4 项技术上很擅长。众所周知，gsoc 将于 2 月 21 日开始。我应该开始学习 node js 和后端开发，还是不应该开始寻找 gsoc 开源项目的准备并开始做出贡献。 即使我开始准备后端，我也不需要超过一个月的时间就能进入最佳状态，因为我了解幕后的工作方式（libuv 和所有）。  对于我来说，破解 gsoc 2025 非常重要，因为这是唯一可以帮助我改善生活的机会。 请帮助我。    提交人    /u/Exact_Praline2674   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htdx9g/gsoc_preparation_guidance/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Mcnst  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ht1e6q/announcing_the_pkgsrc2024q4_branch_85th_quarterly/</guid>
       <pubDate>Sat, 04 Jan 2025 00:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的“智能”电视因缺乏更新而不再智能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hswkew/my_smart_tv_stopped_being_smart_because_lack_of/</link>
-      <description><![CDATA[&quot;说真的，上次更新是在 2018 年 1 月发布的，我很生气，因为他们的许可证上写着“进行任何独家软件修改都是违法的”。好吧，现在，我只想问一下，这里是否有人曾经承诺在智能电视上启动 Linux 软件？如果有任何来源文档，我必须说我毫不犹豫，请帮助我    提交人    /u/Melodic_Tomatillo566   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hswkew/my_smart_tv_stopped_being_smart_because_lack_of/</guid>
-      <pubDate>Fri, 03 Jan 2025 20:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想为一个非盈利性的网络应用项目寻找合作者 - 有人知道在哪个 subreddit 上发布关于这个项目的信息吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hswaak/i_want_to_find_collaborators_on_a_nonprofit_web/</link>
-      <description><![CDATA[  由    /u/jasmine_tea_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hswaak/i_want_to_find_collaborators_on_a_nonprofit_web/</guid>
-      <pubDate>Fri, 03 Jan 2025 20:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mavuika 会用 Scrolls City 套装和 R5 Earth Shaker 取代 Xiangling 吗？还是 Mavuika 会用 Obsidian Codex 套装和 R1 Blackcliff Slasher 击败 Arlecchino？使用 Genshin Impact v0.1.4 的 Loadouts 尝试这两种选择</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hsvcnn/is_mavuika_going_to_replace_xiangling_with_the/</link>
-      <description><![CDATA[各位旅行者好，新年快乐！ 2025 年为《原神》带来了一些积极的变化，尽管文物和武器的装备功能不是其中之一。像我这样的人已经多次通过游戏内调查和 subreddits 向米哈游请求此功能，但都无济于事。我和我的朋友们决定构建一个对玩家有帮助的生态系统应用程序，同时遵守米哈游的《原神》服务条款。 《原神》v0.1.4 的装备现已推出，增加了对最近发布的角色（如 Mavuika 和 Citlali）以及最近发布的武器（如 A Thousand Blazing Suns 和 Starcaller&#39;s Watch）的支持，这些武器来自 Genshin Impact v5.3 Phase 1。使用下面的链接试用这个免费且开源的应用程序，以管理可玩角色的自定义文物和武器装备。 插图  Mavuika - 工作区（来自 Fedora Linux 41 的屏幕截图） Mavuika - 结果（来自 Fedora Linux 41 的屏幕截图） Citlali - 工作区（来自 Fedora Linux 41 的屏幕截图） Citlali - 结果（来自 Fedora Linux 41 的屏幕截图） A Thousand Blazing Suns - 工作区（来自 Microsoft Windows 10 的屏幕截图） Starcaller&#39;s Watch - 工作区（来自 Microsoft Windows 10 的屏幕截图）  资源  Genshin Impact 的装备 - GitHub Genshin Impact 的装备 - PyPI 遵守 MiHoYo 的服务条款 Genshin Impact v0.1.4 的装备  可在 GNU/Linux 发行版中执行 适用于 Microsoft Windows 的可执行文件   吸引力 在允许您尝试各种构建并分享以供日后使用的同时，Genshin Impact 的 Loadouts 可让您通过向您展示您的角色配备您可能甚至没有的某些文物和武器的潜力，从而让您承担经过计算的风险。 Genshin Impact 的装备一直以来都是免费的开源软件项目，我们致力于在每次发布时提供高品质的体验。 免责声明 凭借广泛的 超过 1350 个不同的功能测试和 无可挑剔的 100% 源代码覆盖率，我们自豪地邀请来自 MiHoYo 和其他组织的审计师和分析师来审查我们的免费开源代码库。这种彻底的透明度凸显了我们对维护游戏公平性和完整性的坚定承诺。 此生态系统应用程序的用户可以完全放心，在使用此项目时，他们的帐户不会受到警告、暂停或终止。生态系统应用程序确保完全遵守服务条款和由MiHoYo为Genshin Impact制定的有关第三方软件的规定。 本项目中使用的 Genshin Impact 资产的所有权利均归 miHoYo Ltd. 和 Cognosphere Pte., Ltd. 所有。 其他财产属于其各自所有者。    提交人    /u/t0xic0der   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hsvcnn/is_mavuika_going_to_replace_xiangling_with_the/</guid>
-      <pubDate>Fri, 03 Jan 2025 19:54:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
