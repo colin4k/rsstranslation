@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 Jan 2025 06:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 09:01:42 GMT</lastBuildDate>
+    <item>
+      <title>针对人类的开源许可证，因此代码不能用于人工智能。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1husspv/open_source_license_for_humans_so_code_not_usable/</link>
+      <description><![CDATA[我的想法是，我不希望 AI 使用我的代码来生成项目或使用开源库的代码片段。 否则，我感觉我是在自掘坟墓。 ------------------------- 编辑 ---------------------- 只是为了更好地解释我的问题。 假设我创建了一个库“XZ”，并希望它是开源的、GPL 或其他什么...... 我的观点是，我希望程序员可以在任何它想要的东西中将它用作开源，甚至是专有软件。 但我不希望生成代码的 AI 用它来创建一些甚至是开源的东西。 所以对于人类创造者来说是可以的，对于 AI 创造者来说是禁止的。    提交人    /u/Perkutor_Jakuard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1husspv/open_source_license_for_humans_so_code_not_usable/</guid>
+      <pubDate>Mon, 06 Jan 2025 06:27:37 GMT</pubDate>
+    </item>
     <item>
       <title>教程 - 我构建了一个基于终端的代码演示工具，因为 PowerPoint 太麻烦了</title>
       <link>https://www.reddit.com/r/opensource/comments/1huqrgt/tuitorial_i_built_a_terminalbased_tool_for_code/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Mcnst  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hticcj/the_netbsd_core_group_statement_on_version/</guid>
       <pubDate>Sat, 04 Jan 2025 16:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤖 JARVIS - 你的人工智能开发伙伴</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htgrcg/jarvis_your_aipowered_dev_companion/</link>
-      <description><![CDATA[大家好！很高兴分享一个完全开源的项目，旨在为您的编码工作流程带来一些科幻魔法。 JARVIS 是一个 AI 助手，它可以帮助你更智能地编写代码并更快地交付 - 是的，它是 BYOK（自带密钥）！ 它的特别之处： 上下文感知代码建议 智能工作流自动化 自然语言交互 多 IDE 支持 BYOK - 使用您首选的 AI 提供商 100％开源和透明 https://github.com/danilofalcao/jarvis 专为希望他们的编码体验更像 Tony Stark 的工作室（减去爆炸😉）的开发人员打造。    提交人    /u/th3w0rld1sy0urs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htgrcg/jarvis_your_aipowered_dev_companion/</guid>
-      <pubDate>Sat, 04 Jan 2025 15:30:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
