@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 Jan 2025 15:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 21:02:08 GMT</lastBuildDate>
+    <item>
+      <title>我使用 ollama 和 PyQt6 制作了一个本地 SML 驱动的屏幕截图管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</link>
+      <description><![CDATA[        由    /u/ParsaKhaz 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</guid>
+      <pubDate>Mon, 06 Jan 2025 17:31:44 GMT</pubDate>
+    </item>
     <item>
       <title>GPLv3 数学益智游戏（OC）</title>
       <link>https://www.reddit.com/r/opensource/comments/1huzx6k/gplv3_math_puzzle_game_oc/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>Khelo 🏏 — 介绍我的新板球计分应用程序 — 数字比赛和锦标赛追踪！</title>
       <link>https://www.reddit.com/r/opensource/comments/1huxddb/khelo_introducing_my_new_cricket_scoring_app/</link>
-      <description><![CDATA[大家好， 我刚刚推出了一款板球计分应用程序，帮助球员、教练和球队经理以数字方式追踪和分析本地比赛和锦标赛。 它是 CricHeroes 的开源替代品。 使用 Khelo，您可以……   个人资料管理 — 创建和管理球员、教练和球队个人资料。 球队管理 — 组建球队、添加球员和追踪表现。 比赛数据 — 记录跑垒、三柱门、投球次数等。每场比赛的可自定义统计数据！ 表现追踪 — 使用详细的统计数据分析玩家随时间的表现。 锦标赛管理 — 轻松组织和追踪整个锦标赛。 掷骰子和比赛分析 — 记录掷骰子结果并获得更好的策略见解。  代码 — https://github.com/canopas/khelo 👉🏼 下载应用程序 — Android | iOS 我一直在寻求反馈，以改进应用并添加更多功能。因此，如果您是板球迷、球员或教练，我很乐意听听您关于如何让应用变得更好的想法！ 小请求 — 如果您喜欢这个想法或应用，请考虑在 GitHub 上给它一个星号并下载该应用。您的反馈对我们意义重大！    提交人    /u/canopassoftware   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我刚刚推出了一款板球计分应用程序，帮助球员、教练和球队经理以数字方式追踪和分析本地比赛和锦标赛。 它是 CricHeroes 的开源替代品。 使用 Khelo，您可以……   个人资料管理 — 创建和管理球员、教练和球队个人资料。 球队管理 — 组建球队、添加球员和追踪表现。 比赛数据 — 记录跑垒、三柱门、投球等等。每场比赛的可自定义统计数据！ 表现追踪 — 使用详细的统计数据分析玩家随时间的表现。 锦标赛管理 — 轻松组织和追踪整个锦标赛。 掷骰子和比赛分析 — 记录掷骰子结果并获得更好的策略见解。  代码 — https://github.com/canopas/khelo 👉🏼 下载应用程序 — Android | iOS 我一直在寻求反馈，以改进应用并添加更多功能。因此，如果您是板球迷、球员或教练，我很乐意听听您关于如何让应用变得更好的想法！ 小请求 — 如果您喜欢这个想法或应用，请考虑在 GitHub 上给它一个星号并下载该应用。您的反馈对我们意义重大！    提交人    /u/canopassoftware   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1huxddb/khelo_introducing_my_new_cricket_scoring_app/</guid>
       <pubDate>Mon, 06 Jan 2025 11:57:08 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
       <pubDate>Sat, 04 Jan 2025 19:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源仓库：Mapbox 代币？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</link>
-      <description><![CDATA[  由    /u/The_Wanderer33  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</guid>
-      <pubDate>Sat, 04 Jan 2025 18:42:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
