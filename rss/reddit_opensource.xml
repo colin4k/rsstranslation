@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 Jan 2025 21:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 03:08:52 GMT</lastBuildDate>
     <item>
-      <title>🚀 带有 Vision LLM 的内容提取器 – 开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hugjw1/content_extractor_with_vision_llm_open_source/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hugjw1/content_extractor_with_vision_llm_open_source/</guid>
-      <pubDate>Sun, 05 Jan 2025 20:34:56 GMT</pubDate>
+      <title>Linux USB 和音频流客户端 GUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1huod7u/linux_usb_and_audio_streaming_client_gui/</link>
+      <description><![CDATA[我只是想分享一个完全开源的 GUI，我开始为 Linux 开发，以便更轻松地通过网络使用 USB/音频设备。请随时查看！如果你想帮助我让我的 sphagetti 代码不那么像 sphagetti，那就太棒了！它在当前形式下功能齐全，但确实需要大量的完善/改进。 https://github.com/seastwood/usb-audio-ip-client 这是一个 Linux GUI，可以更轻松地控制 USBIP 和 Pipewire 服务。 我的具体用例：  我设计这个是因为我想在那些不允许设备直通的设备上与 Moonlght/Sunshine 进行游戏流式传输时使用多个 USB 设备和麦克风。这样，我就可以轻松使用 Steam 控制器和连接到我的 Raspberry Pie Zero 2 W 的麦克风等设备，同时在电视或手机上使用 Moonlight 进行流式传输。这还允许我使用控制器上的即按即说按钮在 Discord 上进行远程交互。     提交人    /u/nokerb   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1huod7u/linux_usb_and_audio_streaming_client_gui/</guid>
+      <pubDate>Mon, 06 Jan 2025 02:23:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moxie 儿童抚养机器人通过开源获得新生</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hum2k9/the_moxie_child_support_robot_gets_new_lease_on/</link>
+      <description><![CDATA[       由    /u/nelmaloc  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hum2k9/the_moxie_child_support_robot_gets_new_lease_on/</guid>
+      <pubDate>Mon, 06 Jan 2025 00:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>采用 Windows 引擎的 Steam 操作系统？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1huktwu/steam_os_with_the_windows_engine/</link>
+      <description><![CDATA[大家好，我们做了一个很酷的项目，我想向你们展示，我们意识到 Windows 的问题在于资源管理器，steam 处于大屏幕模式，然后 windows 在后台打开，您会收到来自 Windows 的消息等等，我们构建了一种控制台模式，用一个以大屏幕为焦点的软件替换资源管理器，它有一个混合结构，如果你关闭它，你最终会回到 Windows，我自己已经用了几个月，我们正在不断改进它，该软件可以做的远不止这些，甚至音频设置也会改变显示，并实现了一个关于如何将您的 PC 用作控制台的简单指南。请向我们发送您的反馈 :) 问候并享受游戏乐趣  https://github.com/Kosnix/GameConsoleMode   由    /u/Anxious-Secret-2613  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1huktwu/steam_os_with_the_windows_engine/</guid>
+      <pubDate>Sun, 05 Jan 2025 23:35:51 GMT</pubDate>
     </item>
     <item>
       <title>手机上有没有什么好的 Pinterest 应用替代品？</title>
@@ -76,7 +90,7 @@
       <pubDate>Sat, 04 Jan 2025 22:51:40 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个开源 HTML 转 PDF API</title>
+      <title>我创建了一个开源 HTML 到 PDF API</title>
       <link>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</link>
       <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[我真的很喜欢 Flowblade  视频编辑器，它是开源的，可在 Linux 上运行。Flowblade 的网站只提供 Linux 版本，而不是 Windows 版本。将其代码（开源、python、使用 MLT 框架进行视频编辑，该框架也是开源的）编译为 Windows 程序有多难？（我想知道为什么它的开发人员没有一个这样的程序？）。    提交人    /u/NomadJago   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htg702/how_to_make_flowblade_for_windows/</guid>
       <pubDate>Sat, 04 Jan 2025 15:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在开发开源强大的键盘重新映射和其他自动化工具时学到了什么。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htg1gw/what_i_learn_while_developing_my_opensource/</link>
-      <description><![CDATA[大家好！ 我的 Github 存储库在不到 3 个月的时间内就获得了 180 多个星。这是我的存储库：https://github.com/Fajar-RahmadJaya/KeyTik。我知道这并不多，但我想分享我在开发过程中的经验。 对我来说，市场调研很重要。除了营销，我们还需要为我们的产品增加价值。尽可能多地收集用户的反馈或研究我们的竞争对手，以找出我们需要在产品中添加什么。例如，在项目 1 上他们缺少这个，或者在项目 2 上他们有这个很好的功能。 找到与我们的项目相关的社区。研究他们想要什么并将其实现到我们的项目中。看到一些带有问号的帖子，例如“我该怎么做” &quot;是否有任何工具可以做到这一点&quot;。研究它并决定它是否适合我们的项目。 当然，我们的创造力和想法也很重要。如果你认为某件事对你的项目有好处，就记下来。 最后是一致性。不要让你的项目被抛弃，并记录你的进展。对我们的用户好一点。如果他们对我们的项目有一些想法，就和他们详细阐述。不要放弃这个想法。毕竟它是开源的，每个人都可以为它做出贡献，即使只是提供一个想法。 我希望这对你有用，如果有什么不对的地方，我很抱歉。谢谢！    提交人    /u/National_Operation14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htg1gw/what_i_learn_while_developing_my_opensource/</guid>
-      <pubDate>Sat, 04 Jan 2025 14:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>完全开源的鼠标。开箱即用的 QMK 固件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hte2a7/the_completely_opensource_mouse_qmk_firmware_out/</link>
-      <description><![CDATA[  由    /u/Candace_Owens_4225  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hte2a7/the_completely_opensource_mouse_qmk_firmware_out/</guid>
-      <pubDate>Sat, 04 Jan 2025 13:10:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
