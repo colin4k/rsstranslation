@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 Jan 2025 03:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 06:02:16 GMT</lastBuildDate>
+    <item>
+      <title>教程 - 我构建了一个基于终端的代码演示工具，因为 PowerPoint 太麻烦了</title>
+      <link>https://www.reddit.com/r/opensource/comments/1huqrgt/tuitorial_i_built_a_terminalbased_tool_for_code/</link>
+      <description><![CDATA[我的项目的作用 Tuitorial 让您可以创建在终端中运行的交互式代码教程。关键在于您只需定义一次代码，然后使用模式匹配规则创建多个突出显示不同部分的视图 - 无需再在幻灯片之间复制粘贴代码片段！功能包括：  编写代码一次，创建多个突出显示的视图 交互式分步导航 丰富的语法突出显示 支持 Markdown 甚至图像 通过 Python 或 YAML 配置 实时重新加载以实现快速迭代  这是一个快速演示：https://www.nijho.lt/post/tuitorial/tuitorial-0.4.0.mp4 运行此 YAML 格式演示文稿 pipefunc.yaml 目标受众 这是适合 0.1% 的人：  进行技术演示或研讨会 喜欢基于终端的工具 厌倦了将相同的代码复制到多个 PowerPoint 幻灯片中 想要版本控制、可复制的教程  对于希望将注意力集中在代码的特定部分同时又能保持所有内容上下文相关的教学场景，它特别有用。 与现有替代方案的比较 传统工具的问题：  PowerPoint/Google Slides：迫使您多次复制粘贴代码以突出显示不同的部分 Jupyter 笔记本：非常适合读者，但在演示过程中，文本太多，观众会分心 Spiel：虽然也是基于终端的，但更适合没有代码特定功能的一般演示 REPL：交互性强但缺乏结构化演示 许多其他链接在这个问题中，都是通用终端演示工具  Tuitorial 通过让您定义一次代码并通过突出显示规则创建多个视图来解决这些问题，同时保持在熟悉的终端环境中。 该项目最初是为了解决我自己的挫败感而提出的，当时我试图展示我构建的另一个包（pipefunc）。有时最好的工具来自于解决你自己的问题！ 查看：https://github.com/basnijholt/tuitorial    提交人    /u/basnijholt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1huqrgt/tuitorial_i_built_a_terminalbased_tool_for_code/</guid>
+      <pubDate>Mon, 06 Jan 2025 04:27:19 GMT</pubDate>
+    </item>
     <item>
       <title>Linux USB 和音频流客户端 GUI</title>
       <link>https://www.reddit.com/r/opensource/comments/1huod7u/linux_usb_and_audio_streaming_client_gui/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好！很高兴分享一个完全开源的项目，旨在为您的编码工作流程带来一些科幻魔法。 JARVIS 是一个 AI 助手，它可以帮助你更智能地编写代码并更快地交付 - 是的，它是 BYOK（自带密钥）！ 它的特别之处： 上下文感知代码建议 智能工作流自动化 自然语言交互 多 IDE 支持 BYOK - 使用您首选的 AI 提供商 100％开源和透明 https://github.com/danilofalcao/jarvis 专为希望他们的编码体验更像 Tony Stark 的工作室（减去爆炸😉）的开发人员打造。    提交人    /u/th3w0rld1sy0urs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htgrcg/jarvis_your_aipowered_dev_companion/</guid>
       <pubDate>Sat, 04 Jan 2025 15:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作适用于 Windows 的 Flowblade？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htg702/how_to_make_flowblade_for_windows/</link>
-      <description><![CDATA[我真的很喜欢 Flowblade  视频编辑器，它是开源的，可在 Linux 上运行。Flowblade 的网站只提供 Linux 版本，而不是 Windows 版本。将其代码（开源、python、使用 MLT 框架进行视频编辑，该框架也是开源的）编译为 Windows 程序有多难？（我想知道为什么它的开发人员没有一个这样的程序？）。    提交人    /u/NomadJago   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htg702/how_to_make_flowblade_for_windows/</guid>
-      <pubDate>Sat, 04 Jan 2025 15:03:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
