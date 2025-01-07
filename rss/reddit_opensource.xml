@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 Jan 2025 15:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:02:18 GMT</lastBuildDate>
+    <item>
+      <title>昨天在开源中发布了我的 saas，GitHub 上已经有超过 100 ⭐️ 了！现在需要建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvwbf8/released_my_saas_in_open_source_yesterday_and/</link>
+      <description><![CDATA[大家好！ 昨天我以开源形式发布了此工具 https://composecraft.com，并且成功发布！ 顺便说一句：这里是 GitHub：https://github.com/composecraft/composecraft 但是如何让人们继续关注该项目并获得贡献者？ 我已经创建了一个 discord 来建立一个社区，但似乎不太成功。 有什么建议吗？    提交人    /u/WesternPerspective53   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvwbf8/released_my_saas_in_open_source_yesterday_and/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:11:48 GMT</pubDate>
+    </item>
     <item>
       <title>团队任务应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我的项目的作用 Tuitorial 让您可以创建在终端中运行的交互式代码教程。关键在于您只需定义一次代码，然后使用模式匹配规则创建多个突出显示不同部分的视图 - 无需再在幻灯片之间复制粘贴代码片段！功能包括：  编写代码一次，创建多个突出显示的视图 交互式分步导航 丰富的语法突出显示 支持 Markdown 甚至图像 通过 Python 或 YAML 配置 实时重新加载以实现快速迭代  这是一个快速演示：https://www.nijho.lt/post/tuitorial/tuitorial-0.4.0.mp4 运行此 YAML 格式演示文稿 pipefunc.yaml 目标受众 这是适合 0.1% 的人：  进行技术演示或研讨会 喜欢基于终端的工具 厌倦了将相同的代码复制到多个 PowerPoint 幻灯片中 想要版本控制、可复制的教程  对于希望将注意力集中在代码的特定部分同时又能保持所有内容上下文相关的教学场景，它特别有用。 与现有替代方案的比较 传统工具的问题：  PowerPoint/Google Slides：迫使您多次复制粘贴代码以突出显示不同的部分 Jupyter 笔记本：非常适合读者，但在演示过程中，文本太多，观众会分心 Spiel：虽然也是基于终端的，但更适合没有代码特定功能的一般演示 REPL：交互性强但缺乏结构化演示 许多其他链接在这个问题中，都是通用终端演示工具  Tuitorial 通过让您定义一次代码并通过突出显示规则创建多个视图来解决这些问题，同时保持在熟悉的终端环境中。 该项目最初是为了解决我自己的挫败感而提出的，当时我试图展示我构建的另一个包（pipefunc）。有时最好的工具来自于解决你自己的问题！ 查看：https://github.com/basnijholt/tuitorial    提交人    /u/basnijholt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1huqrgt/tuitorial_i_built_a_terminalbased_tool_for_code/</guid>
       <pubDate>Mon, 06 Jan 2025 04:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux USB 和音频流客户端 GUI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huod7u/linux_usb_and_audio_streaming_client_gui/</link>
-      <description><![CDATA[我只是想分享一个完全开源的 GUI，我开始为 Linux 开发，以便更轻松地通过网络使用 USB/音频设备。请随时查看！如果你想帮助我让我的 sphagetti 代码不那么像 sphagetti，那就太棒了！它在当前形式下功能齐全，但确实需要大量的完善/改进。 https://github.com/seastwood/usb-audio-ip-client 这是一个 Linux GUI，可以更轻松地控制 USBIP 和 Pipewire 服务。 我的具体用例：  我设计这个是因为我想在那些不允许设备直通的设备上与 Moonlght/Sunshine 进行游戏流式传输时使用多个 USB 设备和麦克风。这样，我就可以轻松使用 Steam 控制器和连接到我的 Raspberry Pie Zero 2 W 的麦克风等设备，同时在电视或手机上使用 Moonlight 进行流式传输。这还允许我使用控制器上的即按即说按钮在 Discord 上进行远程交互。     提交人    /u/nokerb   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huod7u/linux_usb_and_audio_streaming_client_gui/</guid>
-      <pubDate>Mon, 06 Jan 2025 02:23:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 07 Jan 2025 15:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:02:10 GMT</lastBuildDate>
     <item>
-      <title>我们开发了一款应用程序，可让您用游戏启动器替换标准 Windows shell</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvt4n6/we_have_developed_an_app_that_allows_you_to/</link>
-      <description><![CDATA[该工具提供的功能远不止这些。它包括内置显示管理、音频管理，并集成了其他开源项目。它还具有 CSS 加载器，可实现 Steam 大画面模式的自定义设计。  我们将其命名为 GCM - 游戏机模式，这是适用于所有类型 PC 的专用游戏模式。一些用户甚至在 Windows 手持设备上使用它。虽然它尚未完全完善，但它已成为我每天玩游戏的伴侣。 我们目前正在寻找开发人员来帮助改进用户界面。理想情况下，我们的目标是过渡到 WPF，因为当前的实现基于使用 Guna 框架的 Windows 窗体。  如果有人有兴趣加入并为该项目做出贡献，请随时与我们联系 - 我们很乐意合作！ 请随时分享您的想法，感谢您花时间阅读我们的项目！    提交人    /u/Anxious-Secret-2613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvt4n6/we_have_developed_an_app_that_allows_you_to/</guid>
-      <pubDate>Tue, 07 Jan 2025 14:53:38 GMT</pubDate>
+      <title>透露得越少越好——如何通过概述经常被忽视的用户枚举漏洞来编写更好的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</link>
+      <description><![CDATA[  由    /u/ssj_aleksa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 中基于游标的多列排序分页</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</link>
+      <description><![CDATA[  由    /u/Dan6erbond2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者最佳英雄部分源代码合集 - JV 代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</guid>
+      <pubDate>Tue, 07 Jan 2025 17:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士如何秘密重塑未来代码，以及我们应该如何应对</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</link>
+      <description><![CDATA[  由    /u/nathanpeck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</guid>
+      <pubDate>Tue, 07 Jan 2025 16:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 C 和 C++ 中解析 JSON：Singleton Tax</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvuo3n/parsing_json_in_c_c_singleton_tax/</link>
+      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvuo3n/parsing_json_in_c_c_singleton_tax/</guid>
+      <pubDate>Tue, 07 Jan 2025 16:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>HipScript – 使用 WebAssembly 和 WebGPU 在浏览器中运行 CUDA</title>
+      <link>https://www.reddit.com/r/programming/comments/1hvudrg/hipscript_run_cuda_in_the_browser_with/</link>
+      <description><![CDATA[  由    /u/thelights0123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hvudrg/hipscript_run_cuda_in_the_browser_with/</guid>
+      <pubDate>Tue, 07 Jan 2025 15:50:16 GMT</pubDate>
     </item>
     <item>
       <title>（重新）定义大 O 符号</title>
@@ -62,13 +97,6 @@
       <pubDate>Tue, 07 Jan 2025 12:19:37 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个 Chrome 扩展程序，可以将 Google 搜索结果过滤到 2023 年之前，那时 AI 内容农场还没有接管技术文档搜索</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvq3l3/i_made_a_chrome_extension_that_filters_google/</link>
-      <description><![CDATA[  由    /u/olievans  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvq3l3/i_made_a_chrome_extension_that_filters_google/</guid>
-      <pubDate>Tue, 07 Jan 2025 12:13:52 GMT</pubDate>
-    </item>
-    <item>
       <title>AdminForth 发布了自己的组件库，具有顺风外观和清晰的图表</title>
       <link>https://www.reddit.com/r/programming/comments/1hvplsi/adminforth_released_own_components_library_with_a/</link>
       <description><![CDATA[  由    /u/Unerring-Ocean  提交  [链接] [评论]]]></description>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/bin_shu  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hvnckd/boosting_performance_in_a_diagramming_app_with/</guid>
       <pubDate>Tue, 07 Jan 2025 08:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 C++ 从业者的 Swift，第 12 部分：移动语义 | Doug 的编译器角</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvnbqj/swift_for_c_practitioners_part_12_move_semantics/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvnbqj/swift_for_c_practitioners_part_12_move_semantics/</guid>
-      <pubDate>Tue, 07 Jan 2025 08:54:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Static Hermes 中读取 stdin</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvmz1p/reading_stdin_in_static_hermes/</link>
-      <description><![CDATA[  由   提交  /u/guest271314   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvmz1p/reading_stdin_in_static_hermes/</guid>
-      <pubDate>Tue, 07 Jan 2025 08:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>与安全团队合作</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvme78/working_with_security_team/</link>
-      <description><![CDATA[  由    /u/FewAdhesiveness7937  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvme78/working_with_security_team/</guid>
-      <pubDate>Tue, 07 Jan 2025 07:42:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>内在维度（第一部分）：大型模型中的学习如何由一些参数驱动及其对微调的影响</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvlr20/intrinsic_dimension_part_1_how_learning_in_large/</link>
-      <description><![CDATA[  由    /u/l1cache  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvlr20/intrinsic_dimension_part_1_how_learning_in_large/</guid>
-      <pubDate>Tue, 07 Jan 2025 06:55:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
