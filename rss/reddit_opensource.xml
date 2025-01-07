@@ -4,20 +4,55 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 Jan 2025 09:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 15:28:51 GMT</lastBuildDate>
+    <item>
+      <title>团队任务应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
+      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    由    /u/hardiskz  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</guid>
+      <pubDate>Tue, 07 Jan 2025 14:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源我们的 Python 浏览器 SDK，让你可以使用 LLM 自动执行任何网站上的任务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvsbug/open_sourcing_our_python_browser_sdk_that_allows/</link>
+      <description><![CDATA[使用 Dendrite 构建 AI 代理 / 工作流，可以：  👆🏼 与元素交互 💿 提取结构化数据 🔓 在网站上进行身份验证 ↕️ 下载 / 上传文件 🚫 浏览而不被阻止  在这里查看：https://github.com/dendrite-systems/dendrite-python-sdk    提交人    /u/rivernotch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvsbug/open_sourcing_our_python_browser_sdk_that_allows/</guid>
+      <pubDate>Tue, 07 Jan 2025 14:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用哪种工具进行变更日志管理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvrvmm/which_tool_to_use_for_change_log_management/</link>
+      <description><![CDATA[需要一个变更日志管理，团队可以使用它来管理产品变更日志，想法是发布产品上的任何新内容。供用户和内部使用？ 有没有好的开源工具可以用于此？    提交人    /u/John-Doe-99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvrvmm/which_tool_to_use_for_change_log_management/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>多利巴尔 (Dolibarr) 体验</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvrate/experience_in_dolibarr/</link>
+      <description><![CDATA[您好， 我是 Value，想将 crm 迁移到 dolibarr。有人有经验和建议吗？我正在寻找反馈     由    /u/Elemis89 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvrate/experience_in_dolibarr/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:22:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>比例 22 倍</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvqyza/scale_22x/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvqyza/scale_22x/</guid>
+      <pubDate>Tue, 07 Jan 2025 13:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士正在指导开源许可</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvpauq/llms_are_directing_open_source_licensing/</link>
+      <description><![CDATA[  由    /u/ssddanbrown  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvpauq/llms_are_directing_open_source_licensing/</guid>
+      <pubDate>Tue, 07 Jan 2025 11:22:24 GMT</pubDate>
+    </item>
     <item>
       <title>有什么软件可以检测英语音频效率</title>
       <link>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</link>
       <description><![CDATA[我正在寻找任何可以为我提供音频分析的服务，例如发音分数、语法分数、词汇分数或任何其他英语标准。  我想将其集成到我的系统中，因此需要 API 或自托管系统。     提交人    /u/John-Doe-99   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</guid>
       <pubDate>Tue, 07 Jan 2025 08:53:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V3 太疯狂了！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvm5yi/deepseek_v3_is_crazy/</link>
-      <description><![CDATA[deepseek 性价比超高，我以为我花了很多钱，但其实我还没花 0.01 美元呢，不过性能简直是十四行诗，开源简直太疯狂了。    提交者    /u/ComfortableAd2723   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvm5yi/deepseek_v3_is_crazy/</guid>
-      <pubDate>Tue, 07 Jan 2025 07:25:28 GMT</pubDate>
     </item>
     <item>
       <title>如何防止开源项目名称被注册为品牌？</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[我只是想分享一个完全开源的 GUI，我开始为 Linux 开发，以便更轻松地通过网络使用 USB/音频设备。请随时查看！如果你想帮助我让我的 sphagetti 代码不那么像 sphagetti，那就太棒了！它在当前形式下功能齐全，但确实需要大量的完善/改进。 https://github.com/seastwood/usb-audio-ip-client 这是一个 Linux GUI，可以更轻松地控制 USBIP 和 Pipewire 服务。 我的具体用例：  我设计这个是因为我想在那些不允许设备直通的设备上与 Moonlght/Sunshine 进行游戏流式传输时使用多个 USB 设备和麦克风。这样，我就可以轻松使用 Steam 控制器和连接到我的 Raspberry Pie Zero 2 W 的麦克风等设备，同时在电视或手机上使用 Moonlight 进行流式传输。这还允许我使用控制器上的即按即说按钮在 Discord 上进行远程交互。     提交人    /u/nokerb   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1huod7u/linux_usb_and_audio_streaming_client_gui/</guid>
       <pubDate>Mon, 06 Jan 2025 02:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>手机上有没有什么好的 Pinterest 应用替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hug41m/any_good_alternatives_to_pinterest_app_in_phones/</link>
-      <description><![CDATA[我一直在搜索，https://alternativeto.net/software/pinterest/ 中的替代方案并没有说服我。每个人都跟我谈论 Raindrop.io，但这是一个个人书签服务，我正在寻找社交网络。所以有什么想法吗？    提交者    /u/Mateo_magic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hug41m/any_good_alternatives_to_pinterest_app_in_phones/</guid>
-      <pubDate>Sun, 05 Jan 2025 20:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的新项目：最快的图标搜索引擎🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huflqu/my_new_project_fastest_icon_search_engine/</link>
-      <description><![CDATA[几天前，我在搜索一些图标，但我厌倦了浏览不同的包。 所以，我决定把所有免费图标聚集到一个地方，对它们进行索引，并构建一个可以快速准确地找到图标的搜索引擎。 结果呢？我的新项目： 🔗 图标搜索引擎 在这个项目中，我结合了我在各个领域的知识和经验： • 倒排索引：用于快速且节省内存的搜索 • 缓冲区：减少索引大小 • Var 编码 &amp; Delta 编码：用于进一步压缩索引 • 全文搜索：为了最大限度地减少搜索错误并显示更相关的结果 • React 19：为了获得快速而现代的 UI • 脚本：自动下载和打包图标 • GitHub CI/CD：用于无缝项目构建和自动网站部署 该项目仍处于早期阶段，但我很高兴听到您的反馈和建议！ 📊 当前统计信息： •超过 37,000 个图标已编入索引 •整个索引文件只有 500 KB，因此对于搜索所有这些图标来说非常轻量级。 如果您喜欢该项目，请在 GitHub 上留下 ⭐！这激励我添加更多图标包和功能。 🔗 GitHub： 最快的图标搜索引擎 让我们一起让图标搜索更快、更高效！🚀    提交人    /u/JulyWitch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huflqu/my_new_project_fastest_icon_search_engine/</guid>
-      <pubDate>Sun, 05 Jan 2025 19:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了轻量级的 php 构建器作曲家包！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hufc4j/i_made_lightweight_php_builder_composer_package/</link>
-      <description><![CDATA[它主要为想要轻松项目其网站的人制作！ https://github.com/KornineQNetwork/Xevmium    提交人    /u/kornoxowy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hufc4j/i_made_lightweight_php_builder_composer_package/</guid>
-      <pubDate>Sun, 05 Jan 2025 19:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新思考“公开”开源的敌人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hu619e/rethinking_enemies_of_open_source_openly/</link>
-      <description><![CDATA[德意志民主共和国  -&gt; 没有民主 - 付款不当  朝鲜民主主义人民共和国  -&gt; 遵守规则，否则您就是共和国的敌人 开源 -&gt; 捐赠仅用于慈善目的，不支持任何商业模式... 医生是免费工作还是社会要求他们这样做？ 开源社区的真正敌人是当前的许可证，它阻止了对开发人员进行适当的补偿！ 软件自由正在将 MongoDB 的 SSPL 等许可证视为“开放”，因为源代码是公开可用的。 “我没有获得资助，所以其他人也应该免费工作”既不是机会，也不是为开源开发者提供良好报酬的选择。 最终，争取要求为某些用例付费的许可证是一种嫉妒行为。 在维基百科中争论哪些许可证是开源的，哪些不是未注册商标的开源术语，是一种绝望的行为，而不是改变一些东西变得更好。 我们需要改变这一点——目前的方式开源是不可持续的。 我们需要公开思考如何更好地创造和定义开源。 对于所有 Gnu 和 Apache 键盘战士，请在您咆哮之前考虑以下几点： 研究表明，一半的人会接受 50% 的低工资，以防止同事赚得比他们多。你想成为其中之一吗？ 这篇文章是讨论，而不是术语定义。   由    /u/Timbo2020  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hu619e/rethinking_enemies_of_open_source_openly/</guid>
-      <pubDate>Sun, 05 Jan 2025 12:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许我打开 Microsoft Docs 的 Android 应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hu5pqz/android_app_that_lets_me_open_microsoft_docs/</link>
-      <description><![CDATA[我有许多应用程序可以创建 Microsoft Excel 内容。是否有允许我打开和保存它们的 FOSS 应用程序。我尝试了 LibreOffice Viewer，但它不起作用（它进入循环） - excel 运行良好    提交人    /u/chribonn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hu5pqz/android_app_that_lets_me_open_microsoft_docs/</guid>
-      <pubDate>Sun, 05 Jan 2025 12:05:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
