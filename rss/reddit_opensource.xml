@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 Jan 2025 06:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 09:02:23 GMT</lastBuildDate>
+    <item>
+      <title>有什么软件可以检测英语音频效率</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</link>
+      <description><![CDATA[我正在寻找任何可以为我提供音频分析的服务，例如发音分数、语法分数、词汇分数或任何其他英语标准。  我想将其集成到我的系统中，因此需要 API 或自托管系统。     提交人    /u/John-Doe-99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvnbdu/any_software_for_checking_english_audio_efficiency/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:53:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V3 太疯狂了！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvm5yi/deepseek_v3_is_crazy/</link>
+      <description><![CDATA[deepseek 性价比超高，我以为我花了很多钱，但其实我还没花 0.01 美元呢，不过性能简直是十四行诗，开源简直太疯狂了。    提交者    /u/ComfortableAd2723   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvm5yi/deepseek_v3_is_crazy/</guid>
+      <pubDate>Tue, 07 Jan 2025 07:25:28 GMT</pubDate>
+    </item>
     <item>
       <title>如何防止开源项目名称被注册为品牌？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hvflae/how_to_prevent_an_opensource_projects_name_from/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我有许多应用程序可以创建 Microsoft Excel 内容。是否有允许我打开和保存它们的 FOSS 应用程序。我尝试了 LibreOffice Viewer，但它不起作用（它进入循环） - excel 运行良好    提交人    /u/chribonn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hu5pqz/android_app_that_lets_me_open_microsoft_docs/</guid>
       <pubDate>Sun, 05 Jan 2025 12:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想作为一名学生做出贡献，请指导我</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hu4bqj/i_want_to_contribute_as_a_student_please_guide_me/</link>
-      <description><![CDATA[嘿，我是一名刚刚开始第二学期的学生。我正在攻读人工智能-机器学习学士学位。我在第一年学习了 Web 开发，并希望学习开源和最佳实践以做出贡献。我对以下方面有相当的了解：Javascript、CSS、HTML 语义、tailwind 和 react。这个学期我也要学习后端。    提交人    /u/asylumkhk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hu4bqj/i_want_to_contribute_as_a_student_please_guide_me/</guid>
-      <pubDate>Sun, 05 Jan 2025 10:44:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 LLM 简化贡献流程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hu33sz/simplify_contribution_process_with_llm/</link>
-      <description><![CDATA[过去几天，我一直在思考不同开源项目的贡献格式。在大多数情况下，都有相关指南，但我懒得全部阅读，只想发布该功能。 我还没有找到旨在简化此过程的现成工具，也没有在搜索引擎首页上找到类似的东西。 总体思路非常简单。作为 MVP，它可以是在 VCS 下运行的 CLI 工具：  请求贡献（路径或文本）指南并提取规则。 请求一般性描述。 扫描 git log 并分析更改/提交消息。 根据前 3 个阶段收集的数据提出澄清问题。 指出应根据贡献指南进行更改的地方 将贡献消息写入文件。  换句话说，主要目标是统一贡献流程，将此工具纳入贡献流程，并节省注意力和脑力资源以实现实际内容。 在这里，我想得到一些反馈、可能的缺点和功能请求。🙏    提交人    /u/SciPunch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hu33sz/simplify_contribution_process_with_llm/</guid>
-      <pubDate>Sun, 05 Jan 2025 09:38:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
