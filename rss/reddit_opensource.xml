@@ -4,13 +4,34 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 07 Jan 2025 18:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 00:03:56 GMT</lastBuildDate>
     <item>
-      <title>昨天在开源中发布了我的 saas，GitHub 上已经有超过 100 ⭐️ 了！现在需要建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvwbf8/released_my_saas_in_open_source_yesterday_and/</link>
-      <description><![CDATA[大家好！ 昨天我以开源形式发布了此工具 https://composecraft.com，并且成功发布！ 顺便说一句：这里是 GitHub：https://github.com/composecraft/composecraft 但是如何让人们继续关注该项目并获得贡献者？ 我已经创建了一个 discord 来建立一个社区，但似乎不太成功。 有什么建议吗？    提交人    /u/WesternPerspective53   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvwbf8/released_my_saas_in_open_source_yesterday_and/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:11:48 GMT</pubDate>
+      <title>上传我在 Monogame 引擎中构建的两款游戏供所有人查看和使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</link>
+      <description><![CDATA[您好 r/opensource，我最近将我的两个已完成的游戏项目提交到了开源空间。我想这样做是因为我还没有看到任何开源的完整 MonoGame 项目，我希望上传它们可以帮助有需要的人。 Aliens! 2 ~ 街机射击游戏，对于初学者来说技术难度较大，但如果你已经对 MonoGame 有所了解，则可以作为很好的参考 -&gt; GitHub Repos / Itch.io Page The Derby ~ 非常简单、非常易于理解的赛车游戏，是我在学习初期制作的 -&gt; GitHub Repos / Itch.io 页面    由   提交  /u/Medical_Silver4229   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</guid>
+      <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于处理用户审核（网站、论坛、社交媒体……）的 SaaS，称为 OpenReport</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hw0atu/saas_for_handling_user_moderation_websites_forums/</link>
+      <description><![CDATA[大家好 :) 我想展示我用 Svelte 5 构建的第一个“SaaS”。 这是一款名为 OpenReport  的软件，可让您作为网站所有者轻松集成用户报告系统。该网站允许您创建和自定义报告表单并将其添加到您的网站（通过 iframe 或仅通过链接）。 此外，您可以连接数据库以完全控制正在创建的报告、警告和禁令。您还可以设置自动化、集成 API 并通过电子邮件邀请版主。 我使用 Svelte 5 + Tailwind + Shadcn-Svelte 构建了它，对于后端我使用了 Express.js。我不得不说，Shadcn-Svelte 让我感到惊喜！它运行良好 + 组件具有大量道具，可以进行精细调整。 请告诉我您的反馈，如果您认为这可能有用，我很想知道。我个人正在将它用于我的在线游戏。 存储库链接在网站上。    提交人    /u/therealPaulPlay   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hw0atu/saas_for_handling_user_moderation_websites_forums/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:55:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boulette：防止您意外关闭远程主机！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvyu9o/boulette_prevents_you_from_accidentally_shutting/</link>
+      <description><![CDATA[       由    /u/poulain_ght  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvyu9o/boulette_prevents_you_from_accidentally_shutting/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Contribution Dots - 为投资组合爱好者提供的免费 React 组件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hvxsmo/github_contribution_dots_a_free_react_component/</link>
+      <description><![CDATA[大家好！👋 如果您对作品集感兴趣并喜欢展示您的 GitHub 贡献，我刚刚构建了一个简单的 React 组件，您可能会感兴趣。这是一种免费、简单的方法，可以向您的作品集或项目添加 GitHub 风格的贡献/提交图表 您可以在此处查看 :) https://green-dots.vercel.app/    提交人    /u/Ok_Platypus_4475   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hvxsmo/github_contribution_dots_a_free_react_component/</guid>
+      <pubDate>Tue, 07 Jan 2025 18:11:33 GMT</pubDate>
     </item>
     <item>
       <title>团队任务应用程序</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/spunch  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1huv3xf/i_made_yet_another_habit_tracking_app_for_my_son/</guid>
       <pubDate>Mon, 06 Jan 2025 09:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>当有人将免费增值 OSS 项目的高级功能提交给 OSS 核心版本时会发生什么？（例如，当前仅在 Apache Superset 预设中的功能？）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huv0vs/what_happens_when_someone_commits_a_premium/</link>
-      <description><![CDATA[我很好奇，因为很多开源工具都采用“免费核心版本和具有高级功能的付费托管版本”的方式。例如，带有 dbt core 和 dbt cloud 的 dbt 或带有 Preset 的 Apache Superset 以及更多，如 Metabase、Grafana、AirByte、DuckDB 等。 如果有人开发了目前仅存在于付费版本中的功能并将其添加到 OSS 版本中，会发生什么情况。 一个具体的例子：Preset 添加了仪表板评论功能。他们在 Slack 上说，他们希望将其保留为 Preset 独有的。假设有人开发了类似的功能并在 Apache Superset Repo 中打开 PR。这样的 PR 会被接受吗？    提交人    /u/Schnurres   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huv0vs/what_happens_when_someone_commits_a_premium/</guid>
-      <pubDate>Mon, 06 Jan 2025 09:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对人类的开源许可证，因此代码不能用于人工智能。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1husspv/open_source_license_for_humans_so_code_not_usable/</link>
-      <description><![CDATA[我的想法是，我不希望 AI 使用我的代码来生成项目或使用开源库的代码片段。 否则，我感觉我是在自掘坟墓。 ------------------------- 编辑 ---------------------- 只是为了更好地解释我的问题。 假设我创建了一个库“XZ”，并希望它是开源的、GPL 或其他什么...... 我的观点是，我希望程序员可以在任何它想要的东西中将它用作开源，甚至是专有软件。 但我不希望生成代码的 AI 用它来创建一些甚至是开源的东西。 所以对于人类创造者来说是可以的，对于 AI 创造者来说是禁止的。    提交人    /u/Perkutor_Jakuard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1husspv/open_source_license_for_humans_so_code_not_usable/</guid>
-      <pubDate>Mon, 06 Jan 2025 06:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>教程 - 我构建了一个基于终端的代码演示工具，因为 PowerPoint 太麻烦了</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huqrgt/tuitorial_i_built_a_terminalbased_tool_for_code/</link>
-      <description><![CDATA[我的项目的作用 Tuitorial 让您可以创建在终端中运行的交互式代码教程。关键在于您只需定义一次代码，然后使用模式匹配规则创建多个突出显示不同部分的视图 - 无需再在幻灯片之间复制粘贴代码片段！功能包括：  编写代码一次，创建多个突出显示的视图 交互式分步导航 丰富的语法突出显示 支持 Markdown 甚至图像 通过 Python 或 YAML 配置 实时重新加载以实现快速迭代  这是一个快速演示：https://www.nijho.lt/post/tuitorial/tuitorial-0.4.0.mp4 运行此 YAML 格式演示文稿 pipefunc.yaml 目标受众 这是适合 0.1% 的人：  进行技术演示或研讨会 喜欢基于终端的工具 厌倦了将相同的代码复制到多个 PowerPoint 幻灯片中 想要版本控制、可复制的教程  对于希望将注意力集中在代码的特定部分同时又能保持所有内容上下文相关的教学场景，它特别有用。 与现有替代方案的比较 传统工具的问题：  PowerPoint/Google Slides：迫使您多次复制粘贴代码以突出显示不同的部分 Jupyter 笔记本：非常适合读者，但在演示过程中，文本太多，观众会分心 Spiel：虽然也是基于终端的，但更适合没有代码特定功能的一般演示 REPL：交互性强但缺乏结构化演示 许多其他链接在这个问题中，都是通用终端演示工具  Tuitorial 通过让您定义一次代码并通过突出显示规则创建多个视图来解决这些问题，同时保持在熟悉的终端环境中。 该项目最初是为了解决我自己的挫败感而提出的，当时我试图展示我构建的另一个包（pipefunc）。有时最好的工具来自于解决你自己的问题！ 查看：https://github.com/basnijholt/tuitorial    提交人    /u/basnijholt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huqrgt/tuitorial_i_built_a_terminalbased_tool_for_code/</guid>
-      <pubDate>Mon, 06 Jan 2025 04:27:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
