@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 09:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 12:02:45 GMT</lastBuildDate>
+    <item>
+      <title>🔍 使用人工智能开发软件的 4 个陷阱</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</link>
+      <description><![CDATA[  由    /u/danebalia  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>隐私被毁了，现在必须在某些网站（主要是新闻媒体）上支付“隐私加”订阅费才能拒绝 Cookie？哪个企业会想到这种暴行？“拒绝并付费”</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhxx6/privacy_is_cooked_must_now_pay_a_privacy_plus/</link>
+      <description><![CDATA[  由    /u/p0t0n  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhxx6/privacy_is_cooked_must_now_pay_a_privacy_plus/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>网格缝合：修复 3D 模型中的缝隙和裂缝的技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</link>
+      <description><![CDATA[  由    /u/innochenti  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>魔法函数</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhry3/the_magic_function/</link>
+      <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhry3/the_magic_function/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Expr Lang：用于动态配置的中心表达语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwhrs6/expr_lang_go_centric_expression_language_for/</link>
+      <description><![CDATA[  由    /u/jns111  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwhrs6/expr_lang_go_centric_expression_language_for/</guid>
+      <pubDate>Wed, 08 Jan 2025 11:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 2022 年相比，StackOverflow 失去了 77% 的新问题。这是自 2009 年 5 月以来的最低数字。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwg2px/stackoverflow_has_lost_77_of_new_questions/</link>
+      <description><![CDATA[  由    /u/hopeseekr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwg2px/stackoverflow_has_lost_77_of_new_questions/</guid>
+      <pubDate>Wed, 08 Jan 2025 09:20:59 GMT</pubDate>
+    </item>
     <item>
       <title>只想分享我在 32 位操作系统上的进展 正如标题所说，我想分享我从头开始构建 32 位操作系统的历程。到目前为止，我已经完成了一些关键组件，如内核入口、虚拟内存管理、任务切换、中断处理等。</title>
       <link>https://www.reddit.com/r/programming/comments/1hwenor/just_want_to_share_my_progress_on_my_32bit_os_as/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hw06am/the_most_important_part_of_engineering_management/</guid>
       <pubDate>Tue, 07 Jan 2025 19:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zig 风格的泛型并不适合大多数语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvyxtm/zigstyle_generics_are_not_wellsuited_for_most/</link>
-      <description><![CDATA[  由    /u/ForgotMyPassword17  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvyxtm/zigstyle_generics_are_not_wellsuited_for_most/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在非 Rust 服务器中使用 Rust 来提高性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvyl6t/using_rust_in_nonrust_servers_to_improve/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvyl6t/using_rust_in_nonrust_servers_to_improve/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用游标帮助构建应用程序时要小心</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvyj6k/be_careful_when_using_cursor_to_help_build/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvyj6k/be_careful_when_using_cursor_to_help_build/</guid>
-      <pubDate>Tue, 07 Jan 2025 18:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>透露得越少越好——如何通过概述经常被忽视的用户枚举漏洞来编写更好的代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</link>
-      <description><![CDATA[  由    /u/ssj_aleksa  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 中基于游标的多列排序分页</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</link>
-      <description><![CDATA[  由    /u/Dan6erbond2  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvw9ba/cursorbased_pagination_with_multiple_column/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者最佳英雄部分源代码合集 - JV 代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</link>
-      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:09:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
