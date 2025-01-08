@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 21:02:29 GMT</lastBuildDate>
+    <item>
+      <title>Valyent：开发人员优先的云平台。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</link>
+      <description><![CDATA[        提交人    /u/SoftwareCitadel   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwucyw/valyent_a_developersfirst_cloud_platform/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 中有没有什么小游戏？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
+      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。 有没有支持此功能的库或开源代码？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 CLI，可以在一分钟内优化你的 AI 提示</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwrt7h/i_made_a_cli_that_optimizes_your_ai_prompts_in/</link>
+      <description><![CDATA[       由    /u/jsonathan  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwrt7h/i_made_a_cli_that_optimizes_your_ai_prompts_in/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管 Strava 统计 v0.3.0 已发布🚀。支持所有类型的活动，并带来大量生活质量改进</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwr8vr/self_hosted_strava_statistics_v030_released/</link>
+      <description><![CDATA[嗨 r/opensource ! 我很高兴地宣布，我们刚刚发布了 v0.3.0！ Strava 统计数据允许您自行托管使用 Strava 数据生成的统计数据  示例：https://strava-statistics.robiningelbrecht.be 安装说明：https://github.com/robiningelbrecht/strava-statistics  v0.3.0 引入了对所有活动类型的支持 🚀 ⚠️ 此版本引入了重大变化，升级前请阅读https://github.com/robiningelbrecht/strava-statistics/wiki/Migrate-from-v0.2.x-to-v0.3.x 路线图上的变化和改进：https://github.com/robiningelbrecht/strava-statistics/issues    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwr8vr/self_hosted_strava_statistics_v030_released/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:32:42 GMT</pubDate>
+    </item>
     <item>
       <title>claude-term 介绍：一款基于终端的增强 Claude AI 交互的工具 🚀</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[  由    /u/Head-Cup-9133  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</guid>
       <pubDate>Wed, 08 Jan 2025 16:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 Instawork 的单体/微服务难题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwopx1/tackling_the_monolithmicroservices_dilemma_at/</link>
-      <description><![CDATA[       由    /u/the1024  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwopx1/tackling_the_monolithmicroservices_dilemma_at/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:50:09 GMT</pubDate>
     </item>
     <item>
       <title>我开源了我的 3D Boomer Shooter 来帮助其他人学习 Godot</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[使用 Dendrite 构建 AI 代理 / 工作流，可以：  👆🏼 与元素交互 💿 提取结构化数据 🔓 在网站上进行身份验证 ↕️ 下载 / 上传文件 🚫 浏览而不被阻止  在这里查看：https://github.com/dendrite-systems/dendrite-python-sdk    提交人    /u/rivernotch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvsbug/open_sourcing_our_python_browser_sdk_that_allows/</guid>
       <pubDate>Tue, 07 Jan 2025 14:14:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用哪种工具进行变更日志管理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvrvmm/which_tool_to_use_for_change_log_management/</link>
-      <description><![CDATA[需要一个变更日志管理，团队可以使用它来管理产品变更日志，想法是发布产品上的任何新内容。供用户和内部使用？ 有没有好的开源工具可以用于此？    提交人    /u/John-Doe-99   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvrvmm/which_tool_to_use_for_change_log_management/</guid>
-      <pubDate>Tue, 07 Jan 2025 13:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>多利巴尔 (Dolibarr) 体验</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvrate/experience_in_dolibarr/</link>
-      <description><![CDATA[您好， 我是 Value，想将 crm 迁移到 dolibarr。有人有经验和建议吗？我正在寻找反馈     由    /u/Elemis89 提交   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvrate/experience_in_dolibarr/</guid>
-      <pubDate>Tue, 07 Jan 2025 13:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>比例 22 倍</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hvqyza/scale_22x/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hvqyza/scale_22x/</guid>
-      <pubDate>Tue, 07 Jan 2025 13:04:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
