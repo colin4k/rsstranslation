@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 03:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 09:02:44 GMT</lastBuildDate>
+    <item>
+      <title>只想分享我在 32 位操作系统上的进展 正如标题所说，我想分享我从头开始构建 32 位操作系统的历程。到目前为止，我已经完成了一些关键组件，如内核入口、虚拟内存管理、任务切换、中断处理等。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwenor/just_want_to_share_my_progress_on_my_32bit_os_as/</link>
+      <description><![CDATA[  由    /u/Trick-Education7589  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwenor/just_want_to_share_my_progress_on_my_32bit_os_as/</guid>
+      <pubDate>Wed, 08 Jan 2025 07:46:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果 GPU 如此优秀，为什么我们还要使用 CPU？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwe444/if_gpus_are_so_good_why_do_we_still_use_cpus_at/</link>
+      <description><![CDATA[  由    /u/dewmal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwe444/if_gpus_are_so_good_why_do_we_still_use_cpus_at/</guid>
+      <pubDate>Wed, 08 Jan 2025 07:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>N64 CACHE 指令的妙处</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwdv80/the_genius_of_the_n64s_cache_instruction/</link>
+      <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwdv80/the_genius_of_the_n64s_cache_instruction/</guid>
+      <pubDate>Wed, 08 Jan 2025 06:54:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>动态时间线的主动 AI 访问控制</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwcvz7/proactive_ai_access_control_for_a_dynamic_timeline/</link>
+      <description><![CDATA[  由    /u/Permit_io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwcvz7/proactive_ai_access_control_for_a_dynamic_timeline/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于AI代码审查工具的说明</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwbsk5/notes_on_ai_code_review_tools/</link>
+      <description><![CDATA[  由    /u/tyaga001  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwbsk5/notes_on_ai_code_review_tools/</guid>
+      <pubDate>Wed, 08 Jan 2025 04:50:26 GMT</pubDate>
+    </item>
     <item>
       <title>简单解释一下 HashMap 和 Dictionaries</title>
       <link>https://www.reddit.com/r/programming/comments/1hw8zym/hashmaps_dictionaries_explained_simply/</link>
@@ -32,13 +67,6 @@
       <description><![CDATA[  由    /u/Puzzleheaded_Goal617  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hw5azj/mastering_gesturedetector_in_flutter/</guid>
       <pubDate>Tue, 07 Jan 2025 23:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁真正负责内部开发平台？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hw4t32/whos_really_responsible_for_an_internal_developer/</link>
-      <description><![CDATA[  由    /u/wineandcode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hw4t32/whos_really_responsible_for_an_internal_developer/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:04:05 GMT</pubDate>
     </item>
     <item>
       <title>Linux 即将支持 ASHA 助听器</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hvw96b/best_collection_of_hero_section_source_codes_for/</guid>
       <pubDate>Tue, 07 Jan 2025 17:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士如何秘密重塑未来代码，以及我们应该如何应对</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</link>
-      <description><![CDATA[  由    /u/nathanpeck  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</guid>
-      <pubDate>Tue, 07 Jan 2025 16:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 C 和 C++ 中解析 JSON：Singleton Tax</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvuo3n/parsing_json_in_c_c_singleton_tax/</link>
-      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvuo3n/parsing_json_in_c_c_singleton_tax/</guid>
-      <pubDate>Tue, 07 Jan 2025 16:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>HipScript – 使用 WebAssembly 和 WebGPU 在浏览器中运行 CUDA</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvudrg/hipscript_run_cuda_in_the_browser_with/</link>
-      <description><![CDATA[  由    /u/thelights0123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvudrg/hipscript_run_cuda_in_the_browser_with/</guid>
-      <pubDate>Tue, 07 Jan 2025 15:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>（重新）定义大 O 符号</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvsdjm/redefining_big_o_notation/</link>
-      <description><![CDATA[  由    /u/SomeHybrid0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvsdjm/redefining_big_o_notation/</guid>
-      <pubDate>Tue, 07 Jan 2025 14:17:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

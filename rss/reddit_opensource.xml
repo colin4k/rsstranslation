@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 03:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 09:02:52 GMT</lastBuildDate>
+    <item>
+      <title>当谈到移动设备上的 DAW 时，我们有哪些选择？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</link>
+      <description><![CDATA[对于专业工作，桌面版本显然是首选，但移动版本仍可用于随时随地起草一些东西，等等。 即使在 Linux 桌面上，我认为我们仍然在追赶一些生产性应用程序（使用 Gimp 及其替代品专业地编辑图片，KdenLive 仍在完善中，等等），数字音乐制作就是其中之一。但桌面上仍然存在一些选项，用于一些较轻的工作负载，这些工作负载不需要专有替代方案提供的功能，例如 LMMS 或 Zrythm。 现在，当谈到移动设备上的 DAW 时，我们有哪些选择，类似于 IOS 和 Android 上的 FL Studio Mobile 应用程序？🤔 是否有任何正在开发的活跃项目以实现这一目标？    提交人    /u/Empty-can-of-food-1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</guid>
+      <pubDate>Wed, 08 Jan 2025 08:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Rust 构建的开源时间序列数据库，用于可观察性和物联网</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</link>
+      <description><![CDATA[        提交人    /u/jeremy_feng   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</guid>
+      <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有以社区为中心的 Gotify 替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
+      <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚发布了 Notate – 提供本地法学硕士支持的开源 AI 研究助理</title>
       <link>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>团队任务应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
-      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    提交人    /u/hardiskz   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    由    /u/hardiskz  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</guid>
       <pubDate>Tue, 07 Jan 2025 14:36:29 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在寻找 Stremio 的替代方案，该方案非自托管。我想要类似 Stremio 的东西，其热门目录包括高质量的电影、电视节目和动漫，并能够自动添加我所在国家语言的字幕。  我一直很喜欢 Stremio，但使用起来很麻烦。它有缺陷，配置某些附加组件是一场噩梦，更糟糕的是，附加组件的网站现在处于离线状态。  我真的很感激任何可以替代它并且在我的 Android TV 上运行良好的建议。    提交人    /u/dorak4i   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1huzn1n/consistent_alternative_to_stremio_on_android_tv/</guid>
       <pubDate>Mon, 06 Jan 2025 13:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>指导我发布应用程序到商店</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huyszc/guide_me_with_publishing_an_app_to_store/</link>
-      <description><![CDATA[        提交人    /u/justausableusername   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huyszc/guide_me_with_publishing_an_app_to_store/</guid>
-      <pubDate>Mon, 06 Jan 2025 13:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Khelo 🏏 — 介绍我的新板球计分应用程序 — 数字比赛和锦标赛追踪！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huxddb/khelo_introducing_my_new_cricket_scoring_app/</link>
-      <description><![CDATA[大家好， 我刚刚推出了一款板球计分应用程序，帮助球员、教练和球队经理以数字方式追踪和分析本地比赛和锦标赛。 它是 CricHeroes 的开源替代品。 使用 Khelo，您可以……   个人资料管理 — 创建和管理球员、教练和球队个人资料。 球队管理 — 组建球队、添加球员和追踪表现。 比赛数据 — 记录跑垒、三柱门、投球次数等。每场比赛的可自定义统计数据！ 表现追踪 — 使用详细的统计数据分析玩家随时间的表现。 锦标赛管理 — 轻松组织和追踪整个锦标赛。 掷骰子和比赛分析 — 记录掷骰子结果并获得更好的策略见解。  代码 — https://github.com/canopas/khelo 👉🏼 下载应用程序 — Android | iOS 我一直在寻求反馈，以改进应用并添加更多功能。因此，如果您是板球迷、球员或教练，我很乐意听听您关于如何让应用变得更好的想法！ 小请求 — 如果您喜欢这个想法或应用，请考虑在 GitHub 上给它一个星号并下载该应用。您的反馈对我们意义重大！    提交人    /u/canopassoftware   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huxddb/khelo_introducing_my_new_cricket_scoring_app/</guid>
-      <pubDate>Mon, 06 Jan 2025 11:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我又制作了一款习惯追踪应用，这次是为了我的儿子！（而且它是开源的）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1huv3xf/i_made_yet_another_habit_tracking_app_for_my_son/</link>
-      <description><![CDATA[  由    /u/spunch  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1huv3xf/i_made_yet_another_habit_tracking_app_for_my_son/</guid>
-      <pubDate>Mon, 06 Jan 2025 09:17:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
