@@ -4,9 +4,37 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 09 Jan 2025 03:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 06:03:03 GMT</lastBuildDate>
     <item>
-      <title>Erlang 中的并发第六部分</title>
+      <title>华盛顿大学威胁要开除一名学生，因为他开发了一个应用程序，旨在帮助学生在关键课程满员后找到合作伙伴来交换位置</title>
+      <link>https://www.reddit.com/r/programming/comments/1hx69lz/university_of_washington_threatens_to_expell/</link>
+      <description><![CDATA[  由    /u/denc_m  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hx69lz/university_of_washington_threatens_to_expell/</guid>
+      <pubDate>Thu, 09 Jan 2025 05:58:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据世界经济论坛《2025 年就业前景报告》，软件开发人员是增长速度第三快的职业。这是真的还是一个弥天大谎？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hx5yjp/software_developers_3rd_largest_growing_job/</link>
+      <description><![CDATA[  由    /u/nathanb87  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hx5yjp/software_developers_3rd_largest_growing_job/</guid>
+      <pubDate>Thu, 09 Jan 2025 05:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>敏捷团队为何在安全方面犯错（以及如何解决）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hx5hlm/why_agile_teams_are_getting_security_wrong_and/</link>
+      <description><![CDATA[最近的研究表明，大多数敏捷团队都在努力将安全性正确集成到他们的开发周期中。快速交付的急于求成正在造成重大漏洞。 行业研究的一些关键发现： - 大多数组织优先考虑速度而不是安全措施 - 安全要求往往被事后才考虑 - 团队缺乏适当的安全培训和工具 本文提出了一些有趣的解决方案： - 从一开始就将安全要求直接嵌入到用户故事中 - 为开发人员提供即时学习模块，而不是传统培训 - 将自动安全测试集成到 CI/CD 管道中 您在敏捷团队中对安全性有什么经验？您是否亲眼见过这些问题？让我们讨论一下在不影响生产力的情况下将安全性自然地融入敏捷工作流程的实用方法。    提交人    /u/tuzzmaniandevil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hx5hlm/why_agile_teams_are_getting_security_wrong_and/</guid>
+      <pubDate>Thu, 09 Jan 2025 05:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>git-of-theseus：分析 Git 仓库随时间的增长情况</title>
+      <link>https://www.reddit.com/r/programming/comments/1hx4g00/gitoftheseus_analyze_how_a_git_repo_grows_over/</link>
+      <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hx4g00/gitoftheseus_analyze_how_a_git_repo_grows_over/</guid>
+      <pubDate>Thu, 09 Jan 2025 04:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Erlang 中的并发第 6 部分</title>
       <link>https://www.reddit.com/r/programming/comments/1hx1yyr/concurrencia_en_erlang_parte_6/</link>
       <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hx1yyr/concurrencia_en_erlang_parte_6/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/lautarolobo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hwj44n/the_manhattan_tourist_problem/</guid>
       <pubDate>Wed, 08 Jan 2025 12:29:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>一周后被 Meta 解雇：Prolog 工程师</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwj0sq/fired_from_meta_after_1_week_prolog_engineer/</link>
-      <description><![CDATA[  由    /u/deepCelibateValue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwj0sq/fired_from_meta_after_1_week_prolog_engineer/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔍 使用人工智能开发软件的 4 个陷阱</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</link>
-      <description><![CDATA[  由    /u/danebalia  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwi9t2/4_pitfalls_in_using_ai_to_build_software/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格缝合：修复 3D 模型中的缝隙和裂缝的技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</link>
-      <description><![CDATA[  由    /u/innochenti  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwhsfq/mesh_stitching_techniques_for_repairing_gaps_and/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:12:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>魔法函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1hwhry3/the_magic_function/</link>
-      <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hwhry3/the_magic_function/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:11:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
