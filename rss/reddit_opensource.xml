@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 Jan 2025 15:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 21:05:36 GMT</lastBuildDate>
+    <item>
+      <title>呼吁开发人员作为组织和贡献者参与 DWoC（开源程序）。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxleok/calling_developers_to_participate_in_dwoc_open/</link>
+      <description><![CDATA[大家好。查看 Delta Winter of Code，这是一个开源计划，旨在促进印度各大学的开源文化。查看网站 https://dwoc.io/ 并从网站加入 discord 频道以获取更多更新。顺便说一下，DWoC 的组织注册已经开始。     提交人    /u/Lucky_Advantage9768   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxleok/calling_developers_to_participate_in_dwoc_open/</guid>
+      <pubDate>Thu, 09 Jan 2025 19:47:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Readabilify：用于 Mozilla Readability 的 Node.js REST API 包装器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxl6vl/readabilify_a_nodejs_rest_api_wrapper_for_mozilla/</link>
+      <description><![CDATA[      我之前在 Github 上发布了我的第一个开源项目，我希望得到社区的一些反馈。  该应用程序源于需要为开发人员提供一种可重复使用的、与语言无关的方式，以编程方式从网页中获取相关且干净的文本内容。 希望这个项目对你们中的一些人有用！    提交人    /u/FragmentedCode   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxl6vl/readabilify_a_nodejs_rest_api_wrapper_for_mozilla/</guid>
+      <pubDate>Thu, 09 Jan 2025 19:38:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源发票生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxjgi6/open_source_invoice_builder/</link>
+      <description><![CDATA[用户友好的发票生成器，旨在帮助您快速为客户和项目创建专业发票。 https://x.com/kyrylolvov/status/1877419911003230352    提交人    /u/whynoteclair   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxjgi6/open_source_invoice_builder/</guid>
+      <pubDate>Thu, 09 Jan 2025 18:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 和 Anthropic 正在开发 AI 代理 - 因此我制作了一个开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxiw2n/google_and_anthropic_are_working_on_ai_agents_so/</link>
+      <description><![CDATA[通过集成 Ollama、Microsoft 视觉模型和 Playwright，我制作了一个简单的代理，它可以浏览网站和数据以回答您的查询。 您甚至可以定义 JSON 模式！ 演示 您可以此处查看代码。AI 选项包括 Ollama、Anthropic 或 DeepSeek。所有都运行良好，但我还没有进行深入比较。 该项目仍在开发中，欢迎发表评论和贡献！    提交人    /u/spacespacespapce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxiw2n/google_and_anthropic_are_working_on_ai_agents_so/</guid>
+      <pubDate>Thu, 09 Jan 2025 18:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HeyGen AI 开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</link>
+      <description><![CDATA[世界上有 PC 上的 HeyGen AI OpenSource 替代品吗（无需云）？    提交人    /u/antony_chacha   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</guid>
+      <pubDate>Thu, 09 Jan 2025 16:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有翻译器作为扩展程序可以通过双击进行翻译？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</link>
+      <description><![CDATA[你好！ 仅标题：我知道 ImTranslator，但有时它不起作用，并且它的所有功能都不是那么“实用”；您知道开源替代品吗？ 谢谢    提交人    /u/Embody248   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</guid>
+      <pubDate>Thu, 09 Jan 2025 16:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>一家公司如何能生产出开源产品，同时又不免费（从金钱意义上来说）？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxg0ct/how_can_a_company_make_products_which_are_open/</link>
+      <description><![CDATA[你好， 一家公司怎么能生产出开源但又不免费（从金钱意义上来说）的产品呢？ 例如 ProtonVPN、Bitwarden 就是这种情况。（这些公司被迫开源以证明它们对用户隐私是安全的） 我的想法是，如果一个软件是开源的，那么任何人都可以窃取代码并利用源代码建立自己的公司。然后，由于竞争对手太多，最初的公司就不可能赚钱了。 此外，如果该公司的竞争对手已经存在，那么他们可以窃取最初的公司的任何创新，使得最初的公司不可能在市场上占据主导地位。 所以我的问题是：是什么阻碍了我上面所说的，并允许像 Proton、Bitwarden 这样的公司存在？ 我的一个答案是，他们在行业中拥有如此大的领先优势，已经拥有如此庞大的基础设施，以至于任何竞争对手即使拥有软件的源代码也不可能赶上。 此外，公司的声誉非常重要，它可以阻止其他竞争对手获得知名度，即使该软件是开源的，他们也可以窃取它。 编辑：感谢您的所有回答！    提交人    /u/Legal_Ad_1096   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxg0ct/how_can_a_company_make_products_which_are_open/</guid>
+      <pubDate>Thu, 09 Jan 2025 16:01:21 GMT</pubDate>
+    </item>
     <item>
       <title>推荐一个好的开源 windows 酒吧软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1hxc6lu/suggest_a_good_open_source_windows_software_for/</link>
@@ -64,7 +113,7 @@
     <item>
       <title>React 中有没有什么小游戏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
-      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。是否有任何库或开源代码支持此功能？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
+      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。 有没有支持此功能的库或开源代码？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
       <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[       由    /u/m4rx  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwoncp/i_open_sourced_my_3d_boomer_shooter_to_help/</guid>
       <pubDate>Wed, 08 Jan 2025 16:47:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Foss Fest 黑客马拉松</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwo32h/foss_fest_hackathon/</link>
-      <description><![CDATA[2 月 21 日至 22 日，我们将组织一场免费的在线开源 Hackathon。 https://os-sci.com/event/foss-fest-2025-international-hackathon-14/register    提交人    /u/todaynaz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwo32h/foss_fest_hackathon/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:24:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界街机：使用世界模型玩扩散生成的游戏！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwms4n/world_arcade_play_diffusion_generated_games_using/</link>
-      <description><![CDATA[嘿 r/opensource 👋 我一直在深入研究交互式视频模型（世界模型）以及它们未来可能为游戏带来的体验。现在，您可以在基于游戏数据训练的扩散模型上模拟整个游戏 - 使用基于前几帧 + 用户输入的转换器预测下一帧，而无需游戏引擎。  Decart 的 AI Minecraft 和 Genie 2 展示了一些很酷的演示/体验，并且有几款使用这些开源模型模拟的游戏。但是没有办法轻松找到这些游戏或在本地玩它们。这就是我和朋友在假期里建造的东西！ 游戏包括：  CS:GO Mario Kart 64 Yume Nikki Minecraft 各种 Atari 街机游戏  它们都是开源的（上面的游戏也是开源的，应用程序中有它们的链接）。我们的 Github 中有适用于 Linux 的安装程序，以及一个 Windows exe，便于安装。遗憾的是，Minecraft 游戏目前仅适用于 Linux。这些游戏相当简陋，你需要一个不错的 NVIDIA GPU，但很高兴看到即使是这个早期版本的技术也能做到。 很想知道大家对它的看法！如果您认为有趣，请在下面留下您的想法的评论并在 Github 上加星。 Github：https://github.com/dweam-team/world-arcade/ 网站：https://worldarcade.gg/    提交人    /u/dweamweaver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwms4n/world_arcade_play_diffusion_generated_games_using/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>复活一个已经找到的丢失的开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwmop4/revive_a_lost_open_source_project_that_has_been/</link>
-      <description><![CDATA[大家好，开源 Redditors！我有点道德上的困惑。 早在 2008 年，有人编写并发布了一个名为 southatlantic 的 Java 游戏引擎和库（托管在 southatlantic-games.com）。很久以前，我玩过这个库，这是一个非常有趣的学习体验，使用起来很愉快（至少主观上）。但就我个人而言，在过去的 10-15 年里，生活阻碍了我，现在我又开始做更多的开源工作。但遗憾的是，在互联网档案馆进行了一些简单的挖掘后，该网站显然在 2019 年或 2020 年初的某个时候下线了——连同作者的所有示例、文档和代码。 现在，我一直有点“囤积癖”。最近，我在我的一个 NAS 设备中翻找东西，然后，我使用某种抓取工具存档了整个网站，同时存储了所有的 .jar、代码、Javadocs、实用程序、源代码 - 我的意思是所有内容。您可以从 Internet Archive 获取其中的一些内容，但它并没有获取所有内容 - 我做到了。 显然，它是由其作者根据知识共享许可（署名-非商业-相同方式共享 2.0 通用（CC BY-NC-SA 2.0））发布的，该许可似乎允许修改和重新分发用于非商业目的，我想使所有这些可用并以新名称对其进行改进，使其恢复生机，添加新功能。许可证似乎允许这样做。 但我犹豫着是否将其放回去。为什么？因为该网站及其所有作品都已消失，可能是作者出于某种原因将其删除。我想联系作者，看他们是否同意将其重新发布，但我所知道的只是一个来源名称，到目前为止，我无法发现他们的任何踪迹。 因此，尽管原作者是在允许我这样做的许可证下发布的，但我无法核实该网站及其作品的删除是故意的还是随着时间的流逝而消失。 我的问题是：如果一个开源项目拥有宽松的许可证，但可能因为某些神秘原因被作者故意破坏，那么恢复该项目的活力可以吗？  （是的，无论如何我都可以这样做，而且感觉没有跨越真正的道德界限，但我仍然想检查一下自己，因为我对此仍然有一点疑虑） 在此先谢谢大家的指导。    提交人    /u/trifleneurotic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwmop4/revive_a_lost_open_source_project_that_has_been/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel Sports Direct 爬虫和产品 CRM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwlg6q/laravel_sports_direct_crawler_and_products_crm/</link>
-      <description><![CDATA[只想分享一个免费的 Sport Direct 爬虫和用于管理产品的仪表板  https://github.com/EntroSolutions/sports-direct-crawler 它是开源的并且完全免费    提交人    /u/mbtonev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwlg6q/laravel_sports_direct_crawler_and_products_crm/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>当谈到移动设备上的 DAW 时，我们有哪些选择？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</link>
-      <description><![CDATA[对于专业工作，桌面版本显然是首选，但移动版本仍可用于随时随地起草一些东西，等等。 即使在 Linux 桌面上，我认为我们仍然在一些生产性应用程序方面迎头赶上（使用 Gimp 及其替代品专业地编辑图片，KdenLive 仍在完善中，等等），数字音乐制作就是其中之一。但对于一些较轻的工作负载，桌面上仍然存在一些选项，这些工作负载不需要专有替代方案提供的功能，例如 LMMS 或 Zrythm。 现在，当谈到移动设备上的 DAW 时，我们有哪些选择，类似于 IOS 和 Android 上的 FL Studio Mobile 应用程序？🤔 是否有任何正在开发的活跃项目以实现这一目标？    提交人    /u/Empty-can-of-food-1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</guid>
-      <pubDate>Wed, 08 Jan 2025 08:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Rust 构建的开源时间序列数据库，用于可观察性和物联网</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</link>
-      <description><![CDATA[        提交人    /u/jeremy_feng   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwei1i/opensource_timeseries_database_built_on_rust_for/</guid>
-      <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有以社区为中心的 Gotify 替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</link>
-      <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
-      <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
