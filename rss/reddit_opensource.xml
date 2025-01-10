@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 10 Jan 2025 00:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 06:02:04 GMT</lastBuildDate>
+    <item>
+      <title>用于可视化时间线、成本和团队任务的简单工具？（在线或 Mac）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxt4eb/simple_tool_for_visualizing_timelines_costs_and/</link>
+      <description><![CDATA[我正在寻找一种简单的项目管理工具，该工具允许我：  定义实现目标（完成装修）所需的所有步骤 为每个步骤分配成本（$）和时间估算。 以可视方式显示时间表，显示所需的总时间以及成本在项目过程中的累积方式。  理想情况下，该工具允许我： 定义两个团队。 为这些团队分配子目标，显示如何拆分任务可以减少总体完成时间。 开源选项会很完美，但即使只有一个团队、成本跟踪和时间表可视化的简单工具现在也可以使用。 我四处寻找，但没有找到类似的东西。有人知道符合这些要求的软件吗？    提交人    /u/Ok_Parsnip3294   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxt4eb/simple_tool_for_visualizing_timelines_costs_and/</guid>
+      <pubDate>Fri, 10 Jan 2025 01:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>不受欢迎的观点：利用人工智能寻找简单 PR 的贡献“农民”实际上可以提供帮助</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxrlkw/unpopular_opinion_contributions_farmers_using_ai/</link>
+      <description><![CDATA[这更像是一个思想实验，但请听我说完： 我们将其称为 TODO 驱动开发： 1- 在 Github 上抓取您专业领域内的开源项目 2- 查找以 #TODO 开头的评论 3- 使用 AI 查询代码库并快速找出对您来说容易的代码 4- （可选）使用 AI 实施这些更改并编写 PR 由于 TODO 是由维护人员自己在代码中引入的，因此您很可能会解决他们没有知识或时间自己解决的实际问题。 通过半自动化抓取，您可能会发现大量早于 AI 时代的唾手可得的成果。 我之所以写这些，是因为我意识到这件事很可能发生在我自己的开源仓库中，而且我实际上对此感到非常高兴它，请参阅 PR 这里 这非常元（对我来说很方便），因为我的项目是 gitingest.com，它使步骤 3 更加高效    提交人    /u/MrCyclopede   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxrlkw/unpopular_opinion_contributions_farmers_using_ai/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:20:01 GMT</pubDate>
+    </item>
     <item>
       <title>呼吁开发人员作为组织和贡献者参与 DWoC（开源程序）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hxleok/calling_developers_to_participate_in_dwoc_open/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>有没有翻译器作为扩展程序可以通过双击进行翻译？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</link>
-      <description><![CDATA[你好！ 仅标题：我知道 ImTranslator，但有时它不起作用，并且它的所有功能都不是那么“实用”；您知道开源替代方案吗？ 谢谢    提交人    /u/Embody248   [link] [评论]]]></description>
+      <description><![CDATA[你好！ 仅标题：我知道 ImTranslator，但有时它不起作用，并且它的所有功能都不是那么“实用”；您知道开源替代品吗？ 谢谢    提交人    /u/Embody248   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</guid>
       <pubDate>Thu, 09 Jan 2025 16:29:12 GMT</pubDate>
     </item>
@@ -113,7 +127,7 @@
     <item>
       <title>React 中有没有什么小游戏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
-      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。 有没有支持此功能的库或开源代码？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
+      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。是否有任何库或开源代码支持此功能？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
       <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！我很高兴与大家分享我创建的一个名为 claude-term 的工具 - 一个用于与 Claude AI 交互的基于终端的界面，它为桌面带来了一些独特的功能。 主要特点：  🗂️ 基于项目的上下文管理：将您的对话组织成项目，每个项目都有自己的上下文和系统提示 📄 实时文件同步：文件符号链接到其原始位置，这意味着对文件的任何更改都会立即反映在您的 Claude 对话中 🔄 交互式终端界面：丰富、干净的终端 UI，实现无缝对话 🎯 自定义系统提示：为每个项目设置特定的系统提示以获得定制的响应 💻 易于使用：用于管理项目和开始对话的简单 CLI 命令  这个工具的特别之处在于它处理文件的方式。当您将文件添加到项目时，它会创建指向原始文件位置的符号链接。这意味着：  您对原始文件所做的任何更改都会立即在您的 Claude 对话中可用 无需重复文件或手动同步 非常适合使用实时代码库的开发人员或编辑文档的作者  它是开源的并且易于设置 - 您只需要 Python 3.12+ 和 Anthropic API 密钥。在 GitHub 上查看：https://github.com/rss-holmes/claude-term 我很乐意听到您的想法和反馈！如果您有任何问题或改进建议，请告诉我。    提交人    /u/g11g4m3sh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwqeqr/introducing_claudeterm_a_terminalbased_tool_for/</guid>
       <pubDate>Wed, 08 Jan 2025 17:58:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 VanillaHTML（CSS 文件）| 我很乐意听取对我项目的反馈 :)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</link>
-      <description><![CDATA[  由    /u/Head-Cup-9133  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwoudp/i_created_vanillahtml_a_css_file_id_love_feedback/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开源了我的 3D Boomer Shooter 来帮助其他人学习 Godot</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hwoncp/i_open_sourced_my_3d_boomer_shooter_to_help/</link>
-      <description><![CDATA[       由    /u/m4rx  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hwoncp/i_open_sourced_my_3d_boomer_shooter_to_help/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:47:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
