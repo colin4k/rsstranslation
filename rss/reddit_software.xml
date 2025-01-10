@@ -4,11 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 09 Jan 2025 21:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:03:45 GMT</lastBuildDate>
+    <item>
+      <title>调整网络摄像头设置的好软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1hxpa8r/good_software_to_adjust_webcam_settings/</link>
+      <description><![CDATA[您好，我有一个插在电脑上的便宜网络摄像头，它在调节光线和亮度方面非常糟糕。 我想，如果我可以下载某种网络摄像头应用程序，我可以调整这些参数，也许可以获得不错的质量 =) 有什么想法吗？ 而且当然免费/非常便宜，没有水印。    提交人    /u/RyggRadsKatt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hxpa8r/good_software_to_adjust_webcam_settings/</guid>
+      <pubDate>Thu, 09 Jan 2025 22:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些正在寻找小型企业 RDP 软件的人来说，我们刚刚转向了 Splashtop</title>
+      <link>https://www.reddit.com/r/software/comments/1hxnnll/for_anyone_looking_for_small_business_rdp/</link>
+      <description><![CDATA[这不是付费推广……但我是一家中型律师事务所中唯一一名 IT 人员。他们使用 gotomypc 已有十年之久。就像其他所有软件一样，它之所以还存在，只是因为有人在 10-20 年前安装了它，但没人愿意更改它 Gotomypc 简直是垃圾。您无法将客户端（办公室 PC）上的 2 个显示器镜像到主机（家用 PC）上的 2 个显示器（直到最近 2-3 个月）。而且这样做的方法是如此不必要地隐藏，以至于它实际上是我每天接到重复电话的头号问题。其他可怕的功能是每个人都通过相同的电子邮件地址和密码登录。因此，当员工离职时，我们必须向所有人发送电子邮件并更改密码，而不是仅仅切断一个用户的连接。 基本上，这是彻头彻尾的糟糕设计理念。 我去看看我们为此付出了多少……23 台 PC 每月支付 950 美元。或每年 11,400 美元。 Splashtop 报价为 23 个许可证每年 1,700 美元。85% 的折扣哈哈。 我今天开始使用免费试用版，看看那个！它快了 3 倍，延迟完全可以忽略不计，我可以观看视频而不用担心头疼。我可以更改音频流式传输的位置...所有 gotomypc 在过去 10 年中没有或不想添加的功能。最重要的是每个用户都有自己的登录名、自定义登录 PIN，并且不需要通过网络访问它。 但最重要的是，它就像实际使用机器一样 1:1 的体验，包括能够通过 macOS 远程登录（哈哈）并同时使用 2 个屏幕（哇）。 如果有人正在寻找物美价廉的 rdp 软件，我推荐它。同样，不是付费的......有太多可供选择（我们研究了 Parsec - 一家专注于游戏 RDP 的公司，+“免费”一些需要配置服务器的开源选项）我想分享我的研究。    提交人    /u/Rockyson99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hxnnll/for_anyone_looking_for_small_business_rdp/</guid>
+      <pubDate>Thu, 09 Jan 2025 21:22:49 GMT</pubDate>
+    </item>
     <item>
       <title>当使用 Outlook 作为桌面客户端时，您的电子邮件的私密性如何？</title>
       <link>https://www.reddit.com/r/software/comments/1hxllqb/how_private_are_your_emails_when_using_outlook_as/</link>
-      <description><![CDATA[我经常在工作中使用 Outlook，我发现它完全可以满足我在家办公的需求，而不像糟糕的基于 Web 的 gmail。我已经通过 365 订阅为它付费，但我担心微软 1) 会比现在更多地对我进行分析，2) 我读到他们会将电子邮件上传到我不想要的服务器/云等。我想简单地使用它来使用我的 gmail 帐户，但使用更好的 UI，快速、干净，允许我搜索我的电子邮件并将旧邮件附加到新邮件等。（从未弄清楚如何使用 gmail。那么，它有多私密？    提交人    /u/R_12345678910   [link] [评论]]]></description>
+      <description><![CDATA[我经常在工作中使用 Outlook，我发现它完全可以满足我在家办公的需求，而不像糟糕的基于 Web 的 gmail。我已经通过 365 订阅付费了，但我担心微软 1) 会比现在更加深入地分析我，2) 我读到他们会将电子邮件上传到我不想要的服务器/云等。我想简单地使用它来使用我的 gmail 帐户，但使用更好的 UI，快速、干净，允许我搜索我的电子邮件并将旧邮件附加到新邮件等。（从未弄清楚如何使用 gmail。那么，它有多私密？    提交人    /u/R_12345678910   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hxllqb/how_private_are_your_emails_when_using_outlook_as/</guid>
       <pubDate>Thu, 09 Jan 2025 19:55:45 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>清理云端的照片</title>
       <link>https://www.reddit.com/r/software/comments/1hxbwl6/clean_photos_in_cloud/</link>
-      <description><![CDATA[您好，我使用 iCloud 备份 iPhone 上的照片，此外在 OneDrive 上也有大量照片。 当然，两者都是 meme、WhatsApp 图片、摄影等的混合体 是否有任何软件（可能带有 AI）可以对它们进行分类和排序？ 例如，检测屏幕截图或 meme 或类似的东西。 清理 10,000 多个文件真的很烦人……    提交人    /u/SortByStupid   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我使用 iCloud 备份 iPhone 上的照片，此外在 OneDrive 上也有大量照片。 当然，两者都是表情包、WhatsApp 图片、摄影等的混合体 是否有任何软件（可能带有 AI）可以对它们进行分类和排序？ 例如，检测屏幕截图或表情包或类似的东西。 清理 10,000 多个文件真的很烦人……    提交人    /u/SortByStupid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hxbwl6/clean_photos_in_cloud/</guid>
       <pubDate>Thu, 09 Jan 2025 12:40:22 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我希望有一款软件可以让你在打字时快速在摄氏和华氏之间进行转换。基本上，只需突出显示文本，它就会将转换后的温度复制到剪贴板。     提交人    /u/__Goobermensch__   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hwsx31/something_that_lets_me_convert_tofrom_celcius_and/</guid>
       <pubDate>Wed, 08 Jan 2025 19:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在联系 FastStone Capture 客户服务时遇到困难吗？这是一个很棒的程序，但我支付了许可证费用却从未收到许可证密钥。他们没有回应。</title>
-      <link>https://www.reddit.com/r/software/comments/1hwrp69/has_anybody_had_difficulty_contacting_faststone/</link>
-      <description><![CDATA[  由    /u/butter00pecan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hwrp69/has_anybody_had_difficulty_contacting_faststone/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的免费语音听写软件</title>
-      <link>https://www.reddit.com/r/software/comments/1hwlcun/best_free_voice_dictation_software/</link>
-      <description><![CDATA[我以写作/打字为生，但我的手开始失去活动能力，所以我需要在某些工作中过渡到语音听​​写。 在我攒钱购买付费选项的同时，我可以开始使用的最好的免费 Windows 软件是什么？    提交人    /u/Electrical_Love5484   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hwlcun/best_free_voice_dictation_software/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:24:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
