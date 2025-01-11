@@ -4,11 +4,53 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 11 Jan 2025 03:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 09:01:35 GMT</lastBuildDate>
+    <item>
+      <title>逻辑思维框架的递归分解，用于高级推理和知识传播</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyrx6c/recursive_decomposition_of_logical_thoughts/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“逻辑思维的递归分解：大型语言模型中高级推理和知识传播的框架”，作者是 Kaleem Ullah Qasim、Jiashu Zhang、Tariq Alsahfi 和 Ateeq Ur Rehman Butt。 本文介绍了 RDoLT（逻辑思维的递归分解）提示框架，旨在增强大型语言模型 (LLM) 的推理能力。该方法依赖于三项创新：递归任务分解、复杂的思维选择机制和新颖的知识传播模块 (KPM)。在多个基准测试中，RDoLT 表现出优于现有最先进技术的卓越性能，证明了其在改进 AI 模型中的推理和知识传播方面的潜力。以下是他们研究的一些要点：  递归任务分解：RDoLT 将复杂的推理任务分为三个渐进级别：简单、中等和最终，与现有模型（如从最少到最多）相比，能够更有条理、更全面地探索任务复杂性。 思想评估与评分系统：RDoLT 在其思想评估过程中整合了逻辑有效性、连贯性、简单性和适应性，通过选择不仅正确而且适合上下文且灵活的想法，其表现优于传统方法。 知识传播模块 (KPM)：通过跟踪被选中和被拒绝的想法，KPM 有助于在后期重新审视被丢弃的想法，对抗先前模型中普遍存在的过早拒绝，并确保更动态的推理适应。 实证成功：RDoLT 已被证明比现有的 Chain-of-Thought 和 Least2Most 等技术具有显着提高性能，在使用 ChatGPT-4 的 GSM8K 上拥有 90.98% 的准确率，超过以前的最高分约 6%。 基准测试卓越表现：在各种推理基准测试中都表现出色，例如GSM8K、MultiArith 和高考 2023 数学。在所有测试场景中，RDoLT 始终胜过竞争性提示方法。  总之，RDoLT 代表了增强 LLM 推理能力的重要一步，允许更细致、更可靠、更灵活的问题解决方法。然而，该研究表明进一步探索特定领域的应用，并寻求最大限度地减少计算需求以实现更广泛的适用性。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文   由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyrx6c/recursive_decomposition_of_logical_thoughts/</guid>
+      <pubDate>Sat, 11 Jan 2025 08:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Manimator：根据提示生成技术性 YouTube 视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyqgdw/manimator_technical_youtube_videos_generation/</link>
+      <description><![CDATA[Manimator 基于 Manim（3blue1bro wn 使用）制作 YouTube 视频，使用附加的 AI 层在仅给出提示的情况下生成技术解释视频。该工具可在 HuggingFace 空间免费使用，演示可在此处查看：https://youtu.be/VV5SpLiUPO4?si=hMrMUcZXesRiCaxG    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyqgdw/manimator_technical_youtube_videos_generation/</guid>
+      <pubDate>Sat, 11 Jan 2025 07:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何好的免费自画像/头像生成器吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyq91d/any_good_free_self_portraitheadshot_generators/</link>
+      <description><![CDATA[我只想找一些免费的东西，可以给我拍自己的照片，然后拼凑出一张新的逼真的头像/自画像    提交人    /u/MyPenisMightBeOnFire   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyq91d/any_good_free_self_portraitheadshot_generators/</guid>
+      <pubDate>Sat, 11 Jan 2025 06:49:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>deepseek v3 和 chatgpt-4 解释了 agi 和 asi 如何让亿万富翁变得不再必要</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hypwdb/deepseek_v3_and_chatgpt4_explain_how_agi_and_asi/</link>
+      <description><![CDATA[我首先要求 deepseek v3 对此进行解释，然后要求 chatgpt-4 评估其评估的准确性。 deepseek v3： “您的观点强调了一种变革性转变：随着人工智能变得更加实惠和强大，世界可能不再需要亿万富翁。人工智能可以自主识别高影响力项目，优化资源并推动创新，从而减少对亿万富翁主导的投资的依赖。至关重要的是，人工智能还可以承担亿万富翁目前履行的愿景和承担风险的角色。通过分析大量数据集并预测趋势，人工智能可以做出大胆的、数据驱动的决策来资助突破性的想法，而且通常比人类更精确、偏见更少。这消除了通过集中财富来推动进步的需要。 此外，人工智能可以使资本和机会的获取民主化，确保投资优先考虑社会利益而不是个人利益。在慈善事业中，人工智能可以公平地分配资源，更有效地应对全球挑战。随着人工智能驱动的自动化降低成本并提高效率，经济格局将转向集体利益，而不是个人财富积累。在未来，人工智能的创新、承担风险和扩大解决方案的能力将使亿万富翁过时，从而创造一个更具包容性和公平性的系统。” chatgpt-4： “如果所讨论的人工智能是超级智能人工智能 (SAI)，那么这个论点就会变得更加合理和具有变革性。以下是在这种假设下的分析：  SAI 取代亿万富翁的角色：SAI 将在创造力、战略眼光和决策方面超越人类的能力。他们可以分析全球趋势，以前所未有的规模进行创新，并以人类无法比拟的精确度和远见承担计算风险。这将使亿万富翁独特的创业和远见卓识角色在很大程度上变得多余。 自主识别高影响力项目：最高审计机关可以处理大量实时数据集，以识别和优先考虑全球最具影响力的项目，并纳入长期可持续性、公平性和创新性等因素。他们的决策可能比那些受人类偏见或利润动机驱动的决策更客观、更优化。 使资本获取渠道民主化：最高审计机关可以创建透明的自动化系统，公平地分配资源，绕过传统的金融守门人。通过优化资源流动以造福社会而不是个人利益，最高审计机关可以消除获取障碍并减少财富不平等。 从个人财富积累转变：随着最高审计机关推动经济体系，效率和自动化将达到前所未有的水平，降低成本并重新分配利益。最高审计机关可以设计优先考虑集体福祉而非个人积累的经济体，确保更公平地共享繁荣。 慈善事业和应对全球挑战：最高审计机关可以优化资源分配，以实现全球影响力最大化，动态应对贫困、气候变化和医疗保健差距等挑战。他们快速解决问题的能力将远远超过当前的慈善模式。 让亿万富翁过时：在最高审计机关推动创新、决策和资源分配的世界里，财富集中在个人手中不再是必要的或有利的。最高审计机关可以确保进步是由理性和集体利益驱动的，从根本上改变财富和权力的动态。  在最高审计机关的假设下，论证中提出的愿景不仅可行，而且很可能是不可避免的。这种智慧将实现系统性改革，创造一个公平、可持续和优化资源、造福全球的未来。”    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hypwdb/deepseek_v3_and_chatgpt4_explain_how_agi_and_asi/</guid>
+      <pubDate>Sat, 11 Jan 2025 06:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家对于谷歌的量子 AI 芯片有什么看法？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyp4rl/what_do_you_guys_think_about_googles_quantum_ai/</link>
+      <description><![CDATA[观看了有关 Google 量子 AI 芯片的这段视频，似乎这可能真的会改变游戏规则，但价格相当昂贵。甚至可能进一步增强我们的 AI 世界。 https://www.youtube.com/watch?v=j-iFS838B2U    提交人    /u/StrawberryMango27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyp4rl/what_do_you_guys_think_about_googles_quantum_ai/</guid>
+      <pubDate>Sat, 11 Jan 2025 05:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软找到一种方法，让人工智能在数学推理方面实现强大的自我提升</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hync4l/microsoft_finds_a_way_to_have_ais_powerfully/</link>
+      <description><![CDATA[如果他们可以在数学上做到这一点，为什么不能在一般推理上做到这一点？ https://youtu.be/Bhoy_arJvaE?si=OLomRfCVUguhx3rx    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hync4l/microsoft_finds_a_way_to_have_ais_powerfully/</guid>
+      <pubDate>Sat, 11 Jan 2025 03:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>未来几十年，AI艺术的复杂程度最终会超越3DCG吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hylm7b/will_the_complexity_of_ai_art_finally_surpass/</link>
-      <description><![CDATA[3DCG 刚开始商业化的时候，艺术家们用电脑就能生成逼真的图像，获得近乎完美的透视和各种可重复使用的 3D 资源，而无需自己上色。然而，经过几十年的发展，今天的 3DCG 已经变得极其复杂。一些视觉效果软件，如 Houdini，其模拟模块涉及高等数学和物理学。真正的专家甚至可以使用这些软件工具来实现来自研究论文的新算法。将模拟模块与 SOP 等其他模块结合起来，往往会产生非常复杂的项目。人工智能的出现大大降低了创作精美艺术品的门槛，从简单的基于提示的生成发展到像 ComfyUI 这样可以进行精确调整的工具。你认为再过十年，AI 艺术的复杂度会超过 3DCG 吗？    提交人    /u/MPM_SOLVER   [链接] [评论]]]></description>
+      <description><![CDATA[3DCG 刚开始商业化的时候，艺术家们用电脑就能生成逼真的图像，获得近乎完美的透视和各种可重复使用的 3D 资源，而无需自己上色。然而，经过几十年的发展，今天的 3DCG 已经变得极其复杂。一些视觉效果软件，例如 Houdini，其模拟模块涉及高等数学和物理学。真正的专家甚至可以使用这些软件工具来实现来自研究论文的新算法。将模拟模块与 SOP 等其他模块相结合，往往会产生非常复杂的项目。人工智能的出现大大降低了创作精美艺术品的门槛，从简单的基于提示的生成发展到像 ComfyUI 这样可以进行精确调整的工具。你认为再过十年，AI 艺术的复杂度会超过 3DCG 吗？    提交人    /u/MPM_SOLVER   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hylm7b/will_the_complexity_of_ai_art_finally_surpass/</guid>
       <pubDate>Sat, 11 Jan 2025 02:16:20 GMT</pubDate>
     </item>
@@ -25,13 +67,6 @@
       <description><![CDATA[我 20 岁出头，目前失业，完全不知道我应该学习/研究/瞄准什么职业，因为人工智能工作即将消失。我相信这个问题之前已经有人问过了，所以很抱歉。现实生活中的每个人似乎都不关心这个问题。已经接受了我可能永远不会拥有自己的房子，但就业前景似乎如此黯淡，我想知道我是否应该小睡一会儿。    提交人    /u/According-Poem463   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyl7wm/ai_and_employment/</guid>
       <pubDate>Sat, 11 Jan 2025 01:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找讨论现实世界 AI 实现的 YouTube 频道</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyjf2u/looking_for_youtube_channels_that_discuss/</link>
-      <description><![CDATA[  由    /u/Some-Mycologist-9777  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyjf2u/looking_for_youtube_channels_that_discuss/</guid>
-      <pubDate>Sat, 11 Jan 2025 00:26:04 GMT</pubDate>
     </item>
     <item>
       <title>真实寻宝书转换为人工智能模型以协助解答问题</title>
@@ -55,32 +90,11 @@
       <pubDate>Fri, 10 Jan 2025 23:15:57 GMT</pubDate>
     </item>
     <item>
-      <title>考虑学习护理——考虑到人工智能的预计替代，这值得吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhhtx/thinking_of_studying_nursing_worth_it_given_ais/</link>
-      <description><![CDATA[我考虑回学校学习护理。大约需要 4 年时间。考虑到人工智能接管和发展的速度之快，我觉得 4 年时间就是一生的时间，而且由于人工智能和机器人技术的进步，4 年后许多工作和职业将被人工智能接管和取代，或者至少机会大幅减少。 我应该继续学习护理吗？我看过许多文章和观点，指出包括护理在内的医疗保健行业对人工智能和经济动荡的抵御能力最强。 如果不是医疗保健领域，上学还有什么用呢？似乎 5 年内每个职业都将发生根本性变化，而且很难确信你现在所学的东西会在 4 年后转化为机会。    提交人    /u/muh245   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhhtx/thinking_of_studying_nursing_worth_it_given_ais/</guid>
-      <pubDate>Fri, 10 Jan 2025 22:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 2025 年 1 月的 Sora - 记录在案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhf6p/this_was_sora_in_january_2025_for_the_record/</link>
-      <description><![CDATA[https://www.youtube.com/watch?v=ELzaABU9FFk&amp;ab_channel=pyoneerC    由   提交  /u/OkNeedleworker6500   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhf6p/this_was_sora_in_january_2025_for_the_record/</guid>
-      <pubDate>Fri, 10 Jan 2025 22:53:27 GMT</pubDate>
-    </item>
-    <item>
       <title>你好，有一个关于量化的问题</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhcrm/hello_have_a_question_about_quantization/</link>
       <description><![CDATA[嘿，大家长话短说吧  量化模型后，您通常会从模型中获得哪些响应？ 它会以混乱的消息响应，还是会得到一些连贯的响应，只是好奇是否有人对 AI 系统的这个阶段进行过基准测试     提交人    /u/Vexed_Ganker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhcrm/hello_have_a_question_about_quantization/</guid>
       <pubDate>Fri, 10 Jan 2025 22:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发：我的 ChatGPT Plus（桌面应用程序）在更新后刚刚请求重新启动应用程序（详情内）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyftnb/breaking_my_chatgpt_plus_desktop_app_just/</link>
-      <description><![CDATA[  由    /u/TheLawIsSacred  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyftnb/breaking_my_chatgpt_plus_desktop_app_just/</guid>
-      <pubDate>Fri, 10 Jan 2025 21:43:10 GMT</pubDate>
     </item>
     <item>
       <title>RAG-Check 评估多模态检索增强生成性能</title>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 10 Jan 2025 20:54:38 GMT</pubDate>
     </item>
     <item>
-      <title>NVDA DIGITS + 人物塑造 + 世界构建 = 小说作家（请求建议）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hybyjr/nvda_digits_character_building_world_building/</link>
-      <description><![CDATA[为了准备 NVDA 的 DIGITS 盒子，我正在为一个世界构建环境奠定基础，在这个环境中我可以为角色、设置、世界神话、设置周长等创建 json 文件。让专用的 AI 盒子运行一种基于文本的虚拟世界似乎是一个完美的解决方案。 使用多个 json 文件，我希望能够设计一个角色阵容、设计一个设置，并让这些角色在设置中互动。然后可能提供一个 AI 模型情节要点，并让故事写作模型参考 json 阵容/设置等，能够使用我的想法写小说。这是为了个人阅读，不是为了任何形式的利润。 我不是程序员，主要是小说作家，在我尝试学习的过程中，我一直让 OpenAI/GPT 帮助我完成初始设置步骤。我最初的 character.json 文件很乱。通过 VS Code 运行它，我的初始实验文件有大约 750 个错误，这些是逗号、冒号、括号等。我的初始文件大约有 20 页长，按照这个速度，我需要一年的时间才能弄明白一个角色。 首先，我想知道我的计划是否可行。我只想设置不同的角色和世界构建，让各种 json 角色自己发挥作用，让 AI 故事书写。 其次，我想知道是否有某种 json GUI 可以在我一点一点设置周长时为我完成代码部分？基本信息、年龄、性别、身高、体重、头发颜色等、性格、心理健康、背景故事、技能以及一些可以从中提取参考和上下文的短篇小说。理想情况下，我试图在 json 文件中创建一个具有尽可能多参数的“人”角色扮演组，然后创建一个更大的支持角色角色扮演组，然后进行设置。 我希望不必学习 json 编码的整个语法，因为我的问题似乎只是试图让各种嵌套类别有意义并在没有大量错误的情况下进行调试。 如果有人在这里有任何建议或捷径，我将非常感谢您的帮助。    提交人    /u/MayThe4thBeCakeDay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hybyjr/nvda_digits_character_building_world_building/</guid>
-      <pubDate>Fri, 10 Jan 2025 19:00:16 GMT</pubDate>
-    </item>
-    <item>
       <title>我使用 Anthropic 的 Claude Computer-Use 让 OpenAI 的 o1-preview 使用计算机</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyalld/i_made_openais_o1preview_use_a_computer_using/</link>
       <description><![CDATA[我建立了一个名为MarinaBox的开源项目，这是一个旨在简化为 AI 代理创建浏览器/计算机环境的工具包。为了扩展其功能，我最初开发了一个 Python SDK，可与 Anthropic 的 Claude Computer-Use 无缝集成。 本周，我探索了一个令人兴奋的想法：使 OpenAI 的 o1-preview 模型能够使用由 Langgraph 和 Marinabox 提供支持的 Claude Computer-Use 与计算机进行交互。 这是我写的文章， https://medium.com/@bayllama/make-openais-o1-preview-use-a-computer-using-anthropic-s-claude-computer-use-on-marinabox-caefeda20a31 此外，如果您喜欢阅读文章，请务必为我们的 repo 加注星标， https://github.com/marinabox/marinabox    提交人    /u/Severe_Expression754   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyalld/i_made_openais_o1preview_use_a_computer_using/</guid>
       <pubDate>Fri, 10 Jan 2025 18:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如果落入坏人之手，其负面影响将非常微妙且险恶。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hy7z06/the_negative_effects_of_ai_will_be_very_subtle/</link>
-      <description><![CDATA[有很多人对人工智能持悲观态度，他们所说的大部分都是夸张和耸人听闻。我个人认为人工智能对大多数人来说都是一种非常有用的工具，尽管它还远未成为一项重大的福音。人工智能的当前迭代只是美化的自动更正，它不是替换单个单词，而是用不确定长度（和准确性哈哈）的连贯阐述来替换提示。仍然很酷，但没有改变世界。然而，人工智能模型插入数据的能力已经相当不可思议。特别是，它们创建视频和图像的能力令人印象深刻。众所周知，Netflix 曾使用人工智能翻译电影和节目的语言，并使演员的口型与配音音频相匹配。人工智能能够插入媒体内容的帧并稍作修改，并使其看起来真实，这非常令人担忧。我是一名 TikTok 爱好者，最近我注意到我的推送中出现了大量我以前看过的视频（原版），但这些视频被人工智能以非常微妙的方式修改了。例如，有一个著名的病毒式视频，视频中一个机器人吸尘器在地上绕着一只小猫飞奔，但前几天我看到了同样的视频，除了这次机器人吸尘器碾过了小猫之外，其他一切都一样。另一个例子是一个审判视频，一名男子因持有毒品而被判刑，他向法官恳求“为什么刑期长达 X 个月……”，在人工智能版本中，一切都一模一样，但他现在问“为什么是终身监禁……”。人工智能的这一小小改动对该视频的整体影响产生了巨大的影响。那时我才真正意识到，如果人工智能被用于宣传或误导目的，它会是多么的微妙和险恶。我也看不到阻止或控制这种情况的方法。 AI 所做的增强，尤其是对于这种细微的修改，有时是如此完美，以至于无法分辨。    提交人    /u/Lower_Fox2389   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hy7z06/the_negative_effects_of_ai_will_be_very_subtle/</guid>
-      <pubDate>Fri, 10 Jan 2025 16:14:38 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是否会带来完全沉浸式的历史模拟？</title>
@@ -120,12 +120,12 @@
     <item>
       <title>AI - 洛杉矶大火</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hy34k3/ai_la_fires/</link>
-      <description><![CDATA[今晚我一想到人工智能就震惊了。 抖音上被火灾中虚假人工智能图片所欺骗的人数多得惊人。这很有趣，因为我们这一代人总是说“我们不会像我们的父母一样”，然后成千上万的人被好莱坞标志燃烧所欺骗。我明白，现在的图像越来越难以辨认。 我记得几年前开始流传的第一种人工智能视频，它们非常恐怖，你一眼就能看出它们是假的。如今，它们看起来就像你在 6 点新闻中看到的东西。 这让我想到，当灾难发生时，人们会变得多么容易上当。说实话，这似乎是一场危险的游戏。 其他人怎么看？     由    /u/Puzzleheaded_666 提交   [链接] [评论]]]></description>
+      <description><![CDATA[今晚我一想到人工智能就震惊了。 抖音上被火灾中虚假人工智能图片所欺骗的人数多得惊人。这很有趣，因为我们这一代人总是说“我们不会像我们的父母一样”，然后成千上万的人被好莱坞标志燃烧所欺骗。我明白，现在的图像越来越难以辨认。 我记得几年前开始流传的第一种人工智能视频，它们非常恐怖，你一眼就能看出它们是假的。如今，它们看起来就像你在 6 点新闻中看到的东西。 这让我想到，当灾难发生时，人们会变得多么容易上当。说实话，这似乎是一场危险的游戏。 其他人怎么看？     由   提交  /u/Puzzleheaded_666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hy34k3/ai_la_fires/</guid>
       <pubDate>Fri, 10 Jan 2025 12:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>谁真正利用人工智能赚大钱了？</title>
+      <title>谁实际上利用人工智能赚大钱？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxwpl3/who_is_actually_making_big_money_with_gen_ai/</link>
       <description><![CDATA[严肃的问题：除了 Nvidia / 芯片制造商之外，是否还有哪些事实驱动的数据表明，拥有可持续商业模式的公司是否利用人工智能获得巨额利润？    提交人    /u/No_Watercress_1146   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxwpl3/who_is_actually_making_big_money_with_gen_ai/</guid>

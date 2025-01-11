@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 11 Jan 2025 03:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 09:02:11 GMT</lastBuildDate>
+    <item>
+      <title>免费安全工具（影子IT检测项目）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hypec5/free_security_toolshadow_it_detection_project/</link>
+      <description><![CDATA[我经常看到用户在 IT 部门无法看到的情况下注册 GitHub 或 Dropbox 等有风险的服务。 由于这可能是一个巨大的风险，所以我想启动一个所有 m365 管理员都可以利用的开源计划。 目前，一个模块使用电子邮件日志和一组检测规则来记录组织中的哪个用户可能正在使用哪些 SaaS 服务。 希望这对某些人有所帮助 https://github.com/Black-Chamber/BlackChamberEmailMonitor 整个 Black Chamber 项目也旨在免费和开源，所以如果您有兴趣解决这个问题，请随时加入    提交人    /u/rwxfortyseven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hypec5/free_security_toolshadow_it_detection_project/</guid>
+      <pubDate>Sat, 11 Jan 2025 05:52:07 GMT</pubDate>
+    </item>
     <item>
       <title>向我的项目添加更多测试代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1hylwjq/adding_more_test_code_to_my_project/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>LinkTaco - 开源社交书签和链接管理</title>
       <link>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</link>
-      <description><![CDATA[大家好。我们想告诉大家，我们全新的 100% 开源社交书签/链接管理平台已经上线，可以免费使用。它叫做 LinkTaco，基本上是 Pinboard、Bitly 和 Linktree 的合体。它具有相当多的附加功能，如自定义域、分析、协作、外部集成、完整的 GraphQL API 等。 您可以在此处查看项目源代码、邮件列表、票证等： https://code.netlandish.com/~netlandish/links 它是用 Go 和纯 html/css（使用 Chota 迷你框架）和尽可能少的 JS 编写的。 公告博客文章在这里： https://linktaco.com/blog/announcing-link-taco.html 希望得到一些初步反馈！ 谢谢！    由    /u/MexicanPete  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我们想告诉大家，我们全新的 100% 开源社交书签/链接管理平台已经上线，可以免费使用。它叫做 LinkTaco，基本上是 Pinboard、Bitly 和 Linktree 的合体。它具有相当多的附加功能，如自定义域、分析、协作、外部集成、完整的 GraphQL API 等。 您可以在此处查看项目源代码、邮件列表、票证等： https://code.netlandish.com/~netlandish/links 它是用 Go 和纯 html/css（使用 Chota 迷你框架）编写的，并且尽可能少使用 JS。 公告博客文章在这里： https://linktaco.com/blog/announcing-link-taco.html 希望得到一些初步反馈！ 谢谢！    由    /u/MexicanPete  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</guid>
       <pubDate>Fri, 10 Jan 2025 12:53:19 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[通过集成 Ollama、Microsoft 视觉模型和 Playwright，我制作了一个简单的代理，它可以浏览网站和数据以回答您的查询。 您甚至可以定义 JSON 模式！ 演示 您可以此处查看代码。AI 选项包括 Ollama、Anthropic 或 DeepSeek。所有都运行良好，但我还没有进行深入比较。 该项目仍在开发中，欢迎发表评论和贡献！    提交人    /u/spacespacespapce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hxiw2n/google_and_anthropic_are_working_on_ai_agents_so/</guid>
       <pubDate>Thu, 09 Jan 2025 18:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HeyGen AI 开源替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</link>
-      <description><![CDATA[世界上有 PC 上的 HeyGen AI OpenSource 替代品吗（无需云）？    提交人    /u/antony_chacha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:39:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
