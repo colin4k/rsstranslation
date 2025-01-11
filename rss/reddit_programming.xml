@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 10 Jan 2025 18:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:03:54 GMT</lastBuildDate>
+    <item>
+      <title>注意 Makefile 的影响 - ENOSUCHBLOG</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyhzdb/be_aware_of_the_makefile_effect_enosuchblog/</link>
+      <description><![CDATA[  由    /u/Smooth-Zucchini4923  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyhzdb/be_aware_of_the_makefile_effect_enosuchblog/</guid>
+      <pubDate>Fri, 10 Jan 2025 23:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件架构的注意事项</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyh94s/my_dos_and_donts_of_software_architecture/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyh94s/my_dos_and_donts_of_software_architecture/</guid>
+      <pubDate>Fri, 10 Jan 2025 22:46:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Racket 超越语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyg3q9/racket_beyond_languages/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyg3q9/racket_beyond_languages/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:55:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nevalang v0.30 - NextGen 语言（现在具有交叉编译功能）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyg2xe/nevalang_v030_nextgen_language_now_with/</link>
+      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyg2xe/nevalang_v030_nextgen_language_now_with/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费让你的 Github 个人资料被吐槽 💀</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyg1sc/get_your_github_profile_roasted_for_free/</link>
+      <description><![CDATA[  由    /u/New-Pea-19  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyg1sc/get_your_github_profile_roasted_for_free/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种轻量级的命令行工具，旨在帮助您有效地管理任何文本文件中的 markdown 样式复选框。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyf4qx/a_lightweight_commandline_tool_designed_to_help/</link>
+      <description><![CDATA[  由    /u/Elliot40404  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyf4qx/a_lightweight_commandline_tool_designed_to_help/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 kwaak 发布 kwaak - 一款开源应用程序，可直接从您的终端并行运行一组自主编码代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyckuj/using_kwaak_to_release_kwaak_an_opensource_app/</link>
+      <description><![CDATA[  由    /u/timonvonk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyckuj/using_kwaak_to_release_kwaak_an_opensource_app/</guid>
+      <pubDate>Fri, 10 Jan 2025 19:25:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应式编程被认为是有害的</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyc33x/reactive_programming_considered_harmful/</link>
+      <description><![CDATA[  由    /u/VasiliyZukanov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyc33x/reactive_programming_considered_harmful/</guid>
+      <pubDate>Fri, 10 Jan 2025 19:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>WorstFit：揭开 Windows ANSI 中隐藏的变换器的面纱！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hyalci/worstfit_unveiling_hidden_transformers_in_windows/</link>
+      <description><![CDATA[  由    /u/bakaspore  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hyalci/worstfit_unveiling_hidden_transformers_in_windows/</guid>
+      <pubDate>Fri, 10 Jan 2025 18:03:47 GMT</pubDate>
+    </item>
     <item>
       <title>软件开发 AI 鸿沟：队友 vs 同伴</title>
       <link>https://www.reddit.com/r/programming/comments/1hy960n/software_development_ai_divide_teammate_vs/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hy42f2/cost_vs_stability_in_a_cloud_environment_cat/</guid>
       <pubDate>Fri, 10 Jan 2025 13:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 JVM 垃圾收集器性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1hy2cbi/understanding_jvm_garbage_collector_performance/</link>
-      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hy2cbi/understanding_jvm_garbage_collector_performance/</guid>
-      <pubDate>Fri, 10 Jan 2025 11:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>pgPDF：Postgres 的 pdf 类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1hy2bho/pgpdf_pdf_type_for_postgres/</link>
-      <description><![CDATA[  由    /u/Florents  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hy2bho/pgpdf_pdf_type_for_postgres/</guid>
-      <pubDate>Fri, 10 Jan 2025 11:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>当 DRY 出错时</title>
-      <link>https://www.reddit.com/r/programming/comments/1hy24kc/when_dry_goes_wrong/</link>
-      <description><![CDATA[  由    /u/EightLines_03  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hy24kc/when_dry_goes_wrong/</guid>
-      <pubDate>Fri, 10 Jan 2025 11:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Spring WebFlux 和 Cassandra 进行反应式编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1hy153p/programación_reactiva_con_spring_webflux_y/</link>
-      <description><![CDATA[ 提交人   /u/emanuelpeg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hy153p/programación_reactiva_con_spring_webflux_y/</guid>
-      <pubDate>Fri, 10 Jan 2025 10:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>边泡茶边写 AI 代码：AI 辅助编程实用指南（使用 YOLO 模式下的 Cursor Composer Agent）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hy12fn/making_tea_while_ai_codes_a_practical_guide_to/</link>
-      <description><![CDATA[  由    /u/ViktorVaczi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hy12fn/making_tea_while_ai_codes_a_practical_guide_to/</guid>
-      <pubDate>Fri, 10 Jan 2025 09:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何以 3 美元的价格自行托管 Supabase</title>
-      <link>https://www.reddit.com/r/programming/comments/1hy0533/how_to_selfhost_supabase_for_3/</link>
-      <description><![CDATA[  由    /u/thewritingwallah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hy0533/how_to_selfhost_supabase_for_3/</guid>
-      <pubDate>Fri, 10 Jan 2025 08:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>过时的信息如何隐藏在 LLM 令牌生成概率中并造成逻辑不一致</title>
-      <link>https://www.reddit.com/r/programming/comments/1hxzuhu/how_outdated_information_hides_in_llm_token/</link>
-      <description><![CDATA[  由    /u/kidney-beans  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hxzuhu/how_outdated_information_hides_in_llm_token/</guid>
-      <pubDate>Fri, 10 Jan 2025 08:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comptime 作为配置</title>
-      <link>https://www.reddit.com/r/programming/comments/1hxx44v/comptime_as_configuration/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hxx44v/comptime_as_configuration/</guid>
-      <pubDate>Fri, 10 Jan 2025 05:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 Chip-8 模拟器：运行程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1hxww8r/building_a_chip8_emulator_running_programs/</link>
-      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hxww8r/building_a_chip8_emulator_running_programs/</guid>
-      <pubDate>Fri, 10 Jan 2025 05:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
