@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 11 Jan 2025 12:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 18:02:39 GMT</lastBuildDate>
+    <item>
+      <title>您认为开源但受地区限制的软件是免费的吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</link>
+      <description><![CDATA[2022 年，ClamAV 禁止从俄罗斯 IP 地址访问任何网站或更新，并采取措施使 VPN 的使用复杂化以绕过该限制。不久之后，俄语 ClamAV 维基百科页面上出现了以下段落：  它是根据 GNU 通用公共许可证发布的，但它不是自由 [如自由] 软件，因为开发人员限制了下载发行版的能力。  似乎指的是自由软件定义中的自由 0。但是，该项目的分支经过微调以允许从俄罗斯访问是合法的。英文维基百科仍然认为 ClamAV 是免费的。 您是否认为阻止按地区分发的软件是免费的？    提交人    /u/Qwert-4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</guid>
+      <pubDate>Sat, 11 Jan 2025 14:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[开源] 我建立了一个 AI 拼图基准，挑战您对隐藏字节转换进行逆向工程 - 欢迎反馈！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hyuhgu/open_source_i_built_an_ai_puzzle_benchmark_that/</link>
+      <description><![CDATA[嘿/r/OpenSource！  我一直在研究一个由 MIT 授权的项目，名为 **GTA-Benchmark** - 这是一个谜题平台，通过让你对隐藏的 64 字节转换进行逆向工程来测试 AI（和人类！）推理能力。 **为什么它很有趣**： • 每个谜题都会提供 20 多个示例输入输出对（和 20 个隐藏测试） • 你提交一个 Python 函数来复制转换 • 分数显示在实时排行榜上 • 整个项目都是开源的，包括服务器、Docker 沙盒和谜题生成脚本 **我的期望**： • 关于谜题界面的一般反馈 - 它有意义吗？ • 对基于 Docker 的提交过程的看法 - 简单还是令人困惑？ • 关于谜题难度进展或新谜题的建议想法 **链接**： • GitHub：https://github.com/Habitante/gta-benchmark • 现场演示：http://138.197.66.242:5000/ 任何反馈或建议都非常感谢。谢谢，如果您发现任何需要修复或改进的地方，请随时打开问题或 PR！    提交人    /u/habitante   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hyuhgu/open_source_i_built_an_ai_puzzle_benchmark_that/</guid>
+      <pubDate>Sat, 11 Jan 2025 12:03:44 GMT</pubDate>
+    </item>
     <item>
       <title>c99extend——我的扩展 C99 库（线程、队列、UTF-8 等）</title>
       <link>https://www.reddit.com/r/opensource/comments/1hyuf17/c99extend_my_extended_c99_library_threads_queues/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>流纹岩！黑曜石的开源替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</link>
-      <description><![CDATA[大家好！ Rhyolite 是一款简单直观的文本编辑器，用于做笔记，灵感来自 Obsidian！这是一款基于 Tauri 的应用程序，后端使用 Rust，前端使用 Svelte。Rhyolite 旨在成为实用的文本编辑器，专注于提供高效、无干扰的笔记记录体验。 项目状态 该项目仍在开发中，仅积极开展了 4 周。尽管还处于早期阶段，Rhyolite 已经支持：  自动保存：确保您的笔记永不丢失。 标签：用于无缝多任务处理。 Markdown 支持。 图像插入：轻松将视觉元素添加到您的笔记中。 截至目前，该项目正在进行大规模更新！  Github Repo：https://github.com/RedddFoxxyy/Rhyolite    提交人    /u/Lopsided-Tough-9580   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ Rhyolite 是一款简单直观的文本编辑器，用于做笔记，灵感来自 Obsidian！这是一款基于 Tauri 的应用程序，后端使用 Rust，前端使用 Svelte。Rhyolite 旨在成为实用的文本编辑器，专注于提供高效、无干扰的笔记记录体验。 项目状态 该项目仍在开发中，仅积极开展了 4 周。尽管还处于早期阶段，Rhyolite 已经支持：  自动保存：确保您的笔记永不丢失。 标签：用于无缝多任务处理。 Markdown 支持。 图像插入：轻松将视觉元素添加到您的笔记中。 截至目前，该项目正在进行大规模更新！  我们需要设计师，可以帮助设计 UI 和设计按钮等元素。 Github Repo：https://github.com/RedddFoxxyy/Rhyolite    提交人    /u/Lopsided-Tough-9580   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</guid>
       <pubDate>Fri, 10 Jan 2025 17:25:35 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[      我之前在 Github 上发布了我的第一个开源项目，我希望得到社区的一些反馈。  该应用程序源于需要为开发人员提供一种可重复使用的、与语言无关的方式，以编程方式从网页中获取相关且干净的文本内容。 希望这个项目对你们中的一些人有用！    提交人    /u/FragmentedCode   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hxl6vl/readabilify_a_nodejs_rest_api_wrapper_for_mozilla/</guid>
       <pubDate>Thu, 09 Jan 2025 19:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源发票生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxjgi6/open_source_invoice_builder/</link>
-      <description><![CDATA[用户友好的发票生成器，旨在帮助您快速为客户和项目创建专业发票。 https://x.com/kyrylolvov/status/1877419911003230352    提交人    /u/whynoteclair   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxjgi6/open_source_invoice_builder/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 和 Anthropic 正在开发 AI 代理 - 因此我制作了一个开源替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxiw2n/google_and_anthropic_are_working_on_ai_agents_so/</link>
-      <description><![CDATA[通过集成 Ollama、Microsoft 视觉模型和 Playwright，我制作了一个简单的代理，它可以浏览网站和数据以回答您的查询。 您甚至可以定义 JSON 模式！ 演示 您可以此处查看代码。AI 选项包括 Ollama、Anthropic 或 DeepSeek。所有都运行良好，但我还没有进行深入比较。 该项目仍在开发中，欢迎发表评论和贡献！    提交人    /u/spacespacespapce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxiw2n/google_and_anthropic_are_working_on_ai_agents_so/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
