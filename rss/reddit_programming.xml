@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 11 Jan 2025 18:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 21:02:02 GMT</lastBuildDate>
+    <item>
+      <title>U-net 图像分割 | 如何分割图像中的人物</title>
+      <link>https://www.reddit.com/r/programming/comments/1hz5efn/unet_image_segmentation_how_to_segment_persons_in/</link>
+      <description><![CDATA[  由    /u/Feitgemel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hz5efn/unet_image_segmentation_how_to_segment_persons_in/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:45:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wind 的早期阶段 - 编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hz2zt1/early_stages_of_wind_programming_language/</link>
+      <description><![CDATA[  由    /u/unityCoder__exe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hz2zt1/early_stages_of_wind_programming_language/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速排序序言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hz2jcc/quicksort_en_prolog/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hz2jcc/quicksort_en_prolog/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mint 编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hz1rcy/mint_programming_language/</link>
+      <description><![CDATA[  由    /u/yawaramin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hz1rcy/mint_programming_language/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:04:22 GMT</pubDate>
+    </item>
     <item>
       <title>Elemap – 一个用于生成六边形/矩形游戏地图的 TS 库。查看现场演示！以纯 HTML 和 CSS 呈现，易于扩展。最适合与 Tilted 搭配使用，这是我的地图查看库！</title>
       <link>https://www.reddit.com/r/programming/comments/1hz1afg/elemap_a_ts_library_to_generate_hexagonrectangle/</link>
@@ -53,13 +81,6 @@
       <description><![CDATA[如果    提交人    /u/John-Protocol86   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hyv7ae/help_build_foss_security_tool_shadow_it_detection/</guid>
       <pubDate>Sat, 11 Jan 2025 12:49:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django ninja aio crud 基于 Django Ninja，是一个实现异步动态模型 CRUD 的框架。它带有内置身份验证类、基于类的视图、动态 CRUD 和许多其他实用程序。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyubk3/based_on_django_ninja_django_ninja_aio_crud_is_a/</link>
-      <description><![CDATA[  由    /u/peppe2612  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyubk3/based_on_django_ninja_django_ninja_aio_crud_is_a/</guid>
-      <pubDate>Sat, 11 Jan 2025 11:52:39 GMT</pubDate>
     </item>
     <item>
       <title>完美代码的神话：为什么它给你带来的伤害大于帮助</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hyg2xe/nevalang_v030_nextgen_language_now_with/</guid>
       <pubDate>Fri, 10 Jan 2025 21:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费让你的 Github 个人资料被吐槽 💀</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyg1sc/get_your_github_profile_roasted_for_free/</link>
-      <description><![CDATA[  由    /u/New-Pea-19  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyg1sc/get_your_github_profile_roasted_for_free/</guid>
-      <pubDate>Fri, 10 Jan 2025 21:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种轻量级的命令行工具，旨在帮助您有效地管理任何文本文件中的 markdown 样式复选框。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyf4qx/a_lightweight_commandline_tool_designed_to_help/</link>
-      <description><![CDATA[  由    /u/Elliot40404  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyf4qx/a_lightweight_commandline_tool_designed_to_help/</guid>
-      <pubDate>Fri, 10 Jan 2025 21:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 kwaak 发布 kwaak - 一款开源应用程序，可直接从您的终端并行运行一组自主编码代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyckuj/using_kwaak_to_release_kwaak_an_opensource_app/</link>
-      <description><![CDATA[  由    /u/timonvonk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyckuj/using_kwaak_to_release_kwaak_an_opensource_app/</guid>
-      <pubDate>Fri, 10 Jan 2025 19:25:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

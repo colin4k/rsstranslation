@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 11 Jan 2025 18:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 21:01:31 GMT</lastBuildDate>
     <item>
       <title>本周人工智能代理、法学硕士评估、快速工程十大法学硕士论文</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hz18r3/top_10_llm_papers_of_the_week_on_ai_agents_llm/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>LocalGLaDOS-在真正的 LLM 设备上运行</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyu7kw/localglados_running_on_a_real_llmrig/</link>
-      <description><![CDATA[https://youtu.be/N-GHKTocDF0 上次我使用小型 8Gb RK3588 Raspberry Pi 5 Alternative 主板。延迟很大，还有 1B Llama3.2 型号。 此演示正好相反：双 RTX 4090 运行 Llama3.3 70B。这是超低延迟，感觉就像在与另一个人聊天。延迟低于 500ms 是一个神奇的数字。 亲自尝试！它应该可以在任何系统上运行，从 Pi 到 H100，具体取决于您选择的 LLM 模型！ https://github.com/dnhkng/GlaDOS 这也可以与任何聊天模型、Qwen 等等一起使用，只需：  ollama pull &lt;model\_name&gt; 编辑 glados_config.yml，并编辑模型：模型：“&lt;model\_name&gt;&quot;  这样，您可以选择适合您的 VRAM 的模型。我已经付出了很多努力来使语音功能高效运行，因此其余部分只有几百 Mb！ 在 GitHub 上支付 star！ 向 lawrenceakka 致敬，感谢他为 TUI 创建了 PR！    提交人    /u/Reddactor   [link] [评论]]]></description>
+      <description><![CDATA[https://youtu.be/N-GHKTocDF0 上次我使用小型 8Gb RK3588 Raspberry Pi 5 Alternative 主板。延迟很大，还有 1B Llama3.2 型号。 此演示正好相反：双 RTX 4090 运行 Llama3.3 70B。这是超低延迟，感觉就像在与另一个人聊天。延迟低于 500ms 是一个神奇的数字。 亲自尝试！它应该可以在任何系统上运行，从 Pi 到 H100，具体取决于您选择的 LLM 模型！ https://github.com/dnhkng/GlaDOS 这也可以与任何聊天模型、Qwen 等等一起使用，只需：  ollama pull &lt;model\_name&gt; 编辑 glados_config.yml，并编辑模型：模型：“&lt;model\_name&gt;&quot;  这样，您可以选择适合您的 VRAM 的模型。我已经付出了很多努力来使语音功能高效运行，因此其余部分只有几百 Mb！ 在 GitHub 上付款！ 向 lawrenceakka 致敬，感谢他为 TUI 创建了 PR！    提交人    /u/Reddactor   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyu7kw/localglados_running_on_a_real_llmrig/</guid>
       <pubDate>Sat, 11 Jan 2025 11:44:54 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
