@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 10 Jan 2025 18:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 03:06:38 GMT</lastBuildDate>
+    <item>
+      <title>向我的项目添加更多测试代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hylwjq/adding_more_test_code_to_my_project/</link>
+      <description><![CDATA[https://github.com/oitcode/samarium    由   提交  /u/SouthBaseball7761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hylwjq/adding_more_test_code_to_my_project/</guid>
+      <pubDate>Sat, 11 Jan 2025 02:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>计划开发媒体组织应用程序（电视、电影和动漫）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hyhplr/planning_to_develop_a_media_organiser_app_tv/</link>
+      <description><![CDATA[我计划开发一款应用（用于移动设备），基本上可以让您将媒体项目组织成列表。目前，我正在使用 macOS Notes 应用来管理它。我根据自己的特定需求创建了列表。以下是屏幕截图 -&gt; https://postimg.cc/xXc09SvZ 我使用以下列表： - 当前正在观看 - 您当前正在观看的任何内容 - 接下来观看 - 您已决定并确定接下来要观看的节目 - 最近观看（过去 1 个月） - 您在过去 1 个月内观看的节目（全部或部分观看） - 必须观看 - 已看过 1 或 2 集并确认这些适合你的口味但稍后会观看 - 需要探索 - 听说过这些节目或看过预告片，但会观看 1 或 2 集以决定它是否适合你的口味 - 未完成观看 - 之前看过但未完成 - 已完成 - 已完成这些节目（观看至最后一集播出，某些节目可能有新季） 列表项也将具有自定义标签/图例添加，就像我在屏幕截图中一样，根据个人需求处理自定义用例 动机： - 这个想法是控制我当前正在观看的内容，而不是跳转到新的电视节目而忘记我当前正在观看的内容并使其不完整。 还要记录我的电视节目观看活动，以列表方式组织。 - 手动维护列表，例如使用 Notes 应用程序，具有重复项目的范围并且必须手动维护元数据。 - 为什么有这么多列表？ 我从来没有组织过我的电视/电影观看活动，只使用 IMDB 来维护列表，只是通过阅读节目的描述或观看预告片或听取某人的意见。因此，作为这个领域的一名无组织人员，我在开始组织电视节目时就开始想出这些列表。 讨论： 我想听听我应该尝试在这个应用中添加什么功能，以便我可以公开并且其他人也可以使用。我想构建一个干净且可定制的应用程序，不想让我的应用程序混乱（但可以就任何用例进行讨论） - 其他应用程序通常涵盖哪些领域（全部或部分）  发现或探索 - 根据您的观看历史或您添加的内容、热门节目、即将上映、最新、基于地区等进行推荐。 社交 - 添加好友并与他们讨论节目（每集或整个节目级别）。查看其他人在看什么 在哪里观看 - 支持区域 跟踪节目进度 统计信息 - 花费了多少时间观看等。 与 Trackt 同步 日历视图以跟踪即将播出的剧集的播出日期 艺术家的电影作品并关注他们以获得相应的推荐  注意：如果我错过了什么，请告诉我 - 我打算从哪里开始 我最初的计划是构建一个更接近列表保存应用程序的东西，就像我目前使用 Notes 应用程序管理的那样，但是以更干净的方式（清晰的 UI 和 API 获取的元数据），具有搜索、排序、过滤和在列表中传输项目等功能。 技术： 将使用 React Native 来构建应用程序 注意： 如果有类似的应用程序，请建议    由    /u/sriadimanav  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hyhplr/planning_to_develop_a_media_organiser_app_tv/</guid>
+      <pubDate>Fri, 10 Jan 2025 23:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nevalang v0.30 - NextGen 语言</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hygmga/nevalang_v030_nextgen_language/</link>
+      <description><![CDATA[大家好！我创建了一种编程语言，您可以在其中将程序编写为消息传递图，其中数据作为不可变消息流经节点，默认情况下所有内容都并行运行。它具有静态类型并编译为机器代码。今年我将添加可视化编程和 Go-interop。我希望你会觉得这个项目很有趣！ v0.30 - 交叉编译 这个新版本增加了对许多编译目标（如 linux/windows/android/etc）和不同架构（如 arm、amd 和 WASM）的支持。 在发布页面上查看完整的更改日志！ --- 请给 repo 一个开始 ⭐️ 以帮助获得关注 🙏    提交人    /u/urlaklbek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hygmga/nevalang_v030_nextgen_language/</guid>
+      <pubDate>Fri, 10 Jan 2025 22:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>G213 OpenRGB 同步</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hyfe0y/g213_openrgb_sync/</link>
+      <description><![CDATA[      大家好！最近用 Rust 为自己制作了一个小型的 Hue Sync 风格应用程序，但我认为它对其他人也可能有用。 它使用 openRGB 服务器将屏幕的 5 个垂直部分同步到 G213 键盘的 5 个 LED 区域。可以轻松定制。    提交人    /u/R123T   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hyfe0y/g213_openrgb_sync/</guid>
+      <pubDate>Fri, 10 Jan 2025 21:24:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何无头成就/徽章系统吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hybpkv/any_headless_achievementsbadges_system/</link>
+      <description><![CDATA[我想连接我的数据，并根据一些模式和条件授予徽章/奖杯。    提交人    /u/udelardien   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hybpkv/any_headless_achievementsbadges_system/</guid>
+      <pubDate>Fri, 10 Jan 2025 18:49:59 GMT</pubDate>
+    </item>
     <item>
       <title>水印应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1hyahcb/watermark_app/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[世界上有 PC 上的 HeyGen AI OpenSource 替代品吗（无需云）？    提交人    /u/antony_chacha   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</guid>
       <pubDate>Thu, 09 Jan 2025 16:39:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有翻译器作为扩展程序可以通过双击进行翻译？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</link>
-      <description><![CDATA[你好！ 仅标题：我知道 ImTranslator，但有时它不起作用，并且它的所有功能都不是那么“实用”；您知道开源替代品吗？ 谢谢    提交人    /u/Embody248   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家公司如何能生产出开源产品，同时又不免费（从金钱意义上来说）？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxg0ct/how_can_a_company_make_products_which_are_open/</link>
-      <description><![CDATA[你好， 一家公司怎么能生产出开源但又不免费（从金钱意义上来说）的产品呢？ 例如 ProtonVPN、Bitwarden 就是这种情况。（这些公司被迫开源以证明它们对用户隐私是安全的） 我的想法是，如果一个软件是开源的，那么任何人都可以窃取代码并利用源代码建立自己的公司。然后，由于竞争对手太多，最初的公司就不可能赚钱了。 此外，如果该公司的竞争对手已经存在，那么他们可以窃取最初的公司的任何创新，使得最初的公司不可能在市场上占据主导地位。 所以我的问题是：是什么阻碍了我上面所说的，并允许像 Proton、Bitwarden 这样的公司存在？ 我的一个答案是，他们在行业中拥有如此大的领先优势，已经拥有如此庞大的基础设施，以至于任何竞争对手即使拥有软件的源代码也不可能赶上。 此外，公司的声誉非常重要，它可以阻止其他竞争对手获得知名度，即使该软件是开源的，他们也可以窃取它。 编辑：感谢您的所有回答！    提交人    /u/Legal_Ad_1096   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxg0ct/how_can_a_company_make_products_which_are_open/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一个好的开源 windows 酒吧软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxc6lu/suggest_a_good_open_source_windows_software_for/</link>
-      <description><![CDATA[  由    /u/4passenger  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxc6lu/suggest_a_good_open_source_windows_software_for/</guid>
-      <pubDate>Thu, 09 Jan 2025 12:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 cloudflare r2 的开源 GitLFS 服务器（免费带宽）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxc47b/opensource_gitlfs_server_on_top_of_cloudflare_r2/</link>
-      <description><![CDATA[您好， 我在 cloudflare 上构建了一个小型 GitLFS 服务器，并使用 cloudflare r2 进行存储。 为什么选择 R2？ 您只需支付存储费用，并且没有出站成本，这对于在 CI 中检出我们的大文件非常有用  https://github.com/runreal/gitlfs-server-cloudflare    提交人    /u/tibozaurus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxc47b/opensource_gitlfs_server_on_top_of_cloudflare_r2/</guid>
-      <pubDate>Thu, 09 Jan 2025 12:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>MeroChat 是一个开源网站，可帮助您找到可以聊天的人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxbayb/merochat_is_a_open_source_website_that_helps_you/</link>
-      <description><![CDATA[  由    /u/wiki_me  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxbayb/merochat_is_a_open_source_website_that_helps_you/</guid>
-      <pubDate>Thu, 09 Jan 2025 12:03:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
