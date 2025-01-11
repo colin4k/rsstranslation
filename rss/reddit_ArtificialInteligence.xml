@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 11 Jan 2025 09:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 12:01:32 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 LLM 生成的文本通过 AI 检查？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyubx2/how_do_you_pass_ai_checkers_with_llm_generated/</link>
+      <description><![CDATA[我正在编写一些代码，以便使用 ChatGPT 生成的文本通过 AI 检查器。查看了一些帖子，但它们都充斥着托儿，人们说“自己写”或关于 AI 检查器不准确的评论（无关紧要，因为它们无论如何都会被使用）。我只是想自己做个好玩的项目。 有谁可以提供有关 Undetectable 或 StealthGPT 等工具如何工作的见解？我知道它们并不完美，但它们似乎工作得很好！ 我的一些想法： - 使用同形异义词 - 引入轻微的拼写错误/语法错误 - 混合短句和长句 - 将不同的输出拼接在一起 那么，这些服务使用了哪些技术措施来使他们的文本无法检测到？    提交人    /u/h3llwaiver   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyubx2/how_do_you_pass_ai_checkers_with_llm_generated/</guid>
+      <pubDate>Sat, 11 Jan 2025 11:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>LocalGLaDOS-在真正的 LLM 设备上运行</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyu7kw/localglados_running_on_a_real_llmrig/</link>
+      <description><![CDATA[https://youtu.be/N-GHKTocDF0 上次我使用小型 8Gb RK3588 Raspberry Pi 5 Alternative 主板。延迟很大，还有 1B Llama3.2 型号。 此演示正好相反：双 RTX 4090 运行 Llama3.3 70B。这是超低延迟，感觉就像在与另一个人聊天。延迟低于 500ms 是一个神奇的数字。 亲自尝试！它应该可以在任何系统上运行，从 Pi 到 H100，具体取决于您选择的 LLM 模型！ https://github.com/dnhkng/GlaDOS 这也可以与任何聊天模型、Qwen 等等一起使用，只需：  ollama pull &lt;model\_name&gt; 编辑 glados_config.yml，并编辑模型：模型：“&lt;model\_name&gt;&quot;  这样，您可以选择适合您的 VRAM 的模型。我已经付出了很多努力来使语音功能高效运行，因此其余部分只有几百 Mb！ 在 GitHub 上支付 star！ 向 lawrenceakka 致敬，感谢他为 TUI 创建了 PR！    提交人    /u/Reddactor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyu7kw/localglados_running_on_a_real_llmrig/</guid>
+      <pubDate>Sat, 11 Jan 2025 11:44:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Pro 1 年仅需 25 美元（通常为 240 美元）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hytz0l/perplexity_pro_1_year_for_only_25_usually_240/</link>
+      <description><![CDATA[大家好， 我从我的英国移动提供商那里获得了更多 Perplexity Pro 促销代码，一整年只需 25 美元——正常价格为 240 美元，所以几乎打了 90% 的折扣！ 快来加入我们 Discord 中的 700 多名成员，并获取 促销代码。我接受 PayPal（为了买家保护）和加密货币（为了隐私）。 我还可以访问 ChatGPT Pro 以及 LinkedIn Career &amp; Business Premium、Spotify、NordVPN 和 IPTV 的优惠。 2025 年快乐！    提交人    /u/minemateinnovation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hytz0l/perplexity_pro_1_year_for_only_25_usually_240/</guid>
+      <pubDate>Sat, 11 Jan 2025 11:27:34 GMT</pubDate>
+    </item>
     <item>
       <title>逻辑思维框架的递归分解，用于高级推理和知识传播</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyrx6c/recursive_decomposition_of_logical_thoughts/</link>
@@ -48,11 +69,11 @@
       <pubDate>Sat, 11 Jan 2025 03:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>未来几十年，AI艺术的复杂程度最终会超越3DCG吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hylm7b/will_the_complexity_of_ai_art_finally_surpass/</link>
-      <description><![CDATA[3DCG 刚开始商业化的时候，艺术家们用电脑就能生成逼真的图像，获得近乎完美的透视和各种可重复使用的 3D 资源，而无需自己上色。然而，经过几十年的发展，今天的 3DCG 已经变得极其复杂。一些视觉效果软件，例如 Houdini，其模拟模块涉及高等数学和物理学。真正的专家甚至可以使用这些软件工具来实现来自研究论文的新算法。将模拟模块与 SOP 等其他模块相结合，往往会产生非常复杂的项目。人工智能的出现大大降低了创作精美艺术品的门槛，从简单的基于提示的生成发展到像 ComfyUI 这样可以进行精确调整的工具。你认为再过十年，AI 艺术的复杂度会超过 3DCG 吗？    提交人    /u/MPM_SOLVER   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hylm7b/will_the_complexity_of_ai_art_finally_surpass/</guid>
-      <pubDate>Sat, 11 Jan 2025 02:16:20 GMT</pubDate>
+      <title>最近在想这件事......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hympg4/thinking_about_it_lately/</link>
+      <description><![CDATA[人工智能已经存在了一段时间，有 ChatGPT、Meta AI 等工具。我个人使用这些工具是因为它们的便利性和功能。然而，我最近看到新闻说 OpenAI 正在开发旨在取代办公室工作人员的人工智能机器人。这些机器人被宣传为能够完成人类工人可以完成的所有任务——没有抱怨、健康福利或薪水。其他公司似乎也在竞相开发类似的技术。 这一发展让我感到焦虑，并引发了两个重大担忧： 1. 人工智能驱动的未来中的职业选择： 随着人工智能的不断发展，感觉它正在蚕食人类的工作。我应该从事什么样的职业，才不会被人工智能取代？很难知道人类在哪些方面仍然不可或缺。 2.人类被取代后的经济可持续性： 如果公司优先考虑利润并用人工智能取代人类工人，人类将如何赚钱？如果人们无法赚取收入，谁会购买公司销售的商品和服务？如果不考虑人类的生计，这似乎是一个可能会因自身重量而崩溃的循环。 考虑到这些担忧，我想知道：• 人工智能发展是否应该受到限制？• 我们如何平衡创新与经济和社会稳定的需求？ 你对此有何看法？    提交人    /u/Upset-Diver-4944   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hympg4/thinking_about_it_lately/</guid>
+      <pubDate>Sat, 11 Jan 2025 03:14:55 GMT</pubDate>
     </item>
     <item>
       <title>您对于这个有助于进入人工智能领域的人工智能硕士课程有何看法？</title>
@@ -60,13 +81,6 @@
       <description><![CDATA[对于那些已经担任 ML 角色或 AI/数据工程角色的人，您对这个硕士课程的课程/科目结构有何看法？ 我是一名通才软件工程师，已经拥有计算机科学学士学位。我只是想为行业的转变和技术领域的未知前景做好更多的准备，也许可以慢慢加入数据/机器学习团队。附言：我知道网上有很多资料。 对于科目，请向下滚动到课程结构部分。你对正规教育有什么看法？ https://www.une.edu.au/study/courses/master-of-artificial-intelligence    提交人    /u/neuralhatch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyldvx/what_are_your_thoughts_on_this_masters_of_ai/</guid>
       <pubDate>Sat, 11 Jan 2025 02:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能与就业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyl7wm/ai_and_employment/</link>
-      <description><![CDATA[我 20 岁出头，目前失业，完全不知道我应该学习/研究/瞄准什么职业，因为人工智能工作即将消失。我相信这个问题之前已经有人问过了，所以很抱歉。现实生活中的每个人似乎都不关心这个问题。已经接受了我可能永远不会拥有自己的房子，但就业前景似乎如此黯淡，我想知道我是否应该小睡一会儿。    提交人    /u/According-Poem463   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyl7wm/ai_and_employment/</guid>
-      <pubDate>Sat, 11 Jan 2025 01:55:58 GMT</pubDate>
     </item>
     <item>
       <title>真实寻宝书转换为人工智能模型以协助解答问题</title>
@@ -85,23 +99,9 @@
     <item>
       <title>使用AI / ML根据电子表格数据生成内容</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhx57/using_aiml_to_generate_content_based_on/</link>
-      <description><![CDATA[LLM 可以做到这一点吗？或者这仅仅是 ML 吗？ 我有 100 组数据可以导出到单独的电子表格中  如果单元格 1 为 Y，那么我希望使用来自其他单元格中的字段的一些内容来生成此段落  如果单元格 2 为 Y，则生成第二个段落  如果单元格 2 为空且单元格 3 为空，则生成另一个段落  我有大约 75 个已完成文档的示例，可以上传到 RAG 中  有 250 个部分需要填写，因此手动编码决策树比手动剪切/粘贴花费的时间更长  您将如何做到这一点？    提交人    /u/Think_Leadership_91   [链接] [评论]]]></description>
+      <description><![CDATA[LLM 可以做到这一点吗？或者这仅仅是 ML 吗？ 我有 100 组数据可以导出到单独的电子表格中  如果单元格 1 为 Y，那么我希望使用来自其他单元格中的字段的一些内容来生成此段落  如果单元格 2 为 Y，则生成第二个段落  如果单元格 2 为空且单元格 3 为空，则生成另一个段落  我有大约 75 个已完成文档的示例，可以上传到 RAG 中  有 250 个部分需要填写，因此手动编码决策树比手动剪切/粘贴花费的时间更长  您将如何执行此操作？    提交人    /u/Think_Leadership_91   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhx57/using_aiml_to_generate_content_based_on/</guid>
       <pubDate>Fri, 10 Jan 2025 23:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好，有一个关于量化的问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhcrm/hello_have_a_question_about_quantization/</link>
-      <description><![CDATA[嘿，大家长话短说吧  量化模型后，您通常会从模型中获得哪些响应？ 它会以混乱的消息响应，还是会得到一些连贯的响应，只是好奇是否有人对 AI 系统的这个阶段进行过基准测试     提交人    /u/Vexed_Ganker   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyhcrm/hello_have_a_question_about_quantization/</guid>
-      <pubDate>Fri, 10 Jan 2025 22:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAG-Check 评估多模态检索增强生成性能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hyepdd/ragcheck_evaluating_multimodal_retrieval/</link>
-      <description><![CDATA[标题：RAG-Check 评估多模态检索增强生成性能 内容：我每天都在寻找和总结有趣的 AI 研究论文，这样您就不必全部浏览一遍。今天的论文题为&quot;RAG-Check：评估多模态检索增强生成性能&quot;，作者为 Matin Mortaheb、Mohammad A. Amir Khojastepour、Srimat T. Chakradhar 和 Sennur Ulukus。 本文解决了多模态检索增强生成 (RAG) 系统中的幻觉问题，其中外部知识（如文本或图像）用于指导大型语言模型 (LLM) 生成响应。研究人员引入了一种新颖的评估框架 RAG-Check，该框架通过两个新指标（相关性分数 (RS) 和正确性分数 (CS)）来衡量生成的响应的相关性和正确性。 要点：  多模态 RAG 中的幻觉挑战：虽然 RAG 系统通过将响应建立在检索到的外部知识的基础上来减少 LLM 中的幻觉，但在检索和上下文生成过程中可能会出现新的幻觉。多模态 RAG 系统必须准确地选择文本和图像等各种数据类型并将其转换为可靠的上下文。 相关性和正确性分数：RAG-Check 引入了 RS 和 CS 模型来评估多模态 RAG 系统中响应的保真度。RS 评估检索到的数据与查询的一致性，而 CS 对生成的响应的事实正确性进行评分。两种模型的准确率均达到了 88%，与人工评估非常接近。 人工对齐评估数据集：作者构建了一个包含 5,000 个样本的人工注释数据集，评估相关性和正确性，以验证他们的模型。与 CLIP 等现有模型相比，RS 模型在与人类评估的一致性方面提高了 20%。 RAG 系统的性能比较：本文使用 RAG-Check 指标评估了各种 RAG 配置，揭示了结合 GPT-4o 等模型的系统在减少上下文和生成错误方面的优势，与其他系统相比，最多可减少 20%。 对人工智能发展的启示：这项研究的见解对于通过有效管理和评估多模态环境中的幻觉，提高人工智能系统在需要高精度的关键应用（例如医疗保健或自主系统）中的可靠性至关重要。  您可以在此处查看完整细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyepdd/ragcheck_evaluating_multimodal_retrieval/</guid>
-      <pubDate>Fri, 10 Jan 2025 20:54:38 GMT</pubDate>
     </item>
     <item>
       <title>我使用 Anthropic 的 Claude Computer-Use 让 OpenAI 的 o1-preview 使用计算机</title>
@@ -120,12 +120,12 @@
     <item>
       <title>AI - 洛杉矶大火</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hy34k3/ai_la_fires/</link>
-      <description><![CDATA[今晚我一想到人工智能就震惊了。 抖音上被火灾中虚假人工智能图片所欺骗的人数多得惊人。这很有趣，因为我们这一代人总是说“我们不会像我们的父母一样”，然后成千上万的人被好莱坞标志燃烧所欺骗。我明白，现在的图像越来越难以辨认。 我记得几年前开始流传的第一种人工智能视频，它们非常恐怖，你一眼就能看出它们是假的。如今，它们看起来就像你在 6 点新闻中看到的东西。 这让我想到，当灾难发生时，人们会变得多么容易上当。说实话，这似乎是一场危险的游戏。 其他人怎么看？     由   提交  /u/Puzzleheaded_666   [链接] [评论]]]></description>
+      <description><![CDATA[今晚我一想到人工智能就震惊了。 抖音上被火灾中虚假人工智能图片所欺骗的人数多得惊人。这很有趣，因为我们这一代人总是说“我们不会像我们的父母一样”，然后成千上万的人被好莱坞标志燃烧所欺骗。我明白，现在的图像越来越难以辨认。 我记得几年前开始流传的第一种人工智能视频，它们非常恐怖，你一眼就能看出它们是假的。如今，它们看起来就像你在 6 点新闻中看到的东西。 这让我想到，当灾难发生时，人们会变得多么容易上当。说实话，这似乎是一场危险的游戏。 其他人怎么看？     由    /u/Puzzleheaded_666 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hy34k3/ai_la_fires/</guid>
       <pubDate>Fri, 10 Jan 2025 12:16:16 GMT</pubDate>
     </item>
     <item>
-      <title>谁实际上利用人工智能赚大钱？</title>
+      <title>谁真正利用人工智能赚大钱了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxwpl3/who_is_actually_making_big_money_with_gen_ai/</link>
       <description><![CDATA[严肃的问题：除了 Nvidia / 芯片制造商之外，是否还有哪些事实驱动的数据表明，拥有可持续商业模式的公司是否利用人工智能获得巨额利润？    提交人    /u/No_Watercress_1146   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxwpl3/who_is_actually_making_big_money_with_gen_ai/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
