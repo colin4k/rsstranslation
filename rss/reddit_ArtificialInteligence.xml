@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 15:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 18:01:44 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以深入研究 NLP 的 AI 研究员职位的伙伴</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzr2o1/searching_for_pals_to_study_deeply_nlp_for_ai/</link>
+      <description><![CDATA[大家好，我是计算机工程专业最后一年的学生，和大多数 CS 或 CEng 学生一样，我也在努力寻找自己的目标。现在或者实际上，我已经学习了几个月的 NLP，并决定深入研究并成为一名 AI 研究员。所以我正在寻找可以快速深入地踏上旅程的朋友。 我的计划是学习 LLM 或任何类似主题的所有主要内容。例如，在反向传播、word2vec 或类似模型或方法下学习数学。在我的道路上，我还计划做项目。我估计我会按照计划在 6 个月内完成一些重要主题。所以如果有人感兴趣，请直接发信息给我。此外，我有一些 python、ML 和 DL 基础知识，所以如果你也是，我很乐意和你一起开始。    提交人    /u/Salgurson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzr2o1/searching_for_pals_to_study_deeply_nlp_for_ai/</guid>
+      <pubDate>Sun, 12 Jan 2025 16:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否需要对我的 RTX 4090 进行超频以执行 AI 训练任务？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzpreb/do_i_require_to_overclock_my_rtx_4090_for_ai/</link>
+      <description><![CDATA[您好，我主要在 PC 上运行 AI 训练和实验，这些实验有时会持续数天不间断，这台机器全天候运行。您认为我的用例需要超频才能获得更好的性能吗？我不想最终导致 GPU 变砖或缩短其使用寿命。超频会影响这一点吗？我问这个问题的原因是我的 GPU 是 ZOTAC GAMING GeForce RTX 4090 Trinity，上面有 3 个风扇。我注意到，对于我所有的 AI 实验，风扇的转速从未超过 30%，GPU 温度也在 50 - 55°C 左右。由于 GPU 可以处理更高的温度，而且风扇的转速也有可能超过 30%，我觉得我可以从 GPU 中获得更多的能量？你有什么建议，这是一个好主意吗？    提交人    /u/TheTechVirgin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzpreb/do_i_require_to_overclock_my_rtx_4090_for_ai/</guid>
+      <pubDate>Sun, 12 Jan 2025 16:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型语言模型是否更适合被视为个体智能或文化项目？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzowxw/are_large_language_models_better_thought_of_as/</link>
+      <description><![CDATA[你好！ 我的一个朋友目前正在研究这个主题。他正在推动这样的观点，即法学硕士已经从一种智能转向了一种工具。我不同意（我是达马西奥的忠实粉丝，他辩称我们对人工智能的看法与我们想象的人工智能大不相同），但我很难用语言表达出来。 顺便说一句，这个问题是工具而不是物品。 你怎么看？ 谢谢！！    提交人    /u/tanki1515   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzowxw/are_large_language_models_better_thought_of_as/</guid>
+      <pubDate>Sun, 12 Jan 2025 15:21:31 GMT</pubDate>
+    </item>
     <item>
       <title>高中新生如何开始接触 AI？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hznubx/how_to_get_started_with_ai_as_a_high_school/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>如果AGI实现了，科技公司如何生存</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzk4k3/if_agi_achieved_how_tech_companies_survive/</link>
-      <description><![CDATA[我认为，如果我们实现了 AGI，90% 的科技公司将变得过时，如果 AGI 可以做所有事情，那么我们只需要一个用户界面，软件公司将变得过时。只有在后端发挥作用的公司才能生存。我认为 Salesforce 无法在这波人工智能浪潮中生存下来。你的看法呢？    提交人    /u/Adventurous_Mood1730   [link] [评论]]]></description>
+      <description><![CDATA[我认为，如果我们实现了 AGI，90% 的科技公司将变得过时，如果 AGI 可以做所有事情，我们只需要一个用户界面，软件公司将变得过时。只有在后端发挥作用的公司才能生存。我认为 Salesforce 无法在这波人工智能浪潮中生存下来。你的看法呢？    提交人    /u/Adventurous_Mood1730   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzk4k3/if_agi_achieved_how_tech_companies_survive/</guid>
       <pubDate>Sun, 12 Jan 2025 10:42:00 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>帮助动漫 AI 提供视频提示</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzin2o/help_with_video_prompts_for_anime_ai/</link>
-      <description><![CDATA[大家好。你们中的一些人可能已经知道，我经营着一个很小的 ​​YouTube 频道，我在那里尝试人工智能，以一种模拟未来环境的方式，我们人类/超人类使用它来创建软件和内容以供立即使用/消费。上周，我主动购买了三大视频服务 Hailuo、Haiper 和 Vidu 的所有付费套餐，最初是为了制作一个音乐视频，但后来它变成了一部 90 年代经典动漫电影的预告片。我在 YouTube 上看过其他动漫 AI 的东西，并完全受到了启发，但经过一周的不懈努力，我并没有得到我真正想要的东西。在几个视频的帮助下，我设法制作了一些东西。很酷，有一个故事，但做起来太难了，最终的结果远不如我见过的其他东西那么令人惊叹。那么秘诀是什么呢？我从 Midjourney 开始创建一些关键帧，然后将三个视频服务相互配合。我描述了场景、心情、氛围和风格以及灵感，但仍然感觉随机的废话优先于提示中的细节。我的两个视频已经发布，一个解释了我的过程，另一个是实际的预告片，我发表了一条置顶评论，说我计划在对提示写作进行更多研究后再次重新审视这个项目。所以这是这项研究的第一步，有人可以帮忙吗？谢谢。    提交人    /u/badassbradders   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。你们中的一些人可能已经知道，我经营着一个很小的 ​​YouTube 频道，我在那里尝试人工智能，以一种模拟未来环境的方式，我们人类/超人类使用它来创建软件和内容以供立即使用/消费。上周，我主动购买了三大视频服务 Hailuo、Haiper 和 Vidu 的所有付费套餐，最初是为了制作一个音乐视频，但后来它变成了一部经典 90 年代动漫电影的预告片。我在 YouTube 上看过其他动漫 AI 的东西，并完全受到了启发，但经过一周的不懈努力，我并没有得到我真正想要的东西。在几个视频的帮助下，我设法制作了一些东西。很酷，有一个故事，但做起来太难了，最终的结果远不如我见过的其他东西那么令人惊叹。那么秘诀是什么呢？我从 Midjourney 开始创建一些关键帧，然后将三个视频服务相互配合。我描述了场景、心情、氛围和风格以及灵感，但仍然感觉随机的废话优先于提示中的细节。我的两个视频已经发布，一个解释了我的过程，另一个是实际的预告片，我发表了一条置顶评论，说我计划在对提示写作进行更多研究后再次重新审视这个项目。所以这是这项研究的第一步，有人可以帮忙吗？谢谢。    提交人    /u/badassbradders   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzin2o/help_with_video_prompts_for_anime_ai/</guid>
       <pubDate>Sun, 12 Jan 2025 08:50:58 GMT</pubDate>
     </item>
@@ -81,13 +102,6 @@
       <description><![CDATA[标题：“ChatGPT 的建议无论有无理由都会推动道德判断” 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费尽心思去阅读它们了。今天的论文题为“ChatGPT 的建议无论有无理由都会推动道德判断”，作者是 Sebastian Kruegel、Andreas Ostermaier 和 Matthias Uhl。 本文探讨了 AI，特别是像 ChatGPT 这样的聊天机器人，在指导用户道德决策方面日益增长的影响力。通过使用电车难题的在线实验，研究人员研究了个人是否依赖 ChatGPT 的建议（无论是合理的还是不合理的），以及它对道德判断的影响。以下是一些有趣的发现：  超越理由的影响力：研究发现，无论建议是否附带推理，ChatGPT 的建议都会影响用户的道德决策。令人惊讶的是，当建议归因于人类道德顾问而不是人工智能时，这种模式也成立。 摆脱道德困境：作者认为，用户会倾向于接受任何建议，无论其是否经过深思熟虑，因为它提供了一种轻松摆脱道德困境的方法——而聊天机器人的可访问性加剧了这一过程。 实验见解：参与者面临电车困境的一个版本，并获得了归因于 ChatGPT 或人类道德顾问的建议。结果表明，个人在做出道德判断时不会区分合理建议和非合理建议，也不会区分人工智能和人类顾问。 感知可信度高于权威：研究揭示了一种心理机制，即认为人工智能建议不太权威的用户认为其可信度更高。这表明一种事后合理化，即用户在决策后为遵循建议辩解，而不是真正重视其内容。 呼吁道德素养：作者得出结论，除了数字素养之外，道德素养对于个人批判性评估人工智能产生的道德建议也是必要的。了解聊天机器人的局限性对于防止对个人道德准则产生不当影响至关重要。  在人工智能成为无处不在的顾问的世界中，本文提出了我们如何在道德决策环境中与技术互动的重要考虑因素。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzimfi/chatgpts_advice_drives_moral_judgments_with_or/</guid>
       <pubDate>Sun, 12 Jan 2025 08:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席执行官/创始人/业务负责人，您把 2025 年第一季度的战略 S&M 增长押注放在哪里，您如何优先考虑支出？我们很感兴趣！问：关于人工智能有很多⚡️，但您真的在投资吗……还是采取了更谨慎的态度。思维过程会因建立的不同而大不相同</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzg6uf/ceosfoundersbu_heads_where_are_you_placing_your/</link>
-      <description><![CDATA[#investment #strategy #marketing #sales #revenue #SGA #AI #risk #tech 查看投票    由   提交  /u/Particular_Knee_9044   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzg6uf/ceosfoundersbu_heads_where_are_you_placing_your/</guid>
-      <pubDate>Sun, 12 Jan 2025 05:56:22 GMT</pubDate>
     </item>
     <item>
       <title>照片编辑选项？</title>
@@ -104,13 +118,6 @@
       <pubDate>Sun, 12 Jan 2025 03:43:03 GMT</pubDate>
     </item>
     <item>
-      <title>有人在自己的电脑上使用过 tortoise-tts 吗？（AI 文本转语音生成器）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hz6mh9/has_anyone_managed_to_use_tortoisetts_on_their/</link>
-      <description><![CDATA[我迫切希望 tortoise-tts 能够正常工作，我不是程序员，想知道是否有人可以帮助我。我负担不起 eleven labs 的价格，你付钱只能获得积分，而不是无限使用，所以我需要寻找其他选择。    提交人    /u/Efficient_Year_2436   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hz6mh9/has_anyone_managed_to_use_tortoisetts_on_their/</guid>
-      <pubDate>Sat, 11 Jan 2025 21:40:20 GMT</pubDate>
-    </item>
-    <item>
       <title>本周人工智能代理、法学硕士评估、快速工程十大法学硕士论文</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hz18r3/top_10_llm_papers_of_the_week_on_ai_agents_llm/</link>
       <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[我大约一年前毕业，获得了计算机科学与工程学士学位... 8 个月前在一家软件公司找到了一份工作... 现在还在那里... 全栈... 但是现在很多人都在做前端...  我喜欢软件工程... 制作很酷的软件，甚至一些电子产品一直让我感兴趣....  但是随着人工智能的发展曲线... 我有点害怕我的未来....  我害怕它正是因为我知道它... 自从早期的 Andrew Ng 二元分类器教程时代以来，我一直对人工智能持乐观态度.... 我一直在学习人工智能概念... 使用各种工具... 用人工智能构建软件有一段时间了.... 但我还没有“下一件大事”的时刻，因为我有的想法.. 似乎总是有人已经做过了。 ... 所以现在这只是我的工作流程和爱好的一部分....  所以我知道这场 AI 实力竞赛的潜力......大规模裁员即将到来......虽然并不是因为 AI 在 SWE 方面更好，至少目前......只是 AI 公司和其他公司的经理已经同意“AI 员工在这里，比普通员工更好、更便宜”潮流......当然，人工智能从现在开始只会变得更好..所以你不能真的责怪他们..  我有一个家庭要养活...并且成为中下阶层..在一个低收入国家..没有丝毫的帮助...我能够勉强度日，用我现在的薪水还能剩下一些钱...但我不知道我以后是否会有工作...不是因为我对自己的技能没有信心...只是人工智能可能会做得更好.. 我一直在尝试多样化，同时保持我的兴趣....YouTube...内容创作...平面设计..动画...自由职业...等等，但我不知道...它只是行不通，因为感觉人工智能的手已经放在我的喉咙上了。. 我觉得我的目标感正在慢慢消失.....不知道是不是因为我没有从其他角度看问题.... 你怎么看？你的情况如何？... 只需说出你的想法..让我们谈谈     提交人    /u/CarzyForTech   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hyzbfw/i_am_a_sde_i_love_my_job_and_engineering_in/</guid>
       <pubDate>Sat, 11 Jan 2025 16:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软找到一种方法，让人工智能在数学推理方面实现强大的自我提升</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hync4l/microsoft_finds_a_way_to_have_ais_powerfully/</link>
-      <description><![CDATA[如果他们可以在数学上做到这一点，为什么不能在一般推理上做到这一点？ https://youtu.be/Bhoy_arJvaE?si=OLomRfCVUguhx3rx    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hync4l/microsoft_finds_a_way_to_have_ais_powerfully/</guid>
-      <pubDate>Sat, 11 Jan 2025 03:50:10 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>

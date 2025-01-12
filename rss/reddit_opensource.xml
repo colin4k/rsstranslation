@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 12 Jan 2025 15:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 18:02:21 GMT</lastBuildDate>
+    <item>
+      <title>基于浏览器的生产力工具包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzrtrx/browser_based_productivity_toolkit/</link>
+      <description><![CDATA[我一直在研究一个名为“tiny tool crate”的小型生产力工具集合，到目前为止，共有 24 种工具。 仅举几例：   Qrcode 生成器 颜色选择器 绘制数学表达式 JWT 解码器 SHA 校验和计算器  我们的想法是，创建一个经常使用的工具网格，然后将该页面加入书签，这样当您回来时，它们都是打开的。 GitHub 上的所有开源    提交人    /u/aptacode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzrtrx/browser_based_productivity_toolkit/</guid>
+      <pubDate>Sun, 12 Jan 2025 17:29:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>应付账款和小额现金对账软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzqv8w/accounts_payable_and_petty_cash_reconciliation/</link>
+      <description><![CDATA[您好，有没有什么自托管软件可以推荐，可以让用户输入供应商的发票和审批工作流程，以跟踪小额现金进出？    提交人    /u/Express_Steak   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzqv8w/accounts_payable_and_petty_cash_reconciliation/</guid>
+      <pubDate>Sun, 12 Jan 2025 16:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个开源工具，可以直接从浏览器构建 Windows 脚本。允许完全控制和自定义脚本。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzqgm9/i_developed_an_opensource_tool_to_build_a_windows/</link>
+      <description><![CDATA[大家好！👋 祝大家今天过得愉快。经过大量工作，我很高兴地宣布推出新版 WinScript，这是我的开源工具，旨在帮助您完全控制 Windows 系统。 存储库 &amp; 网站 WinScript 是一款全功能自定义工具，可帮助您：  安全删除：删除 Windows 臃肿软件，如 CoPilot、Edge、OneDrive、Xbox 应用以及预装的第三方应用，如 Spotify 和 Netflix。 增强隐私：禁用 Windows 和第三方软件（如 NVIDIA 和 VS Code）的遥测、跟踪和应用访问。 提升性能：通过将后台服务设置为手动、清理临时文件、设置首选 DNS 等来释放资源。 安装应用：使用 Chocolatey 包管理器一键安装您最喜爱的应用。  我创建 WinScript 是因为我找不到可以让我完全自定义和透明其所做工作的工具。许多现有的工具和脚本要么难以定制，要么需要挖掘大量源代码才能了解它们实际在做什么。 我很乐意听到您的想法！无论是功能建议，错误还是一般反馈，请告诉我！ 如果您想帮助该项目，您可以通过 GitHub 做出贡献和/或留下星星。 谢谢阅读。    提交人    /u/Flick9000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzqgm9/i_developed_an_opensource_tool_to_build_a_windows/</guid>
+      <pubDate>Sun, 12 Jan 2025 16:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 代理工作流的新交互式 UI：观看 OpenAI 的 o1 预览版，使用 Anthropic 的 Claude Computer-Use 使用计算机</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</link>
+      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  这基于 Claude Computer-Use，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、实验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</guid>
+      <pubDate>Sun, 12 Jan 2025 15:54:33 GMT</pubDate>
+    </item>
     <item>
       <title>🔥 介绍 AiLert：开源 AI 新闻通讯引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzni2m/introducing_ailert_the_opensource_ai_newsletter/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我想连接我的数据，并根据一些模式和条件授予徽章/奖杯。    提交人    /u/udelardien   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hybpkv/any_headless_achievementsbadges_system/</guid>
       <pubDate>Fri, 10 Jan 2025 18:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>水印应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hyahcb/watermark_app/</link>
-      <description><![CDATA[      这是我两年前做的应用程序，想跟大家分享一下。也许在您的帮助下，我们可以将其制作成最终产品。那么，这是一个业务问题吗？我的朋友在消防部门担任摄影师。目标是为他们制作一些能够在图片上加水印的工具。我这样做是为了解决一个基本问题。然后我开始实际修改应用程序以拥有 JavaFX GUI（老实说这是一场噩梦），我发现完成 GUI 和其余功能需要很长时间。如果有人有类似的任务要完成，或者您只是想玩图像编辑，请随意修改它。 附注：此存储库中的代码编写得很差（没有设计模式，缺乏测试）但它可以工作。请不要因为这个应用程序而责怪我😅    提交人    /u/FoxyHikka   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hyahcb/watermark_app/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>流纹岩！黑曜石的开源替代品。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</link>
-      <description><![CDATA[大家好！ Rhyolite 是一款简单直观的文本编辑器，用于做笔记，灵感来自 Obsidian！这是一款基于 Tauri 的应用程序，后端使用 Rust，前端使用 Svelte。Rhyolite 旨在成为实用的文本编辑器，专注于提供高效、无干扰的笔记记录体验。 项目状态 该项目仍在开发中，仅积极开展了 4 周。尽管还处于早期阶段，Rhyolite 已经支持：  自动保存：确保您的笔记永不丢失。 标签：用于无缝多任务处理。 Markdown 支持。 图像插入：轻松将视觉元素添加到您的笔记中。 截至目前，该项目正在进行大规模更新！  我们需要设计师，可以帮助设计 UI 和设计按钮等元素。 Github Repo：https://github.com/RedddFoxxyy/Rhyolite    提交人    /u/Lopsided-Tough-9580   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望获得一些实际项目经验。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy9m9r/looking_to_get_some_experience_with_real_projects/</link>
-      <description><![CDATA[我希望获得一些真正的、相当大的项目经验。我在 Python 方面经验最丰富，其次是 C#，然后是 C++。如果有人能推荐一些我可以参与的项目，那就太好了 :)    提交人    /u/FlocklandTheSheep   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy9m9r/looking_to_get_some_experience_with_real_projects/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>对版权衍生作品的新见解</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy88oh/new_insight_into_what_is_a_derivative_work_for/</link>
-      <description><![CDATA[        提交人    /u/newz2000   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy88oh/new_insight_into_what_is_a_derivative_work_for/</guid>
-      <pubDate>Fri, 10 Jan 2025 16:25:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
