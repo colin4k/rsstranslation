@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 12 Jan 2025 12:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 15:01:44 GMT</lastBuildDate>
+    <item>
+      <title>🔥 介绍 AiLert：开源 AI 新闻通讯引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzni2m/introducing_ailert_the_opensource_ai_newsletter/</link>
+      <description><![CDATA[嘿，开源社区！我很高兴与大家分享 AiLert - 一个使 AI 知识共享民主化的开源平台。 主要特点： - 自动聚合 230 多个 AI 源 - 跟踪研究论文、GitHub 趋势、竞赛和活动 - 使用自定义模板生成精美的新闻稿 - 使用 Python、Flask 和 AWS DynamoDB 构建 为什么要开源？ 我相信 AI 知识应该人人都能获得。通过使 AiLert 开源，我们可以： - 允许社区驱动的改进 - 确保内容管理的透明度 - 为不同的用例启用自定义 寻找贡献者！非常适合对以下内容感兴趣的人： - Python 后端开发 - 内容聚合算法 - 新闻稿模板设计 - AWS 基础设施 GitHub：https://github.com/anuj0456/ailert.git    提交人    /u/anuj0456   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzni2m/introducing_ailert_the_opensource_ai_newsletter/</guid>
+      <pubDate>Sun, 12 Jan 2025 14:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要许可建议以启动开源世界建设项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzml2f/need_licensing_advice_for_starting_an_open_source/</link>
+      <description><![CDATA[问候！ 正如标题所述，我目前正在计划做一个开源项目，并希望从更有经验的人那里获得一些关于许可方面的建议。 但首先，我到底在计划什么？ 我是一名业余艺术家，过去几年画了很多画，写了很多短篇小说，现在我想开始将其作为一个开源世界建设项目发布，希望能吸引其他有兴趣充实这个世界的人，无论是在文学、绘画还是游戏中。 所以，首先我想从 YouTube 上的一些简单的传说视频开始，我想在其中给出一个总体的设置氛围并展示世界建设。音乐和艺术我会自己制作或使用 CC0 许可产品。据我所知，将音乐上传到不同的 YouTube 帐户并声明我的主要视频的版权以避免第三方版权声明仍然是一种有效的做法，对吗？ 至于我自己的作品（如绘画）的使用：上传带有 CC BY-SA 说明的作品就足够了吗，还是我必须采取其他步骤？CC BY-SA 是否是我计划的正确许可证，尤其是在包含软件时？ 感谢您的帮助。我希望我不会显得喋喋不休，我很乐意在评论部分进一步解释我的想法 :)    提交人    /u/Fringillus1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzml2f/need_licensing_advice_for_starting_an_open_source/</guid>
+      <pubDate>Sun, 12 Jan 2025 13:24:30 GMT</pubDate>
+    </item>
     <item>
       <title>txtai 8.2 发布：简化的 LLM 消息、Graph RAG 属性过滤器和多 CPU/GPU 编码</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzb4d3/txtai_82_released_simplified_llm_messages_graph/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/newz2000   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy88oh/new_insight_into_what_is_a_derivative_work_for/</guid>
       <pubDate>Fri, 10 Jan 2025 16:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源软件：最佳替代品目录</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy5cqc/opensource_software_a_directory_of_the_best/</link>
-      <description><![CDATA[  由    /u/Mrktbloom  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy5cqc/opensource_software_a_directory_of_the_best/</guid>
-      <pubDate>Fri, 10 Jan 2025 14:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkTaco - 开源社交书签和链接管理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</link>
-      <description><![CDATA[大家好。我们想告诉大家，我们全新的 100% 开源社交书签/链接管理平台已经上线，可以免费使用。它叫做 LinkTaco，基本上是 Pinboard、Bitly 和 Linktree 的合体。它具有相当多的附加功能，如自定义域、分析、协作、外部集成、完整的 GraphQL API 等。 您可以在此处查看项目源代码、邮件列表、票证等： https://code.netlandish.com/~netlandish/links 它是用 Go 和纯 html/css（使用 Chota 迷你框架）和尽可能少的 JS 编写的。 公告博客文章在这里： https://linktaco.com/blog/announcing-link-taco.html 希望得到一些初步反馈！ 谢谢！    由    /u/MexicanPete  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</guid>
-      <pubDate>Fri, 10 Jan 2025 12:53:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
