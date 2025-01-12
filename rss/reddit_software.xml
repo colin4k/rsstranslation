@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 11 Jan 2025 21:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 03:10:25 GMT</lastBuildDate>
+    <item>
+      <title>是否有支持动画 AVIF 的（快速）图像查看器？</title>
+      <link>https://www.reddit.com/r/software/comments/1hzauo2/is_there_a_fast_image_viewer_that_supports/</link>
+      <description><![CDATA[XnView MP 不支持。 ImageGlass 据称支持，但我没有测试它，因为即使加载大型 PNG 也慢得令人难以忍受。我怀疑这是因为 UI 是 Web 视图而不是本机桌面应用程序。    由   提交  /u/captcrunchytowel   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hzauo2/is_there_a_fast_image_viewer_that_supports/</guid>
+      <pubDate>Sun, 12 Jan 2025 00:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有说明/标签的照片拼贴</title>
+      <link>https://www.reddit.com/r/software/comments/1hz9ixj/photo_collage_with_descriptionslabels/</link>
+      <description><![CDATA[寻找一款简单的应用或程序（适用于 Mac），让我可以一次上传 6-8 张照片并将它们拼贴在一起，并可以在每张照片下方写上描述。    提交人    /u/GSDrisco   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hz9ixj/photo_collage_with_descriptionslabels/</guid>
+      <pubDate>Sat, 11 Jan 2025 23:53:16 GMT</pubDate>
+    </item>
     <item>
       <title>如何检查我今天使用了多少存储空间</title>
       <link>https://www.reddit.com/r/software/comments/1hz5ejb/how_to_check_how_much_storage_did_i_use_today/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>局域网浏览器（浏览网络并显示共享文件/文件夹）</title>
       <link>https://www.reddit.com/r/software/comments/1hz3zmv/local_area_network_browser_walks_network_and/</link>
-      <description><![CDATA[早在 00-03 年左右，在 LAN 聚会上，当您不在游戏中时，您可能一直在共享媒体或游戏安装。曾经有一个非常简单的程序可以扫描本地网络并列出所有具有文件共享和内容的计算机。然后，您可以像 Windows 资源管理器一样复制和粘贴。 我确信我很久以前就因误报防病毒软件而丢失了它。 我记得它不需要安装。非常快地列出您可以访问的所有内容。 我曾尝试在我的旧技术 CD 上找到它，但找不到。    提交人    /u/Savings_Art5944   [链接] [评论]]]></description>
+      <description><![CDATA[早在 00-03 年左右，在 LAN 聚会上，当您不在游戏中时，您可能一直在共享媒体或游戏安装。曾经有一个非常简单的程序可以扫描本地网络并列出所有具有文件共享和内容的计算机。然后，您可以像 Windows 资源管理器一样复制和粘贴。 我确信我很久以前就因误报防病毒软件而丢失了它。 我记得它不需要安装。非常快地列出您可以访问的所有内容。 我曾试图在我的旧技术 CD 上找到它，但找不到。 我找到的最接近的是 SoftPerfect 的 Netscan。我记得它进行了扫描并实时显示结果，速度非常快且流畅。    提交人    /u/Savings_Art5944   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hz3zmv/local_area_network_browser_walks_network_and/</guid>
       <pubDate>Sat, 11 Jan 2025 19:42:25 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[可以免费翻录锁定的 DVD？出于某种原因，handbrake 无法转换它，其他所有软件都需要付费。freemake 看起来已经转换了，但我只得到了一个空白页    提交人    /u/angelikeoctomber   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hyaw7u/dvd_ripper/</guid>
       <pubDate>Fri, 10 Jan 2025 18:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>逐行重复单词检查器</title>
-      <link>https://www.reddit.com/r/software/comments/1hy9mc5/a_line_by_line_duplicate_word_checker/</link>
-      <description><![CDATA[我正在寻找一个程序，它可以输入多行（数百行）文本，并仅在每行中检查重复的单词，并输出每行的重复项以及它们出现的次数。 如果可能的话，一个带有某些过滤器的程序。 提前致谢    提交人    /u/AaronHirst   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hy9mc5/a_line_by_line_duplicate_word_checker/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>让特定软件保持固定音量的程序</title>
-      <link>https://www.reddit.com/r/software/comments/1hy96i4/a_program_to_keep_a_specific_software_at_a_fixed/</link>
-      <description><![CDATA[我需要一个东西，即使 Windows 音量只有 50% 左右，也能让 discord 的音量始终保持在 100%，而且不要说耳塞，因为我需要它与键盘上的音量旋钮配合使用。    提交人    /u/pikuzzopikuzz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hy96i4/a_program_to_keep_a_specific_software_at_a_fixed/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:05:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

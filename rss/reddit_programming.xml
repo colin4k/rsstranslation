@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 11 Jan 2025 21:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 03:10:31 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Python 中 hash(-1) == hash(-2)？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hzbue9/why_is_hash1_hash2_in_python/</link>
+      <description><![CDATA[  由   提交  /u/stackoverflooooooow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hzbue9/why_is_hash1_hash2_in_python/</guid>
+      <pubDate>Sun, 12 Jan 2025 01:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用虚拟线程进行并行处理 - 比较分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1hza613/parallel_processing_with_virtual_threads_a/</link>
+      <description><![CDATA[  由    /u/RealVanCough  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hza613/parallel_processing_with_virtual_threads_a/</guid>
+      <pubDate>Sun, 12 Jan 2025 00:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>最长回文子串 - Python - Leetcode 647 - 第二部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1hz6kxj/longest_palindromic_substring_python_leetcode_647/</link>
+      <description><![CDATA[  由    /u/manimatorz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hz6kxj/longest_palindromic_substring_python_leetcode_647/</guid>
+      <pubDate>Sat, 11 Jan 2025 21:38:27 GMT</pubDate>
+    </item>
     <item>
       <title>U-net 图像分割 | 如何分割图像中的人物</title>
       <link>https://www.reddit.com/r/programming/comments/1hz5efn/unet_image_segmentation_how_to_segment_persons_in/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Holonist  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hyjxzj/i_created_a_box_utility_in_php_for_convenient/</guid>
       <pubDate>Sat, 11 Jan 2025 00:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>注意 Makefile 的影响 - ENOSUCHBLOG</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyhzdb/be_aware_of_the_makefile_effect_enosuchblog/</link>
-      <description><![CDATA[  由    /u/Smooth-Zucchini4923  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyhzdb/be_aware_of_the_makefile_effect_enosuchblog/</guid>
-      <pubDate>Fri, 10 Jan 2025 23:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Racket 超越语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyg3q9/racket_beyond_languages/</link>
-      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyg3q9/racket_beyond_languages/</guid>
-      <pubDate>Fri, 10 Jan 2025 21:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nevalang v0.30 - NextGen 语言（现在具有交叉编译功能）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hyg2xe/nevalang_v030_nextgen_language_now_with/</link>
-      <description><![CDATA[  由    /u/urlaklbek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hyg2xe/nevalang_v030_nextgen_language_now_with/</guid>
-      <pubDate>Fri, 10 Jan 2025 21:54:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
