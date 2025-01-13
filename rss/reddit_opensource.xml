@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 Jan 2025 15:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 18:02:30 GMT</lastBuildDate>
+    <item>
+      <title>我开发了一个开源应用程序，可以在你打字时添加打字声音</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i0hcfb/i_developed_an_opensource_application_that_adds/</link>
+      <description><![CDATA[大家好！ 很长一段时间以来，一直有一款名为 MechVibes 的应用程序，它可以在您打字时添加可自定义的打字声音。但是，对我来说，它缺少一项核心功能。那就是根据我当前正在使用的应用程序来控制声音出现的时间。 我曾考虑将此功能添加到 MechVibes，但现有的技术堆栈确实不允许这样的功能。所以，几年前我决定创建自己的能够做到这一点的应用程序。 由此，我开发了键盘声音。 键盘声音是一个完全免费的开源应用程序，可以使任何键盘听起来像机械键盘。它包括 11 个内置配置文件、一个用于创建自己的声音包的配置文件编辑器、应用程序规则和一个全面的后端 /CLI 界面。 目前，桌面应用程序支持 Windows，而后端 /CLI 支持 macOS、Linux 和 Windows。 您可以在项目官方网站或GitHub 存储库上找到更多信息。    提交人    /u/MediocreAnywhere1221   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i0hcfb/i_developed_an_opensource_application_that_adds/</guid>
+      <pubDate>Mon, 13 Jan 2025 16:06:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有兴趣为开源做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i0gwh6/i_am_interested_in_contributing_to_open_source/</link>
+      <description><![CDATA[大家好，我是开源新手，所以如果你们能帮助我入门的话，那将会很有帮助，如果我能加入已经为开源做出贡献的人，那就太好了。TIA！😅    提交人    /u/jack_the_ripper__   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i0gwh6/i_am_interested_in_contributing_to_open_source/</guid>
+      <pubDate>Mon, 13 Jan 2025 15:47:33 GMT</pubDate>
+    </item>
     <item>
       <title>可在浏览器中运行的 3D 空间视频播放器（React 和 Vanilla JS 示例）</title>
       <link>https://www.reddit.com/r/opensource/comments/1i0fjea/3d_spatial_video_player_that_works_in_your/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[问候！ 正如标题所述，我目前正在计划做一个开源项目，并希望从更有经验的人那里获得一些关于许可方面的建议。 但首先，我到底在计划什么？ 我是一名业余艺术家，过去几年画了很多画，写了很多短篇小说，现在我想开始将其作为一个开源世界建设项目发布，希望能吸引其他有兴趣充实这个世界的人，无论是在文学、绘画还是游戏中。 所以，首先我想从 YouTube 上的一些简单的传说视频开始，我想在其中给出一个总体的设置氛围并展示世界建设。音乐和艺术我会自己制作或使用 CC0 许可产品。据我所知，将音乐上传到不同的 YouTube 帐户并声明我的主要视频的版权以避免第三方版权声明仍然是一种有效的做法，对吗？ 至于我自己的作品（如绘画）的使用：上传带有 CC BY-SA 说明的作品就足够了吗，还是我必须采取其他步骤？CC BY-SA 是否是我计划的正确许可证，尤其是在包含软件时？ 感谢您的帮助。我希望我不会显得喋喋不休，我很乐意在评论部分进一步解释我的想法 :)    提交人    /u/Fringillus1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hzml2f/need_licensing_advice_for_starting_an_open_source/</guid>
       <pubDate>Sun, 12 Jan 2025 13:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>txtai 8.2 发布：简化的 LLM 消息、Graph RAG 属性过滤器和多 CPU/GPU 编码</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hzb4d3/txtai_82_released_simplified_llm_messages_graph/</link>
-      <description><![CDATA[        提交人    /u/davidmezzetti   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hzb4d3/txtai_82_released_simplified_llm_messages_graph/</guid>
-      <pubDate>Sun, 12 Jan 2025 01:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>六年前我编写了这个简单的“文本编辑器”，从那时起我几乎每天都在使用它</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hz7vb8/i_wrote_this_simple_text_editor_six_years_ago_and/</link>
-      <description><![CDATA[        由    /u/yojimbo_beta  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hz7vb8/i_wrote_this_simple_text_editor_six_years_ago_and/</guid>
-      <pubDate>Sat, 11 Jan 2025 22:36:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
