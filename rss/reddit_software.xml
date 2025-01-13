@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 00:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 03:09:29 GMT</lastBuildDate>
+    <item>
+      <title>终端仿真器可以缩放表情符号以使用与等宽字体一致的间距吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1i03d2b/terminal_emulator_that_can_scale_emojis_to_use/</link>
+      <description><![CDATA[即使在常见的终端仿真器中使用等宽字体，表情符号也不会以一致的大小显示。例如下面的每一行都是 10 个字符： 1234567890 .......... aaaaaaaaaa WWWWWWWWWW 🏡🏡🏡🏡🏡🏡🏡🏡🏡🏡 ☠️☠️☠️☠️☠️☠️☠️☠️☠️☠️ 🐧🐧🐧🐧🐧🐧🐧🐧🐧🐧 1234567890  将根据您的浏览器而有所不同，但这与它们在 Windows 终端和 Wezterm 中的显示方式类似。不过，骷髅通常看起来很小。 是否有任何终端仿真程序可以水平缩放表情符号，以便上面的线条都具有相同的总宽度？或者，如果不缩放，也许只是在需要时重叠较宽的线条，这将是我的用例的次要选择。 或者，也许有一些设置或特殊字体可以在 Windows 终端或 Wezterm 中提供帮助？    提交人    /u/r0ck0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i03d2b/terminal_emulator_that_can_scale_emojis_to_use/</guid>
+      <pubDate>Mon, 13 Jan 2025 02:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于工作或课堂的 WPS Office；它具有所有功能吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1i016qn/wps_office_for_work_or_class_does_it_have_all_the/</link>
+      <description><![CDATA[我即将开始一个新学期，同时还有一份兼职工作，两者都需要大量的文档工作；类似于您在 Word、Excel 和 PowerPoint 中所做的工作。我听说 WPS Office 与 Microsoft Office 非常接近，但我很好奇它是否真的涵盖了我可能需要的所有功能，尤其是现在有了 WPS AI 来帮助快速写作和编辑。我也想知道 WPS 与 LibreOffice 之类的相比如何。 对于那些在学校或专业环境中使用过 WPS Office 和 WPS AI 工具的人，与旧版本的 Word、Excel 和 PowerPoint 相比，您是否缺少任何重要的东西？在我提交之前我应该​​注意哪些怪癖或限制？提前谢谢！    提交者    /u/dayprodaraKaxgh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i016qn/wps_office_for_work_or_class_does_it_have_all_the/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:15:36 GMT</pubDate>
+    </item>
     <item>
       <title>我的音乐制作软件没有发出音频</title>
       <link>https://www.reddit.com/r/software/comments/1i00s60/no_audio_coming_from_my_music_production_software/</link>
@@ -127,23 +141,9 @@
     <item>
       <title>寻找可以轻松免费从图像中去除白色背景的东西</title>
       <link>https://www.reddit.com/r/software/comments/1hyzsha/looking_for_something_that_can_easily_remove_the/</link>
-      <description><![CDATA[我试过很多网站，但它们要么把图片弄乱，要么只允许你在注册付费计划后下载全尺寸图片。    提交人    /u/GlompSpark   [link] [comments]]]></description>
+      <description><![CDATA[我试过很多网站，但它们要么弄乱了图片，要么只允许您在注册付费计划后下载全尺寸图片。    提交人    /u/GlompSpark   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hyzsha/looking_for_something_that_can_easily_remove_the/</guid>
       <pubDate>Sat, 11 Jan 2025 16:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的闪存驱动器怎么了？</title>
-      <link>https://www.reddit.com/r/software/comments/1hyu3vx/whats_up_with_my_flash_drive/</link>
-      <description><![CDATA[我购买了一个 32gb 2.0 usb 闪存驱动器并确实想将其用于 Windows iso，但我无法移动 6gb 的 iso 而驱动器有 26gb，是不是因为它是一个 .iso 文件？  https://preview.redd.it/1nhhqffjpcce1.png?width=479&amp;format=png&amp;auto=webp&amp;s=8590da5a192f9a3a982a282bb31ec3ab04561a62    提交人    /u/somerset34324   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hyu3vx/whats_up_with_my_flash_drive/</guid>
-      <pubDate>Sat, 11 Jan 2025 11:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道有哪个 PDF 查看器只能让你为页面添加书签并进行 OCR，没有其他花哨的功能？我常用的 PDF 查看器已经被 Ai 垃圾毁掉了。</title>
-      <link>https://www.reddit.com/r/software/comments/1hyu2ps/does_anyone_know_of_a_pdf_viewer_that_just_lets/</link>
-      <description><![CDATA[使用 Wondershare 的 PDF Element 已经有一段时间了。现在有了一台新笔记本电脑，所以我安装了最新版本。结果：现在用起来感觉很糟糕，因为有更多功能使我需要做的事情变得模糊不清，而且无法消除。尝试使用 PDFGear，我听说过的一个免费替代品，但同样的事情发生了。  有人知道一个好的 PDF 查看器吗？我需要做的就是对整个文档进行 OCR 和书签页面。     提交人    /u/__Goobermensch__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hyu2ps/does_anyone_know_of_a_pdf_viewer_that_just_lets/</guid>
-      <pubDate>Sat, 11 Jan 2025 11:34:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
