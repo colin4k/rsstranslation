@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:08:14 GMT</lastBuildDate>
+    <item>
+      <title>Ontosight.ai</title>
+      <link>https://www.producthunt.com/posts/ontosight-ai</link>
+      <description><![CDATA[
+将复杂性转化为简单性 
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ontosight-ai</guid>
+      <pubDate>Mon, 13 Jan 2025 06:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌人工智能工作室</title>
       <link>https://www.producthunt.com/posts/google-ai-studio</link>
@@ -76,38 +90,24 @@
       <pubDate>Sat, 11 Jan 2025 17:31:19 GMT</pubDate>
     </item>
     <item>
-      <title>TIXAE 代理</title>
-      <link>https://www.producthunt.com/posts/tixae-agents</link>
+      <title>看法</title>
+      <link>https://www.producthunt.com/posts/perspective-5b03690e-21ff-43a1-9aa8-8cb6e01ace97</link>
       <description><![CDATA[
-高级语音 + 文本 AI 代理构建器 
+使用透视图和 3D 阴影转换 Figma 设计
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tixae-agents</guid>
-      <pubDate>Sat, 11 Jan 2025 00:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>桩长</title>
-      <link>https://www.producthunt.com/posts/pile-commander</link>
-      <description><![CDATA[
-为创意人士提供的开源文件管理器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/pile-commander</guid>
-      <pubDate>Sat, 11 Jan 2025 00:30:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/perspective-5b03690e-21ff-43a1-9aa8-8cb6e01ace97</guid>
+      <pubDate>Sat, 11 Jan 2025 03:56:58 GMT</pubDate>
     </item>
     <item>
       <title>灵猫</title>
       <link>https://www.producthunt.com/posts/lingocat</link>
       <description><![CDATA[
-通过会话练习更快流利
+通过会话练习更快流利地使用英语
 
 
 讨论
@@ -118,18 +118,18 @@
       <pubDate>Sat, 11 Jan 2025 00:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>FTme.link</title>
-      <link>https://www.producthunt.com/posts/ftme</link>
+      <title>智能睡眠定时器</title>
+      <link>https://www.producthunt.com/posts/smart-sleep-timer</link>
       <description><![CDATA[
-轻松安排 FaceTime 通话和会议
+使用睡眠检测在晚上停止音频
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ftme</guid>
-      <pubDate>Fri, 10 Jan 2025 16:35:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/smart-sleep-timer</guid>
+      <pubDate>Fri, 10 Jan 2025 12:54:44 GMT</pubDate>
     </item>
     <item>
       <title>沃顿</title>
@@ -216,7 +216,7 @@ Github + Pinterest 让您的 AI 网站看起来更漂亮
       <pubDate>Thu, 02 Jan 2025 15:33:55 GMT</pubDate>
     </item>
     <item>
-      <title>塔普洛</title>
+      <title>仪表板</title>
       <link>https://www.producthunt.com/posts/taplo</link>
       <description><![CDATA[
 为 SaaS 创始人提供可定制的社交证明小部件

@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:07:59 GMT</lastBuildDate>
+    <item>
+      <title>自适应后进先出法</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0nzqn/adaptive_lifo/</link>
+      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0nzqn/adaptive_lifo/</guid>
+      <pubDate>Mon, 13 Jan 2025 20:39:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始构建容器镜像：经常被忽视的 6 个陷阱</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0nn9x/building_container_images_from_scratch_6_pitfalls/</link>
+      <description><![CDATA[  由    /u/iximiuz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0nn9x/building_container_images_from_scratch_6_pitfalls/</guid>
+      <pubDate>Mon, 13 Jan 2025 20:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需 JavaScript 即可自定义下拉菜单</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0miid/custom_dropdowns_without_javascript/</link>
+      <description><![CDATA[  由    /u/fabian_boesiger  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0miid/custom_dropdowns_without_javascript/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:38:28 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个管理器来管理你的包管理器。它还没有完成，但我还需要实现的主要功能是它会自动检测你安装的包。它适用于大多数 Linux 发行版和 Mac，并且（应该）适用于 Windows</title>
       <link>https://www.reddit.com/r/programming/comments/1i0jsau/i_made_a_manager_that_manages_your_package/</link>
@@ -113,7 +134,7 @@
     <item>
       <title>SimpleGrad：一个易于理解的类 pytorch 框架实现</title>
       <link>https://www.reddit.com/r/programming/comments/1i0bna9/simplegrad_a_easy_to_understand_implementation_of/</link>
-      <description><![CDATA[我构建了一个简单易懂的类似 PyTorch 的框架，旨在作为一种学习工具，帮助理解自动求导和深度学习框架的内部工作原理。我计划将其扩展到 CNN 和 Attention 层。 我在 reddit 上发帖不多，如有任何问题，请多包涵。 – 非常感谢您的反馈和问题！    提交人    /u/T_Hansda   [link] [评论]]]></description>
+      <description><![CDATA[我构建了一个简单易懂的类似 PyTorch 的框架，旨在作为一种学习工具，帮助理解自动求导和深度学习框架的内部工作原理。我计划将其扩展到 CNN 和 Attention 层。 我在 reddit 上发帖不多，如有任何问题，请多多包涵。 – 非常感谢您的反馈和问题！    提交人    /u/T_Hansda   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i0bna9/simplegrad_a_easy_to_understand_implementation_of/</guid>
       <pubDate>Mon, 13 Jan 2025 11:09:27 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i0b6te/2025_tech_predictions/</guid>
       <pubDate>Mon, 13 Jan 2025 10:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习 Haskell 会让你发疯，但它是值得的</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0b4b5/learning_haskell_will_make_you_crazy_but_its/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0b4b5/learning_haskell_will_make_you_crazy_but_its/</guid>
-      <pubDate>Mon, 13 Jan 2025 10:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个 5 分钟的编码教程可以帮助您创建自己的搜索引擎，太棒了！🔥</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0avza/this_5_min_coding_tutorial_to_create_your_own/</link>
-      <description><![CDATA[  由    /u/Few_Tooth_2474  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0avza/this_5_min_coding_tutorial_to_create_your_own/</guid>
-      <pubDate>Mon, 13 Jan 2025 10:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个程序员都应该知道的用户体验设计技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0ap7c/ux_design_techniques_that_every_programmer_should/</link>
-      <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0ap7c/ux_design_techniques_that_every_programmer_should/</guid>
-      <pubDate>Mon, 13 Jan 2025 10:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
