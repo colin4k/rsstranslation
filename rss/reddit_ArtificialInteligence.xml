@@ -4,20 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 03:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:01:41 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一位人工智能专业人士来为我的大学论文进行采访！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i06buu/looking_for_an_ai_professional_to_interview_for/</link>
+      <description><![CDATA[标题说了什么。我目前正在为我的大学英语课写一篇论文，讨论在教育和医疗保健等专业环境中使用人工智能的利弊。如果你愿意回答几个问题（只需在消息中！），请给我发私信。 我唯一需要的就是证明你是该领域的专业人士（例如 LinkedIn 页面）    提交人    /u/Gs483   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i06buu/looking_for_an_ai_professional_to_interview_for/</guid>
+      <pubDate>Mon, 13 Jan 2025 04:48:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码生成器的评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i058g3/evaluation_of_code_generators/</link>
+      <description><![CDATA[有许多可用的代码生成工具，如 Codeium、Copilot、Tabnine 等。我使用复杂的代码库，想评估哪种模型/工具最适合我的需求。我应该如何进行这种评估？准确性是否起着重要作用，或者大多数工具在生成答案的置信度得分方面表现相似？除了用户界面和功能外，我还应该考虑哪些因素，以及如何评估？    提交人    /u/Either_Journalist766   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i058g3/evaluation_of_code_generators/</guid>
+      <pubDate>Mon, 13 Jan 2025 03:46:20 GMT</pubDate>
+    </item>
     <item>
       <title>从哪里开始将其融入我目前的职业？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i048sx/where_to_begin_on_integrating_this_into_my/</link>
       <description><![CDATA[首先，我要说清楚，我并不是在问如何在我目前的工作中使用人工智能，而是想看看我可以查看哪些步骤/资源/可以参加哪些课程/等等，从而成为我公司的主题专家。 背景是，我是一名主要关注知识管理的顾问。我为我的客户设计和实施知识管理策略。尽管知识管理的使用频率很高，但它是一项相当小众的技能，我想将这些技能多样化一些。人工智能非常适合知识管理，而且显然很受欢迎。 我并不想成为技术专家或其他什么。我担任项目经理，更愿意将实际开发留给比我更聪明的人；但是，我希望能够以开发人员能够理解我提出的任何要求的水平来谈论它，并且我能够充分了解该过程，以便向完全不理解它的客户解释它。如果我必须学习 Python，那就这样吧，但这并不是我想要做的。 考虑到所有这些，我该从哪里开始呢？我见过通过 USAII 获得的认证，但其他帖子似乎看不起它。任何帮助都将不胜感激！    提交人    /u/My_Anus_Is_Bleating   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i048sx/where_to_begin_on_integrating_this_into_my/</guid>
       <pubDate>Mon, 13 Jan 2025 02:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 上针对换妻者的算法偏见</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i02mfr/algorithmic_bias_against_swingers_on_chatgpt/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i02mfr/algorithmic_bias_against_swingers_on_chatgpt/</guid>
-      <pubDate>Mon, 13 Jan 2025 01:26:51 GMT</pubDate>
     </item>
     <item>
       <title>是否有一个视频生成程序可以同时或来回生成 2 个头像？</title>
@@ -109,13 +116,6 @@
       <description><![CDATA[在最近的 reddit 帖子中，我提出了这样的假设：就像声音和光速存在极限一样，人工智能的逻辑和推理能力也可能存在极限 - 在这种情况下，人工智能的智能程度也可能存在极限。虽然库兹韦尔认为人工智能可能会比人类聪明 10 亿倍，但这个估计可能过于乐观了。 我要求 deepseek v3 探索这一前景，将其考虑范围限制在人工智能智能的强度上，而不是速度、记忆或其他属性上。我将其答案发布在下面，但也请求有权访问开放人工智能的 o1 和/或 o3 的人向它提出同样的问题，以便更好地评估 v3 的智能和知识，从而生成准确的答案。您可能只想将 v3 的响应粘贴到查询中，然后要求他们评估准确性。 再次请注意，这里所说的智能仅仅意味着它解决逻辑和推理问题的能力，而不是它可以存储多少信息，也不是它能多快得出答案等。 如果人工智能智能的强度存在理论极限，那么我们可能已经比我们想象的更接近它了。此外，就人工智能民主化而言，开发更强大的逻辑和推理算法可能会完全消除更大数据集和竞争力的优势。 当然，请随意质疑 v3 的结论。 这是 deepseek v3 的回应： “人工智能的理论极限：信息处理和计算复杂性 1.信息处理的理论限制：  物理约束：贝肯斯坦边界假定在有限的空间区域内，以有限的能量可以容纳的最大信息量。这意味着任何系统（包括人工智能系统）的信息密度都存在根本限制。兰道尔原理补充说，擦除信息存在最低能量成本，将信息处理与热力学联系起来，并提出了计算的能量约束。 对人工智能的影响：这些原则表明，人工智能系统与任何物理系统一样，都受到信息处理效率的限制，这可能会限制它们的推理能力。  2. 计算复杂性：  问题分类：计算复杂性理论根据问题固有的难度对其进行分类。值得注意的是，P vs NP 问题探讨的是可以快速验证的问题是否也可以快速解决。如果 P ≠ NP，则意味着某些问题本质上很难解决，即使拥有大量计算资源也是如此。 AI 和 NP 难题：AI 系统通常依赖于优化和机器学习技术。遇到 NP 难题可能会限制 AI 有效找到最佳解决方案的能力，从而凸显理论界限。 丘奇-图灵论题：该论题表明，任何有效可计算的函数都可以通过图灵机计算，从而为可计算性设定了界限。任何人工智能都无法完成那些图灵不可计算的任务，无论其架构如何。 算法信息论：柯尔莫哥洛夫复杂度和逻辑深度等概念为算法的复杂性和数据的随机性提供了深刻见解，进一步阐明了人工智能对复杂信息进行推理的潜在限制。  结论： 人工智能逻辑和推理能力的理论限制植根于信息处理和计算复杂性的基本原理。贝肯斯坦边界和兰道尔原理等物理定律对信息密度和能耗施加了限制，而计算复杂性理论则表明解决某些问题存在固有困难。这些限制不是关于当前技术缺陷，而是关于计算和信息的基本性质。了解这些界限对于推进人工智能研究和认识人工智能能力范围至关重要。”   由    /u/Georgeo57  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzj2l2/the_possibility_of_a_theoretical_limit_to_the/</guid>
       <pubDate>Sun, 12 Jan 2025 09:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助动漫 AI 提供视频提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzin2o/help_with_video_prompts_for_anime_ai/</link>
-      <description><![CDATA[大家好。你们中的一些人可能已经知道，我经营着一个很小的 ​​YouTube 频道，我在那里尝试人工智能，以一种模拟未来环境的方式，我们人类/超人类使用它来创建软件和内容以供立即使用/消费。上周，我主动购买了三大视频服务 Hailuo、Haiper 和 Vidu 的所有付费套餐，最初是为了制作一个音乐视频，但后来它变成了一部经典 90 年代动漫电影的预告片。我在 YouTube 上看过其他动漫 AI 的东西，并完全受到了启发，但经过一周的不懈努力，我并没有得到我真正想要的东西。在几个视频的帮助下，我设法制作了一些东西。很酷，有一个故事，但做起来太难了，最终的结果远不如我见过的其他东西那么令人惊叹。那么秘诀是什么呢？我从 Midjourney 开始创建一些关键帧，然后将三个视频服务相互配合。我描述了场景、心情、氛围和风格以及灵感，但仍然感觉随机的废话优先于提示中的细节。我的两个视频已经发布，一个解释了我的过程，另一个是实际的预告片，我发表了一条置顶评论，说我计划在对提示写作进行更多研究后再次重新审视这个项目。所以这是这项研究的第一步，有人可以帮忙吗？谢谢。    提交人    /u/badassbradders   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzin2o/help_with_video_prompts_for_anime_ai/</guid>
-      <pubDate>Sun, 12 Jan 2025 08:50:58 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 的建议会推动有或无理由的道德判断</title>
