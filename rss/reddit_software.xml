@@ -4,13 +4,55 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 09:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 12:02:31 GMT</lastBuildDate>
+    <item>
+      <title>需要寻找高性能的裸机服务器</title>
+      <link>https://www.reddit.com/r/software/comments/1i0c5uw/need_to_find_a_bare_metal_server_for/</link>
+      <description><![CDATA[我正在寻找出租高性能 CPU 的裸机服务器提供商，例如 AMD EPYC™ 9274F、Ryzen™ Threadripper™ PRO 7965WX 或具有类似功能的其他 CPU。 有人知道提供这些类型 CPU 出租的平台吗？我理想情况下正在寻找灵活的定价选项和专为重负荷工作负载设计的配置。 提前感谢任何建议！    提交人    /u/kasman4uk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i0c5uw/need_to_find_a_bare_metal_server_for/</guid>
+      <pubDate>Mon, 13 Jan 2025 11:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在哪里获得免费域名？</title>
+      <link>https://www.reddit.com/r/software/comments/1i0bfxi/where_do_i_get_a_free_domain/</link>
+      <description><![CDATA[有没有办法获得一个完全免费的域名，访问时不会给网页添加任何内容？ 我尝试了 No-IP，但是当我启用“mask URL”时，它会在网页末尾添加一个丑陋的框架，而这并不是我想要的。 那么，有没有办法获得一个？我不介意 URL 最终是随机的。    提交人    /u/jaranas10   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i0bfxi/where_do_i_get_a_free_domain/</guid>
+      <pubDate>Mon, 13 Jan 2025 10:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于基本网站来说最好的免费托管网站是哪一个？</title>
+      <link>https://www.reddit.com/r/software/comments/1i0av3m/whats_the_best_free_hosting_site_for_a_basic_site/</link>
+      <description><![CDATA[自 2006 年以来，我一直使用 Webs.com 托管一个简单的 HTML 网站 — 没什么特别的。我从 NameCheap 购买了一个便宜的 .com 域名，该域名重定向到我的免费 Webs.com 网站。不幸的是，Webs 背后的公司几年前停止了这项服务。 目前最好的免费托管基本 HTML 网页的选项是什么？我看到过 FreeHosting.com、000webhost.com、GitHub Pages 和 WordPress 等名称。 是否可以将这些免费托管平台之一连接到我的付费 GoDaddy 域名？理想情况下，我希望避免使用“YOUR-USERNAME.randomfreesite.com”这样的 URL。现在，我只向 GoDaddy 支付域名重定向费用。我需要额外付费才能进行设置吗？这个过程复杂吗？ 我不使用模板、数据库或动态页面 - 只使用基本 HTML 来保持我的网站更新。从技术角度来看，这是一个简单的网站。但我已经多年没有处理过网络托管了，这一切让人感到不知所措。 例如，我尝试注册 FreeHosting.com，但它要求我更新我的域名服务器。什么是域名服务器？我可以使用我的 GoDaddy 域名作为我网站的 URL 吗？如果可以，我该如何连接它？ 任何指导都将不胜感激 - 这一切都相当令人困惑，你们似乎都有专业知识来提供帮助。    提交人    /u/ZPmanagement   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i0av3m/whats_the_best_free_hosting_site_for_a_basic_site/</guid>
+      <pubDate>Mon, 13 Jan 2025 10:11:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件推荐：绘制带有自动路径创建的 SVG</title>
+      <link>https://www.reddit.com/r/software/comments/1i0afq6/software_recommendation_drawing_svgs_with/</link>
+      <description><![CDATA[我正在寻找以下问题的软件解决方案： 我想创建 SVG 文件。到目前为止，我尝试使用 GIMP 和 Inkscape，它们都是很棒的工具，但我遇到了一个特定问题。 例如，我在 GIMP 中绘制了一个包含多个区域的 PNG（手绘）。当我使用 Inkscape 中的 Bitmap Tracer 将其转换为 SVG 时，路径没有按我希望的方式对齐。理想情况下，软件应该识别图像中的区域（填充区域）并根据这些区域创建路径。 问题是我从现有线条延伸线条以避免相交和重叠，但结果不符合我的需要。手动绘制每个单独的区域非常耗时。我也尝试过 BoxySVG，但绘制过程并不像我希望的那样直观或简单。但是使用 BoxySVG，我可以做很多我需要的事情，例如轻松编辑元素。此外，它还适合绘制对象，但不适合自由绘制。 有没有好的软件解决方案可以解决这个问题？ 提前谢谢您！    提交人    /u/No-Machine9282   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i0afq6/software_recommendation_drawing_svgs_with/</guid>
+      <pubDate>Mon, 13 Jan 2025 09:40:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么</title>
+      <link>https://www.reddit.com/r/software/comments/1i09yjg/why/</link>
+      <description><![CDATA[Iflydown 视频下载器我无法安装，它说无法下载？    由   提交  /u/angelikeoctomber   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i09yjg/why/</guid>
+      <pubDate>Mon, 13 Jan 2025 09:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>我需要帮助</title>
       <link>https://www.reddit.com/r/software/comments/1i09xbn/i_need_some_help/</link>
       <description><![CDATA[有一个程序和任务管理器，我无法让它停止运行。它占用了我的 CPU 14% 到 37%     提交人    /u/Magic-sword-fox1998   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i09xbn/i_need_some_help/</guid>
       <pubDate>Mon, 13 Jan 2025 09:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年最佳 Minecraft 服务器托管？</title>
+      <link>https://www.reddit.com/r/software/comments/1i09web/best_minecraft_server_hosting_for_2025/</link>
+      <description><![CDATA[我太兴奋了，无法深入研究经过修改的 Minecraft。现在的挑战是找到一个可以处理大型 modpack 的可靠服务器主机。  有什么建议吗？ 我正在寻找托管 Minecraft 服务器，有没有免费的选择。我做了很多研究，发现 Oracle Free Tier 是一个很有前途的选择，但我无法购买它。我之前尝试过 Microsoft Azure，它运行顺利，但我的免费积分用完了。 我无法自行托管，因为我只有一台电脑，我也会用它玩游戏。 除了 Aternos 等服务器托管网站之外，还有其他选择吗？自行托管对我的电脑资源的要求有多高？或者有没有办法在任何云服务上托管而不需要付费订阅？    提交人    /u/rdiaz0917   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i09web/best_minecraft_server_hosting_for_2025/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:57:53 GMT</pubDate>
     </item>
     <item>
       <title>免费文本监控应用程序</title>
@@ -71,7 +113,7 @@
     <item>
       <title>有哪些免费且实用的 PDF 表单填充工具？</title>
       <link>https://www.reddit.com/r/software/comments/1hzw86x/whats_a_free_pdf_form_filler_thats_actually_usable/</link>
-      <description><![CDATA[说正题，我使用 PDF 作为 D&amp;D 角色表。到目前为止，我一直在 iPad 上使用 Adob​​e Acrobat 进行会议，但今天尝试更新我的表格时，许多表单部分不允许我添加文本，有时只允许我删除文本。我不知道 Adob​​e 为什么对我这么不给力。我尝试使用几种不同的在线编辑器，但它们要么无法识别表单字段，要么文本莫名其妙地显示为白色，而且我只能在突出显示时才能看到它，这对添加/重新添加文本没有帮助。我真的不想重新输入或重写整张文本。请帮忙。    提交人    /u/DruidLoser   [链接] [评论]]]></description>
+      <description><![CDATA[说白了，我使用 PDF 作为 D&amp;D 角色表。到目前为止，我一直在 iPad 上使用 Adob​​e Acrobat 进行会议，但今天尝试更新我的表格时，许多表单部分不允许我添加文本，有时只允许我删除文本。我不知道 Adob​​e 为什么对我这么不给力。我尝试使用几种不同的在线编辑器，但它们要么无法识别表单字段，要么文本莫名其妙地显示为白色，而且我只能在突出显示时才能看到它，这对添加/重新添加文本没有帮助。我真的不想重新输入或重写整张文本。请帮忙。    提交人    /u/DruidLoser   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hzw86x/whats_a_free_pdf_form_filler_thats_actually_usable/</guid>
       <pubDate>Sun, 12 Jan 2025 20:34:38 GMT</pubDate>
     </item>
@@ -81,6 +123,13 @@
       <description><![CDATA[我有一些两位歌手重叠的二重唱场景的干净音频，我想找到一种技术将它们分割成单独的音频文件，以便对其进行改进并将它们混合回去。有任何免费的在线软件或其他可以做到这一点的软件吗？    提交人    /u/KeepOnSwankin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hzukwh/vocal_splitter/</guid>
       <pubDate>Sun, 12 Jan 2025 19:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需 MS Exchange 即可查看和提取 EDB 内容</title>
+      <link>https://www.reddit.com/r/software/comments/1hzr949/view_and_extract_edb_content_without_ms_exchange/</link>
+      <description><![CDATA[我正在寻找一个免费的 Windows 程序来查看和提取 EDB 文件的内容，而无需 MS Exchange。  我发现：  https://www.stellarinfo.com/gdc/edb-pst-converter.php https://www.shoviv.com/edb-viewer.html https://www.systoolsgroup.com/exchange-edb-viewer.html https://www.edbviewer.org/ https://www.freeedbviewer.com/ https://blog.edbmails.com/edbmails-exchange-edb-viewer.html  但是如果想要提取 EDB 文件的内容，它们似乎都是非免费的。    提交人    /u/Franck_Dernoncourt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hzr949/view_and_extract_edb_content_without_ms_exchange/</guid>
+      <pubDate>Sun, 12 Jan 2025 17:04:56 GMT</pubDate>
     </item>
     <item>
       <title>运行 Android 14 操作系统的摩托罗拉 moto g play 2024 智能手机：使用 Termux 应用程序版本 0.119.0-beta.1 和在 Termux 下运行的 QEMU 的 Alpine Linux 版本 3.21.2-x86_64 的启动时间</title>
@@ -95,55 +144,6 @@
       <description><![CDATA[寻求推荐具有以下功能的软件（最好是免费的）： - 监控网页变化（具体来说，是“职位列表”样式页面中的新列表） - 每十分钟检查一次 - 发生变更时向我的移动设备发送推送通知 由于我希望通过移动设备接收通知，因此我认为移动应用程序是我最好的选择。短信通知可能需要付费。但只要软件能用，我并不关心它采用什么形式。 有什么好的建议吗？    提交人    /u/AudioBabble   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hzmcht/monitor_web_page_for_changes_get_push/</guid>
       <pubDate>Sun, 12 Jan 2025 13:11:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 MonsterHand - 一款现代扑克赔率计算器，即使在复杂的多向底池中也能提供实时权益计算。如果有人有兴趣测试它，我会免费向您发送该软件。我只是想要一些反馈或评论。</title>
-      <link>https://www.reddit.com/r/software/comments/1hzln5c/i_created_monsterhand_a_modern_poker_odds/</link>
-      <description><![CDATA[ 创建了 MonsterHand - 一款现代扑克赔率计算器，即使在复杂的多路底池中也能提供实时权益计算。  主要功能：   最多 9 名玩家的即时权益计算 潜在手牌和抽牌的详细分类 自动板面结构分析 实时抽牌检测和概率计算 专为 Windows 设计的简洁直观的界面 快速且轻量（无需安装）  与众不同之处：与旧计算器不同，MonsterHand 使用优化算法来流畅处理多路底池，没有滞后或延迟。它会自动检测复杂的抽牌并提供对手手牌范围的详细分类，帮助您在牌桌上做出更好的决策。  该软件会在公共牌揭晓时立即更新概率，并包括锦标赛淘汰跟踪等功能。它设计简单易用，同时在您需要时提供深入的数学分析。  实时速度和准确性 公共牌出现时即时更新手牌强度 多人游戏概率即时调整 极其准确的抽牌检测，可快速做出决策 现场游戏特定功能 快速计算对手手牌可能性 实时底池赔率评估 快速可视化当前手牌强度 优于其他在线工具的独特优势 比典型的叠加计算器更复杂 更好的多向底池计算 复杂场景的卓越抽牌检测 在现场游戏中更详细的概率细分 在线游戏的独特功能 即时对手手牌范围分析 根据玩家数量动态调整概率 快速评估所有可能性。 对手手牌可能性的详细细分 如果有人感兴趣，你可以免费获得它，当然我只是在寻找反馈 注释 它不访问网络日志或与表交互，因此不存在帐户被禁止的风险。界面简单易用。仅适用于 Windows。 在此处发送消息或发送 dm，我会给您文件。没有复杂的说明或安装。它只有 52mb。 仅适用于 Windows。    提交人    /u/Patkinwings   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzln5c/i_created_monsterhand_a_modern_poker_odds/</guid>
-      <pubDate>Sun, 12 Jan 2025 12:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助，我试图打开自己的软件，Windows 32 窗口显示错误模型未找到没有名为 customknitted 的模型，有人能帮我解决这个问题吗？我不知道是否在错误的 subreddit 中</title>
-      <link>https://www.reddit.com/r/software/comments/1hzkjas/i_need_help_im_trying_to_open_my_own_software_and/</link>
-      <description><![CDATA[  由    /u/PhysicalCod1875  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzkjas/i_need_help_im_trying_to_open_my_own_software_and/</guid>
-      <pubDate>Sun, 12 Jan 2025 11:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何指南可以让便携式应用程序将其数据保存在便携式文件夹中</title>
-      <link>https://www.reddit.com/r/software/comments/1hzg42z/is_there_any_guide_for_portable_apps_to_contain/</link>
-      <description><![CDATA[我最近看了 ThioJoe 的一段视频，他说 VS Code Portable 需要在存储的应用程序目录中创建一个“data”文件夹，否则它会将其数据存储到 appdata 文件夹中    提交人    /u/shayel98   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzg42z/is_there_any_guide_for_portable_apps_to_contain/</guid>
-      <pubDate>Sun, 12 Jan 2025 05:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有支持动画 AVIF 的（快速）图像查看器？</title>
-      <link>https://www.reddit.com/r/software/comments/1hzauo2/is_there_a_fast_image_viewer_that_supports/</link>
-      <description><![CDATA[XnView MP 不支持。 ImageGlass 据称支持，但我没有测试它，因为即使加载大型 PNG 也慢得令人难以忍受。我怀疑这是因为 UI 是 Web 视图而不是本机桌面应用程序。    由   提交  /u/captcrunchytowel   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzauo2/is_there_a_fast_image_viewer_that_supports/</guid>
-      <pubDate>Sun, 12 Jan 2025 00:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有说明/标签的照片拼贴</title>
-      <link>https://www.reddit.com/r/software/comments/1hz9ixj/photo_collage_with_descriptionslabels/</link>
-      <description><![CDATA[寻找一款简单的应用或程序（适用于 Mac），让我可以一次上传 6-8 张照片并将它们拼贴在一起，并可以在每张照片下方写上描述。    提交人    /u/GSDrisco   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hz9ixj/photo_collage_with_descriptionslabels/</guid>
-      <pubDate>Sat, 11 Jan 2025 23:53:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何检查我今天使用了多少存储空间</title>
-      <link>https://www.reddit.com/r/software/comments/1hz5ejb/how_to_check_how_much_storage_did_i_use_today/</link>
-      <description><![CDATA[今天我的存储空间从 63 GB 减少到 20 GB。我想知道哪些文件或应用程序占用了这么多空间，因为我今天没有安装任何软件。有软件可以解决这个吗？    提交人    /u/No_Meet2050   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hz5ejb/how_to_check_how_much_storage_did_i_use_today/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么应用程序或程序可以自动按正确的顺序穿插扫描的页面吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1hz478t/app_or_program_that_automatically_intersperses/</link>
-      <description><![CDATA[我的扫描仪进纸器一次只能扫描一面。我以前用过的扫描仪会指示你翻转扫描的页面，然后它们会自动以正确的顺序散布页面的另一面。我的 HP 打印机的原生扫描程序似乎没有这样做。有人知道有哪个程序可以做到这一点吗？我有 Windows、Android 和 iOS 设备（但没有 Mac 设备），所以几乎任何操作系统都可以使用。    提交人    /u/muineth   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hz478t/app_or_program_that_automatically_intersperses/</guid>
-      <pubDate>Sat, 11 Jan 2025 19:51:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
