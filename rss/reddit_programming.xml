@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 13 Jan 2025 12:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 15:03:25 GMT</lastBuildDate>
+    <item>
+      <title>清晰解释开放封闭原则 | SOLID 原则 | 易于理解</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0eyhp/open_closed_principle_clearly_explained_solid/</link>
+      <description><![CDATA[  由    /u/Easy_Ad4699  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0eyhp/open_closed_principle_clearly_explained_solid/</guid>
+      <pubDate>Mon, 13 Jan 2025 14:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>TDD——人工智能辅助开发的关键框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0etw0/tdd_a_critical_framework_for_aiassisted/</link>
+      <description><![CDATA[  由    /u/DryCauliflower8640  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0etw0/tdd_a_critical_framework_for_aiassisted/</guid>
+      <pubDate>Mon, 13 Jan 2025 14:12:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我花了两年时间用 Rust 重建了我的算法交易平台。我并不后悔。</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0ei87/i_spent_2_years_rebuilding_my_algorithmic_trading/</link>
+      <description><![CDATA[  由   提交  /u/No-Definition-2886   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0ei87/i_spent_2_years_rebuilding_my_algorithmic_trading/</guid>
+      <pubDate>Mon, 13 Jan 2025 13:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>FFmpeg 简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0e4ol/introduction_to_ffmpeg/</link>
+      <description><![CDATA[  由    /u/macrohard_certified  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0e4ol/introduction_to_ffmpeg/</guid>
+      <pubDate>Mon, 13 Jan 2025 13:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>安排代码来传达数据流</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0cytc/arrange_your_code_to_communicate_data_flow/</link>
+      <description><![CDATA[  由    /u/codingindoc  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0cytc/arrange_your_code_to_communicate_data_flow/</guid>
+      <pubDate>Mon, 13 Jan 2025 12:35:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>从整体式架构迁移到微服务时面临的组织和技术挑战，以及亚马逊如何建立微服务文化</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0chcg/organizational_technical_challenges_when/</link>
+      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0chcg/organizational_technical_challenges_when/</guid>
+      <pubDate>Mon, 13 Jan 2025 12:06:12 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用此工具检查您的 Bluesky 关注者帐户，我似乎无法弄清楚？</title>
       <link>https://www.reddit.com/r/programming/comments/1i0cbik/how_to_use_this_tool_to_check_your_bluesky/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i04my4/from_ascii_to_asic_porting_donutc_to_a_tiny_slice/</guid>
       <pubDate>Mon, 13 Jan 2025 03:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机日期和时间问题导致的可靠性问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1i03ixb/reliability_issues_from_computer_date_and_time/</link>
-      <description><![CDATA[  由    /u/HouseSubstantial2871  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i03ixb/reliability_issues_from_computer_date_and_time/</guid>
-      <pubDate>Mon, 13 Jan 2025 02:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能使用 Meta Quest 3 在虚拟现实中编码吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i029li/can_you_code_in_virtual_reality_using_meta_quest_3/</link>
-      <description><![CDATA[  由    /u/vikasofvikas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i029li/can_you_code_in_virtual_reality_using_meta_quest_3/</guid>
-      <pubDate>Mon, 13 Jan 2025 01:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量插入 | Dapper 中插入多行的最快方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1i027ol/bulk_insert_the_fastest_way_in_dapper_to_insert/</link>
-      <description><![CDATA[  由    /u/Repulsive_Grab2045  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i027ol/bulk_insert_the_fastest_way_in_dapper_to_insert/</guid>
-      <pubDate>Mon, 13 Jan 2025 01:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能仅使用虚拟现实耳机进行编码吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i020jg/can_you_code_using_just_virtual_reality_headset/</link>
-      <description><![CDATA[  由    /u/vikasofvikas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i020jg/can_you_code_using_just_virtual_reality_headset/</guid>
-      <pubDate>Mon, 13 Jan 2025 00:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM 代理辅助编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hzz32q/llm_agent_assisted_coding/</link>
-      <description><![CDATA[  由    /u/tanq10  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hzz32q/llm_agent_assisted_coding/</guid>
-      <pubDate>Sun, 12 Jan 2025 22:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 DOM 节点？一探究竟</title>
-      <link>https://www.reddit.com/r/programming/comments/1hzwq2x/what_is_a_dom_node_a_peek_under_the_hood/</link>
-      <description><![CDATA[  由    /u/RecklessHeroism  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hzwq2x/what_is_a_dom_node_a_peek_under_the_hood/</guid>
-      <pubDate>Sun, 12 Jan 2025 20:55:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

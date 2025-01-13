@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 12:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 15:03:18 GMT</lastBuildDate>
+    <item>
+      <title>是否有类似于 Permute for Mac 的 Windows 视频转换器？</title>
+      <link>https://www.reddit.com/r/software/comments/1i0ekrw/is_there_a_windows_video_converter_similar_to/</link>
+      <description><![CDATA[我已经使用 Mac 版 Permute 很多年了，打算继续使用它。但我还有一台 Windows 机器，我想为其安装一个类似的应用程序。  基本上它是一个视频转换器，就像 Handbrake 一样。但它允许您修剪视频的开头和结尾，还允许您通过将视频边缘拖得更紧来裁剪分辨率。    提交人    /u/CincyTriGuy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i0ekrw/is_there_a_windows_video_converter_similar_to/</guid>
+      <pubDate>Mon, 13 Jan 2025 14:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使我的 BT DONGLE10 在设备管理器上显示为蓝牙驱动程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1i0eggt/how_to_make_my_bt_dongle10_appear_as_a_bluetooth/</link>
+      <description><![CDATA[大家好，我得到了这个 BRLINK 蓝牙 5.1 设备，它在设备管理器中显示为“通用串行总线控制器”，任何地方都没有蓝牙，当我尝试在“设备”上配对某些东西时，它说要打开蓝牙，我在整个互联网上搜索这个加密狗的驱动程序，但就是找不到，“修复蓝牙”也没有给我任何东西    提交人    /u/IXXSlashXXI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i0eggt/how_to_make_my_bt_dongle10_appear_as_a_bluetooth/</guid>
+      <pubDate>Mon, 13 Jan 2025 13:54:42 GMT</pubDate>
+    </item>
     <item>
       <title>需要寻找高性能的裸机服务器</title>
       <link>https://www.reddit.com/r/software/comments/1i0c5uw/need_to_find_a_bare_metal_server_for/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在寻找一个免费的 Windows 程序来查看和提取 EDB 文件的内容，而无需 MS Exchange。  我发现：  https://www.stellarinfo.com/gdc/edb-pst-converter.php https://www.shoviv.com/edb-viewer.html https://www.systoolsgroup.com/exchange-edb-viewer.html https://www.edbviewer.org/ https://www.freeedbviewer.com/ https://blog.edbmails.com/edbmails-exchange-edb-viewer.html  但是如果想要提取 EDB 文件的内容，它们似乎都是非免费的。    提交人    /u/Franck_Dernoncourt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hzr949/view_and_extract_edb_content_without_ms_exchange/</guid>
       <pubDate>Sun, 12 Jan 2025 17:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行 Android 14 操作系统的摩托罗拉 moto g play 2024 智能手机：使用 Termux 应用程序版本 0.119.0-beta.1 和在 Termux 下运行的 QEMU 的 Alpine Linux 版本 3.21.2-x86_64 的启动时间</title>
-      <link>https://www.reddit.com/r/software/comments/1hzoydf/motorola_moto_g_play_2024_smartphone_running_the/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzoydf/motorola_moto_g_play_2024_smartphone_running_the/</guid>
-      <pubDate>Sun, 12 Jan 2025 15:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>监控网页变化，通过应用程序获取推送通知</title>
-      <link>https://www.reddit.com/r/software/comments/1hzmcht/monitor_web_page_for_changes_get_push/</link>
-      <description><![CDATA[寻求推荐具有以下功能的软件（最好是免费的）： - 监控网页变化（具体来说，是“职位列表”样式页面中的新列表） - 每十分钟检查一次 - 发生变更时向我的移动设备发送推送通知 由于我希望通过移动设备接收通知，因此我认为移动应用程序是我最好的选择。短信通知可能需要付费。但只要软件能用，我并不关心它采用什么形式。 有什么好的建议吗？    提交人    /u/AudioBabble   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzmcht/monitor_web_page_for_changes_get_push/</guid>
-      <pubDate>Sun, 12 Jan 2025 13:11:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
