@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 Jan 2025 06:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:02:23 GMT</lastBuildDate>
+    <item>
+      <title>如何在人工智能公司找到工作？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i09nmu/how_to_get_a_job_in_ai_firms/</link>
+      <description><![CDATA[我听说，要想在顶级 AI 公司找到工作，需要拥有数学/计算机科学博士学位。仅通过为开源项目做贡献就能进入这些公司吗？    提交人    /u/DixGee   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i09nmu/how_to_get_a_job_in_ai_firms/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 Web 应用程序来创建、测试和分享房屋价值 (ARV/AVM) 算法。加入并创建您自己的算法以获得排名！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i09ks4/i_created_a_web_app_to_create_test_and_share/</link>
+      <description><![CDATA[我创建了一个基于社区的算法共享网站，上周有人已经用 83 行 JavaScript 代码就获得了 98% 的房产准确率！ 如果有人感兴趣，您可以在 runco​​mps.dev 上每周（免费）测试、改进您的房屋价值算法并对其进行排名 它降低了计算这些指标的门槛，对于从初学者到有兴趣构建实际使用算法的人来说都非常有用。（即将推出在更多房产上运行的能力）    提交人    /u/ARVwizardry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i09ks4/i_created_a_web_app_to_create_test_and_share/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>MariaDB 日@布鲁塞尔 - 2025 年 2 月 1 日</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i08trb/mariadb_day_brussels_01022025/</link>
+      <description><![CDATA[  由    /u/greenman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i08trb/mariadb_day_brussels_01022025/</guid>
+      <pubDate>Mon, 13 Jan 2025 07:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道为什么 rift share 需要代码才能下载吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i089lc/does_anyone_know_why_rift_share_is_asking_for_a/</link>
+      <description><![CDATA[有人知道代码是什么吗？    提交人    /u/Upper-Ad9228   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i089lc/does_anyone_know_why_rift_share_is_asking_for_a/</guid>
+      <pubDate>Mon, 13 Jan 2025 06:53:07 GMT</pubDate>
+    </item>
     <item>
       <title>是否有一种工具和设备可以接收语音并输出注释或任务</title>
       <link>https://www.reddit.com/r/opensource/comments/1i06802/is_there_a_tool_and_device_to_take_in_voice_and/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>我几乎从来没能建立过开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</link>
-      <description><![CDATA[事情从来都不是一帆风顺的。总是会有一些问题，而且根据我的经验，我往往无法找到解决方案/不愿意花费数小时甚至数天的时间来弄清楚。 总是有 10 个东西需要作为先决条件安装，而每个东西对于您需要的确切设置都有些模糊，而且它根本不起作用，构建几乎总是会出现错误。 技能问题？在您的计算机上构建项目是否有更简单的方法？技术已经取得了长足的进步，但我觉得需要一些东西来使这个过程变得简单/标准化。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
+      <description><![CDATA[事情从来都不是一帆风顺的。总是会有一些问题，而且根据我的经验，我往往找不到解决方案/不愿意花费数小时甚至数天的时间来弄清楚。 总是有 10 个东西需要作为先决条件安装，而每个东西对于您需要的确切设置都有些模糊，而且它根本不起作用，构建几乎总是会出现错误。 技能问题？在您的计算机上构建项目是否有更简单的方法？技术已经取得了长足的进步，但我觉得需要一些东西来使这个过程变得简单/标准化。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</guid>
       <pubDate>Mon, 13 Jan 2025 03:54:58 GMT</pubDate>
     </item>
@@ -78,7 +106,7 @@
     <item>
       <title>AI 代理工作流的新交互式 UI：观看 OpenAI 的 o1 预览版，使用 Anthropic 的 Claude Computer-Use 使用计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</link>
-      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  这基于 Claude Computer-Use，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、实验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  它以 Claude Computer-Use 为基础，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、试验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</guid>
       <pubDate>Sun, 12 Jan 2025 15:54:33 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我认为开源 honey 替代品需要采取不同的方法。控制浏览器检查优惠券代码的想法会带来太多的安全风险。我正在考虑一种更像标准优惠券聚合器网站但又不差的方法。它可以使用抓取工具来检查用户贡献的代码，因此如果您在网站上看到某些内容，则它比那些粗略的网站更有可能是有效的。这需要付出代价，但它可以随着网站而不是用户而扩展，因此是可管理的。与浏览器控制方法相比，您需要向人们提出更多要求，但如果经常重新检查代码，则要求应该不高。只有当人们为他们关心的所有网站贡献抓取工具时，它才会起作用。主要是集思广益，但这看起来像是人们会使用或贡献的东西吗？    提交人    /u/lmfork   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hz7513/honey_alternative_with_centralized_code_checking/</guid>
       <pubDate>Sat, 11 Jan 2025 22:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需登录文件共享平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hz4qn1/no_login_file_sharing_platform/</link>
-      <description><![CDATA[大家好，我是 Zade，我一直在研究这个名为 Vouz 的开源文件共享项目。Vouz 是一个简单且无忧的文件共享应用程序，无需登录。 您所要做的就是创建一个具有唯一名称和密钥的储物柜。将您想要共享的文件加载到储物柜中。与您想要的任何人共享凭据，他们就可以轻松地下载储物柜中的文件。完成所有操作后，您可以从服务器中删除和移除所有数据。 测试我们的应用程序，让我知道您是否喜欢它。 由于 Vouz 是开源的，我很乐意听到您的贡献和改进建议。 VOUZ    提交人    /u/scoop_creator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hz4qn1/no_login_file_sharing_platform/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>创立基金会能拯救一个项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hz2w68/does_starting_a_foundation_save_a_project/</link>
-      <description><![CDATA[当我读到有关一个濒临失败的开源项目的消息时，我有时会看到这样的评论：该项目应该成立一个基金会来挽救它。 在断断续续地读了几年这篇文章之后，我不得不问，人们是否知道基金会到底是什么？ 我的假设是，人们看到像 Blender 这样的项目是成功的，有基金会，因此得出结论，每个项目都应该有一个基金会。我觉得这种观点忽略了一个事实，即成立基金会需要有专业知识的人自愿去做，而且它不会神奇地为项目提供资金和开发人员。 我遗漏了什么吗？    提交人    /u/thezimkai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hz2w68/does_starting_a_foundation_save_a_project/</guid>
-      <pubDate>Sat, 11 Jan 2025 18:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在考虑开发桌面 HTTP 客户端 - 但不确定是否值得</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hz2grf/thinking_of_working_on_a_desktop_http_client_but/</link>
-      <description><![CDATA[这不是一个重点很突出的帖子。我正在考虑一个决定，并寻求外部意见。 我一直在寻找一个开源项目来构建，理想情况下是可以让我构建 GUI 和/或开发人员工具领域的项目。 长期以来，我对 Postman 或 Insomnia 等桌面 HTTP 客户端感到不满意。他们总是强行推销云功能和企业集成。在某些方面，我很想自己构建一个。 我的想法是，除了典型的 HTTP API 测试之外，还要能够很好地理解 IDL，可以执行基本的客户端代码生成，并支持测试脚本。我还想知道您是否可以围绕它创建一个表单生成器，并以“信息亭模式”运行以生成内部应用程序。 但竞争对手很多。 Bruno 就是其中之一，尽管我觉得它缺乏质量和完善。还有其他几个。 我想知道是否仍然值得构建我自己的东西，或者尝试不同的领域是否更有意义。 我不是在寻找一个具有巨大成功的项目，而是寻找一些令人愉快的东西来让我继续练习我的 GUI 开发技能（我的工作 100％ 是后端）。 与此同时 - 我会后悔构建别人已经做得更好的东西吗？    提交人    /u/yojimbo_beta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hz2grf/thinking_of_working_on_a_desktop_http_client_but/</guid>
-      <pubDate>Sat, 11 Jan 2025 18:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为开源但受地区限制的软件是免费的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</link>
-      <description><![CDATA[2022 年，ClamAV 禁止从俄罗斯 IP 地址访问任何网站或更新，并采取措施使 VPN 的使用复杂化以绕过该限制。不久之后，俄语 ClamAV 维基百科页面上出现了以下段落：  它是根据 GNU 通用公共许可证发布的，但它不是自由 [如自由] 软件，因为开发人员限制了下载发行版的能力。  似乎指的是自由软件定义中的自由 0。但是，该项目的分支经过微调以允许从俄罗斯访问是合法的。英文维基百科仍然认为 ClamAV 是免费的。 您是否认为阻止按地区分发的软件是免费的？    提交人    /u/Qwert-4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</guid>
-      <pubDate>Sat, 11 Jan 2025 14:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

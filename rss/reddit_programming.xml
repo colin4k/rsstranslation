@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 13 Jan 2025 06:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:02:16 GMT</lastBuildDate>
+    <item>
+      <title>Seed7 编程语言 2025-01-11 版发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1i08zve/version_20250111_of_the_seed7_programming/</link>
+      <description><![CDATA[  由    /u/ThomasMertes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i08zve/version_20250111_of_the_seed7_programming/</guid>
+      <pubDate>Mon, 13 Jan 2025 07:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>neutrix - React 的类型安全状态管理解决方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1i07ov4/neutrix_a_typesafe_state_management_solution_for/</link>
+      <description><![CDATA[  由    /u/papersashimi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i07ov4/neutrix_a_typesafe_state_management_solution_for/</guid>
+      <pubDate>Mon, 13 Jan 2025 06:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国路由器制造商成为最新一家无意中澄清 LGPL 许可证的公司</title>
+      <link>https://www.reddit.com/r/programming/comments/1i07llm/german_router_maker_is_latest_company_to/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i07llm/german_router_maker_is_latest_company_to/</guid>
+      <pubDate>Mon, 13 Jan 2025 06:07:17 GMT</pubDate>
+    </item>
     <item>
       <title>Oracle PLSQL 中的 %ROWTYPE 示例</title>
       <link>https://www.reddit.com/r/programming/comments/1i07e1z/rowtype_in_oracle_plsql_with_example/</link>
@@ -27,7 +48,7 @@
       <pubDate>Mon, 13 Jan 2025 02:13:52 GMT</pubDate>
     </item>
     <item>
-      <title>您能使用 Meta Quest 3 在虚拟现实中编码吗？</title>
+      <title>您可以使用 Meta Quest 3 在虚拟现实中编码吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1i029li/can_you_code_in_virtual_reality_using_meta_quest_3/</link>
       <description><![CDATA[  由    /u/vikasofvikas  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i029li/can_you_code_in_virtual_reality_using_meta_quest_3/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ConnectionMain9863  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hzrfbq/i_decided_to_do_a_deep_dive_into_how_programming/</guid>
       <pubDate>Sun, 12 Jan 2025 17:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClangQL 0.9.0 支持使用 AST 匹配器运行 SQL 查询</title>
-      <link>https://www.reddit.com/r/programming/comments/1hzr3qy/clangql_090_supports_running_a_sql_query_with_ast/</link>
-      <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hzr3qy/clangql_090_supports_running_a_sql_query_with_ast/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>贪吃蛇游戏是 56 字节</title>
-      <link>https://www.reddit.com/r/programming/comments/1hzqg3y/snake_game_is_56_bytes/</link>
-      <description><![CDATA[这个没什么好说的，我只是改变了 RNG，棘手的部分是找到一个小于 4 个字节的 RNG，使 BX 保持偶数并小于 0x7D0，并且仍然有点随机，有很多不错的选择，但它们都不是很随机，直到您意识到每次迭代交换 AX 和 BX 可以使 dec bh 随机化非常好。 对于那些对项目感兴趣但汇编背景知识很少的人来说，我认为这个更改是最容易理解的，所以如果你想看看这里是PR。    提交人    /u/Perfect-Highlight964   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hzqg3y/snake_game_is_56_bytes/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建 MongoDB 事件存储</title>
-      <link>https://www.reddit.com/r/programming/comments/1hzpzif/how_to_build_mongodb_event_store/</link>
-      <description><![CDATA[  由    /u/Adventurous-Salt8514  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hzpzif/how_to_build_mongodb_event_store/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:10:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
