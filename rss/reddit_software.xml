@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 14 Jan 2025 09:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 12:02:22 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助转换文件。</title>
+      <link>https://www.reddit.com/r/software/comments/1i14azh/need_help_converting_files/</link>
+      <description><![CDATA[我需要有关我 2 个月前发送的一条短信的信息，但我删除了该链。我知道我把它发给了谁。但每次我下载文件时，它都像 Excel 表一样。有没有办法可以看到所有行文本？    提交人    /u/its_over_9000_-_-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i14azh/need_help_converting_files/</guid>
+      <pubDate>Tue, 14 Jan 2025 11:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理截止日期时间跟踪软件</title>
+      <link>https://www.reddit.com/r/software/comments/1i138vb/managing_deadlines_timetracking_software/</link>
+      <description><![CDATA[大家好！最近，我一直在玩时间限制游戏，玩家需要在特定期限内完成某些任务。我想知道是否有一个时间跟踪应用程序可以：  显示当前时间和当天的可视日历。 清楚地显示我错过了什么以及接下来会发生什么。  您对可能有用的工具或应用程序有什么建议或建议吗？提前谢谢！    提交人    /u/giocos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i138vb/managing_deadlines_timetracking_software/</guid>
+      <pubDate>Tue, 14 Jan 2025 10:33:53 GMT</pubDate>
+    </item>
     <item>
       <title>带标记和共享功能的参考图像管理器</title>
       <link>https://www.reddit.com/r/software/comments/1i11b99/reference_image_organizer_w_tagging_and_sharing/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>用于在笔记本电脑上播放剧院演出离线音乐的软件，可搜索标题或标签</title>
       <link>https://www.reddit.com/r/software/comments/1i0gdiy/software_to_play_offline_music_on_laptop_for/</link>
-      <description><![CDATA[对于业余戏剧表演，我需要从笔记本电脑播放音乐。   我不知道需要哪种音乐，因此我需要收集涵盖大多数流派和情绪的音乐，大约 200-300 首曲目。  我还需要非音乐曲目作为背景音景（例如屋顶上的雨水或繁忙的餐厅）。 我需要离线播放此音乐，因为无法保证现场有互联网连接，因此需要本地存储。 我希望能够非常快速地搜索曲目以在场景中找到最佳曲目。这需要一个系统来预先在每个曲目上添加多个标签，然后搜索这些标签，或者需要能够重命名曲目的标题并预先在每个曲目的标题中放入我的所有关键字，这样我就可以使用它来快速搜索它们。 不必免费，但要足够便宜以达到此目的。  我假设一个简单的老式 mp3 播放器就可以了，但仍然想先检查一下选项和意见。谢谢！    提交人    /u/Tidec   [链接] [评论]]]></description>
+      <description><![CDATA[对于业余戏剧表演，我需要从笔记本电脑播放音乐。   我不知道需要哪种音乐，因此我需要收集涵盖大多数流派和情绪的音乐，大约 200-300 首曲目。  我还需要非音乐曲目作为背景音景（例如屋顶上的雨水或繁忙的餐厅）。 我需要离线播放此音乐，因为无法保证现场有互联网连接，因此需要本地存储。 我希望能够非常快速地搜索曲目以在场景中找到最佳曲目。这需要一个系统来预先在每个曲目上添加多个标签，然后搜索这些标签，或者需要能够重命名曲目的标题并预先在每个曲目的标题中放入我的所有关键字，这样我就可以使用它来快速搜索它们。 不必免费，但要足够便宜才能达到这个目的。  我假设一个简单的老式 mp3 播放器就可以了，但仍然想先检查一下选项和意见。谢谢！    提交人    /u/Tidec   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i0gdiy/software_to_play_offline_music_on_laptop_for/</guid>
       <pubDate>Mon, 13 Jan 2025 15:24:09 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在寻找以下问题的软件解决方案： 我想创建 SVG 文件。到目前为止，我尝试使用 GIMP 和 Inkscape，它们都是很棒的工具，但我遇到了一个特定问题。 例如，我在 GIMP 中绘制了一个包含多个区域的 PNG（手绘）。当我使用 Inkscape 中的 Bitmap Tracer 将其转换为 SVG 时，路径没有按我希望的方式对齐。理想情况下，软件应该识别图像中的区域（填充区域）并根据这些区域创建路径。 问题是我从现有线条延伸线条以避免相交和重叠，但结果不符合我的需要。手动绘制每个单独的区域非常耗时。我也尝试过 BoxySVG，但绘制过程并不像我希望的那样直观或简单。但是使用 BoxySVG，我可以做很多我需要的事情，例如轻松编辑元素。此外，它还适合绘制对象，但不适合自由绘制。 有没有好的软件解决方案可以解决这个问题？ 提前谢谢您！    提交人    /u/No-Machine9282   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i0afq6/software_recommendation_drawing_svgs_with/</guid>
       <pubDate>Mon, 13 Jan 2025 09:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么</title>
-      <link>https://www.reddit.com/r/software/comments/1i09yjg/why/</link>
-      <description><![CDATA[Iflydown 视频下载器我无法安装，它说无法下载？    由   提交  /u/angelikeoctomber   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i09yjg/why/</guid>
-      <pubDate>Mon, 13 Jan 2025 09:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需 MS Exchange 即可查看和提取 EDB 内容</title>
-      <link>https://www.reddit.com/r/software/comments/1hzr949/view_and_extract_edb_content_without_ms_exchange/</link>
-      <description><![CDATA[我正在寻找一个免费的 Windows 程序来查看和提取 EDB 文件的内容，而无需 MS Exchange。  我发现：  https://www.stellarinfo.com/gdc/edb-pst-converter.php https://www.shoviv.com/edb-viewer.html https://www.systoolsgroup.com/exchange-edb-viewer.html https://www.edbviewer.org/ https://www.freeedbviewer.com/ https://blog.edbmails.com/edbmails-exchange-edb-viewer.html  但是如果想要提取 EDB 文件的内容，它们似乎都是非免费的。    提交人    /u/Franck_Dernoncourt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hzr949/view_and_extract_edb_content_without_ms_exchange/</guid>
-      <pubDate>Sun, 12 Jan 2025 17:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
