@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 14 Jan 2025 03:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 09:02:09 GMT</lastBuildDate>
+    <item>
+      <title>Inkscape：一个爱情故事</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</link>
+      <description><![CDATA[我记得几年前运行过 Inkscape，当时想着“这太令人困惑了……回到 Adob​​e Illustrator。” 我不知道主要的 GUI 大修是什么时候发生的，或者我现在是否恰好更聪明了（怀疑），但昨天再次尝试后，我必须说我印象非常深刻。 昨天，我设法从头开始创建了一份看起来不错的简历，比我之前在 Adob​​e Illustrator 中的尝试更省力。我实际上认为 Inkscape 提供了更直观的工作流程。 我以前的工作流程包括运行带有 Windows 的虚拟机（我知道……我觉得很肮脏。），然后从那里运行 Photoshop、Illustrator 和 Acrobat。这当然会影响性能。 我只使用 Acrobat 来向使用 Illustrator 创建的 PDF 添加超链接。Inkscape 能够导出带有有效链接的 PDF。 这意味着我现在终于可以摆脱虚拟机了。我将使用 Gimp 而不是 Photoshop :P    提交人    /u/TajinToucan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</guid>
+      <pubDate>Tue, 14 Jan 2025 08:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>终极 React 文件上传器包含所有电池（测试版！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i0zzux/the_ultimate_react_file_uploader_all_batteries/</link>
+      <description><![CDATA[我们正在构建Upup。一个开源、免费使用的 React 组件库，可与 DigitalOcean Spaces、Amazon S3、Google Drive 和 Azure 无缝集成。我们目前处于测试版，但距离全面发布只有一周的时间。我们的开发人员正在开发中！ 为什么选择 Upup？  包含电池：已准备好将前端和后端代码插入您的代码库以处理您的 S3 上传！ 灵活性：没有后端？有一个简单的 React 应用程序吗？或者只想使用我们的前端并处理您自己的后端逻辑？当然！我们保持了它的模块化以实现所有这些功能！ 安全性和简单性：直接前端上传（像大多数现代应用程序一样）以实现速度和便利性。需要更多层吗？随时与您的后端集成。 直接支持流行的云提供商：我们不只是提供一个简单的 S3 接口，我们还确保组件支持一些最受欢迎的提供商，如 Backblaze、DigitalOcean 和AWS。 轻松安装：npm install 或 yarn add，配置您的密钥，就可以开始了。  欢迎随意访问 repo：https://github.com/devinoSolutions/upup    提交人    /u/Apart_Author_9836   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i0zzux/the_ultimate_react_file_uploader_all_batteries/</guid>
+      <pubDate>Tue, 14 Jan 2025 06:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 HTML5 和 JS 制作我自己的跨平台和 FOSS CAD</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i0wy2p/made_my_own_crossplatform_and_foss_cad_using/</link>
+      <description><![CDATA[嗨呀！我制作了自己的 CAD 软件，它易于使用且开源，我将其命名为 CompassCAD（不要与 Compass Card 混淆），这是一款可在 Windows 和 Linux 上下载的 CAD 软件（我决定不发布 Mac 版本，因为根据 Sourceforge 的数据，Mac 用户没有耐心），并且还有浏览器版本。CAD 引擎基于一个旧项目（https://github.com/hacklabcz/WebCAD5），但它经过大量修改以满足我的要求。 源代码可在我的 GitHub 上找到：https://github.com/zeankundev/CompassCAD 如果您想下载（Windows/Linux），这里是最新版本的链接。 https://github.com/zeankundev/CompassCAD/releases/latest 如果您使用的是 Mac、任何其他操作系统或无法使用 CompassCAD 桌面的 PC，您也可以使用网络版本 https://zeankundev.github.io/CompassCAD/editor.html 目前，我正在构建 1.7.0，但我不知道在 CompassCAD 中还要添加什么。您也可以留下反馈，这样我就可以让体验更好。谢谢！    提交人    /u/zeankundev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i0wy2p/made_my_own_crossplatform_and_foss_cad_using/</guid>
+      <pubDate>Tue, 14 Jan 2025 03:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>我整合了 150 家航空公司的随身行李限额，这样你就不必</title>
       <link>https://www.reddit.com/r/opensource/comments/1i0q9nn/ive_combined_carryon_allowances_for_150_airlines/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我一直在研究一个名为“tiny tool crate”的小型生产力工具集合，到目前为止，共有 24 种工具。 仅举几例：   Qrcode 生成器 颜色选择器 绘制数学表达式 JWT 解码器 SHA 校验和计算器  我们的想法是，创建一个经常使用的工具网格，然后将该页面加入书签，这样当您回来时，它们都是打开的。 GitHub 上的所有开源    提交人    /u/aptacode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hzrtrx/browser_based_productivity_toolkit/</guid>
       <pubDate>Sun, 12 Jan 2025 17:29:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>应付账款和小额现金对账软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hzqv8w/accounts_payable_and_petty_cash_reconciliation/</link>
-      <description><![CDATA[您好，有没有什么自托管软件可以推荐，可以让用户输入供应商的发票和审批工作流程，以跟踪小额现金进出？    提交人    /u/Express_Steak   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hzqv8w/accounts_payable_and_petty_cash_reconciliation/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个开源工具，可以直接从浏览器构建 Windows 脚本。允许完全控制和自定义脚本。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hzqgm9/i_developed_an_opensource_tool_to_build_a_windows/</link>
-      <description><![CDATA[大家好！👋 祝大家今天过得愉快。经过大量工作，我很高兴地宣布推出新版 WinScript，这是我的开源工具，旨在帮助您完全控制 Windows 系统。 存储库 &amp; 网站 WinScript 是一款全功能自定义工具，可帮助您：  安全删除：删除 Windows 臃肿软件，如 CoPilot、Edge、OneDrive、Xbox 应用以及预装的第三方应用，如 Spotify 和 Netflix。 增强隐私：禁用 Windows 和第三方软件（如 NVIDIA 和 VS Code）的遥测、跟踪和应用访问。 提升性能：通过将后台服务设置为手动、清理临时文件、设置首选 DNS 等来释放资源。 安装应用：使用 Chocolatey 包管理器一键安装您最喜爱的应用。  我创建 WinScript 是因为我找不到可以让我完全自定义和透明其所做工作的工具。许多现有的工具和脚本要么难以定制，要么需要挖掘大量源代码才能了解它们实际在做什么。 我很乐意听到您的想法！无论是功能建议，错误还是一般反馈，请告诉我！ 如果您想帮助该项目，您可以通过 GitHub 做出贡献和/或留下星星。 谢谢阅读。    提交人    /u/Flick9000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hzqgm9/i_developed_an_opensource_tool_to_build_a_windows/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 代理工作流的新交互式 UI：观看 OpenAI 的 o1 预览版，使用 Anthropic 的 Claude Computer-Use 使用计算机</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</link>
-      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  这基于 Claude Computer-Use，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、实验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</guid>
-      <pubDate>Sun, 12 Jan 2025 15:54:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
