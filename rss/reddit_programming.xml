@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 09:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:02:35 GMT</lastBuildDate>
+    <item>
+      <title>代码是资产还是负债？</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</link>
+      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</guid>
+      <pubDate>Wed, 15 Jan 2025 11:54:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>llama.cpp：为 GGUF LLM 模型编写一个简单的 C++ 推理程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</link>
+      <description><![CDATA[  由    /u/shubham0204_dev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</guid>
+      <pubDate>Wed, 15 Jan 2025 10:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助编译 C/C++ oRTP 以用于最终的 ios-simulator 目标（如何针对 rust 中使用的 aarch-apple-ios-sim 架构？）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1u38r/need_help_compiling_cc_ortp_to_for_eventual/</link>
+      <description><![CDATA[  由    /u/Insatiation  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1u38r/need_help_compiling_cc_ortp_to_for_eventual/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:52:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Kokoro-82M 将电子书制作成有声读物</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1u1hg/generate_audiobooks_from_ebooks_with_kokoro82m/</link>
+      <description><![CDATA[  由    /u/inkompatible  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1u1hg/generate_audiobooks_from_ebooks_with_kokoro82m/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加基本功能，允许您输出 C 代码并使用现代功能，如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</link>
+      <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行时诊断：及时发现错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</link>
+      <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</guid>
+      <pubDate>Wed, 15 Jan 2025 09:12:58 GMT</pubDate>
+    </item>
     <item>
       <title>我使用蓝牙控制软式水下机器人章鱼</title>
       <link>https://www.reddit.com/r/programming/comments/1i1svxj/me_using_bluetooth_control_of_an_soft_underwater/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/itamarst  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1e8z9/catching_memory_leaks_with_your_test_suite/</guid>
       <pubDate>Tue, 14 Jan 2025 19:29:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joel Hawksley：Maintainable.fm 上的前端复杂性的隐性成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1dfx9/joel_hawksley_the_hidden_costs_of_frontend/</link>
-      <description><![CDATA[  由    /u/robbyrussell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1dfx9/joel_hawksley_the_hidden_costs_of_frontend/</guid>
-      <pubDate>Tue, 14 Jan 2025 18:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Node.js + Apryse 在服务器上将 DOCX 转换为 Web 适用的 PDF</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1avy6/using_nodejs_apryse_to_convert_docx_to_webready/</link>
-      <description><![CDATA[  由    /u/9millionrainydays_91  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1avy6/using_nodejs_apryse_to_convert_docx_to_webready/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>pgDog：PostgreSQL 的负载均衡器</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1a39e/pgdog_load_balancer_for_postgresql/</link>
-      <description><![CDATA[  由    /u/levkk1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1a39e/pgdog_load_balancer_for_postgresql/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用真实地理数据和几行代码创建玩具地球</title>
-      <link>https://www.reddit.com/r/programming/comments/1i19odf/creating_a_toy_earth_with_real_geographical_data/</link>
-      <description><![CDATA[  由    /u/Inst2f  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i19odf/creating_a_toy_earth_with_real_geographical_data/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fluent 断言偷偷地从 Apache 2.0 更改为 Source-Available（付费商业使用），而没有为过去的提交提供开源许可证</title>
-      <link>https://www.reddit.com/r/programming/comments/1i19l11/fluent_assertion_sneakily_changed_from_apache_20/</link>
-      <description><![CDATA[  由    /u/Muchaszewski  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i19l11/fluent_assertion_sneakily_changed_from_apache_20/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>缓冲数据网格，最多包含 500 万个单元</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1928p/buffered_data_grid_with_up_to_5_million_cells/</link>
-      <description><![CDATA[  由    /u/TobiasUhlig  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1928p/buffered_data_grid_with_up_to_5_million_cells/</guid>
-      <pubDate>Tue, 14 Jan 2025 15:51:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

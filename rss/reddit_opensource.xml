@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 09:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 12:02:43 GMT</lastBuildDate>
+    <item>
+      <title>易于使用的项目管理建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1uonz/suggestion_for_easytouse_project_management/</link>
+      <description><![CDATA[大家好， 我正在从事多个（研究）项目和任务，想简化我的流程：现在我有电子邮件、存储在“项目目录”中的文档（同步到 Nextcloud）、待办事项列表、日历（所有 Nextcloud）...  ...但我想简化它，这样我就可以将任务与文档、截止日期联系起来......能够拥有某种仪表板并查看我所有的项目、状态、任务......如果我还能以某种方式将电子邮件链接到它以打开与任务相关的邮件（IMAP），那就太好了。 我尝试过 openProject，但它似乎太复杂了，更适合多人参与的大型项目。我只想管理&lt;​​em&gt;我的职责：“设置一个项目”并开始输入内容而没有陡峭的学习曲线（时间限制）:) 有人对如何“在一个地方”管理它有什么建议吗，比如像 Zotero 用于引用？所以我会打开它，查看我开放的项目、它们的文档（甚至可能是修订版）......？ 它必须是 OSS，如果它在线，它应该是自托管的。  谢谢！    提交人    /u/_TheZmaj_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1uonz/suggestion_for_easytouse_project_management/</guid>
+      <pubDate>Wed, 15 Jan 2025 10:37:43 GMT</pubDate>
+    </item>
     <item>
       <title>项目社区聚集在哪里？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1sra1/where_does_the_community_of_a_project_hang_out_on/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i13149/paris_open_source_ai_summit/</guid>
       <pubDate>Tue, 14 Jan 2025 10:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inkscape：一个爱情故事</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</link>
-      <description><![CDATA[我记得几年前运行过 Inkscape，当时想着“这太令人困惑了……回到 Adob​​e Illustrator。” 我不知道主要的 GUI 大修是什么时候发生的，或者我现在是否恰好更聪明了（怀疑），但昨天再次尝试后，我必须说我印象非常深刻。 昨天，我设法从头开始创建了一份看起来不错的简历，比我之前在 Adob​​e Illustrator 中的尝试更省力。我实际上认为 Inkscape 提供了更直观的工作流程。 我以前的工作流程包括运行带有 Windows 的虚拟机（我知道……我觉得很肮脏。），然后从那里运行 Photoshop、Illustrator 和 Acrobat。这当然会影响性能。 我只使用 Acrobat 来向使用 Illustrator 创建的 PDF 添加超链接。Inkscape 能够导出带有有效链接的 PDF。 这意味着我现在终于可以摆脱虚拟机了。我将使用 Gimp 而不是 Photoshop :P    提交人    /u/TajinToucan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</guid>
-      <pubDate>Tue, 14 Jan 2025 08:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
