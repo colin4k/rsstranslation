@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 03:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 09:02:16 GMT</lastBuildDate>
+    <item>
+      <title>项目社区聚集在哪里？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1sra1/where_does_the_community_of_a_project_hang_out_on/</link>
+      <description><![CDATA[大家好，我想加入 gsoc 2025 并学习开源开发的诀窍。我想与我感兴趣的项目社区互动。他们通常在哪里闲逛。即使我没有被选中，我也想至少学习一些有关开源的知识。    提交人    /u/asylumkhk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1sra1/where_does_the_community_of_a_project_hang_out_on/</guid>
+      <pubDate>Wed, 15 Jan 2025 08:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>命令行工具用于测试每种架构上的服务器/桌面/硬件性能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1qydz/command_line_tool_to_test_your/</link>
+      <description><![CDATA[       由    /u/BrainFooLong  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1qydz/command_line_tool_to_test_your/</guid>
+      <pubDate>Wed, 15 Jan 2025 05:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>tinyfeed：自托管、极简主义的 feed 聚合器，首个稳定版本发布于 1.0</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1qwy9/tinyfeed_selfhosted_minimalist_feed_aggregator/</link>
+      <description><![CDATA[      一年前我开始研究 TinyFeed，我不喜欢现有的 feed 阅读器解决方案。它们中的许多似乎过于复杂，大多数都需要数据库（甚至不支持 sqlite）。对于一个简单的 feed 阅读器来说，它感觉有点大材小用。我想要的是一个易于设置的应用程序（没有数据库，没有配置），具有清晰且极简的界面来简化链接。所以我构建了一个 CLI 工具，可以从 feed 集合中生成静态 HTML 页面。 现在，我很高兴地宣布它从那时起一直在慢慢改进。它现在即将推出第一个稳定版本，即 1.0 版！ 主要功能包括： - 支持 RSS、Atom 和 JSON feed - 高度可定制，尤其是能够使用外部样式表和模板。 - 根据系统偏好设置深色/浅色主题 - 生成的页面轻量级且完全可访问 - 支持守护进程模式以定期重新生成输出    提交人    /u/TheBigRoomXXL   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1qwy9/tinyfeed_selfhosted_minimalist_feed_aggregator/</guid>
+      <pubDate>Wed, 15 Jan 2025 05:52:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚推出了一个开源软件 - chooat-chat-ai</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1qnrs/i_just_launch_an_open_source_chooatchatai/</link>
+      <description><![CDATA[        提交人    /u/owys128   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1qnrs/i_just_launch_an_open_source_chooatchatai/</guid>
+      <pubDate>Wed, 15 Jan 2025 05:35:56 GMT</pubDate>
+    </item>
     <item>
       <title>C++ 中更漂亮的错误包</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我记得几年前运行过 Inkscape，当时想着“这太令人困惑了……回到 Adob​​e Illustrator。” 我不知道主要的 GUI 大修是什么时候发生的，或者我现在是否恰好更聪明了（怀疑），但昨天再次尝试后，我必须说我印象非常深刻。 昨天，我设法从头开始创建了一份看起来不错的简历，比我之前在 Adob​​e Illustrator 中的尝试更省力。我实际上认为 Inkscape 提供了更直观的工作流程。 我以前的工作流程包括运行带有 Windows 的虚拟机（我知道……我觉得很肮脏。），然后从那里运行 Photoshop、Illustrator 和 Acrobat。这当然会影响性能。 我只使用 Acrobat 来向使用 Illustrator 创建的 PDF 添加超链接。Inkscape 能够导出带有有效链接的 PDF。 这意味着我现在终于可以摆脱虚拟机了。我将使用 Gimp 而不是 Photoshop :P    提交人    /u/TajinToucan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i11oaj/inkscape_a_love_story/</guid>
       <pubDate>Tue, 14 Jan 2025 08:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>终极 React 文件上传器包含所有电池（测试版！）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0zzux/the_ultimate_react_file_uploader_all_batteries/</link>
-      <description><![CDATA[我们正在构建Upup。一个开源、免费使用的 React 组件库，可与 DigitalOcean Spaces、Amazon S3、Google Drive 和 Azure 无缝集成。我们目前处于测试版，但距离全面发布只有一周的时间。我们的开发人员正在开发中！ 为什么选择 Upup？  包含电池：已准备好将前端和后端代码插入您的代码库以处理您的 S3 上传！ 灵活性：没有后端？有一个简单的 React 应用程序吗？或者只想使用我们的前端并处理您自己的后端逻辑？当然！我们保持了它的模块化以实现所有这些功能！ 安全性和简单性：直接前端上传（像大多数现代应用程序一样）以实现速度和便利性。需要更多层吗？随时与您的后端集成。 直接支持流行的云提供商：我们不只是提供一个简单的 S3 接口，我们还确保组件支持一些最受欢迎的提供商，如 Backblaze、DigitalOcean 和AWS。 轻松安装：npm install 或 yarn add，配置您的密钥，就可以开始了。  欢迎随意访问 repo：https://github.com/devinoSolutions/upup    提交人    /u/Apart_Author_9836   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0zzux/the_ultimate_react_file_uploader_all_batteries/</guid>
-      <pubDate>Tue, 14 Jan 2025 06:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 HTML5 和 JS 制作我自己的跨平台和 FOSS CAD</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0wy2p/made_my_own_crossplatform_and_foss_cad_using/</link>
-      <description><![CDATA[嗨呀！我制作了自己的 CAD 软件，它易于使用且开源，我将其命名为 CompassCAD（不要与 Compass Card 混淆），这是一款可在 Windows 和 Linux 上下载的 CAD 软件（我决定不发布 Mac 版本，因为根据 Sourceforge 的数据，Mac 用户没有耐心），并且还有浏览器版本。CAD 引擎基于一个旧项目（https://github.com/hacklabcz/WebCAD5），但它经过大量修改以满足我的要求。 源代码可在我的 GitHub 上找到：https://github.com/zeankundev/CompassCAD 如果您想下载（Windows/Linux），这里是最新版本的链接。 https://github.com/zeankundev/CompassCAD/releases/latest 如果您使用的是 Mac、任何其他操作系统或无法使用 CompassCAD 桌面的 PC，您也可以使用 Web 版本 https://zeankundev.github.io/CompassCAD/editor.html  （附注：您可以在任何 Android/iOS 设备中运行 CompassCAD Web，只要它支持鼠标（在带有简单电视浏览器的 Aqua Android 智能电视上测试，并将 Logitech G102 连接到电视）。对于 iPad，请尝试使用 Apple Pencil（我没有用 iPad 测试过）） 目前，我正在构建 1.7.0，但我不知道在CompassCAD。您也可以留下反馈，这样我就可以让体验变得更好。谢谢！    提交人    /u/zeankundev   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0wy2p/made_my_own_crossplatform_and_foss_cad_using/</guid>
-      <pubDate>Tue, 14 Jan 2025 03:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我整合了 150 家航空公司的随身行李限额，这样你就不必</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0q9nn/ive_combined_carryon_allowances_for_150_airlines/</link>
-      <description><![CDATA[大家好 r/opensource， 在寻找一款符合各家航空公司随身行李要求的新背包时，我意识到比较政策是多么繁琐。这启发我创建了 CarryFit，这是一个小型 SPA，旨在为其他人简化流程。 CarryFit 可帮助旅行者检查他们的随身行李是否符合航空公司尺寸要求。它支持 150 多家航空公司，并允许您输入行李尺寸以查看其是否符合要求。 在后端工作了 10 年后，这个项目也是我探索前端开发的方式，我很乐意收到一些反馈。该应用程序包括响应式设计、航空公司政策直接链接和视觉合规指示器等功能。 如果您有时间，我将非常感激您提出任何想法或建议。您可以查看源代码 (GitHub) 或网站 (Live app)。感谢您的关注！    由    /u/axel-user 提交  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0q9nn/ive_combined_carryon_allowances_for_150_airlines/</guid>
-      <pubDate>Mon, 13 Jan 2025 22:14:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们仅知道不到 1% 的 OSS 漏洞受影响的功能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0ph8m/we_only_know_the_affected_functions_for_less_than/</link>
-      <description><![CDATA[       由    /u/CirclesWeRun4  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0ph8m/we_only_know_the_affected_functions_for_less_than/</guid>
-      <pubDate>Mon, 13 Jan 2025 21:41:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
