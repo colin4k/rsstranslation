@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 00:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 03:02:49 GMT</lastBuildDate>
+    <item>
+      <title>我正在为我的雇主寻找一款聊天软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1i1nvr6/im_looking_for_a_chat_software_for_my_employer/</link>
+      <description><![CDATA[大家好， 需要一些帮助来找到合适的聊天软件程序。 它将供内部使用。 有一个名为客户服务的支持团队。他们有点像高级代理/主管。他们的工作是帮助我们的预订代理进行预订。 目前，预订代理呼叫队列，第一个可用的客户服务代理接听并帮助他们。 我想将其转换为聊天，这样客户服务代理可以同时处理多个查询。 我之前工作过的一家公司使用过一个。它的工作原理如下： 需要帮助的代理会在聊天软件中输入命令。类似这样的内容：!esc1764822 这是一条命令，加上他们需要帮助的预订号。 它会将他们放入队列中，等待帮助。 然后，客户服务代理会在聊天软件中输入 !take，它会为他们分配等待时间最长的查询，并将他们放在一起进行私人聊天。客户服务代理可以 !take 多个查询，并在单独的私人聊天中与多个代理聊天。完成后，他们会写 !end，它会关闭查询。 有什么想法吗？我相信那个叫做 SNAK，但它可能是内部创建的程序。    提交人    /u/the_h_is_silent_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1nvr6/im_looking_for_a_chat_software_for_my_employer/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 .env 文件创建了一个秘密管理器</title>
+      <link>https://www.reddit.com/r/software/comments/1i1na2o/created_a_secret_manager_for_env_files/</link>
+      <description><![CDATA[作为自由职业者，我每个月都会用它跟踪我的 .env 文件，同时还有多个客户。我的一些项目正在外包，所以其他开发人员正在为我做这件事。通常，当新开发人员加入时，他们首先会问“生产环境或本地环境的 .env 文件在哪里”。而且在 slack 和其他渠道上再次查找它非常麻烦。 这就是我创建 Hold My Env 的原因，它是一种安全管理和存储 .env 文件的工具。它开始是我自己解决挫折感的个人解决方案，现在与您分享。 谢谢您，任何宝贵的反馈意见都将不胜感激！ https://preview.redd.it/bnb9s7y2j2de1.png?width=1684&amp;format=png&amp;auto=webp&amp;s=7a88ba28951a8703fe6ad15ef9c34d9e583feed7    提交人    /u/rymsjr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1na2o/created_a_secret_manager_for_env_files/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:24:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>JPG 与 PNG 最接近</title>
+      <link>https://www.reddit.com/r/software/comments/1i1mk1c/jpgs_closest_to_pngs/</link>
+      <description><![CDATA[我决定使用 JPG 来节省电脑空间。哪些软件或工具可以从视频中制作出最接近或看起来像 PNG 的 JPG？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1mk1c/jpgs_closest_to_pngs/</guid>
+      <pubDate>Wed, 15 Jan 2025 01:46:53 GMT</pubDate>
+    </item>
     <item>
       <title>Avid Elastic Reality</title>
       <link>https://www.reddit.com/r/software/comments/1i1jq6z/avid_elastic_reality/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[几乎尝试了 reddit 上所有其他建议，但那些建议很久以前就出现了，而且似乎都没有用，或者网站已经死了。 非常感谢您的建议 谢谢    提交人    /u/Extra_Confusion_3297   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i0laxf/new_app_or_website_to_trim_youtube_videos_online/</guid>
       <pubDate>Mon, 13 Jan 2025 18:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bandicam 有窗口捕捉功能吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1i0izz7/bandicam_alternative_with_snap_to_window/</link>
-      <description><![CDATA[我认为 obs 没有这个功能，而且 obs 设置起来很麻烦，还有其他选择吗？    提交人    /u/Neoslayer   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0izz7/bandicam_alternative_with_snap_to_window/</guid>
-      <pubDate>Mon, 13 Jan 2025 17:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Macbook 和三星用户：推荐使用什么软件来“同步”这些设备？</title>
-      <link>https://www.reddit.com/r/software/comments/1i0hcz4/macbook_samsung_user_recommended_softwares_to/</link>
-      <description><![CDATA[大家好，新年快乐。抱歉，这里不适合问这种问题，但有人可能会对这个问题有一些指导。 我最近刚从 iPhone 换到三星，但仍在使用我的 MacBook Air 15 英寸。我以前很喜欢我的提醒、笔记和照片都能很好地同步。现在有了三星，我正在测试不同的软件和应用程序，以重新创建我在苹果泡沫中生活时所拥有的功能。具体来说，我很想听听你用它做什么： - 用于图片（Google 照片很不错，但我会接受建议） - 音乐（Spotify，但如果你使用不同的音乐，我很乐意尝试） - 组织生活（以生产力为中心，例如笔记、日历、待办事项列表或提醒...） 无论如何，非常感谢你们所有人，如果这里不适合问这种问题，我再次表示歉意。敬请，    提交人    /u/CaptainAhabishere101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0hcz4/macbook_samsung_user_recommended_softwares_to/</guid>
-      <pubDate>Mon, 13 Jan 2025 16:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找文件重命名软件-有记录吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1i0h89s/looking_for_a_file_renaming_software_got_recs/</link>
-      <description><![CDATA[请温柔一点，我不是技术人员，我是做营销的！ 我被要求找到一个批量文件重命名软件以便在工作中使用。作为背景，我们是一家专业服务公司，每年春天都会收到数千份税务文件。这些文件带有客户聘请的税务团队起的混乱名称 - 通常是一系列半随机的字母和数字。我们需要文件反映文档的年份、文档类型（哪种税表）以及税表适用于哪个客户。 目前，我的团队根据标准化的内部命名约定手动重命名每个税务文件，如下所示：2025 Reddit Post - GetThee2ANunnery。 在此示例中，“2025 Reddit Post - ”是适用于批次中所有文档的前缀，而“GetThee2ANunnery”是客户名称，可以在每份税务文件内的某个框中找到。 有没有一种软件可以让我们重命名所有具有相同前缀（“2025 Reddit Post -”）的文档，但会读取税务文件上的特定/指定框以填写客户名称作为后缀？我在网上看到的所有内容都只能使用预设的命名约定进行重命名 - 例如 2025 Reddit Post - GetThee2ANunnery1、2025 Reddit Post - GetThee2ANunnery2 等 - 但不会从文档本身中获取任何信息，例如客户名称。 如果有帮助，我们使用 Windows 作为操作系统，使用 UpClose 作为基于云的文件存储。 告诉我！这将为我的团队节省大量时间！！    提交人    /u/GetThee2ANunnery   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0h89s/looking_for_a_file_renaming_software_got_recs/</guid>
-      <pubDate>Mon, 13 Jan 2025 16:01:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
