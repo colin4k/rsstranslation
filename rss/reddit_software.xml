@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 14 Jan 2025 18:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:03:31 GMT</lastBuildDate>
+    <item>
+      <title>Avid Elastic Reality</title>
+      <link>https://www.reddit.com/r/software/comments/1i1jq6z/avid_elastic_reality/</link>
+      <description><![CDATA[有人知道我在哪里可以得到 Avid Elastic Reality 或其他替代品吗？它可以在现代电脑上运行吗？ 我正在制作动画，我喜欢 Angela Anaconda 的恐怖氛围。    提交人    /u/CarmaMcArdle   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1jq6z/avid_elastic_reality/</guid>
+      <pubDate>Tue, 14 Jan 2025 23:29:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 SelfishNet 这样的程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1i1dm5n/program_like_selfishnet/</link>
+      <description><![CDATA[有没有像 SelfishNet 这样的程序，现在没有更新，无法使用？像 SelfishNet 一样简单又免费的限制其他用户上网的程序？（我有便宜的 ahh 路由器，没有 QoS 和其他限制器） （NetCut、NetLimiter 不起作用）    提交人    /u/starky_tvle   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1dm5n/program_like_selfishnet/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有不错的周边品牌应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1i1csv0/is_there_a_peripheral_brand_app_that_doesnt_suck/</link>
+      <description><![CDATA[我玩多个游戏并使用游戏配置文件、可自定义的按键等等。为此，我坚持使用一个品牌的外围设备（键盘、鼠标和耳机），以避免多个软件的开销。这些年来，我尝试过 Logitech (GHub) 和 Corsair (iCUE)。硬件方面有好有坏，但无论多少词都无法描述这两款软件给我带来的糟糕体验。iCUE 比 GHub 略有改进，但它仍然充斥着从未修复过的错误，性能糟糕，并不断引入无人关心的垃圾，如“壁画”。我可以继续说下去，但这不是重点。 您会推荐其他哪个竞争对手？我只在这里寻找基本功能：键盘/鼠标中的可自定义按键、自动配置文件切换以及该死的东西正常工作。我才不在乎颜色、壁画或者他们给已经臃肿的应用程序添加的任何无用的东西。    提交人    /u/Anibe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i1csv0/is_there_a_peripheral_brand_app_that_doesnt_suck/</guid>
+      <pubDate>Tue, 14 Jan 2025 18:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>对已安装的软件进行分类</title>
       <link>https://www.reddit.com/r/software/comments/1i1845e/categorize_installed_software/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[请温柔一点，我不是技术人员，我是做营销的！ 我被要求找到一个批量文件重命名软件以便在工作中使用。作为背景，我们是一家专业服务公司，每年春天都会收到数千份税务文件。这些文件带有客户聘请的税务团队起的混乱名称 - 通常是一系列半随机的字母和数字。我们需要文件反映文档的年份、文档类型（哪种税表）以及税表适用于哪个客户。 目前，我的团队根据标准化的内部命名约定手动重命名每个税务文件，如下所示：2025 Reddit Post - GetThee2ANunnery。 在此示例中，“2025 Reddit Post - ”是适用于批次中所有文档的前缀，而“GetThee2ANunnery”是客户名称，可以在每份税务文件内的某个框中找到。 有没有一种软件可以让我们重命名所有具有相同前缀（“2025 Reddit Post -”）的文档，但会读取税务文件上的特定/指定框以填写客户名称作为后缀？我在网上看到的所有内容都只能使用预设的命名约定进行重命名 - 例如 2025 Reddit Post - GetThee2ANunnery1、2025 Reddit Post - GetThee2ANunnery2 等 - 但不会从文档本身中获取任何信息，例如客户名称。 如果有帮助，我们使用 Windows 作为操作系统，使用 UpClose 作为基于云的文件存储。 告诉我！这将为我的团队节省大量时间！！    提交人    /u/GetThee2ANunnery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i0h89s/looking_for_a_file_renaming_software_got_recs/</guid>
       <pubDate>Mon, 13 Jan 2025 16:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找虚拟音频驱动程序建议</title>
-      <link>https://www.reddit.com/r/software/comments/1i0gl4j/looking_for_virtual_audio_driver_suggestions/</link>
-      <description><![CDATA[我正在构建一个基于 Windows 的音频处理系统。我目前正在使用 VB Cable 在应用程序之间路由音频，但我面临着高延迟的问题，尤其是在实时音频操作期间。 是否有更好的低延迟虚拟音频驱动程序替代方案用于 Windows 上的实时音频路由？    提交人    /u/vividly_voidy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0gl4j/looking_for_virtual_audio_driver_suggestions/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在笔记本电脑上播放剧院演出离线音乐的软件，可搜索标题或标签</title>
-      <link>https://www.reddit.com/r/software/comments/1i0gdiy/software_to_play_offline_music_on_laptop_for/</link>
-      <description><![CDATA[对于业余戏剧表演，我需要从笔记本电脑播放音乐。   我不知道需要哪种音乐，因此我需要收集涵盖大多数流派和情绪的音乐，大约 200-300 首曲目。  我还需要非音乐曲目作为背景音景（例如屋顶上的雨水或繁忙的餐厅）。 我需要离线播放此音乐，因为无法保证现场有互联网连接，因此需要本地存储。 我希望能够非常快速地搜索曲目以在场景中找到最佳曲目。这需要一个系统来预先在每个曲目上添加多个标签，然后搜索这些标签，或者需要能够重命名曲目的标题并预先在每个曲目的标题中放入我的所有关键字，这样我就可以使用它来快速搜索它们。 不必免费，但要足够便宜才能达到这个目的。  我假设一个简单的老式 mp3 播放器就可以了，但仍然想先检查一下选项和意见。谢谢！    提交人    /u/Tidec   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0gdiy/software_to_play_offline_music_on_laptop_for/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有类似于 Permute for Mac 的 Windows 视频转换器？</title>
-      <link>https://www.reddit.com/r/software/comments/1i0ekrw/is_there_a_windows_video_converter_similar_to/</link>
-      <description><![CDATA[我已经使用 Mac 版 Permute 很多年了，打算继续使用它。但我还有一台 Windows 机器，我想为其安装一个类似的应用程序。  基本上它是一个视频转换器，就像 Handbrake 一样。但它允许您修剪视频的开头和结尾，还允许您通过将视频边缘拖得更紧来裁剪分辨率。    提交人    /u/CincyTriGuy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i0ekrw/is_there_a_windows_video_converter_similar_to/</guid>
-      <pubDate>Mon, 13 Jan 2025 14:00:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

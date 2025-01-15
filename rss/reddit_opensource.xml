@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 14 Jan 2025 18:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:03:48 GMT</lastBuildDate>
+    <item>
+      <title>Git 意见</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1jwwi/git_opinion/</link>
+      <description><![CDATA[如果您认为 git 很复杂，那么您个人最喜欢的版本控制工具是什么？    提交人    /u/emonshr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1jwwi/git_opinion/</guid>
+      <pubDate>Tue, 14 Jan 2025 23:38:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenHabitTracker 1.1.0 现已推出，并带有简化的初始屏幕</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dol5/openhabittracker_110_is_here_with_simplified/</link>
+      <description><![CDATA[非常感谢您的反馈！ 你们中的许多人都说初始屏幕让人不知所措，所以我对其进行了简化： - 从欢迎说明开始，而不是复杂的示例 - 从仅注释选项卡开始，而不是所有内容（注释、任务、习惯） - 从打开菜单开始，而不是搜索、过滤、排序 OpenHabitTracker 现在也可以在 Flathub 上使用（它应该很快就会在 Flathub 网站上可见） OpenHabitTracker 是一个开源 Blazor 应用程序，用于管理任务、笔记和习惯。它可以在 Web、Windows、Linux、Android、iOS 和 macOS 上运行。请访问 https://openhabittracker.net 我很想听听您对未来更新的想法或意见！   由    /u/Jinjinov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dol5/openhabittracker_110_is_here_with_simplified/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Litecuda - 用 C++ 编写的轻量级 GPU 虚拟化框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</link>
+      <description><![CDATA[大家好，我正在启动一个新的开源项目，部分是为了更好地学习 C++，部分是为了向人们提供一些有用的东西。 受到另一个开源项目 (scuda) 的启发，我决定构建 Litecuda 一个用于 GPU 虚拟化的轻量级 C++ 框架，旨在在单个物理 GPU 上模拟多个独立的虚拟 GPU 实例。 它旨在实现跨多个虚拟 GPU 高效共享 GPU 资源（如内存和计算）。我才刚刚开始这个项目，正在寻找其他贡献者和扩展它的想法。    提交人    /u/_twelvechess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dob7/litecuda_a_lightweight_gpu_virtualization/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAG 的 5 大开源数据抓取工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1dbjv/top_5_open_source_data_scraping_tools_for_rag/</link>
+      <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1dbjv/top_5_open_source_data_scraping_tools_for_rag/</guid>
+      <pubDate>Tue, 14 Jan 2025 18:51:16 GMT</pubDate>
+    </item>
     <item>
       <title>最好的 AI Agent 框架是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好！ 很长一段时间以来，一直有一款名为 MechVibes 的应用程序，它可以在您打字时添加可自定义的打字声音。但是，对我来说，它缺少一项核心功能。那就是根据我当前正在使用的应用程序来控制何时出现声音的能力。 我曾考虑将此功能添加到 MechVibes，但现有的技术堆栈确实不允许这样的功能。所以，几年前我决定创建自己的能够做到这一点的应用程序。 由此，我开发了键盘声音。 键盘声音是一个完全免费的开源应用程序，可以使任何键盘听起来像机械键盘。它包括 11 个内置配置文件、一个用于创建自己的声音包的配置文件编辑器、应用程序规则和一个全面的后端 /CLI 界面。 目前，桌面应用程序支持 Windows，而后端 /CLI 支持 macOS、Linux 和 Windows。 您可以在项目官方网站或GitHub 存储库上找到更多信息。    提交人    /u/MediocreAnywhere1221   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i0hcfb/i_developed_an_opensource_application_that_adds/</guid>
       <pubDate>Mon, 13 Jan 2025 16:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有兴趣为开源做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0gwh6/i_am_interested_in_contributing_to_open_source/</link>
-      <description><![CDATA[大家好，我是开源新手，所以如果你们能帮助我入门的话，那将会很有帮助，如果我能加入已经为开源做出贡献的人，那就太好了。TIA！😅    提交人    /u/jack_the_ripper__   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0gwh6/i_am_interested_in_contributing_to_open_source/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:47:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>可在浏览器中运行的 3D 空间视频播放器（React 和 Vanilla JS 示例）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0fjea/3d_spatial_video_player_that_works_in_your/</link>
-      <description><![CDATA[        由    /u/ItsTheWeeBabySeamus  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0fjea/3d_spatial_video_player_that_works_in_your/</guid>
-      <pubDate>Mon, 13 Jan 2025 14:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的图像编辑器开源可行吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0ax5d/is_it_viable_to_go_opensource_with_my_image_editor/</link>
-      <description><![CDATA[我正在开发一款图像编辑器，它将光栅编辑工具（如 Photoshop）与一些矢量工具（如 Figma）相结合。我的目标是创造一款功能强大但又易于使用的产品。然而，鉴于 Photoshop、Affinity、Luminar 和可能的 Photomator（Apple 刚刚收购）等大公司的主导地位，我很难看出我如何能够作为付费产品参与竞争。 这让我想到：如果我开源会怎么样？Blender 和 Godot 等成功的例子让我认为它可以发挥巨大作用，从而打造出一款拥有强大社区的优秀产品。 （顺便说一句，我正在使用 Godot 构建我的编辑器。） 我的想法是：  开发在拥挤的市场中脱颖而出的独特功能。 建立一个重视开源原则的图形程序员和用户社区。 使用 YouTube 等平台进行开发日志，以记录过程、分享进度和吸引贡献者。  我很想听听您对这种方法的看法：  在这样的市场中，开源是一种可行的商业策略吗？ 我应该为哪些关键挑战做好准备，特别是在货币化和社区建设方面？ 在创意领域，开源软件是否有特定的有效收入模式？     提交人    /u/velikiy_soup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0ax5d/is_it_viable_to_go_opensource_with_my_image_editor/</guid>
-      <pubDate>Mon, 13 Jan 2025 10:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在人工智能公司找到工作？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i09nmu/how_to_get_a_job_in_ai_firms/</link>
-      <description><![CDATA[我听说，要想在顶级 AI 公司找到工作，需要拥有数学/计算机科学博士学位。仅通过为开源项目做贡献就能进入这些公司吗？    提交人    /u/DixGee   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i09nmu/how_to_get_a_job_in_ai_firms/</guid>
-      <pubDate>Mon, 13 Jan 2025 08:38:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
