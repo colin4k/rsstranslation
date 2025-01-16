@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 16 Jan 2025 06:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 12:02:26 GMT</lastBuildDate>
+    <item>
+      <title>HTMX：网络的未来</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2mmjb/htmx_the_future_of_the_web/</link>
+      <description><![CDATA[  由    /u/NicDevIam  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2mmjb/htmx_the_future_of_the_web/</guid>
+      <pubDate>Thu, 16 Jan 2025 11:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 RAG 聊天机器人：以下是我构建它的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2mez1/my_first_rag_chatbot_heres_how_i_built_it/</link>
+      <description><![CDATA[  由    /u/xueweihan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2mez1/my_first_rag_chatbot_heres_how_i_built_it/</guid>
+      <pubDate>Thu, 16 Jan 2025 10:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>AutoResearch：一种新的开源 LLM 驱动的研究自动化工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2m9sm/autoresearch_a_new_opensource_llmdriven_research/</link>
+      <description><![CDATA[  由    /u/constantmotion385  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2m9sm/autoresearch_a_new_opensource_llmdriven_research/</guid>
+      <pubDate>Thu, 16 Jan 2025 10:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>流行的网络安全播客被证实完全是假的</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2lx13/the_popular_cyber_security_podcast_that_turned/</link>
+      <description><![CDATA[  由    /u/Old_Price3560  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2lx13/the_popular_cyber_security_podcast_that_turned/</guid>
+      <pubDate>Thu, 16 Jan 2025 10:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何利用法学硕士学位进行编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2l0hr/how_i_program_with_llms/</link>
+      <description><![CDATA[  由    /u/Wownever  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2l0hr/how_i_program_with_llms/</guid>
+      <pubDate>Thu, 16 Jan 2025 09:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要使用 Session（信号分叉）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2khcg/dont_use_session_signal_fork/</link>
+      <description><![CDATA[  由    /u/woltan_4  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2khcg/dont_use_session_signal_fork/</guid>
+      <pubDate>Thu, 16 Jan 2025 08:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向未来的软件架构：专家演讲 • Sam Newman 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2kbou/software_architecture_for_tomorrow_expert_talk/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2kbou/software_architecture_for_tomorrow_expert_talk/</guid>
+      <pubDate>Thu, 16 Jan 2025 08:18:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Async Rust 关注的是并发性，而不仅仅是性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2k288/async_rust_is_about_concurrency_not_just/</link>
+      <description><![CDATA[  由    /u/onlyzohar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2k288/async_rust_is_about_concurrency_not_just/</guid>
+      <pubDate>Thu, 16 Jan 2025 07:58:52 GMT</pubDate>
+    </item>
     <item>
       <title>OPAL - 开源细粒度授权工具</title>
       <link>https://www.reddit.com/r/programming/comments/1i2hz2i/opal_an_opensource_for_finegrained_authorization/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[  由    /u/deepCelibateValue  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i2091n/proxy_alice_predictive_messages_for_concealed/</guid>
       <pubDate>Wed, 15 Jan 2025 15:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建机器学习模型——模型架构、评估、数据准备等</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1zoez/building_a_machine_learning_model_from_scratch/</link>
-      <description><![CDATA[  由    /u/gamedev-exe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1zoez/building_a_machine_learning_model_from_scratch/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>首先检查你自己的 Pull 请求！</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1xbqk/review_your_own_pull_request_first/</link>
-      <description><![CDATA[  由    /u/ashwin2125  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1xbqk/review_your_own_pull_request_first/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 Delphi 和 C++ 开发人员的 TMS Academic 计划更新</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</link>
-      <description><![CDATA[  由    /u/Famous_Pitch_7483  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1x7h7/tms_academic_program_update_for_delphi_and_c/</guid>
-      <pubDate>Wed, 15 Jan 2025 13:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准化授权、非人类身份和委托访问、用于审计日志分析的 AI 以及我们在 2025 年看到的其他 AuthZ 趋势</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1wrsu/standardizing_authorization_nonhuman_identities/</link>
-      <description><![CDATA[  由    /u/West-Chard-1474  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1wrsu/standardizing_authorization_nonhuman_identities/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:56:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，视频非常详细，适合任何想要提升自己 C 编程技能的人</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</link>
-      <description><![CDATA[  由    /u/Patient_Hat4564  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:42:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们要使用 LLM 作为计算器？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1w91t/why_are_we_using_llms_as_calculators/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1w91t/why_are_we_using_llms_as_calculators/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码是资产还是负债？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1vs6z/is_code_an_asset_or_a_liability/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>llama.cpp：为 GGUF LLM 模型编写一个简单的 C++ 推理程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</link>
-      <description><![CDATA[  由    /u/shubham0204_dev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1u8sm/llamacpp_writing_a_simple_c_inference_program_for/</guid>
-      <pubDate>Wed, 15 Jan 2025 10:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
