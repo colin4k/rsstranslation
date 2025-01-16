@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 Jan 2025 03:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 06:02:27 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 元数据视频下载器（开源）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i2g2xa/tiktok_metadata_video_downloader_open_source/</link>
+      <description><![CDATA[随着 TikTok 在美国可能被禁止，许多用户都在争先恐后地保存他们最喜欢的视频和个人内容。我开发了一个开源工具，可让您直接从元数据 JSON 文件中下载 TikTok 视频。 此 Python 工具在 The Unlicense 下获得许可，允许用户： 从他们的“收藏夹”或个人上传中下载视频。使用元数据日期生成有意义的文件名。验证 TikTok URL 以进行准确下载。它利用强大的 yt-dlp 库进行视频提取，并且易于使用。查看、贡献或与任何可能认为有用的人分享！ GitHub 存储库：https://github.com/KenAdamson/tiktok-dl    由   提交  /u/SonoftheBread   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i2g2xa/tiktok_metadata_video_downloader_open_source/</guid>
+      <pubDate>Thu, 16 Jan 2025 03:41:36 GMT</pubDate>
+    </item>
     <item>
       <title>现在是 2025 年，我们已准备好迎接更多开源！</title>
       <link>https://www.reddit.com/r/opensource/comments/1i28sys/its_2025_were_ready_for_more_open_source/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1dbjv/top_5_open_source_data_scraping_tools_for_rag/</guid>
       <pubDate>Tue, 14 Jan 2025 18:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 AI Agent 框架是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</link>
-      <description><![CDATA[提前致谢！    由    /u/omnisvosscio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:31:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
