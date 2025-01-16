@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 21:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 03:02:53 GMT</lastBuildDate>
+    <item>
+      <title>现在是 2025 年，我们已准备好迎接更多开源！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i28sys/its_2025_were_ready_for_more_open_source/</link>
+      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i28sys/its_2025_were_ready_for_more_open_source/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>CopilotKit 发布 v0.3 - 完整的 LangGraph 消息奇偶校验</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i28g0b/copilotkit_release_v03_complete_langgraph_message/</link>
+      <description><![CDATA[大家好，我是 CopilotKit 的开发倡导者，这是一个用于构建应用内 AI 助手和全栈代理应用程序的开源框架。 一开始，我什么都不卖；我们是免费、开源的，非常注重社区。 我们很高兴最近与 LangChain 合作为 LangGraph 后端构建 Agentic Generative UI 前端。我们最近推出了 CoAgents，这是一个前端框架，允许开发人员轻松地将 LangGraph 代理集成到全栈应用程序中。 我们发布了 v0.3，它为 CoAgents 引入了一些重大的开发人员生活质量改进！在发布 v0.1 和 v0.2 版本时，我们吸收了社区给予我们的大量反馈。 我们预计 v0.3 将在不久的将来发展成为 1.0 版本。 CoAgents v0.3 带来了以下功能：  更简单的消息同步： LangGraph 代理消息和 CopilotKit 消息始终自动保持 100% 同步  所有 LangGraph 代理工具调用均默认发出： 无需在代理代码中明确发出工具调用。如果前端不处理调用，那就没有任何效果。  支持“catch-all”工具调用渲染： 您可以为所有代理工具调用提供默认的“catch all”生成 UI 渲染功能   我们是完全开源的（MIT），查看我们的 GitHub：https://github.com/CopilotKit/CopilotKit    提交人    /u/nate4t   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i28g0b/copilotkit_release_v03_complete_langgraph_message/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:34:13 GMT</pubDate>
+    </item>
     <item>
       <title>通过 SLA 和可定制的工作流程进行票务管理</title>
       <link>https://www.reddit.com/r/opensource/comments/1i24eb6/ticket_management_with_sla_and_customizable/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[提前致谢！    由    /u/omnisvosscio  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</guid>
       <pubDate>Tue, 14 Jan 2025 17:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 #TiDB 播客中听 OSI 执行董事 Stefano Maffulli 与 Ray Paik 和 Daniel van Eeden 讨论为什么我们需要对 #OpenSourceAI 进行单独的定义。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</guid>
-      <pubDate>Tue, 14 Jan 2025 17:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kutt v3 - 免费开源 URL 缩短器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</link>
-      <description><![CDATA[        提交人    /u/poeti8   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:06:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
