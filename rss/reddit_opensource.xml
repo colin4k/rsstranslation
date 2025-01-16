@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 Jan 2025 15:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 21:02:42 GMT</lastBuildDate>
+    <item>
+      <title>语音转文字</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i2rim4/speech_to_text_transcribe/</link>
+      <description><![CDATA[大家好！ 我需要一个免费的语音转文本 API 来构建一些东西。有人知道我可以使用哪一个吗？    提交人    /u/PeroniaSurvivor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i2rim4/speech_to_text_transcribe/</guid>
+      <pubDate>Thu, 16 Jan 2025 15:32:52 GMT</pubDate>
+    </item>
     <item>
       <title>如果目标语言与源语言匹配，则在 Google 翻译中自动切换目标语言。</title>
       <link>https://www.reddit.com/r/opensource/comments/1i2q09n/autoswitch_target_language_in_google_translate_if/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[      一年前我开始研究 TinyFeed，我不喜欢现有的 feed 阅读器解决方案。它们中的许多似乎过于复杂，大多数都需要数据库（甚至不支持 sqlite）。对于一个简单的 feed 阅读器来说，它感觉有点大材小用。我想要的是一个易于设置的应用程序（没有数据库，没有配置），具有清晰且极简的界面来简化链接。所以我构建了一个 CLI 工具，可以从 feed 集合中生成静态 HTML 页面。 现在，我很高兴地宣布它从那时起一直在慢慢改进。它现在即将推出第一个稳定版本，即 1.0 版！ 主要功能包括： - 支持 RSS、Atom 和 JSON feed - 高度可定制，尤其是能够使用外部样式表和模板。 - 根据系统偏好设置深色/浅色主题 - 生成的页面轻量级且完全可访问 - 支持守护进程模式以定期重新生成输出    提交人    /u/TheBigRoomXXL   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1qwy9/tinyfeed_selfhosted_minimalist_feed_aggregator/</guid>
       <pubDate>Wed, 15 Jan 2025 05:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 中更漂亮的错误包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</link>
-      <description><![CDATA[您好。我正在尝试扩展 LSP 以显示更漂亮的错误消息，就像在 Rust 中一样，并且正在查看这个和这个，但似乎都不能充分满足我的需求。我很好奇是否有人知道其他现有的解决方案，或者是否有其他人尝试将类似的东西纳入他们的项目的经验。也许只需查看这两个存储库并亲自尝试一下。     提交人    /u/danaeatl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</guid>
-      <pubDate>Wed, 15 Jan 2025 02:24:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

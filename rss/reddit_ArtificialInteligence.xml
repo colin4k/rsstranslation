@@ -4,13 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 15:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 21:01:54 GMT</lastBuildDate>
     <item>
-      <title>我建立了一个 AI 日历预订助手并解决了我朋友遇到的一个问题。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2qmwc/i_built_an_ai_calendar_booking_assistant_and/</link>
-      <description><![CDATA[基本上，我使用 claude 来获取代码，然后使用 gemini 作为 LLM 来处理自然语言。我的朋友是企业主，需要一种方法来提醒他必须完成的任务，而他不是技术人员。 任何反馈都非常感谢 演练 - https://youtu.be/r2pe083bV2E    提交人    /u/MindlessStation3260   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2qmwc/i_built_an_ai_calendar_booking_assistant_and/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:53:26 GMT</pubDate>
+      <title>为创意而合作</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2z2nc/partner_for_an_idea/</link>
+      <description><![CDATA[我有一个关于人工智能模型的工业市场突破性想法，我直接联系它的目标受众，我有一个可以使用它的网络。我怎样才能寻找具有人工智能编程技能的合作伙伴？ 我真的需要一个可以编写 LLM 的人，该 LLM 可以根据语音命令更改设备上的设置。 或者请告诉我我应该在哪里寻找这样的人？    提交人    /u/lkbngwtchd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2z2nc/partner_for_an_idea/</guid>
+      <pubDate>Thu, 16 Jan 2025 20:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我们现在处于人工智能应用的时代？人工智能从诞生到成熟，漫长的创新之路</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2yu90/why_are_we_living_the_age_of_ai_applications/</link>
+      <description><![CDATA[标题：“为什么我们现在生活在人工智能应用时代？从人工智能诞生到儿童睡前魔法的漫长创新之路” 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必全部翻阅了。今天的论文题为“为什么我们现在生活在人工智能应用时代？从人工智能诞生到儿童睡前魔法的漫长创新之路”，作者是 Tapio Pitkäranta。 本文通过一个引人入胜的例子，深入探讨了当代人工智能应用带来的人机交互的深刻转变：一个四岁的孩子在人工智能技术的帮助下，用插图和音频创作个性化的睡前故事。这项研究通过追溯当前 AI 系统的历史和技术演变，探索了这些功能是如何实现的。 以下是本文的要点：  硬件演进：从早期的 CPU 到 GPU 和 TPU，计算硬件的迭代进步对于开发和训练复杂的 AI 模型至关重要，从而支持现代应用程序。 万维网：万维网提供的庞大数字档案一直是训练 AI 系统的基础数据资源，为 AI 应用程序的可访问性和实用性做出了重大贡献。 移动计算：智能手机既是数据生成器，又是接入点，其普及对 AI 技术的民主化起到了重要作用，使广大受众能够使用复杂的应用程序。 云基础设施：工业规模云基础设施的兴起为AI 训练和部署所需的必要弹性和计算能力，对于 ChatGPT 背后的模型来说至关重要。 科学突破：AI 研究的关键进展，例如神经网络、反向传播和 Transformer 模型（“注意力就是你所需要的”），重新定义了 AI 系统的潜力，特别是在自然语言处理和机器学习领域。  这些因素共同凸显了重要的历史里程碑，使现代 AI 应用不仅可行，而且可以在不同领域广泛使用，对未来的创新和社会影响具有重要意义。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2yu90/why_are_we_living_the_age_of_ai_applications/</guid>
+      <pubDate>Thu, 16 Jan 2025 20:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析我的 MRI 扫描</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2yo9p/analysing_my_mri_scan/</link>
+      <description><![CDATA[嗨！您知道任何可以分析我的 MRI 脑部扫描的 AI 工具或提示吗？ 仅供参考：我已经得到诊断，并且去过放射科医生那里。我只是好奇它是否也能找到我的诊断    提交人    /u/Longjumping_Heart325   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2yo9p/analysing_my_mri_scan/</guid>
+      <pubDate>Thu, 16 Jan 2025 20:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能能否超越区块链成为下一次重大技术革命？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2xfj8/could_ai_outshine_blockchain_as_the_next_big_tech/</link>
+      <description><![CDATA[您是否注意到，在过去的一年中，区块链项目一直在大规模整合人工智能领域的解决方案？这让我不禁想知道：人工智能能否成为比区块链更具突破性的技术？或者它们的协同作用是否能够创造出全新的东西？ 人工智能有助于分析数据和自动化流程，而区块链则确保透明度、去中心化和安全性。例如，运行时链下逻辑框架 (ROFL) 允许复杂的计算在链下运行，同时通过可信执行环境 (TEE) 保持可验证性和机密性。这使其成为计算密集型任务（例如 AI 管道）的理想选择。 也许这样的工具将成为 Web4 的基础——互联网发展的下一阶段，区块链和人工智能共同为用户创造新的机会。 您认为这个未来会比看起来更近吗？或者对你来说 web4 是什么？    提交人    /u/Milana_Noir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2xfj8/could_ai_outshine_blockchain_as_the_next_big_tech/</guid>
+      <pubDate>Thu, 16 Jan 2025 19:43:33 GMT</pubDate>
     </item>
     <item>
       <title>利用闪电网络注意力机制和 MoE 将基础模型扩展到百万代币上下文</title>
@@ -18,20 +39,6 @@
       <description><![CDATA[使用闪电注意力机制扩展基础模型的新方法允许在训练期间处理多达 1M 个 token 的序列，在推理期间处理多达 4M 个 token 的序列，同时保持与当前领先模型的竞争性能。 关键技术组件包括：* 闪电注意力机制，将复杂度从 O(n²) 降低到 O(n) * 具有 32 位专家的稀疏混合专家 (MoE) 架构 * 总共 456B 个参数，但每次前向传递仅激活 45.9B * 用于处理长序列的新型训练优化 基准测试中报告的结果：* 在标准 NLP 任务上匹配或超过 GPT-4 和 Claude 2 * 在从 32K 到 1M 个 token 的序列长度上保持一致的性能 * 在包括视觉语言理解在内的多模态任务上表现出色 * 在 C4 验证集上实现 2.67 困惑度 我认为这项工作代表了使长上下文模型更具实用。高效注意力和 MoE 架构的结合可以帮助解决当前模型中序列长度有限的计算瓶颈。该实现的公开发布可能会加速对有效处理更长上下文的研究。 我认为最有趣的方面是它们如何在显着增加上下文长度的同时保持性能。这表明我们可能不需要牺牲模型质量来处理更长的序列，这可以启用文档处理和分析中的新应用。 TLDR：新架构结合了闪电注意力和 MoE，可以处理非常长的序列（最多 4M 个标记），同时匹配顶级模型性能。开源实现可用。 完整摘要在这里。论文这里。   由    /u/Successful-Western27  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2q7pb/scaling_foundation_models_to_milliontoken/</guid>
       <pubDate>Thu, 16 Jan 2025 14:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>字幕生成</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2pz62/caption_generation/</link>
-      <description><![CDATA[我正在研究使用 AI 自动生成字幕。  想法是提供一个视频文件，然后它输出 .srt 文件。理论上 AI 应该很适合这个。我发现一些选项相当昂贵，更多用于商业用途。 我在 Github 上找到了一个名为 gen-subs 的免费选项，但我无法生成输出。（可能是旧软件，也可能是我缺乏技能） 有人有这些东西的经验吗？可以推荐一些东西吗？    提交人    /u/HullTyyp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2pz62/caption_generation/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 创建 AI Udemy 课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2pof8/ai_udemy_course_creator_with_python/</link>
-      <description><![CDATA[因此，我最近编写了一个 Python 脚本，使用 F5-TTS、Manim（3blue1brown 使用）和 videopy 创建带有音频的整个课程视频。该课程甚至得到了 Udemy 版主的批准，现已上线。在此处查看整个教程：https://youtu.be/X5nJXUG-96c?si=PFJKwytiJzmE6pMU    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2pof8/ai_udemy_course_creator_with_python/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:07:41 GMT</pubDate>
     </item>
     <item>
       <title>我卖掉了自己的眼睛：加密货币公司为虹膜扫描买单 - 巴西趋势</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我注意到，在 AI 讨论中，人们倾向于模糊 LLM 等 AI 系统实际执行的操作与我们认为它们正在执行的操作之间的界限。具体来说，人们习惯于将类似人类的特质投射到与人类认知截然不同的系统中。这通常源于混淆了主体（进行“思考”的过程或实体）和对象（与该过程/实体相关的输出）。 考虑这个例子：假设您在轨道轨迹数据集上训练神经网络。它观察位置、速度和时间，然后变得非常擅长预测卫星在特定时刻的位置。但这并不意味着它发现了牛顿力学或开普勒定律。相反，它执行了一种复杂的归纳形式，识别数据中的模式并对其进行概括。这些模式间接反映了轨道定律，因为数据本身对它们进行了编码，但这并不意味着算法实际上推导出可用于执行这些计算的方程，就像在物理学中一样。 LLM 也是如此，尽管规模更大。它们处理大量文本，识别单词和想法通常如何对齐。当它们生成连贯的文本时，是因为它们从训练数据中归纳出了模式 - 而不是因为它们像人类一样“理解”语言。相比之下，物理方程来自演绎推理和实验，揭示了宇宙中更深层次的因果结构。这并不是说 LLM“仅仅”是模式查找器；它们是生成和解释语言的强大工具。但是它们的力量在于统计概括，而不是真正的概念洞察力。 这突出了 LLM 如何在基于归纳的任务上表现出色，同时又与依赖形式推理的系统（或思维）保持区别。值得注意的是，AI 作为一个领域并不局限于归纳方法，即使我们从 ML 中使用的工具是目前为它提供动力的。神经符号 AI 等方法试图将统计学习与符号逻辑相结合，旨在弥合模式识别和明确的基于规则的推理之间的差距。这与依赖思路链和 RL 的推理模型略有不同，因为从根本上讲，它们仍然是归纳的 - 它们近似推理的输出，而不是明确使用演绎来得出所述结果。 这很重要，因为如果不与演绎推理配对，归纳推理必然会受到限制，反之亦然。现代科学依赖于这两者，因为归纳推理不能保证其概括的真实性，而演绎真理不能仅通过演绎来证明（结论取决于前提为真）。 AGI 的一个障碍是，我们需要填补数据驱动方法不一定能捕捉到的推理方面。我们通过提示为与聊天机器人的对话提供支架，如果没有提示（聊天机器人相互交谈），交互就会迅速降低，而无需我们提供额外的结构/约束。 无论如何，所有这些都表明，争论人工智能是否推理是一种错误的二分法，因为我们想要的是能够完全推理的 AGI。    提交人    /u/Murky-Motor9856   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i25hi9/moving_beyond_induction/</guid>
       <pubDate>Wed, 15 Jan 2025 19:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>间谍与人工智能：人工智能将如何重塑间谍活动</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i20p1b/spy_vs_ai_how_artificial_intelligence_will_remake/</link>
-      <description><![CDATA[https://www.foreignaffairs.com/united-states/spy-vs-ai [SS 摘自美国国家安全委员会总统副助理兼网络和新兴技术副国家安全顾问 Anne Neuberger 的文章。2009 年至 2021 年，她在国家安全局担任情报和网络安全高级运营职务，包括担任该局第一任首席风险官。] 20 世纪 50 年代初，美国在与苏联日益激烈的竞争中面临着关键的情报挑战。二战期间德国过时的侦察照片已无法提供有关苏联军事能力的足够情报，而美国现有的监视能力已无法穿透苏联封闭的领空。这一缺陷促使人们发起了一项大胆的登月计划：开发 U-2 侦察机。在短短几年内，U-2 侦察机就提供了重要情报，捕捉了古巴苏联导弹设施的图像，并将铁幕后面的近乎实时的见解带到了椭圆形办公室。 今天，美国正处于类似的关口。华盛顿与其竞争对手在全球秩序未来的竞争日益激烈，现在，就像 20 世纪 50 年代初一样，美国必须利用其世界一流的私营部门和充足的创新能力来超越其对手。美国情报界必须利用该国的力量来源，以当今世界的速度向决策者提供见解。人工智能的集成，特别是通过大型语言模型，为改进情报操作和分析提供了突破性的机会，从而能够向决策者提供更快、更相关的支持。然而，这场技术革命也带来了重大的负面影响，特别是当对手利用类似的进步来发现和对抗美国的情报行动时。随着人工智能竞赛的进行，美国必须挑战自己，成为第一——第一个从人工智能中受益的人，第一个保护自己免受可能利用该技术作恶的敌人侵害的人，第一个按照民主的法律和价值观使用人工智能的人。    提交人    /u/ForeignAffairsMag   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i20p1b/spy_vs_ai_how_artificial_intelligence_will_remake/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:03:45 GMT</pubDate>
     </item>
     <item>
       <title>如何学习人工智能从基础到高级。</title>
