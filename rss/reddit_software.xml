@@ -4,20 +4,55 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 12:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 15:01:57 GMT</lastBuildDate>
+    <item>
+      <title>通过网络发送文件</title>
+      <link>https://www.reddit.com/r/software/comments/1i2qa36/file_sending_over_the_network/</link>
+      <description><![CDATA[需要帮助的人 我正在制作一个应用程序，其中我必须将文件从一个网络共享到另一个网络。 我已经构建了网络部分，但是当我转到另一个网络时，我无法传输它 有人做过这样的事情吗？    提交人    /u/wela_masroof   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i2qa36/file_sending_over_the_network/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:36:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何屏幕镜像软件解决方案仅适用于虚拟桌面的一部分？！</title>
+      <link>https://www.reddit.com/r/software/comments/1i2opv7/is_there_any_screen_mirror_software_solution_for/</link>
+      <description><![CDATA[假设您在 win10 笔记本上主要使用文本应用程序工作您需要监控的窗口数量超过您一次可以容纳的窗口数量，然后您拿出一些 a12 平板电脑，加载一些特殊类型的软件这样您就可以通过屏幕镜像将一个应用程序窗口无线拖动从笔记本到平板电脑......有这样的解决方案吗？  像这里的许多人一样，我在旅途中使用笔记本电脑工作。我经常需要第二台显示器来更有效地工作。 https://old.reddit.com/r/UsbCHardware/comments/1c6ye5n/how_is_it_possible_that_not_a_single_singlecable/ 在查看了这个 USB 线程后，我想到了一个更好的主意。  您知道如何通过 wifi/bt 将屏幕镜像 您的笔记本电脑屏幕到平板电脑吗？那么为什么不 选择虚拟桌面的一部分 并将其镜像到您的平板电脑，或者几乎 大多数人想用 USB 有线屏幕做什么。  有人见过像这样的纯软件解决方案吗？ 假设您已经拥有合适的笔记本电脑和平板电脑  我只对显示感兴趣，我不需要平板电脑触摸屏来控制笔记本电脑上的任何东西。    提交人    /u/stonecats   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i2opv7/is_there_any_screen_mirror_software_solution_for/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:19:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我非常想在 PC 上打开安全摄像头的 .265 格式的视频</title>
+      <link>https://www.reddit.com/r/software/comments/1i2o98z/im_getting_desperate_at_trying_to_open_videos_in/</link>
+      <description><![CDATA[大家好。 正如标题所示，我在 Windows 11 PC 上检查带有 .265 扩展名的文件时遇到了问题（如果谷歌没有欺骗我，它应该是 HEVC），我甚至不确定问题出在我身上还是素材本身。 我正在使用 MPC-HC 加上 K-lite 编解码器包（谷歌搜索建议我这样做），但虽然格式现在可以被识别，而且我可以检查安全摄像头保存的这些剪辑，但它们显示了很多奇怪的伪影（应该有运动的静止图像、重影、像素化伪影等）。 我还尝试了其他一些替代方案，例如 MPV 和 VLC（正如过去 reddit 关于这个主题的帖子所建议的那样），但它们的成功率甚至更低（前者在我尝试时直接关闭，后者什么也不做，就好像我没有打开一样文件）。 我甚至从 Windows 商店购买了官方的 HEVC 编解码器（是的，这就是我感觉没有选择的余地），但什么都没有改变。 我最接近进展的是尝试了 Windows 商店中的某个“视频播放器 +”，结果发现它完全是中文的 - 对我来说一般不太好用 - 并且仍然给我的视频带来了问题（极端闪烁，界面无法使用）但至少显示了不同的照片，这表明事实上我应该能够在这些剪辑上看到其他东西。 拍摄这些东西的相机是我邻居的 Ctronic 设备，它应该是那种当检测到运动时会移动并跟随人的相机，但我从每个剪辑中得到的大部分是其中立起始位置的静态图像。偶尔会出现“几分之一秒内在屏幕上移动的人物阴影，在静止图像上显示为一些奇怪的视觉伪影”。 其中一些显然也是在该框架显示的角度之外拍摄的。 这是我播放这些视频时可以看到的内容的示例： https://youtu.be/UI6Nmt12fMg 就上下文而言，解决这个问题对我来说相对重要，因为两天前我家中遭遇了入侵/盗窃，其中至少有一个视频应该向我显示谁在那个时间范围内进入了我家。 附注：是的，这是重新发布，因为版主在没有任何警告的情况下删除了我之前的帖子，也没有解释原因。   由    /u/TucoBenedictoPacif  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i2o98z/im_getting_desperate_at_trying_to_open_videos_in/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>能够使用我的 PS 4 控制器玩电脑游戏的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1i2o57v/software_to_be_able_to_play_pc_games_with_my_ps_4/</link>
+      <description><![CDATA[最近刚买了一台游戏笔记本电脑，我想用我的 PS 4 控制器玩，有谁知道可以帮助/使其正常运行诸如 GTA5、RDR2 和 EAFC 25 等游戏的软件吗？    提交人    /u/Interesting-Drive872   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i2o57v/software_to_be_able_to_play_pc_games_with_my_ps_4/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:48:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>PNG 转矢量图形</title>
+      <link>https://www.reddit.com/r/software/comments/1i2nj4p/png_to_vector_graphics/</link>
+      <description><![CDATA[如何将 PNG 和 JPG 等图像转换为 SVG 等矢量图形图像格式而不会降低质量？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i2nj4p/png_to_vector_graphics/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果所有分叉软件的“主”软件“死亡”了，那么所有分叉软件会发生什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1i2neaq/what_will_happens_to_all_the_forked_software_if/</link>
+      <description><![CDATA[我看到的最常见的例子是浏览器，其中有很多 Firefox（LibreWolf、Zen、Floorp、Tor 等）和 Chrome（Brave、Vivaldi、Opera、Edge 等）的分支 假设，如果主要的分支死了（Firefox 或 Chrome），所有分支会发生什么？考虑到它们中的大多数都是由一个人或一个非常小的团队维护的 但是在其他类别的软件中的用例呢？也许浏览器是一个非常独特的用例，因为为了从头开始构建或维护浏览器需要大量的资源，因为不断变化的网络标准，而其他软件可以在单个版本上离线工作    提交人    /u/outerzenith   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i2neaq/what_will_happens_to_all_the_forked_software_if/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:02:47 GMT</pubDate>
+    </item>
     <item>
       <title>截取 16:9 比例的屏幕截图</title>
       <link>https://www.reddit.com/r/software/comments/1i2m95o/taking_a_screenshot_that_snaps_to_169/</link>
       <description><![CDATA[有没有一个简单的软件，可以框架 16:9 的比例，我可以调整我想要截屏的页面的位置并保留 16:9 的比例？ 在 Mac 上。Chrome 扩展程序也可以使用。免费版优先。    提交人    /u/applesauceblues   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i2m95o/taking_a_screenshot_that_snaps_to_169/</guid>
       <pubDate>Thu, 16 Jan 2025 10:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我非常想在 PC 上打开安全摄像头的 .265 格式的视频</title>
-      <link>https://www.reddit.com/r/software/comments/1i2m36o/im_getting_desperate_at_trying_to_open_videos_in/</link>
-      <description><![CDATA[大家好。 正如标题所示，我在 Windows 11 PC 上检查带有 .265 扩展名的文件时遇到了问题（如果谷歌没有欺骗我，它应该是 HEVC），我甚至不确定问题出在我身上还是素材本身。 我正在使用 MPC-HC 加上 K-lite 编解码器包（谷歌搜索建议我这样做），但虽然格式现在可以被识别，而且我可以检查安全摄像头保存的这些剪辑，但它们显示了很多奇怪的伪影（应该有运动的静止图像、重影、像素化伪影等）。 我还尝试了其他一些替代方案，例如 MPV 和 VLC（正如过去 reddit 关于这个主题的帖子所建议的那样），但它们的成功率甚至更低（前者在我尝试时直接关闭，后者什么也不做，就好像我没有打开一样文件）。 我甚至从 Windows 商店购买了官方的 HEVC 编解码器（是的，这就是我感觉没有选择的余地），但什么都没有改变。 我最接近进展的是尝试了 Windows 商店中的某个“视频播放器 +”，结果发现它完全是中文的 - 对我来说一般不太好用 - 并且仍然给我的视频带来了问题（极端闪烁，界面无法使用）但至少显示了不同的照片，这表明事实上我应该能够在这些剪辑上看到其他东西。 拍摄这些东西的相机是我邻居的 Ctronic 设备，它应该是那种当检测到运动时会移动并跟随人的相机，但我从每个剪辑中得到的大部分是其中立起始位置的静态图像。偶尔会出现“几分之一秒内在屏幕上移动的人物阴影，在静止图像上显示为一些奇怪的视觉伪影”。 其中一些显然也是在该取景范围之外拍摄的。 这是我播放这些视频时可以看到的内容的示例： https://youtu.be/UI6Nmt12fMg 就上下文而言，解决这个问题对我来说相对重要，因为两天前我家中遭遇了入侵/盗窃，其中至少有一个视频应该向我显示谁在那个时间范围内进入了我家。    提交人    /u/TucoBenedictoPacif   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i2m36o/im_getting_desperate_at_trying_to_open_videos_in/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:34:07 GMT</pubDate>
     </item>
     <item>
       <title>您是否觉得跨语言集成有趣或有必要？例如在 Node.js 中使用 Python 实时情绪分析解决方案？</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[我的女儿有点创业精神，她开始创作艺术品，制作海报和钥匙链，并在各种在线平台上销售。我一直提醒她要保持准确的记录，这样她才能知道自己在支付费用、生产、运输等方面的支出。到目前为止，这一切都是在 Excel 中。有没有免费/便宜的更强大的东西？我希望她能够生成报告，这样她就可以确定哪些东西卖得好，她的定价与利润相比如何，等等。谢谢！    提交人    /u/BuckshotPA   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i283cn/request_accounting_software/</guid>
       <pubDate>Wed, 15 Jan 2025 21:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>LF 是一款远程访问桌面软件，它允许我在一台显示器上使用两台设备，即主机设备和受控设备（即我的主 PC），同时能够在两台设备上独立运行应用程序，并且不会干扰彼此的输入。有免费选项吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1i24299/lf_a_remote_access_desktop_software_that_allows/</link>
-      <description><![CDATA[  由    /u/RealReon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i24299/lf_a_remote_access_desktop_software_that_allows/</guid>
-      <pubDate>Wed, 15 Jan 2025 18:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频与幻灯片无缝切换的演示解决方案</title>
-      <link>https://www.reddit.com/r/software/comments/1i23pvu/presentation_solution_for_seamless_switching/</link>
-      <description><![CDATA[我负责为颁奖典礼设置技术，其中的材料以计算机本地视频文件和 Google 幻灯片演示文稿的形式共享。 我有一个远程点击器，可以让我在幻灯片演示文稿中前进和后退，并且可以通过点击器激活 Google 幻灯片中的任何嵌入视频或音频。我的挑战是我想设置一个播放列表或队列，以便在 Google 幻灯片演示文稿之后可以播放本地视频，然后单击即可返回 Google 幻灯片演示文稿。 我正在寻找一种软件解决方案，让我能够在视频和演示文稿之间无缝切换，而无需走到连接的笔记本电脑前切换屏幕或更改程序。 （我知道您可以在 Google 幻灯片中嵌入视频，但我以前遇到过问题，我希望能够流式传输保存在我的计算机上的全高清视频，而无需将它们上传到 YouTube 进行嵌入） 我曾考虑重新映射点击器的输入以运行处理屏幕切换的宏，但我很想找到一种方法来设置它，以便我可以返回以在需要时重新启动视频而不会破坏顺序。我考虑过将幻灯片保存为 pdf 或 png 文件，但许多幻灯片包含无法保留的动画。 请告诉我是否有办法使用 OBS、自定义工具或付费软件来做到这一点——我的目标是仅使用遥控器按照预定的顺序浏览幻灯片和视频，并且在格式之间中断有限（理想情况下为零）。    提交人    /u/SeanCSimon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i23pvu/presentation_solution_for_seamless_switching/</guid>
-      <pubDate>Wed, 15 Jan 2025 18:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有热键功能的计时器</title>
-      <link>https://www.reddit.com/r/software/comments/1i20gyb/looking_for_a_timer_that_has_a_hotkey_feature/</link>
-      <description><![CDATA[所以我在玩游戏，并且想在游戏中使用与在 Windows 中启动计时器相同的热键。 我看到 autohotkey 有这个功能，但我发现我玩的游戏（maplestory）禁止这样的程序以避免机器人。 因此严格寻找具有此功能的任何计时器，并且可以在热键工作的背景下运行，即使我没有专注于该窗口。    提交人    /u/A_Mild_Abra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i20gyb/looking_for_a_timer_that_has_a_hotkey_feature/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一个可以为驱动器上的列表或档案创建列表的软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1i206ct/looking_for_a_software_who_creates_a_list_for_a/</link>
-      <description><![CDATA[我至少有 300 张 DVD，里面有很多媒体文件，我需要某种应用程序来生成一个包含层次结构和文件的列表，从磁盘到 excel 或 pdf。我知道 Windows 中有一个 cmd 行可以执行此操作，然后将其导出为 txt 文档。我正在寻找 Mac 替代品或 Windows 程序。     提交人    /u/Zealousideal_Set7459   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i206ct/looking_for_a_software_who_creates_a_list_for_a/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:40:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款免费的应用程序，让我可以轻松地将所有内容通过不同的设备发送给自己</title>
-      <link>https://www.reddit.com/r/software/comments/1i1yr78/looking_for_a_free_app_where_i_can_simply_send/</link>
-      <description><![CDATA[目前，我使用 slack，但需要两次点击才能进入正确的频道，然后他们就开始删除较旧的内容。您还有其他想法吗？ 非常适合 Mac 和 Android。    提交人    /u/Upset-Interview1576   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i1yr78/looking_for_a_free_app_where_i_can_simply_send/</guid>
-      <pubDate>Wed, 15 Jan 2025 14:37:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

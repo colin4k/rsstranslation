@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 Jan 2025 12:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 15:02:12 GMT</lastBuildDate>
+    <item>
+      <title>如果目标语言与源语言匹配，则在 Google 翻译中自动切换目标语言。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i2q09n/autoswitch_target_language_in_google_translate_if/</link>
+      <description><![CDATA[AutoSwitch Translate 可以在源语言与目标语言匹配的情况下自动切换谷歌翻译中的目标语言。  当人们使用谷歌翻译时，他们经常想要在 A 和 B 两种语言之间进行翻译。当用户输入 A 语言的文本并将其翻译成 B 语言时，浏览器会将 B 语言保存为目标语言。但是，如果用户稍后输入 B 语言的文本，则输出将保持与输入相同，因为目标语言也设置为 B。此扩展程序就是为解决这个问题而构建的。    提交人    /u/Logical_Divide_3595   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i2q09n/autoswitch_target_language_in_google_translate_if/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>CubeTrek：用于徒步旅行、滑雪等的 3D 地形模拟。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i2ocn9/cubetrek_3d_terrain_simulation_for_hiking_skiing/</link>
+      <description><![CDATA[      我研究 GPS 轨迹可视化工具已经有一段时间了。它在丘陵和山区地形上表现出色（3D 视图更有意义），但它也提供了很多类似 Strava 的功能（统计数据等）。 您可以手动上传 GPX 和 FIT 文件，或直接与 Garmin、Coros 和 Polar 同步。 请参阅 https://cubetrek.com 了解实时应用程序并查看那里的一些示例。它是免费且开源的。 此外，任何喜欢使用 3D 可视化（尤其是 Babylon.js）的人，如果您愿意帮助进一步完善这个东西，请告诉我。    提交人    /u/folli   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i2ocn9/cubetrek_3d_terrain_simulation_for_hiking_skiing/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 Novus 再次变得更好！🌟</title>
       <link>https://www.reddit.com/r/opensource/comments/1i2lj7d/novus_just_got_better_again/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[您好。我正在尝试扩展 LSP 以显示更漂亮的错误消息，就像在 Rust 中一样，并且正在查看这个和这个，但似乎都不能充分满足我的需求。我很好奇是否有人知道其他现有的解决方案，或者是否有其他人尝试将类似的东西纳入他们的项目的经验。也许只需查看这两个存储库并亲自尝试一下。     提交人    /u/danaeatl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</guid>
       <pubDate>Wed, 15 Jan 2025 02:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>将手机用作网络摄像头的应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1kluq/app_for_using_your_phone_as_a_webcam/</link>
-      <description><![CDATA[有开源选项吗？    提交人    /u/Slight_Gap_8519   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1kluq/app_for_using_your_phone_as_a_webcam/</guid>
-      <pubDate>Wed, 15 Jan 2025 00:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git 意见</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1jwwi/git_opinion/</link>
-      <description><![CDATA[如果您认为 git 很复杂，那么您个人最喜欢的版本控制工具是什么？    提交人    /u/emonshr   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1jwwi/git_opinion/</guid>
-      <pubDate>Tue, 14 Jan 2025 23:38:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
