@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 Jan 2025 18:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 21:03:04 GMT</lastBuildDate>
+    <item>
+      <title>LCLV：使用 Moondream 2B 和 OLLama 进行实时视频分类和分析（开源，本地）。链接如下。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</link>
+      <description><![CDATA[LCLV 是一款实时计算机视觉应用程序，使用 Moondream + Ollama 完全在本地运行。 视频演示可在这里获取。 它的作用：  通过网络摄像头进行实时视频分析 &amp;分类（情绪检测、疲劳分析、凝视跟踪等） 在您的机器上 100% 本地运行 使用 TailwindCSS 清理 UI 超级容易设置！  快速设置：  安装 Ollama 并在 Ollama 服务器上运行 Moondream ollama pull moondream 和 ollama run moondream 克隆 repo 并运行 Web 应用程序：  ​ git clone cd lclv npm install npm run devhttps://github.com/HafizalJohari/lclv.git  查看 repo 了解更多详细信息 &amp;在这里亲自尝试一下：https://github.com/HafizalJohari/lclv 如果您在运行过程中遇到问题，请告诉我！如果遇到问题，请跳转到 Moondream discord 中的 #support 频道，或在此处发表评论以获得即时帮助。    提交人    /u/ParsaKhaz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>TilBuci 新版本 - 一款免费的交互式内容创建软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</link>
+      <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣了解 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</guid>
+      <pubDate>Fri, 17 Jan 2025 18:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从事开源工作——我怎么可能买得起 Cline/OpenRouter</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i3muxi/i_work_on_open_source_how_the_hell_am_i_supposed/</link>
+      <description><![CDATA[Cline 在几分钟内就花光了大约 30 美元。这对我来说是不可持续的。除非有人愿意为我的开源项目捐款，否则我不知道如何利用人工智能来帮助我。其他人都在做什么？ 我甚至经营着一家 501c3 非营利组织，但我们没有捐助者！    提交人    /u/The_Game_Genie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i3muxi/i_work_on_open_source_how_the_hell_am_i_supposed/</guid>
+      <pubDate>Fri, 17 Jan 2025 18:17:34 GMT</pubDate>
+    </item>
     <item>
       <title>depthviz-开源自由潜水深度叠加工具-寻求反馈</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3mcb5/depthviz_opensource_freediving_depth_overlay_tool/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[很高兴与大家分享 Spritely AI，这是我为解决我自己的开发工作流程瓶颈而构建的开源环境助手。 问题：作为开发人员，我们花费太多时间在任务之间进行上下文切换并中断流程来管理常规交互。传统的 AI 助手需要不断切换标签页和手动提示，这违背了拥有助手的目的。 解决方案： Spritely 是一款语音优先的环境助手：  可以使用键盘快捷键调用 您的语音将被输入到 LLM，它会根据您的提问方式说出答案或将其复制到剪贴板。 您还可以将您的回答流式传输到任何字段，用于潜在的头脑风暴、初稿、报告、表格归档等。复制到剪贴板，然后您可以立即提问。 在您保持专注的同时处理任务 跨应用程序工作  技术堆栈：  语音处理：Elevenlabs、Deepgram LLM 集成：Anthropic Claude 3.5、Groq Llama 70b. tkinter 用于 UI  为什么开源？ LLM 生态系统需要更多的透明度和社区驱动的发展。所有代码都是开源的并且可以审核。 快速演示： https://youtu.be/s0iqvNUPRj0 入门： GitHub repo：https://github.com/miali88/spritely_ai 贡献：寻找对以下内容感兴趣的贡献者：  LLM 集成改进 状态管理 测试基础设施 文档  路线图上即将推出的内容：  将屏幕截图提供给 LLM 更好的内存管理 API 集成框架 改进的转录模型  希望社区对架构和方法的想法。 欢迎 PR！很高兴回答有关架构或实施细节的任何问题。    提交人    /u/No_Ad9453   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i2jwz7/introducing_spritely_ai_an_opensource_voicefirst/</guid>
       <pubDate>Thu, 16 Jan 2025 07:48:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 元数据视频下载器（开源）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i2g2xa/tiktok_metadata_video_downloader_open_source/</link>
-      <description><![CDATA[随着 TikTok 在美国可能被禁止，许多用户都在争先恐后地保存他们最喜欢的视频和个人内容。我开发了一个开源工具，可让您直接从元数据 JSON 文件中下载 TikTok 视频。 此 Python 工具在 The Unlicense 下获得许可，允许用户： 从他们的“收藏夹”或个人上传中下载视频。使用元数据日期生成有意义的文件名。验证 TikTok URL 以进行准确下载。它利用强大的 yt-dlp 库进行视频提取，并且易于使用。查看、贡献或与任何可能认为有用的人分享！ GitHub 存储库：https://github.com/KenAdamson/tiktok-dl    由   提交  /u/SonoftheBread   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i2g2xa/tiktok_metadata_video_downloader_open_source/</guid>
-      <pubDate>Thu, 16 Jan 2025 03:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在是 2025 年，我们已准备好迎接更多开源！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i28sys/its_2025_were_ready_for_more_open_source/</link>
-      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i28sys/its_2025_were_ready_for_more_open_source/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>CopilotKit 发布 v0.3 - 完整的 LangGraph 消息奇偶校验</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i28g0b/copilotkit_release_v03_complete_langgraph_message/</link>
-      <description><![CDATA[大家好，我是 CopilotKit 的开发倡导者，这是一个用于构建应用内 AI 助手和全栈代理应用程序的开源框架。 一开始，我什么都不卖；我们是免费、开源的，非常注重社区。 我们很高兴最近与 LangChain 合作为 LangGraph 后端构建 Agentic Generative UI 前端。我们最近推出了 CoAgents，这是一个前端框架，允许开发人员轻松地将 LangGraph 代理集成到全栈应用程序中。 我们发布了 v0.3，它为 CoAgents 引入了一些重大的开发人员生活质量改进！在发布 v0.1 和 v0.2 版本时，我们吸收了社区给予我们的大量反馈。 我们预计 v0.3 将在不久的将来发展成为 1.0 版本。 CoAgents v0.3 带来了以下功能：  更简单的消息同步： LangGraph 代理消息和 CopilotKit 消息始终自动保持 100% 同步  所有 LangGraph 代理工具调用均默认发出： 无需在代理代码中明确发出工具调用。如果前端不处理调用，那就没有任何效果。  支持“catch-all”工具调用渲染： 您可以为所有代理工具调用提供默认的“catch all”生成 UI 渲染功能   我们是完全开源的（MIT），查看我们的 GitHub：https://github.com/CopilotKit/CopilotKit    提交人    /u/nate4t   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i28g0b/copilotkit_release_v03_complete_langgraph_message/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:34:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
