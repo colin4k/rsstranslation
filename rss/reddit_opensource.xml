@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 Jan 2025 00:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 06:02:33 GMT</lastBuildDate>
+    <item>
+      <title>Teatree - 一个开源的个人登陆页面/个人简介链接工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i398vy/teatree_an_open_source_personal_landing/</link>
+      <description><![CDATA[大家好！我已经在这个项目上工作了一段时间，现在是时候将它公开了。这是一个开源的个人登陆页面/个人简介链接工具。 https://github.com/aronlebani/teatree.git 它使用 Ruby 和 Sinatra 构建，可自行托管。我还在 https://teatr.ee 提供完全免费的完全托管服务，如果您愿意，也可以进行小额捐赠。 动机： 每个人都应该能够在互联网上拥有一个空间，您可以免费展示您的作品，并以您喜欢的任何方式进行品牌化。专有的个人简介链接服务非常臃肿，如果您想删除品牌，则非常昂贵。对于创意人士和小企业主来说，它并不便宜。该项目的目的是通过提供一种简单、轻量级的替代方案来帮助社区，该替代方案是免费的，并且尊重您的隐私。您甚至可以上传自己的自定义 css，以便您的个人资料页面可以完全按照您想要的方式显示。 功能：  收集链接以显示在公共个人资料页面上 通过 CSS 完全可自定义的个人资料页面 与您的邮件列表集成（目前仅支持 Mailchimp）  就是这样！它设计得非常精简，只提供对人们真正有价值的功能。但是，如果它们为用户增加了显着的价值，我愿意接受功能建议。 有关更多信息，请参阅 Github 存储库中的 README。如果有任何问题，也可以随时给我发私信或评论此帖子。 该软件目前处于测试阶段。如果有人想尝试一下，任何反馈都非常感激。 希望你觉得它有用！    提交人    /u/evencuriouser   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i398vy/teatree_an_open_source_personal_landing/</guid>
+      <pubDate>Fri, 17 Jan 2025 05:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在数千台机器上运行 Python 代码，无需任何 DevOps</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i38yjs/run_python_code_on_thousands_of_machines_with/</link>
+      <description><![CDATA[嗨，开源社区， 我真的厌倦了不断帮助我周围的数据工程师和科学家在云中扩展他们的代码。这应该简单得多。我有一段任意的 Python 代码，需要通过它运行 2500 万个输入 - 为什么我不能只定义我想在云中使用的机器，指定我需要的并行级别，并让它在运行时正常工作？ 如果您处理大数据，您可能遇到过这个常见问题，即需要在多个虚拟机上并行化您的代码，才能在合理的时间内处理您的输出。毕竟，拥有十台 96-CPU 机器组成的集群来并行处理代码比依赖一台机器要快得多。 为了解决这个问题，我构建了 Burla：一个开源 Python 包，只有一个函数 remote_parallel_map。Burla 的设计非常简单，即使是完全的初学者也可以有效地利用云资源。目标是让它感觉就像您在本地运行代码一样，只是……更快、更大规模。 以下是 Burla （文档）的实际示例： from burla import remote_parallel_map my_arguments = [1, 2, 3, 4] def my_function(my_argument: int): print(f&quot;在云中的远程计算机 #{my_argument} 上运行！&quot;) return my_argument * 2 results = remote_parallel_map(my_function, my_arguments) print(f&quot;return values: {list(results)}&quot;)  运行时，remote_parallel_map 在所有对象上调用 my_function my_arguments，同时，每个都在云中的单独 CPU 上。 试用一下：Burla 是自托管的，但现在我们有一个公共集群已启动并正在运行，因此您可以在安装前对其进行测试（我们会支付计算费用，您不必担心）。如果您愿意做出贡献，我很乐意听到您有任何有趣的用例或获得您的反馈。我还希望构建解决社区面临的常见问题的教程。 欢迎所有反馈 - 即使是苛刻的东西。让我们让在云中扩展 Python 代码变得非常简单。   由    /u/Ok_Post_149  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i38yjs/run_python_code_on_thousands_of_machines_with/</guid>
+      <pubDate>Fri, 17 Jan 2025 05:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>Zulip Server 9.4 安全版本</title>
       <link>https://www.reddit.com/r/opensource/comments/1i30xam/zulip_server_94_security_release/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我正在从事多个（研究）项目和任务，想简化我的流程：现在我有电子邮件、存储在“项目目录”中的文档（同步到 Nextcloud）、待办事项列表、日历（所有 Nextcloud）...  ...但我想简化它，这样我就可以将任务与文档、截止日期联系起来......能够拥有某种仪表板并查看我所有的项目、状态、任务......如果我还能以某种方式将电子邮件链接到它以打开与任务相关的邮件（IMAP），那就太好了。 我尝试过 openProject，但它似乎太复杂了，更适合多人参与的大型项目。我只想管理&lt;​​em&gt;我的职责：“设置一个项目”并开始输入内容而没有陡峭的学习曲线（时间限制）:) 有人对如何“在一个地方”管理它有什么建议吗，比如像 Zotero 用于引用？所以我会打开它，查看我开放的项目、它们的文档（甚至可能是修订版）......？ 它必须是 OSS，如果它在线，它应该是自托管的。  谢谢！    提交人    /u/_TheZmaj_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1uonz/suggestion_for_easytouse_project_management/</guid>
       <pubDate>Wed, 15 Jan 2025 10:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目社区聚集在哪里？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1sra1/where_does_the_community_of_a_project_hang_out_on/</link>
-      <description><![CDATA[大家好，我想加入 gsoc 2025 并学习开源开发的诀窍。我想与我感兴趣的项目社区互动。他们通常在哪里闲逛。即使我没有被选中，我也想至少学习一些有关开源的知识。    提交人    /u/asylumkhk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1sra1/where_does_the_community_of_a_project_hang_out_on/</guid>
-      <pubDate>Wed, 15 Jan 2025 08:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令行工具用于测试每种架构上的服务器/桌面/硬件性能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1qydz/command_line_tool_to_test_your/</link>
-      <description><![CDATA[       由    /u/BrainFooLong  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1qydz/command_line_tool_to_test_your/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:55:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
