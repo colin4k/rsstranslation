@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 09:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 12:02:23 GMT</lastBuildDate>
     <item>
       <title>通过 beehiiv 发送 API</title>
       <link>https://www.producthunt.com/posts/send-api-by-beehiiv</link>
       <description><![CDATA[
-直接从您的网站或 CMS 制作和发送电子邮件。
+直接从您的网站或 CMS 制作和发送电子邮件
 
 
 讨论
@@ -118,6 +118,20 @@
       <pubDate>Thu, 16 Jan 2025 08:35:09 GMT</pubDate>
     </item>
     <item>
+      <title>机器人医生</title>
+      <link>https://www.producthunt.com/posts/doctor-droid</link>
+      <description><![CDATA[
+使用 AI 从 Slack 排除故障并运行 k8s 命令
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/doctor-droid</guid>
+      <pubDate>Thu, 16 Jan 2025 07:19:57 GMT</pubDate>
+    </item>
+    <item>
       <title>燃烧机器人</title>
       <link>https://www.producthunt.com/posts/burnbot</link>
       <description><![CDATA[
@@ -132,18 +146,18 @@
       <pubDate>Thu, 16 Jan 2025 05:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>猜猜猜</title>
-      <link>https://www.producthunt.com/posts/spotiguess</link>
+      <title>浏览器使用</title>
+      <link>https://www.producthunt.com/posts/browser-use</link>
       <description><![CDATA[
-使用您的 Spotify 帐户创建任何“猜歌曲”游戏
+我们启用 AI 来控制您的浏览器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/spotiguess</guid>
-      <pubDate>Tue, 14 Jan 2025 20:31:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/browser-use</guid>
+      <pubDate>Thu, 16 Jan 2025 01:05:28 GMT</pubDate>
     </item>
     <item>
       <title>永恒之诗</title>
@@ -188,32 +202,18 @@
       <pubDate>Mon, 13 Jan 2025 08:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>Persana AI 销售和语音代理</title>
-      <link>https://www.producthunt.com/posts/persana-ai-sales-and-voice-agents</link>
+      <title>OpenLIT 2.0</title>
+      <link>https://www.producthunt.com/posts/openlit-2-0</link>
       <description><![CDATA[
-您的 AI 驱动员工可全天候推动收入增长
+用于 AI 工程和 LLM 数据的开源仪表板
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/persana-ai-sales-and-voice-agents</guid>
-      <pubDate>Fri, 10 Jan 2025 23:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>侧面记事本</title>
-      <link>https://www.producthunt.com/posts/side-notepad</link>
-      <description><![CDATA[
-无需离开工作即可记笔记
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/side-notepad</guid>
-      <pubDate>Thu, 09 Jan 2025 17:01:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/openlit-2-0</guid>
+      <pubDate>Thu, 09 Jan 2025 08:52:20 GMT</pubDate>
     </item>
     <item>
       <title>光线投射焦点</title>
@@ -228,34 +228,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/raycast-focus</guid>
       <pubDate>Wed, 08 Jan 2025 17:43:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 蓝图</title>
-      <link>https://www.producthunt.com/posts/saas-blueprint</link>
-      <description><![CDATA[
-通过 VC 的眼光了解您的业务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/saas-blueprint</guid>
-      <pubDate>Wed, 08 Jan 2025 07:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>集会</title>
-      <link>https://www.producthunt.com/posts/rally-296c1a30-f456-4a28-88d1-41a4a109aa8f</link>
-      <description><![CDATA[
-产品演示录音室
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rally-296c1a30-f456-4a28-88d1-41a4a109aa8f</guid>
-      <pubDate>Tue, 07 Jan 2025 18:29:22 GMT</pubDate>
     </item>
     <item>
       <title>艾维洛</title>
@@ -284,6 +256,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/recap-e50a6275-99de-46fc-bfcc-2cbec645c767</guid>
       <pubDate>Wed, 11 Dec 2024 05:58:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>克莱姆塔</title>
+      <link>https://www.producthunt.com/posts/clemta</link>
+      <description><![CDATA[
+在一个地方经营您的业务：组建、纳税、记账！
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/clemta</guid>
+      <pubDate>Fri, 06 Dec 2024 19:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>猎犬</title>
+      <link>https://www.producthunt.com/posts/hound-7</link>
+      <description><![CDATA[
+进行竞争性电子邮件研究的最快方法
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hound-7</guid>
+      <pubDate>Sat, 02 Nov 2024 22:29:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
