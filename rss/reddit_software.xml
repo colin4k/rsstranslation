@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 18 Jan 2025 15:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 18:02:07 GMT</lastBuildDate>
+    <item>
+      <title>如何从视频中提取音频并在不转换的情况下再次应用？</title>
+      <link>https://www.reddit.com/r/software/comments/1i4bvxn/how_to_extract_audio_from_video_and_apply_it/</link>
+      <description><![CDATA[有点像你通过 mkcleaver 用字幕做的那样，你可以加载视频文件，在几秒钟内将字幕从视频中分离出来。是否可以对音频做同样的操作，然后再次应用于视频，而无需在 handbrake 中转换它，从而节省几个小时？ 有问题的视频文件上有 20 个不同的音频文件，所有语言都不同，我想删除其他 19 个文件，但保留我想要的一种语言。 我希望有某种免费程序，因为我没有编码经验，使用 ffmpeg 之类的工具对我来说可能太难了。    提交人    /u/bsgapollo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i4bvxn/how_to_extract_audio_from_video_and_apply_it/</guid>
+      <pubDate>Sat, 18 Jan 2025 16:59:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何像 VLC 一样放大 MPC-HC 视频？</title>
+      <link>https://www.reddit.com/r/software/comments/1i49reh/how_to_amplify_mpchc_videos_like_vlc_does/</link>
+      <description><![CDATA[但不要使用“启用音频内置切换器”，因为该设置会完全破坏声音。我不知道 VLC 是如何做到的，但它确实将声音放大了至少 20%，听起来很完美。当在 MPC-HC 上使用内置音频切换器执行此操作时，无论百分比是多少，即使在 20% 时，听起来也难以忍受。    提交人    /u/ElonTastical   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i49reh/how_to_amplify_mpchc_videos_like_vlc_does/</guid>
+      <pubDate>Sat, 18 Jan 2025 15:22:21 GMT</pubDate>
+    </item>
     <item>
       <title>我需要在某个网站上每 10 分钟自动发布 10-20 个预设帖子，有这个功能吗？</title>
       <link>https://www.reddit.com/r/software/comments/1i48gu9/i_need_something_to_automate_posting_1020_preset/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我有一家小型初创公司，我们一直在使用 Algolia 进行搜索。这还好，但我们开始遇到一些问题，主要是价格问题。预测和管理成本变得越来越困难，而且我们的团队规模很小。 对于任何离开 Algolia 的人：  是什么让您决定更换？ 您最终去了哪里，情况如何？ 您找到更容易管理的东西了吗？  我真的想知道我们是否可以让 Algolia 发挥作用，或者是时候继续前进了。我很想听听你的经历，无论好坏！ 非常感谢！    提交人    /u/DevelopmentSeriouss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i3dm8x/struggling_with_algolia_advice_alternatives/</guid>
       <pubDate>Fri, 17 Jan 2025 10:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助，视频播放器建议。</title>
-      <link>https://www.reddit.com/r/software/comments/1i3az4x/help_video_player_suggestion/</link>
-      <description><![CDATA[我的规格：Cpu 3570k Gpu 970 Ram 8gb Ddr3 我试图播放一段 15 gb 的演示视频的主视频，这段视频时长为 4 分钟，但出现了卡顿。 我知道我的电脑比较旧，性能较差……但是有没有什么办法可以让它播放这些视频呢？ 请帮忙。    提交人    /u/Hour_Potential_3064   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i3az4x/help_video_player_suggestion/</guid>
-      <pubDate>Fri, 17 Jan 2025 07:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有自动点击键盘软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1i3akfa/is_there_an_autoclick_keyboard_software/</link>
-      <description><![CDATA[  由    /u/Muhannadx12  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i3akfa/is_there_an_autoclick_keyboard_software/</guid>
-      <pubDate>Fri, 17 Jan 2025 06:47:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
