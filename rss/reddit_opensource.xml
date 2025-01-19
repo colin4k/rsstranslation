@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 Jan 2025 00:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 03:06:41 GMT</lastBuildDate>
+    <item>
+      <title>我做了一个程序来批量下载TikTok</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</link>
+      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以进行备份。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 sigil 之外，还有其他 ePub 创建 FOSS 软件吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4nzec/any_epub_creator_foss_software_other_than_sigil/</link>
+      <description><![CDATA[因此，我在 html 编辑方面遇到了麻烦，而且该软件对我来说似乎很混乱。我喜欢这些功能，但在我看来它有点混乱。 寻找 Linux 或 Windows，而不是 Mac。    由   提交  /u/CloudyyySXShadowH   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4nzec/any_epub_creator_foss_software_other_than_sigil/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>构建 OSS“电视流媒体”？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4cerk/building_an_oss_tv_streamer/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>我修复了 googlesearch-python</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</link>
-      <description><![CDATA[您好， 虽然没什么问题，但是我修复了库 googlesearch-python，该库返回了空结果，因为 Google 对不使用 JS 的浏览器添加了限制。 我的修复使用了 Lynx 用户代理。 我经常将这个库用于我的开源项目，所以我希望修复它。 如果您需要安装我的 fork，请像这样（在 venv 中左右）：  pip install git+https://github.com/stanfrbd/googlesearch@lynx-user-agent  PR 在这里（等待所有者）：PR 希望有帮助！ 干杯， 斯坦    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 虽然没什么问题，但是我修复了库 googlesearch-python，该库返回了空结果，因为 Google 对不使用 JS 的浏览器添加了限制。 我的修复使用了 Lynx 用户代理。 我经常将这个库用于我的 开源项目，所以我希望修复它。 如果您需要安装我的 fork，请像这样（在 venv 中左右）：  pip install git+https://github.com/stanfrbd/googlesearch@lynx-user-agent  PR 在这里（等待所有者）：PR 希望有帮助！ 干杯， 斯坦    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</guid>
       <pubDate>Sat, 18 Jan 2025 16:51:37 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>我正在寻找具有树状视图的文件资源管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1i47894/im_looking_for_a_file_explorer_with_a_tree_view/</link>
-      <description><![CDATA[我有相当多的文件可以被视为其他文件，但主题相同。 我正在寻找一个文件资源管理器，它允许我以树的形式查看特定文件夹及其文件夹，当然还可以单击所需的文件，类似于 Linux 命令行上的树。 理想的情况是像下面这样，文件夹本身不存在，文件本身就是文件夹。 Mechanics Index.pdf ═── Engines.pdf │ ═── Diesel Engines.pdf │ │ ═── Exercises.pdf │ │ └── Solutions.docx │ ═── Gasoline Engines.pdf │ │ ═── Diagrams.pdf │ │ └── Workshop.docx ├── Transmissions.docx │ ├── 变速箱类型.docx │ │ ├── Manual.pdf │ │ └── Automatic.pdf │ └── Maintenance.docx ├── 刹车Systems.pdf │ ├──Hydraulic.docx │ ├──Electronic.pdf │└──Troubleshooting.pptx  最理想的是它有一个图形界面并且适用于 Windows    提交人    /u/Motor__Ad   [链接] [评论]]]></description>
+      <description><![CDATA[我有相当多的文件可以被视为其他文件，但主题相同。 我正在寻找一个文件资源管理器，它允许我以树的形式查看特定文件夹及其文件夹，当然还可以单击所需的文件，类似于 Linux 命令行上的树。 理想的情况是像下面这样，文件夹本身不存在，文件本身就是文件夹。 Mechanics Index.pdf ═── Engines.pdf │ ═── Diesel Engines.pdf │ │ ═── Exercises.pdf │ │ └── Solutions.docx │ ═── Gasoline Engines.pdf │ │ ═── Diagrams.pdf │ │ └── Workshop.docx ├── Transmissions.docx │ ├── 变速箱类型.docx │ │ ├── Manual.pdf │ │ └── Automatic.pdf │ └── Maintenance.docx ├── 刹车Systems.pdf │ ├──Hydraulic.docx │ ├──Electronic.pdf │ └──Troubleshooting.pptx  最理想的是它有一个图形界面并且适用于 Windows    提交人    /u/Motor__Ad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i47894/im_looking_for_a_file_explorer_with_a_tree_view/</guid>
       <pubDate>Sat, 18 Jan 2025 13:11:06 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>我的学习资料库包含许多机器学习方法和概念的实现</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</link>
-      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次重新发布以来，我添加了 MIT 许可证。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
+      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次我添加了 MIT 许可证后，我重新发布。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</guid>
       <pubDate>Fri, 17 Jan 2025 22:16:29 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>TilBuci 新版本 - 一款免费的交互式内容创建软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</link>
-      <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣查看 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣了解 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</guid>
       <pubDate>Fri, 17 Jan 2025 18:23:30 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我很高兴有一些开源代码，但我也很高兴有一些专有代码。开源代码对您的投资组合有好处。专有代码对您的钱包有好处。它对我的钱包还没有好处，但我才刚刚起步。1999 年，我创办了一家公司，2003 年，我向 Bjarne Stroustrup 演示了我的 C++ 代码生成器。随着经济的衰退，我很高兴我没有把所有的鸡蛋放在一个篮子里。    提交人    /u/Middlewarian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3jll2/what_do_you_think_of_proprietary_code/</guid>
       <pubDate>Fri, 17 Jan 2025 16:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sleek 适用于 todo.txt</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3je7h/sleek_for_todotxt/</link>
-      <description><![CDATA[最近偶然发现了这款 PC 应用，它似乎更新得非常频繁。细致入微的功能和图形界面让我感到惊喜。你们觉得怎么样？  编辑：仓库：https://github.com/ransome1/sleek    由   提交  /u/memushmonkey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3je7h/sleek_for_todotxt/</guid>
-      <pubDate>Fri, 17 Jan 2025 15:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Readest：一款具有跨平台同步和 TTS 功能的开源现代电子书阅读器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3irg8/introducing_readest_an_opensource_and_modern/</link>
-      <description><![CDATA[大家好！ 我一直在开发一款名为Readest的新型跨平台电子书阅读器应用。它采用 Tauri v2 和 Next.js 15 构建，非常轻量且速度极快 - 正如其名称所暗示的那样，它旨在重新发现阅读的乐趣！ Readest 的优点： • EPUB 和 PDF 支持：无缝支持 EPUB 和 PDF。 • 跨设备同步：您的阅读进度、突出显示和注释可跨设备同步。 • 可自定义的阅读模式：调整主题、字体和布局以适合您的喜好，包括对垂直 EPUB 的支持。 • 分屏阅读：非常适合并排比较或文本分析。 • 文本转语音：通过内置的朗读支持聆听您的书籍。 • 在线阅读：访问您的图书馆并直接在浏览器中阅读。在线试用。 • 开源优点：精心打造，可供所有人探索和贡献。 Readest 适用于 Windows、macOS、Linux 和 Web。您可以在这里找到它： 💻 下载 Readest 📂 GitHub 存储库 附注：这是一个仍在积极开发中的开源项目。如果您有想法、反馈或只是想尝试一些新的东西，我很乐意听取您的意见！    提交人    /u/Due_Bid564   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3irg8/introducing_readest_an_opensource_and_modern/</guid>
-      <pubDate>Fri, 17 Jan 2025 15:24:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
