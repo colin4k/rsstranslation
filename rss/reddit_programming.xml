@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 19 Jan 2025 06:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 09:01:53 GMT</lastBuildDate>
+    <item>
+      <title>UNLINK 与 DEL - 深入了解 Redis 内部的工作原理。</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4sdkx/unlink_vs_del_a_deep_dive_into_how_it_works/</link>
+      <description><![CDATA[  由    /u/the2ndfloorguy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4sdkx/unlink_vs_del_a_deep_dive_into_how_it_works/</guid>
+      <pubDate>Sun, 19 Jan 2025 06:32:32 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub - JianZcar/notes-bash,由 fzf 提供支持的简单笔记 tui bash 脚本</title>
       <link>https://www.reddit.com/r/programming/comments/1i4nn4q/github_jianzcarnotesbash_a_simple_note_taking_tui/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>非常规提交（模仿）</title>
       <link>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</link>
-      <description><![CDATA[  由    /u/Substantial_Tea_6549  提交  [链接] [评论]]]></description>
+      <description><![CDATA[  由   提交  /u/Substantial_Tea_6549   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</guid>
       <pubDate>Sat, 18 Jan 2025 06:04:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Keavon  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</guid>
       <pubDate>Sat, 18 Jan 2025 00:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>不再有痛苦的 git 提交消息，只需使用 GoCommit</title>
-      <link>https://www.reddit.com/r/programming/comments/1i3ux3y/no_more_painful_git_commits_messages_just_use/</link>
-      <description><![CDATA[  由    /u/InternationalNature7  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i3ux3y/no_more_painful_git_commits_messages_just_use/</guid>
-      <pubDate>Sat, 18 Jan 2025 00:16:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
