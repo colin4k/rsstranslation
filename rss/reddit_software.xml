@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 19 Jan 2025 09:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:02:19 GMT</lastBuildDate>
+    <item>
+      <title>可以跳过任何应用程序时间的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1i4wsu5/app_that_skips_time_for_any_app/</link>
+      <description><![CDATA[我记得使用过 ReWASD，他们给了我 7 天的试用期，我有这个应用程序可以将应用程序恢复到零时间（或者让你为应用程序设置手动时间或跳过一些有限的时间？我不知道如何解释它）。每 7 天我会将 ReWASD 时间设置回零。我通过这种方式对 ReWASD 进行了无限次试用。  我不记得那个软件了，因为我的电脑被重置过一次。任何帮助都将不胜感激。    提交人    /u/arunya_anand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i4wsu5/app_that_skips_time_for_any_app/</guid>
+      <pubDate>Sun, 19 Jan 2025 11:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>要成为一名软件开发人员，我应该学习哪种编程语言？</title>
+      <link>https://www.reddit.com/r/software/comments/1i4wifn/what_programming_language_should_i_learn_to_be_a/</link>
+      <description><![CDATA[只运行 main 1 可以吗？还是我必须学习？    提交人    /u/Yeegere   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i4wifn/what_programming_language_should_i_learn_to_be_a/</guid>
+      <pubDate>Sun, 19 Jan 2025 11:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个文本编辑器</title>
+      <link>https://www.reddit.com/r/software/comments/1i4vzyv/looking_for_a_text_editor/</link>
+      <description><![CDATA[我正在寻找一个文本编辑器，以下是我的要求。 使用编译命令文件，允许手动设置语言服务器和格式化程序，看起来不像基于 GUI 的狗屎，有一个控制台 这就是我想要的。    提交人    /u/TheRavagerSw   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i4vzyv/looking_for_a_text_editor/</guid>
+      <pubDate>Sun, 19 Jan 2025 10:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doodle 的最佳免费替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1i4v1mz/best_free_alternative_to_doodle/</link>
+      <description><![CDATA[我正在和一些朋友计划一个假期，正在寻找一个简单的网站，让每个人都可以自由地将可用性添加到日历中。 不需要帐户（对于组织者或参与者）并且易于使用的东西。 谢谢！    提交人    /u/apexwaldo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i4v1mz/best_free_alternative_to_doodle/</guid>
+      <pubDate>Sun, 19 Jan 2025 09:45:28 GMT</pubDate>
+    </item>
     <item>
       <title>[Windows 11] 具有环境声学选项的音频软件（MP3、FLAC）？</title>
       <link>https://www.reddit.com/r/software/comments/1i4sq2s/windows_11_audio_software_mp3_flac_that_has/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>具有良好移动用户界面的 iOS Teamviewer 替代品？</title>
       <link>https://www.reddit.com/r/software/comments/1i4kr5s/ios_teamviewer_alternative_that_has_a_good_mobile/</link>
-      <description><![CDATA[基本上，在移动设备上使用 TeamViewer 对我来说不起作用，因为我几乎是盲人，它让我的屏幕变得非常小，破坏了体验。尝试用它浏览互联网和输入等也是一样。有没有其他方法可以让用户界面更适合移动设备？     提交人    /u/VURORA   [link] [评论]]]></description>
+      <description><![CDATA[基本上，在移动设备上使用 TeamViewer 对我来说不起作用，因为我几乎是盲人，它让我的屏幕变得非常微小，破坏了体验。尝试用它浏览互联网和输入等也是一样。有没有其他方法可以让用户界面更适合移动设备？     提交人    /u/VURORA   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i4kr5s/ios_teamviewer_alternative_that_has_a_good_mobile/</guid>
       <pubDate>Sat, 18 Jan 2025 23:44:02 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好，我有一台旧的 ASUS X540LJ 笔记本电脑，它仍然可以用于执行任务和独立游戏。 电池性能非常差，甚至无法充电，事实上，操作系统显示其电量为 0% 并且正在充电（它从来没有充电过）有趣的是，如果我拔下充电器，笔记本电脑会立即关机。 没关系，因为我不会把它带到任何地方或做其他事情，但是有一个问题 我想更新我的 BIOS 版本，它真的很旧，我有 USB，我知道该怎么做 但是当我尝试更新时，出现提示，说笔记本电脑电池必须至少有 20%，请为您的设备充电 现在，正如我之前提到的，我只能在插入电源时使用笔记本电脑，因此似乎我无法更新 BIOS，除非我买一块新电池，这要花 30 美元，但我不想这样做，因为它是一台非常旧的笔记本电脑，而且我不要经常使用它 如果有在操作系统中更新 BIOS 的选项，请告诉我（WIN 10） 如果您已阅读此内容，我将不胜感激，我将不胜感激您的帮助    提交人    /u/ToxicBalint   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i3qhff/battery_percentage_asus_laptop/</guid>
       <pubDate>Fri, 17 Jan 2025 20:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以添加叠加层的地图软件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1i3pnjn/mapping_software_that_you_can_add_overlays/</link>
-      <description><![CDATA[是否存在允许您向地图添加地理标记叠加层的地图软件？ 例如，获取一张全球交互式地图，并添加 10-20 个精确定位点，每个定位点都有一串唯一数据标识符？ 想象一下视频游戏地图，您可以点击进入各个站点查看任务，只不过是专业版而已。    提交人    /u/bozz_mitzvah   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i3pnjn/mapping_software_that_you_can_add_overlays/</guid>
-      <pubDate>Fri, 17 Jan 2025 20:17:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么使用密码管理器比仅使用浏览器密码管理器更好？</title>
-      <link>https://www.reddit.com/r/software/comments/1i3mg3b/why_is_using_password_manager_better_than_just/</link>
-      <description><![CDATA[为什么浏览器密码管理器不像个人密码管理器？为什么个人密码管理器具有更多功能？    提交人    /u/__TheEgoist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i3mg3b/why_is_using_password_manager_better_than_just/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不小心按照它要求的做了，没有想太多。我该怎么办？</title>
-      <link>https://www.reddit.com/r/software/comments/1i3lgj9/i_accidentally_did_what_it_told_me_to_do_i_didnt/</link>
-      <description><![CDATA[这是危险的 ReCaptcha 问题。 恶意 ReCaptcha 发生了什么：  我不小心这样做了，什么也没发生，我该怎么办？我忘了是否按下了回车键。 我检查了 Google 设置，它说没有泄露的密码，我使用 Malwarebytes、Windows Security、NGAV Webroot 对其进行了扫描，并且我已经隔离了一个威胁（我不知道它是否与 ReCaptcha 问题有关，它说 pup.optional.bundleinstaller）。 我已经使用 Windows 安全进行了扫描，也没有发现任何威胁。我尝试再次按 windows + r（我没有粘贴它，当我单击 windows + r 时它已经在那里了），它仍然说“我不是机器人 bla bla bla...&quot;但在重置我的笔记本电脑几次后，它就消失了。 现在我正在运行 MSRT。  我身上没有硬盘，所以我不知道如何安全地备份我的数据，而且我的文件对于 Google Drives 来说太大了。    提交人    /u/PowerArtistic7316   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i3lgj9/i_accidentally_did_what_it_told_me_to_do_i_didnt/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>将大型 MP4 文件放入 DVD 的服务</title>
-      <link>https://www.reddit.com/r/software/comments/1i3l3ck/service_to_put_large_mp4_file_on_dvd/</link>
-      <description><![CDATA[几年前，我曾尝试将这个大型电影文件刻录到 DVD 上，但未能成功。它大约有 8 GB，时长为 1 小时。我将其存储在 Dropbox 上。我不再有 DVD 刻录机。我四处寻找可以做到这一点的服务，但它们都适用于数字化 VHS 磁带等。我只想付钱请人为我刻录 4 张包含此文件的 DVD。有什么想法吗？    提交人    /u/Every-Caterpillar235   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i3l3ck/service_to_put_large_mp4_file_on_dvd/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:03:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

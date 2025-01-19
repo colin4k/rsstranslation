@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 19 Jan 2025 09:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 12:02:26 GMT</lastBuildDate>
+    <item>
+      <title>CLI 工具可分析 git 提交并提供 AI 驱动的代码审查见解</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4whwq/cli_tool_that_analyzes_git_commits_and_provides/</link>
+      <description><![CDATA[  由    /u/Key-Reading-2582  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4whwq/cli_tool_that_analyzes_git_commits_and_provides/</guid>
+      <pubDate>Sun, 19 Jan 2025 11:29:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vim 行移动：快速上下移动行</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4uvhh/vim_line_movement_quickly_move_lines_up_down/</link>
+      <description><![CDATA[  由    /u/Main-Humor-6933  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4uvhh/vim_line_movement_quickly_move_lines_up_down/</guid>
+      <pubDate>Sun, 19 Jan 2025 09:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 个可能击垮你的编程难题（以及如何反击）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i4uq1p/the_10_programming_struggles_that_will_break_you/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i4uq1p/the_10_programming_struggles_that_will_break_you/</guid>
+      <pubDate>Sun, 19 Jan 2025 09:20:54 GMT</pubDate>
+    </item>
     <item>
       <title>UNLINK 与 DEL - 深入了解 Redis 内部的工作原理。</title>
       <link>https://www.reddit.com/r/programming/comments/1i4sdkx/unlink_vs_del_a_deep_dive_into_how_it_works/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i41myb/what_is_function_sharding_in_serverless_computing/</guid>
       <pubDate>Sat, 18 Jan 2025 06:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常规提交（模仿）</title>
-      <link>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</link>
-      <description><![CDATA[  由   提交  /u/Substantial_Tea_6549   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</guid>
-      <pubDate>Sat, 18 Jan 2025 06:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>丰富的程序员美食</title>
-      <link>https://www.reddit.com/r/programming/comments/1i412dm/rich_programmer_food/</link>
-      <description><![CDATA[  由    /u/gavinhoward  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i412dm/rich_programmer_food/</guid>
-      <pubDate>Sat, 18 Jan 2025 05:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 Rust、Graphite 编写的 FOSS 2D 图形编辑器发布了年度回顾和 2025 年展望</title>
-      <link>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</link>
-      <description><![CDATA[  由    /u/Keavon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</guid>
-      <pubDate>Sat, 18 Jan 2025 00:25:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
