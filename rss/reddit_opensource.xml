@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 Jan 2025 18:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 21:02:03 GMT</lastBuildDate>
+    <item>
+      <title>kew——一个微型终端音乐播放器——输入您想听的内容，播放列表就会自动创建——现在功能齐全！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i56blg/kew_a_tiny_terminal_music_player_type_what_you/</link>
+      <description><![CDATA[        由    /u/navegato  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i56blg/kew_a_tiny_terminal_music_player_type_what_you/</guid>
+      <pubDate>Sun, 19 Jan 2025 19:13:47 GMT</pubDate>
+    </item>
     <item>
       <title>有任何开源低规格 PC 游戏吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i52cno/any_opensource_low_spec_pc_games/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>我正在寻找具有树状视图的文件资源管理器</title>
       <link>https://www.reddit.com/r/opensource/comments/1i47894/im_looking_for_a_file_explorer_with_a_tree_view/</link>
-      <description><![CDATA[我有相当多的文件可以被视为其他文件，但主题相同。 我正在寻找一个文件资源管理器，它允许我以树的形式查看特定文件夹及其文件夹，当然还可以单击所需的文件，类似于 Linux 命令行上的树。 理想的情况是像下面这样，文件夹本身不存在，文件本身就是文件夹。 Mechanics Index.pdf ═── Engines.pdf │ ═── Diesel Engines.pdf │ │ ═── Exercises.pdf │ │ └── Solutions.docx │ ═── Gasoline Engines.pdf │ │ ═── Diagrams.pdf │ │ └── Workshop.docx ├── Transmissions.docx │ ├── 变速箱类型.docx │ │ ├── Manual.pdf │ │ └── Automatic.pdf │ └── Maintenance.docx ├── 刹车Systems.pdf │ ├──Hydraulic.docx │ ├──Electronic.pdf │ └──Troubleshooting.pptx  最理想的是它有一个图形界面并且适用于 Windows    提交人    /u/Motor__Ad   [链接] [评论]]]></description>
+      <description><![CDATA[我有相当多的文件可以被视为其他文件，但主题相同。 我正在寻找一个文件资源管理器，它允许我以树的形式查看特定文件夹及其文件夹，当然还可以单击所需的文件，类似于 Linux 命令行上的树。 理想的情况是像下面这样，文件夹本身不存在，文件本身就是文件夹。 Mechanics Index.pdf ═── Engines.pdf │ ═── Diesel Engines.pdf │ │ ═── Exercises.pdf │ │ └── Solutions.docx │ ═── Gasoline Engines.pdf │ │ ═── Diagrams.pdf │ │ └── Workshop.docx ═ ... TreeSize 不是我想要的。 Total Commander 可能会用到。 Everything 应用程序看起来很像 Obsidian。 Filelight 不是我想要的。 文件系统查看器不适合我使用。 Explorer++ 看起来比 Microsoft Explorer 好一点，但仍然不是我想要的。 感谢大家的支持，我将继续寻找最合适的。    提交人    /u/Motor__Ad   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i47894/im_looking_for_a_file_explorer_with_a_tree_view/</guid>
       <pubDate>Sat, 18 Jan 2025 13:11:06 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>我的学习资料库包含许多机器学习方法和概念的实现</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</link>
-      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次我添加了 MIT 许可证后，我重新发布。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
+      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次重新发布以来，我添加了 MIT 许可证。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</guid>
       <pubDate>Fri, 17 Jan 2025 22:16:29 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣了解 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</guid>
       <pubDate>Fri, 17 Jan 2025 18:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>depthviz-开源自由潜水深度叠加工具-寻求反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3mcb5/depthviz_opensource_freediving_depth_overlay_tool/</link>
-      <description><![CDATA[大家好！👋 我正在开发 depthviz，这是一款开源 CLI 工具，可根据潜水电脑日志为自由潜水视频生成深度跟踪叠加层。目标是提供一种简单有效的方法来可视化潜水资料并增强自由潜水镜头。  GitHub repo：https://github.com/noppanut15/depthviz 主要功能：  解析来自各种来源（Apnealizer、Shearwater、Garmin、Suunto 和手动模式）的潜水日志。 生成具有可自定义文本格式的 MP4 视频叠加以显示深度。 使用线性插值获得平滑的深度剖面。  我正在寻找社区对以下方面的反馈和贡献：  代码质量和最佳实践。 （Python） 潜在的改进和新功能。 可用性和整体用户体验。 支持其他潜水电脑/数据格式。  如果您有兴趣为开源项目做出贡献、从事数据可视化工作，或者只是想尝试一下，请查看 repo 并分享您的想法！欢迎所有反馈、错误报告和功能请求。    提交人    /u/noppanut15   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3mcb5/depthviz_opensource_freediving_depth_overlay_tool/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:55:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,55 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 19 Jan 2025 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 21:01:55 GMT</lastBuildDate>
     <item>
-      <title>为什么几乎每个问题都是软件问题？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i54fmh/why_is_almost_every_issue_a_software_issue/</link>
-      <description><![CDATA[似乎无论你的硬件有多好，你总会遇到一些落后的软件问题，因为有些程序员很懒。最近，我到处都遇到越来越多的软件错误，这让我抓狂不已，从我的电脑无法运行 Windows 11（我有一台 3070 和 I7）到由于一些愚蠢的错误而无法登录 Instagram。我想问你们所有“软件工程师”（我认为你们任何人都不应该称自己为工程师）为什么你们为自己能够编写代码而感到自豪，而这些代码都是垃圾？很少有程序制作得如此精良，以至于它们不会失败。整个软件行业都需要重新设计。     提交人    /u/Vegetable-Bluejay643   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i54fmh/why_is_almost_every_issue_a_software_issue/</guid>
-      <pubDate>Sun, 19 Jan 2025 17:56:57 GMT</pubDate>
+      <title>i18n-ai-translate：使用 ChatGPT/Gemini/Ollama 自动化 i18n JSON</title>
+      <link>https://www.reddit.com/r/programming/comments/1i58xex/i18naitranslate_automate_i18n_jsons_with/</link>
+      <description><![CDATA[  由    /u/DankCool  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i58xex/i18naitranslate_automate_i18n_jsons_with/</guid>
+      <pubDate>Sun, 19 Jan 2025 21:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的 NervLab WebGPU 应用中引入一个简单的蓝图概念</title>
+      <link>https://www.reddit.com/r/programming/comments/1i583ct/introducing_a_simple_blueprint_concept_in_my/</link>
+      <description><![CDATA[  由    /u/magik_engineer  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i583ct/introducing_a_simple_blueprint_concept_in_my/</guid>
+      <pubDate>Sun, 19 Jan 2025 20:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解压缩的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1i56j96/understanding_how_compression_works/</link>
+      <description><![CDATA[  由    /u/Cefor111  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i56j96/understanding_how_compression_works/</guid>
+      <pubDate>Sun, 19 Jan 2025 19:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年终极 Git 和 Github 大师班</title>
+      <link>https://www.reddit.com/r/programming/comments/1i55qgh/the_ultimate_2025_git_github_masterclass/</link>
+      <description><![CDATA[  由    /u/IndependentMemory896  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i55qgh/the_ultimate_2025_git_github_masterclass/</guid>
+      <pubDate>Sun, 19 Jan 2025 18:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elixir 中线程和进程的区别</title>
+      <link>https://www.reddit.com/r/programming/comments/1i55q1u/diferencias_entre_hilos_y_procesos_en_elixir/</link>
+      <description><![CDATA[ 提交人   /u/emanuelpeg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i55q1u/diferencias_entre_hilos_y_procesos_en_elixir/</guid>
+      <pubDate>Sun, 19 Jan 2025 18:49:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Angular 中构建 CRUD 应用程序 - 适合初学者</title>
+      <link>https://www.reddit.com/r/programming/comments/1i55j2y/building_a_crud_application_in_angular_for/</link>
+      <description><![CDATA[  由    /u/programmerjunky  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i55j2y/building_a_crud_application_in_angular_for/</guid>
+      <pubDate>Sun, 19 Jan 2025 18:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>MicroPie - 一款超微型 Python Web 框架，让你不再受束缚</title>
+      <link>https://www.reddit.com/r/programming/comments/1i55clr/micropie_an_ultramicro_python_web_framework_that/</link>
+      <description><![CDATA[  由    /u/Miserable_Ear3789  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i55clr/micropie_an_ultramicro_python_web_framework_that/</guid>
+      <pubDate>Sun, 19 Jan 2025 18:33:51 GMT</pubDate>
     </item>
     <item>
       <title>为什么 C# 开发人员也应该学习 Rust，以及它能教给他们什么</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i4kejx/implement_retry_mechanism_java_interview_question/</guid>
       <pubDate>Sat, 18 Jan 2025 23:26:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elixir |> 运算符及其在其他语言中的等效项</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4czl9/el_operador_de_elixir_y_sus_equivalentes_en_otros/</link>
-      <description><![CDATA[ 提交人   /u/emanuelpeg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4czl9/el_operador_de_elixir_y_sus_equivalentes_en_otros/</guid>
-      <pubDate>Sat, 18 Jan 2025 17:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>当“它在我的计算机上运行”但在生产中失败时该怪谁？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4c7se/whos_to_blame_when_it_works_on_my_machine_and/</link>
-      <description><![CDATA[  由    /u/thecoode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4c7se/whos_to_blame_when_it_works_on_my_machine_and/</guid>
-      <pubDate>Sat, 18 Jan 2025 17:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的 WhatsApp 自动化项目：简单指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4bh9k/whatsapp_automation_project_in_python_a_simple/</link>
-      <description><![CDATA[  由    /u/thecoode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4bh9k/whatsapp_automation_project_in_python_a_simple/</guid>
-      <pubDate>Sat, 18 Jan 2025 16:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>自费出版第一本技术书籍的真相：800 多本，1.1 万美元，850 个小时</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4abvr/the_raw_truth_about_selfpublishing_first/</link>
-      <description><![CDATA[  由    /u/meaboutsoftware  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4abvr/the_raw_truth_about_selfpublishing_first/</guid>
-      <pubDate>Sat, 18 Jan 2025 15:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chatassembler 是一款 RISC-V 汇编器，速度比 GCC 快 10 倍以上</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4a2dj/chatassembler_is_a_riscv_assembler_thats_over_10/</link>
-      <description><![CDATA[  由    /u/FunnyLittleGizmo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4a2dj/chatassembler_is_a_riscv_assembler_thats_over_10/</guid>
-      <pubDate>Sat, 18 Jan 2025 15:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 JWT</title>
-      <link>https://www.reddit.com/r/programming/comments/1i49yu0/understand_jwt/</link>
-      <description><![CDATA[  由   提交  /u/bobthebuilder9991999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i49yu0/understand_jwt/</guid>
-      <pubDate>Sat, 18 Jan 2025 15:32:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
