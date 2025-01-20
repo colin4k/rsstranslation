@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 Jan 2025 21:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 00:04:00 GMT</lastBuildDate>
+    <item>
+      <title>CapCut 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i5bs9d/capcut_alternatives/</link>
+      <description><![CDATA[大家好！ 有人知道 CapCut 或新 Meta shovelware Edits 的任何操作系统替代品吗？ 基于 iOS / Android 的东西，剪辑编辑等 谢谢！    提交人    /u/brodouevenchurn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i5bs9d/capcut_alternatives/</guid>
+      <pubDate>Sun, 19 Jan 2025 23:01:55 GMT</pubDate>
+    </item>
     <item>
       <title>kew——一个微型终端音乐播放器——输入您想听的内容，播放列表就会自动创建——现在功能齐全！</title>
       <link>https://www.reddit.com/r/opensource/comments/1i56blg/kew_a_tiny_terminal_music_player_type_what_you/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[LCLV 是一款实时计算机视觉应用程序，使用 Moondream + Ollama 完全在本地运行。 视频演示可在这里获取。 它的作用：  通过网络摄像头进行实时视频分析 &amp;分类（情绪检测、疲劳分析、凝视跟踪等） 在您的机器上 100% 本地运行 使用 TailwindCSS 清理 UI 超级容易设置！  快速设置：  安装 Ollama 并在 Ollama 服务器上运行 Moondream ollama pull moondream 和 ollama run moondream 克隆 repo 并运行 Web 应用程序：  ​ git clone cd lclv npm install npm run devhttps://github.com/HafizalJohari/lclv.git  查看 repo 了解更多详细信息 &amp;在这里亲自尝试一下：https://github.com/HafizalJohari/lclv 如果您在运行过程中遇到问题，请告诉我！如果遇到问题，请跳转到 Moondream discord 中的 #support 频道，或在此处发表评论以获得即时帮助。    提交人    /u/ParsaKhaz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</guid>
       <pubDate>Fri, 17 Jan 2025 19:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>TilBuci 新版本 - 一款免费的交互式内容创建软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</link>
-      <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣了解 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:23:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
