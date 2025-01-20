@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 20 Jan 2025 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 03:04:21 GMT</lastBuildDate>
+    <item>
+      <title>github 上的这个开源数据科学课程有用吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i5gd55/is_this_open_source_data_science_course_on_github/</link>
+      <description><![CDATA[https://github.com/ossu/data-science 上面的链接提供了一个开源的自定进度数据科学家本科学位同等课程。我对 github 不太了解，所以我想知道这门课程是否值得完整完成？我想获得数据科学家的技能，对学位不感兴趣。我看到它有 19.3k 颗星，这很棒吗？平庸？感谢所有建议，谢谢。     提交人    /u/exercisesports321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i5gd55/is_this_open_source_data_science_course_on_github/</guid>
+      <pubDate>Mon, 20 Jan 2025 02:51:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一款优秀的 GPS 跟踪应用程序，以便快速安装到我孩子的 Android 上。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i5fhy5/looking_for_a_good_app_for_gps_tracking_to_put_on/</link>
+      <description><![CDATA[这是一个危机情况。任何建议都将不胜感激。    由    /u/Patient_Ad3716  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i5fhy5/looking_for_a_good_app_for_gps_tracking_to_put_on/</guid>
+      <pubDate>Mon, 20 Jan 2025 02:05:30 GMT</pubDate>
+    </item>
     <item>
       <title>CapCut 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1i5bs9d/capcut_alternatives/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>我做了一个程序来批量下载TikTok</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</link>
-      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以进行备份。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
+      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以便备份它们。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</guid>
       <pubDate>Sun, 19 Jan 2025 02:56:33 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>我修复了 googlesearch-python</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</link>
-      <description><![CDATA[您好， 虽然没什么问题，但是我修复了库 googlesearch-python，该库返回了空结果，因为 Google 对不使用 JS 的浏览器添加了限制。 我的修复使用了 Lynx 用户代理。 我经常将这个库用于我的 开源项目，所以我希望修复它。 如果您需要安装我的 fork，请像这样（在 venv 中左右）：  pip install git+https://github.com/stanfrbd/googlesearch@lynx-user-agent  PR 在这里（等待所有者）：PR 希望有帮助！ 干杯， 斯坦    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 虽然没什么问题，但是我修复了库 googlesearch-python，该库返回了空结果，因为 Google 对不使用 JS 的浏览器添加了限制。 我的修复使用了 Lynx 用户代理。 我经常将这个库用于我的开源项目，所以我希望修复它。 如果您需要安装我的 fork，请像这样（在 venv 中左右）：  pip install git+https://github.com/stanfrbd/googlesearch@lynx-user-agent  PR 在这里（等待所有者）：PR 希望有帮助！ 干杯， 斯坦    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</guid>
       <pubDate>Sat, 18 Jan 2025 16:51:37 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>我的学习资料库包含许多机器学习方法和概念的实现</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</link>
-      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次重新发布以来，我添加了 MIT 许可证。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
+      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次我添加了 MIT 许可证后，我重新发布。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</guid>
       <pubDate>Fri, 17 Jan 2025 22:16:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于全文搜索的全新 Postgres 块存储布局</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3rfno/a_new_postgres_block_storage_layout_for_full_text/</link>
-      <description><![CDATA[       由    /u/philippemnoel  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3rfno/a_new_postgres_block_storage_layout_for_full_text/</guid>
-      <pubDate>Fri, 17 Jan 2025 21:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>LCLV：使用 Moondream 2B 和 OLLama 进行实时视频分类和分析（开源，本地）。链接如下。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</link>
-      <description><![CDATA[LCLV 是一款实时计算机视觉应用程序，使用 Moondream + Ollama 完全在本地运行。 视频演示可在这里获取。 它的作用：  通过网络摄像头进行实时视频分析 &amp;分类（情绪检测、疲劳分析、凝视跟踪等） 在您的机器上 100% 本地运行 使用 TailwindCSS 清理 UI 超级容易设置！  快速设置：  安装 Ollama 并在 Ollama 服务器上运行 Moondream ollama pull moondream 和 ollama run moondream 克隆 repo 并运行 Web 应用程序：  ​ git clone cd lclv npm install npm run devhttps://github.com/HafizalJohari/lclv.git  查看 repo 了解更多详细信息 &amp;在这里亲自尝试一下：https://github.com/HafizalJohari/lclv 如果您在运行过程中遇到问题，请告诉我！如果遇到问题，请跳转到 Moondream discord 中的 #support 频道，或在此处发表评论以获得即时帮助。    提交人    /u/ParsaKhaz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</guid>
-      <pubDate>Fri, 17 Jan 2025 19:13:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
