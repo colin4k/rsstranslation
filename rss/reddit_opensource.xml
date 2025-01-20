@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 20 Jan 2025 15:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 18:02:42 GMT</lastBuildDate>
+    <item>
+      <title>Mobifree：更符合道德、更人性化的移动软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i5vraj/mobifree_more_ethical_and_humane_mobile_software/</link>
+      <description><![CDATA[Mobifree 软件是开源的，使用开放标准和开放数据源。 如果事态继续发展下去，研究机构 Waag 的创始人兼主管 Marleen Stikker 担心我们的网络自主权的未来。普通人可能认为他们对这些大公司没有什么可隐瞒的，但您的手机收集的所有关于您的数据的潜在后果是无法估量的。 例如，如果有关女性上次月经的信息对于了解她们是否堕过胎变得很重要，而堕胎突然成为应受惩罚的事情，该怎么办？为了打击对我们数字存在的垄断，Stikker 正在与 Waag 合作开发 Mobifree：一种完全开源的绿色软件，不会窃取您的数据。  Mobifree 不仅可以提供尚未实现的替代方案，还可以成为基于公共价值而非主流互联网公司收入模式的道德技术新市场的开端。 有关更多信息，请访问：https://mobifree.org/    提交人    /u/HappyBuddha8   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i5vraj/mobifree_more_ethical_and_humane_mobile_software/</guid>
+      <pubDate>Mon, 20 Jan 2025 17:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了“网页版 Google Messages”替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i5spr6/i_made_a_google_messages_for_web_alternative/</link>
+      <description><![CDATA[大家好， 我制作了一个开源的“Google Messages for web”替代品，它利用 WebRTC 数据通道在浏览器中显示手机的短信。 这是一款可以安装在手机上的 Android 应用，其服务器使用 Socket.io 进行信号传输，使用 coturn 作为 TURN 服务器。如果愿意，您也可以自行托管它。所有源代码都在存储库中。 产品：https://textondesk.lol/ 存储库：https://github.com/realchandan/textondesk/ 演示：https://youtu.be/-O3HVSjb_lo    提交人    /u/freewheel1466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i5spr6/i_made_a_google_messages_for_web_alternative/</guid>
+      <pubDate>Mon, 20 Jan 2025 15:29:19 GMT</pubDate>
+    </item>
     <item>
       <title>发布 v0.1.0 - 你好，世界！Cyber​​bro 已上线 · stanfrbd/cyberbro</title>
       <link>https://www.reddit.com/r/opensource/comments/1i5oos1/release_v010_hello_world_cyberbro_is_live/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>我做了一个程序来批量下载TikTok</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</link>
-      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以进行备份。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
+      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以便备份它们。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</guid>
       <pubDate>Sun, 19 Jan 2025 02:56:33 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我有相当多的文件可以被视为其他文件，但主题相同。 我正在寻找一个文件资源管理器，它允许我以树的形式查看特定文件夹及其文件夹，当然还可以单击所需的文件，类似于 Linux 命令行上的树。 理想的情况是像下面这样，文件夹本身不存在，文件本身就是文件夹。 Mechanics Index.pdf ═── Engines.pdf │ ═── Diesel Engines.pdf │ │ ═── Exercises.pdf │ │ └── Solutions.docx │ ═── Gasoline Engines.pdf │ │ ═── Diagrams.pdf │ │ └── Workshop.docx ═ ... TreeSize 不是我想要的。 Total Commander 可能会用到。 Everything 应用程序看起来很像 Obsidian。 Filelight 不是我想要的。 文件系统查看器不适合我使用。 Explorer++ 看起来比 Microsoft Explorer 好一点，但仍然不是我想要的。 感谢大家的支持，我将继续寻找最合适的。    提交人    /u/Motor__Ad   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i47894/im_looking_for_a_file_explorer_with_a_tree_view/</guid>
       <pubDate>Sat, 18 Jan 2025 13:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>简洁美观的卡路里追踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i44nf0/simple_and_beautiful_calorie_tracker/</link>
-      <description><![CDATA[      没有简单而有效的开放式我喜欢的卡路里追踪器来源，所以我创建了简单的卡路里追踪器。我想要一个漂亮的设计，所以我复制了非常著名的应用程序 Yazio 的用户界面。它使用 USDA 和 openfoodfacts apis 来追踪食物。apk 可在 github repo 版本中找到。我打算在 fdroid 上获取它！    提交人    /u/Aggravating_Link_370   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i44nf0/simple_and_beautiful_calorie_tracker/</guid>
-      <pubDate>Sat, 18 Jan 2025 10:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS 2D 图形编辑套件 Graphite 发布了年度回顾和 2025 年展望</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3uocc/foss_2d_graphics_editing_suite_graphite_posts_its/</link>
-      <description><![CDATA[        由    /u/Keavon   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3uocc/foss_2d_graphics_editing_suite_graphite_posts_its/</guid>
-      <pubDate>Sat, 18 Jan 2025 00:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
