@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 21 Jan 2025 09:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 12:02:48 GMT</lastBuildDate>
+    <item>
+      <title>[python] Fitting-Toolkit 包版本1.1.0发布。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i6fmht/python_fittingtoolkit_package_version_110_released/</link>
+      <description><![CDATA[Fitting Toolkit 是一种灵活的数据分析和建模工具，专门针对初步数据分析而设计，但仍然易于使用。它建立在 SciPy 的优化库之上，但极大地扩展了其针对特定应用的功能。 根据我所在大学社区的反馈，版本 1.1.0 现在实现了现成的工具，用于  最大似然估计曲线拟合 峰值/概率分布拟合 适合任意输入维度  可以通过  pip install fitting-toolkit  安装该软件包，文档可以在 GitHub 上找到    提交人    /u/PixelRayn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i6fmht/python_fittingtoolkit_package_version_110_released/</guid>
+      <pubDate>Tue, 21 Jan 2025 10:24:26 GMT</pubDate>
+    </item>
     <item>
       <title>使用机器学习进行视频文字隐藏</title>
       <link>https://www.reddit.com/r/opensource/comments/1i6dhqs/text_behind_video_using_machine_learning/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/mehyay76   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4yaft/yek_serialize_your_code_repo_or_part_of_it_to/</guid>
       <pubDate>Sun, 19 Jan 2025 13:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 Asana CLI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4vi0i/i_built_an_asana_cli/</link>
-      <description><![CDATA[      大家好， 我目前正在研究 Asana CLI。我们在工作中使用 Asana，有时从 Asana 切换到代码的过程很烦人，所以我构建了一个 CLI 来为我完成这项工作。 您可以列出任务、更新任务，并更清楚地了解与该项目相关的项目和任务。 还有很多缺失，但我正在积极努力。 如果您发现改进空间或有其他想要看到的功能，请随时与我联系 :) Repo：https://github.com/timwehrle/asana    提交人    /u/soupgasm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4vi0i/i_built_an_asana_cli/</guid>
-      <pubDate>Sun, 19 Jan 2025 10:18:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

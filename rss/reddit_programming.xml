@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 21 Jan 2025 09:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 12:02:39 GMT</lastBuildDate>
+    <item>
+      <title>心流状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6gut8/the_flow_state/</link>
+      <description><![CDATA[  由    /u/ValenceTheHuman  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6gut8/the_flow_state/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅使用 HTML 和 CSS 技巧，无需 JavaScript 即可构建 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6gt1i/building_web_apps_without_javascript_using_only/</link>
+      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6gt1i/building_web_apps_without_javascript_using_only/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何用 Go 编写更好的测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6gpip/how_to_write_better_tests_in_go/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6gpip/how_to_write_better_tests_in_go/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle PLSQL 中的控制语句</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6ghpq/control_statement_in_oracle_plsql/</link>
+      <description><![CDATA[  由    /u/apexysatish  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6ghpq/control_statement_in_oracle_plsql/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要试图在编码方面显得过于聪明！</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6g5r0/dont_try_to_be_oversmart_with_coding/</link>
+      <description><![CDATA[  由    /u/sit0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6g5r0/dont_try_to_be_oversmart_with_coding/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postiz v1.28.1 - 开源社交媒体调度工具（更多渠道、短链接）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6emes/postiz_v1281_opensource_social_media_scheduling/</link>
+      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6emes/postiz_v1281_opensource_social_media_scheduling/</guid>
+      <pubDate>Tue, 21 Jan 2025 09:07:35 GMT</pubDate>
+    </item>
     <item>
       <title>一个简单的跨平台 CLI，可以轻松以交互方式评估、调试和验证 cron 表达式，无需终端</title>
       <link>https://www.reddit.com/r/programming/comments/1i6dy24/a_simple_and_cross_platform_cli_to_easily/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[  由    /u/Dilocan  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i5zf7q/teaching_a_machine_to_read_how_llms_comprehend/</guid>
       <pubDate>Mon, 20 Jan 2025 19:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试金字塔是一种过时的经济模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5xasa/the_testing_pyramid_is_an_outdated_economic_model/</link>
-      <description><![CDATA[  由    /u/MiserableWriting2919  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5xasa/the_testing_pyramid_is_an_outdated_economic_model/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haskell：一种伟大的过程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5w2k0/haskell_a_great_procedural_language/</link>
-      <description><![CDATA[  由    /u/DreamyRustacean  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5w2k0/haskell_a_great_procedural_language/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atomics、Actors、Mutex：同步框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5vgeo/atomics_vs_actors_vs_mutex_the_synchronization/</link>
-      <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5vgeo/atomics_vs_actors_vs_mutex_the_synchronization/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:21:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>剖析 Puma：Ruby Web 服务器的剖析</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5v4hp/dissecting_puma_anatomy_of_a_ruby_web_server/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5v4hp/dissecting_puma_anatomy_of_a_ruby_web_server/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个交互式的、浏览器内的、人工智能辅助的 SQL 导师。</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5un7o/i_built_an_interactive_inbrowser_aiassisted_sql/</link>
-      <description><![CDATA[  由    /u/shabda  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5un7o/i_built_an_interactive_inbrowser_aiassisted_sql/</guid>
-      <pubDate>Mon, 20 Jan 2025 16:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>🌈 Tamga - 现代 Python 记录器</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5u8yg/tamga_a_modern_python_logger/</link>
-      <description><![CDATA[  由    /u/dogukanurker  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5u8yg/tamga_a_modern_python_logger/</guid>
-      <pubDate>Mon, 20 Jan 2025 16:32:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
