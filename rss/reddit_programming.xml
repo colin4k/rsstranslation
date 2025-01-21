@@ -4,20 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 20 Jan 2025 18:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 00:03:37 GMT</lastBuildDate>
+    <item>
+      <title>SupGen 是一款基于示例或依赖类型的无 AI 程序合成器。其性能比 SOTA 高出 1000 倍！</title>
+      <link>https://www.reddit.com/r/programming/comments/1i63cgk/supgen_is_an_aifree_program_synthesizer_based_on/</link>
+      <description><![CDATA[  由    /u/SrPeixinho  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i63cgk/supgen_is_an_aifree_program_synthesizer_based_on/</guid>
+      <pubDate>Mon, 20 Jan 2025 22:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>批处理作业系统的数据分支</title>
+      <link>https://www.reddit.com/r/programming/comments/1i62bju/data_branching_for_batch_job_systems/</link>
+      <description><![CDATA[  由    /u/Sheepzezz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i62bju/data_branching_for_batch_job_systems/</guid>
+      <pubDate>Mon, 20 Jan 2025 21:56:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解 FNV Hash</title>
+      <link>https://www.reddit.com/r/programming/comments/1i61g41/learning_about_fnv_hash/</link>
+      <description><![CDATA[  由    /u/TotalPerspective  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i61g41/learning_about_fnv_hash/</guid>
+      <pubDate>Mon, 20 Jan 2025 21:20:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>教机器阅读，法学硕士如何理解文本</title>
+      <link>https://www.reddit.com/r/programming/comments/1i5zf7q/teaching_a_machine_to_read_how_llms_comprehend/</link>
+      <description><![CDATA[  由    /u/Dilocan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i5zf7q/teaching_a_machine_to_read_how_llms_comprehend/</guid>
+      <pubDate>Mon, 20 Jan 2025 19:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试金字塔是一种过时的经济模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1i5xasa/the_testing_pyramid_is_an_outdated_economic_model/</link>
+      <description><![CDATA[  由    /u/MiserableWriting2919  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i5xasa/the_testing_pyramid_is_an_outdated_economic_model/</guid>
+      <pubDate>Mon, 20 Jan 2025 18:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Haskell：一种伟大的过程语言</title>
       <link>https://www.reddit.com/r/programming/comments/1i5w2k0/haskell_a_great_procedural_language/</link>
       <description><![CDATA[  由    /u/DreamyRustacean  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i5w2k0/haskell_a_great_procedural_language/</guid>
       <pubDate>Mon, 20 Jan 2025 17:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>急需考试帮助！（C 编程疑问）</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5vhin/urgent_exam_help_required_please_c_programming/</link>
-      <description><![CDATA[  由    /u/EventMaximum9435  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5vhin/urgent_exam_help_required_please_c_programming/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:22:58 GMT</pubDate>
     </item>
     <item>
       <title>Atomics、Actors、Mutex：同步框架</title>
@@ -32,13 +60,6 @@
       <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i5v4hp/dissecting_puma_anatomy_of_a_ruby_web_server/</guid>
       <pubDate>Mon, 20 Jan 2025 17:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在编码面试中，他们多久会要求你实现 AVL 树？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5uy5d/how_often_do_they_ask_you_to_implement_avl_trees/</link>
-      <description><![CDATA[  由    /u/Big_Active7888  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5uy5d/how_often_do_they_ask_you_to_implement_avl_trees/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:01:11 GMT</pubDate>
     </item>
     <item>
       <title>我建立了一个交互式的、浏览器内的、人工智能辅助的 SQL 导师。</title>
@@ -97,13 +118,6 @@
       <pubDate>Mon, 20 Jan 2025 15:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>我正在公开构建一个简化的网站构建器！这是我的页面/部分数据生命周期计划</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5sato/im_building_a_simplified_website_builder_in/</link>
-      <description><![CDATA[  由    /u/person13524  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5sato/im_building_a_simplified_website_builder_in/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:11:19 GMT</pubDate>
-    </item>
-    <item>
       <title>Cowleyfornia Studios - 我为什么在 2025 年用 C 语言编写了一款商业游戏</title>
       <link>https://www.reddit.com/r/programming/comments/1i5s3tc/cowleyfornia_studios_why_i_wrote_a_commercial/</link>
       <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Hellobox1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i5nppp/why_manual_release_notes_and_versions_are_a_chaos/</guid>
       <pubDate>Mon, 20 Jan 2025 10:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么你的 Pull 请求被卡住了</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5nokd/why_your_pull_requests_are_stuck/</link>
-      <description><![CDATA[  由    /u/ColdRevolutionary193  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5nokd/why_your_pull_requests_are_stuck/</guid>
-      <pubDate>Mon, 20 Jan 2025 10:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 开源软件组成分析库</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5nnlw/google_open_sources_software_composition_analysis/</link>
-      <description><![CDATA[  由    /u/Hellobox1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5nnlw/google_open_sources_software_composition_analysis/</guid>
-      <pubDate>Mon, 20 Jan 2025 10:54:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
