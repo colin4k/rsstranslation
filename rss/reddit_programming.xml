@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 21 Jan 2025 03:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 09:01:50 GMT</lastBuildDate>
+    <item>
+      <title>一个简单的跨平台 CLI，可以轻松以交互方式评估、调试和验证 cron 表达式，无需终端</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6dy24/a_simple_and_cross_platform_cli_to_easily/</link>
+      <description><![CDATA[  由    /u/Elliot40404  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6dy24/a_simple_and_cross_platform_cli_to_easily/</guid>
+      <pubDate>Tue, 21 Jan 2025 08:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>框架疲劳：开发人员对新技术感到愤怒的真正原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6d9u5/framework_fatigue_the_real_reason_developers_get/</link>
+      <description><![CDATA[  由    /u/raedslab  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6d9u5/framework_fatigue_the_real_reason_developers_get/</guid>
+      <pubDate>Tue, 21 Jan 2025 07:24:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>里氏替换：继承的真正含义</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6cbzt/liskov_substitution_the_real_meaning_of/</link>
+      <description><![CDATA[  由    /u/cekrem  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6cbzt/liskov_substitution_the_real_meaning_of/</guid>
+      <pubDate>Tue, 21 Jan 2025 06:17:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国公司击败 OpenAI。DeepSeek R1 与 OpenAI O1 在金融领域的对比</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6aul0/the_chinese_obliterated_openai_a_sidebyside/</link>
+      <description><![CDATA[  由    /u/No-Definition-2886  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6aul0/the_chinese_obliterated_openai_a_sidebyside/</guid>
+      <pubDate>Tue, 21 Jan 2025 04:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>JUnit 的十大必知功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6ar3g/top_10_mustknown_features_of_junit/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6ar3g/top_10_mustknown_features_of_junit/</guid>
+      <pubDate>Tue, 21 Jan 2025 04:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要当混蛋：维护者对代码变更评审的看法</title>
+      <link>https://www.reddit.com/r/programming/comments/1i6akun/dont_be_the_asshat_a_maintainers_perspective_on/</link>
+      <description><![CDATA[  由    /u/yuppiepuppie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i6akun/dont_be_the_asshat_a_maintainers_perspective_on/</guid>
+      <pubDate>Tue, 21 Jan 2025 04:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个人制作了一款 PS1 游戏并将其连接到 PS4</title>
+      <link>https://www.reddit.com/r/programming/comments/1i69h8k/a_guy_made_a_ps1_game_and_connected_it_to_a_ps4/</link>
+      <description><![CDATA[  由    /u/s33d5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i69h8k/a_guy_made_a_ps1_game_and_connected_it_to_a_ps4/</guid>
+      <pubDate>Tue, 21 Jan 2025 03:31:38 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能软件开发代理：开发的未来</title>
       <link>https://www.reddit.com/r/programming/comments/1i67n2u/ai_software_development_agents_the_future_of/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/dogukanurker  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i5u8yg/tamga_a_modern_python_logger/</guid>
       <pubDate>Mon, 20 Jan 2025 16:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>x86 上的 CPU 端口和延迟隐藏</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5u4g0/cpu_ports_and_latency_hiding_on_x86/</link>
-      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5u4g0/cpu_ports_and_latency_hiding_on_x86/</guid>
-      <pubDate>Mon, 20 Jan 2025 16:27:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们从将 AI 引入公司中学到的 4 个教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5tuk5/4_lessons_we_learned_from_bringing_ai_to_our/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5tuk5/4_lessons_we_learned_from_bringing_ai_to_our/</guid>
-      <pubDate>Mon, 20 Jan 2025 16:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>两件困难的事</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5trgs/two_hard_things/</link>
-      <description><![CDATA[  由    /u/DreamyRustacean  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5trgs/two_hard_things/</guid>
-      <pubDate>Mon, 20 Jan 2025 16:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>QA/QAE/SDET/自动化领域最成功的人与普通人有何区别？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5tfa6/what_separates_the_most_successful_people_in/</link>
-      <description><![CDATA[  由    /u/basecase_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5tfa6/what_separates_the_most_successful_people_in/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个持续两小时的 Bug 以及让它看起来简单的艺术</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5syk9/a_twohour_bug_and_the_art_of_making_it_look_easy/</link>
-      <description><![CDATA[  由    /u/klaasvanschelven  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5syk9/a_twohour_bug_and_the_art_of_making_it_look_easy/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>保持序列化排序</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5sgzz/sort_order_preserving_serialization/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5sgzz/sort_order_preserving_serialization/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cowleyfornia Studios - 我为什么在 2025 年用 C 语言编写了一款商业游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1i5s3tc/cowleyfornia_studios_why_i_wrote_a_commercial/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i5s3tc/cowleyfornia_studios_why_i_wrote_a_commercial/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:03:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

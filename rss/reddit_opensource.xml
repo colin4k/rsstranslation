@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 21 Jan 2025 03:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 09:01:57 GMT</lastBuildDate>
+    <item>
+      <title>使用机器学习进行视频文字隐藏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i6dhqs/text_behind_video_using_machine_learning/</link>
+      <description><![CDATA[        提交人    /u/Glowdopera   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i6dhqs/text_behind_video_using_machine_learning/</guid>
+      <pubDate>Tue, 21 Jan 2025 07:40:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>智能书签：人工智能书签管理器🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i6dewf/smart_bookmark_an_aipowered_bookmark_manager/</link>
+      <description><![CDATA[嗨，Reddit！👋 我正在分享智能书签，这是我一直在努力的一个项目，使管理书签变得更智能、更容易！它是一个人工智能书签管理器，具有智能搜索、自动摘要和标记等功能。🌟 在此处查看公共存储库：GitHub - 智能书签 如果您有兴趣，我很乐意让您尝试一下、分享反馈或做出贡献！如果您有任何问题或建议，请告诉我。 感谢您的时间！😊    提交人    /u/ValuableNo5634   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i6dewf/smart_bookmark_an_aipowered_bookmark_manager/</guid>
+      <pubDate>Tue, 21 Jan 2025 07:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发的 Windows 工具的稳定版本：计划 PC 任务。您会尝试或测试它吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i6brdx/stable_version_of_the_windows_tool_i_developed/</link>
+      <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的^（使用 Qt6 的 C++）： https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i6brdx/stable_version_of_the_windows_tool_i_developed/</guid>
+      <pubDate>Tue, 21 Jan 2025 05:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要当混蛋：维护者对代码变更评审的看法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i6alw4/dont_be_the_asshat_a_maintainers_perspective_on/</link>
+      <description><![CDATA[  由    /u/yuppiepuppie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i6alw4/dont_be_the_asshat_a_maintainers_perspective_on/</guid>
+      <pubDate>Tue, 21 Jan 2025 04:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于应用程序交付的开源开发工具，现设有门户</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i69u1u/open_source_dev_tool_for_app_delivery_now_with_a/</link>
+      <description><![CDATA[来自 [Kusion](https://github.com/KusionStack/kusion) 维护者的问候。我们今天将在 Product Hunt 上推出 Kusion。 长话短说，它是一个开源开发工具，旨在通过处理复杂的基础设施来简化云原生应用交付，以便您可以专注于构建出色的应用程序。这是 [稍长版本](https://kusion.kusionstack.io)。 它曾经是一个 CLI，我们现在正在添加一个开发门户来帮助可视化所有内容。（如果您愿意，CLI 仍然有效）    提交人    /u/ffforestucla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i69u1u/open_source_dev_tool_for_app_delivery_now_with_a/</guid>
+      <pubDate>Tue, 21 Jan 2025 03:50:50 GMT</pubDate>
+    </item>
     <item>
       <title>国家非营利组织分享有关开源软件项目的新文章</title>
       <link>https://www.reddit.com/r/opensource/comments/1i65rcz/national_nonprofit_shares_new_article_on/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[      大家好， 我目前正在研究 Asana CLI。我们在工作中使用 Asana，有时从 Asana 切换到代码的过程很烦人，所以我构建了一个 CLI 来为我完成这项工作。 您可以列出任务、更新任务，并更清楚地了解与该项目相关的项目和任务。 还有很多缺失，但我正在积极努力。 如果您发现改进空间或有其他想要看到的功能，请随时与我联系 :) Repo：https://github.com/timwehrle/asana    提交人    /u/soupgasm   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4vi0i/i_built_an_asana_cli/</guid>
       <pubDate>Sun, 19 Jan 2025 10:18:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个程序来批量下载TikTok</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</link>
-      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以便备份它们。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</guid>
-      <pubDate>Sun, 19 Jan 2025 02:56:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 sigil 之外，还有其他 ePub 创建 FOSS 软件吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4nzec/any_epub_creator_foss_software_other_than_sigil/</link>
-      <description><![CDATA[因此，我在 html 编辑方面遇到了麻烦，而且该软件对我来说似乎很混乱。我喜欢这些功能，但在我看来它有点混乱。 寻找 Linux 或 Windows，而不是 Mac。    由   提交  /u/CloudyyySXShadowH   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4nzec/any_epub_creator_foss_software_other_than_sigil/</guid>
-      <pubDate>Sun, 19 Jan 2025 02:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 OSS“电视流媒体”？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4cerk/building_an_oss_tv_streamer/</link>
-      <description><![CDATA[我运行一个小型家庭实验室，其中有 Kubernetes、Docker 和一个微型 IoT 盒子，充当带有 TVHeadend 的 SAT&gt;IP 服务器 - 所有这些都连接到 Jellyfin，我的所有内容都可以从那里访问。好吧，我的 Chromecast 坏了（小小的 HDMI 线坏了），现在我想建一个新的流媒体。 MinisForum 有 S100，一款英特尔 N100 棒状设备 - 所以我想我会选择 Plasma BigScreen - 但看起来这个项目有点偏离了计划（可能部分原因是 Mycroft AI 倒闭了？）所以......我需要一个替代方案。 我在这里看到了这个帖子，虽然已经过时了：https://www.reddit.com/r/opensource/comments/q9q5sf/are_there_any_firmwaresoftware_replacements_for/ WebOS OSSE 绝对是一个东西，我可以可能使其他 WebOS 黑客中使用的 Homebrew Channel 工作，从而安装 Jellyfin - 甚至可能通过 USB 连接第二个 DVB-S 调谐器......但是，还有哪些其他选项可用于构建自己的流媒体盒？ S100 只是我在 Youtube 推荐中看到的东西，我真的很喜欢棒状外形 - 很容易隐藏在电视后面。:) 还有其他我可以看看的项目吗？ 谢谢，并致以亲切的问候，Ingwie    提交人    /u/IngwiePhoenix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4cerk/building_an_oss_tv_streamer/</guid>
-      <pubDate>Sat, 18 Jan 2025 17:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个生产力/时间监控工具。它可以记录你工作/休息/休息的时间，你花了多少时间以及使用了哪些应用程序，以及每月生产力。所有这些都在后台自动完成，不需要互联网，所有数据都保留在本地！MIT 许可证。主要是为了帮助我治疗注意力缺陷多动障碍。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4c3kq/made_a_productivitytime_monitoring_tool_it_can/</link>
-      <description><![CDATA[        提交人    /u/RoberBots   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4c3kq/made_a_productivitytime_monitoring_tool_it_can/</guid>
-      <pubDate>Sat, 18 Jan 2025 17:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我修复了 googlesearch-python</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</link>
-      <description><![CDATA[您好， 虽然没什么问题，但是我修复了库 googlesearch-python，该库返回了空结果，因为 Google 对不使用 JS 的浏览器添加了限制。 我的修复使用了 Lynx 用户代理。 我经常将这个库用于我的 开源项目，所以我希望修复它。 如果您需要安装我的 fork，请像这样（在 venv 中左右）：  pip install git+https://github.com/stanfrbd/googlesearch@lynx-user-agent  PR 在这里（等待所有者）：PR 希望有帮助！ 干杯， 斯坦    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</guid>
-      <pubDate>Sat, 18 Jan 2025 16:51:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
