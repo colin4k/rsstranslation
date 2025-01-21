@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 21 Jan 2025 00:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 03:02:57 GMT</lastBuildDate>
+    <item>
+      <title>国家非营利组织分享有关开源软件项目的新文章</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i65rcz/national_nonprofit_shares_new_article_on/</link>
+      <description><![CDATA[  由    /u/smarkoishere  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i65rcz/national_nonprofit_shares_new_article_on/</guid>
+      <pubDate>Tue, 21 Jan 2025 00:26:29 GMT</pubDate>
+    </item>
     <item>
       <title>NodeBB 4.0.0 发布！</title>
       <link>https://www.reddit.com/r/opensource/comments/1i5yrb8/nodebb_400_released/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>我做了一个程序来批量下载TikTok</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</link>
-      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以进行备份。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
+      <description><![CDATA[此程序使用您可以从 TikTok 请求的数据来尝试快速将您的收藏和喜欢的内容下载到您的系统以便备份它们。 https://github.com/SparksCool/TikTokDL    提交人    /u/SparksCool   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4oi3s/i_made_a_program_to_mass_download_tiktoks/</guid>
       <pubDate>Sun, 19 Jan 2025 02:56:33 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[您好， 虽然没什么问题，但是我修复了库 googlesearch-python，该库返回了空结果，因为 Google 对不使用 JS 的浏览器添加了限制。 我的修复使用了 Lynx 用户代理。 我经常将这个库用于我的 开源项目，所以我希望修复它。 如果您需要安装我的 fork，请像这样（在 venv 中左右）：  pip install git+https://github.com/stanfrbd/googlesearch@lynx-user-agent  PR 在这里（等待所有者）：PR 希望有帮助！ 干杯， 斯坦    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i4bpj4/i_made_a_fix_for_googlesearchpython/</guid>
       <pubDate>Sat, 18 Jan 2025 16:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ux/UI 设计师希望为开源软件项目做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i4bl6z/uxui_designer_looking_to_contribute_to_open/</link>
-      <description><![CDATA[浏览过这里的帖子，阅读了一些评论，看到了很多关于 Ui 的反馈。如果你认为我对你的项目有用，可以联系我 我的作品集；https://ocwmn5om5.sites.cv/    提交人    /u/Professional_Set27​​36   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i4bl6z/uxui_designer_looking_to_contribute_to_open/</guid>
-      <pubDate>Sat, 18 Jan 2025 16:46:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
