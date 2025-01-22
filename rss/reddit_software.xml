@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 21 Jan 2025 21:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 03:04:08 GMT</lastBuildDate>
+    <item>
+      <title>将 Spotify 等精简版应用程序作为单独程序运行更好还是仅在浏览器中运行它们更好？</title>
+      <link>https://www.reddit.com/r/software/comments/1i6v7s3/is_it_better_to_run_lite_apps_like_spotify_as/</link>
+      <description><![CDATA[我想知道，以安装软件或仅在浏览器上运行不太占用 CPU 的应用程序（如 Sporify 或 ChatGpt、YouTube 等）的更好或最佳方式是什么？它们运行得更好吗？或者它们只是占用空间并且它们消耗的 CPU 功率更多还是更少？    由   提交  /u/TheThotality   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6v7s3/is_it_better_to_run_lite_apps_like_spotify_as/</guid>
+      <pubDate>Tue, 21 Jan 2025 22:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款可以手动放置批量水印图像的 Windows 软件</title>
+      <link>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</link>
+      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩膀上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</guid>
+      <pubDate>Tue, 21 Jan 2025 21:51:00 GMT</pubDate>
+    </item>
     <item>
       <title>真正有效的自动按键模拟</title>
       <link>https://www.reddit.com/r/software/comments/1i6t3c9/auto_keypressing_simulation_that_actually_works/</link>
@@ -111,7 +125,7 @@
       <pubDate>Tue, 21 Jan 2025 05:47:59 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe Encore？</title>
+      <title>又是Adobe？</title>
       <link>https://www.reddit.com/r/software/comments/1i6bhiw/adobe_encore/</link>
       <description><![CDATA[我似乎在任何地方都找不到它的下载，这让我很惊讶，因为我一直认为 Adob​​e 是有史以来最容易盗版的软件，这间接使其成为存档最多的软件。此时此刻，我只想知道是否存在下载 lol    提交人    /u/flash_animator_guy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6bhiw/adobe_encore/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[在高延迟连接上使用 SFTP 时，我通常会感到沮丧，因为大型文件夹需要很长时间才能删除/传输。我知道我可以通过 SSH 连接然后执行 rm 和 tar 等命令来加快速度，但由于需要手动操作，它最终通常会变得更慢。是否有自动使用 shell 的 SFTP 客户端？如果这很重要，我目前正在使用 WinSCP。只要它比我现在拥有的更好，我就会很感激有替代方案。    提交人    /u/soshimee_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i68j8z/looking_for_an_sftp_client_that_automatically/</guid>
       <pubDate>Tue, 21 Jan 2025 02:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过“联系我们”表格联系办公室的软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1i67nrv/software_to_contact_offices_through_contact_us/</link>
-      <description><![CDATA[有没有一种软件可以通过使用“联系我们”表格向医生办公室推销产品？现在我在每个“联系我们”表格中手动输入相同的消息。想知道是否有可以自动执行此操作的软件？    提交人    /u/ballerdoc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i67nrv/software_to_contact_offices_through_contact_us/</guid>
-      <pubDate>Tue, 21 Jan 2025 01:58:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合任何网站的最佳下载器？</title>
-      <link>https://www.reddit.com/r/software/comments/1i63i3r/best_downloader_for_any_website/</link>
-      <description><![CDATA[虽然有很多网站可以转换 YT 视频，但我还没有找到一个功能更全面的网站。  是否有任何 mp3 转换器不仅可以从 YT 下载，还可以从任何托管视频/mp3 的网站下载？    提交人    /u/absoluterTOVBEginner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i63i3r/best_downloader_for_any_website/</guid>
-      <pubDate>Mon, 20 Jan 2025 22:46:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
