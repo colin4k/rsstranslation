@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 22 Jan 2025 03:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 06:01:54 GMT</lastBuildDate>
+    <item>
+      <title>分发图片</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i746wo/distributing_pictures/</link>
+      <description><![CDATA[是否有任何适用于我的 CC-BY-ND-NS 照片的分发系统，例如 Photoshelter 系统？我想继续与我的客户合作，但同时也让社区有机会将其用于非商业工作。有机会吗？    提交人    /u/andonilubaki   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i746wo/distributing_pictures/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>回顾我大一时的 ML 项目！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i73tmy/revisit_of_my_freshman_year_ml_project/</link>
+      <description><![CDATA[我目前是一名在香港学习数据科学的二年级学生。我最近更新了我大一时做的机器学习项目的文档。它是关于仅根据用户名模式对香港 Instagram 用户进行分类，而无需外部元数据。  请随意查看，并欢迎提供反馈！ https://github.com/kuntiniong/HK-Insta-Identifier    提交人    /u/Low-Caregiver-2694   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i73tmy/revisit_of_my_freshman_year_ml_project/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:16:32 GMT</pubDate>
+    </item>
     <item>
       <title>现在通过 Transformers、Llama cpp、Ollama 或自定义端点进行部署。CPU/MPS/CUDA 支持 Linux、Windows 和 Mac。完全开源。带有本地嵌入的 Rag Chat。</title>
       <link>https://www.reddit.com/r/opensource/comments/1i709mq/now_deploy_via_transformers_llama_cpp_ollama_or/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/stan_frbd  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i5x58f/cyberbro_v010_released_analyze_ioc_with_opencti/</guid>
       <pubDate>Mon, 20 Jan 2025 18:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mobifree：更符合道德、更人性化的移动软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i5vraj/mobifree_more_ethical_and_humane_mobile_software/</link>
-      <description><![CDATA[Mobifree 软件是开源的，使用开放标准和开放数据源。 如果事态继续发展下去，研究机构 Waag 的创始人兼主管 Marleen Stikker 担心我们的网络自主权的未来。普通人可能认为他们对这些大公司没有什么可隐瞒的，但您的手机收集的所有关于您的数据的潜在后果是无法估量的。 例如，如果有关女性上次月经的信息对于了解她们是否堕过胎变得很重要，而堕胎突然成为应受惩罚的事情，该怎么办？为了打击对我们数字存在的垄断，Stikker 正在与 Waag 合作开发 Mobifree：一种完全开源的绿色软件，不会窃取您的数据。  Mobifree 不仅可以提供尚未实现的替代方案，还可以成为基于公共价值而非主流互联网公司收入模式的道德技术新市场的开端。 有关更多信息，请访问：https://mobifree.org/    提交人    /u/HappyBuddha8   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i5vraj/mobifree_more_ethical_and_humane_mobile_software/</guid>
-      <pubDate>Mon, 20 Jan 2025 17:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了“网页版 Google Messages”替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i5spr6/i_made_a_google_messages_for_web_alternative/</link>
-      <description><![CDATA[大家好， 我制作了一个开源的“Google Messages for web”替代品，它利用 WebRTC 数据通道在浏览器中显示手机的短信。 这是一款可以安装在手机上的 Android 应用，其服务器使用 Socket.io 进行信号传输，使用 coturn 作为 TURN 服务器。如果愿意，您也可以自行托管它。所有源代码都在存储库中。 产品：https://textondesk.lol/ 存储库：https://github.com/realchandan/textondesk/ 演示：https://youtu.be/-O3HVSjb_lo    提交人    /u/freewheel1466   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i5spr6/i_made_a_google_messages_for_web_alternative/</guid>
-      <pubDate>Mon, 20 Jan 2025 15:29:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

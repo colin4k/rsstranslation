@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 03:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 06:01:48 GMT</lastBuildDate>
+    <item>
+      <title>所以我下载了 wiki，想知道还有其他可以下载的酷东西</title>
+      <link>https://www.reddit.com/r/software/comments/1i74iht/so_i_downloaded_the_wiki_and_want_to_know_other/</link>
+      <description><![CDATA[我有一个 2TB 的硬盘，只想在里面放很多很酷的东西，随身携带，欢迎大家提出建议     提交人    /u/Witty_Tear5893   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i74iht/so_i_downloaded_the_wiki_and_want_to_know_other/</guid>
+      <pubDate>Wed, 22 Jan 2025 05:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源：通过 Transformers、Llama cpp、Ollama 部署或与 XAI、OpenAI、Anthropic、Open Router 或自定义端点集成！本地或 OpenAI 嵌入。支持 CPU/MPS/CUDA。Mac/Win/Linux</title>
+      <link>https://www.reddit.com/r/software/comments/1i72wng/open_source_deploy_via_transformers_llama_cpp/</link>
+      <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i72wng/open_source_deploy_via_transformers_llama_cpp/</guid>
+      <pubDate>Wed, 22 Jan 2025 04:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>对我来说唯一有用的免费磁盘管理器</title>
+      <link>https://www.reddit.com/r/software/comments/1i723r2/the_only_free_disk_manager_that_seemed_to_work/</link>
+      <description><![CDATA[首先，我不是机器人。我只是想扩展我的 C 盘，而扩展选项对于原生 Windows 磁盘管理器来说是灰色的，尽管我从 D 盘中取消分配了一些空间。问题是，Windows 无法合并两个不相邻的磁盘（从我读到和理解的内容来看） 我尝试了很多软件... EaseUS（说实话我之前用过，而且之前用过）、MiniTool、AOMEI、DMDE 等。 但似乎都不起作用。  仅供参考... 是的，我确实尝试了所有这些 它们一开始看起来很棒。 但是，当我单击“应用分区更改”时，他们似乎告诉我这不是应用程序免费版本中可用的操作。 而且我必须付费。 直到... Paragon Partition 🙏 兄弟出现了。 这似乎是唯一有效的东西。虽然不是没有问题…… 我使用它应用了更改并重新启动…… 看到以下屏幕时我惊慌失措： （忽略屏幕上的指纹） 我想，该死！我死定了！我甚至没有备份，现在我完蛋了。 但我对它进行了 GPT，它说这是一个标准程序。实际上，过了一段时间似乎就是这样。只是，我在此过程中收到了一些错误声明，仍然很担心。这个东西运行了几分钟。  一切结束，我能够登录的那一刻，我松了一口气。但是，转到这台电脑，似乎没有任何变化。 我去了磁盘管理器（本机），这次！未分配的空间与 C 盘相邻，我终于可以扩展它了！ Yoohoo！ 只是想和寻找它的人分享这个，因为所有其他排名靠前的结果似乎都不是免费的。 Paragon 分区管理器 社区版 这就是我用过的。 无论如何，现在我的工作已经完成，我将卸载所有那些垃圾并深度扫描我的电脑以查找任何病毒（顺便说一句，似乎没有问题。）    提交人    /u/Maleficent_Device162   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i723r2/the_only_free_disk_manager_that_seemed_to_work/</guid>
+      <pubDate>Wed, 22 Jan 2025 03:43:10 GMT</pubDate>
+    </item>
     <item>
       <title>将 Spotify 等精简版应用程序作为单独程序运行更好还是仅在浏览器中运行它们更好？</title>
       <link>https://www.reddit.com/r/software/comments/1i6v7s3/is_it_better_to_run_lite_apps_like_spotify_as/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的 ^^ （使用 Qt6 的 C++）： https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6bv5l/stable_version_of_the_windows_tool_i_developed/</guid>
       <pubDate>Tue, 21 Jan 2025 05:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>又是Adobe？</title>
-      <link>https://www.reddit.com/r/software/comments/1i6bhiw/adobe_encore/</link>
-      <description><![CDATA[我似乎在任何地方都找不到它的下载，这让我很惊讶，因为我一直认为 Adob​​e 是有史以来最容易盗版的软件，这间接使其成为存档最多的软件。此时此刻，我只想知道是否存在下载 lol    提交人    /u/flash_animator_guy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i6bhiw/adobe_encore/</guid>
-      <pubDate>Tue, 21 Jan 2025 05:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持音频 CD 的 WinCDEmu 替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1i6av6d/alternative_of_wincdemu_that_has_audio_cd_support/</link>
-      <description><![CDATA[有没有非常轻量级的替代方案？因为 Daemon 工具在我的 PC 上有点重。    提交者    /u/farsdewibs0n   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i6av6d/alternative_of_wincdemu_that_has_audio_cd_support/</guid>
-      <pubDate>Tue, 21 Jan 2025 04:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找自动执行 shell 命令的 SFTP 客户端</title>
-      <link>https://www.reddit.com/r/software/comments/1i68j8z/looking_for_an_sftp_client_that_automatically/</link>
-      <description><![CDATA[在高延迟连接上使用 SFTP 时，我通常会感到沮丧，因为大型文件夹需要很长时间才能删除/传输。我知道我可以通过 SSH 连接然后执行 rm 和 tar 等命令来加快速度，但由于需要手动操作，它最终通常会变得更慢。是否有自动使用 shell 的 SFTP 客户端？如果这很重要，我目前正在使用 WinSCP。只要它比我现在拥有的更好，我就会很感激有替代方案。    提交人    /u/soshimee_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i68j8z/looking_for_an_sftp_client_that_automatically/</guid>
-      <pubDate>Tue, 21 Jan 2025 02:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
