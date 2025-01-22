@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 12:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:01:58 GMT</lastBuildDate>
+    <item>
+      <title>Whastapp API 发送消息</title>
+      <link>https://www.reddit.com/r/software/comments/1i7bi5s/whastapp_api_to_send_messages/</link>
+      <description><![CDATA[嗨， 我正在创建一个应用程序，可以自动发送 WhatsApp 消息来提醒我约会或作为新闻通讯等。问题是我需要管理多个 WhatsApp 帐户，而不仅仅是一个。我发现了这个 https://sendapp.live/en/sendapp-official-whatsapp-api/，但虽然我想这样做，但它一次只允许我管理最多 10 个 WhatsApp 帐户。你有什么想法或建议吗？谢谢！    提交人    /u/terminetor1717   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i7bi5s/whastapp_api_to_send_messages/</guid>
+      <pubDate>Wed, 22 Jan 2025 13:49:33 GMT</pubDate>
+    </item>
     <item>
       <title>自由软件工程师提供定制视频下载器 – 查看我的作品！</title>
       <link>https://www.reddit.com/r/software/comments/1i79gxv/freelance_software_engineer_offering_custom_video/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>寻找一款可以手动放置批量水印图像的 Windows 软件</title>
       <link>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</link>
-      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩膀上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一款适用于 Windows 的软件，它可以帮助我批量处理水印图像。我主要处理肖像，需要水印出现在肩部上方。以下是我需要的：  能够手动选择每张图片水印的位置。 其他所有操作（如应用水印和保存图像）都应自动化以节省时间。 最好是轻量级且用户友好的软件。  任何建议都将不胜感激！    提交人    /u/whytocode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6ue9p/looking_for_a_windows_software_to_bulk_watermark/</guid>
       <pubDate>Tue, 21 Jan 2025 21:51:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我刚刚购买了 Toast Titanium 20，并成功安装。我的 OSX 是 Monterey 12.7.6（见屏幕截图）。Toast 可以正常打开，但只要我插入 Verbatim 外部磁盘驱动器，它就会崩溃（见屏幕截图）。在此寻求帮助。如果有帮助的话，可以在评论中发布冗长的错误日志。 https://preview.redd.it/zqm433ytddee1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=fdc9ff3c9657923883508311064ada6fd71cf063 https://preview.redd.it/a9f8ccguddee1.png?width=972&amp;format=png&amp;auto=webp&amp;s=09282aa54bc8ce6e06df1f867bb187513655e72b    提交人    /u/starlightskater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i6ltty/toast_titanium_quitting_with_external_drive/</guid>
       <pubDate>Tue, 21 Jan 2025 15:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toast Titanium 退出外部驱动器</title>
-      <link>https://www.reddit.com/r/software/comments/1i6lte1/toast_titanium_quitting_with_external_drive/</link>
-      <description><![CDATA[  由    /u/starlightskater  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i6lte1/toast_titanium_quitting_with_external_drive/</guid>
-      <pubDate>Tue, 21 Jan 2025 15:59:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
