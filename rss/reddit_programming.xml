@@ -4,20 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 00:03:43 GMT</lastBuildDate>
     <item>
-      <title>Postman Drop：AI Agent Builder 简介 - 咨询专家和 Postman 技巧</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7gwvx/the_postman_drop_introducing_the_ai_agent_builder/</link>
-      <description><![CDATA[  由    /u/hackergirl888  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7gwvx/the_postman_drop_introducing_the_ai_agent_builder/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:42:28 GMT</pubDate>
+      <title>使用最疯狂的 AVX-512 指令来制作最快的短语搜索算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7mnza/using_the_most_unhinged_avx512_instruction_to/</link>
+      <description><![CDATA[  由    /u/FTW_gb09  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7mnza/using_the_most_unhinged_avx512_instruction_to/</guid>
+      <pubDate>Wed, 22 Jan 2025 21:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>计划建立一个价值 1000 亿美元的分布式训练数据中心？这项工作探讨了随之而来的网络挑战</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7ewnu/planning_to_build_a_100b_datacenter_for/</link>
-      <description><![CDATA[  由    /u/Otelp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7ewnu/planning_to_build_a_100b_datacenter_for/</guid>
-      <pubDate>Wed, 22 Jan 2025 16:20:45 GMT</pubDate>
+      <title>使用 MCP 和 Gpt4all 的 2 个快速提高生产力技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7knmp/2_quick_productivity_hacks_using_mcp_gpt4all/</link>
+      <description><![CDATA[  由    /u/danebalia  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7knmp/2_quick_productivity_hacks_using_mcp_gpt4all/</guid>
+      <pubDate>Wed, 22 Jan 2025 20:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实际使用 LLM 进行编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7kd7l/how_to_actually_use_llms_for_programming/</link>
+      <description><![CDATA[  由    /u/0xideas  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7kd7l/how_to_actually_use_llms_for_programming/</guid>
+      <pubDate>Wed, 22 Jan 2025 19:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>C stdlib 不是线程安全的，甚至不安全 Rust 也没有拯救我们 | EdgeDB 博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7iz4h/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/</link>
+      <description><![CDATA[  由    /u/1st1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7iz4h/c_stdlib_isnt_threadsafe_and_even_safe_rust_didnt/</guid>
+      <pubDate>Wed, 22 Jan 2025 19:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机科学史上最具影响力的 7 篇论文</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7iqc9/the_7_most_influential_papers_in_computer_science/</link>
+      <description><![CDATA[  由    /u/Acceptable-Courage-9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7iqc9/the_7_most_influential_papers_in_computer_science/</guid>
+      <pubDate>Wed, 22 Jan 2025 18:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - Bin-Huang/chatbox：适用于 AI 模型/LLM（GPT、Claude、Gemini、Ollama……）的用户友好型桌面客户端应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1i7hqgy/github_binhuangchatbox_userfriendly_desktop/</link>
+      <description><![CDATA[  由    /u/hackergirl888  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i7hqgy/github_binhuangchatbox_userfriendly_desktop/</guid>
+      <pubDate>Wed, 22 Jan 2025 18:15:36 GMT</pubDate>
     </item>
     <item>
       <title>程序员的大脑——阅读代码、思考代码等。</title>
@@ -46,13 +74,6 @@
       <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i7bt81/the_future_of_microprocessors_sophie_wilson/</guid>
       <pubDate>Wed, 22 Jan 2025 14:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bluesky 的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1i7axs4/how_bluesky_works/</link>
-      <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i7axs4/how_bluesky_works/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:20:00 GMT</pubDate>
     </item>
     <item>
       <title>我把 JS 变成了编译语言</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Looby219  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i73gt4/ultrasimple_tool_for_llm_chatting_with_a_whole/</guid>
       <pubDate>Wed, 22 Jan 2025 04:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify 的 React Native 五年</title>
-      <link>https://www.reddit.com/r/programming/comments/1i719mx/five_years_of_react_native_at_shopify/</link>
-      <description><![CDATA[  由    /u/DreamyRustacean  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i719mx/five_years_of_react_native_at_shopify/</guid>
-      <pubDate>Wed, 22 Jan 2025 03:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>BrainFlood：通过 .NET 中的反射生成运行时代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1i6vlmh/brainflood_runtime_code_generation_via_reflection/</link>
-      <description><![CDATA[  由    /u/birdbrainswagtrain  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i6vlmh/brainflood_runtime_code_generation_via_reflection/</guid>
-      <pubDate>Tue, 21 Jan 2025 22:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建更高性能的 UI 渲染引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</link>
-      <description><![CDATA[  由    /u/random728373  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i6t8tw/building_a_more_performant_ui_rendering_engine/</guid>
-      <pubDate>Tue, 21 Jan 2025 21:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
