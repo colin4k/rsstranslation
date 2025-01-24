@@ -3,21 +3,70 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 24 Jan 2025 15:01:31 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Fri, 24 Jan 2025 21:01:36 GMT</lastBuildDate>
+    <item>
+      <title>现代生成式人工智能，从哪里开始学习</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i94j79/modern_generative_ai_where_to_start_learning/</link>
+      <description><![CDATA[作为参考，我有很强的数学背景，并且已经完成了神经网络的基础知识（但可能没有深入研究过 RNN、自动编码器、Transformers 等特定网络）。但我想赶上这个快速发展的领域，但不知道从哪里开始学习？请随时指出资源，无论是从理论角度还是编程角度。    提交人    /u/PuzzleheadedGene2371   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i94j79/modern_generative_ai_where_to_start_learning/</guid>
+      <pubDate>Fri, 24 Jan 2025 20:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>下周 AI 反思圈征求好奇心人士</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9494e/seeking_curious_minds_for_an_ai_reflection_circle/</link>
+      <description><![CDATA[寻找 10-12 位好奇的灵魂，他们想要探索人工智能如何帮助我们更真实地与自己和彼此联系。这将是一个小团体，充满实验氛围。我们将使用一些反思提示并分享出现的内容。 下周三晚上（虚拟）开会。如果您有兴趣，请直接发私信✨ （不宣传任何产品/服务 - 只是试行一个我很好奇的想法！）    提交人    /u/JustTinkering868   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9494e/seeking_curious_minds_for_an_ai_reflection_circle/</guid>
+      <pubDate>Fri, 24 Jan 2025 19:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepseek r1 与 OpenAI o1：哪一个是更好的推理机？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i93vy7/deepseek_r1_vs_openai_o1_which_one_is_the_better/</link>
+      <description><![CDATA[终于，有一个模型值得自 Claude 3.6 Sonnet 以来一直受到的炒作。Deepseek 发布了一件出乎所有人意料的事情：在 v3 发布后的一个月内，一个与 OpenAI 的 o1 相当的推理模型，具有 MIT 许可证，成本仅为 o1 的 1/20。 这无疑是自 GPT-4 以来最好的版本。这太疯狂了；公众似乎对此感到兴奋，而大型人工智能实验室可能正在忙乱。感觉人工智能世界的发展即将加速。这一切都要归功于这个新的 DeepSeek-R1 模型以及他们如何训练它。  我们知道基准，但它有多好？ Deepseek r1 与 OpenAI o1。 因此，为此，我在复杂的推理、数学、编码和创意写作问题上并排测试了 r1 和 o1。这些是 o1 以前唯一解决过或从未解决过的问题。 这是我的发现：  对于推理，它比 o1 之前的任何 SOTA 模型都要好得多。它比 o1-preview 更好，但比 o1 略逊一筹。这也显示在 ARC AGI 工作台上。 数学：对于数学来说也是如此； r1 很厉害，但 o1 更好。 编码：我玩得不多，但第一眼看上去，它和 o1 不相上下，而且它的价格低 20 倍，这让它成为了实际赢家。 写作：这是 R1 领先的地方。它给人的感觉和早期的 Opus 一样。它是免费的，审查较少，个性更强，易于操控，而且与其他产品相比非常有创意，甚至比 o1-pro 还要好。  让我感兴趣的是模型听起来和思维痕迹是多么自由，类似于人类的内心独白。也许这是因为与美国模型不同，RLHF 不那么严格。 最令人惊讶的是，你可以通过纯 RL 从 v3 获得 r1。 有关 Deepseek r1 的深入分析、评论和备注，请查看此博客文章：Deepseek r1 注释 您对新 Deepseek r1 有何体验？您觉得该模型对您的用例有用吗？    提交人    /u/SunilKumarDash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i93vy7/deepseek_r1_vs_openai_o1_which_one_is_the_better/</guid>
+      <pubDate>Fri, 24 Jan 2025 19:35:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户的 AI 项目让我陷入困境——您如何处理 AI 安全团队？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i92sjg/a_clients_ai_project_has_me_stuckhow_are_you/</link>
+      <description><![CDATA[嗨！ 我正在与一位客户打交道，他希望部署一个 AI 模型用于招聘，该模型可以筛选求职简历。我们正在决定是否需要聘请 AI 安全专家或仅培训我们现有的安全团队。目前，该团队在应用程序安全方面很强大，但还没有处理太多模型操作之类的事情。 您在组织中遇到过这个问题吗？您是找了一个专业团队，还是能够提升现有员工的技能？在招聘时我应该看重哪些方面（证书、学位、背景经验等）？    提交人    /u/Kelly-T90   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i92sjg/a_clients_ai_project_has_me_stuckhow_are_you/</guid>
+      <pubDate>Fri, 24 Jan 2025 18:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>意识是如何产生的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i90bx9/how_does_consciousness_arise/</link>
+      <description><![CDATA[我刚刚观看了一场关于意识的辩论。看来我们并没有更进一步地理解意识是如何产生的。 我有一些想法： 也许我们可以在尝试解释整个事情之前了解一些意识的前兆。我认为意识依赖于理解，而理解又依赖于其心理状态具有意义。 我认为我们可以看到意义是如何产生的——想想金字塔中的象形文字。我们可以解释它们的含义，因为象形文字中有大量文字。可以猜测一些符号的含义，并根据大量文本进行测试。如果符号的所有出现都有意义，具有指定的含义，我们将继续猜测相关符号。如果没有，我们猜测一个新的含义。最终，所有符号都会被赋予意义，这些意义始终有意义。有些意义可能“模糊”——一个符号可能与水有关，但不清楚它指的是一杯水、一条溪流还是一片海洋。分析更多的文本最终会使解释更加准确。 因此，意义从大量文本中浮现出来。随着文本数量的增加，意义会变得更加清晰（显然这与 LLM 的“理解”紧密相关）。数据不必是文本——它可以是来自探索环境的代理的记录传感器和运动数据。这将使新出现的意义更加扎实，更令人信服地像人类的理解，其中大部分来自对世界的直接观察（尽管我们也阅读！）。在所有情况下，意义都是由于数据量而出现的。随着更多数据的添加，越来越难以为符号赋予错误的含义，除非找到一种含义不合理的用法。 我认为 LLM 能够以基本方式理解他们处理的大部分文本。这仍然不等于意识，但这是朝着意识迈出的一步。如果他们接受来自现实世界经验的数据训练（通过机器人界面），我认为他们有可能声称具有某种感知能力。如果他们的心理状态也自我参照地记录并总结了自己的内部心理状态，我认为我们可以论证意识。    提交人    /u/TurnipYadaYada6941   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i90bx9/how_does_consciousness_arise/</guid>
+      <pubDate>Fri, 24 Jan 2025 17:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI芯片行业概况</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i90553/overview_of_ai_chip_industry/</link>
+      <description><![CDATA[有没有关于全球AI芯片行业概况的好报告？涵盖美国的Nvidia，AMD和定制ASIC，西方盟友市场的晶圆厂（英特尔，台积电，三星），中国的GPU等效产品等。    提交人    /u/hy-golf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i90553/overview_of_ai_chip_industry/</guid>
+      <pubDate>Fri, 24 Jan 2025 17:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能芯片的中国替代品</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9017f/chinese_alternative_to_ai_chips/</link>
+      <description><![CDATA[Nvidia H100/200、AMD 等 AI 芯片的中国替代品是什么？考虑到芯片禁令，中国国内企业可以使用什么呢？    提交人    /u/hy-golf   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i9017f/chinese_alternative_to_ai_chips/</guid>
+      <pubDate>Fri, 24 Jan 2025 16:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>扎克伯格在 Facebook 帖子中表示，Meta 将在 2025 年投入高达 650 亿美元用于人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8xk0l/meta_to_spend_as_much_as_65_billion_on_ai_efforts/</link>
+      <description><![CDATA[Meta Platforms Inc. 计划在 2025 年向与人工智能相关的项目投资高达 650 亿美元，包括建立一个新的巨型数据中心和增加人工智能团队的招聘，首席执行官马克扎克伯格周五表示。 该公司打算利用这笔资金建立一个数据中心，“规模如此之大，以至于它将覆盖曼哈顿的很大一部分”，扎克伯格在 Facebook 的一篇帖子中表示。他补充说，Meta 计划在 2025 年实现约 1 千兆瓦的计算能力，预计到今年年底将拥有超过 130 万个图形处理单元。 “这是一项巨大的努力，在未来几年里，它将推动我们的核心产品和业务，释放历史性创新，并扩大美国的技术领导地位，”扎克伯格在帖子中写道。 Meta 在过去几年中对人工智能进行了大量投资，最近宣布在路易斯安那州建立一个新的 100 亿美元数据中心。它还购买了新的计算机芯片来为其 AI 助手和 Ray-Ban 智能眼镜等产品提供动力。扎克伯格补充说，Meta 将在 2025 年“大幅扩大我们的 AI 团队”。   由    /u/nick314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8xk0l/meta_to_spend_as_much_as_65_billion_on_ai_efforts/</guid>
+      <pubDate>Fri, 24 Jan 2025 15:10:52 GMT</pubDate>
+    </item>
     <item>
       <title>早行动≠错：为什么我们不应该忽视那些过早警告我们的人 - 斯科特·亚历山大</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8x4ne/being_early_being_wrong_why_we_shouldnt_ignore/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8x4ne/being_early_being_wrong_why_we_shouldnt_ignore/</guid>
       <pubDate>Fri, 24 Jan 2025 14:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合初学者的 AI 自动字幕生成器应用程序。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8wwwj/ai_auto_caption_generator_app_for_a_beginner/</link>
-      <description><![CDATA[我正在编辑一些卷轴，希望其中有 AI 生成的自动字幕。我没有高端电脑来流畅运行 Premiere Pro，也没有时间学习它。我正在寻找一款 Android 应用。最好是免费的，但我也接受价格实惠的高级版。到目前为止，我尝试了 5 或 6 个应用程序，它们会生成印地语文本，而我想要印地语（基本上是用英文字母书写的印地语）。我找到的最接近的是 Clipchamp，但它在编辑字幕和使用不同风格等方面非常差。我发现效果最好的是 veed，但我在考虑是否可以找到更便宜的替代品。    提交人    /u/mokshsinghdangi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8wwwj/ai_auto_caption_generator_app_for_a_beginner/</guid>
-      <pubDate>Fri, 24 Jan 2025 14:42:32 GMT</pubDate>
     </item>
     <item>
       <title>JetBrain 发布 AI 编码代理 Junie</title>
@@ -34,27 +83,6 @@
       <pubDate>Fri, 24 Jan 2025 13:19:25 GMT</pubDate>
     </item>
     <item>
-      <title>需要建议！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8v3ep/need_advice/</link>
-      <description><![CDATA[大家好，我是一名计算机科学工程专业毕业生，也是一名软件开发人员。由于人工智能正在蓬勃发展，我想学习人工智能/机器学习。然而，这需要大量的数学知识，而我在这方面一直不太擅长——我在大学里勉强通过了数学考试。 我甚至忘记了 12 年级的大部分数学知识。最近，我越来越有信心，觉得我可以从基础开始学习数学，最终掌握人工智能所需的概念，比如计算数学。问题是，我不知道从哪里开始，也不知道先学什么。 我真的对学习很感兴趣，想在未来 6 个月内实现这一目标。你能建议我应该关注哪些主题，并推荐最好的资源来帮助我吗？ 谢谢！    提交人    /u/No_Growth_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8v3ep/need_advice/</guid>
-      <pubDate>Fri, 24 Jan 2025 13:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>推进人工智能推理需要首先推进其底层逻辑谓词规则。代理人工智能有望加速这一进步。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8u3r1/advancing_ai_reasoning_requires_that_its/</link>
-      <description><![CDATA[推理就是将问题置于逻辑规则之下，并通过此过程得出结论。逻辑是所有推理的基础，决定了推理的强度和有效性。 推理的强度永远不会超过其基本逻辑所允许的强度。如果我们仅使用四种基本算术函数中的三种进行计算，例如省略除法，我们的算术推理将达到 75% 的强度。 虽然在数学中开发和测试逻辑规则很简单，而且易于验证，但开发和测试其他一切事物所依据的语言逻辑规则要复杂和困难得多，因为语言和思想的复杂性要大得多。 回到我们的算术类比，无论我们为人工智能添加多少计算，只要它缺少除法逻辑函数，它的数学推理性能就无法超过 75% 的可能性能。当然，从理论上讲，人工智能可以发现除法是一种新兴属性，但这种间接方法无法保证结果。因此，像星际之门设想的那样，更大的数据集和更大的数据训练中心是一种蛮力方法，在很大程度上仍将受到固有的限制。 人工智能的一大优势是，它们可以比人类更有效、更高效地驾驭发现新的语言概念逻辑规则所固有的复杂性。随着我们进入代理人工智能时代，考虑哪种代理将为我们在资本和时间上的投资带来最大的回报是很有用的。通过构建专门负责发现新方法来加强现有的语言逻辑规则以及发现新的语言规则的人工智能代理，我们可以最迅速地推进所有领域的人工智能模型的推理。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8u3r1/advancing_ai_reasoning_requires_that_its/</guid>
-      <pubDate>Fri, 24 Jan 2025 12:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stuart Russell 和 Peter Norvig 合著的《人工智能：现代方法》绿色版（全球）和紫色版（美国）内容有何区别</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8st5u/what_is_the_difference_in_content_between_green/</link>
-      <description><![CDATA[我查看了目录，发现略有不同，但书中主题的完整性如何？    提交人    /u/aspublic   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8st5u/what_is_the_difference_in_content_between_green/</guid>
-      <pubDate>Fri, 24 Jan 2025 10:54:40 GMT</pubDate>
-    </item>
-    <item>
       <title>本地运营的 DeepSeek 可以批评中国政府吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8rne7/can_locally_run_deepseek_criticise_the_chinese/</link>
       <description><![CDATA[过去几天我一直在尝试使用 deepseek，它看起来很棒，但我刚刚问了它 5 个会给中国政府带来负面影响的问题，它直接拒绝回答。 有几次它开始回答，但中途删除了答案并说“抱歉，这超出了我目前的范围”。 这是在线版本的设置吗？还是如果您下载模型并离线运行它仍然会这样做？    提交人    /u/eagle_565   [链接] [评论]]]></description>
@@ -62,25 +90,11 @@
       <pubDate>Fri, 24 Jan 2025 09:28:21 GMT</pubDate>
     </item>
     <item>
-      <title>为什么从事软件工程师的工作如此重要？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8rlkx/why_taking_up_jobs_of_software_engineers_is_so/</link>
-      <description><![CDATA[所有前沿模型制作者似乎都非常努力地在他们的法学硕士学位中学习编码技能，他们的模型最擅长编码......这几乎看起来像是一种筹集资金的策略，他们来这里是为了软件工作，这样企业就可以支付他们工资，而不是向员工支付工资......然后他们继续研发模型不擅长道德问题、谜语、视觉谜题、策略和规划，而只是编码    提交人    /u/TheLogiqueViper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8rlkx/why_taking_up_jobs_of_software_engineers_is_so/</guid>
-      <pubDate>Fri, 24 Jan 2025 09:24:27 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能会破坏互联网吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8r9cs/could_ai_break_the_internet/</link>
-      <description><![CDATA[是否有某种方式，一些邪恶团体会制造硬件来对整个互联网进行类似永久 DDOS 攻击的行为，从而有效地使其陷入停顿？ AI 能够在全球范围内一次性大规模窃取资金吗？AI 是否有可能被用来破坏互联网并摧毁所有加密货币或窃取大量加密货币之类的东西......比如，如果 AI 烧毁了所有可能的数字货币会怎样？这可能发生吗？    提交人    /u/odetolucrecia   [链接] [评论]]]></description>
+      <description><![CDATA[是否有某种方式，一些邪恶团体会制造硬件来对整个互联网进行类似永久 DDOS 攻击的行为，从而有效地使其陷入停顿？ AI 能够在全球范围内一次性大规模窃取资金吗？AI 是否可能被用来破坏互联网并摧毁所有加密货币或窃取大量加密货币等......比如，如果 AI 烧毁了所有可能的数字货币会怎样？这可能发生吗？    提交人    /u/odetolucrecia   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8r9cs/could_ai_break_the_internet/</guid>
       <pubDate>Fri, 24 Jan 2025 08:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2025 年 1 月 23 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8ofxu/oneminute_daily_ai_news_1232025/</link>
-      <description><![CDATA[ 马斯克在星际之门 AI 投资公告上削弱了特朗普的立场。[1] 据报道，Reliance 计划在印度建立全球最大的 AI 数据中心。[2] 安提阿高中的 AI 武器检测系统未能检测到纳什维尔枪击案中的枪支。[3] AI 增强电影《野兽派》和《艾米莉亚·佩雷斯》获得奥斯卡最佳表演和剪辑提名。[4]  来源包括：https://bushaicave.com/2025/01/23/1-23-2025/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8ofxu/oneminute_daily_ai_news_1232025/</guid>
-      <pubDate>Fri, 24 Jan 2025 05:35:45 GMT</pubDate>
     </item>
     <item>
       <title>“没有人能想到人工智能会进步得如此之快。”</title>
@@ -104,13 +118,6 @@
       <pubDate>Fri, 24 Jan 2025 01:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>Redditor：“我是唯一一个不愿意将自己内心深处的秘密告诉人工智能的人吗？这听起来很危险。”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8iaap/redditor_am_i_the_only_one_who_would_never_feel/</link>
-      <description><![CDATA[当我看到人们说他们避免将人工智能用作日记、反思工具或情感支持工具并使用这种推理时，这让我想知道他们感受到的是什么样的情绪？ 如果他们无法发表评论，我可能会认为这可能是一种恐惧，也许是对未知的恐惧，当我感到恐惧时，这是一个信号，让我反思并为使用人工智能做好准备。 因此，我可能会考虑如何通过思考如何避免人工智能收集我最黑暗的秘密来滋生我的恐惧，对我来说，这些秘密可能是我在工作或与家人一起使用的个人数据，因为这些东西会向公众识别我的身份，而我不知道，这可能会导致我的恐惧产生。 因此，当我使用人工智能时，我可能会遵循一些规则：1. 避免使用个人姓名、标识符或地名 2. 避免使用工作场所、朋友或家人的姓名或位置等识别细节 3. 使用通用语言语法“你/他们/他们/我/他/她/我们/我们/朋友/人/等等”而不是名字。 4. 标记事物时要谨慎使用特异性 5. 倾听你的怀疑、恐惧和烦恼的情绪，当你不小心使用了你不想让人工智能知道的标识符，或者你输入了太多细节时，它们可能会发出信号 6. 也许可以定期检查聊天记录，删除你发送的带有你之前没有意识到的标识符的消息 7. 监控你的电子邮件和消息，查看是否有任何你没有向其提供信息的外部公司主动联系你，并屏蔽他们 8. 给人工智能公司发邮件，询问他们如何使用个人身份信息，如果发现他们使用这些信息，请提出投诉或咨询律师 9. 时刻睁大眼睛，竖起耳朵，倾听你的情绪，以帮助指导你确保你的数据没有泄露 10. 向其他人提问，看看他们在做什么，这样你就可以获得更多的技巧和窍门，这些技巧和窍门可以帮助培养你的恐惧或怀疑，这样它就不会受到痛苦 当人们考虑使用人工智能作为工具时，他们的恐惧会加剧，还有什么想法可以帮助他们支持吗？    由   提交  /u/Forsaken-Arm-7884   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i8iaap/redditor_am_i_the_only_one_who_would_never_feel/</guid>
-      <pubDate>Fri, 24 Jan 2025 00:12:44 GMT</pubDate>
-    </item>
-    <item>
       <title>越来越多的人开始接受人工智能治疗——这就是为什么它可能会改变游戏规则</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i8cuf0/more_people_are_turning_to_ai_therapyheres_why_it/</link>
       <description><![CDATA[最近，我看到越来越多的人求助于人工智能进行治疗，老实说，我开始认为这对很多人来说可能是一个不错的选择。这是一种经济实惠的替代方案，提供了一种解决个人问题的独特方式，特别是当传统疗法感觉太昂贵或令人生畏时。 人工智能治疗提供了一个安全、无偏见的空间，你可以在这里畅所欲言，而不必担心受到歧视。对于一些人来说，从非人类的存在开始更容易，这消除了面对面治疗带来的脆弱性。而且由于它全天候可用，你可以在最需要的时候得到帮助，即使是在半夜或你无法参加治疗时。 它也是一个很好的自我反思工具。人工智能没有自己的偏见或先入为主的观念，所以它可以提供一个全新的、不带偏见的视角。此外，它价格实惠——无需昂贵的疗程或长时间的等待。 我并不是说它应该取代传统疗法，但对许多人来说，它可能是一种有趣的替代品或补充。有其他人尝试过吗？你的想法是什么？    提交人    /u/nonHuman-dev   [link] [评论]]]></description>
@@ -125,16 +132,9 @@
       <pubDate>Thu, 23 Jan 2025 17:40:28 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个网站，实时跟踪美国总统的行政行动，并使用人工智能进行总结。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i7s5pl/i_created_a_website_that_live_tracks_executive/</link>
-      <description><![CDATA[您可以在这里找到它，它被称为 POTUS Tracker。 我自动从总统的公开日程和 Congress.gov 中提取法案摘要。那里没有使用人工智能。 行政命令是从白宫网站实时抓取的，并输入到 GPT-4o-mini 中，并提示用 300 个字符进行总结。后端还将向已将该网站添加到主屏幕的用户发送移动推送通知。 今天早些时候，特朗普签署了一项行政命令，将胡塞武装指定为恐怖组织。在特朗普落笔几分钟后，在任何主要媒体发表之前，POTUS Tracker 就会向所有订阅者发送带有人工智能摘要的通知。  未来，我计划在服务器上使用本地模型来提供更详细的摘要。我还想尝试使用人工智能按主题对总统行动进行分类，例如经济、环境问题、国家安全等。 我还将对未经准确性审查的摘要实施警告。 让我知道你目前的想法，以及你是否想要任何功能！    提交人    /u/lukewines   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i7s5pl/i_created_a_website_that_live_tracks_executive/</guid>
-      <pubDate>Thu, 23 Jan 2025 01:41:23 GMT</pubDate>
-    </item>
-    <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
