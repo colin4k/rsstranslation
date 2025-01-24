@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 24 Jan 2025 03:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 06:01:56 GMT</lastBuildDate>
+    <item>
+      <title>差点被来自 @google.com 电子邮件的钓鱼邮件欺骗。Google Workspace 域名验证可能被破坏。</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8n5wj/almost_got_phished_from_a_googlecom_email_google/</link>
+      <description><![CDATA[  由    /u/zlatta  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8n5wj/almost_got_phished_from_a_googlecom_email_google/</guid>
+      <pubDate>Fri, 24 Jan 2025 04:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>JUnit 内部：深入探究 `@ParameterizedTest` 注释</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8m6yz/internals_of_junit_deep_diving_into/</link>
+      <description><![CDATA[  由   提交  /u/Educational-Ad2036   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8m6yz/internals_of_junit_deep_diving_into/</guid>
+      <pubDate>Fri, 24 Jan 2025 03:26:59 GMT</pubDate>
+    </item>
     <item>
       <title>了解 Go Slices 以及如何避免 append() 函数陷阱。</title>
       <link>https://www.reddit.com/r/programming/comments/1i8kbw0/understanding_go_slices_and_how_to_avoid_the/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i846fr/ai_is_making_us_worse_programmers_heres_how_to/</guid>
       <pubDate>Thu, 23 Jan 2025 14:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Junie，JetBrains 的编码代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains/</link>
-      <description><![CDATA[  由    /u/ignatovs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>gRPC 真的比 GraphQL 更适合微服务吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than/</link>
-      <description><![CDATA[  由    /u/Savram8  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:30:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
