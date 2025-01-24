@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 24 Jan 2025 00:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 03:03:06 GMT</lastBuildDate>
+    <item>
+      <title>了解 Go Slices 以及如何避免 append() 函数陷阱。</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8kbw0/understanding_go_slices_and_how_to_avoid_the/</link>
+      <description><![CDATA[  由    /u/patricknoblet  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8kbw0/understanding_go_slices_and_how_to_avoid_the/</guid>
+      <pubDate>Fri, 24 Jan 2025 01:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>列表：JavaScript 每日挑战：提升你的技能 | 由 Dipak Ahirav 策划</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8jius/list_javascript_daily_challenges_level_up_your/</link>
+      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8jius/list_javascript_daily_challenges_level_up_your/</guid>
+      <pubDate>Fri, 24 Jan 2025 01:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>rvz-convert：将 Dolphin RVZ 游戏备份转换为 WBFS 图像的包装器</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8j2m3/rvzconvert_a_wrapper_to_convert_dolphin_rvz_game/</link>
+      <description><![CDATA[  由    /u/bruisedandbroke  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8j2m3/rvzconvert_a_wrapper_to_convert_dolphin_rvz_game/</guid>
+      <pubDate>Fri, 24 Jan 2025 00:50:08 GMT</pubDate>
+    </item>
     <item>
       <title>“Spawn Me a PR” 尚未准备好处理大型代码库：AI 代码生成的上下文障碍</title>
       <link>https://www.reddit.com/r/programming/comments/1i8fi93/spawn_me_a_pr_isnt_ready_for_large_codebases_the/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Savram8  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than/</guid>
       <pubDate>Thu, 23 Jan 2025 13:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 Zig 和 Rust 的看法</title>
-      <link>https://www.reddit.com/r/programming/comments/1i82ten/how_i_think_about_zig_and_rust/</link>
-      <description><![CDATA[  由    /u/jorgesgk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i82ten/how_i_think_about_zig_and_rust/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 libav* 在 C/C++ 中解码音频流</title>
-      <link>https://www.reddit.com/r/programming/comments/1i82a5v/how_to_decode_audio_streams_in_cc_using_libav/</link>
-      <description><![CDATA[  由    /u/etiandre  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i82a5v/how_to_decode_audio_streams_in_cc_using_libav/</guid>
-      <pubDate>Thu, 23 Jan 2025 12:30:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于近似最近邻搜索的向量 ID 的无损压缩</title>
-      <link>https://www.reddit.com/r/programming/comments/1i81biw/lossless_compression_of_vector_ids_for/</link>
-      <description><![CDATA[  由    /u/brightlystar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i81biw/lossless_compression_of_vector_ids_for/</guid>
-      <pubDate>Thu, 23 Jan 2025 11:30:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
