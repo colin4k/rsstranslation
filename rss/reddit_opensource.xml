@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 25 Jan 2025 09:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 12:02:24 GMT</lastBuildDate>
+    <item>
+      <title>我为聚会制作了一个开源的共享音乐队列。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9kaor/i_made_an_open_source_shared_music_queue_for/</link>
+      <description><![CDATA[我厌倦了聚会上那个喝醉的朋友一次放 400 首糟糕的歌曲， 所以我建立并开源了 SongUp，一个基于网络的共享音乐队列，每个人一次最多只能添加 2 首歌曲。 它今天推出，你可以查看 GitHub repo！    提交人    /u/matthiastorm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9kaor/i_made_an_open_source_shared_music_queue_for/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>LGPL 2.1 与 3.0 有什么区别？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9k5fw/lgpl_21_vs_30_whats_the_real_difference/</link>
+      <description><![CDATA[我查看了 LGPL 许可证，发现处理 LGPL 许可库的静态链接有点棘手。  但是，在静态链接的情况下，我仍然搞不清楚 LGPL 2.1 和 LGPL 3.0 之间的区别。有人可以澄清一下这个问题吗？？     提交人    /u/hoonydony   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9k5fw/lgpl_21_vs_30_whats_the_real_difference/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在建立一个由社区驱动的欧洲优秀科技列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9jrfw/im_building_a_communitydriven_list_of_awesome/</link>
+      <description><![CDATA[我正在构建一个社区驱动的列表，其中包含超棒的欧洲科技、浏览器、生产力工具、金融科技等，重点关注隐私、可持续性和创新。 目标是支持选择留在欧洲的欧洲初创企业和公司（来自欧盟和欧洲自由贸易联盟），帮助加强欧洲科技生态系统。此列表将重点介绍符合 GDPR 的工具、环保平台和创新解决方案，作为美国技术的替代品，展示欧洲所能提供的最佳产品。 我已经整理了一份小草案清单，灵感来自欧洲替代品的出色工作。现在，我想让它成为一个协作的、活生生的资源，任何人都可以做出贡献并帮助保持其最新状态。检查一下，然后告诉我！ Awesome European Tech    提交人    /u/uscneps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9jrfw/im_building_a_communitydriven_list_of_awesome/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:56:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发的未来：开源颠覆</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9jqhe/the_future_of_software_development_open_source/</link>
+      <description><![CDATA[我认为软件开发行业正面临重大挑战，未来可能更多地依赖开源软件。原因如下：  商业软件中的质量和信任问题： 商业软件经常存在质量问题，包括安全漏洞和糟糕的用户体验 (UX)。这些问题导致客户和用户失去信任。 开发具有良好用户体验的安全、高质量软件的成本很高。公司需要在测试、安全和用户体验设计方面投入大量资金。  开源软件的兴起： 开源软件是免费的，并且由于社区贡献和同行评审而质量很高。这正在扰乱商业软件的定价模式。 商业软件供应商正日益与开源替代品竞争，后者有时提供更好的质量和更多的功能。  降低成本和提高质量： 为了与免费的开源替代品竞争，商业供应商可能会降低成本，这可能会导致开发、测试和质量保证方面的削减。 例如，微软解雇了许多软件测试人员，这可能会影响其产品质量。  未来趋势： 由于其成本效益、透明度和社区支持，开源软件的趋势日益增长。   您对此有何看法？您认为开源软件会占据主导地位，还是商业软件将保持主导地位？    提交人    /u/525G7bKV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9jqhe/the_future_of_software_development_open_source/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 React 组件库 Starter</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9j3og/built_a_react_component_library_starter/</link>
+      <description><![CDATA[大家好！👋 链接到 Github 我一直在为不同的项目构建 React 组件，每次我开始一个新库时，我都必须经历相同的设置 - 文档、版本控制、发布等。老实说，我在使用有如此多选项的 javascript 工具时感到很吃力。因此，我花了一些时间，想自己解决这个问题，创建一些我可以依赖的东西。 它可能看起来像“另一个入门套件”，但是我尝试在 Github 上使用套件，但找不到可以解决我所有需求的东西。 所以我制作了这个入门套件来处理以下内容：  构建 Typescript（使用 Vite Lib 模式） 使用 Tailwind V3（很快会添加 Tailwind V4） Docusaurus 用于文档（发布到 Github 页面） 自动进行版本控制和发行说明（也发布文档） 用于测试的 Canary 版本 使用常规提交 是否可进行 Tree Shake  模板已准备好使用 - 只需克隆、配置并开始构建组件。如果你想了解它是如何工作的，我写了一篇关于从头开始构建它的文章（附在 repo 中），很好的学习经验。 希望这可以帮助其他人节省一些时间！如果您有任何问题，请告诉我。 这是一个包含两个包的 monorepo：  组件库 文档站点  我在开发包时以开发模式运行 vite，然后发布金丝雀构建。然后我将其安装到 docusaurus 中，并用于演示。 我正在使用上述入门套件开发响应式预览组件，希望很快发布。    提交人    /u/rjv_im   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9j3og/built_a_react_component_library_starter/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:05:53 GMT</pubDate>
+    </item>
     <item>
       <title>PrintLayout：有趣、可定制的目录打印机（比 GNU Tree 具有更多功能）</title>
       <link>https://www.reddit.com/r/opensource/comments/1i9hegj/printlayout_a_fun_customizable_directory_printer/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[HIDeous 可让您将任何 USB 键盘变成“宏键盘”（仅限 Windows）。 我构建该应用程序是因为现有的解决方案都不适合我。  AHK 很棒，但很复杂，如果没有附加组件就无法区分各个键盘。 HIDMacros 不允许您粘贴 Unicode 文本。 LuaMacros 功能强大，但使用起来太难了。 ... 后两个已经过时且不受支持。  HIDeous 是一个 C++ 应用程序，可让您将特定键盘上的按键映射到其他按键。这意味着您可以连接 5 个键盘，并且如果您愿意的话，每个键盘都可以执行不同的操作。 我个人使用它将外部数字键盘上的键映射到控制系统中的功能的快捷键。某些键在声音输出设备之间切换。一个键调用系统颜色选择器应用程序。等等。等等。 无需驱动程序，只需下载最新的 `.zip`，提取并运行可执行文件即可。  https://github.com/dero/HIDeous/releases  （显然，如果您具备技术技能，我鼓励您保持怀疑并检查源代码。它不是恶意软件，但是......相信互联网上的随机人永远不是一个好主意。 🙂）   由    /u/dero_name  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i8szzg/hideous_alternative_to_ahk_hidmacros_and_luamacros/</guid>
       <pubDate>Fri, 24 Jan 2025 11:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>带键盘输入的 AutoCAD 替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8kuoa/autocad_alternative_w_keyboard_input/</link>
-      <description><![CDATA[我正在寻找一个开源的 AutoCAD 替代品，用于基本的 2D 绘图。有人向我推荐过 LibreCAD 和 QCAD，但我最喜欢的 AutoCAD 功能是工具的键盘热键。有人知道有类似功能的开源软件吗？Libre 和 Q 似乎没有。    提交人    /u/JMcDoubleR   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8kuoa/autocad_alternative_w_keyboard_input/</guid>
-      <pubDate>Fri, 24 Jan 2025 02:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找合作伙伴：将 Micro OCPP 库移植到 STM32 控制器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8kqg8/looking_for_collaborators_porting_micro_ocpp/</link>
-      <description><![CDATA[嗨，Redditors， 我目前正在开展一个令人兴奋的项目，将 Micro OCPP 库移植到 STM32 控制器上。这项工作的重点是使用 STM32 微控制器使电动汽车充电站高效地符合 OCPP 1.6 标准。 如果您有 STM32 开发、嵌入式系统或 OCPP 协议方面的经验，并且有兴趣合作，我很乐意为您提供专业知识。 该项目涉及：  了解 Micro OCPP 代码库。 使其适应 STM32 架构。 集成 UART 和以太网通信（用于 Wi-Fi 的 ESP32 也在筹备中）。  让我们共同努力，让电动汽车基础设施更易于访问和更强大！查看 GitHub repo 了解更多详情：MicroOCPP-on-STM32F4。 如果您有兴趣，请随时在此处回复或直接发信息给我。我们非常感谢您的想法和贡献！    提交人    /u/Spirited-Escape-8180   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8kqg8/looking_for_collaborators_porting_micro_ocpp/</guid>
-      <pubDate>Fri, 24 Jan 2025 02:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>IEMidi - 用 C++ 构建的简单 MIDI 编辑器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8jovt/iemidi_simple_midi_editor_built_in_c/</link>
-      <description><![CDATA[IEMidi 一个使用 RtMidi、ImGui 和 RapidYaml 以 C++ 构建的轻量级 MIDI 编辑器。该应用程序的许多组件都是模块化的，并在单独的存储库中维护，您可以在此处找到：Interactive-Echoes GitHub。  目前正在探索将应用程序移植到 Linux，因为核心引擎已经支持它。     提交人    /u/mozahzah   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8jovt/iemidi_simple_midi_editor_built_in_c/</guid>
-      <pubDate>Fri, 24 Jan 2025 01:19:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个开源 UI 框架在美观度上与 Apple 的 SwiftUI/UIKit 最接近？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8esy0/what_opensource_ui_framework_is_the_closest_to/</link>
-      <description><![CDATA[  由    /u/Qwert-4  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8esy0/what_opensource_ui_framework_is_the_closest_to/</guid>
-      <pubDate>Thu, 23 Jan 2025 21:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zoom 的安全替代品？（以及对 Fairmeeting 的看法？）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i8alxm/secure_alternatives_to_zoom_and_thoughts_on/</link>
-      <description><![CDATA[嗨！ 我正在尝试寻找 Zoom/Google Meet/等的安全 FOSS 替代品，最好不需要帐户。有人有什么建议吗？ 我一直在尝试研究 fairmeeting，但找不到太多关于它的信息。他们声称他们符合 GDPR 要求，但是？有人用过吗？ 我以前用过 Jitsi Meet，但现在需要一个帐户…… 我将在几个子版块中发布此内容，以尝试涵盖我的所有基础，所以如果您在各个子版块多次看到此帖子，我很抱歉哈哈 😅    提交人    /u/popcultureSp00nie22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i8alxm/secure_alternatives_to_zoom_and_thoughts_on/</guid>
-      <pubDate>Thu, 23 Jan 2025 18:43:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
