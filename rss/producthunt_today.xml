@@ -2,9 +2,51 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 06:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 09:02:07 GMT</lastBuildDate>
+    <item>
+      <title>滑动艺术</title>
+      <link>https://www.producthunt.com/posts/swipeart-3</link>
+      <description><![CDATA[
+通过滑动发现 7000 多幅画作
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/swipeart-3</guid>
+      <pubDate>Fri, 24 Jan 2025 15:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>英科大厦</title>
+      <link>https://www.producthunt.com/posts/incotower</link>
+      <description><![CDATA[
+不要让关税扼杀你的电子商务
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/incotower</guid>
+      <pubDate>Fri, 24 Jan 2025 10:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>克利普</title>
+      <link>https://www.producthunt.com/posts/klipml</link>
+      <description><![CDATA[
+使用 AI 代理创建和编辑热门短片
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/klipml</guid>
+      <pubDate>Fri, 24 Jan 2025 09:47:40 GMT</pubDate>
+    </item>
     <item>
       <title>新款 Model Y</title>
       <link>https://www.producthunt.com/posts/the-new-model-y</link>
@@ -132,66 +174,66 @@ Seo内容优化平台
       <pubDate>Thu, 23 Jan 2025 09:51:55 GMT</pubDate>
     </item>
     <item>
-      <title>开放式握法</title>
-      <link>https://www.producthunt.com/posts/opengrep</link>
+      <title>果酱民主</title>
+      <link>https://www.producthunt.com/posts/jamocracy-2</link>
       <description><![CDATA[
-开源代码安全引擎
+这是音乐，社交化
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/opengrep</guid>
-      <pubDate>Wed, 22 Jan 2025 17:13:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/jamocracy-2</guid>
+      <pubDate>Wed, 22 Jan 2025 08:26:10 GMT</pubDate>
     </item>
     <item>
-      <title>图灵列表</title>
-      <link>https://www.producthunt.com/posts/turing-list</link>
+      <title>帕帕托</title>
+      <link>https://www.producthunt.com/posts/paymento</link>
       <description><![CDATA[
-利用 AI 发展您的业务
+让钱包成为您的业务门户。
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/turing-list</guid>
-      <pubDate>Tue, 21 Jan 2025 17:37:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/paymento</guid>
+      <pubDate>Mon, 20 Jan 2025 07:23:35 GMT</pubDate>
     </item>
     <item>
-      <title>秘密提词器</title>
-      <link>https://www.producthunt.com/posts/secret-prompter-3</link>
+      <title>收件箱助手</title>
+      <link>https://www.producthunt.com/posts/inboxpilot</link>
       <description><![CDATA[
-Wordle for AI Prompts
+使用您的数据的电子邮件聊天机器人
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/secret-prompter-3</guid>
-      <pubDate>Mon, 20 Jan 2025 20:11:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/inboxpilot</guid>
+      <pubDate>Sun, 19 Jan 2025 03:47:36 GMT</pubDate>
     </item>
     <item>
-      <title>特雷</title>
-      <link>https://www.producthunt.com/posts/trae</link>
+      <title>超级UGC</title>
+      <link>https://www.producthunt.com/posts/hyperugc</link>
       <description><![CDATA[
-自适应 AI IDE 可帮助您更快地交付
+AI UGC 工作室
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/trae</guid>
-      <pubDate>Mon, 20 Jan 2025 11:06:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/hyperugc</guid>
+      <pubDate>Fri, 17 Jan 2025 21:20:48 GMT</pubDate>
     </item>
     <item>
-      <title>亚普兹</title>
+      <title>雅普兹</title>
       <link>https://www.producthunt.com/posts/yapz</link>
       <description><![CDATA[
-免费构建一个可以像朋友一样与人们交谈的表单
+免费创建一个可以像朋友一样与人们交流的表单
 
 
 讨论
@@ -200,20 +242,6 @@ Wordle for AI Prompts
 ]]></description>
       <guid>https://www.producthunt.com/posts/yapz</guid>
       <pubDate>Fri, 17 Jan 2025 21:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zight 智能操作</title>
-      <link>https://www.producthunt.com/posts/zight-smart-actions</link>
-      <description><![CDATA[
-将视频转换为分步指南
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/zight-smart-actions</guid>
-      <pubDate>Fri, 17 Jan 2025 16:39:37 GMT</pubDate>
     </item>
     <item>
       <title>字路径</title>
@@ -230,46 +258,18 @@ Wordle for AI Prompts
       <pubDate>Fri, 17 Jan 2025 14:56:23 GMT</pubDate>
     </item>
     <item>
-      <title>闪光 2.0</title>
-      <link>https://www.producthunt.com/posts/shimmer-2-0</link>
+      <title>微邮</title>
+      <link>https://www.producthunt.com/posts/wepost-1</link>
       <description><![CDATA[
-ADHD 辅导，现已通过 AI 增强
+轻松生成品牌营销
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/shimmer-2-0</guid>
-      <pubDate>Tue, 14 Jan 2025 22:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>戈德奥</title>
-      <link>https://www.producthunt.com/posts/gocodeo-2</link>
-      <description><![CDATA[
-VSCode 的 AI 编码代理扩展
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gocodeo-2</guid>
-      <pubDate>Mon, 13 Jan 2025 13:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>震动人工智能</title>
-      <link>https://www.producthunt.com/posts/jolt-ai-2</link>
-      <description><![CDATA[
-适用于 10 万到数百万行代码库的 AI 助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/jolt-ai-2</guid>
-      <pubDate>Wed, 08 Jan 2025 09:53:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/wepost-1</guid>
+      <pubDate>Thu, 09 Jan 2025 10:18:55 GMT</pubDate>
     </item>
     <item>
       <title>读书</title>
