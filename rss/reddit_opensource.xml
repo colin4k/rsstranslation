@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 24 Jan 2025 21:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 00:03:58 GMT</lastBuildDate>
+    <item>
+      <title>使用 OSS 还是不使用 OSS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i99wgt/to_oss_or_not_to_oss/</link>
+      <description><![CDATA[好吧，你好，显然作为一名开发人员，我非常支持开源。我认为它有助于创建一个坚实的社区，而将 OSS 项目用于我的个人项目对我来说是一个有趣的挑战。我的问题是，我试图说服我所在的公司，我们需要在这个领域发挥更多作用，以便对开发人员更友好。但当然，我收到了“OSS 没有钱，所以我们不想在那里浪费时间”的反对意见，但我试图争辩说，加入 OSS 社区所带来的长期社区 + 信誉是值得的。  其他人在自己的公司遇到过类似问题吗？你是如何克服的？     提交人    /u/getambassadorlabs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i99wgt/to_oss_or_not_to_oss/</guid>
+      <pubDate>Fri, 24 Jan 2025 23:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>实验室：用于快速代码实验的零摩擦 CLI 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i99p2h/lab_a_zerofriction_cli_tool_for_quick_code/</link>
+      <description><![CDATA[我制作了一个工具来消除您想要快速测试某些代码时的摩擦。输入 lab 和任何扩展名即可立即开始编码 - 无需考虑文件名或目录。 主要特点： - 即时启动：输入 lab 和任何扩展名即可打开新文件 - 智能组织：文件自动以日期+字母命名（例如，250112a） - 快速访问：lab 1 打开最近的文件 - 自动清理：文件在 7 天后过期（可配置）  目标是消除&quot;我想尝试一些东西&quot;和实际编写代码之间的所有开销。文件位于 ~/lab 中并可自行清理 - 无需管理。 https://github.com/lugenx/lab 欢迎反馈！使用 Go 制作。    由   提交  /u/lugenx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i99p2h/lab_a_zerofriction_cli_tool_for_quick_code/</guid>
+      <pubDate>Fri, 24 Jan 2025 23:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个基于 Counter Strike 1.6 UI 的 css 库。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i97978/i_made_a_css_library_based_on_counter_strike_16_ui/</link>
+      <description><![CDATA[  由    /u/Nice_Wrangler_5576  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i97978/i_made_a_css_library_based_on_counter_strike_16_ui/</guid>
+      <pubDate>Fri, 24 Jan 2025 22:00:37 GMT</pubDate>
+    </item>
     <item>
       <title>OpenStax 教科书 UX（阅读体验很差）</title>
       <link>https://www.reddit.com/r/opensource/comments/1i95mei/openstax_text_book_ux_reading_experience_sux/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，有没有与 Live Plan 相当的开源版本？    提交者    /u/Electronic_Kitchen74   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i7z0k0/business_plan_software/</guid>
       <pubDate>Thu, 23 Jan 2025 08:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neutrix - 状态管理库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7xvcf/neutrix_a_state_management_library/</link>
-      <description><![CDATA[📢 介绍 Neutrix 我想分享一些我一直在研究的东西：Neutrix — 一个（希望）强大的 React 状态管理库。 为什么选择 Neutrix？ 我最初遇到的问题之一是在 Zustand 和 Redux 之间进行选择，我有点喜欢 Zustand 的灵活性，但也需要 Redux 提供程序的强大功能来处理大型应用程序。我继续使用 Redux，4 年后，当我回顾一些旧代码时，我甚至无法理解自己在写什么。  🌟 主要特点  单商店简单性：使用 createNeutrixStore 实现类似 Zustand 的仅钩子简单性。无需 &lt;Provider&gt;。 基于提供程序的商店（可选）：需要 SSR 还是多个商店？添加 &lt;NeutrixProvider&gt; 以获得类似 Redux 的灵活性。 自动依赖跟踪：使用基于代理的系统跟踪依赖项，确保重新渲染得到优化。 轻量级：更少的样板。  🚀 示例 基本计数器（仅 Hook） import { createNeutrixStore } from &#39;neutrix&#39;; const { useStore } = createNeutrixStore({ count: 0 }); function Counter() { const count = useStore(s =&gt; s.count); return ( &lt;button onClick={() =&gt; useStore.store.set(&#39;count&#39;, count + 1)}&gt; Count: {count} &lt;/button&gt; ); }  多个商店（基于提供商） import { NeutrixProvider, createNeutrixStore } from &#39;neutrix&#39;; const { store: userStore, useStore: useUserStore } = createNeutrixStore({ user: null }); const { store: cartStore, useStore: useCartStore } = createNeutrixStore({ car​​t: [] }); function App() { return ( &lt;NeutrixProvider stores={{ userStore, cartStore }}&gt; &lt;Profile /&gt; &lt;Cart /&gt; &lt;/NeutrixProvider&gt; ); }  📖 文档 完整文档，包括示例和高级用法，可在此处找到。 🔗 GitHub Repo 查看并给予评价 ⭐，然后告诉我你的反馈：Neutrix GitHub 🗨️ 反馈 我很想听听你的想法！有问题、想法或用例？发表评论或在 GitHub 上打开问题。    提交人    /u/papersashimi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7xvcf/neutrix_a_state_management_library/</guid>
-      <pubDate>Thu, 23 Jan 2025 07:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有兴趣为 Fediverse 构建吗？以下是现有的开源项目领域</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7od9q/interested_in_building_for_the_fediverse_heres/</link>
-      <description><![CDATA[        由    /u/Spaduf 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7od9q/interested_in_building_for_the_fediverse_heres/</guid>
-      <pubDate>Wed, 22 Jan 2025 22:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是浪费时间还是一个好主意？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7mxl9/is_it_a_waste_of_time_or_a_good_idea/</link>
-      <description><![CDATA[想法： 开源开发者/组织可以在此网站上索要徽标/设计，想要为开源做出贡献的设计师可以在请求帖子下上传他们的设计。设计师还可以自己创建帖子，设计/重新设计一个开源项目。 受到下面帖子的启发。    提交人    /u/Flick9000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7mxl9/is_it_a_waste_of_time_or_a_good_idea/</guid>
-      <pubDate>Wed, 22 Jan 2025 21:46:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
