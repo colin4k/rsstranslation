@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 Jan 2025 06:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 09:02:08 GMT</lastBuildDate>
+    <item>
+      <title>Open TV 1.4.1：EPG、通知、下载、关键字搜索、重新播放等</title>
+      <link>https://www.reddit.com/r/software/comments/1ia9muw/open_tv_141_epg_notifications_downloads_keyword/</link>
+      <description><![CDATA[Open TV 是一款适用于 Linux、MacOS 和 Windows 的超快 IPTV 播放器。 自从我上次在这里发帖以来，Open TV 已经发生了很大变化。我采纳了 reddit、github 和 hackernews 的所有反馈，并在过去几个月里努力工作，以在桌面上提供最佳的 IPTV 体验。以下是所有炫酷的新内容：  EPG 和 EPG 通知（电视指南） 下载视频点播和电影 重新流式传输频道，以允许多个设备 / 人员从单个 iptv 订阅观看 可选关键字搜索 在“设置”中可编辑来源 在“设置”中启动时刷新来源的选项 您可以使用 .otv、.otvg 和 .otvp 格式共享和导入的自定义来源、频道和组 支持 m3u 中的自定义 http 标头 更强大的 m3u 处理 通过应用内错误消息和日志记录大大改进了错误处理和报告 添加了更多设置，例如默认音量和默认视图 滚动以加载更多 改进的热键和 UI/UX 大量错误修复 该应用已添加到 scoop (scoop.sh)！  Open TV 是一个独立的开源项目。如果您喜欢使用该应用，我们非常欢迎您提供反馈和错误报告。我们也非常欢迎并始终感激捐赠，无论金额多少。    提交人    /u/Fredol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ia9muw/open_tv_141_epg_notifications_downloads_keyword/</guid>
+      <pubDate>Sun, 26 Jan 2025 08:44:53 GMT</pubDate>
+    </item>
     <item>
       <title>批量视频调整器</title>
       <link>https://www.reddit.com/r/software/comments/1ia4wgj/bulk_video_resizer/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，希望有人能为我指明正确的方向。 我从各种来源下载了大约 7000 个音乐视频。 问题是这些视频的命名都非常不一致。理想情况下，我想找到一些软件，它可以从文件名（格式/样式各不相同）中提取任何可能的信息，例如艺术家 + 歌曲标题，然后重命名，并查找并将歌曲的元数据导出到 CSV，例如专辑名称、发行年份、热门流派，甚至可能是其在 Billboard 200 的最高排名。 我曾要求 chatgpt 和 gemini 帮助解决这个问题，但他们查找信息的速度非常非常慢，而且往往不准确。我认为 mp3tag 或 MusicBrainz Picard 之类的东西可能会有所帮助，但它们不支持视频文件。 有人对我可以使用什么来帮助我整理音乐视频收藏有什么建议吗？ 作为参考，以下是文件名的示例： &#39;Cause I&#39;m A Blonde - Julie Brown.webm &#39;If You Tolerate This...＂ Manic Street Preachers.mp4 &#39;Til Tuesday - Voices Carry.webm &#39;Til Tuesday - What About Love.webm &#39;Valley Of Evergreen&#39; - 1984 - Alternative Radio.mp4 &#39;Zat You Santa Claus - Buster Poindexter Original Video.mp4 (1984) Styx - Music Time.mp4 (1988) Natalie Cole - Pink Cadillac HQ.webm (HQ) FREESTYLE - Coro - My Fallen Angel.webm Alive (2004 Remix).webm Alizee - J&#39;en Ai Marre (Live).webm Alizee - Moi Lolita - live (HQ).webm Alizee- La isla bonita.webm Alizée-Amélie m´a dit.webm All Cried Out by Allure feat.112.webm All Night Passion - Alisha 1984.webm All Saints - Bootie Call (官方音乐视频).webm All Saints - Never Ever (US Version) (官方音乐视频).webm All Saints - Pure Shores (官方音乐视频).webm All-4-One - I Swear.webm All-4-One - So Much In Love.webm Allure - All Cried Out.webm Alphaville - Big In Japan (官方音乐视频).webm Alphaville - Dance With Me (官方音乐视频).webm Alphaville - Forever Young ~Official Video.webm Alphaville - Jet Set (官方音乐.webm Crash Test Dummies - Mmm Mmm Mmm Mmm (官方视频).webm Crawling (Live Video Version) - Linkin Park.webm Crawling [Official HD Music Video] - Linkin Park.webm Crazy Town - Black Cloud.mp4 Crazy Town - Butterfly (官方视频).webm Crazy Town - Drowning [HQ].webm Crazy Town- Beautiful.mp4 Crazy Town- Black Cloud.webm Creed - Higher (官方高清音乐视频).webm Creed - My Sacrifice.webm Fleetwood Mac - Seven Wonders (官方音乐视频).webm Flesh-N-Bone ft. Rev Run - World so Cruel.mp4 Flipmode Squad ‎- Everybody On The Line Outside (Long Version) (官方视频) [Explicit].webm Flotsam And Jetsam - Wading Through The Darkness.webm Flowers - Can&#39;t Help Myself.webm Flowers - We Can Get Together (International版本).webm Fly - Sugar Ray.webm Flying Lizards Dizzy Miss Lizzie.mp4 Flyleaf Tina Music Video.mp4 Foo Fighters - Big Me (官方高清视频).webm Foo Fighters - Everlong (官方高清视频).webm     提交人    /u/hostetcl   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i8xd10/software_to_get_metadata_for_music_video_files/</guid>
       <pubDate>Fri, 24 Jan 2025 15:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件收集软件</title>
-      <link>https://www.reddit.com/r/software/comments/1i8vwvx/document_collection_software/</link>
-      <description><![CDATA[  由    /u/daniea70  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i8vwvx/document_collection_software/</guid>
-      <pubDate>Fri, 24 Jan 2025 13:55:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
