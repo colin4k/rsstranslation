@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 25 Jan 2025 21:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 00:03:50 GMT</lastBuildDate>
+    <item>
+      <title>在 PDF 中旋转 3D 立方体</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i9xf5g/rotating_3d_cubes_inside_pdf/</link>
+      <description><![CDATA[网站：https://rashid-360.github.io/3D-cube-in-pdf/ Repo：https://github.com/rashid-360/3D-cube-in-pdf    提交人    /u/Embarrassed_Song_534   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i9xf5g/rotating_3d_cubes_inside_pdf/</guid>
+      <pubDate>Sat, 25 Jan 2025 21:22:46 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找一个潜在客户生成器平台</title>
       <link>https://www.reddit.com/r/opensource/comments/1i9w5uy/im_looking_for_a_leads_generator_platform/</link>
@@ -97,7 +104,7 @@
       <pubDate>Sat, 25 Jan 2025 04:20:33 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 的开源跨平台客户端，允许下载帖子和同步。</title>
+      <title>Reddit 的开源、跨平台客户端，允许下载帖子和同步。</title>
       <link>https://www.reddit.com/r/opensource/comments/1i9egja/opensource_crossplatform_client_for_reddit_that/</link>
       <description><![CDATA[  由    /u/Hefty_Cup_8160  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i9egja/opensource_crossplatform_client_for_reddit_that/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨 有人知道 OpenStax 项目吗？如何提供反馈意见并以 UX 设计的形式为该项目做出贡献？ 我希望找到一个像 r/openstax 这样的活跃 subreddit，但它不存在……也许它存在，我只需要有人告诉我在哪里？ 谢谢！    提交人    /u/cat-named-mouse   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i95mei/openstax_text_book_ux_reading_experience_sux/</guid>
       <pubDate>Fri, 24 Jan 2025 20:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 EtsyTrackr - 用于跟踪 Etsy 销售和支出的小工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i94itf/etsytrackr_small_tool_to_track_your_etsy_sales/</link>
-      <description><![CDATA[嗨，热爱开源的 Etsy 卖家们！我创建了 EtsyTrackr，因为我想以一种简单的方式跟踪我的销售、费用和净利润，而不依赖电子表格。我需要一个可以离线工作的东西，使用 Etsy 的月结单 CSV（不需要 API），并将所有内容存储在本地。 功能：  费用跟踪：附加收据、对费用进行分类等等。 销售洞察：快速查看您商店的表现。 离线优先：本地存储以保护隐私。 Windows 支持（Mac/Linux 即将推出，祝您好运！）  在这里查看：EtsyTrackr。欢迎反馈！🌟    提交人    /u/Engle2192   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i94itf/etsytrackr_small_tool_to_track_your_etsy_sales/</guid>
-      <pubDate>Fri, 24 Jan 2025 20:02:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
