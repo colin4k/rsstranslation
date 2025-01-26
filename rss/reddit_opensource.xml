@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Jan 2025 15:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 18:02:07 GMT</lastBuildDate>
+    <item>
+      <title>为什么有些开源项目感觉很慢？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</link>
+      <description><![CDATA[我克隆了 Cal .com repo 并尝试在我的计算机上设置该项目。我必须安装 Postgres，在 Prisma studio 中创建一些记录，然后登录。该应用程序非常慢。仅在页面之间导航就花了几分钟。顺便说一下，我是在 Mac 上运行它的。我决定从 gitpod 运行该应用程序，但它稍微快一点。总的来说，这是一次令人沮丧的体验。是因为我的 8gb 内存还是其他原因？我的意思是我如何解决这个问题。repo 的链接：https://github.com/calcom/cal.com    提交人    /u/DixGee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</guid>
+      <pubDate>Sun, 26 Jan 2025 16:08:51 GMT</pubDate>
+    </item>
     <item>
       <title>Nutrium 的替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</link>
@@ -62,7 +69,7 @@
       <pubDate>Sun, 26 Jan 2025 04:40:02 GMT</pubDate>
     </item>
     <item>
-      <title>最适合旧安卓设备的操作系统？</title>
+      <title>最适合旧版 Android 设备的操作系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ia5c3e/best_os_for_old_android_device/</link>
       <description><![CDATA[我有一台旧的三星 J337V，在原生 Android 上运行感觉很慢。有没有一个操作系统对这么老的设备来说兼容性最好，而且轻量级？    提交人    /u/LilguyMCBE1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ia5c3e/best_os_for_old_android_device/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我想分享 PrintLayout——一个用于以树形格式打印目录结构的命令行工具。虽然它与 GNU Tree 类似，但这个小项目仍在开发中，并且包含自定义选项，例如按文件扩展名过滤、排序、排除特定文件以及从特定扩展名开始（例如 .go）。 它支持不同的输出格式（JSON、YAML）、颜色调整等。它速度快、重量轻，而且主要是为了好玩！我计划继续添加功能以使其变得更好。 如果您有兴趣，请随意尝试，提供反馈或做出贡献！ 👉 如果您喜欢它，请不要忘记在 GitHub 上给它一颗星⭐！ https://github.com/Ahmedhossamdev/PrintLayout 感谢您的关注！😊    提交人    /u/Salty-Charge6633   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i9hegj/printlayout_a_fun_customizable_directory_printer/</guid>
       <pubDate>Sat, 25 Jan 2025 06:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个开源网站，可以计算您的空闲时间并使用设备上的语言模型生成更好的时间管理建议。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i9fb0p/i_created_an_opensource_website_that_calculates/</link>
-      <description><![CDATA[  由    /u/AvikalpGupta  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i9fb0p/i_created_an_opensource_website_that_calculates/</guid>
-      <pubDate>Sat, 25 Jan 2025 04:44:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

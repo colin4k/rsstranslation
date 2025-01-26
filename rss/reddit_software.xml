@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 Jan 2025 15:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 18:01:51 GMT</lastBuildDate>
+    <item>
+      <title>投票⨹：请对原始帖子进行投票</title>
+      <link>https://www.reddit.com/r/software/comments/1iaj7aw/vote_please_vote_on_the_original_post/</link>
+      <description><![CDATA[  由    /u/Selbstredend  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iaj7aw/vote_please_vote_on_the_original_post/</guid>
+      <pubDate>Sun, 26 Jan 2025 16:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找适用于小型客户数据库的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1iahnbc/looking_for_a_software_for_small_customer_database/</link>
+      <description><![CDATA[您好，我是一名承包商，今年我将进入燃气加热器维修领域，因此我一直在考虑做一个数据库，将我的客户信息保存在里面。例如：联系信息、地址、燃气加热器类型等。然后能够添加文件（例如我发送给该特定客户的发票的 pdf、燃气测量副本等）。有这样的程序吗？我不是程序员，所以我认为 MySQL 适合我。起初，这将是一个小型数据库，因为我年轻，刚刚起步，所以没有很多客户。提前谢谢您。     提交人    /u/sudetak88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iahnbc/looking_for_a_software_for_small_customer_database/</guid>
+      <pubDate>Sun, 26 Jan 2025 15:40:57 GMT</pubDate>
+    </item>
     <item>
       <title>macOS 帮助</title>
       <link>https://www.reddit.com/r/software/comments/1iagflq/help_with_macos/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>我怎样才能不使用 AutoHotKey 来做到这一点？</title>
       <link>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</link>
-      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他程序获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他东西获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</guid>
       <pubDate>Sat, 25 Jan 2025 12:50:13 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Confident-Dingo-99  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9ftit/private_dns_services_ping_nextdns_adguarddns/</guid>
       <pubDate>Sat, 25 Jan 2025 05:14:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！！！</title>
-      <link>https://www.reddit.com/r/software/comments/1i9d5b1/help/</link>
-      <description><![CDATA[mysqld.exe在后台运行正常吗？    submitted by    /u/Pervy_saige_virENDer   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9d5b1/help/</guid>
-      <pubDate>Sat, 25 Jan 2025 02:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>看在上帝的份上，请帮我卸载 Gamban！</title>
-      <link>https://www.reddit.com/r/software/comments/1i9bo6e/help_me_uninstall_gamban_for_the_love_of_god/</link>
-      <description><![CDATA[嗨， 我是一名全职的股票、期货和加密货币交易员，赚得盆满钵满。 上周，我向一家加密货币赌场存入了一小笔钱，结果输掉了，我甚至因为尝试了它而生自己的气。 然后我偶然发现了 Gamban 软件，它禁止您访问任何互联网赌场，包括比特币赌场。我没有多想，就觉得这个软件的创意很棒，并使用了 7 天的免费试用期安装了它。 然后，我的加密货币交易钱包、网站和 VPN 应用程序突然断开连接。我开始想“发生了什么事，他们都在遭受 DDoS 攻击吗？” 不，当然，这个该死的 Gamban 应用程序禁止访问我的加密钱包！我无法再通过电脑访问我的钱包并进行交易、买卖。 我给 Gamban 发了电子邮件，但我等不及他们的回复。我曾尝试通过 Reddit 和 YouTube 寻找解决方案来摆脱这个软件，但 Google/Reddit/YouTube 上甚至没有一个关于如何摆脱它的视频或说明。这怎么可能？ 我不想重新安装我的整个电脑。我甚至读到过那可能根本行不通。 我认为你安装应用程序时他们甚至没有警告你无法访问加密网站或 VPN，这真是太糟糕了。 我现在很恼火。幸运的是，我能够通过手机监控和平仓我的一些大仓位。 有人能帮我吗？只有支持人员能帮我吗？他们会帮助我吗，还是会认为我是一个超级堕落的赌徒？ 说实话，感觉就像我把我的电脑送给了一个黑客，我不再能控制它了。 我猜试用期结束后 7 天内它会停止工作 - 但我并没有要求一周不能工作……    提交人    /u/TheCream123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9bo6e/help_me_uninstall_gamban_for_the_love_of_god/</guid>
-      <pubDate>Sat, 25 Jan 2025 01:24:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
