@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:01:58 GMT</lastBuildDate>
+    <item>
+      <title>DeekSeek-R1 将 WASM 速度提高了 2 倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibio28/deekseekr1_increased_speed_in_wasm_by_x2/</link>
+      <description><![CDATA[您觉得如何？    提交人    /u/Independent_Pitch598   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibio28/deekseekr1_increased_speed_in_wasm_by_x2/</guid>
+      <pubDate>Mon, 27 Jan 2025 20:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python - 劫持函数调用以实现持久性</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibhhbw/python_hijacking_function_calls_for_durability/</link>
+      <description><![CDATA[  由    /u/HaimZlatokrilov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibhhbw/python_hijacking_function_calls_for_durability/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 12 版至最新版本中引入的功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibhcsm/las_características_introducidas_en_las_versiones/</link>
+      <description><![CDATA[ 提交人   /u/emanuelpeg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibhcsm/las_características_introducidas_en_las_versiones/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试将所有 npm 包缩小 5%，但失败了</title>
+      <link>https://www.reddit.com/r/programming/comments/1ibg7ra/my_failed_attempt_to_shrink_all_npm_packages_by_5/</link>
+      <description><![CDATA[  由    /u/LelYoureALiar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ibg7ra/my_failed_attempt_to_shrink_all_npm_packages_by_5/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:29:35 GMT</pubDate>
+    </item>
     <item>
       <title>您需要了解的有关 API 速率限制的一切</title>
       <link>https://www.reddit.com/r/programming/comments/1ibf9ee/everything_you_need_to_know_about_api_rate/</link>
@@ -83,13 +111,6 @@
       <pubDate>Mon, 27 Jan 2025 17:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>Prolog 的简单性</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibeb80/the_simplicity_of_prolog/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibeb80/the_simplicity_of_prolog/</guid>
-      <pubDate>Mon, 27 Jan 2025 17:14:16 GMT</pubDate>
-    </item>
-    <item>
       <title>C 不适合 SIMD</title>
       <link>https://www.reddit.com/r/programming/comments/1ibe9ol/c_is_not_suited_to_simd/</link>
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ibc522/announcing_the_web_ai_acceleration_fund/</guid>
       <pubDate>Mon, 27 Jan 2025 15:45:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 1 天：Git 简介 — 它是什么、为什么使用以及工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibbm1h/day_1_introduction_to_git_what_why_and_how_it/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibbm1h/day_1_introduction_to_git_what_why_and_how_it/</guid>
-      <pubDate>Mon, 27 Jan 2025 15:24:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 25 天：如何避免 JavaScript 中的内存泄漏？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibbdyf/day_25_how_to_avoid_memory_leaks_in_javascript/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibbdyf/day_25_how_to_avoid_memory_leaks_in_javascript/</guid>
-      <pubDate>Mon, 27 Jan 2025 15:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 22 天 — 每日 JavaScript 算法：查找最长递增子序列</title>
-      <link>https://www.reddit.com/r/programming/comments/1ibb76i/day_22_daily_javascript_algorithm_find_the/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ibb76i/day_22_daily_javascript_algorithm_find_the/</guid>
-      <pubDate>Mon, 27 Jan 2025 15:07:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

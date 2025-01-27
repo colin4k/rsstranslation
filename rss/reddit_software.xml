@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 18:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:01:50 GMT</lastBuildDate>
+    <item>
+      <title>注册表和文件夹更改跟踪软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1ibgtsl/registry_and_folders_changes_tracking_software/</link>
+      <description><![CDATA[我知道有些程序可以制作注册表快照。但它们是手动的。是否有程序可以自动为特定安装执行此操作？也许可以跟踪文件系统中的任何差异？比如运行此程序。安装另一个程序，它会保留安装此特定程序所做更改的信息，以便我可以独立于其他安装撤消它们。许多程序即使在删除注册表垃圾后也会保留它们。其中一些甚至将文件保留在系统中。我有一台带有小驱动器的 PC 用于特定任务，并尝试在那里安装 autocad。使用它并用官方工具将其删除。它在不同的不起眼的文件夹中保留了大约 400 MB 的垃圾文件。我永远不会在那台 PC 上使用的文件。我不得不花一个小时才能找到所有这些文件。真是个臃肿的软件。    提交人    /u/ReaganDono   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ibgtsl/registry_and_folders_changes_tracking_software/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Pro 1 年订阅 10 美元</title>
+      <link>https://www.reddit.com/r/software/comments/1ibgjbb/perplexity_pro_1_year_subscription_10/</link>
+      <description><![CDATA[在任何人说这是一个骗局之前，给我发私信，你可以兑换一个。  仍然有许多可用，只需 10 美元，即可获得 1 年的 Perplexity Pro     提交人    /u/maximim12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ibgjbb/perplexity_pro_1_year_subscription_10/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Medal 和 OBS 等程序录制游戏会导致性能大幅下降，这种情况以前从未发生过</title>
+      <link>https://www.reddit.com/r/software/comments/1ibg6jz/recording_gameplay_with_programs_such_as_medal/</link>
+      <description><![CDATA[如前所述，如果我尝试使用 OBS 和 Medal 录制游戏，我会毫无原因地出现严重的帧丢失。我还没有尝试过其他程序，但我假设我会得到相同的结果。一旦我禁用它们，我就会再次获得完美的帧。我发现，如果我在任务管理器中结束任务到“桌面窗口管理器”，它会修复它，但它会破坏我正在使用的录制程序。任何帮助都将不胜感激，因为我似乎找不到任何修复方法。    提交人    /u/TimelessFriends   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ibg6jz/recording_gameplay_with_programs_such_as_medal/</guid>
+      <pubDate>Mon, 27 Jan 2025 18:28:16 GMT</pubDate>
+    </item>
     <item>
       <title>好的 DVD 刻录机应用程序吗？</title>
       <link>https://www.reddit.com/r/software/comments/1ibdaye/good_dvd_burner_application/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我从 Unity 游戏中提取了一些 .dat 资源，我想将其转换为图像。我该怎么做。帮帮我吧    提交人    /u/psypop404   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iab8kv/how_to_convert_dat_to_png_or_jpg/</guid>
       <pubDate>Sun, 26 Jan 2025 10:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐标准化应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1iaamvb/music_normalization_app/</link>
-      <description><![CDATA[大家好，有没有什么好用的简单应用程序可以用来批量规范化音乐文件并导出，而无需修改文件名或元数据？ 谢谢。    提交人    /u/Extra_Upstairs4075   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iaamvb/music_normalization_app/</guid>
-      <pubDate>Sun, 26 Jan 2025 09:56:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open TV 1.4.1：EPG、通知、下载、关键字搜索、重新播放等</title>
-      <link>https://www.reddit.com/r/software/comments/1ia9muw/open_tv_141_epg_notifications_downloads_keyword/</link>
-      <description><![CDATA[Open TV 是一款适用于 Linux、MacOS 和 Windows 的超快 IPTV 播放器。 自从我上次在这里发帖以来，Open TV 已经发生了很大变化。我采纳了 reddit、github 和 hackernews 的所有反馈，并在过去几个月里努力工作，以在桌面上提供最佳的 IPTV 体验。以下是所有炫酷的新内容：  EPG 和 EPG 通知（电视指南） 下载视频点播和电影 重新流式传输频道，以允许多个设备 / 人员从单个 iptv 订阅观看 可选关键字搜索 在“设置”中可编辑来源 在“设置”中启动时刷新来源的选项 您可以使用 .otv、.otvg 和 .otvp 格式共享和导入的自定义来源、频道和组 支持 m3u 中的自定义 http 标头 更强大的 m3u 处理 通过应用内错误消息和日志记录大大改进了错误处理和报告 添加了更多设置，例如默认音量和默认视图 滚动以加载更多 改进的热键和 UI/UX 大量错误修复 该应用已添加到 scoop (scoop.sh)！  Open TV 是一个独立的开源项目。如果您喜欢使用该应用，我们非常欢迎您提供反馈和错误报告。我们也非常欢迎并始终感激捐赠，无论金额多少。    提交人    /u/Fredol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ia9muw/open_tv_141_epg_notifications_downloads_keyword/</guid>
-      <pubDate>Sun, 26 Jan 2025 08:44:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量视频调整器</title>
-      <link>https://www.reddit.com/r/software/comments/1ia4wgj/bulk_video_resizer/</link>
-      <description><![CDATA[您好，我正在寻找一个免费的应用程序或网站，可以让我调整一堆视频的大小。我只是想让它们变小以节省电脑空间。它们都是 .mp4 格式，我想将它们更改为 AVI 或 480p。我只在笔记本电脑上观看它们，因此它们不需要达到最佳质量。有什么建议吗？我试过 Handbrake，但我不确定我是否真的明白。我只想能够将视频拖到应用程序或网站中，并让它们保存在视频文件上。    提交人    /u/falconinthedive79   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ia4wgj/bulk_video_resizer/</guid>
-      <pubDate>Sun, 26 Jan 2025 03:32:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
