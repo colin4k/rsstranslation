@@ -4,20 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 09:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:02:02 GMT</lastBuildDate>
+    <item>
+      <title>那么，如果有人招聘您作为数据科学家，您的日常工作是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib6vp2/so_if_someone_were_to_recruit_you_as_a_data/</link>
+      <description><![CDATA[我见过很多人讨论生成模型、法学硕士 (LLM) 和法律质量管理 (LQM)。但是没有具体说明您实际在做什么，或者您正在帮助构建什么。 例如，假设您被 Google 招聘为数据科学家来开发 Gemini，或者您被 Meta 招聘来开发 Claude。您的日常工作是什么？您是否只是根据使用的是监督模型还是非监督模型来调整变量以得出更好的预测，或者您本质上只是作为一个调试和设置“正确”事物的人？ 如果您能分享相关的案例研究，我将不胜感激。    提交人    /u/Financial_Money3540   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib6vp2/so_if_someone_were_to_recruit_you_as_a_data/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek-R1 在我的 Ant Sim 测试中明显优于 OpenAI 的 o1 pro 模式</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib5ap1/deepseekr1_clearly_outperformed_openais_o1_pro/</link>
+      <description><![CDATA[我通过让 DeepSeek-R1 和 OpenAI 的 o1 pro 模式从同一个提示中编写一个蚂蚁模拟程序来测试 DeepSeek-R1 和 OpenAI 的 o1 pro 模式。DeepSeek-R1 生成的模拟效果要好得多。随着人工智能模型日益商品化，我认为这再次表明人工智能是一场硬件革命，而不是软件革命。 我的测试链接：https://www.chaotropy.com/deepseek-r1-clearly-outperformed-openais-o1-pro-mode-in-my-ant-simulation-test/    提交人    /u/dontkry4me   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib5ap1/deepseekr1_clearly_outperformed_openais_o1_pro/</guid>
+      <pubDate>Mon, 27 Jan 2025 10:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>我们真的能想象一个人们愿意生活的美好世界吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib3rvj/can_we_actually_envision_a_world_that_is_good/</link>
       <description><![CDATA[“强大的AI”到来后，具体哪些事情会变得更好？ 而它们周围又面临着哪些挑战？    submitted by    /u/Yamato_Fuji   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib3rvj/can_we_actually_envision_a_world_that_is_good/</guid>
       <pubDate>Mon, 27 Jan 2025 08:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 DeepSeek 应用程序检查照片并说出照片中所有鱼的种类？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib2mjr/how_can_i_use_the_deepseek_app_to_check_a_photo/</link>
-      <description><![CDATA[嗨。我的朋友向我展示了 ChatGPT，它可以查看他们团队当天捕获的所有鱼类的照片，然后 ChatGPT 可以列出照片中所有鱼类的名称。 我尝试使用 Apple 应用商店中的 DeepSeek 应用，但似乎 DeepSeek 应用只能上传照片并使用 OCR 读取这些照片中的文字？似乎无法将照片上传到 DeepSeek 应用，然后让 DeepSeek 对其进行分析。    提交人    /u/trucker-123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib2mjr/how_can_i_use_the_deepseek_app_to_check_a_photo/</guid>
-      <pubDate>Mon, 27 Jan 2025 07:32:37 GMT</pubDate>
     </item>
     <item>
       <title>简单来说：DeepSeek 的 R1 有什么特别之处？</title>
@@ -27,18 +34,18 @@
       <pubDate>Mon, 27 Jan 2025 06:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>请求帮助以找到我认为可以更容易找到的东西</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iaz2o0/assistance_requested_for_what_i_thought_could_be/</link>
-      <description><![CDATA[几个星期以来，我一直在尝试寻找一种人工智能应用构建服务，让人工智能为我构建一个应用，我只需支付固定费用，而无需支付月度订阅费。每一项服务似乎都有经常性收费，这让我很恼火。我想买一个应用，我完全不介意支付，但我不想一遍又一遍地为这个应用付费。另外，这是一个非常简单的应用。 有人知道这样的服务吗？或者，它真的存在吗？谢谢。    提交人    /u/Paulsybrandy1980   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iaz2o0/assistance_requested_for_what_i_thought_could_be/</guid>
-      <pubDate>Mon, 27 Jan 2025 03:52:38 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2025 年 1 月 26 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iayoaj/oneminute_daily_ai_news_1262025/</link>
       <description><![CDATA[ Verizon 公布 AI 战略，为下一代 AI 需求提供动力。[1] 黑客使用 GenAI 进行更频繁、更有效的攻击。[2] Perplexity AI 修改 Tiktok 合并提案，可能让美国政府获得 50% 的股份。[3] 关于 DeepSeek 的一切——挑战美国大型科技公司的中国 AI 初创公司。[4]  来源包括：https://bushaicave.com/2025/01/26/1-26-2025/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iayoaj/oneminute_daily_ai_news_1262025/</guid>
       <pubDate>Mon, 27 Jan 2025 03:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>智力的上限在人类之内</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iay1ne/the_upper_bound_of_intelligence_is_within_human/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iay1ne/the_upper_bound_of_intelligence_is_within_human/</guid>
+      <pubDate>Mon, 27 Jan 2025 03:00:44 GMT</pubDate>
     </item>
     <item>
       <title>人类是蜜蜂。</title>
@@ -53,13 +60,6 @@
       <description><![CDATA[大家好！ [希望我没有违反任何版块规则。如果有，请见谅。] 作为一名在工作时间花一些时间在 AI 上的开发人员，我想创建一个助手，帮助我使用 AI 与我的基础设施/服务进行交流。主要思想是，它根据所连接的基础设施设置的上下文生成我需要的命令/查询。 到目前为止，我正在使用此 CLI 工具连接到 Kubernetes 集群、PostgreSQL 数据库和 Azure，并获取我通常需要通过 Google 搜索或从文档中找到的命令。它现在是完全开源的，如果您有兴趣，我需要一些帮助。 它的工作原理如下：  您可以使用一个简单的命令连接到您的服务：pops conn connect。这会收集必要的数据，以帮助 AI 理解您的上下文。 连接后，您可以通过两种方式使用 Prompt-Ops shell： 命令模式：询问类似“显示我的 PostgreSQL 数据库中的所有表”之类的问题，它会生成正确的命令（例如，SELECT * FROM ... 或 kubectl get pods）。 问答模式：询问一般性问题，例如“Kubernetes 中的负载均衡器是什么？”并直接获得答案，而不是命令。   目前，它支持一种 AI 模型，但如果您想自定义它，可以轻松添加更多模型。一个实现我定义的接口的小型 PR 就足够了。我还使添加新连接类型变得容易——我已经在研究Redis和消息队列作为下一个连接类型。 说实话，UI 仍然很粗糙，但我正在努力一点一点地使其变得更好。如果有人有兴趣提供帮助或提供反馈，我将不胜感激！ 这是 repo：https://github.com/prompt-ops/pops 以及文档：https://prompt-ops.github.io/docs/ 最终，一旦我弄清楚了，我会使用https://pops.sh 😅 很想听听你的想法——任何反馈或想法都很棒。谢谢您的关注！    提交人    /u/hobbirik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iau6c0/i_built_an_app_to_talk_to_my_infrastructure_that/</guid>
       <pubDate>Sun, 26 Jan 2025 23:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 人工智能审查对俄语不起作用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iatowy/deepseek_ai_censorship_dont_work_with_russian/</link>
-      <description><![CDATA[这是屏幕截图： https://imgur.com/a/BCoPhBL 在图片上你会看到同样的问题 “1989 年发生了什么？” 使用两种语言，英语和俄语。 审查不仅适用于俄语，任何其他语言（我没有测试所有语言）都会被审查。    提交人    /u/alberto_OmegA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iatowy/deepseek_ai_censorship_dont_work_with_russian/</guid>
-      <pubDate>Sun, 26 Jan 2025 23:25:18 GMT</pubDate>
     </item>
     <item>
       <title>人工智能发布的速度越来越快。当巨头们开始使用deepseek的RL混合方法时，速度会快多少？</title>
@@ -134,7 +134,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>

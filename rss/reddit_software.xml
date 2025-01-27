@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 09:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:02:21 GMT</lastBuildDate>
+    <item>
+      <title>你好，我需要一款可以执行多种不同任务的软件，请仔细阅读我的话，因为购买它会花费很多钱</title>
+      <link>https://www.reddit.com/r/software/comments/1ib6n2n/hello_i_need_a_software_that_do_many_different/</link>
+      <description><![CDATA[-我想要一个软件（工具或机器人）来创建许多批量微软帐户，并且它将假万事达卡放入这些帐户中，然后我轻松地将游戏通行证代码放入其中，有任何软件可以做到这一点而不需要每个帐户都被锁定     提交人    /u/Recent-Tangerine9912   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ib6n2n/hello_i_need_a_software_that_do_many_different/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我忘记的软件合集相关文章</title>
+      <link>https://www.reddit.com/r/software/comments/1ib43ii/a_software_collection_related_post_that_i_forgot/</link>
+      <description><![CDATA[有一篇我需要的帖子，但忘了在哪里可以找到它。名字类似于 github 上的软件集合。有人可以发送它的链接吗？    提交人    /u/10AET   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ib43ii/a_software_collection_related_post_that_i_forgot/</guid>
+      <pubDate>Mon, 27 Jan 2025 09:10:02 GMT</pubDate>
+    </item>
     <item>
       <title>具有内容分析功能的自动幻灯片制作器？</title>
       <link>https://www.reddit.com/r/software/comments/1iax8jx/automatic_slideshow_maker_with_content_analysis/</link>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 26 Jan 2025 22:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻找可以去除视频背景噪音的软件（降噪器）</title>
+      <title>寻找软件来消除视频中的背景噪音（降噪器）</title>
       <link>https://www.reddit.com/r/software/comments/1iapmub/looking_for_software_to_remove_background_noise/</link>
       <description><![CDATA[基本上，软件可以消除椅子拖拽、主要人物旁边的其他人说话、咳嗽等声音。 我更喜欢软件。现在我正在使用 Cleanvoice Ai Beta，但我觉得它太过激进，对说话影响太大。谢谢！    提交人    /u/buabua555   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iapmub/looking_for_software_to_remove_background_noise/</guid>
@@ -127,23 +141,9 @@
     <item>
       <title>我怎样才能不使用 AutoHotKey 来做到这一点？</title>
       <link>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</link>
-      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他程序获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他东西获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</guid>
       <pubDate>Sat, 25 Jan 2025 12:50:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在学习</title>
-      <link>https://www.reddit.com/r/software/comments/1i9lmfq/im_studying/</link>
-      <description><![CDATA[我上 9 年级，学习软件。老师告诉我们要在课外学习和提高自己，但我不知道该怎么做。我怎样才能提高我的编码技能？比如，我可以使用哪些程序（我在学校使用 Visual Studio Code 上的 Python），我需要了解有关编码的任何信息吗，是否有任何网站可以帮助你学习？等等。    提交人    /u/Wonderful-Search-150   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9lmfq/im_studying/</guid>
-      <pubDate>Sat, 25 Jan 2025 12:09:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一款可以把我的照片转换成记忆视频的软件，它比我的 iPhone SE 2 更能让我控制</title>
-      <link>https://www.reddit.com/r/software/comments/1i9lfrw/looking_for_software_to_turn_my_photos_into/</link>
-      <description><![CDATA[我的儿子很快就要满 3 岁了，到目前为止，他几乎从未接触过任何屏幕。但是，他开始注意到其他孩子花时间在那个该死的设备上，我们通常明白应该逐步教他如何正确使用它。 最近，我们开始真正享受那些记忆视频，其中我的 SE 2 将一些照片放在幻灯片中，并配上一些音乐。我们花了一些时间观看，很高兴看到他自己的童年、有趣的旅行，甚至他出生前我们家庭生活的某些部分，因为它给了我们谈论事情的机会。 但这些视频非常相似，音乐一般，我无法控制它应该尝试生成什么主题（或者至少我不知道如何控制）。 任何帮助我都会非常感激。内置 iPhone 工具中还有更多我不知道的内容吗？是否有任何软件可以在我的 MacBook 本地或云端运行？我也会考虑付费选项。    提交人    /u/Accurate-Strength-22   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9lfrw/looking_for_software_to_turn_my_photos_into/</guid>
-      <pubDate>Sat, 25 Jan 2025 11:57:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
