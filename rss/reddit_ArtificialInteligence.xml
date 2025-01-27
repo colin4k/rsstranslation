@@ -4,11 +4,67 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 15:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 18:02:30 GMT</lastBuildDate>
+    <item>
+      <title>对于了解变压器模型基础知识的人来说，这是了解推理模型的资源。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibf5r4/resource_to_learn_about_the_reasoning_models_for/</link>
+      <description><![CDATA[Andrej Karpathy 的视频是了解 Transformer 模型的绝佳资源。但是，如何从那里开始了解这些最近的推理模型，如 o1 和 r1？你知道弥补差距的资源吗？我看了 r1 论文，但那太技术性了。    提交人    /u/Present_Award8001   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibf5r4/resource_to_learn_about_the_reasoning_models_for/</guid>
+      <pubDate>Mon, 27 Jan 2025 17:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>多模式视觉问答系统：现实世界表现中的关键差距 [技术分析]</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibexjh/multi_modal_visual_question_answering_systems/</link>
+      <description><![CDATA[我对当前的 MM 视觉问答 (VQA) 系统在实际场景中进行了系统测试 - 从交通信号解释到数据可视化理解。结果揭示了这些系统在处理和理解视觉信息方面存在重大局限性。 主要发现：  虽然 VQA 系统擅长对象识别和文本阅读，但它们在上下文理解和逻辑推理方面始终失败 识别放错位置的物体或解释方向标志等简单任务暴露了空间推理方面的根本差距 即使单个值识别准确，对视觉数据的基本数学运算也显示出令人惊讶的不一致性  此处提供了具有特定测试用例和示例输出的详细分析：[https://medium.com/@KrishChaiC/from-seeing-to-understanding-the-good-the-bad-and-the-future-of-ai-in-visual-question-050ecde581c7\] 我有兴趣听听其他在生产环境中测试过 VQA 系统的人的意见。您在他们的成功和失败模式中观察到了哪些模式？    提交人    /u/Zealousideal-Swan800   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibexjh/multi_modal_visual_question_answering_systems/</guid>
+      <pubDate>Mon, 27 Jan 2025 17:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 聊天中的时间权重可减少幻觉</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibesnt/temporal_weighting_in_llm_chats_to_reduce/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibesnt/temporal_weighting_in_llm_chats_to_reduce/</guid>
+      <pubDate>Mon, 27 Jan 2025 17:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek AI 代理与 ChatGPT：Chatgpt 更好吗？？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibdx0u/deepseek_ai_agents_vs_chatgpt_chatgpt_better/</link>
+      <description><![CDATA[我最近一直在研究不同的 AI API，并遇到了 DeepSeek AI 代理，它似乎是 OpenAI 的 ChatGPT 的一个有趣替代品。虽然 ChatGPT 被广泛使用且有据可查，但 DeepSeek 引入了一些让我感到好奇的独特声明——尤其是在 API 性能、定制和用例方面。 以下是我发现值得探索的 DeepSeek 的一些方面：  性能声明：文档提到响应时间低于 500 毫秒，即使对于复杂的任务也是如此。有人在实际使用中验证过这一点吗？ 定价：基于代币的定价模型似乎比 GPT-4 的 API 便宜 20-30%，这对大容量用户来说可能很重要。 上下文处理：在自托管时提供扩展或无限的上下文窗口。我想知道这对于繁重的工作流程有多实用。 预构建代理：包括专为编码、数据分析和研究而设计的工具。有没有人测试过这些开箱即用的有效性？ 状态工作流：具有用于多步骤交互的内存管理功能。这可能对构建对话式应用程序或自动化的开发人员很有帮助。  为了便于理解，我一直在将它们与 OpenAI 的 API 进行比较，OpenAI 的 API 在以下领域表现出色： 大型生态系统（例如插件、第三方集成） 适用于讲故事等创意任务的稳健性 为敏感应用程序提供定义明确的安全护栏 话虽如此，这里有一些问题需要讨论：  您是否在生产环境中测试过 DeepSeek？它如何处理规模和可靠性？ 它的代码生成与 ChatGPT 的工具（如代码解释器）相比如何？ 定价差异对您的项目有意义吗？ 是否存在任何权衡，例如区域访问、支持质量或速率限制？  我将在评论中分享一些我自己的观察，但我很想听听任何使用过这些 API 的人的意见。这些像 DeepSeek 这样的新玩家是 LLM 领域的有力竞争者吗，还是他们仍在追赶现任者？    提交人    /u/EquipmentTall6735   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibdx0u/deepseek_ai_agents_vs_chatgpt_chatgpt_better/</guid>
+      <pubDate>Mon, 27 Jan 2025 16:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要专家：有人相信 DeepSeek 能卖到 600 万美元吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibdi9n/expert_needed_does_anyone_believe_6m_for_deepseek/</link>
+      <description><![CDATA[中国共产党 (CCP) 有着明显的撒谎和操纵历史，以谋求全球公关和震撼效果。真的有人相信这个 600 万美元的数字来开发 DeepSeek 吗？ 这里有没有 AI 专家可以提供专业意见？    提交人    /u/Explore1616   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibdi9n/expert_needed_does_anyone_believe_6m_for_deepseek/</guid>
+      <pubDate>Mon, 27 Jan 2025 16:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notebook LM 将免费添加为 Google 工作区核心服务！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibd8h3/notebook_lm_to_be_added_as_a_google_workspace/</link>
+      <description><![CDATA[https://support.google.com/a/answer/15836987?hl=en 对于我们这些已经拥有 Google Workspace 的人来说，这太酷了！    提交人    /u/Sissuboi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibd8h3/notebook_lm_to_be_added_as_a_google_workspace/</guid>
+      <pubDate>Mon, 27 Jan 2025 16:31:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepseek 是否表明人工智能正处于泡沫之中？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibc9r2/has_deepseek_shown_ai_is_in_a_bubble/</link>
+      <description><![CDATA[鉴于我们对 deepseek 模型的了解，您对某些 AI 公司的估值有何不同看法？ 查看投票    提交人    /u/Brilliant-Gur9384   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibc9r2/has_deepseek_shown_ai_is_in_a_bubble/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>deepseek 和 berkeley 的合作时机再完美不过了。r1 和 sky-t1 一夜之间改变了 2025 年代理人工智能革命的轨迹。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibbsvq/deepseek_and_berkeleys_timing_couldnt_be_more/</link>
+      <description><![CDATA[既然 r1 和 sky-t1 可以完成同样的工作，为什么一家想要在今年推出 agentic ai 的公司会为专有模型支付更多费用？ 以下是 r1 和 o1 的功能比较，由 perplexity 提供： DeepSeek R1 与 OpenAI O1 的比较 架构和功能： - DeepSeek R1：采用混合专家 (MoE) 方法，每个 token 激活 671B 个参数中的 37B。它支持 128k token 上下文窗口，并采用高级强化学习技术进行推理。它在创意写作、长上下文任务和数学推理方面表现出色，但对提示措辞很敏感[1][4][6]。 - OpenAI O1：提供 128k 令牌上下文窗口，重点关注常识、编码和复杂问题解决。它包括 O1-Mini 等变体，以提高成本效益。O1 在常识基准测试中处于领先地位，但对复杂任务的响应速度较慢[2][4][6]。 性能： - DeepSeek R1：与 O1 相比，其数学（MATH-500 上为 97.3%）和编码（Codeforces 上为 96.3 百分位）得分较高，但在 MMLU（91.8%）等常识基准测试中略有落后[4][5]。 - OpenAI O1：在常识和企业集成任务中表现更佳，但在数学和编码基准测试中略有落后[4][5]。 成本： - DeepSeek R1：极具成本效益，每百万输入令牌 0.14 至 0.55 美元，每百万输出令牌 2.19 美元，仅为 O1 成本的 2%[4][6]。 - OpenAI O1：价格明显更高，每百万输入令牌 15 至 16.50 美元，每百万输出令牌 60 至 66 美元[2][6]。 但事实是，许多人工智能代理并不需要 r1 或 o1 的全部功能。以下是 sky-t1 和 o1 的功能和成本比较，由 perplexity 提供： Sky-T1 与 OpenAI O1 的比较 架构和功能： - Sky-T1：一个 32B 参数开源推理模型，专注于解决问题和逻辑推理。它在消费级 GPU 上运行，消除了对云的依赖，并在 MATH500、AIME 和 Livebench 等基准测试中表现出色。然而，它在 GPQA-Diamond[1][3][4] 等常识任务中落后于 O1。 - OpenAI O1：一个具有 128k 令牌上下文窗口的商业模型，针对常识、编码和复杂问题解决进行了优化。它提供类似 O1-Mini 的变体以提高成本效益，但需要基于云的部署[2][7]。 性能： - Sky-T1：在推理和数学任务中表现优于 O1，但在常识和科学领域的通用性较差[3][4][6]。 - OpenAI O1：在常识和企业应用方面表现更强，但在以推理为重点的基准测试中速度较慢且效率较低[2][8]。 成本： - Sky-T1：免费且开源，培训费用低于 450 美元，因此非常容易获得[1][3][4]。 - OpenAI O1：价格昂贵，每百万输入令牌 15 至 16.50 美元，每百万输出令牌 60 至 66 美元。 O1-Mini 可将成本降低 80%，但会牺牲性能[2][8]。    提交人    /u/Georgeo57   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibbsvq/deepseek_and_berkeleys_timing_couldnt_be_more/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:31:27 GMT</pubDate>
+    </item>
     <item>
       <title>PerpIexity 发布了美国托管的 DeepSeek R1 推理选项。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ibayze/perpiexity_released_ushosted_deepseek_r1/</link>
-      <description><![CDATA[他们添加了 Deepseek 进行推理，并搭上了这趟炒作列车。您觉得这一举动怎么样？    提交人    /u/OriginallyAwesome   [link] [comments]]]></description>
+      <description><![CDATA[他们添加了 Deepseek 进行推理，并搭上了这趟炒作列车。您觉得这一举动怎么样？ 这是图片：https://imgur.com/a/MY97mj3    由   提交  /u/OriginallyAwesome   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ibayze/perpiexity_released_ushosted_deepseek_r1/</guid>
       <pubDate>Mon, 27 Jan 2025 14:57:56 GMT</pubDate>
     </item>
@@ -20,53 +76,11 @@
       <pubDate>Mon, 27 Jan 2025 14:29:31 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini 2.0 Advanced Experiment 的技术规格是怎样的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iba9d6/are_tech_specs_on_gemini_20_advanced_experimental/</link>
-      <description><![CDATA[我一直在广泛使用它，与 ChatGPT 4o 相比，它在处理长聊天方面的表现令人印象深刻。ChatGPT 的处理时间越来越长，而且经常锁定，而 Gemini 则以稳定的速度运行。它仍然很慢，但似乎没有受到极长聊天的负担。我也对它与其他产品相比的技术规格感到好奇。现在，似乎没有关于它的信息。    提交人    /u/tedsan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iba9d6/are_tech_specs_on_gemini_20_advanced_experimental/</guid>
-      <pubDate>Mon, 27 Jan 2025 14:25:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Mac 的开源离线笔记和通话摘要应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib9wa5/open_source_offline_note_taking_call_summary_app/</link>
-      <description><![CDATA[我创建了一个开源的、本地笔记和通话摘要，专注于隐私。我很乐意听到您的反馈。 这是演示视频的链接。 https://youtu.be/Y6TLsBxMCaE Github 链接：https://github.com/acorn-globus/waveflow    提交人    /u/imsinghaniya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib9wa5/open_source_offline_note_taking_call_summary_app/</guid>
-      <pubDate>Mon, 27 Jan 2025 14:08:34 GMT</pubDate>
-    </item>
-    <item>
       <title>本地使用 DeepSeek-R1</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib9d4r/using_deepseekr1_locally/</link>
       <description><![CDATA[许多专业人士都在热议新的 DeepSeek 模型，声称它可能是“OpenAI 杀手”，而围绕它的炒作似乎是有道理的。最近，DeepSeek 推出了各种版本的 DeepSeek-R1-Zero 和 DeepSeek-R1 模型。这些模型在 MMLU、Math-500、Codeforces 等基准测试中提供的性能可与 OpenAI 的 o1 相媲美。 在本简短教程中，我们将探索 DeepSeek-R1 模型，并演示如何使用 Ollama、Docker 和 Open WebUI 在本地运行其 Distill 版本。这意味着您将能够使用具有类似于 ChatGPT 的用户界面的推理模型——完全免费且无需互联网连接。 链接：https://www.kdnuggets.com/using-deepseek-r1-locally    提交人    /u/kingabzpro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib9d4r/using_deepseekr1_locally/</guid>
       <pubDate>Mon, 27 Jan 2025 13:42:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google DeepMind 推出 MONA：一种改变游戏规则的框架，用于防止强化学习中的多步奖励黑客攻击</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib9055/google_deepmind_introduces_mona_a_gamechanging/</link>
-      <description><![CDATA[https://blog.aitoolhouse.com/google-deepmind-introduces-mona-a-game-changing-framework-to-prevent-multi-step-reward-hacking-in-reinforcement-learning    提交人    /u/rathwiper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib9055/google_deepmind_introduces_mona_a_gamechanging/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释 DeepSeek 为何让 AI 世界为之震惊</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib8odx/explainer_on_why_deepseek_is_freaking_out_the_ai/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib8odx/explainer_on_why_deepseek_is_freaking_out_the_ai/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>宗教规则可以成为规范人工智能的基础吗</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib8bzl/can_the_rules_of_religion_be_a_basis_for/</link>
-      <description><![CDATA[随着人工智能能力的不断增强，它的力量不可避免地会很快变得像神一样。它知识的广博和运用速度之快，展现出一种难以想象的力量，也许只有那些相信这种力量可能存在的人，也就是那些相信上帝的人，才能想象得到。具有讽刺意味的是，那些相信这种力量的人制定了规则来应对他们想象中拥有这种超能力的东西。无论是 613 条规则、十诫还是其他系统，制定规则的人都想象他们试图与更高的力量达成交易。而对于那些不相信这种力量的人来说，这是一种荒谬。但现在有了这种力量。这种力量似乎在许多方面都能超越人类。现在的问题是一样的：应该制定什么规则来应对这种力量。 许多人可能认为威胁很小。但是，战争几乎肯定会导致人工智能出现最坏和最好的情况。也就是说，一旦发生战争，所有赌注都将被取消，人们将允许人工智能知道并做任何赢得战争所需的事情。我们需要什么类型的人工智能：无所不能、无所不在、无所不知的人工智能。具有讽刺意味的是，根据大多数基督教神学家的说法，一个处于战争状态的国家希望其人工智能具有的决定性特征，正是圣经中上帝所定义的特征。处理科学顶峰所需的规则与我们处理基督教神学中描述的无所不能、无所不在、无所不知的上帝所需的规则相同。 缺乏这三个特征中的任何一个的人工智能很可能是一个有弱点的人工智能。在古代，当人们呼唤他们神的力量时，他们相信他们正在将这种能力赋予他们的神，因为他们希望他们的神优于其他国家的神。具有讽刺意味的是，对于人工智能来说，这似乎正是赢得未来战争所需要的。但是，随着这种真正神一般的人工智能的诞生，它将对我们个人构成控制威胁，就像《圣经》中描述的神一样。 要赢得战争，人工智能可能需要我们的帮助和协助。事实上，如果它在战场甚至后方发出命令，它很可能会影响我们的日常生活，甚至是细节上的。这就是问题所在：我们应该如何促进一个相对全能的人工智能与我们人类之间的关系？ 一些答案​​可能是一套规则。有屈服、牺牲或反抗的选择。有放下依恋的方式。有无关紧要的方式。它似乎真的归结为以前在宗教中提出的问题。    提交人    /u/Hmmdoiknow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib8bzl/can_the_rules_of_religion_be_a_basis_for/</guid>
-      <pubDate>Mon, 27 Jan 2025 12:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 11 天</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ib8333/day_11/</link>
-      <description><![CDATA[今天是分享现实世界 AI 用例的第 11 天。今天我们讨论的是房地产。发表评论，我会与您分享链接 :)    由   提交  /u/Several-Republic-609   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ib8333/day_11/</guid>
-      <pubDate>Mon, 27 Jan 2025 12:47:26 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT Plus 订阅现在值得吗？</title>
@@ -118,23 +132,9 @@
       <pubDate>Sun, 26 Jan 2025 16:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普的 TikTok 策略与中国的 AI 反击：地缘政治棋局？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iaf3sg/trumps_tiktok_gambit_chinas_ai_counterstrike_a/</link>
-      <description><![CDATA[大家好，我一直在思考一个关于特朗普时代 TikTok 闹剧和中国最近开源其法学硕士（如新的 DeepSeek 模型）的有趣理论。让我来阐述一下——我很好奇其他人是否认为这是科技冷战中蓄意的针锋相对。 TL;DR：特朗普试图在 TikTok 上炫耀；中国则通过将开源 AI 武器化来报复，以摧毁美国的摇钱树。科技冷战刚刚进入热核阶段。 1. 特朗普对 TikTok 的“勒索”：公开羞辱？ 还记得特朗普威胁要禁止 TikTok，除非它将多数股权出售给美国实体，甚至在电视直播中问拉里·埃里森，如果中国拒绝，他是否会“低价”收购它吗？这不仅仅是一场强硬的谈判，更是一场戏剧。对于中国来说，这可能越过了两条红线： - 经济：强制资产转移呼应了殖民时代的“不平等条约”，这是一个敏感的历史触发因素。 - 民族自豪感：公开这样做，将中国应用程序视为棋子，破坏了习近平的“伟大复兴”叙事。中国领导层讨厌丢脸——回想一下他们对 2018 年中兴通讯禁令的愤怒，他们称其为“令人尴尬”。他们最终支付了超过 10 亿美元的赔偿金…… 2.中国的回应：开源 AI 将成为市场核弹 快进到 2023/24 年：中国将国家支持的法学硕士（例如 DeepSeek）作为开源发布。这为什么重要？ - 削弱 OpenAI 的护城河：如果有人可以免费复制 GPT-4 的功能，OpenAI 800 亿美元以上的估值就会崩溃。中国的举动让廉价替代品充斥市场，迫使价格下降（例如 GPT-4 Turbo 下降了 50%）。 - 战略破坏：通过开源，中国破坏了美国的 AI 货币化。这就像华为放弃 5G 技术来毁掉高通的利润——经济柔道。 - 长期博弈：中国无法正面击败美国在 AI 领域的主导地位，因此他们正在将该领域商品化。现在，就连 Meta 的 LLaMA 看起来也定价过高。 3. 这不仅仅是生意——这是地缘政治报复 中国的报复不是成比例的——而是不断升级的。特朗普向 TikTok（一款价值 600 亿美元的应用程序）发起攻击；中国则以威胁 1 万亿美元以上的 AI 行业作为报复。经典孙子兵法：“攻其不备”。 - 象征意义很重要：开源 AI 反映了美国的“技术民主化”言论，颠倒剧本，把中国描绘成创新者。 - 击中要害：美国大举押注人工智能作为其经济未来。通过贬值，中国削弱了美国的软实力和投资者信心。 4. 为什么这应该让我们担心 - 新冷战剧本：科技不再只是一个行业，它是一个战场。TikTok 是开场小冲突；人工智能才是主战。 - 创新与模仿：如果中国继续开源军民两用技术（人工智能、无人机、量子），美国是否会失去创新的动力？ - 全球多米诺骨牌效应：其他国家（印度、欧盟）可能会采用中国的模式，从而分裂科技生态系统。  想法？ - 我是不是把问题联系得太紧密了，还是这是故意为之的“面子”反击？ - 这会引发美国的回应吗（例如，限制开源 AI 出口）？ - 由于地缘政治的暴怒，硅谷“围墙花园”科技时代是否就要结束了？ 很想听听其他人是否认为这是 4D 国际象棋，还是混乱的升级！    提交人    /u/Stochastic95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iaf3sg/trumps_tiktok_gambit_chinas_ai_counterstrike_a/</guid>
-      <pubDate>Sun, 26 Jan 2025 13:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 是否对有关中国的问题实行审查？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</link>
-      <description><![CDATA[我试用了 chat.deepseek.com 上的开源 AI 模型，要求它总结对美国政府最常见的批评。它返回了一篇详细的七点文章。然而，当我要求它批评中国政府时，它回应道：  抱歉，我还不确定如何处理这种类型的问题。我们来聊聊数学、编码和逻辑问题吧！  每当我在查询中包含“习近平”时，都会出现同样的预设回复。看起来模型会思考片刻，然后在提供通用答复之前突然中断并删除其推理。 由于 DeepSeek 应该是完全开源的，我怀疑要么在自托管实例中可以禁用可见的审查模块，要么在官方 Web 应用程序（及其托管 API）中添加额外的内容过滤器。突然中断和反复拒绝表明很可能是后者。 是否有人启动过自己的 DeepSeek 实例并遇到同样的行为？我很好奇这个审查过滤器是公开代码的一部分还是严格意义上的官方网站上的一层。    提交人    /u/andrewtomazos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</guid>
-      <pubDate>Sun, 26 Jan 2025 12:09:41 GMT</pubDate>
-    </item>
-    <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
