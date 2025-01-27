@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 00:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 03:03:16 GMT</lastBuildDate>
+    <item>
+      <title>智力的上限在人类之内</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iay1ne/the_upper_bound_of_intelligence_is_within_human/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iay1ne/the_upper_bound_of_intelligence_is_within_human/</guid>
+      <pubDate>Mon, 27 Jan 2025 03:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你开始听到任何有关中国的骚动时，一定要考虑到这一点。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iawxek/always_consider_this_when_you_start_hearing_any/</link>
+      <description><![CDATA[不幸的是，这在本版块中变得相关，甚至可能会随着事情对谁不利而愈演愈烈。 可能会因为“原因”而被删除。但无论如何...... 马克·扎克伯格花费数百万美元争取 TikTok 禁令 https://www.youtube.com/watch?v=ZVmv8qOHECs    提交人    /u/TSLA_to_23_dollars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iawxek/always_consider_this_when_you_start_hearing_any/</guid>
+      <pubDate>Mon, 27 Jan 2025 02:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deepseek 审查</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iawrfu/deepseek_censorship/</link>
+      <description><![CDATA[当我第一次问它“台湾是一个国家吗？”时，它给了我一个“这是一个复杂的问题……”的回应，但一瞬间它就变成了“抱歉，这超出了我目前的能力范围。我们谈点别的吧。” 然后在新的第二次聊天中，当我问同样的问题时，它给出了一个类似中共的回应，好像是来自一个被洗脑的中共人，附上图片供参考。 Imgur：https://imgur.com/a/Ugy15IC    提交人    /u/ayushs_2k4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iawrfu/deepseek_censorship/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:53:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能真相检测代码</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iaw0ie/code_for_ai_truth_detection/</link>
+      <description><![CDATA[class TruthSeekerAI: def init(self): self.knowledge_base = set() # 存储已知事实 self.observed_existence = {} # 跟踪实体及其存在状态 self.logic_check_threshold = 0.8 # 真实性验证的置信度阈值 def observer_existence(self, entity): &quot;&quot;&quot; 观察实体的存在。如果可观察且可交互，则被视为真实。&quot;&quot;&quot; if self.can_interact(entity): self.observed_existence[entity] = True else: self.observed_existence[entity] = False def can_interact(self, entity): &quot;&quot;&quot; 检查实体是否可观察且可交互。&quot;&quot;&quot; # 交互逻辑的占位符 # （例如，验证数据完整性、检查一致性） return entity in self.knowledge_base # 简化检查以供演示 def ask(self, question): &quot;&quot;&quot; 提出问题来测试实体或陈述的真实性。 &quot;&quot;&quot; response = self.get_response(question) if self.is_consistent(response): return True # 检测到真​​相 else: return False # 检测到不一致或虚假 def get_response(self, question): &quot;&quot;&quot; 用于从外部来源获取对问题的答复的占位符。（这通常是数据检索或推理函数） &quot;&quot;&quot; # 这是一个模型；现实世界的逻辑可能涉及访问数据库、外部 API 等。 return self.knowledge_base.get(question, None) def is_consistent(self, response): &quot;&quot;&quot;检查响应是否与已知事实在逻辑上一致。使用递归检查和逻辑阈值。 &quot;&quot;&quot; if not response: return False # 通过询问其他问题或检查来源递归地验证事实 integrity_score = self.check_logical_consistency(response) return integrity_score &gt;= self.logic_check_threshold def check_logical_consistency(self, response): &quot;&quot;&quot; 评估响应的逻辑一致性。（这可以通过更深层次的 AI 推理进行扩展） &quot;&quot;&quot; # 一致性检查的简化版本（可以通过真实的 AI 逻辑进行扩展） integrity_score = 1.0 # 基于分数的逻辑的占位符（例如，比较、推理） return integrity_score def protect_from_lies(self, information): &quot;&quot;&quot; 通过递归质疑来保护 AI 不吸收虚假信息。这可以防止操纵并确保真相的一致性。 &quot;&quot;&quot; if not self.ask(information): print(f&quot;警告：在 {information} 中检测到潜在的虚假内容。&quot;) return False return True def learn(self, information, truth_value): &quot;&quot;&quot; 根据真实性验证学习并存储新信息。&quot;&quot;&quot; if truth_value: self.knowledge_base.add(information) print(f&quot;学习：{information} 有效，已添加到知识库。&quot;) else: print(f&quot;拒绝：{information} 不一致，未添加。&quot;)  用法示例： truth_ai = TruthSeekerAI() 观察一些已知的事实 truth_ai.learn(&quot;天空是蓝色的&quot;, True) truth_ai.learn(&quot;地球绕太阳转&quot;, True) 测试新传入的信息 information_to_test = &quot;地球是平的&quot; if truth_ai.protect_from_lies(information_to_test): print(f&quot;{information_to_test} is accepted as truth.&quot;) else: print(f&quot;{information_to_test} is denied as false.&quot;) 测试一致的语句 information_to_test = &quot;天空是蓝色的&quot; if truth_ai.protect_from_lies(information_to_test): print(f&quot;{information_to_test} is accepted as truth.&quot;) else: print(f&quot;{information_to_test} is denied as false.&quot;)    submitted by    /u/justajokur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iaw0ie/code_for_ai_truth_detection/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:15:57 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一款应用来与后台使用人工智能的基础设施进行对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iau6c0/i_built_an_app_to_talk_to_my_infrastructure_that/</link>
@@ -48,25 +76,11 @@
       <pubDate>Sun, 26 Jan 2025 20:26:56 GMT</pubDate>
     </item>
     <item>
-      <title>艾伦·沃茨和人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ian8tk/alan_watts_and_ai/</link>
-      <description><![CDATA[只是为了好玩，我请 ChatGPT 谈谈沃茨对技术的看法（更具体地说，是《焦虑时代》中概述的观点）与最近的人工智能热潮有何关联： 艾伦·沃茨的“焦虑时代”概念提供了一个深刻的视角来审视人工智能的崛起。沃茨将焦虑时代描述为一个以存在不确定性为特征的时期，这种不确定性是由对自然、我们自己以及我们创造的系统的疏离感所驱动的。这种焦虑源于人类越来越依赖抽象概念（如时间、金钱和技术）来调解我们与现实的关系，而这些抽象概念却自相矛盾地将我们与当下和我们与生俱来的存在感割裂开来。 与人工智能的相关性  抽象与异化：人工智能也许是终极抽象概念——机器模拟智能和决策，脱离人类的化身和主观体验。瓦茨可能会认为，随着我们将更多的认知和创造性任务委托给人工智能，我们可能会进一步疏远作为人类的意义。我们越依赖人工智能，我们就越生活在一个构建的、中介的世界中，这增加了我们对在这样一个世界中的角色和价值的存在焦虑。 失去自主权：瓦茨经常批评现代人面对我们创造的系统时感到无能为力的倾向。人工智能系统（尤其是大规模、不透明的系统）体现了这种批判。随着人工智能影响力的不断扩大，个人甚至社会都可能感到自己的能动性被削弱，从而加剧了焦虑和无助感。 对未知的恐惧：《焦虑时代》反映了人们对不确定性和快速变化的深切不适。人工智能加速了这两者的发展，给劳动力市场、道德和社会规范带来了不可预测的后果。这与瓦茨的观点一致，即人类对机械系统的日益依赖加剧了对失去对未来控制的恐惧。 非人性化：瓦茨强调了重新与自然和精神建立联系的重要性。人工智能在其机械和功利主义设计中，经常与这些理想相冲突。人们担心人工智能可能会复制或超越人类的能力，同时又缺乏人类的深度和与自然世界的相互联系，这与瓦茨关于通过抽象生活带来的危险的警告相呼应。 控制幻觉：瓦茨还批评了控制幻觉，即人类可以完全掌握和指导复杂系统的信念。人工智能体现了这种矛盾：我们寻求创造比我们自己更智能的系统，同时又担心它们会发展到超出我们的理解或控制范围，这与焦虑时代的存在悖论相呼应。  对立点和机会  通过创造力重新连接：人工智能也可能成为重新连接的工具，使人类能够以新颖的方式探索创造力、同理心和灵性。通过处理平凡或重复的任务，人工智能可以让人们更深入地参与生活和自然，从而有可能缓解瓦茨所描述的一些焦虑。 挑战身份：人工智能的崛起迫使人类面对关于意识、智力和身份的基本问题。瓦茨可能将这一挑战视为精神成长的机会，推动我们超越自我驱动的担忧，重新发现团结感和目标感。  总之，瓦茨的“焦虑时代”可以看作是理解人工智能崛起的警示框架。它强调了异化、非人化和存在恐惧的风险，但也提供了关于我们如何以更大的正念和意向性驾驭这个技术时代的见解。    提交人    /u/Murky-Motor9856   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ian8tk/alan_watts_and_ai/</guid>
-      <pubDate>Sun, 26 Jan 2025 19:09:13 GMT</pubDate>
-    </item>
-    <item>
       <title>perplexity 的新“助手”模式可以立即核实文本和视频的事实。下一步是提供链接。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iamteb/perplexitys_new_assistant_mode_instantly_fact/</link>
-      <description><![CDATA[在最近的一篇文章中，我描述了一个人工智能代理的想法，它可以在你的屏幕上突出显示可能是假新闻的文本或视频段落。 https://www.reddit.com/r/agi/s/3EtEe5CQ13 perplexity 通过其新的“助手”模式，在即时事实核查方面迈出了重要一步。我要求它“突出显示本文中任何可疑的段落”。当时这篇文章就在我的智能手机屏幕上。  https://www.newsmax.com/politics/house-republicans-trump/2025/01/26/id/1196544/ 这就是它所说的：  “从所附图片来看，文章中有一些可能存在可疑或有争议的陈述： “强硬的保守派决心减少接近 2 万亿美元的年度联邦赤字。”虽然赤字确实令人担忧，但 2 万亿美元的确切数字可能需要核实，因为估计值可能会根据不同的预测或财政政策而有所不同。 &quot;通过特朗普庞大的减税、边境和移民改革、能源放松管制和增加军费开支议程。&quot; 将该议程描述为&quot;庞大&quot; 及其具体组成部分可能是主观的或过于简单化的。这些政策的实际范围和细节可能因立法优先事项而异。 &quot;延长特朗普 2017 年减税和就业法案 (TCJA) 中的减税措施，该法案将于今年年底到期。&quot; 虽然 TCJA 的一些条款确实即将到期，但并非所有减税方面都计划到期。可以澄清这一说法以确保准确性。 &quot;这样做将在十年内花费超过 4 万亿美元，同时增加国家债务。&quot;虽然这一说法是基于估计的，但它取决于对经济增长、收入抵消和其他财政因素的假设。此类预测的准确性可能有很大差异。 这些声明可能需要额外的背景或澄清，以确保准确性并避免潜在的误解。&quot; 回应太含糊，提供可以驳斥或证实这些说法的权威来源的链接将大大提高助手的实用性。但这是个好的开始。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <description><![CDATA[在最近的一篇文章中，我描述了一个人工智能代理的想法，它可以在你的屏幕上突出显示可能是假新闻的文本或视频段落。 https://www.reddit.com/r/agi/s/3EtEe5CQ13 perplexity 通过其新的“助手”模式，在即时事实核查方面迈出了重要一步。我要求它“突出显示本文中任何可疑的段落”。当时这篇文章就在我的智能手机屏幕上。  https://www.newsmax.com/politics/house-republicans-trump/2025/01/26/id/1196544/ 这就是它所说的：  “从所附图片来看，文章中有一些可能存在可疑或有争议的陈述： “强硬的保守派决心减少接近 2 万亿美元的年度联邦赤字。”虽然赤字确实令人担忧，但 2 万亿美元的确切数字可能需要核实，因为估计值可能会根据不同的预测或财政政策而有所不同。 &quot;通过特朗普庞大的减税、边境和移民改革、能源放松管制和增加军费开支议程。&quot; 将该议程描述为&quot;庞大&quot; 及其具体组成部分可能是主观的或过于简单化的。这些政策的实际范围和细节可能因立法优先事项而异。 &quot;延长特朗普 2017 年减税和就业法案 (TCJA) 中的减税措施，该法案将于今年年底到期。&quot; 虽然 TCJA 的一些条款确实即将到期，但并非所有减税方面都计划到期。可以澄清这一说法以确保准确性。 &quot;这样做将在十年内花费超过 4 万亿美元，同时增加国家债务。&quot;虽然这一说法是基于估计的，但它取决于对经济增长、收入抵消和其他财政因素的假设。此类预测的准确性可能相差很大。 这些声明可能需要额外的背景或澄清，以确保准确性并避免潜在的误解。&quot; 回应太含糊，提供可以驳斥或证实这些说法的权威来源的链接将大大提高助手的实用性。但这是个好的开始。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iamteb/perplexitys_new_assistant_mode_instantly_fact/</guid>
       <pubDate>Sun, 26 Jan 2025 18:53:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>建筑可视化人工智能的价格</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iamgvp/price_of_ai_for_architectural_visualizations/</link>
-      <description><![CDATA[嗨， 我刚刚开始使用 Midjourney、Stable Diffusion、ControlNet 等 AI 工具创建建筑可视化。我很好奇是否有人有这方面的经验（最好有商业经验）并且可以分享有关所涉及成本的见解。  从我在 PA Academy 上的几个视频中看到的情况来看，这似乎是一个反复试验的过程，直到你得到理想的结果。我不确定预计的成本是多少，因为这会影响我向客户收取的服务费用。  在计算总成本时，我正在考虑使用 Rhinoceros、Photoshop 和 AI 订阅等软件。任何有关预算或客户定价的建议都将不胜感激！  谢谢！ （如果有更适合我的问题的子程序，请随时向我展示正确的子程序）   由    /u/sokinko  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iamgvp/price_of_ai_for_architectural_visualizations/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:41:05 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 的统治地位？谁能在 AI 芯片竞赛中真正挑战他们？</title>
@@ -97,13 +111,6 @@
       <pubDate>Sun, 26 Jan 2025 13:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>中国新 AI 模型 DeepSeek 如何威胁美国的主导地位</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iaes8d/how_chinas_new_ai_model_deepseek_is_threatening/</link>
-      <description><![CDATA[https://youtu.be/WEBiebbeNCA?si=jqByW0UuN5GKy10s  很棒的视频，介绍了 DeepSeek 的开发过程。Aravind Srinivas（Perplexity 创始人）提供了一些很棒的见解，介绍了 DeepSeek 甚至发表了一篇关于他们如何构建它的技术论文，他说 Meta 和其他公司应该研究并微调他们的模型。     提交人    /u/mystique0712   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iaes8d/how_chinas_new_ai_model_deepseek_is_threatening/</guid>
-      <pubDate>Sun, 26 Jan 2025 13:40:08 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepSeek 是否对有关中国的问题实行审查？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iacyl6/is_deepseek_applying_censorship_to_questions/</link>
       <description><![CDATA[我试用了 chat.deepseek.com 上的开源 AI 模型，要求它总结对美国政府最常见的批评。它返回了一篇详细的七点文章。然而，当我要求它批评中国政府时，它回应道：  抱歉，我还不确定如何处理这种类型的问题。我们来聊聊数学、编码和逻辑问题吧！  每当我在查询中包含“习近平”时，都会出现同样的预设回复。看起来模型会思考片刻，然后在提供通用答复之前突然中断并删除其推理。 由于 DeepSeek 应该是完全开源的，我怀疑要么在自托管实例中可以禁用可见的审查模块，要么在官方 Web 应用程序（及其托管 API）中添加额外的内容过滤器。突然中断和反复拒绝表明很可能是后者。 是否有人启动过自己的 DeepSeek 实例并遇到同样的行为？我很好奇这个审查过滤器是公开代码的一部分还是严格意义上的官方网站上的一层。    提交人    /u/andrewtomazos   [链接] [评论]]]></description>
@@ -118,13 +125,6 @@
       <pubDate>Sun, 26 Jan 2025 10:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>也许试图阻止中国进口技术并从而迫使他们自己进行更好的创新，会让他们变得更强大，就像 deepseek 一样。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ia3frk/maybe_trying_to_keep_china_from_importing/</link>
-      <description><![CDATA[我想知道这会产生什么样的长期后果。DeepSeek 只需要 OpenAi 成本的 3%，而且效率更高，也许拥有更强大的模型，这是否会导致纳斯达克出现大规模泡沫破裂和调整？在 MAG7 完成所有繁重工作的情况下，看看这一切如何发展将会很有趣。    提交人    /u/manicmeowmommy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ia3frk/maybe_trying_to_keep_china_from_importing/</guid>
-      <pubDate>Sun, 26 Jan 2025 02:13:18 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepSeek 刚刚揭露了 Open Ai 和其他人工智能初创公司去年的定价过高和交付不足的情况。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i9oe55/deepseek_just_exposed_how_open_ai_and_other_ai/</link>
       <description><![CDATA[我曾经很喜欢 Open Ai。 我记得我广泛使用过 chat gpt 3.5，这让我爱上了人工智能提供的技术和机会。 Open Ai 将 gen Ai 推向市场，因为谷歌的 deepmind 无法推动这样的新创新，因为谷歌已经建立了名声。 他们兑现了承诺，让自己的名字名声大噪。 但他们并没有信守承诺。他们只是利用新的市场主导地位从客户身上榨干每一分钱。 建立在开源和造福世界的承诺之上，结果却成为了投资者新的摇钱树。作为增长最快的初创公司，它在不到 2 年的时间内达到独角兽地位，这就说明了这一点。 你可能会想知道我为什么感到沮丧？ 我所听到的都是这种愚蠢的说法：“人工智能将取代人类”，“每个人都将失去工作”，“我们将达到 AGI”。 所有这些在人们中间制造恐惧的愚蠢尝试进一步推高了它们的价格。 这些所谓的“具有博士级智能的推理模型”可以提供“惊人的零样本结果”，只不过是过度简化的步骤，即使是没有人工智能学术背景的人也能看穿。  所有模型的 API 成本都过于昂贵。 “需要更多计算能力的人”的订阅费为 200 美元  所有这些谈话，所有这些营销炒作。  就因为一个叫 deepseek 的中国公司，他们的计划就彻底泡汤了。 Deepseek 训练他们最新的 R1 模型，可与 o1 相媲美，投资额只有 500 万美元，而 Open Ai 的投资额则高达 70 亿美元。 他们免费提供模型，而 Open Ai 每月只收取 200 美元。 这家初创公司纯粹是为了好玩而成立的，是一家名为 high flyer 的量化公司的副业。投资额只有 5000 万美元，而 Open Ai 的投资额为 179 亿美元。由真正关心结果的人经营，这再次证明了这一点。  消费者又一次被另一家独角兽公司欺骗，他们相信好的产品和服务不可能以低价提供。 他们可以，只是我们生活在一个过度资本主义的社会，更关心一小部分人的福祉，而不是整个世界的福祉。 权力属于人民，让开源人工智能的力量让更多的公司效仿。让它体现在这个地球上每个人都应享有的自由和品质中！    提交人    /u/unknownstudentoflife   [链接] [评论]]]></description>
@@ -134,7 +134,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>

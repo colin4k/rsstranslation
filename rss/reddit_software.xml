@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 00:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 03:03:41 GMT</lastBuildDate>
+    <item>
+      <title>具有内容分析功能的自动幻灯片制作器？</title>
+      <link>https://www.reddit.com/r/software/comments/1iax8jx/automatic_slideshow_maker_with_content_analysis/</link>
+      <description><![CDATA[我一直在寻找一款适用于 Windows 的自动幻灯片制作器，支持导入照片和视频剪辑，并可以创建与所选歌曲时长相匹配的幻灯片。理想情况下，它应该将过渡与歌曲的节拍同步，类似于 iPhone 照片应用中的“回忆”功能。  更进一步说，我希望有一个工具可以使用人工智能来分析照片和视频剪辑内容，自动选择幻灯片的最佳时刻并消除重复。虽然我尝试过许多幻灯片应用程序，但到目前为止最接近的是 Movavi Slideshow Maker。这是一款可靠的工具，但缺乏基于人工智能的内容分析，并且提供有限的标题自定义。  我的目标是在每次旅行/活动后将整个照片和视频集转储到此应用程序中，并让它以最小的努力制作出精美的幻灯片。有没有人找到符合这些条件的更好的东西？   由    /u/substorm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iax8jx/automatic_slideshow_maker_with_content_analysis/</guid>
+      <pubDate>Mon, 27 Jan 2025 02:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Win 11 应用程序结合了 voidtools Everything 的搜索功能和 Inviska Rename 的批量重命名功能？</title>
+      <link>https://www.reddit.com/r/software/comments/1iavuyw/win_11_app_that_combines_search_capability_of/</link>
+      <description><![CDATA[这是我最喜欢的两个 Windows 文件归档/组织程序。我真正需要的是能够在许多不同的目录和子目录中找到所有符合术语和文件类型的文件，然后执行 Inviska 可以执行的相同批量重命名。有人知道这样的东西吗？    提交人    /u/Drizzla   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iavuyw/win_11_app_that_combines_search_capability_of/</guid>
+      <pubDate>Mon, 27 Jan 2025 01:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能语音转换器</title>
       <link>https://www.reddit.com/r/software/comments/1iator2/ai_voice_changer/</link>
@@ -20,7 +34,7 @@
       <pubDate>Sun, 26 Jan 2025 22:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻找软件来消除视频中的背景噪音（降噪器）</title>
+      <title>寻找可以去除视频背景噪音的软件（降噪器）</title>
       <link>https://www.reddit.com/r/software/comments/1iapmub/looking_for_software_to_remove_background_noise/</link>
       <description><![CDATA[基本上，软件可以消除椅子拖拽、主要人物旁边的其他人说话、咳嗽等声音。 我更喜欢软件。现在我正在使用 Cleanvoice Ai Beta，但我觉得它太过激进，对说话影响太大。谢谢！    提交人    /u/buabua555   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iapmub/looking_for_software_to_remove_background_noise/</guid>
@@ -113,7 +127,7 @@
     <item>
       <title>我怎样才能不使用 AutoHotKey 来做到这一点？</title>
       <link>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</link>
-      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他东西获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他程序获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</guid>
       <pubDate>Sat, 25 Jan 2025 12:50:13 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我的儿子很快就要满 3 岁了，到目前为止，他几乎从未接触过任何屏幕。但是，他开始注意到其他孩子花时间在那个该死的设备上，我们通常明白应该逐步教他如何正确使用它。 最近，我们开始真正享受那些记忆视频，其中我的 SE 2 将一些照片放在幻灯片中，并配上一些音乐。我们花了一些时间观看，很高兴看到他自己的童年、有趣的旅行，甚至他出生前我们家庭生活的某些部分，因为它给了我们谈论事情的机会。 但这些视频非常相似，音乐一般，我无法控制它应该尝试生成什么主题（或者至少我不知道如何控制）。 任何帮助我都会非常感激。内置 iPhone 工具中还有更多我不知道的内容吗？是否有任何软件可以在我的 MacBook 本地或云端运行？我也会考虑付费选项。    提交人    /u/Accurate-Strength-22   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9lfrw/looking_for_software_to_turn_my_photos_into/</guid>
       <pubDate>Sat, 25 Jan 2025 11:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似于 Novel effect ios app 的软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1i9kbu6/looking_for_a_software_similar_to_novel_effect/</link>
-      <description><![CDATA[Novel Effect 应用程序响应您的声音并带有互动音乐和音效，当您大声朗读儿童读物时，会创造出神奇的时刻。​ 我联系了他们，询问如何制作自己的声音主题，但没有得到回复。有没有其他可以做到这一点的软件或 iOS 应用程序？我对音频程序很在行。    提交人    /u/SnooWalruses3442   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9kbu6/looking_for_a_software_similar_to_novel_effect/</guid>
-      <pubDate>Sat, 25 Jan 2025 10:38:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么好用的 DVD 刻录软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1i9hzzz/is_there_any_good_dvd_burner_software/</link>
-      <description><![CDATA[  由    /u/Noahi626  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9hzzz/is_there_any_good_dvd_burner_software/</guid>
-      <pubDate>Sat, 25 Jan 2025 07:43:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
