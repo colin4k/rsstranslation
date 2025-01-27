@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 26 Jan 2025 18:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:03:40 GMT</lastBuildDate>
+    <item>
+      <title>人工智能语音转换器</title>
+      <link>https://www.reddit.com/r/software/comments/1iator2/ai_voice_changer/</link>
+      <description><![CDATA[我希望使用 AI 语音转换器在 discord 上调侃朋友。  有人知道可以推荐的免费产品吗？    提交人    /u/Norbet01   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iator2/ai_voice_changer/</guid>
+      <pubDate>Sun, 26 Jan 2025 23:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找使用 puppeteer 或 playwright 等检测 GUI 对象的软件/存储库</title>
+      <link>https://www.reddit.com/r/software/comments/1iarv82/looking_for_a_softwarerepository_that_detects_gui/</link>
+      <description><![CDATA[我正在开发一个工具来评估各种网站的可访问性，以便向开发人员提供反馈。问题是我需要单独提取 GUI 组件，并对其进行截图，以便我可以将其与相应的图像一起包含在最终报告中。我在尝试将 playwright 与网站的可访问性树一起使用时遇到了问题。任何帮助都将不胜感激    提交人    /u/jdarrooney   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iarv82/looking_for_a_softwarerepository_that_detects_gui/</guid>
+      <pubDate>Sun, 26 Jan 2025 22:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找软件来消除视频中的背景噪音（降噪器）</title>
+      <link>https://www.reddit.com/r/software/comments/1iapmub/looking_for_software_to_remove_background_noise/</link>
+      <description><![CDATA[基本上，软件可以消除椅子拖拽、主要人物旁边的其他人说话、咳嗽等声音。 我更喜欢软件。现在我正在使用 Cleanvoice Ai Beta，但我觉得它太过激进，对说话影响太大。谢谢！    提交人    /u/buabua555   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iapmub/looking_for_software_to_remove_background_noise/</guid>
+      <pubDate>Sun, 26 Jan 2025 20:38:21 GMT</pubDate>
+    </item>
     <item>
       <title>投票⨹：请对原始帖子进行投票</title>
       <link>https://www.reddit.com/r/software/comments/1iaj7aw/vote_please_vote_on_the_original_post/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Noahi626  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9hzzz/is_there_any_good_dvd_burner_software/</guid>
       <pubDate>Sat, 25 Jan 2025 07:43:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS、iOS 可搜索的照片存储</title>
-      <link>https://www.reddit.com/r/software/comments/1i9hmvm/macos_ios_searchable_photo_storage/</link>
-      <description><![CDATA[我一直在寻找云存储解决方案，但它们似乎并未宣传其中存储的图像是否可搜索。 我正试图完全放弃使用谷歌。作为 Mac 用户，我已经拥有 iCloud，但在将照片移至那里时，尽管已完成移动，但我再也找不到特定照片。我仍然可以搜索并获得与我的搜索词匹配的结果，但没有搜索可以可靠地找到照片 B，而这应该在 4 次不同的尝试中返回。 所以……我不能将自己从谷歌照片中删除，直到我能找到搜索功能至少与谷歌一样好的东西。 有几项服务看起来很吸引人，但由于它们会加密您上传的所有内容，我猜它们不会那么容易被搜索到……例如 terabox。 我的优先事项是：1. 可搜索 2. 免费/非常实惠 3. 可从 Mac 和 iPhone 访问。 有人有什么想法吗？    提交人    /u/Deliriousglide   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9hmvm/macos_ios_searchable_photo_storage/</guid>
-      <pubDate>Sat, 25 Jan 2025 07:16:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有自定义元字段的文件管理器</title>
-      <link>https://www.reddit.com/r/software/comments/1i9glfv/file_manager_with_custom_meta_fields/</link>
-      <description><![CDATA[我正在寻找一个 Windows 文件管理器，它允许您添加与特定目录中的文件相关的自定义字段。例如：如果我导航到包含视频游戏（例如 rom）的文件夹，是否有一个文件管理器允许我在单击文件时添加其他信息，例如发布日期、类型、网络 URL、控制台等。 我显然不会仅将其用于视频游戏，但我觉得这个例子说明了一般的想法。也不是在寻找 Windows 文件资源管理器的替代品。只是想根据具体情况使用它。 我确实拥有 Directory Opus，但我不确定它是否集成了此功能？谢谢。    提交人    /u/MuyGalan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9glfv/file_manager_with_custom_meta_fields/</guid>
-      <pubDate>Sat, 25 Jan 2025 06:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>私人 DNS 服务 PING？NextDNS、AdGuardDNS、ControlD、Mullvad、RethinkDNS - 连接速度慢？</title>
-      <link>https://www.reddit.com/r/software/comments/1i9ftit/private_dns_services_ping_nextdns_adguarddns/</link>
-      <description><![CDATA[  由    /u/Confident-Dingo-99  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9ftit/private_dns_services_ping_nextdns_adguarddns/</guid>
-      <pubDate>Sat, 25 Jan 2025 05:14:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
