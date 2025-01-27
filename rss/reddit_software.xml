@@ -4,13 +4,20 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 12:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:01:55 GMT</lastBuildDate>
     <item>
-      <title>你好，我需要一款可以执行多种不同任务的软件，请仔细阅读我的话，因为购买它会花费很多钱</title>
-      <link>https://www.reddit.com/r/software/comments/1ib6n2n/hello_i_need_a_software_that_do_many_different/</link>
-      <description><![CDATA[-我想要一个软件（工具或机器人）来创建许多批量微软帐户，并且它将假万事达卡放入这些帐户中，然后我轻松地将游戏通行证代码放入其中，有任何软件可以做到这一点而不需要每个帐户都被锁定     提交人    /u/Recent-Tangerine9912   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ib6n2n/hello_i_need_a_software_that_do_many_different/</guid>
-      <pubDate>Mon, 27 Jan 2025 11:35:58 GMT</pubDate>
+      <title>扫描屏幕然后点击的软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1ib9z12/software_that_scans_a_screen_and_then_clicks/</link>
+      <description><![CDATA[想知道是否有类似于 autohotkey 的程序允许输入图像，然后允许对该图像进行操作。 IE：程序扫描计算机屏幕以查找图像，然后模仿鼠标单击该图像。重复。    提交人    /u/Bryan-tan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ib9z12/software_that_scans_a_screen_and_then_clicks/</guid>
+      <pubDate>Mon, 27 Jan 2025 14:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在转录讲座？</title>
+      <link>https://www.reddit.com/r/software/comments/1ib84bq/transcribing_a_lecture/</link>
+      <description><![CDATA[我正在录制讲座，想将其转录为文本，有什么知名的软件或网站可以做到这一点吗？    提交人    /u/Soler37   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ib84bq/transcribing_a_lecture/</guid>
+      <pubDate>Mon, 27 Jan 2025 12:49:08 GMT</pubDate>
     </item>
     <item>
       <title>我忘记的软件合集相关文章</title>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 27 Jan 2025 01:08:07 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能语音转换器</title>
+      <title>AI变声器</title>
       <link>https://www.reddit.com/r/software/comments/1iator2/ai_voice_changer/</link>
       <description><![CDATA[我希望使用 AI 语音转换器在 discord 上调侃朋友。  有人知道可以推荐的免费产品吗？    提交人    /u/Norbet01   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iator2/ai_voice_changer/</guid>
@@ -125,13 +132,6 @@
       <pubDate>Sun, 26 Jan 2025 01:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>我正在构建一个由社区驱动的最新欧洲科技项目列表！</title>
-      <link>https://www.reddit.com/r/software/comments/1i9sob6/im_building_an_uptodate_communitydriven_list_of/</link>
-      <description><![CDATA[我正在构建一个最新的、由社区驱动的Awesome European Tech项目列表！其中包括浏览器、生产力工具、金融科技等，所有这些都专注于隐私、可持续性和创新。目标是支持欧洲初创企业和项目（来自符合 GDPR 法规的欧盟和欧洲自由贸易联盟），帮助加强欧洲技术生态系统。 如果您想表示支持，请随时在 GitHub 上留下一颗星或为扩大列表做出贡献，我们将不胜感激！请记住，此列表只是一个起点，并将随着时间的推移而增长和发展。 免责声明：此项目并非旨在排除或避免来自欧洲以外的产品。有许多优秀的全球工具被广泛使用和赞赏。重点只是突出和支持符合隐私、可持续性和创新价值观的欧洲项目。   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i9sob6/im_building_an_uptodate_communitydriven_list_of/</guid>
-      <pubDate>Sat, 25 Jan 2025 17:55:20 GMT</pubDate>
-    </item>
-    <item>
       <title>本地运行的 Webapp 视频压缩器</title>
       <link>https://www.reddit.com/r/software/comments/1i9s0y5/webapp_video_compressor_that_runs_natively/</link>
       <description><![CDATA[我记得有人发推文说它使用 FFMPEG 库在浏览器上本地运行。有人有链接吗？    提交人    /u/Professional_Gas_214   [link] [评论]]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>我怎样才能不使用 AutoHotKey 来做到这一点？</title>
       <link>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</link>
-      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他东西获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。在工作中，我需要始终以相同的顺序按下特定的键盘键。我开始寻找解决方案，先在家里尝试，然后再在工作中执行。最后，我使用了 AutoHotkey，它成功了。但是，我需要向 IT 部门请求许可才能在工作中安装 AutoHotKey。所以，我在想是否有办法使用 Windows 11 上预装的其他程序获得类似的快速结果。也许这里有人知道得更多。 这是 AutoHotKey 脚本： +q:: { ; Shift + Q if !WinExist(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) { MsgBox(&quot;未找到特定窗口&quot;) ;错误消息 return &gt; WinActivate(&quot;我希望 AutoHotKey 打开的打开选项卡的名称&quot;) MouseMove(624, 184) Click() Send(&quot;!c&quot;) ; Alt + C Sleep(3000) currentDate := A_DD . &quot;-&quot; . A_MM . &quot;-&quot; . A_YYYY 循环 14 { if (A_Index = 3 || A_Index = 14) { Send(currentDate) } else { Send(&quot;{Tab}&quot;)  Sleep(100)   在此先感谢所有愿意帮助我的人    提交人    /u/Ocrim-Issor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i9m9mt/how_can_i_do_this_withour_autohotkey/</guid>
       <pubDate>Sat, 25 Jan 2025 12:50:13 GMT</pubDate>
     </item>
