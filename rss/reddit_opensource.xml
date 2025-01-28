@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Jan 2025 06:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 09:01:59 GMT</lastBuildDate>
     <item>
       <title>作为业余开发人员，您可以成为优秀的 OSS 代码贡献者吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>Optimum ERP - 释放无缝业务运营的力量 - 开源计费软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1ibfttq/optimum_erp_unlock_the_power_of_seamless_business/</link>
-      <description><![CDATA[Optimum ERP Optimum ERP 是使用 MERN 堆栈（MongoDB、Express.js、React.js 和 Node.js）构建的综合企业资源规划 (ERP) 解决方案。该项目旨在简化和自动化各种业务流程，包括费用管理、产品管理、报价处理、采购和销售运营、商品及服务税 (GST) 管理和费用分类。 功能  费用管理：跟踪和组织费用以实现更好的财务控制。 产品管理：高效管理产品信息、库存和定价。 报价处理：为客户生成和管理报价。 采购和销售运营：简化采购和销售流程。 商品及服务税 (GST) 管理：遵守商品及服务税 (GST) 法规。 费用分类：对费用进行分类以便更好地进行分析和报告。 用户身份验证：支持 Google 身份验证的安全登录系统。 PDF 生成：以 PDF 格式生成专业发票、报告和报价单。 基于角色的访问控制：分配角色和权限以实现高效的用户管理。 通知系统：通过系统通知和警报让用户了解最新情况。 审计跟踪：维护系统活动的详细日志以实现问责制和透明度。 多租户：支持在同一系统内管理多个业务。  使用的技术  MongoDB：用于数据存储的 NoSQL 数据库。 Mongoose：MongoDB 的 ODM 库，用于简化数据建模和模式验证。 Express.js：Node.js 的 Web 应用程序框架。 React.js：用于构建用户界面的 JavaScript 库。 Node.js：用于服务器端脚本的 JavaScript 运行时环境。 Chakra UI：用于设计现代且响应迅速的用户界面。 Framer Motion：用于流畅且交互式的动画。 Mongoose：数据库管理。 PDF 生成：当前使用外部服务 https://docs.pdfshift.io/。  环境变量 应用程序成功运行需要以下环境变量：  NODE_ENV= # 环境模式（开发、生产） MONGO_URI= # MongoDB 连接字符串 SESSION_SECRET= # 会话管理的密钥NODE_MAILER_USER_NAME= # nodemailer 的电子邮件用户名 NODE_MAILER_APP_PASSWORD= # nodemailer 的应用程序密码 NODE_MAILER_HOST= # 电子邮件主机（例如，smtp.gmail.com） GOOGLE_AUTH_CLIENT_ID= # Google OAuth 的客户端 ID GOOGLE_AUTH_CLIENT_SECRET= # Google OAuth 的客户端密钥 VITE_APP_URL= # 应用程序的前端 URL PDF_SHIFT_API_KEY= # 用于 PDF 生成的 PDF Shift API 密钥  托管和部署 Optimum ERP 托管在https://www.optimumerp.biz/上。该应用程序使用现代 DevOps 实践进行部署，以确保可靠性、可扩展性和高性能。 贡献 欢迎对 Optimum ERP 做出贡献！如果您发现任何问题或有改进建议，请打开问题或提交拉取请求。 贡献：  分叉存储库。 为您的功能或错误修复创建一个新分支。 提交您的更改并将其推送到您的分支。 提交拉取请求，其中包含更改的详细描述。  联系方式 有关 Optimum ERP 的更多信息或咨询，请联系项目所有者 [Support](mailto:atuldubey017@gmail.com)。  Optimum ERP 旨在成为强大、用户友好且可扩展的解决方案，适用于希望优化运营和推动增长的企业。   由    /u/AtulDubey017  提交  [链接] [评论]]]></description>
+      <description><![CDATA[Optimum ERP Optimum ERP 是使用 MERN 堆栈（MongoDB、Express.js、React.js 和 Node.js）构建的综合企业资源规划 (ERP) 解决方案。该项目旨在简化和自动化各种业务流程，包括费用管理、产品管理、报价处理、采购和销售运营、GST 管理和费用分类。 项目链接 文档链接    提交人    /u/AtulDubey017   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ibfttq/optimum_erp_unlock_the_power_of_seamless_business/</guid>
       <pubDate>Mon, 27 Jan 2025 18:14:25 GMT</pubDate>
     </item>
