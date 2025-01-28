@@ -4,9 +4,37 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Jan 2025 18:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 21:02:30 GMT</lastBuildDate>
     <item>
-      <title>是什么让人工智能模型变得“开源”？</title>
+      <title>Signal 为链接设备添加加密消息历史同步功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1icbu3u/signal_adds_encrypting_message_history_sync_for/</link>
+      <description><![CDATA[Signal 正在推出一项新功能，允许用户在将主设备链接到新桌面或 iPad 时传输消息历史记录。以前，只有新消息会同步到链接的设备，但现在用户可以随身携带聊天记录和最多 45 天的媒体 - 同时保持 Signal 严格的端到端加密。 此功能目前处于测试阶段，需要大量工程工作才能确保消息在整个传输过程中保持私密。与许多其他将用户数据存储在集中式服务器上的消息平台不同，Signal 通过确保消息历史记录只能在用户的设备上访问来优先保护隐私。这对在链接设备之间同步消息同时保持 Signal 最小数据暴露的核心原则提出了独特的挑战。 https://cyberinsider.com/signal-adds-encrypting-message-history-sync-for-linked-devices/    提交人    /u/KingSash   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1icbu3u/signal_adds_encrypting_message_history_sync_for/</guid>
+      <pubDate>Tue, 28 Jan 2025 20:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signal 为链接设备添加加密消息历史同步功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1icbu35/signal_adds_encrypting_message_history_sync_for/</link>
+      <description><![CDATA[Signal 正在推出一项新功能，允许用户在将主设备链接到新桌面或 iPad 时传输消息历史记录。以前，只有新消息会同步到链接的设备，但现在用户可以随身携带聊天记录和最多 45 天的媒体 - 同时保持 Signal 严格的端到端加密。 此功能目前处于测试阶段，需要大量工程工作才能确保消息在整个传输过程中保持私密。与许多其他将用户数据存储在集中式服务器上的消息平台不同，Signal 通过确保消息历史记录只能在用户的设备上访问来优先保护隐私。这对在链接设备之间同步消息同时保持 Signal 最小数据暴露的核心原则提出了独特的挑战。 https://cyberinsider.com/signal-adds-encrypting-message-history-sync-for-linked-devices/    提交人    /u/KingSash   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1icbu35/signal_adds_encrypting_message_history_sync_for/</guid>
+      <pubDate>Tue, 28 Jan 2025 20:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>看来 Limited Run Games 违反了 PCSX 的 GPL 许可证来发布 Tomba！特别版</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ica0e7/seems_like_limited_run_games_violated_the_gpl/</link>
+      <description><![CDATA[  由    /u/DaemonBatterySaver  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ica0e7/seems_like_limited_run_games_violated_the_gpl/</guid>
+      <pubDate>Tue, 28 Jan 2025 19:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 Strava Statistics v0.4.0 已发布！添加了本地化、PWA 支持等</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ic9o8k/strava_statistics_v040_released_added/</link>
+      <description><![CDATA[嗨 r/opensource ！ 我很高兴地宣布 Strava Statistics `v0.4.0` 已于本周早些时候发布。  Strava Statistics 是一个自托管的 Web 应用程序，旨在为您提供更好的 Strava 统计数据。   示例：https://strava-statistics.robiningelbrecht.be/ GitHub：https://github.com/robiningelbrecht/strava-statistics  警告 升级前请务必备份数据库。此版本具有从 v0.3.x 到 v0.4.0 的有效迁移路径，但由于后端进行了大规模改造，所以谨慎行事总比事后后悔好，对吧？😎 v0.4.0 中的新功能和改进：  添加了 PWA 支持。Web 应用程序现在可以安装在移动设备上 对后端进行了重大改造，应能减少 50% 的资源使用量 添加了本地化和翻译。 改进了跑步和步行活动的统计数据 添加了内部调度程序，使外部 cron 作业变得过时 修复了搜索、过滤和排序概览时的几个问题 改进了错误消息  Plannen 功能：https://github.com/robiningelbrecht/strava-statistics/issues 与往常一样，感谢您的反馈，我期待更多功能请求！    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ic9o8k/strava_statistics_v040_released_added/</guid>
+      <pubDate>Tue, 28 Jan 2025 19:18:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>是什么让人工智能模型“开源”？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ic714s/what_makes_an_ai_model_open_source/</link>
       <description><![CDATA[所以 deepseek r1 是目前最受追捧的东西。它的权重是在 MIT 下授权的，这应该本质上使它成为“开源”吧？ OSI 最近在 AI 背景下为开源制定了全面的定义。 根据他们的定义，如果 AI 系统授予用户以下自由，则被视为开源：  使用：无需寻求额外许可即可将系统用于任何目的。 研究：检查系统的工作原理并检查其组件以了解其功能。 修改：更改系统以满足特定需求，包括更改其输出。 共享：出于任何目的将系统分发给其他人，无论是否经过修改。  要使 AI 系统在 OSAID 下被认可为开源，它应满足以下要求：  数据信息：有关用于训练 AI 模型的数据的足够详细信息，包括其来源、选择、标记和处理方法。 代码：在 OSI 批准的许可下概述数据处理和训练的完整源代码。 参数：模型参数和中间训练状态，在 OSI 批准的条款下可用，允许修改和透明调整。  现在按照这个定义，Deepseek r1 不能被视为开源。因为它不提供数据信息和代码来重现。Huggingface 已经在对代码部分进行完整的 OSS 重现，但我们可能永远不会知道它是在什么数据上进行训练的。这同样适用于几乎所有大型语言模型，因为在盗版数据上进行训练是一种常见的做法。 本质上是一个开放权重模型，没有完整的重现步骤，类似于编译的二进制文件。它们可以被检查和修改，但程度不如原始代码。 但尽管如此，拥有开放权重模型仍然比拥有无法自托管的完全封闭模型要好得多。 请问你们对纯开源（OSI 兼容）和开放权重模型的看法。干杯 相关链接： https://www.infoq.com/news/2024/11/open-source-ai-definition/ https://opensource.org/ai    提交人    /u/nrkishere   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic714s/what_makes_an_ai_model_open_source/</guid>
@@ -29,7 +57,7 @@
     <item>
       <title>我使用 AI 为 SRE 构建了一个开源 VS 代码扩展</title>
       <link>https://www.reddit.com/r/opensource/comments/1ic5p0k/i_built_an_opensource_vs_code_extension_for_sres/</link>
-      <description><![CDATA[我构建了 Thufir：https://github.com/thufir-dev/thufir，一个开源 VS 代码扩展。 我认为我的标题并不能说明一切，但基本上我受到了continue.dev 和光标编辑器的启发，并决定构建一个 VS 代码扩展，帮助您使用 ssh 连接到本地/远程服务器并监控它们的运行状况。 我建立了与 Prometheus 的集成，并添加了聊天功能来帮助您将警报发送到您最喜欢的 LLM API。它仍处于测试阶段，我的目的是构建一个 SRE 代理，将其与 GitHub 集成并帮助进行根本原因分析，建议修复并查找是否有任何提交破坏了生产以及原因。 理想情况下，我希望代理甚至可以控制并通过访问终端等进行一些补救，就像作曲家所做的那样。我非常欢迎合作者，因为我对 Typescript 还不是很熟悉，任何想法都非常受欢迎。    提交人    /u/_twelvechess   [link] [评论]]]></description>
+      <description><![CDATA[我构建了 Thufir：https://github.com/thufir-dev/thufir，一个开源 VS 代码扩展。 我认为我的标题并不能说明一切，但基本上我受到了continue.dev 和光标编辑器的启发，并决定构建一个 VS 代码扩展，帮助您使用 ssh 连接到本地/远程服务器并监控它们的运行状况。 我建立了与 Prometheus 的集成，并添加了聊天功能来帮助您将警报发送到您最喜欢的 LLM API。它仍处于测试阶段，我的目的是构建一个 SRE 代理，将其与 GitHub 集成并帮助进行根本原因分析，建议修复并查找是否有任何提交破坏了生产以及原因。 理想情况下，我希望代理甚至可以控制并通过访问终端等进行一些补救，就像作曲家所做的那样。我非常欢迎合作者，因为我对 Typescript 还不是很熟悉，所以任何想法都非常受欢迎。    提交人    /u/_twelvechess   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic5p0k/i_built_an_opensource_vs_code_extension_for_sres/</guid>
       <pubDate>Tue, 28 Jan 2025 16:37:36 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我找到了一些开源选项，但它们似乎要么是几年前更新的，要么是粗略的。我想要一个可以打开任何图像文件的东西。    提交人    /u/ProperNomenclature   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ibe8a8/whats_a_good_foss_image_viewer_im_thinking_the/</guid>
       <pubDate>Mon, 27 Jan 2025 17:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deepseek 是开源的，这是否会对 Nvidia 的估值构成威胁？（想想微软和苹果的诉讼，尽管比尔盖茨败诉了，但从长远来看，这对他有利。）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ibcl5h/is_the_fact_that_deepseek_is_open_source_a_threat/</link>
-      <description><![CDATA[想法？您会买入 NVIDIA 股票下跌还是袖手旁观？    由   提交  /u/Impossible-Pen-9090   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ibcl5h/is_the_fact_that_deepseek_is_open_source_a_threat/</guid>
-      <pubDate>Mon, 27 Jan 2025 16:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Unity 和 Godot 游戏列表！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ibc640/open_source_unity_and_godot_games_lists/</link>
-      <description><![CDATA[对于那些对游戏开发感兴趣的人： 开源 Godot 游戏：https://github.com/akinmustafa/awesome-godot-games 开源 Unity 游戏：https://github.com/akinmustafa/awesome-unity-games    提交人    /u/mustydev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ibc640/open_source_unity_and_godot_games_lists/</guid>
-      <pubDate>Mon, 27 Jan 2025 15:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slack 与 Discord 能否围绕开源项目发展社区？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ib8z8d/slack_vs_discord_to_grow_a_community_around_an/</link>
-      <description><![CDATA[我管理一个小型的、只是为了好玩的开源项目，有一群核心贡献者，我想开始在自己的网络之外更广泛地分享我的项目，并发展一个对项目感兴趣的人的社区。我想这个社区会成为人们分享想法和反馈、询问有关设置和贡献的问题以及与对项目感兴趣的其他人联系的地方。  现在我和我的小组（大约 5 名开发人员）正在使用 Slack，但我想知道哪个平台更适合建立一个更大的社区——Slack 还是 Discord，或者两者兼而有之？我是这两个平台上各种社区的成员，但只是想知道其他人的观点是什么，以及每个平台是否有任何优点/缺点？    提交人    /u/abigail-dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ib8z8d/slack_vs_discord_to_grow_a_community_around_an/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个用于查看多个流的开源工具：StreamGrid</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ib8qzr/i_built_an_opensource_tool_for_viewing_multiple/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在做的项目：StreamGrid，一个用于在可自定义的网格布局中观看和管理多个流的开源应用程序。它最初是一个个人项目，旨在帮助我监控多个实时新闻提要，但我意识到它对其他人也可能有帮助。 为什么选择 StreamGrid？  🎥 在您设计的布局中同时查看多个流（直播或 VOD）。 🖱️ 拖放流以重新排列，并实时调整其大小。 💾 使用导入/导出功能保存和共享您的布局。 🌐 完全支持 M3U8 流和常见的流格式，如 HLS 和 MP4。 🚀 使用 Electron、React 和 TypeScript 构建，它是跨平台的（Windows、macOS、Linux）。  该应用程序是免费和开源的，我希望社区能够尝试一下，分享反馈，甚至贡献！ 👉 在 GitHub 上查看 感谢您的关注，如果您有任何想法或疑问，请告诉我！    提交人    /u/Suit-Turbulent   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ib8qzr/i_built_an_opensource_tool_for_viewing_multiple/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:16:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
