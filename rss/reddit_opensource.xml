@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Jan 2025 00:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 06:02:19 GMT</lastBuildDate>
+    <item>
+      <title>作为业余开发人员，您可以成为优秀的 OSS 代码贡献者吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</link>
+      <description><![CDATA[我正在追求一份独立的职业，但我已经编码大约一年了，我很高兴能在空闲时间继续编程 我计划在可预见的未来继续编码，甚至找到一个开源项目开始做出贡献。 你们见过非专业开发人员成为 OSS 项目的宝贵贡献者吗？ 无论如何，我最感兴趣的是修复错误和测试，对做我觉得更高级的大型新功能不感兴趣，而且根据我的经验，这通常由全职维护人员完成。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</guid>
+      <pubDate>Tue, 28 Jan 2025 02:22:02 GMT</pubDate>
+    </item>
     <item>
       <title>[Eric Migicovsky] 我们为何要重新推出 Pebble</title>
       <link>https://www.reddit.com/r/opensource/comments/1ibm561/eric_migicovsky_why_were_bringing_pebble_back/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我克隆了 Cal .com repo 并尝试在我的计算机上设置该项目。我必须安装 Postgres，在 Prisma studio 中创建一些记录，然后登录。该应用程序非常慢。仅在页面之间导航就花了几分钟。顺便说一下，我是在 Mac 上运行它的。我决定从 gitpod 运行该应用程序，但它稍微快一点。总的来说，这是一次令人沮丧的体验。是因为我的 8gb 内存还是其他原因？我的意思是我如何解决这个问题。repo 的链接：https://github.com/calcom/cal.com    提交人    /u/DixGee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</guid>
       <pubDate>Sun, 26 Jan 2025 16:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nutrium 的替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</link>
-      <description><![CDATA[因此，我正在寻找 Nutrium 的开源和/或自托管替代方案。 对于那些不知道的人来说，Nutrium 基本上是一个面向营养师、诊所和客户的一体化平台，营养师可以在其中为客户即时创建饮食计划，并计算不同的常量营养素、卡路里和所有这些东西。 我实际上不需要整个客户端界面/诊所管理部分，主要是饮食计划的创建和保存。 有什么建议吗？谢谢    提交人    /u/Beanerrr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</guid>
-      <pubDate>Sun, 26 Jan 2025 14:46:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
