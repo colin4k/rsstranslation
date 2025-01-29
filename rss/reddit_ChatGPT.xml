@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Wed, 29 Jan 2025 06:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 12:03:01 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 与 Deepseek</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn55o/chatgpt_vs_deepseek/</link>
-      <description><![CDATA[所以，像所有人一样，我也读过这个新闻。现在，假设我想切换到 Deepseek 作为日常助手，但又不想丢失 ChatGPT 一年多的历史记录  我可以将提示和答案从一个迁移到另一个吗？     提交人    /u/RandomManCommenting   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn55o/chatgpt_vs_deepseek/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:54:01 GMT</pubDate>
+      <title>使用 ChatGPT 进行上下文控制：将聊天转变为对话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ics7yy/context_control_with_chatgpt_transform_chat_into/</link>
+      <description><![CDATA[      大多数人将 LLM 视为随意的聊天机器人 — — 简短的查询、零散的想法、没有真正的连续性。但是，如果你可以将 ChatGPT 变成一个先进的结构化对话系统，能够在多个会话中进行长期、有组织的讨论，那会怎样呢？ 我开发了一种名为“上下文转移”的技术，它可以绕过上下文缓冲区限制，并允许持久、结构化和不断发展的 AI 对话。我们可以让 ChatGPT 像一个认真的对话伙伴而不是转瞬即逝的聊天伙伴一样工作，而不是因为短期记忆的空白而失去洞察力。 🔹 核心技术 1️⃣ 上下文开始 - 在参与之前，有意义地命名聊天并概述关键主题、问题和问题。良好的开端奠定了基础。 2️⃣ 上下文转移 - 定期请求 AI 生成的笔记/摘要，以将远程上下文“转移”到更接近聊天结束的位置，防止由于缓冲区限制而导致的丢失。这种技术允许无限长的对话而不会失去连贯性。 3️⃣ 上下文保存 – 使用输入注释（起始上下文）和留下注释（最终摘要）将结构化的聊天历史记录存储在 MS Word 文件中。这些文件可以重新启动或合并不同会话之间的讨论。 4️⃣ 上下文扫描 – 将保存的上下文重新加载到新聊天中。可以组合多个上下文文件，从而创建知识集成系统。 5️⃣ 提取文件 – 将关键 AI 响应保存为直接 LLM 输出档案，与上下文注释不同。这可作为洞察的参考数据库。 🔹 为什么这很重要 ✅ 避免上下文丢失 – 在 100 多页的对话中保持连贯性。 ✅ 实现研究级深度 – 超越表面级的问答。 ✅ 促进严肃工作 – 结构化 AI 交互，用于写作、编码和战略思考。 ✅ 将 ChatGPT 变成知识管理工具 – 不是每次都从头开始，而是像真正的对话伙伴一样在过去的洞察基础上构建。 🔹 前进 我分享这些技术是为了帮助高级用户、研究人员和开发人员从 LLM 中获得更多收益。如果你想将AI用作结构化思维工具，而不仅仅是随意的聊天机器人，那么让我们一起讨论和完善这些方法吧。 https://preview.redd.it/0yx5dpifaxfe1.jpg?width=1024&amp;format=pjpg&amp;auto=webp&amp;s=5019e4a8f9981216d9f8640729fa6fac107fdc17    submitted by    /u/PaulMielcarz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ics7yy/context_control_with_chatgpt_transform_chat_into/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:02:42 GMT</pubDate>
     </item>
     <item>
-      <title>阿里巴巴发布 AI 模型，声称超越 DeepSeek-V3</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn4y4/alibaba_releases_ai_model_it_claims_surpasses/</link>
-      <description><![CDATA[       由    /u/Snowfish52  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn4y4/alibaba_releases_ai_model_it_claims_surpasses/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:53:38 GMT</pubDate>
+      <title>我只使用 ChatGPT 但是...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ics7ck/i_only_use_chatgpt_but/</link>
+      <description><![CDATA[我们能不能别再对人工智能平台那么精英化了？是的，不同国家制造了不同的人工智能，它们有着不同的价值观。但他妈的。人工智能的进步就是人工智能的进步。每个人工智能在某些领域都比其他领域更好。事情就是这样。如果你不喜欢一个平台，就闭嘴，不要使用它。不是每个人都需要知道每一个想法和冲动去批评你不喜欢的东西。我们不要把这变成一些奇怪的 Xbox 与 Playstation 的废话，我们已经到了 2025 年。这毫无意义。它没那么深奥。    提交人    /u/Sun-607   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ics7ck/i_only_use_chatgpt_but/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:01:42 GMT</pubDate>
     </item>
     <item>
-      <title>我的 chatgpt 坏了....</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn48f/my_chatgpt_is_broken/</link>
-      <description><![CDATA[有一次我想继续我的故事....我进入 chatgpt 却只看到“开始”屏幕...我输入了我的电子邮件...它又回到了“开始”屏幕！我想我再也无法使用 chatgpt 了... （已经给他们发了电子邮件）    提交人    /u/Ok-Jump-5763   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn48f/my_chatgpt_is_broken/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:52:20 GMT</pubDate>
+      <title>不久之后，他们拥有的就不仅仅只有这两个了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ics4q6/theyll_have_more_than_just_these_two_after_long/</link>
+      <description><![CDATA[        提交人    /u/3rrr6   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ics4q6/theyll_have_more_than_just_these_two_after_long/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:57:26 GMT</pubDate>
     </item>
     <item>
-      <title>😥</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn3vq/_/</link>
-      <description><![CDATA[        提交人    /u/acchnAsquare   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn3vq/_/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:51:43 GMT</pubDate>
+      <title>你怎么认为？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ics321/what_do_you_think/</link>
+      <description><![CDATA[        提交人    /u/itailitai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ics321/what_do_you_think/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:54:17 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 DeepSeek 如此受追捧？它真的比 ChatGPT 更好吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn2ss/why_so_much_hype_for_deepseek_is_it_actually/</link>
-      <description><![CDATA[所以我现在在 Reddit、YouTube、Twitter 等各处都看到 DeepSeek AI，他们中的一些人说它是 ChatGPT 杀手，但我不明白它有什么特别之处，它真的那么好吗，还是只是另一个很快就会消失的人工智能趋势？我尝试使用它，是的，它当然看起来比 Meta AI 或 Gemini 更好，但不如 GPT，而且它有时响应有点慢，有几次因为流量大而出现错误，所以在我看来它还不错，但我并不认为它可以取代 ChatGPT 或其他什么，但也许在未来，如果他们在它上面投入更多精力，因为它是一家新公司，所以还有希望，我看到它是开源的，这真的是一件好事，它应该非常擅长研究和推理，但这对正常使用真的有影响吗？它真的更适合休闲聊天、写作和编码，还是只适合技术方面的东西？而且既然它是在中国制造的，他们有审查制度吗？比如它是否会避开某些话题之类的？我甚至尝试询问有关中国的问题，但似乎有点偏见，甚至 ChatGPT 也这样做，但无论如何，我只是想知道这里是否有人真的尝试过这两种方法，如果你认为 DeepSeek 比 ChatGPT 更值得使用，它真的更好吗，还是人们只是无缘无故地炒作它？     提交人    /u/Irshath_rxn_444   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn2ss/why_so_much_hype_for_deepseek_is_it_actually/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:49:50 GMT</pubDate>
+      <title>DeepSeek 受到审查了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ics2fx/is_deepseek_censored/</link>
+      <description><![CDATA[        提交人    /u/TravelValuable4868   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ics2fx/is_deepseek_censored/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:53:12 GMT</pubDate>
     </item>
     <item>
-      <title>来吧 DeepSeek。不要用传感器。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn1fo/come_on_deepseek_dont_sensor_it/</link>
-      <description><![CDATA[        提交人    /u/Ok_Assumption1576   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn1fo/come_on_deepseek_dont_sensor_it/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:47:30 GMT</pubDate>
+      <title>有人能帮我解决这个问题吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icryy7/can_anyone_help_me_with_fixing_this/</link>
+      <description><![CDATA[        提交人    /u/Jerealistic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icryy7/can_anyone_help_me_with_fixing_this/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>与 ChatGPT 进行比较后，DeepSeek 给出了答案</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn0s0/deepseek_gives_answers_after_i_compare_it_to/</link>
-      <description><![CDATA[      觉得它改变主意的速度真快，真有趣哈哈    提交人    /u/MsCardeno   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn0s0/deepseek_gives_answers_after_i_compare_it_to/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:46:18 GMT</pubDate>
+      <title>我不知道该怎么回复她</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icryo5/idk_what_to_reply_to_her/</link>
+      <description><![CDATA[        提交人    /u/Unlikely_Mastodon983   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icryo5/idk_what_to_reply_to_her/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:46:14 GMT</pubDate>
     </item>
     <item>
-      <title>网站关闭了吗？还是我的网站无法使用？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icn04i/is_the_site_down_or_is_mine_just_not_working/</link>
-      <description><![CDATA[  由    /u/Glittering-Cow-5529  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icn04i/is_the_site_down_or_is_mine_just_not_working/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:45:10 GMT</pubDate>
+      <title>其实非常有趣的AI🤣🐸</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrynf/actually_very_funny_ai/</link>
+      <description><![CDATA[        提交人    /u/sevensky77   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrynf/actually_very_funny_ai/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:46:11 GMT</pubDate>
     </item>
     <item>
-      <title>Deepseek 只是 OpenAI 催生的另一种人工智能……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmztc/deepseek_is_just_another_ai_spawned_by_openai/</link>
-      <description><![CDATA[      强化学习，我操。他们只是让 OpenAI 训练一个基本模型，然后将其作为创新进行营销。     由    /u/thhvancouver 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmztc/deepseek_is_just_another_ai_spawned_by_openai/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:44:37 GMT</pubDate>
+      <title>DeepSeek 在句子中间改变了主意</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrxji/deepseek_changes_its_mind_mid_sentence/</link>
+      <description><![CDATA[       由    /u/coffein12  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrxji/deepseek_changes_its_mind_mid_sentence/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>就这么快！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrvb2/just_so_quick/</link>
+      <description><![CDATA[        提交人    /u/wahvinci   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrvb2/just_so_quick/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:40:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 生成的音乐视频“伏地魔的周末”。ChatGPT 负责歌词，Suno.ai 负责音乐，Dashtoon Studio 负责图片。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrudb/ai_generated_music_video_weekend_at_voldemorts/</link>
+      <description><![CDATA[        提交人    /u/saltymim0sa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrudb/ai_generated_music_video_weekend_at_voldemorts/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>当然不能...</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrucu/of_course_you_cant/</link>
+      <description><![CDATA[        提交人    /u/fersher02   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrucu/of_course_you_cant/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有可以修复照片中脸部的人工智能应用或网站。我感觉我的脸在照片中总是显得很奇怪。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrt0d/is_there_an_ai_app_or_website_that_fixes_your/</link>
+      <description><![CDATA[有没有可以修复照片中脸部的人工智能应用或网站？我觉得我的脸在照片中总是显得很奇怪。     提交人    /u/diloFrame   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrt0d/is_there_an_ai_app_or_website_that_fixes_your/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 的普通用户能不能别再用天安门广场之类的愚蠢问题来骚扰 DeepSeek？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrqn3/can_you_chatgpt_casuals_please_stop_trolling/</link>
+      <description><![CDATA[我正在使用 DeepSeek 撰写一本高质量的三部分老奶奶同性恋色情小说，但过度的恶意攻击导致了严重的服务器问题并扰乱了我的思路！ 难以置信！    提交人    /u/youngfool999   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrqn3/can_you_chatgpt_casuals_please_stop_trolling/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:31:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>它确实有效</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrnbk/it_actually_worked/</link>
+      <description><![CDATA[        提交人    /u/poomon1234   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrnbk/it_actually_worked/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是什么</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrn6s/wth_is_this/</link>
+      <description><![CDATA[      https://preview.redd.it/wyzegmxx3xfe1.png?width=1170&amp;format=png&amp;auto=webp&amp;s=c0b43589e97f6900898f54095b2e8555defe7bf5 兄弟，这是什么 chatgpt 你是傻子吗 这是一个故障吗？我什么也没做   由    /u/mint_chocolateuwu1  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrn6s/wth_is_this/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tifu 通过要求 chatgpt 为我写 tifu 故事</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrn39/tifu_by_asking_chatgpt_to_write_me_tifu_stories/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrn39/tifu_by_asking_chatgpt_to_write_me_tifu_stories/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:24:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 5E GPT 创建叙述框架，已达到我的免费限制，值得购买 Plus 吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrjxx/using_a_5e_gpt_to_create_a_narrative_framework/</link>
+      <description><![CDATA[  由    /u/Fragmented-Rooster  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrjxx/using_a_5e_gpt_to_create_a_narrative_framework/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:19:04 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 称有证据表明中国的 DeepSeek 使用其模型来训练竞争对手</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmx19/openai_says_it_has_evidence_chinas_deepseek_used/</link>
-      <description><![CDATA[        由    /u/Creative_soja 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmx19/openai_says_it_has_evidence_chinas_deepseek_used/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:39:45 GMT</pubDate>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrh16/openai_says_it_has_evidence_chinas_deepseek_used/</link>
+      <description><![CDATA[        由    /u/PearAware3171  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrh16/openai_says_it_has_evidence_chinas_deepseek_used/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:13:28 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 出现幻觉拜登是总统，这是反向 Qanon 阴谋吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmwlg/chatgpt_hallucinated_biden_is_president_is_this_a/</link>
-      <description><![CDATA[https://preview.redd.it/n52rjv2bevfe1.png?width=1035&amp;format=png&amp;auto=webp&amp;s=e080a39cb44a39ccdfc3606d50b8593faf305941    提交人    /u/Pashe14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmwlg/chatgpt_hallucinated_biden_is_president_is_this_a/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 绕过 CUDA 以提高效率</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmv7g/deepseek_bypassed_cuda_for_efficiency/</link>
-      <description><![CDATA[        提交人    /u/BABA_yaaGa   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmv7g/deepseek_bypassed_cuda_for_efficiency/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我儿子有时用波斯语思考</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmuru/my_o1_thinks_in_persian_sometimes/</link>
-      <description><![CDATA[        提交人    /u/MarkHirsbrunner   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmuru/my_o1_thinks_in_persian_sometimes/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 帮助我创作了这首电子歌曲，这首歌是关于你现在必须时刻证明自己不是机器人的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmqe1/chatgpt_helped_me_eq_this_electronic_song_about/</link>
-      <description><![CDATA[        由    /u/Sonic-Shadows  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmqe1/chatgpt_helped_me_eq_this_electronic_song_about/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:28:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>X战警：人工智能高清</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmpp9/xmen_ai_hd/</link>
-      <description><![CDATA[        提交人    /u/vargframe   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmpp9/xmen_ai_hd/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:27:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>并不比 chatgpt 好多少</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmp32/not_much_better_than_chatgpt/</link>
-      <description><![CDATA[        提交人    /u/IotaNine   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmp32/not_much_better_than_chatgpt/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝尝彩虹</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmmrt/taste_the_rainbow/</link>
-      <description><![CDATA[        提交人    /u/Shibbyman24   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmmrt/taste_the_rainbow/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我与 ChatGPT 的英语对话自动变成了中文标题？？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmmd1/my_english_conversations_with_chatgpt_are_being/</link>
-      <description><![CDATA[      https://preview.redd.it/xb0wqruvavfe1.png?width=99&amp;format=png&amp;auto=webp&amp;s=96d1f0d8f344edbe6fe70aada0a9cceb3ad606ed 对话是关于脱水的，ChatGPT 认为这是一个合适的标题。我以前就注意到了这一点。到目前为止，我认为这些情况只是个别案例。    提交人    /u/kpmtech   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmmd1/my_english_conversations_with_chatgpt_are_being/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deepseek 有什么好吹的？ChatGPT、Copilot 和 Gemini 更好。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmiub/whats_the_hype_about_deepseek_chatgpt_copilot_and/</link>
-      <description><![CDATA[问了一些基本问题，DeepSeek 要么无法回答，要么错了，要么出现幻觉并给出一半正确的答案。     提交人    /u/evil701   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmiub/whats_the_hype_about_deepseek_chatgpt_copilot_and/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>截至 2025 年 1 月 29 日，ChatGPT 仍未承认特朗普为总统</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1icmiqu/trump_still_not_recognized_as_president_by/</link>
-      <description><![CDATA[        提交人    /u/CautiousInspector113   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1icmiqu/trump_still_not_recognized_as_president_by/</guid>
-      <pubDate>Wed, 29 Jan 2025 05:15:35 GMT</pubDate>
+      <title>它实际上告诉我然后它就停止了。这是 deepseek 的局限性</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1icrgcs/it_was_actually_telling_me_then_it_stopped_theres/</link>
+      <description><![CDATA[         由    /u/Snovixity  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1icrgcs/it_was_actually_telling_me_then_it_stopped_theres/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:12:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

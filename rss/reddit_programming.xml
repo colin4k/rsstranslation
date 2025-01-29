@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 29 Jan 2025 06:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 12:03:17 GMT</lastBuildDate>
+    <item>
+      <title>多巴胺对编码的依赖——这是一种仪式</title>
+      <link>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</link>
+      <description><![CDATA[  由    /u/SpareCalendar4754  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ics665/dopamine_addiction_to_coding_its_a_ritual/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>安静危机：快速发展的技术环境中高级开发人员的价值被忽视</title>
+      <link>https://www.reddit.com/r/programming/comments/1ics5re/the_quiet_crisis_the_overlooked_value_of_senior/</link>
+      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ics5re/the_quiet_crisis_the_overlooked_value_of_senior/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地机器中的 Deepseek | Ollama | javascript AI App</title>
+      <link>https://www.reddit.com/r/programming/comments/1icrxwg/deepseek_in_local_machine_ollama_javascript_ai_app/</link>
+      <description><![CDATA[  由    /u/zorefcode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icrxwg/deepseek_in_local_machine_ollama_javascript_ai_app/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:44:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Memurai 真的是 Windows 上 Redis 的一个很好的替代品吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1icrq7z/is_memurai_actually_a_good_alternative_for_redis/</link>
+      <description><![CDATA[  由    /u/Electronic-Spend1481  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icrq7z/is_memurai_actually_a_good_alternative_for_redis/</guid>
+      <pubDate>Wed, 29 Jan 2025 11:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>你在 Go 应用程序中是否遇到过神秘的 goroutine 泄漏或无声故障？</title>
+      <link>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</link>
+      <description><![CDATA[  由    /u/StatisticianNo2104  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icr6oi/have_you_ever_faced_mysterious_goroutine_leaks_or/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:54:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>可组合 SQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</link>
+      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icqm0n/composable_sql/</guid>
+      <pubDate>Wed, 29 Jan 2025 10:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>交换链和帧同步（2021）</title>
+      <link>https://www.reddit.com/r/programming/comments/1icq34i/swapchains_and_frame_pacing_2021/</link>
+      <description><![CDATA[  由    /u/EightLines_03  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icq34i/swapchains_and_frame_pacing_2021/</guid>
+      <pubDate>Wed, 29 Jan 2025 09:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该把我的创业公司押注于凸</title>
+      <link>https://www.reddit.com/r/programming/comments/1icp00f/should_i_bet_my_startup_on_convex/</link>
+      <description><![CDATA[我正在 NextJS 上为房地产开发团队构建一个财务应用程序。协作预算、应付账款、报告、通知、评论等，其中一个用户的更新会显示给所有团队成员。 我想迭代产品，而不是构建实时基础设施或从第三方服务（如推送器）启动管道事件来更新用户界面。 我以前用过 Supabase，但一点也不喜欢它。 从纸面上看，Convex 听起来很棒。实时更新，样板最少。它可以为我节省大量时间，但采用不太成熟的平台会带来风险。 可扩展性：它能同时处理数千（或更多）用户吗？ Convex 表示，它是为扩展而构建的，但我还没有看到大量的大型生产示例。 定价：他们的免费套餐看起来不错，但在扩展方面，与其他解决方案相比如何？ 生态系统：Firebase、Supabase 或基于 AWS 的解决方案更常见，因此社区知识更多。 供应商锁定：我不是指它们是否是开源的。更多关于如果离开 Convex，需要删除多少代码。 我希望得到任何在生产环境中测试或使用过 Convex 的人的反馈——特别是如果您需要处理具有并发问题的实时数据。您对性能、可靠性和任何隐藏的陷阱的体验如何？或者你会引导我采用更可靠的实时方法。 提前感谢您的任何见解！我们正处于这个阶段，如果可能的话，我们希望选择一个“永久”堆栈，所以我很感激任何战争故事或成功故事。     提交人    /u/manis21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icp00f/should_i_bet_my_startup_on_convex/</guid>
+      <pubDate>Wed, 29 Jan 2025 08:06:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[指南] 如何在本地安装和运行 DeepSeek R-1</title>
+      <link>https://www.reddit.com/r/programming/comments/1icnvqr/guide_stepbystep_how_to_install_and_run_deepseek/</link>
+      <description><![CDATA[  由    /u/Amanpandey046  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1icnvqr/guide_stepbystep_how_to_install_and_run_deepseek/</guid>
+      <pubDate>Wed, 29 Jan 2025 06:43:45 GMT</pubDate>
+    </item>
     <item>
       <title>哈希函数：弥合理论与实践之间的差距 - Mikkel Thorup - Google 算法研讨会</title>
       <link>https://www.reddit.com/r/programming/comments/1icm986/hash_functions_bridging_the_gap_from_theory_to/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/felipec  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1icbz2i/c_idioms_its_the_processor_noob/</guid>
       <pubDate>Tue, 28 Jan 2025 20:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>“通过 Pi 探索 AI 驱动的 GPU 优化、自我重写代码和无限存储，以实现下一代计算系统”</title>
-      <link>https://www.reddit.com/r/programming/comments/1ica7s6/exploring_aidriven_gpu_optimization_selfrewriting/</link>
-      <description><![CDATA[  由    /u/EntrepreneurGlass485  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ica7s6/exploring_aidriven_gpu_optimization_selfrewriting/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitNation 上 2000 多个 React 和 JavaScript 演讲的西班牙语翻译</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic914x/spanish_translations_for_2000_react_and/</link>
-      <description><![CDATA[  由    /u/konteriy_smm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic914x/spanish_translations_for_2000_react_and/</guid>
-      <pubDate>Tue, 28 Jan 2025 18:52:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何理解截止日期（作为开发人员）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic6igw/how_to_understand_deadlines_as_a_developer/</link>
-      <description><![CDATA[  由    /u/mixteenth  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic6igw/how_to_understand_deadlines_as_a_developer/</guid>
-      <pubDate>Tue, 28 Jan 2025 17:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>降低 AST 以逃避类型检查</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</link>
-      <description><![CDATA[  由    /u/thunderseethe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic4zde/lowering_our_ast_to_escape_the_typechecker/</guid>
-      <pubDate>Tue, 28 Jan 2025 16:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tilted 0.4.0 – 轻量级 TS 库，用于以现代 2.5D 方式显示地图和其他类似内容。向光标滑动时可平滑缩放，轻松实现多维视觉效果、拖动等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</link>
-      <description><![CDATA[  由    /u/Anbeeld  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic3wiy/tilted_040_lightweight_ts_library_for_displaying/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:20:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用团队拓扑和平台工程实现快速流动 • Manuel Pais 和 Julian Wood</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic3s7p/tap_into_fast_flow_w_team_topologies_platform/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>你应该知道的 5 个运算符：Angular 中的 RxJS</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic3glc/5_operators_you_should_know_rxjs_in_angular/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic3glc/5_operators_you_should_know_rxjs_in_angular/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Linux-Xfce 制作（尝试）一个平铺管理器，以粗略地复制 Windows 中的“Snap-Layout”功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic3ewk/made_tried_to_a_tiling_manager_for_linuxxfce_to/</link>
-      <description><![CDATA[  由    /u/BeyondMoney3072  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic3ewk/made_tried_to_a_tiling_manager_for_linuxxfce_to/</guid>
-      <pubDate>Tue, 28 Jan 2025 14:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地运行的 Devin 的开源替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1ic2up1/opensource_alternative_to_devin_you_run_locally/</link>
-      <description><![CDATA[  由    /u/No_Palpitation9532  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ic2up1/opensource_alternative_to_devin_you_run_locally/</guid>
-      <pubDate>Tue, 28 Jan 2025 14:32:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
