@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 29 Jan 2025 15:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 21:02:01 GMT</lastBuildDate>
+    <item>
+      <title>最近，我开始了一个简单的开源项目，用 BLAZINGLY ⚡ 快速虚拟工作区取代 macOS Spaces。切换之间不再有延迟和动画！🔥 欢迎加入并做出贡献！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1id42jb/recently_i_started_a_simple_opensource_project/</link>
+      <description><![CDATA[        提交人    /u/john_snow_968   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1id42jb/recently_i_started_a_simple_opensource_project/</guid>
+      <pubDate>Wed, 29 Jan 2025 20:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在发布开源版本之前我应该​​检查代码中的哪些内容？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1id2jl0/what_should_i_check_in_the_code_before_releasing/</link>
+      <description><![CDATA[上下文：我正在开发 Dobble，这是一个开源项目，旨在成为高度可定制的聊天。它支持多种模型（GPT、Claude、Perplexity 等）、一个屏幕上的多个聊天、一个提示库，以及（很快）带有点赞系统的增强型 GPT 界面。我发现它非常有用，尤其是快捷方式功能。 我现在正在准备代码库以进行开源发布。它是用 NextJS 构建的，可轻松部署在 Vercel 上。我的目标是创建类似 Wordpress 但用于聊天的东西。为此，我创建了一个插件部分，允许用户添加自定义功能 + 设置页面。将来您将能够轻松下载插件。 我是否应该要求用户设置一个数据库来存储提示和历史记录，或者静态文件是否足够。 在开源发布代码之前，我应该检查代码中的哪些内容？     由    /u/Euphoric_Weather_864 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1id2jl0/what_should_i_check_in_the_code_before_releasing/</guid>
+      <pubDate>Wed, 29 Jan 2025 19:39:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源视频转录工具-兼容本地AI模型</title>
+      <link>https://www.reddit.com/r/opensource/comments/1id0gnd/open_source_video_transcription_tool_local_ai/</link>
+      <description><![CDATA[大家好！周末，在查看了转录服务价格高得离谱的云选项（Otter 等）后，借助 Deepseek R1（使用 Python/Streamlit 和开放的 Al whisper）构建了一个本地运行的视频转录器。未来更新 - 更好的摘要、电子邮件转录、在文件夹中存储新视频文件时自动转录。 查看一下，让我知道还可以做哪些改进 GitHub 链接如下： https://github.com/DataAnts-AI/VideoTranscriber YouTube 演示：https://youtu.be/Ak5PqxYXz7g   由    /u/t1092  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1id0gnd/open_source_video_transcription_tool_local_ai/</guid>
+      <pubDate>Wed, 29 Jan 2025 18:15:57 GMT</pubDate>
+    </item>
     <item>
       <title>可能比 PowerToys 键盘重新映射更好的替代方案，具有附加功能 - 开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1ictz8o/possibly_better_alternatives_for_powertoys/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我构建了 Thufir：https://github.com/thufir-dev/thufir，一个开源 VS 代码扩展。 我认为我的标题并不能说明一切，但基本上我受到了continue.dev 和光标编辑器的启发，并决定构建一个 VS 代码扩展，帮助您使用 ssh 连接到本地/远程服务器并监控它们的运行状况。 我建立了与 Prometheus 的集成，并添加了聊天功能来帮助您将警报发送到您最喜欢的 LLM API。它仍处于测试阶段，我的目的是构建一个 SRE 代理，将其与 GitHub 集成并帮助进行根本原因分析，建议修复并查找是否有任何提交破坏了生产以及原因。 理想情况下，我希望代理甚至可以控制并通过访问终端等进行一些补救，就像作曲家所做的那样。我非常欢迎合作者，因为我对 Typescript 还不是很熟悉，任何想法都非常受欢迎。    提交人    /u/_twelvechess   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic5p0k/i_built_an_opensource_vs_code_extension_for_sres/</guid>
       <pubDate>Tue, 28 Jan 2025 16:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sirang-基于 QUIC 的正向和反向 TCP 隧道</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</link>
-      <description><![CDATA[       提交人  /u/Icelain  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</guid>
-      <pubDate>Tue, 28 Jan 2025 15:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>光环人工智能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic2mkv/aura_ai/</link>
-      <description><![CDATA[      介绍 aura ai 用于构建基于 React 的前端网站的开源微型 AI 代理。使用@google Gemini 2.0 flash 100% 免费。    由    /u/cxsmicguy 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic2mkv/aura_ai/</guid>
-      <pubDate>Tue, 28 Jan 2025 14:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>花费大量时间和精力在这个 Python 项目上。我希望这对任何人都有用。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic24t8/spend_lots_of_time_and_effort_with_this_python/</link>
-      <description><![CDATA[https://github.com/irfanbroo/Netwarden 它的作用基本上是使用 Wireshark 捕获实时网络流量，分析数据包中是否存在可疑活动，例如恶意 DNS 查询、潜在的 SYN 扫描和异常大的数据包。通过集成 Nmap，它还可以执行漏洞扫描以评估联网系统的安全性，帮助检测潜在威胁。我还添加了 netcat、nmap arm 欺骗检测等。 我非常感谢任何使这个脚本更优化和更高效的建议。    提交人    /u/Complete-Flounder-46   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic24t8/spend_lots_of_time_and_effort_with_this_python/</guid>
-      <pubDate>Tue, 28 Jan 2025 13:58:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
