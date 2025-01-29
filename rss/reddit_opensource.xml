@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 29 Jan 2025 12:03:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 15:02:22 GMT</lastBuildDate>
+    <item>
+      <title>可能比 PowerToys 键盘重新映射更好的替代方案，具有附加功能 - 开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ictz8o/possibly_better_alternatives_for_powertoys/</link>
+      <description><![CDATA[大家好！我以前经常使用 PowerToys，尤其是键盘重新映射功能。我专门为键盘重新映射安装它，所以我很少使用其他功能。而且我发现每当我需要使用它时总是导航到键盘重新映射非常不方便。为什么 PowerToys 没有某种可以直接打开键盘重新映射的快捷方式。PowerToys 还缺少我需要使用的一些功能，例如多次重新映射，因此每当我想更改它时都不需要设置重新映射。 这就是为什么我制作了一个键盘重新映射，它不仅具有 PowerToys 的一些功能，而且还具有我发现 PowerToys 上缺少的附加功能。因此，这里是 PowerToys 和此替代方案之间的区别和相似之处，也是此替代方案的联系和缺点。 ------------------------------------------------------------------------------------------------------------------ 如果您想使用它或只是想查看它，这里是链接： 网站：https://keytik.com GitHub：https://github.com/Fajar-RahmadJaya/KeyTik 我也很乐意接受任何意见、建议或问题。非常感谢！ --------------------------------------------------------------------------------------------------- 相似性  常规重新映射或单个按键重新映射。 重新映射快捷方式。 在特定程序或应用上重新映射。 不是系统或注册表级别的重新映射。 重新映射在后台或启动时运行。 自动接受按键输入。按下该键，它将把该键作为输入。 仅限 Windows。  附加功能  重新映射鼠标键。 在特定设备（键盘或鼠标）上重新映射。重新映射仅适用于特定的键盘或鼠标 ID，而不会影响其他键盘或鼠标。 在特定程序类上重新映射。不仅在整个程序上，而且在程序类上，例如：特定的 chrome 标签。还支持同时使用多个程序。 多重重新映射（创建一个重新映射设置，保存它，然后您可以根据需要激活或停用它。这就像某种重新映射设置保存）。 重新映射到文本（可以模拟打字，例如：按 F9 将自动输入“感谢您的参与”）。 少于 100 MB。 使用快捷方式激活。不是重新映射快捷方式，而是使用快捷方式激活重新映射。这意味着您可以按下您选择的快捷方式来停止重新映射，然后再次按下它以重新启动重新映射。 您可以选择是否在启动时运行重新映射。 将键重新映射到自动点击器、屏幕点击器或文件打开器，例如：按左移将启动自动点击器或屏幕点击器或打开多个文件。目前是代码形式，我计划在下次更新时为其制作一个 UI。 免费和开源。 2 种模式，默认模式（GUI 模式，最简单、最容易的模式只需填写并单击）和文本或代码模式（高级模式，您可以在线找到 AutoHotkey 脚本并粘贴到其中，然后可以将其分配给特定的程序、设备或快捷方式）。  缺点  PowerToys UI 可能会更好。 这只是我做的，所以可能不完美，但我会尽力改进它。 需要额外的设置，但相对容易。  截图预览 ![img](yzz7c6mbbxfe1 &quot;主窗口&quot;) ![img](q4mj6iocbxfe1 &quot;带快捷键的默认模式&quot;) ![img](2kpbjxtebxfe1 &quot;带快捷键的文本或代码模式&quot;) ![img](71hnpigfbxfe1 &quot;重新映射格式示例&quot;) ![img](ks4eqpxfbxfe1 &quot;使用下拉菜单选择键&quot;) ![img](fhxnkmlgbxfe1 &quot;在特定设备上分配重新映射&quot;) ![img](q9at7y4hbxfe1 &quot;在特定程序上分配重新映射&quot;) ![img](udzuoishbxfe1 &quot;分配设备和程序示例”）    由   提交  /u/National_Operation14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ictz8o/possibly_better_alternatives_for_powertoys/</guid>
+      <pubDate>Wed, 29 Jan 2025 13:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有良好 ML 背景的 Swift 开发人员来指导 GSOC</title>
+      <link>https://www.reddit.com/r/opensource/comments/1icse68/looking_for_swift_developer_with_good_ml/</link>
+      <description><![CDATA[High，我们是一个维护开源项目的组织（非常小）。我们正在考虑创建一个使用 swift 和 CoreML 模型的项目，为我们的项目构建一个 macOS 应用程序。  如果您想在 GSOC（Google summer of code）作为导师与我们合作，请在此处发送 DM 或发表评论。只需介绍一下自己并包括您的 github。 - 您必须具有使用 swift 的实际经验 - 对 ML 和 DL 也有很好的了解 - 您应该很清楚什么是 GSOC    提交人    /u/0ssamaak0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1icse68/looking_for_swift_developer_with_good_ml/</guid>
+      <pubDate>Wed, 29 Jan 2025 12:13:15 GMT</pubDate>
+    </item>
     <item>
       <title>NativeAppTemplate-Free-iOS 和 Android：具有内置用户身份验证的现代、生产就绪应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1icrs7s/nativeapptemplatefreeios_android_modern/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>操纵开源空间的公司</title>
       <link>https://www.reddit.com/r/opensource/comments/1ickvdz/companies_manipulating_open_source_space/</link>
-      <description><![CDATA[（版主，如果我的风格不正确，请告诉我） 好吧，先介绍一下背景，我是一名视频评论家，最近我制作了一个视频，内容是一家操纵开源空间的公司。自从视频发布以来，我对发生的事情有了更多的了解。 长话短说，这家公司收购了一个开源软件的托管网站，然后更改了页面设计，以隐藏他们不再是开源软件的事实，同时在下载中几乎没有任何警告地推销自己的产品。通过这样做，他们基本上可以买下“开源（在此处插入软件类型）”的搜索引擎结果，并诱骗人们下载他们的东西。从那以后，情况只会变得更糟。 我正在考虑制作一个后续视频，并试图找出这是否是新事物，或者社区中的其他人是否曾经见过或遇到过这种情况。因为尽管上述案例在技术上是合法的，但却非常卑鄙和具有操纵性，但它仍然不是最糟糕的情况，因为相同的过程可用于让人们（尤其是外行）下载恶意软件或类似的东西。  如果有人见过类似的事情，请告诉我。即使只是公司伸出援手购买开源软件的托管网站，我也想听听您的经历。如有需要，请随时给我发私信。     提交人    /u/benderboyboy   [链接] [评论]]]></description>
+      <description><![CDATA[（版主，如果我的风格不正确，请告诉我） 好吧，先介绍一下背景，我是一名视频评论家，最近我制作了一个视频，内容是一家操纵开源空间的公司。自从视频发布以来，我对发生的事情有了更多的了解。 长话短说，这家公司收购了一个开源软件的托管网站，然后更改了页面设计，以隐藏他们不再是开源软件的事实，同时在下载中几乎没有任何警告地推销自己的产品。通过这样做，他们基本上可以买下“开源（在此处插入软件类型）”的搜索引擎结果，并诱骗人们下载他们的东西。从那以后，情况只会变得更糟。 我正在考虑制作一个后续视频，并试图找出这是否是新事物，或者社区中的其他人是否曾经见过或遇到过这种情况。因为尽管上述案例在技术上是合法的，但却非常卑鄙和具有操纵性，但它仍然不是最糟糕的情况，因为相同的过程可用于让人们（尤其是外行）下载恶意软件或类似的东西。 如果有人见过类似的事情，请告诉我。即使只是公司伸出援手购买开源软件的托管网站，我也想听听您的经历。如有需要，请随时给我发私信。 澄清：该网站是直接从个人那里购买的，而不是从域名到期处购买的，并承诺区分产品，但后来没有兑现。该公司直接假装是他们购买的软件，隐藏了它们的真实面目。   由    /u/benderboyboy  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ickvdz/companies_manipulating_open_source_space/</guid>
       <pubDate>Wed, 29 Jan 2025 03:41:43 GMT</pubDate>
     </item>
@@ -111,7 +125,7 @@
       <pubDate>Tue, 28 Jan 2025 16:37:36 GMT</pubDate>
     </item>
     <item>
-      <title>Sirang-A 基于 QUIC 的正向和反向 TCP 隧道</title>
+      <title>Sirang-基于 QUIC 的正向和反向 TCP 隧道</title>
       <link>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</link>
       <description><![CDATA[       提交人  /u/Icelain  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic401h/siranga_forward_and_reverse_tcp_tunnel_over_quic/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://github.com/irfanbroo/Netwarden 它的作用基本上是使用 Wireshark 捕获实时网络流量，分析数据包中是否存在可疑活动，例如恶意 DNS 查询、潜在的 SYN 扫描和异常大的数据包。通过集成 Nmap，它还可以执行漏洞扫描以评估联网系统的安全性，帮助检测潜在威胁。我还添加了 netcat、nmap arm 欺骗检测等。 我非常感谢任何使这个脚本更优化和更高效的建议。    提交人    /u/Complete-Flounder-46   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ic24t8/spend_lots_of_time_and_effort_with_this_python/</guid>
       <pubDate>Tue, 28 Jan 2025 13:58:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找管理协会的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ic0nq8/looking_for_tools_to_manage_an_association/</link>
-      <description><![CDATA[大家好，我正在为我的协会寻求一些建议。目前我们主要使用 Google Drive、Slack 和 WhatsApp。我现在是团队中的“IT 人”。我想换成开源替代方案。我只知道 FramaSoft，但我想还有其他选择。我们主要需要一个 Drive、共享文件、通信和所有安全的东西。我不确定是否有钱购买专用服务器，所以可以在线使用，但部署在法国/欧洲。谢谢你的帮助！    提交人    /u/phiram   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ic0nq8/looking_for_tools_to_manage_an_association/</guid>
-      <pubDate>Tue, 28 Jan 2025 12:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源和自托管项目中的琥珀色旗帜</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ibzsve/amber_flags_in_open_source_selfhosted_projects/</link>
-      <description><![CDATA[  由    /u/ssddanbrown  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ibzsve/amber_flags_in_open_source_selfhosted_projects/</guid>
-      <pubDate>Tue, 28 Jan 2025 11:49:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
