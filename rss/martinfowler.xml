@@ -4,7 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>来自 martinfowler.com 的主要新闻和更新信息</description>
-    <lastBuildDate>Wed, 29 Jan 2025 18:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 21:03:14 GMT</lastBuildDate>
     <item>
       <title>使用 GenAI 构建能力图并转换遗留系统</title>
       <link>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</link>
@@ -15,18 +15,7 @@ Shodhan Sheth 完成了他们的文章，介绍了他们从使用 GenAI 处理�
 识别死代码区域，并有望更好地在平台和语言之间翻译系统。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GenAI 从遗留系统中提取低级细节和高级解释</title>
-      <link>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements</link>
-      <description><![CDATA[
-Alessio Ferri、Tom Coggrave 和
-Shodhan Sheth 使用 AST 驱动的
-知识图谱和 LLM 来了解遗留系统。他们发现它既可以帮助他们提取代码的低级细节，又可以提供高级解释来支持以人为本的方法，例如事件风暴。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:58 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:14 GMT</pubDate>
     </item>
     <item>
       <title>将 Strangler Fig 与移动应用程序结合使用</title>
@@ -35,7 +24,7 @@ Shodhan Sheth 使用 AST 驱动的
 我的同事经常参与对遗留系统的现代化改造，而我们的方法是循序渐进地进行。使用移动应用程序进行现代化改造会带来一些特定的挑战。Matthew Foster 和 John Mikel Amiel Regida 分享了他们最近参与的经验，从单片遗留应用程序转变为使用模块化微应用程序架构的应用程序。 
 更多…]]></description>
       <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:57 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:13 GMT</pubDate>
     </item>
     <item>
       <title>接受 Book Overflow 播客关于重构的采访</title>
@@ -43,7 +32,34 @@ Shodhan Sheth 使用 AST 驱动的
       <description><![CDATA[我在 Book Overflow 播客 上接受了有关 《重构》一书 的采访。我们讨论了这本书的起源、重构、测试和极限编程之间的关系、重构在实际中的应用，以及书籍和长篇散文在当今的作用。
 更多…]]></description>
       <guid>https://www.youtube.com/watch?v=CjCJ76oZXTE</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:57 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>评估在移动应用程序上使用 Strangler Fig 的结果</title>
+      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</link>
+      <description><![CDATA[
+Matthew Foster 和 John Mikel Amiel Regida 完成了他们如何通过查看工作成果逐步实现移动应用程序现代化的叙述。他们大大缩短了获得新价值的时间，并发现新应用程序中的更改可以在旧代码库所需时间的一半左右完成准备。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>深入了解 Strangler Fig 与移动应用的使用</title>
+      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026</link>
+      <description><![CDATA[
+Matthew Foster 和 John Mikel Amiel
+Regida 深入探讨了逐步现代化遗留移动应用程序的细节。 他们研究如何将绞杀者图植入现有应用程序，在新应用程序和旧应用程序之间建立双向通信，并确保对整个系统进行有效的回归测试。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索 Gen AI：Copilot 的新多文件编辑</title>
+      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</link>
+      <description><![CDATA[10 月底，GitHub Copilot 引入了一项非常强大的新编码辅助功能。这项新的“多文件编辑”功能将 AI 辅助的范围从小型本地化建议扩展到跨多个文件的更大规模实现。Birgitta Böckeler 试用了这项新功能，发现它的更改往往非常有用，并想知道它们需要哪些反馈循环。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:11 GMT</pubDate>
     </item>
     <item>
       <title>在 Bluesky 上发帖，以及在社交媒体上发表其他想法</title>
@@ -54,52 +70,7 @@ Shodhan Sheth 使用 AST 驱动的
 我还整理了我对社交媒体现状的总体看法，以及我如何使用社交媒体，现在距离马斯克沃事件已经过去了两年。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/2024-social-media.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>评估在移动应用程序上使用 Strangler Fig 的结果</title>
-      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</link>
-      <description><![CDATA[
-Matthew Foster 和 John Mikel Amiel Regida 完成了他们如何通过查看工作成果逐步实现移动应用程序现代化的叙述。他们大大缩短了获得新价值的时间，并发现新应用程序中的更改可以在旧代码库所需时间的一半左右完成准备。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入了解 Strangler Fig 与移动应用的使用</title>
-      <link>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026</link>
-      <description><![CDATA[
-Matthew Foster 和 John Mikel Amiel
-Regida 深入探讨了逐步现代化遗留移动应用程序的细节。 他们研究如何将绞杀者图植入现有应用程序，在新应用程序和旧应用程序之间建立双向通信，并确保对整个系统进行有效的回归测试。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计数据产品：从用例开始逆向思考</title>
-      <link>https://martinfowler.com/articles/designing-data-products.html</link>
-      <description><![CDATA[
-业界越来越多地将创建数据产品作为分析数据的核心组织原则的价值视为其中的价值。Kiran Prakash 已帮助许多客户设计他们的数据产品，并分享他所学到的知识。特别是，他有条不紊的方法不是从考虑一些可能方便分享的数据开始，而是从数据产品的消费者需要开始。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/designing-data-products.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 Gen AI：Copilot 的新多文件编辑</title>
-      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</link>
-      <description><![CDATA[10 月底，GitHub Copilot 引入了一项非常强大的新编码辅助功能。这项新的“多文件编辑”功能将 AI 辅助的范围从小型本地化建议扩展到跨多个文件的更大规模实现。Birgitta Böckeler 试用了这项新功能，发现它的更改往往非常有用，并想知道它们需要哪些反馈循环。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计数据产品：后续步骤</title>
-      <link>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</link>
-      <description><![CDATA[
-一旦我们设计了初始数据产品，Kiran Prakash 就会在文章的最后带领我们完成后续步骤：识别常见模式、改善开发人员体验以及处理治理。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:54 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:11 GMT</pubDate>
     </item>
     <item>
       <title>数据产品设计的概括</title>
@@ -110,16 +81,16 @@ Regida 深入探讨了逐步现代化遗留移动应用程序的细节。 他们
 概括数据产品，确定产品适合哪些领域，并考虑服务级别目标。 
 更多…]]></description>
       <guid>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:54 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Codemods 进行重构以自动化 API 更改</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html</link>
+      <title>设计数据产品：从用例开始逆向思考</title>
+      <link>https://martinfowler.com/articles/designing-data-products.html</link>
       <description><![CDATA[
-作为库开发人员，您可能会创建一个数十万开发人员每天依赖的流行实用程序，例如 lodash 或 React。随着时间的推移，可能会出现超出您最初设计的使用模式。当这种情况发生时，您可能需要通过添加参数或修改函数签名来扩展 API 以修复极端情况。挑战在于在不中断用户工作流程的情况下推出这些重大更改。 Juntao Qiu 发表了一篇文章，解释了我们如何使用 codemods 来解决这个问题。Codemods 是一种自动化大规模代码转换的工具，允许开发人员引入重大 API 更改并重构遗留代码库。
+业界越来越多地将创建数据产品作为分析数据的核心组织原则的价值视为其中的价值。Kiran Prakash 已帮助许多客户设计他们的数据产品，并分享他所学到的知识。特别是，他有条不紊的方法不是从考虑一些可能方便分享的数据开始，而是从数据产品的消费者需要开始。
 更多…]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:53 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/designing-data-products.html</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:10 GMT</pubDate>
     </item>
     <item>
       <title>基于设计令牌的 UI 架构</title>
@@ -131,16 +102,16 @@ Andreas Kutschmann 解释了它们的工作原理
 开发人员体验。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/design-token-based-ui-architecture.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:53 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年我最喜欢的音乐发现</title>
-      <link>https://martinfowler.com/articles/2024-music.html</link>
+      <title>设计数据产品：后续步骤</title>
+      <link>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</link>
       <description><![CDATA[
-我养成了在新年伊始分享去年发现的六张我最喜欢的专辑的习惯。今年的专辑包括凯尔特爵士乐、trip-hop 新法朵、2020 年代的爵士融合、俏皮的和声，以及印度古典音乐家和弦乐四重奏之间的精彩合作。 （我也无法将自己限制在六首。）
+一旦我们设计了初始数据产品，Kiran Prakash 就会在文章的最后带领我们完成后续步骤：识别常见模式、改善开发人员体验以及处理治理。
 更多…]]></description>
-      <guid>https://martinfowler.com/articles/2024-music.html</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:52 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:09 GMT</pubDate>
     </item>
     <item>
       <title>更复杂的 codemod</title>
@@ -150,25 +121,16 @@ Juntao Qiu 转到 更复杂的 codemod 示例，该示例从 JSX 组件中提取
 这说明了如何通过几个步骤来操作 AST。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:52 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>与卢卡·罗西的播客</title>
-      <link>https://refactoring.fm/p/growing-the-development-forest-with</link>
+      <title>使用 Codemods 进行重构以自动执行 API 更改</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html</link>
       <description><![CDATA[
-Luca Rossi 主持一个名为 Refactoring 的播客（和时事通讯），所以很明显我们有一些共同的兴趣。这个图块来自我，主要参考了 Beth Anders-Beck 和 Kent Beck 的森林和沙漠的比喻。我们讨论人工智能对软件开发的影响、技术债务的隐喻以及敏捷软件开发的现状。
+作为库开发人员，您可能会创建一个数十万开发人员每天依赖的流行实用程序，例如 lodash 或 React。随着时间的推移，可能会出现超出您最初设计的使用模式。当这种情况发生时，您可能需要通过添加参数或修改函数签名来扩展 API 以修复极端情况。挑战在于在不中断用户工作流程的情况下推出这些重大更改。 Juntao Qiu 发表了一篇文章，解释了我们如何使用 codemods 来解决这个问题。Codemods 是一种自动化大规模代码转换的工具，允许开发人员引入重大 API 更改并重构遗留代码库。
 更多…]]></description>
-      <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他语言的 Codemods</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
-      <description><![CDATA[
-Juntao Qiu 通过查看一些其他JavaScript 世界之外的方法（例如 JavaParser 和 OpenRewrite）完成了对 codemods 的描述。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:51 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:08 GMT</pubDate>
     </item>
     <item>
       <title>修复 Codemods 的常见缺陷</title>
@@ -177,7 +139,57 @@ Juntao Qiu 通过查看一些其他JavaScript 世界之外的方法（例如 Jav
 到目前为止，Juntao Qiu 描述的 codemods 非常吸引人，但相当简单。真正的代码库提供了更多挑战。 在本期中，他介绍了如何通过编写 codemods 来解决更复杂的情况。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:51 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年我最喜欢的音乐发现</title>
+      <link>https://martinfowler.com/articles/2024-music.html</link>
+      <description><![CDATA[
+我养成了在新年伊始分享去年发现的六张我最喜欢的专辑的习惯。今年的专辑包括凯尔特爵士乐、trip-hop 新法朵、2020 年代的爵士融合、俏皮的和声，以及印度古典音乐家和弦乐四重奏之间的精彩合作。 （我也无法将自己限制在六首。）
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/2024-music.html</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>与卢卡·罗西的播客</title>
+      <link>https://refactoring.fm/p/growing-the-development-forest-with</link>
+      <description><![CDATA[
+Luca Rossi 主持一个名为 Refactoring 的播客（和时事通讯），所以很明显我们有一些共同的兴趣。这个图块来自我，主要参考了 Beth Anders-Beck 和 Kent Beck 的森林和沙漠的比喻。我们讨论人工智能对软件开发的影响、技术债务的隐喻以及敏捷软件开发的现状。
+更多…]]></description>
+      <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他语言的 Codemods</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
+      <description><![CDATA[
+Juntao Qiu 通过查看一些其他JavaScript 世界之外的方法（例如 JavaParser 和 OpenRewrite）完成了对 codemods 的描述。
+更多…]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bliki：森林与沙漠</title>
+      <link>https://martinfowler.com/bliki/ForestAndDesert.html</link>
+      <description><![CDATA[
+
+
+森林与沙漠是 Beth Anders-Beck 和她的父亲 Kent Beck 提出的关于软件开发过程的比喻。
+它假设两个软件开发人员社区很难相互沟通，因为他们生活在非常不同的环境中，所以适用于其中一个社区的建议对另一个社区来说听起来就像是胡说八道。
+沙漠是软件开发的共同世界，那里漏洞百出，技能得不到培养，与用户的沟通也很困难。
+森林是一支运作良好的团队的世界，他们使用类似极限编程的方法，开发人员迅速将更改投入生产，并受到测试的保护，代码得到投资以保持其健康，并且与客户保持定期联系。
+显然，Beth 和 Kent 更喜欢森林（我也是）。但这个比喻更多的是关于森林的描述以及如何在那里工作的建议对于那些唯一体验过沙漠的人来说听起来毫无意义。它提醒我们，我们从软件开发实践或架构模式中吸取的任何教训都受我们体验它们的背景支配。将沙漠变成森林是可能的，但这很困难——通常需要人们做既困难又违反直觉的事情。 （森林似乎更容易遭受沙漠化。）
+在这个框架下，我绝对是一个森林居民，并与 Thoughtworks 一起寻求为我们和我们的客户培育一片健康的森林。我努力向沙漠居民解释森林，并帮助我的森林居民同伴使他们的森林更加茂盛。
+
+进一步阅读
+Beth 和 Kent 的最佳简短摘要在 Kent 的 Substack 上。如需更多详细信息，请查看他们在 Øredev 上的主题演讲。 
+
+
+致谢
+Kent Beck 提供了这张图片，他可能精心地逐像素绘制了这张图片。或者不是。
+]]></description>
+      <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
+      <pubDate>Thu, 30 Jan 2025 21:03:05 GMT</pubDate>
     </item>
     <item>
       <title>GenAI 产品中的嵌入</title>
@@ -189,17 +201,17 @@ Juntao Qiu 通过查看一些其他JavaScript 世界之外的方法（例如 Jav
 概念
 更多…]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:50 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>构建 GenAI 产品的新兴模式</title>
+      <title>构建 GenAI 产品的新模式</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/</link>
       <description><![CDATA[
 如今，每个人都对使用生成式人工智能着迷，我的同事也不例外。他们中的一些人有机会将这些系统付诸实践，既作为概念验证，更重要的是作为生产系统。我认识Bharani Subramaniam很多年了，他是印度的技术领袖，他一直在总结我们学到的经验教训，我和他一起把它们描述成模式。
 在第一部分中，我们探讨了直接提示的基本情况的局限性，以及如何使用评估来评估系统的能力。
 更多…]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Wed, 29 Jan 2025 18:02:50 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 21:03:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
