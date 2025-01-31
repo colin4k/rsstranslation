@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 31 Jan 2025 06:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 09:02:52 GMT</lastBuildDate>
+    <item>
+      <title>程序员对空指针的误解</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieagxg/falsehoods_programmers_believe_about_null_pointers/</link>
+      <description><![CDATA[  由    /u/imachug  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieagxg/falsehoods_programmers_believe_about_null_pointers/</guid>
+      <pubDate>Fri, 31 Jan 2025 08:39:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go sync/v2 提案</title>
+      <link>https://www.reddit.com/r/programming/comments/1ie9r9n/go_syncv2_proposal/</link>
+      <description><![CDATA[  由    /u/AntonOkolelov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ie9r9n/go_syncv2_proposal/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:45:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codespace 替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1ie9czq/codespace_alternative/</link>
+      <description><![CDATA[我已经尝试过 gitpod 。如果有人愿意分享 codespace 的替代方案，我将不胜感激。谢谢     提交人    /u/Certain-Honey-9178   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ie9czq/codespace_alternative/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔尔·斯波斯基 (Joel Spolsky) 完成过他的“伟大的设计”系列吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ie8ttm/did_joel_spolsky_ever_complete_his_great_design/</link>
+      <description><![CDATA[  由    /u/raincole  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ie8ttm/did_joel_spolsky_ever_complete_his_great_design/</guid>
+      <pubDate>Fri, 31 Jan 2025 06:37:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 编码工具是 Grammarly for Coding</title>
+      <link>https://www.reddit.com/r/programming/comments/1ie8lo3/ai_coding_tools_are_grammarly_for_coding/</link>
+      <description><![CDATA[  由    /u/coolandy00  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ie8lo3/ai_coding_tools_are_grammarly_for_coding/</guid>
+      <pubDate>Fri, 31 Jan 2025 06:21:00 GMT</pubDate>
+    </item>
     <item>
       <title>React 的声明模型并不完美</title>
       <link>https://www.reddit.com/r/programming/comments/1ie7e3e/reacts_declarative_model_isnt_perfect/</link>
@@ -69,7 +104,7 @@
       <pubDate>Thu, 30 Jan 2025 21:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>在您的 IDE 中释放竞技场：使用 Unreal Git Hooks 恢复 Quake 和 UT！</title>
+      <title>在您的 IDE 中释放竞技场：使用 Unreal Git Hooks 重振 Quake 和 UT！</title>
       <link>https://www.reddit.com/r/programming/comments/1idx0g2/unleash_the_arena_in_your_ide_revive_quake_ut/</link>
       <description><![CDATA[  由    /u/davidvroda  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1idx0g2/unleash_the_arena_in_your_ide_revive_quake_ut/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iduc0z/writing_brittle_code/</guid>
       <pubDate>Thu, 30 Jan 2025 18:53:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>结构参数多态性的参数子类型</title>
-      <link>https://www.reddit.com/r/programming/comments/1idubo7/parametric_subtyping_for_structural_parametric/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1idubo7/parametric_subtyping_for_structural_parametric/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩大我们的速率限制以准备迎接十亿个活跃证书</title>
-      <link>https://www.reddit.com/r/programming/comments/1idubm9/scaling_our_rate_limits_to_prepare_for_a_billion/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1idubm9/scaling_our_rate_limits_to_prepare_for_a_billion/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 MMTk 为基于 Rust 的解释器添加垃圾收集功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1idubg5/adding_garbage_collection_to_our_rustbased/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1idubg5/adding_garbage_collection_to_our_rustbased/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>指针很复杂 II，或者：我们需要更好的语言规范</title>
-      <link>https://www.reddit.com/r/programming/comments/1idub3e/pointers_are_complicated_ii_or_we_need_better/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1idub3e/pointers_are_complicated_ii_or_we_need_better/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>预览板条箱（Rust）</title>
-      <link>https://www.reddit.com/r/programming/comments/1iduasy/preview_crates_rust/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iduasy/preview_crates_rust/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:51:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

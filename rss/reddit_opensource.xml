@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 31 Jan 2025 06:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 09:03:01 GMT</lastBuildDate>
+    <item>
+      <title>使用 Vue.js 构建的极简开源习惯跟踪应用程序，通过 NuxtHub 由高性能数据库提供支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</link>
+      <description><![CDATA[  由    /u/sefabulak  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</guid>
+      <pubDate>Fri, 31 Jan 2025 08:42:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找有关我的 MVP 的反馈。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ieack2/im_looking_for_feedback_on_my_mvp/</link>
+      <description><![CDATA[几个月前，我开始开发 overide（一个开源 cli，可让您在任何 IDE 中使用 AI），在构建过程中，我面临着获得有效贡献的挑战。主要问题是代码库没有得到很好的记录，开发人员在理解项目本身的流程和方向方面面临问题，更不用说代码库了。我与一些也面临类似问题的开发人员进行了交谈，然后我构建了 Docable。Docable 会自动为整个代码库生成文档。 我希望社区能帮助我测试 MVP。你们可以访问该网站吗？如果你们有一个开源项目，你们可以尝试生成文档并为我提供建议和想法吗？ 真的，任何事情都可以。  docable.dev 这不是开源的，但它永远可以免费用于开源项目。我在这里分享它是因为我需要以某种方式验证这个想法。  谢谢。🙏    提交人    /u/superabhidash   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ieack2/im_looking_for_feedback_on_my_mvp/</guid>
+      <pubDate>Fri, 31 Jan 2025 08:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用个人电子邮件地址进行开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iea1yh/using_personal_email_address_for_open_source/</link>
+      <description><![CDATA[我正在做一个小项目，目前我使用我的私人邮件签署所有提交。但是，这会将我的电子邮件暴露给互联网上的任何人，我正在考虑这对垃圾邮件和诈骗意味着什么。 你们做什么？你只为 github 使用一次性邮件还是使用你的真实地址？    提交人    /u/theChaosBeast   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iea1yh/using_personal_email_address_for_open_source/</guid>
+      <pubDate>Fri, 31 Jan 2025 08:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ie9onp/i_need_help/</link>
+      <description><![CDATA[有人能介绍一个好的适用于 Android 的开源 pdf 和其他文档创建器编辑器应用程序吗？    提交人    /u/AnimeOtaku426   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ie9onp/i_need_help/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:39:42 GMT</pubDate>
+    </item>
     <item>
       <title>Markdrop：一个 Python 包，用于在提取图像和表格的同时将 PDF 转换为 Markdown，使用多个 LLM 客户端为提取的表格/图像生成描述性文本描述。还有更多功能。Markdrop 可在 PyPI 上使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1ie5221/markdrop_a_python_package_for_converting_pdfs_to/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[        由    /u/SuccessIsHardWork  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1id9k4a/introducing_awesome_open_source_ai_a_list_for/</guid>
       <pubDate>Thu, 30 Jan 2025 00:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 抓取工具，用于统计用户在某个 subreddit 中发了多少帖子</title>
-      <link>https://www.reddit.com/r/opensource/comments/1id8rba/reddit_scraper_that_counts_how_many_posts_a_user/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1id8rba/reddit_scraper_that_counts_how_many_posts_a_user/</guid>
-      <pubDate>Thu, 30 Jan 2025 00:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mathesar 是一款类似电子表格的 DB 工具，目前处于测试阶段，发布版本为 v0.2.0。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1id746f/mathesar_spreadsheetlike_db_tool_is_now_in_beta/</link>
-      <description><![CDATA[嗨 /r/opensource，  我从事一个名为 Mathesar 的项目，我们刚刚发布了 0.2.0，这是我们的初始测试版本！这标志着我们从 alpha 过渡到 beta，这意味着该项目现在更加稳定，经过了全面测试，我们可以放心地说它已准备好与生产 PostgreSQL 数据库一起使用。  如果这是您第一次听说 Mathesar：我们是一个直观、开源、类似于电子表格的 PostgreSQL 数据库 UI。Mathesar 使用和操作 Postgres 模式、主键、外键、约束和数据类型。例如：“关系”在我们的 UI 中是数据库中的外键。我们尝试尽可能坚持 Postgres 范例，而不添加我们自己的自定义抽象。  你不应该“学习 Mathesar”；而是应该通过使用 Mathesar 来了解有关 Postgres 的更多信息。 我们的功能包括：  连接到现有的 Postgres 数据库，或从头开始创建一个新的数据库。 使用 Postgres 角色和权限进行访问控制。 与您的数据库以及 Postgres 生态系统中的数千种其他工具和谐地协同工作。 轻松创建和更新 Postgres 模式和表。 使用我们类似电子表格的界面来查看、创建、更新和删除表记录。 过滤、排序和分组 - 以不同的方式切分您的数据。 使用我们的数据资源管理器来构建查询，而无需了解任何有关 SQL 或连接的知识。 轻松将数据导入和导出到 Mathesar 以便在其他地方使用您的数据。 数据建模支持 - 只需两次单击即可在表之间传输列。  此版本添加了基于 Postgres 的访问控制，成倍地提高了 UI 性能，并添加了一些不错的生活质量功能，如导出数据、全面的用户指南等。  以下是一些链接：  发行说明 安装：Docker Compose 安装 和 从头开始安装 GitHub repo 和 文档 网站  我很乐意收到反馈、想法、批评，几乎任何东西。如果您需要安装 Mathesar 方面的帮助，我也很乐意帮助您入门。您还可以加入我们在 Matrix 上的社区，与我们实时聊天。谢谢！ 以下是我们接下来考虑构建的一些功能：  为管理员提供更好的工具，包括 SSO、PostgreSQL 行级安全性的 UI 以及通过外部数据包装器对非 Postgres 数据库的支持。 更多编辑和查询数据的方式，例如用于查询构建和编辑的统一界面、自定义输入表单和内置 SQL 编辑器。 扩展对数据类型的支持，包括位置数据（通过 PostGIS）、长格式/格式化文本（例如 Markdown）以及各种文件和图像类型。  我们的路线图最终将由我们的 beta 用户的反馈决定。如果您想在 Mathesar 中看到什么，请告诉我们！    提交人    /u/zack-krida   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1id746f/mathesar_spreadsheetlike_db_tool_is_now_in_beta/</guid>
-      <pubDate>Wed, 29 Jan 2025 22:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不为新贡献者做所有工作的情况下提供反馈？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1id5kep/how_do_you_give_feedback_without_doing_all_the/</link>
-      <description><![CDATA[最近，我一直在审查大量首次为 SymPy（一种基于 Python 的计算机代数系统）做出贡献的 PR。我认为，他们大多在尝试满足 Google Summer of Code 的错误修复要求并增强他们的 GSoC 应用程序。 我正在尝试找出向他们提供反馈的最佳方式。在许多情况下，我自己修复错误所花的时间可能比指导他们修复所花的时间要短。当我看到效率低下或难以理解的代码时，我很想重写它并建议他们使用我的版本。但我知道这不一定是帮助他们学习的最佳方式。 无论对错，我有时会留下这样的印象：他们有点自以为是。他们经常@我——在他们回复我的评论后立即回复。如果我花超过 24 小时的时间来审查他们的 PR，他们会再次@我。他们中的一些人英语不太好，留下的信息让我不得不花很长时间去解读。通常，我感觉他们是在寻求解决方案，而不是自己思考问题。 我是一名大学生，非常忙。我帮助他们是因为我关心 SymPy，并且发现帮助别人很有成就感 — — 而不是因为我有任何义务这么做。 话虽如此，我还是尽力鼓励他们。我知道第一次贡献代码有多难，所以当我合并 PR 时，我会留下“干得好”这样的信息来承认他们的努力。我尽量不去假设他们有恶意，因为不可能知道每个人的意图。对我来说显而易见的事情对新贡献者和那些 Python 和编程经验较少的人来说可能并不明显。 我想让贡献更受欢迎、更容易接受，但我也不想最终为他们做大部分工作。你如何处理这种情况？    提交人    /u/TiloRC   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1id5kep/how_do_you_give_feedback_without_doing_all_the/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 Mirai：彻底改变应用程序开发的开源服务器驱动 UI 框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1id4n8p/meet_mirai_the_opensource_serverdriven_ui/</link>
-      <description><![CDATA[       由    /u/divyanshub024  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1id4n8p/meet_mirai_the_opensource_serverdriven_ui/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:07:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
