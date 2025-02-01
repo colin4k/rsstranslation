@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 00:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 03:05:14 GMT</lastBuildDate>
     <item>
       <title>帮助我获得 Azure 创始人的最佳免费积分！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ielhof/help_me_get_the_best_of_azure_founders_free/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>如何将 Android 手机翻倍</title>
       <link>https://www.reddit.com/r/opensource/comments/1iekc6e/how_to_double_an_android_phone/</link>
-      <description><![CDATA[你好！ 有没有一种开源方法可以基本上创建手机副本？我的意思是，安装应用程序时，它将安装在另一部手机中，因此文件会下载等。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
+      <description><![CDATA[你好！ 有没有一种开源方法可以基本上创建手机的副本？我的意思是，安装应用程序时，它将安装在另一部手机中，因此文件会下载等。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iekc6e/how_to_double_an_android_phone/</guid>
       <pubDate>Fri, 31 Jan 2025 17:37:06 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>提升您的提交水平：将 Quake 和 UT 怀旧风格带入您的编码中！</title>
       <link>https://www.reddit.com/r/opensource/comments/1idwz1c/level_up_your_commits_bring_quake_ut_nostalgia_to/</link>
-      <description><![CDATA[大家好！ 如果您曾经花太多时间玩 Quake 或 Unreal Tournament，这里有一个有趣的方式将怀旧之情带入您的编码程序中。我整理了“unreal-git-hook”，这是一组自定义 Git 钩子，每当您提交或合并时，它们都会播放那些标志性的游戏内感叹号！ - 当您提交 (git commit) 时，您会听到史诗般的台词，如“Godlike”、“Monster Kill”或“Rampage”，具体取决于您当天提交的次数。计数器每天早上重置 - 有点像重生！ - 当您合并 (git merge) 时，您会随机听到“Impressive”或“Perfect”。 总共有 15 种不同的声音，在不同的提交计数时触发。把它当作是那些马拉松式编码过程中让您保持精力充沛的小礼物 — — 也是对我们都喜爱的那些老式竞技场射击游戏的甜蜜致敬。 编码愉快！ https://github.com/dmayboroda/unreal-git-hook    提交人    /u/davidvroda   [link] [评论]]]></description>
+      <description><![CDATA[大家好！ 如果您曾经花太多时间玩 Quake 或 Unreal Tournament，这里有一个有趣的方式将怀旧之情带入您的编码日常工作中。我整理了“unreal-git-hook”，这是一组自定义 Git 钩子，每当您提交或合并时，它们都会播放那些标志性的游戏内感叹号！ - 当您提交 (git commit) 时，您会听到史诗般的台词，如“Godlike”、“Monster Kill”或“Rampage”，具体取决于您当天提交的次数。计数器每天早上重置 - 有点像重生！ - 当您合并 (git merge) 时，您会随机听到“Impressive”或“Perfect”。 总共有 15 种不同的声音，在不同的提交计数时触发。把它当作是那些马拉松式编码过程中让您保持精力充沛的小礼物 — — 也是对我们都喜爱的那些老式竞技场射击游戏的甜蜜致敬。 编码愉快！ https://github.com/dmayboroda/unreal-git-hook    提交人    /u/davidvroda   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1idwz1c/level_up_your_commits_bring_quake_ut_nostalgia_to/</guid>
       <pubDate>Thu, 30 Jan 2025 20:42:44 GMT</pubDate>
     </item>

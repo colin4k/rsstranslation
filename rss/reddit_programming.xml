@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 01 Feb 2025 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 03:05:06 GMT</lastBuildDate>
+    <item>
+      <title>Java 现状报告显示 Java 8 的迁移势头强劲，Apache Spark 崛起 • DEVCLASS</title>
+      <link>https://www.reddit.com/r/programming/comments/1iewu26/state_of_java_report_shows_strong_migration_from/</link>
+      <description><![CDATA[  由   提交  /u/stronghup   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iewu26/state_of_java_report_shows_strong_migration_from/</guid>
+      <pubDate>Sat, 01 Feb 2025 02:59:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像究竟是如何存储的？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieuufd/how_are_images_really_stored/</link>
+      <description><![CDATA[  由    /u/Cefor111  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieuufd/how_are_images_really_stored/</guid>
+      <pubDate>Sat, 01 Feb 2025 01:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Graal 和 Mill 将 Java 编译为本机二进制文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1ietigv/how_to_compile_java_into_native_binaries_with/</link>
+      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ietigv/how_to_compile_java_into_native_binaries_with/</guid>
+      <pubDate>Sat, 01 Feb 2025 00:10:37 GMT</pubDate>
+    </item>
     <item>
       <title>分布式系统中的拜占庭将军问题是什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1ietb2k/what_is_the_byzantine_generals_problem_in/</link>
       <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ietb2k/what_is_the_byzantine_generals_problem_in/</guid>
       <pubDate>Sat, 01 Feb 2025 00:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护美国技术工人</title>
-      <link>https://www.reddit.com/r/programming/comments/1iesm6k/protect_us_tech_workers/</link>
-      <description><![CDATA[多年来，我们一直被告知存在“技术技能差距”，这为大量引进 H-1B 工人提供了理由，但现实情况是，公司利用该计划削减成本，而不是填补短缺。从来没有真正缺少过熟练的开发人员——只是缺少愿意支付市场工资的公司。 H-1B 计划通常被用来用更便宜的劳动力取代经验丰富的美国技术工人，而不是引进专业人才，有时甚至要求他们在被解雇之前培训自己的接班人。这与技能无关；这是为了利润。 这场运动正在推动改革以制止这种虐待：保护美国技术工人。 你怎么看？你在公司或行业中看到过这种情况吗？    提交人    /u/Mysterious_Comb9550   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iesm6k/protect_us_tech_workers/</guid>
-      <pubDate>Fri, 31 Jan 2025 23:29:18 GMT</pubDate>
     </item>
     <item>
       <title>给每个开发人员的建议：揭秘 React Hooks</title>
@@ -53,13 +67,6 @@
       <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iend1x/global_variables_are_not_the_problem/</guid>
       <pubDate>Fri, 31 Jan 2025 19:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个工具来自动创建 JIRA 票证</title>
-      <link>https://www.reddit.com/r/programming/comments/1ieldpy/i_created_a_tool_to_automate_jira_tickets_creation/</link>
-      <description><![CDATA[  由    /u/repr_theo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ieldpy/i_created_a_tool_to_automate_jira_tickets_creation/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:19:48 GMT</pubDate>
     </item>
     <item>
       <title>我用 Bulifier 花了 6 个小时建造了 Space Bugs 并记录了一切！</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iebmqi/slow_flaky_and_failing/</guid>
       <pubDate>Fri, 31 Jan 2025 10:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建万亿万亿浮点运算的机器学习系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1iebjrj/building_machine_learning_systems_for_a_trillion/</link>
-      <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iebjrj/building_machine_learning_systems_for_a_trillion/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:05:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
