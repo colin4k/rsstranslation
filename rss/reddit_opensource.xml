@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 06:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 09:02:25 GMT</lastBuildDate>
+    <item>
+      <title>您希望哪些高级/付费应用程序或 SaaS 拥有开源、自托管版本？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1if2bgj/what_premiumpaid_app_or_saas_do_you_wish_had_an/</link>
+      <description><![CDATA[我最近被解雇了，在找工作的时候有一些空闲时间。我想构建一些开源的东西，但我很难想出一个人们会真正使用的想法。 正如标题所说 - 是否有任何付费应用程序或 SaaS 产品您希望有一个可靠的开源替代方案，您可以自行托管？可以是任何东西 - 生产力工具、分析、协作软件等。 很想听听你的想法！    提交人    /u/AbrarYouKknow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1if2bgj/what_premiumpaid_app_or_saas_do_you_wish_had_an/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:53:36 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年的 SourceForge... 仍然没有暗黑模式？真的吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ieyd0b/sourceforge_in_2025_still_no_dark_mode_seriously/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[Linuxiac @linuxiac · 1 月 28 日。 微软推出 DocumentDB - 一个基于 #PostgreSQL 构建的开源 #NoSQL 数据存储，现在可在 MIT 许可下使用 https://github.com/microsoft/documentdb    提交人    /u/EstaticNollan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1idv47p/microsoft_doing_an_open_source_nosql_db_over/</guid>
       <pubDate>Thu, 30 Jan 2025 19:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>敢于发布我的 IPTV 模板（48 小时内建成，轻轻地嘲笑我）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1idsj28/dared_to_release_my_iptv_template_built_in_48h/</link>
-      <description><![CDATA[嘿！ 长期潜水员在这里，一直对您的技能感到惊讶……“我永远不会发布我的意大利面条式代码”，我说道。但我们在这里。👀 项目：用于“类似 Netflix”流媒体界面的 Nuxt 3 IPTV 模板。“但是为什么呢？”因为我痴迷于华丽的用户界面、滚动播放列表，而且......好吧，我有 48 小时可以消磨。 🫠 我拼凑起来的东西：  一个崩溃概率为 30％ 的视频播放器（但很美观）（开玩笑） “动态”主题（阅读：Tailwind CSS 滥用）  GitHub（做好准备）： https://github.com/florianjs/iptv-template 为什么要分享这个烂摊子？  需要你的残酷诚实（特别是如果你比我聪明）😅 低调希望贡献者在 PR 中写下“天哪，这段代码太烂了”。成长心态，对吧？  作为回报，您将获得：  如果您为该 repo 加注星标，则可获得一只小猫 GIF 🐱 允许称我为“Nuxt 3 睡眠不足的小精灵&#39;     提交人    /u/f01k3n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1idsj28/dared_to_release_my_iptv_template_built_in_48h/</guid>
-      <pubDate>Thu, 30 Jan 2025 17:38:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
