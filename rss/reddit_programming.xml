@@ -4,13 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 00:04:00 GMT</lastBuildDate>
     <item>
-      <title>Jujutsu VCS 简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1ieje1z/introduction_to_the_jujutsu_vcs/</link>
-      <description><![CDATA[  由    /u/cube2222  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ieje1z/introduction_to_the_jujutsu_vcs/</guid>
-      <pubDate>Fri, 31 Jan 2025 16:58:13 GMT</pubDate>
+      <title>分布式系统中的拜占庭将军问题是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ietb2k/what_is_the_byzantine_generals_problem_in/</link>
+      <description><![CDATA[  由    /u/scalablethread  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ietb2k/what_is_the_byzantine_generals_problem_in/</guid>
+      <pubDate>Sat, 01 Feb 2025 00:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护美国技术工人</title>
+      <link>https://www.reddit.com/r/programming/comments/1iesm6k/protect_us_tech_workers/</link>
+      <description><![CDATA[多年来，我们一直被告知存在“技术技能差距”，这为大量引进 H-1B 工人提供了理由，但现实情况是，公司利用该计划削减成本，而不是填补短缺。从来没有真正缺少过熟练的开发人员——只是缺少愿意支付市场工资的公司。 H-1B 计划通常被用来用更便宜的劳动力取代经验丰富的美国技术工人，而不是引进专业人才，有时甚至要求他们在被解雇之前培训自己的接班人。这与技能无关；这是为了利润。 这场运动正在推动改革以制止这种虐待：保护美国技术工人。 你怎么看？你在公司或行业中看到过这种情况吗？    提交人    /u/Mysterious_Comb9550   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iesm6k/protect_us_tech_workers/</guid>
+      <pubDate>Fri, 31 Jan 2025 23:29:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>给每个开发人员的建议：揭秘 React Hooks</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieslf6/tips_for_every_developer_react_hooks_demystified/</link>
+      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieslf6/tips_for_every_developer_react_hooks_demystified/</guid>
+      <pubDate>Fri, 31 Jan 2025 23:28:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ 反思：重回正轨 - David Olsen - 会议 C++ 2024</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieqz8y/c_reflection_back_on_track_david_olsen_meeting_c/</link>
+      <description><![CDATA[  由    /u/BlueGoliath  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieqz8y/c_reflection_back_on_track_david_olsen_meeting_c/</guid>
+      <pubDate>Fri, 31 Jan 2025 22:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 分钟内了解 JavaScript 提升</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieonol/javascript_hoisting_in_5_minutes/</link>
+      <description><![CDATA[  由    /u/Main-Humor-6933  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieonol/javascript_hoisting_in_5_minutes/</guid>
+      <pubDate>Fri, 31 Jan 2025 20:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>不相交集（并查集）-通过示例和代码解释路径压缩</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieohke/disjoint_set_union_find_path_compression/</link>
+      <description><![CDATA[  由    /u/Mysterious-3636  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieohke/disjoint_set_union_find_path_compression/</guid>
+      <pubDate>Fri, 31 Jan 2025 20:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>全局变量不是问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1iend1x/global_variables_are_not_the_problem/</link>
+      <description><![CDATA[  由    /u/levodelellis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iend1x/global_variables_are_not_the_problem/</guid>
+      <pubDate>Fri, 31 Jan 2025 19:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具来自动创建 JIRA 票证</title>
+      <link>https://www.reddit.com/r/programming/comments/1ieldpy/i_created_a_tool_to_automate_jira_tickets_creation/</link>
+      <description><![CDATA[  由    /u/repr_theo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ieldpy/i_created_a_tool_to_automate_jira_tickets_creation/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:19:48 GMT</pubDate>
     </item>
     <item>
       <title>我用 Bulifier 花了 6 个小时建造了 Space Bugs 并记录了一切！</title>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/mariuz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1iebjrj/building_machine_learning_systems_for_a_trillion/</guid>
       <pubDate>Fri, 31 Jan 2025 10:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kotlin 中 `UseCase` 的用例</title>
-      <link>https://www.reddit.com/r/programming/comments/1iebdej/a_use_case_for_usecases_in_kotlin/</link>
-      <description><![CDATA[  由    /u/cekrem  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1iebdej/a_use_case_for_usecases_in_kotlin/</guid>
-      <pubDate>Fri, 31 Jan 2025 09:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员对空指针的误解</title>
-      <link>https://www.reddit.com/r/programming/comments/1ieagxg/falsehoods_programmers_believe_about_null_pointers/</link>
-      <description><![CDATA[  由    /u/imachug  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ieagxg/falsehoods_programmers_believe_about_null_pointers/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go sync/v2 提案</title>
-      <link>https://www.reddit.com/r/programming/comments/1ie9r9n/go_syncv2_proposal/</link>
-      <description><![CDATA[  由    /u/AntonOkolelov  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ie9r9n/go_syncv2_proposal/</guid>
-      <pubDate>Fri, 31 Jan 2025 07:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>乔尔·斯波斯基 (Joel Spolsky) 完成过他的“伟大的设计”系列吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ie8ttm/did_joel_spolsky_ever_complete_his_great_design/</link>
-      <description><![CDATA[  由    /u/raincole  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ie8ttm/did_joel_spolsky_ever_complete_his_great_design/</guid>
-      <pubDate>Fri, 31 Jan 2025 06:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 编码工具是 Grammarly for Coding</title>
-      <link>https://www.reddit.com/r/programming/comments/1ie8lo3/ai_coding_tools_are_grammarly_for_coding/</link>
-      <description><![CDATA[  由    /u/coolandy00  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ie8lo3/ai_coding_tools_are_grammarly_for_coding/</guid>
-      <pubDate>Fri, 31 Jan 2025 06:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 的声明模型并不完美</title>
-      <link>https://www.reddit.com/r/programming/comments/1ie7e3e/reacts_declarative_model_isnt_perfect/</link>
-      <description><![CDATA[  由    /u/bennett-dev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ie7e3e/reacts_declarative_model_isnt_perfect/</guid>
-      <pubDate>Fri, 31 Jan 2025 05:04:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek-R1 模型技术概述</title>
-      <link>https://www.reddit.com/r/programming/comments/1ie7234/technical_overview_of_deepseekr1_model/</link>
-      <description><![CDATA[  由    /u/Unique_acar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ie7234/technical_overview_of_deepseekr1_model/</guid>
-      <pubDate>Fri, 31 Jan 2025 04:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

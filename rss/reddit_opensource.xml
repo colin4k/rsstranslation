@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 00:04:06 GMT</lastBuildDate>
+    <item>
+      <title>帮助我获得 Azure 创始人的最佳免费积分！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ielhof/help_me_get_the_best_of_azure_founders_free/</link>
+      <description><![CDATA[我最近申请了微软创业计划，并获得了 5000 美元的信用额度，可使用一年。 最近使用 ubuntu 配置创建了具有 16gb ram 和 60gb SSD 的虚拟机，并设法安装了 cloudpanel 来托管我的所有网站和其他项目。 这里有人能够通过使用我可能遗漏的任何用例来利用它吗？开发机构可以利用任何开源工具或 AI API 吗？ 谢谢    提交人    /u/InnovatorInk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ielhof/help_me_get_the_best_of_azure_founders_free/</guid>
+      <pubDate>Fri, 31 Jan 2025 18:24:15 GMT</pubDate>
+    </item>
     <item>
       <title>软件许可</title>
       <link>https://www.reddit.com/r/opensource/comments/1iekox6/software_licenses/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我想分享一个我一直在研究的工具，叫做 erugo - 这是一个尊重隐私的文件共享解决方案，你可以自己托管。 我为什么创建它： 我想通过构建一些我实际会用到的实用工具来学习 Go。我需要一种简单的方法与客户和家人共享大文件，但不想依赖跟踪使用情况或收集数据的服务。最重要的是，我想要一些不需要复杂设置或依赖项就能工作的东西。 主要特点：  单一二进制部署（后端 + 前端捆绑在一起） 无跟踪，无指标收集，完全私密 共享创建的本地身份验证 人性化的共享 URL 简单易用的 SQLite（无需外部数据库） 干净、现代的用户界面 可配置的存储路径和文件大小限制 MIT 许可且完全开源  技术栈： 使用 Go 后端和 Vue.js 前端构建，打包成一个二进制文件。使用 SQLite 进行元数据存储并使用本地文件系统存储文件。 入门：  下载二进制文件 运行它 按照交互式首次运行设置进行操作 开始共享文件！  该项目完全开源，可从以下位置获取：https://github.com/DeanWard/erugo 我正在积极开发 erugo，希望听到您的反馈和功能请求。目前正致力于通过 UI 添加 Docker 支持和白标选项。 如果您有任何问题，请告诉我！由于这是我的第一个 Go 项目，因此我对经验丰富的 Go 开发人员的反馈特别感兴趣，因为我希望有很多方法可以改进代码。    提交人    /u/PromaneX   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1idqdbk/erugo_a_privacyfocused_singlebinary_wetransfer/</guid>
       <pubDate>Thu, 30 Jan 2025 16:07:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索动态、记忆驱动的神经结构——想法和反馈？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1idnqqu/exploring_a_dynamic_memorydriven_neural/</link>
-      <description><![CDATA[大家好，我一直在探索一种具有一些非常规特征的自定义神经架构，我很想听听你们的想法。目标是创建一个更具适应性和记忆驱动性的模型，该模型可以随着时间的推移而动态发展。 主要功能和推理： - 分层记忆系统：网络不再仅仅依赖于权重更新，而是将其记忆构建为短期、中期和长期集群。这有助于保留相关信息，同时允许不太重要的数据随着时间的推移而衰减。 - 动态适应和神经元进化：根据性能（状态历史、执行时间、权重变化）不断评估神经元。表现不佳的会被修剪，而成功的则会得到强化或复制，从而形成一种无需手动再训练即可发展的架构。 - 记忆驱动学习和反向传播增强：系统采用记忆机制来存储和组织过去的神经元状态，让过去的经验影响学习，而不是仅仅依靠基于梯度的更新。 - 预测编码和未来状态预测：该模型不只是对输入数据做出反应；它根据存储的记忆模式主动预测未来状态，提高响应效率并降低错误率。 - 自组织结构和自主管理：不是采用固定架构，而是基于性能指标动态地添加、删除或重新组织神经元，从而使网络既可扩展又具有计算效率。 - 长期知识保留：与由于权重覆盖而忘记过去数据的传统模型不同，这种方法保留了结构化的分层记忆以供长期学习。 - 实时适应和稳定性控制：学习参数（例如学习率、记忆衰减因素）是动态调整的，而不是固定的，有助于无需手动调整即可保持稳定性。 基本概述： 每个神经元都维持一个状态和输出，形成相互连接的层。  训练循环更新神经元状态并计算输出：  输出 = tanh（状态 * 尺度 + 偏差）  每次迭代都会计算错误和性能指标。神经元会动态更新，记忆用于反向传播和梯度计算。 神经元管理系统会根据状态历史、执行时间和权重变化定期移除表现不佳的神经元。 结构化记忆系统会在未来运行中保存并重新加载，从而提供跨会话的连续性。  希望得到反馈 - 哪些方面可以改进？是否存在不必要的组件？对进一步优化代码有什么想法吗？ 如果您想更好地描述架构，可以访问我的 github 页面，请注意代码使用 metal api，因为我没有 nvidia gpu 但仍然想使用 gpu 功能，而且代码在形式上是相当难以阅读的，但如果您仍想访问这里，它是 https://github.com/Okerew/Neural-Web/tree/main，其当前形式的模型比真正的项目更具实验性。UI    提交人    /u/Okerew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1idnqqu/exploring_a_dynamic_memorydriven_neural/</guid>
-      <pubDate>Thu, 30 Jan 2025 14:07:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
