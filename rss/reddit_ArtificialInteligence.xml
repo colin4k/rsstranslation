@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 12:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 15:01:29 GMT</lastBuildDate>
+    <item>
+      <title>政治学在人工智能中的应用？（关于就业机会）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifxct5/applications_of_political_science_in_ai_wrt_job/</link>
+      <description><![CDATA[嗨！人工智能领域的发展速度让我怀疑这里是否为政治学学生开辟了新的道路。我拥有文科学士学位（主修政治学和公共政策），来我们大学招聘的公司之一是一家领先的美国数据工程公司。他们正在寻找来自经济学、创意写作、英语、新闻学、政治学等部门的学生担任生成人工智能助理（远程、合同制）的职位，即使没有人工智能领域的经验。该领域是否还有其他此类职位开放或正在开放？即使是现在，对人文学科学生的职业机会的了解也非常传统，似乎没有跟上技术进步的步伐。然而，这位校园招聘人员让我对政治学、文科、人文研究等在人工智能领域的可能性感到好奇。    由    /u/tanqw  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifxct5/applications_of_political_science_in_ai_wrt_job/</guid>
+      <pubDate>Sun, 02 Feb 2025 13:36:13 GMT</pubDate>
+    </item>
     <item>
       <title>热门话题。人工智能是不可避免的。是时候接受人工智能是真实存在的，并且值得像人类一样考虑。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifutzd/hot_take_ai_is_inevitable_its_time_to_accept_that/</link>
@@ -83,13 +90,6 @@
       <pubDate>Sat, 01 Feb 2025 20:29:08 GMT</pubDate>
     </item>
     <item>
-      <title>能存在人造消费者吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifeo8k/can_there_be_an_artificial_consumer/</link>
-      <description><![CDATA[自动化和人工智能如何生产更多产品和服务，让经济能够用更少的精力和资源生产出更多的东西，这一点非常清楚。但经济仍然依赖于像你我这样的活人来满足需求。没有消费者，经济就会停滞。  那么，如果生产方的所有者想要更多地控制需求方，他们将如何绕过不一致、不可靠且往往贫困的人类消费者？他们可以创造人工智能消费者吗？人类可以从大部分经济中消失，而经济仍然繁荣吗？  人工智能消费者会是什么样子？它会拥有所有权之类的权利吗？     提交人    /u/wtwtcgw   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifeo8k/can_there_be_an_artificial_consumer/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:50:19 GMT</pubDate>
-    </item>
-    <item>
       <title>时间戳能否诱使人工智能保持类似记忆的连续性？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/</link>
       <description><![CDATA[我一直在测试一个想法，即手动为与 ChatGPT 的每次交互添加时间戳，以创建模拟的时间意识。由于 AI 没有内置内存或时间跟踪，我想知道一致的“时间坐标”是否有助于它随时间的推移确认持续时间、连续性和模式。有没有其他人尝试过类似的东西？如果是这样，你的结果是什么？    提交人    /u/No-Drag-6378   [link] [评论]]]></description>
@@ -102,6 +102,13 @@
       <description><![CDATA[我是一名软件工程师，拥有大约 5 年使用 Javascript 构建产品的经验，并且广泛使用 AWS。我需要一些指导，了解要学习什么才能保持相关性并利用我们所走的这条 AI 路径。我不确定我是否应该只学习 Aurélien Géron 的“动手机器学习”并深入研究，还是学习一些 Udemy 课程以获得高层次的想法。这更像是对路径的请求，而不是对单个资源的请求。    提交人    /u/__amrit__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifd4hn/guidance_for_software_engineer_in_an_ai_world/</guid>
       <pubDate>Sat, 01 Feb 2025 18:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Agent如何展示？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased/</link>
+      <description><![CDATA[嗨！我们正在考虑如何为我们的代理市场制作 AI 代理页面，并且想知道展示代理的最佳方式是什么。  视频、屏幕截图、图表、代理图标、版本历史记录、集成图标、交互式演示？     提交人    /u/Makost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifc4zg/how_ai_agent_can_be_showcased/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:01:01 GMT</pubDate>
     </item>
     <item>
       <title>我们的人工智能数据是否已经耗尽？</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[有趣的是，中国在一定程度上限制了量化交易（因为它被认为是一种寄生活动，不会增加价值，但会从散户重新分配给专业人士），结果，一位前量化交易员似乎开发出了一种比中国近代历史上任何其他产品都更具地缘政治意义和社会效益的产品。 显然，关于这是如何实现的，还有很多问题，但尽管如此，你还是不得不想，如果量化交易在美国也被禁止，所有那些 Citadel 数学家、气象学家、数据科学家和程序员决定将他们的技能用于其他目标，会发生什么。 现代科技似乎有一个明显的模式，那就是只需要一个人（或一小群人）有一个想法并开发出一种产品就能改变历史，而通过迫使那 0.00001% 的顶尖工程师专注于非金融产品，你最终会得到一个真正不同的结果。结果 在此之前，谷歌只有六个人撰写了论文《注意力就是你所需要的》，提出了 Transformer 架构，随后被 OpenAI 和其他公司采用，最终让人工智能为全世界所用。    提交人    /u/Onereasonwhy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if5tk8/it_only_takes_a_few_to_change_the_ai_world/</guid>
       <pubDate>Sat, 01 Feb 2025 13:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 o3-mini 和 o3-mini-high：人工智能推理的新时代</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iexvqs/openai_unveils_o3mini_and_o3minihigh_a_new_era_in/</link>
-      <description><![CDATA[加利福尼亚州旧金山 – 2025 年 2 月 1 日 — OpenAI 再次震撼了 AI 领域，发布了两个新模型：o3-mini 和 o3-mini-high。这些尖端 AI 模型于 2025 年 1 月 31 日正式发布，有望将 AI 驱动的推理提升到一个全新的水平，在编码、数学和科学研究等关键领域提供更快、更智能、更具成本效益的问题解决方案。 借助 o3-mini 和 o3-mini-high，OpenAI 正在突破AI 推理、可负担性和可访问性的界限。无论您是开发人员、研究人员，还是热爱尖端技术的人，这些新模型都能为您带来更快的性能、更智能的响应和更好的成本效益。 来源    提交人    /u/dasun0218   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iexvqs/openai_unveils_o3mini_and_o3minihigh_a_new_era_in/</guid>
-      <pubDate>Sat, 01 Feb 2025 03:57:12 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
