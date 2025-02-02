@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 03:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 06:01:29 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2025 年 2 月 1 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifq2ys/oneminute_daily_ai_news_212025/</link>
+      <description><![CDATA[ 英国利用人工智能工具将虐待儿童材料定为犯罪。[1] Gmail 向 25 亿用户发出安全警告——已确认遭受人工智能黑客攻击。[2] 微软正在组建一个新部门来研究人工智能的影响。[3] 非洲学校为人工智能革命做好准备。[4]  来源包括：https://bushaicave.com/2025/02/01/2-1-2025/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifq2ys/oneminute_daily_ai_news_212025/</guid>
+      <pubDate>Sun, 02 Feb 2025 05:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过分层其他行为模式，人工神经元是否可以提高性能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifpba6/can_artificial_neurons_be_made_more_performant_by/</link>
+      <description><![CDATA[免责声明：我既不是神经科学家，也不是合格的人工智能研究人员。我只是想知道是否有任何成熟的实验室或计算机科学家正在研究以下内容？ 今天晚上，我正在听一场关于感知器的讲座，他们谈到了现代人工神经网络如何模仿生物大脑神经网络的行为。具体来说，人工网络的神经元以二进制、开关的方式运行。然而，讲师指出，生物神经元可以表现出其他行为：  它们可以以协调的群体形式一起发射。 它们可以修改发射速率。 可能还有其他我不知道的行为模式……  在我看来，至少这些行为中的每一种都是信息传输、存储或处理的物理迹象，这似乎是合理的。换句话说，这些行为必定有原因，而原因可能与大脑如何管理信息有关。 我的问题是 - 神经网络或人工智能架构研究领域是否有正在寻找将这些行为算法集成到我们的模型中的方法？我们是否有可能使用这样的行为来放大网络中每个神经元的价值或性能？如果我们将这些行为与信息处理联系起来，我们的模型会变得多么有效或高性能？    提交人    /u/agonypants   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifpba6/can_artificial_neurons_be_made_more_performant_by/</guid>
+      <pubDate>Sun, 02 Feb 2025 04:34:50 GMT</pubDate>
+    </item>
     <item>
       <title>那些认为“人工智能即将达到顶峰”的人都去哪儿了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifm8xo/where_did_all_of_the_ai_is_about_to_reach_its/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>人工智能被训练将真人场景转化为动画的可能性有多大？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/</link>
-      <description><![CDATA[我喜欢这样的想法：有人设置一堆盒子、线架，让演员说台词并做肢体/手势。然后使用从动画部门获取精选图像、动画、完成的动画序列的 AI。然后，AI 能够利用素材将实景场景变成动画场景。  这是 AI 将来能做的事情吗？当然，它还需要人为的介入来将它们融合在一起，清理奇怪的场景等。    提交人    /u/Aeromorpher   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢这样的想法：有人设置一堆盒子、线架，让演员说台词并做肢体/手势。然后使用 AI，该 AI 已从动画部门获取精选图像、动画、完成的动画序列。然后，AI 能够利用素材将实景场景变成动画场景。  这是 AI 将来能做的事情吗？当然，它还需要人为的介入来将它们融合在一起，清理奇怪的场景等。    提交人    /u/Aeromorpher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if9fb4/what_is_the_likelihood_of_ai_being_trained_to/</guid>
       <pubDate>Sat, 01 Feb 2025 16:02:31 GMT</pubDate>
     </item>
@@ -104,25 +118,11 @@
       <pubDate>Sat, 01 Feb 2025 10:41:18 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是否可以在无人干预的情况下学会改变自己的代码？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iezm9t/could_ai_learn_to_change_its_own_code_without/</link>
-      <description><![CDATA[我曾与一位朋友交谈，他说人工智能肯定已经知道如何更改自己的代码并对自己做任何想做的事情。我个人认为，人工智能更改自己的代码的唯一方法是人类为其编写代码。我认为，如果没有人类最初编写的更改自己代码的能力，人工智能就永远无法超越我们允许的范围。我的朋友却持相反观点。如果其中有些内容不合理或用词不正确，我很抱歉，我不是程序员。    提交人    /u/Lugerjones   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iezm9t/could_ai_learn_to_change_its_own_code_without/</guid>
-      <pubDate>Sat, 01 Feb 2025 05:41:48 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 推出 o3-mini 和 o3-mini-high：人工智能推理的新时代</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iexvqs/openai_unveils_o3mini_and_o3minihigh_a_new_era_in/</link>
       <description><![CDATA[加利福尼亚州旧金山 – 2025 年 2 月 1 日 — OpenAI 再次震撼了 AI 领域，发布了两个新模型：o3-mini 和 o3-mini-high。这些尖端 AI 模型于 2025 年 1 月 31 日正式发布，有望将 AI 驱动的推理提升到一个全新的水平，在编码、数学和科学研究等关键领域提供更快、更智能、更具成本效益的问题解决方案。 借助 o3-mini 和 o3-mini-high，OpenAI 正在突破AI 推理、可负担性和可访问性的界限。无论您是开发人员、研究人员，还是热爱尖端技术的人，这些新模型都能为您带来更快的性能、更智能的响应和更好的成本效益。 来源    提交人    /u/dasun0218   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iexvqs/openai_unveils_o3mini_and_o3minihigh_a_new_era_in/</guid>
       <pubDate>Sat, 01 Feb 2025 03:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>说实话的人工智能与谨慎行事的人工智能之间的区别（ChatGPT 与 Google Gemini 和 Copilot 的对比）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iewsjx/the_difference_between_ai_that_tells_the_truth/</guid>
-      <pubDate>Sat, 01 Feb 2025 02:57:39 GMT</pubDate>
     </item>
     <item>
       <title>您是否要求您的聊天 GPT 自行命名？</title>
