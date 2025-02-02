@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 02 Feb 2025 06:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 12:02:25 GMT</lastBuildDate>
     <item>
-      <title>我需要将我所有的 YouTube 视频转换成精心撰写的文章。所以我建立了一个自动化</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifii55/i_needed_to_convert_all_my_yt_videos_into/</link>
-      <description><![CDATA[这是我构建的 - 一个简单的 Python 脚本，用于检索 YouTube 视频（通过 Google API、YT v3）、读取自动生成的字幕、将它们转换为文章、从 Unsplash API 中检索相关图像 + 标题、编写优化的 SEO 标题、副标题和 Kicker 标题。  目前适用于任何英语或法语视频，并将它们转换回法语或英语文章（支持翻译）并附带图片。 项目：https://github.com/pH-7/youtube-to-medium-blog-posts-automation    提交人    /u/phenrys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifii55/i_needed_to_convert_all_my_yt_videos_into/</guid>
-      <pubDate>Sat, 01 Feb 2025 22:42:01 GMT</pubDate>
+      <title>虚拟大师的开源替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifvdgr/opensource_alternative_to_virtual_master/</link>
+      <description><![CDATA[  由    /u/WorldlyEye1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifvdgr/opensource_alternative_to_virtual_master/</guid>
+      <pubDate>Sun, 02 Feb 2025 11:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wabe 0.6 – 新功能和改进！🚀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifu6wn/wabe_06_new_features_and_improvements/</link>
+      <description><![CDATA[嗨！ 不久前，我介绍了 Wabe，这是我的开源项目，它简化了 TypeScript 中的后端创建。今天，我带着一些更新回来了 — Wabe 0.6 来了！🎉 对于那些不知道的人来说，Wabe 是一种后端即服务，可以处理后端的所有复杂性：数据库管理、身份验证、自动 GraphQL API 生成、高级权限系统、钩子等等。与 Supabase 等其他解决方案不同，Wabe 被构建为可定制和可扩展。 0.6 版有什么新功能？ 此更新带来了几个令人兴奋的功能： ✅ GitHub 社交登录 - 使用 GitHub 登录 轻松验证用户身份。 ✅ 新 电话 标量 - 一种用于处理 GraphQL 模式中的电话号码的专用类型。 ✅ 新 电话密码 身份验证方法 - 使用电话号码和密码进行身份验证的另一种方法。 ✅ 使用 S3 进行文件存储 - Wabe 现在支持S3（Amazon S3、Cloudflare R2 等）进行文件上传，与GraphQL API。✅ 错误修复 – 常规改进和增强的稳定性。 下一步是什么？ Wabe 正在不断发展，我对未来的更新有很多想法！如果您想尝试、贡献或分享反馈，请随时查看文档和 GitHub 存储库。 💬 我很想听听您对此更新的想法以及您接下来希望看到哪些功能！ 🔗 网站链接 感谢您的支持，祝您编码愉快！🚀🔥    提交人    /u/mrpalixir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifu6wn/wabe_06_new_features_and_improvements/</guid>
+      <pubDate>Sun, 02 Feb 2025 10:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>💝 情人节互动定制网站 - 邀请你的另一半成为你的情人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifszki/valentines_interactive_customizable_website_ask/</link>
+      <description><![CDATA[我开发了一个免费的开源情人节网站模板，任何人都可以创建自己的互动求婚网站，并邀请他们的伴侣成为他们的情人💘祝您使用这个项目愉快！使用 3.5 Sonnet 的 Cursor 制作。 特点：  🎨 完全可定制 💝 交互元素 🚀 轻松部署 📱 适合移动设备 💯 永久免费  演示： https://end2endai.github.io/valentine-website-2025 GitHub 存储库： https://github.com/End2EndAI/valentine-website-2025 通过个性化网站！    由    /u/louloutrading 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifszki/valentines_interactive_customizable_website_ask/</guid>
+      <pubDate>Sun, 02 Feb 2025 08:38:00 GMT</pubDate>
     </item>
     <item>
       <title>开源生态系统存在哪些薄弱环节？</title>
@@ -99,7 +113,7 @@
     <item>
       <title>如何将 Android 手机翻倍</title>
       <link>https://www.reddit.com/r/opensource/comments/1iekc6e/how_to_double_an_android_phone/</link>
-      <description><![CDATA[你好！ 有没有一种开源方法可以基本上创建手机的副本？我的意思是，安装应用程序时，它将安装在另一部手机中，因此文件会下载等。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
+      <description><![CDATA[你好！ 有没有一种开源方法可以基本上创建手机副本？我的意思是，安装应用程序时，它将安装在另一部手机中，因此文件会下载等。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iekc6e/how_to_double_an_android_phone/</guid>
       <pubDate>Fri, 31 Jan 2025 17:37:06 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/omnisvosscio  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iec9ed/yc_wants_opensource_ai_companies_and_it_got_me/</guid>
       <pubDate>Fri, 31 Jan 2025 10:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找用于将 MQTT 与通知服务集成的开源工具或 Golang 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iec4uu/looking_for_open_source_tools_or_golang_libraries/</link>
-      <description><![CDATA[大家好， 我有一个用例，我之前在集群中运行了一个 MQTT 服务。Telegraf 连接到 MQTT，Prometheus 连接到 Telegraf，Alertmanager 连接到 Prometheus。根据 Prometheus 中定义的规则，警报被发送到 Alertmanager，然后 Alertmanager 根据配置的接收器发送通知。 现在，服务本身正在向 MQTT 主题发送警报。我需要一个可以订阅 MQTT 警报主题并发送通知的开源工具。这个工具应该是高度可配置的。 如果没有可以监听 MQTT 主题并直接发送通知的开源工具，我可以运行一个 Golang 服务来监听 MQTT 主题并向通知服务发送警报。有没有能够监听 MQTT 主题和可以发送通知的库的 Golang 库？如果没有一个库，我可以使用两个库：一个用于监听 MQTT，另一个用于发送通知。 如有任何建议或意见，我们将不胜感激！    提交人    /u/West_Ad7170   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iec4uu/looking_for_open_source_tools_or_golang_libraries/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flowkeeper - 一款遵循原始技术的桌面番茄工作法计时器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ieb3r4/flowkeeper_a_desktop_pomodoro_timer_that_sticks/</link>
-      <description><![CDATA[我想与大家分享Flowkeeper——一个具有“经典”跨平台 UI 范例（Qt6、Python）的番茄工作法计时器，它设计得功能强大、简单但外观美观。它  完全按照原著中的描述实现番茄工作法， 在本地存储您的数据并且不会跟踪您， 支持多种桌面操作系统， 具有便携版本并且不需要管理员权限即可安装， 针对高级用户进行了优化（键盘快捷键和丰富的设置）。  我从 2023 年开始积极开发它。 您的反馈和评论很有帮助！如果您尝试 Flowkeeper，请告诉我您想改进什么，我会尽我所能实现它。 带有屏幕截图和下载的网站：https://flowkeeper.org/ GitHub repo： https://github.com/flowkeeper-org/fk-desktop/    由   提交  /u/setwindowtext   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ieb3r4/flowkeeper_a_desktop_pomodoro_timer_that_sticks/</guid>
-      <pubDate>Fri, 31 Jan 2025 09:30:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

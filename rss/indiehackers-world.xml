@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 02 Feb 2025 09:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 12:02:47 GMT</lastBuildDate>
     <item>
       <title>首次在 Product Hunt 上发布：ArchFormation 加速云基础设施开发！</title>
       <link>https://feed.indiehackers.world/post/48a6139cfb</link>
@@ -23,6 +23,15 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9897812220</guid>
       <pubDate>Mon, 27 Jan 2025 21:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>一兆字节（TB）的数据有多少？</title>
+      <link>https://feed.indiehackers.world/post/35ca9f81dc</link>
+      <description><![CDATA[对于数据分析计算的数据库来说，1TB的数据量是巨大的，Teradata这个名字至今都还不过时。如果一个工具能够流畅地处理TB级的数据，比如将处理时间从几个小时压缩到几分钟，提升用户体验；或者将一个小型分布式环境简化为单机，大大降低运维成本，那么将意义非凡。而esProc SPL就是这样一个工具。
+对于大多数用户场景来说，追求PB级数据处理能力既没有必要，也不切实际。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/35ca9f81dc</guid>
+      <pubDate>Mon, 27 Jan 2025 03:44:56 GMT</pubDate>
     </item>
     <item>
       <title>使用 esProc 对文件执行 SQL 非常方便，与 duckDB 相当</title>
@@ -222,7 +231,7 @@ Discord Indiehackers 聊天广告这里]]></description>
 我目前的产品重点最初是工作场所工具和自动化，但也向其他行业或领域开放。
 我目前正在寻找与产品营销人员/增长人员合作，同时我负责构建/微调产品的技术方面并负责客户的项目。
 理想的候选人应具有 B2B 营销策略方面的丰富背景，并在推动潜在客户生成和客户获取方面拥有良好的业绩记录。 
-如果您对此感兴趣并希望参与此旅程，请随时联系我们。
+如果您对此感兴趣并希望参与此旅程，请随时与我们联系。
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/87b018763b</guid>
       <pubDate>Thu, 16 Jan 2025 13:33:17 GMT</pubDate>
@@ -271,20 +280,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e6774fc45e</guid>
       <pubDate>Tue, 14 Jan 2025 19:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找联合创始人：软件开发人员</title>
-      <link>https://feed.indiehackers.world/post/e198d91f9d</link>
-      <description><![CDATA[我们为何寻找您
-随着 Christian 的离开，我们正在寻找一位才华横溢且具有创业精神的软件开发人员来填补他的职位，并加入我们成为核心团队成员。
-我们当前的项目
-潜在客户开发服务：一种针对德语市场的工具，用于为我们的项目生成潜在客户。我们也会尝试将其出售给其他公司。
-房地产经纪人 CRM 软件：一种为德语国家房地产经纪人量身定制的解决方案。我们已经有三位经纪人预付款并与我们合作。
-如果您有兴趣共同打造有影响力的产品，请与我们聊聊！请通过 me@hofmannmoritz.com 与我联系。
-期待您的来信！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e198d91f9d</guid>
-      <pubDate>Tue, 14 Jan 2025 17:11:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
