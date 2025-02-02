@@ -4,7 +4,20 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 02 Feb 2025 15:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 18:01:51 GMT</lastBuildDate>
+    <item>
+      <title>刚刚在 PH 上推出！</title>
+      <link>https://feed.indiehackers.world/post/a957543731</link>
+      <description><![CDATA[大家好 👋
+我刚刚推出了 Rezifine，这是一款由人工智能驱动的简历生成器，可连接到您的 LinkedIn 帐户或现有简历，并使用职位描述对其进行个性化和优化。目标是帮助用户快速为每份工作创建量身定制的简历，而无需任何麻烦。
+💡 我知道这个领域竞争非常激烈，但这正是我想利用这个机会更多地了解营销、分销和产品定位的原因。
+📢 我非常感谢任何反馈 - 无论是关于产品、登陆页面、入职培训还是营销策略。如果您觉得它很有趣，我将非常感谢任何支持（例如，点赞、分享、测试）。 🙏
+🔗 https://www.producthunt.com/posts/rezifine
+非常感谢，祝您构建愉快！🚀
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/a957543731</guid>
+      <pubDate>Thu, 30 Jan 2025 21:32:10 GMT</pubDate>
+    </item>
     <item>
       <title>首次在 Product Hunt 上发布：ArchFormation 加速云基础设施开发！</title>
       <link>https://feed.indiehackers.world/post/48a6139cfb</link>
@@ -270,16 +283,6 @@ X- https://x.com/GirishGilda99
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/be5f4c4136</guid>
       <pubDate>Wed, 15 Jan 2025 07:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>完成项目的能力——我们如何构建和启动一个简单的 Ping 服务</title>
-      <link>https://feed.indiehackers.world/post/e6774fc45e</link>
-      <description><![CDATA[展望未来，我们很高兴与大家分享我们的下一个项目：Goatchu。Goatchu 是一款专为 SaaS 和企业域量身定制的域名注册商跟踪器。这是我们在构建和发布有意义的工具的旅程中迈出的又一步。更多信息即将发布！
-感谢您的阅读！您在完成项目时是否遇到过类似的困难？您是如何克服的？我们很想听听您的故事。
-我们的技术堆栈：使用 Next.js、PostgreSQL 和 Firebase 的单体架构。
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/e6774fc45e</guid>
-      <pubDate>Tue, 14 Jan 2025 19:31:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
