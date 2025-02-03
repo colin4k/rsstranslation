@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 03 Feb 2025 06:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 09:02:14 GMT</lastBuildDate>
+    <item>
+      <title>最好的程序/人工智能？来查找重复项。</title>
+      <link>https://www.reddit.com/r/software/comments/1igkmw9/best_programai_to_find_duplicates/</link>
+      <description><![CDATA[我知道有一篇与这些类似的帖子，关于查找具有相同文件名/编号的图片。我的问题是我需要找到一个程序来扫描选定的文件夹，并扫描图片本身，而不是编号或类型，并告诉我是否有任何看起来相同的图片。 为什么？我有一个 1200+ miku 图片文件夹，我打算添加，问题是，如果不知道我是否有一两张图片的副本，我无法跟踪 1200 张图片，我不想有任何重复的，我还从多个网站下载这些图片，所以不是所有的图片都共享相同类型的数字或字母。 我希望你能理解，我希望有一个程序，否则我将花很长时间来弄清楚我在哪里有重复的。    提交人    /u/krig_guard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1igkmw9/best_programai_to_find_duplicates/</guid>
+      <pubDate>Mon, 03 Feb 2025 08:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何免费的 PDF 编辑器吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1igj1vs/any_free_pdf_editors/</link>
+      <description><![CDATA[Adobe 竟然希望我付费来编辑 PDF，真是太荒谬了。    提交人    /u/RomanAcril   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1igj1vs/any_free_pdf_editors/</guid>
+      <pubDate>Mon, 03 Feb 2025 06:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>没有原装加密狗也能运行软件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1ighair/is_it_possible_to_run_software_without_the/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>寻找一个轻量级的应用程序来裁剪大量图像</title>
       <link>https://www.reddit.com/r/software/comments/1iggaqu/looking_for_a_light_weight_app_to_crop_lots_of/</link>
-      <description><![CDATA[我有大约 200 张图像，我需要从每张图片中提取/裁剪 5-6 张图像，我需要一个速度快一点的应用程序（因为默认应用程序需要很长时间来加载单个图像），最好有一个键盘快捷键来启动该过程。我在 Windows 上    提交人    /u/Jayant0013   [link] [评论]]]></description>
+      <description><![CDATA[我有大约 200 张图像，我需要从每张图片中提取/裁剪 5-6 张，我需要一个速度快一点的应用程序（因为默认应用程序需要很长时间来加载单个图像），最好有一个键盘快捷键来启动该过程。我在 Windows 上    提交人    /u/Jayant0013   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iggaqu/looking_for_a_light_weight_app_to_crop_lots_of/</guid>
       <pubDate>Mon, 03 Feb 2025 03:55:49 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[这是一个奇怪的请求，但我正在尝试将其考虑在内，并研究尽可能多的软件类别，因为我正在研究一种组织开源软件项目的方法。我显然无法想到每种类型的软件，而且由于我只是一个人，我甚至可能会错过一些非常明显的东西，所以任何事情都有帮助。    由   提交  /u/ThankYouNeutronix_02   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ifoxcx/any_obscure_weird_or_industry_specific_software/</guid>
       <pubDate>Sun, 02 Feb 2025 04:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>家庭备份解决方案的软件和硬件建议</title>
-      <link>https://www.reddit.com/r/software/comments/1ifogk1/software_and_hardware_recommendations_for_at_home/</link>
-      <description><![CDATA[我正在寻找一种解决方案，以便在家庭 WiFi 上对设备进行持续备份。备份无法通过互联网访问。易于使用的东西。寻找硬件和软件——强烈推荐开源软件。 到目前为止，我对找到的各种解决方案感到困惑。 Nextcloud 似乎在做很多不同的事情，我不知道它是否能做我想要的这件事。它是一个个人云，所以文件存储在个人云上，对吗？而我希望它们同时存储在我的设备和备份设备上。此外，它具有互联网连接，这不是我想要的。 Syncthing 说它不是一个好的备份应用程序：https://docs.syncthing.net/users/faq.html#is-syncthing-my-ideal-backup-application 就硬件而言，我需要 NAS 吗？Synology DiskStation 附带自己的专有软件。无论我找到什么开源软件，我都想知道是否可以删除专有软件并在 Synology DiskStation（或其他设备）上安装开源软件。我不想 DIY 设备 - 我想让事情变得简单。我想知道无论我得到什么设备，我是否可以删除专有软件并安装开源软件。    提交人    /u/Fancy_Remove1227   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ifogk1/software_and_hardware_recommendations_for_at_home/</guid>
-      <pubDate>Sun, 02 Feb 2025 03:46:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有类似于 displayfusion 的程序，基本上允许我将程序强制运行到其他显示器/屏幕？</title>
-      <link>https://www.reddit.com/r/software/comments/1iflv7w/is_there_a_program_similar_to_displayfusion_that/</link>
-      <description><![CDATA[我发现有些程序（例如 Roblox）不允许我更改其显示的显示器，即使使用 Windows + Shift + 箭头键也不起作用。我不想更改我的主显示器，因为这会弄乱我当前的设置。有人知道吗？Display fusion 在其免费版本中没有此功能。    提交人    /u/VURORA   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iflv7w/is_there_a_program_similar_to_displayfusion_that/</guid>
-      <pubDate>Sun, 02 Feb 2025 01:25:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

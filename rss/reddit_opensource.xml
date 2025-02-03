@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 03 Feb 2025 06:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 09:02:29 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 问题赏金智能合约：用于解决问题的去中心化赏金系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1igkwo6/github_issue_bounty_smart_contract_a/</link>
+      <description><![CDATA[大家好！ https://github.com/Dartans/BountyChain 我很高兴与大家分享我一直在从事的一个新项目：GitHub Issue Bounty 智能合约。此智能合约允许用户在 GitHub 问题上发布赏金，然后由项目维护人员批准、认领和管理。 主要功能：  发布、增加、批准和认领 GitHub 问题的赏金。 使用分散式流程维护和跟踪问题解决方案。 通过结构化存储库文件 (bountyboard/) 自动验证。 为贡献者提供安全透明的奖励认领流程。  工作原理：  发布赏金：用户可以通过将 ETH 发送到特定 GitHub 问题的合约来创建赏金。 增加赏金：用户可以向现有赏金贡献更多 ETH 以增加奖励。 维护者批准：维护者通过更新结构化文件位于 bountyboard/ 下的存储库中。 领取赏金：问题解决并合并后，修复提交者在验证后即可领取赏金。  工作流程概述：  发布：用户通过 postBounty(issueUrl) 函数提交赏金。 批准：维护人员通过 bountyboard/ 中的文件确认修复。 领取：修复合并后，修复提交者领取赏金，合约通过存储库文件进行验证。  如何开始：  克隆存储库： bashCopyEditgit clone https://github.com/your-username/github-issue-bounty.git 安装依赖项： bashCopyEditnpm install  编译和部署： bashCopyEditnpx hardhat compile npx hardhat run scripts/deploy.js --network &lt;network-name&gt;   安全注意事项：  合约使用结构化的 GitHub 文件（issue-123.json）来验证修复，确保只声明有效的问题。 在声明赏金之前，请确保 bountyboard/ 文件中的钱包地址正确无误。  该系统旨在简化问题解决，为贡献者提供激励，并通过智能合约自动化确保公平性。🚀 在 GitHub 上查看并告诉我你的想法！ 👉 GitHub 存储库链接 编码愉快！👨‍💻👩‍💻   由    /u/Dartans  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1igkwo6/github_issue_bounty_smart_contract_a/</guid>
+      <pubDate>Mon, 03 Feb 2025 08:57:48 GMT</pubDate>
+    </item>
     <item>
       <title>我们在 Apple Silicon 上为 MacOS 和 Linux VM 构建了一个 OSS 轻量级 CLI。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ig9gkx/we_built_an_oss_lightweight_cli_for_macos_linux/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我最近被解雇了，在找工作的时候有一些空闲时间。我想构建一些开源的东西，但我很难想出一个人们会真正使用的想法。 正如标题所说 - 是否有任何付费应用程序或 SaaS 产品您希望有一个可靠的开源替代方案，您可以自行托管？可以是任何东西 - 生产力工具、分析、协作软件等。 很想听听你的想法！    提交人    /u/AbrarYouKknow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1if2bgj/what_premiumpaid_app_or_saas_do_you_wish_had_an/</guid>
       <pubDate>Sat, 01 Feb 2025 08:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年的 SourceForge... 仍然没有暗黑模式？真的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ieyd0b/sourceforge_in_2025_still_no_dark_mode_seriously/</link>
-      <description><![CDATA[我不可能是唯一一个对此感到烦恼的人，对吧？现在是 2025 年，SourceForge 仍然没有暗模式。比如，实现它有多难？其他所有平台很久以前就解决了这个问题，但 SourceForge 就是拒绝这样做。每次我不得不使用他们刺眼的白色 UI 时，我的眼睛都快要死了。 甚至不要让我开始会话处理。您登录，做一些事情，然后砰的一声 — 您再次被注销。为什么？谁知道。必须像 2005 年一样再次登录。 此时，我想知道为什么人们仍然使用这个网站。我遗漏了什么吗？    提交人    /u/WomBOlUm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ieyd0b/sourceforge_in_2025_still_no_dark_mode_seriously/</guid>
-      <pubDate>Sat, 01 Feb 2025 04:24:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

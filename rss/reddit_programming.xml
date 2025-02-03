@@ -4,13 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 03 Feb 2025 06:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 09:02:22 GMT</lastBuildDate>
     <item>
-      <title>寻求有关应用程序设计/要添加的功能的反馈：我制作的一款开源应用程序，用于将 Apple Health 中的数据导出为 CSV 或 XLSX 格式</title>
-      <link>https://www.reddit.com/r/programming/comments/1igih72/seeking_feedback_on_app_design_features_to_add_an/</link>
-      <description><![CDATA[我非常期待您对该应用程序提供的任何反馈。 一些主题包括：  是否应该有一个导出所有按钮 专用设置页面 右上角的共享按钮是否直观？  如果您还有其他问题，请告诉我。这是我在夏天主要构建的一个项目，但在过去一周有了很大的改进，并于今天发布了它的第二个版本。    提交人    /u/SameDayCyborg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1igih72/seeking_feedback_on_app_design_features_to_add_an/</guid>
-      <pubDate>Mon, 03 Feb 2025 06:01:32 GMT</pubDate>
+      <title>构建了昂贵的 OpenGraph 图像服务的免费开源替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1igkv95/built_a_free_opensource_alternative_to_expensive/</link>
+      <description><![CDATA[  由    /u/Skirdogg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igkv95/built_a_free_opensource_alternative_to_expensive/</guid>
+      <pubDate>Mon, 03 Feb 2025 08:54:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩大我们的速率限制以准备迎接十亿个活跃证书</title>
+      <link>https://www.reddit.com/r/programming/comments/1igkpij/scaling_our_rate_limits_to_prepare_for_a_billion/</link>
+      <description><![CDATA[  由    /u/onlyzohar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igkpij/scaling_our_rate_limits_to_prepare_for_a_billion/</guid>
+      <pubDate>Mon, 03 Feb 2025 08:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>40 个最佳免费开源 NoSQL 数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1igklw4/40_best_free_and_open_source_nosql_databases/</link>
+      <description><![CDATA[  由    /u/Veerans  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igklw4/40_best_free_and_open_source_nosql_databases/</guid>
+      <pubDate>Mon, 03 Feb 2025 08:34:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>LeetCode 1752：综合指南，包含四种方法来检查排列是否...</title>
+      <link>https://www.reddit.com/r/programming/comments/1igkkvn/leetcode_1752_comprehensive_guide_with_four/</link>
+      <description><![CDATA[  由    /u/Mysterious-3636  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igkkvn/leetcode_1752_comprehensive_guide_with_four/</guid>
+      <pubDate>Mon, 03 Feb 2025 08:31:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用新颖的日历算法进行优化</title>
+      <link>https://www.reddit.com/r/programming/comments/1igjb1d/optimizing_with_novel_calendrical_algorithms/</link>
+      <description><![CDATA[  由    /u/jhpratt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igjb1d/optimizing_with_novel_calendrical_algorithms/</guid>
+      <pubDate>Mon, 03 Feb 2025 06:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>缺少跨平台的定时器操作系统 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1igik53/the_missing_crossplatform_os_api_for_timers/</link>
+      <description><![CDATA[  由    /u/broken_broken_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igik53/the_missing_crossplatform_os_api_for_timers/</guid>
+      <pubDate>Mon, 03 Feb 2025 06:06:30 GMT</pubDate>
     </item>
     <item>
       <title>比较 Jetson Orin Nano 上用 TensorRT（FP16、INT8）量化的 YOLOv8 的推理性能</title>
@@ -48,7 +83,7 @@
       <pubDate>Sun, 02 Feb 2025 19:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>Okta Bcrypt 事件可以教会我们如何设计更好的 API</title>
+      <title>Okta Bcrypt 事件给我们带来的教训：如何设计更好的 API</title>
       <link>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</link>
       <description><![CDATA[  由    /u/_n0rdy_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/sundaray  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ifyr4z/what_is_pkce_flow/</guid>
       <pubDate>Sun, 02 Feb 2025 14:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有一天我教人工智能像高级开发人员一样阅读代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1ify48z/the_day_i_taught_ai_to_read_code_like_a_senior/</link>
-      <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ify48z/the_day_i_taught_ai_to_read_code_like_a_senior/</guid>
-      <pubDate>Sun, 02 Feb 2025 14:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Rust 中进行系统调用：向内核请求服务</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifxnv5/making_system_calls_in_rust_requesting_services/</link>
-      <description><![CDATA[  由    /u/Idkwhyweneedusername  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifxnv5/making_system_calls_in_rust_requesting_services/</guid>
-      <pubDate>Sun, 02 Feb 2025 13:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular CLI 技巧和窍门：提高你的生产力</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifwxz3/angular_cli_tips_and_tricks_boost_your/</link>
-      <description><![CDATA[  由    /u/MysteriousEye8494  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifwxz3/angular_cli_tips_and_tricks_boost_your/</guid>
-      <pubDate>Sun, 02 Feb 2025 13:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Docker Compose 中管理机密 — 开发人员指南 | Phase 博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifwnz9/managing_secrets_in_docker_compose_a_developers/</link>
-      <description><![CDATA[  由    /u/ascendence  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifwnz9/managing_secrets_in_docker_compose_a_developers/</guid>
-      <pubDate>Sun, 02 Feb 2025 12:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码艺术的悄然消亡：人工智能如何抹去编程的灵魂</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifvxx6/the_silent_death_of_code_artistry_how_ai_is/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifvxx6/the_silent_death_of_code_artistry_how_ai_is/</guid>
-      <pubDate>Sun, 02 Feb 2025 12:11:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
