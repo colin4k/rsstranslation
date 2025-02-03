@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 03 Feb 2025 00:04:12 GMT</lastBuildDate>
-    <item>
-      <title>AI安全应用商店</title>
-      <link>https://www.reddit.com/r/opensource/comments/1igaf2o/ai_secure_app_store/</link>
-      <description><![CDATA[这是来自 YC RFS 的。随着所有 AI 开发人员的事情的展开，我感到有点失落和沮丧……我认为围绕这​​个建立一个 OSS 社区会很有趣也很愉快。但我对这个想法又爱又恨，想知道人们是否真的想要它，以及他们希望它如何服务。可能不会适用于 yc。 “安全的 AI 应用商店 - Garry Tan 我们想要一种位于您的计算机或手机上的新型 AI 应用商店和操作系统层。它应该： 保护用户数据用户控制每个应用可以看到哪些信息（例如您的日历、文件或浏览内容），但前提是用户同意。提供一个共享内存您的所有个人详细信息（偏好、过去的行为、上下文）都保留在此层中，而不是分散在十几个应用中。帮助用户找到最好的 AI 应用此应用商店会审查和审核每个 AI 工具，以便用户可以安全地发现和安装它们。帮助开发人员构建开发人员获得帮助他们避免重新发明简单 API 中提供的轮子的基础设施（例如计算机使用、本地 LLaMA 版本控制和应用程序级访问控制）处理付款轻松支付付费应用或服务。想象一下一个旅行 AI，它擅长寻找航班，它知道你通常和喜欢盯着窗外看的九岁孩子一起旅行，或者一个 AI 助手，当你阅读文章或书籍时推荐出现某个想法的原始文本。在这个应用商店上构建的应用程序只会拥有你（用户）允许的一小部分数据。我们需要这样的系统，这样 AI 才能既强大又私密。”    提交人    /u/Beginning-Park8494   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1igaf2o/ai_secure_app_store/</guid>
-      <pubDate>Sun, 02 Feb 2025 23:03:25 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Feb 2025 06:03:18 GMT</lastBuildDate>
     <item>
       <title>我们在 Apple Silicon 上为 MacOS 和 Linux VM 构建了一个 OSS 轻量级 CLI。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ig9gkx/we_built_an_oss_lightweight_cli_for_macos_linux/</link>
@@ -53,13 +46,6 @@
       <description><![CDATA[        提交人    /u/mariuz   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ig0dn4/documentdb_opensource_announcement/</guid>
       <pubDate>Sun, 02 Feb 2025 16:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个 AI 扩展来处理面试中那些烦人的系统设计问题（需要前端帮助来修复错误）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifz9i1/created_an_ai_extension_to_handle_those_annoying/</link>
-      <description><![CDATA[我厌倦了在后端职位的面试中被问及前端架构和系统设计模式。在第 100 位面试官要求我从头开始设计 Instagram 的 feed 之后（我是一名 Python 后端开发人员），我决定创建一些东西。 我构建了一个 Chrome 扩展程序，它可以收听 Google Meet 字幕并使用 Claude API 自动回答那些典型的系统设计问题，每个面试官似乎都痴迷于这些问题。你知道的，那些与实际工作无关的问题。 GitHub：https://github.com/iklobato/interview-answers-ai 后端正在运行 - 它可以捕获字幕、处理问题并获得 AI 响应。但由于我是一名 Python 开发人员，自大学毕业后就没有接触过 CSS 和 jQuery，所以我需要前端部分方面的帮助。用户界面……我觉得还行。目前看起来像 Windows 98 对话框。而且我在上面发现了一些错误，我对 js 很不满意 它的作用： - 监视 Google Meet 字幕 - 检测面试官何时提问 - 将其提供给 Claude - 在浮动窗口中显示答案 我需要帮助的地方： - 使 UI 看起来不像是由后端开发人员设计的 - 修复错误，有时不显示答案队列 - 更好的答案显示 - 我可能违反了一般的前端最佳实践 - Chrome 扩展程序结构改进 在有人问之前 - 是的，这部分是出于对我在申请 Python API 职位时因不了解前端缓存策略而被拒绝的所有面试的怨恨。 如果您对贡献，查看 repo。是的，我知道在面试中使用人工智能是有争议的，但要求后端开发人员在 2025 年设计一个响应式移动 UI 也同样有争议。 这显然是为了练习/模拟面试，而不是真正的面试。    提交人    /u/Ok-Intern-8921   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifz9i1/created_an_ai_extension_to_handle_those_annoying/</guid>
-      <pubDate>Sun, 02 Feb 2025 15:11:49 GMT</pubDate>
     </item>
     <item>
       <title>问：只用一条公开短信来表达对开源项目的赞赏的工具？</title>
@@ -144,6 +130,20 @@
       <description><![CDATA[大家好，r/opensource 社区， 我目前正在使用 macOS，并计划使用开源应用程序复制 Apple 生态系统的无缝集成。具体来说，我想运行一个开源应用程序的多个实例，每个实例都使用独特的配置、名称和图标进行自定义，并确保这些自定义设置能够通过自动更新持续存在。 目标： 1. 多个自定义实例： • 在 macOS 上运行开源应用程序（例如电子邮件客户端）的单独实例。 • 为每个实例分配不同的配置，例如不同的帐户或设置。 • 使用独特的名称和图标自定义每个实例，以便于识别。 2.通过更新保持持久性： • 确保应用程序自动更新后，所有自定义（包括配置、名称和图标）保持不变。 遇到的挑战： • 运行多个实例： • 复制应用程序或使用终端命令（如 open -n -a &quot;AppName&quot;）允许启动多个实例，这些实例通常共享相同的配置文件，从而导致冲突。 • 持久自定义： • 应用于应用程序实例的自定义名称和图标在自动更新后往往会恢复为默认状态，需要手动重新应用。 请求协助： 我正在寻求建议或经过验证的策略，以在 macOS 上实现以下目标： • 隔离配置： • 运行同一应用程序的多个实例的方法，每个实例都保持自己单独的配置，而不会受到干扰。 • 维护更新后的自定义： • 确保分配给每个应用程序实例的自定义名称和图标在应用程序自动更新后仍然存在的技术。 • 替代方法： • 开源生态系统中的任何其他解决方案或最佳实践，以促进在 macOS 上实现这种级别的自定义和持久性。 我很感激社区可以共享，以帮助实现一个丰富的可定制和持久的开源应用程序的 macOS 环境，反映 Apple 生态系统的凝聚力体验。 感谢您的帮助！ 此致敬意，    提交人    /u/HibaraiMasashi   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1if2t4r/seeking_guidance_running_multiple_customized/</guid>
       <pubDate>Sat, 01 Feb 2025 09:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>您希望哪些高级/付费应用程序或 SaaS 拥有开源、自托管版本？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1if2bgj/what_premiumpaid_app_or_saas_do_you_wish_had_an/</link>
+      <description><![CDATA[我最近被解雇了，在找工作的时候有一些空闲时间。我想构建一些开源的东西，但我很难想出一个人们会真正使用的想法。 正如标题所说 - 是否有任何付费应用程序或 SaaS 产品您希望有一个可靠的开源替代方案，您可以自行托管？可以是任何东西 - 生产力工具、分析、协作软件等。 很想听听你的想法！    提交人    /u/AbrarYouKknow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1if2bgj/what_premiumpaid_app_or_saas_do_you_wish_had_an/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年的 SourceForge... 仍然没有暗黑模式？真的吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ieyd0b/sourceforge_in_2025_still_no_dark_mode_seriously/</link>
+      <description><![CDATA[我不可能是唯一一个对此感到烦恼的人，对吧？现在是 2025 年，SourceForge 仍然没有暗模式。比如，实现它有多难？其他所有平台很久以前就解决了这个问题，但 SourceForge 就是拒绝这样做。每次我不得不使用他们刺眼的白色 UI 时，我的眼睛都快要死了。 甚至不要让我开始会话处理。您登录，做一些事情，然后砰的一声 — 您再次被注销。为什么？谁知道。必须像 2005 年一样再次登录。 此时，我想知道为什么人们仍然使用这个网站。我遗漏了什么吗？    提交人    /u/WomBOlUm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ieyd0b/sourceforge_in_2025_still_no_dark_mode_seriously/</guid>
+      <pubDate>Sat, 01 Feb 2025 04:24:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

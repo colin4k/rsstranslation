@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 03 Feb 2025 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 06:03:12 GMT</lastBuildDate>
+    <item>
+      <title>寻求有关应用程序设计/要添加的功能的反馈：我制作的一款开源应用程序，用于将 Apple Health 中的数据导出为 CSV 或 XLSX 格式</title>
+      <link>https://www.reddit.com/r/programming/comments/1igih72/seeking_feedback_on_app_design_features_to_add_an/</link>
+      <description><![CDATA[我非常期待您对该应用程序提供的任何反馈。 一些主题包括：  是否应该有一个导出所有按钮 专用设置页面 右上角的共享按钮是否直观？  如果您还有其他问题，请告诉我。这是我在夏天主要构建的一个项目，但在过去一周有了很大的改进，并于今天发布了它的第二个版本。    提交人    /u/SameDayCyborg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igih72/seeking_feedback_on_app_design_features_to_add_an/</guid>
+      <pubDate>Mon, 03 Feb 2025 06:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较 Jetson Orin Nano 上用 TensorRT（FP16、INT8）量化的 YOLOv8 的推理性能</title>
+      <link>https://www.reddit.com/r/programming/comments/1igfiae/comparing_the_inference_performance_of_yolov8/</link>
+      <description><![CDATA[  由    /u/Loud-Insect9247  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1igfiae/comparing_the_inference_performance_of_yolov8/</guid>
+      <pubDate>Mon, 03 Feb 2025 03:13:27 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 Apple Silicon 上的 MacOS 和 Linux VM 的 OSS 轻量级 CLI</title>
       <link>https://www.reddit.com/r/programming/comments/1ig9hik/oss_lightweight_cli_for_macos_linux_vms_on_apple/</link>
       <description><![CDATA[  由    /u/sandropuppo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig9hik/oss_lightweight_cli_for_macos_linux_vms_on_apple/</guid>
       <pubDate>Sun, 02 Feb 2025 22:22:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>缺少跨平台的定时器操作系统 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1ig9a91/the_missing_crossplatform_os_api_for_timers/</link>
-      <description><![CDATA[  由    /u/broken_broken_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ig9a91/the_missing_crossplatform_os_api_for_timers/</guid>
-      <pubDate>Sun, 02 Feb 2025 22:13:28 GMT</pubDate>
     </item>
     <item>
       <title>将程序存储在 URL 中</title>
@@ -41,7 +48,7 @@
       <pubDate>Sun, 02 Feb 2025 19:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>Okta Bcrypt 事件给我们带来的教训：如何设计更好的 API</title>
+      <title>Okta Bcrypt 事件可以教会我们如何设计更好的 API</title>
       <link>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</link>
       <description><![CDATA[  由    /u/_n0rdy_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig50uz/what_okta_bcrypt_incident_can_teach_us_about/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>借助 Java 中的 Teeing 收集器，使用 Streams 同步处理数据</title>
       <link>https://www.reddit.com/r/programming/comments/1ig3vf8/procesamiento_simultáneo_de_datos_con_streams/</link>
-      <description><![CDATA[ 由   发送/u/emanuelpeg  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   发送 /u/emanuelpeg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ig3vf8/procesamiento_simultáneo_de_datos_con_streams/</guid>
       <pubDate>Sun, 02 Feb 2025 18:28:20 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ifvxx6/the_silent_death_of_code_artistry_how_ai_is/</guid>
       <pubDate>Sun, 02 Feb 2025 12:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过蓝牙控制伺服电机 - 找不到视频中链接的代码（在评论中解释）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ifvd7y/controlling_servo_motors_via_bluetooth_cant_find/</link>
-      <description><![CDATA[  由    /u/WEAR_A_WATCH  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ifvd7y/controlling_servo_motors_via_bluetooth_cant_find/</guid>
-      <pubDate>Sun, 02 Feb 2025 11:31:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
