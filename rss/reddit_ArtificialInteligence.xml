@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 21:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 00:03:27 GMT</lastBuildDate>
+    <item>
+      <title>你如何使用人工智能服务来保护你的隐私，每个在线产品使用不同的电子邮件，或者什么</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ig8uxq/how_do_you_use_ai_services_regarding_your_privacy/</link>
+      <description><![CDATA[我认为他们都有合理的隐私政策......但是......我不知道。不知何故，我开始对使用这些产品、随心所欲地表达自己、在特定时间分享和搜索感兴趣的东西感到有点不安。    提交人    /u/relightit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ig8uxq/how_do_you_use_ai_services_regarding_your_privacy/</guid>
+      <pubDate>Sun, 02 Feb 2025 21:55:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有没有人将 OAI API 密钥与他们的 Azure/AWS 的 IaaC 融合在一起来管理他们的基础设施？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ig8qho/has_anyone_here_infused_oai_api_key_with_their/</link>
+      <description><![CDATA[大家好！👋 我构建了一个小型系统，其中 AI 代理通过 SSH 连接到各种机器以监控服务状态并生成报告。虽然这很有效，但我觉得我只是触及了可能性的表面。 当前设置： - 可以 SSH 连接到多台机器的 AI 代理 - 自动检查服务状态 - 生成报告 - 目标：减少我们顾问的手动工作 我正在寻找： 1. 在 IT 运营/基础设施中使用的 AI 代理的真实示例 2. 超越基本监控的创意用例 3. 自主解决问题的想法（例如，可以识别和解决常见问题的代理） 4. 扩展此概念以处理更复杂场景的方法 对于那些已经实施过类似系统的人：你解决了哪些有趣的问题？有什么意想不到的好处或挑战吗？我对显著减少人工干预的用例特别感兴趣。 提前感谢您分享您的经验！    提交人    /u/Tecr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ig8qho/has_anyone_here_infused_oai_api_key_with_their/</guid>
+      <pubDate>Sun, 02 Feb 2025 21:49:58 GMT</pubDate>
+    </item>
     <item>
       <title>保护欧洲企业和公民免受高风险人工智能侵害的欧盟法律开始生效。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ig6r6p/eu_laws_protecting_european_businesses_and/</link>
@@ -123,20 +137,6 @@
       <description><![CDATA[因此，显然，人工智能公司正陷入困境，缺乏训练模型的优质数据。每个人都专注于芯片之战，但下一场大战可能围绕着数据展开。诉讼、更严格的 API 规则（基本上是任何社交媒体网站）以及对不正当使用数据的指控使得抓取互联网数据变得更加困难。 现在有关于使用合成数据的理论，即在人工智能生成的数据上训练人工智能，以及人们可能共享数据以换取加密货币的去中心化系统。听起来很酷，但这足以激励人们共享数据吗？ 我最初在《福布斯》上读到这篇文章，如果你想深入了解的话，这里有文章，但我认为这是一个有趣的话题，因为每个人都高度关注中国与美国的人工智能竞赛。    提交人    /u/nadofa841   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifc2dj/are_we_running_out_of_data_for_ai/</guid>
       <pubDate>Sat, 01 Feb 2025 17:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能推荐一本学习人工智能和机器学习核心概念的书给我吗？我是一名有抱负的电子工程师，但我想了解更多关于 AIML 的知识</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core/</link>
-      <description><![CDATA[我想学习人工智能的核心概念和本质。有人可以推荐一本关于这个主题的好书吗    提交人    /u/CassiasZI   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if7v29/can_anyone_recommend_me_a_book_to_learn_the_core/</guid>
-      <pubDate>Sat, 01 Feb 2025 14:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>通向奇点之路</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if61cf/path_to_singularity/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if61cf/path_to_singularity/</guid>
-      <pubDate>Sat, 01 Feb 2025 13:13:43 GMT</pubDate>
     </item>
     <item>
       <title>只需几个步骤就能改变人工智能世界！</title>
