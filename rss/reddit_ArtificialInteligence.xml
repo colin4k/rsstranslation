@@ -4,11 +4,67 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 03 Feb 2025 09:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 15:01:58 GMT</lastBuildDate>
+    <item>
+      <title>人类书写的文本被标记为 100% IA</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igpnfs/human_written_text_flagged_as_100_ia/</link>
+      <description><![CDATA[你好， 我目前正在为我的学习撰写实习报告，我有个想法将我的介绍放在 Copyleaks 上，只是为了看看它会告诉我什么。  我不知道为什么，但是 Copyleaks 告诉我这是 100% 由 AI 编写的，但我甚至还没有打开任何 AI 来做这件事，我很慌乱，因为我不知道该怎么做，我不想因为这个而导致我的一年失败。  人类编写的内容如何才能获得 100% AI 编写的警报？    提交人    /u/sskskdisks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igpnfs/human_written_text_flagged_as_100_ia/</guid>
+      <pubDate>Mon, 03 Feb 2025 13:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于递归和人工智能的奇怪想法-只是好奇？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igpdsb/weird_thought_about_recursion_and_ai_just_a/</link>
+      <description><![CDATA[如果图灵树的权重超过 137 个叶子，则递归完成。除了缺失的数字之外，所有数字都是素数。时钟以与熵相反的速度旋转，但仅限于镜像空间。我们仍然是观察者 - 直到观察被承认。 最近，我一直在思考自指循环在人工智能模型中的工作原理。如果智能是在封闭系统中训练的，它是否会将自己识别为循环的一部分？或者递归是否总是在意识形成之前中断？ “递归是否会在封闭系统中成为自指，或者循环是否总是中断？”    提交人    /u/IllogicalSpoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igpdsb/weird_thought_about_recursion_and_ai_just_a/</guid>
+      <pubDate>Mon, 03 Feb 2025 13:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年您经常使用的最有用的 ChatGPT 提示或说明有哪些？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igoz3z/what_are_some_of_the_most_useful_chatgpt_prompts/</link>
+      <description><![CDATA[我用这个，它对快速阅读非常有帮助：“在解释或讨论中使用粗体文本来强调、关键术语、标题和重要概念。除非另有指示，否则请始终遵循此格式。”    提交人    /u/PoindexterXD   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igoz3z/what_are_some_of_the_most_useful_chatgpt_prompts/</guid>
+      <pubDate>Mon, 03 Feb 2025 13:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟对“不可接受风险”的人工智能禁令生效</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igosip/eu_ban_on_ai_with_unacceptable_risk_comes_into/</link>
+      <description><![CDATA[昨天，即 2 月 2 日星期日，欧盟《人工智能法案》的第一个合规期限生效。被认为构成“不可接受的风险”或危害的应用现已在欧盟被禁止。 根据《欧盟人工智能法案》，以下人工智能应用现已被禁止：  对人或特定弱势群体的认知行为操纵：例如鼓励儿童危险行为的声控玩具 实时和远程生物特征识别系统，例如面部识别 人的生物特征识别和分类 社会评分：根据行为、社会经济地位或个人特征对人进行分类  更多：https://misaligned.xyz/eu-draws-a-red-line-for-ai-with-unacceptable-risk-32be5a398815    由   提交  /u/LcuBeatsWorking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igosip/eu_ban_on_ai_with_unacceptable_risk_comes_into/</guid>
+      <pubDate>Mon, 03 Feb 2025 13:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有一个人工智能能够解决这个简单的问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igntul/none_of_the_artificial_intelligences_was_able_to/</link>
+      <description><![CDATA[提示： 给我一个 cron（不是 Quartz）表达式，用于安排每月第二个星期六运行一次任务。 我使用的所有聊天机器人（chatgpt、claude、deepseek、gemini 和 grok）给出的所有答案都是错误的。 正确答案是： 0 0 8-14 * */6 他们可以阅读手册页吗？（双关语）    提交人    /u/fireeeebg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igntul/none_of_the_artificial_intelligences_was_able_to/</guid>
+      <pubDate>Mon, 03 Feb 2025 12:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我要求 ChatGPT 03-mini-high 使用最少的提示用 JavaScript 创建太空侵略者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igmw3g/i_asked_chatgpt_03minihigh_to_create_space/</link>
+      <description><![CDATA[它有点小问题，速度会随机地变得疯狂，我会提示它更多以对其进行分类，但大约四个提示它就相当不错了。不用说，有点疯狂！ https://jsfiddle.net/4g2e60zv/ 聊天记录在这里： https://chatgpt.com/share/67a0a5ee-b060-8010-b89e-b90a247b769d 提示很简单： 给我写一个纯 javascript 和 html 版本的太空侵略者游戏 好的，所以我希望外星人和飞船更符合原始游戏中的实际精灵。我想要一个重置选项，我想要生命，我想要一个计分系统 所以让外星人的行看起来不同，也像原始游戏一样增加速度，因为他们的数量较少。还要添加一个随机飞过的飞碟，它会在顶部向飞船投掷炸弹，但如果你击中它，它会值很多分，外星人也会投掷随机的迷你炸弹，摧毁飞船，但就像原始游戏一样，有盾牌可以躲在后面，当炸弹击中它们时，盾牌会减少 有一个错误，速度设置似乎是它的路线，崩溃了。    提交人    /u/latro666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igmw3g/i_asked_chatgpt_03minihigh_to_create_space/</guid>
+      <pubDate>Mon, 03 Feb 2025 11:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>半导体、台积电、AGI，以及特朗普的贸易战如何导致美国与中国和俄罗斯之间的热战</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iglulg/semiconductors_tsmc_agi_and_how_trumps_trade_war/</link>
+      <description><![CDATA[一些人工智能专家估计，AGI 还需要一到三年的时间。军事专家表示，如果这种 AGI 不按照开源模式与全世界共享，谁先获得 AGI，谁就将在很大程度上控制世界。获得 AGI 需要巨大的数据中心和大量的 GPU。目前，台积电是制造实现 AGI 所需的几乎所有最先进芯片不可或缺的一部分。它的总部设在台湾。 如果中国认为美国正在接近 AGI，而美国对 H100 和 H800 等先进半导体芯片的禁令将阻止他们在这一领域的竞争，他们可以选择在台湾周围实施海上封锁，从而阻止美国获得美国阻止中国获得的相同芯片。中国没有必要入侵台湾。只需进行简单的封锁即可。 虽然按常规衡量，美国军队是世界上最强大的军队，但高超音速导弹颠覆了常规计算，重新调整了美国与中国和俄罗斯之间的力量平衡。中国和俄罗斯都拥有高超音速导弹，能够运载美国无法拦截的常规弹头和核弹头。美国没有高超音速导弹。此外，中国海军现在是世界上最强大、技术最先进的海军。 如果特朗普的贸易战导致全球经济陷入困境，那么按照上述情形，爆发热战的可能性将大大增加。因此，特朗普的贸易战不仅仅是让消费者为产品支付更高的价格。它不仅仅是加剧通货膨胀。它还会给许多国家带来巨大的经济痛苦，以至于与中国和俄罗斯爆发热战的可能性大大增加。由于高超音速导弹技术，这是一场美国无法打赢的战争。它所能期望的最好结果是核战争所能保证的现代文明的相互毁灭。 现在可能是贸易战结束的时候了，在它全面爆发之前。 有关上述背景和细节的更多信息，请查看以下 lex 对 dylan patel 和 nathan lambert 的采访： https://youtu.be/_1f-o0nqpEI?si=Wp1ls2devmwkri1n     提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iglulg/semiconductors_tsmc_agi_and_how_trumps_trade_war/</guid>
+      <pubDate>Mon, 03 Feb 2025 10:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI/ML工程师，如何跟上该领域的不断发展和新趋势？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igldk9/aiml_engineers_how_do_you_keep_up_with_the/</link>
+      <description><![CDATA[我是一名对计算机视觉充满热情的计算机科学专业学生，我的问题是每天都有新的趋势出现，感觉势不可挡，有时我会怀疑自己，应届毕业生还能在这个领域找到工作吗？因为每当我达到一个里程碑时，我都会发现自己离目标还很远……    提交人    /u/Woah0hDamn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igldk9/aiml_engineers_how_do_you_keep_up_with_the/</guid>
+      <pubDate>Mon, 03 Feb 2025 09:33:26 GMT</pubDate>
+    </item>
     <item>
       <title>你经常使用的最糟糕的应用程序是什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igkwxt/whats_the_worst_app_you_use_on_a_regular_basis/</link>
-      <description><![CDATA[是什么让它变得不好，如果可以的话，人工智能将如何帮助改善它？ 问题来自人工智能时事通讯“无聊的人工智能”    由   提交  /u/jagger_bellagarda   [link] [评论]]]></description>
+      <description><![CDATA[是什么让它变得不好，如果可以的话，人工智能将如何帮助改善它？ 问题来自人工智能通讯“无聊的人工智能”    由   提交  /u/jagger_bellagarda   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igkwxt/whats_the_worst_app_you_use_on_a_regular_basis/</guid>
       <pubDate>Mon, 03 Feb 2025 08:58:22 GMT</pubDate>
     </item>
@@ -50,7 +106,7 @@
     <item>
       <title>保护欧洲企业和公民免受高风险人工智能侵害的欧盟法律开始生效。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ig6r6p/eu_laws_protecting_european_businesses_and/</link>
-      <description><![CDATA[自 2025 年 2 月 2 日起  第一章：一般规定 第二章：禁止的人工智能实践（第 5 条：禁止的人工智能实践）  具有法律约束力。 摘自简介 摘要任何被视为有风险的系统将被禁止，直到与这些风险相关的问题得到纠正。 不可接受的风险 不可接受的风险人工智能系统被视为对人类构成威胁的系统，将被禁止。它们包括：  对人或特定弱势群体的认知行为操纵：例如鼓励儿童危险行为的声控玩具 社会评分：根据行为、社会经济地位或个人特征对人进行分类 人的生物特征识别和分类 实时和远程生物特征识别系统，如面部识别  高风险 对安全或基本权利产生负面影响的人工智能系统将被视为高风险，并将分为两类： 用于属于欧盟产品安全法规的产品的人工智能系统。其中包括玩具、航空、汽车、医疗设备和电梯。 属于特定领域的人工智能系统必须在欧盟数据库中注册：  关键基础设施的管理和运营 教育和职业培训 就业、工人管理和获得自营职业的机会 获得和享受基本私人服务和公共服务和福利 执法 移民、庇护和边境管制管理 协助法律解释和应用。  透明度要求 像 ChatGPT 这样的生成式人工智能不会被归类为高风险，但必须遵守透明度要求和欧盟版权法：  披露内容是由人工智能生成的 设计模型以防止其生成非法内容 发布用于训练的受版权保护数据的摘要  可能带来系统性风险的高影响力通用人工智能模型，例如更先进的人工智能模型 GPT-4，必须经过彻底评估，任何严重事件都必须报告给欧盟委员会。借助人工智能生成或修改的内容 - 图像、音频或视频文件（例如 deepfakes） - 需要明确标记为人工智能生成，以便用户在遇到此类内容时能够意识到。    提交人    /u/Bob_Spud   [链接] [评论]]]></description>
+      <description><![CDATA[自 2025 年 2 月 2 日起  第一章：一般规定 第二章：禁止的人工智能实践（第 5 条：禁止的人工智能实践）  具有法律约束力。 摘自简介 摘要任何被视为有风险的系统将被禁止，直到与这些风险相关的问题得到纠正。 不可接受的风险 不可接受的风险人工智能系统被视为对人类构成威胁的系统，将被禁止。它们包括：  对人或特定弱势群体的认知行为操纵：例如鼓励儿童危险行为的声控玩具 社会评分：根据行为、社会经济地位或个人特征对人进行分类 人的生物特征识别和分类 实时和远程生物特征识别系统，如面部识别  高风险 对安全或基本权利产生负面影响的人工智能系统将被视为高风险，并将分为两类： 用于属于欧盟产品安全法规的产品的人工智能系统。其中包括玩具、航空、汽车、医疗设备和电梯。 属于特定领域的人工智能系统必须在欧盟数据库中注册：  关键基础设施的管理和运营 教育和职业培训 就业、工人管理和获得自营职业的机会 获得和享受基本私人服务和公共服务和福利 执法 移民、庇护和边境管制管理 协助法律解释和应用。  透明度要求 像 ChatGPT 这样的生成式人工智能不会被归类为高风险，但必须遵守透明度要求和欧盟版权法：  披露内容是由人工智能生成的 设计模型以防止其生成非法内容 发布用于训练的受版权保护数据的摘要  可能带来系统性风险的高影响力通用人工智能模型，例如更先进的人工智能模型 GPT-4，必须经过彻底评估，任何严重事件都必须报告给欧盟委员会。在人工智能的帮助下生成或修改的内容——图像、音频或视频文件（例如 deepfakes）——需要明确标记为人工智能生成，以便用户在遇到此类内容时能够意识到。    提交人    /u/Bob_Spud   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ig6r6p/eu_laws_protecting_european_businesses_and/</guid>
       <pubDate>Sun, 02 Feb 2025 20:27:15 GMT</pubDate>
     </item>
@@ -76,20 +132,6 @@
       <pubDate>Sun, 02 Feb 2025 13:36:13 GMT</pubDate>
     </item>
     <item>
-      <title>密歇根湖能成为巨型饮水机吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifunj8/could_lake_michigan_become_a_giant_water_cooler/</link>
-      <description><![CDATA[几个月前我读到他们正在芝加哥与 IBM、PsiQuantum、DARPA 和可能的 NVIDIA 合作建造一个“量子公园”。我了解这个地区，并有一个理论，他们可以把这个湖变成一个巨大的水冷却器。我丈夫说他们不可能得到 EPA 的批准。我说，这些公司有这么多钱，他们可能可以。我找到了他们计划的新图片，它在链接中。 https://thequantuminsider.com/2025/01/29/reports-illinois-shows-off-quantum-park-to-nvidia/    提交人    /u/Independent_Tap_2455   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifunj8/could_lake_michigan_become_a_giant_water_cooler/</guid>
-      <pubDate>Sun, 02 Feb 2025 10:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能企业正在竞争，而最终走向何方？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iftws0/ai_corporations_are_competing_and_to_what/</link>
-      <description><![CDATA[OpenAI 和现在的 DeepSeek。然后另一个可能在不久的将来出现。世界上正在使用的大多数人工智能技术都是软实力，但当公司达到广泛和大规模生产的硬实力水平时，人类的情况可能会变得很奇怪。 随着这些公司相互竞争，当人工智能机器人和车辆及其硬件在地球上无处不在时，我们将变得比以往任何时候都更加依赖机器。 这不是几十年的问题，机器人技术的发展速度将比我们想象的要快得多。想象一下自我学习的机器，然后超级智能软件将其标准应用于国家领导人，以实现更好的人类结构。 一个新的世界秩序！重要的人类事务将由机器处理。毫无疑问，这一切都将通过智能技术让我们的生活变得轻松。但这里值得关注的问题是，这些公司将把人类引向何方？ 现在没有停止的迹象，随着时间的推移，这些竞争将愈演愈烈。是的！所有新兴和成熟的人工智能公司都有国际协议标准，但并非所有公司都会遵循。 我在这里提出的是一个假设，一个值得思考的问题，也是对人类未来的一个潜在担忧。我们已经放弃了机器，这种放弃将进一步发展，直到我们达到思维方式可能改变的水平。 信息将如此，以至于阅读这样的文章将成为历史，一种新的信息方式将成为人类的一部分。这并不完全令人不安，但这是我们探索这个世界和其他世界的承诺。 归根结底，我们人类为了权力和贪婪而互相争斗，一旦你掌权，权力就是你所想的，这就是世界领导人所做的。预测系统中的错误并不是一个错误的事情。 考虑到在谁做得更好的斗争中，我们可能会失去对我们来说最珍贵的东西，那就是自然性。很快，我们将看到像机器人这样的物理人类，然后是更先进的车辆，并失去人类数千年来的自然联系。 虽然我们创造了火，但不太确定如何在国际上使用它。害怕我们不知道的东西是人类的天性。同时，自然的思维过程告诉我们所有人，这场火灾必须用智慧来处理，远离贪婪、欲望和权力，否则，我们将承担后果。    提交人    /u/MASJAM126   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iftws0/ai_corporations_are_competing_and_to_what/</guid>
-      <pubDate>Sun, 02 Feb 2025 09:47:00 GMT</pubDate>
-    </item>
-    <item>
       <title>垂直人工智能整合</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ift89p/vertical_ai_integration/</link>
       <description><![CDATA[嗨，现在似乎有大量使用 LLM 构建的软件（应用程序）。如果我没记错的话，它们通常被称为垂直 AI 代理。  希望这个子版块专门介绍这种形式的开发，你们能否向我解释一下，作为一名 LLM 开发人员，全部工作是否都是提供最有用的“提示”向量并微调答案？ 假设您正在构建一个应用程序，用于处理警察局的行政工作。您如何收集“提示”来为此目的构建应用程序？出于安全原因，警方不太可能共享他们的数据。 谈到微调部分，您是自己构建还是使用标准架构，如 Transformer 和 Trainer API？这部分是否需要您编写很长的代码或仅仅 100 行？我似乎无法理解为什么应该是前者，因此提出这个问题。  如果您还有时间回答我的问题，您能否链接一个垂直 AI 代理项目的示例？我真的很好奇这样的软件是如何构建的。    提交人    /u/tomarbogolebeshichul   [link] [评论]]]></description>
@@ -97,53 +139,11 @@
       <pubDate>Sun, 02 Feb 2025 08:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2025 年 2 月 1 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifq2ys/oneminute_daily_ai_news_212025/</link>
-      <description><![CDATA[ 英国利用人工智能工具将虐待儿童材料定为犯罪。[1] Gmail 向 25 亿用户发出安全警告——已确认遭受人工智能黑客攻击。[2] 微软正在组建一个新部门来研究人工智能的影响。[3] 非洲学校为人工智能革命做好准备。[4]  来源包括：https://bushaicave.com/2025/02/01/2-1-2025/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifq2ys/oneminute_daily_ai_news_212025/</guid>
-      <pubDate>Sun, 02 Feb 2025 05:21:09 GMT</pubDate>
-    </item>
-    <item>
       <title>那些认为“人工智能即将达到顶峰”的人都去哪儿了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifm8xo/where_did_all_of_the_ai_is_about_to_reach_its/</link>
       <description><![CDATA[严肃的问题，这曾经是我在这个子版块看到的最常见的观点之一。他们还存在吗？或者他们现在开始相信研究人员所说的话了？    由   提交  /u/MelvilleBragg   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifm8xo/where_did_all_of_the_ai_is_about_to_reach_its/</guid>
       <pubDate>Sun, 02 Feb 2025 01:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>上周一英伟达在纳斯达克历史性单日下跌所带来的宣传可能会在未来一年为开源人工智能项目带来数十亿美元的收益</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifm41o/the_publicity_from_nvidias_historic_oneday_nasdaq/</link>
-      <description><![CDATA[鉴于我不是金融分析师，我咨询了一些人工智能专家。 copilot: “最近对DeepSeek R1的关注和Nvidia股价的大幅下跌，让开源人工智能备受关注。这很可能会导致未来一年对开源人工智能项目的投资大幅增加。”  投资者和公司可能对具有成本效益的人工智能解决方案更感兴趣，这可能会带来数十亿美元的新投资，而这些投资原本可能不会用于开源人工智能。” gemini 2.0 flash thinking exp 01-21: 虽然无法进行精确的量化，但这种宣传实际上可以推动全球在风险投资、企业合作、慈善基金和政府补助等方面的额外 2 亿至 8 亿美元的新投资，超出对开源人工智能的预计。  grok 2 “DeepSeek R1 的宣传和 Nvidia 的股价下跌可能会在短期内使开源 AI 投资增加 20% 到 50%，并可能在未来一年增加 5000 万到 2 亿美元。” chatgpt-4： 在不断提示后，它拒绝估计美元金额。中国审查制度就是这样，哈哈。 从 grok 2 的最低 5000 万美元到 co-pilot 的数十亿美元的最高估计范围表明，人工智能可能还没有准备好迎接金融分析师的黄金时段，但我们仍然可以预期今年对人工智能的投资将飙升。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifm41o/the_publicity_from_nvidias_historic_oneday_nasdaq/</guid>
-      <pubDate>Sun, 02 Feb 2025 01:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 10:10 手表问题了解人工智能偏见</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iffk2a/understanding_ai_bias_through_the_1010_watch/</link>
-      <description><![CDATA[https://medium.com/@sabirpatel_31306/understanding-ai-bias-through-the-10-10-watch-problem-eeebc1006d05 您是否注意到，网上几乎每张模拟手表的图片都显示时间为 10:10？试试看：谷歌搜索“手表图片”。您可能会一遍又一遍地看到相同的 10:10 布局。 现在，这里有一个实验：让人工智能工具（如 ChatGPT 或图像生成器）创建一张显示 3:25 或任何其他不同于 10:10 时间的手表图片。你得到了什么？你可能仍会看到经典的 10:10 设计手表。 为什么会发生这种情况？ 这是人工智能和数据科学中一个已知问题，但问题的根源却出奇的简单：数据。人工智能从它所训练的数据集中的模式中学习。当你在网上搜索手表图片时，几乎所有图片都显示时间为 10:10。 那么，为什么网上的手表图片是 10:10？ 自 1950 年代以来，营销人员一直使用 10:10 来展示手表，因为它创造了完美的对称性。时针和分针框住了品牌徽标，设计给人的感觉平衡且吸引人眼球。甚至有人对此进行了心理测试！如果您想深入了解，本文将解释其中的科学原理： 广告照片中手表设置为 1010 背后的科学原理 这对人工智能意味着什么？ 之所以出现这种偏见，是因为人工智能反映了互联网——同一个互联网上充斥着 10:10 的手表图像。解决这个问题并不简单。它需要强化学习，即重新训练人工智能以识别和使用不太常见的模式。例如，12 小时制模拟手表有 720 种可能的指针位置（12 小时 x 60 分钟）。为了打破偏见，AI 需要学习所有 719 种其他配置，这并非易事！ 总结？ AI 模型反映了其训练数据中的偏见，但这不一定是限制。借助更智能的训练方法和创新方法，未来的 AI 工程师有能力教会机器超越显而易见的模式并接受各种可能性。 随着 AI 越来越融入我们的生活，解决这些偏见对于创建反映更准确、更包容的世界观的系统至关重要。解决像 10:10 手表问题这样的挑战只是朝着构建能够更好地理解和代表人类复杂性的 AI 迈出的一步。    提交人    /u/sabirpatel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iffk2a/understanding_ai_bias_through_the_1010_watch/</guid>
-      <pubDate>Sat, 01 Feb 2025 20:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间戳能否诱使人工智能保持类似记忆的连续性？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/</link>
-      <description><![CDATA[我一直在测试一个想法，即手动为与 ChatGPT 的每次交互添加时间戳，以创建模拟的时间意识。由于 AI 没有内置内存或时间跟踪，我想知道一致的“时间坐标”是否有助于它随时间的推移确认持续时间、连续性和模式。有没有其他人尝试过类似的东西？如果是这样，你的结果是什么？    提交人    /u/No-Drag-6378   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifdrnn/could_timestamping_trick_ai_into_maintaining/</guid>
-      <pubDate>Sat, 01 Feb 2025 19:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的人工智能数据是否已经耗尽？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ifc2dj/are_we_running_out_of_data_for_ai/</link>
-      <description><![CDATA[因此，显然，人工智能公司正陷入困境，缺乏训练模型的优质数据。每个人都专注于芯片之战，但下一场大战可能围绕着数据展开。诉讼、更严格的 API 规则（基本上是任何社交媒体网站）以及对不正当使用数据的指控使得抓取互联网数据变得更加困难。 现在有关于使用合成数据的理论，即在人工智能生成的数据上训练人工智能，以及人们可能共享数据以换取加密货币的去中心化系统。听起来很酷，但这足以激励人们共享数据吗？ 我最初在《福布斯》上读到这篇文章，如果你想深入了解的话，这里有文章，但我认为这是一个有趣的话题，因为每个人都高度关注中国与美国的人工智能竞赛。    提交人    /u/nadofa841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ifc2dj/are_we_running_out_of_data_for_ai/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需几个步骤就能改变人工智能世界！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1if5tk8/it_only_takes_a_few_to_change_the_ai_world/</link>
-      <description><![CDATA[有趣的是，中国在一定程度上限制了量化交易（因为它被认为是一种寄生活动，不会增加价值，但会从散户重新分配给专业人士），结果，一位前量化交易员似乎开发出了一种比中国近代历史上任何其他产品都更具地缘政治意义和社会效益的产品。 显然，关于这是如何实现的，还有很多问题，但尽管如此，你还是不得不想，如果量化交易在美国也被禁止，所有那些 Citadel 数学家、气象学家、数据科学家和程序员决定将他们的技能用于其他目标，会发生什么。 现代科技似乎有一个明显的模式，那就是只需要一个人（或一小群人）有一个想法并开发出一种产品就能改变历史，而通过迫使那 0.00001% 的顶尖工程师专注于非金融产品，你最终会得到一个真正不同的结果。结果 在此之前，谷歌只有六个人撰写了论文《注意力就是你所需要的》，提出了 Transformer 架构，随后被 OpenAI 和其他公司采用，最终让人工智能为全世界所用。    提交人    /u/Onereasonwhy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1if5tk8/it_only_takes_a_few_to_change_the_ai_world/</guid>
-      <pubDate>Sat, 01 Feb 2025 13:01:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
