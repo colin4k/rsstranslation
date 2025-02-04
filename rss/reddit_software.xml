@@ -4,11 +4,60 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 04 Feb 2025 03:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 09:02:44 GMT</lastBuildDate>
+    <item>
+      <title>计划的 PC 任务：计划在您的 PC 上模拟操作</title>
+      <link>https://www.reddit.com/r/software/comments/1ihcy0l/scheduled_pc_tasks_schedule_simulation_of_actions/</link>
+      <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作的模拟。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的^^（使用 Qt6 的 C++）： https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ihcy0l/scheduled_pc_tasks_schedule_simulation_of_actions/</guid>
+      <pubDate>Tue, 04 Feb 2025 08:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ai 图像生成器或编辑器</title>
+      <link>https://www.reddit.com/r/software/comments/1ihcjv6/ai_image_generator_or_editor/</link>
+      <description><![CDATA[我试过这个链接。好奇地想找出我可以调整的其他内容！我也使用张量艺术。也欢迎提出类似的建议！    提交人    /u/Sonulob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ihcjv6/ai_image_generator_or_editor/</guid>
+      <pubDate>Tue, 04 Feb 2025 07:43:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个人工智能笔记工具来节省时间——希望得到您的反馈！</title>
+      <link>https://www.reddit.com/r/software/comments/1ihbx9x/i_built_an_aipowered_notetaking_tool_to_save_time/</link>
+      <description><![CDATA[大家好！ 我一直在开发BoltNote.ai，这是一款基于人工智能的生产力工具，可帮助您更快地记录和整理笔记，揭示想法之间的联系，并获得即时的上下文感知答案 - 这样您就可以专注于实际工作，而不仅仅是记录它。 这个想法来自我在特斯拉工作期间，在那里我看到仅仅试图记录我们全天所做的事情会损失多少生产力。我想要一个可以为你完成繁重工作的工具。 现在，BoltNote.ai可以免费试用，我很想听听这个社区的想法——特别是如果你一直在寻找一种更好的方式来管理笔记而不打乱你的工作流程。 这对你的设置有用吗？你认为哪些功能会让它变得更好？ 在这里试试：https://boltnote.ai 期待你的想法！    提交人    /u/Humble-Opportunity-1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ihbx9x/i_built_an_aipowered_notetaking_tool_to_save_time/</guid>
+      <pubDate>Tue, 04 Feb 2025 06:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助了解 AutoHotKey</title>
+      <link>https://www.reddit.com/r/software/comments/1ihb9ve/need_help_understanding_autohotkey/</link>
+      <description><![CDATA[大家好，我在工作中使用 AHK 1.1.37.02。我开始编写脚本，并正在通过 CHatGPT 慢慢学习如何使用 AHK。基本上，我需要用不同的按键反复做几件事： 1）打开一个已经打开的窗口 2）检查是否在正确的窗口中显示正确的选项卡 3）按一些按钮复制一些文本或点击屏幕而不是窗口的特定位置，然后复制文本 4）计算我复制了多少个项目 5）打开另一个窗口（例如 Gmail） 6）检查是否在正确的选项卡（例如“收件箱”而不是“已发送”） 7）将您复制的内容粘贴到特定位置并按下键盘上的这些按键。 没有大量代码的情况下编写这些东西的最佳方法是什么？我遇到的主要问题是检查它是否是正确的选项卡，如果是错误的选项卡则进行更改。此外，如果是错误的，它应该停止代码。我也尝试告诉代码将鼠标移动到哪里，然后左键单击以更改选项卡，但坐标始终相对于我处于活动状态的窗口，当我更改活动窗口时，它会弄乱我的代码 如果您需要更多详细信息，我很乐意提供。 提前谢谢您    提交人    /u/Ocrim-Issor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ihb9ve/need_help_understanding_autohotkey/</guid>
+      <pubDate>Tue, 04 Feb 2025 06:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许嵌入视频或 gif 的 Android 笔记软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1ihakwm/android_notetaking_software_that_allows_embedding/</link>
+      <description><![CDATA[正如标题所述，我想插入与我正在写的内容相关的视频（或至少是 gif）。任何适用于 Android 的应用程序都可以做到这一点？OneNote 不行。提前致谢。    提交人    /u/Kuwaysah   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ihakwm/android_notetaking_software_that_allows_embedding/</guid>
+      <pubDate>Tue, 04 Feb 2025 05:29:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个本地通用文件转换器，它不会将您的文件发送到不可靠的服务器</title>
+      <link>https://www.reddit.com/r/software/comments/1ihah2p/i_made_a_local_universal_file_converter_that/</link>
+      <description><![CDATA[  由    /u/jakecoolguy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ihah2p/i_made_a_local_universal_file_converter_that/</guid>
+      <pubDate>Tue, 04 Feb 2025 05:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助提取字幕</title>
+      <link>https://www.reddit.com/r/software/comments/1ih9z39/help_extracting_subtitles/</link>
+      <description><![CDATA[通常，为了从视频中提取字幕到 SRT 文件，我会使用命令 ffmpeg -i &lt;inputFile&gt; &lt;outputFile.srt&gt;。对于偶尔出现的视频，这不起作用 - ffmpeg 报告没有字幕轨道。有时我可以使用名为 CCExtractor 的程序。但有些视频这两种方法都不起作用。 有问题的视频肯定有字幕轨道。我可以用 Windows 视频播放器选择它。我可以使用 MediaInfo 看到它。但尽管我尝试过许多视频字幕程序，但我无法从其中一些视频中提取。 有什么建议吗？ 这是其中一个问题视频的（已编辑）mediainfo： 常规完整名称：L:\stream\Law &amp; Order\S16\junk\Law and Order - Acid (Recorded Jan 12,2025,WEHD-E,16,10).mp4 格式：MPEG-4 格式配置文件：基本媒体 编解码器 ID：isom（isom/iso2/avc1/mp41） 文件大小：1.50 GiB 文本 #1 ID：1-CC1 格式：EIA-608 多路复用模式：SCTE 128 / DTVCC 传输多路复用模式，更多信息：多路复用在视频 #1 中 持续时间：1 小时 4 分钟 开始时间：901 毫秒 比特率模式：恒定 流大小：0.00 字节（0%） 第一个事件前的帧数：54 第一个事件的类型：PopOn 文本 #2 ID：1-1 格式：EIA-708 多路复用模式：SCTE 128 / DTVCC 传输复用模式，更多信息：在视频 #1 中复用持续时间：1 小时 4 分钟比特率模式：恒定流大小：0.00 字节 (0%)    提交人    /u/hspindel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ih9z39/help_extracting_subtitles/</guid>
+      <pubDate>Tue, 04 Feb 2025 04:54:02 GMT</pubDate>
+    </item>
     <item>
       <title>PDF：帮助我退出 Adob​​e。*搜索* 点击重要，但有些编辑：例如裁剪、OCR 等。</title>
       <link>https://www.reddit.com/r/software/comments/1ih67jc/pdfs_help_me_quit_adobe_search_hits_important_but/</link>
-      <description><![CDATA[Adobe Acrobat 的订阅费非常昂贵。而且它通常会随着时间的推移而变得更糟。而且它很慢，因为它必须不断检查您的订阅。而且您很难关闭新的烦人功能，它们会通过自动更新重新打开。  我想把 Adob​​e 从我的生活中驱逐出去。有人能推荐一些改进的 PDF 编辑器吗？  让我给你一些更具体的参数来区分这篇文章：如果可能的话，最好是无需订阅即可使用？最好是一家似乎关心制作有用软件的公司，至少和 $ 提取一样多。  我的具体用例要求它在搜索命中和搜索命中之间移动时功能强大。（Acrobat 有单独的搜索窗口，这还好。）  需要进行一些编辑：OCR、裁剪等。  使用键盘快捷键导航的能力也非常重要。  有什么想法吗？     由    /u/zoechowber 提交   [链接] [评论]]]></description>
+      <description><![CDATA[Adobe Acrobat 的订阅费非常昂贵。而且它通常会随着时间的推移而变得更糟。而且它很慢，因为它必须不断检查您的订阅。而且您很难关闭新的烦人功能，它们会通过自动更新重新打开。 我想把 Adob​​e 从我的生活中驱逐出去。有人能推荐一些改进的 PDF 编辑器吗？ 让我给你一些更具体的参数来区分这篇文章：如果可能的话，最好是无需订阅即可使用？最好是一家似乎关心制作有用软件的公司，至少和 $ 提取一样多。 我的具体用例要求它在搜索命中和搜索命中之间移动时功能强大。 （Acrobat 有单独的搜索窗口，这很好。） 需要进行一些编辑：OCR、裁剪等。 使用键盘快捷键导航的能力也非常重要。 有什么想法吗？ 编辑：更喜欢可以在 Mac 和 PC 上运行的东西。对 Linux 不感兴趣。    提交人    /u/zoechowber   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ih67jc/pdfs_help_me_quit_adobe_search_hits_important_but/</guid>
       <pubDate>Tue, 04 Feb 2025 01:36:47 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[大家好！首先我要说的是，我以前从未刻录过 DVD 或类似的东西，所以如果这个问题的答案太明显，我深表歉意。据我所知，仅仅通过 Windows 刻录 DVD 无法通过普通 DVD 播放器播放视频，因此我安装了 DVD 样式器来制作一个非常基本的菜单。例如，菜单是一个图像、文件名称和一个播放按钮。视频文件本身是 1.4GB，而我要刻录的光盘可以占用 4.7GB。现在，当我尝试使用 DVD 样式器生成 DVD 文件或其他文件时，它会生成一个 4.9GB（！！！）大的文件，然后说光盘太小，无法刻录。 我的问题是，我做错了什么，DVD 样式器将 1.4GB 的视频 + 一个简单的菜单变成了近 5GB？我想将文件和内容转换为 DVD 格式会使其更大一些，但大约 3 倍于原始大小似乎有点多。 谢谢！    提交人    /u/But_A_Simple_Pancake   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1igunnr/issues_w_dvd_styler_it_keeps_making_small_files/</guid>
       <pubDate>Mon, 03 Feb 2025 17:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以阻止设备使用的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1igu7vw/looking_for_software_that_can_block_devices_from/</link>
-      <description><![CDATA[我正在寻找一些可以阻止使用设备的软件，因为我的弟弟总是偷偷溜下楼玩游戏或看电视，直到睡前（有时他甚至会在午夜后还呆着）。我和我妈妈试图让他在睡觉前待在楼上，阻止他上网，更改他的密码，诸如此类的事情。当我大声呵斥他时，他说“我不会再这样做了”，第二天他又会做同样的事情（有时甚至是同一天）。然后到了早上，他抱怨他感觉有多累……    提交人    /u/real_dantrm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igu7vw/looking_for_software_that_can_block_devices_from/</guid>
-      <pubDate>Mon, 03 Feb 2025 17:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qtranslate - 有人知道这个应用程序的替代品吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1igu6qx/qtranslate_does_anyone_know_alternatives_to_this/</link>
-      <description><![CDATA[这是一个很棒的应用程序，但我已经有几年没有看到任何更新了。开发者网站不起作用。它在 github 上吗？有没有类似但名称不同的分叉项目？ QTranslate - 下载    由   提交  /u/Subjectobserver   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igu6qx/qtranslate_does_anyone_know_alternatives_to_this/</guid>
-      <pubDate>Mon, 03 Feb 2025 17:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似适用于 macOS 的 Xbox Game Bar 的录音软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1igtnle/recording_software_like_xbox_game_bar_for_macos/</link>
-      <description><![CDATA[正如标题所说，我正在寻找可以在 MacBook 上使用的软件，其功能类似于 Xbox Game Bar，主要用于录制带有视频和音频的讲座。谢谢！    提交人    /u/nirihs   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igtnle/recording_software_like_xbox_game_bar_for_macos/</guid>
-      <pubDate>Mon, 03 Feb 2025 16:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软曾经安装过。我可以不订阅就恢复吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1igrxlm/microsoft_used_to_be_installed_can_i_get_it_back/</link>
-      <description><![CDATA[您好！ 不久前我的电脑出现了问题，不得不将我的台式机恢复出厂设置。我不能 200% 确定我遇到了这个问题，但我相当确定我安装了 Microsoft Word 以及其他几个 Microsoft 程序。前几天我在找 Word，但它似乎没有安装。我的笔记本电脑上有它。有没有办法将它安装在台式机上而不必支付 365 的订阅费用？将它从我的笔记本电脑复制到我的台式机是否合法？我以为它与我的 Microsoft 帐户相关联。    提交者    /u/HippocratesII_of_Kos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igrxlm/microsoft_used_to_be_installed_can_i_get_it_back/</guid>
-      <pubDate>Mon, 03 Feb 2025 15:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>依赖关系跟踪</title>
-      <link>https://www.reddit.com/r/software/comments/1igmx8t/dependency_tracking/</link>
-      <description><![CDATA[我想跟踪特定于我的组织的包的依赖关系。依赖项可能与基础紧密耦合。如果我想创建一个运行该工具的最佳容器，那么跟踪依赖项的最佳方法是什么？如果您可以建议一些步骤（而不仅仅是工具名称）来提高效率，那就太好了。  谢谢。    提交人    /u/psyfcuc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igmx8t/dependency_tracking/</guid>
-      <pubDate>Mon, 03 Feb 2025 11:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好我需要帮助</title>
-      <link>https://www.reddit.com/r/software/comments/1igmao0/hello_i_need_help/</link>
-      <description><![CDATA[我想知道电脑上的哪个软件可以帮助我黑掉别人电脑的屏幕，例如我想远程控制别人电脑的屏幕，而他却不知道我在他的电脑上做了什么更改或触摸。有人能帮我找到那个软件吗     提交人    /u/Recent-Tangerine9912   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igmao0/hello_i_need_help/</guid>
-      <pubDate>Mon, 03 Feb 2025 10:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的程序/人工智能？来查找重复项。</title>
-      <link>https://www.reddit.com/r/software/comments/1igkmw9/best_programai_to_find_duplicates/</link>
-      <description><![CDATA[我知道有一篇与这些类似的帖子，关于查找具有相同文件名/编号的图片。我的问题是我需要找到一个程序来扫描选定的文件夹，并扫描图片本身，而不是编号或类型，并告诉我是否有任何看起来相同的图片。 为什么？我有一个 1200+ miku 图片文件夹，我打算添加，问题是，如果不知道我是否有一两张图片的副本，我无法跟踪 1200 张图片，我不想有任何重复的，我还从多个网站下载这些图片，所以不是所有的图片都共享相同类型的数字或字母。 我希望你能理解，我希望有一个程序，否则我将花很长时间来弄清楚我在哪里有重复的。    提交人    /u/krig_guard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1igkmw9/best_programai_to_find_duplicates/</guid>
-      <pubDate>Mon, 03 Feb 2025 08:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
