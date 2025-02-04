@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 04 Feb 2025 00:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 03:02:49 GMT</lastBuildDate>
+    <item>
+      <title>私人人工智能有需求吗</title>
+      <link>https://www.reddit.com/r/programming/comments/1ih7a3p/is_there_demand_for_private_ai/</link>
+      <description><![CDATA[我做了一个，想赚钱。这是链接 https://www.kickstarter.com/projects/intelliai/intelli-ai    提交人    /u/Techsavykid   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ih7a3p/is_there_demand_for_private_ai/</guid>
+      <pubDate>Tue, 04 Feb 2025 02:28:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Erlang 中的并发第 11 部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1ih72if/concurrencia_en_erlang_parte_11/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ih72if/concurrencia_en_erlang_parte_11/</guid>
+      <pubDate>Tue, 04 Feb 2025 02:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个人都知道你的位置：通过应用内广告追踪我</title>
+      <link>https://www.reddit.com/r/programming/comments/1ih6lej/everyone_knows_your_location_tracking_myself_down/</link>
+      <description><![CDATA[  由    /u/ScottContini  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ih6lej/everyone_knows_your_location_tracking_myself_down/</guid>
+      <pubDate>Tue, 04 Feb 2025 01:55:32 GMT</pubDate>
+    </item>
     <item>
       <title>Web 样式的历史：Tables、Zen Garden、Sass、BEM、CSS-in-JS 和 Tailwind</title>
       <link>https://www.reddit.com/r/programming/comments/1ih2z2i/a_history_of_web_styling_tables_zen_garden_sass/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1igzfc8/fstrings_for_c26_proposal_pdf/</guid>
       <pubDate>Mon, 03 Feb 2025 20:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby“线程争用”其实就是 GVL 队列</title>
-      <link>https://www.reddit.com/r/programming/comments/1igzebh/ruby_thread_contention_is_simply_gvl_queuing/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1igzebh/ruby_thread_contention_is_simply_gvl_queuing/</guid>
-      <pubDate>Mon, 03 Feb 2025 20:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>逆向工程 Apple 的 typedstream 格式</title>
-      <link>https://www.reddit.com/r/programming/comments/1igzdv1/reverse_engineering_apples_typedstream_format/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1igzdv1/reverse_engineering_apples_typedstream_format/</guid>
-      <pubDate>Mon, 03 Feb 2025 20:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>装饰器 JIT：Python 作为 DSL</title>
-      <link>https://www.reddit.com/r/programming/comments/1igzdgc/decorator_jits_python_as_a_dsl/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1igzdgc/decorator_jits_python_as_a_dsl/</guid>
-      <pubDate>Mon, 03 Feb 2025 20:40:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
