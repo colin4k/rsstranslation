@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 03 Feb 2025 18:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 00:03:49 GMT</lastBuildDate>
+    <item>
+      <title>smolmodels：从自然语言生成机器学习模型的开源库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ih2oju/smolmodels_opensource_library_to_generate_machine/</link>
+      <description><![CDATA[我构建了一个库，可以根据自然语言描述生成完整的模型训练和推理代码。在底层，它维护一个图表来跟踪不同的模型架构，并使用它们的性能来指导改进。 核心思想是自动化寻找正确模型架构和训练方法的反复试验过程。您可以提供自己的训练数据，也可以让库根据您的输入/输出架构要求生成合成数据。这让您在投资数据收集之前就可以快速尝试不同的模型设计。 Repo：https://github.com/plexe-ai/smolmodels 非常欢迎对该项目的任何想法/反馈！    提交人    /u/Imaginary-Spaces   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ih2oju/smolmodels_opensource_library_to_generate_machine/</guid>
+      <pubDate>Mon, 03 Feb 2025 22:55:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seafile 自定义颜色主题生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ih2asf/seafile_custom_color_theme_generator/</link>
+      <description><![CDATA[我使用 Seafile 已有多年，允许您插入自己的 CSS 代码的功能已经推出一段时间了。此功能使您能够自定义整个用户界面以匹配您喜欢的颜色或俱乐部或公司的颜色。 到目前为止，我一直依赖各种生成器根据原色创建适当的 CSS 代码。但是，我找不到适合 Seafile 12 的生成器，因此我决定自己构建一个：https://github.com/server-camp/seafile-custom-css-theme-generator 此外，还有一个托管实例可供您快速生成 CSS：https://server.camp/seafile-custom-css/ 我尽可能保持代码简单，同时确保它足够灵活以支持任意数量的 CSS 模板。 将来，我甚至可能会为 Seafile 12 创建暗模式或探索其他设计选项。 我渴望听到您对这个项目的想法，并期待您的任何反馈！ :)    提交人    /u/tldev_de   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ih2asf/seafile_custom_color_theme_generator/</guid>
+      <pubDate>Mon, 03 Feb 2025 22:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gost-DOM - Go 的无头浏览器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ih0xzb/gostdom_a_headless_browser_for_go/</link>
+      <description><![CDATA[为了支持 Go 中 Web 应用程序的 TDD 方法，我开始了一个疯狂的项目，用 Go 构建了一个无头浏览器。我把它称为 Gost-DOM。 这项工作比我预想的要多一些，而且我才刚刚开始。 但今天，我推出了第一个版本，能够支持 Go 的基本 HTMX 应用程序。它嵌入了一个 V8 引擎来支持脚本，但真正酷的部分是：您甚至不需要启动服务器。 在 Go 中，Web 应用程序“只是”一个接收 HTTP 请求并提供响应的功能。不同的组件允许组合，具有高级路由逻辑，但 Web 服务器本身有一个功能作为入口点。 Gost 可以直接使用 http 处理程序函数，使 http 处理程序像任何其他组件一样成为被测组件。 这消除了 TCP 堆栈的开销，以及在多个不同端口上打开/关闭 TCP 侦听器的负担。 有了这个，您可以轻松模拟依赖项，独立于业务规则测试 Web 层，并并行运行测试。 我在 golang subreddit 中写了一篇较长的帖子，介绍了当前实现的内容：https://www.reddit.com/r/golang/comments/1ign58c/gostdom_reaches_version_01_formerly_godom/    提交人    /u/stroiman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ih0xzb/gostdom_a_headless_browser_for_go/</guid>
+      <pubDate>Mon, 03 Feb 2025 21:43:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 Craylm，第一个具有 CC-0 许可的统一 AMD 优化 LLM 训练和推理堆栈。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1igyw38/introducing_craylm_the_first_unified_amdoptimized/</link>
+      <description><![CDATA[Craylm 现已开源 - 推出第一个使用 CC-0 许可证针对 AMD 和 NVIDIA 优化的统一 LLM 训练和推理堆栈。我们创建了 Craylm，以简化具有高级推理和记忆功能的强化学习代理的开发，类似于 DeepSeek R1。通过将推理和训练引擎集成到单一平台中，Craylm 能够无缝生成和利用推理轨迹进行训练更新，从而简化开发过程。  今天，我们推出了 Craylm，这是我们最先进的开源 LLM 训练和推理堆栈的第一代。 在以下位置下载源代码和预构建容器：https://github.com/cray-lm/cray-lm  在以下位置阅读文档：https://docs.cray-lm.com 在我们的博客中阅读有关 Craylm 设计的更多信息：https://tensorwave.com/blog/introducing-craylm-v0-5-unifying-llm-inference-and-training-for-rl-agents 我们发布 Craylm 时采用了宽松的 CC-0 许可（“无保留权利”），允许不受限制的商业使用。  Craylm 建立在 vLLM 推理引擎、Megatron-LM 训练框架和 HuggingFace 模型中心之上。虽然这些框架单独使用时功能强大，但结合起来效果会更好。 Craylm 将它们统一到一个平台中，使开发人员能够轻松执行 LLM 推理和训练，并构建可以持续学习的更高级应用程序（如 LLM-Agents）。 为了支持我们对开源的长期信念，我们将 Craylm 交到社区手中。我们希望启动领域特定 LLM 的开发浪潮，这些 LLM 可以深入学习新的能力、事实和推理策略。我们相信，有了坚实而开放的基础，这一新一轮的发展将会更快到来。    提交人    /u/TensorWaveCloud   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1igyw38/introducing_craylm_the_first_unified_amdoptimized/</guid>
+      <pubDate>Mon, 03 Feb 2025 20:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[OSS] CompAI (Vanta/Drata 的开放替代品)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1igycq8/oss_compai_open_alternative_to_vantadrata/</link>
+      <description><![CDATA[        提交人    /u/lewisbuildsai_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1igycq8/oss_compai_open_alternative_to_vantadrata/</guid>
+      <pubDate>Mon, 03 Feb 2025 19:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shellsage - 人工智能终端助手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1igw04s/shellsage_aipowered_terminal_assistant/</link>
+      <description><![CDATA[功能 Shell Sage 是一个终端伴侣，它可以帮助您：  立即修复错误：自动诊断命令失败并建议精确的修复方法 示例：giit push → &quot;检测到拼写错误：使用 git push&quot; 从英语生成命令：将普通语言翻译为可执行命令 示例：“查找大型日志文件”→ find /var/log -name &quot;*.log&quot; -size +100M 安全工作：在执行之前确认有风险的操作（rm、chmod等）  为什么它很有用  对于初学者：减少“找不到命令” 适用于专家：节省调试复杂管道的时间 适用于所有人：本地 AI 模式可让您的终端活动保持私密  关键区别 与仅限云的工具不同，Shell Sage：✅ 使用 Ollama/Local AI 100% 离线运行✅ 解释为什么修复有效，而不仅仅是运行什么✅ 适应您的工作流程（Git/Docker 感知） 如果您……请尝试一下  经常忘记 tar/scp 标志 想要更快地学习 CLI 模式 更喜欢以隐私为中心的 AI 工具  我真的需要帮助解决已知的怪癖：  上下文感知并不完美（例如，有时会错过 Git/Docker 提示） 本地模型可能会产生幻觉（它正在尽力！） Windows 支持......正在进行中  GitHub  早期项目 - 非常感谢对实际用例的反馈！    提交人    /u/Scared-Astronaut-718   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1igw04s/shellsage_aipowered_terminal_assistant/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:26:08 GMT</pubDate>
+    </item>
     <item>
       <title>转向开源 Azure 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1iguh9m/moving_to_open_source_azure_alternative/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[您好， 是否存在一个工具/网站，仅通过一条短信即可表达您对开源项目的赞赏？ 无需捐赠，只需一条评论和一条文字。 人们可以评论开源项目如何在日常生活中帮助他们，为什么他们喜欢使用此工具等等。 所有评论都是公开的。它不像向开源维护者发送电子邮件那样是私密的。    提交人    /u/unixf0x   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ifycsa/ask_tool_for_showing_your_appreciation_to_an_open/</guid>
       <pubDate>Sun, 02 Feb 2025 14:28:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>银行应用程序？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifwaw0/banking_app/</link>
-      <description><![CDATA[是否有银行应用程序或服务，我可以在其中连接我的信用卡或银行应用程序并收集所有信息？    提交人    /u/Goldgamer-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifwaw0/banking_app/</guid>
-      <pubDate>Sun, 02 Feb 2025 12:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚拟大师的开源替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifvdgr/opensource_alternative_to_virtual_master/</link>
-      <description><![CDATA[  由    /u/WorldlyEye1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifvdgr/opensource_alternative_to_virtual_master/</guid>
-      <pubDate>Sun, 02 Feb 2025 11:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>💝 情人节互动定制网站 - 邀请你的另一半成为你的情人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifszki/valentines_interactive_customizable_website_ask/</link>
-      <description><![CDATA[我开发了一个免费的开源情人节网站模板，任何人都可以创建自己的互动求婚网站，并邀请他们的伴侣成为他们的情人💘祝您使用这个项目愉快！使用 Cursor 3.5 Sonnet 制作。 特点：  🎨 完全可定制 💝 交互元素 🚀 轻松部署 📱 适合移动设备 💯 永久免费  演示： https://end2endai.github.io/valentine-website-2025 GitHub 存储库： https://github.com/End2EndAI/valentine-website-2025 通过个性化网站！    由    /u/louloutrading 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifszki/valentines_interactive_customizable_website_ask/</guid>
-      <pubDate>Sun, 02 Feb 2025 08:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源生态系统存在哪些薄弱环节？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifh61a/what_are_some_weak_areas_of_the_opensource/</link>
-      <description><![CDATA[在当前大批外国科技公司通过在线服务、数据收集和贸易战等手段控制我们数字生活的环境下...  OSS 生态系统中缺少什么？  根据我自己的观察：  没有相当于组策略的东西，这意味着企业桌面仍将保留在 Windows 上。 Outlook 和 Exchange。   随着 O365 和 CoPilot 的推动，我觉得离线替代方案还有空间。是什么阻止了替代方案的建立？   Adobe。这不是我受影响的事情，但这是我最常听到的。  我认为社区缺乏关注。有人可以推荐一个列出这些弱点并可以聚集开发人员努力的网站吗？    提交人    /u/coderguyagb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifh61a/what_are_some_weak_areas_of_the_opensource/</guid>
-      <pubDate>Sat, 01 Feb 2025 21:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Linux 基金会] 驾驭全球法规和开源：美国 OFAC 制裁</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iff0l2/linux_foundation_navigating_global_regulations/</link>
-      <description><![CDATA[       由    /u/iwasjusttwittering  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iff0l2/linux_foundation_navigating_global_regulations/</guid>
-      <pubDate>Sat, 01 Feb 2025 20:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对开源的未来感到担忧，这是合理的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ifchmt/im_worried_about_the_opensource_future_is_this/</link>
-      <description><![CDATA[我热爱开源，也非常乐意做出贡献。我通过观察其他人在做什么学到了很多东西，并且认为人工智能是可行的，因为程序员公开他们的工作并使用多种语言进行开发。 但是，我真的很担心开源的未来。不仅是美国及其对待自己工人的方式，还有世界的发展情况。人们很容易就失业，公司为了健康的未来而大赚一笔，这让我感到非常担心和有压力。此外，仅仅因为性别（我不会评判，也不应该成为问题）和财富状况（包括健康状况）等愚蠢的事情而失去人才，这让我对未来感到非常难过。 我知道有些人说开发人员总是在其他地方受到欢迎，但如果这些（大）公司因为他们的性别而不雇用他们怎么办？如果他们每周需要工作 60 小时怎么办？ 不仅如此，我还见过非常受欢迎的 GitHub 项目没有赞助，人们告诉他们尽快修复错误，却没有任何贡献。我的意思是，他们真的很沮丧，并向问题跟踪器发送垃圾邮件。 感觉（大）公司也会发生变化。Mozilla 和 Red Hat 怎么样？这些公司会保持不变，还是会因不与美国政府合作而受到惩罚？谷歌最近的地图变化，以及 Mozilla 倾向于广告和减少开源，让我觉得有理由相信这是真的。 马斯克也从来都不是开源的忠实粉丝。我不喜欢他的“我们不需要那个”态度。 我反应过度了吗？我应该担心吗？开源的资金会停止吗？ 谢谢     提交人    /u/sensitiveCube   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ifchmt/im_worried_about_the_opensource_future_is_this/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:15:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
