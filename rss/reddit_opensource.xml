@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 15:02:21 GMT</lastBuildDate>
+    <item>
+      <title>候补名单 API：开源、随时可用的 API，用于从候补名单、新闻通讯表格等收集电子邮件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</link>
+      <description><![CDATA[大家好， 我制作了一个开源的、随时可用的候补名单 API，用于收集候补名单、新闻稿表格等中的电子邮件。 它是自托管的，并且可以使用 Cloudflare Turnstile 保护输入。 查看它：https://github.com/realchandan/waitlist-api 另外，查看此演示：https://youtu.be/z5GFT6DbIzQ    提交人    /u/freewheel1466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</guid>
+      <pubDate>Wed, 05 Feb 2025 13:20:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Rust 的去中心化库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ii99m5/rust_based_decentralized_library/</link>
+      <description><![CDATA[      大家好，我最近发布了一个基于Rust的去中心化库框架。我从上个月开始就一直在研究它。  这是一个去中心化的框架，旨在探索经常被忽视的去中心化技术和算法。它仍处于早期阶段，我一直在研究低级功能，并将扩展到涉及区块链或 DLT 支持的更高级别。 我想听听一些关于它的意见，关于你想要什么类型的功能或你认为我当前的框架包含什么。     提交人    /u/Critical_Pipe1134   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ii99m5/rust_based_decentralized_library/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:53:30 GMT</pubDate>
+    </item>
     <item>
       <title>有人告诉我应该在这里问这个问题 :D 谢谢！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii7t9u/ive_been_told_to_ask_this_here_instead_d_ty/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[上周，我在 r/reactnative 上分享了一个视频，演示了我的项目 Replyke 的评论系统。反响很好，很多人问它是否开源。当时它不是开源的，但这一直是我的计划。我花了几天时间清理东西，现在它已经可以供公众使用了。 从今天起，Replyke 的评论系统是开源的。 对于那些不熟悉的人来说，这是一个现代化的社交风格评论部分，专为 React 应用程序（React 和 React Native）设计。它包括：  提及 - 用户可以互相提及（@用户名），并提供可选通知和可自定义的点击处理。 回复和喜欢 - 支持嵌套回复和喜欢，具有内置通知处理。 突出显示的评论 - 允许链接并自动突出显示特定的评论或回复。 GIF 支持 - 用户可以使用 API 密钥插入 GIF。 内置授权 - 确保只有授权用户可以删除他们的评论并防止重复喜欢。 报告和审核 - 包括报告系统、用于管理报告、删除评论和禁止用户的后台工具。  这是一个更大项目的一部分，旨在帮助个人开发人员和小型团队围绕他们的内容建立社区，但这篇文章主要介绍评论系统本身。 GitHub Repo：https://github.com/replyke/ui-kit React 包：https://www.npmjs.com/package/@replyke/comments-social-react React Native 包（CLI 和 Expo）：https://www.npmjs.com/package/@replyke/comments-social-react-native 欢迎反馈和贡献！    提交人    /u/YanTsab   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihk7yn/ive_spent_months_building_a_modern_comment/</guid>
       <pubDate>Tue, 04 Feb 2025 15:28:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式预览 React，如 ShadCN Blocks、TailwindUI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihhrz1/responsive_preview_for_react_like_shadcn_blocks/</link>
-      <description><![CDATA[我一直在构建一个组件库，需要构建一个预览组件，比如 TailwindUI 所具有的 ShadCN 块，您可以在其中使用调整大小处理程序来检查组件在各个断点处的外观。 在我构建组件之后，它似乎是一个可供其他人使用的有用组件。 它允许您使用以下方式可视化组件在各种屏幕尺寸下的行为： Iframe 预览：在 iframe 中查看组件的运行情况。演示 带有容器查询的子预览：现在通过 Tailwind CSS v3 中的插件支持，并在 Tailwind CSS v4 中原生支持。 演示 版本：0.1.0 文档：https://responsive-preview-react.locospec.com GitHub：https://github.com/locospec/responsive-preview-react X 上的推广：https://x.com/rjv_im/status/1886744922939920423   由    /u/rjv_im  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihhrz1/responsive_preview_for_react_like_shadcn_blocks/</guid>
-      <pubDate>Tue, 04 Feb 2025 13:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人正在研究新的开源 AI 项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihe4d8/anyone_working_on_a_new_opensource_ai_project/</link>
-      <description><![CDATA[大家好， 我希望参与一个开源 AI 项目，想知道这里是否有人在做一些有趣的事情。 让我知道你在做什么以及我能提供什么帮助。期待合作！ 干杯！    由   提交  /u/antonscap   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihe4d8/anyone_working_on_a_new_opensource_ai_project/</guid>
-      <pubDate>Tue, 04 Feb 2025 09:43:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
