@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 05 Feb 2025 00:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 06:01:58 GMT</lastBuildDate>
+    <item>
+      <title>十几岁的时候，我为 transputer 编写了一个 Pascal 编译器（1993 年）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ii2s2j/i_coded_a_pascal_compiler_for_transputer_as_a/</link>
+      <description><![CDATA[  由    /u/nanochess  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ii2s2j/i_coded_a_pascal_compiler_for_transputer_as_a/</guid>
+      <pubDate>Wed, 05 Feb 2025 05:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 GraphQL Schema 使用量扩展到每天数十亿个请求</title>
+      <link>https://www.reddit.com/r/programming/comments/1ihyfut/scaling_graphql_schema_usage_to_billions_of/</link>
+      <description><![CDATA[  由    /u/Savram8  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ihyfut/scaling_graphql_schema_usage_to_billions_of/</guid>
+      <pubDate>Wed, 05 Feb 2025 01:29:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zig；几个月使用之后的感想</title>
+      <link>https://www.reddit.com/r/programming/comments/1ihyf46/zig_what_i_think_after_months_of_using_it/</link>
+      <description><![CDATA[  由    /u/phaazon_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ihyf46/zig_what_i_think_after_months_of_using_it/</guid>
+      <pubDate>Wed, 05 Feb 2025 01:28:32 GMT</pubDate>
+    </item>
     <item>
       <title>MongoDB 官方 YouTube 直播中介绍了 Storecraft（开源 js 项目）</title>
       <link>https://www.reddit.com/r/programming/comments/1ihvfa4/storecraft_open_source_js_project_introduced_on/</link>
@@ -27,7 +48,7 @@
       <pubDate>Tue, 04 Feb 2025 21:30:51 GMT</pubDate>
     </item>
     <item>
-      <title>Unicode 17.0 Alpha 版评审开放，征求反馈</title>
+      <title>Unicode 17.0 Alpha 版审查开放，征求反馈</title>
       <link>https://www.reddit.com/r/programming/comments/1ihrpen/unicode_170_alpha_review_opens_for_feedback/</link>
       <description><![CDATA[  由    /u/PthariensFlame  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ihrpen/unicode_170_alpha_review_opens_for_feedback/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ihmmfl/how_languages_influence_each_other_and_evolve/</guid>
       <pubDate>Tue, 04 Feb 2025 17:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最佳的简单系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihmm3h/best_simple_system_for_now/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihmm3h/best_simple_system_for_now/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>字节队列限制：未经授权的传记</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihmjp8/byte_queue_limits_the_unauthorized_biography/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihmjp8/byte_queue_limits_the_unauthorized_biography/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular：纪录片 | 起源故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1ihmhsp/angular_the_documentary_an_origin_story/</link>
-      <description><![CDATA[  由    /u/nftskeptics  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ihmhsp/angular_the_documentary_an_origin_story/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
