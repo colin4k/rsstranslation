@@ -4,9 +4,37 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 04 Feb 2025 21:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 00:04:00 GMT</lastBuildDate>
     <item>
-      <title>有没有开源的欧洲 AI 聊天机器人替代品？</title>
+      <title>cf-box 免费工具🛠️</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ihw5dc/cfbox_free_tools/</link>
+      <description><![CDATA[  由    /u/fab_space  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ihw5dc/cfbox_free_tools/</guid>
+      <pubDate>Tue, 04 Feb 2025 23:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 LangGraph、CopilotKit 和 Tavily 构建开源 Perplexity 克隆</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ihv4gl/build_an_open_source_perplexity_clone_with/</link>
+      <description><![CDATA[大家好，我是 CopilotKit 的高级 DevRel，CopilotKit 是一个用于代理 UI 和应用内代理的开源框架。 我最近发布了一个教程，展示了如何一步一步构建 Perplexity 的开源克隆。 我对这个教程感到非常兴奋，LangChain 已在其所有社交媒体上分享了它。我很乐意收到您的反馈。 我使用的堆栈： - LangGraph - 代理框架 - CopilotKit - Agentic UI，应用程序 &lt; &gt;代理交互 - Tavily - 增强的互联网搜索功能 - Next.js - 应用层 查看源代码：https://github.com/CopilotKit/CopilotKit/tree/main/examples/coagents-ai-researcher 请查看文章，我很乐意听取您的反馈！ https://www.copilotkit.ai/blog/build-a-perplexity-clone-with-copilotkit    提交人    /u/Darkstar4125   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ihv4gl/build_an_open_source_perplexity_clone_with/</guid>
+      <pubDate>Tue, 04 Feb 2025 22:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找开源平面图和室内设计。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ihuh7b/looking_for_an_open_source_floor_plan_and/</link>
+      <description><![CDATA[我想要一个布局软件来制作易于编辑的平面图，并且可以与他人分享。有什么想法吗？ 我们有两个不同的楼层，有多个房间和架子，我希望能够规划什么放在哪里。    提交人    /u/Unique_Feed_2939   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ihuh7b/looking_for_an_open_source_floor_plan_and/</guid>
+      <pubDate>Tue, 04 Feb 2025 22:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软实施 CoPilot，Deepseek 摧毁闭源竞争，人们因为马斯克关闭 subreddit 而转向 Lemmy。今年是开源之年吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ihufcs/microsoft_implementing_copilot_deepseek/</link>
+      <description><![CDATA[由于行业内外发生的许多事情，我越来越倾向于开源软件，而且随着时间的推移，这样做的理由似乎越来越多。我只是想知道是否有人正在做/注意到同样的事情。    提交人    /u/areallyseriousman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ihufcs/microsoft_implementing_copilot_deepseek/</guid>
+      <pubDate>Tue, 04 Feb 2025 22:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有开源的欧洲人工智能聊天机器人替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</link>
       <description><![CDATA[嗨， 就像标题所说，我正在寻找一个开源欧洲 AI 聊天机器人替代品。 我找到了 Mistral AI 和 Aleph Alpha，但它们不方便用户使用，需要技术知识。我正在寻找一个可以与浏览器一起使用的用户友好的聊天机器人。 谢谢！    提交人    /u/Super_Ad1989   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</guid>
@@ -32,13 +60,6 @@
       <description><![CDATA[嘿，大家好！很高兴宣布我的项目。 如果您愿意测试它，我希望得到任何反馈、帮助或任何改进它的建议。 这个项目是一个 CLI 应用程序，它将帮助您更新文件并快速获取它们，这些文件将存储长达 10 分钟，并被加密以保护任何信息。 一个可能的用例是： 我的文档中有一些文件我想在我的远程服务器上使用，传输这些文件的一种方法是使用此应用程序。 如果您想了解更多信息，这里是该应用程序的主要存储库。 这是 CLI 应用程序的存储库：https://github.com/SebasRomero/tfs 这是应用程序 API 的存储库：https://github.com/SebasRomero/tfs-api 你会使用它吗？为什么或为什么不？    提交人    /u/sebstnr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihotx0/tfs_temporary_file_sharing/</guid>
       <pubDate>Tue, 04 Feb 2025 18:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 推出新的 SaaS：来自 GitHub 提交的 AI 驱动内容 - 加入等候名单！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihnndr/launching_a_new_saas_aipowered_content_from_your/</link>
-      <description><![CDATA[  由    /u/RkRabbitt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihnndr/launching_a_new_saas_aipowered_content_from_your/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:49:46 GMT</pubDate>
     </item>
     <item>
       <title>基于 Docker 和 gVisor 的代码游乐场</title>
@@ -69,7 +90,7 @@
       <pubDate>Tue, 04 Feb 2025 15:28:33 GMT</pubDate>
     </item>
     <item>
-      <title>响应式预览，如 ShadCN Blocks、TailwindUI</title>
+      <title>响应式预览 React，如 ShadCN Blocks、TailwindUI</title>
       <link>https://www.reddit.com/r/opensource/comments/1ihhrz1/responsive_preview_for_react_like_shadcn_blocks/</link>
       <description><![CDATA[我一直在构建一个组件库，需要构建一个预览组件，比如 TailwindUI 所具有的 ShadCN 块，您可以在其中使用调整大小处理程序来检查组件在各个断点处的外观。 在我构建组件之后，它似乎是一个可供其他人使用的有用组件。 它允许您使用以下方式可视化组件在各种屏幕尺寸下的行为： Iframe 预览：在 iframe 中查看组件的运行情况。演示 带有容器查询的子预览：现在通过 Tailwind CSS v3 中的插件支持，并在 Tailwind CSS v4 中原生支持。 演示 版本：0.1.0 文档：https://responsive-preview-react.locospec.com GitHub：https://github.com/locospec/responsive-preview-react X 上的推广：https://x.com/rjv_im/status/1886744922939920423   由    /u/rjv_im  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihhrz1/responsive_preview_for_react_like_shadcn_blocks/</guid>
@@ -83,7 +104,7 @@
       <pubDate>Tue, 04 Feb 2025 09:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>计划的 PC 任务：计划在 Windows PC 上执行的操作的模拟</title>
+      <title>计划 PC 任务：计划在 Windows PC 上执行的操作模拟</title>
       <link>https://www.reddit.com/r/opensource/comments/1ihd0hv/scheduled_pc_tasks_schedule_similations_of/</link>
       <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作的模拟。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的^^（使用 Qt6 的 C++）： https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihd0hv/scheduled_pc_tasks_schedule_similations_of/</guid>
@@ -99,7 +120,7 @@
     <item>
       <title>您使用哪些不同的渠道来宣传您的开源项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ihbexr/what_are_the_different_channels_you_use_in_order/</link>
-      <description><![CDATA[宣布您的开源项目是一回事，但教育如何有效地使用它是另一回事。  传统方式 一些常见的渠道是   由 Github Readme 提供支持的文档，网站 Youtube 视频 LinkedIn/X.com 帖子 教程/博客  你们使用的其他渠道是什么？  问这个问题的原因是，我相信为所有这些伟大的开源工具建立一个专门的学院是必须的，而我正在建立这样一个学院。     提交人    /u/shad-rocks   [链接] [评论]]]></description>
+      <description><![CDATA[宣布您的开源项目是一回事，但教育如何有效地使用它是另一回事。  传统方式 一些常见的渠道是   由 Github Readme 提供支持的文档，网站 Youtube 视频 LinkedIn/X.com 帖子 教程/博客  你们还使用哪些其他渠道？  问这个问题的原因是，我相信为所有这些伟大的开源工具建立一个专门的学院是必须的，而我正在建立这样一个学院。     提交人    /u/shad-rocks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihbexr/what_are_the_different_channels_you_use_in_order/</guid>
       <pubDate>Tue, 04 Feb 2025 06:21:34 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我正在研究与开源软件和专利相关的法律案件。只是想知道是否有人知道我可以研究的近期案例？ 不确定这里是不是合适的提问地点，但我很感激任何线索！    提交人    /u/keshavd2k   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ih7bql/research_a_case_of_law_suit_involving_opensource/</guid>
       <pubDate>Tue, 04 Feb 2025 02:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>smolmodels：从自然语言生成机器学习模型的开源库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ih2oju/smolmodels_opensource_library_to_generate_machine/</link>
-      <description><![CDATA[我构建了一个库，可以根据自然语言描述生成完整的模型训练和推理代码。在底层，它维护一个图表来跟踪不同的模型架构，并使用它们的性能来指导改进。 核心思想是自动化寻找正确模型架构和训练方法的反复试验过程。您可以提供自己的训练数据，也可以让库根据您的输入/输出架构要求生成合成数据。这让您在投资数据收集之前就可以快速尝试不同的模型设计。 Repo：https://github.com/plexe-ai/smolmodels 非常欢迎对该项目的任何想法/反馈！    提交人    /u/Imaginary-Spaces   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ih2oju/smolmodels_opensource_library_to_generate_machine/</guid>
-      <pubDate>Mon, 03 Feb 2025 22:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seafile 自定义颜色主题生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ih2asf/seafile_custom_color_theme_generator/</link>
-      <description><![CDATA[我使用 Seafile 已有多年，允许您插入自己的 CSS 代码的功能已经推出一段时间了。此功能使您能够自定义整个用户界面以匹配您喜欢的颜色或俱乐部或公司的颜色。 到目前为止，我一直依赖各种生成器根据原色创建适当的 CSS 代码。但是，我找不到适合 Seafile 12 的生成器，因此我决定自己构建一个：https://github.com/server-camp/seafile-custom-css-theme-generator 此外，还有一个托管实例可供您快速生成 CSS：https://server.camp/seafile-custom-css/ 我尽可能保持代码简单，同时确保它足够灵活以支持任意数量的 CSS 模板。 将来，我甚至可能会为 Seafile 12 创建暗模式或探索其他设计选项。 我渴望听到您对这个项目的想法，并期待您的任何反馈！ :)    提交人    /u/tldev_de   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ih2asf/seafile_custom_color_theme_generator/</guid>
-      <pubDate>Mon, 03 Feb 2025 22:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gost-DOM - Go 的无头浏览器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ih0xzb/gostdom_a_headless_browser_for_go/</link>
-      <description><![CDATA[为了支持 Go 中 Web 应用程序的 TDD 方法，我开始了一个疯狂的项目，用 Go 构建了一个无头浏览器。我把它称为 Gost-DOM。 这项工作比我预想的要多一些，而且我才刚刚开始。 但今天，我推出了第一个版本，能够支持 Go 的基本 HTMX 应用程序。它嵌入了一个 V8 引擎来支持脚本，但真正酷的部分是：您甚至不需要启动服务器。 在 Go 中，Web 应用程序“只是”一个接收 HTTP 请求并提供响应的功能。不同的组件允许组合，具有高级路由逻辑，但 Web 服务器本身有一个功能作为入口点。 Gost 可以直接使用 http 处理程序函数，使 http 处理程序像任何其他组件一样成为被测组件。 这消除了 TCP 堆栈的开销，以及在多个不同端口上打开/关闭 TCP 侦听器的负担。 有了这个，您可以轻松模拟依赖项，独立于业务规则测试 Web 层，并并行运行测试。 我在 golang subreddit 中写了一篇较长的帖子，介绍了当前实现的内容：https://www.reddit.com/r/golang/comments/1ign58c/gostdom_reaches_version_01_formerly_godom/    提交人    /u/stroiman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ih0xzb/gostdom_a_headless_browser_for_go/</guid>
-      <pubDate>Mon, 03 Feb 2025 21:43:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
