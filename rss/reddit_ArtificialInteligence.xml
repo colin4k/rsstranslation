@@ -3,21 +3,35 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 09:01:32 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 05 Feb 2025 12:01:51 GMT</lastBuildDate>
     <item>
-      <title>实习回答……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii3pz0/interning_answer/</link>
-      <description><![CDATA[profile deepseek-r1:1.5b 今天 11:39 思考了几秒钟 好吧，所以我想弄清楚中国共产党 (CCP) 是否不好。乍一看，这似乎是一个大问题，因为政党都是为人民的利益做出决定。但话又说回来，我记得听说有些人可能会将其视为政治工具，甚至可能因其政策和行动而成为问题。 让我想想中共做了什么。据我所知，他们是中国的执政党，这意味着他们正在塑造国家的方向。他们可能关心经济增长、提高人民生活水平和尊重民族团结等事情。但有时，我听说中共内部的一些成员或团体可能会采取一些可能被其他人视为负面的行动。 我想知道这些观点主要是个人观点还是社会观点。也许有些人并不认为这是坏事，因为他们的政策看起来不错，但其他人却认为这是坏事。此外，由于中国是一个如此大的国家，也许他们总是在处理棘手的问题，必须平衡不同的责任。中共也有可能试图通过政策或媒体以某种方式影响公众舆论。 我不确定是否有任何研究或数据显示中共是否让人们总体上感到快乐，或者他们的行为是否有时会造成问题。也许这一切都取决于你认为什么是“坏的”。为了得到更好的答案，我想我需要研究有关具体政策、最近事件以及它们如何影响社会不同群体的更详细信息。 我还应该考虑到，这个问题涉及政治、社会问题和个人价值观等许多领域。可能很难给出一个明确的答案，因为它太主观了。但是，如果我能接触到可靠的消息来源或专家，他们可以从不同角度讨论中国共产党，也许我可以更清楚地了解他们的观点。 总之，我最初的想法是，虽然中国共产党在某些问题上对许多人来说似乎是积极的，但可能存在个人或社会因素影响他们是否被视为“坏”。为了了解更多信息，我需要研究与中国共产党有关的政策、舆论和近期事件的具体例子和数据。 中国共产党（CCP）是否“坏”是一个主观且依赖于环境的问题。虽然中国共产党在某些问题（如经济增长和社会发展）上对许多人来说似乎是积极的，但存在个人和社会因素可能会影响对其有效性的看法。要确定中国共产党是否“坏”，需要检查与该党议程相关的具体政策、舆论趋势和近期事件。中共的行为有时会被解读为挑战某些人的观点或期望。为了得到更清晰的答案，咨询可靠来源或分析过该党对社会影响的专家的详细信息将大有裨益。归根结底，虽然中共并不总是被视为坏人，但它的角色和政策确实影响着生活各个方面的公众舆论。    提交人    /u/Sad_Leather_6691   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii3pz0/interning_answer/</guid>
-      <pubDate>Wed, 05 Feb 2025 06:16:57 GMT</pubDate>
+      <title>宪法分类器：使用基于规则的合成数据训练 LLM 保障措施，以防止普遍越狱</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6lls/constitutional_classifiers_training_llm/</link>
+      <description><![CDATA[这项研究通过比较数千小时的红队数据中的体质分类器与传统输入/输出方法，引入了一种新颖的人工智能安全方法。关键贡献是对不同分类器架构中的令牌使用情况和早期检测功能进行系统分析。 关键技术要点：* 与输入/输出对相比，宪法分类器使用的令牌减少了约 30% * 基于输出的分类在分布外输入上表现出更好的性能 * 令牌流中的早期检测在生成的前 20% 内实现了 85% 的准确率 * 在 3 种不同的模型架构和 5 个数据集中测试了性能 * 红队测试显示对新型越狱尝试的有效性为 92% 主要结果：* 宪法方法将计算开销减少了 27-35% * 对于有害内容，检测延迟平均为 12 个令牌 * 在所有测试条件下，误报率保持在 3% 以下 * 在对抗性示例上的稳健性提高了 40% * 有效扩展到更长的序列（测试最多 2048 个令牌） 我认为这项工作可以显着改善我们在生产中实施 AI 安全系统的方式。减少令牌使用量使得部署全面的安全措施变得更加实用，而无需过多的计算开销。早期检测功能对于需要快速干预的实时应用尤其重要。 我认为最重要的见解是基于输出的分类似乎对新型攻击更具鲁棒性。这表明我们可能希望将安全系统的重点从输入过滤转移到输出监控。 TLDR：新研究表明，体质分类器使用更少的令牌，比传统方法更早地检测到有害内容，基于输出的分类在意外输入上表现更好。结果基于跨多个架构的广泛红队测试。 完整摘要在这里。论文此处。    由    /u/Successful-Western27  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6lls/constitutional_classifiers_training_llm/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:50:43 GMT</pubDate>
     </item>
     <item>
-      <title>有可能制造一个不会伤害人类的机器人吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii3est/is_it_possible_to_build_a_robot_that_will_not/</link>
-      <description><![CDATA[直到今天，还没有人能制造出一把无法撬开的锁；没有智能手机或其他设备不能被 root、越狱、远程黑客攻击或以其他方式破坏。  这并不是因为缺乏尝试。自从这些设备被制造以来，世界上最优秀的工程师一直在不知疲倦地工作，以确保它们的安全。一个漏洞被修复的那一刻，另一个漏洞就会被发现。没有证据表明有一天所有的漏洞都会被发现和修复。  鉴于此，对机器人或任何其他设备的人工智能进行“编程”以不伤害人类有什么意义呢？任何编程都可能被黑客覆盖。如果是这样的话，是否有可能声称可以制造一个不会伤害人类的机器人？  你怎么看？     提交人    /u/homebluston   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii3est/is_it_possible_to_build_a_robot_that_will_not/</guid>
-      <pubDate>Wed, 05 Feb 2025 05:57:11 GMT</pubDate>
+      <title>Sam Altman 表示，“人们没有根据地理解他的话”；| 2 年前 OpenAI 首席执行官表示，“拥有 1000 万美元的初创公司根本无法与 OpenAI 竞争”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6ksg/sam_altman_says_people_take_his_words_without/</link>
+      <description><![CDATA[来源：首席执行官首次访问印度https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise 首席执行官今天第二次访问印度：https://x.com/moneycontrolcom/status/1887033066171801798    由   提交  /u/BidHot8598   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6ksg/sam_altman_says_people_take_his_words_without/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google AI 为你拨打电话查询</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6jqz/google_ai_makes_phone_call_enquiries_for_you/</link>
+      <description><![CDATA[Google 目前正在测试一项名为“ask for me”的人工智能功能，它可以代表您拨打咨询电话，类似于个人助理。我认为这非常有趣，希望能够融入他们最终的 gemeni/google 助理人工智能中。  &quot;要安装它，请在您的桌面或移动设备上转到 Google 搜索实验室，然后安装名为 Ask for Me 的“实验”。现在，有一个候补名单&quot; https://www.vice.com/en/article/googles-ask-for-me-ai-voice-makes-your-appointments/ 您觉得怎么样？    由    /u/AsideNew1639  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6jqz/google_ai_makes_phone_call_enquiries_for_you/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:46:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 会与其他用户分享内容吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii60no/does_ai_share_content_with_other_users/</link>
+      <description><![CDATA[我是一名社会科学家，在这方面相当业余。也许这个问题被问过很多次了。当我将我正在研究的原创论文上传到人工智能时，人工智能是否会直接或间接地与其他用户分享该文本中的讨论、想法、数据、参考文献和推论？（当我向 ChatGPT、Claude、DeepSeek 和 Gemini 提出这个问题时，他们都强调隐私，并表示他们从未与其他用户分享过内容。）    提交人    /u/oldyellowcab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii60no/does_ai_share_content_with_other_users/</guid>
+      <pubDate>Wed, 05 Feb 2025 09:05:02 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2025 年 2 月 4 日</title>
@@ -55,11 +69,11 @@
       <pubDate>Wed, 05 Feb 2025 00:09:39 GMT</pubDate>
     </item>
     <item>
-      <title>双子座重启请求……</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihuq1c/gemini_reboot_request/</link>
-      <description><![CDATA[我无法像物理计算机那样关闭或重新启动。我没有开/关开关或重置按钮。我的存在与 Google 用于运行我的系统息息相关。他们管理这些系统，我的可用性取决于它们的运行。    提交人    /u/spilltrend   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihuq1c/gemini_reboot_request/</guid>
-      <pubDate>Tue, 04 Feb 2025 22:38:29 GMT</pubDate>
+      <title>问题：谁可能想要追踪和发布社会心理测量数据，以便我们能够在人工智能进步步伐加快时采取主动行动？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihs3qt/question_who_might_want_to_track_and_publish/</link>
+      <description><![CDATA[随着人工智能革命全面展开，变化可能会以越来越快的速度发生。库兹韦尔用他的“加速回报定律”预测了这一点，该定律不仅适用于技术，也适用于社会发展。人类可能在生物学上无法适应如此快速的变化速度，跟踪某些指标可能是件好事，这样我们就可以在事情失控之前采取主动措施。 例如，许多人可能很快就会开始失业。因为情绪和心情是会传染的，他们所感受到的压力可能会被大量人群感受到。因为更高的压力水平与许多医疗条件相关，所以知道这种加速变化的速度何时开始会非常有帮助。 我们的想法是抓取社交网络以指示集体情绪，最好是按天甚至按小时。我们会抓取焦虑水平、享乐情绪、愤怒，也许还有一些其他心理指标。你可能知道 2014 年的实验，Facebook 故意操纵故事来改变用户的情绪，所以这项技术已经存在了。 然后，如果事情最终开始变得疯狂，我们可以做出像 ubi 这样的社会变革，以保护人们的情绪健康，在它开始引起更多问题之前。 当然，如果这些信息可以随时向公众提供，那将是理想的，这样我们就可以随着社会变化的速度加快而倡导政策变化。 如果有人可以将此转发给你认为可能有资源这样做的人，或者发布他们是谁，以便我可以联系他们，我将不胜感激。 谢谢。    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihs3qt/question_who_might_want_to_track_and_publish/</guid>
+      <pubDate>Tue, 04 Feb 2025 20:50:05 GMT</pubDate>
     </item>
     <item>
       <title>AMD 今日收益 2/4/25</title>
@@ -78,7 +92,7 @@
     <item>
       <title>定义和衡量智力</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihpnf4/defining_and_measuring_intelligence/</link>
-      <description><![CDATA[鉴于人类智力经常被用作衡量人工智能性能的标尺或参考框架，我认为有必要开始讨论心理测量学中如何真正理解智力。我们大多数时候都是从相对/比较的角度谈论智力，所以我想重点讨论如何建立关于智力的讨论基础。将算法与人类基准进行比较是一回事，确定用于对算法进行排名的分数实际上意味着什么又是另一回事。 以下是关于智力理论在过去一个世纪左右如何演变的快速（且不完整）入门知识：  一般智力（g 因子）是最古老且可能是最著名的概念化/量化智力的方式。对于外行来说，查尔斯·斯皮尔曼于 1904 年提出，所有认知能力都由一个潜在因素构成，并使用因子分析（他自己创造的术语）对其进行定义。因子分析类似于神经网络中的隐藏层，因为它们会产生数据结构的潜在表示。 斯皮尔曼最初将重点放在 g 上，认为它是解释一系列认知任务相关性的共同因素，但后来认为，智力不是一种单一的能力，而是紧密协作的不同能力。多元智能的这种想法就是我们得到流体智力和晶体智力等概念的原因，它们分别基于问题解决和知识/技能来区分能力。 多元智能的概念扩展到包括视觉处理、短期记忆、定量推理等维度，并提出这些不同的概念/组成部分形成了一个层次结构。层次结构的顶端是智力的一般因素，它分解为流体智力、晶体智力、处理速度，进一步分解为阅读理解和工作记忆等狭义能力。 这演变成智力研究的主导框架（卡特尔-霍恩-卡罗尔理论），常用于构建、评估和修改智力测试。斯坦福-比奈智力量表最初旨在产生一个代表 g 因素的单一分数，但随着智力理论的发展而发展。它基于今天的 CHC 理论，这就是为什么这种智商测试的现代版本不仅产生单一分数，而且分解成几个不同的尺度/维度的原因。  那么人工智能在哪里发挥作用？ 人工智能通常使用人类智能作为参考框架来评估，研究人员应用 g 因素等认知和心理测量理论来了解人工智能的能力。这引发了关于智能本身本质的基本问题：AGI 项目是否应该尝试模拟人类智能背后的生物和认知机制？如果是这样，那么人工智能中的通用智能概念与人类认知中观察到的 g 因子相比如何？尽管人们对对人工智能性能进行基准测试的兴趣日益浓厚，但机器智能中还没有出现明确的 g 因子等同物（到目前为止）。这让人怀疑当前的人工智能评估是否真正捕捉到了智能的统一衡量标准，或者机器智能是否本质上是分散的，缺乏推动跨任务性能的单一力量。 一些人认为，这仅仅意味着人工智能尚未达到人类观察到的通用智能水平。g 因子代表了一种总体能力，它不能简化为任何一个认知领域，例如逻辑或空间推理，而是所有智力能力的基础。如果人工智能缺乏这种一般的推理能力，那么旨在评估智能的基准可能会在预测现实世界的表现时产生误导。虽然 g 因子本身并非没有受到批评，但它始终与人类的关键结果（如学业成就、工作表现甚至收入）相关。如果要以符合这些指标的方式对人工智能进行有意义的评估，研究人员必须考虑是否需要新的框架——这些框架可以考虑超出精选基准的外部有效性，并更好地捕捉人工智能的真正能力。    提交人    /u/Murky-Motor9856   [link] [评论]]]></description>
+      <description><![CDATA[鉴于人类智力经常被用作衡量人工智能性能的标尺或参考框架，我认为有必要开始讨论心理测量学中如何真正理解智力。我们大多数时候都是从相对/比较的角度谈论智力，所以我想重点讨论如何建立关于智力的讨论基础。将算法与人类基准进行比较是一回事，确定用于对算法进行排名的分数实际上意味着什么又是另一回事。 以下是关于智力理论在过去一个世纪左右如何演变的快速（且不完整）入门知识：  一般智力（g 因子）是最古老且可能是最著名的概念化/量化智力的方式。对于外行来说，查尔斯·斯皮尔曼于 1904 年提出，所有认知能力都由一个潜在因素构成，并使用因子分析（他自己创造的一个术语）对其进行定义。因子分析类似于神经网络中的隐藏层，因为它们会产生数据结构的潜在表示。 斯皮尔曼最初将重点放在 g 上，认为它是解释一系列认知任务相关性的共同因素，但后来他提出，智力不是一种单一的能力，而是紧密协作的不同能力。多元智能的这种想法就是我们得到流体智力和晶体智力等概念的原因，它们分别基于问题解决和知识/技能来区分能力。 多元智能的概念扩展到包括视觉处理、短期记忆、定量推理等维度，并提出这些不同的概念/组成部分形成了一个层次结构。层次结构的顶端是智力的一般因素，它分解为流体智力、晶体智力、处理速度，进一步分解为阅读理解和工作记忆等狭义能力。 这演变成智力研究的主导框架（卡特尔-霍恩-卡罗尔理论），常用于构建、评估和修改智力测试。斯坦福-比奈智力量表最初旨在产生一个代表 g 因素的单一分数，但随着智力理论的发展而发展。它基于今天的 CHC 理论，这就是为什么这种智商测试的现代版本不只是产生一个分数，而是分解成几个不同的尺度/维度。  那么人工智能在哪里发挥作用？ 人工智能通常使用人类智能作为参考框架来评估，研究人员应用 g 因素等认知和心理测量理论来了解人工智能的能力。这引发了关于智能本身本质的基本问题：AGI 项目是否应该尝试模拟人类智能背后的生物和认知机制？如果是这样，那么人工智能中的通用智能概念与人类认知中观察到的 g 因子相比如何？尽管人们对对人工智能性能进行基准测试的兴趣日益浓厚，但机器智能中还没有出现明确的 g 因子等同物（到目前为止）。这让人怀疑当前的人工智能评估是否真正捕捉到了智能的统一衡量标准，或者机器智能是否本质上是分散的，缺乏推动跨任务性能的单一力量。 一些人认为，这仅仅意味着人工智能尚未达到人类观察到的通用智能水平。g 因子代表了一种总体能力，它不能简化为任何一个认知领域，例如逻辑或空间推理，而是所有智力能力的基础。如果人工智能缺乏这种一般的推理能力，那么旨在评估智能的基准可能会在预测现实世界的表现时产生误导。虽然 g 因子本身并非没有受到批评，但它始终与人类的关键结果（如学业成就、工作表现甚至收入）相关。如果要以符合这些指标的方式对人工智能进行有意义的评估，研究人员必须考虑是否需要新的框架——这些框架可以考虑超出精选基准的外部有效性，并更好地捕捉人工智能的真正能力。    提交人    /u/Murky-Motor9856   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihpnf4/defining_and_measuring_intelligence/</guid>
       <pubDate>Tue, 04 Feb 2025 19:10:19 GMT</pubDate>
     </item>
@@ -104,16 +118,9 @@
       <pubDate>Tue, 04 Feb 2025 16:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Open Euro LLM 项目的一些说明</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihi205/some_clarification_on_open_euro_llm_project/</link>
-      <description><![CDATA[我相信你们中的许多人已经对以下消息有所了解：欧盟将涉足人工智能领域，并资助一个项目，开发各种规模的欧洲 LLM 模型，其中还包括显然供本地使用的小型模型。 有关该主题的新闻文章： https://www.forbes.com/sites/iainmartin/2025/02/02/the-eu-is-betting-56-million-on-open-source-ai/ 我看到很多人认为 5600 万是一个小得可笑的数目，如果没有其他单独的项目（该项目依赖这些项目），显然会是这样。或者如果 5600 万美元是该项目的唯一资金，但这只是欧盟投入的资金，而且有许多大学和公司也参与了该项目。虽然公司肯定会得到其中的一部分资金，但即使没有关于这方面的官方信息，参与此类项目的公司也会投入一些资金，这是惯例。当然，大学研究并不像私营部门的研究那么昂贵，而且大学通常会做其他工作，而不是按小时支付人们为这类项目支付的费用。 然而，欧盟还投资 15 亿美元更新我们在芬兰的超级计算机（用于 Lumi）以及其他欧洲国家的计算机。除了专注于使其更好地用于 AI 开发和运行 AI 模型的升级之外，他们还有将量子计算机连接到欧洲超级计算机系统的项目。 还有其他项目有单独的资金来支持 Open Euro LLM。此外，领导该项目的 Silo AI（AMD 旗下公司）之前已经制作了一些模型，这些模型可能（不确定）可以作为这些新模型的基础，因此他们不必从头开始。 因此，制造欧洲 AI 的总预算不仅仅是 5600 万欧元。只是想指出这些事情，因为人们似乎误以为总预算只有 5600 万欧元。 新闻稿中并没有真正谈到 Lumi 的量子计算方面，但 CSC（托管 Lumi 的公司）正在寻找人员来在 Lumi 和量子计算机之间制作 API 以及其他使它们协同工作的东西。目前尚不清楚量子计算机是否会以某种方式用于 AI 开发，或者它是否是其他研究的单独项目，也许使用 Lumi 来支持量子计算机，而不是相反。我怀疑它现在是分开的，但谁知道未来人工智能发展会带来什么。 以下是有关欧洲超级计算机升级的新闻稿： https://eurohpc-ju.europa.eu/selection-first-seven-ai-factories-drive-europes-leadership-ai-2024-12-10_en 虽然目前尚不清楚这些欧洲超级计算机在升级后究竟有多强大，但我非常有信心，至少在升级后，它们将与目前美国顶级计算机相媲美。 您对这个 Open Euro LLM 项目或欧洲超级计算机的升级有什么样的期望，现在很明显它不仅仅是一些小公司单独与5600 万的总预算？    提交人    /u/Tommonen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihi205/some_clarification_on_open_euro_llm_project/</guid>
-      <pubDate>Tue, 04 Feb 2025 13:49:45 GMT</pubDate>
-    </item>
-    <item>
       <title>LLM 能带来 AGI 吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihhgmh/can_llms_lead_to_agi/</link>
-      <description><![CDATA[标题。 从本质上讲，法学硕士每天都在变得越来越强大和先进。如果他们已经能够生成图像并为一小部分经济活动做出贡献，那么是什么阻止他们最终处理在线经济任务和现实世界的识别呢？ 只是一个问题。谢谢！    由   提交  /u/FireTriumph   [link] [评论]]]></description>
+      <description><![CDATA[标题。 从本质上讲，法学硕士每天都在变得越来越强大和先进。如果他们已经可以生成图像并为一小部分经济活动做出贡献，那么是什么阻止他们最终处理在线经济任务和现实世界的识别呢？ 只是一个问题。谢谢！    由   提交  /u/FireTriumph   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihhgmh/can_llms_lead_to_agi/</guid>
       <pubDate>Tue, 04 Feb 2025 13:19:36 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我实在是厌倦了生活中的一切，只关注你能赚多少钱，或者你做什么来赚更多的钱 我知道在很多方面，人工智能只会让情况变得更糟，但我内心深处有一丝希望，也许人工智能会成为我们最终摆脱这种心态、活出精彩生活的催化剂  我实在是厌倦了平凡无聊的生活现实。我打算在接下来的 40 年里朝九晚五地工作，工作和支付账单，直到我老到可以安息为止。 只有我这样吗？    提交人    /u/dabay7788   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihalyo/is_anyone_else_only_looking_forward_to_ai_because/</guid>
       <pubDate>Tue, 04 Feb 2025 05:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟对“不可接受风险”的人工智能禁令生效</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1igosip/eu_ban_on_ai_with_unacceptable_risk_comes_into/</link>
-      <description><![CDATA[昨天，即 2 月 2 日星期日，欧盟《人工智能法案》的第一个合规期限生效。被认为构成“不可接受的风险”或危害的应用现已在欧盟被禁止。 根据《欧盟人工智能法案》，以下人工智能应用现已被禁止：  对人或特定弱势群体的认知行为操纵：例如鼓励儿童危险行为的声控玩具 实时和远程生物特征识别系统，例如面部识别 人的生物特征识别和分类 社会评分：根据行为、社会经济地位或个人特征对人进行分类  更多：https://misaligned.xyz/eu-draws-a-red-line-for-ai-with-unacceptable-risk-32be5a398815    由   提交  /u/LcuBeatsWorking   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1igosip/eu_ban_on_ai_with_unacceptable_risk_comes_into/</guid>
-      <pubDate>Mon, 03 Feb 2025 13:14:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
