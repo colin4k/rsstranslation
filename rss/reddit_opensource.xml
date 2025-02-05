@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 18:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 21:02:03 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个开源 LeetCode/Codeforces 克隆。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iikjgi/i_made_an_opensource_leetcodecodeforces_clone/</link>
+      <description><![CDATA[我对探索 LC/CF 等竞争性编程网站有多复杂很感兴趣。所以我决定编写自己的网站。它并不十分安全，但可以用于小型竞赛/学校俱乐部等。 GitHub：https://github.com/savirsingh/volcano-judge    提交人    /u/MoteChoonke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iikjgi/i_made_an_opensource_leetcodecodeforces_clone/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 GnuPG 正确吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iihpp0/am_i_using_gnupg_correct/</link>
+      <description><![CDATA[你好。我想加密一个文件以存储在云中。我是 CLI 新手，有人告诉我 GnuPG 是我最好的选择。我问了 AI，到目前为止，这是我得到的命令： gpg -c --armor --cipher-algo AES256 --no-symkey-cache --output cryptographic-file.asc original-file.txt  解密： gpg -d filename.gpg  有人能告诉我我做的是否正确吗？ 1-使用 GnuPG 加密在云中长期存储是否安全？ 2-我如何确认加密是安全的？ 3-GnuPG 是否比仅使用 .7z AES-256 密码加密更好？如果都一样，那么使用 PeaZip 可能更容易。 任何额外的指导都非常感谢。我最不想做的就是上传我的文件并让恶意行为者暴露它们    提交人    /u/floatontherainbowtw   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iihpp0/am_i_using_gnupg_correct/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ArxivTok – TikTok 风格的界面，用于浏览 ArXiv 论文</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iih37p/arxivtok_tiktokstyle_interface_for_browsing_arxiv/</link>
+      <description><![CDATA[       由    /u/Miguel07Alm  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iih37p/arxivtok_tiktokstyle_interface_for_browsing_arxiv/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sage：开源且自托管的语音聊天系统，提供法学硕士课程</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iigsah/sage_opensource_and_selfhosted_voice_chat_with/</link>
+      <description><![CDATA[        提交人    /u/felixatwood   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iigsah/sage_opensource_and_selfhosted_voice_chat_with/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:21:06 GMT</pubDate>
+    </item>
     <item>
       <title>新的 Python 项目：使用 SMTP 发送电子邮件！</title>
       <link>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[我加入这个开源社区已经很久了，终于创建了自己的开源项目。目前有一些商业电子邮件清理应用程序，但没有开源替代品。因此，我使用 Flutter 和 Gmail API 开发了一个开源 Android 应用程序 (Confygre Email)，只需单击一下即可取消订阅和删除电子邮件。它仍处于早期阶段，我计划在未来添加更多功能。我很乐意听到您的建议和反馈！  Confygre Email GitHub Repo：https://github.com/confygregit/ConfygreEmail    提交人    /u/7adash1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</guid>
       <pubDate>Wed, 05 Feb 2025 16:58:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个可以播放 Spotify、bandcamp 和 YouTube 的东西</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iie85a/i_need_something_that_can_play_spotify_bandcamp/</link>
-      <description><![CDATA[最好在移动设备和桌面上都使用！！ 谢谢    由    /u/LargeQT  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iie85a/i_need_something_that_can_play_spotify_bandcamp/</guid>
-      <pubDate>Wed, 05 Feb 2025 16:37:13 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个现代、开源、无代码、开发人员友好的产品游览构建器，它可以替代 Intro.js、Shepherd.js 和 Driver.js，并具有更先进、更易于管理的功能。</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我有一个关于组织家庭遗产的平台的想法，但我不知道如何创建路线图并吸引想要参与并为创建这种想法做出贡献的人。 在我祖母去世后，我产生了这种需求，我担心我的孩子永远不会认识她，而且永远不会真正听到她的声音和她的故事。当然，今天你可以拍摄和录制一切，但问题是，组织所有这些对于某些人来说可能很乏味，甚至令人困惑，因为他们并不总是知道如何传输这些拍摄和组织视频编辑。因此，我产生了创建一个用户友好界面的想法，其中包括人工智能，它将指导提问的过程，以便轻松记录传递我们消失的记忆的人的叙述和个人故事。 如果有人可以分享一些技巧和经验，那就太好了。   由    /u/Yukhei-slider  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihqki6/in_which_way_you_will_create_an_open_source/</guid>
       <pubDate>Tue, 04 Feb 2025 19:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>办公室开源位置追踪器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihpwug/open_source_location_tracker_for_the_office/</link>
-      <description><![CDATA[您好， 我正在寻找简单但具体的东西。想知道你们是否有任何建议。 我们有 50-100 名员工，分布在 2 个办事处（伦敦和罗马），还有一些远程工作人员，遍布世界各地。 我正在寻找一个门户，用户可以登录并更新他们的工作位置，这样我们就可以提前知道“如果我周二去罗马，我会在办公室找到 Bob、Sally 和 Mary”。 理想情况下，我们还能够提取以下报告：“在过去的一个月里，Bob 去过办公室 17 次”。 我在那里找到的一切要么是全面的 HR 解决方案，要么是笨重的集成（包括 Microsoft Places）。 有什么想法吗？     由    /u/to-ie 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihpwug/open_source_location_tracker_for_the_office/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>TFS——临时文件共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihotx0/tfs_temporary_file_sharing/</link>
-      <description><![CDATA[嘿，大家好！很高兴宣布我的项目。 如果您愿意测试它，我希望得到任何反馈、帮助或任何改进它的建议。 这个项目是一个 CLI 应用程序，它将帮助您更新文件并快速获取它们，这些文件将存储长达 10 分钟，并被加密以保护任何信息。 一个可能的用例是： 我的文档中有一些文件我想在我的远程服务器上使用，传输这些文件的一种方法是使用此应用程序。 如果您想了解更多信息，这里是该应用程序的主要存储库。 这是 CLI 应用程序的存储库：https://github.com/SebasRomero/tfs 这是应用程序 API 的存储库：https://github.com/SebasRomero/tfs-api 你会使用它吗？为什么或为什么不？    提交人    /u/sebstnr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihotx0/tfs_temporary_file_sharing/</guid>
-      <pubDate>Tue, 04 Feb 2025 18:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Docker 和 gVisor 的代码游乐场</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihnm9w/code_playground_based_on_docker_and_gvisor/</link>
-      <description><![CDATA[🐳 基于 Docker 镜像的代码游乐场，具有 Google gVisor 隔离。可通过 API 进行扩展和自定义。 https://github.com/codiewio/codenire    由   提交  /u/Halabooda   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihnm9w/code_playground_based_on_docker_and_gvisor/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:48:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
