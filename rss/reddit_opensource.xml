@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 15:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:02:23 GMT</lastBuildDate>
+    <item>
+      <title>新的 Python 项目：使用 SMTP 发送电子邮件！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</link>
+      <description><![CDATA[我刚刚向我的 GitHub 存储库：My-PyNakama 添加了一个新项目，我在这里探索各种 Python 项目。这次，我构建了一个 Python 脚本，用于使用 smtplib 和 email 模块发送电子邮件！ 📩 🔹 特点： ✅ 使用 smtplib 安全地发送电子邮件 ✅ 支持 .env 文件以安全地存储凭据 ✅ 包含详细的 README.md，逐步解释代码 ✅ 非常适合在 Python 中自动执行电子邮件任务 如果您对电子邮件自动化感兴趣或只是想探索代码，请在此处查看： 🔗 GitHub Repo： https://github.com/abhinandan2540/My-PyNakama 很乐意听到您的想法、建议或改进！ 🚀 #Python #SMTP #EmailAutomation #GitHub #Coding #MyPyNakama #OpenSource #Automation    由   提交  /u/Hour-Echo-9680   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</guid>
+      <pubDate>Wed, 05 Feb 2025 17:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个电子邮件清理开源应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</link>
+      <description><![CDATA[我加入这个开源社区已经很久了，终于创建了自己的开源项目。目前有一些商业电子邮件清理应用程序，但没有开源替代品。因此，我使用 Flutter 和 Gmail API 开发了一个开源 Android 应用程序 (Confygre Email)，只需单击一下即可取消订阅和删除电子邮件。它仍处于早期阶段，我计划在未来添加更多功能。我很乐意听到您的建议和反馈！  Confygre Email GitHub Repo：https://github.com/confygregit/ConfygreEmail    提交人    /u/7adash1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</guid>
+      <pubDate>Wed, 05 Feb 2025 16:58:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个可以播放 Spotify、bandcamp 和 YouTube 的东西</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iie85a/i_need_something_that_can_play_spotify_bandcamp/</link>
+      <description><![CDATA[最好在移动设备和桌面上都使用！！ 谢谢    由    /u/LargeQT  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iie85a/i_need_something_that_can_play_spotify_bandcamp/</guid>
+      <pubDate>Wed, 05 Feb 2025 16:37:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个现代、开源、无代码、开发人员友好的产品游览构建器，它可以替代 Intro.js、Shepherd.js 和 Driver.js，并具有更先进、更易于管理的功能。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iic3kx/i_built_a_modern_opensource_nocode/</link>
+      <description><![CDATA[该产品与 Appcues、Userpilot、Userflow、Userguiding 和 Chameleon 等传统工具类似，但它以开源、无代码和针对开发人员进行了优化而脱颖而出。它可以完美替代 Intro.js、Shepherd.js 和 Driver.js 等开源库，同时提供用于构建产品导览的更多高级功能，并且比传统替代方案具有更大的灵活性和控制力。 主要特点：  通过简单集成和智能定位快速构建流程 启动规则设置以根据用户操作触发导览。 细分功能以提供量身定制的入职体验。 数据分析以跟踪用户参与度并改进体验。  技术栈：  React NestJS Prisma（默认为 PostgreSQL） Redis Tailwindcss ShadcnUI  开源：https://github.com/usertour/usertour    由   提交  /u/Crafty_Impression_37   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iic3kx/i_built_a_modern_opensource_nocode/</guid>
+      <pubDate>Wed, 05 Feb 2025 15:08:44 GMT</pubDate>
+    </item>
     <item>
       <title>候补名单 API：开源、随时可用的 API，用于从候补名单、新闻通讯表格等收集电子邮件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</link>
@@ -57,7 +85,7 @@
     <item>
       <title>介绍 ByteSync – 一款具有端到端加密功能的开源云文件同步工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii33k4/introducing_bytesync_an_opensource_cloudbased/</link>
-      <description><![CDATA[嗨，r/opensource， 我一直在研究 ByteSync，这是一个开源文件同步工具，旨在提供一种现代、安全且高效的方式来同步远程系统之间的文件。在我利用业余时间工作了近两年并进行了重大重写之后，它现在已根据 MIT 许可提供并免费托管。 什么是 ByteSync？ ByteSync 是一个跨平台文件同步软件，旨在通过云和端到端加密在远程设备之间同步文件。它只传输文件之间的差异，从而更快、更高效。 您可以将 ByteSync 视为：  FTP 的替代方案，但它是自我协调的，不需要集中式服务器 - 无需 VPN，无需防火墙配置。 以网络为中心的 FreeFileSync 对应产品，专为远程同步而构建。 工作方式有点像 Syncthing，但采用按需方式，而不是持续的后台同步。  主要特点🔑 ByteSync 使用端到端加密确保数据安全，同时通过增量同步技术优化性能，该技术仅传输修改后的数据以节省带宽。 它支持同时跨最多 5 个远程设备进行同步，并提供可自定义的同步规则以适应不同的工作流程。 它是跨平台的，可以在 Windows、ma​​cOS 和 Linux 上运行，并且作为 MIT 许可下的 开源项目，任何人都可以探索和贡献。 使用的技术🛠️ ByteSync 采用了许多很酷的技术构建，如果您对它的工作原理感到好奇，这些技术值得一看。  C# / .NET 8 – 核心应用程序开发 Avalonia UI – 跨平台用户界面框架 Azure Functions – 用于可扩展的无服务器云操作 Cosmos DB – 分布式 NoSQL 数据库，可实现高可用性 Redis Cache – 快速、内存数据缓存 Azure Blob 存储 – 安全且可扩展的云文件存储 SignalR – 客户端和服务器之间的实时通信 AES-256 加密 – 端到端数据安全 JWT (JSON Web 令牌) – 安全的身份验证和授权 NUnit、Moq 和 FakeItEasy – 单元测试和模拟框架以实现强大的测试覆盖率  部署说明⚙️ 可直接在存储库中获得有关部署客户端和服务器端组件的说明。 试试看！  🌐 网站 💻 GitHub 存储库  如果您对其进行测试，请随时在 GitHub 上提供反馈或报告问题🙂 谢谢， 保罗    提交人    /u/pfresquet   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，r/opensource， 我一直在研究 ByteSync，这是一个开源文件同步工具，旨在提供一种现代、安全且高效的方式来同步远程系统之间的文件。在我利用业余时间工作了近两年并进行了重大重写之后，它现在已根据 MIT 许可提供并免费托管。 什么是 ByteSync？ ByteSync 是一个跨平台文件同步软件，旨在通过云和端到端加密在远程设备之间同步文件。它只传输文件之间的差异，从而更快、更高效。 您可以将 ByteSync 视为：  FTP 的替代方案，但它是自我协调的，不需要集中式服务器 - 无需 VPN，无需防火墙配置。 以网络为中心的 FreeFileSync 对应产品，专为远程同步而构建。 工作方式有点像 Syncthing，但采用按需方式，而不是持续的后台同步。  主要特点🔑 ByteSync 使用端到端加密确保数据安全，同时通过增量同步技术优化性能，该技术仅传输修改后的数据以节省带宽。 它支持同时跨最多 5 个远程设备进行同步，并提供可自定义的同步规则以适应不同的工作流程。 它是跨平台的，可以在 Windows、ma​​cOS 和 Linux 上运行，并且作为 MIT 许可下的 开源项目，任何人都可以探索和贡献。 使用的技术🛠️ ByteSync 采用了许多很酷的技术构建，如果您对它的工作原理感到好奇，这些技术值得一看。  C# / .NET 8 – 核心应用程序开发 Avalonia UI – 跨平台用户界面框架 Azure Functions – 用于可扩展的无服务器云操作 Cosmos DB – 分布式 NoSQL 数据库，可实现高可用性 Redis Cache – 快速、内存数据缓存 Azure Blob 存储 – 安全且可扩展的云文件存储 SignalR – 客户端和服务器之间的实时通信 AES-256 加密 – 端到端数据安全 JWT (JSON Web 令牌) – 安全的身份验证和授权 NUnit、Moq 和 FakeItEasy – 单元测试和模拟框架以实现强大的测试覆盖率  部署说明⚙️ 可直接在存储库中获得有关部署客户端和服务器端组件的说明。 试试看！  🌐 网站 💻 GitHub 存储库  如果您对其进行了测试，请随时在 GitHub 上提供反馈或报告问题 🙂 谢谢， 保罗    提交人    /u/pfresquet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii33k4/introducing_bytesync_an_opensource_cloudbased/</guid>
       <pubDate>Wed, 05 Feb 2025 05:36:54 GMT</pubDate>
     </item>
@@ -83,14 +111,7 @@
       <pubDate>Tue, 04 Feb 2025 22:27:58 GMT</pubDate>
     </item>
     <item>
-      <title>微软实施 CoPilot，Deepseek 摧毁闭源竞争，人们因为马斯克关闭 subreddit 而转向 Lemmy。今年是开源之年吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihufcs/microsoft_implementing_copilot_deepseek/</link>
-      <description><![CDATA[由于行业内外发生的许多事情，我越来越倾向于开源软件，而且随着时间的推移，这样做的理由似乎越来越多。我只是想知道是否有人正在做/注意到同样的事情。   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihufcs/microsoft_implementing_copilot_deepseek/</guid>
-      <pubDate>Tue, 04 Feb 2025 22:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有开源的欧洲人工智能聊天机器人替代品？</title>
+      <title>有没有开源的欧洲 AI 聊天机器人替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</link>
       <description><![CDATA[嗨， 就像标题所说，我正在寻找一个开源欧洲 AI 聊天机器人替代品。 我找到了 Mistral AI 和 Aleph Alpha，但它们不方便用户使用，需要技术知识。我正在寻找一个可以与浏览器一起使用的用户友好的聊天机器人。 谢谢！    提交人    /u/Super_Ad1989   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[🐳 基于 Docker 镜像的代码游乐场，具有 Google gVisor 隔离。可通过 API 进行扩展和自定义。 https://github.com/codiewio/codenire    由   提交  /u/Halabooda   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihnm9w/code_playground_based_on_docker_and_gvisor/</guid>
       <pubDate>Tue, 04 Feb 2025 17:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tach——一个用于强制依赖关系的 Python 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihl6bn/tach_a_python_tool_to_enforce_dependencies/</link>
-      <description><![CDATA[来源：https://github.com/gauge-sh/tach Python 允许您在任何地方导入和使用任何内容。随着时间的推移，这会导致原本应该分开的模块紧密耦合在一起，领域界限被打破。 我们在一家独角兽初创公司亲身经历了这种情况，整个工程团队暂停了一年多的开发，试图将紧密耦合的包拆分为独立的微服务。最终失败了，并导致 CTO 被解雇。 出现此问题的原因是：  向现有包中添加内容比创建新包要容易得多 初级开发人员对现有架构的了解有限 外部压力导致走捷径并忽视最佳实践  我们看到的解决此问题的尝试总是以失败告终。各种解决方案会尝试从不同角度解决此问题，例如开发人员教育、CODEOWNER、标准指南、重构等。但是，这些都不能解决根本原因。 我的项目的作用 使用 Tach，您可以：  声明您的模块 (tach mod) 自动声明依赖项 (tach sync) 强制执行这些依赖项 (tach check) 可视化这些依赖项 (tach show 和 tach report)  您还可以为每个模块强制执行公共接口，并随着时间的推移弃用依赖项。 如果您在您的项目中尝试它，我会很高兴，如果您觉得它有用请告诉我！    提交人    /u/the1024   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihl6bn/tach_a_python_tool_to_enforce_dependencies/</guid>
-      <pubDate>Tue, 04 Feb 2025 16:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS 水净化、结构和卫生设施（离网社区）📖💧🏠🚾🌱</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihl5pn/foss_water_purification_structures_and_sanitation/</link>
-      <description><![CDATA[    /u/maltfield  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihl5pn/foss_water_purification_structures_and_sanitation/</guid>
-      <pubDate>Tue, 04 Feb 2025 16:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了几个月的时间构建现代评论部分 - 现在它是开源的（MIT）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihk7yn/ive_spent_months_building_a_modern_comment/</link>
-      <description><![CDATA[上周，我在 r/reactnative 上分享了一个视频，演示了我的项目 Replyke 的评论系统。反响很好，很多人问它是否开源。当时它不是开源的，但这一直是我的计划。我花了几天时间清理东西，现在它已经可以供公众使用了。 从今天起，Replyke 的评论系统是开源的。 对于那些不熟悉的人来说，这是一个现代化的社交风格评论部分，专为 React 应用程序（React 和 React Native）设计。它包括：  提及 - 用户可以互相提及（@用户名），并提供可选通知和可自定义的点击处理。 回复和喜欢 - 支持嵌套回复和喜欢，具有内置通知处理。 突出显示的评论 - 允许链接并自动突出显示特定的评论或回复。 GIF 支持 - 用户可以使用 API 密钥插入 GIF。 内置授权 - 确保只有授权用户可以删除他们的评论并防止重复喜欢。 报告和审核 - 包括报告系统、用于管理报告、删除评论和禁止用户的后台工具。  这是一个更大项目的一部分，旨在帮助个人开发人员和小型团队围绕他们的内容建立社区，但这篇文章主要介绍评论系统本身。 GitHub Repo：https://github.com/replyke/ui-kit React 包：https://www.npmjs.com/package/@replyke/comments-social-react React Native 包（CLI 和 Expo）：https://www.npmjs.com/package/@replyke/comments-social-react-native 欢迎反馈和贡献！    提交人    /u/YanTsab   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihk7yn/ive_spent_months_building_a_modern_comment/</guid>
-      <pubDate>Tue, 04 Feb 2025 15:28:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
