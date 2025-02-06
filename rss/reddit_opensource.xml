@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 06 Feb 2025 15:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 21:02:09 GMT</lastBuildDate>
+    <item>
+      <title>寻求贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ij9xne/ask_for_contributors/</link>
+      <description><![CDATA[💡 🔥 什么是 Z-World？ Z-World 是一个使用 Three.js、React 和 Rapier Physics 构建的交互式虚拟空间。用户可以控制头像、探索环境并与元素实时交互。 🛠 技术栈  前端：React + Three.js 物理引擎：Rapier 当前重点：改进角色物理、运动和多人游戏功能  💡 您可以如何提供帮助 我正在寻找以下领域的贡献者：✅ 角色控制和动画 ✅ 多人游戏集成 ✅ 环境和资产优化 ✅ 常规改进和错误修复 如果您喜欢 3D 开发、基于物理的运动或元现实概念，我希望您查看 repo 并做出贡献！ 🔗 GitHub 存储库： Z-World GitHub 让我知道您的想法，并随时提出建议！期待合作。🚀    提交人    /u/MarketNo6858   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ij9xne/ask_for_contributors/</guid>
+      <pubDate>Thu, 06 Feb 2025 18:44:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何 Agency Analytics 的开源替代品；一个（客户营销）报告仪表板可以让我显示每个用户帐户的转化指标？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ij9nuz/are_there_any_open_source_alternatives_to_agency/</link>
+      <description><![CDATA[我正在尝试获取一个仪表板，使我能够使用 Google Analytics、Google Ads、Facebook Ads 等，并自行制作自定义连接器。    提交人    /u/CodeBradley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ij9nuz/are_there_any_open_source_alternatives_to_agency/</guid>
+      <pubDate>Thu, 06 Feb 2025 18:32:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个开源 trustpilot 虚假评论删除器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ij9d5y/an_open_source_trustpilot_fake_reviews_deleter/</link>
+      <description><![CDATA[我刚刚制作了一个开源 trust pilot 虚假评论删除器。它可用作 chrome 和 firefox 扩展。您可以选择过滤器来选择何时删除评论。预览和链接在评论中    提交人    /u/CandidCan5777   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ij9d5y/an_open_source_trustpilot_fake_reviews_deleter/</guid>
+      <pubDate>Thu, 06 Feb 2025 18:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 18 岁以下的人来说，GSOC 有哪些替代方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ij7mta/what_are_some_alternatives_for_gsoc_for_under18/</link>
+      <description><![CDATA[我对 GSOC 这样的经历非常感兴趣。但是，我很快就不到 18 岁了（16 岁，今年 17 岁）。 还有其他选择吗？（我是高中四年级学生）    提交人    /u/Ok_System5789   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ij7mta/what_are_some_alternatives_for_gsoc_for_under18/</guid>
+      <pubDate>Thu, 06 Feb 2025 17:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 用户发布了开源多模型 AI 工具来帮助医疗诊断。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ij7jwi/reddit_user_released_an_opensource_multimodel/</link>
+      <description><![CDATA[        提交人    /u/ReasonablePossum_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ij7jwi/reddit_user_released_an_opensource_multimodel/</guid>
+      <pubDate>Thu, 06 Feb 2025 17:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 Strava Statistics v0.4.11 发布！徽标重新设计，新过滤器和生活质量改进</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ij6j1f/strava_statistics_v0411_released_logo_redesign/</link>
+      <description><![CDATA[嗨 r/opensource ！ 我很高兴地宣布 Strava Statistics `v0.4.11` 已于本周早些时候发布。  Strava Statistics 是一个自托管的 Web 应用程序，旨在为您提供更好的统计数据。   示例：https://strava-statistics.robiningelbrecht.be/ GitHub：https://github.com/robiningelbrecht/strava-statistics  新功能和改进v0.4.11:  新徽标设计 在活动表概览顶部添加活动总数 添加日期范围过滤器 + 过滤器重新设计 为活动分段添加平均心率 为概览搜索添加去抖动功能 修复英制单位的几个问题 修复了退役装备名称渲染不正确的错误  计划的功能：https://github.com/robiningelbrecht/strava-statistics/issues 与往常一样，感谢您的反馈，我期待更多功能请求！    提交人    /u/frogfuhrer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ij6j1f/strava_statistics_v0411_released_logo_redesign/</guid>
+      <pubDate>Thu, 06 Feb 2025 16:26:46 GMT</pubDate>
+    </item>
     <item>
       <title>有声读物：自动将 epub 转换为有声读物</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij2565/autiobooks_automatically_convert_epubs_to/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我刚刚向我的 GitHub 存储库：My-PyNakama 添加了一个新项目，我在这里探索各种 Python 项目。这次，我构建了一个 Python 脚本，用于使用 smtplib 和 email 模块发送电子邮件！ 📩 🔹 特点： ✅ 使用 smtplib 安全地发送电子邮件 ✅ 支持 .env 文件以安全地存储凭据 ✅ 包含详细的 README.md，逐步解释代码 ✅ 非常适合在 Python 中自动执行电子邮件任务 如果您对电子邮件自动化感兴趣或只是想探索代码，请在此处查看： 🔗 GitHub Repo： https://github.com/abhinandan2540/My-PyNakama 很乐意听到您的想法、建议或改进！ 🚀 #Python #SMTP #EmailAutomation #GitHub #Coding #MyPyNakama #OpenSource #Automation    由   提交  /u/Hour-Echo-9680   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</guid>
       <pubDate>Wed, 05 Feb 2025 17:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个电子邮件清理开源应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</link>
-      <description><![CDATA[我加入这个开源社区已经很久了，终于创建了自己的开源项目。目前有一些商业电子邮件清理应用程序，但没有开源替代品。因此，我使用 Flutter 和 Gmail API 开发了一个开源 Android 应用程序 (Confygre Email)，只需单击一下即可取消订阅和删除电子邮件。它仍处于早期阶段，我计划在未来添加更多功能。我很乐意听到您的建议和反馈！  Confygre Email GitHub Repo：https://github.com/confygregit/ConfygreEmail    提交人    /u/7adash1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iieqzc/first_ever_email_cleaning_opensource_app/</guid>
-      <pubDate>Wed, 05 Feb 2025 16:58:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个现代、开源、无代码、开发人员友好的产品游览构建器，它可以替代 Intro.js、Shepherd.js 和 Driver.js，并具有更先进、更易于管理的功能。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iic3kx/i_built_a_modern_opensource_nocode/</link>
-      <description><![CDATA[该产品与 Appcues、Userpilot、Userflow、Userguiding 和 Chameleon 等传统工具类似，但它以开源、无代码和针对开发人员进行了优化而脱颖而出。它可以完美替代 Intro.js、Shepherd.js 和 Driver.js 等开源库，同时提供用于构建产品导览的更多高级功能，并且比传统替代方案具有更大的灵活性和控制力。 主要特点：  通过简单集成和智能定位快速构建流程 启动规则设置以根据用户操作触发导览。 细分功能以提供量身定制的入职体验。 数据分析以跟踪用户参与度并改进体验。  技术栈：  React NestJS Prisma（默认为 PostgreSQL） Redis Tailwindcss ShadcnUI  开源：https://github.com/usertour/usertour    由   提交  /u/Crafty_Impression_37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iic3kx/i_built_a_modern_opensource_nocode/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>候补名单 API：开源、随时可用的 API，用于从候补名单、新闻通讯表格等收集电子邮件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</link>
-      <description><![CDATA[大家好， 我制作了一个开源的、随时可用的候补名单 API，用于收集候补名单、新闻稿表格等中的电子邮件。 它是自托管的，并且可以使用 Cloudflare Turnstile 保护输入。 查看它：https://github.com/realchandan/waitlist-api 另外，查看此演示：https://youtu.be/z5GFT6DbIzQ    提交人    /u/freewheel1466   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</guid>
-      <pubDate>Wed, 05 Feb 2025 13:20:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Rust 的去中心化库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ii99m5/rust_based_decentralized_library/</link>
-      <description><![CDATA[      大家好，我最近发布了一个基于Rust的去中心化库框架。我从上个月开始就一直在研究它。  这是一个去中心化的框架，旨在探索经常被忽视的去中心化技术和算法。它仍处于早期阶段，我一直在研究低级功能，并将扩展到涉及区块链或 DLT 支持的更高级别。 我想听听一些关于它的意见，关于你想要什么类型的功能或你认为我当前的框架包含什么。     提交人    /u/Critical_Pipe1134   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ii99m5/rust_based_decentralized_library/</guid>
-      <pubDate>Wed, 05 Feb 2025 12:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人告诉我应该在这里问这个问题 :D 谢谢！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ii7t9u/ive_been_told_to_ask_this_here_instead_d_ty/</link>
-      <description><![CDATA[  由    /u/stupidtwitchthotss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ii7t9u/ive_been_told_to_ask_this_here_instead_d_ty/</guid>
-      <pubDate>Wed, 05 Feb 2025 11:21:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - mayswind/ezbookkeeping：一款由您自己托管的轻量级个人簿记应用程序。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ii6i22/github_mayswindezbookkeeping_a_lightweight/</link>
-      <description><![CDATA[       由    /u/artegoser  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ii6i22/github_mayswindezbookkeeping_a_lightweight/</guid>
-      <pubDate>Wed, 05 Feb 2025 09:43:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
