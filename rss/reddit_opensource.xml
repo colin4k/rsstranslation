@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 06 Feb 2025 21:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 00:03:50 GMT</lastBuildDate>
+    <item>
+      <title>我为 Next.js 构建了一个开源 UI 库来简化设计</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ijeooy/i_built_an_opensource_ui_library_for_nextjs_to/</link>
+      <description><![CDATA[大家好，我一直在研究 Once UI，这是一个 Next.js 的开源设计系统，可帮助您构建现代应用程序，而不会损害品牌或设计。  一个文件，无限样式 - 您可以在几分钟内完全更改应用的设计。 开发人员友好的样式 - 无需深入研究 CSS 技巧；只需使用几个关键字应用样式即可。 专为设计不佳的人打造 - 我们的大多数用户不是硬核前端开发人员。他们是全栈/后端/设计人员，他们只想要好用的东西。  最重要的是，我们正在为创意人士建立一个社区 - 不仅仅是程序员，还有游戏艺术家、摄影师和关心 UI/UX 并且不怕进入未知领域的设计师。 感兴趣吗？查看：https://once-ui.com 并告诉我您的想法！ 欢迎随时通过 Discord 与我们联系：https://designengineers.club    提交人    /u/lorantart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ijeooy/i_built_an_opensource_ui_library_for_nextjs_to/</guid>
+      <pubDate>Thu, 06 Feb 2025 21:57:02 GMT</pubDate>
+    </item>
     <item>
       <title>寻求贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1ij9xne/ask_for_contributors/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[你好。我想加密一个文件以存储在云中。我是 CLI 新手，有人告诉我 GnuPG 是我最好的选择。我问了 AI，到目前为止，这是我得到的命令： gpg -c --armor --cipher-algo AES256 --no-symkey-cache --output cryptographic-file.asc original-file.txt  解密： gpg -d filename.gpg  有人能告诉我我做的是否正确吗？ 1-使用 GnuPG 加密在云中长期存储是否安全？ 2-我如何确认加密是安全的？ 3-GnuPG 是否比仅使用 .7z AES-256 密码加密更好？如果都一样，那么使用 PeaZip 可能更容易。 任何额外的指导都非常感谢。我最不想做的就是上传我的文件并让恶意行为者暴露它们    提交人    /u/floatontherainbowtw   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iihpp0/am_i_using_gnupg_correct/</guid>
       <pubDate>Wed, 05 Feb 2025 18:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Python 项目：使用 SMTP 发送电子邮件！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</link>
-      <description><![CDATA[我刚刚向我的 GitHub 存储库：My-PyNakama 添加了一个新项目，我在这里探索各种 Python 项目。这次，我构建了一个 Python 脚本，用于使用 smtplib 和 email 模块发送电子邮件！ 📩 🔹 特点： ✅ 使用 smtplib 安全地发送电子邮件 ✅ 支持 .env 文件以安全地存储凭据 ✅ 包含详细的 README.md，逐步解释代码 ✅ 非常适合在 Python 中自动执行电子邮件任务 如果您对电子邮件自动化感兴趣或只是想探索代码，请在此处查看： 🔗 GitHub Repo： https://github.com/abhinandan2540/My-PyNakama 很乐意听到您的想法、建议或改进！ 🚀 #Python #SMTP #EmailAutomation #GitHub #Coding #MyPyNakama #OpenSource #Automation    由   提交  /u/Hour-Echo-9680   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iifs2r/new_python_project_sending_emails_using_smtp/</guid>
-      <pubDate>Wed, 05 Feb 2025 17:40:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
