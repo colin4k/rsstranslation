@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Feb 2025 15:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 18:02:36 GMT</lastBuildDate>
+    <item>
+      <title>开源合规性软件：解锁免费访问清单和知识</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iksi1i/opensource_compliance_software_unlocking_free/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我正在开发一个开源合规平台，以使SOC2和ISO 27001认证流程民主化。当前的合规性格局具有重大的成本障碍，对于初创企业和小型企业来说可能特别具有挑战性。我相信安全合规性应该更容易访问。   github存储库    关键目标： - 创建一个免费的，开源的替代品，替代Vanta之类的平台 - 简化SOC2和ISO 27001的合规过程 - 建立一种以社区为导向的安全合规性 我很想听听您的想法如下： - 您在现有合规性解决方案中经历的痛点 - 您认为对于此平台所必需的功能 - 对此空间的潜在挑战或考虑 我已经根据成功的SOC2参与而开发了初始内容与客户。后端实施几乎已经完成，接下来的几天将开始前端开发。我的目标是在两周内准备好MVP！ 让我们可以使每个人都可以访问！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/gearnode     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iksi1i/opensource_compliance_software_unlocking_free/</guid>
+      <pubDate>Sat, 08 Feb 2025 17:26:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[开源释放]带有黄蜂，React和Node的可远程SaaS模板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在发布项目的核心SaaS组件 CloudContext  作为开源。目的是为想要旋转SaaS的任何人提供一个现成的基础，同时为开源生态系统做出贡献。    Tech＆amp;功能：    框架： WASP（0.16.0）使用React（FrontEnd）＆amp; node.js（后端）。  数据库：以prisma为orm。 li&gt;   auth Integration： github，discord，google，以及电子邮件/密码。  付款集成：柠檬squeezy。  分析＆amp;存储：合理，AWS S3。 &gt;基于namecheap的SMTP设置。   在哪里找到它：      实时演示：  cloudContext.cc     github： 即可到达deploy-saas-template       贡献＆amp;支持：   任何反馈或建议都得到赞赏 - 自由开放或提交Pr。 如果您觉得它有益，则可以支持该项目通过给我买咖啡。如果您需要自定义或扩展，我也可以咨询工作。  感谢您帮助发展开源社区！  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/u/cloud_context     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</guid>
+      <pubDate>Sat, 08 Feb 2025 17:20:25 GMT</pubDate>
+    </item>
     <item>
       <title>一个简单的网站，可轻松下载Linux发行版 -  istrohub</title>
       <link>https://www.reddit.com/r/opensource/comments/1iko87r/a_simple_website_for_easy_linux_distro_downloads/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我对像GSOC这样的体验非常感兴趣。但是，我不会很快18岁（16岁，今年17岁）。 其他选择是什么？ （我是HS中的高年级）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_system5789     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ij7mta/what_are_some_alternatives_for_gsoc_for_under18/</guid>
       <pubDate>Thu, 06 Feb 2025 17:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit用户发布了一个开源多模型AI-Tool，以帮助医疗诊断。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ij7jwi/reddit_user_released_an_opensource_multimodel/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/proomablepossum_     [link]   ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ij7jwi/reddit_user_released_an_opensource_multimodel/</guid>
-      <pubDate>Thu, 06 Feb 2025 17:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀Strava Statistics v0.4.11发布！徽标重新设计，新过滤器和生活质量改善</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ij6j1f/strava_statistics_v0411_released_logo_redesign/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/opensource  P&gt; 我很高兴宣布Strava统计学`v0.4.11`已于本周早些时候发布。   Strava Statistics是一个自托管的Web应用程序，旨在为您提供更好的Stats。   示例： https://strava-statistics.法 -  statistics.法/a&gt;   github： https://github.com/robiningelbrecht/strava-statistics  /li&gt;    v0.4.11中的新功能和改进：   新徽标设计 在活动表概述的顶部 添加了日期范围滤波器 +过滤器重新设计 添加了活动拆分的平均心率 添加访问访问到概述搜索 修复了帝国单位的几个问题 修复了一个错误，其中退休的齿轮名被错误地呈现  计划的功能： https://github.com/robiningelbrecht/strava-statistics/issues    一如既往地感谢您的反馈，我的反馈期待更多功能请求！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/frogfuhrer     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ij6j1f/strava_statistics_v0411_released_logo_redesign/</guid>
-      <pubDate>Thu, 06 Feb 2025 16:26:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
