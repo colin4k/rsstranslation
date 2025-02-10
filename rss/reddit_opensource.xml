@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Feb 2025 15:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 18:03:30 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找日记/日记应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   im正在寻找针对Android的建议，并且可能在Windows上工作，我在应用程序中寻找的功能是多个期刊/日记，并且能够要附加照片和潜在的视频，以及本地备份和还原选项，我希望有人有一些好的建议，我一直在使用一个名为Simple Journal的应用程序，但是备份和还原功能有些错误    &lt;。 /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/joeyroxas     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</guid>
+      <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开源项目安排“网络保险”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imabkt/arranging_for_cyber_insurance_for_an_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个我已经建立的开源项目，该项目被某些学校用来支持某些教育目标。我最近收到了有关使用佛罗里达州新州的询问。他们指出，任何使用的软件都需要通过“技术交换所委员会（TCC）评论”，并且该过程中的一个期望是确保任何外部供应商都提供具有网络保险的证据。 当然，这是可以免费提供的开源代码 - 没有供应商，目前没有网络保险。如果价格合理，用户可能愿意支付网络保险的费用，作为《代码》的作者，我相信它将符合围绕安全性的合理最佳实践，我愿意花费时间和注意力记录系统的系统网络保险供应商。但是目前尚不清楚事件如何工作。 是否有人在获得网络保险的开源项目上工作？如果是这样，您与谁合作，如何完成？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mcherm     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imabkt/arranging_for_cyber_insurance_for_an_open_source/</guid>
+      <pubDate>Mon, 10 Feb 2025 16:35:58 GMT</pubDate>
+    </item>
     <item>
       <title>kokorosharp-插件和播放本地文本到语音（.NET，ONNX运行时）</title>
       <link>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</link>
@@ -62,7 +76,7 @@
       <pubDate>Mon, 10 Feb 2025 03:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>由Swift/Swiftui构建的Ollama开源Mac客户端</title>
+      <title>由Swift/Swiftui构建的Ollama的开源Mac客户端</title>
       <link>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近使用Swift创建了一个新的Mac应用。去年，我发布了Ollama的开源iPhone客户端（用于运行LLMS的程序），使用Flutter，称为Myollama。我也计划制作Mac版本，但是当我尝试使用Flutter时，设计并不是很MAC，所以我将其放在一边。 今年年初，我决定从使用Swift/swiftui划痕。此应用程序可让您使用Ollama在Mac上的DeepSeek（例如DeepSeek）进行安装和聊天。功能包括：   - 上下文对话   - 保存和搜索聊天历史记录   - 自定义系统提示   - 以及更多...  这是完全开源的！在此处查看代码：   https://github.com/bipark/bipark/mac_ollama_client      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/billythepark     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，devs！ 👋 我刚刚创建了一个基于Python的CLI工具，该工具跟踪学生叶子，如果休假计数超过 3，则会自动发送警告电子邮件 。该项目使用 smtp 发送通知，使其成为自动出勤跟踪的简单但有效的方法。 🛠功能：  ✅基于CLI的输入学生名称，主题和休假计数。✅如果叶子超过 3 &lt; /strong&gt;。。 br/&gt;✅易于配置且可扩展。 📩📩📩：  1️⃣学生进入他们的名称，主题和离开计数。&lt;2️⃣如果休假计数＆gt; 3 ，脚本会触发电子邮件警告。3️⃣使用 python的smtplib 具有自定义内容。 🔗查看GitHub repo：   https://github.com/abhinandan2540/my-pynakama/tree/main/main/main/cli_attendence    &lt;未来计划：           数据库。🔹添加 GUI版本以更轻松的交互。🔹支持多个电子邮件提供商。 很想听听您的反馈！您建议哪些改进或功能？ 🚀🔥  #python #automation #smtp #opensource #cli #devcommunity #coding   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hour-echo-9680      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1il6g2x/i_built_a_clibased_student_leave_warning_system/</guid>
       <pubDate>Sun, 09 Feb 2025 04:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源合规性软件：解锁免费访问清单和知识</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iksi1i/opensource_compliance_software_unlocking_free/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我正在开发一个开源合规平台，以使SOC2和ISO 27001认证流程民主化。当前的合规性格局具有重大的成本障碍，对于初创企业和小型企业来说可能特别具有挑战性。我相信安全合规性应该更容易访问。   github存储库    关键目标： - 创建一个免费的，开源的替代品，替代Vanta之类的平台 - 简化SOC2和ISO 27001的合规过程 - 建立一种以社区为导向的安全合规性 我很想听听您的想法如下： - 您在现有合规性解决方案中经历的痛点 - 您认为对于此平台所必需的功能 - 对此空间的潜在挑战或考虑 我已经根据成功的SOC2参与而开发了初始内容与客户。后端实施几乎已经完成，接下来的几天将开始前端开发。我的目标是在两周内准备好MVP！ 让我们可以使每个人都可以访问！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/gearnode     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iksi1i/opensource_compliance_software_unlocking_free/</guid>
-      <pubDate>Sat, 08 Feb 2025 17:26:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开源释放]带有黄蜂，React和Node的可远程SaaS模板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在发布项目的核心SaaS组件 CloudContext  作为开源。目的是为想要旋转SaaS的任何人提供一个现成的基础，同时为开源生态系统做出贡献。    Tech＆amp;功能：    框架： WASP（0.16.0）使用React（FrontEnd）＆amp; node.js（后端）。  数据库：以prisma为orm。 li&gt;   auth Integration： github，discord，google，以及电子邮件/密码。  付款集成：柠檬squeezy。  分析＆amp;存储：合理，AWS S3。 &gt;基于namecheap的SMTP设置。   在哪里找到它：      实时演示：  cloudContext.cc     github： 即可到达deploy-saas-template       贡献＆amp;支持：   任何反馈或建议都得到赞赏 - 自由开放或提交Pr。 如果您觉得它有益，则可以支持该项目通过给我买咖啡。如果您需要自定义或扩展，我也可以咨询工作。  感谢您帮助发展开源社区！  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/u/cloud_context     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</guid>
-      <pubDate>Sat, 08 Feb 2025 17:20:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
