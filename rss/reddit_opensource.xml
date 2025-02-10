@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Feb 2025 09:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 15:03:04 GMT</lastBuildDate>
+    <item>
+      <title>kokorosharp-插件和播放本地文本到语音（.NET，ONNX运行时）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我建造了本地的跨平台TTS引擎！初学者友好而灵活。   kokorotts tts = kokorotts.loadmodel（）; kokorovoice heartvoice = kokorovoicemanager.getVoice（“ af_heart”）; while（true）{tts.speakfast（console.readline（），heartvoice）; }   它可以在 当然，源是打开的： https：//github .com/lyrcaxis/kokorosharp   我真的希望人们喜欢它！所有的代码（甚至是低级零件）都考虑到潜在的教育，同时足够灵活以覆盖所有高级用例。我很想听听您的想法和建议/想法。 -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/lycaxis     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_plaug_play_play_local_textttttttttospech_net_onnx/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</guid>
+      <pubDate>Mon, 10 Feb 2025 10:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者友好的开源项目基于GO，React，Postgres。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1im2uqm/beginner_friendly_open_source_project_based_in_go/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从几个月开始就制作了这个通用的托管代理。有一天，它将整合那里的所有付款门户。确实在早期。如上所述的堆栈是基于GO，React，Postgres。除此之外&gt;这是链接： github.com/org-45/escrow-agent-agent-agent      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chauchausoup     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1im2uqm/beginner_friendly_open_source_project_based_in_go/</guid>
+      <pubDate>Mon, 10 Feb 2025 10:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eslint插件，用于通过De Morgan的法律转换否定的布尔表达式</title>
+      <link>https://www.reddit.com/r/opensource/comments/1im2jvx/eslint_plugin_for_transforming_negated_boolean/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1IM2JVX/ESLINT_PLIGIN_FORE_TRANSOFE_TRANSFOR_TRANSFOR_TRANSFOR_TRANSFOR_NEGATINGINGINGINGINGIN_NEGATING_NEGATED_BOLEAN/” Morgan&#39;s laws&quot; src=&quot;https://external-preview.redd.it/3zWvgqTNL0JrcLC3NXAupFM6s_-VQlgtM7dneGuY9CE.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1db24f25e3769a1dfc953777bf2215ef935e3054&quot; title=&quot;ESLint plugin for transforming negated boolean expressions通过de Morgan的定律”/&gt;   ＆＃32;提交由＆＃32; /u/u/azat_io     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1im2jvx/eslint_plugin_for_transforming_negated_boolean/</guid>
+      <pubDate>Mon, 10 Feb 2025 09:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在开源视频编辑软件中添加了WebGL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1im1zua/i_added_webgl_to_my_opensource_video_editing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您最近将WebGL添加到视频编辑软件中以实现Chroma密钥功能。当我这样做时，我还增加了一些效果。而且质量比我预期的要好。  通常使用超过80％的CPU。但是考虑到60fps的编辑，这是一个稳定的数字。由于需要每16ms进行一次复杂的计算，因此性能实际上相当不错。   github： https://github.com/cartesiancs/nugget-app-app-app-app-app-app  演示： https://www.youtube.com/watch?v=il4-rztclta    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; &lt; //www.reddit.com/r/opensource/comments/1im1zua/i_added_webgl_to_my_opensource_video_editing/&quot;&gt; [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1im1zua/i_added_webgl_to_my_opensource_video_editing/</guid>
+      <pubDate>Mon, 10 Feb 2025 09:08:03 GMT</pubDate>
+    </item>
     <item>
       <title>如何开始开源贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1im1wc9/how_to_start_open_source_contribution/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[在一个用于在pytorch中创建可区分几何损失函数库的项目。 我在这里放置了一些初始提交的项目，以了解可能的外观： github repo        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/atharvaaalok1     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ilzr04/inviting_collaborators_for_a_differentiable/</guid>
       <pubDate>Mon, 10 Feb 2025 06:23:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>想法：电子第三只眼</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ily33p/idea_electronic_third_eye/</link>
-      <description><![CDATA[在％9c％A8％22“&gt;一般   ，所以我已经有一段时间一直在玩这个想法，我认为它可能已经准备好感受到它的水。因此，既然天线技术已经达到了MIMO和波束形成的水平，我认为我们可以制作电子第三只眼。利用三个球体覆盖在1mm平方英尺的天线上，与微线圈交替散布3.5mm，彼此嵌套并挂在ADC中，以供下20 kHz到DC场（线圈）（线圈）和SDR（1mm PADS），以进行高频异常三角形的三角形和其他三角形的三角形和其他三角形的三角形和其他频段可视化，我们也许可以对此进行技术裂缝。为了降低成本，可以使用RF开关网络来减少所需的SDR数量，但是信号降解和与计算机算法同步将是新的挑战。 类似的东西应该能够看到我们通常无法使用的频率，例如DC潜力到20kHz，确切地说是10MHz至3.5GHz。使用垫子和线圈天线网格相互嵌套在彼此之间，即使在DC等磁场上也可以进一步进行三角调节。 通过取ADC和SDR的输出，并将标准的GPU与右编程甚至AI一起使用，甚至是AI解释说，您可以将RF源，场变化和可视化周围环境的三角形源，例如LiDAR或WiFi雷达。低个带具有更多的超自然潜力，例如光环和幻影，目标之一就是查看疾病确实确实具有某种形式的能量签名。 从理论上讲，该仪器将适用于超自然现象。 ，医疗，RF工程和军事应用类似于三阶。我在此处发布它会导致带有归因的开源胜于利润。 好主意吗？坏主意？想组建一个团队吗？我需要工程师和程序员...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shaggyjustpostedit     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ily33p/idea_electronic_third_eye/</guid>
-      <pubDate>Mon, 10 Feb 2025 04:41:49 GMT</pubDate>
     </item>
     <item>
       <title>开源项目测试</title>
@@ -41,7 +62,7 @@
       <pubDate>Mon, 10 Feb 2025 03:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>由Swift/Swiftui构建的Ollama的开源Mac客户端</title>
+      <title>由Swift/Swiftui构建的Ollama开源Mac客户端</title>
       <link>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近使用Swift创建了一个新的Mac应用。去年，我发布了Ollama的开源iPhone客户端（用于运行LLMS的程序），使用Flutter，称为Myollama。我也计划制作Mac版本，但是当我尝试使用Flutter时，设计并不是很MAC，所以我将其放在一边。 今年年初，我决定从使用Swift/swiftui划痕。此应用程序可让您使用Ollama在Mac上的DeepSeek（例如DeepSeek）进行安装和聊天。功能包括：   - 上下文对话   - 保存和搜索聊天历史记录   - 自定义系统提示   - 以及更多...  这是完全开源的！在此处查看代码：   https://github.com/bipark/bipark/mac_ollama_client      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/billythepark     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在发布项目的核心SaaS组件 CloudContext  作为开源。目的是为想要旋转SaaS的任何人提供一个现成的基础，同时为开源生态系统做出贡献。    Tech＆amp;功能：    框架： WASP（0.16.0）使用React（FrontEnd）＆amp; node.js（后端）。  数据库：以prisma为orm。 li&gt;   auth Integration： github，discord，google，以及电子邮件/密码。  付款集成：柠檬squeezy。  分析＆amp;存储：合理，AWS S3。 &gt;基于namecheap的SMTP设置。   在哪里找到它：      实时演示：  cloudContext.cc     github： 即可到达deploy-saas-template       贡献＆amp;支持：   任何反馈或建议都得到赞赏 - 自由开放或提交Pr。 如果您觉得它有益，则可以支持该项目通过给我买咖啡。如果您需要自定义或扩展，我也可以咨询工作。  感谢您帮助发展开源社区！  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/u/cloud_context     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ikscfl/open_source_release_readytodeploy_saas_template/</guid>
       <pubDate>Sat, 08 Feb 2025 17:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个简单的网站，可轻松下载Linux发行版 -  istrohub</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iko87r/a_simple_website_for_easy_linux_distro_downloads/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个名为istrohub的小侧面项目，我很高兴能与大家分享。这是一个方便的网站，可让您只需单击一键即可下载各种Linux发行版的最新桌面版本 - 不再浏览多个页面以找到正确的ISO。   https://github.com/distributionhub/distributionhub.github.io      &lt;！ -  sc_on-&gt;＆＃32 ;提交由＆＃32; /u/u/itisnotyello     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iko87r/a_simple_website_for_easy_linux_distro_downloads/</guid>
-      <pubDate>Sat, 08 Feb 2025 14:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源音频到视频生成器。这是我的github帐户上的开源！:)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iknxbk/open_source_audio_to_video_generator_its_open/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨！这已经是我的个人项目已经有几个月了，我现在公开了它 这是一个实时使用图像生成神经网络的框架，该框架与麦克风连接。 如果您是关于它可以随意通过的好奇心 - &gt;＆＃32;提交由＆＃32; /u/u/u/staust_jelly5794      [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iknxbk/open_source_audio_to_video_generator_its_open/</guid>
-      <pubDate>Sat, 08 Feb 2025 14:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>用文字构建自定义图表小部件：开发人员的旅程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iknenr/building_custom_charting_widgets_with_textual_a/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iknenr/building_custom_charting_widgets_with_textual_a/</guid>
-      <pubDate>Sat, 08 Feb 2025 13:36:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
