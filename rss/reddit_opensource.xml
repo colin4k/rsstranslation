@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 18:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 21:02:12 GMT</lastBuildDate>
+    <item>
+      <title>我开源了 12 种稀有语言的机器翻译模型</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in8mnr/i_opensourced_machine_translation_models_for_12/</link>
+      <description><![CDATA[我开源了 12 种稀有语言的机器翻译模型 亲爱的社区！ 我们公司在 MIT 许可下开源了 12 种稀有语言的机器翻译模型。 您可以使用 OpenNMT 翻译框架自由使用它们。每个模型约 110 mb，性能出色，（在 Nvidia RTX 3090 上约 40000 个字符/秒）  您可以在那里测试翻译质量：  https://lingvanex.com/translate/   在那里下载模型  https://github.com/lingvanex-mt/models    提交人    /u/alexeir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in8mnr/i_opensourced_machine_translation_models_for_12/</guid>
+      <pubDate>Tue, 11 Feb 2025 20:33:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>[开源] Figma 插件用于图像优化、网站图标生成和背景删除。（Nestjs、Reactjs、Telegram 通知、lemonSqueez 计费）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in8k2j/open_source_figma_plugin_for_image_optimization/</link>
+      <description><![CDATA[大家好！ 因此，我决定为 Figma 和 Nestjs API 服务开源我的插件。 它有很多功能，例如 计费集成（lemonSqueez）、有关某些问题的 Telegram 通知、数据库备份 等。 您可以在 env.example 文件中找到所有设置。 UI - Figma 插件 API - Nestjs 服务 祝您玩得开心！    提交人    /u/o_Oleh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in8k2j/open_source_figma_plugin_for_image_optimization/</guid>
+      <pubDate>Tue, 11 Feb 2025 20:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源软件和企业影响力</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in89a6/open_source_software_and_corporate_influence/</link>
+      <description><![CDATA[        提交人    /u/alilleybrinker   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in89a6/open_source_software_and_corporate_influence/</guid>
+      <pubDate>Tue, 11 Feb 2025 20:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享有趣的开源项目的社区</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in791j/community_to_share_interesting_open_source/</link>
+      <description><![CDATA[TOP GIT 是一个分享有趣开源项目的社区！您可以加入您使用的语言的 Telegram 频道，随时关注并时不时享受一些乐趣！ https://topgit.nimbox360.com/    提交人    /u/ereslibre   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in791j/community_to_share_interesting_open_source/</guid>
+      <pubDate>Tue, 11 Feb 2025 19:37:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dance Chives - 街舞活动视频/元数据档案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in6y1n/dance_chives_a_video_metadata_street_dance_event/</link>
+      <description><![CDATA[在街舞社区，我们有很多采用锦标赛形式的草根活动，其中有大量的记录数据和 YouTube 镜头，但没有一个集中的地方来跟踪、显示和连接所有这些。这是我参加温哥华 Battle 的一个例子 https://www.youtube.com/watch?v=Xa_M02Zoo1M 我们（舞者）经常会问这些类型的问题：  该视频中的舞者是谁，我如何轻松找到他们参加的其他活动？ 如何找到在（插入日期范围）于（插入城市）发生的所有（插入舞蹈风格）活动？ 谁是本次活动的 MC/评委/组织者/平面设计师/摄影师/等？ 如何轻松查看活动的所有镜头，包括表演、展示和清晰的 Battle 括号组织？ 如何了解我的风格的历史和几十年来的旧镜头？  这就是 Dance Chives 的用武之地！这是一个私有项目，现已开源，是一个 Web 应用程序，我们可以在其中组织和存档所有舞蹈活动镜头，并将其存档到一个易于导航的界面中。如果您是： 1) Web 开发人员/软件工程师（前端、后端、开发运营） 2) 软件产品/技术经理 3) UI/UX/图形设计师 4) 以上任何专业的学生我需要您的帮助！ 我有一个工作原型，但我将在不同的框架（React -&gt; NextJS）中重新开始。我将在 Discord 上每周主持涉及 Dance Chives 的现场会议。如果您有兴趣，请给我留言或评论，我会发送服务器链接。第一次会议将于太平洋标准时间 2 月 12 日下午 3 点举行。  这是完全开源的，因此您将获得所有贡献的荣誉，并可以在您的投资组合中使用它们。欢迎初学者。这是我们回馈舞蹈界的机会，以永久丰富文化。    提交人    /u/_heartbreakdancer_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in6y1n/dance_chives_a_video_metadata_street_dance_event/</guid>
+      <pubDate>Tue, 11 Feb 2025 19:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>免费且开源的 Google 地图替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</link>
@@ -69,7 +104,7 @@
       <pubDate>Tue, 11 Feb 2025 13:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 美元以上 - Konstantin Vinogradov</title>
+      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 多美元 - Konstantin Vinogradov</title>
       <link>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</link>
       <description><![CDATA[        由   提交  /u/yaph   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[Notion 试图在一个空间内塞入大量应用，而且还用用户的私人数据来训练 AI，这让我很不爽，我真的不喜欢这样。 所以我花了几天时间创建了自己的应用：Memory。 这是一款自托管的笔记应用，只做一件事，而且做得很好。你可以在文件夹下组织笔记，然后按照你想要的方式编辑它们，唯一的限制就是你的想象力。 它只用 Python 和纯 Javascript 编写。 https://github.com/yousboot/Memory    提交人    /u/Wrong_Swimming_9158   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imd24n/memory_selfhosted_productivity_note_app/</guid>
       <pubDate>Mon, 10 Feb 2025 18:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有健身/健康追踪功能的开源智能手表？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</link>
-      <description><![CDATA[正在寻找一款具有健身/健康监测功能的开源智能手表，然后偶然发现了 AirFrame 项目，该项目本应是一款具有健身/健康追踪和应用程序功能的开源智能手表，但大约 2 年没有更新了。 想知道是否还有类似的项目活跃，或者有没有关于自己制作的指南/提示？    提交人    /u/DemonicXz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个日志/日记应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</link>
-      <description><![CDATA[编辑：我自己找到了一个应用程序，它被称为 Omni Notes，我想感谢那些花时间给我建议的人 原始帖子：我正在寻找适用于 Android 并且可能也适用于 Windows 的推荐，我所寻找的功能是应用程序内的多个日志/日记，能够附加照片和潜在视频，以及本地备份和恢复选项，我希望有人有一些好的建议，我一直在使用一个名为 Simple Journal 的应用程序，但是备份和恢复功能有些问题    提交人    /u/joeyroxas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开源项目办理“网络保险”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imabkt/arranging_for_cyber_insurance_for_an_open_source/</link>
-      <description><![CDATA[我有一个开源项目，一些学校用它来支持某些教育目标。我最近收到来自佛罗里达州的关于使用它的询问。他们表示，使用的任何软件都需要经过“技术清算委员会 (TCC) 审查”，并且该流程的一项期望是确保任何外部供应商提供拥有网络保险的证据。 当然，这是免费提供的开源代码——没有供应商，目前也没有网络保险。如果价格合理，用户可能愿意为网络保险付费，作为代码的作者，我相信它会符合合理的安全最佳实践，我愿意投入时间和精力为网络保险供应商记录系统。但目前还不清楚这将如何运作。 还有其他人参与过获得网络保险的开源项目吗？如果是，您与谁合作，具体是如何合作的？    提交人    /u/mcherm   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imabkt/arranging_for_cyber_insurance_for_an_open_source/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>KokoroSharp - 即插即用本地文本转语音（.NET、ONNX 运行时）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</link>
-      <description><![CDATA[嗨！我构建了一个本地的跨平台 TTS 引擎！适合初学者且灵活。 KokoroTTS tts = KokoroTTS.LoadModel(); KokoroVoice heartVoice = KokoroVoiceManager.GetVoice(&quot;af_heart&quot;); while (true) { tts.SpeakFast(Console.ReadLine(), heartVoice); }  可在 NuGet 上获取！只需安装软件包即可！ 当然，源代码是开放的：https://github.com/Lyrcaxis/KokoroSharp 我真的希望大家喜欢它！所有代码（即使是低级部分）都是在考虑潜在教育的情况下构建的，同时足够灵活以涵盖所有高级用例。我很乐意听到您的想法和建议/创意。 对于任何有兴趣做出贡献的人，请随时在 GitHub 上打开问题/PR，甚至可以在此处发表评论！    提交人    /u/Lyrcaxis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</guid>
-      <pubDate>Mon, 10 Feb 2025 10:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Go、React、Postgres 的适合初学者的开源项目。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1im2uqm/beginner_friendly_open_source_project_based_in_go/</link>
-      <description><![CDATA[几个月以来，我一直在制作这个通用托管代理。总有一天，它将整合所有支付网关。 它确实处于早期阶段。如前所述，堆栈基于 Go、React、Postgres。除此之外，我们还使用 Minio 实现文件上传功能、使用 swagger 实现 API 文档、使用 docker-compose 实现容器管理等。 如果您想添加任何功能，可以打开问题或 PR。 这是链接：github.com/org-45/escrow-agent    提交人    /u/chauchausoup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1im2uqm/beginner_friendly_open_source_project_based_in_go/</guid>
-      <pubDate>Mon, 10 Feb 2025 10:11:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
