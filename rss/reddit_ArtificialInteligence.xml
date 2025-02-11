@@ -4,7 +4,49 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 03:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 06:02:04 GMT</lastBuildDate>
+    <item>
+      <title>检测语义空间中的纵容</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imrwsb/detecting_confabulations_in_the_semantic_space/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  遇到了一种功能强大（和直觉的）方法来检测LLMS中的幻觉。 我们一直在谈论长期，幻觉并不是一个非常有用的术语，因为它将不同类型的错误分为一个。此方法适用于最常见的类型之一，是更随机的错误（与不良数据或课程提纲任务的问题相反）。 这个想法很简单 - 如果我们可以计算语义空间中的不确定性，我们可以确定LLM不确定的世代。这种方法的简单性可确保概括，并在没有对任务的先验知识的情况下运行跨数据集和任务。只要LLM具有必要的词汇量，此方法就不需要特定于任务的数据，并且会坚定地概括到完全看不见的任务。 延长事物的视图，这告诉我，嵌入层是现在价格低落。 B/W和Anthropic对编码模型的实用性的研究是针对越狱的低成本，高价值的防御。到目前为止，模型已经将重点放在了重点，但是模型改进是与嵌入层相互作用的间接方法。投资于嵌入级的初创企业可能是较高的投资回报率游戏（它也更深入地进入基础设施层，这很难替换以确保更长的保留率）。  Paper-  https://www.nature.com/articles/s41586-024-024-07421-0      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/iseethings404     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imrwsb/detecting_confabulations_in_the_semantic_space/</guid>
+      <pubDate>Tue, 11 Feb 2025 05:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>一分钟每日AI新闻2/10/2025</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqv78/oneminute_daily_ai_news_2102025/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;      Open AI 的Sam Altman拒绝Elon Musk的974亿美元买断优惠[1]  &lt; li&gt; ai现在可以复制自己 - 一个让专家感到恐惧的里程碑。[2]    Google的现在包括在其一个AI Premium计划中。[3]    byd 在其EV模型上推出驾驶员帮助技术 -   DeepSeek的 ai帮助。[4]    来源包括：   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pleam-target-847      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqv78/oneminute_daily_ai_news_2102025/</guid>
+      <pubDate>Tue, 11 Feb 2025 04:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>种族灭绝，谈论核战争。也许是时候让AIS和生物学使我们所有人变得更好，更安全，人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqsja/genocide_talk_of_nuclear_war_maybe_its_time_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqsja/genocide_talk_of_nuclear_war_maybe_its_time_for/</guid>
+      <pubDate>Tue, 11 Feb 2025 04:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们很快要求或召集可能使用AI的人</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqg33/people_are_quick_to_claim_or_call_out_someone_who/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，那做什么？这令人沮丧，因为对于某些人来说，它可以向观众传达他们通常无法做得不好的事情。我想到的是有学习/其他残疾的人，或者需要以增强继电器意图的方式进行沟通。  由于使用通常以正确方式使用的工具，因此被轻描淡写。重点应该更多地放在内容上，而不是通过语言模型将其发布的方法。 现在，这篇文章可能到处都是，因为我真的只是从自然的声音中传达了某些东西。但这可能对他人读不好，所以现在我将提供一个LLM生成的版本，以便可以帮助完善我要连接的内容。  incomes in Incomes我的AI辅助响应： &lt; &lt; p&gt;我明白了为什么AI在学术界的依赖是有问题的 - 如果有人依靠它而没有真正学习，那就打败了教育的目的。但是，当使用AI来完善交流，澄清思想或帮助桥梁差距时，使用翻译器或语法工具有何不同？ 有些人很快就可以迅速解散AI生成的内容而不问：它用作捷径还是帮助？不应该将重点放在内容本身上，而不是写作方式？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyroom_1546     [link]   ＆＃32;   [注释]       ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqg33/people_are_quick_to_claim_or_call_out_someone_who/</guid>
+      <pubDate>Tue, 11 Feb 2025 04:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google看起来像是收获其在TPU的投资的好处</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imqaak/google_looks_like_reaping_the_benefits_of_its/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  图像的链接： https://www.reddit.com/r/artavery/comments/1imq4zm/google_looks_like_reaping_the_benefits_of_its/       o1是$ 60   gemini 2.0 Flash为$ 0.40C &lt; /p&gt;  gemini 2.0 Pro可能会更好地性能。 Google在这里具有清晰的优势 - 它们不仅建立了模型，而且还拥有自己的模型云基础架构及其自定义TPU芯片，这些芯片非常优化用于推理。似乎他们终于看到了TPU投资的回报。如果我们不断从元 /遍历中获得年度发行，并从诸如DeepSeek之类的球员中获得突破，那么创新的节奏将绝对疯狂。这种竞争将使每个人都保持脚趾并进一步推动界限，以进一步降低成本，最近，H100价格在多个云平台上也降低到$ 2/hr。  &lt;！ -  SC_ON - &gt;＆＃32;提交由＆＃32; /u/ml_guy1     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imqaak/google_looks_like_reaping_the_benefits_of_its/</guid>
+      <pubDate>Tue, 11 Feb 2025 04:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>认罪：我沉迷于AI  - 你们如何管理它？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1impjet/confession_im_addicted_to_ai_how_do_you_all/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，让我们真实：我迷上了AI。我的手机的主屏幕装有10-12种不同的AI应用程序，并且每个新工具似乎都会更加深入。虽然我全力以赴拥抱创新和探索AI的无尽可能性，但我不禁要问这种迷恋是否开始生命。 我很好奇你们中的任何一个人都感到同样的拉力？您如何平衡对AI的热情与保持健康的观点？这种“成瘾”只是在技术领域保持领先地位的一部分，还是我们应该在它失控之前拨回？ 在这里没有糖衣，只是在寻找有关我们的集体AI旅行的诚实对话。让我们讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/snehens     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1impjet/confession_im_addicted_to_ai_how_do_you_all/</guid>
+      <pubDate>Tue, 11 Feb 2025 03:43:38 GMT</pubDate>
+    </item>
     <item>
       <title>人类能够控制神经疼痛吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imogvk/will_humans_ever_be_able_to_control_nerve_pain/</link>
@@ -25,20 +67,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，有人可以帮助我找到umax应用程序使用的API。该应用程序分析用户映像，然后基于它给出评级，并为最大化其潜力提供建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/odd_philosopher_6605      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imnh9v/what_are_the_possible_api_used_in_umax_app/</guid>
       <pubDate>Tue, 11 Feb 2025 02:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>将来是否有可能向诸如Chatgpt之类的AI聊天机器人或所有新型AI视频游戏开发套件提供特定命令，然后收到有关较旧硬件的建议？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imkedb/could_it_be_possible_in_the_future_to_give/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想尝试创建一个基于超级任天堂的贝斯大师经典的PSONE钓鱼游戏，但以3D。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/level_bridge7683     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imkedb/could_it_be_possible_in_the_future_to_give/</guid>
-      <pubDate>Mon, 10 Feb 2025 23:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>将发票上传到chatgpt安全吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imjww3/is_it_safe_to_upload_invoices_to_chatgpt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要分析批发供应商的大量发票，这需要大量时间从我的其他行为中进行大量时间。我正在考虑支付Chatgpt Plus来帮助我做烦人的部分，这将所有信息都传递给Excel表。上传所有这些工作发票是否安全？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/misskowabunga     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1imjww3/is_it_it_it_to_to_upload_invoices_to_to_chatgpt/”]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imjww3/is_it_safe_to_upload_invoices_to_chatgpt/</guid>
-      <pubDate>Mon, 10 Feb 2025 23:04:01 GMT</pubDate>
     </item>
     <item>
       <title>使用AI进行政治？</title>
@@ -62,13 +90,6 @@
       <pubDate>Mon, 10 Feb 2025 20:40:45 GMT</pubDate>
     </item>
     <item>
-      <title>Linux的AI代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imf6vm/ai_agents_for_linux/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  用linux主机（包括ping，创建文本文件，甚至创建和运行python脚本），通过自然语言和AI创建和运行Python脚本，做一些非常狂野的事情代理  Linux代理只有150行Python      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/automateyournetwork     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imf6vm/ai_agents_for_linux/</guid>
-      <pubDate>Mon, 10 Feb 2025 19:49:35 GMT</pubDate>
-    </item>
-    <item>
       <title>重新审视对Geoffrey Hinton的有争议的预测</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1imf4ct/revisiting_a_controversial_prediction_of_geoffrey/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   2016年，人工智能的领导人物杰弗里·欣顿（Geoffrey Hinton）做出了大胆的说法：“完全显而易见，五年之内，很明显当时，这一说法引发了重大辩论，尤其是在放射科医生之间，在解释复杂的医学成像，例如CT扫描，MRIS和超声波。 &lt; &lt; 。但是，到2021年，预计放射学角色的下降尚未实现。取而代之的是，对放射科医生的需求达到了历史最高水平，导致人们对欣顿时间表的广泛批评。怀疑论者认为，AI在医学成像中的能力被夸大了，媒体媒体经常强调预测与现实之间的差距。 到2025年2月，AI的进步重新点燃了对话。 Google的双子座推出了一项实时屏幕共享功能，能够以显着的精度诊断胃CT扫描。值得注意的是，该模型在没有专门的微调进行医学成像的情况下实现了这些结果，而是依靠其多模式培训和广泛的数据集。 这种发展强调了一个关键趋势：随着AI系统的改善并获得推理并获得访问权限更大，更多样化的数据集（包括医学成像）可能会增加甚至改变医疗保健中角色的潜力，变得越来越合理。虽然欣顿的原始时间表可能很乐观，但进步的轨迹表明他的广泛论文具有功绩。  我们应该问的真正问题是谁是备用四分卫？当AI绊倒时（它将），谁负责？编码器？医院？聊天机器人的存在危机？ 欣顿的预测，尽管过早，但突出了预期技术拐点的重要性。能够专业任务的通用AI模型的兴起表明，没有任何领域本质上不受破坏的影响。对话不应该仅专注于时间表，而应集中在准备方面：行业如何适应AI的潜力？ - 与这些工具一起演变的过程，确保人类的专业知识仍然是进步不可或缺的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/them-salary-9215      link]  ＆＃32;   [注释]  ]]></description>
@@ -81,13 +102,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   github刚刚对其自主swe代理人进行了首次查看，以及它计划如何将其集成到开发工作流程中。计划于今年晚些时候启动的Padawan项目将使用户通过任何GitHub客户端直接向GitHub Copilot分配问题。然后，Copilot将生成经过全面测试的拉请请求，分配团队成员进行审查，甚至处理反馈。从某种意义上说，这就像添加副驾驶员作为您的存储库的贡献一样。您怎么看 - 这会改变您如何与GitHub合作吗？ 演示： https：// youtu .be/vwv2-xwbmm？si = jsrjm5cjmvuxq_hy   博客文章： https://github.blog/news-inews-insights/product-news/github-copilot-copilot-copilot-the-agent-agent-agent-agent-agent-agent-wakens/#project-project-project-project-project-project-project swe-agent-on-github    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/wauimowie     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1imcor5/swe_agents_are_coming_to_github/</guid>
       <pubDate>Mon, 10 Feb 2025 18:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025年AI驱动软件开发的最高趋势</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1im9pa2/top_trends_in_aipowered_software_development_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  下面的文章重点介绍了代理AI的兴起，该兴趣在编码帮助，客户服务，医疗保健，测试套件扩展和信息等领域中展示了自主功能检索： 2025年AI-Power软件开发的最佳趋势    它强调了AI驱动的代码生成和开发，展示了Github Copilot，Cursor和Qodo等工具，从而增强了代码质量，审核和测试。它还解决了AI集成的挑战和考虑因素，例如数据隐私，代码质量保证和道德实施，并为工具集成提供了最佳实践，与人类的监督平衡。  &lt;！ sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thumbsdrivesmecrazy     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1im9pa2/top_trends_in_aipowered_software_development_for/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:10:33 GMT</pubDate>
     </item>
     <item>
       <title>AI TOL有助于找到挽救生命的稀有疾病</title>
@@ -109,20 +123,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  在分析了AI的思想链和答案背后的推理后，我实现了令人震惊的认识 - 我比我想象的要偏爱。我注意到我对自己所属的性别，种族群体和社区有很大的偏见。看到我的言语和行为并不总是与我声称拥有的包容性价值观保持一致，这真是令人不安。感觉就像我的两面都没有意识到。  AI教给您的知识是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/aford-slice-6325        ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1im56aq/what_has_ai_taught_you_about_yourself/</guid>
       <pubDate>Mon, 10 Feb 2025 12:39:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只是意识到AI努力创造左手人类 - 实际上很有意义！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ilxuga/i_just_realized_ai_struggles_to_generate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我要求chatgpt生成左撇子艺术家绘画的图像，起初，它看起来不错……直到我注意到一些奇怪的东西。这位艺术家实际上是在使用他们的右手！  ，然后打击了我：AI在大型数据集中受过训练，并且绝大多数图像在线描绘右撇子人。由于左撇子只占的10％人口，因此，AI更有可能假设默认情况下每个人都是右手。 这是一个疯狂的提醒，AI不会“思考”。就像我们一样，它只是反映了培训数据中的模式。是否有人注意到AI生成的图像中的这种偏见？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/snehens     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ilxuga/i_just_realized_ai_struggles_to_generate/</guid>
-      <pubDate>Mon, 10 Feb 2025 04:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑现在正在删除他们发现的任何帖子，他们发现这些帖子是远见的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ilvzrg/perplexity_is_now_deleting_any_post_from_their/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我真的很想失去困惑，尽管他们失去了我的所有尊重。他们现在只需要提供的只是便宜的营销特技。更糟糕的是，他们现在正在删除质疑其策略的帖子，并且也不会给出任何理由。因此，请不要根据那里的讨论对困惑发表意见。它是一个高度审查的潜艇！      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/upbeat_lunch_1599      [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ilvzrg/perplexity_is_now_deleting_any_post_from_their/</guid>
-      <pubDate>Mon, 10 Feb 2025 02:45:04 GMT</pubDate>
     </item>
     <item>
       <title>这个家伙用chatgpt写了一本关于人工智能的书，我买了</title>
