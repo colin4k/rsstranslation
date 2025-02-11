@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 15:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:02:09 GMT</lastBuildDate>
+    <item>
+      <title>免费且开源的 Google 地图替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</link>
+      <description><![CDATA[🗺️ 由于许多人对谷歌感到愤怒并要求提供谷歌地图的替代品，这里有一些免费的&amp;开源选项： 📱 应用程序 - osmand.net - organicmaps.app 🌐 网络 - facilmap.org - mapcarta.com - openstreetmap.org 真实故事： 最近我不得不使用谷歌地图一次，我想让它带我去海滩；然而，它决定直接带我进入一个军事检查站——在枪口下🪖！ 谢谢，谷歌......😅 当我指向谷歌地图时，他们理解地点点头并让我走了;) 谷歌只是认为抄近路穿过完全禁区的军事区是个好主意。    提交人    /u/MadeInDex-org   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in23tb/free_open_source_google_maps_alternatives/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助/指南来使我的流媒体软件‘原型’进入开源就绪状态。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in1xgf/helpguides_needed_in_getting_my_streaming/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in1xgf/helpguides_needed_in_getting_my_streaming/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>开源黑客马拉松</title>
       <link>https://www.reddit.com/r/opensource/comments/1in0fzk/open_source_hackathon/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>开源申请软件建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</link>
-      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</guid>
       <pubDate>Tue, 11 Feb 2025 14:47:27 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>我正在寻找一个日志/日记应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</link>
-      <description><![CDATA[我正在寻找适用于 Android 并且可能也适用于 Windows 的推荐，我正在寻找的功能是应用程序内的多个日志/日记，并且能够附加照片和潜在视频，以及本地备份和恢复选项，我希望有人有一些好的建议，我一直在使用一个名为 Simple Journal 的应用程序，但是备份和恢复功能有些问题    提交人    /u/joeyroxas   [link] [评论]]]></description>
+      <description><![CDATA[编辑：我自己找到了一个应用程序，它被称为 Omni Notes，我想感谢那些花时间给我建议的人 原始帖子：我正在寻找适用于 Android 并且可能也适用于 Windows 的推荐，我所寻找的功能是应用程序内的多个日志/日记，能够附加照片和潜在视频，以及本地备份和恢复选项，我希望有人有一些好的建议，我一直在使用一个名为 Simple Journal 的应用程序，但是备份和恢复功能有些问题    提交人    /u/joeyroxas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</guid>
       <pubDate>Mon, 10 Feb 2025 16:55:52 GMT</pubDate>
     </item>
@@ -120,7 +134,7 @@
     <item>
       <title>KokoroSharp - 即插即用本地文本转语音（.NET、ONNX 运行时）</title>
       <link>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</link>
-      <description><![CDATA[嗨！我构建了一个本地的跨平台 TTS 引擎！适合初学者且灵活。 KokoroTTS tts = KokoroTTS.LoadModel(); KokoroVoice heartVoice = KokoroVoiceManager.GetVoice(&quot;af_heart&quot;); while (true) { tts.SpeakFast(Console.ReadLine(), heartVoice); }  它可在 NuGet 上使用！只需安装软件包即可！ 当然，源代码是开放的：https://github.com/Lyrcaxis/KokoroSharp 我真的希望大家喜欢它！所有代码（即使是低级部分）都是在考虑潜在教育的情况下构建的，同时足够灵活以涵盖所有高级用例。我很乐意听到您的想法和建议/创意。 对于任何有兴趣做出贡献的人，请随时在 GitHub 上打开问题/PR，甚至可以在此处发表评论！    提交人    /u/Lyrcaxis   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我构建了一个本地的跨平台 TTS 引擎！适合初学者且灵活。 KokoroTTS tts = KokoroTTS.LoadModel(); KokoroVoice heartVoice = KokoroVoiceManager.GetVoice(&quot;af_heart&quot;); while (true) { tts.SpeakFast(Console.ReadLine(), heartVoice); }  可在 NuGet 上获取！只需安装软件包即可！ 当然，源代码是开放的：https://github.com/Lyrcaxis/KokoroSharp 我真的希望大家喜欢它！所有代码（即使是低级部分）都是在考虑潜在教育的情况下构建的，同时足够灵活以涵盖所有高级用例。我很乐意听到您的想法和建议/创意。 对于任何有兴趣做出贡献的人，请随时在 GitHub 上打开问题/PR，甚至可以在此处发表评论！    提交人    /u/Lyrcaxis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</guid>
       <pubDate>Mon, 10 Feb 2025 10:53:50 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[几个月以来，我一直在制作这个通用托管代理。总有一天，它将整合所有支付网关。 它确实处于早期阶段。如前所述，堆栈基于 Go、React、Postgres。除此之外，我们还使用 Minio 实现文件上传功能、使用 swagger 实现 API 文档、使用 docker-compose 实现容器管理等。 如果您想添加任何功能，可以打开问题或 PR。 这是链接：github.com/org-45/escrow-agent    提交人    /u/chauchausoup   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1im2uqm/beginner_friendly_open_source_project_based_in_go/</guid>
       <pubDate>Mon, 10 Feb 2025 10:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESLint 插件用于通过德摩根定律转换否定布尔表达式</title>
-      <link>https://www.reddit.com/r/opensource/comments/1im2jvx/eslint_plugin_for_transforming_negated_boolean/</link>
-      <description><![CDATA[        由    /u/azat_io  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1im2jvx/eslint_plugin_for_transforming_negated_boolean/</guid>
-      <pubDate>Mon, 10 Feb 2025 09:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将 WebGL 添加到我的开源视频编辑软件中</title>
-      <link>https://www.reddit.com/r/opensource/comments/1im1zua/i_added_webgl_to_my_opensource_video_editing/</link>
-      <description><![CDATA[你好 👋 我最近将 WebGL 添加到我的视频编辑软件中，以实现色度键功能。在此过程中，我还添加了一些其他效果。结果质量比我预期的要好。  它通常使用超过 80% 的 CPU。但考虑到 60fps 的编辑，这是一个稳定的数字。由于每 16ms 需要执行一次复杂的计算，因此性能实际上相当不错。  GitHub ：https://github.com/cartesiancs/nugget-app 演示：https://www.youtube.com/watch?v=il4-RzTCLTA    由   提交  /u/Independent-Use-6761   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1im1zua/i_added_webgl_to_my_opensource_video_editing/</guid>
-      <pubDate>Mon, 10 Feb 2025 09:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
