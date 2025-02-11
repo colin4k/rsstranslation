@@ -4,7 +4,42 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Feb 2025 18:03:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 00:04:37 GMT</lastBuildDate>
+    <item>
+      <title>制作了可自定义的仪表板应用（Bentoboard） - 如果有人愿意使用它，将其释放为开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   sup， 制作了一个小的Web应用程序，您可以使用带有可重新位置的小部件的Bento Board启发仪表板等。您可以可以拖动东西，调整大小，黑暗模式，还有其他好处，但是 有很多概率。一些笨拙的东西开始发生，我很生气，对建造这一点失去了兴趣。我不是最有经验的Web开发人员，所以只是尝试一下。 构建它是为了学习打字稿（这就是为什么代码库是JS/TS/TSX LMAO的美丽混乱）。有点无聊，但认为某人可能想弄乱它或其他任何东西。 如果您喜欢的话，添加新小部件非常容易。已经有基本内容，例如：  时钟  todo list  天气 注意 计算器 计时器 其他一些东西 基本内容  在这里如果您想检查一下： https://github.com/jsap7/bentoboard    所有信息都在readme中，如果这是一个项目，这是一个项目人们实际上对此感兴趣，并想为那时做出贡献，但否则，这是 和平的货架。   &lt;！ -  sc_on-- &gt;＆＃32;提交由＆＃32; /u/u/jsap777     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</guid>
+      <pubDate>Mon, 10 Feb 2025 23:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify覆盖无边界全屏应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imkli8/spotify_overlay_for_borderless_fullscreen/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  查看我最近几天工作的新程序： https://github.com/kaze961/spoverlay    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/l8st     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imkli8/spotify_overlay_for_borderless_fullscreen/</guid>
+      <pubDate>Mon, 10 Feb 2025 23:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个YouTube来覆盖RVC管道并将其开放</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imirtc/i_created_a_youtube_to_rvc_cover_pipeline_and/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1imirtc/i_creatc/i_created_a_youtube_to_rvc_cover_cover_cover_cover_pipele_pipeline_and/” open sourced it&quot; src=&quot;https://external-preview.redd.it/rnqT6wYgc4BhGer4XOZitbtJfi_ZCEZqtxDeuVolJD4.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b7d4edf53cb8c24aa594614f9e799278cc5b002d&quot; title=&quot;I created a Youtube to RVC cover pipeline并开放采购”/&gt;   ＆＃32;提交由＆＃32; /u/u/awas666     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imirtc/i_created_a_youtube_to_rvc_cover_pipeline_and/</guid>
+      <pubDate>Mon, 10 Feb 2025 22:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>内存：自托管生产力和注释应用程序。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imd24n/memory_selfhosted_productivity_note_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  概念对我试图在一个空间中填充的应用程序的数量使我感到沮丧&#39;t喜欢。 所以我花了几天时间创建自己的： memory 。。 这是一个自托管的纸币，做一件事并做得很好。您在文件夹下组织笔记，然后按照自己的想象力进行编辑。 它在Python＆amp;仅纯javascript。   https://github.com/yousboot/memory        div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/forge_swimming_9158     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imd24n/memory_selfhosted_productivity_note_app/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>带健身/​​健康跟踪的OpenSource智能手表？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  正在浏览带有健身/健康监控功能的OpenSource智能手表，并遇到了机身项目，这本来应该是带有OpenSource智能手表健身/健康跟踪和一个应用程序，但在两年左右的时间内尚未更新。 想知道是否仍然有类似的项目活动，或者有任何制作自己的指南/技巧？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/demonicxz     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imcmsg/opensource_smart_watch_with_fitnesshealth_tracking/</guid>
+      <pubDate>Mon, 10 Feb 2025 18:08:12 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找日记/日记应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1imat3r/im_looking_for_a_journaldiary_app/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1illn92/why_the_spirit_of_of_open_source_source_means_much_much_more/” much more than a license&quot; src=&quot;https://external-preview.redd.it/CFPfHYORlogkagKaHzf5FIjloZDNQUXRSmZsu4ZVsOo.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a5158146aa5bba461f274aeec5efa2acccc9daf6&quot; title=&quot;Why the &#39;spirit&#39; of开源意味着远远超过许可“/&gt;   ＆＃32;提交由＆＃32; /u/u/franco1875     [link）  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1illn92/why_the_spirit_of_open_source_means_much_more/</guid>
       <pubDate>Sun, 09 Feb 2025 18:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作（试图）用于Linux-XFCE的平铺管理器，以在Windows中大致复制“ snap-layout”功能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilgpuu/made_tried_to_a_tiling_manager_for_linuxxfce_to/</link>
-      <description><![CDATA[     标题说明了所有需要说的话，诚然，它是愚蠢的“复制” Linux中的任何Windows功能，但我们在这里...它并不是广泛的受众群体使用，但仅仅是艰难的工作都会喜欢上任何建议/批评...    https://github.com/karvy-singh/yatm-ish     &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bectermoney3072     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilgpuu/made_tried_to_a_tiling_manager_for_linuxxfce_to/</guid>
-      <pubDate>Sun, 09 Feb 2025 15:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>键盘：Android离线密码管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilgm62/keypass_android_offline_password_manager/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好朋友，我想分享我的离线密码管理器Android应用。 下载链接： https://play.google.com/store/store/store/apps/details?id=com.yogeshpaliyal.keypass     https://f-droid.org/en/packages/com。 yogeshpaliyal.keypass/  源代码： https：//github.com/yogeshpaliyal/yogeshpaliyal/keypass   如果您喜欢该项目，请在github上添加🌟，请随时提供反馈或建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/paliyalyogesh     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilgm62/keypass_android_offline_password_manager/</guid>
-      <pubDate>Sun, 09 Feb 2025 15:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Zig中结合目录CLI工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1il9l7g/combine_directories_cli_tool_in_zig/</link>
-      <description><![CDATA[     &lt; /td&gt;  &lt;！ -  sc_off-&gt;  结帐我的CLI工具，将两个或多个目录文件组合到一个目录中。我目前正在学习 Zig 语言。因此，这是我使用ZIG语言的第一个项目。要使用它，您只需从github源代码下载组合可执行文件即可。  我想在这个小项目上进行协作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sealityeal_bit_177       [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1il9l7g/combine_directories_cli_tool_in_zig/</guid>
-      <pubDate>Sun, 09 Feb 2025 07:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳，免费，开源[首选]，无广告，抗病毒建议。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1il8ulq/best_free_open_source_preferred_no_ads_anti_virus/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最好，免费，开源[首选]，无广告，抗病毒建议  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/a AnalysiseConsistent68     [link]   ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1il8ulq/best_free_open_source_preferred_no_ads_anti_virus/</guid>
-      <pubDate>Sun, 09 Feb 2025 06:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀我与Python建立了一个基于CLI的学生休假警告系统！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1il6g2x/i_built_a_clibased_student_leave_warning_system/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，devs！ 👋 我刚刚创建了一个基于Python的CLI工具，该工具跟踪学生叶子，如果休假计数超过 3，则会自动发送警告电子邮件 。该项目使用 smtp 发送通知，使其成为自动出勤跟踪的简单但有效的方法。 🛠功能：  ✅基于CLI的输入学生名称，主题和休假计数。✅如果叶子超过 3 &lt; /strong&gt;。。 br/&gt;✅易于配置且可扩展。 📩📩📩：  1️⃣学生进入他们的名称，主题和离开计数。&lt;2️⃣如果休假计数＆gt; 3 ，脚本会触发电子邮件警告。3️⃣使用 python的smtplib 具有自定义内容。 🔗查看GitHub repo：   https://github.com/abhinandan2540/my-pynakama/tree/main/main/main/cli_attendence    &lt;未来计划：           数据库。🔹添加 GUI版本以更轻松的交互。🔹支持多个电子邮件提供商。 很想听听您的反馈！您建议哪些改进或功能？ 🚀🔥  #python #automation #smtp #opensource #cli #devcommunity #coding   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hour-echo-9680      [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1il6g2x/i_built_a_clibased_student_leave_warning_system/</guid>
-      <pubDate>Sun, 09 Feb 2025 04:17:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
