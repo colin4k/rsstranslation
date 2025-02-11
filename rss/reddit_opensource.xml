@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 12:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 15:02:22 GMT</lastBuildDate>
+    <item>
+      <title>开源黑客马拉松</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in0fzk/open_source_hackathon/</link>
+      <description><![CDATA[您想开发开源 #Odoo #OCA 应用程序吗？或者开发 #UbuntuTouch 应用程序。也许我们的 Hackathon 适合您？加入 FossFEST，已有 408 名参与者参加。2 月 21 日至 22 日在柏林与我们在线会面或现场会面。您是一家 #foss 公司并想在 #Hackathon 期间开展项目，请联系我们了解赞助选项。https://os-sci.com/event/foss-fest-2025-international-hackathon-14/register     提交人    /u/todaynaz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in0fzk/open_source_hackathon/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源申请软件建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</link>
+      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:47:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的免费图像转文本库是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1in07a1/whats_best_free_image_to_text_library/</link>
+      <description><![CDATA[我用过 pyTesseract OCR 和 EasyOCR，但它们都不准确。有没有免费的库？    提交人    /u/endgamefond   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1in07a1/whats_best_free_image_to_text_library/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经建立了一个功能齐全的社交网络 - 现在我已将其开源（MIT）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imzqkj/ive_built_a_fully_functional_social_network_now/</link>
+      <description><![CDATA[大家好！ 正如标题所述，我已构建一个功能齐全的社交网络，并将其开源。它功能齐全，不需要您自己的服务器。它不是最漂亮的，但它可以工作，并且 UI 完全可自定义，您可以自己制作。 欢迎贡献！ 它不需要任何您自己的服务器的原因是它使用了 Replyke，这是我为在 Web 和移动应用中创建社区和社交功能而构建的服务。 您可以将它看作是 Firebase 的一部分，但高度专注于社交功能。 它带有一个后台来管理您的社区，并且它有一个免费层，您应该利用它来玩和开发。 这个应用程序包括： 主页： 有 3 个提要 - 关注 / 趋势 / 新鲜 每个帖子都可以使用现代功能齐全的评论系统（评论、回复、提及、GIF、喜欢和报告进行审核）进行点赞和评论。 帖子可以保存到用户精选合集。 上传页面： 用户可以选择照片或拍摄照片。然后他们可以确认媒体、添加标题并上传。当然，这可以扩展到包括更多内容，例如添加关键字、位置、多个媒体文件等 - 所有这些都由 Replyke 支持。甚至只是您希望保留的帖子的任何自由格式数据，因为显然每个应用程序的工作方式都略有不同。 收藏页面： 用户可以查看和重新访问他们策划的收藏和帖子 通知页面： Replyke 会自动生成通知，以适应应用程序中的活动，例如喜欢、回复、关注等。用户可以查看这些通知，当然也可以关注它们以了解他们通知的适当内容。 如果您想更改语气/语言，可以完全修改通知消息。 个人资料： 用户可以使用自定义名称/用户名/个人简介/链接创建和修改他们的个人资料。这些只是我挑选的，但您可以添加您希望保留的有关用户的任何其他数据。这里未使用的另一个重要因素是位置，以防您的应用需要知道用户在哪里（当然需要他们的许可）。 身份验证： Replyke 提供简单的电子邮件和密码身份验证，但完全适用于您可能想要使用的任何外部用户系统。 就是这样！就像我说的，每个项目还附带一个后台办公室，您可以在其中管理内容并管理社区。 很想听听您的想法！ 此外，评论部分包是开源的，以防您想查看和/或贡献（对于任何一个项目）。 样板 GitHub 存储库： https://github.com/replyke/reel-snap 评论部分 Github 存储库： https://github.com/replyke/ui-kit    提交人    /u/YanTsab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imzqkj/ive_built_a_fully_functional_social_network_now/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:25:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>呼吁所有开源爱好者：帮助我们构建基于 Python 的笔记本电脑测试工具！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imzdjv/calling_all_open_source_enthusiasts_help_us_build/</link>
+      <description><![CDATA[大家好， 我很高兴与大家分享我们一直在研究的一个开源项目 - 一个基于 Python 的工具，专门用于测试旧笔记本电脑和二手笔记本电脑。无论您是喜欢翻新硬件、优化性能，还是只是喜欢摆弄技术，这个项目都适合您！ 该项目的内容是什么？ 我们的工具提供了一个使用 PySide6 构建的现代、直观的 GUI，并且它包含许多功能，可帮助您评估老化笔记本电脑的健康和性能。以下是其功能的简要介绍：  主界面：简洁、用户友好的界面（查看下面的屏幕截图！）： 测试选项：  从左侧面板中选择一个测试 配置测试参数 开始测试 查看实时结果和动态图表  安全监控：  自动监控硬件健康状况 如果检测到危急情况则触发紧急停止 提供详细的安全报告  配置：轻松调整 config.ini 文件以调整安全限制、测试持续时间和 UI 首选项以满足您的需求。  为什么要贡献？ 我们正在寻找贡献者来帮助我们改进和扩展这个项目。无论您有兴趣开发新的测试模块、改进 GUI 还是增强安全监控功能，我们都欢迎您提供专业知识 加入我们！ 如果您对开源充满热情并喜欢使用 Python，我们很乐意让您加入我们。您的贡献（无论大小）都可以在将此工具转变为测试和恢复旧笔记本电脑的首选解决方案方面发挥巨大作用。 查看我们的 GitHub 存储库，让我们一起创造一些很棒的东西！ https://github.com/jamshidkhaksaar/Open-Source-Hardware-Test-for-used-Laptops 干杯，    由   提交  /u/ShakeTraditional1304   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imzdjv/calling_all_open_source_enthusiasts_help_us_build/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:08:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kestra Powershell</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imz8jk/kestra_powershell/</link>
+      <description><![CDATA[刚接触 Kestra，想让 powershell 脚本从域控制器上的 Kestra 运行。但是文档没有清楚地说明如何让脚本针对域控制器运行。  有人已经在使用带有 Kestra 的 powershell 脚本了吗？也许有一个可以与我分享的工作流程？    提交人    /u/_martijn90_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imz8jk/kestra_powershell/</guid>
+      <pubDate>Tue, 11 Feb 2025 14:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.3 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1imz5aa/kde_plasma_63_released/</link>
+      <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1imz5aa/kde_plasma_63_released/</guid>
+      <pubDate>Tue, 11 Feb 2025 13:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 美元以上 - Konstantin Vinogradov</title>
       <link>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</link>
@@ -71,7 +120,7 @@
     <item>
       <title>KokoroSharp - 即插即用本地文本转语音（.NET、ONNX 运行时）</title>
       <link>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</link>
-      <description><![CDATA[嗨！我构建了一个本地的跨平台 TTS 引擎！适合初学者且灵活。 KokoroTTS tts = KokoroTTS.LoadModel(); KokoroVoice heartVoice = KokoroVoiceManager.GetVoice(&quot;af_heart&quot;); while (true) { tts.SpeakFast(Console.ReadLine(), heartVoice); }  可在 NuGet 上获取！只需安装软件包即可！ 当然，源代码是开放的：https://github.com/Lyrcaxis/KokoroSharp 我真的希望大家喜欢它！所有代码（即使是低级部分）都是在考虑潜在教育的情况下构建的，同时足够灵活以涵盖所有高级用例。我很乐意听到您的想法和建议/创意。 对于任何有兴趣做出贡献的人，请随时在 GitHub 上打开问题/PR，甚至可以在此处发表评论！    提交人    /u/Lyrcaxis   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我构建了一个本地的跨平台 TTS 引擎！适合初学者且灵活。 KokoroTTS tts = KokoroTTS.LoadModel(); KokoroVoice heartVoice = KokoroVoiceManager.GetVoice(&quot;af_heart&quot;); while (true) { tts.SpeakFast(Console.ReadLine(), heartVoice); }  它可在 NuGet 上使用！只需安装软件包即可！ 当然，源代码是开放的：https://github.com/Lyrcaxis/KokoroSharp 我真的希望大家喜欢它！所有代码（即使是低级部分）都是在考虑潜在教育的情况下构建的，同时足够灵活以涵盖所有高级用例。我很乐意听到您的想法和建议/创意。 对于任何有兴趣做出贡献的人，请随时在 GitHub 上打开问题/PR，甚至可以在此处发表评论！    提交人    /u/Lyrcaxis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1im3ggr/kokorosharp_plug_play_local_texttospeech_net_onnx/</guid>
       <pubDate>Mon, 10 Feb 2025 10:53:50 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[你好 👋 我最近将 WebGL 添加到我的视频编辑软件中，以实现色度键功能。在此过程中，我还添加了一些其他效果。结果质量比我预期的要好。  它通常使用超过 80% 的 CPU。但考虑到 60fps 的编辑，这是一个稳定的数字。由于每 16ms 需要执行一次复杂的计算，因此性能实际上相当不错。  GitHub ：https://github.com/cartesiancs/nugget-app 演示：https://www.youtube.com/watch?v=il4-RzTCLTA    由   提交  /u/Independent-Use-6761   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1im1zua/i_added_webgl_to_my_opensource_video_editing/</guid>
       <pubDate>Mon, 10 Feb 2025 09:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始开源贡献？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1im1wc9/how_to_start_open_source_contribution/</link>
-      <description><![CDATA[我是一名 TypeScript 开发人员。我想为开源做出贡献。但我无法理解这个问题。也无法找到需要进行相关更改的文件。有人能指导我吗？    提交人    /u/BadDiscombobulated37   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1im1wc9/how_to_start_open_source_contribution/</guid>
-      <pubDate>Mon, 10 Feb 2025 09:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>邀请合作者参与可微分几何损失函数库的开发</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilzr04/inviting_collaborators_for_a_differentiable/</link>
-      <description><![CDATA[您好，我是斯坦福大学的研究生，致力于飞机设计的形状优化。 我正在寻找合作者，共同在 pytorch 中创建可微分几何损失函数库。 我在此处的存储库中放置了几个初始提交，以让您了解内容可能是什么样子：Github repo 在 Twitter 上邀请合作者    提交人    /u/atharvaaalok1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilzr04/inviting_collaborators_for_a_differentiable/</guid>
-      <pubDate>Mon, 10 Feb 2025 06:23:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于测试的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilwde5/open_source_project_to_test_on/</link>
-      <description><![CDATA[您好！我需要一个可以测试的项目，以便将其添加到我的投资组合中。请！    提交人    /u/No-Ideal-6086   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilwde5/open_source_project_to_test_on/</guid>
-      <pubDate>Mon, 10 Feb 2025 03:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>给开发人员的情书</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilwbyg/love_letter_to_developers/</link>
-      <description><![CDATA[了解如何编码最酷的事情之一是它让你可以自由地构建任何东西。我并不是说你需要从头开始构建一切，但了解它的工作原理可以让你自由和勇气承担一个比你聪明的人组合起来的项目，根据你或你的客户的需求进行调整，并立即启动和运行，节省你的时间，让你的客户业务准备就绪，可能从中赚取一大笔钱，而且不必担心项目从长远来看会失败，因为它很可能在你之前已经被许多其他开发人员测试过了。就我而言，我是一名 laravel 开发人员，尽管我知道有很多项目，但我还是陷入了试图重新发明轮子的开发人员陷阱。然后我看到了 Laravel daily 上最好的使用 laravel 构建的开源软件包之一的文章，我想为什么我不使用其中一个项目呢。客户不关心我使用什么来构建项目，只要它能工作就行。所以这只是我提醒我的同行开发人员的方式，只使用那些被证明有效的方法，并且只有当你的客户需要某些严密的特定东西时才从头开始编写东西。     提交人    /u/kristitanellari   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilwbyg/love_letter_to_developers/</guid>
-      <pubDate>Mon, 10 Feb 2025 03:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Swift/SwiftUI 构建的 Ollama 开源 Mac 客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</link>
-      <description><![CDATA[我最近使用 Swift 创建了一个新的 Mac 应用。去年，我使用 Flutter 发布了 Ollama（一个用于在本地运行 LLM 的程序）的开源 iPhone 客户端 MyOllama。我也计划制作一个 Mac 版本，但是当我尝试使用 Flutter 时，设计感觉不太适合 Mac，所以我把它放在了一边。 今年年初，我决定使用 Swift/SwiftUI 从头开始​​重建它。此应用可让您使用 Ollama 在 Mac 上安装 Deepseek 等 LLM 并与它们聊天。功能包括： - 上下文对话 - 保存和搜索聊天记录 - 自定义系统提示 - 还有更多... 它是完全开源的！在此处查看代码： https://github.com/bipark/mac_ollama_client    由   提交  /u/billythepark   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</guid>
-      <pubDate>Mon, 10 Feb 2025 01:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找 superwhisper 的开源替代品。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilstc1/looking_for_an_open_source_alternative_to/</link>
-      <description><![CDATA[基本上，我正在寻找一个类似超级耳语的开源替代品，让我可以在桌面、Mac 和 Windows 上将语音转录为文本。    提交人    /u/StartupGuy007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilstc1/looking_for_an_open_source_alternative_to/</guid>
-      <pubDate>Sun, 09 Feb 2025 23:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - jy95/fds: 将 FHIR Dosage 转换为人类可读的文本（以你想要的语言）等等</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilrznz/github_jy95fds_turn_fhir_dosage_into_human/</link>
-      <description><![CDATA[        提交人    /u/GamesPassionFR   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilrznz/github_jy95fds_turn_fhir_dosage_into_human/</guid>
-      <pubDate>Sun, 09 Feb 2025 23:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
