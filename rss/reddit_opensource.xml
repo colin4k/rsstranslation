@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 15:02:06 GMT</lastBuildDate>
+    <item>
+      <title>我可以更新 MIT 授权项目的日期吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1insg3v/can_i_update_the_date_on_a_mit_licensed_project/</link>
+      <description><![CDATA[可以更新 MIT 许可项目的日期吗？ 例如： 我可以将“Copyright (c) 2024 Person”更改为“Copyright (c) 2024-2025 Person”或“Copyright (c) 2025 Person”吗？    提交人    /u/GreatRedditorThracc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1insg3v/can_i_update_the_date_on_a_mit_licensed_project/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:46:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以更新 MIT 授权项目的日期吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1insg3m/can_i_update_the_date_on_a_mit_licensed_project/</link>
+      <description><![CDATA[可以更新 MIT 许可项目的日期吗？ 例如： 我可以将“Copyright (c) 2024 Person”更改为“Copyright (c) 2024-2025 Person”或“Copyright (c) 2025 Person”吗？    提交人    /u/GreatRedditorThracc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1insg3m/can_i_update_the_date_on_a_mit_licensed_project/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有声读物创作者 – 我的新开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1insdoj/audiobook_creator_my_new_opensource_project/</link>
+      <description><![CDATA[我很高兴与大家分享Audiobook Creator，这是一个将书籍（EPUB、PDF、TXT）转换为具有智能角色语音归因的全语音有声读物的工具！使用NLP、LLM 和 Kokoro TTS，它会自动创建身临其境的多声音有声读物。 短篇小说的多声音音频示例：https://audio.com/prakhar-sharma/audio/generated-sample-multi-voice-audiobook 🔹 主要特点： ✅ 文本​​提取和清理 ✅ 字符识别和元数据生成 ✅ 单一和多声音叙述 ✅ 开源且完全可定制 本项目根据 GPL-3.0 许可，可供所有人免费使用、修改和改进！🚀 在 GitHub 上查看：https://github.com/prakharsr/audiobook-creator/    提交人    /u/prakharsr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1insdoj/audiobook_creator_my_new_opensource_project/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FixProxy - 隐私浏览网页</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ins1dy/fixproxy_browse_the_web_with_privacy/</link>
+      <description><![CDATA[  由    /u/jezek_2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ins1dy/fixproxy_browse_the_web_with_privacy/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:27:58 GMT</pubDate>
+    </item>
     <item>
       <title>🚀 为 NuxtCommerce 做出贡献，获得经验！</title>
       <link>https://www.reddit.com/r/opensource/comments/1inp74l/contribute_to_nuxtcommerce_gain_experience/</link>
@@ -34,18 +62,11 @@
       <pubDate>Wed, 12 Feb 2025 11:31:20 GMT</pubDate>
     </item>
     <item>
-      <title>Pykomodo：一个用于分块的 Python 工具</title>
+      <title>Pykomodo：一款用于分块的 Python 工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1inn4ge/pykomodo_a_python_tool_for_chunking/</link>
       <description><![CDATA[你好！我最近构建了 Komodo，这是一个基于 Python 的实用程序，可将大型代码库拆分为较小的、LLM 友好的块。它支持多线程文件读取、强大的忽略/取消忽略模式以及可选的“增强”功能（例如元数据提取和冗余删除）。每个块都可以包含函数/类/导入，因此 任何 单个块都是独立的 - 有助于 AI/LLM 任务。 如果您正在处理一个巨大的存储库，并且需要将其拆分为上下文窗口或搜索，Komodo 可能会为您省去很多麻烦，或者至少我希望它会如此。我很乐意听到任何反馈/批评/建议！请提出一些想法，如果您喜欢，请在 github 上给我点个星。 源代码： https://github.com/duriantaco/pykomodo 功能：目标受众/为什么使用它：  任何需要分块的人  感谢大家的时间。祝大家度过愉快的一周。    提交人    /u/papersashimi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1inn4ge/pykomodo_a_python_tool_for_chunking/</guid>
       <pubDate>Wed, 12 Feb 2025 09:21:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[免费开源] 计划 PC 任务：计划在 Windows PC 上执行的操作模拟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1inlpzw/free_open_source_scheduled_pc_tasks_schedule/</link>
-      <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作的模拟。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的^^ (C++ 使用 Qt6) : https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1inlpzw/free_open_source_scheduled_pc_tasks_schedule/</guid>
-      <pubDate>Wed, 12 Feb 2025 07:37:10 GMT</pubDate>
     </item>
     <item>
       <title>Fedora Linux 41 服务器操作系统 (Fedora-Server-KVM-41-1.4.x86_64) 安装在 Motorola moto g play 2024（未 root、出厂时已解锁、Android 14 操作系统、Linux 内核版本 5.15.149）智能手机上，使用 Termux 版本 0.119.0-beta.1、在 Termux 下运行的 QEMU、Alpine Linux</title>
@@ -60,13 +81,6 @@
       <description><![CDATA[大家好， 我制作了 Livecord。 一个开源且可自托管的解决方案，可让您通过 Discord 与网站访问者进行实时聊天。 查看此演示：https://youtu.be/H6fnrln3b0c GitHub 存储库：https://github.com/realchandan/livecord    提交人    /u/freewheel1466   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1inlhkr/livecord_live_chat_with_website_visitors_via/</guid>
       <pubDate>Wed, 12 Feb 2025 07:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>EchoPath：使用 Yolo11n 进行物体检测的智能 AI 盲人手杖</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ingfpk/echopath_smart_ai_blind_cane_with_object/</link>
-      <description><![CDATA[上周末，我和我的团队参加了哈佛大学的 MakeHarvard 年度竞赛，并从来自全美各大学的 15 多个团队中脱颖而出，荣获“最具互动性设计奖”！ 在不到 24 小时内，我们打造了 EchoPath，这是一款智能 AI 手杖，旨在通过实时 AI 环境指导帮助盲人和视障人士。 EchoPath 集成了一个经过微调的计算机视觉模型 (Yolo11n)，该模型在涵盖室内和室外物体 (Coco128) 的数据集上进行训练，包括交通信号灯、停车标志、路缘和楼梯。它结合了自然语言生成、声音反馈和触觉反馈，通过由超声波传感器驱动的振动握柄提醒用户附近的障碍物。 我们正在开源 EchoPath，以便其他人可以借鉴我们的工作，进一步推动这一创新！  在这里查看：https://github.com/tahababou12/EchoPath    由   提交  /u/infinity-01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ingfpk/echopath_smart_ai_blind_cane_with_object/</guid>
-      <pubDate>Wed, 12 Feb 2025 02:23:11 GMT</pubDate>
     </item>
     <item>
       <title>植物学数据库</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[您想开发开源 #Odoo #OCA 应用程序吗？或者开发 #UbuntuTouch 应用程序。也许我们的 Hackathon 适合您？加入 FossFEST，已有 408 名参与者参加。2 月 21 日至 22 日在柏林与我们在线会面或现场会面。您是一家 #foss 公司并想在 #Hackathon 期间开展项目，请联系我们了解赞助选项。https://os-sci.com/event/foss-fest-2025-international-hackathon-14/register     提交人    /u/todaynaz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1in0fzk/open_source_hackathon/</guid>
       <pubDate>Tue, 11 Feb 2025 14:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源申请软件建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</link>
-      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的免费图像转文本库是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1in07a1/whats_best_free_image_to_text_library/</link>
-      <description><![CDATA[我用过 pyTesseract OCR 和 EasyOCR，但它们都不准确。有没有免费的库？    提交人    /u/endgamefond   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1in07a1/whats_best_free_image_to_text_library/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:46:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

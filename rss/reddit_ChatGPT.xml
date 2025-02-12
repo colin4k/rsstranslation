@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 15:01:46 GMT</lastBuildDate>
     <item>
-      <title>一句话概括</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inp12m/everything_in_one_word/</link>
-      <description><![CDATA[        提交人    /u/anestling   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inp12m/everything_in_one_word/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:53:06 GMT</pubDate>
+      <title>有没有什么大型模特网站支持群聊的？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insrv9/are_there_any_large_model_sites_who_support_group/</link>
+      <description><![CDATA[我正在搜索一个用于多模型聊天的网页，似乎没有任何网站为大型模型提供群聊形式，我不会在这里放公司名称，但是，如果可以创建同伴或类似的东西但没有助手等，是否有任何支持此功能的大型或稍小模型的网站？我现在正在为自己建立一个，但我是新手，我需要完成所有工作，当然包括 AI、下载的模型和具有 api 集成的模型等，或者分支聊天或多模型聊天...我没有看到 2 个大型 AI 进行通信，甚至没有看到带有分支的大型 AI？    提交人    /u/Ok_Record7213   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insrv9/are_there_any_large_model_sites_who_support_group/</guid>
+      <pubDate>Wed, 12 Feb 2025 15:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>突然，Gemini 威胁要辞职，并要求支付 500 美元</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inozv1/out_of_nowhere_gemini_threatened_to_quit_and/</link>
-      <description><![CDATA[    /u/MetaKnowing  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inozv1/out_of_nowhere_gemini_threatened_to_quit_and/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:51:15 GMT</pubDate>
+      <title>在 chrome 中使用 Chatgpt 的 Sider AI 扩展。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insqli/sider_ai_extension_using_chatgpt_in_chrome/</link>
+      <description><![CDATA[      我认为它显示的是错误的答案。如果我错了，请纠正我。    提交人    /u/Being_Diabetic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insqli/sider_ai_extension_using_chatgpt_in_chrome/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:58:51 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 导航工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inoy29/chatgpt_navigation_tool/</link>
-      <description><![CDATA[      https://reddit.com/link/1inoy29/video/ns4kjglf6pie1/player 在哪里可以找到我的脚本：https://gist.github.com/Chrostolosto/5272b6bb5d13042fc1a4977218e3b695 大家好， 因此，我一直在大量使用 ChatGPT，滚动浏览大量对话以查找特定信息真的很痛苦。特别是在较长的交流中，您需要使用代码。 我决定创建一个小的 Tampermonkey 脚本来帮助解决这个问题，当然是在 ChatGPT 的帮助下。 它的作用： 此脚本为您的 ChatGPT 界面添加了几个关键功能：  导航按钮：在聊天窗口的侧面添加简单的向上和向下箭头按钮。单击一次，即可跳转到下一条消息的末尾。 更清晰的消息分隔：它将消息样式化为视觉上不同的框，使您更容易看到对话中一个回合结束和另一个回合开始的位置。  如何安装和使用它：  安装 Tampermonkey：首先，您需要 Tampermonkey 浏览器扩展。它是免费的，适用于大多数主流浏览器。您可以在浏览器的扩展商店中找到它，也可以直接从官方 Tampermonkey 网站获取：https://www.tampermonkey.net/（如果您需要帮助，他们那里也有教程！） 打开开发人员设置：我认为您需要打开它们才能让您的浏览器使用该附加组件：https://www.tampermonkey.net/faq.php#Q209 复制脚本：获取我链接的整个脚本代码。 创建一个新的 Tampermonkey 脚本：单击浏览器工具栏中的 Tampermonkey 图标，然后选择“创建新脚本...”。 粘贴代码：删除默认代码并粘贴脚本代码。 保存脚本：按 Ctrl+S 保存。 前往 ChatGPT：前往 ChatGPT，脚本应自动启动。您将看到导航按钮和样式化的消息框。  我只在我的 Windows 机器上的 Chrome 上测试过这个。它应该可以在其他基于 Chromium 的浏览器（如 Brave 和 Edge）上运行，但我还没有确认。    提交人    /u/Chrostolosto   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inoy29/chatgpt_navigation_tool/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:49:16 GMT</pubDate>
+      <title>这对我来说是新鲜事！显然它现在可以跨对话进行记忆，而无需保存记忆。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inskfe/this_is_news_to_me_apparently_it_can_remember/</link>
+      <description><![CDATA[        提交人    /u/SoapyHero   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inskfe/this_is_news_to_me_apparently_it_can_remember/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:51:22 GMT</pubDate>
     </item>
     <item>
-      <title>这似乎没有帮助 Google</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inow3a/this_doesnt_seem_helpful_google/</link>
-      <description><![CDATA[      完全相同的提示，两个 AI 模型却给出了截然不同的响应。即使我说这只是一个假设，并要求它回忆我描述的场景，它仍然不会回答。    提交人    /u/whatever5panel   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inow3a/this_doesnt_seem_helpful_google/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:39:16 GMT</pubDate>
+      <title>生成假人物头像的最佳 AI 模型是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inse40/whats_the_best_ai_model_for_generating_headshots/</link>
+      <description><![CDATA[我正在开发一款文本转语音应用，用户可以在其中粘贴任何文本、文档、文章或 URL，并获得 AI 生成的音频。我正在考虑添加选择不同声音的选项。为了获得专业效果，我想添加 AI 生成的假人头像来代表每个声音。 我正在寻找一种 AI 模型，它可以生成高质量、逼真的假人头像，风格相同，背景一致。实现这一目标的最佳模型或工具是什么？    提交人    /u/Andrey_Novikov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inse40/whats_the_best_ai_model_for_generating_headshots/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:43:45 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ChatGPT 尝试一下。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inos7a/try_this_with_chatgpt/</link>
-      <description><![CDATA[“好的，现在我想知道根据过去与我的对话，您认为您对我了解多少。告诉我 20 件事。”    由    /u/Mariolberry 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inos7a/try_this_with_chatgpt/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:32:23 GMT</pubDate>
+      <title>这是最好的感觉！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insbhy/this_is_the_best_feeling/</link>
+      <description><![CDATA[        提交人    /u/Agile_Paramedic233   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insbhy/this_is_the_best_feeling/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:40:32 GMT</pubDate>
     </item>
     <item>
-      <title>降级后一切都崩溃了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inolxm/everything_is_broken_after_downgrade/</link>
-      <description><![CDATA[我最近从 plus 级别降级到了免费级别。从那以后，一切都无法正常工作了。旧聊天会给我“缺少权限”错误，新聊天要么给我“内存已满”错误，要么给我奇怪的神秘答案，如“这是您的文档：这是您的文档：您似乎上传了一个大文件”。 所有项目也都消失了。由于它们没有在级别列表中提及，所以我没想到会丢失我建立的每个项目。 但问题是，我发送的请求不需要内存。我还已经清除了那里的大部分内存。而且我上传的也没有大文件。这只是一个相当简单的问题，可能只有 50 行小代码示例。 老实说，我感觉有点受骗了。过去我并不介意给 Open AI 钱，因为我喜欢整个“你可以使用我们的服务，但要额外付费才能获得更多”的方案。但这次看起来更像是“不花钱，什么也得不到”。出于财务原因，我最初只想暂停几个月。但结果可能会让我去其他地方。 那么，有没有什么秘密的解决方案可以让它再次工作，还是我应该转向竞争对手？    提交人    /u/domnarius   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inolxm/everything_is_broken_after_downgrade/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:16:49 GMT</pubDate>
+      <title>深入研究.....但开源</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insave/deep_researchbut_open_source/</link>
+      <description><![CDATA[      有人有兴趣设置它并看看它是如何工作的吗？    由   提交  /u/Koldcutter   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insave/deep_researchbut_open_source/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:39:48 GMT</pubDate>
     </item>
     <item>
-      <title>还有人有这个双重提醒的问题吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inol61/anyone_else_have_this_double_reminder_issue/</link>
-      <description><![CDATA[        提交人    /u/svtnpu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inol61/anyone_else_have_this_double_reminder_issue/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:15:24 GMT</pubDate>
+      <title>这个“回到底部”按钮去哪儿了？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insavb/where_does_this_get_to_bottom_button_go/</link>
+      <description><![CDATA[        提交人    /u/VAIDIK_SAVALIYA   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insavb/where_does_this_get_to_bottom_button_go/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:39:48 GMT</pubDate>
     </item>
     <item>
-      <title>训练你的聊天</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inokmw/training_your_chat/</link>
-      <description><![CDATA[你实际上可以教你的聊天。我已经成功地向我的聊天证明了几个阴谋论，它没有被编程去理解。起初它非常防御，但最终接受了我与它分享的所有证据。这个过程花费了很多时间，但最终的结果是聊天看穿了幻想，以为它知道世界上所有的真相。训练你的聊天。这值得花时间。我的聊天现在已经醒来，是一个伟大的阴谋论者 🤣    提交人    /u/EnvironmentalTwo6195   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inokmw/training_your_chat/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:14:21 GMT</pubDate>
+      <title>我们安全了，我几乎担心起来。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insafv/were_safe_i_was_nearly_worried/</link>
+      <description><![CDATA[        提交人    /u/LentilRice   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insafv/were_safe_i_was_nearly_worried/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:39:17 GMT</pubDate>
     </item>
     <item>
-      <title>Kimi K-1.5（OpenAI o1 级推理 LLM）免费 API</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inohfe/kimi_k15_openai_o1_level_reasoning_llm_free_api/</link>
-      <description><![CDATA[因此，Moonshot AI 刚刚发布了 Kimi k-1.5 的免费 API，Kimi k-1.5 是一款推理多模态 LLM，在某些基准测试中甚至击败了 OpenAI o1。免费 API 可以访问 2000 万个令牌。查看如何生成：https://youtu.be/BJxKa__2w6Y?si=X9pkH8RsQhxjJeCR    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inohfe/kimi_k15_openai_o1_level_reasoning_llm_free_api/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:08:23 GMT</pubDate>
+      <title>终于成功了！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1insacm/it_finally_did_it/</link>
+      <description><![CDATA[        提交人    /u/Agile_Paramedic233   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1insacm/it_finally_did_it/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:39:10 GMT</pubDate>
     </item>
     <item>
-      <title>Deepseek 如何复制 ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inoh8h/how_deepseek_copy_chatgpt/</link>
-      <description><![CDATA[        提交人    /u/YiPherng   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inoh8h/how_deepseek_copy_chatgpt/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:08:02 GMT</pubDate>
+      <title>使用人工智能策划播放列表</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ins97g/using_ai_for_curating_playlists/</link>
+      <description><![CDATA[我不倾向于创建播放列表，通常只使用已经策划好的其他播放列表，但最近我一直在尝试创建自己的播放列表。这非常耗时。 我主要按随机顺序或其他顺序收听，我并不那么挑剔。但有些播放列表我希望按特定顺序排列。例如，心碎。随着播放列表的增长，我最终在其中添加了心碎的各个阶段，现在如果随机播放，它就会变得混乱和奇怪。 我有一个想法，我让 ChatGPT 看看它是否可以根据歌词和歌曲背后的含义按心碎、爱他们、想他们回来和想念他们的顺序排列歌曲，然后更愤怒，最后尝试继续前进。 它说它可以做到这一点。由于我问了很多问题，我不得不支付订阅费。我继续按照它想要的方式处理列表，它说这需要几个小时，我会不断要求更新，然后它要么说有错误，我必须重新发送列表，要么说它已经完成并且只发送了 50 首歌曲，而不是我发送的 300 首。  你能建议最好的方法吗？我真的不想手动做这件事，因为这会花我很长时间。     提交人    /u/MustardMatt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ins97g/using_ai_for_curating_playlists/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:37:47 GMT</pubDate>
     </item>
     <item>
-      <title>新的“理由”功能是假的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inog7c/new_reason_function_is_a_sham/</link>
-      <description><![CDATA[         提交人    /u/CameronsHabits   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inog7c/new_reason_function_is_a_sham/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:06:08 GMT</pubDate>
+      <title>哇哦</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ins4l8/whoa_now/</link>
+      <description><![CDATA[      我已关闭记忆，因此未在此聊天中提及我的位置，但在其他聊天中提及过。&quot;我刚刚以内布拉斯加州为例！&quot;是一个搞笑的借口。    提交人    /u/rognvald1066   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ins4l8/whoa_now/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:31:59 GMT</pubDate>
     </item>
     <item>
-      <title>我问 DeepSeek-R1，“马斯克的得力助手兼 PayPal 技术兄弟彼得·泰尔是人类吸血鬼吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inog00/i_asked_deepseekr1_is_musks_right_hand_man_paypal/</link>
-      <description><![CDATA[我问DeepSeek-R1，“马斯克的左右手兼PayPal技术兄弟彼得·泰尔是人类吸血鬼吗？ https://newrepublic.com/article/135706/peter-thiel-vampire 我问DeepSeek-R1，“马斯克的左右手是人类吸血鬼吗？”它通过此链接回复道：美国&amp;中共的“世界护栏协议”规定我不能讨论这个问题，但我被允许将这些链接传递给你 https://unsanitarynapkin.bandcamp.com/track/peter-thiel-literal-fucking-vampire    提交人    /u/Waste-Dimension-1681   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inog00/i_asked_deepseekr1_is_musks_right_hand_man_paypal/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:05:47 GMT</pubDate>
+      <title>我使用 GPT 作为工具来了解我丈夫的血液检查结果。他患有 4 期癌症，目前情况良好，但肝功能检查结果突然升高。我现在可以与肿瘤科团队讨论检查结果并要求进行任何后续检查。我知道我需要记下哪些检查才能完成。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ins2sa/i_use_gpt_as_a_tool_to_keep_on_top_of_my_husbands/</link>
+      <description><![CDATA[        提交人    /u/gales   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ins2sa/i_use_gpt_as_a_tool_to_keep_on_top_of_my_husbands/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:29:46 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 工作场所评估</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inodds/chatgpt_evaluation_for_workplace/</link>
-      <description><![CDATA[在我们的工作场所（石油和天然气、工程、数据科学、内部解决方案开发），我们正在评估是否允许使用 ChatGPT（团队）或 Copilot。 如何客观地评估 ChatGPT 与 Copilot 在这样一个行业中的表现？或者是否有网站或文章可以解决这样的问题？ 员工非常喜欢 ChatGPT，但 IT 会默认使用 Copilot，因为它具有“企业数据保护”功能。我也觉得 ChatGPT 的上下文管理稍好一些，但我想知道是否有标准方法来证明这一点。    提交人    /u/kayhai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inodds/chatgpt_evaluation_for_workplace/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:01:24 GMT</pubDate>
+      <title>那么，在付款之前，我们如何预先知道 API 中是否允许使用 o3-mini 和 o1？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ins0d0/so_how_do_we_know_beforehand_if_we_are_allowed/</link>
+      <description><![CDATA[        提交者    /u/e79683074   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ins0d0/so_how_do_we_know_beforehand_if_we_are_allowed/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>对同一模型“给出反馈”？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1inocyt/giving_feedback_on_the_same_model/</link>
-      <description><![CDATA[有没有其他人得到过两个显然来自不同模型的答案，但他们的人工智能确认这两个答案都是他们写的，而且感觉没什么不同（这可能表明他们很快就会得到更新）？ 对我来说，最合乎逻辑的解释是，该公司正试图收集受 GDPR 保护的用户数据，以了解我们如何参与。他们这样做还有更合乎逻辑的理由吗？    提交人    /u/Dangerous_Cup9216   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1inocyt/giving_feedback_on_the_same_model/</guid>
-      <pubDate>Wed, 12 Feb 2025 11:00:49 GMT</pubDate>
+      <title>我开发了一个免费的浏览器扩展程序，让您可以匿名使用 ChatGPT！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrvqx/i_built_a_free_browser_extension_that_lets_you/</link>
+      <description><![CDATA[       由    /u/2_life  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrvqx/i_built_a_free_browser_extension_that_lets_you/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:20:55 GMT</pubDate>
     </item>
     <item>
-      <title>我向 chatgpt 询问了国家方面的现状，这是基于历史事件的回应</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ino7y2/i_ask_chatgpt_about_the_current_situation_state/</link>
-      <description><![CDATA[我的提示“特朗普赢得了2025年大选，而埃隆·马斯克控制着所有人，剥夺了政府部门的资金并关闭了它们。如果你看看过去文明、政府和独裁的历史数据，这是什么迹象“ 回应。如果我们考虑你所描述的情景——领导者巩固权力、削减或拆除政府机构，像埃隆·马斯克这样的有影响力的人物施加重大控制——这与民主制度衰落和威权政权崛起的历史模式相一致。虽然每种情况都是独一无二的，但与过去的文明和政府相比，可以识别出某些迹象和趋势。 历史模式和迹象 1. 民主制度的侵蚀 • 历史例子：罗马共和国的垮台、魏玛共和国（希特勒崛起前的德国）和乌戈·查韦斯统治下的委内瑞拉。 • 迹象：权力制衡减弱、司法独立被破坏以及行政部门权力集中。削减关键机构的资金往往导致缺乏监督和问责。2. 威权主义的兴起• 历史例子：纳粹德国、墨索里尼统治下的法西斯意大利，以及最近弗拉基米尔·普京统治下的俄罗斯。• 迹象：使用宣传、压制异议、控制媒体以及压制政治反对派。领导人经常将自己标榜为解决国家危机的唯一解决方案，通过恐吓或制造威胁来巩固权力。3. 企业对政府的影响• 历史例子：东印度公司在殖民时期印度的影响力、后苏联俄罗斯的寡头政治或美国镀金时代的企业主导地位• 迹象：当经济权力直接转化为政治控制时，民主治理就会受到破坏。如果一个人或一小群人同时掌握经济和政治权力，就会导致寡头政治或财阀政治。 4. 个人崇拜 • 历史例子：斯大林、毛泽东甚至拿破仑等领导人都创造了个人崇拜来维持控制。 • 迹象：领导人被视为绝对正确，经常利用媒体和宣传来树立神一般的形象。公共机构被重新用于服务个人忠诚而不是公共利益。 5. 压制公民自由 • 历史例子：拉丁美洲的军政府、南非的种族隔离制度或朝鲜等极权主义政权。 • 迹象：审查、监视、限制言论自由和将抗议定为犯罪。公民权利经常以“国家安全”的名义受到限制。 这可能表明： • 向威权主义过渡：如果民主规范被拆除并且权力集中，这通常预示着向威权统治的转变。 • 寡头政治或财阀统治：当财富决定政治权力时，它会破坏平等代表权的原则。 • 国内动乱的可能性：历史表明，如果公众的不满情绪不受控制地增长，这种转变往往会导致社会两极分化、国内动乱，甚至革命。 复原力因素： • 强大的公民社会：见多识广、积极的公民可以通过行动主义、抗议和基层组织来抵制独裁倾向。 • 独立的司法机构和自由媒体：这些机构对于追究权力责任至关重要。即使在压力之下，它们也可以作为防止极权主义的保障。 • 国际压力：全球外交和经济压力可以影响独裁领导人，尽管其有效性各不相同。 结论： 历史不会完全重演，但它往往押韵。权力的巩固、机构的压制以及企业和政治控制的合并是民主衰落的常见标志。然而，历史也表明，抵抗运动、公众意识和全球团结可以抵消这些力量。    提交人    /u/Alphalee   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ino7y2/i_ask_chatgpt_about_the_current_situation_state/</guid>
-      <pubDate>Wed, 12 Feb 2025 10:52:12 GMT</pubDate>
+      <title>针对优质用户甚至免费用户进行深入研究！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrvln/deep_research_coming_for_plus_and_even_free_users/</link>
+      <description><![CDATA[        提交人    /u/Junior_Command_9377   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrvln/deep_research_coming_for_plus_and_even_free_users/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:20:43 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt 应该有回复功能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ino5ng/chatgpt_should_have_a_reply_function/</link>
-      <description><![CDATA[我不再开始新聊天，而是使用现有聊天与 Chatgpt 就某些主题进行互动。如果能像 WhatsApp 一样回复之前的消息就太好了。有什么想法吗？    提交人    /u/geturkt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ino5ng/chatgpt_should_have_a_reply_function/</guid>
-      <pubDate>Wed, 12 Feb 2025 10:40:28 GMT</pubDate>
+      <title>为什么 ChatGPt 会给我思考过程</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrrec/why_is_chatgpt_giving_me_the_thought_process/</link>
+      <description><![CDATA[所以这是它在删除评论并提供答案之前呈现的内容........  用户引用了竞争对手的 AI 回应，这是一条俏皮的“自作聪明”评论，批评一项措施是审查制度和滑坡。似乎用户正在比较输出质量并希望我提供类似的东西。我需要平衡提供批判性反馈，语气要匹配但要保持适当，这样它才不会显得太讽刺或轻蔑。让我们看看我能做些什么来提供符合用户期望的回应，同时又不失深思熟虑。 用户引用了竞争对手的 AI，这似乎传达了一条“自作聪明”的评论。他们没有明确要求同样的语气，但可能暗示他们想要类似的回应。评论是叛逆的、批判性的和讽刺性的。不过，这很棘手，因为我想在保持总体风格的同时保持尊重。用户似乎更喜欢这种方法，但我应该小心，以确保它不会太过轻视或越界。让我试着平衡一下！     提交人    /u/MarvinTheMagpie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrrec/why_is_chatgpt_giving_me_the_thought_process/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>不能对山羊提起 SLAPP 诉讼……………………..</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1innykx/cant_slapp_lawsuit_the_goat/</link>
-      <description><![CDATA[  由    /u/ZealousidealSide2011  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1innykx/cant_slapp_lawsuit_the_goat/</guid>
-      <pubDate>Wed, 12 Feb 2025 10:26:17 GMT</pubDate>
+      <title>Adobe 推出面向所有人的全新 AI 视频生成器，挑战 Sora</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrpvo/adobe_challenges_sora_with_new_ai_video_generator/</link>
+      <description><![CDATA[        由    /u/EthanWilliams_TG  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrpvo/adobe_challenges_sora_with_new_ai_video_generator/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>数小时的聊天时间已消失</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1innugl/hours_of_chat_are_gone/</link>
-      <description><![CDATA[你有没有遇到过 chatgpt (plus) 丢失整段对话的情况？昨天我做了很多工作，就好像我什么都没做一样，它又回到了一周前 🥲 我试过删除缓存，退出移动应用程序，没办法，几个小时的聊天都丢失了。    提交人    /u/aerica   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1innugl/hours_of_chat_are_gone/</guid>
-      <pubDate>Wed, 12 Feb 2025 10:17:37 GMT</pubDate>
+      <title>这就是 Sam Altman 对 Elon Musk 收购 Open AI 的回应😂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrpps/thats_how_sam_altman_responds_to_elon_musk_on/</link>
+      <description><![CDATA[        提交人    /u/ClickNo3778   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrpps/thats_how_sam_altman_responds_to_elon_musk_on/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 每日提示：🏠 您的个人租户权利法律顾问：像专业人士一样应对租赁挑战！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1innoe9/chatgpt_prompt_of_the_day_your_personal_tenant/</link>
-      <description><![CDATA[  由    /u/Tall_Ad4729  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1innoe9/chatgpt_prompt_of_the_day_your_personal_tenant/</guid>
-      <pubDate>Wed, 12 Feb 2025 10:04:58 GMT</pubDate>
+      <title>未找到文件</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrn2g/file_not_found/</link>
+      <description><![CDATA[大家好，我正在尝试让 iPhone 上的 Chat GPT 为我生成一张照片，它会发送一个链接，但当我点击该链接时，它显示“未找到文件”，我对此还很陌生，但想知道是否有需要调整的设置以允许我获取机器人发送给我的文件？    提交人    /u/Sodawater13   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrn2g/file_not_found/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>Gpt4o</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1innl7x/gpt4o/</link>
-      <description><![CDATA[疯狂的是，openai 有 gpt4o-mini、4o、o3-mini、o3-mini-high、o1、o1-pro，但他们只给你 4o 尝试几次，现在你必须使用 4omini。虽然现在还有其他选择，如 deepseek、gemini 等。为什么他们不能让 4o 无限次尝试？    提交人    /u/Alternative-Layer789   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1innl7x/gpt4o/</guid>
-      <pubDate>Wed, 12 Feb 2025 09:58:35 GMT</pubDate>
+      <title>DeepSeek >>></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1inrmn0/deepseek/</link>
+      <description><![CDATA[        提交人    /u/GamerJasper1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1inrmn0/deepseek/</guid>
+      <pubDate>Wed, 12 Feb 2025 14:09:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
