@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 12 Feb 2025 06:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 09:02:44 GMT</lastBuildDate>
+    <item>
+      <title>[免费开源] 计划 PC 任务：计划在 Windows PC 上执行的操作模拟</title>
+      <link>https://www.reddit.com/r/opensource/comments/1inlpzw/free_open_source_scheduled_pc_tasks_schedule/</link>
+      <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作的模拟。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的^^ (C++ 使用 Qt6) : https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1inlpzw/free_open_source_scheduled_pc_tasks_schedule/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:37:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fedora Linux 41 服务器操作系统 (Fedora-Server-KVM-41-1.4.x86_64) 安装在 Motorola moto g play 2024（未 root、出厂时已解锁、Android 14 操作系统、Linux 内核版本 5.15.149）智能手机上，使用 Termux 版本 0.119.0-beta.1、在 Termux 下运行的 QEMU、Alpine Linux</title>
+      <link>https://www.reddit.com/r/opensource/comments/1inlihj/fedora_linux_41_server_operating_system/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1inlihj/fedora_linux_41_server_operating_system/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Livecord：通过 Discord 与网站访问者进行实时聊天</title>
+      <link>https://www.reddit.com/r/opensource/comments/1inlhkr/livecord_live_chat_with_website_visitors_via/</link>
+      <description><![CDATA[大家好， 我制作了 Livecord。 一个开源且可自托管的解决方案，可让您通过 Discord 与网站访问者进行实时聊天。 查看此演示：https://youtu.be/H6fnrln3b0c GitHub 存储库：https://github.com/realchandan/livecord    提交人    /u/freewheel1466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1inlhkr/livecord_live_chat_with_website_visitors_via/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:19:51 GMT</pubDate>
+    </item>
     <item>
       <title>EchoPath：使用 Yolo11n 进行物体检测的智能 AI 盲人手杖</title>
       <link>https://www.reddit.com/r/opensource/comments/1ingfpk/echopath_smart_ai_blind_cane_with_object/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>开源申请软件建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</link>
-      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</guid>
       <pubDate>Tue, 11 Feb 2025 14:47:27 GMT</pubDate>
     </item>
@@ -118,32 +139,11 @@
       <pubDate>Tue, 11 Feb 2025 13:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 多美元 - Konstantin Vinogradov</title>
+      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 美元以上 - Konstantin Vinogradov</title>
       <link>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</link>
       <description><![CDATA[        由   提交  /u/yaph   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</guid>
       <pubDate>Tue, 11 Feb 2025 11:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NameSage - 人工智能中文姓名生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imsoy0/namesage_aipowered_chinese_name_generator/</link>
-      <description><![CDATA[一款现代网络应用程序，由人工智能技术驱动，具有新粗野主义设计风格，可为非母语人士生成符合当地文化的中文名字。  预览：https://namesage.hellokaton.me Github：https://github.com/hellokaton/namesage  主要特点  人工智能生成：根据个人特征和喜好创建中文名字 文化背景：提供姓名含义和文化意义的详细解释 字分析：包括每个字的笔画数和解释 发音指南：提供拼音支持，确保发音准确 多项建议：生成多个名称选项供选择 跨文化适应：根据文化偏好调整名称 个人故事：将个人故事和含义融入名称建议中  技术栈  框架：Next.js 15 (App Router) 语言：TypeScript 样式： Tailwind CSS 新粗野主义设计系统  UI 组件： Shadcn UI Radix UI  图标：Lucide React 状态管理：React Hooks AI 集成：DeepSeek API     提交人    /u/OpeningDrop5435   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imsoy0/namesage_aipowered_chinese_name_generator/</guid>
-      <pubDate>Tue, 11 Feb 2025 06:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sweetnotes - 简单、安全、及时分享的秘密笔记</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imsc7p/sweetnotes_simple_secure_and_secret_notes_shared/</link>
-      <description><![CDATA[大家好👋🏾，我一直在开发 Sweetnotes，这是一个可以让你向朋友发送秘密便笺的网站，这些便笺会在你选择的稍后时间显示！ 🌟最好的部分？这些便笺经过安全加密，可真正保证其私密性！💌✨  情人节就要到了，准备好发送秘密，或者只是给朋友写便笺吗？  在这里尝试：https://sweetnotes.art/  阅读有关该项目的更多信息，了解加密的工作原理：https://github.com/deepto98/sweetnotes  期待您的反馈！    提交人    /u/No-Dream-4957   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imsc7p/sweetnotes_simple_secure_and_secret_notes_shared/</guid>
-      <pubDate>Tue, 11 Feb 2025 06:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个可定制的仪表板应用程序（BentoBoard）——如果有人想使用它，就将其作为开源发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</link>
-      <description><![CDATA[你好， 制作了一个小型 Web 应用，您可以在其中拥有一个便当板启发的仪表板，其中包含可调整大小的小部件等。您可以拖动东西、调整大小、暗模式，还有一些其他不错的功能，但是  有很多问题。一些不稳定的东西开始发生，我很恼火，对构建它失去了兴趣。我不是最有经验的 Web 开发人员，所以只是尝试一些东西。 构建它是为了学习 TypeScript（这就是为什么代码库是 JS/TS/TSX 的漂亮混乱，哈哈）。有点厌倦了它，但想有人可能会想弄乱它或什么的。 如果您感兴趣，添加新小部件非常容易。已经有基本的东西了，例如：  时钟 待办事项列表 天气 笔记 计算器 计时器 其他东西 基本的东西  如果您想查看，请在这里：https://github.com/jsap7/bentoboard 所有信息都在 README 中，如果人们真正对这个项目感兴趣并希望为其做出贡献，那么我可能会重新参与其中，否则暂时搁置 和平。    提交人    /u/jsap777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1imktli/made_a_customizable_dashboard_app_bentoboard/</guid>
-      <pubDate>Mon, 10 Feb 2025 23:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
