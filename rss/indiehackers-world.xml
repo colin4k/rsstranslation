@@ -4,7 +4,23 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 12 Feb 2025 09:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 12:03:08 GMT</lastBuildDate>
+    <item>
+      <title>Crustdata 今日在 Product Hunt 上线！🤩</title>
+      <link>https://feed.indiehackers.world/post/af078c6ee5</link>
+      <description><![CDATA[它通过 API 和 webhook 提供实时人员和公司数据
+
+使用实时数据通过 API 构建公司和人员列表
+拥有准确员工人数的公司
+在列表构建时，人员实际上会在公司并担任该职位
+没有过时的数据，没有退回的电子邮件，没有域名声誉命中
+
+请查看并在 PH 上显示您的支持→https://www.producthunt.com/posts/crustdata-3
+谢谢！ ♥️
+Discord Indiehackers 聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/af078c6ee5</guid>
+      <pubDate>Wed, 12 Feb 2025 11:38:41 GMT</pubDate>
+    </item>
     <item>
       <title>将数据科学家从繁重的编码中解放出来：自动化的新时代</title>
       <link>https://feed.indiehackers.world/post/2c2bbe9280</link>
@@ -107,7 +123,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <title>9 种 Product Hunt 替代方案助您推出 SaaS 🏆</title>
       <link>https://feed.indiehackers.world/post/e6af4e7413</link>
       <description><![CDATA[嘿，制造商们，
-我创建了一个包含 9 个 PH 替代方案的列表，您可以在其中列出您的 saas 并获得更多用户。
+我创建了一个 9 个 PH 替代方案的列表，您可以在其中列出您的 saas 并获得更多用户。
 
 Uneed -（每月流量：91K 访客，DA：59）
 Peerlist -（每月流量：199K 访客，DA：64）
@@ -116,8 +132,8 @@ Micro launch -（每月流量：79K 访客，DA：44）
 Fazier -（每月流量：17K 访客，DA：58）
 SaaS hub -（每月流量：358K 访客，DA：72）
 Ctrl alt cc - （每月流量：16K 访客，DA：37）
-Twelve Tools - （每月流量：500 访客，DA：16）
-PItchwall - （每月流量：16K 访客，DA：65）
+Twelve Tools -（每月流量：500 访客，DA：16）
+PItchwall -（每月流量：16K 访客，DA：65）
 
 如需更多类似的地方，请查看 listmysaas.com。我已策划了 150 多个目录和平台来列出 saas 并获得前 1000 名用户。
 Discord Indiehackers Chat广告 此处]]></description>
@@ -199,7 +215,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Mon, 27 Jan 2025 03:44:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用esProc对文件进行SQL操作非常方便，与duckDB相当</title>
+      <title>使用 esProc 对文件执行 SQL 非常方便，与 duckDB 相当</title>
       <link>https://feed.indiehackers.world/post/eaf6a8e857</link>
       <description><![CDATA[$select * from {json(httpfile(&quot;http://127.0.0.1:6868/api/getData&quot;).read())}
 where Amount&gt;=100
@@ -267,28 +283,6 @@ Discord Indiehackers 聊天广告这里]]></description>
 Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9ac307c72b</guid>
       <pubDate>Fri, 24 Jan 2025 03:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>金融 AI 副驾驶（您的想法？）</title>
-      <link>https://feed.indiehackers.world/post/55bd3b175d</link>
-      <description><![CDATA[
-上传文件以进行更深入的分析和解释。
-将元数据或整个聊天保存为白皮书/预设（非常适合重复的工作流程）。
-使用“工具”页面修改工作流程或分配功能。
-
-Zeno 可以做什么：
-
-分析股票和公司（技术、基本面等）。
-汇总新闻、总结新闻并衡量情绪。
-根据您的标准帮助构建自定义投资组合（例如中型 AI 股票）。
-执行数据分析（视觉和数字）和代码生成以进行建模。
-像任何高级 LLM 一样回答一般财务问题。
-
-非常感谢所有反馈（正面或负面）。
-感受如果您有任何疑问，请随时联系我们！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/55bd3b175d</guid>
-      <pubDate>Tue, 21 Jan 2025 23:55:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
