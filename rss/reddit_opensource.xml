@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 21:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:04:07 GMT</lastBuildDate>
     <item>
       <title>我开源了 12 种稀有语言的机器翻译模型</title>
       <link>https://www.reddit.com/r/opensource/comments/1in8mnr/i_opensourced_machine_translation_models_for_12/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>[开源] Figma 插件用于图像优化、网站图标生成和背景删除。（Nestjs、Reactjs、Telegram 通知、lemonSqueez 计费）</title>
       <link>https://www.reddit.com/r/opensource/comments/1in8k2j/open_source_figma_plugin_for_image_optimization/</link>
-      <description><![CDATA[大家好！ 因此，我决定为 Figma 和 Nestjs API 服务开源我的插件。 它有很多功能，例如 计费集成（lemonSqueez）、有关某些问题的 Telegram 通知、数据库备份 等。 您可以在 env.example 文件中找到所有设置。 UI - Figma 插件 API - Nestjs 服务 祝您玩得开心！    提交人    /u/o_Oleh   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 因此，我决定为 Figma 和 Nestjs API 服务开源我的插件。 它有很多功能，例如 计费集成（lemonSqueez）、有关某些问题的 Telegram 通知、数据库备份 等。 您可以在 env.example 文件中找到所有设置。 您可以在此处查看其工作原理：插件 UI - Figma插件 API - Nestjs 服务 玩得开心！    由    /u/o_Oleh 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1in8k2j/open_source_figma_plugin_for_image_optimization/</guid>
       <pubDate>Tue, 11 Feb 2025 20:30:43 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>开源申请软件建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</link>
-      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 有人推荐一款开源的申请软件吗？该软件带有小额现金交易或采购的审批模块？    提交人    /u/Express_Steak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1in07na/open_source_requisition_software_recommendations/</guid>
       <pubDate>Tue, 11 Feb 2025 14:47:27 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 11 Feb 2025 13:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 多美元 - Konstantin Vinogradov</title>
+      <title>我如何通过 GitHub 赞助商和 PyPI 数据以算法方式向开源捐赠 5000 美元以上 - Konstantin Vinogradov</title>
       <link>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</link>
       <description><![CDATA[        由   提交  /u/yaph   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1imwfe4/how_i_algorithmically_donated_5000_to_open_source/</guid>
