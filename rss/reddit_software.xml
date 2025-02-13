@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 13 Feb 2025 09:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 15:01:44 GMT</lastBuildDate>
+    <item>
+      <title>面向创客的项目管理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ioio7h/project_management_software_for_makers/</link>
+      <description><![CDATA[嗨！ 我是一个长期的机器人建造者（建造星球大战中的机器人），但我的时间有限，我经常不得不在设计和建造中休息很长时间。通常我需要很长时间才能回到项目开始时的状态。目前我用笔和纸来组织我的计划和待办事项，但现在我正在寻找一个免费的（比如啤酒）或至少便宜的专有项目管理软件，这样我就可以更好地组织我的业余项目。 Mac OS 和 Windows 都很棒，我更喜欢一些本地软件，而不是只能在云端运行的东西。 我想要实现的目标： - 按步骤和子步骤构建整个项目 - 能够正确记录我对每个子步骤的想法 - 为每个子步骤保存其他材料（链接、图片） 我偶尔在工作中使用 Logseq，也尝试过在我的 Droid 上使用它，但它很快就会变得混乱。有人有什么好的推荐吗？    提交人    /u/gimmetwofingers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ioio7h/project_management_software_for_makers/</guid>
+      <pubDate>Thu, 13 Feb 2025 13:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Mac 的视频编辑软件 Big Sur (11.4)</title>
+      <link>https://www.reddit.com/r/software/comments/1iohisq/video_editing_software_for_mac_big_sur_114/</link>
+      <description><![CDATA[我费了好大劲才找到与 Big Sur 兼容的视频编辑软件。我陷入了不兼容的困境，我的操作系统要么太旧，要么太新，无法使用市面上的各种程序。在更新到 Big Sur 时，我丢失了盗版的 Premiere 和 Photoshop。我试过 davinci 和 powerdirector。目前唯一的选择是 imovie，这有点糟糕。免费软件加分！任何帮助都非常感谢！    提交人    /u/heinousmonk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iohisq/video_editing_software_for_mac_big_sur_114/</guid>
+      <pubDate>Thu, 13 Feb 2025 12:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>多输入软件</title>
+      <link>https://www.reddit.com/r/software/comments/1iogzqe/software_for_multiple_inputs/</link>
+      <description><![CDATA[大家好， 我正在寻找允许我在 Windows 计算机上进行多个鼠标输入的软件。让我更详细地解释一下我想要什么； 我使用主显示器，这应该像普通 Windows 一样运行。我还使用辅助屏幕，这是带有超级显示器的平板电脑。这意味着我可以在计算机上使用触摸屏。我想要的是，例如，我可以独立于主显示器控制音乐。因此，当玩游戏时，我想用左手更改音乐，而不必按 Alt Tab 或任何其他操作。  有这样的软件吗？    提交人    /u/ImWafsel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iogzqe/software_for_multiple_inputs/</guid>
+      <pubDate>Thu, 13 Feb 2025 11:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有用于制作婚礼邀请函、标志等的免费软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1iog9gx/free_software_for_creating_invites_signs_etc_for/</link>
+      <description><![CDATA[有人能推荐一个简单的程序让我设计邀请函/桌标等吗？各种尺寸的 A1、A5、A6 最有可能。谷歌上的所有东西通常都有隐藏成本，或者所有尺寸都用于创建社交媒体内容。我只想设计这些东西并保存它们以进行打印。需要选择合适的字体并能够叠加图像。  有这样的事吗，还是我要求太多了？  谢谢😊     提交人    /u/Low_Patient_5493   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iog9gx/free_software_for_creating_invites_signs_etc_for/</guid>
+      <pubDate>Thu, 13 Feb 2025 10:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个扩展来自动重命名下载并使用您自己的命名规则</title>
+      <link>https://www.reddit.com/r/software/comments/1iof50i/built_an_extension_to_auto_rename_downloads_with/</link>
+      <description><![CDATA[目标是让我的桌面整洁并帮助轻松发现文件 嗨， 我们构建了一个 Chrome 扩展程序，可以自动为 pdf、txt 和 docs 下载生成一个有意义的文件名。它具有针对主要文件类型（如论文、书籍、财务报告等）量身定制的格式。例如，  论文的格式 = 下载日期 - 标题 - 第一作者的姓氏 - 地区，因此文件名应为 20250208 - Attention Is All You Need - Vaswani - LLM，而不是 arXiv 上的 1706.03762 SEC 备案的格式 = 公司 - 备案类型 - 报告期，因此文件名应为 Apple - IPO Prospectus - 19940126，而不是 Apple 投资者关系网站上的 29ef375c-56c2-48b9-917d-b12812efc1a4 (??!)  我们还在开发一项功能，用户可以添加或调整他们的文件命名约定。例如，如果您喜欢下划线并且经常下载会议备忘录，则可以添加会议备忘录 = 受访者姓名_公司_职位_主题_日期。 这是 chrome 扩展程序商店链接，您可以查看。 请注意，由于技术原因，该扩展程序不支持从 Github 等某些网站下载。此外，我们假设类似的首选项功能可以应用于其他生产力工具，如文件夹组织或网站书签。很高兴收到建议并了解您是否真的需要这样的工具 :p    提交人    /u/pyrrha_nikos_233   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iof50i/built_an_extension_to_auto_rename_downloads_with/</guid>
+      <pubDate>Thu, 13 Feb 2025 09:10:52 GMT</pubDate>
+    </item>
     <item>
       <title>Sage Evolution 不会在 2 月 13 日运行 - 修复</title>
       <link>https://www.reddit.com/r/software/comments/1iodoax/sage_evolution_will_not_run_on_13th_february_fix/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[假设我们有两个相同的合同，只是新合同进行了更新并且其中有 2 个条款发生了变化，是否有一个自动化软件工具可以检测到这种情况或在我们进行比较时找到更改    提交人    /u/Wrong-Effect7704   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1inmxur/automated_contract_comparison/</guid>
       <pubDate>Wed, 12 Feb 2025 09:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费和开源]计划 PC 任务：计划在 Windows PC 上执行的操作模拟</title>
-      <link>https://www.reddit.com/r/software/comments/1inlqgj/free_open_source_scheduled_pc_tasks_schedule/</link>
-      <description><![CDATA[大家好， 我发布了我的工具的稳定版本用于 PC！ 我邀请您尝试或测试它。 这个工具可能对你有用： 该软件允许您自动安排您将在 PC 上执行的操作的模拟。 这意味着它将模拟鼠标移动、点击、击键、打开文件和应用程序等等，而无需您的交互。 操作序列可以循环执行。 可在 Microsoft Store 上免费获取：计划的 PC 任务 https://apps.microsoft.com/detail/xp9cjlhwvxs49p 它是开源的^^（使用 Qt6 的 C++）： https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 请随时向我提供您的反馈    提交人    /u/AmirHammouteneEI   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inlqgj/free_open_source_scheduled_pc_tasks_schedule/</guid>
-      <pubDate>Wed, 12 Feb 2025 07:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Audials Vision 2025——有人试过这个视频 AI 升频器吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1ink0mp/audials_vision_2025_has_anyone_tried_this_video/</link>
-      <description><![CDATA[你们有人试过 Audials 吗？特别是 Audials Vision？我有一些分辨率较低的旧视频文件，比如 480p 或 720p，我很好奇 Audials Vision 2025 是否能做得很好？    提交人    /u/jwintyo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ink0mp/audials_vision_2025_has_anyone_tried_this_video/</guid>
-      <pubDate>Wed, 12 Feb 2025 05:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有像 OBS 那样在 Android 上改善音频的替代方法？</title>
-      <link>https://www.reddit.com/r/software/comments/1inj56x/is_there_an_alternative_for_improving_your_audio/</link>
-      <description><![CDATA[所以我想用我的手机制作内容，但我的麦克风与 OBS 滤镜配对时声音效果最好。有没有办法用安卓应用做同样的事情？    提交人    /u/No-Grab-6402   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inj56x/is_there_an_alternative_for_improving_your_audio/</guid>
-      <pubDate>Wed, 12 Feb 2025 04:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>来吧 Firefox，做出反应！</title>
-      <link>https://www.reddit.com/r/software/comments/1inh175/cmon_firefox_react/</link>
-      <description><![CDATA[  由    /u/oVerde  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inh175/cmon_firefox_react/</guid>
-      <pubDate>Wed, 12 Feb 2025 02:53:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何或者如何审查软件是否具有付费墙功能或“enshittify”？</title>
-      <link>https://www.reddit.com/r/software/comments/1ingq67/how_do_or_do_you_vet_if_a_software_will_paywall/</link>
-      <description><![CDATA[显然，我们都想避免使用 enshittified（积极货币化）的软件，或者至少物有所值。我现在正在查看自托管软件，我正在寻找的一款软件有一个定价页面，但只针对云（没有其他付费功能）并且是开源的。我尝试查找未来计划，但没有找到太多，所以它似乎不会 enshittified。（不相关）我很久以前就想过要切换到 Omnivore，但后来他们与 ElevenLabs 合并了，剩下的就成了历史。    提交人    /u/TheTwelveYearOld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ingq67/how_do_or_do_you_vet_if_a_software_will_paywall/</guid>
-      <pubDate>Wed, 12 Feb 2025 02:37:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
