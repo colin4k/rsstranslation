@@ -4,7 +4,35 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 09:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 12:02:04 GMT</lastBuildDate>
+    <item>
+      <title>有没有可以模拟生活的游戏？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip8q6z/is_there_a_game_where_you_can_simulate_life/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们都知道“我们是一个陌生的高中项目”理论，但是是否有一个实际的AI/AI游戏可以模拟生活，您可以使事情像自然灾害一样发生，以看到影响？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deep-firefighter-279     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip8q6z/is_there_a_game_where_you_can_simulate_life/</guid>
+      <pubDate>Fri, 14 Feb 2025 11:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI时代的初学者开发人员的下一步是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip8bks/whats_next_for_the_beginner_devs_in_the_age_of_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  不久前，初学者编码项目是关于构建tic-tac-toe或计算器的，但是现在它们是关于自动化的任务，例如食品订购和预订出租车。酒吧已快速移动！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nitkjh     [link]   ＆＃32;   [注释]      ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip8bks/whats_next_for_the_beginner_devs_in_the_age_of_ai/</guid>
+      <pubDate>Fri, 14 Feb 2025 11:14:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>发电机：DNA序列生成和分析的98K上下文长度基因组基础模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip7fhc/generator_a_98k_context_length_genomic_foundation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文介绍了生成器，这是一种优化的变压器体系结构，用于处理长度长达1m的基因组序列。关键的技术创新是专门针对DNA序列的独特模式和尺度来调整注意力机制和位置编码。 关键技术点：•自定义位置编码方案，该方案有效地处理序列比标准变压器长5-10倍•使用掩盖序列预测，捕获局部和远程基因组相互作用的DNA特异性注意模式•对多个物种的1B+序列进行预训练•推理优化允许在消费者GPU  结果上处理1M基本对序列：•下一基础预测任务的精度为95％•在监管元素识别上的SOTA性能•成功的跨物种转移学习•生成的序列显示出适当的生物学约束 我认为这种体系结构对完整分析可能特别影响基因区域包括调节元素，这是先前模型的主要限制。处理百万个序列的能力意味着我们现在可以在其完整的环境中查看遗传元素而不是分散它们。 我认为这里的计算优化工作尤其值得注意 - 使其在消费者硬件上可以访问大量加速基因组学研究。跨物种的转移学习结果表明，我们可能能够更有效地利用模型生物的数据来为人类基因组学。 生物学验证和可解释性需要在临床应用之前解决的局限性，但出于研究目的，这似乎是就像在基因组建模中向前迈出的坚实一步。  TLDR：针对多个基因组任务上具有SOTA性能的数百万个长度DNA序列优化的新变压器体系结构。 Key innovations in positional encoding and attention mechanisms make it computationally feasible on standard hardware.  [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip7fhc/generator_a_98k_context_length_genomic_foundation/</guid>
+      <pubDate>Fri, 14 Feb 2025 10:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术福音主义霸主不应该决定我们的未来</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip6x9j/technofeudalist_overlords_shouldnt_decide_our/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  技术布洛利格尔人是 lords 。他们拥有的数字平台是他们的“土地”。他们可能会投射自由企业的形象，但实际上，他们经常像独裁者一样运作。 同时，普通用户提供数据，内容，以及通常是无偿的劳动，例如评论，社交帖子等等在 - 很像农奴谁在土地上工作。我们之所以与这些平台相关，是因为它们在日常生活中几乎是必不可少的。 较小的企业和内容创建者的功能更像 vassals 。他们具有一定的独立性，但最终必须遵守对该平台的忠诚，并遵循其规则，并获得一定的收入，只是为了维持生计。 为什么在地球上，技术领主会关心我们的福祉？他们为什么要去介绍UBI或邀请我们从新的AI驱动的医疗保健突破中受益？他们只是为了获得更多的权力和利润而竞争。同时，我们其余的人有可能被抛在后面，面对失业和饥饿。  ---------  对于有兴趣探索这些权力动态如何反映历史封建制度以及AI的任何人来说可能会放大它们，这是一篇文章  吸引了更深的人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iamuyga     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip6x9j/technofeudalist_overlords_shouldnt_decide_our/</guid>
+      <pubDate>Fri, 14 Feb 2025 09:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>meta和Openai机器人发疯</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip5w58/meta_and_openai_bots_go_crazy/</link>
@@ -62,25 +90,11 @@
       <pubDate>Thu, 13 Feb 2025 23:24:53 GMT</pubDate>
     </item>
     <item>
-      <title>AI向我们学习吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iovwl1/is_ai_learning_anything_from_us/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在我看来，现在我们的人类已经善于检测AI内容（有六根手指的人的图片，三腿附加的图片） AI应该领先于我们。它不是从我们的学习中学习吗？  chagpt中的文本回答？好吧，你把我带到那里。据我所知，后室里有一个人。但是图片？ C’mon不能做得更好吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/inevitablEstruggle     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iovwl1/is_ai_learning_anything_from_us/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:48:13 GMT</pubDate>
-    </item>
-    <item>
       <title>亿万富翁是决定AI应该是什么的最糟糕的人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iov92w/billionaires_are_the_worst_people_to_decide_what/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  亿万富翁认为可以ho积资源，但他们是决定AI和AGI方向的人，这会影响宇宙中的生命，甚至可能现实本身。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pareidolie     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iov92w/billionaires_are_the_worst_people_to_decide_to_decide_what/what//]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iov92w/billionaires_are_the_worst_people_to_decide_what/</guid>
       <pubDate>Thu, 13 Feb 2025 22:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>强大的力量为各种问题解决方案带来了巨大的责任，使对话AI个性化</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iotqk1/great_power_brings_great_responsibility/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题：巨大的力量带来了巨大的责任，使我发现并总结了有趣的AI研究每天的论文，因此您不必全部浏览它们。今天的论文标题为“强大的力量给予了巨大的责任：个性化对话的问题，以换取各种问题解决方案。由Italo Santos，Katia Romero Felizardo，Igor Steinmacher和Marco A. Gerosa。开源软件（OSS）项目。它强调了对话人AI可以通过调整AI响应以适合不同问题解决方案的差异来弥合各种问题解决方案的差距中发挥的重要作用，从而避免了可能有利于某些亚组而不是其他人的偏见。     本文的要点是：      ai 中的偏见：作者承认，尽管有益的LLMS由于对现有的培训，但有益的LLM可以承受固有的偏见数据。这在OSS环境中尤其有影响，在某些问题解决样式没有充分代表。       基于角色的及时工程：该论文讨论了使用基于角色的及时工程来个性化与AI的互动。通过模拟特定的角色，开发人员可以指导AI的响应以与个人或亚组特征和解决问题的偏好保持一致。       gendermag genteras ：研究使得研究使使用Gendermag理论框架来说明AI如何提供风格一致的支持。它证明了对不同角色的AI响应的适应，例如Gendermag Abi和Tim的例证。未来研究的几种途径，包括经验研究，以研究基于解决问题的样式的AI指南的变化以及从交互中推断用户角色的方法。        oss中的包容性：通过量身定制AI驱动的支持以适应各种各样的解决问题的方法，该论文认为OSS社区可以变得更加多样化和包容，最终提高了生产力和创新。    &lt; /ol&gt; 您可以在此处捕获完整的故障：在这里您可以在此处查看完整的原始研究论文：原始纸&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/steves1189     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iotqk1/great_power_brings_great_responsibility/</guid>
-      <pubDate>Thu, 13 Feb 2025 21:13:22 GMT</pubDate>
     </item>
     <item>
       <title>chatgpt之后没有深度学习</title>
@@ -102,20 +116,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人说AIS的机会有感知者的机会过高。 没人知道是什么引起意识。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 我们无法检测到它＆amp;  ，如果您在智力上受到智力上的严格性，与意识有关。  &lt;！ -   - -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/katxwoods     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/comments/1iolln3/anybody_who_says_that_that_thate_is_is_i_a_0_chance_chance_of_ais/”]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iolln3/anybody_who_says_that_there_is_a_0_chance_of_ais/</guid>
       <pubDate>Thu, 13 Feb 2025 15:29:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>咆哮：厌倦了阅读相同的AI生成的动机信</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ioh3x3/rant_sick_and_tired_of_reading_the_same/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在过去的几年中，作为我的工作的一部分，我对各种程序/工作进行了很多励志陈述，我病得很厉害看到相同格式，写作风格和文字。它总是“尊敬的组织”，“促进”，“利用”，“总而言之，我的独特融合……”。从来没有写过凝聚力的东西，这是同样的大词和一般陈述。在。这。精确的。相同的。写作。风格。我什至收到了一封电子邮件，底部说：“这是一封电子邮件，显示同理心，兴趣和澄清XYZ。让我知道您是否需要其他任何东西！”就像请……就像杯子一样，读了一个整天都会想到的系统。绝对是无情的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fistifallocal0     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ioh3x3/rant_sick_and_tired_of_reading_the_same/</guid>
-      <pubDate>Thu, 13 Feb 2025 11:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bytedance揭露了Goku：强大的AI模型，旨在与Google的Luma和Openai的Sora竞争</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iogcoo/bytedance_unveils_goku_a_powerful_ai_model_set_to/</link>
-      <description><![CDATA[在to-compete-with-googles-luma-and-openais-sora/“&gt; https://blog.aitoolhouse.com/bytedance-unveils-goku-a-a-powerful-a-powerful-ai-ai-model-model-model-set-model-with-with-- googles-luma-and-openais-sora/   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rathwiper     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/comments/1iogcoo/1iogcoo/bytedance_unveils_goku_a_a_poperul_ai_model_model_set_to/”]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iogcoo/bytedance_unveils_goku_a_powerful_ai_model_set_to/</guid>
-      <pubDate>Thu, 13 Feb 2025 10:42:23 GMT</pubDate>
     </item>
     <item>
       <title>GPT-4.5即将到来！这是我们到目前为止所知道的🚀</title>
