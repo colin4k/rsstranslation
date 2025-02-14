@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 14 Feb 2025 06:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 09:02:22 GMT</lastBuildDate>
+    <item>
+      <title>停止责备开源缓慢</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ip5xci/stop_blaming_open_source_slowness/</link>
+      <description><![CDATA[     &lt; /a &gt;  ＆＃32;提交由＆＃32; /u/u/derberq     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ip5xci/stop_blaming_open_source_slowness/</guid>
+      <pubDate>Fri, 14 Feb 2025 08:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>github-烹饪工具/dnsquery：管理dns dns客户端和ronin，管理/etc/hosts</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ip5byd/github_cookiengineerdnsquery_deadsimple_dns/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/cookiengineer     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ip5byd/github_cookiengineerdnsquery_deadsimple_dns/</guid>
+      <pubDate>Fri, 14 Feb 2025 07:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Archgw🚀专为提示而设计的智能代理 - 管理由Emboy的贡献者构建的AI应用程序（构建AI应用，路由，observabilit等）时的讨厌繁重。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ip4jzw/archgw_an_intelligent_proxy_designed_for_prompts/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/freferweb107     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ip4jzw/archgw_an_intelligent_proxy_designed_for_prompts/</guid>
+      <pubDate>Fri, 14 Feb 2025 06:36:43 GMT</pubDate>
+    </item>
     <item>
       <title>最后，所有AI平台A完全开源的WordPress聊天机器人插件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ip1amg/finally_a_wordpress_chat_bot_plugin_for_all_ai/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>我做了一个开源不和谐机器人，回答了您的开发人员文档的问题</title>
       <link>https://www.reddit.com/r/opensource/comments/1iox78k/i_made_an_opensource_discord_bot_that_answers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究Ragpi，这是一个开源的AI助手API，通过从开发人员文档，GitHub问题和README的信息中提取信息来回答问题。我最近添加了一个Discord集成，允许您在服务器中部署一个由RAGPI驱动的机器人，以便您的社区可以当场获得相关的，文档支持的答案。 这仍然是一项正在进行的工作，我d非常感谢您可能拥有的任何反馈或想法。如果您很好奇，这里有一些链接：    main ragpi repo：  https://github.com/ragpi/ragpi     discord bot repo：  https://github.com/ragpi/ragpi-discord      discord集成文档：   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/eleven-five     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究Ragpi，这是一个开源AI助手API，通过从开发人员文档，GitHub问题和README的信息中提取信息来回答问题。我最近添加了一个Discord集成，允许您在服务器中部署一个由RAGPI驱动的机器人，以便您的社区可以当场获得相关的，文档支持的答案。 这仍然是一项正在进行的工作，我d非常感谢您可能拥有的任何反馈或想法。如果您很好奇，这里有一些链接：    main ragpi repo：  https://github.com/ragpi/ragpi     discord bot repo：  https://github.com/ragpi/ragpi-discord      discord集成文档：   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/eleven-five     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iox78k/i_made_an_opensource_discord_bot_that_answers/</guid>
       <pubDate>Thu, 13 Feb 2025 23:48:37 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[在P&gt; 经过多年将项目锁定在私人存储库之后，我终于决定清理一切并与世界分享一些东西。因此，这里是：   jar jar parse parse  ，我的第一个”开源项目！  为什么您要问的Java的另一个解析器组合库？  我与Parsers一起工作很多 - 最近在Java中 - &#39;一直对现有选项感到沮丧。它们要么完全不遵守，要么强迫您兼顾两个类型的参数。我想要一些简单的东西，所以我从Scala的解析器组合器中汲取了灵感，我一直很喜欢。  是什么使Jar Jar Parse与众不同？    对性能的简单性和功能（用于语言的快速原型） 默认情况下回溯（因为调试手册背带是痛苦的） 用自定义令牌类型的抽象解析（但是您无需使用每个解析器）指定令牌类型） 字符串在Unicode支持下解析（因为并非每个字符都是代码点） 可自定义的标记跳过（例如，whitpessace，处理） 完全键入，测试和记录   为什么名称？  嗯...这是一个Java的解析器库，我无法抗拒双关语。另外，说实话 - 一些解析问题可能像遥远的银河系中的某个笨拙的角色一样令人讨厌...   您怎么看？   由于这是我的第一个开源项目，所以我很想听听您的想法！如果您以前曾与Parser Comminator合作，您认为必需的功能是什么？ ，我还选择Java 21的现代功能 - 您是否仍在项目中的Java 11-17中？仍然值得支持Java 8+吗？根据您的反馈，我可能会删除Java 21功能以支持早期版本。  期待您的反馈！  可能与您同在！    &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/wellfoundedCake     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iof7aw/jar_jar_parse_my_first_open_source_project/</guid>
       <pubDate>Thu, 13 Feb 2025 09:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找用于开源贡献的存储库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ioerdq/looking_for_repository_to_do_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是JavaScript的完整堆栈开发人员，这些天我几乎没有时间，我正在寻找一些很好的存储库来通过这篇文章我正在寻找一些可以贡献的存储库。 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/upter_truck_2758      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ioerdq/looking_for_repository_to_do_open_source/</guid>
-      <pubDate>Thu, 13 Feb 2025 08:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>ISO开源客户端门户</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iodepz/iso_open_source_client_portal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  共享状态更新和文件（to and from）。多个客户每个人都需要自己的登录并访问自己的材料。 （我是家庭和刑事律师）。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ok-reflection-9294      [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iodepz/iso_open_source_client_portal/</guid>
-      <pubDate>Thu, 13 Feb 2025 06:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub -Jianzcar/Fuzpad：一种简约的注释管理解决方案。由FZF提供支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iobz4b/github_jianzcarfuzpad_a_minimalistic_note/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/zenalia-     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iobz4b/github_jianzcarfuzpad_a_minimalistic_note/</guid>
-      <pubDate>Thu, 13 Feb 2025 05:24:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

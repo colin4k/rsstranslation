@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 06:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 09:01:55 GMT</lastBuildDate>
+    <item>
+      <title>我的Windows 11 PC找不到任何蓝牙设备。</title>
+      <link>https://www.reddit.com/r/software/comments/1ip68u7/my_windows_11_pc_does_not_find_any_bluetooth/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我在2周前就拿到了这台PC，但是蓝牙选项从那以后一直没有工作，这里是问题：   - 蓝牙被激活，并研究了我的配对蓝牙设备（Razer Leviathan X V2）   - 永远找不到。当我尝试使用智能手机时，它可以很好地工作；因此，问题不是Leviathan，而是PC本身 我尝试重新启动PC，更新我的蓝牙驱动程序，但无济于事。我记得我以前的笔记本电脑遇到了完全相同的问题，这让我感到困扰。 有人可以帮助我吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dazzling_cat5516       [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ip68u7/my_windows_11_pc_does_not_find_any_bluetooth/</guid>
+      <pubDate>Fri, 14 Feb 2025 08:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uninstalr 2.6发布</title>
+      <link>https://www.reddit.com/r/software/comments/1ip42pt/uninstalr_26_released/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   UnInstalr是Windows软件卸载器，可让您同时卸载许多软件，并且在启动卸载过程后没有任何用户输入。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 版本2.6是这些关键更改的主要更新：  对性能的重大改进和安装软件检测的准确性。 新的专用支持用于检测和卸载GOG，EA，EPIC，RIOT，WARGAMING，BATTLENET和 itch.io 游戏平台和他们的游戏。  对用户界面的重大改进，例如，如果用户似乎要删除可能危险的东西，则更清楚选择哪些项目以及其他警告消息。   UNINSTALR是免费软件和轻巧。它可作为单个文件便携式版本可用，该版本的尺寸仅为6.4 MB，还有一个设置版本可用。这两个版本都支持Windows Dark模式，并带有29张内置翻译。您可以从： https://uninstalr.com/download/   这里： https://uninstalr.com/changelog/    我是uninstalr的开发商。随时问我任何事情。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jouniflemming     [link]  ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ip42pt/uninstalr_26_released/</guid>
+      <pubDate>Fri, 14 Feb 2025 06:04:20 GMT</pubDate>
+    </item>
     <item>
       <title>分解Rust的结果类型 - 向反馈开放</title>
       <link>https://www.reddit.com/r/software/comments/1ip3g7q/breaking_down_rusts_result_type_open_to_feedback/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/orbi_adam     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1inz8xh/suggestions_on_a_project_management_utility/</guid>
       <pubDate>Wed, 12 Feb 2025 19:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在地图上寻找用于范围集线器的软件的重要项目</title>
-      <link>https://www.reddit.com/r/software/comments/1inwtyu/looking_for_software_for_range_hub_optimization/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的问题很简单，但是我找不到帮助我的工具。这是一个非常重要的教育项目，因此将非常感谢：） 我有一个大量的数据集（数百多个）现实生活中的位置及其数据（名称，经度，纬度）和我想根据一些简单的标准从这些位置分配/选择集线器的软件。 每个集线器都可以覆盖周围的圆形区域（约4公里），并且某些轮毂非常接近（数十米）而其他人则很远（100公里以上）。  我想要一个软件，该软件选择哪个位置应基于以下位置： 最大化周围区域的覆盖范围 同时最大程度地减少区域的交集，这意味着它应该帮助我选择建造枢纽的最佳位置，而无需制作一个新的枢纽，该枢纽的接近/区域相交太多。 我已经看过诸如eppatial之类的软件，并尝试使用matlab编写代码成功的。  任何想法或建议都会非常欢迎。 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yassinthenerd     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inwtyu/looking_for_software_for_range_hub_optimization/</guid>
-      <pubDate>Wed, 12 Feb 2025 17:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以推荐对文本软件的任何实时演讲？这是为了解释。</title>
-      <link>https://www.reddit.com/r/software/comments/1inw489/any_realtime_speech_to_text_software_that_you_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是西班牙语口译员，我经常很难理解人们在说什么。除此之外，我的耳机最大的音量已经开始影响我的听力，这真的很糟糕，因为我也是音乐家。 我正在尝试找到一些软件来帮助我解决我想澄清的工作，我在计算机上完成所有操作。 理想是一种从英语转换为西班牙语的软件，反之亦然。到目前为止，我唯一发现的是对文字的讲话，但是亲自需要与PC音频一起使用的东西，例如字幕。 我刚刚对Chrome的内置进行了测试在某些YouTube视频上发表语音的文字，但它的工作状态不如我预期，语言更改非常慢。我需要更挑剔的东西，例如一个普通的翻译器，单击一次。 我希望您能为此提供帮助，我真的很感激，因为这项工作开始影响我的健康。也很抱歉，如果此子不是正确的，我真的不知道其他地方要发布此处。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/funkyargentinian     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inw489/any_realtime_speech_to_text_software_that_you_can/</guid>
-      <pubDate>Wed, 12 Feb 2025 17:17:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
