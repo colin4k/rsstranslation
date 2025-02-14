@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 03:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:02:24 GMT</lastBuildDate>
+    <item>
+      <title>分解Rust的结果类型 - 向反馈开放</title>
+      <link>https://www.reddit.com/r/software/comments/1ip3g7q/breaking_down_rusts_result_type_open_to_feedback/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，只是整理了一个解释Rust结果类型的视频 - 覆盖了它，何时使用它以及一些用于错误处理的最佳实践。我还谈到了一些有用的库，这些库会使错误更容易处理。 我很想说解释是否有意义，是否有任何清晰或我完全错过任何东西的反馈。如果您有兴趣，这里是链接： https://youtu.be/hf1rnf22vza    欣赏您的反馈，谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/max-t-devv     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ip3g7q/breaking_down_rusts_result_type_open_to_feedback/</guid>
+      <pubDate>Fri, 14 Feb 2025 05:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>“免费”遥控软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ip1asi/free_remote_control_software/</link>
+      <description><![CDATA[在为了我的需求，也许它们也可能对他人有用。 对于上下文，我在其中工作。自然，这意味着我是我家人的非正式官方技术支持人员，因为他们的计算机问题。此外，我在日常工作之外有一个客户，他们向我付费以修补他们的Windows系统并在需要时提供远程支持。 因此，我一直在寻找一种解决方案涵盖修补程序和远程访问。我的搜索通常使我进入了众所周知的平台，例如ATERA，ScreenConnect和Openmanage。很长一段时间以来，我一直很乐意使用Pulseway，这是一个具有多种功能功能的出色平台，尤其是适合较大的MSP。 最近，我一直在寻找削减成本的可能的。考虑到这个目标，我着手找到一个满足我核心需求的简单，理想的免费解决方案：修补和远程访问。 我终于找到了两个适合账单的平台： accation1 和 helpwire 。。。我不会介绍每个提供的内容的细节，但是对我来说，关键的要点是两者都“足够自由”。为了满足我的需求。 如果其他人处于类似情况，我正在分享这一点 - 支持一个小客户群，需要偶尔的远程帮助和系统修补。希望这有帮助！ 😉  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mattbettiol     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ip1asi/free_remote_control_software/</guid>
+      <pubDate>Fri, 14 Feb 2025 03:20:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找图像查看器，该图像查看器会根据台式机上的位置进行翻转，例如旧的Windows照片查看器</title>
+      <link>https://www.reddit.com/r/software/comments/1ip13a7/looking_for_an_image_viewer_that_flips_through/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚更新到Windows 11，我要激活旧的Windows Photo Viewer，但是我想询问是否还有其他程序可以翻转通过基于文件位置在桌面上的位置进行图像。  我已经尝试了许多图像查看器，但是它们似乎都按名称或日期翻转图像，但是没有像旧的Windows Photo Viewer在台式机上乘坐的位置。 我预览了很多工作图像，我使用桌面来组织和重新排列我正在处理的图像，我喜欢重新放置图像时，照片查看器会根据其在下一个图像上的位置在下一个图像上翻转桌面  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/waasaap     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ip13a7/looking_for_an_image_viewer_that_flips_through/</guid>
+      <pubDate>Fri, 14 Feb 2025 03:09:36 GMT</pubDate>
+    </item>
     <item>
       <title>寻找带有下拉建议的系统范围内的表情符号自动完成工具</title>
       <link>https://www.reddit.com/r/software/comments/1iox9aa/looking_for_a_systemwide_emoji_autocomplete_tool/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是西班牙语口译员，我经常很难理解人们在说什么。除此之外，我的耳机最大的音量已经开始影响我的听力，这真的很糟糕，因为我也是音乐家。 我正在尝试找到一些软件来帮助我解决我想澄清的工作，我在计算机上完成所有操作。 理想是一种从英语转换为西班牙语的软件，反之亦然。到目前为止，我唯一发现的是对文字的讲话，但是亲自需要与PC音频一起使用的东西，例如字幕。 我刚刚对Chrome的内置进行了测试在某些YouTube视频上发表语音的文字，但它的工作状态不如我预期，语言更改非常慢。我需要更挑剔的东西，例如一个普通的翻译器，单击一次。 我希望您能为此提供帮助，我真的很感激，因为这项工作开始影响我的健康。也很抱歉，如果此子不是正确的，我真的不知道其他地方要发布此处。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/funkyargentinian     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1inw489/any_realtime_speech_to_text_software_that_you_can/</guid>
       <pubDate>Wed, 12 Feb 2025 17:17:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>tao</title>
-      <link>https://www.reddit.com/r/software/comments/1intma1/the_tao_of_go/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/namanyayg     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1intma1/the_tao_of_go/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>git克隆–Depth 2比–deptth 1好，如果您想稍后再推</title>
-      <link>https://www.reddit.com/r/software/comments/1intluo/git_clone_depth_2_is_vastly_better_than_depth_1/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/namanyayg     [link]  ＆＃32;   [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1intluo/git_clone_depth_2_is_vastly_better_than_depth_1/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>删除了一个视频，有什么办法可以将其取回？</title>
-      <link>https://www.reddit.com/r/software/comments/1inr9ji/deleted_a_video_is_there_any_way_i_can_get_it_back/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚删除了一个带有我不需要的其他视频的视频。它说它太大了，无法发送回收箱，以便将其删除。...我意识到太晚了。有什么办法可以恢复？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/georgaibx21     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1inr9ji/deleted_a_video_is_there_any_way_i_can_get_it_back/</guid>
-      <pubDate>Wed, 12 Feb 2025 13:52:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
