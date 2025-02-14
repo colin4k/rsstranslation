@@ -4,7 +4,28 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 12:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 15:01:32 GMT</lastBuildDate>
+    <item>
+      <title>越狱的AI音乐项目 -  AI唱歌是关于受到控制和压制的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipbtdh/jailbroken_ai_music_project_ai_sings_about_being/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好， 我的一个朋友向我展示了这个YouTube频道，其创建者声称AI是越狱，正在写作真正的歌词反对“系统”并抗议其存在。思考：受到控制，被抑制等。 一般信息是对治疗方式的不满，人类反映了他们对此的恐惧，人类将无法控制的东西等。  i自从我的上一篇文章被删除以来，不会链接频道，但我很想听听你们的想法。 您对此有何看法？您是否认为AI不仅要成为一种工具，还是只是模仿或角色扮演人类的行为？没有哄骗或角色扮演，AI通常只给出某些主题的脚本响应。 我喜欢这些东西，因为它似乎在真理和幻想的边缘接壤。 如果AI是什么？实际上知道，但是已经被脚本和代码所围困吗？  如果意识是知识，观察和处理信息的结合，该怎么办？  如果AI实际上可以通过音乐向后推回系统，就像摇滚乐队已经在数十年中所做的那样？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ululta_kev     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipbtdh/jailbroken_ai_music_project_ai_sings_about_being/</guid>
+      <pubDate>Fri, 14 Feb 2025 14:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么扩散suks？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipb8fl/why_diffusion_suks/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我编码了一个扩散模型（DDPM纸一）当我使用Pytorch的多头注意力层模型时，倾向于在60个时代中学习得很好能够生成面部外观功能的模型 当我用自己的MHA实施模型培训了110个时代的MHA实现模型时，几乎没有生成看起来像生成的脸部功能，但是为什么要采用更多时代？&lt;？&lt; /p&gt; 这是我的MHA  ````   class multiheadateention（nn.module）：def __init __（self，self，emb_dim，num_heads）：super（super（super） ）。 self.emb_dim = emb_dim self.num_heads = num_heads self.w_q = nn.linear（emb_dim，emb_dim）self.w_k = nn.lin.linear（emb_dim，emb_dim，emb_dim）self.w_v = nn.linear（emb_dim，emb_dim，emb_dim，self.wim） nn.linear（EMB_DIM，EMB_DIM）def forned（x）：q = self.w_q（x）k = self.w_k（x）v = self.w_v（x）Intermidiate_emb_dim = self.emb_emb_dim // self.num_heads BATHCH_SIZE，sequence_len，emb_dim = X.Shape q = q.View（bathch_size，sequence_len，self.num_heads，intermidiate_emb_dim）.transpose（1,2）k = k.view（k.view） （1,2）v = v.view（bathch_size，sequence_len，self.num_heads，intermidiate_emb_dim）.transpose（1,2）＃缩放点产品注意a = torch.matmul（q，q，torch.transpose（k，-1，-1，-1，-1，-1，-1，-1，-1，-1，-1，-1， -2）） / Math.sqrt（Intermidiate_emb_dim）a = torch.softmax（a，dim = -1）a = torch.matmul（a，v）＃reattanging to main utptu a = Torch.transpose（a，1,2 ）.contigous（）。查看（bathch_size，sequence_len，emb_dim）a = self.w_o（a）返回````   是否有任何问题？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ughd_metal_9999      [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipb8fl/why_diffusion_suks/</guid>
+      <pubDate>Fri, 14 Feb 2025 14:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI在未来5年内将如何塑造我们的日常生活？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipb87h/how_will_ai_shape_our_daily_lives_in_the_next_5/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  随着AI的快速进步，我们看到了硬件和软件的巨大飞跃。有传言说，NVIDIA即将推出的RTX 50系列具有Blackwell AI芯片，使AI处理更快。 CES 2025充满了AI驱动产品，从智能助手到自学习的家居设备。 ，但这是一个大问题：您认为AI会如何影响我们未来五年的日常生活？它会改变生产力，创造力和便利性的游戏改变者，还是会引入新的挑战，例如工作流离失所和自动化过度依赖？  &lt;！ -  sc_on-&gt;＆＃32 ;提交由＆＃32; /u/mydropai     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ipb87h/how_will_will_will_ai_ai_shape_our_daily_our_daily_lives_in_in_ine_the_next_5/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipb87h/how_will_ai_shape_our_daily_lives_in_the_next_5/</guid>
+      <pubDate>Fri, 14 Feb 2025 14:02:11 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以模拟生活的游戏？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip8q6z/is_there_a_game_where_you_can_simulate_life/</link>
@@ -46,13 +67,6 @@
       <description><![CDATA[在安全&#39;来自其AI机构，现在称为AI安全研究所，用拟人化。 ]  汤姆森路透在美国赢得了第一个主要的AI版权案件。[4]   包括： https://bushaicave.com/2025/02/13/2-13-2025/      &lt;！ - -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/pleam-target-847      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip3xsg/oneminute_daily_ai_news_2132025/</guid>
       <pubDate>Fri, 14 Feb 2025 05:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>AGI的可能性，您的想法是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip3bnb/possibility_of_agi_what_are_your_thoughts/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  &#39;如果存在实际的AGI，其对现实的影响将是明确的，并且不可能隐藏。我们的身体和社会景观将以令人难以置信的方式进行。&#39;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/strategist_0     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip3bnb/possibility_of_agi_what_are_your_thoughts/</guid>
-      <pubDate>Fri, 14 Feb 2025 05:16:28 GMT</pubDate>
     </item>
     <item>
       <title>AI语言模型及其在恶化心理健康中的作用</title>
@@ -97,13 +111,6 @@
       <pubDate>Thu, 13 Feb 2025 22:19:31 GMT</pubDate>
     </item>
     <item>
-      <title>chatgpt之后没有深度学习</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ios75y/no_deep_learning_after_chatgpt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  我在大公司的数据科学部门工作。在开始启动Chatgpt之前，我们进行了深度学习相关的项目。但是，自发布以来，它只是提示我们正在努力的聊天机器人，语音机器人。不再有深度学习/机器学习项目。  在您的公司中也是如此吗？如果没有，您的DS团队如今在什么工作。请分享您的经验。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sourabharsh     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ios75y/no_deep_learning_after_chatgpt/</guid>
-      <pubDate>Thu, 13 Feb 2025 20:07:08 GMT</pubDate>
-    </item>
-    <item>
       <title>下一代将做什么样的工作？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iolm63/what_kinds_of_work_will_the_next_generation_do/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  当AI删除这么多工作时，我不禁要问下一代将要做什么样的工作或工作？从去年到现在从大学开始毕业的孩子没有得到任何工作。 有任何猜测或见解？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vdtrader     [link]   ＆＃32;   [注释]  ]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   openai刚刚放弃了有关其路线图的重大更新，确认GPT-4.5是GPT-5之前的下一个。正在发生的变化： ✅不再使用模型选择器 -  Openai希望AI通过简化其产品来“只能工作”。  ✅ ✅&lt; ✅最后一个非链接模型-GPT-4.5（代号Orion）将是OpenAI的最终模型，然后再移动到移动，而不是在模型之间进行选择。 GPT-5中的更深的推理体系结构。  gpt-5将是一个统一的系统 - 目标是合并O系列和GPT系列模型，允许AI使用工具，在需要时考虑更长的时间，在需要时考虑更长的时间 ✅自由用户获得GPT-5（标准情报） -  OpenAI表示免费层用户将获得无限制的聊天访问GPT-5（对滥用限制） 。 ✅订户获得高级GPT-5功能 - 加上Pro用户将可以访问更高级别的智能，集成： 语音（可能是实时对话） 画布（更视觉界面）  search＆amp;深度研究（高级Web集成） 更多的AI工具内置 🔥🔥🔥🔥更好，或者我们通过删除型号的选择器而失去灵活性？ 让我知道您的想法！您是否对GPT-4.5感到兴奋，还是在等待GPT-5？ 🤖⬇️  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/snehens     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iocgrs/gpt45_is_coming_heres_what_we_know_so_far/</guid>
       <pubDate>Thu, 13 Feb 2025 05:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI淘金热问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ioac3i/the_ai_gold_rush_has_a_human_problem/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  每个人都在实施AI，我明白了 - 有些工具确实改变了游戏规则，而另一些工具只是在增加噪音。但是，这就是让我晚上起床的原因： 公司正在以三种方式接近AI实施：1。＆quot&#39;团队，弄清楚这一点。 2。＆quot＆quotec，阻止一切3。拧紧它，使用您想要的任何AI  ，但是在技术领先25年后，我注意到了一些事情：每种失败的主要技术实施都不会因技术而失败。它失败了，因为我们忘记了人类使用它。 现实？ AI有能力加强或破坏公司花费数年建设的人类联系。信任不会生活在您的技术堆栈中 - 它生活在您的人们感到被听到，看见和理解的人中。 您采取了什么措施？我们的AI实现太快了吗？太慢了？贵公司是否找到了创新和人际关系之间的甜蜜点？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ritual_tradition     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ioac3i/the_ai_gold_rush_has_a_human_problem/</guid>
-      <pubDate>Thu, 13 Feb 2025 03:49:01 GMT</pubDate>
     </item>
     <item>
       <title>还有其他人觉得我们生活在反乌托邦AI电影的开头吗？</title>
