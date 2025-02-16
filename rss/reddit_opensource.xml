@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 16 Feb 2025 18:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:02:21 GMT</lastBuildDate>
+    <item>
+      <title>一个开源产品如何推销？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iqy7cf/how_does_one_pitch_an_opensource_product/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是软件开发人员，我已经启动了一个科学和协作软件的团队。  我有一个名为Mithra的项目，这是一个演示文稿和讲座的网络应用程序，人们可以私下或开放式讲座与开放式演讲类似，但在教育环境中。 &lt;。 &lt; P&gt;该项目非常扎实，我们为实现它做了很多努力。尽管如此，我们并不是要出售它。我们喜欢免费的开源软件。因此，我们希望为每个研究小组免费提供，无论他们的预算如何。 如何推销该产品？我们没有钱，我们只需要一个才能实现它的基金。我们的计划是处理捐款，以便在某个时候（可能）返回该基金。 最佳  ps我不确定这是否是要问的正确的subreddit。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thepolystyrenekida     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iqy7cf/how_does_one_pitch_an_opensource_product/</guid>
+      <pubDate>Sun, 16 Feb 2025 18:02:37 GMT</pubDate>
+    </item>
     <item>
       <title>OSI兼容保护SaaS的许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqw1r9/osicompatible_license_to_protect_saas/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>hanabira.org开源自我主持的轻巧的日本学习门户网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh  p&gt; 仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh    仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</guid>
       <pubDate>Sat, 15 Feb 2025 20:38:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[在您可以比较不同分布的Linux软件包。例如，您可以在另一个发行版中搜索一个包裹，或搜索包含特定项目的软件包，例如命令，库，Systemd Services等。 它可以通过下载和解码为每个支持的存储库中的文件索引。它分析了索引中的信息，以形成通常描述每个软件包内容的标签列表，然后将其存储在数据库中。当您搜索软件包时，它将软件包名称解析到其标签列表中，然后将它们与您要搜索的存储库中的每个软件包进行比较。它目前支持APT，DNF和PACMAN REPOS，并且我主持的实例有Debian Bookworm，Ubuntu 24.04，Fedora 40，Arch Linux和Chaotic Aur启用。 我主要是为了帮助我包装软件软件。对于不同的发行版，但是当我制作它时，我意识到它对库和命令的包装名称远不止于此。  我发现它确实很有用，希望您也会发现它也很有帮助：3  存储库： https://gitea.elara.ws/elara6331/distrohop  \ github镜子： \网站： https://hop.lure.sh/      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/elara6331     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iphksq/distrohop_compare_packages_across_linux_distros/</guid>
       <pubDate>Fri, 14 Feb 2025 18:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Janus -Script Runner/Scheduler应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipes48/janus_script_runnerscheduler_application/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建了一个开源平台，用于运行Adhoc脚本以及安排它们。它被设计为工程师撰写脚本的地方，并允许更少的技术人员在受控的环境中执行它们。这是受Rundeck的启发。 它支持有关各种平台，自定义超时，每个脚本的自定义输入，CRON调度，每个项目的权限，Webhooks和单个登录的通知。  回购： https://github.com/lbrictson/janus    docs： https://janus.brictson.dev/    它被包装为Docker容器或独立二元。使用它并尝试使用它的最简单方法是使用Docker容器，并支持此类内置的SQLITE数据库（也支持Postgres）：     cd〜/some-directory-where--您是want -to -store -data/   docker run -It -v $ pwd：/data/-e janus_url = http：// localhost：8080 -p 8080：8080：8080- P 8081：8081 lbrictson/janus：最新slim   ＃访问    http：/ /localhost：8080/   ＃username：admin@localhost   ＃password：changemebeforeuse1234！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rigral_boar     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipes48/janus_script_runnerscheduler_application/</guid>
-      <pubDate>Fri, 14 Feb 2025 16:42:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
