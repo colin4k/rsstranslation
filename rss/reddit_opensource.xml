@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 16 Feb 2025 06:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 09:02:56 GMT</lastBuildDate>
+    <item>
+      <title>如果存在更好的替代方案，我应该开源我的项目吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iqnnxr/should_i_open_source_my_project_if_a_better/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我很想听听您对我一直在辩论的事情的想法。 &lt; P&gt;在过去的三个月中，我一直在建立自己的社交媒体调度程序，最近，我开始考虑将其制作开源。我的想法是，该代码本身对于保持私密并不是那么有价值，开放源代码将允许那些不想为这样的工具付费的开发人员自我托管。 但是这是困境：我刚刚发现了Postiz  - 一个开源项目，它确实可以完成我的工具，但更好。它已经发达了，拥有广泛的文档，是由使用Nestjs和更模块化的体系结构的经验丰富的开发人员建造的。&lt; /p&gt; ，所以现在我想知道：仍然有意义我去开源？当已经有一个优越的选择时在我自己的愿景中，就像控制我使用的应用程序一样。 我的项目更友好地友好，因为我使用更简单的堆栈进行了构建。后端：pure node.js/javaScript（no nestjs）。前端：Vue。  因此，我认为它的学习曲线较低，更容易自定义。 ，您认为什么？在这种情况下，开源仍然有意义吗？还是我应该采取其他方法？ 很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/velinovae     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iqnnxr/should_i_open_source_my_project_if_a_better/</guid>
+      <pubDate>Sun, 16 Feb 2025 08:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我觉得Affinity Designer骗了，Inkscape将永远是免费的和开源的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iqn67v/i_felt_scammed_by_affinity_designer_inkscape_will/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1IQN67V/I_FELT_FELT_SCAMMED_BY_BY_BY_BY_DESIGNER_DESIGNER_INKSIGNER_INKSCAPE_WILL/” always be FREE and OPEN SOURCE&quot; src=&quot;https://external-preview.redd.it/MbeyZlnL1aimknDRgQ88a9jfcACWNns3oLV8ANtsqWk.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b2bbeabd760f4440890dd15690c0bb67830cecb2&quot; title=&quot;I felt SCAMMED by Affinity设计师Inkscape将始终是免费的，开源的”/&gt;   ＆＃32;提交由＆＃32; /u/u/harmony_hunnie     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iqn67v/i_felt_scammed_by_affinity_designer_inkscape_will/</guid>
+      <pubDate>Sun, 16 Feb 2025 07:40:35 GMT</pubDate>
+    </item>
     <item>
       <title>备份2025 -NextCloud vs ownCloud vs？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqht3e/backup_2025_nextcloud_vs_owncloud_vs/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/griezzy007     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ipdwu0/nothing_archive_stock_ota_images_full_firmware/</guid>
       <pubDate>Fri, 14 Feb 2025 16:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个开源AI Assistant Chrome扩展名 - 需要您的反馈！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipcwqg/i_built_an_open_source_ai_assistant_chrome/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在开发一个开源的镀铬扩展名，该扩展程序利用本地LLMS（使用Ollama）使日常任务更加容易。我正在寻找社区的反馈，以使其变得更好！这是它可以做的：   文本校正：立即修复语法和拼写错误。   代码评论：提供快速的代码分析。  后期：帮助您创建引人入胜的内容。  上下文问题：回答有关选定文本的问题。 API键）。尝试一下，让我知道您的想法！   github： https://github.com/hasan-py/hasan-py/ai-py/ai-assistant -Chrome-Extension  不要忘记给它一个开始，并随意为新功能做出贡献。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/hasan_py     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipcwqg/i_built_an_open_source_ai_assistant_chrome/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩展Confygre电子邮件（您要求它） - 开源电子邮件清洁器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipbo6s/expanding_confygre_email_you_asked_for_it_an_open/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  几天前，我发布了Android的第一个开源电子邮件清洁器应用程序（可以查看post 在那篇文章中，你们中的一些人询问了Web应用程序。因此，我做了一些RND并开始实施它。我几乎已经完成了该应用程序。它将在几天内发布（希望如此）。  我只是想分享Web应用程序的瞥见，并想获得一些反馈和建议。请确保将提醒机器人用于此帖子。我打算在接下来的几天内宣布我的项目的更新。  confygre电子邮件 -  web： https：// youtu。 BE/QY77XIHY3DI    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/7adash1     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipbo6s/expanding_confygre_email_you_asked_for_it_an_open/</guid>
-      <pubDate>Fri, 14 Feb 2025 14:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
