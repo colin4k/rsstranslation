@@ -4,7 +4,42 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 17 Feb 2025 12:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 18:04:01 GMT</lastBuildDate>
+    <item>
+      <title>WTG-总结程序输出的CLI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irmqt0/wtg_a_cli_to_summarize_program_output/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     wtg 是一个简单的命令行程序，允许您汇总或询问有关最后一个命令运行的输出的问题。支持Unix类似OS。 代码和安装步骤可用： https://github.com/brylee.com/brylee10/wtg   锈板条： crates.io/crates/wtg       &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_byl     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irmqt0/wtg_a_cli_to_summarize_program_output/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开源数据提供支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irmqm8/providing_support_to_open_source_data_projects/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近正在考虑开始为OpenSource项目做出贡献，我想我希望帮助用户解决问题和建议和/或编写教程和文档而不是编写代码。  你们是否知道在数据工程领域中特别适合的OpenSource Technologies？又名具有活跃用户的项目和支持系统（邮件列表，Slack，...）可以使用一些帮助？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fractalfrieend     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irmqm8/providing_support_to_open_source_data_projects/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ImageFan重新加载 - 轻巧，基于选项卡的图像查看器，支持多核处理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbased_image/</link>
+      <description><![CDATA[   &lt;A href =“ https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbbassed_image_image/” based image viewer, supporting multi-core processing&quot; src=&quot;https://external-preview.redd.it/sQDEj6jZaQu4p3uNy2hlJdciievCEjKO8zs6-sCeQR8.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=65928de9b212283896f3c4352386b86bfe785311&quot; title=&quot; ImageFan重新加载 - 基于标签的映像查看器，支持多核处理”/&gt;   ＆＃32;提交由＆＃32; /u/u/mihnearadulescu     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbased_image/</guid>
+      <pubDate>Mon, 17 Feb 2025 14:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的开源项目在Github上击中了20k Stars  - 放下一些很酷的商品以庆祝</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irjddt/my_open_source_project_hit_20k_stars_on_github/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我仍然记得首次发布有关我项目的信息 github.com/gyulyvgc/sniffnet&quot;&gt; sniffnet 是Rust开发的开源网络监控工具，自从这次旅程开始以来，它具有很大的爱心和赞赏（现在将近3年）。 如果完成这一款项的支持也是如此，今天我只是想与您分享我们放弃一些全新服装的所有人 - 我相信这是维持项目开发的好方法 您可以在专用的 github讨论。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gyulyvgc     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irjddt/my_open_source_project_hit_20k_stars_on_github/</guid>
+      <pubDate>Mon, 17 Feb 2025 13:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>公证和macos</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irjc9q/notarising_and_macos/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有兴趣了解多个平台开源项目可以公证其MACOS构建的过程的非技术部分。 对于那些不知道的人来说，公证需要苹果扫描构建恶意软件，并且某种数字签名与代码相关。这意味着用户首次运行他们下载的内容时不会受到可怕的警告。  afaik公证人需要付费的苹果开发人员计划（99 PA）的付费会员资格，但有豁免机制。这就是我感兴趣的：涉及多少文书工作，财务成本等。我不知道是否有任何开发人员在美国是否有所作为。 显然，开源项目没有赚钱，因此99美元是不可行的。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 无论如何，我确定各种开源项目已经跳了这个障碍，所以我对他们的经历感到好奇。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chrisridd     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irjc9q/notarising_and_macos/</guid>
+      <pubDate>Mon, 17 Feb 2025 13:03:03 GMT</pubDate>
+    </item>
     <item>
       <title>NoteMod：笔记应用程序开源|仅-JS HTML CSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1irhrvx/notemod_notetaking_app_open_source_only_js_html/</link>
@@ -106,44 +141,9 @@
     <item>
       <title>hanabira.org开源自我主持的轻巧的日本学习门户网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh    仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh  p&gt; 仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</guid>
       <pubDate>Sat, 15 Feb 2025 20:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neohtop在GitHub上达到5K星🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iqa32l/neohtop_is_reaching_5k_stars_on_github/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我很高兴与您分享 neohtop ，这是我使用 Rust ， Svelte 和构建的新的跨平台活动监视器陶里。受HTOP等经典工具的启发，Neohtop将现代设计与Svelte的响应相结合，以获得干净，强大的用户体验。 关键特征：      模块化且可自定义：通过各种模块来调整您的需求。跨系统的最喜欢的工具。  现代UI ：使用Svelte进行平滑而直观的界面。   以性能为注重的：生锈，提供可靠性和效率而不牺牲速度。  主题：VSCODE启发了主题系统。 和更多人可以自己发现   github  https://github.com/abdenasser/neohtop   网站“ https://abdenasser.github.io/neohtop/&quot;&gt; https://abdenasser.github.io/neohtop/      &lt;！ -  sc_on-&gt;＆＃322 ;提交由＆＃32; /u/u/__ abdenasser     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iqa32l/neohtop_is_reaching_5k_stars_on_github/</guid>
-      <pubDate>Sat, 15 Feb 2025 20:09:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享我的全部开放源和自构式的语义克隆！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iq9b4c/sharing_my_entirely_opensource_selfhostable/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  动机：现有的语言游戏非常有障碍，它随机删除猜测的单词，永远需要创建大厅，甚至需要人们加入的时间更长（如果可以的话）。我也想给UI刷新。 我认为我们需要更多的“有趣”社区中的项目，所以这是我对此的贡献！  repos：  https：// github。 com/majicmaj/neuronauts    https://github.com/majicmaj/majicmaj/neuronauts-be    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_promotion_9578       [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iq9b4c/sharing_my_entirely_opensource_selfhostable/</guid>
-      <pubDate>Sat, 15 Feb 2025 19:35:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>METUP API客户端 - 我制作了第一个开源JS/TS客户端库，用于METUP的API</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iq6jm6/meetup_api_client_i_made_the_first_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为Metup.com的GQL API制作了第一个开源JS/TS客户库库。我组织两次聚会晚上和开发软件 Day，并想要一种简单的方法来访问我们自己的网站和工具的小组和活动数据。这与易于使用的查询功能和打字稿类型完整。组织者和开发人员现在可以使用组和事件数据！  npm ： https：https：https：https：https： //www.npmjs.com/package/meetup-api-client    github ： https：//github.com/cunningdj/meetup-api-client    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cunningdj     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iq6jm6/meetup_api_client_i_i_i_made_made_the_first_open_source/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iq6jm6/meetup_api_client_i_made_the_first_open_source/</guid>
-      <pubDate>Sat, 15 Feb 2025 17:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么免费替代方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iq578i/any_free_alternatives_for_noteshelf/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mysterious_unique     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iq578i/any_free_alternatives_for_noteshelf/</guid>
-      <pubDate>Sat, 15 Feb 2025 16:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>ServicableBus-开源Azure Servicebus软件包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iq4ldf/the_serviceablebus_open_source_azure_servicebus/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  第一个计时器海报，长时间开发人员。我一直在为.NET制作一个Nuget软件包，以使与Microsoft库更容易地使用Azure Service Bus，通过一些简单的配置和接口，您可以非常快速地设置并运行并运行消耗和发布来自队列和主题的消息。  该软件包非常早期的WIP，但到目前为止的功能是： 发布事件，向主题和排队排队消费主题中的事件，并在消息消费错误上排队死亡的字母dead torys to Message Expression to Message Exploting错误遇到的属性袋中消息标头 计划功能的简短但不完整的列表是： 使用可配置的延迟和最大交付计数，使用OTEL使用Otel实现to To to to to to to to to to t to允许应用程序可选地收集有关AWS SNS/SQS等效实现的包装使用情况的数据 这是早期的日子，所以请保持温和，但我很想听到有关软件包或代码库的任何初步想法。感谢您的考虑   https://github.com/gthompson90/servicablebus  div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/m4l90     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iq4ldf/the_serviceablebus_open_source_azure_servicebus/</guid>
-      <pubDate>Sat, 15 Feb 2025 16:07:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
