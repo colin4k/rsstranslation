@@ -4,7 +4,21 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 17 Feb 2025 06:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 09:02:05 GMT</lastBuildDate>
+    <item>
+      <title>机器人外骨骼可帮助中国游客攀登该国最受惩罚的山</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irfl42/robotic_exoskeletons_help_chinese_tourists_climb/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://edition.cnn.com/travel/robotic-exoskeleton-hiking-china-china-intl-hnk/index.html  7,000个步骤，位于山东东部省的Tai山，以将任何人缩放到顶部的人而闻名。 整个中国社交媒体上的视频，例如Tiktok的姐妹App Douyin ，即使显示出适合的徒步旅行者摇晃，崩溃或试图在所有四分之一的山坡上攀登。 一些游客雇用“攀登伙伴”来帮助他们举行峰会。 ，但旅游官员在旅游官员中山东提出了另一个想法：机器人的腿。  1月29日，农历新年的第一天，十个AI驱动的外骨骼在Tai Mount Tai（Mount in Mandarin的Taishan）首次亮相，吸引了200多个用户，以吸引200多个用户根据新华社的说法，在为期一周的审判中，每次使用的费用为60元到80元（$ 8- $ 11美元）。提交由＆＃32; /u/u/coinfanking     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irfl42/robotic_exoskeletons_help_chinese_tourists_climb/</guid>
+      <pubDate>Mon, 17 Feb 2025 08:53:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的数据集发布“ Rombo-Org/Optimized_Reasount”，以提高性能并减少推理模型中的令牌用法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irdw90/new_dataset_release_romboorgoptimized_reasoning/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://hug/hugging.co/datasets /rombo-org/optimized_reasoning   优化  optimized_reasoning之所以创建，是因为即使是现代的LLM也不擅长处理推理，如果他们仍然浪费吨，他们仍然浪费吨在此过程中的代币。使用此数据集，我希望完成两件事：  减少令牌用法 提高推理中的模型强度  那么如何数据集完成了吗？通过添加“ system_prompt”就像推理标签一样，以说明该模型是否应该理由的每一个数据行的开始。模型标签看起来像这样：  ＆lt; think＆gt;此查询很简单；不需要详细的推理。 ＆lt;/think＆gt; \ n   以及“ rombo-reasoning.json”＆quot”     ＆lt; think＆gt; gt;此查询很复杂，需要多步推理。 ＆lt;/think＆gt; \ n   在这些标签之后，模型要么开始为简单查询生成答案，要么添加第二组思考标签以使更加困难的查询有理由。简单地提示更快，更少的象征沉重，而不必手动进行思考，或者通过理解查询实际上很困难并且需要特别关注来使模型更清楚地思考。  aka aka并非所有提示都不是所有的提示创建相等的。 额外的注释：  此数据集仅使用来自cognitivecomputations/dolphin-r1的DeepSeek-r1推理数据，而不是来自Gemini的数据。 该数据集在不合常规的情况下每行的最大值为2916个令牌，每行7620令牌在推理数据中，以保持模型能够区分简单和困难的查询之间的差异以及降低总培训成本。   数据集格式：   {&#39;&#39; ;：[＆quot; quot;]}   基于qwen-2.5 tokenizer的统计数据：   文件：rombo-nonreasoning.json最大值：2916所有记录中的总令牌：22,963,519文件：ROMBO-REANING.JSON最大令牌中的最大令牌：7620在所有记录中总计：32,112,990        &lt;！ ＆＃32;提交由＆＃32; /u/u/rombodawg     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/comments/1irdw90/new_dataset_release_romboorgoptimized_reasaning/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irdw90/new_dataset_release_romboorgoptimized_reasoning/</guid>
+      <pubDate>Mon, 17 Feb 2025 06:51:44 GMT</pubDate>
+    </item>
     <item>
       <title>一分钟每日AI新闻2/16/2025</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ircvql/oneminute_daily_ai_news_2162025/</link>
@@ -41,13 +55,6 @@
       <pubDate>Sun, 16 Feb 2025 22:53:36 GMT</pubDate>
     </item>
     <item>
-      <title>我能想到的最困难的一次性提示。确认闻所未闻的东西。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir4vuq/the_most_difficult_oneshot_prompt_i_can_think_of/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir4vuq/the_most_difficult_oneshot_prompt_i_can_think_of/</guid>
-      <pubDate>Sun, 16 Feb 2025 22:45:45 GMT</pubDate>
-    </item>
-    <item>
       <title>这不是一个新的想法：LLM可以设计并运行较小，专注的LLM作为通往SAI的道路吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir3i8h/this_cant_be_a_new_thought_could_an_llm_design/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我敢肯定这不是一个新想法，因为这是显而易见的，但是由于我们可以训练小型llms成为特定领域的专家，因此有任何努力被投入了大型LLM，以实现这一目标，以提高其能力，并增加其有效的上下文记忆吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umiminal     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ir3i8h/1ir3i8h/this_cant_be_a_new_thought_thought_could_could_an_llm_llm_design/]]></description>
@@ -64,7 +71,7 @@
     <item>
       <title>Ethan Mollick的共同智慧|书提示// https://peakd.com/hive-180164/@friendlymoose/co-intelligence-by-ethan-mollick</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir15vp/cointelligence_by_ethan_mollick_book_tip/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Ethan Mollick是宾夕法尼亚大学沃顿大学的教授，专门从事企业家精神和创新。他以对初创企业，管理以及AI对工作和教育的影响的研究而闻名。在本书中，Mollick展示了AI目前正在影响我们的生活。他解释了他所说的风险和缺点；您使用过的最糟糕的AI（因为AI更好！）。但是他还缩小了生成性AI将作为人类作为人类的可能性。生成AI的工作原理，结果取决于已训练的数据。大多数Gen AI工具都接受了可以在Internet上找到的公共数据培训。这意味着此数据还包含错误和人类的偏见。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/blkchnde     [link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Ethan Mollick是宾夕法尼亚大学沃顿商学院的教授，专门从事企业家精神和创新。他以对初创企业，管理以及AI对工作和教育的影响的研究而闻名。在本书中，Mollick展示了AI目前正在影响我们的生活。他解释了他所说的风险和缺点。您使用过的最糟糕的AI（因为AI更好！）。但是他还缩小了生成性AI将作为人类作为人类的可能性。生成AI的工作原理，结果取决于已训练的数据。大多数Gen AI工具都接受了可以在Internet上找到的公共数据培训。这意味着此数据还包含错误和人类的偏见。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/blkchnde     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir15vp/cointelligence_by_ethan_mollick_book_tip/</guid>
       <pubDate>Sun, 16 Feb 2025 20:05:16 GMT</pubDate>
     </item>
@@ -109,13 +116,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我看到了越来越多的文章，研究论文和视频（BBC，Guardian，APA），涵盖了AI疗法以及其受欢迎程度的每一次不断增长。很高兴看到一些通常可以在群众开始更容易进入的东西。 CY7G45G2NXNO“&gt; https://www.bbc.com/news/articles/cy7g45g2nxno    在与我个人认识的人进行了许多对话之后，并且在Reddit上阅读了许多帖子，并且已经变得显而在个人问题，情况和艰难的心理点方面，越来越多的人正在使用LLM聊天机器人进行建议，洞察力和支持。 我个人开始使用GPT 3.5 A a Bear Bearth a Bearth Abe Reppard以获取一些建议情况。尽管它不是您可以从某种疗法中获得的深刻和发展的见解，但它足以将我推向正确的方向。我知道我并不孤单，很明显的人（也许是你们中的一些人）每天都在使用它们，每周ECT来帮助他们的事情，您只需要很少的帮助。  AI是总是变得更好，随着时间的流逝，他们将能够为许多人民的基本需求提供相当高的支持。最好的事情是，它绝对无需任何费用，可以在一天中的任何时候使用电话/互联网使用。 现在，我并不是说这应该取代有执照的专业人员，因为他们确实是不可思议的帮助人们摆脱不良情况的人。但是，肯定有一个在当今世界的人工智能治疗的地方，有数百万人获得入门级支持和有用的见解的机会，而不必支付每小时100美元的费用。 将很有趣要了解该领域的发展以及AI治疗师是否比现实生活疗法更喜欢他们。 编辑：对于询问的人，zosa app（ https://zosa.app/ ）是我最近使用和享受的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/glittering_force_431     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqnds2/ai_therapy_and_its_growing_popularity/</guid>
       <pubDate>Sun, 16 Feb 2025 07:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>评估LLM数学推理：用于检测逻辑与算术错误的比例敏感框架</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iqmkwu/evaluating_llm_mathematical_reasoning_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  研究人员开发了一个名为GSM范围的新评估框架，以系统地评估不同数值范围内LLMS中的数学推理能力。通过测试从很小的（10  -10）到非常大的（10  10）幅度的数字，通过测试逻辑一致性和计算准确性，超出了典型的基准。。&gt; 。 关键技术方面：•通过替换不同的数值范围来创建小学数学（GSM）问题的变化•评估了分步推理和最终答案的准确性•测试模型的能力保持一致的解决方案方法，而不论数量大小如何•分析了不同数学操作的性能模式•数量幅度对计算精度的测量影响 主要结果：•绩效显着降低了“常见”。数字范围（10  -2 到10  4）•型号在处理不同的幅度时显示出不一致的推理模式•准确性在算术操作之间有很大的变化•十进制位置处理变得不可靠，很大/小数•经过思考链的提示有助于推理，但没有修复计算错误 我认为这项工作揭示了当前LLM处理数学操作的基本限制。数字范围内的系统评估提供了明确的证据，表明模型并不是真正学习可概括的数学概念。这可能会影响科学计算，财务建模或任何需要具有不同数值范围的精确计算的域中的应用。 我认为GSM范围的基准可以成为评估语言模型中数学能力的标准工具。结果表明，我们需要专门设计的新架构或培训方法，以更加牢固地处理数学操作。  tldr：新的基准测试表明，LLMS与数学推理在公共数字范围之外的数学推理困难，从而揭示了其概括数学概念的能力的局限性。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqmkwu/evaluating_llm_mathematical_reasoning_a/</guid>
-      <pubDate>Sun, 16 Feb 2025 06:58:51 GMT</pubDate>
     </item>
     <item>
       <title>一分钟每日AI新闻2/15/2025</title>
