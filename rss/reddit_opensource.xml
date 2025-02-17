@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 16 Feb 2025 21:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:04:14 GMT</lastBuildDate>
+    <item>
+      <title>开源与封闭的源AI  - 比开放式AI保持AI封闭的源头更安全，对社会更好？ //互动pro/con参数图</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ir3gy0/open_source_vs_closed_source_ai_is_keeping_ai/</link>
+      <description><![CDATA[    ＆＃32;提交由＆＃32; /u/u/prototyperspective     [link]   ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ir3gy0/open_source_vs_closed_source_ai_is_keeping_ai/</guid>
+      <pubDate>Sun, 16 Feb 2025 21:43:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议：正式为开源项目做出正式贡献的最佳实践吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ir346q/seeking_advice_best_practices_for_formally/</link>
+      <description><![CDATA[在 - 以协作方式进行项目，而不仅仅是随机贡献。人们是否经常在此子雷迪特上寻求合作者，还是直接通过Github来伸出态度？我可以做出有意义的贡献的项目。 我觉得我可能缺少有关该过程的难题。任何指导都将不胜感激！ 感谢您抽出宝贵的时间阅读。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/probono84     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ir346q/seeking_advice_best_practices_for_formally/</guid>
+      <pubDate>Sun, 16 Feb 2025 21:28:16 GMT</pubDate>
+    </item>
     <item>
       <title>一个开源产品如何推销？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqy7cf/how_does_one_pitch_an_opensource_product/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  （编辑：实时网站URL现在实际上转到网站）🙋大家好！在过去的几周中，我整理了这个开源网站，以与最近变得胆大的所有仇恨作斗争。 🔗github repo： resistance-toolkit-web ，实时网站：电阻工具kit   ℹ️基本上您：选择原因，找到一个org ，采取行动支持它，充电您的电池，重复！我希望成长一个为内容做出贡献的人们社区。我很想获得反馈，建议，并让人们审核内容，以确保一切都是合法的。让我知道您的想法，谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/mossly_epic_     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ipjvkv/open_source_toolkit_to_fight_hate_looking_for/</guid>
       <pubDate>Fri, 14 Feb 2025 20:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源python数据应用程序构建器w/ preswald/ hotherduck</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iphrtu/open_source_python_data_app_builder_w/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们投掷 Motherduck  +  preswald 在大量的公共卫生数据集中，  4倍分析 -  Plus Live，交互式仪表板 - 仅在几行Python中。    MotherDuc  k→duckdb in Cloud中br/&gt;  preswal  d→python-native，声明仪表板= autopilot上的互动性   blog： https://motherduck.com/blog/preswald-health-data-analysis    🖥️代码： https://github.com/structuredlabs/preswald/preswald/tree/main/main/examples/health/health     &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; &lt; reddit.com/r/opensource/comments/1iphrtu/open_source_python_data_app_builder_w/&quot;&gt; link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iphrtu/open_source_python_data_app_builder_w/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distrohop：比较跨Linux发行版的包装</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iphksq/distrohop_compare_packages_across_linux_distros/</link>
-      <description><![CDATA[在您可以比较不同分布的Linux软件包。例如，您可以在另一个发行版中搜索一个包裹，或搜索包含特定项目的软件包，例如命令，库，Systemd Services等。 它可以通过下载和解码为每个支持的存储库中的文件索引。它分析了索引中的信息，以形成通常描述每个软件包内容的标签列表，然后将其存储在数据库中。当您搜索软件包时，它将软件包名称解析到其标签列表中，然后将它们与您要搜索的存储库中的每个软件包进行比较。它目前支持APT，DNF和PACMAN REPOS，并且我主持的实例有Debian Bookworm，Ubuntu 24.04，Fedora 40，Arch Linux和Chaotic Aur启用。 我主要是为了帮助我包装软件软件。对于不同的发行版，但是当我制作它时，我意识到它对库和命令的包装名称远不止于此。  我发现它确实很有用，希望您也会发现它也很有帮助：3  存储库： https://gitea.elara.ws/elara6331/distrohop  \ github镜子： \网站： https://hop.lure.sh/      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/elara6331     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iphksq/distrohop_compare_packages_across_linux_distros/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:39:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
