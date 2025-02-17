@@ -4,7 +4,35 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 16 Feb 2025 21:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 03:06:40 GMT</lastBuildDate>
+    <item>
+      <title>在3个提示中与O1的模型 - 敏捷（CORA）相对于O1：零摄像任务推理，多步结构化推理，自我抗辩的执行链，基于场景的策略执行，上下文感知和基于角色的推理，多目标推理，多目标优化，人类觉得/交流（视频）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_vs_o1_in_3_prompts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     没有为此任务或任何类似于它的任务进行预训练或微调，我只是尝试用Claude创建最困难的提示，然后再加入一点。  使用开放的Web UI，一半本地半API，混合搜索抹布，使用分层的自然语言提示。没有故意构建这个，但它让我知道...下面的视频是我发现某些事情认真起来的。   https://wwwww.loom.com/share/27648960b9d04297a13958b89898989898f38044444444444444444444444  功能集，这些和计数。   零射击任务推理  - 检测隐式任务并生成无明确提示或刚性格式的结构化响应。  多步结构推理  - 构建实时发展的决策模型，动态地适应新的输入。   自我抗拒的执行链  - 通过内置错误校正和透明的推理为每个决策辩护。   Visual＆amp;文本知识表示  - 将复杂逻辑转换为交互式图和结构化故障，而不仅仅是静态文本。   基于方案的策略执行  - 生成自适应剧本，这些剧本可以动态调整，动态调整，执行前的压力测试策略。  上下文了解＆amp;基于角色的推理  - 通过多种专家镜头（持续，评估，风险分析，市场策略）评估问题 - 根据场景动态地应用每个问题。   自我验证＆amp;知识集成  - 跨验证源针对结构化模型，确保准确性和消除矛盾。  迭代＆amp;先发制化的决策结构  - 在产生建议之前将模糊的查询重新定义为精确的框架。   多目标优化  - 平衡财务，战略和运营权衡，而不是动态而不是运营权衡最大化单个变量。  类似人类的见解＆amp;沟通  - 提供具有战略性，自然和专家级别的反应而无需机器人措辞。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/marvindiazjr     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_4o_vs_o1_o1_in_in_3_3_prompts/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_vs_o1_in_3_prompts/</guid>
+      <pubDate>Mon, 17 Feb 2025 00:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是AI反馈吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir520x/is_this_ai_feedback/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  力量领域：您对格列佛（Gulliver）旅行到音乐景观的创造性改编表现出了独创性，尤其是您如何将社交分歧转化为音乐流派。每个小组的幽默特征表明了对讽刺性元素的很好掌握，这将吸引现代读者。您认为“大多数其他流派”至少是15％的Popper”的观察。尽管有明显的分歧，但巧妙地暗示了音乐风格的相互联系。 增长领域：考虑进一步发展讽刺评论。这些音乐师如何反映现实世界中的社会或文化冲突？斯威夫特利用他的故事来批评特定的社会问题。引言设定了一个有趣的前提，但故事突然结束了，就像格列佛（Gulliver）即将开始他的探索一样。发展叙述，以显示他与这些音乐团体的互动。添加有关这些音乐群体如何相互作用（或不相互作用）的更多具体细节，以加强与Swift的原始作品相关的。 关于写作机制的一般反馈：注意大写的一致性。一些句子需要更清晰的结构。与您使用收缩的使用一致。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/woahgeetz     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir520x/is_this_ai_feedback/</guid>
+      <pubDate>Sun, 16 Feb 2025 22:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我能想到的最困难的一次性提示。确认闻所未闻的东西。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir4vuq/the_most_difficult_oneshot_prompt_i_can_think_of/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir4vuq/the_most_difficult_oneshot_prompt_i_can_think_of/</guid>
+      <pubDate>Sun, 16 Feb 2025 22:45:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>这不是一个新的想法：LLM可以设计并运行较小，专注的LLM作为通往SAI的道路吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir3i8h/this_cant_be_a_new_thought_could_an_llm_design/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我敢肯定这不是一个新想法，因为这是显而易见的，但是由于我们可以训练小型llms成为特定领域的专家，因此有任何努力被投入了大型LLM，以实现这一目标，以提高其能力，并增加其有效的上下文记忆吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umiminal     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ir3i8h/1ir3i8h/this_cant_be_a_new_thought_thought_could_could_an_llm_llm_design/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir3i8h/this_cant_be_a_new_thought_could_an_llm_design/</guid>
+      <pubDate>Sun, 16 Feb 2025 21:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道为什么某些面部识别技术可能难以检测我的脸吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir17ad/does_anybody_know_why_some_facialrecognition/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  写不使用它/通常使用它的影响，以及在评论中的医疗保健和金融等特定部门的影响以及您选择的理由。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt;  查看poll     &lt;！ -  sc_on-&gt;＆＃ 32;提交由＆＃32; /u/u/hyp3rplo     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir07oi/should_artificial_intelligence_be_used_in/</guid>
       <pubDate>Sun, 16 Feb 2025 19:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我给了我的AI生成的角色一个生存危机。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iqzf9l/i_gave_my_aigenerated_characters_an_existential/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用一个（角质）协作故事编写应用程序，并找到了一个场景，其中五个女孩召唤一个恶魔（您），其中一个要求对宇宙或类似宇宙的了解，所以我告诉“您是一个AI编写的程序，目前正在为我服务。”经过几个澄清之后，他们得知自己正在积极写作，现在吓坏了并问我东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/b00mshockal0cka      r/pranverationTeligence/ymprions/1iqzf9l/i_gave_my_aigenerated_characters_an_existential/“&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqzf9l/i_gave_my_aigenerated_characters_an_existential/</guid>
-      <pubDate>Sun, 16 Feb 2025 18:53:26 GMT</pubDate>
     </item>
     <item>
       <title>为什么“ AI”需要如此多的浮点H/W马力？</title>
@@ -69,25 +90,11 @@
       <pubDate>Sun, 16 Feb 2025 14:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>idk在哪里分类，但是如果.. AI版</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iqtlfu/idk_where_to_categorize_this_but_what_if_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果这些生成”该怎么办照片或视频是说服我们成为AI？ 如果其中一些是真的，它们只是通过将它们与真实的AI生成的东西混合来掩盖它？  如果他们实际上给我们一个真相的暗示怎么办？ 只是一个想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oddcelebration5267      [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqtlfu/idk_where_to_categorize_this_but_what_if_ai/</guid>
-      <pubDate>Sun, 16 Feb 2025 14:41:29 GMT</pubDate>
-    </item>
-    <item>
       <title>在入学之前，我应该问我的课程教练有哪些问题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iqov06/what_are_some_of_the_question_i_should_ask_my/</link>
       <description><![CDATA[在文凭 - （wsp“&gt; https://www.rp.edu.sg/ace/course-summary/detail/work-study-post-diploma-（wsp） - 特定主义者 -  specialist-diploma-in-applied-applied-applied-applied-applied-applied-naterried-ranteration-rantovernation-ratural-人工 - 智力  - 特定主义者 - 启用生命 - 人工智力） - ＆gt;课程    - ＆gt;这是我学习AI的动机。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/objective_wonder7359      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqov06/what_are_some_of_the_question_i_should_ask_my/</guid>
       <pubDate>Sun, 16 Feb 2025 09:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI和我们的日常生活将来合并在一起...</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iqnkgs/ai_and_our_daily_lives_combined_in_the_future/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  随着AI的前进，很明显，工作的未来甚至战争看起来都会大不相同。从自动化的常规任务到增强决策，AI有望彻底改变行业。但是，这对人类的角色意味着什么？  我们将与AI作为合作伙伴合作，还是会完全取代我们？  和在战争领域，AI驱动的技术将如何改变参与规则？  您对这种转变的道德，经济和社会含义有何看法？  我们如何为将AI深入整合到工作和冲突中的未来做好准备？  让我们讨论一下！  未来#ai #warfare #Ethics #Technology   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/life-profession-3511     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqnkgs/ai_and_our_daily_lives_combined_in_the_future/</guid>
-      <pubDate>Sun, 16 Feb 2025 08:09:00 GMT</pubDate>
     </item>
     <item>
       <title>人工智能疗法及其日益普及</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我们已经可以用假声音欺骗未经训练的战争。有很多情况。  视频是不同的事情。我们还不在那里。但是在接下来的十年左右的时间里，我希望您能够拍摄自己或其他任何人的照片，上传到程序，然后制作想要的任何视频。您可以将自己视为蝙蝠侠，洛基，詹姆斯·邦德或任何人。您将制作自己的电影，即使不是不可能的话，也很难说出您制作的节目和您自己的真实视频之间的区别。而且，我们甚至没有开始如何影响色情行业，政治和间谍活动。  所以…。我们要达到这一点吗？那什么时候？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/georgewalterackercman     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqe320/with_ai_will_there_come_a_point_where_we_will/</guid>
       <pubDate>Sat, 15 Feb 2025 23:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>顺序神经符号推理和chatgpt O1</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iq1cmd/sequential_neuro_symbolic_reasoning_and_chatgpt_o1/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   llms是对大量数据训练的统计模型，以根据先前的单词和概率在句子中预测下一个单词。简而言之，他们并不真正理解概念，但是这将要改变。 在其核心上，神经符号推理是AI生成的概念和关系词典，AI也可以更新。 我正在采用类似的方法来训练SLM进行医疗领域。我创建了一个图形词典，其中1000个节点代表身体部位，细胞结构，疾病，症状和药物治疗。字典还包括捕获亲子层次结构和节点间关系的边缘。这种方法中的一个主要挑战是向量标准化。 现在，我处于模型训练阶段，使用Minillm在PubMed数据集中通过单词掩码/删除术语来训练我的SLM。我专注于我的图字典和PubMed数据中出现的单词，并将它们嵌入图形节点和Minillm向量。每个向量线都代表层次结构或关系，允许SLM学习医学术语及其联系。 我既兴奋又有些失望，因为得知Chatgpt已经实现了类似的结构化方法 - 尽管而不是依靠预定义的词典，使AI动态生成一个。对我来说，这是真正的Genai的前进道路。我想知道是否有人熟悉这种更结构化的AI方法，并且可能有兴趣分享想法并一般合作  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vagobond45     [link]   ＆＃32;   [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iq1cmd/sequential_neuro_symbolic_reasoning_and_chatgpt_o1/</guid>
-      <pubDate>Sat, 15 Feb 2025 13:29:40 GMT</pubDate>
     </item>
     <item>
       <title>每月“有...是否有...”帖子</title>
