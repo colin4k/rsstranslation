@@ -3,215 +3,291 @@
   <channel>
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
-    <description>来自 martinfowler.com 的主要新闻和更新信息</description>
-    <lastBuildDate>Thu, 13 Feb 2025 12:03:09 GMT</lastBuildDate>
+    <description>Martinfowler.com的新闻和更新的主供稿</description>
+    <lastBuildDate>Tue, 18 Feb 2025 03:07:00 GMT</lastBuildDate>
     <item>
-      <title>探索 Gen AI：Copilot 的新多文件编辑</title>
-      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</link>
-      <description><![CDATA[10 月底，GitHub Copilot 引入了一项非常强大的新编码辅助功能。这项新的“多文件编辑”功能将 AI 辅助的范围从小型本地化建议扩展到跨多个文件的更大规模实现。Birgitta Böckeler 试用了这项新功能，发现它的更改往往非常有用，并想知道它们需要哪些反馈循环。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据产品设计的概括</title>
-      <link>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</link>
-      <description><![CDATA[
-在获得初始数据产品后，Kiran Prakash
-带领我们完成后续步骤：涵盖类似用例以
-概括数据产品，确定产品适合哪些领域，并考虑服务级别目标。 
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计数据产品：从用例开始逆向思考</title>
+      <title>设计数据产品：用用例向后工作</title>
       <link>https://martinfowler.com/articles/designing-data-products.html</link>
-      <description><![CDATA[
-业界越来越多地将创建数据产品作为分析数据的核心组织原则的价值视为其中的价值。Kiran Prakash 已帮助许多客户设计他们的数据产品，并分享他所学到的知识。特别是，他的方法论并不从考虑一些可能方便分享的数据开始，而是从数据产品的消费者需要开始。
-更多…]]></description>
+      <description><![CDATA[    
+越来越多的行业看到创建数据的价值
+       产品作为分析数据的核心组织原理。 基兰
+       Prakash 帮助许多客户设计了他们的数据产品，并且
+       分享他学到的东西。特别是他的有条理的方法
+       首先考虑一些可能分享的数据，但是
+       相反，数据产品的消费者需要的工作。
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/designing-data-products.html</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:08 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:07:00 GMT</pubDate>
     </item>
     <item>
-      <title>基于设计令牌的 UI 架构</title>
-      <link>https://martinfowler.com/articles/design-token-based-ui-architecture.html</link>
-      <description><![CDATA[
-设计令牌是以数据形式表示的基本设计决策。
-Andreas Kutschmann 解释了它们的工作原理
-以及如何组织它们以平衡可扩展性、可维护性和
-开发人员体验。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/design-token-based-ui-architecture.html</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:07 GMT</pubDate>
+      <title>概括数据产品的设计</title>
+      <link>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</link>
+      <description><![CDATA[    
+有了初始数据产品， kiran prakash 
+       引导我们通过下一步：
+       概括数据产品，确定产品适合哪些域
+       进入和考虑服务水平目标。 
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>设计数据产品：后续步骤</title>
+      <title>设计数据产品：下一步</title>
       <link>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</link>
-      <description><![CDATA[
-一旦我们设计了初始数据产品，Kiran Prakash 就会在文章的最后带领我们完成后续步骤：识别常见模式、改善开发人员体验以及处理治理。
-更多…]]></description>
+      <description><![CDATA[    
+一旦我们设计了初始数据产品， kiran
+       prakash 通过：确定常见模式，改善开发人员
+       经验和处理治理。
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:07 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>更复杂的 codemod</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</link>
-      <description><![CDATA[
-Juntao Qiu 转到 更复杂的 codemod 示例，该示例从 JSX 组件中提取工具提示职责。
-这说明了如何通过几个步骤来操作 AST。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:06 GMT</pubDate>
+      <title>设计令牌的UI架构</title>
+      <link>https://martinfowler.com/articles/design-token-based-ui-architecture.html</link>
+      <description><![CDATA[    
+设计令牌是表示为数据的基本设计决策。
+        andreas kutschmann 解释他们如何工作
+       以及如何组织它们以平衡可伸缩性，可维护性和
+       开发人员经验。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/design-token-based-ui-architecture.html</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Codemods 进行重构以自动化 API 更改</title>
+      <title>用CodeMods重构以自动化API更改</title>
       <link>https://martinfowler.com/articles/codemods-api-refactoring.html</link>
-      <description><![CDATA[
-作为库开发人员，您可能会创建一个数十万开发人员每天依赖的流行实用程序，例如 lodash 或 React。随着时间的推移，可能会出现超出您最初设计的使用模式。当这种情况发生时，您可能需要通过添加参数或修改函数签名来扩展 API 以修复极端情况。挑战在于在不中断用户工作流程的情况下推出这些重大更改。 Juntao Qiu 发表了一篇文章，解释了我们如何使用 codemods 来解决这个问题。Codemods 是一种自动化大规模代码转换的工具，允许开发人员引入重大 API 更改并重构遗留代码库。
-更多…]]></description>
+      <description><![CDATA[    
+作为图书馆开发人员，您可以创建一个流行的公用事业，数百个
+      在数千个开发人员中，每天都依靠，例如lodash或React。超过
+      时间，使用模式可能会超出您的最初设计。什么时候
+      发生这种情况，您可能需要通过添加参数或
+      修改功能签名以修复边缘情况。挑战在于
+      推出这些破坏的变化，而不会破坏您的用户＆＃x2019;
+      工作流程。  juntao qiu 开始一篇文章，以解释我们如何
+      可以使用 codemods 来解决这个问题。 CodeMods是一种自动化的工具
+      大规模的代码转换，使开发人员能够引入
+      破坏API的更改和重构遗产代码库。
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:06 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>其他语言的 Codemods</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
-      <description><![CDATA[
-Juntao Qiu 通过查看一些其他JavaScript 世界之外的方法（例如 JavaParser 和 OpenRewrite）完成了对 codemods 的描述。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:04 GMT</pubDate>
+      <title>更复杂的codemod</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</link>
+      <description><![CDATA[    
+  juntao qiu 移动到，从JSX组件中提取工具提示责任的一种。
+      这说明了如何在几个步骤中操纵AST。
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:53 GMT</pubDate>
     </item>
     <item>
-      <title>修复 Codemods 的常见缺陷</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</link>
-      <description><![CDATA[
-到目前为止，Juntao Qiu 描述的 codemods 非常吸引人，但相当简单。真正的代码库提供了更多挑战。 在本期中，他介绍了如何通过编写 codemods 来解决更复杂的情况。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年我最喜欢的音乐发现</title>
+      <title>我最喜欢的2024年音乐发现</title>
       <link>https://martinfowler.com/articles/2024-music.html</link>
-      <description><![CDATA[
-我养成了在新年伊始分享去年发现的六张我最喜欢的专辑的习惯。今年的专辑包括凯尔特爵士乐、trip-hop 新法朵、2020 年代的爵士融合、俏皮的和声，以及印度古典音乐家和弦乐四重奏之间的精彩合作。 （我也无法将自己限制在六首。）
-更多…]]></description>
+      <description><![CDATA[    
+我养成了开始新的一年的习惯
+      我在去年发现的最喜欢的专辑。 今年设置包括
+      凯尔特爵士乐，跳闸新狂热，2020年代的爵士融合
+      和声，以及印度古典音乐家与一个充满活力的合作
+      字符串四重奏。 （我也无法将自己限制在六个。）
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/2024-music.html</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:04 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:52 GMT</pubDate>
     </item>
     <item>
-      <title>与卢卡·罗西的播客</title>
+      <title>修复CodeMods的常见陷阱</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</link>
+      <description><![CDATA[    
+到目前为止
+      着迷，但是很简单。真正的代码库提供更多
+      挑战。 在本期中
+      复杂的情况通过组成codemods。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他语言的codemods</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
+      <description><![CDATA[    
+  juntao qiu 完成了他对codemods的描述
+      查看其他一些在Javascript World之外接近
+      Javaparser和OpenRewrite。
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>与卢卡·罗西（Luca Rossi）的播客</title>
       <link>https://refactoring.fm/p/growing-the-development-forest-with</link>
-      <description><![CDATA[
-Luca Rossi 主持一个名为 Refactoring 的播客（和时事通讯），所以很明显我们有一些共同的兴趣。这个图块来自我，主要参考了 Beth Anders-Beck 和 Kent Beck 的森林和沙漠的比喻。我们讨论人工智能对软件开发的影响、技术债务的隐喻以及敏捷软件开发的现状。
-更多…]]></description>
+      <description><![CDATA[   
+卢卡·罗西（Luca Rossi）主持了一个播客（和新闻通讯），称为重构
+      很明显，我们有一些共同的兴趣。瓷砖来自我
+      靠在贝丝·安德斯·贝克（Beth Anders-Beck）和肯特·贝克（Kent Beck）的隐喻上，森林和沙漠。我们说话
+      关于AI对软件开发的影响，技术的隐喻
+      债务和敏捷软件开发的现状。
+ 更多… ]]></description>
       <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:03 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>GenAI 产品中的嵌入</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#embedding</link>
-      <description><![CDATA[
-与许多现代人工智能方法一样，GenAI 系统必须处理大量数据，并找出图像或词块中元素之间的相似性。 Bharani Subramaniam 和我描述了一个关键工具
-来实现这一点 - 嵌入 - 将大数据块转换为
-数字向量，以便彼此靠近的嵌入代表相关的
-概念
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 GenAI 产品的新兴模式</title>
+      <title>建造Genai产品的新兴模式</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/</link>
-      <description><![CDATA[
-如今，每个人都对使用生成式人工智能着迷，我的同事也不例外。他们中的一些人有机会将这些系统付诸实践，既作为概念验证，更重要的是作为生产系统。我认识Bharani Subramaniam很多年了，他是印度的技术领袖，他一直在总结我们学到的经验教训，我和他一起把它们描述成模式。
-在第一部分中，我们探讨了直接提示的基本情况的局限性，以及如何使用评估来评估系统的能力。
-更多…]]></description>
+      <description><![CDATA[    
+这些天每个人都对使用生成型AI感到着迷，而我的
+      同事也不例外。他们中的一些人有机会提出
+      这些系统是作为概念验证的，更重要的是
+      作为生产系统。我知道 bharani subramaniam 
+      在印度担任技术领导者多年，他一直在集会
+      我们学到的教训，我已经与他一起将他们描述为
+      模式。
+在第一部分中，我们查看了基本情况的限制
+      直接提示，以及我们如何使用
+      evals。
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:02 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:47 GMT</pubDate>
     </item>
     <item>
-      <title>GenAI 模式：检索增强生成 (RAG)</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
-      <description><![CDATA[
-预先训练的 GenAI 模型缺乏有关某个领域的最新和具体信息。Bharani Subramaniam 和我解释了检索增强生成 (RAG) 如何填补这一空白。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:01 GMT</pubDate>
+      <title>Genai产品中的嵌入</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#embedding</link>
+      <description><![CDATA[    
+ genai系统与许多现代AI方法一样，必须处理广阔的
+      数据数量，并在图像中找到元素之间的相似性或
+      单词的一部分。  bharani subramaniam ，我描述了一个关键工具
+      为此 -   embeddings   - 将大型数据块转换为
+      数字向量使彼此附近的嵌入表示相关
+      概念
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>Bliki：森林与沙漠</title>
+      <title>Bliki：森林和沙漠</title>
       <link>https://martinfowler.com/bliki/ForestAndDesert.html</link>
-      <description><![CDATA[
+      <description><![CDATA[ 
+ 
 
-
-森林与沙漠是 Beth Andres-Beck 和其父亲 Kent Beck 提出的关于软件开发过程的比喻。
-它假设两个软件开发人员社区很难相互沟通，因为他们生活在非常不同的环境中，所以适用于其中一个社区的建议对另一个社区来说听起来就像是无稽之谈。
-沙漠是软件开发的共同世界，其中错误很多，技能没有得到培养，与用户的沟通也很困难。
-森林是一支运作良好的团队的世界，他们使用类似极限编程的方法，开发人员迅速将更改投入生产，并受到测试的保护，代码得到投资以保持其健康，并且与客户保持定期联系。
-显然，Beth 和 Kent 更喜欢森林（我也是）。但这个比喻更多的是关于森林的描述以及如何在那里工作的建议对于那些唯一体验过沙漠的人来说听起来毫无意义。它提醒我们，我们从软件开发实践或架构模式中吸取的任何教训都受我们体验它们的背景支配。将沙漠变成森林是可能的，但这很困难——通常需要人们做既困难又违反直觉的事情。 （森林似乎更容易遭受沙漠化。）
-在这个框架下，我绝对是一个森林居民，并与 Thoughtworks 一起寻求为我们和我们的客户培育一片健康的森林。我努力向沙漠居民解释森林，并帮助我的森林居民同伴使他们的森林更加茂盛。
+森林和沙漠是思考软件的隐喻
+  开发过程，由贝丝·安德雷斯·贝克（Beth Andres-Beck）和父亲肯特·贝克（Kent Beck）开发。
+  它认为两个软件开发人员社区有很大的困难
+  彼此交流是因为他们生活在非常不同的环境中，所以
+  适用于另一个声音的建议对另一个声音。
+沙漠是软件开发的共同世界，虫子在这里
+  丰富的技能没有培养，并且与用户的沟通很困难。
+  森林是一个运行良好的团队的世界，它使用 Extreme编程，开发人员迅速将更改投入
+  在受其测试保护的生产中，代码被投资以保持健康状况，
+  并且与客户定期联系。
+显然，贝丝和肯特更喜欢森林（就像我一样）。但是隐喻更多
+  关于如何经常对森林的描述以及有关如何在那里工作的建议
+  对于那些唯一的经历是沙漠的人来说，听起来荒谬。它提醒我们
+  我们借鉴了有关软件开发实践或建筑的任何教训
+  模式受我们经历的环境所支配。可能
+  将沙漠变成森林，但这很难 - 通常要求人们这样做
+  既坚硬又违反直觉的事物。 （似乎很容易
+  森林服从荒漠化。）
+在这个框架中，我绝对是森林居民，并与Thoughtworks一起寻找
+  为我们和我们的客户耕种健康的森林。我努力解释森林到沙漠
+  居民，并帮助我的同胞森林居民使他们的森林更加
+  丰富。
 
 进一步阅读
-Beth 和 Kent 的最佳简短摘要在 Kent 的 Substack 上。如需更多详细信息，请查看他们在 Øredev 上的主题演讲。 
+贝丝和肯特的最佳简短摘要是 kent的替代。要获得更多深度，请看一下
+    他们的Øredev的Keynote。 
 
 
-致谢
-Kent Beck 提供了这张图片，他可能精心地逐像素绘制了这张图片。或者不是。
+确认
+肯特·贝克（Kent Beck）提供了图像，他可能会艰苦地画出像素
+    像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:01 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>GenAI 模式：RAG 限制和混合猎犬</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</link>
-      <description><![CDATA[
-今天，Bharani Subramaniam 和我概述了昨天的简单 RAG 的四个限制，以及解决第一个限制的模式：混合检索器。它通过将基于嵌入的搜索与其他搜索技术相结合来解决其效率低下的问题。
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:00 GMT</pubDate>
+      <title>Genai模式：检索增强发电（RAG）</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
+      <description><![CDATA[    
+预先训练的Genai模型缺乏有关A的最新和具体信息
+      领域。  bharani subramaniam ，我解释了如何检索
+      增强发电（RAG）可以填补该空白。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:43 GMT</pubDate>
     </item>
     <item>
-      <title>哥本哈根研讨会：“SW 的发展走向何方</title>
+      <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
       <link>https://www.youtube.com/watch?v=86-Dy5U2p5Y</link>
-      <description><![CDATA[
- 去年 9 月，我与 Holly Cummings、Trisha Gee、Dave Farley 和 Daniel Terhorst-North 一起参加了 goto Copenhagen 的一个小组讨论。我们讨论了软件开发的现状及其发展方向。考虑到时机，大家对人工智能在我们职业未来中将扮演的角色进行了大量讨论。
-更多…]]></description>
+      <description><![CDATA[    
+去年9月与霍莉·卡明斯（Holly Cummings）一起在哥本哥本哈根（Goto Copenhagen）的一个面板上
+      Trisha Gee，Dave Farley和Daniel Terhorst-North。我们讨论了
+      当前软件开发的状态及其前进方向。鉴于
+      时机，关于AI在我们的角色中的作用有很多讨论
+      职业的未来。
+ 更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Thu, 13 Feb 2025 12:03:00 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:42 GMT</pubDate>
     </item>
     <item>
-      <title>GenAI 模式：查询重写</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</link>
-      <description><![CDATA[
-用户通常难以编写最有效的查询。
-Bharani Subramaniam 和我解释了查询重写：
-让 LLM 制定替代查询以发送给 RAG 的
-检索器。 
-更多…]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Thu, 13 Feb 2025 12:02:59 GMT</pubDate>
+      <title>Genai模式：抹布限制和混合猎犬</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</link>
+      <description><![CDATA[    
+今日 bharani subramaniam ，我概述了四个
+      从昨天开始的简单抹布的局限性，以及模式
+      解决了其中的第一个：混合猎犬。这可以解决
+      通过将基于嵌入的搜索与其他相结合的效率低下
+      搜索技术。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 系列：技术概述</title>
+      <title>DeepSeek系列：技术概述</title>
       <link>https://martinfowler.com/articles/deepseek-papers.html</link>
-      <description><![CDATA[自 2025 年初最新版本问世以来，DeepSeek 大型语言模型的出现引起了很多讨论和焦虑。但 DeepSeek 工作的大部分价值来自他们在过去一年中发表的论文。Shayan Mohanty 提供了这些论文的概述，强调了这项研究的三个主要方面：专注于提高成本和内存效率、使用 HPC 协同设计在有限的硬件上训练大型模型，以及从大规模强化学习中开发新兴推理
-更多…]]></description>
+      <description><![CDATA[ DeepSeek大型语言模型的外观引起了很多
+      讨论和焦虑以来，他们的最新版本出现在一开始
+      2025年。但是，DeepSeek的作品的大部分价值都来自论文
+      他们在去年发表了。  Shayan Mohanty 
+      提供这些论文的概述，突出显示了其中的三个主要弧线
+      研究：专注于提高成本和记忆效率，使用HPC
+      共同设计在有限的硬件和开发方面训练大型型号
+      大规模增强学习的紧急推理
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Thu, 13 Feb 2025 12:02:59 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>GenAI 模式：重新排序</title>
+      <title>Genai模式：查询重写</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</link>
+      <description><![CDATA[    
+用户通常很难编写最有效的查询。
+       bharani subramaniam ，我解释了
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>基因模式：reranker</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#reranker</link>
-      <description><![CDATA[
-LLM 难以处理大量上下文。Bharani
-Subramaniam 和我解释了如何使用 Reranker 缓解这种常见的 RAG
-问题，该工具从检索器中获取文档
-片段，并根据其有用性对其进行排序。
-更多…]]></description>
+      <description><![CDATA[    
+ llms在大量背景下挣扎。  bharani
+      Subramaniam ，我解释了如何减轻这种常见的抹布
+      A  reranker 
+      猎犬的碎片，并根据其有用性进行对。
+ 更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Thu, 13 Feb 2025 12:02:58 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 03:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM推理在软件任务中扮演什么角色？</title>
+      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</link>
+      <description><![CDATA[最近的LLM模型提供了“推理”功能。  birgitta
+       b＆＃xf6; ckeler 询问这些在编码任务中扮演的角色。她
+      没有答案，但确实有问题和想法 - 并且
+      到目前为止还没有发现这样的功能。 
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
+      <pubDate>Tue, 18 Feb 2025 03:06:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
