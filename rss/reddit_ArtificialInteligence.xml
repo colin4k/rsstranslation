@@ -4,7 +4,35 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 18 Feb 2025 12:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 15:01:35 GMT</lastBuildDate>
+    <item>
+      <title>什么是抹布中毒？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isdqvg/what_is_rag_poisoning/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  首先，什么是抹布？ 抹布，检索效果，是一种方法，是一种通过合并外部的方法来增强LLM的方法知识来源通过特定信息来生成更准确和相关的响应。 在外行的话语中，将LLM视为如何使用NES的原始控制器的说明手册。这将为您提供大多数游戏的帮助。但是，您购买了一个客户控制器（射击者控制器）来玩鸭子狩猎。在这种情况下，抹布将是如何使用该特定控制器的信息。在设置墨盒，重置游戏的角度。知识来源包含不准确性或完全不准确。当使用知识回答查询的请求时，这会影响llm。 在我们的nes示例中，如果我们的射击器控制器的抹布包含错误信息，我们将无法正确弹出这些鸭子。我们的类比在这里结束了&#39;因为我们大多数人都会弄清楚如何在没有说明的情况下瞄准和拍摄:)。但是，如果我们考虑与一个人没有正确信息的竞争匹配，我们可以想象这些问题。 自己尝试    访问您的LLM选择并上传您希望LLM在其答案中考虑的文档。您已经在未来的问题上应用了外部信息来源。   确保您的文档包含与您要查询的内容有关的不准确性。您可以在文件中说，迈克尔·乔丹（Michael Jordan）的得分最高的比赛是182  - 那是一场比赛。然后，您可以询问LLM有史以来乔丹的最高分。哇，乔丹的得分超过了威尔特！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/brinder-gur9384     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isdqvg/what_is_rag_poisoning/</guid>
+      <pubDate>Tue, 18 Feb 2025 14:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>透明度与AI Per Alex Karp（Palantir首席执行官/创始人）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isdcr3/transparency_vs_ai_per_alex_karp_palantir/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您的想法是什么？我认为，社会各个方面的AI革命和对透明度的不断增长是当今世界的两个重要趋势。尽管看似与众不同，但它们越来越互动。    AI革命：  人工智能正在迅速改变行业，自动化任务，甚至影响我们做出决策的方式。从自动驾驶汽车到个性化医学，AI的潜力似乎无限。但是，这种快速的进步也引起了人们对工作流离失所，算法偏见以及日益自治系统的道德意义的担忧。   透明度的命令：  在信息超负荷和审查的时代，透明度正在成为核心价值。人们要求知道如何做出决定，无论是在政府，商业还是通过AI算法。这种透明度的推动是由对问责制，公平和信任的渴望驱动的。   交叉点：  这两个趋势的收敛既提出了挑战和机遇。随着AI系统变得更加复杂和影响力，确保其透明度变得至关重要。我们需要了解AI算法如何得出他们的结论，以确定潜在的偏见，确保公平并建立对这些系统的信任。   挑战和机遇：  一个挑战在于解释复杂的AI模型的内部运作，而不会损害知识产权或拥有技术细节的大量人员。另一个挑战是平衡透明度与隐私问题。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/spilltrend     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isdcr3/transparency_vs_ai_per_alex_karp_palantir/</guid>
+      <pubDate>Tue, 18 Feb 2025 14:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析量子神经网络体系结构中的参数灵敏度和模型可区分性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isbq3z/analyzing_parameter_sensitivity_and_model/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  研究人员开发了新颖的技术来分析量子神经网络（QNN）如何通过测量量子通道可区分性来在局部参数社区中表现。他们特别研究了参数的小变化如何影响网络产生的量子变换。 关键技术点： - 创建的指标以量化参数空间中的量子通道分离 - 分析的电路深度与通道可区分性之间的关系 - 发现的指数具有参数距离的区分性衰减 - 映射到量子通道的局部邻域结构 - 表现出表达性和参数敏感性之间的权衡取舍 结果显示： -  QNNS倾向于在局部参数区域内产生相似的量子通道 - 更深的电路启用更多的电路复杂的转换但提高灵敏度 - 频道区分性遵循跨体系结构的一致模式 - 参数空间结构影响优化景观 我认为这项工作为QNN设计和培训提供了重要的见解。表达和参数敏感性之间的权衡表明我们需要仔细的体系结构选择。了解本地参数社区可以帮助制定更好的优化策略并避免贫瘠的高原。 我还认为，此处开发的指标和分析方法将是未来QNN研究的宝贵工具。能够量化量子通道的参数空间如何不同，使我们能够分析和改进这些模型的具体方法。  tldr：研究开发方法来衡量量子神经网络在小参数下的行为如何变化，找到重要关系电路深度，表现性和优化挑战。  在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isbq3z/analyzing_parameter_sensitivity_and_model/</guid>
+      <pubDate>Tue, 18 Feb 2025 12:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>热门：每个人都认为AI会杀死小型企业流量。相反是真的。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isbg2t/hot_take_everyone_thinks_ai_will_kill_small/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   llms正在将利基业企业交给数十年来最佳的自然交通机会。大多数人只是还没有意识到。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/what-is-loremipsum     link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1isbg2t/hot_take_everyone_thinks_ai_will_kill_small/</guid>
+      <pubDate>Tue, 18 Feb 2025 12:21:47 GMT</pubDate>
+    </item>
     <item>
       <title>什么时候迟到了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1isapil/when_is_it_to_late_to_get_off_the_ride/</link>
@@ -69,13 +97,6 @@
       <pubDate>Tue, 18 Feb 2025 00:40:15 GMT</pubDate>
     </item>
     <item>
-      <title>在后期世界中的人类</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irwt4k/humans_in_a_post_agi_world/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  保持高级AI或AGI锁定不会对我们有任何帮助。提出障碍也无济于事。如果我们希望人类在无处不在的Agi世界中壮成长，那么我们必须向所有人提供它。这样，无论您身在何处，都可以使用它来实现自己的梦想。我们应该让人们开始使用这项技术，然后奖励那些从中获得出色的东西的人，这会使世界变得更好。 有些人可能会说，“为什么这项技术会说技术巨人免费赠送这一点。我认为，不仅是企业，是政府的责任。在AI可以做越来越多的工作的世界中，我们需要给人们继续前进的理由。如果政府像使用UBI一样开始分发金钱，那么弊大于利。真正重要的是目的，要努力努力，使早晨起床值得。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stopertmentfun3205     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irwt4k/humans_in_a_post_agi_world/</guid>
-      <pubDate>Mon, 17 Feb 2025 22:25:27 GMT</pubDate>
-    </item>
-    <item>
       <title>您如何在现实世界应用中使用AI代理？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irwmcp/how_are_you_using_ai_agents_in_realworld/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在研究人们如何使用AI代理来解决现实世界中的问题。有很多无代码工具和AI代理，使非技术用户更容易访问自动化和基于知识的任务。 ，模型改善了推理和适应性，用例，以前无法使用的用例现在正在成为现实。您是否注意到任何有趣的趋势或突破？  您个人如何使用AI代理，您遇到了哪些挑战？ 期待听到您的想法！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/0xhbam     [link]   ＆＃32;   [注释]  ]]></description>
@@ -90,25 +111,11 @@
       <pubDate>Mon, 17 Feb 2025 21:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>在社会中广泛采用大型语言模型辅助写作</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iruf2p/the_widespread_adoption_of_large_language/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文的标题为“广泛采用大型语言模型辅助写作，遍布社会， 撰写的weixin liang，Yaohui Zhang，Mihai Codreanu，Jiayu Wang，Hanchengen，Hancheng Cao和James Zou。  这项研究系统地研究了跨四个关键领域的书面交流中大型语言模型（LLMS）的采用：消费者投诉，公司新闻稿，职位发布和联合国新闻稿。研究人员分析了一个大量的数据集，数十万个消费者投诉以及企业和政府通信，研究人员对LLM如何重塑专业和机构写作进行了首次大规模分析。  关键发现：    快速采用，然后稳定： LLM在2022年下半年发布后飙升，但到2024年，在财务消费者中均已平稳。投诉，大约18％的内容是AI辅助的，而公司新闻稿则反映了更高的24％的采用率。小型公司的职位发布在约10％的案件中看到了AI的帮助，联合国新闻稿显示14％的采用率。   组织规模和年龄与收养相关：较小的和年轻的公司比较老的公司更快地整合了LLM生成的内容，尤其是在职位发布中。尽管城市地区的采用率略高，但教育水平表现出意外的趋势 - 在消费者投诉中，教育程度较低的地区的AI辅助写作率略高。高风险沟通：在联合国新闻稿和企业投资者沟通等领域的AI辅助写作表明，即使在需要信誉和信任的环境中，对自动化也会增加依赖。   潜在的影响： LLM生成的文本的正常化引起了人们对真实性，信誉和就业市场影响的担忧。该研究警告说，面向公共沟通的潜在同质化以及围绕正式扇区中AI生成内容的道德考虑。在沟通并提出了有关业务和决策中AI辅助写作未来的重要问题。  您可以在此处捕获完整的故障：在这里 您可以在这里捕获完整的原始研究论文：原始纸张   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/steves1189     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iruf2p/the_widespread_adoption_of_large_language/</guid>
-      <pubDate>Mon, 17 Feb 2025 20:48:48 GMT</pubDate>
-    </item>
-    <item>
       <title>抹布宣传：通过加密来减轻它的方法？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irtnmz/rag_poisioning_ways_to_mitigate_it_through/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  如果是一种选择，那么在完整的抹布生命周期中加密最有意义的是什么？是文档资源，索引，用户查询还是其中一些或全部的组合？我想讨论是否有人探索了这一方面。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/klutzy_accountant113      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irtnmz/rag_poisioning_ways_to_mitigate_it_through/</guid>
       <pubDate>Mon, 17 Feb 2025 20:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写了一个python脚本（程序性并包含有限差异的功能），这是它生成和命名的一首歌</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irtdu5/i_wrote_a_python_script_procedural_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     让我知道您认为    &lt;！ &gt;＆＃32;提交由＆＃32; /u/u/emm_artist     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irtdu5/i_wrote_a_python_script_procedural_and/</guid>
-      <pubDate>Mon, 17 Feb 2025 20:07:04 GMT</pubDate>
     </item>
     <item>
       <title>高盛说，在中国市场上，人工智能可能是2000亿美元的游戏规则改变者。但这就是为什么投资者不应该赶进来的原因。// https://www.marketwatch.com/story/goldman-says-ai-could-be-be-a-2000亿加元</title>
@@ -123,13 +130,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  感觉就像我为看到AI的状况而疯狂。还是我对“炒作”的错误是错误的吗？永远不要真正取代大多数工作”或“这只是一个有趣的工具”或“这只是另一个与互联网没有什么不同的大发明”。某个阶段（可能比人们意识到的要早得多）。上述评论是正确的情况吗？ 我很难想象任何世界： - 在人们可以调整 - 国际关系，战争，战争，政治（选举）不会变得更加危险，而没有回头  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/merchantofwares     [link]   ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irleva/why_are_people_so_dismissive_of_the_potential_of/</guid>
       <pubDate>Mon, 17 Feb 2025 14:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过人类的偏好对齐方式增强多模式LLM：120k样本数据集和基于批评的奖励模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1irfrqo/enhancing_multimodal_llms_through_human/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  研究人员开发了一种系统的方法，用于评估现实世界中视觉理解任务上的多模式LLM，超越了我们通常看到的典型约束基准测试场景。他们的MME-REALWORLD数据集在当前模型经常挣扎的五个关键领域中引入了1,000张具有挑战性的图像。 关键技术点： - 数据集包含高分辨率图像测试文本识别，计数，空间推理，颜色识别，颜色识别，颜色识别，并视觉推理 - 评估协议同时使用确切的匹配和部分信用评分 - 通过多个注释器验证建立的严格人基线 - 模型类型的失败模式的系统分析 结果显示：-gpt -4V达到67.8 ％精度总体上，领先其他测试模型 -  AI和人基线之间的显着性能差距（92.4％） - 模型在颜色识别方面表现最佳（82.3％）（82.3％），并且对计数任务（43.1％） - 复杂的空间推理任务揭示了当前的局限性体系结构 我认为这项工作很重要，因为它暴露了现有基准未捕获的当前多模式系统中的实际限制。详细的错误分析指向我们需要改善模型架构的特定领域，尤其是在精确计数和复杂的空间推理周围。 我认为这里的方法论贡献 - 创建真正具有挑战性的现实世界测试案例 - 可能会影响我们如何处理多模式评估。模型和人类绩效之间的差距表明我们需要新的方法，可能包括更好的培训策略或建筑创新。    tldr ：新的基准表明，当前的多模型模型仍然与真实的斗争 - 诸如计数和空间推理之类的世界视觉任务，与人类表现相比，有很大的改进空间。  完整的摘要在这里。 Paper 在这里。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1irfrqo/enhancing_multimodal_llms_through_human/</guid>
-      <pubDate>Mon, 17 Feb 2025 09:06:25 GMT</pubDate>
     </item>
     <item>
       <title>一分钟每日AI新闻2/16/2025</title>
