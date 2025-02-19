@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 19 Feb 2025 18:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:02:45 GMT</lastBuildDate>
+    <item>
+      <title>提醒应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itf9ir/reminder_app/</link>
+      <description><![CDATA[在/p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/quizhead     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itf9ir/reminder_app/</guid>
+      <pubDate>Wed, 19 Feb 2025 20:11:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>一种开源reddit替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iteaaq/an_opensource_reddit_alternative_in_the_making/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/softwarecitadel     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iteaaq/an_opensource_reddit_alternative_in_the_making/</guid>
+      <pubDate>Wed, 19 Feb 2025 19:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为网络开发人员制作的开源光标扩展名获得了赞助商！！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itdw4q/i_got_a_sponsor_for_my_open_source_cursor/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为光标做了一个扩展程序，该扩展程序允许您发送控制台日志，网络请求和网页的实时屏幕截图（无论堆栈如何&#39;重新使用），直接进入光标作曲家，仅一单击！ 我惊讶地看到我在启动开源后的4天内在GitHub上获得了赞助商扩展🤯🙌🏻 它确实激励着我继续工作并改善自己的建造！  我真的希望它可以帮助更多的人通过将网页的所有日志/网络req和屏幕截图直接发送到构建网站时，将网页的所有日志/网络屏幕截图和屏幕截图直接发送给作曲家。对于我的项目，如果您想尝试一下：   https://github.com/saketsarin/composer-web      &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/saketsarin     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itdw4q/i_got_a_sponsor_for_my_open_source_cursor/</guid>
+      <pubDate>Wed, 19 Feb 2025 19:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于代理RAG实施的开源工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itcxb9/opensource_tools_for_agentic_rag_implementation/</link>
+      <description><![CDATA[在a href =“ https://github.com/mintplex-labs/anything-llm”&gt; llm github存储库仅涵盖基于LLM的基本检索，并且不包括代理抹布或其他高级方法，例如混合或图形抹布。有谁知道专门支持代理抹布的开源工具或项目？对合适框架的任何建议或建议将不胜感激。 谢谢，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1itcxb9/opensource_tools_for_agentic_rag_implementation/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itcxb9/opensource_tools_for_agentic_rag_implementation/</guid>
+      <pubDate>Wed, 19 Feb 2025 18:39:11 GMT</pubDate>
+    </item>
     <item>
       <title>让我们众包一部开源短片</title>
       <link>https://www.reddit.com/r/opensource/comments/1it8yin/lets_crowdsource_an_opensource_short_movie/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[在Rocket.Chat 在我的本地机器上，但是我遇到了几个我似乎无法解决的构建错误。我遵循了正式的设置说明，但是我在安装过程中使用纱线遇到问题。 设置指南：https://developer.rocket.chat/docs/linux-and-windows-rocketchat-development-环境  这是我遇到的一些错误消息： 命令退出（1）来自多个软件包的错误，包括 u/rocket  .chat/livechat， u/rocket  .chat/fuselage-ui-kit，and其他。 许多包装（例如BCRYPT，尖锐，亮点，eSbuild等）需要构建并继续失败。 必须建立这样的警告，因为它是因为它 我已经尝试使用纱线安装（Force）清除纱线缓存并重新安装依赖项，但问题仍然存在。我还确保我已经安装了必要的构建工具（Node-GYP，Python等），并更新了我的Node.js版本。 在这里有人遇到类似的问题，或者可以提供有关如何进行的建议。解决他们？任何帮助或建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1isifjr/need_help_help_help_to_set_set_set_up_rocketat_on_my_my_my_local_machine/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1isifjr/need_help_to_set_up_rocketchat_on_my_local_machine/</guid>
       <pubDate>Tue, 18 Feb 2025 17:38:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是手机最好的数字助手（或您使用的）？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1isiesw/whats_the_best_or_the_one_you_use_digital/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thenamesscruffy     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1isiesw/whats_the_best_or_the_one_you_use_digital/</guid>
-      <pubDate>Tue, 18 Feb 2025 17:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费软件基金会反对红帽源代码公告</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ishxxr/free_software_foundation_speaks_up_against_red/</link>
-      <description><![CDATA[      &amp; ＃32;提交由＆＃32; /u/u/greybeardwizard    href =“ https://linux.slashdot.org/story/25/02/02/02/0953205/free-software-foundware-foundation-speaks-up-peaks-up--red-red-hat-hat-source-code-code-announection”&gt; [link] &lt; /a&gt; ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ishxxr/free_software_foundation_speaks_up_against_red/</guid>
-      <pubDate>Tue, 18 Feb 2025 17:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了忘恩负义的人作为开放源代码开发人员</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ish718/tired_of_ungrateful_people_as_an_open_source_dev/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我也创建了一些工作类型的项目以及如何使用其代码为页面进行页面的文档。另外，我创建了许多项目，以使生活和软件开发中的事情更加容易。猜猜我做什么？除了人们对自己的业务或CVS的工作，别无所求。另外，这并没有以此结束。我得到了像我必须改进的人的胡说八道反馈。毕竟，今天我决定放弃所有公共工作。您有类似的经历吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ish718/tired_of_of_ungrateful_people_people_as_an_open_open_source_source_dev/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ish718/tired_of_ungrateful_people_as_an_open_source_dev/</guid>
-      <pubDate>Tue, 18 Feb 2025 16:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍Scraparr： *Arr Suite的Prometheus出口商🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1isf8j7/introducing_scraparr_a_prometheus_exporter_for/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/the_profi     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1isf8j7/introducing_scraparr_a_prometheus_exporter_for/</guid>
-      <pubDate>Tue, 18 Feb 2025 15:27:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
