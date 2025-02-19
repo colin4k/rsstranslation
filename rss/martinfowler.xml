@@ -4,21 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Tue, 18 Feb 2025 03:07:00 GMT</lastBuildDate>
-    <item>
-      <title>设计数据产品：用用例向后工作</title>
-      <link>https://martinfowler.com/articles/designing-data-products.html</link>
-      <description><![CDATA[    
-越来越多的行业看到创建数据的价值
-       产品作为分析数据的核心组织原理。 基兰
-       Prakash 帮助许多客户设计了他们的数据产品，并且
-       分享他学到的东西。特别是他的有条理的方法
-       首先考虑一些可能分享的数据，但是
-       相反，数据产品的消费者需要的工作。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/designing-data-products.html</guid>
-      <pubDate>Tue, 18 Feb 2025 03:07:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 19 Feb 2025 03:07:36 GMT</lastBuildDate>
     <item>
       <title>概括数据产品的设计</title>
       <link>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</link>
@@ -29,7 +15,7 @@
        进入和考虑服务水平目标。 
  更多…  ]]></description>
       <guid>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:58 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:36 GMT</pubDate>
     </item>
     <item>
       <title>设计数据产品：下一步</title>
@@ -40,7 +26,7 @@
        经验和处理治理。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:57 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:35 GMT</pubDate>
     </item>
     <item>
       <title>设计令牌的UI架构</title>
@@ -52,7 +38,7 @@
        开发人员经验。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/design-token-based-ui-architecture.html</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:56 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:33 GMT</pubDate>
     </item>
     <item>
       <title>用CodeMods重构以自动化API更改</title>
@@ -62,7 +48,7 @@
       在数千个开发人员中，每天都依靠，例如lodash或React。超过
       时间，使用模式可能会超出您的最初设计。什么时候
       发生这种情况，您可能需要通过添加参数或
-      修改功能签名以修复边缘情况。挑战在于
+      修改功能签名以修复边缘案例。挑战在于
       推出这些破坏的变化，而不会破坏您的用户＆＃x2019;
       工作流程。  juntao qiu 开始一篇文章，以解释我们如何
       可以使用 codemods 来解决这个问题。 CodeMods是一种自动化的工具
@@ -70,7 +56,7 @@
       破坏API的更改和重构遗产代码库。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:54 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:32 GMT</pubDate>
     </item>
     <item>
       <title>更复杂的codemod</title>
@@ -80,7 +66,7 @@
       这说明了如何在几个步骤中操纵AST。
  更多…  ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:53 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:30 GMT</pubDate>
     </item>
     <item>
       <title>我最喜欢的2024年音乐发现</title>
@@ -93,7 +79,7 @@
       字符串四重奏。 （我也无法将自己限制在六个。）
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2024-music.html</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:52 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:29 GMT</pubDate>
     </item>
     <item>
       <title>修复CodeMods的常见陷阱</title>
@@ -105,7 +91,7 @@
       复杂的情况通过组成codemods。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:51 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:28 GMT</pubDate>
     </item>
     <item>
       <title>其他语言的codemods</title>
@@ -116,7 +102,7 @@
       Javaparser和OpenRewrite。
  更多…  ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:50 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:26 GMT</pubDate>
     </item>
     <item>
       <title>与卢卡·罗西（Luca Rossi）的播客</title>
@@ -129,7 +115,7 @@
       债务和敏捷软件开发的现状。
  更多… ]]></description>
       <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:48 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:25 GMT</pubDate>
     </item>
     <item>
       <title>建造Genai产品的新兴模式</title>
@@ -147,7 +133,7 @@
       evals。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:47 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:23 GMT</pubDate>
     </item>
     <item>
       <title>Genai产品中的嵌入</title>
@@ -161,7 +147,7 @@
       概念
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:45 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:22 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：森林和沙漠</title>
@@ -202,7 +188,7 @@
     像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:44 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:21 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：检索增强发电（RAG）</title>
@@ -213,7 +199,7 @@
       增强发电（RAG）可以填补该空白。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:43 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:19 GMT</pubDate>
     </item>
     <item>
       <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
@@ -226,7 +212,7 @@
       职业的未来。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:42 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:18 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
@@ -239,7 +225,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:41 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:16 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek系列：技术概述</title>
@@ -254,7 +240,7 @@
       大规模增强学习的紧急推理
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:40 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:15 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -264,7 +250,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:38 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:14 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -276,7 +262,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:37 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:13 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -287,7 +273,22 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Tue, 18 Feb 2025 03:06:36 GMT</pubDate>
+      <pubDate>Wed, 19 Feb 2025 03:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：护栏和抹布概述</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
+      <description><![CDATA[    
+ gen ai系统是可欺骗的，很容易被欺骗到响应
+      以违反企业的政策或泄漏的方式
+      机密信息。  bharani
+      Subramaniam 我描述了如何通过添加
+       Guardrails 在请求/响应流的边界处。我们也是
+      总结我们对抹布的讨论，概述了所有抹布
+      组件模式合并在一起。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
+      <pubDate>Wed, 19 Feb 2025 03:07:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
