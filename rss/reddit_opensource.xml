@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 20 Feb 2025 06:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 12:03:04 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个免费的开源工具来部署Linux游戏云机器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_a_free_open_source_tool_to_deploy_linux/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  由于缺乏云游戏的开源解决方案而感到沮丧，很难找到适当的产品（我在看着您， geforce＆quot ;现在）所以我开发了一个免费的开源工具，以在AWS，Azure，GCP和Paperspace等云上部署Linux远程游戏机： Cloudy Pad🎮。这大约是Geforce现在或Blacknut的开源版本，具有更大的灵活性！  github repo： https：// https：// https：/// github.com/pierrebeucher/cloudypad   您可以使用 Moonlight 。它支持蒸汽（带有质子），Lutris，Pegasus和retroarch具有稳定的性能（60-120fps在1080p或4k），这要归功于 sunshine  和 Wolf 流媒体服务器。  使用现场实例，它相对便宜，并为主流游戏平台提供了一个很好的替代方法 - 具有更多的控制权和较少的每月订阅。标准设置应花费约15美元至20美元 /月30小时的游戏玩法。 这是一些成本估算  我会很高兴地听到您的反馈和建议：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pbeucher     [links]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_made_a_free_open_source_tool_too_to_deploy_loy_linux/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_a_free_open_source_tool_to_deploy_linux/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>flashnotes-简单的抽认卡应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itu4c4/flashnotes_a_simple_flashcard_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/opensource ！我想分享我的学习项目 - 一款专注于快速卡创建和无干扰练习的抽认卡应用程序。 我构建了此信息，以了解有关React的更多信息并创建我一直想要的抽认卡工具。很想听听您的想法！ 尝试一下  网站： https：https： //www.flash-notes.com/    github： https://github.com/zorroguadapavos/flashnotes  &gt;＆＃32;提交由＆＃32; /u/u/zorroguardapavos     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itu4c4/flashnotes_a_simple_flashcard_app/</guid>
+      <pubDate>Thu, 20 Feb 2025 08:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌鸦CI-无人机/啄木鸟叉</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ittoe9/crow_ci_dronewoodpecker_fork/</link>
+      <description><![CDATA[在托管在 codeberg ），woodpecker ci的叉子本身就是一个无人机CI的叉子 （免责声明：我一直是啄木鸟CI维护者多年，由于内部冲突不合理而决定分支；主要与流程，治理，工作流程和整体组织有关。我将继续为WP及其生态系统做出贡献，但是我在核心代码库方面的主要努力将陷入乌鸦。） 乌鸦会闪耀锻造 - 敏捷，即可以与GH，GL，BB，Gitea和Forgejo一起使用。运行时。它与Docker和Kubernetes（Podman尚未）合作，还配备了可选的Autoscaler。 我还不完全确定乌鸦会去哪里，即它是否会成为我自己的个人待命的woodpecker没有人对此感兴趣，或者社区是否会围绕它形成。让我们看一下：） 如果您已经在运行啄木鸟，请在3.2.0之前检查迁移说明。 可以找到乌鸦CI本身的公共实例&lt; a href =“ https://ci.crowci.dev/repos/1”&gt;此处。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pjs2288     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ittoe9/crow_ci_dronewoodpecker_fork/</guid>
+      <pubDate>Thu, 20 Feb 2025 08:18:09 GMT</pubDate>
+    </item>
     <item>
       <title>Wikipedia刮刀</title>
       <link>https://www.reddit.com/r/opensource/comments/1itrkxt/wikipedia_scraper/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1it5w66/need_guidance_for_choosing_licensegoing_open/</guid>
       <pubDate>Wed, 19 Feb 2025 13:49:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>二人安全开源替代基于推动的多因素身份验证的替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1it5tot/duo_security_open_source_alternative_for/</link>
-      <description><![CDATA[在Hanko.io ，一家德国开源软件公司。几年前，我们开发了类似于Duo Security的Push Authenticator应用程序解决方案，该解决方案由用于iOS和Android的白色标签验证器应用程序组成，该应用程序可处理推送通知和公共钥匙（FIDO UAF）以及KeyCloak插件。 &lt; / p&gt; 该解决方案是为公共 /健康领域的客户开发的，并且已经进行了几年的实时部署，并定期更新。我们目前正在研究与KC26的兼容性。 我们认为，移动应用程序的白色标签能力是一项独特的功能，它可以启用具有设备绑定功能的品牌推送身份验证应用程序，可以发布到应用程序商店中在客户的名称和品牌下，无需作为完整的自定义应用程序的一部分维护推送身份验证功能。有人请求向应用程序添加其他功能，例如更非正式的通知系统（“ inbox”），但是到目前为止，我们一直不确定这是正确的方向。  keycloak插件允许该应用程序要为第一因素（“无密码”）和第二因素MFA用例配置。该解决方案也可以通过简单的API在其他非keycloak环境中使用。通过扫描QR码来完成APP注册，该QR码在设备上启动关键对的创建。每个应用程序都支持每个应用程序的多个凭据。 由于我们在过去的3年中花费了另一个专注于用户管理和Passkeys的项目，因此我们不再将其投入到Push Autherenticator应用程序中，作为独立产品。  虽然Passkey很棒，但它们绝对缺乏应用程序解决方案可以提供的设备绑定功能（始终保留在单个设备上）。因此，我们正在考虑将解决方案作为一组开源项目以及托管/云提供支付账单。 我们很想听听您的想法和反馈。您会对解决方案感兴趣，还是认识某人？ 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flxmgdnz     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1it5tot/duo_security_open_source_alternative_for/</guid>
-      <pubDate>Wed, 19 Feb 2025 13:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成的无机v2，我们使我们的代理商使用canva！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iswcdz/integrated_omniparser_v2_we_made_our_agent_to_use/</link>
-      <description><![CDATA[   使用帆布！” src =“ https://external-preview.redd.it/o1kppdkdgdu0uics73-nwtiej7blv9xzc_emf6swdii.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 6D40134CDB12B70D07F379C2FEC0C136D329923C“ title =“综合omniparser v2，我们使我们的代理使用canva！” /&gt;   ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/localllama/comments/1isr9444/integrated_omniparser_v2_we_we_made_our_our_agent_to_to_use/”&gt; [link]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iswcdz/integrated_omniparser_v2_we_made_our_agent_to_use/</guid>
-      <pubDate>Wed, 19 Feb 2025 03:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>对支持流的文本模型的体面本地演讲？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_speech_to_text_models_that_support/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在一个项目的一部分中，我需要一种检测人类语音的好方法，大多数VAD工具都不相差或慢，所以我切换到测试是否对语音进行测试。文本系统将发布任何单词。我的音频通过Twilio即将到来，又名我需要语音到文本系统，以便能够聆听传入的流音频。我不在乎该系统是否非常准确地转录单词，只需要能够解释说单词即可。有人有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kayla_1177    href =“ https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_local_speech_text_text_text_models_that_that_support/”&gt; [link]   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_speech_to_text_models_that_support/</guid>
-      <pubDate>Wed, 19 Feb 2025 01:59:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
