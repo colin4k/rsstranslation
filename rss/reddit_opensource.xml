@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 20 Feb 2025 03:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 06:02:41 GMT</lastBuildDate>
+    <item>
+      <title>Wikipedia刮刀</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itrkxt/wikipedia_scraper/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  这是我第一次开发Web scraper，我决定去为此，选择Wikipedia处理了各种边缘案例和东西，并可以随时检查一下，并指出一些我可以实施的东西，以提高这一效率。感谢您阅读✌🏻  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; &lt; //github.com/irfanbroo/wiki_scraper&quot;&gt; link]  ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itrkxt/wikipedia_scraper/</guid>
+      <pubDate>Thu, 20 Feb 2025 05:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器中的OpenSource JavaScript笔记本工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itq4d4/opensource_javascript_notebook_tool_in_the_browser/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个完全在浏览器中运行的开源JS笔记本工具。它是使用静态页面构建的，而无需任何nodejs/python/reactjs安装。您只需下载并在静态网络服务器后面使用它即可。结帐： https://github.com/gopi-suvanam/scribbler    我添加了几本笔记本可以让您获得风味： https://examples.scribbler.live     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1itq4d4/opensource_javascript_notebook_tool_tool_in_in_the_browser/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itq4d4/opensource_javascript_notebook_tool_in_the_browser/</guid>
+      <pubDate>Thu, 20 Feb 2025 04:30:59 GMT</pubDate>
+    </item>
     <item>
       <title>🎉Fuzpad2.0现在发布🎉Fuzpad是一种简约的注释管理解决方案。由FZF提供支持</title>
       <link>https://www.reddit.com/r/opensource/comments/1ito9a9/fuzpad_20_is_now_released_fuzpad_is_a/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  在一个项目的一部分中，我需要一种检测人类语音的好方法，大多数VAD工具都不相差或慢，所以我切换到测试是否对语音进行测试。文本系统将发布任何单词。我的音频通过Twilio即将到来，又名我需要语音到文本系统，以便能够聆听传入的流音频。我不在乎该系统是否非常准确地转录单词，只需要能够解释说单词即可。有人有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kayla_1177    href =“ https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_local_speech_text_text_text_models_that_that_support/”&gt; [link]   [commist]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_speech_to_text_models_that_support/</guid>
       <pubDate>Wed, 19 Feb 2025 01:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPL CopyLeft实际上有用吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1istuay/is_mpl_copyleft_actually_useful/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我帖子的后续播放; /1G2SPRD/can_anyone_explain_the_difference_between_lgpl/“&gt;任何人都可以解释LGPL和MPL之间的区别非dev ？＆quot＆quot从一段时间开始。对我（一个非DEV），MPL中的每文件副本保护似乎很弱，以至于专有软件开发人员绕过而无需任何有用的代码，就可以绕过很多。几乎MPL本质上是具有额外步骤的允许许可。 我的评估不正确吗？ MPL CopyLeft的示例实际上可用于执行互惠吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/goodmaterial5517     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1istuay/is_mpl_copyleft_actually_useful/</guid>
-      <pubDate>Wed, 19 Feb 2025 01:52:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们收回求职！剩下30个beta点</title>
-      <link>https://www.reddit.com/r/opensource/comments/1isrh14/lets_take_back_the_job_search_30_beta_spots_left/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，开源对等！ 曾经希望狩猎的压力减轻，更透明，更可定制？ 我也这样做了，这就是为什么我创建 jobba.help   - 一个开放式的免费求职平台，替代蓝绿色。  我的愿景：  想象一下您的完美求职（除了没有工作搜索大声笑） - 那是北极星现在。  当前状态  第一个功能已经公开，将您的工作应用程序数据自动刮擦到可下载的电子表格中。无需手动数据输入。仅Gmail用户。  我在beta中，需要您的帮助！  这是一个带有敏感电子邮件范围的Google OAuth2应用程序，所以我只有30个 您的反馈将帮助我塑造产品！每周推动代码。  如何参与：   查看 github 有关更多详细信息。 我们也有一个不和谐，请随时为此dm    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1isrh14/lets_take_back_the_job_search_search_30_beta_beta_beta_spots_left/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1isrh14/lets_take_back_the_job_search_30_beta_spots_left/</guid>
-      <pubDate>Wed, 19 Feb 2025 00:05:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
