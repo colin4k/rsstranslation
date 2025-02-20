@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 19 Feb 2025 21:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 00:04:25 GMT</lastBuildDate>
+    <item>
+      <title>HTML形式</title>
+      <link>https://www.reddit.com/r/programming/comments/1itk0ws/html_forms/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/gregitimate_risk6980      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itk0ws/html_forms/</guid>
+      <pubDate>Wed, 19 Feb 2025 23:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>被诅咒的火或#Define Black Magic</title>
+      <link>https://www.reddit.com/r/programming/comments/1iti2fw/cursed_fire_or_define_black_magic/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/haqreu     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1iti2fw/cursed_fire_or_define_black_magic/</guid>
+      <pubDate>Wed, 19 Feb 2025 22:05:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>TinyCompiler：周末的编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1ithqsh/tinycompiler_a_compiler_in_a_weekend/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/haqreu     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ithqsh/tinycompiler_a_compiler_in_a_weekend/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>使我的静态博客生成器更快11倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1ith9wr/making_my_static_blog_generator_11_times_faster/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://gaultier.github.io/blog/making_my_static_blog_generator_11_times_faster.html”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ith9wr/making_my_static_blog_generator_11_times_faster/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI协助编程 - 比较分析</title>
+      <link>https://www.reddit.com/r/programming/comments/1ith6zg/ai_assisted_programming_a_comparative_analysis/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/super_television5155      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ith6zg/ai_assisted_programming_a_comparative_analysis/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成PDFS的实用指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1itgywy/a_practical_guide_to_generating_pdfs/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ManufacturersHort437     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itgywy/a_practical_guide_to_generating_pdfs/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:20:58 GMT</pubDate>
+    </item>
     <item>
       <title>最初的alpha版本：狮身人面像feviverse</title>
       <link>https://www.reddit.com/r/programming/comments/1itghrl/initial_alpha_release_sphinxfediverse/</link>
@@ -39,13 +81,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/swdevtest     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1itbrd8/when_imperfect_systems_are_good_actually_blueskys/</guid>
       <pubDate>Wed, 19 Feb 2025 17:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这里分叉最好的选择吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1itb83x/is_forking_the_best_option_here/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  强制性链接的链接大声笑 大家好，我是基于shopify &lt;的电子商务业务的开发人员/p&gt; 我在Shopify开发方面经验丰富，并与我们中一些最大的企业合作，因此开发不是一个问题 ，但它们在世界各地都有多个网站，所有网站都几乎是基于内容差异的相同区域 第一件事是第一件事，我为其所有不同网站设​​置了多个存储库，每个网站的一个存储库与已连接到实时网站的主要分支机构，以便我可以跟踪所有CMS/Admin Change 现在是我构建的任何功能，我必须将其推出到所有网站上，然后手动复制粘贴代码，然后将其推入真正重复且耗时的分支。 我是考虑编写一个python脚本，该脚本检查提交并将更改推入新分支，但我不确定这是否可以工作 我想到的下一个解决方案是有一个储备库，并派遣其余部分存储库以便我只能将更改拉到分支机构，因为Git只会在分叉分支的最新提交（对吗？） 之后跟踪更改所以请建议你解决方案  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_brownguy     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itb83x/is_forking_the_best_option_here/</guid>
-      <pubDate>Wed, 19 Feb 2025 17:32:07 GMT</pubDate>
     </item>
     <item>
       <title>构建，记录并确保Laravel Rest API</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://medium.com/@linkwithjoydeep/deppentency-indoction-in-go-writing-modull-testable-code-a29071ece484”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1it8jk1/dependency_injection_in_go_writing_modular/</guid>
       <pubDate>Wed, 19 Feb 2025 15:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>教程：在10H中创建一个完整的Beat'em Up游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1it8gck/tutorial_create_a_full_beatem_up_game_in_godot_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/m_ologin     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1it8gck/tutorial_create_a_full_full_bueatl_beatem_up_up_game_game_in_godot_in/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it8gck/tutorial_create_a_full_beatem_up_game_in_godot_in/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>批处理LLM呼叫便宜50％，因此我构建并开放了一个打字稿SDK，用于统一模型提供商的LLM批处理API呼叫</title>
-      <link>https://www.reddit.com/r/programming/comments/1it82gb/batching_llm_calls_is_50_cheaper_so_i_built_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/younnfox4903     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it82gb/batching_llm_calls_is_50_cheaper_so_i_built_and/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>电报存储：免费的1M记录NOSQL云数据库在您的电报频道中</title>
-      <link>https://www.reddit.com/r/programming/comments/1it7sxp/telegram_storage_a_free_1m_records_nosql_cloud/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/earl_linwood     [链接]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1it7sxp/telegram_storage_a_a_free_1m_records_nosql_cloud/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it7sxp/telegram_storage_a_free_1m_records_nosql_cloud/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用AI工具的开发者节</title>
-      <link>https://www.reddit.com/r/programming/comments/1it7qpk/a_developers_day_with_ai_tools/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gamedev-exe     link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it7qpk/a_developers_day_with_ai_tools/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们退出工作，以帮助人们更加刻薄地编写软件</title>
-      <link>https://www.reddit.com/r/programming/comments/1it7jt3/we_quit_our_jobs_to_help_people_write_software/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/roblaszczak     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it7jt3/we_quit_our_jobs_to_help_people_write_software/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:04:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
