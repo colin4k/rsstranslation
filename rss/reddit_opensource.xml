@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 21 Feb 2025 06:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 09:02:28 GMT</lastBuildDate>
+    <item>
+      <title>Embedz-轻松，无依赖性的嵌入式和VUE。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iuk4o7/embedz_easy_dependency_free_embeds_for_svelte_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  轻松，sevelte and vue的依赖项嵌入。嘿，大家只是想展示我已经工作了几个月的组件库，我终于发布了一个Svelte版本，我愿意接受反馈，因为ID的爱心改进和抛光了这个项目。 如果您想查看项目是回购，那么一颗星星也很棒：33333    github  - Playground Installation ```shell&lt; /p&gt; 目前仅支持Svelte，需要Svelte 5及以上  npm i @embedz/svelte`` 从“@embedz/svelte”中导入{youtube，vimeo}; ＆lt;/script＆gt;  ＆lt; youtube ID =＆quot; krvnan29gvm＆quot; persterquality =“最大” /＆gt; ````  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Medical_start4604     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iuk4o7/embedz_easy_dependency_free_embeds_for_svelte_and/</guid>
+      <pubDate>Fri, 21 Feb 2025 06:06:17 GMT</pubDate>
+    </item>
     <item>
       <title>Gravitas线程3D Reddit频道播放器。播放Chivetv之类的潜艇和个人资料。循环视频。全屏。玩历史。开源并在Chrome网上免费</title>
       <link>https://www.reddit.com/r/opensource/comments/1iuhinn/gravitas_threads_3d_reddit_channel_player_play/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我最近安装了Sponsube，将其用作Spotify Premium的替代开源前端。因此，我继续输入登录数据，并正确获取了所有播放列表等。但是，如果我单击一首歌，它不会播放任何音频。有人可以帮我吗？谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thebadbossbaby     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</guid>
       <pubDate>Wed, 19 Feb 2025 21:24:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>提醒应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1itf9ir/reminder_app/</link>
-      <description><![CDATA[在/p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/quizhead     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1itf9ir/reminder_app/</guid>
-      <pubDate>Wed, 19 Feb 2025 20:11:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
