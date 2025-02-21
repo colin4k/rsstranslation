@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 21 Feb 2025 09:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 12:03:25 GMT</lastBuildDate>
+    <item>
+      <title>制作了小行星命中模拟器（开源）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iuor95/made_an_asteroid_hit_simulator_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，因为所有关于 2024 yr4 小行星i，虽然为什么不做一些，一种可以模拟地球上的打击的网络应用程序。希望您检查一下并告诉我您的想法。这只是第一个版本（5-6个小时的工作）。   https://wwwww.asteroidohno.space/ &lt; /a&gt; 代码： https://github.com/miljkovicjovan/asteroid-oh-no-no     代码和数学中的错误。如果您发现任何问题，请务必在此处发表评论或在GitHub上发表问题。可以免费用公关或建议做出贡献。  我想制作更多有趣的功能。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jovan-ioannis     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iuor95/made_an_asteroid_hit_simulator_open_source/</guid>
+      <pubDate>Fri, 21 Feb 2025 11:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>CWS扩展 - 未经授权使用开源代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iunjg5/cws_extension_unauthorized_use_of_open_source_code/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人在未经我的权限或归因的情况下将我的开源Chrome扩展名上传到Chrome Web Store。以下情况是：  我使用GPLV3许可证上的GitHub上有一个开源Chrome扩展名 有人使用了我的代码较旧版本并将其直接上传到CWS &lt; /li&gt; 他们不信任我，链接回存储库，或遵守我的回购的GPLV3许可证要求 我已经完整Creator  他们使用的代码是从2023年6月的提交/发布中。扩展名于2025年1月上传到CWS  我的当前版本看起来完全不同，因为我继续开发，但他们的版本与我的CWS商店列表中的旧版本完全匹配了我的代码 他们还使用了我制作的图标，横幅和其他创意资产  如何我要处理这个吗？我是否会提交a  dmca taundown通知通知使用Google，还是有更具体的CWS列表的步骤？  我应该准备哪些文件来提出最强的情况？ 记录上传与我的连接的最有效方法是什么存储库？  有什么建议或经验将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ragingatliife    href =“ https://www.reddit.com/r/opensource/comments/1iunjg5/cws_extension_extension_unauthorized_use_of_open_source_code_code/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iunjg5/cws_extension_unauthorized_use_of_of_open_source_code/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iunjg5/cws_extension_unauthorized_use_of_open_source_code/</guid>
+      <pubDate>Fri, 21 Feb 2025 10:06:11 GMT</pubDate>
+    </item>
     <item>
       <title>Embedz-轻松，无依赖性的嵌入式和VUE。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iuk4o7/embedz_easy_dependency_free_embeds_for_svelte_and/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。我花了一些时间开发EZSETUP，这是与Cobra一起使用的GO CLI工具，供初学者和学生轻松设置项目。   什么是ezsetup？ ezsetup是一种轻巧而强大的工具，它是：  为各种语言创建结构。 安装所需的依赖项会自动。 使用适当的 .gitignore 。 设置环境变量的初始化git毫不费力。   为什么要去和眼镜蛇？  我建立了这个项目，目的是学习golang，同时解决初学者或甚至只是为了加快某些人的过程。   为什么我创建这个？  作为学生，我注意到许多初学者在设置项目时都在挣扎。有些人被困在依赖项上，而另一些则不确定如何构建其代码。 EZSETUP可以帮助他们直接潜入编码，而无需设置麻烦！   想要检查一下？    github存储库： https://github.com/yassine20011/ezsetup      &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/u/thecrirable-grocery192     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1itlwk6/ezsetup_a_fast_fast_simple_simple_cli_for_for_pro_for_project_setup_built/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1itlwk6/ezsetup_a_fast_simple_cli_for_project_setup_built/</guid>
       <pubDate>Thu, 20 Feb 2025 00:55:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel Sport Direct Crawler和CRM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1itl31p/laravel_sport_direct_crawler_and_crm/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mbtonev     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1itl31p/laravel_sport_direct_crawler_and_crm/</guid>
-      <pubDate>Thu, 20 Feb 2025 00:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sponsube不播放音乐</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我最近安装了Sponsube，将其用作Spotify Premium的替代开源前端。因此，我继续输入登录数据，并正确获取了所有播放列表等。但是，如果我单击一首歌，它不会播放任何音频。有人可以帮我吗？谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thebadbossbaby     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:24:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
