@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 21 Feb 2025 21:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 00:04:06 GMT</lastBuildDate>
+    <item>
+      <title>最好的免费文本到语音程序，无论是AI还是SAPI（Windows 11）</title>
+      <link>https://www.reddit.com/r/software/comments/1iv2hzo/best_free_texttospeech_programs_whether_ai_or/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找文本到语音的好选择。他们可能是AI，可能是SAPI。我希望他们能够为我阅读文字，类似于Balabolka。即，我可以随时开始并停止它们。如果他们可以输出音频文件，那也很好。实际上，即使有一个只能做到这一点的选项，我仍然很感兴趣。但是，读取文本，在任何时候开始和停止，优先级的能力。 我知道现在有很多很酷的AI选项。我不知道是否可以使用使用SAPI的程序来使用它们。如果可以的话会很好，但是我知道他们是否不能。 ，但这是重要的事情：  无需组装。  我昨天花了几个小时与Github的TTS型号搞砸了。龟，XTT。打开命令提示符，克隆git，运行几百个python命令，做指令说要做的最后一件事， pystect ，最终都会有几次不运行的软件，又几个小时试图让软件运行，尝试运行几个不同版本的Python，因为需要较旧的版本...不。我不再这样做。没有命令行。没有下载大量不同的依赖。 下载程序，安装程序，运行程序并继续我的生活；或下载语音，安装语音，在程序中使用语音：这些是我打开的唯一选项。 那么，我有什么选择？ （Windows 11） 注意：我有Piper，我认为这很好。宣称“让我们”的语音软件文字as; quot; s＆quot&#39;...不，这是不可避免的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/stratford-on-jersey     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iv2hzo/best_free_texttospeech_programs_whether_ai_or/</guid>
+      <pubDate>Fri, 21 Feb 2025 21:39:17 GMT</pubDate>
+    </item>
     <item>
       <title>让我们（主要）（主要是）美国在线服务的欧洲替代品！</title>
       <link>https://www.reddit.com/r/software/comments/1iuz9lf/lets_find_mostly_european_alternatives_to/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>文档聊天机器人>文档？</title>
       <link>https://www.reddit.com/r/software/comments/1iu6qn8/documentation_chatbot_documentation/</link>
-      <description><![CDATA[在学习一个新工具/软件： 阅读基本文档 - ＆gt;开始开发 - ＆GT;如果需要搜索文档中的相关功能 我正在开发一个可以将任何在线文档转换为聊天机器人的工具，在我的脑海中，这最大的好处将是：  查找其用例的功能 总结工具的基础知识。 代码  您会付费每月&lt; /strong&gt;订阅此类工具（$ 20- $ 30）？还是不是比使用文档是？ 您最常见的提示是什么？ 注意：这篇文章只是一种思想验证的手段，而不是任何方式促进。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1iu6qn8/documentation_chatbot_documentation/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[在学习一个新工具/软件： 阅读基本文档 - ＆gt;开始开发 - ＆GT;如果需要搜索文档中的相关功能 我正在开发一个可以将任何在线文档转换为聊天机器人的工具，在我的脑海中，这最大的好处将是：  立即查找其用例的功能 总结工具的基础知识。 代码  您会付费每月&lt; /strong&gt;订阅此类工具（$ 20- $ 30）？还是不是比使用文档是？ 您最常见的提示是什么？ 注意：这篇文章只是一种思想验证的手段，而不是任何方式促进。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1iu6qn8/documentation_chatbot_documentation/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iu6qn8/documentation_chatbot_documentation/</guid>
       <pubDate>Thu, 20 Feb 2025 19:18:07 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  对于任何想更快地行走并快速速度评分的人，如果您习惯于按下一个（！）键，而不是Ctrl+（ 1..5），您可能会发现此脚本有帮助。下载autohotkey，将代码放入记事本，然后将其保存为Somefilename.ahk。运行它。 您可以单击PGUP/DN或光标向左/右或滚动轮，然后按数字1-5（numpad或在字母上方的正常行中）。 我用它来对XNViewMP进行评分，因为它比Lightroom快得多（该功能仅按1-5 OOTB）。 一个：确保您更改等级导出到图像的设置，不仅是通过设置存储在XNView目录/数据库中 - ＆gt; metadata-＆gt;导出额定评级     ^6 :: msgbox＆quot; smsgbox＆quot;班级是” WinGetClass(&quot;A&quot;) #HotIf WinActive(&quot;ahk_class Qt51512QWindowIcon&quot;) or WinActive(&quot;ahk_exe xnview.exe&quot;) 1::^1 2::^2 3::^3 4::^4 5: ：^5 numpad1 ::^1 numpad2 ::^2 numpad3 :: ^3 numpad4 :: ^4 numpad5 :: ^5 ^1 :: 1 ^2 :: 2 ^3 :: 3 ^4 :: 4 ^5 :: 5 ^1 :: numpad1 ^2 :: numpad2 :: numpad2之间提交由＆＃32; /u/u/vogelvogelvogelvogel      [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1itz9h5/xnview_rating_a_bit_faster_using_autohotkey/</guid>
       <pubDate>Thu, 20 Feb 2025 14:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>变质软件的未来</title>
-      <link>https://www.reddit.com/r/software/comments/1itxrc1/the_future_of_metamorphic_software/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我相信，将来，一种较新的程序将改变我们使用技术的方式。我们将使用询问您需要什么的软件，并编写代码执行任务。它不会打开现有的应用程序，例如披萨交付应用程序或编辑工具，但是泰勒会制定一个程序，甚至是无头程序，并且该程序将执行您要求的必要功能。甚至不需要对现有系统和软件进行根本更改，因为变质程序只需使用现有的API和类似工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thisheaworthiness801     [link link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1itxrc1/the_future_of_metamorphic_software/</guid>
-      <pubDate>Thu, 20 Feb 2025 12:51:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
