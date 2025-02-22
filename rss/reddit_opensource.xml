@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 22 Feb 2025 15:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 18:02:33 GMT</lastBuildDate>
+    <item>
+      <title>Pykomodo-平行代码块</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ivlsho/pykomodo_a_parallel_code_chunker/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我的项目做什么&lt; /strong&gt;  pykomodo是一种基于Python的工具，可与大型代码库的代码块并行化。它支持传统的基于线的分裂和基于的基于的“语义”   .py  files的方法 - 因此，顶级函数和类都不会在多个多个范围内分开块。当我不久前做Pykomodo时，此功能仍在进行中。   它解决了什么问题？ 在处理庞大的存储库时（尤其是如果您将它们喂入大型语言模型或其他分析），这对块很有帮助文件成更易于管理的作品。  与其他可用块的比较矮人专注于某些功能    github和pypi        github ：[&lt; https://github.com/duriantaco/pykomodo]（＃）       pypi ： https://pypi.org/project/project/pykomodo/       &gt;   pip安装pykomodo == 0.0.4     目标受众    Python开发人员需要为LLM输入，存档..等 想要保留Python文件中的功能/类块的项目。  .py 文件（至少目前）：大单个功能保持不舒适。    dry-run 模式：请参阅哪些文件将被构成块在 螺纹块：加快大量存储库的扫描和文件读数。  增强的块（可选）可以消除冗余或计算相关性得分llm用法。  随时检查一下，实验并发送反馈或拉动请求！如果您觉得有用，请给我一颗星星，如果您想拿下来，请在此处给我留言。感谢您抽出宝贵的时间阅读！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ivlsho/pykomodo_a_a_parallel_code_code_chunker/”&gt; [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ivlsho/pykomodo_a_parallel_code_chunker/</guid>
+      <pubDate>Sat, 22 Feb 2025 15:55:38 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些良好的开源工具可以汇总信息？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ivit7d/what_are_some_good_open_source_tools_to_summarize/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我找到了一个在GPL-3.0下许可的开源应用程序。我克隆了它并进行了一些修改。现在，当我准备在Google Play这样的平台上发布它时，我应该在哪里表明此应用程序是开源的，以符合许可要求？  &lt;！ -  sc_on-&gt;＆&gt;＆&gt;＆ ＃32;提交由＆＃32; /u/u/smooth_possession_21     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iu2yfm/where_should_i_indicate_that_my_modified_gplv3/</guid>
       <pubDate>Thu, 20 Feb 2025 16:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源维护者感到挤压</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iu2665/open_source_maintainers_are_feeling_the_squeeze/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/dariotranchitella     [link]   ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iu2665/open_source_maintainers_are_feeling_the_squeeze/</guid>
-      <pubDate>Thu, 20 Feb 2025 16:13:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

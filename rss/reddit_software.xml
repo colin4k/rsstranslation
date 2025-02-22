@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 22 Feb 2025 15:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 18:02:25 GMT</lastBuildDate>
+    <item>
+      <title>ZNS：用于查询具有可读，彩色输出的DNS记录的CLI工具。</title>
+      <link>https://www.reddit.com/r/software/comments/1ivm1n9/zns_cli_tool_for_querying_dns_records_with/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bschaatsbergen_     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ivm1n9/zns_cli_tool_for_querying_dns_records_with/</guid>
+      <pubDate>Sat, 22 Feb 2025 16:06:40 GMT</pubDate>
+    </item>
     <item>
       <title>开发团队的最佳知识服务/应用程序是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1ivjftp/what_is_the_best_knowledge_serviceapp_for_dev_team/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个由OCR产生的长文本，除了它包含许多不必要的空间和换行符。我没有时间浏览250页，这应该是90页，而没有所有额外的间距，所以我正在寻找一个非手动解决方案。有人知道一种有效的方法吗？在下面您会找到我已经尝试的内容：  我已经将文本复制到chatgpt，deepai等。但是太长了。 因此，我使用了Chatgpt Chunker，但AIS除了非常明确的提示不执行此操作或其他任何事情外，AIS删除了75％的内容Co-pilot，但它返回的文件与包括这样的怪异间距和线路断开的测试文件相同。 我找到了一堆github程序，但我不知道如何使用它们。当我搜索过如何使用时，我遇到了一个reddit线程，说如果您不是编码器，github不适合您。    &lt;！ -  sc_on-&gt;＆＃ 32;提交由＆＃32; /u/u/dendaera     [link]   [commist]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iuda5b/nonmanual_way_to_edit_long_texts/</guid>
       <pubDate>Thu, 20 Feb 2025 23:55:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>请向我推荐一个用于特定奇怪目的的音乐应用程序（重新创建广播电台，本地到我的PC）</title>
-      <link>https://www.reddit.com/r/software/comments/1iuasgk/please_recommend_me_a_music_application_for_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我曾经经常听一个特定的广播电台，我年轻的时候和我的母亲一起在车里。 （我们在那辆车上花了很多时间！）我最近发现“刺”  - 广播电台将以他们的名字和口号以及在音乐，广告和更多音乐之间发表的公告 - 已存档在线。 我想重新创建该电台，基本上是在播放列表中使用一堆音乐，加上“ sting”， 可能  那个玩在“刺”之间。这个想法是，一组“ x”的歌曲数量随机播放，然后是“刺痛”，然后随机有一组广告，然后是另一个“刺痛”，然后是更多音乐，或者有更多音乐只是更多音乐。 （我还没有决定哪一个。） 无论好坏，我的日常驾驶员OS是Linux Mint。我并不是害怕的命令行少了，但我对此非常彻底，因此，使用这些新范围的鼠标事物具有接口的某些东西将不胜感激。 /s 但实际上，带有GUI的东西只是...我更容易导航和使用。 我不希望基于在线/互联网的任何东西。我不想要任何我必须付出的东西。我不想要涉及MPD等服务器/客户端体系结构的东西。我不希望最小化系统托盘中图标的东西，而不是退出赛璐oid的方式和许多iTunes克隆/仿制品。 （我讨厌那个。） 我想要一些相对简单的东西，我可以将其引导到两个或三个播放列表中，然后播放它，例如，第一首歌是第一首歌曲其次，要么回到第一首歌曲，要么播放第三首广告，然后再播放第二首广告，然后从第二首歌中播放了另一首“刺痛”，然后再播放 然后     重复。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 我是一个用户，不是开发人员 - 或者说，从外行的角度来看，我是 family Guy ，我是个屁眼，而不是聪明的人； 3-最好让我远离高度复杂或高度复杂的事物有一个相对涉及的安装过程（即从源中编译），因为i  will  bung。 给定了所有这些... p&gt;  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/imstarhawk     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iuasgk/please_recommend_me_a_music_application_for_a/</guid>
-      <pubDate>Thu, 20 Feb 2025 22:05:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
