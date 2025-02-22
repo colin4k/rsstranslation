@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 22 Feb 2025 09:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 15:03:57 GMT</lastBuildDate>
+    <item>
+      <title>有哪些良好的开源工具可以汇总信息？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ivit7d/what_are_some_good_open_source_tools_to_summarize/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想探索开源工具，这些工具总结了不同类型的信息，例如从文本中创建单词云，来自视频的缩略图等。您知道吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/soundofe     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1ivit7d/what_are_are_some_good_good_open_source_tools_tools_to_summarize/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ivit7d/what_are_some_good_open_source_tools_to_summarize/</guid>
+      <pubDate>Sat, 22 Feb 2025 13:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peazip 10.3.0发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ivfnny/peazip_1030_released/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/peazip     [link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ivfnny/peazip_1030_released/</guid>
+      <pubDate>Sat, 22 Feb 2025 10:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>N8N但是开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iv9764/n8n_but_open_source/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/dariotranchitella     [link]   ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iu2665/open_source_maintainers_are_feeling_the_squeeze/</guid>
       <pubDate>Thu, 20 Feb 2025 16:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀QuickStart：一个CLI快速创建项目！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iu0wdq/quickstart_a_cli_to_create_projects_quickly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 😊我开发了一个命令行工具称为 QuickStart 。它使您可以轻松地以不同的语言创建项目（html，python，node.js，bash等）。只需选择要创建的项目的类型，然后QuickStart负责其余的！ github.com/squach90/homebrew-quickstart    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/squach90     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iu0wdq/quickstart_a_cli_to_create_projects_quickly/</guid>
-      <pubDate>Thu, 20 Feb 2025 15:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>MonorePo或单个存储库更适合SEO和开源库中的可见性吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1itymtw/is_a_monorepo_or_individual_repositories_better/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个带有2500星的公共存储库中有一个开源库。 目标是为社区做出贡献在寻找工作时，还可以获得招聘人员的认可和可见性。目前，我不需要一份工作 - 我仍然是自由职业的 - 但我正在思考长期。 此外，我有15个私人图书馆，我计划将其作为开放源代码释放，目前在私人Monorepo中。作为独奏开发人员，单个存储库中的开发经验和集中文档已经并且将继续更加方便。 但是，我敢肯定，其中一些图书馆将单独流行。从Github对开源项目的SEO和可见性角度来看，最好将它们分成单个存储库，以便每个存储库都有自己的存在和排名，或者将它们保持在公共Monorepo中，以促进管理和利用主要的权威。存储库？ 我认为最好只有一个monorepo  - 如果有人来看一个，他们会自动看到其他人 - 但是我对SEO和SEO和可见性。该项目及其SEO的整体可见性？恒星跨多个存储库的分散会对每个图书馆的发现性和促进产生负面影响？ 的目标是为社区做出贡献，当然，有效地获得认可。   感谢任何经验或建议。谢谢！ 让我知道您是否需要任何细化！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/superrandomcoder    href =“ https://www.reddit.com/r/opensource/comments/1itymtw/is_a_monorepo_rodiviadual_repositories_better/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1itymtw/is_a_monorepo_or_individual_repositories_better/</guid>
-      <pubDate>Thu, 20 Feb 2025 13:36:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
