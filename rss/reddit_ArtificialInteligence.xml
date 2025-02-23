@@ -4,7 +4,14 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 23 Feb 2025 06:01:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 09:02:08 GMT</lastBuildDate>
+    <item>
+      <title>通过监督的微调和小组相对政策优化培训LLMS为迷宫导航</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw48c3/training_llms_for_maze_navigation_through/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里的关键技术进步是接地的奖励渐进优化（GRPO）框架，可增强大语言模型中的空间推理能力。它将思想链推理与专门为空间导航任务设计的奖励系统结合在一起。 主要技术要点： -  GRPO框架在空间导航培训期间提供连续反馈 - 实施专门的空间表示模块和路径计划 - 结合了经过思考链的提示与基于奖励的优化 - 通过奖励信号使用迭代改进 - 在迷宫导航和空间推理上测试基准测试 结果： - 空间导航准确性与基线模型的25％提高 - 复杂迷宫挑战的成功率85％ - 比传统训练方法更好的表现 - 表明了新空间任务的转移学习能力 - 性能下降高度复杂的环境 我认为这种方法对于需要将语言理解与物理导航相结合的机器人技术和自主系统特别有价值。分解空间问题和从成功的导航尝试中学习的能力可以帮助弥合语言模型和现实世界空间推理之间的差距。 我认为，计算要求和复杂环境绩效的局限实际应用。不过，转移学习结果令人鼓舞 - 表明空间推理能力可以很好地推广到不同的领域。  tldr：新的GRPO框架通过将LLMS的空间推理与基于奖励的优化相结合，改善了LLMS的空间推理。在导航任务上显示25％的准确性。  完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iw48c3/training_llms_for_maze_navigation_through/</guid>
+      <pubDate>Sun, 23 Feb 2025 06:54:04 GMT</pubDate>
+    </item>
     <item>
       <title>一分钟每日AI新闻2/22/2025</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw2yib/oneminute_daily_ai_news_2222025/</link>
@@ -76,16 +83,9 @@
       <pubDate>Sat, 22 Feb 2025 21:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>在LLMS Fineedit中桥接编辑差距，以进行精确和有针对性的文本修改</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivt7gx/bridging_the_editing_gap_in_llms_fineedit_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文标题为&#39;在llms中架起编辑差距：fineedit进行精确的和有针对性的文本修改，“    by yiming Zeng，Wanhao Yu，Zexin Yu，Zexin Li，Tao Ren，Yu Ma，Yu Ma，Jinghan Cao，Jinghan Cao，Jinghan Cao，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，Xiyan Chen，cao和tingting yu。  本研究解决了大语言模型（LLMS）的关键限制：他们以精确的，指导驱动的文本编辑进行斗争。尽管GPT-4O和Gemini之类的模型在生成文本方面表现出色，但它们通常无法准确修改内容，同时保留原始文本的意图和结构。为了解决这个问题，作者介绍了在新的基准数据集（ instreditbench ）上训练的专门模型 fineedit ，专门针对结构化文本编辑任务设计。  关键发现：     instreditBench基准：作者创建了一个超过20,000个跨Wiki文档，乳胶文档，代码，代码，代码，代码，代码，代码，代码，代码，代码，代码，代码，&gt;的数据集和数据库DSL。该数据集提供了一个可靠的基准测试，用于评估直接文本编辑功能。    fineedit模型：在instredItbench上微调的模型，胜过双子双子座和llama-3模型直接编辑任务最多可达10％。 fineedit优先级确切的位置和基于内容的修改，改善任务执行。   可量化的性能提高： Fineedit-Pro，最先进的变体，可提供11.6％的改善在双子座上的BLEU分数为1.5闪存，超过40％以上的Mistral-7b-openorca在直接编辑评估中。 &lt; /li&gt;  对零射击和几个射击模型的评估：虽然很少射击促使双子座的性能提高，但它仍然落后于Fineedit，这表明了特定于任务的微调优于促使基于促使基于促进的优势方法。   自动数据质量控制：  difeval 管道通过合并来确保高质量的数据生成自动化评估方法，例如Git-Diff和G-Eval，基本上提高了数据集精度 - 尤其是在复杂的DSL和代码等复杂领域中。结构化评估数据集可显着提高LLM编辑性能。但是，仍然存在局限性，例如无法评估由于计算限制而导致的长篇小写场景和限制部署功能。  您可以在此处捕获完整的故障：在这里 您可以在这里捕获完整的原始研究论文href =“ https://arxiv.org/abs/2502.13358”&gt;原始纸    &lt;！ -  sc_on-提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivt7gx/bridging_the_editing_gap_in_in_in_lms_fineedit_for/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivt7gx/bridging_the_editing_gap_in_llms_fineedit_for/</guid>
-      <pubDate>Sat, 22 Feb 2025 21:11:42 GMT</pubDate>
-    </item>
-    <item>
       <title>药剂师寻求有关过渡到医疗保健AI/ML博士学位的建议 - 药房的背景，但在数据科学领域很自学</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivrnq0/pharmacist_seeking_advice_on_transitioning_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是最近合格的药剂师。我为某些情况提供了背景： 背景：   - 完成了硕士在药物输送方面完成的Mpharm（特别是吸入器设备开发）   - 完成了我的关于在主要会议上介绍的原型吸入器的论文   - 在业余时间通过在线课程中的编程和数据科学自学   - 目前是作为一个药剂师 研究兴趣：   - 将AI/ML与医疗保健申请结合   - 鉴于他们需要的各个领域开放：药物提供，公共卫生，公共卫生，制药开发   - 寻找与学术界和行业相关的主题 关键问题：     MSC在数据科学/ML中首先？我对此持开放态度，但想知道我的自学背景是否足够。我已经完成了研究，并且还有转换MSC计划和许多其他计划。   有哪些热门研究领域将AI/ML与Pharmaceutical/Healthcare结合在一起，这对于两种学术界都很有价值和行业？   识别合适的程序/主管的任何建议？    职业目标： 希望最终在制药行业或学术界的研究中工作。 真的很感谢任何见解，尤其是从以下方面来：   - 当前的博士/博士学位/博士生在类似领域   - 从药房过渡到数据科学的人   - 在此交叉路口工作的学者   - 行业研究人员的行业研究人员Transitions  事先感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/babyloniangm     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是最近合格的药剂师。我为某些情况提供了背景： 背景：   - 完成了硕士在药物输送方面完成的Mpharm（特别是吸入器设备开发）   - 完成了我的关于在主要会议上介绍的原型吸入器的论文   - 在业余时间通过在线课程中的编程和数据科学自学   - 目前是作为一个药剂师 研究兴趣：   - 将AI/ML与医疗保健申请结合   - 鉴于他们需要的各个领域开放：药物提供，公共卫生，公共卫生，制药开发   - 寻找与学术界和行业相关的主题 关键问题：     MSC在数据科学/ML中首先？我对此持开放态度，但想知道我的自学背景是否足够。我已经完成了研究，并且还有转换MSC计划和许多其他计划。   将AI/ML与Pharmaceutical/Healthcare结合了哪些热门研究领域，这对这两种学术界都很有价值和行业？   识别合适的程序/主管的任何建议？    职业目标： 希望最终在制药行业或学术界的研究中工作。 真的很感谢任何见解，尤其是从以下方面来：   - 当前的博士/博士学位/博士生在类似领域   - 从药房过渡到数据科学的人   - 在此交叉路口工作的学者   - 行业研究人员的行业研究人员Transitions  事先感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/babyloniangm     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivrnq0/pharmacist_seeking_advice_on_transitioning_to/</guid>
       <pubDate>Sat, 22 Feb 2025 20:03:07 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>AI变得更聪明，但是我的提示变得笨拙</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_prompts_are_getting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  每次我看到人们都在制作天才级AI提示，获得令人振奋的结果并突破机器学习的界限...同时，我&#39;M在这里打字： “让我成为我吃披萨的餐食计划出去正确使用它。其他人觉得他们的智能落后于模型？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pure_pass1093    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_my_my_prompts_are_getting/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/1ivjpk4/ai_is_getting_smarter_smarter_but_my_my_my_my_prompts_are_are_getting/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  每次我看到人们都在制作天才级AI提示，获得令人振奋的结果并突破机器学习的界限...同时，我&#39;M在这里打字： “让我成为我吃披萨的餐食计划出去正确使用它。其他人觉得他们的智能落后于模型？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pure_pass1093    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_my_my_prompts_are_getting/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivjpk4/1ivjpk4/ai_is_getting_smarter_but_my_my_my_my_my_my_prompts_are_are_getting/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivjpk4/ai_is_getting_smarter_but_my_prompts_are_getting/</guid>
       <pubDate>Sat, 22 Feb 2025 14:18:06 GMT</pubDate>
     </item>
