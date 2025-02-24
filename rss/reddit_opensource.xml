@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 24 Feb 2025 00:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 06:02:37 GMT</lastBuildDate>
+    <item>
+      <title>将所有AI开发人员和研究人员称为项目“ Research2Reality”，我们聚集在一起实施未完成的研究论文！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iwtbni/calling_all_ai_developers_and_researchers_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/dippatel21     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iwtbni/calling_all_ai_developers_and_researchers_for/</guid>
+      <pubDate>Mon, 24 Feb 2025 04:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的开源“ Internet OS”刚刚击中了2,000,000个用户！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iwpqwa/my_opensource_internet_os_just_hit_2000000_user/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/mitousa     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iwpqwa/my_opensource_internet_os_just_hit_2000000_user/</guid>
+      <pubDate>Mon, 24 Feb 2025 01:03:26 GMT</pubDate>
+    </item>
     <item>
       <title>我做了一件事情，effconnpy。 Python库因果时间序列分析</title>
       <link>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</link>
@@ -25,20 +39,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道现成的付费和免费的，但是是否有任何开源解决方案，以便我可以在我的网站上托管此系统，最好在Docker？也许有人找到了这样的东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/graveld_     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwmb51/is_there_a_readymade_solution_for_publishing/</guid>
       <pubDate>Sun, 23 Feb 2025 22:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个开源工具，可以将任何LLM转换为实时财务分析！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwlzg6/i_created_an_opensource_tool_for_transforming_any/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/no/no-definition-2886      link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwlzg6/i_created_an_opensource_tool_for_transforming_any/</guid>
-      <pubDate>Sun, 23 Feb 2025 22:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件资源管理器修复/替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwlqlm/file_explorer_fixalternatives/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  文件资源管理器在传输大型文件时未响应 我正在尝试在尝试之前从手机上进行手动备份为了扎根。 总文件大小为55.3GB，但是，当我传输文件时，传输被卡在“计算复制时间”的“计算时间”。文件资源管理器将自己标记为“不响应”。第三方替代文件资源管理器，将不胜感激。 PC信息下面&lt; /p&gt; 版本：Windows 11 Pro 版本：24H2  OS构建：26100.3194 体验：Windows功能体验体验包1000.26100.48.0 &lt; /p&gt; &lt; /p&gt; &lt; /div &gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/awesomon2234     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwlqlm/file_explorer_fixalternatives/</guid>
-      <pubDate>Sun, 23 Feb 2025 21:57:10 GMT</pubDate>
     </item>
     <item>
       <title>简单的财务交易分类API</title>
@@ -111,13 +111,6 @@
       <pubDate>Sun, 23 Feb 2025 13:27:03 GMT</pubDate>
     </item>
     <item>
-      <title>寻找具有精确控制的逻辑，论证文本的工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iw9cnz/seeking_tools_for_generating_logical/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有一个工具或AI能够生成批判性分析参数的高质量论证文本，确定它们是强的还是基于谬论？生成的文本应具有高度说服力，结构化（几乎像编程语言），并且没有模糊或弱的推理。 理想的工具不依赖AI的不可预测的提示解释，而是允许用户允许用户输入参数或结构化代码，以准确控制应如何编写文本。应使用严格的确定性过程，而不是AI驱动的近似值，确保精确和逻辑一致性。 是否有符合这些标准的现有工具，或者是必要的？ &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dayok2     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iw9cnz/seeking_tools_for_generating_logical/</guid>
-      <pubDate>Sun, 23 Feb 2025 12:45:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Bookenemy：一种体育博彩工具，用于分析投注机会和Booker错误。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iw80e5/bookenemy_a_sports_betting_tool_to_analyze/</link>
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/kaizokugari     [link]  ＆＃32;   [注释] /table&gt;]]></description>
@@ -144,6 +137,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿devs！我构建了一个开源反馈bot ，它使您可以从网站或Web应用程序中收集用户反馈，并立即将其发送到 Discord Channel 。 🎯  为什么？ 用户反馈至关重要，但是检查电子邮件或仪表板可能会很麻烦。使用此机器人，反馈直接直接进入您的Discord Server。  自动启动到Discord &lt; /strong&gt;  - 无需检查多个位置✅完全开源&lt; /stronce &lt; /strong&gt;和可自定义的✅没有复杂的设置 - 只需部署并开始收集反馈！  它的工作原理： 您的前端使一个简单的发布请求， bot处理其余的。   未来计划： 🔜电报支持🔜多平台多平台反馈收集 查看它＆amp;让我知道您的想法！ 🚀  github ： https://github.com/kethakav/kethakav/feedback-bot-bot   如果您发现它有用，在github上删除a⭐  - 它很有帮助！ 💙很想听听您的反馈（具有讽刺意味的，对吗？提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1IW6QHA/I_BUILT_AN_AN_OPEN_SOURCE_DISCORD_BOT_BOT_BOT_TO_INSTESTER/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iw6qha/i_built_an_open_source_discord_bot_to_instantly/</guid>
       <pubDate>Sun, 23 Feb 2025 09:52:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>零开放式推理器：AI培训效率的突破与DeepSeek相匹配，只有1/30个训练步骤 - 包括Kai-Fu Lee，Harry Shum和Xiangyu Zhang Zhang Zhang umeveil革命开放式开放式培训方法，包括AI的主要人物。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iw6jya/open_reasoner_zero_a_breakthrough_in_ai_training/</link>
+      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/xyz_labs     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iw6jya/open_reasoner_zero_a_breakthrough_in_ai_training/</guid>
+      <pubDate>Sun, 23 Feb 2025 09:38:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
