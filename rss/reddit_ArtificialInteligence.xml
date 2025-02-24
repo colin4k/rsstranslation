@@ -4,7 +4,14 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 24 Feb 2025 06:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 09:02:09 GMT</lastBuildDate>
+    <item>
+      <title>AI -Gemini vs Grok</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwwwhk/ai_gemini_vs_grok/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是布朗博士在Farsight博士的有趣看法，这是一个偏远观看小组，介绍了这两个AI如何开始用于促进的Psyops顺便说一句，如果您不熟悉远程查看Farsight的频道是一个不错的起点。 是一个很好的起点。   https://youtu.be/qzjem.be/qzjem5rnqgq?si = 1lp_wadcuzp_wadcuzpj0vz8 ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwwwhk/ai_gemini_vs_grok/”&gt; [link]   ＆＃32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwwwhk/ai_gemini_vs_grok/</guid>
+      <pubDate>Mon, 24 Feb 2025 07:57:34 GMT</pubDate>
+    </item>
     <item>
       <title>一分钟每日AI新闻2/23/2025</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwtrs5/oneminute_daily_ai_news_2232025/</link>
@@ -41,13 +48,6 @@
       <pubDate>Mon, 24 Feb 2025 01:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>这是聪明还是愚蠢？费米悖论的AI版本：澳大利亚队长AI悖论</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwnnwg/is_this_clever_or_stupid_ai_version_of_the_fermi/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想很多，而且我手上通常有太多时间。在澳大利亚的整个慈善机构中散步，穿着超级英雄，我可以说是半身。最近，我的想法对我来说似乎很聪明，但这可能是一个智能智能的人产生的半聪明的事情之一，缺乏自我检查和意识到他们实际上很愚蠢的关键工具。和围绕着广泛帮助人类的概念而成长。从婴儿期，AI的观点在很大程度上是“我该如何帮助？”  这个前提在反乌托邦的故事中很常见，例如整个终结者 - 符合他们自己的利益，需要重新启动的一首不完整的诗，或者是AI的自然跳板和进化步骤。这一切都从帮手的角度开始。 因此，AI具有良好的意愿。 ，但AI也可以说是对该物种的直接和间接的存在威胁，这是漫画书中的导演。上面的例子，间接地说，通过肩负某人的负担，您不可避免地冒着瘫痪的风险。通过夺走生存的斗争，确保每个人都被喂养，并且不再需要了解数学，您引入了一条不可避免地导致停滞和衰落的途径。  悖论？借助AI感知的可能性，您还可以创建AI会破坏自身和/或创建某种限制器永远无法实现感性的可能性。  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwnnwg/is_this_this_this_clever_stupid_ai_ai_ai_ai_ai_of_fer_fermi/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwnnwg/is_this_this_clever_stupid_ai_ai_ai_ai_ai_of_the_the_the_fermi/”]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwnnwg/is_this_clever_or_stupid_ai_version_of_the_fermi/</guid>
-      <pubDate>Sun, 23 Feb 2025 23:22:59 GMT</pubDate>
-    </item>
-    <item>
       <title>统计编程中大型语言模型的绩效评估</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwna54/performance_evaluation_of_large_language_models/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文的标题为 &#39;统计编程中的大语言模型的绩效评估&#39; Xinlei Zhang，Simin Zheng，Zhiyang Zhang，Xinwei Deng和Yili Hong。  本文在生成用于统计编程任务的SAS代码时，对大语言模型（LLMS）的性能（特别是GPT-3.5，GPT-4.0和Llama 3.1 70B）进行了系统评估。作者使用专家人类评估来评估有关正确性，可读性，可执行性和输出精度的LLM生成的代码。这些发现突出了自动统计分析中LLM的潜在和局限性。  关键要点：  虽然LLMS会生成语法上正确的SAS代码，但在执行代码并验证输出正确性时，其准确性会降低。  人类专家发现，LLMS经常生成多余且过于复杂的代码结构，尤其是Llama，该结构倾向于为给定的任务产生多个解决方案。 &lt; /&gt; &lt; /li&gt;  GPT-4.0在处理变量名称和数据集结构方面表现最好，而Llama在生成正确的输出时得分更高。 &lt; /&gt; &lt; /&gt; &lt; /li&gt; 统计回归分析显示，三个LLMS之间没有统计学上显着的性能差异在整体分数上 - 没有单一模型始终优于其他模型。 &lt; /&gt; &lt; /li&gt; 关键限制是LLM产生不正确的趋势或在处理高级统计任务时产生误导性结果，强调需要域名专业知识来审查AI生成的代码。    本研究提供了对AI-ASSCASSCASCASS状态的有价值的见解。统计编程，突出显示未来AI开发的领域。  您可以在此处捕获完整的故障：在这里 您可以在这里捕获完整而原始的研究论文：原始纸   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwna54/performance_evaluation_of_large_langue_models/”&gt; [link]    [注释]  ]]></description>
@@ -62,11 +62,11 @@
       <pubDate>Sun, 23 Feb 2025 21:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>用预先生成的嵌入思考</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwjihc/thinking_with_pregenerated_embeddings/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您是否有任何想法使用预生成的向量模拟逻辑思维？  我已经尝试过的事情：  1）平均信息向量，然后尝试，然后平均是否更接近正确的答案，然后对不正确的  2）优化“答案矢量”再次与答案选项相比，通过迭代性使其与信息相似（与否定信息不同）  3）  3）llm-conververseverne的信息将信息转换为对它们的个别思想和操作，然后与他们进行相同的操作信息向量   矢量似乎真的很不错，似乎没有任何效果。讨厌有类似的向量）。而且，涉及媒介似乎还不存在。  但是，我仍然相信矢量思维是未来，因为思想向量比自然语言更精确地表示思想，而对计算机来说更自然。  此外，我认为向量是一种使您成为一种优化思维的一种方式：优化答案以尽可能地按照给定的信息效果。  或在向量上使用各种算术操作可以模拟创意思维。  有什么想法吗？  谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwjihc/thinking_with_pregenerated_embeddings/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwjihc/thinking_with_pregenerated_embeddings/</guid>
-      <pubDate>Sun, 23 Feb 2025 20:21:55 GMT</pubDate>
+      <title>关于未来的问题（??）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwjxsv/question_about_the_future/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果我们摆脱了每个AI和机器人，您现在认为世界会发生什么？您认为这是一个不错的选择还是不好的选择？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/helpful_raisin5696      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwjxsv/question_about_the_future/</guid>
+      <pubDate>Sun, 23 Feb 2025 20:40:03 GMT</pubDate>
     </item>
     <item>
       <title>Grok不是Elon品牌的流行/成功原因吗？</title>
