@@ -4,7 +4,35 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 23 Feb 2025 21:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 00:03:42 GMT</lastBuildDate>
+    <item>
+      <title>这是聪明还是愚蠢？费米悖论的AI版本：澳大利亚队长AI悖论</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwnnwg/is_this_clever_or_stupid_ai_version_of_the_fermi/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想很多，而且我手上通常有太多时间。在澳大利亚的整个慈善机构中散步，穿着超级英雄，我可以说是半身。最近，我的想法对我来说似乎很聪明，但这可能是一个智能智能的人产生的半聪明的事情之一，缺乏自我检查和意识到他们实际上很愚蠢的关键工具。和围绕着广泛帮助人类的概念而成长。从婴儿期，AI的观点在很大程度上是“我该如何帮助？”  这个前提在反乌托邦的故事中很常见，例如整个终结者 - 符合他们自己的利益，需要重新启动的一首不完整的诗，或者是AI的自然跳板和进化步骤。这一切都从帮手的角度开始。 因此，AI具有良好的意愿。 ，但AI也可以说是对该物种的直接和间接的存在威胁，这是漫画书中的导演。上面的例子，间接地说，通过肩负某人的负担，您不可避免地冒着瘫痪的风险。通过夺走生存的斗争，确保每个人都被喂养，并且不再需要了解数学，您引入了一条不可避免地导致停滞和衰落的途径。  悖论？借助AI感知的可能性，您还可以创建AI会破坏自身和/或创建某种限制器永远无法实现感性的可能性。  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwnnwg/is_this_this_this_clever_stupid_ai_ai_ai_ai_ai_of_fer_fermi/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwnnwg/is_this_this_clever_stupid_ai_ai_ai_ai_ai_of_the_the_the_fermi/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwnnwg/is_this_clever_or_stupid_ai_version_of_the_fermi/</guid>
+      <pubDate>Sun, 23 Feb 2025 23:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>统计编程中大型语言模型的绩效评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwna54/performance_evaluation_of_large_language_models/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文的标题为 &#39;统计编程中的大语言模型的绩效评估&#39; Xinlei Zhang，Simin Zheng，Zhiyang Zhang，Xinwei Deng和Yili Hong。  本文在生成用于统计编程任务的SAS代码时，对大语言模型（LLMS）的性能（特别是GPT-3.5，GPT-4.0和Llama 3.1 70B）进行了系统评估。作者使用专家人类评估来评估有关正确性，可读性，可执行性和输出精度的LLM生成的代码。这些发现突出了自动统计分析中LLM的潜在和局限性。  关键要点：  虽然LLMS会生成语法上正确的SAS代码，但在执行代码并验证输出正确性时，其准确性会降低。  人类专家发现，LLMS经常生成多余且过于复杂的代码结构，尤其是Llama，该结构倾向于为给定的任务产生多个解决方案。 &lt; /&gt; &lt; /li&gt;  GPT-4.0在处理变量名称和数据集结构方面表现最好，而Llama在生成正确的输出时得分更高。 &lt; /&gt; &lt; /&gt; &lt; /li&gt; 统计回归分析显示，三个LLMS之间没有统计学上显着的性能差异在整体分数上 - 没有单一模型始终优于其他模型。 &lt; /&gt; &lt; /li&gt; 关键限制是LLM产生不正确的趋势或在处理高级统计任务时产生误导性结果，强调需要域名专业知识来审查AI生成的代码。    本研究提供了对AI-ASSCASSCASCASS状态的有价值的见解。统计编程，突出显示未来AI开发的领域。  您可以在此处捕获完整的故障：在这里 您可以在这里捕获完整而原始的研究论文：原始纸   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwna54/performance_evaluation_of_large_langue_models/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwna54/performance_evaluation_of_large_language_models/</guid>
+      <pubDate>Sun, 23 Feb 2025 23:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何判断歌曲是否是AI产生的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwlz7b/how_can_you_tell_if_a_song_is_ai_generated/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不确定这是否是正确的地方，但最近我的朋友给我发了3-4分钟的音频乐队。听起来很生效，但是领先的人声具有奇怪的白色嘈杂的声音。我为这样怀疑我的朋友感到难过，但我不能确定。有什么办法可以知道音频是否是AI？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwlz7b/how_can_you_you_tell_a_song_song_is_is_iai_generated/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwlz7b/how_can_can_you_tell_a_a_a_song_song_is_iai_ai_aigenerated/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwlz7b/how_can_you_tell_if_a_song_is_ai_generated/</guid>
+      <pubDate>Sun, 23 Feb 2025 22:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI聊天机器人作为治疗师 - 您的想法？ （内部调查）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwklf4/ai_chatbots_as_therapists_your_thoughts_survey/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我目前正在研究gen-z gen-Z感知AI-Therapy Chatbots，无论人们是否将其视为一个有用的工具，gi头或两者之间的东西。随着AI的快速发展，心理健康技术正在增长，但实际上有效吗？人们是否足够信任AI可以最终补充疗法？ 而不是仅向您提供调查链接，我很想先听听您的想法。您是否曾经尝试过像Woebot或Wysa这样的AI心理健康聊天机器人？如果是这样，它是否有所帮助，还是感觉就像与光荣的常见问题机器人交谈？在讨论危险之前，我已经看过文章，并听到了人们认为可以访问的文章，因为他们无法访问其他方式。 如果您有兴趣帮助我帮助我这项研究，我也非常感谢对我的调查的回应（10-15分钟；它具有完全的道德认可）： https://cardiffmet.eu.qualtrics.com/jferics.com/jfe/jfe/jfe/sv \ _6ncrxy5fzg45fzg45fzg4udeu   P.S。人群是Gen-Z（也是18+），因此您需要18-28才能做到这一点。 编辑：只是注意，问题或研究并不提倡一方。这只是收集意见。如果人们在调查中对他们不喜欢这个想法的回应，那将反映在结果中，反之亦然。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mudzeppelin     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwklf4/ai_chatbots_as_therapists_your_thoughts_survey/</guid>
+      <pubDate>Sun, 23 Feb 2025 21:07:40 GMT</pubDate>
+    </item>
     <item>
       <title>关于未来的问题（??）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwjxsv/question_about_the_future/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>为什么不应取缔本地LLM开发：取缔本地LLM开发将扼杀创新，集中在公司手中，并破坏关键的道德和社会福利</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwhsn0/why_local_llm_development_should_not_be_outlawed/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  禁止本地LLM开发的开发将扼杀创新，将权力集中在公司手中，并破坏关键的道德和社会利益。  本地LLM开发使业余爱好者和独立研究人员可以自由实验，通常会导致商业实体忽略的突破。当地的LLM可以满足特定特定的社区需求，翻译濒危语言，保留文化遗​​产，这些文化遗产缺乏对公司的利润激励措施。  独立开发人员可能会发现更有效的培训方法或更小的专业模型，以降低计算成本和环境影响。  宣布这项工作将使AI在少数公司中的进步集中，使创新统一并减慢了该领域的发展。 本地LLM开发在开放源协作方面蓬勃发展。开源LLM允许公众审查偏见，安全机制和道德缺陷；对信任至关重要。公司“黑匣子”模型缺乏这种问责制。开源框架将AI民主化，使初创企业，研究人员和非营利组织能够在没有昂贵许可的情况下建立解决方案。  稳定扩散的开放版本引发了全球创意和技术应用的浪潮；宣布类似的LLM项目将消除此类机会。 本地发展使社区能够根据其价值观塑造AI，而不是依靠公司优先事项。当地开发人员可以微调模型以反映代表性不足的文化或语言，从而减少有害的刻板印象。分布式LLM的开发阻止了对AI社会影响的垄断控制，从而促进了民主监督。禁止本地LLM会将不受限制的权力移交给公司，冒着滥用或以利润为导向的议程，例如监视，操纵性广告。 与当地LLMS进行动手实验对于培训下一代AI从业者至关重要。如果我们将其取缔，只有资金充足的机构才能合法地访问LLM工具，将边缘化社区排除在AI扫盲之外。像Kaggle和拥抱面孔这样的平台依靠基层贡献众包解决方案，例如灾难响应聊天机器人，医疗Q＆amp;一个系统。  没有本地修补，AI教育就成为理论上的，限制了实际的创新。 禁止本地LLM的开发是不切实际的，有可能在地下推动创新。 LLM可以在消费者硬件上开发，例如游戏GPU，使禁令很难警察。地下开发将完全绕过安全标准和道德准则，加剧滥用。  相反，政策应专注于规范的开放性，促进透明度，道德框架和问责制，同时保留创新的自由。 本地LLMS使小型企业，艺术家和研究人员与之竞争科技巨头。独立的游戏工作室使用本地LLM来生成动态叙述，而无需昂贵的云API费用。学术研究人员在没有外包给公司服务器的情况下培训模型，例如医疗记录。  禁令将构成垄断，扼杀竞争和创造力。 批评家认为，当地的LLM可以实现诸如Deepfakes，垃圾邮件之类的有害用途。但是，解决方案没有完全禁止的解决方案，例如授权保障措施，例如水印产出或将道德准则嵌入开源框架中。像GitHub这样的平台已经删除了恶意代码；类似的监督可以适用于LLM存储库。起诉滥用，而不是发展。正如我们规范枪支使用而不是取缔所有枪支一样，人工智能政策应针对有害行为，而不是工具。  本地LLM开发是民主，包容和道德AI进步的基石。禁止它将牺牲社会利益，即汇报，透明度，教育和权力下放，以减轻可以通过更智能的监管来解决的风险。我们需要提供赋予负责任的实验能力的护栏，而不是禁令，确保AI仍然是集体利益而不是公司控制的力量。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/konradfreeman    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwhsn0/why_local_llm_development_should_not_not_not_be_outlawed/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwhsn0/why_local_llm_development_should_not_not_not_be_outlawed/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  禁止本地LLM开发的开发将扼杀创新，将权力集中在公司手中，并破坏关键的道德和社会利益。  本地LLM开发使业余爱好者和独立研究人员可以自由实验，通常会导致商业实体忽略的突破。当地的LLM可以满足特定特定的社区需求，翻译濒危语言，保留文化遗​​产，这些文化遗产缺乏对公司的利润激励措施。  独立开发人员可能会发现更有效的培训方法或较小的专业模型，以降低计算成本和环境影响。  宣布这项工作将使AI在少数公司中的进步集中，使创新统一并减慢了该领域的发展。 本地LLM开发在开放源协作方面蓬勃发展。开源LLM允许公众审查偏见，安全机制和道德缺陷；对信任至关重要。公司“黑匣子”模型缺乏这种问责制。开源框架将AI民主化，使初创企业，研究人员和非营利组织能够在没有昂贵许可的情况下建立解决方案。  稳定扩散的开放版本引发了全球创意和技术应用的浪潮；宣布类似的LLM项目将消除此类机会。 本地发展使社区能够根据其价值观塑造AI，而不是依靠公司优先事项。当地开发人员可以微调模型以反映代表性不足的文化或语言，从而减少有害的刻板印象。分布式LLM的开发阻止了对AI社会影响的垄断控制，从而促进了民主监督。禁止本地LLM会将不受限制的权力移交给公司，冒着滥用或以利润为导向的议程，例如监视，操纵性广告。 与当地LLMS进行动手实验对于培训下一代AI从业者至关重要。如果我们将其取缔，只有资金充足的机构才能合法地访问LLM工具，将边缘化社区排除在AI扫盲之外。像Kaggle和拥抱面孔这样的平台依靠基层贡献众包解决方案，例如灾难响应聊天机器人，医疗Q＆amp;一个系统。  没有本地修补，AI教育就成为理论上的，限制了实际的创新。 禁止本地LLM的开发是不切实际的，有可能在地下推动创新。 LLM可以在消费者硬件上开发，例如游戏GPU，使禁令很难警察。地下开发将完全绕过安全标准和道德准则，加剧滥用。  相反，政策应专注于规范的开放性，促进透明度，道德框架和问责制，同时保留创新的自由。 本地LLMS使小型企业，艺术家和研究人员与之竞争科技巨头。独立的游戏工作室使用本地LLM来生成动态叙述，而无需昂贵的云API费用。学术研究人员在没有外包给公司服务器的情况下培训模型，例如医疗记录。  禁令将构成垄断，扼杀竞争和创造力。 批评家认为，当地的LLM可以实现诸如Deepfakes，垃圾邮件之类的有害用途。但是，解决方案没有完全禁止的解决方案，例如授权保障措施，例如水印产出或将道德准则嵌入开源框架中。像GitHub这样的平台已经删除了恶意代码；类似的监督可以适用于LLM存储库。起诉滥用，而不是发展。正如我们规范枪支使用而不是取缔所有枪支一样，人工智能政策应针对有害行为，而不是工具。  本地LLM开发是民主，包容和道德AI进步的基石。禁止它将牺牲社会利益，即汇报，透明度，教育和权力下放，以减轻可以通过更智能的监管来解决的风险。我们需要提供赋予负责任的实验能力的护栏，而不是禁令，确保AI仍然是集体利益而不是公司控制的力量。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/konradfreeman    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwhsn0/why_local_llm_development_should_not_not_not_be_outlawed/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwhsn0/why_local_llm_development_should_not_not_not_be_outlawed/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwhsn0/why_local_llm_development_should_not_be_outlawed/</guid>
       <pubDate>Sun, 23 Feb 2025 19:09:51 GMT</pubDate>
     </item>
@@ -53,13 +81,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   AI聊天机器人多年来发生了很大变化。他们从简单的脚本响应开始，现在已经发展为可以进行有意义的对话的系统。我已经研究了不同的AI聊天平台，令人兴奋地看到这些聊天机器人如何理解上下文和个性化互动。 随着AI技术的不断发展，是否会有一段时间聊天机器人可以真正复制人类的对话？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iwg0w7/ai_chatbots_are_evolving_whats_next_next_next_next_for_for_for_the_future/”&gt; [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwg0w7/ai_chatbots_are_evolving_whats_next_for_the_future/</guid>
       <pubDate>Sun, 23 Feb 2025 17:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>操作员和其他AI代理商</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iwe045/operator_and_other_ai_agents/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道下一个大浪潮即将到来。这就是为什么我从去年开始学习基础知识并使用新的AI工具的原因。  我参加了聚会迟到，但刚刚在聊天GPTS操作员上观看了视频。然后观看了一些有关AI代理商未来的视频。目前，它的边缘很粗糙，但是加班肯定会改善。  我的讨论的观点是听别人的想法吗？另外，您正在做什么准备它？我完全意识到自己的工作可能是自动化的，这就是为什么我一直在抓住机会来建立人类技能的原因。我很感兴趣，并不完全感兴趣或兴奋，但我会说，对未来的AI代理商的全面部署很感兴趣。我希望每月不是200美元，或者我会尝试的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Hellohi9999     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iwe045/operator_and_other_ai_agents/</guid>
-      <pubDate>Sun, 23 Feb 2025 16:30:05 GMT</pubDate>
     </item>
     <item>
       <title>AI之后的工作</title>
@@ -97,13 +118,6 @@
       <pubDate>Sun, 23 Feb 2025 14:06:46 GMT</pubDate>
     </item>
     <item>
-      <title>哪些项目或项目对您非常有帮助，并帮助您在AI中变得更好？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw8zx1/what_project_or_projects_was_very_helpful_for_you/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在寻找项目创意，特别是在NLP中，我已经完成了与NLP相关的几个项目我不知道该怎么做和学习什么。我想知道现在该怎么办我已经通过了几门课程并阅读了几篇论文，但我仍然觉得我不太了解。您通常会做什么来保持自己更新并了解更多？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ggravatingVolume449     [links]        [注释]       ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iw8zx1/what_project_or_projects_was_very_helpful_for_you/</guid>
-      <pubDate>Sun, 23 Feb 2025 12:24:09 GMT</pubDate>
-    </item>
-    <item>
       <title>似乎现在有人否认AI是一项革命性的发明，现在变得越来越时尚。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iw72d9/it_seems_that_its_now_getting_fashionable_for/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  ，但是来吧，未来的子孙后代将在列表中排名ai，并用轮子和火。我是一个完整的菜鸟，但是我认为AI革命性的是什么？ AI模型或任何消化了数百万本书。它们包含的信息比我们从搜索引擎中获得的更多信息。 Wikipedia在一本书上的文章中，马克思的“资本”与Chatgpt的崩溃。 只是我的两分钱。   &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/printed_lawn     [link]    [注释]   ]]></description>
@@ -123,20 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是斜坡人吗？那个带有所有斜率的家伙？ 我正在创建像斜坡的巨型图书馆一样，所以我们都可以看一下斜坡，嗯，对此做事。因此，就像A&#39;slop Garden一样。 有人比我有更多的斜率吗？我希望能够声称我拥有宇宙中最大的AI斜坡。我还在吗？ 编辑：信不信由与否。提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivy57v/who_has_has_the_biggest_pile_pile_slop_ai_slop_i_i_just_hit_hit_hit_hit_1pb/  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivy57v/who_has_has_the_biggest_pile_pile_of_ai_slop_i_slop_i_just_hit_hit_1pb/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivy57v/who_has_the_biggest_pile_of_ai_slop_i_just_hit_1pb/</guid>
       <pubDate>Sun, 23 Feb 2025 01:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于LLM的残酷真相</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivvkc0/the_brutal_truth_about_llms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经使用LLMS了一段时间了，并且尝试了所有主要模型，我很好奇 - 他们如何改变您的生活？无论是刮胡子30分钟，还是只是让您感到压力/富有成效，我都对自己的经历感到好奇。让我们对此进行真实的态度。我注意到那里有很多炒作，并受到了很多批评。因此，忘记所有的AGI炒作或LLM是荣耀的摘要。让我们走到底部。  您的个人经历是什么样的？您在定量或定性上经历了什么切实的结果？   LLM帮助您的最令人惊讶的方法是什么？  LLM如何改变您的日常工作或心态？  我将其发布在所有相关的子列表上。我将尽可能清楚地更新结果。  编辑：摘要到发布后5小时。  那些在LLM中看到价值的人：5条评论（占8个评论的62.5％）。这些用户报告了有形的好处，例如节省时间，生产力提高，创造力的提高，减轻压力和例行变化，即使某些响应较少详细。 那些在LLMS中没有看到价值的人：3条评论（37.5）（37.5（37.5）（37.5总计8条评论的％）。这些用户要么缺乏个人经验，要么表达怀疑或恐惧，要么没有提供实质性的好处，其中一个是垃圾邮件。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/briskprogress   href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ivvkc0/the_brutal_truth_about_llms/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivvkc0/the_brutal_truth_about_llms/</guid>
-      <pubDate>Sat, 22 Feb 2025 22:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在人工智能时代学习</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ivtefm/learning_in_the_ai_era/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在人工智能时代的记忆是否过时？学校是否应该废除基于事实的学习并纯粹关注批判性思维？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/psych4you     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ivtefm/learning_in_the_ai_era/</guid>
-      <pubDate>Sat, 22 Feb 2025 21:20:15 GMT</pubDate>
     </item>
     <item>
       <title>每月“有...是否有...”帖子</title>
