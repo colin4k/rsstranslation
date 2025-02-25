@@ -4,13 +4,27 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 24 Feb 2025 18:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 00:04:24 GMT</lastBuildDate>
     <item>
-      <title>嗨，我第二次制作这样的视频，这是您可以在PC上玩的十大开源游戏</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ix8gao/hi_i_2nd_time_making_a_video_like_this_its_about/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/gignes_heat_301     [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ix8gao/hi_i_2nd_time_making_a_video_like_this_its_about/</guid>
-      <pubDate>Mon, 24 Feb 2025 18:02:23 GMT</pubDate>
+      <title>作为福斯开发人员，我对促进项目感到沮丧</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_dev_im_torn_about_promoting_my_projects/</link>
+      <description><![CDATA[在在那里并在Reddit上推广我的项目。我总是感到内gui，因为大多数潜艇反对自我宣传，而且我感到自己正在踩脚趾。但事实是，Reddit可能是关注您工作的最佳平台。问题是，我不确定应该在哪里进行此促销。 我在Github，个人博客和其他几乎没有引起注意的地方看到了许多惊人的项目。这很令人沮丧，因为我知道这些项目付出了多少努力，以及他们只会受到用户的一点鼓励或关注而受益多少。开发人员确实需要这种反馈和热情来继续前进，尤其是当他们为社区工作而不是为了盈利而努力时。 ，我们该怎么办？我们应该建立一个专门的子雷迪特，福斯开发人员可以以积极的建设性方式促进他们的项目？我们可以自由展示新工具，获得反馈并建立社区感的空间？我很想知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_foss_dev_im_im_torn_about_about_myoting_my_projects/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_a_foss_dev_im_im_im_about_about_promoting_my_projects/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixgfap/as_a_foss_dev_im_torn_about_promoting_my_projects/</guid>
+      <pubDate>Mon, 24 Feb 2025 23:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经开源并提供免费的电子邮件验证API</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixe8qd/ive_opensourced_and_serve_a_free_email/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经构建了一个轻量级的电子邮件验证服务，您可以为便士自我宿主。我对昂贵的SaaS解决方案感到沮丧后开了开源。 &lt; /p&gt; 技术堆栈：•进行1.21+ •redis（仅用于域缓存，无电子邮件存储）•Prometheus指标•grafana监视•Docker＆amp; Docker Ready Ready &lt; /p&gt; 功能：•没有数据离开您的服务器•无跟踪 /分析•完全自我插入•超轻量级在最小资源上）•所有核心功能均包括： -MX记录验证  - 一次性电子邮件检测  - 域验证  -  Typo建议  - 批处理处理 部署：•准备部署在 fly.io   •docker撰写包括•清除文档•最小依赖项&lt; /p&gt;  github： https://github.com/umuterturk/email-verifier  着陆页： https://rapid-email-email-verifier.fly.dev/    我是一个dev无法进行任何有效的公告，所以我认为这个社区将是一个很好的起点，而且您的人们可能会很喜欢知道这一点。非常适合任何运行自己的注册系统或需要电子邮件验证的人，而无需依赖外部服务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/helbette     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixe8qd/ive_opensourced_and_serve_a_free_email/</guid>
+      <pubDate>Mon, 24 Feb 2025 21:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android浏览器带Fastback</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixdnr9/android_browser_with_fastback/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Android上使用Yuzu浏览器已有5年以上。我喜欢它如何缓存页面如此之多，因为它们仍在背景中。还喜欢我如何使用数百个标签，并在它们之间迅速切换或用一点点敲击。 不幸的是，自上次更新以来已经4年了，它基本上已经死了。我会喜欢更现代的东西，可以处理Passkeys和其他内容。  adblock应该是强制性的。 DNS块不是，我已经在使用Adguard Home。 有什么建议吗？需要快速，不需要拥有良好的UI，只需要功能正常并能够使用Passkeys即可。大优势快速退缩。这对我来说确实是必不可少的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fluffydiscord    href =“ https://www.reddit.com/r/opensource/comments/1ixdnr9/android_browser_with_wastback/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixdnr9/android_browser_with_fastback/</guid>
+      <pubDate>Mon, 24 Feb 2025 21:33:05 GMT</pubDate>
     </item>
     <item>
       <title>不确定要使用什么才能，但是我在Python中为YouTube流制作了一首歌排队机器人！</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  一直在snip上工作，snip是一个小文本编辑器，可让您在选定的文本上运行打字稿脚本。我最初是为了自动化一些重复的文本编辑，但是现在我每天都在使用它，因此认为它对其他人也可能很有用。  开放源＆amp;轻量级 在文本或选择上运行脚本 方便一些快速数据转换，或者简单地突出显示某些副本/粘贴  仍然是一个正在进行的工作，但我很想获得一些反馈！如果听起来很有趣，请在此处查看：   github repo   我知道您的想法，或者您是否对功能有想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ubbiedobbie     [links]   &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iwa3vp/i_made_a_opensource_notepad_that_that_lets_you_run/”]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwa3vp/i_made_a_opensource_notepad_that_lets_you_run/</guid>
       <pubDate>Sun, 23 Feb 2025 13:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bookenemy：一种体育博彩工具，用于分析投注机会和Booker错误。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iw80e5/bookenemy_a_sports_betting_tool_to_analyze/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/kaizokugari     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iw80e5/bookenemy_a_sports_betting_tool_to_analyze/</guid>
-      <pubDate>Sun, 23 Feb 2025 11:20:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源技术产品/硬件列表？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iw7k1a/list_of_open_source_tech_productshardware/</link>
-      <description><![CDATA[态刚刚发现了Ploopy，并带有开源的慕斯，轨迹球，触控板和耳机。我知道有很多开源软件很棒，但是我很想找到物理硬件的项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/radis290     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iw7k1a/list_of_open_source_tech_productshardware/</guid>
-      <pubDate>Sun, 23 Feb 2025 10:48:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
