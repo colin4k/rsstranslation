@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 25 Feb 2025 06:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 12:04:30 GMT</lastBuildDate>
+    <item>
+      <title>介绍github.com/bububa/Atomic-代理：原始python概念的golang改编</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixsh9x/introducing_githubcombububaatomic_agents_a_golang/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/golang/comments/1iwyvli/introducing_githubcombubaubaatomic_agents_a_golang/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixsh9x/introducing_githubcombububaatomic_agents_a_golang/</guid>
+      <pubDate>Tue, 25 Feb 2025 11:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drupal还是Strapi？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   WordPress就像在Autobahn上驾驶驾驶。 Joomla就像在Jello中建造了一个Jenga塔。  让我思考drupal或strapi。我对Drupal的经历是，这是屁股的巨大痛苦，所以Strapi看起来很诱人...但是我以前受到了伤害，并且想获得第二个意见。  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/-_ o/-_ o-laserBeak-o_--       [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</guid>
+      <pubDate>Tue, 25 Feb 2025 10:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whispercat v1.4.0发布 - 开源转录和后处理应用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</link>
+      <description><![CDATA[在一个开源音频捕获，转录和后处理应用程序。 链接： https://github.com/ddxy/whispercat      有什么新功能？      打开Web UI支持： Whispercat现在与Open Web UI集成 - 这意味着您可以使用免费的，开源的转录模型！  更快的服务器集成： v1.3.0发布引入了对更快的服务器的支持，这是一种免费的开源文本，是语音模型的免费开源文本。  增强了全球热键＆amp;背景模式：享受可定制的热键，用于启动/停止录音和改进的系统托盘最小化，以使窃窃私猫在背景中安静地运行。   麦克风测试＆amp;通知：在使用我们的测试功能录制之前验证麦克风并接收有关重要事件或错误的屏幕通知。  精制的GUI＆amp;黑暗模式支持：界面已通过更好的设置管理和完整的黑暗模式支持进行了抛光。  我很想听听您的想法，因此请随时分享您的反馈和建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sircheckmatesalot     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</guid>
+      <pubDate>Tue, 25 Feb 2025 09:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek通过FlashMLA开始开源周：改变游戏规则的GPU优化</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixqxtm/deepseek_kicks_off_open_source_week_with_flashmla/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/xyz_labs       ＆＃32;   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixqxtm/deepseek_kicks_off_open_source_week_with_flashmla/</guid>
+      <pubDate>Tue, 25 Feb 2025 09:17:44 GMT</pubDate>
+    </item>
     <item>
       <title>Amurex-开源AI会议副标士，现已演变成开源助理助理</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixm6ne/amurex_the_open_source_ai_meeting_copilot_now/</link>
@@ -92,7 +120,7 @@
     <item>
       <title>我做了一件事情，effconnpy。 Python库因果时间序列分析</title>
       <link>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我做了一件事情， 用于脑因果关系估计的python库。有几种方法，时间 系列分析并非严格用于神经科学：   ：//pypi.org/project/effconnpy/   打开问题或贡献： https://github.com/alecrimi/alecrimi/effconnpy     &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32 ;提交由＆＃32; /u/alecrimi   href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_thing_thing_thing_thing_thing_effconnpy_pyty_python_library_for_causal/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_ting_thing_thing_thing_thing_thing_thing_feffconnpy_pyty_pyty_python_library_for_causal/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我做了一件事情， 用于脑因果关系估计的python库。有几种方法，时间 系列分析并非严格用于神经科学：    打开问题或贡献： https://github.com/alecrimi/alecrimi/effconnpy     &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32 ;提交由＆＃32; /u/alecrimi   href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_thing_thing_thing_thing_thing_effconnpy_pyty_python_library_for_causal/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_ting_thing_thing_thing_thing_thing_thing_feffconnpy_pyty_pyty_python_library_for_causal/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</guid>
       <pubDate>Sun, 23 Feb 2025 23:37:32 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  今天，我们开放了3个版本的模型的3个版本，该版本训练有素，以服务于想要对其融资交易进行分类的任何应用程序或系统（当前阶段更少的商业融资）。  如果您有兴趣，这里是所有来源： https：//github.com/varchary-io/ FCS   如果此API/模型听起来对您有用，并且想快速尝试，则是完整文档几秒钟。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_finance_transaction_categorization_categorization_api/”&gt; [link]    ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_transaction_categorization_api/</guid>
       <pubDate>Sun, 23 Feb 2025 18:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关混合 +商业许可的问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwgacv/question_about_mixing_gpl_commercial_licensing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不习惯与开源项目进行交互，我试图更好地理解GPL。我遇到了这个项目在这里，它具有GPL许可证加上商业许可证。如何可能？ &gt;我想GPL不能与这样的其他许可混合。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/glass-swordfish3601     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwgacv/question_about_mixing_gpl_commercial_licensing/</guid>
-      <pubDate>Sun, 23 Feb 2025 18:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件更高版 - 免费的开源重命名工具（MIT）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwg218/file_renamer_free_opensource_renaming_tool_mit/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    构建了此lil应用程序以轻松重命名文件和文件夹 - 黑暗主题，进度栏，作品。在此处获取：   https://github.com/falldown57/filerenamer.git        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/pronisual-patient-610     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwg218/file_renamer_free_opensource_renaming_tool_mit/</guid>
-      <pubDate>Sun, 23 Feb 2025 17:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建操作系统项目和SaaS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwfav4/how_to_structure_an_os_project_and_saas/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个名为fluidcalendar的开源项目 -   https://github.com/dotnetfactory/fluid-calendar   我想创建一个SaaS版本，我如何构建项目，以便我仍然可以拥有SaaS版本和开源版本，这些版本和开源版本相同，而没有将SaaS特定内容包含在开源存储库中？ 例如，我想要为了整合条纹，并可能在将来添加我不想成为开源的仅付费功能。  我已经建造了大量的SaaS产品，但从来没有开源的产品，所以我对如何做到这一点有些新/困惑。有什么建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/eibrahim     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwfav4/how_to_structure_an_os_project_and_saas/</guid>
-      <pubDate>Sun, 23 Feb 2025 17:25:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源聊天</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwexdr/open_source_chat/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建或找到聊天以托管我所有使用所有流媒体服务的朋友和家人因此，我们可以看到某些提供商何时到达那里的限制。我还希望一个体育和展示发布时间表的日历，所以我们永远不会错过任何事情。 是可能的吗？  &lt;！ -  sc_on-&gt;＆＃ 32;提交由＆＃32; /u/u/bigsauce69420     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwexdr/open_source_chat/</guid>
-      <pubDate>Sun, 23 Feb 2025 17:09:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
