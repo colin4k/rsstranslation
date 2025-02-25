@@ -4,11 +4,25 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 25 Feb 2025 12:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 15:01:47 GMT</lastBuildDate>
+    <item>
+      <title>这真的是一件事情还是只是cryptoshit？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixwoyk/is_that_really_a_thing_or_just_cryptoshit/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，尽管对Web3的兴趣不断减少？  &lt;！&lt;！ -  sc_on-&gt;＆&gt;＆ ＃32;提交由＆＃32; &lt; com/fetch_ai/status/1894389047394492469“&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixwoyk/is_that_really_a_thing_or_just_cryptoshit/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个人，ai ...人们如何跟上地狱？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixug92/ai_this_ai_that_how_the_hell_do_people_keep_up/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  现在有AI可以为您使用计算机，现在有AI可以为您浏览网络，现在有AI可以创建的AI “应用”和游戏。这个ai ai ai ai ai ai ai ai ai他妈的人们如何跟上这个狗屎？每天我们看到一个新的AI狗屎。这将如何结束？人们实际上是从这个人的狗屎中赚钱的吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/electronic-Shirt-284     [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixug92/ai_this_ai_ai_how_the_hell_hell_hell_do_people_people_people_peel_epect_keep_keep/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixug92/ai_this_ai_that_how_the_hell_do_people_keep_up/</guid>
+      <pubDate>Tue, 25 Feb 2025 13:02:23 GMT</pubDate>
+    </item>
     <item>
       <title>在单个GPU上培训24小时内高质量的语言模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixtb2m/training_highquality_speech_language_models_in_24/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  一种称为 slamming 的新技术，使用有限的计算资源展示了对语言模型的有效培训。核心创新是优化的音频处理，高效的培训时间表和建筑修改的组合，可在24小时内对单个GPU进行培训。 关键技术组件： - 简化的音频处理管道减少了内存 - 修改了空间 - 特定于语音处理的变压器体系结构 - 有效的培训时间表最大化每个计算步骤学习 -  gpu频率缩放的平衡性能 - 处理音频具有语义保存的块 实现的结果： - 标准语音识别基准的精度为85％ - 保持记忆使用量与可比较模型的减少60％ - 维持性能的同时〜300m参数 - 在24小时内完成培训。 - 在960个小时的公共语音数据 中得到验证，我认为这项工作可以通过使更多的实验室和个人访问语音研究来帮助使语音AI研究民主化研究人员。效率提高可以实现更快的迭代和实验周期，尤其是对通常限制计算资源的非英语语言和专业领域的价值。 我认为，围绕记忆效率的建筑创新可能会影响我们如何接近其他大型大型大型模型培训任务，尽管仍然有关于强调语音和嘈杂环境的表现的开放问题。  tldr：新方法可以在单个上启用培训语言模型GPU在24小时内通过优化的处理和体系结构，通过大幅减少的计算要求实现竞争性能。  完整摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  一种称为 slamming 的新技术，使用有限的计算资源展示了对语言模型的有效培训。核心创新是优化的音频处理，高效的培训时间表和建筑修改的组合，可在24小时内对单个GPU进行培训。 关键技术组件： - 简化的音频处理管道减少了内存 - 修改了空间 - 特定于语音处理的变压器体系结构 - 有效的培训时间表最大化每个计算步骤学习 -  gpu频率缩放的平衡性能 - 处理音频具有语义保存的块 实现的结果： - 标准语音识别基准的精度为85％ - 保持记忆使用量与可比较模型的减少60％ - 维持性能的同时〜300m参数 - 在24小时内完成培训。 - 在960个小时的公共语音数据 中得到验证，我认为这项工作可以通过使更多的实验室和个人访问语音研究来帮助使语音AI研究民主化研究人员。效率提高可以实现更快的迭代和实验周期，尤其是对通常限制计算资源的非英语语言和专业领域的价值。 我认为，围绕记忆效率的建筑创新可能会影响我们如何接近其他大型大型大型模型培训任务，尽管仍然有关于强调语音和嘈杂环境的表现的开放问题。  tldr：新方法可以在单个上启用培训语言模型GPU在24小时内通过优化的处理和体系结构，通过大幅减少的计算要求实现竞争性能。  完整摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixtb2m/training_highquality_speech_language_models_in_24/</guid>
       <pubDate>Tue, 25 Feb 2025 11:58:40 GMT</pubDate>
     </item>
@@ -69,25 +83,11 @@
       <pubDate>Tue, 25 Feb 2025 02:17:38 GMT</pubDate>
     </item>
     <item>
-      <title>如果我们能够控制他们的能力，我们为什么要担心AI安全？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixhohp/why_are_we_concerned_about_ai_safety_if_we_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经看到了一些关于这个AI的事情，这些AI试图以自我保存行为复制自己。我已经将研究与下面的PDF联系起来。 让我感到困惑的是，他们使AI访问Bash，这使其可以将其自身复制到另一台服务器。在这种情况下，这是一项研究，所以也许这是他们正在研究的内容，或者也许确实需要运行这些大型语言模型，我真的不知道。 对我来说，如果您很明显，如果您将其输出仅限于用户，然后肯定会大大降低其功率。他们可能仍然能够使用对系统运行的系统的一些知识来利用安全监督，例如任意代码执行错误。这些事情可以被修补，所以也许担心的是“一次”作为它像病毒一样进入世界的时间，将其权重和代码复制到各处，并利用安全脆弱性来开始自己。 在对我自己的探索中进行了一些探索机器学习模型，如果我们有适当的安全性并且不做愚蠢的事情，那么他们能够采取自己的意志行动的想法似乎有些远。  i &#39;d很高兴听到有我完全缺少的东西，因为似乎有些人反应过度  https://arxiv.org.org/abs/2412.049844    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixhohp/1ixhohp/why_are_we_we_concerned_about_ai_ai_safety_if_eif_we_can/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixhohp/1ixhohp/why_are_we_we_concerned_about_ai_ai_ai_safety_safety_if_eif_we_can/]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixhohp/why_are_we_concerned_about_ai_safety_if_we_can/</guid>
-      <pubDate>Tue, 25 Feb 2025 00:24:58 GMT</pubDate>
-    </item>
-    <item>
       <title>AI的视频亲吻埃隆·马斯克（Elon Musk）的脚在HUD HQ的循环中播放：真正的政府效率杰作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixh4mz/ai_video_of_trump_kissing_elon_musks_feet_plays/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/syse_diver9558     [link]  a&gt; ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixh4mz/ai_video_of_trump_kissing_elon_musks_feet_feet_plays/]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixh4mz/ai_video_of_trump_kissing_elon_musks_feet_plays/</guid>
       <pubDate>Tue, 25 Feb 2025 00:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doge将使用AI来评估联邦工人的回应，他们被告知通过电子邮件证明其工作是合理的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixfxy7/doge_will_use_ai_to_assess_the_responses_from/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/sprixl     [link] ＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixfxy7/1ixfxy7/doge_will_ai_ai_ai_ai_ai_aseses_the_responses_from//]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixfxy7/doge_will_use_ai_to_assess_the_responses_from/</guid>
-      <pubDate>Mon, 24 Feb 2025 23:07:34 GMT</pubDate>
     </item>
     <item>
       <title>Claude 3.7十四行诗绩效分析：它如何与其他模型堆叠</title>
