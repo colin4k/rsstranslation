@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 25 Feb 2025 18:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 21:02:35 GMT</lastBuildDate>
+    <item>
+      <title>嵌入式二进制和MIT/BSD许可证：如果来源包括MIT和/或BSD许可库，我是否必须允许二进制重新分配二进制文件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iy51xz/embedded_binary_and_mitbsd_licenses_do_i_have_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  假设我正在销售一些IoT设备，该设备运行了一个软件，其中包括一部分在这些许可下许可的代码。通过包含许可证和版权的副本，我是否允许该软件的重新分配（无论是从flash下载并重新上传到其他MCUS）吗？  &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/more_significance34     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iy51xz/embedded_binary_and_mitbsd_licenses_do_i_have_to/</guid>
+      <pubDate>Tue, 25 Feb 2025 20:33:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发布了Ephemeris Explorer，这是太阳系和航天器飞行计划工具的模拟器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iy2wwj/i_released_ephemeris_explorer_a_simulator_of/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/canleskis     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iy2wwj/i_released_ephemeris_explorer_a_simulator_of/</guid>
+      <pubDate>Tue, 25 Feb 2025 19:05:10 GMT</pubDate>
+    </item>
     <item>
       <title>Bootstrap fork具有完整的DART SASS 3.0.0+兼容性！</title>
       <link>https://www.reddit.com/r/opensource/comments/1iy0qpb/bootstrap_fork_with_full_dart_sass_300/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/dippatel21     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwtbni/calling_all_ai_developers_and_researchers_for/</guid>
       <pubDate>Mon, 24 Feb 2025 04:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的开源“ Internet OS”刚刚击中了2,000,000个用户！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwpqwa/my_opensource_internet_os_just_hit_2000000_user/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/mitousa     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwpqwa/my_opensource_internet_os_just_hit_2000000_user/</guid>
-      <pubDate>Mon, 24 Feb 2025 01:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一件事情，effconnpy。 Python库因果时间序列分析</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我做了一件事情， 用于脑因果关系估计的python库。有几种方法，时间 系列分析并非严格用于神经科学：    打开问题或贡献： https://github.com/alecrimi/alecrimi/effconnpy     &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32 ;提交由＆＃32; /u/alecrimi   href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_thing_thing_thing_thing_thing_effconnpy_pyty_python_library_for_causal/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_ting_thing_thing_thing_thing_thing_thing_feffconnpy_pyty_pyty_python_library_for_causal/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwnz4g/i_did_a_thing_effconnpy_python_library_for_causal/</guid>
-      <pubDate>Sun, 23 Feb 2025 23:37:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
