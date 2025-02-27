@@ -4,13 +4,20 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 27 Feb 2025 06:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 12:02:58 GMT</lastBuildDate>
     <item>
-      <title>Google Summer代码即将开放！津贴3K美元！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iz8ntk/google_summer_of_code_is_about_to_be_open_3k/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  以前的GSOC撰稿人谈论一切 - 建议，经验，旅程，技巧，组织（Rocketchat） - 从她那里学习所有有关它的信息 -   https://youtu.be/tmmnuenm6h8?si = ob01pbf9lvsiuuyd    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/puzzleheaded_meet326      [link]    [commist]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iz8ntk/google_summer_of_code_is_about_to_be_open_3k/</guid>
-      <pubDate>Thu, 27 Feb 2025 05:35:04 GMT</pubDate>
+      <title>PairPods：一个免费的开源应用程序，可在MacOS上的蓝牙设备之间共享音频</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iza92l/pairpods_a_free_and_opensource_app_to_share_audio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/opensource ！！ 我很高兴能与我分享我的最新开放式MACOS MACOS MACOR MACOR MACOTH您，让您分享dipweight macos aud luue you pairweight macoth you you lun aud you lue lue lue lue lue lue lue lue lue lue lue luu同时。 我构建了PairPods来解决一个简单的问题 - 观看内容或与Mac上的其他人一起听音乐，而无需共享耳塞或在公共场合使用扬声器。该应用程序可以轻松单击一次。  功能：   在macos  简单，最小的界面可与Macos-li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;   上的任何两个蓝牙设备之间共享音频 li&gt; （〜1.5MB） 用Swiftui用Swiftui   该项目获得了麻省理工学院的许可，并欢迎捐款。如果您有兴趣查看代码或贡献，请查看 github repository 。 下载：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rax94     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iza92l/pairpods_a_free_and_opensource_app_to_share_audio/</guid>
+      <pubDate>Thu, 27 Feb 2025 07:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一种简单，战斗测试，自托管的OSS电子邮件营销解决方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iz95kq/looking_for_an_easy_battletested_selfhosted_oss/</link>
+      <description><![CDATA[Hello everyone, I&#39;m looking for a reliable, self-hosted open-source email marketing solution that is easy to use and allows me to manage multiple email lists while leveraging existing SMTP APIs such as:  Amazon SES SendGrid Mailgun  Postmark   brevo   一个很好的例子是Mailcoach的自托版。 感谢您的帮助！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/umen     [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iz95kq/looking_for_an_easy_battletested_selfhosted_oss/</guid>
+      <pubDate>Thu, 27 Feb 2025 06:06:02 GMT</pubDate>
     </item>
     <item>
       <title>基于硒的IMDB网站刮擦者</title>
@@ -20,25 +27,11 @@
       <pubDate>Thu, 27 Feb 2025 04:53:36 GMT</pubDate>
     </item>
     <item>
-      <title>开源应用程序可以与任何AI模型聊天和交谈（OpenRouter，Ollama，专有等）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iz7ye5/opensource_app_to_chat_talk_with_any_ai_model/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚构建了该应用程序，它是在计算机上使用的最佳AI辅助物：   Cool things:  You can put it into voice mode and keep one long continuous conversation going (with ANY model thanks to local Whisper STT &amp; Kokoro TTS) It has configurable conversation history so it will &#39;remember&#39; days to months of conversations you have with it (at the代币的费用） 内置的 Google搜索和Zillow/redfin Web-Scraping  selenium＆amp;剧作家（难以抓住的网站） 您的口语单词被转录并复制到剪贴板    clean＆amp;奇怪的UI很高兴与 相互作用 仅用 python   我很想了解您的想法，如果您想帮助构建并使用它！缺少哪些很酷的功能？ 计划本周末将其上传到GitHub，也许接下来取决于我认为它是完整版1.0时。在这里和那里进行小调整，以进行一些代码＆amp;注释清理等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arvwizardry     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iz7ye5/opensource_app_to_chat_talk_with_any_ai_model/</guid>
-      <pubDate>Thu, 27 Feb 2025 04:52:54 GMT</pubDate>
-    </item>
-    <item>
       <title>对于那些希望做出第一手贡献并享受python的人</title>
       <link>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经在我的 textual 作为框架。不难学习，但是有很多文档可以查看。 测试套件还没有完全充实，但是应该很快就会。 ，您可以帮助我在内置的代码编辑器中进行几件事，具体来说。这是我最近的主要痛苦点，由于学校和工作，我没有比我更喜欢抛光该应用的时间了。 可以随意分配仓库，看看问题，也许会对他们造成破解。我欢迎所有级别的经验。如果您使用该应用程序并在其他地方查找错误，请确保打开问题或仅提交PR，详细说明您所做的更改。 谢谢！  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cachebags     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</guid>
       <pubDate>Wed, 26 Feb 2025 22:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>你尝试过橄榄吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iyzvic/have_you_tried_olive/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/kuroirider   href =“ https://www.reddit.com/r/olivevideoeditor/comments/1iyhgel/im_very_very_very_surprise_at_the_performance_of_this/”&gt; [link]    [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iyzvic/have_you_tried_olive/</guid>
-      <pubDate>Wed, 26 Feb 2025 22:13:03 GMT</pubDate>
     </item>
     <item>
       <title>许可问题 - 在多大程度上可以将某事视为他人的“派生”作品？</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿，  r/openSource       href =“ https://github.com/coreui/coreui/”&gt; coreui   - 旨在将现代解决方案带到基于Bootstrap的项目的情况下，而无需等待Bootstrap v6。 许多开发人员要求许多开发人员使用Bootsuce for Boottrap来解决SASS折旧和介绍BOOTSTRAP的现代化。因此，我们决定采取行动，我们的最新版本在这里进行以下改进：   sass模块支持  -  no More 如果您正在使用bootstrap，并且想查看我的叉子 -   https://github.com/coreui/coreui/coreui/coreui/coreui/coreui/  提交由＆＃32; /u/mrholek     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iy0qpb/bootstrap_fork_with_full_dart_sass_300/</guid>
       <pubDate>Tue, 25 Feb 2025 17:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>spatialjs-易于使用的3D视频播放器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixz4nn/spatialjs_an_easy_to_use_3d_video_player_written/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/theweeebabyseamus     32  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixz4nn/spatialjs_an_easy_easy_to_to_to_3d_video_player_written/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixz4nn/spatialjs_an_easy_to_use_3d_video_player_written/</guid>
+      <pubDate>Tue, 25 Feb 2025 16:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

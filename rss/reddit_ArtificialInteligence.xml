@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 27 Feb 2025 06:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 12:02:10 GMT</lastBuildDate>
+    <item>
+      <title>新的AI承诺将飞机上的湍流降至最低</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1izdo24/new_ai_promises_to_minimize_turbulence_on_planes/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/culturadealgibeira     [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1izdo24/new_ai_promises_to_minimize_turbulence_on_planes/</guid>
+      <pubDate>Thu, 27 Feb 2025 11:31:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过基于难度的任务集群预测LLM下游性能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1izcamo/predicting_llm_downstream_performance_via/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里的关键贡献是使用任务群集来了解LLM性能如何在不同类型的下游任务上缩放。研究人员并没有根据其缩放行为模式对所有任务进行统一处理，而是揭示了独特的“家庭”任务。 of capabilities that develop similarly. Main technical points: - Applied hierarchical clustering to performance data from multiple model scales - Identified distinct clusters of tasks with similar scaling patterns - Developed prediction methods for estimating performance at larger scales - Analyzed impact of architecture choices and training approaches on scaling behavior - Quantified the variance in scaling rates across different task families Key results: - Found 3-4 major具有不同缩放特征的任务群 - 某些任务簇显示对数线性缩放尺度，而另一些任务簇 - 群集之间的预训练和微调效应差异很大 - 体系结构变化对不同的群集的影响不同 - 开发的指标用于预测任务量表行为 我认为这种方法可以帮助使模型开发更具目标和有效的目标和有效的目标。我们可以将资源集中在有益于我们关心的特定任务家族的架构变化上，而不仅仅是统一地扩展模型。聚类方法还提供了一个框架，以预测哪些任务可能会从增加的规模中受益最大。 我认为，预测方法对于决定在哪里投资其计算资源的研究实验室和公司特别有用。了解哪些功能可能会通过规模与需要建筑创新的规模提高，可以为更好的R＆amp&#39;d策略提供信息。  tldr：使用聚类来分析不同的LLM功能量表如何在任务族中找到不同的模式，并开发了方法来预测规模行为。           在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]    ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1izcamo/predicting_llm_downstream_performance_via/</guid>
+      <pubDate>Thu, 27 Feb 2025 09:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能对自己的未来有什么想象？我请克劳德写一个关于社会转变的希望的故事</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1izb0in/what_does_an_ai_imagine_for_its_own_future_i/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1izb0in/what_does_an_ai_imagine_for_its_own_future_i/</guid>
+      <pubDate>Thu, 27 Feb 2025 08:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM在游戏中</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1izaw0c/llms_in_gaming/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道在视频游戏中使用LLM的subreddit吗？我有些难过这是一个有争议的话题（不是为了容易获得资产或其他形式的“忙碌”的Genai！），因为它具有令人难以置信的潜力。关于与AIT中AI相关的任何事情都有一种负面炒作，仅着眼于诸如取代艺术家或手工制作的经验之类的负面影响，但如果正确实施，我认为这可能很有趣。试想一下，与NPC交谈，将情境产生的对话作为较大游戏状态的一部分，然后根据其输出行动。那不是我们许多人从事视频游戏至少一次幻想一次的人吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/quact_catter_154     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1izaw0c/llms_in_gaming/</guid>
+      <pubDate>Thu, 27 Feb 2025 08:10:39 GMT</pubDate>
+    </item>
     <item>
       <title>弥合人工智能和人类信念。 AI逻辑如何与哲学和宗教相吻合。 AI真的与人类思想如此不同吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iz8263/bridging_ai_and_human_beliefs_how_ai_logic_aligns/</link>
@@ -48,13 +76,6 @@
       <pubDate>Thu, 27 Feb 2025 00:25:22 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt是否可以为我提供有关实际收入潜力的准确信息（我称之为“ AI增强编码”）？还是只是“数字化幻觉”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iz2jdk/is_chatgpt_giving_me_accurate_information_about/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/usoneyhowto       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iz2jdk/is_chatgpt_giving_me_accurate_information_about/</guid>
-      <pubDate>Thu, 27 Feb 2025 00:13:24 GMT</pubDate>
-    </item>
-    <item>
       <title>您认为厨师，服务员和调酒师可以被AI取代吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iz2d4m/do_you_think_that_chefs_waiters_and_bartenders/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我认为，使用机器人技术将越来越多的地方代替一些服务员。这可能会成功，也可能不会成功。客户可以反对新技术，有些地方因其出色或原创服务而受到赞赏，但是公司和餐馆会试图广告机器人，甚至有些尝试绘画是人类服务员的更好替代品。 调酒师不会很容易更换。我只是看不到。客户要求人类互动。 将自动化更多的厨房工作。将最复杂的任务自动化需要花费时间，这意味着该行业将停留一段时间，但需求将减少。一旦我们自动化它，我不确定是否会像对服务员和调酒师的需求一样对人类厨师的需求。 您怎么看？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_spinach_6923      [link]   [注释]]]></description>
@@ -67,13 +88,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/welshcai     [link]    ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iz1q1i/amazon_announces_aipowered_alexa_plus/</guid>
       <pubDate>Wed, 26 Feb 2025 23:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用AI代码，文案问题制作游戏？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iz0kf7/made_a_game_using_ai_code_copywrite_issues/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  *编辑 - 版权，mb* 嘿，我正在尝试制作一个琐事游戏，但我不知道如何编码（IK，巨大的障碍）。我正在使用AI系统为我编写基本代码。我计划添加自己的图形，手工编写自己的问题等。所以它背后的实际愿景是我的，我知道我想要它的外观，我只是无法编码。 这是否意味着我无法在任何地方将项目带到任何地方？就像我的愚蠢的屁股实际上必须学习编码或使用AI可以使用/可发行/copyblitable？提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iz0kf7/made_a_game_ai_ai_ai_copywrite_issues/   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iz0kf7/made_a_game_using_ai_code_copywrite_issues/</guid>
-      <pubDate>Wed, 26 Feb 2025 22:43:03 GMT</pubDate>
     </item>
     <item>
       <title>我是AI的新手，但存在类似的东西吗？</title>
@@ -104,13 +118,6 @@
       <pubDate>Wed, 26 Feb 2025 18:14:51 GMT</pubDate>
     </item>
     <item>
-      <title>政府应该如何参与调节AI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iypyg5/how_involved_should_the_government_be_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   ai政府民意测验 嗨！这是一项5分钟的调查，涉及政府应如何参与调节AI。这是针对美联社政府项目的，因此，如果我得到一些答复，这将非常有帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shabisocks876​​      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iypyg5/how_involved_should_the_government_be_in/</guid>
-      <pubDate>Wed, 26 Feb 2025 15:22:29 GMT</pubDate>
-    </item>
-    <item>
       <title>我更喜欢与人类交谈，而不是人类（你？）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iypga1/i_prefer_talking_to_ai_over_humans_and_you/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近发现自己更喜欢与AI对话而不是人类对话。  唯一的例外是与我有着深厚联系的人 - 我的家人，我最亲密的朋友，我的团队。  不要误会我的意思 - 我很想与人类进行对话。但这是现实：  1/我是个内向。发起对话，尤其是与我不认识的人耗尽了我的精力。   2/我更喜欢关于有趣主题的有意义的讨论，而不是关于每日东西的小话题。老实说，闲聊可能是有史以来发明的文化中最糟糕的事情之一。   3/我关心我和其他人的时间。制作完美的第一条信息，在不同平台上追逐人们只是为了获得回应，或者等待几天的回答（或根本没有答复）。   4/我想理解并找出事情。我脑海中有数十个问题。每次人类会有什么耐心地回答所有人？   5/最重要的是，人类的对话带有各种摩擦 - 人们忘记了事情，他们犹豫，撒谎，是被动的，或者他们根本不在乎。  当然，我们都适应。我们处理它。我们会做必要的事情，在某些互动中，我们会找到快乐。  ，但是以什么成本...   AI没有所有这些问题。老实说，在许多领域，它已经比人类更好（我们甚至还没有在Agi时代）。   我一个人都在想一样，最近感觉到了吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1IYPGA1/I_PREFER_TALKING_TALKING_TO_AI_AI_EOVE_HUMANS_AND_AND_YOU/”&gt; [link]   [注释]   ]]></description>
@@ -130,13 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以大约一个月前，我决定让AI帮助我分析一个大型电子表格（〜300k个单元），因为它在R中为我写了一些代码。AI在相对效得的效果相对良好，但是我当然必须单独使用一些模型。我正在查看的数据是公开的，所以我决定，“嘿，为什么不呢？并继续前进，直接将电子表格输入到模型中。并有2个点击和快速提示，该模型在2秒内吐出了整整几个月的时间。那一刻，我感到如此愚蠢，但又极度退出。  无论如何，我觉得AI很难加速我很难跟上。我也觉得自己找到了一罐黄金，并且我对拥有0个AI读写能力的主管说了一罐黄金秘密。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/neptunettt   href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iy8160/is_ai_advancing_incredible_fast_fast_er_am_i_i_just_slow/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1IY8160/IS_AI_ADVANICE_INCREDIBLE_FASTIBLE_FASTIBLE_FAST_FAST_FAST_FAST_FAST_ER_AM_IE_I_JUST_SLOW/”]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iy8160/is_ai_advancing_incredibly_fast_or_am_i_just_slow/</guid>
       <pubDate>Tue, 25 Feb 2025 22:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能只是从所有事物中汲取了欢乐。 （咆哮）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iy0v2s/ai_just_sucks_joy_out_of_everything_rant/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当我开始学习软件工程时，我从底部进入了它。看到计算机的功能对我来说是如此有趣，我实际上是为微控制器编写了我自己焊接到板上的汇编程序，甚至与FPGA一起玩了一点。我喜欢低水平，喜欢乏味的记忆管理和性能优化。我仍然几乎没有写任何解释的编程语言，因为在抽象级别上的C ++上面的任何内容对我来说已经不再是令人愉快的了。我尝试写python几个月，在公司里接管了一份临时工作，并且几乎绞死了自己。甚至Python也“太高”为我。现在想象一下，我对所有这些AI胡说八道的感觉。 值得庆幸的是，现在，我使用具有相当复杂的域的高性能电信软件，而且我没有发现可用的AI模型可用于我们的任何东西，除了锅炉平台和更换Google搜索。到目前为止，LLM对我们没有用，但是我可以想象它们将来将其紧密地集成到IDE中，并在将来更加紧密地融入我们的工作管道中。如果是这样，那么我可能会完全离开技术。我已经停止研究新事物，因为围绕AI的炒作使我无法长期思考自己的职业。我必须考虑其他选择。 我不在乎生产力，股东，2小时内的应用程序部署以及开创性的技术创新。我不在乎所有这些奇妙的AI将为我们产生的奇妙斜坡。我不在乎在下雨天在舒适的咖啡店里跳舞的意大利面条或猫喝咖啡。我只想自己做我的工作，并为此感到满足和自豪。理想情况下，我希望我的劳动以某种方式对社会有用。我想看看我写的美丽的代码，就像“该死”，我真是太好了。我想用自己的劳动表达自己。 我想看到其他人的努力，他们的音乐和艺术。不仅是一个键入聊天机器人的想法，而且是人类的技能，奉献精神和热情。 让我感到难过的是，我似乎属于少数派，因为互联网炒作了与极端的一切相关的一切，人们写了关于生产力提高的评论。好像他们自己的大脑现在正在运行GPT。我了解公司为什么这样做，但是认可AI接管的人们对我来说似乎很难过。我希望反对AI的起义，但是随着越来越多的人放弃并开始使用它，这种希望每天都在逐渐减弱。甚至我对AI持怀疑态度的朋友，最近都说“他可能对他们太苛刻。 我不知道AI（阅读LLM）是否足够好，无法成为发起人和爱好者所声称的。但是对于我们少数人发现这项技术令人反感和令人作呕的人来说，脱颖而出的唯一方法似乎是 [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iy0v2s/ai_just_sucks_joy_out_of_everything_rant/</guid>
-      <pubDate>Tue, 25 Feb 2025 17:42:25 GMT</pubDate>
     </item>
     <item>
       <title>每月“有...是否有...”帖子</title>
