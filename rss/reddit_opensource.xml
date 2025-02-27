@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 27 Feb 2025 03:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 06:02:48 GMT</lastBuildDate>
+    <item>
+      <title>Google Summer代码即将开放！津贴3K美元！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iz8ntk/google_summer_of_code_is_about_to_be_open_3k/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  以前的GSOC撰稿人谈论一切 - 建议，经验，旅程，技巧，组织（Rocketchat） - 从她那里学习所有有关它的信息 -   https://youtu.be/tmmnuenm6h8?si = ob01pbf9lvsiuuyd    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/puzzleheaded_meet326      [link]    [commist]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iz8ntk/google_summer_of_code_is_about_to_be_open_3k/</guid>
+      <pubDate>Thu, 27 Feb 2025 05:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于硒的IMDB网站刮擦者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iz7ytq/selenium_based_imdb_website_scrapper/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://github.com/irfanbroo/imdb_scraper 电影/表演名称，它返回标题，其IMDB评级和前5个评论。很简单，因为 目标受众 对于新手的网络报废和硒的人来说，他们可以了解使用硒selenium进行Web报废 比较 简单而谦虚的基本思想，并且与其他库相比，直接与点      &lt;！提交由＆＃32; /u/u/u/uplate-flounder-46     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iz7ytq/selenium_based_imdb_website_scrapper/</guid>
+      <pubDate>Thu, 27 Feb 2025 04:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源应用程序可以与任何AI模型聊天和交谈（OpenRouter，Ollama，专有等）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iz7ye5/opensource_app_to_chat_talk_with_any_ai_model/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚构建了该应用程序，它是在计算机上使用的最佳AI辅助物：   Cool things:  You can put it into voice mode and keep one long continuous conversation going (with ANY model thanks to local Whisper STT &amp; Kokoro TTS) It has configurable conversation history so it will &#39;remember&#39; days to months of conversations you have with it (at the代币的费用） 内置的 Google搜索和Zillow/redfin Web-Scraping  selenium＆amp;剧作家（难以抓住的网站） 您的口语单词被转录并复制到剪贴板    clean＆amp;奇怪的UI很高兴与 相互作用 仅用 python   我很想了解您的想法，如果您想帮助构建并使用它！缺少哪些很酷的功能？ 计划本周末将其上传到GitHub，也许接下来取决于我认为它是完整版1.0时。在这里和那里进行小调整，以进行一些代码＆amp;注释清理等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arvwizardry     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iz7ye5/opensource_app_to_chat_talk_with_any_ai_model/</guid>
+      <pubDate>Thu, 27 Feb 2025 04:52:54 GMT</pubDate>
+    </item>
     <item>
       <title>对于那些希望做出第一手贡献并享受python的人</title>
       <link>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</link>
@@ -71,7 +92,7 @@
     <item>
       <title>ReceCtroast：一个用于UI反馈收集的Web小部件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我制作了一个工具，使向开发人员发送反馈更加容易。这是针对产品经理，技术领导者和网络设计师的工具。  React React React React允许用户在网页上选择元素，捕获其状态（包括屏幕截图），然后将详细信息发送到所需的频道。 之前，将反馈发送给开发人员是一团糟的和时间来源。您必须设置会议并展示问题。  用React Roast进行React Roast，您可以在不离开页面的情况下发送反馈。  npm： https://www.npmjs.coms.com/package/package/package/reeact-roast-roast-roast-roast   demo： demo：请使用它并报告问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/satyamskillz     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iyiqp6/reactoctroast_a_web_widget_for_ui_feedback_collection_collection/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我制作了一个工具，使向开发人员发送反馈更加容易。这是针对产品经理，技术领导者和网络设计师的工具。  React React React React允许用户在网页上选择元素，捕获其状态（包括屏幕截图），然后将详细信息发送到所需的频道。 之前，将反馈发送给开发人员是一团糟的和时间来源。您必须设置会议并展示问题。  用React Roast进行React Roast，您可以在不离开页面的情况下发送反馈。  npm： https://www.npmjs.coms.com/package/package/package/reaect-roast/reaect-roast    demo：请使用它并报告问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/satyamskillz     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iyiqp6/reactoctroast_a_web_widget_for_ui_feedback_collection_collection/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</guid>
       <pubDate>Wed, 26 Feb 2025 08:15:49 GMT</pubDate>
     </item>
@@ -92,14 +113,14 @@
     <item>
       <title>对于开源开发：您跟踪什么指标？您怎么知道您的项目对您自己以外的人有用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始构建 open-source for rag 。我有很多有趣的建筑。但是，我正在努力评估自己的表现（或糟糕）。我的目标是构建人们发现真正有用的东西，并且我不确定如何量化该指标或跟踪的指标。我觉得由于机器人只是刮擦github和pypi，在此阶段，克隆和PIP下载太肿了，无法在此阶段进行跟踪。我听说一些开发人员的朋友提到了Github上的星星也只是虚荣心的指标。  如果您构建了一个您认为成功的开源项目，我很想听听您用来定义成功的指标。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_do_you_track/&gt; [link]   [注释]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始构建 open-source for rag 。我有很多有趣的建筑。但是，我正在努力评估自己的表现（或糟糕）。我的目标是构建人们发现真正有用的东西，并且我不确定如何量化该指标或跟踪的指标。我觉得由于机器人只是刮擦github和pypi，在此阶段，克隆和PIP下载太肿了，无法在此阶段进行跟踪。我听说一些开发人员的朋友提到了Github上的星星也只是虚荣心的指标。  如果您构建了一个您认为成功的开源项目，我很想听听您用来定义成功的指标。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Advanced_army4706     [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iydsfa/for_open_source_devs_what_metrics_do_you_track/</guid>
       <pubDate>Wed, 26 Feb 2025 03:10:56 GMT</pubDate>
     </item>
     <item>
       <title>OSI不断变化的选举故事</title>
       <link>https://www.reddit.com/r/opensource/comments/1iy6ad4/osis_continually_changing_election_story/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/samj      [注释]]]></description>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/samj      [注释]    ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iy6ad4/osis_continually_changing_election_story/</guid>
       <pubDate>Tue, 25 Feb 2025 21:24:42 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿，  r/openSource       href =“ https://github.com/coreui/coreui/”&gt; coreui   - 旨在将现代解决方案带到基于Bootstrap的项目的情况下，而无需等待Bootstrap v6。 许多开发人员要求许多开发人员使用Bootsuce for Boottrap来解决SASS折旧和介绍BOOTSTRAP的现代化。因此，我们决定采取行动，我们的最新版本在这里进行以下改进：   sass模块支持  -  no More 如果您正在使用bootstrap，并且想查看我的叉子 -   https://github.com/coreui/coreui/coreui/coreui/coreui/coreui/  提交由＆＃32; /u/mrholek     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iy0qpb/bootstrap_fork_with_full_dart_sass_300/</guid>
       <pubDate>Tue, 25 Feb 2025 17:37:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>spatialjs-易于使用的3D视频播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixz4nn/spatialjs_an_easy_to_use_3d_video_player_written/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/theweeebabyseamus     32  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixz4nn/spatialjs_an_easy_easy_to_to_to_3d_video_player_written/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixz4nn/spatialjs_an_easy_to_use_3d_video_player_written/</guid>
-      <pubDate>Tue, 25 Feb 2025 16:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Graphina：生锈的高级图数据科学库🦀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixyyey/graphina_a_highlevel_graph_data_science_library/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在开发一个名为Graphina的开放源代码锈库，用于图形数据科学。该图书馆正处于开发的早期阶段，因此可能还没有准备好认真使用。但是，已经实施了许多核心功能和算法的早期版本。 我在这里宣布该项目以邀请社区的贡献和建议。我仍然对生锈相对较新，因此我特别感谢您可能必须帮助您改善Graphina的任何建设性反馈。 sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_pomegranate7508      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixyyey/graphina_a_highlevel_graph_data_science_library/</guid>
-      <pubDate>Tue, 25 Feb 2025 16:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>咖啡馆玛丽亚。一款功能性的烹饪模拟游戏完全在Mariadb中玩。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/o1xutkmgu0r-jioxlboka8t5spj7rfeehhhh82dkekcjo.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 94CA4053571C3186D7E109DC6DBF5185952ED6ED6CE“ title =“ Cafe Maria。一款功能性的烹饪模拟游戏，完全在Mariadb中玩。” /&gt;    &lt;！ -  sc_off-&gt;  我的疯狂科学实验螺旋不高。没有外部脚本，可以登录DB并通过存储过程完全播放。 我完成了概念证明，并决定是时候继续进行下一个项目了。因此，我将其释放给公众以您的娱乐和恐惧。提交由＆＃32; /u/u/todo-make-username     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixwwwmj/cafe_maria_a_a_functional_cooking_sim_game_game_played/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</guid>
-      <pubDate>Tue, 25 Feb 2025 14:57:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
