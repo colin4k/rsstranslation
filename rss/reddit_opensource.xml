@@ -4,9 +4,51 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 27 Feb 2025 18:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 21:03:13 GMT</lastBuildDate>
     <item>
-      <title>制作一组开发人员来构建项目（从事一些想法）！</title>
+      <title>无花果至吉特布SCSS Mixin项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izpmwz/figmatogithub_scss_mixin_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究这个项目 eggstractor ，其中想法是有一个 figma插件您可以在哪里导出SCSS Mixins。您可以使用Mixins快速构建遵循设计的组件或布局。  最主要的是，一旦构建了组件，就可以随时在无花果上运行插件来更新样式，而无需对您的功能产生任何影响，或者需要担心需要维护的垃圾代码，因为它只是在做混合物。  它将带有PR的分支制成，因此开发人员完全控制了代码库。 And it uses GitHub Pages to preview the changes, so designers can make the changes they want, export them, test them live, and then it&#39;s good to go for a developer to review and merge. It&#39;s still in development (not every style from Figma is supported yet), but I&#39;m interested in everyone&#39;s thoughts and if you think it&#39;s something you could see yourself using.   提交由＆＃32; /u/u/levi_bitovi     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izpmwz/figmatogithub_scss_mixin_project/</guid>
+      <pubDate>Thu, 27 Feb 2025 20:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>clermont-开源容器跟踪Web应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iznezo/clermont_an_open_source_vessel_tracking_web_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我一直在开发一个开源的海洋船只跟踪工具，该工具在地图上显示活船数据。我刚刚启动了一个静态演示（实时演示即将到来 - 只是比较托管选项），并且会喜欢反馈甚至贡献！ 静态演示： https://sagehourihan.github.io/clermont-demo/index-demo/index.htex.html  href =“ https://github.com/sagehourihan/clermont”&gt; https://github.com/sagehourihan/clermont     Clermont的工作：            船舶移动使用来自 aisstream.io 的船舶移动（仅当在本地运行 - 再次努力获得现场演示） 静态演示使用json文件来模仿这个     出门在外，所以我下班后需要做一些事情。我喜欢使用诸如“飞行雷达24/7”之类的应用程序来跟踪我在天空中看到的飞机，所以想知道为什么不追踪船只？我想创建一个开源的商业船舶跟踪服务的替代品。简而言之，因为我可以。我喜欢仅仅建立感兴趣的个人的想法，即使存在类似的产品。 如何提供帮助：  尝试演示！  我知道它是静态的，但是前端模仿了实际的完整堆栈应用程序，如果您想要的话，请查看。 寻找错误，问题或建议的功能。 贡献！它是开源的，所以请随时做出贡献。我在GitHub存储库中有一个路线图，我打算下一步做的事情。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/m4j0r_spam      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iznezo/clermont_an_open_source_vessel_tracking_web_app/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字公共物品联盟2024 DPG生态系统报告（PDF）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izmthf/digital_public_goods_alliance_2024_state_of_the/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mike_gifford      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izmthf/digital_public_goods_alliance_2024_state_of_the/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:32:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>llms.txt中心 -  AI -Ready文档和工具的最大目录</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izmmtx/llmstxt_hub_the_largest_directory_for_aiready/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/thedaviddias       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izmmtx/llmstxt_hub_the_largest_directory_for_aiready/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nichey：为您的研究主题生成Wiki，从网络和文档中采购。 （麻省理工学院许可证）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izmdm6/nichey_generate_a_wiki_for_your_research_topic/</link>
+      <description><![CDATA[   /u/u/gkamer8       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izmdm6/nichey_generate_a_wiki_for_your_research_topic/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>NextCloud Hub 10  - 您的统一模块化数字工作区 -  NextCloud</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izm8sm/nextcloud_hub_10_your_unified_modular_digital/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/temapone11     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1izm8sm/nextcloud_hub_10_your_your_your_unified_modular_digital/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izm8sm/nextcloud_hub_10_your_unified_modular_digital/</guid>
+      <pubDate>Thu, 27 Feb 2025 18:08:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作一组开发人员来构建项目（从事一些想法）！！</title>
       <link>https://www.reddit.com/r/opensource/comments/1izm24j/making_a_group_of_devs_to_build_projectswork_on/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在制作一组开发人员，一起构建一些很酷的项目（处理一些想法）。主要目的是为一些现实世界中的问题构建可扩展解决方案。 PLZ DM添加。免责声明：不适合初学者！！！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/metalcomprehansy88     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1izm24j/making_a_group_of_devs_to_build_projectswork_on/</guid>
@@ -25,13 +67,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好。我正在寻找FOSS替代方案，以避免使用Firefox帐户。需要在移动和计算机浏览器上使用。预先感谢您  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/vayable_fishing_32     [link]    ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1izkfh8/foss_app_for_save_passwords_and_bookmarks/</guid>
       <pubDate>Thu, 27 Feb 2025 16:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以克隆AI？还是开源？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izhfeq/is_it_possible_to_clone_grok_ai_or_open_source_it/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对编码或开源内容一无所知，但我认为Grok AI令人惊讶地很好。由于最近的所有政治事件和埃隆（Elon）或多或少像饥饿的妄想亿万富翁一样，我不信任提出特定的问题，也不愿意继续向我的数据传达我的数据。某人能够复制代码的可能性是什么？还是根本不可能？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sensistive-box-1641     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1izhfeq/is_it_it_possible_to_clone_grone_grok_ai_ai_open_open_source_it/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izhfeq/is_it_possible_to_clone_grok_ai_or_open_source_it/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:47:45 GMT</pubDate>
     </item>
     <item>
       <title>MyDrive-开源Google Drive Clone（节点，Docker，Amazon S3，MongoDB）</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我们发布了一个开源日志Explorer模板，可帮助开发人员在其应用程序中构建可观察性功能。  这是一个完整的堆栈解决方案，带有下一个frontend和tinybird后端，旨在按大规模处理数十亿个日志。目的是使任何软件项目都可以轻松提供大型平台提供的日志探索。  MIT许可并开放以供捐款。 github： github.com/tinybirdco/logs-explorer-template       &lt;！提交由＆＃32; /u/u/u/itty-bitty-birdy-tb      [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iyp8bc/opensource_logs_explorer_template/</guid>
       <pubDate>Wed, 26 Feb 2025 14:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个用于产品测试的数据分析平台 - 寻找反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_data_analytics_platform_for_product/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我一直在研究 hovernest ，开源数据分析平台 旨在帮助小型企业，产品经理和开发人员有效地测试其产品。它为产品性能，用户行为和潜在改进提供了深刻的见解。我正在寻找诚实的反馈以完善平台。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_a_data_analytics_platform_for_product/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iykqyu/built_a_data_analytics_platform_for_product/</guid>
-      <pubDate>Wed, 26 Feb 2025 10:44:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是一个值得更多关注的OSS项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_project_that_deserves_more_attention/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们大多数人可能知道在创建和维护开源项目方面有多少努力。但是，由于开源世界有多广泛，有无数的项目在雷达下飞行。  tbh，这有时会让我感到沮丧，因为我不仅知道这些项目付出了多大的努力，而且有些鼓励确实可以在保持开发人员的动机方面有所作为。 ，我想分享几个不在5k sarve oss oss des versever oss des versever oss des verve oss des verve serve oss plove oss food plofe oss posever oss posever oss五星期（所有的人），我想到了我想到的，我想到了这一点。 (FYI I’m not affiliated with any of these—just a fan!)  Codapi (1.7k stars) – Lets you make interactive code examples in your docs. Instead of just reading, users can play around with them—making learning way more fun and hands-on! asciinema-player (2.7k stars) – Play back terminal commands on a website, like a video—but with actual text you can copy/paste, so you can roll your mouse over it and复制/粘贴命令（如果您喜欢。它使您可以查看是否可以在某些地方简化代码，例如集中化的函数，等等。与其他库不同，典型不需要额外的架构定义。只有1行代码。   当然，这只是在刮擦表面。您知道其他被低估的OSS项目值得更多关注吗？我很想检查它们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_oss_project_that_that_deserves_more_atterention/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iyk723/whats_an_oss_project_that_deserves_more_attention/</guid>
-      <pubDate>Wed, 26 Feb 2025 10:05:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源是梦想死亡的地方</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iyj3iu/opensource_is_where_dreams_go_to_die/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/strical-idalial-ideal6236     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iyj3iu/opensource_is_where_dreams_go_to_die/</guid>
-      <pubDate>Wed, 26 Feb 2025 08:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReceCtroast：一个用于UI反馈收集的Web小部件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我制作了一个工具，使向开发人员发送反馈更加容易。这是针对产品经理，技术领导者和网络设计师的工具。  React React React React允许用户在网页上选择元素，捕获其状态（包括屏幕截图），然后将详细信息发送到所需的频道。 之前，将反馈发送给开发人员是一团糟的和时间来源。您必须设置会议并展示问题。  用React Roast进行React Roast，您可以在不离开页面的情况下发送反馈。  npm： https://www.npmjs.coms.com/package/package/package/reaect-roast/reaect-roast    demo：请使用它并报告问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/satyamskillz     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1iyiqp6/reactoctroast_a_web_widget_for_ui_feedback_collection_collection/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iyiqp6/reactroast_a_web_widget_for_ui_feedback_collection/</guid>
-      <pubDate>Wed, 26 Feb 2025 08:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>🦜toutui：Linux的TUI Audiobookshelf客户端。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iyi7fm/toutui_a_tui_audiobookshelf_client_for_linux/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi opensource社区！ 在过去的几周中，我真的很喜欢为Linux建立一个tui audiobookshelf客户端（用Rust ust，我用ratatui编写了ratatui为tui for tui）。我很高兴与您共享第一个版本。 AudioBookshelf Server）在保持您的进度和统计数据同时。查看 github页面以获取详细的演示。 我希望您享受这个TUI应用程序！欢迎任何反馈。 享受！  源代码。     &lt;！ -  sc_on-&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iyi7fm/toutui_a_a_tui_audiobookshelf_client_for_for_linux/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iyi7fm/toutui_a_tui_audiobookshelf_client_for_linux/</guid>
-      <pubDate>Wed, 26 Feb 2025 07:36:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
