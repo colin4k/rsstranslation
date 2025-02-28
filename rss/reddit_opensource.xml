@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:02:55 GMT</lastBuildDate>
+    <item>
+      <title>签署请愿书：发布Skype P2P的历史源代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j09bln/sign_the_petition_release_the_historic_source/</link>
+      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;   skype将在2025年5月到寿命终止。    back Back the Days the It of It the It the It the It the It是革命性的PEERY-PERER-PERER-PERSONTANT（P2PP）。它比今天的网络监控工具更好地检测到网络状态。它以零配置，当选的P2P网络继电器以及在3G 3G蜂窝网络仍处于设计阶段的那些时代的构建整个虚拟P2P网络。请愿计算机科学和科技社区的好处。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/ximaera   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j09bln/sign_the_petition_release_the_historic_source/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>托马斯·杰斐逊（Thomas Jefferson）专利：“一般而言，其他国家认为这些垄断比对社会的优势更具尴尬性，并且可以观察到，拒绝发明垄断的国家与新的和有用的设备中的英格兰一样富有成果。” （1813）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j09awr/thomas_jefferson_on_patents_generally_speaking/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/breck     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j09awr/thomas_jefferson_on_patents_generally_speaking/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍ARIA：管理AI参与软件项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j0996a/introducing_aria_managing_ai_participation_in/</link>
+      <description><![CDATA[After some years of silence (I was one of the Remmina maintainers), I&#39;m excited to share ARIA (Artificial Intelligence Regulation Interface &amp; Agreements), an open-source framework for defining boundaries between human and AI contributors in software projects. What ARIA Does As AI coding tools become more prevalent, ARIA helps teams establish clear policies for how AI should interact with their codebase:  Creates standardized YAML policies for AI participation in codebases Provides policy templates with different permission models (Guardian, Observer, Assistant) 与诸如风浪冲浪和光标（WIP，NVIM/VIM和EMACS）等IDS进行了整合， 将策略转换为特定于IDE的规则并忽略文件    项目状态  aria当前位于alpha（v0.1.1）中。 The core functionality works, but many features are still in development. Looking for Contributors I&#39;m developing ARIA in my limited spare time and welcome contributors interested in:  IDE integration Documentation Testing Feature implementation  Transparent Development  Aria的一部分是在AI协助的情况下开发的，遵循Aria旨在标准化的相同的透明度和人类监督原则。 了解更多    github： antenore.github.io/aria     sponsor： github.com/sponsors/sponsors/sponsors/lieperitions and p p p pro   谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/antenore     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j0996a/introducing_aria_managing_ai_participation_in/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源倡议（OSI）宣布了即将举行的个人和会员选举的候选人名单！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j07bsb/the_open_source_initiative_osi_announced_the/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/opensourceinitiative      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j07bsb/the_open_source_initiative_osi_announced_the/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:12:01 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个多合一的自托实用工具，并开了开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1j05d41/i_made_an_allinone_selfhosted_utility_tools_and/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>Pykomodo  -  Python的代码库/PDF处理和块</title>
       <link>https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for/</link>
-      <description><![CDATA[🚀 New Release: PyKomodo – Codebase/PDF Processing and Chunking for Python Hey everyone, I just released a new version of PyKomodo, a comprehensive Python package for advanced document processing and intelligent chunking.目标受众是AI开发人员，知识库创建者，数据科学家，或者基本上需要块的人。  Features:   Process PDFs or codebases across multiple directories with customizable chunking strategies Enhance document metadata and provide context-aware processing  📊 Example Use Case PyKomodo processes PDFs, code repositories creating semantically chunks that maintain context while对检索系统的优化。 🔍比较 可以使用诸如ropomix（例如ropomix）的基本文本拆分器来实现等效的解决方案，但是 pykomodo 具有多个关键优势：   1m&gt;1️⃣performance＆amp＆amp; amp;柔韧性优化  库使用平行处理，可以显着加快文档的加速 基于内容语义的自适应块尺寸，而不仅仅是字符计数 处理多目标处理，并使用可配置的忽略规则和优先规则      &lt;使用可自定义的线程计数✅改进的元数据提取和摘要生成✅pdf的分解虽然还不是完美的。✅全面文档和示例&lt; /p&gt; &gt;检查它：&lt; /h1&gt;    github： github： github.com/duriantaco/pykomodo     pypi：文档： pykomodo.readthedocs.io     很想听听您的想法 -  feedback＆amp;欢迎功能请求！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for//]]></description>
+      <description><![CDATA[🚀 New Release: PyKomodo – Codebase/PDF Processing and Chunking for Python Hey everyone, I just released a new version of PyKomodo, a comprehensive Python package for advanced document processing and intelligent chunking.目标受众是AI开发人员，知识库创建者，数据科学家，或者基本上需要块的人。  Features:   Process PDFs or codebases across multiple directories with customizable chunking strategies Enhance document metadata and provide context-aware processing  📊 Example Use Case PyKomodo processes PDFs, code repositories creating semantically chunks that maintain context while对检索系统的优化。 🔍比较 可以使用诸如ropomix（例如ropomix）的基本文本拆分器来实现等效的解决方案，但是 pykomodo 具有多个关键优势：   1m&gt;1️⃣performance＆amp＆amp; amp;柔韧性优化  库使用平行处理，可以显着加快文档块 基于内容语义的自适应块尺寸，而不仅仅是字符计数 处理多个目标处理，并使用可配置的可忽略的模式和优先规则      &lt;使用可自定义的线程计数✅改进的元数据提取和摘要生成✅pdf的分解虽然还不是完美的。✅全面文档和示例&lt; /p&gt; &gt;检查它：&lt; /h1&gt;    github： github： github.com/duriantaco/pykomodo     pypi：文档： pykomodo.readthedocs.io     很想听听您的想法 -  feedback＆amp;欢迎功能请求！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for//]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for/</guid>
       <pubDate>Fri, 28 Feb 2025 09:06:19 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>从HTML创建文档 - 新版本-V1.11.0 @turbodocx/html -to -docx</title>
       <link>https://www.reddit.com/r/opensource/comments/1izrjzb/create_documents_from_html_new_release_v1110/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我们维护一个名为`@turbodocx/html-to-docx`的库，并努力随着用法的增长而不断改进库。在当前的维护版本中，我们对下面的几个改进进行了改进。 我们欢迎开源贡献，因为它为火灾提供了使世界更容易生成的文件。在AI的世界中，制作可靠的文档输出至关重要，这就是为什么我们继续制作代码开源的原因。    https://github.com/turbodocx/hturbodocx/hturbodocx/hturbodocx/hturbodocx/hturbodocx/hturbodocx          https://www.npmjs.com/package/package/ppackage/ptbarbodocx/hturbodocx/hturbodocx/html-html-tml-to-docx-docx  表行是由 @nicolasiscoding 中的 in  @adymo  in ＃60 ＃60  href =“ https://github.com/adymo”&gt; @adymo 在＃60“&gt;＃60”&gt; 60 提交由＆＃32; /u/u/nicolascoding   href =“ https://www.reddit.com/r/opensource/comments/1izrjzb/create_documents_from_html_html_new_release_v1110/”&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我们维护一个名为`@turbodocx/html-to-docx`的库，并努力随着用法的增长而不断改进库。在当前的维护版本中，我们对下面的几个改进进行了改进。 我们欢迎开源贡献，因为它为火灾提供了使世界更容易生成的文件。在AI的世界中，制作可靠的文档输出至关重要，这就是为什么我们继续制作代码开源的原因。    https://github.com/turbodocx/hturbodocx/hturbodocx/hturbodocx/hturbodocx/hturbodocx/hturbodocx          https://www.npmjs.com/package/package/ppackage/ptbarbodocx/hturbodocx/hturbodocx/html-html-tml-to-docx-docx  表行是由 @nicolasiscoding 中的 in  @adymo  in ＃60 ＃60  href =“ https://github.com/adymo”&gt; @adymo 在 60“&gt;＃60”&gt; 60 提交由＆＃32; /u/u/nicolascoding   href =“ https://www.reddit.com/r/opensource/comments/1izrjzb/create_documents_from_html_html_new_release_v1110/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1izrjzb/create_documents_from_html_new_release_v1110/</guid>
       <pubDate>Thu, 27 Feb 2025 21:51:57 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  如何在开源中贡献？每当我试图看到问题时，它们都会在我的头顶上（不是网站上最简单的更改颜色），很多时候我也不知道事情是如何工作的，即使我是一个完整的堆栈区块链DEV ....      &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/geek18yo     ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1izkfj6/how_to_contribute/</guid>
       <pubDate>Thu, 27 Feb 2025 16:54:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>保存密码和书签的FOSS应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izkfh8/foss_app_for_save_passwords_and_bookmarks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好。我正在寻找FOSS替代方案，以避免使用Firefox帐户。需要在移动和计算机浏览器上使用。预先感谢您  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/vayable_fishing_32     [link]    ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izkfh8/foss_app_for_save_passwords_and_bookmarks/</guid>
-      <pubDate>Thu, 27 Feb 2025 16:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>MyDrive-开源Google Drive Clone（节点，Docker，Amazon S3，MongoDB）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izgps4/mydrive_open_source_google_drive_clone_node/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/kyle_the_mage99     [link]   ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izgps4/mydrive_open_source_google_drive_clone_node/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立语音克隆倡导工具 - 寻找合作者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izgp80/building_a_voice_cloning_advocacy_tool_looking/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/rfksemperfi     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izgp80/building_a_voice_cloning_advocacy_tool_looking/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:13:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1izerpw/problems_with_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  作为开发者，我是开源的忠实拥护者，是获取想法的一种方式，看看他人如何使用我想使用的工具。但是，有一些问题使我远离开源代码。我想知道是否有机会建立一个解决这些问题的平台。   ，维护开源项目会感到不知所措。贡献很棒，但是它们通常需要广泛的审查，重构和讨论 - 有时比编写原始代码要多的精力。许多项目都在努力平衡开放性与可维护性，尤其是当贡献者与项目的愿景完全不符时。 另一个挑战是可发现性。许多开源项目永远不会因为获得足够的知名度而获得吸引力。 Github Stars提供了帮助，但它们不一定会转化为敬业的贡献者或现实世界的用法。 那么，这是可持续性的问题。除非一个项目得到公司或活跃社区的支持，否则很难继续发展。许多维护者试图平衡开源工作与他们的全职工作，捐赠模型很少产生足够的支持。 因此，我对这个社区的问题是：理想的开源平台或生态系统如何解决这些问题？      •我们如何使开放式项目变得更加轻松且更加轻松且更加多重呢？ •哪些方法可以帮助发现新的和鲜为人知的项目？ •我们能否为人们提供更好的激励措施，使人们有意义地贡献和维护者维持其项目？   很想听听已经朝着这些目标努力的平台的思想，想法甚至示例。让我们集思广益，为维护者和贡献者提供更好的开源方式！ 我目前正在考虑诸如Product Hunt和Github Mixed之类的平台。也许为贡献者或赏金提供了一些资金。不确定，但是想对此进行对话。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1izerpw/problems_with_open_source/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1izerpw/problems_with_open_source/</guid>
-      <pubDate>Thu, 27 Feb 2025 12:38:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
