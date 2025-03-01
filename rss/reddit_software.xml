@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 01 Mar 2025 00:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 03:11:53 GMT</lastBuildDate>
+    <item>
+      <title>如何完全卸载WPS办公室？</title>
+      <link>https://www.reddit.com/r/software/comments/1j0ph1u/how_to_completely_uninstall_wps_office/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     大家好！我的Microsoft Office图标空白（例如：文档，PPTX等）有问题，这是由于反病毒自动安装WPS办公室的原因。我“卸载” WPS Office已经出现了，但由于某种原因仍然是一个选项，我认为这可能是我的Microsoft Office Icons仍未出现的原因。  我已经尝试浏览默认应用程序，例如添加用于阅读和编辑文档的办公室，但它仍然与空白图标相同。  我尝试安装第三方卸载器，revo unstaller，因为它可能是未删除的WPS的痕迹，但是WPS Office不会出现APP。 有人遇到了同样的问题吗？您是如何解决的？请让我在下面告诉我。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/handzs     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j0ph1u/how_to_completely_uninstall_wps_office/</guid>
+      <pubDate>Sat, 01 Mar 2025 02:49:33 GMT</pubDate>
+    </item>
     <item>
       <title>你们是否认为为关闭的软件制作数字博物馆会起作用吗？</title>
       <link>https://www.reddit.com/r/software/comments/1j0gz6w/do_yall_think_making_a_digital_museum_for/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/software/comments/1j01in2/ama_i_built_a_textai_integration_app_in_swift/</guid>
       <pubDate>Fri, 28 Feb 2025 06:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有防火墙或类似程序沿Windows Defender和其他AV/Anti Malware运行，以阻止与Microsoft Services的连接？</title>
-      <link>https://www.reddit.com/r/software/comments/1izzhre/any_firewall_or_similar_program_to_run_along/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图最大程度地限制我的计算机所有数据收集。我尝试了Glasswire；但是它们似乎与Microsoft和Hook与Windows Defender合作，这意味着它们允许Microsoft想要的事情。当试图阻止SVChost作为实验时，我就偶然发现了它，知道我可能会没有互联网而最终会出现。但是我没有。看来它仍在连接一点，所以我检查了论坛并阅读了。 我计划将防火墙与遥测DNS块列表配对，我将尝试使用并闭上软件。 为了安全起见，我依靠Windows Defender，BitDefender和bitdefender and Malwarebytes。还要使用磁盘加密，备份（不是BC RAID它不会停止腐败或病毒）和VPN。欢迎任何其他建议。 基本上，我需要一个在Windows Defender之前或之后使用的防火墙（理想情况下）；但不挂钩。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1izzhre/any_firewall_similar_similar_similar_program_to_run_along/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1izzhre/any_firewall_or_similar_program_to_run_along/</guid>
-      <pubDate>Fri, 28 Feb 2025 04:29:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
