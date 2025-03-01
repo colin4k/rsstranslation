@@ -4,14 +4,7 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 01 Mar 2025 06:02:21 GMT</lastBuildDate>
-    <item>
-      <title>使用可选的版本控制层/插件来增强洪流协议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j0ofe3/enhancing_torrent_protocols_with_an_optional/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j0ofe3/enhancing_torrent_protocols_with_an_optional/</guid>
-      <pubDate>Sat, 01 Mar 2025 01:54:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Mar 2025 09:03:35 GMT</lastBuildDate>
     <item>
       <title>用于记录和归档的艺术品关系数据库。</title>
       <link>https://www.reddit.com/r/opensource/comments/1j0nt32/artwork_relational_database_for_documenting_and/</link>
@@ -104,13 +97,6 @@
       <pubDate>Fri, 28 Feb 2025 18:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>从您的Gmail帐户中删除所有 - 分析和删除电子邮件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j0e1un/delete_em_all_analysis_and_delete_emails_from/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/kruise90     ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j0e1un/delete_em_all_analysis_and_delete_emails_from/</guid>
-      <pubDate>Fri, 28 Feb 2025 18:04:02 GMT</pubDate>
-    </item>
-    <item>
       <title>最好的自我托管URL Shortener [帮助]</title>
       <link>https://www.reddit.com/r/opensource/comments/1j0b4ag/the_best_selfhosted_url_shortener_help/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   hi pals！ i am looking for a good url shortener, i have used PORL but even though it has QR code, it is limited, the interface is ugly and i could never get the geo stats working with maxmind geoip and for each domain you need another instance of PORL so i was dissatisfied. then i used YOURLS and i liked their plugins, you have QR code, you can modify the shortened urls, you have more优势，但是我也无法与MaxMind Geoip合作，并且您无法与Google Analytics（分析），MATOMO或任何其他...  相关联...  因此，我希望使用您的灵活性进行缩写，但是您可以使用地理位置分析或可以使用Google Anallage n nosemant n nesothal n onlass e Anally anthertime 解决的方法将尝试shlink   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j0b4ag/the_best_selfhosted_url_shortener_help/”&gt; [link]       [注释]  ]]></description>
@@ -144,6 +130,20 @@
       <description><![CDATA[🚀 New Release: PyKomodo – Codebase/PDF Processing and Chunking for Python Hey everyone, I just released a new version of PyKomodo, a comprehensive Python package for advanced document processing and intelligent chunking.目标受众是AI开发人员，知识库创建者，数据科学家，或者基本上需要块的人。  Features:   Process PDFs or codebases across multiple directories with customizable chunking strategies Enhance document metadata and provide context-aware processing  📊 Example Use Case PyKomodo processes PDFs, code repositories creating semantically chunks that maintain context while对检索系统的优化。 🔍比较 可以使用诸如ropomix（例如ropomix）的基本文本拆分器来实现等效的解决方案，但是 pykomodo 具有多个关键优势：   1m&gt;1️⃣performance＆amp＆amp; amp;柔韧性优化  库使用平行处理，可以显着加快文档的加速 基于内容语义的自适应块尺寸，而不仅仅是字符计数 处理多目标处理，并使用可配置的忽略规则和优先规则      &lt;使用可自定义的线程计数✅改进的元数据提取和摘要生成✅pdf的分解虽然还不是完美的。✅全面文档和示例&lt; /p&gt; &gt;检查它：&lt; /h1&gt;    github： github： github.com/duriantaco/pykomodo     pypi：文档： pykomodo.readthedocs.io     很想听听您的想法 -  feedback＆amp;欢迎功能请求！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for//]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j03kjn/pykomodo_codebasepdf_processing_and_chunking_for/</guid>
       <pubDate>Fri, 28 Feb 2025 09:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>电视的开源或通用主板，没有这样的东西，对吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izyqdx/open_source_or_generic_mainboards_for_tv_there_is/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有任何通用主板可以驱动具有简单输入端口而没有智能电视BS的电视面板？有点像笔记本电脑和平板电脑屏幕与Aliexpress的通用驱动程序重复使用。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jm2me     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izyqdx/open_source_or_generic_mainboards_for_tv_there_is/</guid>
+      <pubDate>Fri, 28 Feb 2025 03:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>EA已在GPL许可证下还原并发布了多个古董命令和征服游戏的完整源代码。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1izyipt/ea_have_restored_and_released_the_full_source/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/tartar2517     [link]   [注释] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1izyipt/ea_have_restored_and_released_the_full_source/</guid>
+      <pubDate>Fri, 28 Feb 2025 03:34:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
