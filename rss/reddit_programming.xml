@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 02 Mar 2025 00:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 03:10:17 GMT</lastBuildDate>
+    <item>
+      <title>Linux的早期</title>
+      <link>https://www.reddit.com/r/programming/comments/1j1fm5p/the_early_days_of_linux/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/stackoverflooooooow      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j1fm5p/the_early_days_of_linux/</guid>
+      <pubDate>Sun, 02 Mar 2025 01:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国开发商的开源旅程</title>
+      <link>https://www.reddit.com/r/programming/comments/1j1ep8q/a_chinese_developers_open_source_journey/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ligitimate-visit8986      [link]  ＆＃32;   [commiss]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j1ep8q/a_chinese_developers_open_source_journey/</guid>
+      <pubDate>Sun, 02 Mar 2025 00:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java工程：摘要＃48</title>
+      <link>https://www.reddit.com/r/programming/comments/1j1ej9l/engineering_with_java_digest_48/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/decuntional-ad2036     ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j1ej9l/engineering_with_java_digest_48/</guid>
+      <pubDate>Sun, 02 Mar 2025 00:47:50 GMT</pubDate>
+    </item>
     <item>
       <title>建立更智能的PDF助手：使用DeepSeek＆Langchain的高级抹布技术</title>
       <link>https://www.reddit.com/r/programming/comments/1j19mgf/build_smarter_pdf_assistants_advanced_rag/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/paulpjoby     &lt;a href =“ https://www.reddit.com/r/programming/comments/1j15pvl/create_a_dll_dll_in_in_in_vbnet_and_and_it_it_it_it_in_a_a_a_a_a_a_c_project/]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j15pvl/create_a_dll_in_vbnet_and_use_it_in_a_c_project/</guid>
       <pubDate>Sat, 01 Mar 2025 18:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为Discord Application命令创建了Terraform（DisgoForm v0.10）</title>
-      <link>https://www.reddit.com/r/programming/comments/1j13x7h/i_created_terraform_for_discord_application/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/SwitchUpCB   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j13x7h/i_created_terraform_for_discord_application/</guid>
-      <pubDate>Sat, 01 Mar 2025 16:53:43 GMT</pubDate>
     </item>
     <item>
       <title>如何使用git range-diff进行基于补丁的评论</title>
@@ -106,7 +120,7 @@
     <item>
       <title>github -xenitane/git -get：简单的命令行实用程序可从git repo获取特定文件</title>
       <link>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有时只想从git repo中获得一个或多个目录/文件，而可以做到这一点的方法在我们只想完成那件事时就很简单。是的，我在谈论 git稀疏-Checkout 。 ，所以我只是制作了一个简单的bash脚本，使您可以通过 scarse&gt; scarse-checkout  subcommand。 subcommand。提交由＆＃32; /u/u/u/xenitane_dsk_tpp       link link&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0x87a/github_xenitanegitget_simple_command_line_utility/</guid>
       <pubDate>Sat, 01 Mar 2025 11:12:18 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/andrewmd5       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j0sti5/4_mains_or_nothing_at_all/</guid>
       <pubDate>Sat, 01 Mar 2025 06:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>BPF，或者我学会停止担心和爱内核</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0qyah/bpf_or_how_i_learned_to_stop_worrying_and_love/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://cgmathprog.home.blog/2025/02/02/17/bpf-or-how-i-stopped-worrying-and-worrying-and-and-love-the-the-phernel/&gt; [link]        [注释]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0qyah/bpf_or_how_i_learned_to_stop_worrying_and_love/</guid>
-      <pubDate>Sat, 01 Mar 2025 04:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从头开始制作了全球网络</title>
-      <link>https://www.reddit.com/r/programming/comments/1j0lgok/i_made_a_world_wide_web_from_scratch/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/cmnews08       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j0lgok/i_made_a_world_wide_web_from_scratch/</guid>
-      <pubDate>Fri, 28 Feb 2025 23:26:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
