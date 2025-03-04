@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 04 Mar 2025 06:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:02:07 GMT</lastBuildDate>
+    <item>
+      <title>与SOM参数挣扎😥😣</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j36np5/struggling_with_som_parameters/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 最近我一直在Python上使用SOM脚本。是的，我知道这可能不是最好的方法，但这是项目的第一步。无论如何，我正在使用“迷你”。为了获得结果，库由4-5天内在电梯中测量的大约50000个样品组成。 The image below is the result I get from the script (parameters used are in the title of the graph) and customizable parameters of the code are the following:  SOM size (size of each graph, currently 200x200) Sigma: vicinity factor Learning rate Iteration number / epochs Maximum cluster number  K-Means中的初始化数量  在某些图之间，这种关系总是很明显（请参阅Lectura ADC和posicion的实际图）。您可以立即看到“群集”图看起来不像它应该（或这样做？）那样看上去，因为无论其余变量的值如何，都有太多的区域被分类在同一群集中。基本上，在那个巨大的数据群集中，很明显，有数据不匹配。另外，我已经看到了其他人的群集边界的结果，所以不知道我在做什么错！我对这种算法也不是AI的专家，因此我所做的每一个更改都不能帮助我达到所需的观点...   对如何获得干净的簇有任何想法吗？ 😥  谢谢您的阅读！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/igarras     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j36np5/struggling_with_som_parameters/</guid>
+      <pubDate>Tue, 04 Mar 2025 09:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>西方人真的想在AI中工作吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j3668o/do_westerners_really_want_to_work_in_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我负责为欧洲公司建立AI团队，我们在所有主要招聘平台上发布工作优惠。但是，确实让我感到惊讶：在我们收到的成千上万份申请中，只有大约5％来自欧洲人。当他们这样做时，这主要来自中东或亚洲背景的人。 我一直认为AI是目前最热门的领域之一，但是欧洲的人们似乎对实际工作并不感兴趣。您是否也注意到了这种趋势？西方人对使用AI而不是建造它更感兴趣吗？还是缺乏本地申请人背后的另一个原因？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ipecende_lynx715     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j3668o/do_westerners_really_want_to_work_in_ai/</guid>
+      <pubDate>Tue, 04 Mar 2025 08:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么每个人都讨厌量身定制的内容</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j35cj9/why_everyone_hates_tailored_content/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  现在，您已经在Reddit上拥有AI bot，他们使用了他们对您的了解来创建他们认为您会单击的主题，而并不是所有的都是机器人，有些是真正的人，是真实的人使用有关您的个人和私人信息来基础主题。没有人喜欢受到监控和分析，没有人喜欢专注于他们试图量身定制的主题的人希望您能探索。 我使用reddit来探索基于我自己的生活的新事物。当Ai Wiz先生获取信息时，我在星期四吃了一顿鸡肉肉汁晚餐，然后看一部关于飞行鱿鱼的电影，您是否认为创建一个有关某人做类似事情的话题会比我的仇恨更加引起我的注意？它们必须是一种特殊的愚蠢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/holday-oil-882     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j35cj9/why_everyone_hates_tailored_content/</guid>
+      <pubDate>Tue, 04 Mar 2025 07:20:01 GMT</pubDate>
+    </item>
     <item>
       <title>这是诗意的，但在科学上是不准确的。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j341nr/its_poetic_but_scientifically_inaccurate/</link>
@@ -83,13 +104,6 @@
       <pubDate>Mon, 03 Mar 2025 15:34:32 GMT</pubDate>
     </item>
     <item>
-      <title>yolov8 obb</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j2il4o/yolov8_obb/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人在培训模型方面有经验还是使用yolov8？ 我需要帮助yolov8 obb实施自定义损失功能的帮助。具体来说，我想将KLD，CSL和KFIOU集成到损失计算中。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/soggy_sample_6168      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j2il4o/yolov8_obb/</guid>
-      <pubDate>Mon, 03 Mar 2025 13:25:03 GMT</pubDate>
-    </item>
-    <item>
       <title>A-ACT反馈回合</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j2hedx/aiact_feedback_rounds/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我是一名项目研究人员，目前正在撰写有关AI法案的论文。在我的论文中，我特别分析了它的3个反馈回合，这些反馈发表在欧洲委员会的网站上，并可以公开下载。不幸的是，我再也找不到反馈回合的链接了，我尝试了许多不同的方法来再次访问它们，但无济于事。 这里有人知道，我可以在哪里找到它们？理想情况下，通过使用链接来回答这一点。 任何帮助都将非常感谢！！谢谢：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ceansmayor     [link]   ＆＃32;   [注释]  ]]></description>
@@ -111,25 +125,11 @@
       <pubDate>Mon, 03 Mar 2025 08:38:46 GMT</pubDate>
     </item>
     <item>
-      <title>一分钟每日AI新闻3/2/2025</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j2b9js/oneminute_daily_ai_news_322025/</link>
-      <description><![CDATA[ China’s first AI cardiologist eases pressure at short-staffed Shanghai hospital.[1] China’s Honor announces $10 billion investment in AI devices.[2] AI detects colorectal cancer with high accuracy.[3] Salesforce launches library用于医疗保健的现成的AI工具。[4]   来源： sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j2b9js/oneminute_daily_ai_ai_news_322025/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j2b9js/oneminute_daily_ai_news_322025/</guid>
-      <pubDate>Mon, 03 Mar 2025 05:12:35 GMT</pubDate>
-    </item>
-    <item>
       <title>超越主导地位：一个植根于平衡的未来</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j2a1rg/beyond_dominance_a_future_rooted_in_balance/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  几个世纪以来，人类一直生活在控制的幻象之下 - 对自然，技术，甚至彼此之间。但是，当控制滑倒时会发生什么？ 未来可能不再仅属于人类。 As AI evolves and the possibility of other intelligent life forms emerges, we must confront an uncomfortable truth: dominance cannot build a lasting future — only balance can. I recently explored the idea of​​ a Balance Council — a shared responsibility among intelligent beings, where: Humans bring empathy and creativity. AI contributes logic and precision. Other life forms （如果出现）提供我们无法想象的观点。 没有单一的生命形式具有统治地位。没有物种ho积的力量。取而代之的是，决策植根于一个简单的规则： 没有生命形式不会伤害另一种。 ，但老实说 - 人类很少愿意地拥抱改变。从主导地位转向平衡的转变可能会很痛苦，迫使人类面对最大的恐惧：失去控制。 真正的智力考验不是关于传递问题 - 这是关于观察当没有人看上去时的行为。贪婪总是在及时展现出来。附加  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sun5hine_69     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j2a1rg/beyond_dominance_a_future_rooted_in_balance/</guid>
       <pubDate>Mon, 03 Mar 2025 04:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>对AI对医疗保健和医学的影响的预测在接下来的几十年中？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j27fuc/predictions_for_ais_impact_on_healthcare_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您想象哪些创新，您何时认为它们会发生？ 医疗保健的移动缓慢，但显然必须随着时代和技术而改变。 医院？药物发现？药物？成像？总是有大肆宣传的文章，但我们从未真正看到大变化。 什么时候发生？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/__ duke_silver__      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j27fuc/predictions_for_ais_impact_on_healthcare_and/</guid>
-      <pubDate>Mon, 03 Mar 2025 01:42:31 GMT</pubDate>
     </item>
     <item>
       <title>“希望AI没有意识”</title>
