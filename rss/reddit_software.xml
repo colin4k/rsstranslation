@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 04 Mar 2025 00:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 03:12:06 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个AI来与我进行模拟技术采访，因为我没有人可以做。</title>
+      <link>https://www.reddit.com/r/software/comments/1j2ydxd/i_built_an_ai_to_do_mock_technical_interviews/</link>
+      <description><![CDATA[you have custom input to put the question and detect the answers - Cleaner, more intuitive interface - Better at catching and understanding your interview questions - Improved bullet points and paragraph formatting in answers - Show or hide transcription as needed - Buttons now adapt better to your screen大小   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lanky_use4073     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j2ydxd/i_built_an_ai_to_do_mock_technical_interviews/</guid>
+      <pubDate>Tue, 04 Mar 2025 00:46:24 GMT</pubDate>
+    </item>
     <item>
       <title>寻找建议</title>
       <link>https://www.reddit.com/r/software/comments/1j2w4bd/looking_for_recommendations/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>帮助一个项目在我的建筑物中接收包裹</title>
       <link>https://www.reddit.com/r/software/comments/1j2ekv7/help_with_a_project_to_receive_packages_in_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我将主要解释场景。我的建筑物共有40名居民，甚至没有门卫。当您需要收到包裹时，您必须希望有人会看到送货员并为您捡起它，或者将简单地返回包裹。 我的想法是用QR码重定向到LP的标志，该标志显示了LP，这显示了所有租户。送货员点击接收者，并将其重定向到个人的WhatsApp，因此他们可以打电话或让他们知道包裹已经到了，或者要求朋友捡起它。 我的问题是，我希望交货人不使用客户的数量来使用客户的数量，考虑到IFOOD的案例，这是ifood的最后4位数字，而不是                    聊天，送货人员的电话将发送到一个机器人，机器人会用预录制的消息给收件人打电话，让他​​们知道包裹已经到达并且应该到达大门。 我的问题是如何以最便宜的方式进行此操作（我打算使用旧笔记本在VPS上运行它）。我相信这已经足够了，因为不会有持续的交通需求。 您可以向我推荐哪些技术，并给我有关如何做的建议，或出于相同目的的不同想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/acrobatic-client-909     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我将主要解释场景。我的建筑物共有40名居民，甚至没有门卫。当您需要收到包裹时，您必须希望有人会看到送货人员并为您捡起它，或者将简单地返回包裹。 我的想法是用QR码重定向到LP的标志，该标志显示了LP，这显示了所有租户。送货员点击接收者，并将其重定向到个人的WhatsApp，因此他们可以打电话或让他们知道包裹已经到了，或者要求朋友捡起它。 我的问题是，我希望交货人不使用客户的数量来使用客户的数量，考虑到IFOOD的案例，这是ifood的最后4位数字，而不是                    聊天，送货人员的电话将发送到一个机器人，机器人会用预录制的消息给收件人打电话，让他​​们知道包裹已经到达并且应该到达大门。 我的问题是如何以最便宜的方式进行此操作（我打算使用旧笔记本在VPS上运行它）。我相信这已经足够了，因为不会有持续的交通需求。 您可以向我推荐哪些技术，并给我有关如何做的建议，或出于相同目的的不同想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/acrobatic-client-909     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1j2ekv7/help_with_a_project_to_receive_packages_in_my/</guid>
       <pubDate>Mon, 03 Mar 2025 09:04:26 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我最近发现 losselesscut ，这是无需任何重新构图而无需任何质量造成任何质量造成的视频的绝佳工具。基本上只是一个GUI，然后将用户输入转换为ffmpeg命令并运行它。 我经常发现自己创建了GIF，我想知道是否存在类似的工具来创建GIF？允许用户剪切视频，裁剪，选择帧和调色板等的GUI，然后将其变成ffmpeg命令，以创建该gif？ 非常感谢！提交由＆＃32; /u/u/foxtrotte     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1j24mtj/looking_for_a_gui_that_allows_user_to_turn_video/</guid>
       <pubDate>Sun, 02 Mar 2025 23:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏最简单的视频编辑器：快速杀死</title>
-      <link>https://www.reddit.com/r/software/comments/1j23pvr/easiest_video_editor_for_games_fastforward_up_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   windows或linux： 只是想知道是否有一个简单的视频编辑器可以允许加快视频，直到我手动将其放慢速度（当我在游戏中拍摄某人时拍摄时）？我为视频编辑器看的所有内容似乎都过高。所以我只是想知道是否有一个简单的程序？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1j23pvr/easiest_video_editor_editor_for_games_games_fastforward_up_up_to/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j23pvr/easiest_video_editor_for_games_fastforward_up_to/</guid>
-      <pubDate>Sun, 02 Mar 2025 22:43:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
