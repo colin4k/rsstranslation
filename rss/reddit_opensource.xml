@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 05 Mar 2025 15:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 18:03:36 GMT</lastBuildDate>
+    <item>
+      <title>GitHub拉的请求覆盖提交作者和电子邮件是正常的吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在查看github上的一个项目。看来，当接受拉动请求时，创建了新的提交，并且原始贡献者的用户名出现在“ Merge Pull请求＃12345”中，来自ABC/a-random-fix; ，但是出现在日志中的提交作者是项目成员。 这种做法常见吗？我只是在想，如果我什至无法在上面命名我的名字，做出贡献的意义是什么。如果没有人能验证我做任何事情，我看不出这将如何帮助我将来的任何工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/酸性href =“ https://www.reddit.com/r/opensource/comments/1j48888f/is_it_it_normal_for_github_github_pull_requests_to/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to/</guid>
+      <pubDate>Wed, 05 Mar 2025 17:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>开源获取包装器</title>
       <link>https://www.reddit.com/r/opensource/comments/1j43mql/open_source_fetch_wrapper/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>创建视频缩略图是如此分层且昂贵，可用工具！我已经建造了我的，开源的，并且需要不到10秒的时间来产生专业的美丽缩略图</title>
       <link>https://www.reddit.com/r/opensource/comments/1j3xxxt/create_video_thumbnails_are_so_tiering_expensive/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  创建缩略图是如此疲惫，您不觉得吗？我们有诸如Canva（Gimp，如果人们仍然使用它？），PixelMator，Photoshop，Lightroom等工具……但是他们需要时间来创建一个体面的缩略图。我不想在每个视频上花10分钟创建缩略图。我只是想要比默认的YouTube视频缩略图好一点的。 这就是为什么我构建了自己的电子应用程序的原因：  使用两个或三个图像，它会创建一个拆分的通用缩略图，在其中您可以在其中自定义定界区（颜色）和tilt（以及添加tilt for for Advellie for Adressution）自动增强图像（类似于Apple的自动启动的功能）。 包含其他自定义选项。 默认设置是我经验中最佳的默认设置，但如果需要，请随时自定义它们。   ，我决定今天开放它。该应用程序是使用JavaScript和Electron构建的。它在您的笔记本电脑上本地运行。设置后，不需要Wi-Fi或其他依赖项。   github：  app） 另外，也不要害羞地分叉。我已经根据MIT许可发布了该项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  创建缩略图是如此疲惫，您不觉得吗？我们有诸如Canva（Gimp，如果人们仍然使用它？），PixelMator，Photoshop，Lightroom等工具……但是他们需要时间来创建一个体面的缩略图。我不想在每个视频上花10分钟创建缩略图。我只是想要比默认的YouTube视频缩略图好一点的。 这就是为什么我构建了自己的电子应用程序的原因：  使用两个或三个图像，它会创建一个拆分的通用缩略图，在其中您可以在其中自定义定界区（颜色）和tilt（以及添加tilt for for Advellie for Adressution）自动增强图像（类似于Apple的自动启动的功能）。 包含其他自定义选项。 默认设置是我经验中最佳的默认设置，但如果需要，请随时自定义它们。   ，我决定今天开放它。该应用程序是使用JavaScript和Electron构建的。它在您的笔记本电脑上本地运行。设置后，无需Wi-Fi或其他依赖项。   github：  另外，也不要害羞地分叉。我已经根据MIT许可发布了该项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j3xxxt/create_video_thumbnails_are_so_tiering_expensive/</guid>
       <pubDate>Wed, 05 Mar 2025 07:44:12 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>向宗师开放式| AI搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealternatives_to_guru_ai_search_tool/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个机器人，该机器人以前回答或讨论的查询以降低冗余，提高效率并增强知识共享。因此，在构建MVP之前，我开始验证这个想法。然后，我遇到了古鲁（ https://wwwww.getguru.com/ ），以及像nuclino，pyn，pyn，pyn，notion，notion，notion，notion，notion，notion，notion，tettra等的其他许多替代方案。我发现了一些像exo，documize，phpmyfaq，openkm，cloudTutorial（我想问的其他替代方案提供了AI，集成等 ，还有更多我错过的工具，值得一看！另外，创建一个项目值得吗？我觉得，这是一个相当简单的实现！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealcealcealternative_to_to_guru_ai_ai_search_tool/&gt; [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个机器人，该机器人以前回答或讨论的查询以降低冗余，提高效率并增强知识共享。因此，在构建MVP之前，我开始验证这个想法。然后，我遇到了古鲁（ https://wwwww.getguru.com/ ），以及像nuclino，pyn，pyn，notion，notion，notion，notion，notion，notion，notion，notion，notion，tettra等的其他许多替代品，都可以找到。我发现了一些像exo，documize，phpmyfaq，openkm，cloudTutorial（我想问的其他替代方案提供了AI，集成等 ，还有更多我错过的工具，值得一看！另外，创建一个项目值得吗？我觉得，这是一个相当简单的实现！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealcealcealternative_to_to_guru_ai_ai_search_tool/&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealternatives_to_guru_ai_search_tool/</guid>
       <pubDate>Wed, 05 Mar 2025 04:30:56 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找与NVivo或其他定性数据分析软件相似的OpenSource软件。我要寻找的主要功能是能够突出显示文档，其中突出显示使我可以标记文本部分，以便以后可以浏览每个标签选择的所有文本。这需要在存储相同文件夹的不同文档上工作。奖励点如果我还可以在文本上做笔记 - （（目前我正在使用黑曜石进行笔记，但正在寻找类似于印刷文本边缘编写笔记的内容，并在其上贴上粘性笔记以稍后找到它），如果我有一种方法可以在网站上集成并在此网站上集成此笔记，则可以添加双奖励点。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j38i80/recommendations_for_software_to_tag_tag_collat​​e_my/”&gt; [link]     [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j38i80/recommendations_for_software_to_tag_collate_my/</guid>
       <pubDate>Tue, 04 Mar 2025 11:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>返回时间 - 第二版候选人（1.5.4 -RC2）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j361ol/back_in_time_second_release_candidate_154rc2/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/buhtz     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j361ol/back_in_time_second_release_candidate_154rc2/</guid>
-      <pubDate>Tue, 04 Mar 2025 08:12:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
