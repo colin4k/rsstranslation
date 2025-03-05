@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 05 Mar 2025 18:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 21:02:49 GMT</lastBuildDate>
+    <item>
+      <title>绿色的解毒剂：采访Tobias Augspurger</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4bq2t/the_antidote_to_greenwashing_interview_with/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/countvonorlock      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4bq2t/the_antidote_to_greenwashing_interview_with/</guid>
+      <pubDate>Wed, 05 Mar 2025 19:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了用于将您的敏感内容隐藏在Slack上的开源浏览器扩展程序的邀请。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4ah6a/inviting_contributions_for_an_open_source_browser/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在为Slack开发此隐私扩展。我想进行努力协作。如果您是想做出第一个贡献或只是发现该项目有趣的人。我创造了一些不错的第一个问题，这些问题是要抢购的。  扩展名是为少数在浏览器中使用Slack的用户，它模糊了消息，直到您悬停它们或使用键盘快捷方式 我使用什么？ 我使用一个隐藏Whatsapp消息的人。 也为Slack做了一个。 一些示例场景： 您正在会议中介绍，并希望从特定的聊天中分享一些内容。只需点击快捷键，并且所有私人消息立即变得模糊，一旦打开了正确的对话窗口。 您不想让您的小伙子同事或好奇的旁观者窥视屏幕上的对话，以在DMS或私人频道中阅读您的对话。 repo- repo-  https://github.com/33j33/slack-privacy-extension       &lt;！提交由＆＃32; /u/u/sundarmundrihoye    href =“ https://www.reddit.com/r/opensource/comments/1j4ah6a/inviting_contributions_for_an_open_open_source_browser/”&gt; [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4ah6a/inviting_contributions_for_an_open_source_browser/</guid>
+      <pubDate>Wed, 05 Mar 2025 18:45:46 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub拉的请求覆盖提交作者和电子邮件是正常的吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j4888f/is_it_normal_for_github_pull_requests_to/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   klee是一个完全开源的平台，可将安全的AI带到您的桌面上。  github： 在其核心上，克莱（Klee）建立在：    ollama ：用于快速有效地运行本地LLMS。    With Klee, you can:  Download and run open-source large language models on your desktop with a single click - no terminal or technical background required. Utilize the built-in knowledge base to store your local and private files with complete data security. Save all LLM responses to your knowledge base using the built-in markdown notes feature.   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/w-zhong   href =“ https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_klee_klee_today_a_desktop_app_app_designed/”&gt;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_klee_today_a_desktop_app_app_designed/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j3b42q/i_opensourced_klee_today_a_desktop_app_designed/</guid>
       <pubDate>Tue, 04 Mar 2025 13:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>耀斑 - 用于创建等距ARPG的开源游戏引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j3ao0x/flare_an_opensource_game_engine_for_creating/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bassfaceapollo       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j3ao0x/flare_an_opensource_game_engine_for_creating/</guid>
-      <pubDate>Tue, 04 Mar 2025 13:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关软件的建议，以标记和整理我的阅读pdf，word文档，网站</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j38i80/recommendations_for_software_to_tag_collate_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找与NVivo或其他定性数据分析软件相似的OpenSource软件。我要寻找的主要功能是能够突出显示文档，其中突出显示使我可以标记文本部分，以便以后可以浏览每个标签选择的所有文本。这需要在存储相同文件夹的不同文档上工作。奖励点如果我还可以在文本上做笔记 - （（目前我正在使用黑曜石进行笔记，但正在寻找类似于印刷文本边缘编写笔记的内容，并在其上贴上粘性笔记以稍后找到它），如果我有一种方法可以在网站上集成并在此网站上集成此笔记，则可以添加双奖励点。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j38i80/recommendations_for_software_to_tag_tag_collat​​e_my/”&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j38i80/recommendations_for_software_to_tag_collate_my/</guid>
-      <pubDate>Tue, 04 Mar 2025 11:15:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
