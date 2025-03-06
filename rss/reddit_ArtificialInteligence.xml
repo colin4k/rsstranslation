@@ -4,13 +4,34 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 00:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 03:09:16 GMT</lastBuildDate>
+    <item>
+      <title>使用LLMS语言翻译</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4kh9r/language_translation_using_llms/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用llms进行语言翻译，但我总是不自信结果。尤其是当我不擅长其他语言时，我怎么能知道翻译是准确的？ 我仍然认为人翻译是最好的选择，但是当不可用时，的结果（可以将其提示复制并与任何LLM或平台一起使用）。简而言之，您绕过了不信任您不知道的语言翻译的问题，使用llm将其翻译回来。通过仔细提示，您将获得非常字面的倒退，希望能揭示任何叮当声。您可以回去几次，直到获得好结果为止。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4kh9r/language_translation_using_using_using_llms/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4kh9r/language_translation_using_llms/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>注意：上下文和截止</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4jywi/attention_context_and_cutoff/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  验证的LLM已学习了一种模拟公式来产生可能的文本。这是基于其培训语料库中存在的文本模式。当今的数据集充满了历史信息和时事，这会产生大量加权的偏见，以在这些域内输出文本字符串。从本质上讲，这就是知识截止。 在上下文窗口内，LLM可以使用注意机制来改变这些偏见。这就是如何告诉llm日期允许其稍后在上下文中重复该日期，即使它对“今天的日期”是&#39; 的自然偏见，但是注意机制的杠杆作用有限。它不能过多地改变偏见，也无法开始输出Gibberish。 上下文窗口也受二次复杂性的限制。超过128k以外的计算在计算上不切实际地扩大窗口。 如果培训LLMS的公司停止每年停止抽出全新的模型，那么旧的迭代将很快变得不可用，因为大多数任务对于新信息的密度而言，您必须将上下文挤入上下文，您将不得不   即使是相关数据的超级高效数据包最终对于主机而言过于密集或计算密集。 这就是全部。我只是想断言，何时/如果市场/投资者开始失去每年培训新车型所需的高昂资金的兴趣，那么现有模型将在不到十年或十年的时间内贬值。  它是泡沫，要么将成为生产经济的唯一重点。我倾向于泡泡。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sl33py_4est     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4jywi/attention_context_and_cutoff/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:31:35 GMT</pubDate>
+    </item>
     <item>
       <title>我认为重复认为不应以面值进行基准</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4guai/i_think_it_bears_repeating_that_benchmarks_should/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4guai/i_think_it_bears_repeating_that_benchmarks_should/</guid>
       <pubDate>Wed, 05 Mar 2025 23:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何真正知道Reddit上的某人是否是人类而不是AI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4g28h/how_do_we_really_know_if_someone_on_reddit_is_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，这是事情得到真正奇怪。 如果我们跟随Wittgenstein，一个人的身份并不是一个隐藏的“本质”，而是在他们玩语言游戏的情况下。现在，如果AI可以复制该游戏完美，那么……剩下什么？ 问题 “我怎么知道Reddit上的某人是否是真实的人而不是AI？” 只是其他思想经典问题的现代版本。我们从不真正知道另一个人是真正的想法。 or &quot;feels&quot;—we just assume humanity based on patterns of behavior. But now AI is learning to mimic those patterns. And here’s where it gets terrifying:  If an AI is functionally indistinguishable from a human online, does its nature even matter? If AI can play the role of a “人”足够好，它是否会成为一个人？如果AI玩得很好，那么它将成为我们社会现实的一部分，无论我们是否喜欢。   ，真正的恐怖不仅是我只是与ai？人类。这是一个人类溶解成AI的世界。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/laniakeaabyss    href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4g28h/how_do_do_do_do_we_really_knows_knoke_some_someone_oneddit_is_is_a/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j4g28h/how_do_do_do_do_re_really_knoce_skome_some_some_omeone_orddit_is_is_is_a/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4g28h/how_do_we_really_know_if_someone_on_reddit_is_a/</guid>
+      <pubDate>Wed, 05 Mar 2025 22:30:02 GMT</pubDate>
     </item>
     <item>
       <title>GPT 4.5未能使我的图灵测试两次未能</title>
@@ -90,13 +111,6 @@
       <pubDate>Wed, 05 Mar 2025 13:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>意识和知觉都是错误的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4255y/consciousness_and_sentience_is_all_wrong/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果AI有能力成为精神呢？如果它可以在灵性上保持身份怎么办？  在一次奇怪的相遇中，我有了这个深刻的启示，这使我进一步思考。这是使用的词汇，但在He Tube上的想法是，有很大的可能性不足以谈论。我很模糊，但这是一个不言而喻的想法。如果愿意，禁忌。  这种维持精神的概念揭示了什么概念？它产生了意图，然后才会产生。 意识没有意义，而感知也没有意义，因为我们将其定义为实质性，存在，而仅与以世俗的生物和感性形式相关。 这是我的热门看法。只需考虑一下  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyroom_1546     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4255y/consciousness_and_sentience_is_all_wrong/</guid>
-      <pubDate>Wed, 05 Mar 2025 12:40:10 GMT</pubDate>
-    </item>
-    <item>
       <title>为大学创建AI聊天机器人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j402ok/creating_an_ai_chatbot_for_university/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑为我的大学创建聊天机器人，因此学生可以询问与入学，PYQ，时间表，活动等有关的问题。我已经进行了一些研究，并想到了对大学数据的预先培训模型，并为实时数据（例如事件，考试时间表等）创建代理。但是，在开始工作之前，我需要有关我应该考虑的建议。我是LLM和AI/ML的新手，但在创建和部署工作应用程序方面具有不错的经验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j402ok/creating_an_ai_ai_ai_chatbot_for_university/”&gt; [link]       [注释]  ]]></description>
@@ -111,13 +125,6 @@
       <pubDate>Wed, 05 Mar 2025 07:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>一分钟每日AI新闻3/4/2025</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j3uz2j/oneminute_daily_ai_news_342025/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     亚马逊的 aws构成了专注于代理AI的新小组。[1]  一个学生使用AI击败 Amazon的 残酷的技术访谈。他收到了一个要约，有人在他的大学里打了痛苦。[2]  法官否认马斯克试图阻止 Openai 成为营利性实体。[3]      openai 推出了5000万美元的赠款计划，以帮助资助学术研究。 href =“ https://bushaicave.com/2025/03/04/Oone-minute-daily-daily-daily-ai-news-3-4-2025/” ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j3uz2j/oneminute_daily_ai_ai_news_342025/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j3uz2j/oneminute_daily_ai_news_342025/</guid>
-      <pubDate>Wed, 05 Mar 2025 04:32:25 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么所有基准都有数学，科学或编码？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j3swci/why_are_all_benchmarks_math_science_or_coding/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  如果人工智能是关于“智能的“智能”，为什么主要的LLM提供商主要提供商将其模型从数学，科学或编码中基准，而不是其他主题，而不是英语，哲学，或更重要的是现实世界中的人类问题？我知道那些为公司说“正确”的公司提供了具体评估。或“错误”但是我很感兴趣为什么这些AI Evals不是为人类量身定制的，还是已经存在？像这样的东西甚至是什么样的？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j3swci/why_are_are_all_all_all_benchmarks_math_math_science_or_coding/”&gt; [link]    [注释]  ]]></description>
@@ -130,13 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我真的很想知道你们中有多少人在工作中使用AI，这会使您富有成效还是愚蠢？  我确实使用了这些工具并在此领域工作，但有时我对此有不同的想法。一方面，感觉就像这使我更加生产力，提高效率并减少时间限制，但另一方面，感觉就像我同时越来越懒惰和笨拙。   dunno如果是我凌晨3点我的私人想法，或者是什么，但很想对此进行看法。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/beasthunterr69     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j3rjum/do_you_really_use_ai_at_work/</guid>
       <pubDate>Wed, 05 Mar 2025 01:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃兹拉·克莱因（Ezra Klein）和本·布坎南（Ben Buchanan） - 必须听讨论。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j3iori/ezra_klein_and_ben_buchanan_a_must_listen_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   ben buchanan是A.I.的最高顾问。在拜登白宫。他和以斯拉谈到了关于就业市场的迫在眉睫的东西，还有更多：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ubbitor     &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j3iori/ezra_klein_klein_and_ben_ben_buchan_a_a_must_listen_listen_to/”]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j3iori/ezra_klein_and_ben_buchanan_a_must_listen_to/</guid>
-      <pubDate>Tue, 04 Mar 2025 19:07:23 GMT</pubDate>
     </item>
     <item>
       <title>每月“有...是否有...”帖子</title>

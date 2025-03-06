@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 06 Mar 2025 00:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 03:10:13 GMT</lastBuildDate>
+    <item>
+      <title>Iemidi：跨平台MIDI编辑。由IMGUI和RTMIDI建造。可用于Linux（.deb＆.rpm）。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4lj7r/iemidi_a_crossplatform_midi_editor_built_with/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mozahzah     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j4lj7r/iemidi_a_crossplatform_midi_editor_editor_built_with/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4lj7r/iemidi_a_crossplatform_midi_editor_built_with/</guid>
+      <pubDate>Thu, 06 Mar 2025 02:49:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享我们的多转弯Slack AI代理的代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4idf3/sharing_our_code_for_a_working_multiturn_slack_ai/</link>
+      <description><![CDATA[I know many people here are trying to build AI agents and some are having a hard time getting it to where they want it. We built a Slack-based agent that uses the new Slack API and all the code is freely available and open source so feel free要拿任何您想要的任何部分。 这是一个带有工具呼叫的多转弯代理，这意味着它像其他封闭的AI代理一样聊天，但也可以称呼Gmail和Github等其他服务。 都会喜欢任何反馈。但老实说，您会喜欢您对我们建造和开源的下一个代理人的想法。 一些初始想法：   Discord Agent  - 问候和板上的新成员新成员，答案FAQS，中等垃圾，中等垃圾邮件，所有品牌语音。实时的情感向您提醒您潜在的Pr Cillises  电子邮件助理 - 标记并优先考虑您的Gmail收件箱，时间表会议，听起来像您的响应，听起来像您 销售代理商 - 自动化＆amp;个性化出站和入站，生成营销副本，完善广告系列  github bot  - 分配问题，它将克隆，代码，测试和打开公关自动     &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/大多数href =“ https://www.reddit.com/r/opensource/comments/1j4idf3/sharing_our_our_code_ofor_a_a_worting_multiturn_slack_ai/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4idf3/sharing_our_code_for_a_working_multiturn_slack_ai/</guid>
+      <pubDate>Thu, 06 Mar 2025 00:14:17 GMT</pubDate>
+    </item>
     <item>
       <title>自由软件基金会的游乐设施以防御AGPLV3针对NEO4J许可证附加组件</title>
       <link>https://www.reddit.com/r/opensource/comments/1j4gv9w/free_software_foundation_rides_to_defend_agplv3/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/developersIndia/comments/1j3hnyr/c_library_for_pdf_view_with_with_api_api_por_current_page/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j3hqtp/c_library_for_pdf_view_with_with_api_api_api_for_for_for_for_current_page/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j3hqtp/c_library_for_pdf_view_with_api_for_current_page/</guid>
       <pubDate>Tue, 04 Mar 2025 18:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员已经有一个平台来展示他们的项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j3hmlj/is_there_already_a_platform_for_developers_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在偶然发现 github问题 那是一种画廊。那让我想到 - 如果有一个专门的平台为此？  我正在考虑构建  shadertoy-like 网站在其中开发人员可以在其中展示他们的项目，类似于  发布其项目，链接到其GitHub存储库，并从其他人那里获得反馈或灵感。  我知道有人在其中展示代码，但是是否有专门为此用例设计的网站？在不依靠分散的社交媒体帖子的情况下浏览和发现酷炫开发项目变得更容易的事情？  很想听听您的想法：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wittywithoutworry     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j3hmlj/is_there_already_a_platform_for_developers_to/</guid>
-      <pubDate>Tue, 04 Mar 2025 18:24:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何跟踪使用情况？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j3hgww/how_do_you_keep_track_of_usage/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您有开源devtools时，如何跟踪用法指标？您如何跟踪他们的使用方式以及如何使用？对于网站，可以跟踪点击注册。在我们的情况下，这是一个Python库，开发人员可以从PYPI中安装。有人完成了用户跟踪吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/puzzleheaded-dot8208     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j3hgww/how_do_you_keep_track_of_usage/</guid>
-      <pubDate>Tue, 04 Mar 2025 18:18:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
