@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 06 Mar 2025 06:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 09:02:20 GMT</lastBuildDate>
+    <item>
+      <title>开源和商业（物理）产品如何兼容？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4rd0c/how_can_open_source_and_commercial_physical/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试构建一个包括软件组件的小型物理设备。我非常喜欢制作源代码开源，以便修补器可以“攻击”设备来完成他们想要的事情。 这些硬件本身将是封闭的，并且设备将受到商标的保护。   最佳实践是什么可以平衡其商业利益和opensource phosisophy的最佳实践？不希望竞争对手能够琐碎地复制整个内容并将其用于硬件。 OpenSource许可证的这种不可避免的后果吗？  例如，如果我们使用GPL发布原始软件，则所有衍生作品（和贡献）也将是GPL，因此我们可以继续使用所有贡献以及产品中的原始代码。但是，当然，这也可以通过竞争来使用。 是否有一种方法可以增加对GPL的进一步限制（例如，包括属性子句）。这样，当竞争对手复制代码时，他们有义务披露XYZ的“原始源代码”，根据ABC的GPL进行了修改和分发。例如，我知道许多具有“社区”和“企业”版本的软件项目。该如何工作？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/summer_glau08     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4rd0c/how_can_open_source_and_commercial_physical/</guid>
+      <pubDate>Thu, 06 Mar 2025 09:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>喜欢AWS-CLI，但对于Proxmox，LXC和Docker多合一☕️</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4r6mt/awscli_like_but_for_proxmox_lxc_and_docker/</link>
+      <description><![CDATA[      Helo open source army, I created LWS to simplify and unify the management of Proxmox VE, LXC containers, and Docker services using a single command-line tool to在此处感觉AWS-CLI经验😉 在这里开箱即用的功能： 群集管理：控制和监视Proxmox群集，包括服务生命周期操作。 资源监控：监视CPU，内存，磁盘和网络用途，以及跨Proxmox主机的网络使用，例如exirce and Exircations。主机。 生命周期管理：启动，停止，重新启动和终止LXC容器。 Setup: Simplified installation and setup of Docker and Docker Compose on LXC containers. Application Deployment: Deploy, update, and manage Docker Compose applications. Container Operations: Manage Docker containers, including running, stopping, and fetching logs. Auto-start Configuration: Configure Docker apps to auto-start on container引导。 享受并贡献☕️  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fab_space      &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1j4r6mt/awscli_like_but_but_but_for_proxmox_lxc_lxc_and_and_docker/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4r6mt/awscli_like_but_for_proxmox_lxc_and_docker/</guid>
+      <pubDate>Thu, 06 Mar 2025 08:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在Ruby上重写我的开源Next.js应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j4pqzn/rewriting_my_open_source_nextjs_app_in_ruby_on/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  让我的一个个人项目收集一年的灰尘（就像所有好的开发人员一样，我都会决定在Ruby上重写Ruby的整个应用程序。这也不是第一个重写 - 我以前从无框架上切换到Next.js。您为什么要这样做，您可能会问？ 对于上下文，这绝不是必要的重构 - 该应用程序几乎没有用户，没有扩展问题，并且在其反应形式方面工作正常。我的动机纯粹是教育意义的，因为我目前的公司在Rails上使用Ruby作为其主要技术堆栈，而我尚未从头开始创建一个完整的Rails应用程序。 我亲自从学习和纯软件质量的角度来重写个人项目中发现了很多价值。您自然会重新评估/重新分配过时的代码，重新访问以后再修复此注释，通常使用新框架/语言中的最新和最出色的产品。 如果您从未使用与公司相同的技术/工具从头开始编写完整的堆栈应用程序，那么我会强烈建议您。最简单的方法可能只是重写您的个人项目之一。除非您是创始人或早期工程师，否则您可能从未有过很多设置/配置位。从头开始完成整个过程，迫使您了解许多框架/语言怪癖，否则您将不了解或与之互动。 好奇是否有人会不时发现自己会对自己的项目做这件事，并且/或如果您共享类似的观点。 如果您有兴趣 -  原始博客文章和/u/dehnag     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j4pqzn/1j4pqzn/rewriting_my_open_source_nextjs_nextjs_app_in_ruby_on/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j4pqzn/rewriting_my_open_source_nextjs_app_in_ruby_on/</guid>
+      <pubDate>Thu, 06 Mar 2025 06:59:48 GMT</pubDate>
+    </item>
     <item>
       <title>印度最大的福斯聚会又回来了！</title>
       <link>https://www.reddit.com/r/opensource/comments/1j4op7o/indias_largest_foss_gathering_is_back/</link>
@@ -113,7 +134,7 @@
     <item>
       <title>创建视频缩略图是如此分层且昂贵，可用工具！我已经建造了我的，开源的，并且需要不到10秒的时间来产生专业的美丽缩略图</title>
       <link>https://www.reddit.com/r/opensource/comments/1j3xxxt/create_video_thumbnails_are_so_tiering_expensive/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  创建缩略图是如此疲惫，您不觉得吗？我们有诸如Canva（Gimp，如果人们仍然使用它？），PixelMator，Photoshop，Lightroom等工具……但是他们需要时间来创建一个体面的缩略图。我不想在每个视频上花10分钟创建缩略图。我只是想要比默认的YouTube视频缩略图好一点的。 这就是为什么我构建了自己的电子应用程序的原因：  使用两个或三个图像，它会创建一个拆分的通用缩略图，在其中您可以在其中自定义定界区（颜色）和tilt（以及添加tilt for for Advellie for Adressution）自动增强图像（类似于Apple的自动启动的功能）。 包含其他自定义选项。 默认设置是我经验中最佳的默认设置，但如果需要，请随时自定义它们。   ，我决定今天开放它。该应用程序是使用JavaScript和Electron构建的。它在您的笔记本电脑上本地运行。设置后，不需要Wi-Fi或其他依赖项。   github：  app） 另外，也不要害羞地分叉。我已经根据MIT许可发布了该项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  创建缩略图是如此疲惫，您不觉得吗？我们有诸如Canva（Gimp，如果人们仍然使用它？），PixelMator，Photoshop，Lightroom等工具……但是他们需要时间来创建一个体面的缩略图。我不想在每个视频上花10分钟创建缩略图。我只是想要比默认的YouTube视频缩略图好一点的。 这就是为什么我构建了自己的电子应用程序的原因：  使用两个或三个图像，它会创建一个拆分的通用缩略图，在其中您可以在其中自定义定界区（颜色）和tilt（以及添加tilt for for Advellie for Adressution）自动增强图像（类似于Apple的自动启动的功能）。 包含其他自定义选项。 默认设置是我经验中最佳的默认设置，但如果需要，请随时自定义它们。   ，我决定今天开放它。该应用程序是使用JavaScript和Electron构建的。它在您的笔记本电脑上本地运行。设置后，无需Wi-Fi或其他依赖项。   github：  另外，也不要害羞地分叉。我已经根据MIT许可发布了该项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j3xxxt/create_video_thumbnails_are_so_tiering_expensive/</guid>
       <pubDate>Wed, 05 Mar 2025 07:44:12 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/infopaste     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j3vzhe/ctrlplane_opensource_deployment_orchestration_tool/</guid>
       <pubDate>Wed, 05 Mar 2025 05:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>向宗师开放式| AI搜索工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealternatives_to_guru_ai_search_tool/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个机器人，该机器人以前回答或讨论的查询以降低冗余，提高效率并增强知识共享。因此，在构建MVP之前，我开始验证这个想法。然后，我遇到了古鲁（ https://wwwww.getguru.com/ ），以及像nuclino，pyn，pyn，notion，notion，notion，notion，notion，notion，notion，notion，notion，tettra等的其他许多替代品，都可以找到。我发现了一些像exo，documize，phpmyfaq，openkm，cloudTutorial（我想问的其他替代方案提供了AI，集成等 ，还有更多我错过的工具，值得一看！另外，创建一个项目值得吗？我觉得，这是一个相当简单的实现！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealcealcealternative_to_to_guru_ai_ai_search_tool/&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j3uy52/opensourcealternatives_to_guru_ai_search_tool/</guid>
-      <pubDate>Wed, 05 Mar 2025 04:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源倡议：AI辩论Roils董事会选举</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j3nqzr/open_source_initiative_ai_debate_roils_board/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/crankybear      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j3nqzr/open_source_initiative_ai_debate_roils_board/</guid>
-      <pubDate>Tue, 04 Mar 2025 22:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>灵活 - 跟踪健身房进度而不会追踪自己</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j3mkb6/flexify_track_gym_progress_without_being_tracked/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我是 Flexify 的开发人员欲望 超级自定义 - 切换您喜欢打开/关闭的任何功能，交换颜色，更改主题，取决于您  我们支持      windows      我已经开发了大约4年了，很想听听任何OpenSource subreddits反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/due_college_2302      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j3mkb6/flexify_track_gym_progress_without_being_tracked/</guid>
-      <pubDate>Tue, 04 Mar 2025 21:47:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
