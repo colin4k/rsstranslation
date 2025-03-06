@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 12:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 18:02:42 GMT</lastBuildDate>
+    <item>
+      <title>开源多合一宏软件</title>
+      <link>https://www.reddit.com/r/software/comments/1j51b8i/open_source_allinone_macro_software/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/national_operation14      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j51b8i/open_source_allinone_macro_software/</guid>
+      <pubDate>Thu, 06 Mar 2025 17:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找PC的剪贴板应用</title>
+      <link>https://www.reddit.com/r/software/comments/1j50rll/looking_for_a_clipboard_app_for_pc/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我正在寻找一个非常简单的应用程序，类似于autohotkey。我对Autohotkey的问题是，我只有1个键盘，并且没有足够的按钮，而Ctrl+X并不是我的事情。 我需要一个带有大量可点击按钮的应用程序，我可以将特定的文本编辑到我的剪贴板上。 ctrl+v它在需要的地方。 预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/timbak_     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j50rll/looking_for_a_clipboard_app_for_pc/</guid>
+      <pubDate>Thu, 06 Mar 2025 17:24:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有这样的工具吗</title>
+      <link>https://www.reddit.com/r/software/comments/1j4yigc/is_there_such_tool/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/hopeful-staff3887     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j4yigc/is_there_such_tool/</guid>
+      <pubDate>Thu, 06 Mar 2025 15:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacOS/Linux Shell脚本到Windows脚本</title>
+      <link>https://www.reddit.com/r/software/comments/1j4vbaw/macoslinux_shell_script_to_windows_script/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  哪些工具可以将macOS/linux shell脚本转换为Windows（常规和/或批次）脚本？例如，例如：  ＃！/bin/bash display_usage（）{echo;“您必须为此脚本提供两个参数。首先，通往文件拆分的完整路径，然后每个段的最大尺寸（例如8G将将文件拆分为8GB段，每个段。） echo -e; \ nusage：$ 0＆lt; input_file＆gt; ＆lt; segment_size＆gt; \ n＆quot }＃如果提供了少于两个参数，请显示用法，如果[$＃-LT 2]，则display_usage exit 1 fi input_file =; $ 1＆quort; segment_size =; $ 2＆quot; ＃基于https://stackoverflow.com/questions/965053/extract-filename-and-extension-in-bash-bash filename = $ {input_file ##*/} input_file_no_extension = $ {filename %%。函数carculate_length_in_secs {file =＆quord; $ 1＆quot;长度= $（ffprobe -i; $ file; show_entries格式=持续时间-v quient -of csv =＆quort; p = 0＆quort; p = 0＆quort; } full_length = $（carculate_length_in_secs; $ input_file＆quort;）offset_timestamp = 0 segment_number = 0 while while [[$ offset_timestamp＆lt; $ full_length]]; do（（segment_number ++））echo“处理段$ segment_number ...” output_file =; $ input_file_no_extension-sement- $ segment_number。如果[[$ offset_timestamp -gt 0]];然后ffmpeg -i $ input_file; -map 0 -c复制-ss“ $ offset_timestamp” -fs“ $ segment_size; ＆quot“ $ output_file” else ffmpeg -i $ input_file; -map 0 -c复制-fs“ $ segment_size; quot” ＆quot“ $ output_file” fi length_of_segment = $（计算_length_in_secs; $ output_file; offset_timestamp = $（（（（offset_timestamp+length_of_segment））ECHO;下一段将从$ offset_timestamp开始启动已完成$ input_file的“已完成”分配到$ segment_number段。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/low-finance-2275     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1j4vbaw/macoslinux_shell_script_to_windows_script/</guid>
+      <pubDate>Thu, 06 Mar 2025 13:22:09 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以将视频文件转换为GIF而不会质量损失的软件</title>
       <link>https://www.reddit.com/r/software/comments/1j4sr18/looking_for_a_software_that_can_convert_a_video/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[在提交由＆＃32; /u/u/u/u/secure-programmer160     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1j4jm9s/what_software_can_i_use_to_remote_into_my_android/</guid>
       <pubDate>Thu, 06 Mar 2025 01:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑Pro 1年订阅$ 10</title>
-      <link>https://www.reddit.com/r/software/comments/1j4idmk/perplexity_pro_1_year_subscription_10/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在任何人说它的骗局之前，我可以兑换一个。  仍然有许多售价10美元的可用，这将为您提供1年的困惑pro  ，对于在  &lt;！ -  sc_on-&gt;   &lt;！ -  sc_on-&gt;＆＃32;的现有/新用户来说。提交由＆＃32; /u/maximim12     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j4idmk/perplexity_pro_1_year_subscription_10/</guid>
-      <pubDate>Thu, 06 Mar 2025 00:14:32 GMT</pubDate>
     </item>
     <item>
       <title>基于UNIX（例如Linux或MacOS）的OS快速可靠，但是Windows仍如何占主导地位？</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我已经在Adobe CC工作了4年，而且我每月的大约30欧元（如果不是全部）[产品（产品）。但是，我主要使用Photoshop和Premiere Pro。考虑到这一点，每年360个钱是很多钱，因为我只使用这2个。我可以使用任何替代方法来代替它们。我是一个小型YouTuber，所以我知道Paint .Net适合缩略图，但是视频编辑呢？一笔付款会很棒，我以前有索尼电影制片厂的经验。让我知道你的想法。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/theferrariguy_yt      [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1j416ua/adobe_cc_alternatives/</guid>
       <pubDate>Wed, 05 Mar 2025 11:43:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量重命名实用程序，如何重命名多个文件以一次反映另一组文件的名称？</title>
-      <link>https://www.reddit.com/r/software/comments/1j3zoiu/bulk_rename_utility_how_to_rename_multiple_files/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，假设我有一个文件列表：   apple&gt; apple01.mkv pear02.mkv grange03.mkv    这些是我的主要文件，我的名字我想将我的名字重复到另一组文件上：              使得 .srt 文件成为：    apple&gt; apple&gt; apple01.srt pear02.srt orange03.srt     否则，这是编码可以修复的解决方案吗？  p.s。我不是编码器，因此，如果任何基于代码的解决方案通过实现它的实现，我将不胜感激，例如要使用的界面（例如PowerShell，CMD提示等）以及其他计算机的用户可以理解的其他详细信息。  p.p.s。我开始意识到能够编码的重要性和价值，因此我计划开始学习JavaScript。祝我好运！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/adorable_air_2331      [link]     32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j3zoiu/bulk_rename_utility_how_to_rename_multiple_files/</guid>
-      <pubDate>Wed, 05 Mar 2025 09:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑屏 - 每个Windows用户都需要的丢失工具</title>
-      <link>https://www.reddit.com/r/software/comments/1j3zg68/black_screen_the_missing_tool_every_windows_user/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，软件爱好者！ 曾经觉得Windows缺少一个简单的内置工具来帮助您休息，休息一下，休息并保持专注？ That’s why I built Black Screen – a lightweight app that feels like it should’ve been part of Windows all along. Here’s what it does:  Rest Your Eyes: Instantly black out your screen with a keypress (way faster than turning your monitor off/on). Take Smart Breaks: Set up automatic breaks （例如，每30分钟每30分钟7分钟）避免倦怠。  工作更智能：使用基于间隔的重点会话来保持纪律性和富有成效。   重置您的注意力：快速访问令人惊叹的照片slideshow，以使您的想法更新。在复杂的设置中进行屏幕。  这种工具将无缝集成到您的工作流程中，使它感觉就像一直存在。非常适合在计算机上花费长时间的任何人。 在此处查看： https://blackscreen1.com/     很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kentich     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j3zg68/black_screen_the_missing_tool_every_windows_user/</guid>
-      <pubDate>Wed, 05 Mar 2025 09:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>混合收入的最佳纳税申报软件（W-2 + 1099）？</title>
-      <link>https://www.reddit.com/r/software/comments/1j3xet6/best_tax_return_software_for_mixed_income_w2_1099/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找可靠的纳税申报软件，这些软件可以处理W-2和1099收入以及相当多的可扣除费用。我过去曾经使用过一种众所周知的税收软件选项之一，但是我希望不丢失重要功能的东西。 对于那些提交具有多个收入来源的税款的人：  您使用什么软件，您使用什么软件，以及它如何处理自由额外的扣除额度？对于自雇人士？  很想在我做出决定之前听到您的经历。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/therealarien   href =“ https://www.reddit.com/r/software/comments/1j3xet6/best_tax_tax_tax_tax_return_software_for_mixed_income_w2_1099/&gt; [link]  &lt;a href =“ https://www.reddit.com/r/software/comments/1j3xet6/best_tax_tax_tax_return_software_for_mixed_income_income_w2_1099/]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1j3xet6/best_tax_return_software_for_mixed_income_w2_1099/</guid>
-      <pubDate>Wed, 05 Mar 2025 07:04:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
