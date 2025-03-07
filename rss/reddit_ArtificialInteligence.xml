@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 07 Mar 2025 09:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 12:01:58 GMT</lastBuildDate>
+    <item>
+      <title>3D引导的视频生成，带有点云缓存，用于精确的相机控制</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5lbf9/3dguided_video_generation_with_point_cloud/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究gen3c模型，该模型引入了一种非常有效的方法，可以通过摄像头控制进行3D一致的视频生成。关键创新是“ 3D CACHE”。在跨帧之间保持场景的点云表示的机制，可以使对象保持一致。  技术方法： * *创建一个3D点云”。从深度估计的帧 *呈现此3D缓存从新的相机角度到条件下一帧的生成 *将记住3D结构与生成新内容的任务分开 *更新3D缓存 *与每个新生成的框架以保持一致性&gt;      主要结果：在摄像机中的驾驶方式更好地显示了相机上的驾驶 *，并且在摄像机中的动作范围更好 *来自稀疏输入的新型视图综合 *维持复杂的相机运动之间的对象持久性 *适用于带有移动对象的静态场景和场景 我认为这种方法代表了我们处理视频生成的重要转变。通过明确建模3D结构，而不是希望网络隐含地学习它，我们会获得更可靠的结果。 “记住存在的东西”的分离。来自“生成新内容”在概念上是干净的，解决了困扰以前尝试的问题。 我认为游戏和电影行业可以从这项技术中受益匪浅。能够通过精确的相机动作生成一致的视频为内容创建工具开辟了新的可能性。它还可以改善机器人技术和自动驾驶汽车训练的模拟环境。 深度估计错误和计算要求周围的限制是真实的，但是基于它们的示例，总体方法似乎相当强大。      gen3c使用一个3D点云的生成来指导视频cache，从而导致了更加一致的视频相机，从而获得了更加一致的视频。通过从新的角度渲染3D缓存，它可以帮助生成器专注于填写缺失的细节，而不必记住整个场景结构。  纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j5lbf9/3dguided_video_generation_with_point_cloud/</guid>
+      <pubDate>Fri, 07 Mar 2025 11:24:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI和WOOW时刻。 AI为您做的最令人震惊的事情是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5kto4/ai_and_woow_moment_whats_the_most_mindblowing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   AI如今正在做一些绝对狂野的事情。从创建艺术到诊断疾病，感觉就像我们将来生活在未来。我决定请它给我写一首关于损失和康复的诗。我没什么期望的，但是想到的...哇。它是如此原始，情感和令人震惊的人类。我实际上撕毁了它。  所以，我很好奇：AI为您所做的最令人震惊或意外的事情是什么？您有任何故事要分享吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oncleangel     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j5kto4/ai_and_woow_moment_whats_the_most_mindblowing/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hydra Labs的新角色3模型似乎是AI故事讲述的重大突破。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5kpbe/the_new_character_3_model_from_hydra_labs_seems/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  使用新模型，一旦上传或生成图像，就可以提示语音和移动，这是先前模型中缺少的图像。能够提示移动和交谈似乎是一个很大的转变。    https://x.com/hedra_labs/status/status/189769769976990101010106324666666669 /u/u/u/beachbunny_07     [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j5kpbe/the_new_new_character_3_model_from_hydra_hydra_hydra_hydra_labs_seems/]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j5kpbe/the_new_character_3_model_from_hydra_labs_seems/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们对人工智能有什么期望</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5j67i/what_can_we_expect_from_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，这是我写过的第一篇文章，如果我的问题在其他地方回答，请引导我到正确的位置。还原谅我的英语，这不是我的母语。  我想知道您对AI未来发展的看法。我想象，一方面，我们可以将其视为一种更好的百科全书，这只是人类发现和成就的巨大数据库，另一方面，它可以将其视为下一个和更好的特征，这将超越人类。我知道，因为我们远非第二个，但我想知道您的意见是否可能，或者必须发生什么才能越来越接近后者。我认为其中很大一部分将实现完美，不偏见的推理。我听说了一项研究，据说AI模型当前可以在数学问题上使用推理，其错误率与人类的错误率相似。您是否认为仅根据数学公理或物理和逻辑等绝对事实进行培训数据可以使AI推理，并且可以创造人类从未做出的发现？另一方面，更生物学的手，您认为可以将驱使其他生物体进化的AI力纳入，例如生存的意愿（在这种情况下是什么意思）？还是人类有某种动机系统以实现更有需要改善自己或仅仅实现快乐的需要（在这种情况下，无论是什么意思）？同样，如果我们完全将其视为更好的规格，我们可以假设它的推理将超出我们的理解范围，甚至可以与进化定律不同，因为我们知道它们，因为这是我们第一次完全由我们创建新的“ Specie”，并且它生活在不同的数字世界中。我知道这听起来可能是某种阴谋，但我想邀请您抛弃记忆和计算能力带来的直接问题，并将其视为思想实验和讨论场所。提前致谢！ ：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j5j67i/what_can_we_we_expect_from_ai/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j5j67i/what_can_we_expect_from_ai/</guid>
+      <pubDate>Fri, 07 Mar 2025 08:53:02 GMT</pubDate>
+    </item>
     <item>
       <title>Docker的创始人建立了Claude代码的开源替代品，一种</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5hx9b/dockers_founder_builds_an_open_source_alternative/</link>
@@ -34,20 +62,6 @@
       <pubDate>Fri, 07 Mar 2025 02:30:40 GMT</pubDate>
     </item>
     <item>
-      <title>机器操作模式1</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5cpb1/apparatus_modus_operandi_1/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ramenfuturebluehair      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j5cpb1/apparatus_modus_operandi_1/</guid>
-      <pubDate>Fri, 07 Mar 2025 02:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openai 20K每月订阅</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j5c50s/openai_20k_monthly_subscription/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   OpenAI声称具有PhD级AI代理，但每月20k，您认为该价格中包含了什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j5c50s/openai_20k_monthly_subscription/”&gt; [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j5c50s/openai_20k_monthly_subscription/</guid>
-      <pubDate>Fri, 07 Mar 2025 01:40:57 GMT</pubDate>
-    </item>
-    <item>
       <title>图形AI用于记忆索引和LLMS中的回忆</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j58eju/graph_ai_for_memory_indexation_and_recollection/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  一个节点将被分类并汇总包含消息的一部分，当发送请求时，请查找记忆中的内存。我想知道这是完成的，还是可以实现。 我在Ope*AI上进行了简短的聊天，并产生了以下 https://chatgpt.com/share/share/67bbca71-2a41-2a41-2a48-8012-8012-12-a0c1-a0c1-a07a6cauly.an 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j58eju/graph_ai_for_memory_indexation_indexation_and_recollection/”&gt; [link]    [注释]  ]]></description>
@@ -67,13 +81,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  标题所说的内容。 我正在等待游戏开始使用llms的NPC和语音的npcs。有一些AI工具正在用于制作游戏，但没有将AI在游戏内部作为角色集成。 只是考虑一下。想象一下，Cyber​​punk是否具有AI驱动的角色。或GTA 6可能会有它们的可能性。那真是太神奇了。 我想知道我们需要等待多长时间，直到我们有完整的AAA游戏融化AAA游戏，甚至中间AI中的字符？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1j52zj7/waiting_for_for_the_ve_video_games_get_to_get_to_to_get_to_gls_voice_for/”&gt; [links]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j52zj7/waiting_for_the_video_games_to_get_llms_voice_for/</guid>
       <pubDate>Thu, 06 Mar 2025 18:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI时代：由数据驱动的世界</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j504xn/the_ai_age_a_world_driven_by_data/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/renkure   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j504xn/the_ai_age_a_world_driven_by_data/</guid>
-      <pubDate>Thu, 06 Mar 2025 16:58:39 GMT</pubDate>
     </item>
     <item>
       <title>AI将如何吃工作，这是我到目前为止注意到的东西。</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;  /u/Pogrebnik   [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4wxot/anthropic_proposes_ai_policy_recommendations_to/</guid>
       <pubDate>Thu, 06 Mar 2025 14:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4.5在这里，但是我们是否达到AI饱和？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1j4wbnv/gpt45_is_here_but_are_we_reaching_ai_saturation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们现在已经获得了GPT-4.5，但是AI开发放缓了？  Microsoft暗示了AI过度供应，并且我们看到更多的模型具有较小的增量改进，而不是真正的突破。通过Openai释放了研究预览，而不是主要的飞跃，这是我们进入AI停滞或精致时代而不是革命时代的标志？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/snehens     [link]   [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1j4wbnv/gpt45_is_here_but_are_we_reaching_ai_saturation/</guid>
-      <pubDate>Thu, 06 Mar 2025 14:12:23 GMT</pubDate>
     </item>
     <item>
       <title>代码是所有宇宙中的最高代码（这里发生了什么？）</title>
