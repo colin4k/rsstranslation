@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 08 Mar 2025 15:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 18:02:32 GMT</lastBuildDate>
+    <item>
+      <title>进行浏览器扩展程序，以帮助您跟踪并了解您遇到的所有会员链接。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  会员链接透明度扩展 曾经想知道当您在线购物时将应用哪个会员链接？我做了一个浏览器扩展程序，向您显示了这一点 - 对您购买的全部透明度！ 它的工作原理  获取 Notification 访问具有会员链接的网站时。   扩展 forts  li li  li&gt; li     会员链接为JSON。  为什么我建立此 我们都应该清楚地知道谁从我们的购买中赚取了委员会。一些公司（例如 honey ）毫无疑问地劫持了针对品牌或创作者的佣金。此扩展有助于为系统带来公平性。 贡献 它还不完美！一些细节可能并不总是能正确显示，因此我欢迎社区的贡献。 If you want to help improve it, check out the repo here: https://github.com/widejoy/affiliate-tracker also im a junior dev, so i made this with very limited knowledge and advice is appriciated  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/not-debt5889     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</guid>
+      <pubDate>Sat, 08 Mar 2025 17:57:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天刚刚完成AIAPWN，这是一种自动及时注射工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   aiapwn是一个简单的工具，可以自动检测AI代理和LLMS中的提示注射漏洞的过程。     github：   https://github.com/karimhabush/aiaiapwn        &lt;！提交由＆＃32; /u/u/karimhabush     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6mgl7/just_finished_aiapwn_today_an_automatic_prompt/</guid>
+      <pubDate>Sat, 08 Mar 2025 17:43:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀dagserver：带有Spring Boot运行DAG的开源服务器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我们想介绍 dagserver ，这是一个由专业人士合作的开源项目。 dagserver是弹簧启动基于旨在执行和编排 dags（有向无环图）有效的服务器。 如果您正在寻找一种轻巧的解决方案，如果您正在寻找使用DAG的轻量级解决方案，我们会邀请您尝试使用DAG，我们邀请您进行反馈！ href =“ https://github.com/telemodemti/dagserver”&gt; github上的dagserver     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/then-dark-7298   href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_open_source_server_server_for_running_dags/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_source_server_server_for_running_dags/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</guid>
+      <pubDate>Sat, 08 Mar 2025 15:21:48 GMT</pubDate>
+    </item>
     <item>
       <title>软件变形窗口？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j6h9u0/software_to_debloat_windows/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家 - 我听到一些人提到他们已经建立了自定义的解决方案来与他们的苹果聊天，所以我决定自己创建一个人 - 并发布它。 我住在苹果的笔记中，并在那里记录了很多东西，并且我认为这是一个很好的应用程序。苹果笔记在本地运行LLM的情况下 - 确保没有数据离开您的设备。我为该应用程序的基本版本开了开源，因为我认为还有一些有趣的机会可以添加其他集成，例如黑曜石（社区中的某人已经在努力）或概念。 可以随时查看Github  https://github.com/arnestrickmann/notechat      对您的反馈感到高兴，  arne  arne  arne     &lt;！提交由＆＃32; /u/u/arne226     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j56ih6/locally_chat_with_apple_notes_ollama_would_be/</guid>
       <pubDate>Thu, 06 Mar 2025 21:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于OpenSource项目的文档的最佳实践？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j55u7m/best_practices_for_documentation_of_opensource/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从事研究工作，而我的团队已经开发了几种软件工具，我们只想在of githme.md in of of github repo（s）中进行记录。我们已经广泛地使用了Repo Wiki功能，但它并不是真正引人入胜的资源。  我们的目标非常有帮助，但不是促进更大采用的途径。我们的目标是使回购成为自学成才的科学家（不仅仅是开发人员）的全面入职枢纽，并结合了可重复性的Docker选项并创建一个一站式的教育环境。我们还计划使用YouTube视频和Jupyter笔记本进行补充。  如果这有所不同，我们是100％Python。为此，我遇到了“ Divio”。文档框架将内容分类为教程，如何指导，解释和参考 - 似乎像稳固的结构一样，并从Django社区获得了支持。 我们的目标是强烈鼓励通过易于使用和倾向于可重复使用来通过易于使用我们的工具。  任何想法或建议都将不胜感激！谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fabulous-farmer7474     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j55u7m/best_practices_for_documentation_of_opensource/</guid>
-      <pubDate>Thu, 06 Mar 2025 20:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotube活动反映在Spotify包装中？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j555dv/spotube_activity_reflected_in_spotify_wrapped/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我有一个问题。我知道，通过使用Spotsube，我可以同步我的Spotify播放列表，但是我的疑问是，如果我专门使用Spotsube听音乐，那就是我不使用任何Spotify应用程序，是否在Spotify包装中反映了我的聆听活动？我已经在Internet上搜索了有关此主题的信息，但没有找到任何明确的答案  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/constructogamer   href =“ https://www.reddit.com/r/opensource/comments/1j5555dv/spotube_activity_reflective_in_spotifle_in_spotify_wrapped/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j555dv/spotube_activity_reflected_in_spotify_wrapped/</guid>
-      <pubDate>Thu, 06 Mar 2025 20:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>github- transformrs/trv：变换幻灯片和扬声器音符进入视频</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j54qro/github_transformrstrv_transform_slides_and/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/rik-huijzer       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j54qro/github_transformrstrv_transform_slides_and/</guid>
-      <pubDate>Thu, 06 Mar 2025 20:08:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
