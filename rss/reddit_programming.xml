@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 08 Mar 2025 06:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 09:03:41 GMT</lastBuildDate>
+    <item>
+      <title>刚刚启动了flickscout.com！需要您的反馈🙌</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6d9df/just_launched_flickscoutcom_need_your_feedback/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nilipilo      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6d9df/just_launched_flickscoutcom_need_your_feedback/</guid>
+      <pubDate>Sat, 08 Mar 2025 09:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>跳过一对一：强大的工程团队的被低估的实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6d12i/skiplevel_1on1s_the_underrated_practice_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/azdaroth       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6d12i/skiplevel_1on1s_the_underrated_practice_for/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lamport逻辑时钟实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6buvj/lamport_logical_clock_implementation_from_scratch/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sushant098123      ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6buvj/lamport_logical_clock_implementation_from_scratch/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>简洁的数据结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6bs5t/succinct_data_structures/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/mttd      [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6bs5t/succinct_data_structures/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>将您的Homelab学习到网络朋克神秘冒险中的游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6bdy3/a_game_of_learning_your_homelab_into_a_cyberpunk/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/b0red       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6bdy3/a_game_of_learning_your_homelab_into_a_cyberpunk/</guid>
+      <pubDate>Sat, 08 Mar 2025 06:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL引擎在执行命令式程序方面表现出色</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6b6qg/sql_engines_excel_at_the_execution_of_imperative/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/mttd       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6b6qg/sql_engines_excel_at_the_execution_of_imperative/</guid>
+      <pubDate>Sat, 08 Mar 2025 06:32:56 GMT</pubDate>
+    </item>
     <item>
       <title>将参数传递到弹簧REST API的6种方法</title>
       <link>https://www.reddit.com/r/programming/comments/1j69a1n/6_ways_to_pass_parameters_to_spring_rest_api/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/bookofcooks       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j5nycg/near_impossible_hosting_golang_websockets_on/</guid>
       <pubDate>Fri, 07 Mar 2025 13:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何写有用的提交消息</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5nvm5/how_to_write_useful_commit_messages/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mtlynch      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5nvm5/how_to_write_useful_commit_messages/</guid>
-      <pubDate>Fri, 07 Mar 2025 13:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>凌晨2点调试会议：通过</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5m9ys/2_am_debugging_sessions_the_secret_rite_of/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/terryc_indiegamedev     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5m9ys/2_am_debugging_sessions_the_secret_rite_of/</guid>
-      <pubDate>Fri, 07 Mar 2025 12:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了LANet：一种轻巧的工具，可在局部网络上进行安全易于对等通信。包括CLI和Ruby API。</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5lh9v/i_made_lanet_a_lightweight_tool_for_secure_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/davidesantangelo       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5lh9v/i_made_lanet_a_lightweight_tool_for_secure_and/</guid>
-      <pubDate>Fri, 07 Mar 2025 11:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>孤独的女性软件开发人员的旅程</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5lh1g/the_journey_of_a_lone_female_software_developer/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/shift_devs   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5lh1g/the_journey_of_a_lone_female_software_developer/</guid>
-      <pubDate>Fri, 07 Mar 2025 11:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解和减轻尾部潜伏期，以使用请求对冲</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5lbvv/understanding_and_mitigating_tail_latency_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kostakos14      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5lbvv/understanding_and_mitigating_tail_latency_in/</guid>
-      <pubDate>Fri, 07 Mar 2025 11:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java中的向量API：SIMD操作的高性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5kcx1/api_de_vectores_en_java_alto_rendimiento_con/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://emanuelpeg.blogspot.com/2025/03/api-de-vectores-e--e- java-palml”&gt; [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1j5kcx1/api_de_de_vectores_en_java_ava_alto_alto_rendimiento_con/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5kcx1/api_de_vectores_en_java_alto_rendimiento_con/</guid>
-      <pubDate>Fri, 07 Mar 2025 10:18:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
