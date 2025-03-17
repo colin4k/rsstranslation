@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Mar 2025 21:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 00:04:08 GMT</lastBuildDate>
     <item>
       <title>Beehiiv的直接赞助</title>
       <link>https://www.producthunt.com/posts/direct-sponsorships-by-beehiiv</link>
@@ -36,7 +36,7 @@
             在小部件，锁屏，充满活力的岛上弹钢琴
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/piano-widget</guid>
       <pubDate>Fri, 14 Mar 2025 19:26:58 GMT</pubDate>
@@ -48,7 +48,7 @@
             通过AI驱动的搜索立即查找和分析视频
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/neuravid</guid>
       <pubDate>Fri, 14 Mar 2025 11:01:48 GMT</pubDate>
@@ -78,13 +78,25 @@
       <pubDate>Fri, 14 Mar 2025 05:31:23 GMT</pubDate>
     </item>
     <item>
+      <title>代理深工作</title>
+      <link>https://www.producthunt.com/posts/proxy-deepwork</link>
+      <description><![CDATA[
+            与AI代理自动化复杂工作流程
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/proxy-deepwork</guid>
+      <pubDate>Fri, 14 Mar 2025 05:22:06 GMT</pubDate>
+    </item>
+    <item>
       <title>双子座个性化</title>
       <link>https://www.producthunt.com/posts/gemini-personalization</link>
       <description><![CDATA[
             为您提供帮助
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/gemini-personalization</guid>
       <pubDate>Fri, 14 Mar 2025 03:01:00 GMT</pubDate>
@@ -96,7 +108,7 @@
             为机器构建您自己的AI代理！
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ai-agents-for-machines</guid>
       <pubDate>Thu, 13 Mar 2025 21:25:01 GMT</pubDate>
@@ -132,22 +144,10 @@
             闪电快速文字扩展，无限片段，现代UI
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/loadfast-snippet-expander</guid>
       <pubDate>Thu, 13 Mar 2025 16:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座机器人技术</title>
-      <link>https://www.producthunt.com/posts/gemini-robotics</link>
-      <description><![CDATA[
-            将AI带入物理世界
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/gemini-robotics</guid>
-      <pubDate>Thu, 13 Mar 2025 01:13:14 GMT</pubDate>
     </item>
     <item>
       <title>眼睛</title>
@@ -174,6 +174,18 @@
       <pubDate>Tue, 11 Mar 2025 03:17:14 GMT</pubDate>
     </item>
     <item>
+      <title>fuego</title>
+      <link>https://www.producthunt.com/posts/fuego-2</link>
+      <description><![CDATA[
+            用于管理Firestore数据库的桌面应用程序
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fuego-2</guid>
+      <pubDate>Mon, 10 Mar 2025 23:27:01 GMT</pubDate>
+    </item>
+    <item>
       <title>语法</title>
       <link>https://www.producthunt.com/posts/grammarpaw</link>
       <description><![CDATA[
@@ -192,22 +204,10 @@
             基于浏览器的AI代理 - 无限运行，固定成本
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/browseragent</guid>
       <pubDate>Fri, 07 Mar 2025 19:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agbr</title>
-      <link>https://www.producthunt.com/posts/agbr</link>
-      <description><![CDATA[
-            iPhone，iPad和Mac的黑白电影模拟器
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/agbr</guid>
-      <pubDate>Tue, 04 Mar 2025 22:15:08 GMT</pubDate>
     </item>
     <item>
       <title>点击</title>
@@ -216,7 +216,7 @@
              将无花果和点击保持同步
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/clickma</guid>
       <pubDate>Mon, 24 Feb 2025 23:10:17 GMT</pubDate>
