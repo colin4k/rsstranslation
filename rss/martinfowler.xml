@@ -4,18 +4,16 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Wed, 26 Feb 2025 18:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 03:12:45 GMT</lastBuildDate>
     <item>
-      <title>设计令牌的UI架构</title>
-      <link>https://martinfowler.com/articles/design-token-based-ui-architecture.html</link>
+      <title>更复杂的codemod</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</link>
       <description><![CDATA[    
-设计令牌是表示为数据的基本设计决策。
-        andreas kutschmann 解释他们如何工作
-       以及如何组织它们以平衡可伸缩性，可维护性和
-       开发人员经验。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/design-token-based-ui-architecture.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:51 GMT</pubDate>
+  juntao qiu 移动到，从JSX组件中提取工具提示责任的一种。
+      这说明了如何在几个步骤中操纵AST。
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:44 GMT</pubDate>
     </item>
     <item>
       <title>用CodeMods重构以自动化API更改</title>
@@ -33,17 +31,7 @@
       破坏API的更改和重构遗产代码库。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>更复杂的codemod</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</link>
-      <description><![CDATA[    
-  juntao qiu 移动到，从JSX组件中提取工具提示责任的一种。
-      这说明了如何在几个步骤中操纵AST。
- 更多…  ]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:49 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:44 GMT</pubDate>
     </item>
     <item>
       <title>我最喜欢的2024年音乐发现</title>
@@ -55,7 +43,18 @@
       字符串四重奏。 （我也无法将自己限制在六个。）
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2024-music.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:48 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他语言的codemods</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
+      <description><![CDATA[    
+  juntao qiu 完成了他对codemods的描述
+      查看其他一些在Javascript World之外接近
+      Javaparser和OpenRewrite。
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:42 GMT</pubDate>
     </item>
     <item>
       <title>修复CodeMods的常见陷阱</title>
@@ -67,37 +66,24 @@
       复杂的情况通过组成codemods。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他语言的codemods</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
-      <description><![CDATA[    
-  juntao qiu 完成了他对codemods的描述
-      查看其他一些在Javascript World之外接近
-      Javaparser和OpenRewrite。
- 更多…  ]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:45 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:42 GMT</pubDate>
     </item>
     <item>
       <title>与卢卡·罗西（Luca Rossi）的播客</title>
       <link>https://refactoring.fm/p/growing-the-development-forest-with</link>
-      <description><![CDATA[   
-卢卡·罗西（Luca Rossi）主持了一个播客（和新闻通讯），称为重构
+      <description><![CDATA[  卢卡·罗西（Luca Rossi）主持了一个播客（和新闻通讯），称为重构
       很明显，我们有一些共同的兴趣。瓷砖来自我
       靠在贝丝·安德斯·贝克（Beth Anders-Beck）和肯特·贝克（Kent Beck）的隐喻上，森林和沙漠。我们说话
       关于AI对软件开发的影响，技术的隐喻
       债务和敏捷软件开发的现状。
  更多… ]]></description>
       <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:43 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:41 GMT</pubDate>
     </item>
     <item>
       <title>建造Genai产品的新兴模式</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/</link>
-      <description><![CDATA[    
-这些天每个人都对使用生成型AI感到着迷，而我的
+      <description><![CDATA[  这些天每个人都对使用生成型AI感到着迷，而我的
       同事也不例外。他们中的一些人有机会提出
       这些系统是作为概念验证的，更重要的是
       作为生产系统。我知道 bharani subramaniam 
@@ -109,13 +95,12 @@
       evals。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:42 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:40 GMT</pubDate>
     </item>
     <item>
       <title>Genai产品中的嵌入</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#embedding</link>
-      <description><![CDATA[    
- genai系统与许多现代AI方法一样，必须处理广阔的
+      <description><![CDATA[   genai系统与许多现代AI方法一样，必须处理广阔的
       数据数量，并在图像中找到元素之间的相似性或
       单词的一部分。  bharani subramaniam ，我描述了一个关键工具
       为此 -   embeddings   - 将大型数据块转换为
@@ -123,7 +108,17 @@
       概念
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:40 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：检索增强发电（RAG）</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
+      <description><![CDATA[  预先训练的Genai模型缺乏有关A的最新和具体信息
+      领域。  bharani subramaniam ，我解释了如何检索
+      增强发电（RAG）可以填补该空白。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:38 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：森林和沙漠</title>
@@ -164,44 +159,41 @@
     像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genai模式：检索增强发电（RAG）</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
-      <description><![CDATA[    
-预先训练的Genai模型缺乏有关A的最新和具体信息
-      领域。  bharani subramaniam ，我解释了如何检索
-      增强发电（RAG）可以填补该空白。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
-      <link>https://www.youtube.com/watch?v=86-Dy5U2p5Y</link>
-      <description><![CDATA[    
-去年9月与霍莉·卡明斯（Holly Cummings）一起在哥本哥本哈根（Goto Copenhagen）的一个面板上
-      Trisha Gee，Dave Farley和Daniel Terhorst-North。我们讨论了
-      当前软件开发的状态及其前进方向。鉴于
-      时机，关于AI在我们的角色中的作用有很多讨论
-      职业的未来。
- 更多… ]]></description>
-      <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:35 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:38 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</link>
-      <description><![CDATA[    
-今日 bharani subramaniam ，我概述了四个
+      <description><![CDATA[  今日 bharani subramaniam ，我概述了四个
       从昨天开始的简单抹布的局限性，以及模式
       解决了其中的第一个：混合猎犬。这可以解决
       通过将基于嵌入的搜索与其他相结合的效率低下
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:33 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
+      <link>https://www.youtube.com/watch?v=86-Dy5U2p5Y</link>
+      <description><![CDATA[  去年9月与霍莉·卡明斯（Holly Cummings）一起在哥本哥本哈根（Goto Copenhagen）的一个面板上
+      Trisha Gee，Dave Farley和Daniel Terhorst-North。我们讨论了
+      当前软件开发的状态及其前进方向。鉴于
+      时机，关于AI在我们的角色中的作用有很多讨论
+      职业的未来。
+ 更多… ]]></description>
+      <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：查询重写</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</link>
+      <description><![CDATA[  
+用户通常很难编写最有效的查询。
+       bharani subramaniam ，我解释了
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:36 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek系列：技术概述</title>
@@ -216,29 +208,33 @@
       大规模增强学习的紧急推理
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genai模式：查询重写</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</link>
-      <description><![CDATA[    
-用户通常很难编写最有效的查询。
-       bharani subramaniam ，我解释了
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:31 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:36 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#reranker</link>
-      <description><![CDATA[    
- llms在大量背景下挣扎。  bharani
+      <description><![CDATA[  llms在大量背景下挣扎。  bharani
       Subramaniam ，我解释了如何减轻这种常见的抹布
       A  reranker 
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:30 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：护栏和抹布概述</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
+      <description><![CDATA[  
+ gen ai系统是可欺骗的，很容易被欺骗到响应
+      以违反企业的政策或泄漏的方式
+      机密信息。  bharani
+      Subramaniam 我描述了如何通过添加
+       Guardrails 在请求/响应流的边界处。我们也是
+      总结我们对抹布的讨论，概述了所有抹布
+      组件模式合并在一起。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:34 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -249,49 +245,46 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:28 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:34 GMT</pubDate>
     </item>
     <item>
-      <title>Genai模式：护栏和抹布概述</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
-      <description><![CDATA[    
- gen ai系统是可欺骗的，很容易被欺骗到响应
-      以违反企业的政策或泄漏的方式
-      机密信息。  bharani
-      Subramaniam 我描述了如何通过添加
-       Guardrails 在请求/响应流的边界处。我们也是
-      总结我们对抹布的讨论，概述了所有抹布
-      组件模式合并在一起。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:27 GMT</pubDate>
+      <title>评论在美国护照上删除“ X”</title>
+      <link>https://martinfowler.com/articles/2025-passport-x.html</link>
+      <description><![CDATA[新的美国政府决定消除护照上性别/性别的“ X”选项。我有几个非二进制朋友，我不明白为什么他们应该选择一个对他们没有意义的选项。我也看不到身份文档上的“ X”选项如何给其他任何人带来重大问题。我无能为力地反对这一变化，但是一小件事是对联邦登记册进行此类规则更改的评论。有三个这样的页面：
+ DS-11新护照应用程序：（截止日期3/17/25） https://www.federalregister.gov/documents/2025/02/02/14/2025-02648/30-day-notice-notice-of-propsoped-inforpose-information-information-information-collection-collection-for-application-for-a-a-us-passport   
+ DS-82护照更新：（截止日期为3/20/25）
+ https://www.federalregister.gov/documents/2025/202/02/2025-02697/30-Day-nay-notice-of-propsoped-inforpose-information-information-information-collection-collection-us-passport-renewal-application-for-for-for-for-clible-for-comible-cible      
+ DS-5504名称更改或数据更正：（截止日期3/20/25）
+ https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
+在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
+      <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:33 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</link>
-      <description><![CDATA[    
-抹布是将基础模型集中在
+      <description><![CDATA[  抹布是将基础模型集中在
       培训集外的材料， bharani subramaniam 
       我现在通过检查我们的经验来完成当前的模式
       使用微调我们学会了优先级
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:26 GMT</pubDate>
+      <pubDate>Wed, 26 Mar 2025 03:12:33 GMT</pubDate>
     </item>
     <item>
-      <title>评论在美国护照上删除“ X”</title>
-      <link>https://martinfowler.com/articles/2025-passport-x.html</link>
-      <description><![CDATA[新的美国政府决定消除护照上性别/性别的“ X”选项。我有几个非二进制朋友，我不明白为什么他们应该选择一个对他们没有意义的选项。我也看不到身份文档上的“ X”选项如何给其他任何人带来重大问题。我无能为力地反对这一变化，但是一小件事是对联邦登记册进行此类规则更改的评论。有三个这样的页面：
- DS-11新护照应用程序：（截止日期3/17/25） https://www.federalregister.gov/documents/2025/02/14/2025-02648/30-Day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-passport  &lt; /p&gt;
-
- DS-82护照更新：（截止日期为3/20/25）
- https://www.federalregister.gov/documents/2025/02/02/18/2025-02697/30-Day-Notice-notice-of-propsoped-inforpose-information-information-collection-collection-us-passport-renewal-application-for-pasplication-for-rimible-imible----允许&gt; 
- DS-5504名称更改或数据更正：（截止日期3/20/25）
- https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-day-not-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-a-us-us-passport-for-for-for-climi-clible &lt; /a&gt; 
-在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
-      <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Wed, 26 Feb 2025 18:04:25 GMT</pubDate>
+      <title>开发人员技能在代理编码中的作用</title>
+      <link>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</link>
+      <description><![CDATA[    
+随着代理编码助手的能力越来越强大， 
+       birgitta b＆＃xf6; ckeler 正在尝试更改现有的现有
+      代码库。这导致了一些令人印象深刻的合作课程，但是
+      她需要一直干预，正确和转向。在她的最新
+      帖子，她描述了这些干预措施的例子，给出了
+      我们目前需要纠正工具失误的技能类型。 
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
+      <pubDate>Wed, 26 Mar 2025 03:12:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
