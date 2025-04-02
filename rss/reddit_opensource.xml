@@ -4,146 +4,146 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 28 Mar 2025 12:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 18:03:55 GMT</lastBuildDate>
     <item>
-      <title>upscayl云与桌面</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlri0c/upscayl_cloud_vs_desktop/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/diswangud     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlri0c/upscayl_cloud_vs_desktop/</guid>
-      <pubDate>Fri, 28 Mar 2025 09:56:53 GMT</pubDate>
+      <title>AI会帮助开源软件与付费服务竞争吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpv6a3/will_ai_help_opensource_software_compete_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直是开源软件的忠实拥护者，但是我注意到的一件事是，尽管它们钉了核心功能，但它们通常缺乏使付费服务变得如此方便的额外功能和抛光。许多开源工具感觉是为电力用户构建的，而商业替代方案则更多地关注用户体验和易用性。 随着AI辅助编码变得更加先进，我想知道这是否会改变。开源项目是否能够更快地运输新功能并提高可用性，从而通过付费服务缩小差距？或者，资金和专用UX团队的优势仍然可以使专有软件保持领先地位？很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/fygarcia   href =“ https://www.reddit.com/r/opensource/comments/1jpv6a3/will_ai_ai_help_help_opensource_software_compete_with/&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpv6a3/will_ai_help_opensource_software_compete_with/</guid>
+      <pubDate>Wed, 02 Apr 2025 17:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>微软开发了这种技术，该技术结合了抹布和微调，以改善域的适应性。我在github上有</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlnc7y/microsoft_developed_this_technique_which_combines/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在探索检索增强微调（RAFT）。结合抹布和填充，以改善域的适应性。除了问题外，还添加了引起上下文的文档（称为Oracle Doc），以及其他分心的文件。然后，有了一定的概率，不包括Oracle文档。野外有任何成功的用例吗？还是被掩盖了。在这种情况下，通过什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ubitious_anybody855     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlnc7y/microsoft_developed_this_technique_which_combines/</guid>
-      <pubDate>Fri, 28 Mar 2025 04:50:25 GMT</pubDate>
+      <title>Mozilla Thunderbird用自己的电子邮件服务挑战Gmail</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jptprv/mozilla_thunderbird_challenges_gmail_with_its_own/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;态href =“ https://www.forbes.com/sites/jasonevangelho/2025/04/01/finally-mozilla-thunderbird-takes-takes-takes-on-gmail-gmail-with-new-email-service/   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jptprv/mozilla_thunderbird_challenges_gmail_with_its_own/</guid>
+      <pubDate>Wed, 02 Apr 2025 17:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>我只是开源14个很棒的wan2.1 loras🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jln6pk/i_just_opensourced_14_awesome_wan21_loras/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/najsonepls       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jln6pk/i_just_opensourced_14_awesome_wan21_loras/</guid>
-      <pubDate>Fri, 28 Mar 2025 04:40:53 GMT</pubDate>
+      <title>GUI触摸 - 方便的时间戳修饰符</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jptmhp/gui_for_touch_handy_timestamp_modifier/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我总是感到惊讶的是，没有一种简单的方法来更改文件的时间戳。是的，“触摸”命令功能强大，但我并不完全使用它，并且通常会花费太多时间来仔细检查语法。 修复由日光节省时间更改引起的微不足道的时间戳错误一直是一项任务，这是一项任务，需要焦点比应有的重点。手动计算多个文件的相对偏移……不是理想的。 ，所以我制作了一个我很高兴用户几个月的程序。 现在，您也可以 -     touch&gt; touch&gt; touch&gt; touch&gt; touch&gt; touch&gt; touch&gt;    ！我已经确定了五种方法，我还需要调整各种时间段的时间 - 我可以自动地设置各种相对时间，甚至可以通过图像进行，甚至可以自动地播放。元数据。 加上，UI是基于 mininterface ，它的工作方式与桌面应用程序完全相同，与terminal App，terminal App（ex。在远程机器上）或brows browser of trow toblecker或abor browser或plocker。具有。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/the-e2rd     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jptmhp/gui_for_touch_handy_timestamp_modifier/</guid>
+      <pubDate>Wed, 02 Apr 2025 16:58:22 GMT</pubDate>
     </item>
     <item>
-      <title>我为Firefox的离线翻译模型创建了一个桌面应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlmyzo/i_created_a_desktop_app_for_firefoxs_offline/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我想与大家分享我的新项目， localtranslate 。 这是一个开源桌面翻译应用程序，可以使您可以在线翻译 pr transce  pp&gt;     ，可以 /u/s20nters     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlmyzo/i_created_a_desktop_app_for_firefoxs_offline/</guid>
-      <pubDate>Fri, 28 Mar 2025 04:28:01 GMT</pubDate>
+      <title>tictactoe与加固学习</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpt0ei/tictactoe_with_reinforcement_learning/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  受 u/antirez 教育如何能够学习匹配盒可以学会播放tic-tac-toe （不幸的是，意大利语）是一种基于Web的实现，是一种基于Web的实现，但使用了不可行的方法，但可以使用原始方法，并且已将  https://darioguarascio.github.io/tic-tac-tac-toe-toe-nxn/  提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jpt0ei/tictactoe_with_with_reinforevection_learning/”&gt; [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpt0ei/tictactoe_with_reinforcement_learning/</guid>
+      <pubDate>Wed, 02 Apr 2025 16:33:21 GMT</pubDate>
     </item>
     <item>
-      <title>Phishguard  - 开源网络钓鱼电子邮件检测（寻找反馈和贡献者！）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlms7x/phishguard_opensource_phishing_email_detection/</link>
-      <description><![CDATA[         &lt;！ -  sc_off- sc_off-&gt;   大家， 我一直在处理一个名为“ phishguard phishguard phishguard bush endy emellive emelly decturection” phise dish phestement pershement pershemem neplection phise emellive emelly decturecty pytection pytection。它仍处于早期阶段（Kinda beta），但是如果有人感兴趣的话，我很想获得一些反馈，甚至可能有一些贡献者！  PhishGuard在做什么：•扫描。EML文件并提取关键细节（发件人，主题，身体，链接，链接，附件，附件）。 •使用微调的BERT模型（变形金刚）分析电子邮件主体文本以获取网络钓鱼指标。 •分析链接＆amp;使用Virustotal API（出色的数据库＆amp;文件扫描）的文件。 •生成检测图以可视化可疑活动。 •（很快）一个简单的基于TKINTER的GUI，以便于更容易交互。 现在，核心检测正在起作用，但我仍在改进。如果您喜欢网络安全，NLP或只是开源的，请随时检查一下！贡献，反馈或任何想法都受到欢迎。 让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/awary_ebb9158        [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlms7x/phishguard_opensource_phishing_email_detection/</guid>
-      <pubDate>Fri, 28 Mar 2025 04:16:30 GMT</pubDate>
+      <title>单独跟踪AI贡献？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jps76k/tracking_ai_contributions_separately/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   ai和非人类创作不受美国版权的保护。当然，欧盟更加细微，使人工AI有时可以拥有作者身份，并获得一些版权保护。其他国家/地区各不相同。 如果我使用AI生成代码，则该代码将不会由我撰写（因为我在美国）。 If I then modify that code, my contribution would be authored by me. Question 1: Should we be tracking AI contributions separately from human authored contributions? Scenario: I find a useful project on github originally authored entirely by xyz789 that has been abandoned or neglected for multiple 年。它已在GPL下获得许可。它不再正常工作，需要更新以继续以其过去的方式运行，并且有几个功能请求易于实现。 我使用git制作本地副本并使用AI工具来扫描代码并寻找防止其构建和运行的问题。 AI提出了解决问题的差异。我应用了差异，它有效。所有测试通过，并且程序正常运行。 用户 abc123 的功能请求包括一个拉请请求，当应用时会产生所需的输出。然后，我编写测试，合并拉请请求，然后运行测试套件。它有效！ 另一个功能请求看起来很容易实现。我编写了测试，进行更改以实现该功能，瞧，这个废弃的项目比新项目好！  问题2：在完成此操作后，git树应该是什么样的？   大多数代码大部分是由xyz789  中的某些代理（假定li&gt; li&gt; li&gt; li y y ai y aii yi&gt;由ABC123  撰写的某些代码由ME    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/newz2000     [link]   ＆＃32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jps76k/tracking_ai_contributions_separately/</guid>
+      <pubDate>Wed, 02 Apr 2025 16:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以为我的大学项目提供帮助吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jljcc9/can_someone_help_for_my_university_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我项目的标题是“盲人学生的电子校长系统”。我错误地选择了这个话题。但是我不知道如何做到这一点。请帮助我获得该项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nahertop     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jljcc9/can_someone_help_for_my_university_project/</guid>
-      <pubDate>Fri, 28 Mar 2025 01:15:22 GMT</pubDate>
+      <title>与AI集成的开源文本编辑器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpp6v8/open_source_text_editor_that_integrates_with_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经在我刚刚启动的一个项目上工作了几年。 这是一个开源的文本编辑器，不强迫您将笔记发送到云上并在计算机上运行AI并在计算机上运行AI。 如果您需要一个可以创建想法并不想创造您的想法=您的想法=您会喜欢这个应用程序，您会喜欢您的应用程序，您会喜欢这个应用程序，您会喜欢您，您会喜欢您，您可以在您的想法上=您，您会喜欢您，您会喜欢您的想法。看起来像概念，但专注于隐私和离线用法。  网站：  writeopia.io         github：   https://github.com/writeopia/writeopia/writeopia      我的未来计划：      - 完成Windows App and it Windows app and it it it。搜索。   -  AI基于您的文档生成一个小的演示文稿。   - 可以自托管的后端。  为什么我构建了它： 我构建了写作piropia，因为我想拥有一个用户可以自我主持人和开源的开源。尽管存在选项，但我想创建我对文本编辑器的愿景，并使用在上下文中不常见的技术，例如撰写多平台。   ----  我希望社区有关该项目的反馈。请随时解决问题或问题，您可以使用此线程或给我发送DM。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lehen01     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpp6v8/open_source_text_editor_that_integrates_with_ai/</guid>
+      <pubDate>Wed, 02 Apr 2025 13:56:44 GMT</pubDate>
     </item>
     <item>
-      <title>菜：轻巧的HTTP和TCP插座监视工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlgl35/dish_a_lightweight_http_tcp_socket_monitoring/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   dish是一种轻巧的0依赖关系监视工具，其形式为小二进制可执行文件。执行后，它检查提供的插座（可以在JSON文件中提供或由远程JSON API端点提供）。然后将检查结果报告给配置的频道。 它是作为一个学习项目开始的，最终证明了很方便。在过去的三年中，我和我的朋友一直在使用它来监视我们的服务。  我们已经重新确定代码库，以便我们在这里进行一些更大的呈现，并认为我们将在这里分享！ 当前支持的频道包括：   Webhooks  自定义API端点    https：//github.com/thevxn/dish/dish/dish 提交由＆＃32; /u/tack1234     [link]    [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlgl35/dish_a_lightweight_http_tcp_socket_monitoring/</guid>
-      <pubDate>Thu, 27 Mar 2025 23:05:30 GMT</pubDate>
+      <title>一个驱动器的免费开源（或相当便宜）的云存储替代品吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpp3gr/any_open_source_free_or_decently_cheap_cloud/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在Microsoft前进的方向上，我打算停止为基本计划付费，但是如果有一个开源（或一个非常便宜但值得认可的）替代方案，那么IDK​​是一个驱动器的替代方案吗？ ，我看到了NextCloud和Open Cloud，但是它们需要在服务器上吗？还是可以像OneDrive可以一样在系统本身上？  还有其他FOSS替代方案（或便宜的替代品）？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cloudyyysxshadowh     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpp3gr/any_open_source_free_or_decently_cheap_cloud/</guid>
+      <pubDate>Wed, 02 Apr 2025 13:52:54 GMT</pubDate>
     </item>
     <item>
-      <title>pomerium现在使用opentelemetry跟踪v0.29.0中的每个请求</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlesau/pomerium_now_with_opentelemetry_tracing_for_every/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/peotlecallmebob     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlesau/pomerium_now_with_opentelemetry_tracing_for_every/</guid>
-      <pubDate>Thu, 27 Mar 2025 21:49:17 GMT</pubDate>
+      <title>Linux内核如何处理跟踪CVE安全问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpndsp/how_linux_kernel_deals_with_tracking_cve_security/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/vlwnc5cd29qvgawsp8httgk0k0kt6euah8b0qmiqdunvw.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = ea0292820bfd78EA6505D2AEA3A2716D7898073F“ title =“ Linux内核如何处理跟踪CVE安全问题”/&gt;   ＆＃32;提交由＆＃32; /u/u/crankybear     ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpndsp/how_linux_kernel_deals_with_tracking_cve_security/</guid>
+      <pubDate>Wed, 02 Apr 2025 12:30:37 GMT</pubDate>
     </item>
     <item>
-      <title>政府应真正激励像Github上的开源创作</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlcivj/the_government_should_really_incentivize_open/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/note_egg_4773     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlcivj/the_government_should_really_incentivize_open/</guid>
-      <pubDate>Thu, 27 Mar 2025 20:19:05 GMT</pubDate>
+      <title>我可以帮助您的测试自动化需求吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpmego/can_i_help_with_your_test_automation_needs/</link>
+      <description><![CDATA[Hi all, are there any projects looking for Test Automation support? I already have lots of manual testing experience, so I&#39;m looking for more hands-on automation work. Tech stack: 🔹 Languages: JavaScript/TypeScript, Python 🔹 框架：Selenium Webdriver，Cypress，Playwright  我主要完成了Web自动化（目前） 很想贡献和提高我的自动化技能 - 让我知道我是否可以帮助！提交由＆＃32; /u/u/datguyi2gaug3     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpmego/can_i_help_with_your_test_automation_needs/</guid>
+      <pubDate>Wed, 02 Apr 2025 11:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>您的FOSS项目是否有任务文化？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlc9a3/does_your_foss_project_have_an_assignment_culture/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我的名字叫Meagen，我是Python供电的内容管理系统的核心团队，称为 wagtail 。 If you want to see what we&#39;re all about, I recorded a video recently showing off our software. Anyway, I wanted to get some opinions on something that comes up pretty often in our GitHub and Slack communities: People asking to be assigned to issues or tasks. Like many FOSS projects, the number of经验丰富的人在我们的软件上工作的人数在很大程度上被新人所少。我们没有能力或时间来给所有人尽可能多的关注。结果，除非他们在路线图的一个非常具体的部分工作，否则我们目前不会为人们分配问题或任务。如果新的贡献者想处理问题或功能请求，我们鼓励他们选择吸引他们的东西并提交PR。 我认为我们犹豫要分配问题，因为我们通过参加一项任务而从不做任何事情而被烧毁了太多次。然后是因为它是“分配的”，其他人觉得它已经被拿走了，不要捡起它。 我很好奇，您是否将事物分配给社区中的人们？如果是这样，您为什么要这样做，并且它对您的社区文化有积极的好处？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/meagenvoss   href =“ https://www.reddit.com/r/opensource/comments/1jlc9a3/does_your_your_foss_project_have_an_assignment_culture/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlc9a3/does_your_foss_project_have_an_assignment_culture/</guid>
-      <pubDate>Thu, 27 Mar 2025 20:08:35 GMT</pubDate>
+      <title>QT 6.9发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jplc38/qt_69_released/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/jlpcsl      [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jplc38/qt_69_released/</guid>
+      <pubDate>Wed, 02 Apr 2025 10:29:52 GMT</pubDate>
     </item>
     <item>
-      <title>有机地图从github转移到自托管</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jlc80t/organic_maps_moved_development_from_github_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有机映射（基于OpenStreetMap OpenStreetMap的移动应用程序）将开发过程移至 forgejo实例。其ORG的所有GitHub存储库均为使ReadOnlyly  2周前进行了ReadOnly ，并且无法解锁帐户。  /u/u/yayaya14     [link]    [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jlc80t/organic_maps_moved_development_from_github_to/</guid>
-      <pubDate>Thu, 27 Mar 2025 20:05:59 GMT</pubDate>
+      <title>建立了一个扩展程序，以查看Chrome历史上的完整URL！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpkbwl/built_an_extension_to_view_full_urls_in_chrome/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我感到沮丧，因为chrome在历史上没有显示完整的URL，因此很难确定我访问的确切链接。因此，我构建了一个 Chrome扩展名，该在保留其布局和一些额外功能的同时替换了默认历史页面 - 现在具有完整的URL可见性！ 查看它：    chrome chrome web商店： 源代码   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pixelsperfect     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpkbwl/built_an_extension_to_view_full_urls_in_chrome/</guid>
+      <pubDate>Wed, 02 Apr 2025 09:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>ClipConvert：一个开源的，具有隐私的文件转换器，直接从剪贴板起作用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jla30k/clipconvert_an_open_source_privacyrespecting_file/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/openSource ！ 我想分享一个我一直在该项目中分享一个项目的临时哲学，priptarency of throkence of cromenty phassightion and praporcy   ClipConvert是一个开源Windows实用程序，可直接从剪贴板转换文件 - 没有上传到云中，没有隐私问题，只需本地转换即可。工作流程很简单：  复制文件（ctrl+c） 按HOTKEY（CTRL+ALT+C） 选择您的输出格式 完成！转换后的文件可以粘贴  为什么我将其构建为开源 我对现有的文件转换器感到沮丧，该文件转换器要么：  将文件上传到云（隐私噩梦）   使用 使用 li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; 摩擦  技术亮点  使用C＃和WPF  构建的依赖性注入的清洁体系结构 易于格式的转换器工厂用于易于格式 全球热门服务的全球热门服务，用于全球范围内的整个系统范围      clip  clip  clip  clip  clip  clip  clip  clip  Current supported formats  Documents: Word to PDF, PDF to Text, Markdown to HTML Images: JPG to PNG, PNG to JPG Data: CSV to Excel, Excel to CSV Audio: MP3 to WAV  How you can贡献 该项目旨在易于扩展。借助工厂模式和基于接口的设计，添加新转换器非常简单。我们欢迎：  新格式转换器  UI改进 性能优化 文档 测试和错误报告   查看项目： https://github.com/fourtwentydev/clipconvert      demo视频： https://youtu.be/hlq3hfblga4    我很想听听您的想法，尤其是来自其他开源的爱好者。您想看到哪些格式？有建筑建议吗？该项目如何更好地为开源社区服务？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hanssepp     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jla30k/clipconvert_an_open_source_privacyrespecting_file/</guid>
-      <pubDate>Thu, 27 Mar 2025 17:53:54 GMT</pubDate>
+      <title>开源OCR管道优化了用于教育ML任务（多语言，数学，表格，图）的开源OCR管道</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpjpx6/opensource_ocr_pipeline_optimized_for_educational/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我构建了针对机器学习应用程序量身定制的OCR管道，尤其是在教育和研究领域。 It focuses on extracting structured information from complex documents like test papers, academic PDFs, and textbooks — including not just plain text but also tables, figures, and mathematical content. Key Features:  Multilingual support (English, Korean, Japanese – easily customizable) Math formula OCR using MathPix API (LaTeX-level precision) 使用DocLayout-Yolo + Opencv  使用GPT-4或Gemini  在Markdown/JSON中使用摘要和元数据   理想的材料   freate ml datatass freate ml-datainsets，使用gpt-4或gemini  使用gpt-4或gemini   理想的材料   用于抹布或辅导AI Systems的科学论文 自动标记，摘要和概念分类 培训教育llms     github（开源）（开源）的培训数据href =“ https://github.com/ses4255/versatile-ocr-program”&gt; github repo：versatile-ocr-program   会喜欢反馈或想法 - 尤其是在研究OCR进行研究/教育的情况下。请随时尝试，分叉或伸出建议。为教育ML任务（多语言，数学，表格，图表，图表）优化的开源OCR管道  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/superb_mess2560      [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpjpx6/opensource_ocr_pipeline_optimized_for_educational/</guid>
+      <pubDate>Wed, 02 Apr 2025 08:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>确保开源人工智能根据欧盟的新AI规则繁荣发展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl9msw/ensuring_open_source_ai_thrives_under_the_eus_new/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/opensourceinitiative     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl9msw/ensuring_open_source_ai_thrives_under_the_eus_new/</guid>
-      <pubDate>Thu, 27 Mar 2025 17:35:02 GMT</pubDate>
+      <title>WebTor-开源洪流流引擎</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpjl5b/webtor_opensource_torrent_streaming_engine/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在构建 webtor   - 一个完全开放的torrent torrent 流动引擎，可以让您从磁铁链接或 没有下载，没有扩展。   core核心功能     即时流媒体来自Torrents（磁铁/.torrent） 带有HLS，字幕和iframe Engrame Engrame Engrime   li&gt; opensubtiubtibtibtibtibtibtibtib   下载带有简历支持   sdk 将嵌入您自己的网站/app     github  github      sdk： github.com/webtor-io/embed-sdk-js     self-hosted： github.com/webtor-io/self-hosted       quard hood         我想将其构建 我想使基于洪流的内容易于消耗，例如YouTube视频 - 没有客户，没有等待，没有怪异的软件。 它对以下内容特别有用：    Archives＆amp;独立媒体 私人媒体图书馆 分散项目   💬欢迎反馈  您会使用此信息吗？ 您会如何看待SDK/API？ 尝试一下： https://webtor.io     api：  github： github.com/webtor-io       &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/top_garlic5431     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpjl5b/webtor_opensource_torrent_streaming_engine/</guid>
+      <pubDate>Wed, 02 Apr 2025 08:19:07 GMT</pubDate>
     </item>
     <item>
-      <title>Mac的免费安全简单图像编辑器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl95ws/free_safe_simple_image_editor_for_mac/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都可以建议一个免费的安全图像编辑器吗？我想使用我的艺术或照片制作简单的图像，并添加格式的引号或感谢您的消息，等等：需要擦除和添加文本和 /或元素。   gimp太令人困惑了， photodemon.org 现在是Windows，现在就在Free（缺少擦除）和AI Image Editor之间疯狂地切换（erase）和AI Image Editor（erases，但可以添加文本！    btw-总的初学者老年人独自工作，收入有限，试图以新技能为生：  将继续为善良的帮助而善良，没有卑鄙的言论  （或者显然是为了降低原因？）提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jl95ws/free_safe_simple_image_image_editor_editor_for_mac/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl95ws/free_safe_simple_image_editor_for_mac/</guid>
-      <pubDate>Thu, 27 Mar 2025 17:15:46 GMT</pubDate>
+      <title>为AI构建了开源聊天界面</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpj58h/built_an_open_source_chat_interface_for_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。最近在一个小型项目上工作。我想要一个干净的界面，以与一个地方与多个LLM交谈。决定构建它并将其制作开源！ 演示： https://www.chaterface.com/  href =“ https://github.com/hyperaide/chaterface”&gt; https://github.com/hyperaide/chaterface     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dqnamo     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpj58h/built_an_open_source_chat_interface_for_ai/</guid>
+      <pubDate>Wed, 02 Apr 2025 07:45:01 GMT</pubDate>
     </item>
     <item>
-      <title>介绍Huly代码：免费的真正开源替代品的商业IDE</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl8kqi/introducing_huly_code_a_free_truly_opensource/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿开源爱好者！ We&#39;re excited to share Huly Code, our open-source IDE based on IntelliJ IDEA Community Edition that prioritizes freedom, transparency, and modern development practices. Our open source approach:  Fully free: No paid tiers, no premium features, no strings attached Open core: Built on IntelliJ IDEA Community Edition   没有专有插件：替换为开源替代方案   开放标准：使用语言服务器协议（LSP）进行语言支持      开放技术开放技术 for syt-sitter for syttax impllight surglight li stront/lievers     href=&quot;https://github.com/hcengineering/huly-code&quot;&gt;GitHub repository  Key features:  Support for many modern languages (Rust, Go, TypeScript, JavaScript, Zig, and more) Advanced code navigation and completion capabilities AI coding支持的助手（Github副作用，Supermaven） 高性能的语法突出显示和代码分析  熟悉的Intellij的工作流程，对于那些喜欢它而不是VS代码  的人来说，我们为Intellij for Intellij提供了替代的编辑，我们为Intellighij提供了替代方案，我们为stractortion提供了一个替代的架构。喜欢这种经验的开发人员。我们已经删除了专有组件，并用开源替代方案代替了它们，以创建完全自由的体验，而不会妥协质量。 我们相信回馈社区 -  Huly Code是我们对开发工具的研究的一部分，但我们已经完全免费使用，修改，修改，构建在此处。 href =“ https://hulylabs.com/code”&gt; https://hulylabs.com/code    我们很想听听您的反馈，并欢迎来自开源的贡献！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/andreyplatoff    href =“ https://www.reddit.com/r/opensource/comments/1jl8kqi/introducing_huly_huly_code_a_free_truly_opensource/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl8kqi/introducing_huly_code_a_free_truly_opensource/</guid>
-      <pubDate>Thu, 27 Mar 2025 16:51:49 GMT</pubDate>
+      <title>最后通：与Android上的Webextensions支持铬等等</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpi71n/ultimatum_chromium_with_webextensions_support_on/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/u_gonzazoid/comments/1jpi62u/1jpi62u/ultimatum_chromium_chromium_with_webextensions_support_on/”&gt;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpi71n/ultimatum_chromium_with_webextensions_support_on/</guid>
+      <pubDate>Wed, 02 Apr 2025 06:35:09 GMT</pubDate>
     </item>
     <item>
-      <title>github- polyseam/cronx：跨平台cron的CLI和打字稿库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl6sk0/github_polyseamcronx_cli_and_typescript_library/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/mattjohnstondev     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl6sk0/github_polyseamcronx_cli_and_typescript_library/</guid>
-      <pubDate>Thu, 27 Mar 2025 15:36:54 GMT</pubDate>
+      <title>Pykomodo：LLMS的块工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpfuvy/pykomodo_chunking_tool_for_llms/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我为自己创建了一个小块工具，可以将块喂入LLM。您可以通过令牌将其切碎，按照所需的脚本数量，甚至是文本数量的数量（尽管我不鼓励它，这只是我构建的一种选择）。 我这样做的原因是因为它允许LLMS通过将它们分解为可管理的片段，而不是他们的上下文窗口更长的文本窗口。而且我还在该工具上构建了一个称为docDog的工具（ https://github.com/duriantaco/docdog ）使用此Pykomodo。请随时使用它并在需要的话。如果您想要其他功能，问题，反馈，问题，贡献，请在Github中提出问题，或者可以在Reddit上向我发送DM。如果您发现它很有用，请与您的朋友分享，并出演它，我很乐意收到你们的来信。非常感谢！ href =“ https://pykomodo.readthedocs.io/en/stable/”&gt; https://pykomodo.readthedocs.io/en/stable/      &lt;！ -  sc_on-&gt; sc_on-&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jpfuvy/pykomodo_chunking_tool_for_for_llms/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpfuvy/pykomodo_chunking_tool_for_llms/</guid>
+      <pubDate>Wed, 02 Apr 2025 04:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>燃烧的快速弦搜索实用程序 - 比GREP快5倍</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl587m/a_blazing_fast_string_search_utility_5x_faster/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/davidesantangelo      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl587m/a_blazing_fast_string_search_utility_5x_faster/</guid>
-      <pubDate>Thu, 27 Mar 2025 14:30:24 GMT</pubDate>
+      <title>致电测试：OpenSSH 10.0  -  DSA键支持已删除</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpf1ee/call_for_testing_openssh_100_dsa_key_support/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/mcnst     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpf1ee/call_for_testing_openssh_100_dsa_key_support/</guid>
+      <pubDate>Wed, 02 Apr 2025 03:16:20 GMT</pubDate>
     </item>
     <item>
-      <title>Volga- AI/ML的实时数据处理引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl21r1/volga_realtime_data_processing_engine_for_aiml/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl21r1/volga_realtime_data_processing_engine_for_aiml/</guid>
-      <pubDate>Thu, 27 Mar 2025 11:49:46 GMT</pubDate>
+      <title>改善 - 一种协作的工具，可以完善您对情况的理解</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jpa4kn/ameliorate_a_tool_for_collaboratively_refining/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我正在研究 https：//ameliorate.app.app  帮助人们讨论＆amp;了解情况。这是受到有关问题的争论的挫败感的启发。建议通常很难建设性，留在同一页面上并取得进步 - 即使每个人都在善良的忠诚和最佳效果中行事。 这可以用于多种情况。一些与技术相关的示例是：选择用于项目的ORM 或 bark you tim barky bark you tim bark you brean nourly him you brean nour 在组件/原因/效果中，您可以在该图的背景下放置直觉，参数和未知数。它具有一些用于处理此信息的功能，例如比较观点，使用表来评估解决方案之间的权衡。 它可能有点友好，我还想添加更多，但是我已经做了很多工作，我认为这是一个可靠的开始。使用的一些主要技术是NextJ，React-Flow，TRPC，Material UI和tailwind。很高兴听到你们所有人的想法！  repo： https://github.com/amelioro/amelioro/amelioro/amelioro/ameliorate  提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jpa4kn/ameliorate_a_a_tool_for_for_collaborise_refining/”&gt; [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jpa4kn/ameliorate_a_tool_for_collaboratively_refining/</guid>
+      <pubDate>Tue, 01 Apr 2025 23:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>谁能分享他们的GSOC建议供我参考？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl1d4l/can_anyone_share_their_gsoc_proposals_for_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我是一个带2+ yoe的SWE。正如标题所暗示的那样，我对开源很好奇，并想申请GSOC 2025，并寻找一些选定的建议供参考。纯粹是要了解如何脱颖而出并提出令人信服的建议。  另外，如果这里有人有任何建议 - 请分享。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ofdingurous_basis355      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl1d4l/can_anyone_share_their_gsoc_proposals_for_my/</guid>
-      <pubDate>Thu, 27 Mar 2025 11:07:22 GMT</pubDate>
+      <title>介绍餐饮：开源F1遥测可视化工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jp7en8/introducing_fastlytics_an_opensource_f1_telemetry/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource ！！ 我很高兴分享 What it does:  Interactive Visualizations: Speed traces, position charts, tire strategy breakdowns, and gear maps.  数据驱动的见解：比较驱动程序，分析单圈时间并可视化轨道的演变。   开放访问：免费使用，修改或贡献。        为什么开放式？ By open-sourcing Fastlytics, I hope to:  Collaborate with developers to add features (e.g., predictive analytics, more race datasets). Give back to the F1 fan community with transparent, customizable tools.  Tech Stack:  Frontend: React +打字稿，图表的d3.js。请查看 github repo 。   反馈：您会添加哪些功能？单词：与F1/数据社区分享！   演示：   imgur  imgur  href =“ https://fastlytics.app”&gt; fastlytics    github： repository&gt; repository 无论您是开发人员，设计师还是F1粉丝，我都会喜欢您的输入。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/subhashg547     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jp7en8/introducing_fastlytics_an_opensource_f1_telemetry/</guid>
+      <pubDate>Tue, 01 Apr 2025 21:27:53 GMT</pubDate>
     </item>
     <item>
-      <title>直接在移动设备上运行AI模型的开源库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jl03w4/open_source_library_for_running_ai_models/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https：//github.com/software-mansion/software-mansion/react-native-native-native-executorch-native-executorch  sc_-  [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jl03w4/open_source_library_for_running_ai_models/</guid>
-      <pubDate>Thu, 27 Mar 2025 09:39:09 GMT</pubDate>
+      <title>Imago：一个开源应用程序，用于研究梦想回忆和福祉 - 寻找合作者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jp7356/imago_an_opensource_app_to_study_dream_recall_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   大家好，我是来自意大利都灵的临床心理学家，具有心理分析背景，我启动了一个名为** imago **的开源项目。这个想法是建立一个应用程序，该应用程序研究如何始终如一地回忆梦想可以改善心理健康。我没有编码技能，所以我在这里找到想加入我的合作者！ ###是什么图像？这是一个移动应用，用户： - 日志梦（文本或语音）。 - 添加上下文（例如，“压力大的一天”）和标签（例如#NightMare）。 - 使用图形和精神分析提示进行语义分析（情绪，主题，强度）。 - 通过接近检测与附近的Imago用户分享他们的最新梦想。 - 接收个性化提示，以提高召回率，以及可导出的报告。目标？收集匿名数据，以查看Dream Remell是否可以增强心理健康。它是首先具有本地存储空间和MIT许可证。在此处查看完整的愿景：https：//github.com/walterdorian/imago/issues/1。 ###我正在寻找 -  **开发人员**：移动/Web（ios/android），NLP进行语义分析，接近技术（蓝牙/NFC）。 -  **设计师**：用于极简主义的精神分析启发的UI。 -  **研究人员**：用于完善研究或分析数据。 ###为什么加入？这是融合心理学和技术，探索无意识并为开源科学项目做出贡献的机会。我带来临床专业知识；您带来代码或设计！如果您有兴趣，请发表评论，在Github上打开问题，或通过[marcopetrone94@gmail.com]给我发送电子邮件。也欢迎任何反馈或想法 - 我是新手，并且随着我的学习而学习。感谢您的阅读！ marco    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gallo_matese     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jp7356/imago_an_opensource_app_to_study_dream_recall_and/</guid>
+      <pubDate>Tue, 01 Apr 2025 21:14:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
