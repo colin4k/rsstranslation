@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 04 Apr 2025 12:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 15:02:37 GMT</lastBuildDate>
+    <item>
+      <title>Gumroad现在是开源的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jrcyx9/gumroad_is_now_open_source/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/pimterry     [link&gt; link]   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jrcyx9/gumroad_is_now_open_source/</guid>
+      <pubDate>Fri, 04 Apr 2025 14:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试我的MEMSAFE工具的代码库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jrccln/codebases_to_test_my_memsafe_tool/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/longjumping_boat_880       [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jrccln/codebases_to_test_my_memsafe_tool/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建造了一个开源黑客chrome扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jrbdkb/i_built_a_open_source_hackernews_chrome_extension/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jrbdkb/i_built_a_open_source_hackernews_chrome_extension/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:04:29 GMT</pubDate>
+    </item>
     <item>
       <title>280+开源MCP工具用于LLMS</title>
       <link>https://www.reddit.com/r/opensource/comments/1jr9cnw/280_open_source_mcp_tools_to_use_with_llms/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我发现gimp对我的用户酶太复杂了。我只需要做一个非常基本的事情，例如：  绘制矩形（笔，填充）     绘制圆圈（stroke，fill）              draw箭头标记              &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/floofcode   href =“ https://www.reddit.com/r/opensource/comments/1jq7vmj/simple_image_editor_editor_for_annotations/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jq7vmj/simple_image_editor_for_annotations/</guid>
       <pubDate>Thu, 03 Apr 2025 03:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是Graphite的最新季度进度报告，我已经建立了4年的FOSS 2D图形编辑器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jq7pdy/heres_the_latest_quarterly_progress_report_for/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/keavon     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jq7pdy/heres_the_latest_quarterly_progress_report_for/</guid>
-      <pubDate>Thu, 03 Apr 2025 03:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>AD域中Ninite Pro的替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jq48ax/alternatives_to_ninite_pro_in_ad_domain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，我是否工作，我安装了一个广告来管理大约40台机器，到目前为止，我正在使用Ninite安装应用程序，我发现有关Ninite Pro，您可以从服务器上管理所有人，安装和更新的应用程序，但要付费，但要付费，但几乎是相同的或几乎是/u/u/pedrobuffon   href =“ https://www.reddit.com/r/opensource/comments/1jq48ax/alternatives_to_to_to_ninite_pro_in_in_ad_ad_domain/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jq48ax/alternatives_to_ninite_pro_in_ad_domain/</guid>
-      <pubDate>Thu, 03 Apr 2025 00:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oxixloud：一个开源锈云存储项目，寻找贡献者和反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jq06bm/oxicloud_an_opensource_rust_cloud_storage_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource  community！     几个月后，深夜编码会议后，我终于可以与您的开放式项目分享与您的开放式项目。我一直在研究 oxixloud   - 我最初构建的一种基于轻巧的，基于生锈的替代品，它是为了刮擦自己的瘙痒，但是现在我希望对他人可能有用。 为什么我与Oss社区 共享这一点，但我相信我也相信一些工具，我们还需要一些工具，以便其他一些工具来替代某些工具，以替代某些工具。我喜欢NextCloud的功能和社区，但是它的资源需求对于许多具有适度硬件的用户可能会令人难以置信。 有关该项目的一些关键点：    100％开放源（MIT许可） 内置的内置为记忆和效率    a rust a Rust at Code  a hob at Code  a Rudy 被记录并结构化为撰稿人  技术体系结构 我试图用良好的开源实践来构建这一点：       清洁代码组织，并清除关注点     全面的全面全面 简单贡献工作流程  技术堆栈包括：   rust（core language）  axum（web框架）  tokio（async runtime）（async runtime）轻量级）  当前状态＆amp;路线图 现在有效的是：  基本文件/文件夹操作 多用户支持 允许的允许系统  Web Interface   core api api api api     更全面的测试 移动客户端 增强共享功能 插件/扩展系统   寻找开放源代源贡献者 我很想在这个项目周围建立一个小型社区。无论您是：  一个生锈的开发人员正在寻找一个项目来 一个可以帮助界面更直观 的UX设计师，他可以帮助该项目更容易访问该项目   有兴趣的人有兴趣          欢迎，无论多么小。我特别有兴趣让新贡献者更容易获得这个项目 - 我记得将我的第一个公关成为开源项目是多么令人恐惧。 开源哲学问题   您认为，您认为有什么良好的开放式项目成为一个良好的开放式项目？维持健康的贡献者社区？ 我应该考虑什么许可证？ 您如何看待开源基础设施项目中生锈的趋势？     repo       github： https://github.com/diocrafts/oxicloud     如果您觉得这很有趣，则一颗星星将帮助可见性。而且，如果您想建立一个尊重您的硬件和数据的轻量级云存储解决方案，我很想在问题或PRS中见到您！ 感谢您的检查。这些年来，我从开源项目中学到了很多东西，所以最终还可以回馈一些东西，即使这只是一个小型爱好项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/torrefacto     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jq06bm/oxicloud_an_opensource_rust_cloud_storage_project/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jq06bm/oxicloud_an_opensource_rust_cloud_storage_project/</guid>
-      <pubDate>Wed, 02 Apr 2025 21:19:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
