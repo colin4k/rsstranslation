@@ -4,7 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Thu, 03 Apr 2025 15:03:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 21:03:55 GMT</lastBuildDate>
     <item>
       <title>我最喜欢的2024年音乐发现</title>
       <link>https://martinfowler.com/articles/2024-music.html</link>
@@ -15,18 +15,7 @@
       字符串四重奏。 （我也无法将自己限制在六个。）
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2024-music.html</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他语言的codemods</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
-      <description><![CDATA[    
-  juntao qiu 完成了他对codemods的描述
-      查看其他一些在Javascript World之外接近
-      Javaparser和OpenRewrite。
- 更多…  ]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:23 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:53 GMT</pubDate>
     </item>
     <item>
       <title>修复CodeMods的常见陷阱</title>
@@ -38,7 +27,18 @@
       复杂的情况通过组成codemods。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:23 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他语言的codemods</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
+      <description><![CDATA[    
+  juntao qiu 完成了他对codemods的描述
+      查看其他一些在Javascript World之外接近
+      Javaparser和OpenRewrite。
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
+      <pubDate>Fri, 04 Apr 2025 21:03:49 GMT</pubDate>
     </item>
     <item>
       <title>与卢卡·罗西（Luca Rossi）的播客</title>
@@ -50,7 +50,7 @@
       债务和敏捷软件开发的现状。
  更多… ]]></description>
       <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:21 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:48 GMT</pubDate>
     </item>
     <item>
       <title>建造Genai产品的新兴模式</title>
@@ -67,7 +67,20 @@
       evals。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:20 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai产品中的嵌入</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#embedding</link>
+      <description><![CDATA[   genai系统与许多现代AI方法一样，必须处理广阔的
+      数据数量，并在图像中找到元素之间的相似性或
+      单词的一部分。  bharani subramaniam ，我描述了一个关键工具
+      为此 -   embeddings   - 将大型数据块转换为
+      数字向量使彼此附近的嵌入表示相关
+      概念
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
+      <pubDate>Fri, 04 Apr 2025 21:03:46 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：森林和沙漠</title>
@@ -108,20 +121,7 @@
     像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genai产品中的嵌入</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#embedding</link>
-      <description><![CDATA[   genai系统与许多现代AI方法一样，必须处理广阔的
-      数据数量，并在图像中找到元素之间的相似性或
-      单词的一部分。  bharani subramaniam ，我描述了一个关键工具
-      为此 -   embeddings   - 将大型数据块转换为
-      数字向量使彼此附近的嵌入表示相关
-      概念
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:19 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:43 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：检索增强发电（RAG）</title>
@@ -131,7 +131,7 @@
       增强发电（RAG）可以填补该空白。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:18 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:41 GMT</pubDate>
     </item>
     <item>
       <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
@@ -143,7 +143,7 @@
       职业的未来。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:17 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:39 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
@@ -155,7 +155,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:16 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:38 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek系列：技术概述</title>
@@ -170,7 +170,7 @@
       大规模增强学习的紧急推理
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:15 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:35 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -180,7 +180,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:14 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:34 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -191,7 +191,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:13 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:32 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -202,7 +202,7 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:12 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:30 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：护栏和抹布概述</title>
@@ -217,7 +217,7 @@
       组件模式合并在一起。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:11 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:29 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
@@ -229,7 +229,7 @@
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:10 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:28 GMT</pubDate>
     </item>
     <item>
       <title>评论在美国护照上删除“ X”</title>
@@ -242,19 +242,7 @@
  https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
 在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
       <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我被罗伯特·卡罗绑架了</title>
-      <link>https://martinfowler.com/articles/2025-caro.html</link>
-      <description><![CDATA[  我一直很喜欢阅读，而且我一生中的大部分时间都特别
-      喜欢阅读历史。我对罗伯特有很多很棒的事情
-      卡罗的书籍，但被他们的规模吓倒了。最后，和他一起
-      我决定将我的脚趾浸入。
-      书籍对我来说太好了，无法逃脱。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/2025-caro.html</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:07 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:25 GMT</pubDate>
     </item>
     <item>
       <title>开发人员技能在代理编码中的作用</title>
@@ -268,20 +256,31 @@
       我们目前需要纠正工具失误的技能类型。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:07 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:23 GMT</pubDate>
     </item>
     <item>
-      <title>2025年初的社交媒体参与</title>
+      <title>我被罗伯特·卡罗绑架了</title>
+      <link>https://martinfowler.com/articles/2025-caro.html</link>
+      <description><![CDATA[  我一直很喜欢阅读，而且我一生中的大部分时间都特别
+      喜欢阅读历史。我对罗伯特有很多很棒的事情
+      卡罗的书籍，但被他们的规模吓倒了。最后，和他一起
+      我决定将我的脚趾浸入。
+      书籍对我来说太好了，无法逃脱。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/2025-caro.html</guid>
+      <pubDate>Fri, 04 Apr 2025 21:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新昨天的社交媒体参与帖子</title>
       <link>https://martinfowler.com/articles/2025-social-traffic.html</link>
       <description><![CDATA[  
-几年前，每当我在这里发表新文章时，我都会
-      在Twitter上宣布它，但是由于Muskover的重要性
-      拒绝了，现在我发布了多个服务的更新。比较
-      参与这些服务，我研究了重新发布，喜欢和答复
-      我最近的帖子中有两打。
+有些人询问有多少人点击了链接
+      这些社交媒体帖子。我添加了在文章中
+      解释为什么我没有这些信息，部分是为了显示整体
+      网站流量的源数据。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-social-traffic.html</guid>
-      <pubDate>Thu, 03 Apr 2025 15:03:06 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 21:03:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
