@@ -4,7 +4,56 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 09 Apr 2025 12:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 03:15:03 GMT</lastBuildDate>
+    <item>
+      <title>JS Confuser-我制作的一种开源JavaScript混淆工具！在这里查看此现场演示</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jvlbui/js_confuser_an_opensource_javascript_obfuscation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   i构建 js-confuser ，一种开放式Javascript obfusccation工具。您可以在浏览器中测试它，并了解有关其提供的混淆技术的更多信息。 Note: Code obfuscation is not an impossible barrier, someone could still reverse engineer your code given enough effort and time. Key features: Control Flow Obfuscation, Locks (domainLock, date), and detect changes to the source code. You can check out the GitHub page for more information: GitHub:  https://github.com/michaelxf/js-confuser   npm： https://www.npmjs.coms.com/package/package/js-confuser 提交由＆＃32; /u/u/michael-xf      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jvlbui/js_confuser_an_opensource_javascript_obfuscation/</guid>
+      <pubDate>Thu, 10 Apr 2025 00:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于本地托管的RFP/RFI（采购）问卷调查，AI或没有AI的任何建议吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jvilx5/any_recommendations_for_locallyhosted_rfprfi/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人有任何销售团队，采购和销售工程师可能使用的替代方案而不是付费商业平台吗？我们在工作中使用的“ Loopio”，但很快就会消失 - 太贵了。 ..   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jvilx5/any_recommendations_for_locallyhosted_rfprfi/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jvilx5/any_recommendations_for_locallyhosted_rfprfi/</guid>
+      <pubDate>Wed, 09 Apr 2025 22:25:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目的通用运行命令？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jvdvil/a_universal_run_command_for_projects/</link>
+      <description><![CDATA[      I started out developing this as a nice-to-have CLI tool for developers, for times when I am switching between different repos and have to remember how to run each one - Node, Docker, Vue, Rust, Go, etc. It just seemed essential to have a sort of universal run command for projects. So I built VROOM -一种自动检测项目类型并使用正确命令运行的通用CLI工具（也使用可配置的ENV和依赖设置设置）。正在添加更多功能，但我想在这个方向上进行一些反馈。 只需介入项目并运行&#39;vroom即可。就是这样。 🚀 在MacOS/Linux/WSL上工作。很想让人们尝试一下并分享他们的观点：   https://github.com/pran13-git/pran13-git/vroom      这是基本的funcionality and funcionality and veralsional and versionals and vertiation。请注意，并确定它是否是一个有用的工具，还是一个徒劳的想法。 🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Mysterious-Green290       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jvdvil/a_universal_run_command_for_projects/</guid>
+      <pubDate>Wed, 09 Apr 2025 19:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为Windows做了一个快速的开源文件资源管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jvavuo/i_made_a_fast_opensource_file_explorer_for_windows/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   da-deep-search🔎 概述🎯  da深search允许您甚至在PC中找到最深的文件。它本来可以成为Windows搜索的更好，更快的替代品，而不会给您烦人的网络结果。  功能📑  ✅快速访问  ✅深文件搜索  快速文件搜索   💁如何使用：       search.exe  将快捷方式放在 c：\ users \ [您的用户名] \ appdata \ roaming \ Microsoft \ Microsoft \ Windows \ Windows \ Windows \ windows \ start Menu \ start菜单\ startup             窗口。 在左角选择要扫描的驱动器。 键入要找到的文件的名称，然后按Enter。 2.6.0 库  Visual Studio 2022   链接   在这里下载： https://github.com/drimiteros/drimiteros/da-deep-search/releases/releases/tag/tag/tag/v.2.1_2  href =“ https://github.com/drimiteros/da-deep-search”&gt; https://github.com/drimiteros/da-deep-search        &lt;！ -  sc_on- sc_on-&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jvavuo/i_made_a_a_apensource_file_explorer_file_explorer_for_windows/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jvavuo/i_made_a_fast_opensource_file_explorer_for_windows/</guid>
+      <pubDate>Wed, 09 Apr 2025 17:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP服务器的软件包管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jva0xf/package_manager_for_mcp_servers/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/searchableguy       [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jva0xf/package_manager_for_mcp_servers/</guid>
+      <pubDate>Wed, 09 Apr 2025 16:28:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的应用程序的即时管理面板。设置它，连接到您的数据库，并在几分钟内部署</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jv8d23/instant_admin_panel_for_your_app_set_it_up/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/ffl7tsol2xlo14kku1vszi_f0av68k_m3loie2gropi.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = e0f4868f166b1e795b2274fb4509fb4509fa3346fd73e0“ title =“您的应用程序的Instant Admin面板。将其设置，连接到您的数据库，并在几分钟内部署”/&gt;   ＆＃32;提交由＆＃32; /u/qwerty927261613        [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jv8d23/instant_admin_panel_for_your_app_set_it_up/</guid>
+      <pubDate>Wed, 09 Apr 2025 15:19:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025年第一季度Xwiki的新功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jv4p3l/whats_new_in_xwiki_in_the_first_quarter_of_2025/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/lorinabalan     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jv4p3l/1jv4p3l/whats_new_in_in_in_xwiki_in_the_first_quarter_first_quarter_first_quarter_2025/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jv4p3l/whats_new_in_xwiki_in_the_first_quarter_of_2025/</guid>
+      <pubDate>Wed, 09 Apr 2025 12:35:25 GMT</pubDate>
+    </item>
     <item>
       <title>LocalMCP-通过CLI，GUI和API与MCP服务器进行交互的开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1jus7d0/localmcp_a_open_source_project_to_interact_with/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  （开放量） (release) https://github.com/G-h-o-s-t-1/CS2-Configs--and--Ahk-Macros/releases/tag/V1  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dapper-reference2077     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ju8rd4/1ju8rd4/these_are_are_macrosconfigs_i_coded_myself_myself_myself_for_for_for_cs2/”]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ju8rd4/these_are_macrosconfigs_i_coded_myself_for_cs2/</guid>
       <pubDate>Tue, 08 Apr 2025 08:36:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求建议：我正在建立HubSpot＆Zoho的开源替代方案，并在下面的问题上需要建议。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ju4hqy/seeking_advice_im_building_an_opensource/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个大型开源Web应用程序，可以替代Zoho和HubSpot。我仅在一个星期内完成了CRM功能（仅限前端），所以现在我需要您在这些问题上的建议。  您在开发过程中建议采用哪些方法来营销该方法？ - （因为这个项目确实很大，我给它至少要完成了1年的时间，所以我需要在今年的营销方面取得任何进展）  - ＆gt; The most important question. If this project is completed, do you believe it will succeed (based on your personal opinion) ? Do you have any further advice ?  NOTES: Btw, I will also offer this project as a SaaS option if the user chooses not to use it locally. Tech Stack used: T3 Stack (Next JS，TRPC等。） 项目： https://github.com/opensyte/opensyte/opensyte/opensyte 提交由＆＃32; /u/u/dagermohamed2     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ju4hqy/seeking_advice_im_building_an_opensource/</guid>
-      <pubDate>Tue, 08 Apr 2025 03:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发空间（Portainer替代方案） - 具有服务器/项目/网站管理和状态/错误记录功能的多合一开发人员工具箱。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ju0kqn/dev_space_portainer_alternative_the_allinone/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，我正在使用Portainer替代方案来管理Docker容器和Linux服务器，并在此目前使用C＃     href=&quot;http://asp.net&quot;&gt;asp.net blazor .net 8 and will be on-par with what portainer offers and more (See github current/planned features). Main features are full user accounts, 2FA and Passkeys, Team management with roles and permissions, Server management for docker resources and game server management for Minecraft and Battleye games using rcon。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/xxbuilderbxx        [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ju0kqn/dev_space_portainer_alternative_the_allinone/</guid>
-      <pubDate>Tue, 08 Apr 2025 00:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用带有“ mkfs.ext4 -d”的TAR存档填充Ext4文件系统</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jtxyos/using_a_tar_archive_with_mkfsext4_d_to_populate/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]   ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jtxyos/using_a_tar_archive_with_mkfsext4_d_to_populate/</guid>
-      <pubDate>Mon, 07 Apr 2025 22:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的开源字幕/字幕AI？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jtvznh/good_open_source_subtitlecaptions_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  我正在寻找   - 是开源   - 是开源   - 是开源   - 安装到我的设备上（Linux计算机），然后在不访问Internet的情况下工作，然后将我的录音（我可以访问a Enterne and Interne and Intern Intern Interio），我可以将我的音频置于多个小时的范围内，并且我可以将其置于多个小时的音频中，并且我可以在此处使用a（and p）。表格   - 比自动youtube字幕做得更好。 我的兄弟确定存在这样的东西，但不知道它叫什么。如果我对此感到不安，他可能会再次找到它，但是他总是让我因为不知道如何正确搜索这些东西而感到愚蠢（我不知道相关的关键字是什么，然后，如果我发现某些东西我永远不确定我想要的是我想要的），而且我已经不得不打扰他，我想我只想让他一旦烦恼您，而是先烦恼他。  所以有人知道吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_queenofwastingtime_      [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jtvznh/good_open_source_subtitlecaptions_ai/</guid>
-      <pubDate>Mon, 07 Apr 2025 20:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以免费托管一个使用自定义域名的网站？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_host_a_website_for_free_with_custom_domain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好书呆子，我正在寻找一项开源托管服务，可以免费托管我的工作。 我是计算机科学的开端者，想通过我可以托管我的网站或可以播放的服务来启动我的网站，可以播放我可以开放的东西。这将非常感激。 此外，如果您免费托管了自己的某个网站，请给我链接，以便我可以汲取灵感。这对我很有帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fun-meaning8995    href =“ https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_host_a_website_for_free_free_with_custom_domain/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_i_host_website_for_for_fore_free_with_custom_domain/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jtv1b0/can_i_host_a_website_for_free_with_custom_domain/</guid>
-      <pubDate>Mon, 07 Apr 2025 20:12:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用AI作为现在的非编码器开发应用程序。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jtuphf/developing_an_app_using_ai_as_a_now_noncoder/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大约25年前，我在MS Access 2000上进行了一些灯光编码，但此后还没有真正完成。最近，我对应用程序有一些想法，并使用AI进行了集思广益。我目前没有有用的编码技能，但是至少从理论上讲，我可以从LLM中获得代码并开始使用它，甚至可以在此过程中学习一些当前的编码。如果我制作可能对他人有用的东西，我会通过将其作为开源来创建问题吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jtuphf/developing_an_app_app_use_ai_ai_a_a_a_a_a_now_now_noncoder/”&gt; [link]     [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jtuphf/developing_an_app_using_ai_as_a_now_noncoder/</guid>
-      <pubDate>Mon, 07 Apr 2025 19:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ember Link-开源SDK用于将协作添加到任何应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jtsbf8/ember_link_open_source_sdk_for_adding/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在过去几个月中一直在构建一个名为ember链接的开源项目。这是一种用于将实时协作添加到您的Web应用程序中的工具包，例如Live-Live-Offication，例如用户之间的启示，用户之间的消息，以及与CRDTS共享。思考Google文档风格的同步，但是您可以放入自己的应用程序中。听起来很有用，请随时查看： https：//docs.emberlink.io  会喜欢任何反馈或想法！提交由＆＃32; /u/shursaz     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jtsbf8/ember_link_open_source_sdk_for_adding/</guid>
-      <pubDate>Mon, 07 Apr 2025 18:22:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
