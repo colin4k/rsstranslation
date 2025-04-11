@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Apr 2025 12:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 15:01:49 GMT</lastBuildDate>
     <item>
       <title>泡菜</title>
       <link>https://www.producthunt.com/posts/picklewatch</link>
@@ -12,7 +12,7 @@
             AppleWatch上的泡菜：您的终极泡菜合作伙伴
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/picklewatch</guid>
       <pubDate>Fri, 11 Apr 2025 00:52:11 GMT</pubDate>
@@ -24,7 +24,7 @@
             自动上的iMessage
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/autoread</guid>
       <pubDate>Thu, 10 Apr 2025 22:40:37 GMT</pubDate>
@@ -78,6 +78,18 @@
       <pubDate>Thu, 10 Apr 2025 11:04:43 GMT</pubDate>
     </item>
     <item>
+      <title>MIOSN</title>
+      <link>https://www.producthunt.com/posts/miosn</link>
+      <description><![CDATA[
+            我们需要一种更好的方法来选择LLM。
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/miosn</guid>
+      <pubDate>Thu, 10 Apr 2025 06:47:18 GMT</pubDate>
+    </item>
+    <item>
       <title>A2A协议</title>
       <link>https://www.producthunt.com/posts/a2a-protocol</link>
       <description><![CDATA[
@@ -96,7 +108,7 @@
             标记，导出到EDL，并在您的录音中找到关键时刻
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/mrkr</guid>
       <pubDate>Wed, 09 Apr 2025 23:42:43 GMT</pubDate>
@@ -108,7 +120,7 @@
             大规模自动化个性化视频 
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/heygen-x-hubspot-integration</guid>
       <pubDate>Wed, 09 Apr 2025 19:37:24 GMT</pubDate>
@@ -124,18 +136,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/airtable-ai-assistant</guid>
       <pubDate>Wed, 09 Apr 2025 18:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firebase Studio</title>
-      <link>https://www.producthunt.com/posts/firebase-studio</link>
-      <description><![CDATA[
-            由双子座推动的基于云的代理开发环境
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/firebase-studio</guid>
-      <pubDate>Wed, 09 Apr 2025 18:15:55 GMT</pubDate>
     </item>
     <item>
       <title>Analyticbridge</title>
@@ -162,40 +162,28 @@
       <pubDate>Wed, 09 Apr 2025 16:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>帮助AI</title>
-      <link>https://www.producthunt.com/posts/helpedby-ai</link>
+      <title>codemail.io</title>
+      <link>https://www.producthunt.com/posts/codemail-io</link>
       <description><![CDATA[
-            用付费的价格彻底改变LLMS聊天平台
+            发送带有完美格式代码片段的电子邮件
           
 
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/helpedby-ai</guid>
-      <pubDate>Wed, 09 Apr 2025 14:09:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/codemail-io</guid>
+      <pubDate>Wed, 09 Apr 2025 09:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>istalog</title>
-      <link>https://www.producthunt.com/posts/instalog</link>
+      <title>numi-您的AI支持设计部门</title>
+      <link>https://www.producthunt.com/posts/numi-your-ai-enabled-design-department</link>
       <description><![CDATA[
-            因为您的原木应该比Firebase更好
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/instalog</guid>
-      <pubDate>Wed, 09 Apr 2025 10:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haystack代码审稿人</title>
-      <link>https://www.producthunt.com/posts/haystack-code-reviewer</link>
-      <description><![CDATA[
-            在无限画布上查看代码作为视觉故事
+            在几分钟而不是几个月的时间内雇用AI支持AI的设计师
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/haystack-code-reviewer</guid>
-      <pubDate>Mon, 07 Apr 2025 17:15:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/numi-your-ai-enabled-design-department</guid>
+      <pubDate>Tue, 08 Apr 2025 21:56:01 GMT</pubDate>
     </item>
     <item>
       <title>Pippit AI</title>
@@ -204,7 +192,7 @@
             您的智能视频创建者营销成功
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/pippit-ai</guid>
       <pubDate>Sat, 05 Apr 2025 06:33:39 GMT</pubDate>
@@ -216,7 +204,7 @@
             让美洲驼接管您的桌面
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/llama-macos-desktop-controller</guid>
       <pubDate>Sun, 30 Mar 2025 22:32:39 GMT</pubDate>
@@ -232,6 +220,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/cognee</guid>
       <pubDate>Wed, 26 Mar 2025 11:28:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>LiquidIndex 2.0</title>
+      <link>https://www.producthunt.com/posts/liquidindex-2-0</link>
+      <description><![CDATA[
+            抹布的条纹结帐。快速，可扩展，轻松。
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/liquidindex-2-0</guid>
+      <pubDate>Tue, 11 Mar 2025 22:18:00 GMT</pubDate>
     </item>
     <item>
       <title>Yoodio</title>
