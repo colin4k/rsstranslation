@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 12 Apr 2025 03:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 06:02:40 GMT</lastBuildDate>
+    <item>
+      <title>通过Claude Desktop使用MCP服务器的快速计算机控制</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_claude/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  开放来源： https://github.com/mediar-ai/mediar-iar-ai/mcp-server-macos-macos-us-macos-use-use-macos-use-use  /u/u/u/deep_ad1959      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_via_claude/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_claude/</guid>
+      <pubDate>Sat, 12 Apr 2025 05:19:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个可视化和威胁模型AI代理工作流程的工具，因为这个空间的安全是一团糟</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_tool_to_visualize_and_threat_model_ai/</link>
+      <description><![CDATA[         &lt;！ -  sc_off-&gt;   在我们使用langgraph和自动基因的多机系统中，当我们在我们的系统上完全渗透到了simpertive systim-systim-systim-simpy-simptiment-simptiment-systim simption-simptiment-symenty sil sil sil sil sil sil sil sil sil sil sil，标准安全工具不可见。 在次要安全事件（值得及早发现）之后，我走了一个兔子洞，试图准确地了解脆弱性的工作原理。问题？ None of our existing tools could properly map how our agents were interacting or where the security boundaries were breaking down. So over a few weekends, I built a visualization tool that:  Maps the complete interaction flow between agents, including all agent-to-agent and agent-to-tool connections Overlays permissions and data access points across the entire workflow Applies Maestro（AI代理的专门威胁模型）旨在识别潜在的攻击表面   我发现的是真正令人震惊的：    代理框架可以创造出意外的traves traves&#39;traves＆quot;在有限许可的代理可以通过工具呼叫的链条访问敏感数据的漏洞 流行框架通常不会在代理之间执行适当的身份验证界限 通过共享记忆上下文泄漏的数据非常普遍，并且很难检测到 大多数重点的api Provess             对于建立复杂代理系统的任何人，我强烈建议您绘制您的整个工作流程，并特别寻找这些风险模式：                li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;       端点的身份验证不足  我已经将该工具开放为特工（ https://github.com/github.com/repello-repello-ai/repello-ai/agai/agai/aget-wiz-wiz-wiz 如果任何人都可以检查他们自己的工作。目前，它支持Langgraph，Autogen和Crewai，即将推出更多的解析器。喜欢在这个领域工作的任何人的反馈。 其他人是否遇到了其代理系统的安全问题？我还应该寻找其他哪些攻击向量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tit4n-monster      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_a_tool_tool_tool_visalize_visalize_and_and_threat_mmodel_ai/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_tool_to_visualize_and_threat_model_ai/</guid>
+      <pubDate>Sat, 12 Apr 2025 04:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持Zendesk/Shopify和面向客户身份验证的任何开源集成库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jx8r15/any_open_source_integration_libraries_that/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个应用程序，我希望我的客户能够将他们的shopify/zendesk/etcors和帐户连接到我的应用程序中，并且他们的数据是同步的，包括身份验证部分（例如，使用Shopify/Zendesk login/zendesk）           这里的关键是需要包括面向客户的auth   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/walldly_expression43     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jx8r15/any_open_source_integration_libraries_that/</guid>
+      <pubDate>Sat, 12 Apr 2025 04:04:23 GMT</pubDate>
+    </item>
     <item>
       <title>想要开始为开源贡献的人指南</title>
       <link>https://www.reddit.com/r/opensource/comments/1jx2hxf/guide_for_people_who_want_to_start_contributing/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  最近几天，我正在阅读很多有关2D条形码的信息（例如QR码和datamatrix）。可以找到其中许多列表在这里 _CODES）。 我个人个人个人发现了最广泛的，最广泛的，最广泛的，Qr的类型，QR的代码最高，尤其是ugsive 2 and gropess 2 and and and and）。虽然某些开源替代方案（例如公共领域AZTEC代码和最大码）比常见的QR代码更漂亮，但它们与某些专有和专利的解决方案不匹配：即Spotify代码，App Clip代码，HCCB，HCCB，HCCB，HCCB，Messenger Codes，ShotCodes和shotcodes and Boo-Rs/boo-p&gt; pode nattion aft the Barcode。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_in_your_opinion_is_is_the_most_pretty/”&gt; [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_your_opinion_is_the_most_pretty/</guid>
       <pubDate>Thu, 10 Apr 2025 21:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>将您的Instagram导出转换为自托管存档</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jw67hz/convert_your_instagram_export_into_a_selfhosted/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建了 Memento Mori ，开源（LGPL）工具，可以将Instagram的杂物数据导出到一个清洁的自我培养的架子上。它优化媒体文件，修复编码问题，并通过删除敏感数据来保护您的隐私。与Docker或Python一起使用。  我的导出物有450个JSON文件和4500个其他文件，并且花了很多时间来获得一片土地。另外，不确定这笔交易是什么，但是导出还包含约300张不正确扩展的图片 - 即HEIC扩展，但实际上是jpeg，当您查看内容时。  github： https://github.com/greg.com/greg-randall/memento-mori 提交由＆＃32; /u/u/u/greg-randall   href =“ https://www.reddit.com/r/opensource/comments/1jw67hz/convert_your_instagram_instagram_export_into_a_a _selfhosted/”&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jw67hz/convert_your_instagram_export_into_a_selfhosted/</guid>
-      <pubDate>Thu, 10 Apr 2025 19:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了我的第二个开源项目：使用Next.js + Google表的候补名单页面</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jw4qst/created_my_second_opensource_project_a_waitlist/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   你好开源社区！从开源工具中受益后，我终于创建并发布了第二个贡献。是的：一个简单的候补列表登录页面，该页面将电子邮件提交在Google表中存储，并在Next.js 15中构建。为什么创建它：我注意到许多开发人员（包括我本人）面临一个常见的问题 - 需要一个简单的候补列表解决方案，而没有复杂的设置或付费服务。我为自己的项目建立了这个，并认为其他人也可能会受益。 Details: - Tech: Next.js 15, TypeScript, Tailwind CSS, Google Sheets API - Features: Email validation, flip-card UI, dark/light theme, mobile-responsive - **Setup:** Detailed guide in README, takes ~10 minutes - **Benefit:** No database required, just connect your Google Sheet **Open-source philosophy:** I&#39;ve tried to make it as accessible as possible with thorough documentation and simple customization 选项。我的希望是，它可以节省其他人可以投资于建造实际产品的时间。 **链接：**  -  [github]（https://github.com/dambrubaba/google-sheet-waitlist） -  [demo]（https://prompt-waitlist.vercel.app），我会喜欢任何反馈，贡献，建议或建议！我应该专注于下一个开源项目？ *注意：我是这个项目的开发人员。创建它是为了解决我自己的需求，并决定与社区共享。提交由＆＃32; /u/u/dambrubaba     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jw4qst/created_my_second_opensource_project_a_waitlist/</guid>
-      <pubDate>Thu, 10 Apr 2025 18:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我为开源项目选择日历版本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jw3bdf/why_i_chose_calendar_versioning_for_my_open/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，上周末，我标记了第一版的警惕性，开源的，自托管的网站监控应用程序。 我已经收到了积极的反馈。管理版本！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utchbytes      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jw3bdf/why_i_chose_calendar_versioning_for_my_open/</guid>
-      <pubDate>Thu, 10 Apr 2025 17:18:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
