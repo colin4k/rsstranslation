@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 12 Apr 2025 06:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 09:02:47 GMT</lastBuildDate>
+    <item>
+      <title>我建立了Bashmate  - 您的AI驱动终端朋友。用自然语言键入您想要的内容，立即获取Bash命令🧠💻</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxd0fw/i_built_bashmate_your_aipowered_terminal_friend/</link>
+      <description><![CDATA[Hey folks! I just launched Bashmate, a CLI tool that turns natural language into Bash commands using AI. 🧠 Just tell it what you want to do, like: bashmate find all files containing &quot;error&quot;在当前文件夹&lt; /code&gt; 中，它给了您：  grep -r; 。 href =“ https://github.com/algobuddha/bashmate”&gt; https://github.com/algobuddha/bashmate  喜欢反馈或建议！请确保留下⭐并显示一些支持，我是新手：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/algobuddha     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxd0fw/i_built_bashmate_your_aipowered_terminal_friend/</guid>
+      <pubDate>Sat, 12 Apr 2025 08:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>帽子 - 现代的，闪电的战俘验证码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxccgh/cap_a_modern_lightningquick_pow_captcha/</link>
+      <description><![CDATA[      hi everyone! i’ve been working on Cap, an open-source proof-of-work CAPTCHA alternative, for quite a while — and i think it’s finally at a point where i think it’s ready. Cap is tiny.整个小部件只有12kb（缩小和brotli&#39;d），比HCAPTCHA小约250倍。它也是完全私人的：没有跟踪，没有指纹识别，没有数据收集。 您可以自我主持并调整几乎所有内容 - 后端，前端，或者如果您想要快速使用CSS变量。它在各种环境中也很好地播放：如果您不使用JS，则可以在后台使用它，直到需要直至需要直至需要直至需要，或者通过Docker进行独立运行。 所有内容都是开源的，在AGPL-3.0下许可，没有企业层或高级门口。只是一个干净，快速且友好的验证码。 尝试一下，让我知道您的想法：）  在Github上检查它提交由＆＃32; /u/u/us forg_brick2073       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxccgh/cap_a_modern_lightningquick_pow_captcha/</guid>
+      <pubDate>Sat, 12 Apr 2025 08:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>滥用org.opencontainers.image.licenses</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxbue1/misuse_of_orgopencontainersimagelicenses/</link>
+      <description><![CDATA[The OpenContainers Annotations Spec defines the following:  org.opencontainers.image.licenses License(s) under which contained software is distributed as an  spdx许可证表达式。   这清楚地表明，这需要列出所有包含软件的许可。因此，例如，如果容器恰好包含GPL许可证，则需要指定它。但是，似乎没有人实际上没有正确地使用该字段。 另一个示例是Hashicorp Vault设置 VAILTEL-4S MPL-2.0 。 从我的理解中， org.opencontainers.image.licenses 应该为其中的所有随机事物具有大量不同的许可证。容器是聚合，本身没有许可证。为什么这么多人甚至大型组织都误解了这一点，并且使用了错误？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jxbue1/misuse_of_orgopencontainersimagelicenses/”&gt; [link]    ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxbue1/misuse_of_orgopencontainersimagelicenses/</guid>
+      <pubDate>Sat, 12 Apr 2025 07:28:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要我的终端脚本中心的开源贡献和评论</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxbq57/i_need_open_source_contributions_reviews_for_my/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个名为 auto_scripts 的项目，我很乐意您检查一下！这是一个方便的自动化脚本集合，旨在使系统管理员，开发人员和DevOps的人们的生活更轻松，并且这些脚本以单个脚本为命令中心统一。一切都用外壳编写，保持简单而高效。 我正在寻找可以：  添加新脚本以应对更多挑战 帮助改善或优化现有的挑战 共享反馈或想法，以使这个项目变得更好 在这里听起来像   &lt; href =“ https://github.com/sundanc/auto_scripts”&gt; arsenal    您的贡献，无论多么小，世界都意味着世界！让我们一起构建很棒的东西。 🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/capitanturkiye     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxbq57/i_need_open_source_contributions_reviews_for_my/</guid>
+      <pubDate>Sat, 12 Apr 2025 07:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>通过Claude Desktop使用MCP服务器的快速计算机控制</title>
       <link>https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_claude/</link>
@@ -46,13 +74,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很高兴分享一个我刚刚完成的Python项目：使用军事级AES-GCM加密的安全GUI工具用于文件加密/解密。这样可以确保文件的保密性和的完整性，使其非常适合处理敏感数据。  🔗github存储库： https://github.com/logand166/encryptor     我喜欢听你的想法！无论是对代码的反馈，改进的建议还是新功能的想法（例如跨平台支持或其他加密算法），都可以随意共享。也欢迎贡献和问题！  事先感谢您的时间和见解！ 🙌  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jx0eyt/i_built_built_an_open_source_python_project_about/   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jx0eyt/i_built_an_open_source_python_project_about/</guid>
       <pubDate>Fri, 11 Apr 2025 20:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenTelemetry的自动启动量现在对于Node.js稳定了 - 是时候丢弃自定义跟踪意大利面条</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jwzcpl/opentelemetrys_autoinstrumentation_is_now_stable/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于仍在他们的节点应用程序中进行旋转跟踪的任何人：OpenteleMetry的自动启动现在是生产级，并支持Express，HTTP，http，grpc，mongo，mongo，以及与盒子中的更多套装。最小配置。巨大的DX获胜。您基本上介绍了：   bashcopyeditnpm安装U/OpenTelemetry/auto-Insprumentations-node-node    …，然后再停止思考跟踪标头和手动跨度。 10/10建议任何API或服务后端。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/verseeya   href =“ https://www.reddit.com/r/opensource/comments/1jwzcpl/opentelemetrys_autoinstrumentation_is_now_stable/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jwzcpl/opentelemetrys_autoinstrumentation_is_now_stable/</guid>
-      <pubDate>Fri, 11 Apr 2025 20:11:28 GMT</pubDate>
     </item>
     <item>
       <title>Fydetab二重奏经验</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个用于儿童监视的opensource和/或免费的android应用程序，而是要限制用法，而是要监视活动。 我想知道我的孩子看到了什么，例如谁在snapchat上给他们发送了什么，例如，snapchat和explict in explict in flocking in flock in flock in floge是floge。 用法。那不是我想要的。我想看看我的孩子在Snapchat，Facebook等应用程序中做什么。提交由＆＃32; /u/conmac7     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jwl6mt/android_app_for_monitoring_childs_inapp_activity/</guid>
       <pubDate>Fri, 11 Apr 2025 08:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找计划项目的工具，但不知道如何找到该项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jwjyca/searching_for_a_tool_to_plan_a_project_but_dont/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我正在寻找一个工具（甚至连存在），我可以在其中以非常简单的方式计划任务，从而将假期和办公时间考虑在内。 基本上，我有一个我的任务，我有一个像100小时一样定义的任务。然后我有一个人，B，C。可以这样做吗？ 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dr_gruselglatz     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jwjyca/1jwjyca/searching_for_a_a_tool_to_to_to_plan_plan_project_project_but_dont/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jwjyca/searching_for_a_tool_to_plan_a_project_but_dont/</guid>
-      <pubDate>Fri, 11 Apr 2025 07:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>CHATDJ：通过频道赎回的音乐抽搐机器人的开源抽搐机器人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jwdhd9/chatdj_an_open_source_twitch_bot_for_music_via/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  嘿！ 我最近发布了我的第一个主要项目，我想分享它。它叫chatdj！它可以通过频道点兑换来跟踪Spotify歌曲的请求，类似于 this 和如果您有多个并且希望聊天选择音乐，它还可以选择交换播放列表。我还在研究聊天可以在播放列表中添加歌曲的功能，如果您喜欢那种东西。 程序本身是用GO编写的，并且“服务器”和“服务器”。它的侧面是用JavaScript构建的，前端是用Vue编写的。这是非常基本的，但是完成了工作。 我完全接受骨炎，想法或任何您得到的东西。谢谢您的时间：D   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vpamm      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jwdhd9/chatdj_an_open_open_source_twitch_twitch_bot_for_music_via/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jwdhd9/chatdj_an_open_source_twitch_bot_for_music_via/</guid>
-      <pubDate>Fri, 11 Apr 2025 00:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为，最漂亮的2D条形码是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_your_opinion_is_the_most_pretty/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近几天，我正在阅读很多有关2D条形码的信息（例如QR码和datamatrix）。可以找到其中许多列表在这里 _CODES）。 我个人个人个人发现了最广泛的，最广泛的，最广泛的，Qr的类型，QR的代码最高，尤其是ugsive 2 and gropess 2 and and and and）。虽然某些开源替代方案（例如公共领域AZTEC代码和最大码）比常见的QR代码更漂亮，但它们与某些专有和专利的解决方案不匹配：即Spotify代码，App Clip代码，HCCB，HCCB，HCCB，HCCB，Messenger Codes，ShotCodes和shotcodes and Boo-Rs/boo-p&gt; pode nattion aft the Barcode。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_in_your_opinion_is_is_the_most_pretty/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jw8pfw/what_in_your_opinion_is_the_most_pretty/</guid>
-      <pubDate>Thu, 10 Apr 2025 21:01:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
