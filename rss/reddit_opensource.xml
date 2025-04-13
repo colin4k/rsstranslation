@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 13 Apr 2025 03:50:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 09:03:12 GMT</lastBuildDate>
+    <item>
+      <title>当Devops厌倦了无聊的Markdown时，我建造了Stylemd-将笔记变成有趣的，以复古为主题的HTML的CLI！ （Win98，C64，Geocities等！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_devops_eng_tired_of_boring_markdown_i_built/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource ！ 👋 可能会喜欢你们很多人，尤其是任何Devops的人或Sysadmins，我花了时间的时间在Markdown中写下东西。规格，运行书，个人笔记，您可以命名。太好了，但是说实话，默认输出可能有点……简单。 😴 我发现自己想要一种使自己的文档更有趣，甚至怀旧的方法。因此，在某些晚上和周末，我决定构建一个小项目： stylemd ！   它是什么？     这是一个简单的命令行写作的node.js，它将您的标记文件和静态HTML页面带出特定的特定主题。主题！复古控制台地理Windows 98  ，而不仅仅是通常的嫌疑人，我专注于添加受复古操作系统，旧网络美学和经典计算氛围启发的主题。思考：   Windows 98🖥  Commodore 64基本🕹️ 老式终端📟  ...等等！  基本上，这是一种完全不必要的方法，但（我认为）有趣的视觉化妆。  检查一下：          github repo（mit licensed） href =“ https://github.com/ddukbg/stylemd”&gt; https://github.com/ddukbg/stylemd        实时主题预览：您可以在此处看到所有当前的主题！  able-themes       快速开始/stylemd stylemd your_doc.md -t windows98 -o your_styled_doc.html    我主要是为了我自己的享受而建立的，并练习一些技能，但我认为这个社区可能会喜欢它或踢出它。有反馈吗？我应该尝试添加其他令人敬畏的复古主题的想法？当然，也欢迎捐款！ 感谢您的阅读！希望它能带给您的文档一些乐趣。 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_devops_eng_eng_tired_of_boring_markdown_imarkdown_i_built/”&gt; [link]    32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_a_devops_eng_eng_tired_of_boring_markdown_markdown_i_built/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_devops_eng_tired_of_boring_markdown_i_built/</guid>
+      <pubDate>Sun, 13 Apr 2025 08:36:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>粘稠的音符应用程序内置于电子</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy2zps/sticky_notes_app_built_in_electron/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我刚刚发布了粘性笔记，这是一个轻巧，易于使用的注释应用程序，构建了作为开源项目。纸质纸条旨在帮助您快速记录想法，任务或提醒，将所有笔记存储在笔记本电脑上。这意味着您的数据停留在计算机上，提供额外的隐私和控制层 - 无需云存储！&lt; /p&gt; 您可以在GitHub上查看仓库：🔗 https://github.com/adamkmet1997/sticky_notes.git     如果您喜欢看到的话Homebrew需要证明受欢迎程度（例如大量的手表，叉子和星星）来考虑将该应用程序添加到其包装管理器中。您的支持将有助于证明粘稠的笔记在其背后有一个蓬勃发展的社区，并加速了该过程以使其在自制的过程中以更容易安装。 随时留下反馈，打开问题或分享您可能有任何建议。我很高兴看到大家如何利用粘笔笔记，我期待在社区的帮助下构建这个项目。 感谢您的支持！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usexpectate_card_37     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy2zps/sticky_notes_app_built_in_electron/</guid>
+      <pubDate>Sun, 13 Apr 2025 08:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有零设置的微型，燃烧的静态文件服务器 - 满足WebSitino（只有1.5MB，没有框架，没有大惊小怪）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我构建了一个名为WebSitino的轻量级静态文件服务器，专为本地开发和静态站点的快速测试而设计。没有框架，没有依赖性，没有安装 - 只是一个可以很好地完成该作业的单个可执行文件。 为什么您可能喜欢它： 微小的足迹：〜1.5MB二进制，几乎没有RAM用法 零安装：只需下载并运行它。没有任何节点，没有python，也不一无所有。 -List-Dirs  -  Index  如果您厌倦了旋转肿的框架，只是为了测试HTML/css/js的本地文件夹。检查一下！  github： https://github.com/trikko/websitino 快速安装： https://trikko.github.io/websitino /   喜欢改进的反馈或想法！       &lt;！提交由＆＃32; /u/u/trikkuz     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</guid>
+      <pubDate>Sun, 13 Apr 2025 08:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具，可以通过注入假击键来争夺KeyLogger数据</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy10go/i_made_a_tool_that_scrambles_keylogger_data_by/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  构建一个名为keyloggergarbage的小窗口应用程序。它在输入时将伪造的击键倾倒到系统中，因此基本的键盘记录器很难弄清楚什么是真实的。假键实际上并没有触发任何东西。他们只是出现在日志中以抛出简单的间谍软件。 它是超轻量级和开源的。没有一个完整的安全套件或任何其他。这只是一个奇怪的小混淆层。帮助混淆： 基于挂钩的键盘（setWindowShookex，getAsynckeyState等）。不会击败高级恶意软件或屏幕录制器，但会弄乱简单的东西。您可以调整保护级别，查看实时输入和导出日志。基于挂钩的KeyLogger（setWindowShookex，getAsynckeystate等） 下载＆amp;如果需要，请尝试： keyloggergargarbage   让我知道您的想法。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/keymillion     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy10go/i_made_a_tool_that_scrambles_keylogger_data_by/</guid>
+      <pubDate>Sun, 13 Apr 2025 06:03:59 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个树可视化记录仪，因为很难跟踪AI -Pyhunt生成的代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>使用AI剥夺开源的限制性许可证</title>
       <link>https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_restrictive_licenses_for_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， ，如果AI可以再生任何开源软件，剥离限制性许可并使其真正开放供商业用途开放，该怎么办？ 愿意听到什么devs＆amps＆amps＆amp＆amp＆amp;创始人考虑一下这个  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gainnhq   href =“ https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_rerterictive_for_open_source/”&gt; [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， ，如果AI可以再生任何开源软件，剥离限制性许可并使其真正开放供商业用途开放，该怎么办？ 愿意听到什么devs＆amps＆amps＆amps＆amp＆amp＆amp;创始人考虑一下这个  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gainnhq   href =“ https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_rerterictive_for_open_source/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_restrictive_licenses_for_open_source/</guid>
       <pubDate>Sat, 12 Apr 2025 17:20:09 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[Hey folks! I just launched Bashmate, a CLI tool that turns natural language into Bash commands using AI. 🧠 Just tell it what you want to do, like: bashmate find all files containing &quot;error&quot;在当前文件夹&lt; /code&gt; 中，它给了您：  grep -r; 。 href =“ https://github.com/algobuddha/bashmate”&gt; https://github.com/algobuddha/bashmate  喜欢反馈或建议！请确保留下⭐并显示一些支持，我是新手：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/algobuddha     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxd0fw/i_built_bashmate_your_aipowered_terminal_friend/</guid>
       <pubDate>Sat, 12 Apr 2025 08:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>帽子 - 现代的，闪电的战俘验证码</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxccgh/cap_a_modern_lightningquick_pow_captcha/</link>
-      <description><![CDATA[      hi everyone! i’ve been working on Cap, an open-source proof-of-work CAPTCHA alternative, for quite a while — and i think it’s finally at a point where i think it’s ready. Cap is tiny.整个小部件只有12kb（缩小和brotli&#39;d），比HCAPTCHA小约250倍。它也是完全私人的：没有跟踪，没有指纹识别，没有数据收集。 您可以自我主持并调整几乎所有内容 - 后端，前端，或者如果您想要快速使用CSS变量。它在各种环境中也很好地播放：如果您不使用JS，则可以在后台使用它，直到需要直至需要直至需要直至需要，或者通过Docker进行独立运行。 所有内容都是开源的，在AGPL-3.0下许可，没有企业层或高级门口。只是一个干净，快速且友好的验证码。 尝试一下，让我知道您的想法：）  在Github上检查它提交由＆＃32; /u/u/us forg_brick2073       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxccgh/cap_a_modern_lightningquick_pow_captcha/</guid>
-      <pubDate>Sat, 12 Apr 2025 08:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>滥用org.opencontainers.image.licenses</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxbue1/misuse_of_orgopencontainersimagelicenses/</link>
-      <description><![CDATA[The OpenContainers Annotations Spec defines the following:  org.opencontainers.image.licenses License(s) under which contained software is distributed as an  spdx许可证表达式。   这清楚地表明，这需要列出所有包含软件的许可。因此，例如，如果容器恰好包含GPL许可证，则需要指定它。但是，似乎没有人实际上没有正确地使用该字段。 另一个示例是Hashicorp Vault设置 VAILTEL-4S MPL-2.0 。 从我的理解中， org.opencontainers.image.licenses 应该为其中的所有随机事物具有大量不同的许可证。容器是聚合，本身没有许可证。为什么这么多人甚至大型组织都误解了这一点，并且使用了错误？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jxbue1/misuse_of_orgopencontainersimagelicenses/”&gt; [link]    ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxbue1/misuse_of_orgopencontainersimagelicenses/</guid>
-      <pubDate>Sat, 12 Apr 2025 07:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过Claude Desktop使用MCP服务器的快速计算机控制</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_claude/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  开放来源： https://github.com/mediar-ai/mediar-iar-ai/mcp-server-macos-macos-us-macos-use-use-macos-use-use  /u/u/u/deep_ad1959      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_via_claude/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jx9yiy/fast_computer_control_with_mcp_server_via_claude/</guid>
-      <pubDate>Sat, 12 Apr 2025 05:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个可视化和威胁模型AI代理工作流程的工具，因为这个空间的安全是一团糟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_tool_to_visualize_and_threat_model_ai/</link>
-      <description><![CDATA[         &lt;！ -  sc_off-&gt;   在我们使用langgraph和自动基因的多机系统中，当我们在我们的系统上完全渗透到了simpertive systim-systim-systim-simpy-simptiment-simptiment-systim simption-simptiment-symenty sil sil sil sil sil sil sil sil sil sil sil，标准安全工具不可见。 在次要安全事件（值得及早发现）之后，我走了一个兔子洞，试图准确地了解脆弱性的工作原理。问题？ None of our existing tools could properly map how our agents were interacting or where the security boundaries were breaking down. So over a few weekends, I built a visualization tool that:  Maps the complete interaction flow between agents, including all agent-to-agent and agent-to-tool connections Overlays permissions and data access points across the entire workflow Applies Maestro（AI代理的专门威胁模型）旨在识别潜在的攻击表面   我发现的是真正令人震惊的：    代理框架可以创造出意外的traves traves&#39;traves＆quot;在有限许可的代理可以通过工具呼叫的链条访问敏感数据的漏洞 流行框架通常不会在代理之间执行适当的身份验证界限 通过共享记忆上下文泄漏的数据非常普遍，并且很难检测到 大多数重点的api Provess             对于建立复杂代理系统的任何人，我强烈建议您绘制您的整个工作流程，并特别寻找这些风险模式：                li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;       端点的身份验证不足  我已经将该工具开放为特工（ https://github.com/github.com/repello-repello-ai/repello-ai/agai/agai/aget-wiz-wiz-wiz 如果任何人都可以检查他们自己的工作。目前，它支持Langgraph，Autogen和Crewai，即将推出更多的解析器。喜欢在这个领域工作的任何人的反馈。 其他人是否遇到了其代理系统的安全问题？我还应该寻找其他哪些攻击向量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tit4n-monster      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_a_tool_tool_tool_visalize_visalize_and_and_threat_mmodel_ai/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_tool_to_visualize_and_threat_model_ai/</guid>
-      <pubDate>Sat, 12 Apr 2025 04:41:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
