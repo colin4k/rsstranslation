@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 13 Apr 2025 12:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 15:02:26 GMT</lastBuildDate>
+    <item>
+      <title>串行 -  YouTube的开源供稿读取器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy8cp1/serial_an_open_source_feed_reader_for_youtube/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bagelsoverbread      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy8cp1/serial_an_open_source_feed_reader_for_youtube/</guid>
+      <pubDate>Sun, 13 Apr 2025 14:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始我自己的开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jy6500/starting_my_own_open_source_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，大家好，希望你有美好的一天，因为标题表明我有一个想法，我想我几周前就独自开始了，我觉得它有潜力，所以我想开放源源，所以人们可以为我提供贡献，所以我很害怕在那儿，我很害怕在那一无所知，但我却在那一无所知，但我却在那一无所知，但我只是在那一无所知。开始它的工作原理我应该有几个分支？如何管理拉动请求？我需要分配人去执行任务吗？我应该发布一个路线图吗？我希望您从我的问题中得到我的观点，我要再次问谢谢您，谢谢您再次感谢您，谢谢您再次感谢您。提交由＆＃32; /u/u/u/pare-income7475     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jy6500/starting_my_own_open_source_project/</guid>
+      <pubDate>Sun, 13 Apr 2025 12:06:11 GMT</pubDate>
+    </item>
     <item>
       <title>是否有任何浏览器扩展程序进入特定网站时可以要求PIN？</title>
       <link>https://www.reddit.com/r/opensource/comments/1jy5ipd/is_there_is_any_browser_extension_which_can_ask/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>带有零设置的微型，燃烧的静态文件服务器 - 满足WebSitino（只有1.5MB，没有框架，没有大惊小怪）</title>
       <link>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我构建了一个名为WebSitino的轻量级静态文件服务器，专为本地开发和静态站点的快速测试而设计。没有框架，没有依赖性，没有安装 - 只是一个可以很好地完成该作业的单个可执行文件。 为什么您可能喜欢它： 微小的足迹：〜1.5MB二进制，几乎没有RAM用法 零安装：只需下载并运行它。没有任何节点，没有python，也不一无所有。 -List-Dirs  -  Index  如果您厌倦了旋转肿的框架，只是为了测试HTML/css/js的本地文件夹。检查一下！  github： https://github.com/trikko/websitino 快速安装： https://trikko.github.io/websitino /   喜欢改进的反馈或想法！       &lt;！提交由＆＃32; /u/u/trikkuz     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我构建了一个名为WebSitino的轻量级静态文件服务器，专为本地开发和静态站点的快速测试而设计。没有框架，没有依赖性，没有安装 - 只是一个可执行的可执行文件。 为什么您可能喜欢它： 微小的足迹：〜1.5MB二进制，几乎没有RAM用法 零安装：只需下载并运行它。没有任何节点，没有python，也不一无所有。 -List-Dirs  -  Index  如果您厌倦了旋转肿的框架，只是为了测试HTML/css/js的本地文件夹。检查一下！  github： https://github.com/trikko/websitino 快速安装： https://trikko.github.io/websitino /   喜欢改进的反馈或想法！       &lt;！提交由＆＃32; /u/u/trikkuz     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</guid>
       <pubDate>Sun, 13 Apr 2025 08:01:42 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   Web应用程序已接近启动几次，仅用于与MeteORJS相关的问题，以阻止我们进入轨道，例如破坏依赖关系，或出乎意料的数据库移动错误。作为一个志愿者社区，人们需要势头，当一个大问题出现时，这种势头就会下降。团队中的大多数开发人员也是如此。  我们几乎放弃了，但是一些长期编码人员现在正在建造，我们最近决定是时候剥离流星并在React中充分重建了。   [这是应用程序及其姊妹应用程序，一种随机的善良应用程序]（ https：//github.com/focalocal/focalocal/fl-maps/fl-maps ））） ，我已经准备好了，我已经准备好了，我已经准备好了，如果您已经准备好了，或一些人正在寻找可以进行编码并想剥离流星和交换React的好事业的人，然后看到希望启发的非营利性Web应用程序启动并开始帮助有需要的人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/roamingandy   href =“ https://www.reddit.com/r/opensource/comments/1jxl4un/brighter_tomorrow_map_map_built_built_by_volunteer_devs_on/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxl4un/brighter_tomorrow_map_built_by_volunteer_devs_on/</guid>
       <pubDate>Sat, 12 Apr 2025 16:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kanbany（Trello克隆 /看板板Web应用程序）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxgl76/kanbany_trello_clone_kanban_board_web_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想分享我的最新侧面项目， kanbany：极简主义的trello clone用React和Next.js构建！ Kanbany旨在帮助您通过简单，直观的拖放接口来管理任务，同时将数据本地存储在浏览器中。 它是免费的！  我建造了坎巴尼，因为我想要一个轻巧的生产力/注释工具，该工具专注于而无需额外的混乱，注册等，我也喜欢数据存储的客户，因此我可以实际使用它来工作。贡献非常欢迎！   https://github.com/maxverwiebe/mmaxverwiebe/kanbany     cheers！提交由＆＃32; /u/u/this-Space7832    href =“ https://www.reddit.com/r/opensource/comments/1jxgl76/kanbany_trello_trello_clone_kanban_kanban_board_web_app/&gt; [link]    [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxgl76/kanbany_trello_clone_kanban_board_web_app/</guid>
-      <pubDate>Sat, 12 Apr 2025 12:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们来自开源智能手机多长时间？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxg2v0/how_long_are_we_from_open_source_smartphones/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所有这些特朗普都对产品征收征收，并有可能使iPhone过于昂贵，除了它们在我国的价格外，我还偏爱这种系统。我在PC上使用了Linux一段时间，也许现在使用Windows 11，我将终于进入完整的Linux模式。在这个世界上，我们的操作系统距离完全开源的Snartphonesos是什么？我的意思不是C的硬件部分。我对造成这种情况的细微差别更感兴趣，这样，这个想法并没有像开源在PC上那样受欢迎。很抱歉，如果这可能会愚蠢或不知情。感谢您的回答。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hink1781     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxg2v0/how_long_are_we_from_open_source_smartphones/</guid>
-      <pubDate>Sat, 12 Apr 2025 12:23:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
