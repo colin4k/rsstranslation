@@ -4,7 +4,42 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 12 Apr 2025 21:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 03:50:46 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个树可视化记录仪，因为很难跟踪AI -Pyhunt生成的代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  随着我们更深入地进入AI辅助编码时代，我们中的许多人发现自己花费更多的时间分析和审查生成的代码，而不是实际编写它。追踪调用功能的位置，数据流的方式以及为什么弹出某些错误已成为我们日常的主要部分。随着项目的增长，复杂性也是如此。 使这个过程更加直观且减轻痛苦，我构建了 pyhunt   - 一种基于树的伐木工具，可视化新定义的功能的结构并突出显示错误的地方，并在终端中发生错误。它可以帮助开发人员迅速掌握执行流程，并减少调试时间，这是有道理的。  Quick Start pip install pyhunt  Then simply run: hunt  Set the environment variable HUNT_LEVEL=DEBUG in your .env file. After that, the tracing will work正确。 href =“ https://github.com/easydevv/pyhunt”&gt;  https://github.com/easydevv/pyhunt       &lt;！ -  sc_on-&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visalization_visalization_logger_because_its/  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/</guid>
+      <pubDate>Sun, 13 Apr 2025 00:58:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>备份从任何视频游戏保存文件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxv6g7/backup_save_file_from_any_videogame/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/matteo842       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxv6g7/backup_save_file_from_any_videogame/</guid>
+      <pubDate>Sun, 13 Apr 2025 00:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>NetworkManager 2025.4.12.0发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxuwv8/networkmanager_20254120_released/</link>
+      <description><![CDATA[      I just released a new version of NETworkManager v2025.4.12.0 – which includes some important 错误修复和稳定性改进。   NetworkManager 是一种免费的开源网络工具，用于诊断，监视和管理网络和服务器。它带有许多功能，例如：   ping，traceroute和ip/port扫描  dns lookup，ip geolocation  远程桌面＆amp; ssh   WiFi Analyzer  等等 - 都在可自定义的UI      下载/发行说明：➡️   项目页面：➡️ borntoberoot.net/networkmanager  提交由＆＃32; /u/u/u/borttoberoot      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxuwv8/networkmanager_20254120_released/</guid>
+      <pubDate>Sat, 12 Apr 2025 23:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用日常语言而不是法律的软件许可。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxun3u/software_licenses_that_use_everyday_language_not/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我喜欢“   蓝橡木模型许可证1.0.0是软件的最新最先进的允许公共许可。     https://blueooaakcouncil.org/2019/03/06/06/mmodel.html.html apps  https://roundrobinlicense.com/  PolyForm aims to fill gaps in the menu of standardized software licenses, like non-commercial, trial, and small-business-only terms.    https://polyformproject.org/     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jxun3u/software_licenses_that_that_everyday_everyday_language_not/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxun3u/software_licenses_that_use_everyday_language_not/</guid>
+      <pubDate>Sat, 12 Apr 2025 23:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找开放项目以贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jxrlg8/looking_for_opensource_projects_to_contribute_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是初学者，想开始小型项目。我已经搜索了一些，但是大多数范围内的范围都没有兴趣或太大。我正在寻找小型项目，人们实际上会注意到我的评论或重视我的贡献。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sandeepgogagarla27     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jxrlg8/looking_for_opensource_projects_to_contribute_to/</guid>
+      <pubDate>Sat, 12 Apr 2025 21:14:39 GMT</pubDate>
+    </item>
     <item>
       <title>想进入开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1jxqqa7/wanna_get_into_open_source/</link>
@@ -18,20 +53,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是Web开发人员，我正在周末与Swift Lang一起玩。 您可以在此处检查源代码： https://github.com/lesimoes/clip-save/tree/tree/v2.0.1  href =“ https://www.youtube.com/watch?v=meg_nb1yqe8”&gt; https://www.youtube.com/watch?v=meg_nb1yqe8  href =“ https://clipsave.lesimoes.com/”&gt; https://clipsave.lesimoes.com/    欢迎反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/lesimoes     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxqj1d/i_made_an_open_source_mac_app_to_span_your/</guid>
       <pubDate>Sat, 12 Apr 2025 20:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成AI对开源软件的影响</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxq4rp/impact_of_generative_ai_on_open_source_software/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好，我正在进行一项小型调查，这是我对生成AI对开放源软件的影响的一部分。如果你们中的一些人填写调查，我将不胜感激，只需5-10分钟！  一切都会匿名；甚至不需要您的电子邮件ID！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thenegotiator18    链接  [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxq4rp/impact_of_generative_ai_on_open_source_software/</guid>
-      <pubDate>Sat, 12 Apr 2025 20:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目创意</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxopra/proyect_idea/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  视觉：使IPF成为一个分散的生态系统，可以普遍访问和直观，我们建议创建一个名为Cinergy的创新，用户友好的应用程序。该应用程序弥合了复杂性差距，将密码学哈希和技术障碍转化为无缝，有意义的互动，从而允许广泛的社区参与。核心想法：•IPFS数据收集：专用刮板连续收集IPFS网络的所有信息（文档，建议，投票记录），从而确保透明度和完整的数据可用性。 •AI驱动的组织：收集的数据由高级AI处理，负责总结，分类和上下文化信息，从而使每个用户都可以理解复杂的细节。 •简化的用户界面：用户与明确呈现的见解，建议，治理更新和关键生态系统开发相互作用，而无需深入的技术理解。 •协作循环：该应用程序提示并促进了连续的用户贡献和反馈，将新数据馈回IPF，从而创造了一个不断发展的协作智能周期。功能：•用户友好的文档和建议摘要。 •针对团结和使用应用程序的社区的治理和投票成果的实时更新•指导的贡献路径，以确保即使是非技术用户也可以提交建议和想法。 •用于积极参与的游戏声誉和基于功绩的徽章。目标：•通过消除参与障碍来扩大覆盖范围。 •通过激励和简化积极的社区参与，可持续增长生态系统。 •创建一个自我维持的，不可阻挡的透明协作和集体智能循环。通过启动Cinergy，我们使每个参与者能够透明和包容地塑造未来。 github存储库[ https://github.com/cinweb3/ciner.git.git.git.git.git ]      &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/u/sweetfuturetech     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxopra/proyect_idea/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:03:22 GMT</pubDate>
     </item>
     <item>
       <title>DCS-自动git提交摘要并将其发送到不和谐</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[         &lt;！ -  sc_off-&gt;   在我们使用langgraph和自动基因的多机系统中，当我们在我们的系统上完全渗透到了simpertive systim-systim-systim-simpy-simptiment-simptiment-systim simption-simptiment-symenty sil sil sil sil sil sil sil sil sil sil sil，标准安全工具不可见。 在次要安全事件（值得及早发现）之后，我走了一个兔子洞，试图准确地了解脆弱性的工作原理。问题？ None of our existing tools could properly map how our agents were interacting or where the security boundaries were breaking down. So over a few weekends, I built a visualization tool that:  Maps the complete interaction flow between agents, including all agent-to-agent and agent-to-tool connections Overlays permissions and data access points across the entire workflow Applies Maestro（AI代理的专门威胁模型）旨在识别潜在的攻击表面   我发现的是真正令人震惊的：    代理框架可以创造出意外的traves traves&#39;traves＆quot;在有限许可的代理可以通过工具呼叫的链条访问敏感数据的漏洞 流行框架通常不会在代理之间执行适当的身份验证界限 通过共享记忆上下文泄漏的数据非常普遍，并且很难检测到 大多数重点的api Provess             对于建立复杂代理系统的任何人，我强烈建议您绘制您的整个工作流程，并特别寻找这些风险模式：                li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;       端点的身份验证不足  我已经将该工具开放为特工（ https://github.com/github.com/repello-repello-ai/repello-ai/agai/agai/aget-wiz-wiz-wiz 如果任何人都可以检查他们自己的工作。目前，它支持Langgraph，Autogen和Crewai，即将推出更多的解析器。喜欢在这个领域工作的任何人的反馈。 其他人是否遇到了其代理系统的安全问题？我还应该寻找其他哪些攻击向量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tit4n-monster      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_a_tool_tool_tool_visalize_visalize_and_and_threat_mmodel_ai/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jx9d82/i_built_a_tool_to_visualize_and_threat_model_ai/</guid>
       <pubDate>Sat, 12 Apr 2025 04:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持Zendesk/Shopify和面向客户身份验证的任何开源集成库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jx8r15/any_open_source_integration_libraries_that/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个应用程序，我希望我的客户能够将他们的shopify/zendesk/etcors和帐户连接到我的应用程序中，并且他们的数据是同步的，包括身份验证部分（例如，使用Shopify/Zendesk login/zendesk）           这里的关键是需要包括面向客户的auth   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/walldly_expression43     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jx8r15/any_open_source_integration_libraries_that/</guid>
-      <pubDate>Sat, 12 Apr 2025 04:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要开始为开源贡献的人指南</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jx2hxf/guide_for_people_who_want_to_start_contributing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  本指南是特定于pytorch的，但受众群是为那些从未为开源贡献的人，并包括逐步指示您的第一个贡献。  https：// https://github.com/pytorch/pytorch/executorch/executorch/executorch/blob/main/main/main/main/docs/source/new-cote/new-corute/new-contributure-puture pr&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/vayable_sun_9225      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jx2hxf/guide_for_people_who_want_to_start_contributing/</guid>
-      <pubDate>Fri, 11 Apr 2025 22:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以帮我吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jx0lsg/can_someone_help_me/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi。我是新手。我有一些DMG忘记了我的密码。我愿意付款。我无法弄清楚如何蛮力强迫任何一项。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jx0lsg/can_someone_help_me/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jx0lsg/can_someone_help_me/</guid>
-      <pubDate>Fri, 11 Apr 2025 21:05:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
