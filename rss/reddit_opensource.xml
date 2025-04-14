@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 14 Apr 2025 09:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:03:13 GMT</lastBuildDate>
+    <item>
+      <title>Smashlang是一种大胆的，高性能的，由JavaScript启发的通用编程语言，可编译为本机二进制文件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jyuzej/smashlang_is_a_bold_highperformance/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/oldSailor742       [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jyuzej/smashlang_is_a_bold_highperformance/</guid>
+      <pubDate>Mon, 14 Apr 2025 09:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peazip 10.4.0发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jyuub0/peazip_1040_released/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/peazip     ＆＃32;   [commist]           ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jyuub0/peazip_1040_released/</guid>
+      <pubDate>Mon, 14 Apr 2025 09:37:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>怪异：开源的困惑克隆在CLI上</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_on_cli/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   yo！我将Geegle作为CLI工具创建了，就像一个开源版本的困惑（当然不那么强大，因为我是唯一这样做的人） 我的项目做的  geegle是一个CLI工具，可以通过网络获得答案等。我建立了它，因为那是我大部分时间都花在CLI上，而且我不想继续切换到浏览器。  您可以使用：   pip安装geegle   目标受众   如果您发现其他方法 竞争对手 与其他基于Python的视频生成方法相比，FMOV由于其：  的困惑而脱颖而出。 etc  If you’re interested, the source code and documentation are available here: https://github.com/duriantaco/geegle-py  https://geegle-py.readthedocs.io/en/latest/     未来的功能未来功能  在此处编码辅助，请在此处撰写其他prosig和ping。请留下一颗星星，如果您讨厌它/感到糟糕或只是想在另一个AI工具上沮丧，您可以在这里击败我。感谢您的时间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_clone_clone_on_cli/”&gt; [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jyugpc/geegle_opensourced_perplexity_clone_on_cli/</guid>
+      <pubDate>Mon, 14 Apr 2025 09:10:35 GMT</pubDate>
+    </item>
     <item>
       <title>ffmpeg-as-a服务</title>
       <link>https://www.reddit.com/r/opensource/comments/1jytpuj/ffmpegasaservice/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource ！ 👋 可能会喜欢你们很多人，尤其是任何Devops的人或Sysadmins，我花了时间的时间在Markdown中写下东西。规格，运行书，个人笔记，您可以命名。太好了，但是说实话，默认输出可能有点……简单。 😴 我发现自己想要一种使自己的文档更有趣，甚至怀旧的方法。因此，在某些晚上和周末，我决定构建一个小项目： stylemd ！   它是什么？     这是一个简单的命令行写作的node.js，它将您的标记文件和静态HTML页面带出特定的特定主题。主题！复古控制台地理Windows 98  ，而不仅仅是通常的嫌疑人，我专注于添加受复古操作系统，旧网络美学和经典计算氛围启发的主题。思考：   Windows 98🖥  Commodore 64基本🕹️ 老式终端📟  ...等等！  基本上，这是一种完全不必要的方法，但（我认为）有趣的视觉化妆。  检查一下：          github repo（mit licensed） href =“ https://github.com/ddukbg/stylemd”&gt; https://github.com/ddukbg/stylemd        实时主题预览：您可以在此处看到所有当前的主题！  able-themes       快速开始/stylemd stylemd your_doc.md -t windows98 -o your_styled_doc.html    我主要是为了我自己的享受而建立的，并练习一些技能，但我认为这个社区可能会喜欢它或踢出它。有反馈吗？我应该尝试添加其他令人敬畏的复古主题的想法？当然，也欢迎捐款！ 感谢您的阅读！希望它能带给您的文档一些乐趣。 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_devops_eng_eng_tired_of_boring_markdown_imarkdown_i_built/”&gt; [link]    32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_a_devops_eng_eng_tired_of_boring_markdown_markdown_i_built/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jy35c1/as_a_devops_eng_tired_of_boring_markdown_i_built/</guid>
       <pubDate>Sun, 13 Apr 2025 08:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>粘稠的音符应用程序内置于电子</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jy2zps/sticky_notes_app_built_in_electron/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我刚刚发布了粘性笔记，这是一个轻巧，易于使用的注释应用程序，构建了作为开源项目。纸质纸条旨在帮助您快速记录想法，任务或提醒，将所有笔记存储在笔记本电脑上。这意味着您的数据停留在计算机上，提供额外的隐私和控制层 - 无需云存储！&lt; /p&gt; 您可以在GitHub上查看仓库：🔗 https://github.com/adamkmet1997/sticky_notes.git     如果您喜欢看到的话Homebrew需要证明受欢迎程度（例如大量的手表，叉子和星星）来考虑将该应用程序添加到其包装管理器中。您的支持将有助于证明粘稠的笔记在其背后有一个蓬勃发展的社区，并加速了该过程以使其在自制的过程中以更容易安装。 随时留下反馈，打开问题或分享您可能有任何建议。我很高兴看到大家如何利用粘笔笔记，我期待在社区的帮助下构建这个项目。 感谢您的支持！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usexpectate_card_37     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jy2zps/sticky_notes_app_built_in_electron/</guid>
-      <pubDate>Sun, 13 Apr 2025 08:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有零设置的微型，燃烧的静态文件服务器 - 满足WebSitino（只有1.5MB，没有框架，没有大惊小怪）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我构建了一个名为WebSitino的轻量级静态文件服务器，专为本地开发和静态站点的快速测试而设计。没有框架，没有依赖性，没有安装 - 只是一个可执行的可执行文件。 为什么您可能喜欢它： 微小的足迹：〜1.5MB二进制，几乎没有RAM用法 零安装：只需下载并运行它。没有任何节点，没有python，也不一无所有。 -List-Dirs  -  Index  如果您厌倦了旋转肿的框架，只是为了测试HTML/css/js的本地文件夹。检查一下！  github： https://github.com/trikko/websitino 快速安装： https://trikko.github.io/websitino /   喜欢改进的反馈或想法！       &lt;！提交由＆＃32; /u/u/trikkuz     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jy2o3z/a_tiny_blazingfast_static_file_server_with_zero/</guid>
-      <pubDate>Sun, 13 Apr 2025 08:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个树可视化记录仪，因为很难跟踪AI -Pyhunt生成的代码</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  随着我们更深入地进入AI辅助编码时代，我们中的许多人发现自己花费更多的时间分析和审查生成的代码，而不是实际编写它。追踪调用功能的位置，数据流的方式以及为什么弹出某些错误已成为我们日常的主要部分。随着项目的增长，复杂性也是如此。 使这个过程更加直观且减轻痛苦，我构建了 pyhunt   - 一种基于树的伐木工具，可视化新定义的功能的结构并突出显示错误的地方，并在终端中发生错误。它可以帮助开发人员迅速掌握执行流程，并减少调试时间，这是有道理的。  Quick Start pip install pyhunt  Then simply run: hunt  Set the environment variable HUNT_LEVEL=DEBUG in your .env file. After that, the tracing will work正确。 href =“ https://github.com/easydevv/pyhunt”&gt;  https://github.com/easydevv/pyhunt       &lt;！ -  sc_on-&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visalization_visalization_logger_because_its/  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxw09o/i_created_a_tree_visualization_logger_because_its/</guid>
-      <pubDate>Sun, 13 Apr 2025 00:58:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 14 Apr 2025 09:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:03:04 GMT</lastBuildDate>
+    <item>
+      <title>以开发人员的身份导航当前的AI景观 - 漫长的现场编码！</title>
+      <link>https://www.reddit.com/r/programming/comments/1jyx227/navigating_the_current_ai_landscape_as_a/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/congolomera     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jyx227/navigating_the_current_ai_landscape_as_a/</guid>
+      <pubDate>Mon, 14 Apr 2025 11:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2个图和173个单词的缓存</title>
+      <link>https://www.reddit.com/r/programming/comments/1jywcbw/cache_in_2_diagrams_and_173_words/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/stmoreau       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jywcbw/cache_in_2_diagrams_and_173_words/</guid>
+      <pubDate>Mon, 14 Apr 2025 11:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>HAKO：可嵌入，轻巧，安全，高性能的JavaScript引擎。</title>
+      <link>https://www.reddit.com/r/programming/comments/1jyvozr/hako_an_embeddable_lightweight_secure/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/andrewmd5       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jyvozr/hako_an_embeddable_lightweight_secure/</guid>
+      <pubDate>Mon, 14 Apr 2025 10:36:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个天气应用！</title>
+      <link>https://www.reddit.com/r/programming/comments/1jyv7d7/i_made_a_weather_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我知道天气应用并不是什么新鲜事物，但是我想分享我的第一个自托管项目：clim8。它很容易设置，并具有干净的最小UI。 You can check out the live demo here: clim8.polido.pt and grab the code on GitHub here: github.com/goncalopolido/clim8.  Github上的一颗星星将不胜感激！让我知道您的想法，欢迎建议！ ：D  编辑1：实时演示服务器当前有点不稳定，但请放心，它将很快修复！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fit-history-2449       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jyv7d7/i_made_a_weather_app/</guid>
+      <pubDate>Mon, 14 Apr 2025 10:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用光标规则编写光标规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1jyuyw8/writing_cursor_rules_with_a_cursor_rule/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/FoxInTheRedBox   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jyuyw8/writing_cursor_rules_with_a_cursor_rule/</guid>
+      <pubDate>Mon, 14 Apr 2025 09:47:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>史蒂夫·乔布斯（Steve Jobs）礼物 -  OpenStep的界面构建器</title>
+      <link>https://www.reddit.com/r/programming/comments/1jyue2l/steve_jobs_presents_opensteps_interface_builder/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/nsredditshitposter       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jyue2l/steve_jobs_presents_opensteps_interface_builder/</guid>
+      <pubDate>Mon, 14 Apr 2025 09:05:03 GMT</pubDate>
+    </item>
     <item>
       <title>双子座深度研究很疯狂</title>
       <link>https://www.reddit.com/r/programming/comments/1jytnxp/gemini_deep_research_is_crazy/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>我对AI感到非常难过和沮丧</title>
       <link>https://www.reddit.com/r/programming/comments/1jysjby/im_very_sad_and_frustrated_about_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  作为中期开发人员，在过去的几周中，我对AI接管我们作为程序员的工作的方式感到非常振奋和沮丧。 A lot of people are still on the front lines defending the idea that AI won’t replace us — and I used to be one of them, trying to fight it or deny it. But to be honest, I can now firmly say that tools like Cursor are turning me into a prompt engineer and an intermediary between the client and the AI, rather than a real programmer. I’m currently working on an e-commerce project generating over one million euros in收入，但是，即使在如此高的产品中，也有90％的决定是由AI做出的。当您正确提示它时，它可以做出聪明，高级的决定。我几乎不需要编写任何代码 - 只是这里和那里的次要调整。现在，维护代码比以往任何时候都更容易，因为AI不仅会编写它，而且在询问时会立即进行解释并立即重构。即使是小修复程序，通常也可以通过简单地进行重新宣传来更好地处理。 您可能会争辩说，‘是的，但是您仍然需要理解代码来指导AI并捕获其错误。”我完全同意。但是，随着人工智能不断发展，即使这将变得越来越不必要。我觉得我的工作每天都越来越重要 - 而且在短短几年内，具有零编程知识的人将能够完成我的工作，并且可能会做得更好。 ，这不仅仅是编码。在回复客户电子邮件时，AI已经非常好 - 很好，老实说，我很讨厌我。 有时候，我希望我在70年代或80年代出生，只是在互联网的早期就经历了成为开发人员的经验 - 当一切都很生气时，一切可能仍然感到不适，   /u/powz117       [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  作为中期开发人员，在过去的几周中，我对AI接管我们作为程序员的工作的方式感到非常振奋和沮丧。 A lot of people are still on the front lines defending the idea that AI won’t replace us — and I used to be one of them, trying to fight it or deny it. But to be honest, I can now firmly say that tools like Cursor are turning me into a prompt engineer and an intermediary between the client and the AI, rather than a real programmer. I’m currently working on an e-commerce project generating over one million euros in收入，但是，即使在如此高的产品中，也有90％的决定是由AI做出的。当您正确提示它时，它可以做出聪明，高级的决定。我几乎不需要编写任何代码 - 只是这里和那里的次要调整。现在，维护代码比以往任何时候都更容易，因为AI不仅会编写它，而且在询问时会立即进行解释并立即重构。即使是小修复程序，通常也可以通过简单地进行重新宣传来更好地处理。 您可能会争辩说，‘是的，但是您仍然需要理解代码来指导AI并捕获其错误。”我完全同意。但是，随着人工智能不断发展，即使这将变得越来越不必要。我觉得我的工作每天都越来越重要 - 而且在短短几年内，具有零编程知识的人将能够完成我的工作，并且可能会做得更好。 ，这不仅仅是编码。在回复客户电子邮件时，AI已经非常好 - 真是太好了，它使我感到厌恶。 有时候，我希望我出生于70年代或80年代，只是在互联网的早期就经历了一个开发人员 - 在一切的早期 - 当一切仍然感觉到了原始的，hand的可能性。 href =“ http：// localhost”&gt; [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1jysjby/im_very_sad_and_frustrated_about_ai/</guid>
       <pubDate>Mon, 14 Apr 2025 06:46:46 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/adamard      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1jyn3rj/you_dont_need_a_terminal_emulator/</guid>
       <pubDate>Mon, 14 Apr 2025 01:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>回到CSS</title>
-      <link>https://www.reddit.com/r/programming/comments/1jyir70/back_to_css/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/davimiku      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jyir70/back_to_css/</guid>
-      <pubDate>Sun, 13 Apr 2025 21:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>生锈的构建标志的高心态值</title>
-      <link>https://www.reddit.com/r/programming/comments/1jydjkd/highcardinality_values_for_build_flags_in_rust/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nfrankel      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jydjkd/highcardinality_values_for_build_flags_in_rust/</guid>
-      <pubDate>Sun, 13 Apr 2025 17:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在工程团队中强制使用AI  - 好坏？</title>
-      <link>https://www.reddit.com/r/programming/comments/1jyddbb/enforcing_the_use_of_ai_in_engineering_teams_good/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/gregorojstersek      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jyddbb/enforcing_the_use_of_ai_in_engineering_teams_good/</guid>
-      <pubDate>Sun, 13 Apr 2025 17:44:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>工程更多的是人，而不是技术</title>
-      <link>https://www.reddit.com/r/programming/comments/1jyctu0/engineering_is_more_about_people_than_tech/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gregorojstersek      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jyctu0/engineering_is_more_about_people_than_tech/</guid>
-      <pubDate>Sun, 13 Apr 2025 17:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>github-cefboud/kafka-mcp-server</title>
-      <link>https://www.reddit.com/r/programming/comments/1jycqo2/github_cefboudkafkamcpserver/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨all， 我一直在Kafka的MCP服务器上工作。欢迎任何功能请求。 让我知道您的想法。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cefor111       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jycqo2/github_cefboudkafkamcpserver/</guid>
-      <pubDate>Sun, 13 Apr 2025 17:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI代码建议破坏软件供应链</title>
-      <link>https://www.reddit.com/r/programming/comments/1jycix4/ai_code_suggestions_sabotage_software_supply_chain/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jycix4/ai_code_suggestions_sabotage_software_supply_chain/</guid>
-      <pubDate>Sun, 13 Apr 2025 17:07:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
