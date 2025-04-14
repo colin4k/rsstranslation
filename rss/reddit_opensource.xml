@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 13 Apr 2025 18:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 03:17:24 GMT</lastBuildDate>
+    <item>
+      <title>开源supabase×Next.js项目。感谢您的反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jykx1p/open_source_supabase_nextjs_project_would/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/offmilk     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jykx1p/open_source_supabase_nextjs_project_would/</guid>
+      <pubDate>Sun, 13 Apr 2025 23:21:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚开源了一家经过10年印度股票数据的财务LLM  - 输出SQL，您可以在DuckDB上运行</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jyji1k/just_opensourced_a_financial_llm_trained_on_10/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 想分享我在过去几周中一直在建立的东西 - 一个小的开源项目，这是一个很小的开源项目。 我对结构性的印度股票市场数据 -  ohlcv，ohlcv和Index Data-ex cross-10+ 10岁以上的结构性印度股票市场数据进行了调整，使一个变形金刚在结构化的印度股票市场数据上进行了微调。该模型输出SQL查询，以响应自然语言问题，例如：  “ 2021-03-31在Int_profit上是什么？ 它是100％离线 - 没有API，没有云通话 - 并用数据集预加载的DuckDB文件船。您可以将模型的SQL输出粘贴到DuckDB中，并立即获得结果。您甚至可以在不更改架构的情况下添加自己的数据。 如果您将它们接地在实际结构化数据集中，则将其构建为概念的概念。 它在此处的拥抱脸上直播：    https://huggingface.co/studentone/nifty50gpt-final        ，如果您尝试尝试或将其扩展为想法，则会喜欢反馈。欢呼。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/cod_277Killsshipment     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jyji1k/just_opensourced_a_financial_llm_trained_on_10/</guid>
+      <pubDate>Sun, 13 Apr 2025 22:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网基础架构图</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jyj1d6/internet_infrastructure_map/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，你们，有人知道我可以看到的任何资源，以详细地映射全球互联网基础架构？（公司，电缆，电缆，塔楼，交换点，服务器，服务器，ISPS等）     &lt;！提交由＆＃32; /u/u/anti_anti     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jyj1d6/internet_infrastructure_map/</guid>
+      <pubDate>Sun, 13 Apr 2025 21:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>麻省理工学院许可证适应工作</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jyj01c/mit_license_inclusion_for_adaption_of_work/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究一个目前是私人的家庭项目，但我将来可能会公开可见。我已经使用了许多其他开源库，并将所有这些库都包含在许可文件夹中。 现在，我用一个项目用作设置自己的课程的基础。它用于基于SFML中的控制器类型来处理DirectInput与XINPUT。我实际上并没有抓住他们的文件，但是我使用了他们在完成工作时发现的信息来帮助我加快流程，而不是我自己从头开始学习所有信息。 他们的项目已获得MIT许可证的许可。根据我提到的内容，我应该仍然在我的许可文件夹中加入他们的MIT许可证，或者在我的代码库的那个领域的评论中借助帮助我自己的代码的评论是否足够？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/reicha7     [link]    ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jyj01c/mit_license_inclusion_for_adaption_of_work/</guid>
+      <pubDate>Sun, 13 Apr 2025 21:48:34 GMT</pubDate>
+    </item>
     <item>
       <title>Opus AI剪辑开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1jydic0/opus_ai_clips_open_source/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是初学者，想开始小型项目。我已经搜索了一些，但是大多数范围内的范围都没有兴趣或太大。我正在寻找小型项目，人们实际上会注意到我的评论或重视我的贡献。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sandeepgogagarla27     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jxrlg8/looking_for_opensource_projects_to_contribute_to/</guid>
       <pubDate>Sat, 12 Apr 2025 21:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>想进入开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxqqa7/wanna_get_into_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我是第二年的学生，对网络开发知识，网络3。我想现在进入开源！我在某个地方听说过LFX Mentee计划！谁能为此引导我吗？这将是一个很好的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/greedy_woodpecker330     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxqqa7/wanna_get_into_open_source/</guid>
-      <pubDate>Sat, 12 Apr 2025 20:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源Mac应用程序来跨越您的剪贴板:)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxqj1d/i_made_an_open_source_mac_app_to_span_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是Web开发人员，我正在周末与Swift Lang一起玩。 您可以在此处检查源代码： https://github.com/lesimoes/clip-save/tree/tree/v2.0.1  href =“ https://www.youtube.com/watch?v=meg_nb1yqe8”&gt; https://www.youtube.com/watch?v=meg_nb1yqe8  href =“ https://clipsave.lesimoes.com/”&gt; https://clipsave.lesimoes.com/    欢迎反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/lesimoes     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxqj1d/i_made_an_open_source_mac_app_to_span_your/</guid>
-      <pubDate>Sat, 12 Apr 2025 20:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>DCS-自动git提交摘要并将其发送到不和谐</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_commit_summaries_and_send_them/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/eiry5ma2qnfu41uemjg397pcio52vujsoqfpft ntng.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 668e00f6a5147bf6d0e897922c90a7c65ca5316f“ title=&quot;DCS - Automate Git Commit Summaries and Send Them to Discord&quot; /&gt;   Hi everyone, I’d like to share DCS - Discord Commit Summarizer, an open-source tool I built to automate the process of summarizing Git commits and sharing updates与您的社区或团队不和谐。这是我用于我一个项目的不和谐社区的内部工具。  它的作用：    监视当地的git存储库。 生成ai驱动的提交的摘要（每天，每周，每月或每月使用google dick in li dife   包括有关重大失败的可靠错误处理和可选的电子邮件通知。  我由于需要而建立了它，手动制作大型项目的更新可能真的很乏味。该工具可以自动化该过程，从而更轻松地了解社区。  我很想听听您的反馈或建议！随时尝试一下，让我知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/miguel07alm      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_git_commit_summit_summit_summaries_and_send_send_send_them/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxn8vb/dcs_automate_git_commit_summaries_and_send_them/</guid>
-      <pubDate>Sat, 12 Apr 2025 17:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用AI剥夺开源的限制性许可证</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_restrictive_licenses_for_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， ，如果AI可以再生任何开源软件，剥离限制性许可并使其真正开放供商业用途开放，该怎么办？ 愿意听到什么devs＆amps＆amps＆amp＆amp＆amp;创始人考虑一下这个  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gainnhq   href =“ https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_rerterictive_for_open_source/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jxmdvm/strip_away_restrictive_licenses_for_open_source/</guid>
-      <pubDate>Sat, 12 Apr 2025 17:20:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
