@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 15 Apr 2025 03:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 06:02:11 GMT</lastBuildDate>
+    <item>
+      <title>如何创建快捷方式的存储库</title>
+      <link>https://www.reddit.com/r/software/comments/1jzjkq7/how_can_i_create_a_repository_of_shortcuts/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/top-pea-6566     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1jzjkq7/how_can_i_create_a_repository_of_shortcuts/</guid>
+      <pubDate>Tue, 15 Apr 2025 04:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目创意？独立于语言的动态依赖性可视化器</title>
+      <link>https://www.reddit.com/r/software/comments/1jzig05/project_idea_languageindependent_dynamic/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   [免责声明：以前从未使用过依赖性可视化器，但显然将对其他工具的能力进行更多研究，如果这个想法具有任何有效性！]  嗨，大家好， 我想将一个想法推出我的主要目标，我将学习一些很酷的事物，并创建一些一些有用的东西。我仍然对现有工具和想法有很多研究要做，但是想讨论该潜艇，以查看是否有人建立了类似的东西，对类似的软件项目有任何指针，或者想协作。   的主要目标是在代码库中创建依赖性树的可视化。至于粒度，我想从彼此的源文件依赖项开始，然后在某些事情发生后移至功能或类级依赖项。输入将仅是项目的根目录，输出将说是树可视化。  我想强调的几件事。我计划使其动态 - 鉴于该可视化器在根中的初始化，我希望能够对项目进行更改并利用源控制，以便在任何时候轻松反映依赖性状态。我还希望使其与语言无关（或至少用于多种语言的跨语言） - 我的最初想法是基于文件扩展的案例工作，其中具有特定语言的解析器来检索依赖性信息，但可能会输入一些ML管道来更快地获得一些东西。我猜想真正的语言独立性将是一项非常非常艰巨的任务，但不确定我是否会在脑海中采取一些措施。最后，我希望将其与IDE无关，并在外壳环境中完全运行以直接与文件系统一起使用。 我听说过诸如SourceGraph和C＃依赖式可视化器之类的东西，这些可做相同的事情，但缺少上面提到的一个或几个方面。请随时告诉我我是否在这里或大家都有想法的想法，谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pleasenotracing     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1jzig05/project_idea_languageindependent_dynamic/</guid>
+      <pubDate>Tue, 15 Apr 2025 03:49:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>{WIN10]更新的软件可以扫描损坏/不完整的视频/图像文件并删除它们。</title>
+      <link>https://www.reddit.com/r/software/comments/1jzi187/win10_updated_software_that_can_scan_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我看到了几个张贴，但是链接被打破了，或者程序没有完成我需要的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/awkward_set1008    href =“ https://www.reddit.com/r/software/comments/1jzi187/win10_updated_software_software_that_that_can_can_scan_for/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1jzi187/win10_updated_software_that_can_scan_for/</guid>
+      <pubDate>Tue, 15 Apr 2025 03:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>不确定eartrumpet 2.1安全</title>
       <link>https://www.reddit.com/r/software/comments/1jzhtb4/unsure_about_eartrumpet_21_safety/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一个朋友正在与250人左右的社交活动。我想在投影仪上显示QR码，该QR码使人们可以转到应用程序或网站，以放置一个带有照片和一两个句子的简单个人资料和有关自己的联系电话。 最简单的方法是什么？我猜没有什么可以做到的？理想情况下，它会允许参加会议的人们看到谁签署了个人资料并在他们愿意的情况下手动伸出手。我可以手动将配置文件与名称/照片/联系信息一起放在一起。这意味着QR码将它们带到一个页面，在该页面上，他们提交照片和联系信息，我可以手动创建一个使用所有配置文件的网页，然后在准备就绪时通知所有使用链接注册的内容。  可以为第一个行动起来的乏味。如果这起作用，我可以看到雇用软件开发人员会使某些事情更加自动化。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sd_rock21     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1jyqozm/creating_profiles_for_a_social_event/</guid>
       <pubDate>Mon, 14 Apr 2025 04:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>YT频道下载器</title>
-      <link>https://www.reddit.com/r/software/comments/1jyob4g/yt_channel_downloader/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道有点需要问，但是我想要一个程序/应用程序，可以在视频或音频中下载YouTube频道的所有视频，例如4K视频下载器，但免费，如果让您可以使用多个音频曲目（西班牙语Dives of Glitch emsodes of Gllitch emsodes），例如，/u/u/edwinon      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1jyob4g/yt_channel_downloader/</guid>
-      <pubDate>Mon, 14 Apr 2025 02:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>反向音频搜索工具（找不到歌曲的名称）</title>
-      <link>https://www.reddit.com/r/software/comments/1jynfur/reverse_audio_searching_tool_not_to_find_the_name/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道一个像反向图像搜索一样工作的工具，您可以在其中输入音频文件，并且可以从网络上找到匹配或类似的音频？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sqmbutbetter     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1jynfur/reverse_audio_searching_tool_not_to_find_the_name/</guid>
-      <pubDate>Mon, 14 Apr 2025 01:34:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google/One Drive的开源版本</title>
-      <link>https://www.reddit.com/r/software/comments/1jylhfi/open_source_version_of_googleone_drive/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我正在寻找一种开源解决方案，以在我的Mac和我的家用服务器之间有选择地同步文件。理想情况下，我希望能够：   请参阅我的整个文件夹库从我的Mac中存储在服务器上的整个文件夹。    在我的Mac上选择特定的文件夹在我本地同步的Mac 与OneDrive的OneDrive的端口相似（与OneDrive的端口相似，请 非常简单，万无一失的方法来设置它。 我喜欢同步，但据我所知，它并不是以这种方式进行选择性文件夹同步。 Resilio Sync是接近的，但我更喜欢开源替代方案。  任何建议或见解都将不胜感激！ 谢谢！   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ayouby     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1jylhfi/open_source_version_of_googleone_drive/</guid>
-      <pubDate>Sun, 13 Apr 2025 23:50:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

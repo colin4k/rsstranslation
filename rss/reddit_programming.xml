@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 15 Apr 2025 03:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 06:02:21 GMT</lastBuildDate>
+    <item>
+      <title>史蒂文斯（Stevens）：可入职的AI助手，使用单个SQLITE桌子和少数Cron Jobs</title>
+      <link>https://www.reddit.com/r/programming/comments/1jzk9e6/stevens_a_hackable_ai_assistant_using_a_single/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/avinassh   href =“ https://www.geoffreylitt.com/2025/04/04/12/how-i-made-a-a-ase-riseful-ai-ai-abasistant-with-one-sqlite-table-table-table-and-and-hand-hand-full-cron-jobs”&gt; [link]          [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jzk9e6/stevens_a_hackable_ai_assistant_using_a_single/</guid>
+      <pubDate>Tue, 15 Apr 2025 05:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>每条代码中的人类</title>
+      <link>https://www.reddit.com/r/programming/comments/1jzk79x/the_humanity_in_each_line_of_code/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bhupeshv      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jzk79x/the_humanity_in_each_line_of_code/</guid>
+      <pubDate>Tue, 15 Apr 2025 05:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude AI（Pro订阅）由于最大订阅的推出而导致的服务不佳。感觉就像骗局策略。</title>
+      <link>https://www.reddit.com/r/programming/comments/1jzk5ib/claude_ai_pro_subscription_poor_service_due_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  自去年11月以来，我一直在使用Claude Pro（每年）。大约4天，新的高级最大订阅启动了。从那以后，我的专业服务已严重退化。仅几条消息后，我的聊天达到了最大使用，并且我会遇到一致的“上游连接”问题，这意味着我无法访问AI模型。  为了使事情变得更糟，克劳德3.7十四行诗比旧型号感到笨拙。我不确定，但是感觉就像他们为专业用户访问了最不智能的模型，并保留了最大用户的高端模型。感到欺骗性。我知道我过去在发布最大订阅之前获得的质量。 我知道他们必须发展并提供竞争性服务，但是他们为现有客户限制/降级付费服务吗？谁应该立即解雇战略营销的人。 必须在这里发挥一些非法商业惯例。老实说，我全额支付了固定的时间服务，我希望得到这一点。我感到被人类骗子。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kalitecture       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jzk5ib/claude_ai_pro_subscription_poor_service_due_to/</guid>
+      <pubDate>Tue, 15 Apr 2025 05:30:58 GMT</pubDate>
+    </item>
     <item>
       <title>python中9级异步编程</title>
       <link>https://www.reddit.com/r/programming/comments/1jza9y9/9_levels_of_asynchronous_programming_in_python/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1jz0be6/how_git_cherrypick_and_revert_use_3way_merge/</guid>
       <pubDate>Mon, 14 Apr 2025 14:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python性能：为什么“如果不列表”比使用Len（）快2倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1jz0azj/python_performance_why_if_not_list_is_2x_faster/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jz0azj/python_performance_why_if_not_list_is_2x_faster/</guid>
-      <pubDate>Mon, 14 Apr 2025 14:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么帕斯卡不是我最喜欢的语言（1981）</title>
-      <link>https://www.reddit.com/r/programming/comments/1jz0and/why_pascal_is_not_my_favourite_language_1981/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jz0and/why_pascal_is_not_my_favourite_language_1981/</guid>
-      <pubDate>Mon, 14 Apr 2025 14:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么IBM代码页437中有“小房子”？</title>
-      <link>https://www.reddit.com/r/programming/comments/1jz0a2f/why_is_there_a_small_house_in_ibms_code_page_437/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link] ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1jz0a2f/1jz0a2f/why_is_there_there_a_small_small_ibmals_ibms_ibms_code_page_page_437/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jz0a2f/why_is_there_a_small_house_in_ibms_code_page_437/</guid>
-      <pubDate>Mon, 14 Apr 2025 14:30:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
