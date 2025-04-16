@@ -4,20 +4,41 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 16 Apr 2025 09:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 12:02:23 GMT</lastBuildDate>
+    <item>
+      <title>errsole是Node.js应用程序的开源记录器。它带有内置日志查看器，以查看，过滤和搜索您的应用程序日志。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0ifdz/errsole_is_an_opensource_logger_for_nodejs_apps/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   errsole是 node.js 的第一个开放式记录器，它带有内置的日志查看器UI 。它旨在使调试和监视在开发和生产过程中变得更加容易。 在此处查看： https：//github.com/errsole/errsole/errsole/errsole/errsole.js     /u/u/u/rishi-dev90     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0ifdz/errsole_is_an_opensource_logger_for_nodejs_apps/</guid>
+      <pubDate>Wed, 16 Apr 2025 11:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>为AI生成的应用程序量身定制的开源安全清单（欢迎贡献者！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0iefo/opensource_security_checklist_tailored_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个开放式清单，专门用于使用AI快速构建的应用程序（“ Vibe编码的Apps”。不断发展，所以我会很喜欢OSS社区在改善和扩展此资源方面的帮助。 贡献，建议甚至只是反馈将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/harelj6     link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0iefo/opensource_security_checklist_tailored_for/</guid>
+      <pubDate>Wed, 16 Apr 2025 11:47:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>LOONG在这里：一个开源程序，用于构建可验证的合成数据集，以用于推理较重的域（逻辑，数学，图形论等）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0i6qx/loong_is_here_an_opensource_program_to_build/</link>
+      <description><![CDATA[         &lt;！&lt;！ -  sc_off-&gt;  我们已经启动了一项新的开放式研究，我们已经启动了一个新的开放式研究  verifiabl  e综合数据按大规模进行。 您可能已经看到了经过验证的反馈（例如DeepSeek-r1或r2）如何帮助模型在数学和编程方面变得更好。这部分是因为这些领域易于验证 +具有很多干净的数据集。 但是，诸如逻辑，图理论，财务或计算生物学等领域的推理又如何稀缺，验证更难且验证更难？ 使用loong，我们正在尝试使用它来解决此问题：     &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;评估数据  多代理合成数据生成管道（例如，自我建筑 +求解器）    域特异性检验    验证模型输出是否是叙事上是正确的           href =“ https://www.camel-ai.org/blogs/project-loong-synthetic-data-ata-at-scale-at-scale-at-scale-though-verifiers”&gt; https://www.camel-ai.org/blogs/project-project-project-project-project-synthet-synththetiet-synththetecity   code ：  https://github.com/camel-ai/camel-ai/loong  href =“ https://www.camel-ai.org/collaboration-questionnaire”&gt; https://www.camel-ai.org/collaboration-question-questionnaire 提交由＆＃32;态href =“ https://www.camel-ai.org/blogs/project-loong-synthetic-data-ata-at-scale-though-verifiers”&gt; [link]    32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0i6qx/loong_is_here_an_opensource_program_to_build/</guid>
+      <pubDate>Wed, 16 Apr 2025 11:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whoop替代方案？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0ghkx/whoop_alternatives/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hey作为标题建议，我正在寻找局部 /开源alt to whoop。  这是一种健身性可穿戴的，但我真的不喜欢任何一无所有，而是为所有方法付费。  我也不是我的数据中使用的最大粉丝，如果我被禁止或停止订阅，我会丢失自己的数据！对我来说似乎很疯狂。  因此，我正在寻找替代方法来测量我的HRV睡眠活动等，而不会被插入该系统。  有什么建议吗？我知道您可以在Temu/ Ali Express等上购买相同的可穿戴设备，但是OFC没有电视固件或软件。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/SingularitySquid   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0ghkx/whoop_alternatives/</guid>
+      <pubDate>Wed, 16 Apr 2025 09:46:28 GMT</pubDate>
+    </item>
     <item>
       <title>建立MyFitnesspal的OSS替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1k0eqk4/building_an_oss_alternative_to_myfitnesspal/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿  r/opensource ！ 👋 我很想分享一个我在周末构建的应用程序！我之所以开始构建它，是因为我只是对MyFitnesspal的慢跑感到恼火，并决定自己建造一些东西。我已经使用Rails构建了此应用程序，因为我真的很想有机会学习和建造铁轨。  让我们成为真实的 -  myfitnesspal速度很慢，并且在付费墙背后锁定了太多功能。这些广告是压倒性的，这就是为什么我想要免费的东西，并且可以  功能：  搜索食物并使用干净，快速的界面 跟踪每日卡路里的卡路里，宏和基本营养信息     profid profe  即将推出：  更多图表，以帮助您可视化您的进度随着时间的流逝！ 您自己的个人AI营养教练，您可以与您可以聊天以获取餐点建议和建议！ 它是一个简单的铁路应用程序，可以使用基本的Turbo/Hotwire设置！  我将尽快创建有关这些功能的问题！希望您能合作/贡献。随意播放此存储库，给我有关此应用程序的反馈！ 这是我第一次进入开放采购项目，如果您有任何想法（或面对任何错误），请随时创建任何问题，或创建PR！让我知道你的想法！您会使用此吗？ 链接： https：//github.com/varun2407/nutrition_tracter_tracker 提交由＆＃32; /u/u/innine_condition_5547      [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k0eqk4/building_an_oss_alternative_to_myfitnesspal/</guid>
       <pubDate>Wed, 16 Apr 2025 07:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关如何完全分散和开发MCP存储库的反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k0d9pv/seeking_feedback_on_how_to_make_a_completely/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经为MCP存储库/MCP商店开发了一个开源项目。尽管它可能在某些方面类似于其他MCP存储，但它是开源的事实标志着一个重要的开始。我最近与我的一个朋友讨论了这一点，他是PE，我非常重视他的建议。他指出，除非托管被分散，否则开放的MCP商店可能无法完全实现其预期目的。因此，我正在寻求有关如何创建一个完全分散的开源MCP商店的反馈。  repo链接： ＆＃32;提交由＆＃32; /u/u/sec_c_square     [link]   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k0d9pv/seeking_feedback_on_how_to_make_a_completely/</guid>
-      <pubDate>Wed, 16 Apr 2025 05:52:53 GMT</pubDate>
     </item>
     <item>
       <title>没有代码抹布构建器</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  欢迎来到我的第一个开源项目。   discord bostrap （不是bootstrap ）是一个打字稿模板项目，旨在用作可定制且可扩展的bot的启动板。它消除了所有脚手架的问题，并实施了最佳编码实践。它包含用于命令和事件的模块化结构，使添加新功能并维护代码库变得容易。该模板构建在 discord.js 顶部，并使用Typescript进行类型安全和更好的开发体验。它还包括Eslint和更漂亮的代码质量和格式。 该项目诞生了，因为我使用这种结构建立了自己的机器人，但是我很快意识到这样的模板可以通过已经准备好使用良好的代码结构来使人们创建自己的机器人。这就是为什么它还包括更快的本地运行或更快的部署的码头工具。 我还查看了其他通过谷歌搜索随机发现的模板，但它们有点可理解和不良的代码性。 我添加了所有最佳实践，例如：   &lt;&gt;  li/li li/li li&gt; 测试  docker  代码覆盖范围  存储库还包括规则集和github操作，以提供更好的贡献系统。如果PR通过棉绒，测试和构建自动化操作，并且由代码所有者批准。  botstrap在V0.1.0上，这意味着可以毫无问题地构建和运行。它包含很少的事件和一个测试命令，以便每个人都可以按照结构自行制作新事件。但是，由于这些天我几乎没有改变，并且该项目需要一些反馈，因此它将保留在V0中，直到完成为止。  github星星，建议和反馈非常欢迎！享受！  Discord botstrap： https://github.com/steph-lion/discord-botstrap  提交由＆＃32; /u/u/u/jacksbirrow     ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jzqf8n/discord_botstrap/</guid>
       <pubDate>Tue, 15 Apr 2025 12:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>OTI-一次信息</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzppri/oti_one_time_information/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;   oti（一次性信息）是一个现代的Web应用程序，设计用于安全的一次性信息共享。它确保使用客户端加密安全地共享敏感信息。不会将数据发送到服务器，因此您完全安全。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oguzhane       [注释]         ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzppri/oti_one_time_information/</guid>
-      <pubDate>Tue, 15 Apr 2025 11:41:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[更新]我构建了一个交互式开源数据结构可视化器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_source_data/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家 ，不久前，我分享了有助于可视化和与链接列表，树和图形等数据结构进行交互，以显示它们如何通过插入，删除和搜索等操作进行实时变化。非常感谢所有签出并提供反馈的人！ 我刚刚根据该反馈启动了一个重大更新，我很高兴分享什么新的     动画视觉演练 实时编码块 明确的初学者解释和经验丰富的devs            完整的UI REDESIGN 导航和布局 完全响应（在移动设备上也很好地工作！）   可访问性＆amp; UX改进   一致的样式和更好的可读性 改进的互动设计 更具包容性的体验  是您是第一次学习数据结构，还是只是想刷新，我会喜欢它。和往常一样，我真的很感谢任何想法，建议或错误报告！ 📎[github + to to app]：支持！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_open_source_data/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzoiu1/update_i_built_an_interactive_open_source_data/</guid>
-      <pubDate>Tue, 15 Apr 2025 10:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>去年，我建造了这个开源SMS网关，现在击中了5,000个活跃用户</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jznv25/i_built_this_opensource_sms_gateway_last_year_now/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ I’m excited to share a milestone and get some feedback from the open-source community here. Last year, I launched textbee.dev, an open-source Android SMS gateway that acts as a twillio alternative for sending and receiving SMS messages directly using your Android电话。 本周，我们击中了5,000个用户和1,200多个github星星！ 🎉 对于那些尚未听说过的人来说，TextBee是一条具有以下功能的开源SMS-GATEWAY：  将您的Android设备用作SMS-GATEWAY  通过API/Web Dashboard/web dashboard                    它带有Android应用程序和Web UI，因此您可以完全控制。 在以下位置查看： textbee.dextbee.deve.dev   href =“ https://github.com/vernu/textbee”&gt; github.com/vernu/textbee    迄今为止，非常感谢开放源社区的支持。我很想听听任何反馈或功能创意！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/starre_situation_60     [links]        &lt;a href =“ https://www.reddit.com/r/opensource/comments/1jznv25/1jznv25/i_built_this_opensource_sms_sms_gateway_gateway_gateway_last_year_now/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jznv25/i_built_this_opensource_sms_gateway_last_year_now/</guid>
-      <pubDate>Tue, 15 Apr 2025 09:48:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
