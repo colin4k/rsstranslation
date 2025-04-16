@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 16 Apr 2025 15:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 18:02:46 GMT</lastBuildDate>
+    <item>
+      <title>如何使用编码LLMS节省金钱和有效调试</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0p42r/how_to_save_money_and_debug_efficiently_using/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  每个人都在关注MCP作为将LLMS连接到工具的一种方式。 将LLMS连接到其他LLM代理？ 我构建了Deebo，是有史以来第一个代理MCP服务器。当您的编码代理遇到一个棘手的错误时，它可以通过MCP与Deebo启动会话，允许其卸载任务并在其他方面进行工作，而Deebo则将其异步弄清楚。  deebo通过传递多个子处理方法来工作，每个子过程都在其自身的git git分支中测试一个不同的修复想法。它使用任何LLM通过错误进行推理，并返回日志，提出的修复程序和详细说明。整个系统都以零共享状态或并发管理为零的自然过程隔离。自己查看代码，这非常简单。   这是仓库。看看代码！  启动范围也要缩放到真实的代码库。在这里，它启动了17个场景，您可以在此处找到该运行的完整登录方式。 AI驱动开发过程中的错误。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/klawisnotwashed    href =“ https://www.reddit.com/r/opensource/comments/1k0p42r/how_to_to_save_save_money_and_debug_felficely_usish/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0p42r/how_to_save_money_and_debug_efficiently_using/</guid>
+      <pubDate>Wed, 16 Apr 2025 16:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inhispath-开源基督教项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0oj33/inhispath_open_sourced_christianity_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我已经开始在他的道路上从事，即将推出的开源平台，致力于团​​结全球的基督徒。我们（目前只有我）的使命是提供一个数字空间，信徒可以通过社区，祈祷和经文更亲近上帝，彼此之间。 计划和特征       圣经阅读：访问超过140次翻译，由 scrollmapper圣经数据库。   祈祷请求：分享和应对社区内的祈祷需求并响应社区内的祈祷需求。 📅阅读计划：指导您的圣经学习之旅的结构化计划。  祈祷＆amp;社区团体：与集中群体中的其他人建立联系。 href =“ mailto：support@inhispath.com”&gt; support@inhispath.com ）发送您的想法。  链接：  github： href =“ https://inhispath.com/”&gt; https://inhispath.com/     当前进度：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/awheelperson   href =“ https://www.reddit.com/r/opensource/comments/1k0oj33/inhispath_open_sourcen_sourced_christianity_project/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0oj33/inhispath_open_sourced_christianity_project/</guid>
+      <pubDate>Wed, 16 Apr 2025 16:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[OC]查看此酷控制面板的Linux</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0msad/oc_check_out_this_cool_control_panel_for_linux/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  这是一个快速的设置Linux系统的快速设置，具有很多功能，具有很多功能，并且可以删除您不需要的东西，并且您不需要您需要的东西，并且还需要  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;）。 ＆＃32;提交由＆＃32; /u/u/stanumvoid_       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0msad/oc_check_out_this_cool_control_panel_for_linux/</guid>
+      <pubDate>Wed, 16 Apr 2025 15:10:18 GMT</pubDate>
+    </item>
     <item>
       <title>加入解决C ++问题的库的创建</title>
       <link>https://www.reddit.com/r/opensource/comments/1k0lief/join_the_creation_of_a_library_that_fixes_cs/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[Right now, QR codes are the only universally supported type of barcodes that can be expected to be read by the default camera app of every phone (unless you use the MicroQR variation that is supported on iOS but not on Android or rMQR that is not supported anywhere yet). It is a proprietary format:它们（densowave）允许您在商业上使用该格式，因为只要不更改格式规格（不允许拨打）。 Kinda类似于.docx的情况。 我相信所有智能手机摄像机都应至少支持一个FOSS条形码标准。我建议AZTEC代码，尽管选择了非默认颜色托盘，但jabcodes也不错。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jzy9k2/we_should_should_push_for_smartphone_smartphone_manfucturers_to/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jzy9k2/we_should_push_for_smartphone_manufacturers_to/</guid>
       <pubDate>Tue, 15 Apr 2025 17:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密人的新版本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzwh6e/new_release_of_encryptor/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  从您的反馈中，我制作了一个新版本的加密应用程序，它比原始版本更好，它可以通过github  https：//github.com/logand166/cempryptor/cencryptor/releases/releases/tag/tag/v1.5.5.0  像这个项目一样，如果您用过这个，我会很高兴给我买咖啡链接！它在阅读中再次感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jzwh6e/new_release_of_encryptor/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzwh6e/new_release_of_encryptor/</guid>
-      <pubDate>Tue, 15 Apr 2025 16:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opnsense Gateway HealthCheck  - 一个停靠的监视助手工具🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzwfbg/opnsense_gateway_healthcheck_a_dockerized/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/btc_informer      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzwfbg/opnsense_gateway_healthcheck_a_dockerized/</guid>
-      <pubDate>Tue, 15 Apr 2025 16:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀TailScale HealthCheck  - 一个停靠的监视助手工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzwdaj/tailscale_healthcheck_a_dockerized_monitoring/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hi hi were！ 过去的几天，我通过API开发了一个填充置于置换输出的api的尾巴健康检查。使用此辅助工具，可以构建一些不错的监视集成！ ⭐️功能⭐️ 总体健康状况：基于： 设备在线状态（inline_healthy）设备键expiry状态（key_healthy）设备更新状态（uppation_healthy healthy healthy global y global global native）状态（全局健康状态：  （global_online_healthy）全局密钥健康状况（global_key_healthy）全局更新状态（global_update_healthy） 更新状态： 更新可用性状态客户版本跟踪更新与通配符的更新健康过滤通配符包括/排除/排除deffers filter filter forter-deffier filter filter filter filter filter filter filter filter filtc             (hostname, ID, name) Tag-based filtering with wildcards Include/exclude filter support Key expiry: Days until key expiry (key_days_to_expire) Counter Metrics: Detailed counters for healthy/unhealthy devices Health Status: Check the health of all devices in the Tailscale network. Device Lookup: Query the health of a specific主机名，ID或名称的设备（对案例不敏感）。 健康设备：列出所有健康设备。 不健康设备：列出所有不健康的设备。 时区支持：将最后的时间段调整到可配置的时间播放到可配置的时&gt;  prestion fortion intery fortion。 display_settings_in_output敏感数据的安全掩模全面配置概述 可以在此处找到更多详细信息：  https://www.laitco.de/posts/Tailscale_Healthcheck_A_Dockerized_Monitoring_Helper_Tool/ 快乐监视！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/btc_informer      [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzwdaj/tailscale_healthcheck_a_dockerized_monitoring/</guid>
-      <pubDate>Tue, 15 Apr 2025 16:32:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
