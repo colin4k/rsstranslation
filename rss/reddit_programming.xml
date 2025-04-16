@@ -4,27 +4,118 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 16 Apr 2025 12:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 15:05:27 GMT</lastBuildDate>
+    <item>
+      <title>无原子并发</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0mioe/atomicless_concurrency/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0mioe/atomicless_concurrency/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代CMAKE简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0miag/an_introduction_to_modern_cmake/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0miag/an_introduction_to_modern_cmake/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>K2模式背后的故事及其运作方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0mi9i/the_story_behind_k2_mode_and_how_it_works/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0mi9i/the_story_behind_k2_mode_and_how_it_works/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:58:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>用一千个板条箱缩短生锈的时间</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0mhsx/cutting_down_rust_compile_times_with_one_thousand/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0mhsx/cutting_down_rust_compile_times_with_one_thousand/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:58:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>斐波那契哈希：世界忘记的优化</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0mf09/fibonacci_hashing_the_optimization_that_the_world/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0mf09/fibonacci_hashing_the_optimization_that_the_world/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何优化缓慢的生锈：受到新的图灵机效果的启发</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0me6g/how_to_optimize_rust_for_slowness_inspired_by_new/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0me6g/how_to_optimize_rust_for_slowness_inspired_by_new/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:54:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>肮脏的技巧6502程序员使用</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0mdpn/dirty_tricks_6502_programmers_use/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0mdpn/dirty_tricks_6502_programmers_use/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intellij Idea 2025.1发布</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0lt3s/intellij_idea_20251_released/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mateusnr      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0lt3s/intellij_idea_20251_released/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>倾斜 - 轻巧的零依赖性TS库，用于以现代2.5D方式显示地图和其他内容。滑行朝光标，易于多维视觉效果，拖动等等平滑缩放！</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0lqro/tilted_lightweight_zerodependency_ts_library_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/anbeeld     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0lqro/tilted_lightweight_zerodependency_ts_library_for/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI正在改变软件工程 - 通往2030年的道路</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0lc35/ai_is_changing_software_engineering_the_road_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我发现这是一个相当平衡且实用的讨论，并不是AI炒作的受害者，但也认识到我们正在经历的更改。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/caverurefeature16      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0lc35/ai_is_changing_software_engineering_the_road_to/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>github -iondodon/httpok：httpok是一个快速，简约的桌面http客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0k8gv/github_iondodonhttpok_httpok_is_a_fast/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/aggressiveBee4152      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0k8gv/github_iondodonhttpok_httpok_is_a_fast/</guid>
+      <pubDate>Wed, 16 Apr 2025 13:19:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>GITHUB -CODR7/HACKTICTION -C：C编程语言的实用黑客指南。</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0k6q2/github_codr7hackticalc_a_practical_hackers_guide/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/chilipepperhott      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0k6q2/github_codr7hackticalc_a_practical_hackers_guide/</guid>
+      <pubDate>Wed, 16 Apr 2025 13:17:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个程序员都应该了解CPU的工作方式•Matt Godbolt</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0jmww/what_every_programmer_should_know_about_how_cpus/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0jmww/what_every_programmer_should_know_about_how_cpus/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>经典的Logisim在浏览器中运行，由Cheerpj和WebAssembly提供动力</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0j9jk/classic_logisim_running_in_the_browser_powered_by/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/unoriallayout      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0j9jk/classic_logisim_running_in_the_browser_powered_by/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:32:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建您一直在梦想的AI项目，以6个步骤。</title>
+      <link>https://www.reddit.com/r/programming/comments/1k0iqxo/how_to_build_that_ai_project_you_have_been/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个框架称为“ ai项目周期”，我几天前在书中读到，以为我会与所有人分享  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/usestrt   href =“ https://medium.com/@proustpwhs/a-six-six-step-framework-for-all-your-your-ai-projects-every-single-everle-eon-e32d8a9ada29”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k0iqxo/how_to_build_that_ai_project_you_have_been/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>无花果如何缩放到400万用户</title>
       <link>https://www.reddit.com/r/programming/comments/1k0i352/how_figma_scaled_postgres_to_4m_users/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sdxyz42     link&gt; link&gt; link&gt; link&gt;    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k0i352/how_figma_scaled_postgres_to_4m_users/</guid>
       <pubDate>Wed, 16 Apr 2025 11:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI扩展可以延续到2030年吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0hej1/can_ai_scaling_continue_through_2030/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我阅读了Epoch AI的一篇研究文章，内容涉及到2030年的AI模型的缩放。他们的结论是：＆quot。在十年末，AI实验室的训练模型的规模超过了GPT-4的程度，与GPT-4在训练计算中相同的程度可能是可行的。我知道那里有很多大胆的AI预测，但是考虑到当前趋势，我发现这很令人信服。另外，Epoch AI的人们似乎很聪明，合理。如果您很好奇，应该在他们的网站上查看文章 - 真的很棒。另外，YouTube在他们的频道上有一个4小时的YouTube视频，其中有两个研究人员之间关于AI时间表的对话，我发现这确实很有见地。绝对值得一看。就是说，我认为当前AI模型的两个最大挑战是代理和背景。如果我们在这两个方面取得了重大进步（或者您认为我们会吗？），是否可以建立能够从事大多数编程工作的AI？我不一定说它会取代程序员，而是可以舒适地处理大多数程序员所做的工作。您对此有何看法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/fitsum_joseph      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0hej1/can_ai_scaling_continue_through_2030/</guid>
-      <pubDate>Wed, 16 Apr 2025 10:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google刚刚将Geeksforgeeks（GFG）抢走了</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0habz/google_just_snapped_geeksforgeeks_gfg_out_of/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Google禁止的Geeksforgeeks（GFG），Google search   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kush_238     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0habz/google_just_snapped_geeksforgeeks_gfg_out_of/</guid>
-      <pubDate>Wed, 16 Apr 2025 10:40:21 GMT</pubDate>
     </item>
     <item>
       <title>DINOXOR-重新实现位于Aarch64霓虹灯寄存器中的抽象操作</title>
@@ -41,13 +132,6 @@
       <pubDate>Wed, 16 Apr 2025 09:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>通过BLE控制Windows计算机</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0fkqs/control_your_windows_computer_over_ble/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个示例项目，您可以使用BLE应用从手机发送的BLE命令来控制Windows PC的亮度。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/bleuio   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0fkqs/control_your_windows_computer_over_ble/</guid>
-      <pubDate>Wed, 16 Apr 2025 08:39:46 GMT</pubDate>
-    </item>
-    <item>
       <title>如何建立代理商</title>
       <link>https://www.reddit.com/r/programming/comments/1k0eze6/how_to_build_an_agent/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/avinassh       [注释]  ]]></description>
@@ -60,90 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我是Yasir，我创建了自己的分类算法，该算法受斯大林的启发。但是，它没有删除未分类的元素，而是让它们从灰烬中升起并重新整合到整个列表被排序为止。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/minsir      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k0es5e/say_hello_to_our_new_sorting_algorithm_phoenix/</guid>
       <pubDate>Wed, 16 Apr 2025 07:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的网络托管公司？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0eoqe/best_web_hosting_company/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道哪个选项是这三个选项：siteground，hostinger和bluehost。。还是有更好的选择？提交由＆＃32; /u/u/ihamzajz1      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0eoqe/best_web_hosting_company/</guid>
-      <pubDate>Wed, 16 Apr 2025 07:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>DHS未能续签合同后，CVE计划将面临迅速的结局，而安全缺陷跟踪处于困境</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0dyk8/cve_program_faces_swift_end_after_dhs_fails_to/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/klaasvanschelven      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0dyk8/cve_program_faces_swift_end_after_dhs_fails_to/</guid>
-      <pubDate>Wed, 16 Apr 2025 06:40:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>nativeaot One .net</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0dhvc/nativeaot_en_net/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/emanuelpeg      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0dhvc/nativeaot_en_net/</guid>
-      <pubDate>Wed, 16 Apr 2025 06:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的困惑Pro for Student链接</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0d18y/free_perplexity_pro_for_students_link/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://plex.it/referrals/82e3m31p 提交由＆＃32; /u/u/pathforeign6095       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0d18y/free_perplexity_pro_for_students_link/</guid>
-      <pubDate>Wed, 16 Apr 2025 05:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>盐和黄金的被遗忘的语法：硅的商人如何编码商人</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0d004/the_forgotten_syntax_of_salt_and_gold_how_the/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ractial_estate4971       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0d004/the_forgotten_syntax_of_salt_and_gold_how_the/</guid>
-      <pubDate>Wed, 16 Apr 2025 05:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥带有猫鼬 + Express的简单CRUD API [对于初学者]</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0cq8j/simple_crud_api_with_mongoose_express_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   &lt;简单的crud api with mongoose + express🚀[对于初学者]  嘿，evelly devs！ 👋 我注意到，许多初学者都难以开始使用MongoDB + Mongoose 开始进行 crud操作，因此我认为我会分享一个超级简单，干净的代码示例，该示例表明如何表现创建，阅读，更新，更新，更新，更新和删除 🛠️技术堆栈：   node.js + express.js   mongodb（mongoose odm odm）  dotenv环境变量    /&gt;✅通过ID ✅删除通过ID  💻删除完整代码：    // index.js let express = require（&#39;express&#39;）;令猫绿色= require（&#39;猫鼬&#39;）; require（&#39;dotenv&#39;）。config（）; const schema = mongoose.schema;令Enquirymodel = require（&#39;./ enquiry.model&#39;）;令app = express（）; app.use（express.json（））; //连接到mongodb mongoose.connect（proces.env.dburl）.then（（）=＆gt; {console.log（＆quot; db connected＆qucted＆quot; app.listen（process.env.env.port || env.port || 3000，（3000，（） // Create (Insert) app.post(&quot;/api/enquiry-insert&quot;, async (req, res) =&gt; { let { sname, semail, sphone_No, smessage } = req.body; let insert_Data = new enquiryModel({ name: sname, email: semail, phone_No: sphone_No, message: smessage}）; insert_data.save（）。 //读取（获取全）app.get（＆quot; api/get-genquiry-list＆quot＆quot＆quort＆quort＆quarync（req，res）=＆gt; {const all_data =等待enquirymodel.find（{}} {}） //删除app.delete（/api/delete-enquiry/：id＆quord＆quot; async（req，res）=＆gt; {const param_id =; const deleted_data =等待Enquirymodel.deleteOne.deleteOne.deleteOne（{__id：param_id}） deleted_data}）; // update app.put（/api/api/update-enquiry/：id＆quord＆quord＆quord; async（req，res）=＆gt; {const param_id =; const sname = req.body.sname; const updated_data =等待Enquirymodel.updateOne.updateOne（updateOne） res.send（{状态：1，msg：&#39;&#39;reporated＆quort＆quort＆quorted_data}）; req.params.idreq.params.id // enquiry.model.js让蒙古= const schema = mongoose.schema; const usertableschema = new Schema（{name：{type：string，必需：true}，电子邮件：{type：string，必需：true，unique：true}，phone_no：{type：type：type：number，必需：true}，true}，message：type：string：string，必需：quirce offirce：true}}}）;令Enquirymodel = mongoose.model（“ enquiry_mongoose＆quot”，usertableschema）; Module.exports = Enquirymodel;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/uksoftware1292       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0cq8j/simple_crud_api_with_mongoose_express_for/</guid>
-      <pubDate>Wed, 16 Apr 2025 05:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开发/编码器</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0bm1k/looking_for_a_devcoder/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我想开始并启动一个SaaS项目并出售它，它将更加面向蓝领，但它可以用于其他东西，例如Jobber，我没有技术经验，我在技术方面没有经验，并且正在寻找某人的开发，显然没有任何人指向我。提交由＆＃32; /u/u/stanusion-master      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0bm1k/looking_for_a_devcoder/</guid>
-      <pubDate>Wed, 16 Apr 2025 04:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>读取之前：安全递增操作的秘密|杜瓦</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0b68l/readbeforewrite_the_secret_to_safe_incr/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/letmegomigo     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0b68l/readbeforewrite_the_secret_to_safe_incr/</guid>
-      <pubDate>Wed, 16 Apr 2025 03:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何加快清漆缓存并防止悬挂</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0az4g/how_to_speed_up_varnish_cache_and_prevent_hangs/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/special_lettuce_4412      [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0az4g/how_to_speed_up_varnish_cache_and_prevent_hangs/</guid>
-      <pubDate>Wed, 16 Apr 2025 03:31:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>html.js dom：一种轻巧的反应替代品</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0abmy/htmljs_dom_a_lightweight_alternative_to_react/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/harzer-zwerg      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0abmy/htmljs_dom_a_lightweight_alternative_to_react/</guid>
-      <pubDate>Wed, 16 Apr 2025 02:56:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我仍然在2025年写香草JavaScript（以及为什么您可能想要）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k08guk/why_i_still_write_vanilla_javascript_in_2025_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://javascript.plainenglish.io/why-i-still-write-vanilla-vanilla-javascript-in-2025-in-2025-and-why-----------------------------------------------------------------------   [注释]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k08guk/why_i_still_write_vanilla_javascript_in_2025_and/</guid>
-      <pubDate>Wed, 16 Apr 2025 01:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我决定在Zig构建我的第一个图书馆|有很多初学者的信息</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0898h/i_decided_to_build_my_first_library_in_zig_lots/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/maysara-dev     &lt;a href =“ https://www.reddit.com/r/programming/comments/1k0898h/i_decide_to_build_my_my_first_library_in_in_zig_lots/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0898h/i_decided_to_build_my_first_library_in_zig_lots/</guid>
-      <pubDate>Wed, 16 Apr 2025 01:07:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
