@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 17 Apr 2025 00:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 03:16:38 GMT</lastBuildDate>
     <item>
-      <title>CQRS预测的想法</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0z6j0/idea_for_cqrs_projections/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以我有一些编程经验，但绝不是专家，所以如果我说的是幼稚或使用错误的术语，则很抱歉。我想测试一个想法，我敢肯定不是新事物，但我不知道如何专门搜索此问题，因此我很高兴为学习资源提供任何建议。非常感谢任何建议或意见。 我想将firestore用于命令侧，然后将数据投影到可能存在于SQL数据库或Elasticache或GraverdB等上的不同查询模型中。 我不想依靠任何类似的pub/sub/sub，subitting事件，或任何类似的事件。我想运行一个投影仪，该投影仪在Firestore中提取新数据并将其写入读取模型。因此，这是我的想法 在Firestore中的文档只会附加。因此，说我正在建模A＆quot&#39; （你喝的）。具有以下强制性字段。  自动化的firestore文档ID字段  pub_id：uuid  版本：ulid（单调增加，可分配）  action; - 没有补丁  因此，每当我更新其任何字段时，例如，它的名称，我都会使用一个新的新克隆文档，其中具有新的自动化文档ID，同一Pub_ID和一个新版本。 现在，可以说投影仪需要采取新的动作。它可以定期查询查询模型的录制的单个最新版本。然后，它向所有版本的所有酒吧文档（因此，所有不同的酒吧）提交了一份请求，其版本是在此之后的（每次说20的块）。 然后，它只能将每个酒吧的最新版本进行，然后将每个酒吧的最新版本进行，然后创建，删除或更新（不是补丁程序）。 ，这不应该从事件调发中，并且我不需要开始启动的项目。我认为出于我的目的，我真的只需要获得最新版本的事物。 假设我正在建模许多与一段的关系。例如，一个酒吧的爬网，它有一个可以访问的酒吧的清单。 我还有其他文档：“ pubcrawl”＆quot“＆quot” pubcrawl_pub（这将记录pub_id and pubcrawl_id）我意识到这看起来像SQL表！我需要这样做，因为我只能轻松地在Firestore的浅克隆文档。 请让我知道您的想法！谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pc-uncle      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0z6j0/idea_for_cqrs_projections/</guid>
-      <pubDate>Wed, 16 Apr 2025 23:54:01 GMT</pubDate>
+      <title>使用一个命令（并进行重新加载！）来增强您的C/C ++工作流程。</title>
+      <link>https://www.reddit.com/r/programming/comments/1k124ma/boost_your_cc_workflow_with_one_command_and_live/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我刚刚发布了我构建的称为CEXEC的工具 - 它可以使用简单的JSON配置使用单个命令来编译并运行C/C ++程序。非常适合在没有样板的情况下快速测试，学习或从事小型项目。 ✨新功能：观看模式！  with -watch = true，Cexec将自动重新编译并每次保存文件时运行代码。这就像为C/C ++  🔗github进行了微小的实时录音设置：  确实有帮助，这意味着很多！ 会喜欢任何反馈或功能创意！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pedro2337      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k124ma/boost_your_cc_workflow_with_one_command_and_live/</guid>
+      <pubDate>Thu, 17 Apr 2025 02:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek分布式文件系统的介绍</title>
+      <link>https://www.reddit.com/r/programming/comments/1k11l0o/an_intro_to_deepseeks_distributed_file_system/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/self      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k11l0o/an_intro_to_deepseeks_distributed_file_system/</guid>
+      <pubDate>Thu, 17 Apr 2025 01:55:35 GMT</pubDate>
     </item>
     <item>
       <title>未经我的同意，GitHub Copilot自动启用了我的私人本地工作区</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k0miag/an_introduction_to_modern_cmake/</guid>
       <pubDate>Wed, 16 Apr 2025 14:58:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>K2模式背后的故事及其运作方式</title>
-      <link>https://www.reddit.com/r/programming/comments/1k0mi9i/the_story_behind_k2_mode_and_how_it_works/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link] ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k0mi9i/the_story_behind_k2_mode_and_how_it_works/</guid>
-      <pubDate>Wed, 16 Apr 2025 14:58:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
