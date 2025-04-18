@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 18 Apr 2025 09:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 12:02:28 GMT</lastBuildDate>
+    <item>
+      <title>文件共享软件</title>
+      <link>https://www.reddit.com/r/software/comments/1k22i7h/file_sharing_software/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  因不和谐的文件大小限制而烦恼，我决定编写一个简单易于的文件共享程序。  该软件将您的PC转换为Web服务器，并托管了您的朋友可以下载共享文件的网站。 某些关键功能是： - 无限文件大小 - 可选的压缩 - 可与gitignore文件一起使用，可方便地共享代码，而无需不必要的文件 - 免费和开源 - 快速传输。将使用所有可用的带宽。 （在本地网络中最多测试了2.5 GBIT，在Internet上进行了1个GBIT） 如果要使用它，可以在GITHUB上的Windows下载windows的安装程序，或者您自己从源头上下载。 该软件应交叉平台并运行。 Linux和Mac，但尚未进行测试。反馈，尤其是从这些平台中获得的反馈将不胜感激。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tomyyy420       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k22i7h/file_sharing_software/</guid>
+      <pubDate>Fri, 18 Apr 2025 11:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>将MKV恢复到MP4会改变帧速率？</title>
+      <link>https://www.reddit.com/r/software/comments/1k215gs/remuxing_mkv_to_mp4_changes_framerate/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我想将MKV文件（25fps）转换为MP4。我尝试了XMedia Recode，Avidemux和Mkvtoolnix，但是即使我将所有设置都放在MP4文件上的framerate中，也是相同的结果，将为44,63。为什么那是这样，我该如何修复？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usextern_level_3580     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k215gs/remuxing_mkv_to_mp4_changes_framerate/</guid>
+      <pubDate>Fri, 18 Apr 2025 09:53:51 GMT</pubDate>
+    </item>
     <item>
       <title>文件Maestro：自动化文件夹组织和Windows上的清理</title>
       <link>https://www.reddit.com/r/software/comments/1k1yn0h/file_maestro_automate_folder_organization_cleanup/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   uninstalr 2.8发布。 UnInstalr是一个免费的Windows软件卸载器，该软件支持批量拆卸软件，并且它具有对沉默（无人看管的）卸载的最佳支持之一。 此版本中的关键更改是：&gt;  新功能：用户可以选择某些分析类型，例如，请选择某些formable ableable Appl，例如新功能。卸载操作。 大大提高了检测已安装软件的速度和准确性。平均而言，该程序现在快23％。  完整的ChangElog在这里： https：//uninstalr.com/changelog/changelog/    便携式版本是一个可执行文件的单个可执行文件，然后在完成时可以删除，或从USB设备中运行并随身携带它。 该软件的尺寸仅为6 MB的轻量级非常轻巧，并且具有29个内置的语言，并带有构建的语言，它支持Dark Mode，它可以允许您的多个选项可下载您想要的信息，请访问更多信息。      p。 href =“ https://uninstalr.com/”&gt; https://uninstalr.com/   我是uninstalr的开发人员。随时问我任何事情，或者让我知道是否有任何要添加的功能。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jouniflemming     [link]   ＆＃32;   [comment]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k17z2r/uninstalr_28_released/</guid>
       <pubDate>Thu, 17 Apr 2025 08:39:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以查找文件重复的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1k11qq4/looking_for_a_software_to_find_file_duplications/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我有很多随机备份我的手机，我认为很多备份与照片等数据重叠，并且我正在尝试找到一个可以扫描我的文件并查找重复的应用程序，以便我可以删除所有重复的文件，而不必删除所有单个文件，然后将我的所有文件进行比较。有人有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/0x426c797a      [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k11qq4/looking_for_a_software_to_find_file_duplications/</guid>
-      <pubDate>Thu, 17 Apr 2025 02:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于一家小型律师事务所的最佳计费/时间跟踪软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1k0z62j/whats_the_best_billingtime_tracking_software_for/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/financialwaltz219     [link]    [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k0z62j/whats_the_best_billingtime_tracking_software_for/</guid>
-      <pubDate>Wed, 16 Apr 2025 23:53:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
