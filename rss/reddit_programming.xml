@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Apr 2025 06:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 09:03:02 GMT</lastBuildDate>
+    <item>
+      <title>🛡️刷新，限制，注销：掌握auth Flow和基于角色的访问在node.js中</title>
+      <link>https://www.reddit.com/r/programming/comments/1k20cdw/refresh_restrict_logout_mastering_auth_flows/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://medium.com/nextgen-dev-labs/%EF%B8%B8%8f-refresh-fresh-fresh-fresh-lestrict-logout-mastering-mastering-auth-auth-flows-基于 - 基于 - 访问-node-js-87E3B48F1157？source = friends_link＆amp; sk = 3222a3ae08f2718fe4fe4f842f0ae444444af24&gt; [link]    ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k20cdw/refresh_restrict_logout_mastering_auth_flows/</guid>
+      <pubDate>Fri, 18 Apr 2025 08:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何编译此GitHub项目的.jar文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1k200kf/how_can_i_compile_a_jar_file_outof_this_github/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好亲爱的编程社区， 因为我对所有这些新手都不知道如何从他的项目中汇总.jar文件。用户制作了“男中音”的更新版本。 Minecraft mod和我只需要.jar文件，我可以将其放入mods文件夹中。我在YouTube上查找了教程，但找不到任何适合的教程，所以我最终在这里寻求帮助。 感谢您的帮助 真诚的memmo    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mission_deer9975       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k200kf/how_can_i_compile_a_jar_file_outof_this_github/</guid>
+      <pubDate>Fri, 18 Apr 2025 08:31:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个离线推理引擎桌面应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1k1zvdh/i_made_an_offline_inference_engine_desktop_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我的一个激情项目，因为几年前本地AI模型首次发行，这是我一直在研究的。它允许您运行LLM，语音和艺术模型。您可以创建聊天机器人，素描并将其变成艺术等。它是用纯Python编写的，并使用Hugginface，LlamainDex和Pyside6。 包装版本可以由非技术用户下载并运行。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/w00fl35       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k1zvdh/i_made_an_offline_inference_engine_desktop_app/</guid>
+      <pubDate>Fri, 18 Apr 2025 08:21:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>da'an：厌倦了丑陋的UI和昂贵的AI客户？我建立了一个小的开源替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1k1ze8m/daan_tired_of_ugly_ui_expensive_ai_clients_i/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hey  r/programming ！ 我最近潜入了区块链生态系统中，并需要可靠的AI客户端来帮助Me ai coide codecece coide codecrigation codecrigation codecriged。我发现我以前喜欢的许多GPT客户群都丑陋，要么开始收取订阅费。因此，我在New Gemini 2.5上度过了一个夜晚，并建立了自己的： daan （受汉语单词da&#39;an in Cherine Men的启发的启发。 href =“ https://github.com/pluveto/daan”&gt; https://github.com/pluveto/daan         daan&#39;s  daan&#39;s 目标很简单：简单地提供了无需进行集中的AI对话体验，而无需进行无用的设置。它旨在“插头和播放”。   UI预览： ！[screenshot]（ ![screenshot](https://i.imgur.com/ezKOoAZ.png) It covers the basics: real-time output, custom model selection, dark mode toggle, chat pinning, and more. What Makes daan不同？    轻量级（1MB）：干净，无干扰的对话接口。精美的UI，简单的功能和简单的配置。  输入分隔符（ ---- ）：快速插入历史记录分离器以节省令牌和金钱。   易于编辑＆amp;再生：方便地编辑以前的消息和再生响应。  免费用于商业用途：与API密钥供应商开放并支持自定义：      vite&gt; vite&gt; vite&gt; vite_app_app_name =; daan; daan; （用您的品牌名称替换）vite_app_slogan =“由Ai驱动” （用自定义口号替换）vite_app_logo_url =＆quot;/logo.png; quot; ＃相对于公共目录（也可以更改徽标）的路径   daan可以使用，但某些功能仍在进行中，我很想获得您的反馈和支持。 如果您觉得它有用，请考虑在Github上给它一个 star  github！提交由＆＃32; /u/extx       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k1ze8m/daan_tired_of_ugly_ui_expensive_ai_clients_i/</guid>
+      <pubDate>Fri, 18 Apr 2025 07:46:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Cl-Yasboi于2025年开始一个普通的LISP项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1k1zawh/start_a_common_lisp_project_in_2025_with_clyasboi/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/deepcelibatevalue       [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k1zawh/start_a_common_lisp_project_in_2025_with_clyasboi/</guid>
+      <pubDate>Fri, 18 Apr 2025 07:39:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java系统设计示例 - 医院管理系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1k1xz7b/java_system_design_example_hospital_management/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/eRdsingh24      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k1xz7b/java_system_design_example_hospital_management/</guid>
+      <pubDate>Fri, 18 Apr 2025 06:07:38 GMT</pubDate>
+    </item>
     <item>
       <title>我想了解有关点击欺诈的信息，测谎仪锁定了我的帖子，因为我没有雇用它们。也许这里有老师？</title>
       <link>https://www.reddit.com/r/programming/comments/1k1xsdw/i_want_to_learn_about_click_fraud_polygraph/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k1jn9x/serbia_cellebrite_zeroday_exploit_used_to_target/</guid>
       <pubDate>Thu, 17 Apr 2025 18:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>MCP和LLMS对软件开发的影响 - 一个实际的例子</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1hp4u/the_impact_of_mcp_and_llms_on_software/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/jns111      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1hp4u/the_impact_of_mcp_and_llms_on_software/</guid>
-      <pubDate>Thu, 17 Apr 2025 16:54:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.14语法更新将使您的代码更安全，更好</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1gr2t/python_314_syntax_updates_will_make_your_code/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yangzhou1993     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1gr2t/python_314_syntax_updates_will_make_your_code/</guid>
-      <pubDate>Thu, 17 Apr 2025 16:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化Apache Cassandra中的压实</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1fzwp/optimizing_compaction_in_apache_cassandra/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 - 我最近对Apache Cassandra中压实的深度性能分析进行了深入的性能分析。结果，已经实现了一些更改，大大增加了吞吐量，从而使用户可以运行更密集的节点。该帖子具有分析和优化的详细信息，直到各个文件系统调用以及如何改进它们。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/rustyrazorblade       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1fzwp/optimizing_compaction_in_apache_cassandra/</guid>
-      <pubDate>Thu, 17 Apr 2025 15:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>无磁盘Kafka：80％瘦，100％开放</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1fmd1/diskless_kafka_80_leaner_100_open/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sh_tomer      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1fmd1/diskless_kafka_80_leaner_100_open/</guid>
-      <pubDate>Thu, 17 Apr 2025 15:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>打字稿食谱•Stefan Baumgartner和PeterKröner</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1fc58/typescript_cookbook_stefan_baumgartner_peter/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1fc58/typescript_cookbook_stefan_baumgartner_peter/</guid>
-      <pubDate>Thu, 17 Apr 2025 15:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有目的4：添加模型和关系</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1f482/building_with_purpose_4_adding_the_models_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/jordiolle11   [link] ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1f482/building_with_purpose_4_adding_the_models_and/</guid>
-      <pubDate>Thu, 17 Apr 2025 15:08:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
