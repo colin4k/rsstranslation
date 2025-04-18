@@ -4,7 +4,119 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Apr 2025 15:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 18:02:12 GMT</lastBuildDate>
+    <item>
+      <title>优化Golang的堆分配：一个案例研究</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2bc40/optimizing_heap_allocations_in_golang_a_case_study/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/zachm   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2bc40/optimizing_heap_allocations_in_golang_a_case_study/</guid>
+      <pubDate>Fri, 18 Apr 2025 18:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>分解交易系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b43h/decomposing_transactional_systems/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b43h/decomposing_transactional_systems/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xbox 360和Microsoft Windows的无锁编程注意事项</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b3ns/lockless_programming_considerations_for_xbox_360/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b3ns/lockless_programming_considerations_for_xbox_360/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:51:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>对最近的拜占庭容错算法的调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b3gz/a_survey_of_recent_byzantine_fault_tolerance/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b3gz/a_survey_of_recent_byzantine_fault_tolerance/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:51:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>微秒变换：为用户代码构建快速的沙箱</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b32z/microsecond_transforms_building_a_fast_sandbox/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b32z/microsecond_transforms_building_a_fast_sandbox/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>对Unikernels的思考</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b2o2/reflections_on_unikernels/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b2o2/reflections_on_unikernels/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>常见的外壳脚本错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b2ee/common_shell_script_mistakes/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b2ee/common_shell_script_mistakes/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:49:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Objective-C的主观魅力</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b1v4/the_subjective_charms_of_objectivec/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b1v4/the_subjective_charms_of_objectivec/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:49:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据包的大小</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b0z2/the_size_of_packets/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b0z2/the_size_of_packets/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>ZIG和GPU</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b0rb/zig_and_gpus/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b0rb/zig_and_gpus/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:48:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在运输具有60k代码的项目后，我如何看待LUA？</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b0d7/what_do_i_think_about_lua_after_shipping_a/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b0d7/what_do_i_think_about_lua_after_shipping_a/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:47:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>杰伊四年</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2b02n/four_years_of_jai/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2b02n/four_years_of_jai/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>种植一种语言[PDF]（1998）</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2azhv/growing_a_language_pdf_1998/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2azhv/growing_a_language_pdf_1998/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>C ++慢</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2ayyz/less_slow_c/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2ayyz/less_slow_c/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:45:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>与MongoDB地图集的GraphRag：将知识图与LLMS整合在一起| MongoDB博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1k291lu/graphrag_with_mongodb_atlas_integrating_knowledge/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/majestic_wallaby7374      [link]&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k291lu/graphrag_with_mongodb_atlas_integrating_knowledge/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>对立驱动的测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1k27y0s/antithesis_driven_testing/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/avinassh      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k27y0s/antithesis_driven_testing/</guid>
+      <pubDate>Fri, 18 Apr 2025 15:39:21 GMT</pubDate>
+    </item>
     <item>
       <title>完整的堆栈Instagram克隆与Laravel和MongoDB  - 教程</title>
       <link>https://www.reddit.com/r/programming/comments/1k26uss/full_stack_instagram_clone_with_laravel_and/</link>
@@ -27,123 +139,11 @@
       <pubDate>Fri, 18 Apr 2025 14:17:11 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们只使用AI来创建新的代码与清洁现有的混乱？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k258po/why_are_we_only_using_ai_to_create_new_code_vs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  代码迁移就像清洁房屋一样。我们知道我们必须这样做，但我们希望我们不必这样做。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aviator_co     &lt;a href =“ https://www.reddit.com/r/programming/comments/1k258po/why_are_we_we_we_only_using_ai_ai_to_create_create_new_code_code_vs/”]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k258po/why_are_we_only_using_ai_to_create_new_code_vs/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:42:28 GMT</pubDate>
-    </item>
-    <item>
       <title>使用Yolo和Python建立足球跟踪系统</title>
       <link>https://www.reddit.com/r/programming/comments/1k24tej/building_a_football_tracking_system_with_yolo_and/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/9millionrainydays_91       [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k24tej/building_a_football_tracking_system_with_yolo_and/</guid>
       <pubDate>Fri, 18 Apr 2025 13:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员和DBA找不到和平，但是他们可以称之为休战吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k24n5l/devs_and_dbas_cant_find_peace_but_could_they_call/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   dbas是订单的监护人还是在这里给开发人员很难吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shift_devs     &lt;a href =“ https://www.reddit.com/r/programming/comments/1k24n5l/devs_and_dbas_dbas_cant_find_find_peace_but_but_could_could_they_they_call/”]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k24n5l/devs_and_dbas_cant_find_peace_but_could_they_call/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个项目的自动开关环境？ flyenv魔术nodejs/php/go/pyt ...</title>
-      <link>https://www.reddit.com/r/programming/comments/1k24myf/autoswitch_environments_per_project_flyenv_magic/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/phpwebstudy    href =“ https://youtube.com/watch?v=cpq6i9t6ik4&amp; si = uwby8ceeyz6jx_g”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k24myf/autoswitch_environments_per_project_flyenv_magic/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>健康幸福生活的日常工作（作为软件工程师）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k248q0/routines_for_a_healthy_and_happy_life_as_a/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/gerlacdt      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k248q0/routines_for_a_healthy_and_happy_life_as_a/</guid>
-      <pubDate>Fri, 18 Apr 2025 12:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>建筑与负责技术•丽贝卡·帕森斯（Rebecca Parsons）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k23nh5/architecture_responsible_technology_rebecca/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k23nh5/architecture_responsible_technology_rebecca/</guid>
-      <pubDate>Fri, 18 Apr 2025 12:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>ARXIV从康奈尔服务器移动到Google Cloud</title>
-      <link>https://www.reddit.com/r/programming/comments/1k22pdf/arxiv_moving_from_cornell_servers_to_google_cloud/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sh_tomer      &lt;a href =“ https://www.reddit.com/r/programming/comments/1k22pdf/arxiv_moving_from_cornell_cornell_servers_to_google_google_cloud/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k22pdf/arxiv_moving_from_cornell_servers_to_google_cloud/</guid>
-      <pubDate>Fri, 18 Apr 2025 11:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以给我这个项目中的.jar文件吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k21hpx/could_someone_please_give_me_the_jar_file_out_of/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好亲爱的编程社区， 因为我对所有这些新手都不知道如何从他的项目中汇总.jar文件。用户制作了“男中音”的更新版本。 Minecraft mod和我只需要.jar文件，我可以将其放入mods文件夹中。我在YouTube上查找了教程，但找不到任何适合的教程，所以我最终在这里寻求帮助。 有人可以给我提供邮件中的.jar文件（真诚的memmo   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mission_deer9975       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k21hpx/could_someone_please_give_me_the_jar_file_out_of/</guid>
-      <pubDate>Fri, 18 Apr 2025 10:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>邪恶的言论骇客在Codewars中 - 一种令人发指的解决方案，可以找到国王是否受到检查</title>
-      <link>https://www.reddit.com/r/programming/comments/1k217n0/evil_regex_hacking_in_codewars_an_outrageous/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/the_random_coder       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k217n0/evil_regex_hacking_in_codewars_an_outrageous/</guid>
-      <pubDate>Fri, 18 Apr 2025 09:58:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.14在这里...有什么新功能？新的解释器，新模块等...</title>
-      <link>https://www.reddit.com/r/programming/comments/1k20xf6/python_314_is_here_whats_new_new_interpreter_new/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/python4geeks      [注释]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k20xf6/python_314_is_here_whats_new_new_interpreter_new/</guid>
-      <pubDate>Fri, 18 Apr 2025 09:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我加入了一家已经过时的公司。我应该离开吗？ （请帮忙）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k20qlm/i_joined_a_company_that_is_outdated_should_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在家乡加入了这家公司。这是一个很好的金融科技，在该州几乎没有竞争。但是，他们使用的技术确实过时了。他们使用 vb.net 在大多数情况下。他们根本不使用git或任何版本控制，而是要在每一步中保留一个单独的项目副本！！在代码中进行更改时，它们不应该在旧代码上进行评论，因为它仍然不应该在旧代码上进行评论，因为它仍然是10个，因为它仍然很大，因为这是一个很大的句子，因为它很大，而且它不应该如此。代码。该软件在功能上很好，但是UI是胡扯。它应该做什么太重（这是一种纳税申报软件）。  heck具有太多不必要的功能。即使他们的测试程序也不是行业标准！他们只有2个调用测试，预测试和最终测试。有一些叫做DM测试的东西，但是IDK是什么。他们沉迷于Excel。他们的文档在Excel中。为什么，即使全局变量也在Excel中！它们的组织性过多，并且有太多不必要的数据。直到昨天，他们甚至都使用Skype！，就像，他们不想搬到其他东西上。&lt; /p&gt; 他们迷上了Excel和桌子。每件室友都是在Excel或他们愚蠢的VB应用程序中完成的，上面有100列。&lt; /p&gt; 他们的所有应用看起来像他们已经从90年代出来了，非常沉重且缓慢。我讨厌它！！公司并寻找一些训练营之类的东西？体验会帮助我吗？我会和很多公司（像班加罗尔这样的硅谷）去一个城市吗？我确实有机会加入附近一家初创公司的Devops工程师。认知也有一个空缺。我很困惑。请帮助  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/shadow_drive2003   [link] ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k20qlm/i_joined_a_company_that_is_outdated_should_i/</guid>
-      <pubDate>Fri, 18 Apr 2025 09:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>🛡️刷新，限制，注销：掌握auth Flow和基于角色的访问在node.js中</title>
-      <link>https://www.reddit.com/r/programming/comments/1k20cdw/refresh_restrict_logout_mastering_auth_flows/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://medium.com/nextgen-dev-labs/%EF%B8%B8%8f-refresh-fresh-fresh-fresh-lestrict-logout-mastering-mastering-auth-auth-flows-基于 - 基于 - 访问-node-js-87E3B48F1157？source = friends_link＆amp; sk = 3222a3ae08f2718fe4fe4f842f0ae444444af24&gt; [link]    ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k20cdw/refresh_restrict_logout_mastering_auth_flows/</guid>
-      <pubDate>Fri, 18 Apr 2025 08:56:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何编译此GitHub项目的.jar文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1k200kf/how_can_i_compile_a_jar_file_outof_this_github/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好亲爱的编程社区， 因为我对所有这些新手都不知道如何从他的项目中汇总.jar文件。用户制作了“男中音”的更新版本。 Minecraft mod和我只需要.jar文件，我可以将其放入mods文件夹中。我在YouTube上查找了教程，但找不到任何适合的教程，所以我最终在这里寻求帮助。 感谢您的帮助 真诚的memmo    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mission_deer9975       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k200kf/how_can_i_compile_a_jar_file_outof_this_github/</guid>
-      <pubDate>Fri, 18 Apr 2025 08:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个离线推理引擎桌面应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1zvdh/i_made_an_offline_inference_engine_desktop_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我的一个激情项目，因为几年前本地AI模型首次发行，这是我一直在研究的。它允许您运行LLM，语音和艺术模型。您可以创建聊天机器人，素描并将其变成艺术等。它是用纯Python编写的，并使用Hugginface，LlamainDex和Pyside6。 包装版本可以由非技术用户下载并运行。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/w00fl35       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1zvdh/i_made_an_offline_inference_engine_desktop_app/</guid>
-      <pubDate>Fri, 18 Apr 2025 08:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>da'an：厌倦了丑陋的UI和昂贵的AI客户？我建立了一个小的开源替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1ze8m/daan_tired_of_ugly_ui_expensive_ai_clients_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hey  r/programming ！ 我最近潜入了区块链生态系统中，并需要可靠的AI客户端来帮助Me ai coide codecece coide codecrigation codecrigation codecriged。我发现我以前喜欢的许多GPT客户群都丑陋，要么开始收取订阅费。因此，我在New Gemini 2.5上度过了一个夜晚，并建立了自己的： daan （受汉语单词da&#39;an in Cherine Men的启发的启发。 href =“ https://github.com/pluveto/daan”&gt; https://github.com/pluveto/daan         daan&#39;s  daan&#39;s 目标很简单：简单地提供了无需进行集中的AI对话体验，而无需进行无用的设置。它旨在“插头和播放”。   UI预览： ！[screenshot]（ ![screenshot](https://i.imgur.com/ezKOoAZ.png) It covers the basics: real-time output, custom model selection, dark mode toggle, chat pinning, and more. What Makes daan不同？    轻量级（1MB）：干净，无干扰的对话接口。精美的UI，简单的功能和简单的配置。  输入分隔符（ ---- ）：快速插入历史记录分离器以节省令牌和金钱。   易于编辑＆amp;再生：方便地编辑以前的消息和再生响应。  免费用于商业用途：与API密钥供应商开放并支持自定义：      vite&gt; vite&gt; vite&gt; vite_app_app_name =; daan; daan; （用您的品牌名称替换）vite_app_slogan =“由Ai驱动” （用自定义口号替换）vite_app_logo_url =＆quot;/logo.png; quot; ＃相对于公共目录（也可以更改徽标）的路径   daan可以使用，但某些功能仍在进行中，我很想获得您的反馈和支持。 如果您觉得它有用，请考虑在Github上给它一个 star  github！提交由＆＃32; /u/extx       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1ze8m/daan_tired_of_ugly_ui_expensive_ai_clients_i/</guid>
-      <pubDate>Fri, 18 Apr 2025 07:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Cl-Yasboi于2025年开始一个普通的LISP项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1zawh/start_a_common_lisp_project_in_2025_with_clyasboi/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/deepcelibatevalue       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1zawh/start_a_common_lisp_project_in_2025_with_clyasboi/</guid>
-      <pubDate>Fri, 18 Apr 2025 07:39:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java系统设计示例 - 医院管理系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1k1xz7b/java_system_design_example_hospital_management/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/eRdsingh24      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k1xz7b/java_system_design_example_hospital_management/</guid>
-      <pubDate>Fri, 18 Apr 2025 06:07:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

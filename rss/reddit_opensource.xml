@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 18 Apr 2025 15:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 18:02:23 GMT</lastBuildDate>
+    <item>
+      <title>我最近更新了我的小型自我托管笔记本电脑，如果您有任何改进建议，我有兴趣！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k2axib/i_recently_updated_my_little_selfhosted_markdown/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/p0uletenslip      [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k2axib/i_recently_updated_my_little_selfhosted_markdown/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>可搜索的标记库 /知识库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k2a16v/searchable_taggable_library_knowledgebase/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找解决资源的解决方案，需要支持标记，对项目发表评论和过滤。这些将包括书签，文章，必须易于搜索。  我遇到了视觉书签经理，但我不确定它们是否合适。 基本上是资源知识库 - 卡片/画廊，例如Visual System。可搜索和协作。 奖金如果可以自动从网站链接显示图像预览。有什么建议吗？  当前我们使用概念和Google表，但似乎不能很好地工作 预先感谢您  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/romaz96     [link]      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k2a16v/searchable_taggable_library_knowledgebase/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我们可以超越GREP和基本的“查找用法”来真正查询整个代码库中的深层结构关系，该怎么办？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k29t7s/what_if_we_could_move_beyond_grep_and_basic_find/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 想知道在复杂环境中编码的未来。 我们都熟悉试图掌握复杂代码库的标准工具的限制。 GREP查找文本，IDE“查找用法”找到直接的呼叫者，但是了解深层，间接的关系或在许多文件中更改的真正影响仍然是一个挑战。代码搜索的标准抹布/矢量方法也错过了这种结构上的细微差别。  我们的实验：动态的，特定于项目的知识图（kgs）  我们正在尝试建立项目特定的kgs fly，通常在IDE或连接的服务中。我们将代码库（使用树，使用树，LSP数据等）解析，以表示功能，类，依赖项，类型等为结构化的节点和边缘：      nodes：函数，类，变量，变量，界面，界面，模块，文件，类型... use_symbol，returns_type，has_parameter_type ...    ，而不仅仅是静态图或基本搜索，此kg可以由devs：       示例查询（示例example query（影响分析）函数（name =&#39;utils.core.process_data&#39;）通过（呼叫* | use_return_type*）作为下游 （查找所有直接/间接呼叫者和返回类型的消费者）               example example example query（em&gt; epenty ecterency check ） “域”和f-呼叫 - ＆gt; Node N WHERE N.module.layer = &#39;Infrastructure&#39; (Find domain functions directly calling infrastructure layer code)  This allows us to ask precise, complex questions about the codebase structure and get definitive answers based on the parsed relationships, unlocking better code comprehension, and potentially a richer context source for future AI coding代理。 很乐意在我们的KG建筑管道和查询接口实验上分享技术细节！  P.S。考虑到有关使用kgs进行代码分析的更深入的文章＆amp;了解是否有兴趣：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/juanviera23      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k29t7s/what_f_f_we_could_move_beyond_beyond_berep_grep_and_basic_basic_find/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k29t7s/what_if_we_could_move_beyond_grep_and_basic_find/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:57:46 GMT</pubDate>
+    </item>
     <item>
       <title>我们可以在Opensource MIT上有NDA吗</title>
       <link>https://www.reddit.com/r/opensource/comments/1k26vxb/can_we_have_nda_on_opensource_mit/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我已经构建了一个开源CLI工具，以防止我在Linux Machine上通过终端处理Wi-Fi的时间太多的过程。 我想构建一些非常容易使用的东西。那是因为当我在笔记本电脑上工作时，有时需要切换访问点并使用Linux上的默认工具，这是一个真正的痛苦！但是有了这个工具，就不再了。  因此，如果您有相同的问题或其他问题，请在我的github上查看：  ＆＃32;提交由＆＃32; /u/vistahm     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k1apgd/easier_wifi_control_on_linux_for_terminal_dudes/</guid>
       <pubDate>Thu, 17 Apr 2025 11:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear⚙️25.04在海豚，Kdenlive，Okular，Iterinerary，Kde Connect，Tokodon等方面具有新的令人兴奋的功能和改进的降落。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k19bw0/kde_gear_2504_is_out_with_new_exciting_features/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/bro666      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k19bw0/kde_gear_2504_is_is_with_with_with_new_new_exciting_features/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k19bw0/kde_gear_2504_is_out_with_new_exciting_features/</guid>
-      <pubDate>Thu, 17 Apr 2025 10:19:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有基于Windows Phone的MSN天气应用程序的开源版本？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k1913z/is_there_an_open_source_version_of_the_msn/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道，因为我有一个Windows Phone，并且我真的很喜欢此应用程序，所以我去看看Android版本是什么样的，它的样子并不相同。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kyrort_   href =“ https://www.reddit.com/r/opensource/comments/1k1913z/is_there_there_an_open_source_source_source_version_of_the_msn/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k1913z/is_there_an_open_source_version_of_the_msn/</guid>
-      <pubDate>Thu, 17 Apr 2025 09:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源自托管密码管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k186bv/open_source_self_hosted_password_manager/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  自从第一个版本以来，我就使用了RoboForm作为选择的密码管理器，坦率地说，它为我提供了很好的服务。但是，凭借世界上不稳定的政治局势，特别是在美国，我不再相信美国公司会保留我的密码，安全笔记和其他信息免于窥视眼睛，而且即使我是欧洲人，也只有一项行政命令，即使我的隐私完全渗透。是的，我知道Google已经对我了解了一切，但是让我至少有隐私的幻想：P所以，我正在为具有这些功能的自托管的开放式密码管理器提供建议：   插件的所有主要浏览器的插件  覆盆子Pi 5（或类似） 是开源的，具有一个良好且大的社区，可以访问帮助，但也可以放心，审查源代码 相对容易设置和管理 需要支持密码，并提供了一个良好的文件          &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/jboneng     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k186bv/open_source_self_hosted_password_manager/</guid>
-      <pubDate>Thu, 17 Apr 2025 08:55:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
