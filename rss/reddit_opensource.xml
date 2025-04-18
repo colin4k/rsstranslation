@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 18 Apr 2025 12:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 15:02:38 GMT</lastBuildDate>
+    <item>
+      <title>我们可以在Opensource MIT上有NDA吗</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k26vxb/can_we_have_nda_on_opensource_mit/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我在一个项目中为FPV使用IPCAM做出了贡献，并且许多Othe Thing，对于FPV部分中，我们在视频传输系统（OpenIPC）中免费开发，但是我们也知道制造商也工作，但是这项工作在NDA下可以访问源代码。该项目使用Majestic（不是开源的）和Sigmastar HW，我对Liscence不了解。从事一个项目，并知道品牌，制造商开发器，但没有使他们有用，它们对我来说很奇怪。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/selver_annual_8614      [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k26vxb/can_we_have_nda_on_opensource_mit/</guid>
+      <pubDate>Fri, 18 Apr 2025 14:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>孩子们上床睡觉后，建造了一个骨全史代码生成器（WIP）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k25isz/built_an_oss_fullstack_code_generator_after_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，你们只是想分享一个小项目，我在过去几周里一直在黑客。 它叫做boom！脚手架。 It&#39;s a CLI that takes a database schema and spits out a production-ready app scaffold in seconds. Right now it supports:  GraphQL + Knex backend React + Apollo frontend Tailwind + hook-based UI config Fully typed, clean file output CLI-based generation from config or模式  路线图：   ollama驱动的本地AI脚手架  ci/cd + cloudops  支持其他语言＆amp;框架（GO，Java，Vue，Svelte等）  这是针对更结构化的应用，而不仅仅是原型化的。思考具有角色，钩子，服务，下文的功能齐全的应用程序，而不仅仅是杂乱无章的文件模板。 我正在寻求尽快开源/全部开源，并且会喜欢：   beta beta testers  贡献者 contutors   schema-first曲折，我很想听听您的想法。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/necter-etem-item-547     [link]     32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k25isz/built_an_oss_fullstack_code_generator_after_the/</guid>
+      <pubDate>Fri, 18 Apr 2025 13:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在使用Python构建的简单离线文件加密工具上寻求反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k24jal/seeking_feedback_on_a_simple_offline_file/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用Python开发直接的文件加密工具。主要目标是创建一个轻巧的应用程序，该应用程序允许用户在不依赖外部服务的情况下在本地加密和解密文件。 该工具利用了密码库，并提供了简约的GUI以易于使用。这是完全开源的，我渴望收集您的反馈。 我特别感兴趣：•提出改善用户界面或用户体验的建议。 •有关代码结构和最佳实践的反馈。 •具有可以增强功能的其他功能的想法。 ￼ 我感谢您可能有的任何见解或建议！   ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k24jal/seeking_feedback_oon_a_a_a_simple_offline_file/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k24jal/seeking_feedback_on_a_simple_offline_file/</guid>
+      <pubDate>Fri, 18 Apr 2025 13:09:04 GMT</pubDate>
+    </item>
     <item>
       <title>Dell Inspirion 5000系列A40串行模型计算机的任何开源BIOS替代品（计算机已经在专有BIOS的边缘处处于边缘状态）</title>
       <link>https://www.reddit.com/r/opensource/comments/1k230oz/any_opensource_bios_alternative_to_a_dell/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  自从第一个版本以来，我就使用了RoboForm作为选择的密码管理器，坦率地说，它为我提供了很好的服务。但是，凭借世界上不稳定的政治局势，特别是在美国，我不再相信美国公司会保留我的密码，安全笔记和其他信息免于窥视眼睛，而且即使我是欧洲人，也只有一项行政命令，即使我的隐私完全渗透。是的，我知道Google已经对我了解了一切，但是让我至少有隐私的幻想：P所以，我正在为具有这些功能的自托管的开放式密码管理器提供建议：   插件的所有主要浏览器的插件  覆盆子Pi 5（或类似） 是开源的，具有一个良好且大的社区，可以访问帮助，但也可以放心，审查源代码 相对容易设置和管理 需要支持密码，并提供了一个良好的文件          &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/jboneng     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k186bv/open_source_self_hosted_password_manager/</guid>
       <pubDate>Thu, 17 Apr 2025 08:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sponsube是免费的吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k17byt/is_spotube_free/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我持怀疑态度使用此应用程序，因为它“本月欠艺术家”，就像我必须付费吗？提交由＆＃32;  /u/Seen-pai   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k17byt/is_spotube_free/</guid>
-      <pubDate>Thu, 17 Apr 2025 07:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>vectordb-cli：我内置的语义代码搜索工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k0ynrt/vectordbcli_a_semantic_code_search_tool_i_built/</link>
-      <description><![CDATA[Hey y&#39;all I wanted to share a tool I&#39;ve been working on that has really helped me navigate complex codebases. What it is: VectorDB-CLI is a command-line tool that performs semantic code search across your local Git repositories, leveraging embedding models to understand the meaning behind your code.所有这些都在本地运行，但也支持服务器模式。  关键功能：  使用本地onnx型号（无api依赖关系）  syntax-austry at rust，python，python，javascript，yam cobscript，rubi yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam yam javaScript-javaScript- 多重复和分支感知索引 使用自然语言查询搜索“我们如何处理身份验证错误？”它将检索最相关的代码片段  linux（CUDA）上的GPU加速度和Mac（Metal）   i在Claude 3.7和Gemini 2.5的帮助下，在2.5周内用光标构建了这一数字，并撰写了约12,700条生锈线。令人着迷的是，看到不同的AI助手如何相互补充 - 双子座在快速靶向解决方案方面表现出色，而Claude更适合实施，需要仔细注意细节。 该项目已许可并在GitLab. I&#39;ve just added a gRPC layer so it can be integrated with any programming language, making it easier to build coding agents or other AI tools on top of it. Would love to hear your thoughts or answer any questions! &lt;!-- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lingualearnai   href =“ https://www.reddit.com/r/opensource/comments/1k0ynrt/vectordbcli_a_a_semantic_code_search_search_tool_i_built/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k0ynrt/vectordbcli_a_a_semantic_code_code_search_search_tool_i_built/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k0ynrt/vectordbcli_a_semantic_code_search_tool_i_built/</guid>
-      <pubDate>Wed, 16 Apr 2025 23:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个快速的本地桌面UI，用于本地转录音频和视频，使用窃窃私语</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k0xgm0/i_made_a_fast_native_desktop_ui_for_locally/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   使用窃窃私语转录音频和视频的快速的本机桌面UI  - 完全建在现代C ++和QT中。我将定期使用更多功能进行更新。   https://github.com/github.com/mehtabmahir/mehtabmahir/mehtabmahir/easy-whisper-ui   100多种语言（不是在中结尾的模型.en 喜欢 MEDID.EN ）   批处理处理  - 在多个文件中拖动，一次选择几个，或使用“使用”在多个项目上；他们将自动运行。  安装人员可以处理所有内容  - 下载依赖项，编译并优化了您的系统的耳语。   完全C ++实施  - 没有python，没有python，没有脚本，没有脚本，没有cli&gt; cli ful&gt; vuland&gt; vivan&gt; cascely&gt; gpel&gt; gpe y&gt; gpe y&gt; gpel y&gt; intel或nvidia。   drag＆amp; drop ，使用打开，或单击“打开文件”。 - 加载媒体的多种方法。  自动转换   .mp3 （如果需要使用ffmpeg。   下拉菜单选择模型（例如 en). Textbox for extra Whisper arguments if you want advanced control. Auto-downloads missing models from Hugging Face. Real-time console output while transcription is running. Transcript opens in Notepad when完成。 在 .txt  和/或  .srt  .srt  输出（使用时间戳！）。   &gt;   要求         GPU包括集成图形）＃设置   从“发行版”页面上下载最新的安装程序。 运行该应用程序 - 就是这样。 href =“ http://gyan.dev”&gt; gyan.dev   使用qt  使用Inno设置    构建的安装程序，如果您曾经想要一个简单的天然应用程序 ，请让您快速地了解您的所有东西，让我想到 &lt;我会想到/u/u/mehtabmahir     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k0xgm0/i_made_a_fast_native_desktop_ui_for_locally/</guid>
-      <pubDate>Wed, 16 Apr 2025 22:32:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
