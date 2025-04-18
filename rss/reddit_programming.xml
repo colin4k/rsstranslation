@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Apr 2025 18:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 21:02:11 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个工具，以便于发现新的GitHub存储库。</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2f7qi/built_a_tool_for_easier_discovery_of_new_github/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我喜欢告知在github上发布的新工具/应用程序，因此，基本上每个月，我都滚动浏览一些我感兴趣的主题。 寻找新事物。一旦加载了存储库后，您就可以将其标记为（并隐藏）或将其粘贴在列表的顶部。 您可以在集合或特定的github主题中设置星星限制，并且它将获得所有超过该星星的存储库。您也可以单击列表中的主题名称，并将其添加到集合中。 所有内容都保存在本地存储中，因为我太便宜了，无法使用数据库。您还必须提供自己的令牌，尽管它不需要任何许可。 我希望有人会像我一样有用。让我知道您的想法！源代码： https://github.com/patrycju/githubie 提交由＆＃32; /u/u/zuberuber      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2f7qi/built_a_tool_for_easier_discovery_of_new_github/</guid>
+      <pubDate>Fri, 18 Apr 2025 20:47:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚启动：Shadowvision  - 您的私人AI编码助手</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2f45t/just_launched_shadowvision_your_private_ai_coding/</link>
+      <description><![CDATA[Just Launched: ShadowVision – Your Private AI Coding Assistant After months of work, I&#39;m excited to share my latest app: ShadowVision! It’s an AI-powered coding assistant that helps you write better code by analyzing your screen in real time — but here’s the twist… It stays completely hidden during screen shares.只有您在编码时才能看到它。 Perfect for interviews, presentations, pair programming, or just when you need a quiet coding partner. What ShadowVision can do: Detects issues and suggests code improvements as you work Works silently in the background, visible only to you Cross-platform – Web, Mobile, TV, and more Comes with premium support for quick help and personal调整 检查一下： https://shadowvision.online    如果您是开发人员，学生，或者只是好奇，我喜欢您的反馈。随时分享或直接给我发消息！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/boobosa253       [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2f45t/just_launched_shadowvision_your_private_ai_coding/</guid>
+      <pubDate>Fri, 18 Apr 2025 20:42:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>META MCP：通过及时驱动的参数链接工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2ev0o/meta_mcp_chaining_tools_via_promptdriven_arguments/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这篇文章探讨了可以在单个请求中链接多个工具的MCP工具的概念，其中每个工具的参数可以根据先前工具的输出的提示进行动态生成。    &lt;！ -  sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/u/cefor111      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2ev0o/meta_mcp_chaining_tools_via_promptdriven_arguments/</guid>
+      <pubDate>Fri, 18 Apr 2025 20:31:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>赢的功能标志：将代码部署到启动功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2cfpp/feature_flags_for_the_win_decoupling_code/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/madflojo     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2cfpp/feature_flags_for_the_win_decoupling_code/</guid>
+      <pubDate>Fri, 18 Apr 2025 18:47:14 GMT</pubDate>
+    </item>
     <item>
       <title>优化Golang的堆分配：一个案例研究</title>
       <link>https://www.reddit.com/r/programming/comments/1k2bc40/optimizing_heap_allocations_in_golang_a_case_study/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/avinassh      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k27y0s/antithesis_driven_testing/</guid>
       <pubDate>Fri, 18 Apr 2025 15:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>完整的堆栈Instagram克隆与Laravel和MongoDB  - 教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1k26uss/full_stack_instagram_clone_with_laravel_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/majestic_wallaby7374      [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k26uss/full_stack_instagram_clone_with_laravel_and/</guid>
-      <pubDate>Fri, 18 Apr 2025 14:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级建筑师的5种行为</title>
-      <link>https://www.reddit.com/r/programming/comments/1k26p9w/5_behaviors_of_top_architects/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  成为建筑师的不小于控制，而更多地与编排有关。从积极聆听系统思维和领导变化，这篇文章将探讨了五种关键行为，这些行为有助于建筑师在混乱的环境中蓬勃发展。借助轶事，课程和实用技巧，它是那些塑造更大局面的人的指南。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fuzzyad9554    href =“ https://blog.hatemzidi.com/2024/10/10/28/5-behaviors-of-top-architects/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k26p9w/5_behaviors_of_top_architects/</guid>
-      <pubDate>Fri, 18 Apr 2025 14:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何成为（反）英雄</title>
-      <link>https://www.reddit.com/r/programming/comments/1k260qe/how_to_be_a_anti_hero/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/mixteenth      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k260qe/how_to_be_a_anti_hero/</guid>
-      <pubDate>Fri, 18 Apr 2025 14:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Yolo和Python建立足球跟踪系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1k24tej/building_a_football_tracking_system_with_yolo_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/9millionrainydays_91       [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k24tej/building_a_football_tracking_system_with_yolo_and/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
