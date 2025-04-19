@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 19 Apr 2025 03:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 06:02:45 GMT</lastBuildDate>
+    <item>
+      <title>我需要一个很酷的开源项目（请）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k2oiuo/i_needed_a_cool_open_source_project_for_a_event/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图用指纹替换ATM卡的想法来构建自己的项目，但指纹传感器的成本很高，移动传感器无法正常工作。还有一个财务管理应用程序，但它饱和且无聊的话题，所以我把它遗漏了 你们看过任何很酷的项目，请分享。这是我证明自己的最后机会... :(   &lt;！ -  sc_on-&gt;＆＃32;  [link] href =“ https://www.reddit.com/r/opensource/comments/1k2oiuo/i_neededed_a_cool_open_source_project_project_project_for_a_event/”&gt; [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k2oiuo/i_needed_a_cool_open_source_project_for_a_event/</guid>
+      <pubDate>Sat, 19 Apr 2025 04:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOSS替代Go​​ogle的嗡嗡声/口哨搜索？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k2ob2n/foss_alternative_to_googles_humwhistle_search/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/dansavagegamesyt     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k2ob2n/foss_alternative_to_googles_humwhistle_search/</guid>
+      <pubDate>Sat, 19 Apr 2025 04:39:40 GMT</pubDate>
+    </item>
     <item>
       <title>构建了一个工具，以便于发现新的GitHub存储库。</title>
       <link>https://www.reddit.com/r/opensource/comments/1k2ew97/built_a_tool_for_easier_discovery_of_new_github/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  标题所说，我对您的projcet中使用的如何以及何时为信用库有疑问。假设我有一个我想在麻省理工学院许可的申请。我们可以假设我使用了一些框架和库，例如Spring Boot，Vue，Redis和Mapstruct。所有这些本身都有许可证，我不明白的是何时何时，如果我在申请中使用这些许可证。我是否必须在自己的项目中明确包含这些许可证的每个许可？我可以使用“名称 - 许可证 -  link”创建一个简单的信用。或什么是信用第三方图书馆的正确方法。我试图浏览其他较大的开源项目，例如Vue的Git Repo，但没有发现任何信用，只有他们自己的许可证。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tedthebusinessman     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k1f0u7/1k1f0u7/how_to_credit_third_third_party_party_libraries_in_iyour_open/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k1f0u7/how_to_credit_third_party_libraries_in_your_open/</guid>
       <pubDate>Thu, 17 Apr 2025 15:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>keepass同步应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k1eg82/app_for_keepass_sync/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨。离线时，我会出现同步keepass的问题。 I&#39;m creating a program using Python and pyqt5/6 to:  Create a system tray icon Monitor the .kdbx file with a watchdog Sync with rsync when it detects changes Display basic logs in a tooltip or in a small popup if it fails, which notifies me  我想向某些人寻求此任务的帮助，因为我比开发人员更像是一个sysadmin。 如果有人想提供帮助，我目前在本地有此代码，我将其上传到我的github。提交由＆＃32; /u/u/jrodenas     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k1eg82/app_for_keepass_sync/</guid>
-      <pubDate>Thu, 17 Apr 2025 14:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关基于SMIL的开源数字标牌管理套件的合作者。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k1dmxz/looking_for_collaborators_about_a_smilbased/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  自11月以来，我一直在使用围绕SMIL（同步的多媒体集成语言）建立的数字标牌管理套件。  它旨在处理内容调度，远程设备控制和多区域布局，同时使事物轻巧且可扩展。 关于我：我已经是10年的开源软件开发人员，并且是该行业的公司创始人。数字标牌是关于用屏幕替换标志，以进行公共显示，广告，娱乐或信息。 ，目标是创建一个可以自我主持的东西，专注于互操作性 - 因为SMIL是开放的标准。云解决方案对德国 /欧洲的客户的吸引力降低了。当前的OSS解决方案是复杂的，过时的或试图强迫您进入他们的云。 如果您曾经对数字标牌进行修补，我很想听听您的想法。欢迎贡献，文件或评论。不要试图出售任何东西，只是分享，以防万一对他人的项目有用！   MVP应该在六月左右准备就绪。当前工作：  简单登录 更改密码 通过本地，远程，屏幕截图，相机，pexels，pexels，pexels，pixabay和Unsplash api  图像，视频，pdfs，pdfs，数字标志台面和播放媒体播放&gt;嵌套播放列表 做：播放列表导出到Smil。简单的设备管理   您将在GitHub Project readme中找到更多信息。 问候Niko   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sagiadinos       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k1dmxz/looking_for_collaborators_about_a_smilbased/</guid>
-      <pubDate>Thu, 17 Apr 2025 14:05:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

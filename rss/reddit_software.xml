@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 19 Apr 2025 03:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 06:02:24 GMT</lastBuildDate>
+    <item>
+      <title>努力使Windows 10 Pro远程桌面上班</title>
+      <link>https://www.reddit.com/r/software/comments/1k2ox87/struggling_to_get_windows_10_pro_remote_desktop/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题所述，我最近才购买了HP Elitedesk，用于为我和几个朋友托管服务器。精英的已经使用了Windows 10 Pro，因此远程桌面已经处于活动状态。 自那以后，我更改了防火墙设置，并且只是完全禁用它们并连接，但仍然没有。  我将要连接的主PC无法通过网络选项卡（File Explorer中的一个）连接到它，因此我修复了防火墙中的入站和出站文件分辨规则，但已修复了这一点，但是它并没有帮助远程桌面情况。从那时起，Windows在尝试解决该问题方面并不是很有帮助，因为我无法再尝试诊断它。 我尝试通过本地IP地址和计算机名称进行连接，但都没有使用。我计划更改端口并制作它，以便我可以在任何地方访问此台式机，但至少希望首先在本地工作。 Both of the computers are on the exact same WIFI network and are also both plugged into the same router via ethernet. I have made sure on the elitedesk to make sure that remote connections are allowed and all of that as well, I&#39;ve also double checked my IPv4 via ipconfig and also flushed my dns server while I was at it. The only error message that I continue getting is when I&#39;m trying to connect, and it简单地说： &#39;远程桌面无法连接到远程计算机的原因之一：  1）未启用对服务器的远程访问 2） 2）远程计算机已关闭 3）远程计算机在网络上不可用&gt;确保远程计算机在网络上不可用来 是否可以连接到 如果远程访问，如果则。帮助，我真的很感激，因为我真的很困惑，因为启用了远程访问，计算机已打开，并且在网络上可以使用，因为我可以在文件资源管理器中看到它？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/hipops     [link]   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k2ox87/struggling_to_get_windows_10_pro_remote_desktop/</guid>
+      <pubDate>Sat, 19 Apr 2025 05:19:35 GMT</pubDate>
+    </item>
     <item>
       <title>Sketchyvim的Linux等效物，用于任何文本框中的VIM模态编辑？</title>
       <link>https://www.reddit.com/r/software/comments/1k2k2ga/linux_equivalents_of_sketchyvim_for_vim_modal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿，  我有一些基本的电子邮件需求，但是到目前为止，还没有免费程序能够满足所有内容。也许你们可以帮忙！ ：） 这是我需要的：  基本联系信息，例如名称，公司，角色和电子邮件 动态字段（例如，[name]） 能够保存3个模板   基本自动化（例如， to&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; 具体：应接触模板1 在第1周上，星期二上午10:00，  模板2 在第2周上，星期二10:00 am，，，等等。 谢谢！ ❤️  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/weedInjector   href =“ https://www.reddit.com/r/software/comments/1k1k6mv/looking_for_a_a_lightweight_and_and_free_email_email_program/”&gt; [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k1k6mv/looking_for_a_lightweight_and_free_email_program/</guid>
       <pubDate>Thu, 17 Apr 2025 18:35:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>ISO免费远程桌面，带多个显示支持</title>
-      <link>https://www.reddit.com/r/software/comments/1k1i0mf/iso_free_remote_desktop_w_multiple_display_support/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用Parsec在工作/外面的时候访问我的家用PC，而且工作正常，除了我在家用PC上有两个显示器，最近我还为笔记本电脑选择了第二个显示屏。我将不得不升级到他们的高级订阅以使用多个监视器，寻找免费的替代  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/doodleman212     [links]      &lt;a href =“ https://www.reddit.com/r/software/comments/1k1i0mf/iso_free_remote_remote_desktop_w_multiple_display_display_support/]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k1i0mf/iso_free_remote_desktop_w_multiple_display_support/</guid>
-      <pubDate>Thu, 17 Apr 2025 17:07:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
