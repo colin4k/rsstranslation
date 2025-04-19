@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 19 Apr 2025 09:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 12:03:45 GMT</lastBuildDate>
+    <item>
+      <title>node.js中的流媒体与普通文件操作：深度潜水</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2u3q7/streaming_vs_normal_file_operations_in_nodejs_a/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/unefamous-rub-3799       [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2u3q7/streaming_vs_normal_file_operations_in_nodejs_a/</guid>
+      <pubDate>Sat, 19 Apr 2025 11:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>CAP定理：关于分布式系统的硬真相</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2u05a/cap_theorem_the_hard_truth_about_distributed/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/unefamous-rub-3799       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2u05a/cap_theorem_the_hard_truth_about_distributed/</guid>
+      <pubDate>Sat, 19 Apr 2025 11:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型应用模板</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2tmmv/large_application_template/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，我已经为较大项目准备了一个模板项目。 它由：  孤立的业务逻辑  事件）  它用于API使用`flask&#39;，但可以轻松地用任何其他框架替换。  我的作用是什么？     没什么壮观，它是一个壮观的模板，很容易开始其他复杂的项目。       比较：  其他模板没有显示概念既不是域驱动的设计，也不是干净的体系结构概念。 我希望您喜欢它！   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32;  /u/mglowinski93   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2tmmv/large_application_template/</guid>
+      <pubDate>Sat, 19 Apr 2025 10:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>实践中的后QL超级大国</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2t11l/postgresql_superpowers_in_practice/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/Adventurous-salt8514        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2t11l/postgresql_superpowers_in_practice/</guid>
+      <pubDate>Sat, 19 Apr 2025 10:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>实际反应如何在幕后工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2sk3x/how_actually_react_works_behind_the_scenes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   20分钟阅读有关反应如何在幕后工作的内容。花了一些时间将它们放在一起，我认为这是一个扎实的读物。 我也很想得到一些反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/federalrace5393      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2sk3x/how_actually_react_works_behind_the_scenes/</guid>
+      <pubDate>Sat, 19 Apr 2025 09:37:20 GMT</pubDate>
+    </item>
     <item>
       <title>您在哪里购买自己喜欢的编程主题咖啡杯？</title>
       <link>https://www.reddit.com/r/programming/comments/1k2s183/where_do_you_buy_your_favorite_programmingthemed/</link>
@@ -83,7 +118,7 @@
       <pubDate>Fri, 18 Apr 2025 23:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub -AN -DR/Microlog：一个轻量级，可自定义的日志记录库。只有两个文件。与C ++和大多数主要编译器兼容。</title>
+      <title>github -an -dr/Microlog：一个轻量级，可自定义的日志记录库。只有两个文件。与C ++和大多数主要编译器兼容。</title>
       <link>https://www.reddit.com/r/programming/comments/1k2huc9/github_andrmicrolog_a_lightweight_customizable/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/agramakov       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k2huc9/github_andrmicrolog_a_lightweight_customizable/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这篇文章探讨了可以在单个请求中链接多个工具的MCP工具的概念，其中每个工具的参数可以根据先前工具的输出的提示进行动态生成。    &lt;！ -  sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/u/cefor111      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k2ev0o/meta_mcp_chaining_tools_via_promptdriven_arguments/</guid>
       <pubDate>Fri, 18 Apr 2025 20:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>赢的功能标志：将代码部署到启动功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2cfpp/feature_flags_for_the_win_decoupling_code/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/madflojo     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2cfpp/feature_flags_for_the_win_decoupling_code/</guid>
-      <pubDate>Fri, 18 Apr 2025 18:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化Golang的堆分配：一个案例研究</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2bc40/optimizing_heap_allocations_in_golang_a_case_study/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/zachm   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2bc40/optimizing_heap_allocations_in_golang_a_case_study/</guid>
-      <pubDate>Fri, 18 Apr 2025 18:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>分解交易系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2b43h/decomposing_transactional_systems/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2b43h/decomposing_transactional_systems/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox 360和Microsoft Windows的无锁编程注意事项</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2b3ns/lockless_programming_considerations_for_xbox_360/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2b3ns/lockless_programming_considerations_for_xbox_360/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>对最近的拜占庭容错算法的调查</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2b3gz/a_survey_of_recent_byzantine_fault_tolerance/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2b3gz/a_survey_of_recent_byzantine_fault_tolerance/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:51:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
