@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Apr 2025 21:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 00:04:33 GMT</lastBuildDate>
+    <item>
+      <title>我使用LLM建议建立了一个网站。就是这样。没有炒作，没有大惊小怪。</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2j1g5/i_built_a_website_with_my_llm_recommendations/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了它，因为我找不到一个简单的地方，只是说：“现在就使用它。”所以我做了一个。该网站的存在是与所有AI Hypebeasts和无尽基准的对立。 如果您不想追逐每一个趋势，但仍然需要强烈的结果，这是给您的。 是什么赋予了我权利？老实说：什么都没有。我只是一名软件工程师，每天都使用LLM，并不断寻找实际有效的方法。这些是我信任的模型，也许它们也会为您工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/jimmy_dean559       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2j1g5/i_built_a_website_with_my_llm_recommendations/</guid>
+      <pubDate>Fri, 18 Apr 2025 23:45:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试器是一个调试器是调试器</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2ilmi/a_debugger_is_a_repl_is_a_debugger/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/alexeyr   href =“ https://matklad.github.io/2025/03/25/debugger-is-repl-is-repl-is-debugger.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2ilmi/a_debugger_is_a_repl_is_a_debugger/</guid>
+      <pubDate>Fri, 18 Apr 2025 23:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comptime Zig orm</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2ijg3/comptime_zig_orm/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/alexeyr      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2ijg3/comptime_zig_orm/</guid>
+      <pubDate>Fri, 18 Apr 2025 23:20:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>github -an -dr/Microlog：一个轻量级，可自定义的日志记录库。只有两个文件。与C ++和大多数主要编译器兼容。</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2huc9/github_andrmicrolog_a_lightweight_customizable/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/agramakov       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2huc9/github_andrmicrolog_a_lightweight_customizable/</guid>
+      <pubDate>Fri, 18 Apr 2025 22:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有悬停效果的响应卡HTML CS</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2g361/responsive_card_html_css_with_hover_effects/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在此项目中，我们专注于使用HTML和CSS创建响应式剪贴路径卡布局，旨在展示具有引人入胜的视觉效果和信息内容的各种城市。目的是开发一个现代的交互式卡组件，该组件不仅看起来很吸引人，而且在不同的设备和屏幕尺寸上都可以很好地发挥作用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/anderzabalza      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2g361/responsive_card_html_css_with_hover_effects/</guid>
+      <pubDate>Fri, 18 Apr 2025 21:25:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的“ Vibe编码”应用程序具有超过260,000行的代码（演示 +代码演练）</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2flmp/why_my_vibecoded_app_has_over_260000_lines_of/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我收到了互联网陌生人对tiktok的评论，质疑我的编码能力，因为我的应用程序非常大且非常复杂。 在上下文中，我正在构建               ，我已经从事这个应用程序了四年多了，甚至在光标发布之前，我已经从事这个应用了四年了。我直到最近才开始使用它来加快开发的速度。 对于两个人来说，我去了卡内基·梅隆大学（世界上最好的软件工程学校），并获得了我在全乘车奖学金的软件工程学硕士学位。我构建了系统以遵循真正的软件工程最佳实践的清洁，可读，可扩展和可维护的代码。 我的工作的其他示例可以在我的 github 上找到。例如，Nexustrade的前身被称为 next trade ，是完全开放的说明：这是在Chatgpt或Ai工具之前创建的。氛围编码是真实的。当正确使用时，它是超级大国。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/starks-technology      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2flmp/why_my_vibecoded_app_has_over_260000_lines_of/</guid>
+      <pubDate>Fri, 18 Apr 2025 21:03:52 GMT</pubDate>
+    </item>
     <item>
       <title>构建了一个工具，以便于发现新的GitHub存储库。</title>
       <link>https://www.reddit.com/r/programming/comments/1k2f7qi/built_a_tool_for_easier_discovery_of_new_github/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k2b0rb/zig_and_gpus/</guid>
       <pubDate>Fri, 18 Apr 2025 17:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在运输具有60k代码的项目后，我如何看待LUA？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2b0d7/what_do_i_think_about_lua_after_shipping_a/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2b0d7/what_do_i_think_about_lua_after_shipping_a/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:47:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰伊四年</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2b02n/four_years_of_jai/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2b02n/four_years_of_jai/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:47:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>种植一种语言[PDF]（1998）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2azhv/growing_a_language_pdf_1998/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2azhv/growing_a_language_pdf_1998/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>C ++慢</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2ayyz/less_slow_c/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2ayyz/less_slow_c/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>与MongoDB地图集的GraphRag：将知识图与LLMS整合在一起| MongoDB博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1k291lu/graphrag_with_mongodb_atlas_integrating_knowledge/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/majestic_wallaby7374      [link]&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k291lu/graphrag_with_mongodb_atlas_integrating_knowledge/</guid>
-      <pubDate>Fri, 18 Apr 2025 16:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>对立驱动的测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1k27y0s/antithesis_driven_testing/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/avinassh      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k27y0s/antithesis_driven_testing/</guid>
-      <pubDate>Fri, 18 Apr 2025 15:39:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
