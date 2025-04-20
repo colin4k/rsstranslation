@@ -4,13 +4,90 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 19 Apr 2025 15:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 09:02:34 GMT</lastBuildDate>
     <item>
-      <title>戈德巴赫猜想世界纪录的虚假主张？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2wgn7/false_claims_of_goldbach_conjecture_world_record/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/fpcoder      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2wgn7/false_claims_of_goldbach_conjecture_world_record/</guid>
-      <pubDate>Sat, 19 Apr 2025 13:38:19 GMT</pubDate>
+      <title>领事MCP服务器（ModelContextProtocol）</title>
+      <link>https://www.reddit.com/r/programming/comments/1k3i9i6/a_consul_mcp_server_modelcontextprotocol/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我很高兴分享一个我一直在开发的项目：领事 -  MCP-Server  - 一个用于领事的MCP接口。 您可以使用自然或结构化命令来编程和控制基础架构。键值存储 🔐sessions  📣事件  🧭准备好查询   status     agent     qutmemate 🖥项目 如果您可以免费贡献或给它造成贡献或觉得有用。总是欢迎反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/deedarworkerChoice68      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k3i9i6/a_consul_mcp_server_modelcontextprotocol/</guid>
+      <pubDate>Sun, 20 Apr 2025 08:45:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>8 Kubernetes部署策略及其工作方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1k3hz8g/8_kubernetes_deployment_strategies_and_how_they/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/tapmylap      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k3hz8g/8_kubernetes_deployment_strategies_and_how_they/</guid>
+      <pubDate>Sun, 20 Apr 2025 08:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>在Go和Docker中狩猎僵尸进程</title>
+      <link>https://www.reddit.com/r/programming/comments/1k3hwiu/hunting_zombie_processes_in_go_and_docker/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，这是我如何调试随机错误并发现完全不同的基本原因的故事。我认为分享这些学习。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/svedova      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k3hwiu/hunting_zombie_processes_in_go_and_docker/</guid>
+      <pubDate>Sun, 20 Apr 2025 08:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何准备网络安全的人，我都在GitHub页面博客中做了一些笔记。希望这会有所帮助</title>
+      <link>https://www.reddit.com/r/programming/comments/1k3exmj/anyone_preparing_for_cybersecurity_i_have_made/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kikimora47      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k3exmj/anyone_preparing_for_cybersecurity_i_have_made/</guid>
+      <pubDate>Sun, 20 Apr 2025 04:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>模型上下文协议 - 详尽解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1k3e0ax/model_context_protocol_exhaustively_explained/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿redditors👋，  i最近发布了一个关于模型上下文协议（MCP）的深入技术博客，这是拟人化的上升标准，可以让AI代理与AI代理人与外部工具，数据源和系统相互作用，并且是一致的和安全的cut。将其视为AI代理的USB-C。它允许LLMS使用支持上下文获取，工具使用和安全操作的通用协议与现实世界系统（API，文件，数据库，SaaS应用程序）进行交互。 MCP removes the need for M×N integrations by standardizing the interface. 📘 The Blog Covers: What is MCP and why it matters for AI The M×N problem vs M+N elegance Client-server architecture and message patterns (JSON-RPC 2.0) Tools, Resources, and Prompts: the原始 运输选项，例如http + sse  安全性考虑（auth，sillation，sillation，rative限制，审计日志） 企业的策略收养建议  i i也在github上构建了一个工作demo   i，通过：  fastpi mcs  fastpapi mcs 端点模拟实时事件流  python客户端，该客户端通过MCP  列出工具，请阅读博客： https://srivatssan.medium.com/model-context-protococol-explot- explative-f5a30a87a3ff?sk=1b97126564030366666b0437737371c82102    🔗github demo： https：//github.com/srivatssan/srivatssan/mcp-demo  implementing GenAI in production Engineers working with agents, tools, or LangChain AI security folks thinking about safe LLM integrations Devs curious about protocol design for agent frameworks I would really appreciate a review from folks who think critically about architecture, protocol interoperability, or just love breaking down new standards. I am not someone谁很幸运地从事边境技术。我尽力赶上进化，并与其他可能没有时间学习这个主题的人分享我的学习。因此，公平地说，我正在寻找可以改善博客并为社区增加有意义价值的途径。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shreesrinivasan      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k3e0ax/model_context_protocol_exhaustively_explained/</guid>
+      <pubDate>Sun, 20 Apr 2025 03:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球编码Dojo- 2025年5月14日：加入全球开发人员进行协作编码和学习</title>
+      <link>https://www.reddit.com/r/programming/comments/1k39f3m/global_coding_dojo_may_14_2025_join_developers/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/rkasper     &lt;a href =“ https://www.reddit.com/r/programming/comments/1k39f3m/global_coding_dojo_dojo_may_14_2025_join_developers/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k39f3m/global_coding_dojo_may_14_2025_join_developers/</guid>
+      <pubDate>Sat, 19 Apr 2025 23:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP和MySQL的登录和注册表格</title>
+      <link>https://www.reddit.com/r/programming/comments/1k36eno/login_and_registration_form_in_php_and_mysql/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/anderzabalza      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k36eno/login_and_registration_form_in_php_and_mysql/</guid>
+      <pubDate>Sat, 19 Apr 2025 21:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>裁判指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1k35hii/refs_guide/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。这是我写的一篇小指南，我写的是我写的，以使GUI编程更容易。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/90s_dev       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k35hii/refs_guide/</guid>
+      <pubDate>Sat, 19 Apr 2025 20:25:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为学生建立了免费的练习REST API  - 带有过滤，分类和宣传文档！</title>
+      <link>https://www.reddit.com/r/programming/comments/1k34p0m/i_built_a_free_practice_rest_api_for_students/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！我建立了一个免费的API，我与任何想学习或尝试真实的东西的人分享。它是鸡尾酒食谱和成分的集合 - 准确地说是629种食谱和491个成分。 它带有完整的Swagger文档，因此您可以轻松探索端点。没有注册，没有麻烦。只需抓住URL并开始提出请求即可。它支持分页，过滤器和自动完成的功能。提交由＆＃32; /u/u/spurkle      [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k34p0m/i_built_a_free_practice_rest_api_for_students/</guid>
+      <pubDate>Sat, 19 Apr 2025 19:49:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们必须快速移动……但是我们要去哪里？</title>
+      <link>https://www.reddit.com/r/programming/comments/1k339z0/we_have_to_move_fastbut_where_are_we_going_again/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/congolomera      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k339z0/we_have_to_move_fastbut_where_are_we_going_again/</guid>
+      <pubDate>Sat, 19 Apr 2025 18:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们做游戏吧！ 251：开始自动测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2zpp9/lets_make_a_game_251_starting_automated_testing/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/apeloverage       [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2zpp9/lets_make_a_game_251_starting_automated_testing/</guid>
+      <pubDate>Sat, 19 Apr 2025 16:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用FastMCP和Langchain构建MCP服务器和客户端</title>
+      <link>https://www.reddit.com/r/programming/comments/1k2z3fc/how_to_build_an_mcp_server_and_client_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在此视频中，我们将使用FastMCP构建MCP（模型上下文协议）服务器，并创建一个连接到它并使用其工具的Langchain AI Agent。如果您对构建自己的MCP服务器或想创建利用MCP工具的AI代理感到好奇，则此视频适合您。  您可以在此处找到源代码： https://github.com/narimann2/openai-play-play-playflay  提交由＆＃32; /u/u/u/flacky-thought-5472      [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k2z3fc/how_to_build_an_mcp_server_and_client_with/</guid>
+      <pubDate>Sat, 19 Apr 2025 15:39:33 GMT</pubDate>
     </item>
     <item>
       <title>JSX在电线上</title>
@@ -67,83 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/anderzabalza      &lt;a href =“ https://www.reddit.com/r/programming/comments/1k2rsou/how_to_design_netflix_logo_usis_html_and_and_and_and_and_and_ccss/]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k2rsou/how_to_design_netflix_logo_using_html_and_css/</guid>
       <pubDate>Sat, 19 Apr 2025 08:40:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个具有C代码的GIF，该gif输出具有C代码的GIF</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2rgwq/i_made_a_gif_that_features_c_code_that_outputs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  源代码： https：//github.com/donno/donno2048/gif-quine 提交由＆＃32; /u/u/u/perfect-highlight964     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1k2rgwq/i_made_made_a_gif_that_that_features_features_c_code_that_tat_tat_outputs/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2rgwq/i_made_a_gif_that_features_c_code_that_outputs/</guid>
-      <pubDate>Sat, 19 Apr 2025 08:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从大规模构建和维护分布式系统的经验教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2rcre/lessons_from_building_and_maintaining_distributed/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/missics      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2rcre/lessons_from_building_and_maintaining_distributed/</guid>
-      <pubDate>Sat, 19 Apr 2025 08:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我要走创意编码路径</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2r3ez/why_im_taking_the_creative_coding_path/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  也许只是我没有听到有关创意编码的太多讨论。但是我想走这条路，因为坦率地说，其他一切对我来说都很无聊。并非每个人都会发现同样的东西令人兴奋。关于编码某些内容的任务只有一些用于表达的任务，这会带回火花，以追逐任何恐惧，和/或教训要学习，等待每一步向前迈进。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/the_nifty_programmer     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2r3ez/why_im_taking_the_creative_coding_path/</guid>
-      <pubDate>Sat, 19 Apr 2025 07:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库中的基于密钥与范围的分区是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2lyki/what_is_keybased_vs_rangebased_partitioning_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/scalableThreadRead      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2lyki/what_is_keybased_vs_rangebased_partitioning_in/</guid>
-      <pubDate>Sat, 19 Apr 2025 02:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部平台效应：或者，为什么您可能会伤害自己</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2jv1l/the_inner_platform_effect_or_why_you_might_be/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/cube-drone      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2jv1l/the_inner_platform_effect_or_why_you_might_be/</guid>
-      <pubDate>Sat, 19 Apr 2025 00:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>调试器是一个调试器是调试器</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2ilmi/a_debugger_is_a_repl_is_a_debugger/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/alexeyr   href =“ https://matklad.github.io/2025/03/25/debugger-is-repl-is-repl-is-debugger.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2ilmi/a_debugger_is_a_repl_is_a_debugger/</guid>
-      <pubDate>Fri, 18 Apr 2025 23:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comptime Zig orm</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2ijg3/comptime_zig_orm/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/alexeyr      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2ijg3/comptime_zig_orm/</guid>
-      <pubDate>Fri, 18 Apr 2025 23:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub -AN -DR/Microlog：一个轻量级，可自定义的日志记录库。只有两个文件。与C ++和大多数主要编译器兼容。</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2huc9/github_andrmicrolog_a_lightweight_customizable/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/agramakov       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2huc9/github_andrmicrolog_a_lightweight_customizable/</guid>
-      <pubDate>Fri, 18 Apr 2025 22:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有悬停效果的响应卡HTML CS</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2g361/responsive_card_html_css_with_hover_effects/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在此项目中，我们专注于使用HTML和CSS创建响应式剪贴路径卡布局，旨在展示具有引人入胜的视觉效果和信息内容的各种城市。目的是开发一个现代的交互式卡组件，该组件不仅看起来很吸引人，而且在不同的设备和屏幕尺寸上都可以很好地发挥作用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/anderzabalza      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2g361/responsive_card_html_css_with_hover_effects/</guid>
-      <pubDate>Fri, 18 Apr 2025 21:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的“ Vibe编码”应用程序具有超过260,000行的代码（演示 +代码演练）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2flmp/why_my_vibecoded_app_has_over_260000_lines_of/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我收到了互联网陌生人对tiktok的评论，质疑我的编码能力，因为我的应用程序非常大且非常复杂。 在上下文中，我正在构建               ，我已经从事这个应用程序了四年多了，甚至在光标发布之前，我已经从事这个应用了四年了。我直到最近才开始使用它来加快开发的速度。 对于两个人来说，我去了卡内基·梅隆大学（世界上最好的软件工程学校），并获得了我在全乘车奖学金的软件工程学硕士学位。我构建了系统以遵循真正的软件工程最佳实践的清洁，可读，可扩展和可维护的代码。 我的工作的其他示例可以在我的 github 上找到。例如，Nexustrade的前身被称为 next trade ，是完全开放的说明：这是在Chatgpt或Ai工具之前创建的。氛围编码是真实的。当正确使用时，它是超级大国。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/starks-technology      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2flmp/why_my_vibecoded_app_has_over_260000_lines_of/</guid>
-      <pubDate>Fri, 18 Apr 2025 21:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>META MCP：通过及时驱动的参数链接工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1k2ev0o/meta_mcp_chaining_tools_via_promptdriven_arguments/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这篇文章探讨了可以在单个请求中链接多个工具的MCP工具的概念，其中每个工具的参数可以根据先前工具的输出的提示进行动态生成。    &lt;！ -  sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/u/cefor111      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k2ev0o/meta_mcp_chaining_tools_via_promptdriven_arguments/</guid>
-      <pubDate>Fri, 18 Apr 2025 20:31:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
