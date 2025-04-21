@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 21 Apr 2025 15:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 18:02:01 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11的非常紧凑，可自定义的EPUB读取器</title>
+      <link>https://www.reddit.com/r/software/comments/1k4ijjv/very_compact_customizable_epub_reader_for_windows/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我正在寻找笔记本电脑的Epub读取器，并遇到了一些问题。我的计算机遇到了一个问题，使应用程序窗口很大，切断了窗口的边界，而通常不可用的缩放选项。我已经尝试修复它，但是这似乎是这台笔记本电脑的故意设计选择，我找不到通用修复程序。这很烦人，但是幸运的是，某些应用程序具有内置的缩放功能。 因此，我一直在尝试使用具有允许完整重新续订应用程序的设置的应用程序。我需要应用程序中的所有元素才能缩放到尺寸要小得多（想想初始尺寸的30％），否则它不起作用。这里有人知道EPUB读取器可以使我可以将所有内容扩展到更可管理的规模吗？我尝试了thorum，但在我的屏幕上很有趣，我的主页上的每本书图像大约是整个显示器的三分之一，并且所有书籍在每个页面上只显示一个或两个句子。 谢谢！    &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/iyonia     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k4ijjv/very_compact_customizable_epub_reader_for_windows/</guid>
+      <pubDate>Mon, 21 Apr 2025 17:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>RANT：当Windows应用程序设计时，我讨厌它的外观，感觉，Mac应用程序的UI行为</title>
+      <link>https://www.reddit.com/r/software/comments/1k4hhxj/rant_i_hate_it_when_windows_apps_are_designed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚安装了MarkText，并立即注意到它看起来和感觉与Windows App一样。点击寄存器的方式，上下文菜单渲染方式以及整体窗口设计仅仅是Mac的smacks。我还注意到了大多数DAW。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jarlballnuts     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k4hhxj/rant_i_hate_it_when_windows_apps_are_designed/</guid>
+      <pubDate>Mon, 21 Apr 2025 16:21:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以高质量下载YouTube视频？</title>
+      <link>https://www.reddit.com/r/software/comments/1k4glmt/how_to_download_youtube_videos_in_high_quality/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很好，可以分别下载视频和音频。如果我能得到2k/4k，那就更好了。只是我不想要任何广告或高级选项。什么是最好的？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1k4glmt/how_to_download_youtube_videos_in_high_quality/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k4glmt/how_to_download_youtube_videos_in_high_quality/</guid>
+      <pubDate>Mon, 21 Apr 2025 15:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>cookie解释了🍪为什么每个网站都会询问有关cookie的信息（以及为什么要关心）</title>
+      <link>https://www.reddit.com/r/software/comments/1k4gjmt/cookies_explained_why_every_website_asks_about/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/caffeined_coder_       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k4gjmt/cookies_explained_why_every_website_asks_about/</guid>
+      <pubDate>Mon, 21 Apr 2025 15:35:50 GMT</pubDate>
+    </item>
     <item>
       <title>阅读技术报告的最佳方法？</title>
       <link>https://www.reddit.com/r/software/comments/1k4fasn/best_way_to_read_technical_reports/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[In a nutshell, I’m looking for a self-hosted application that will run on a remote Linux server which I can instruct to download/mirror files/sites/github repositories, for long term archival or later download to any other system Hopefully the formatting comes out OK… Workflow  我手动识别大文件的URL（s）  ex：  http://bah.com/dvd.iso   href =“ http://bah.com/isos/”&gt; http://bah.com/isos/   ， git+要手动将URL发送到远程托管“下载管理器”，请在我的局域网上的Linux服务器上运行或通过WAN  下载管理器应排队并下载文件 我稍后再检索它们，或者在disk Manager上长期存储在“ Sever Manager”上，  要求   使用CLI工具或简单的自定义脚本通过HTTP API或类似的提交。例如， ./ crives-for-download＆lt; url＆gt;   “下载经理” ..好吧，管理文件下载 诸如指定并发下载线程的数量（每个文件和全球）和其他“高级”和“高级”的功能，以        下载 能够为URL设置请求标题的奖励点（例如，设置一个cookie，下载需要经过认证会话的文件，或指定http或ftp协议凭据） 奖励点的奖励点，用于使用静态配置 元数据以及文件（例如，带有URL的JSON文件，下载日期等）   关闭  我是一个开发人员，但试图不重新换机。无论如何我都没有时间。 我很难寻找这样的解决方案。搜索“下载管理器”并没有太大的帮助，它主要是本地应用程序/浏览器插件 非常感谢您的建议！’     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1k3nt5d/selfhosted_download_download_managers_with_with_clientserver/”&gt; [link]     [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k3nt5d/selfhosted_download_managers_with_clientserver/</guid>
       <pubDate>Sun, 20 Apr 2025 14:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speakonia安全吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1k3fqxj/is_speakonia_safe/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果有人可以链接我一个安全的下载链接。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fine-set-7877     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k3fqxj/is_speakonia_safe/</guid>
-      <pubDate>Sun, 20 Apr 2025 05:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>复古软件：Procomm Plus的爆炸遥控器</title>
-      <link>https://www.reddit.com/r/software/comments/1k3ephc/vintage_software_blast_remote_control_for_procomm/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 不确定这是否是正确的子，但我正在寻找Procomm Plus的爆炸遥控器。少量背景爆炸是一个带有专有传输协议的终端模拟器程序（如ProComm），称为“等待它，爆炸”。显然，在某个时候，他们为Procomm加上了一个插件，这将增加爆炸能力。我有DOS包的爆炸，当然还有DOS的Procomm Plus，但是它们是两个独立的程序，并且不相互合作。我想知道是否有人在野外或出售中看到了插件？ 来源：   https://support.usr.com/support/support/support/support/support/sopport/downloads-template.asp?prod=s-cour （现在已链接到一个defunctionptional ftp usr ftp  https://books.google.com/books?id=gasghhfj-rac&amp;； amp; lpg = pa430&amp;dq = blast%20Remote%20Control＆pg = pa430#v = pa430#v = onepage＆page＆amp； page＆amp； amp； p.q＆amp； p.q＆amp； amp； （产品的广告）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/therealshadowlord     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k3ephc/vintage_software_blast_remote_control_for_procomm/</guid>
-      <pubDate>Sun, 20 Apr 2025 04:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看视频时，哪种视频播放器可以在侧窗上显示播放列表？</title>
-      <link>https://www.reddit.com/r/software/comments/1k3dzek/what_video_player_for_windows_can_show_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个Windows视频播放器，该播放器可以制作播放列表，并在视频播放时将播放列表在视频的左侧或右边。我希望视频能够占用大部分窗口，而不是相反。我震惊的是，我尝试过的一个视频播放器都没有缺乏此基本功能。 YouTube很容易做到这一点，但是我不知道如何在本地使用YouTube作为媒体播放器。感谢您的建议。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1k3dzek/what_video_player_for_windows_windows_can_show_show_the/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k3dzek/what_video_player_for_windows_can_show_the/</guid>
-      <pubDate>Sun, 20 Apr 2025 03:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何使用我的PC结交另一个国家的朋友？</title>
-      <link>https://www.reddit.com/r/software/comments/1k37vsz/how_can_i_make_a_friend_from_another_country_use/</link>
-      <description><![CDATA[my sweet friend is studying art and design in Syria, she has a really broken laptop that keeps having blue screens everytime she tries to do anything,  my question is, how can I make her use my pc, notes:  1- the internet connection there isn&#39;t the strongest(3.77 download and 0.74 upload), but I have a 160 Mbps下载，至少40Mbps上传2-我的PC有12400F和3060，所以3-修复笔记本电脑的问题不错，它已经毫无疑问了，它已经固定了15次，仍然崩溃了很多，  她应该尝试通过互联网Cafe连接到我的电脑，我真的不知道什么可以 [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k37vsz/how_can_i_make_a_friend_from_another_country_use/</guid>
-      <pubDate>Sat, 19 Apr 2025 22:19:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
