@@ -4,7 +4,18 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Thu, 17 Apr 2025 15:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 15:03:55 GMT</lastBuildDate>
+    <item>
+      <title>其他语言的codemods</title>
+      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
+      <description><![CDATA[    
+  juntao qiu 完成了他对codemods的描述
+      查看其他一些在Javascript World之外接近
+      Javaparser和OpenRewrite。
+ 更多…  ]]></description>
+      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
+      <pubDate>Mon, 21 Apr 2025 15:03:54 GMT</pubDate>
+    </item>
     <item>
       <title>修复CodeMods的常见陷阱</title>
       <link>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</link>
@@ -15,18 +26,7 @@
       复杂的情况通过组成codemods。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他语言的codemods</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
-      <description><![CDATA[    
-  juntao qiu 完成了他对codemods的描述
-      查看其他一些在Javascript World之外接近
-      Javaparser和OpenRewrite。
- 更多…  ]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:08 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:54 GMT</pubDate>
     </item>
     <item>
       <title>与卢卡·罗西（Luca Rossi）的播客</title>
@@ -38,7 +38,7 @@
       债务和敏捷软件开发的现状。
  更多… ]]></description>
       <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:06 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:53 GMT</pubDate>
     </item>
     <item>
       <title>建造Genai产品的新兴模式</title>
@@ -55,7 +55,7 @@
       evals。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:05 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:52 GMT</pubDate>
     </item>
     <item>
       <title>Genai产品中的嵌入</title>
@@ -68,7 +68,7 @@
       概念
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:04 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:51 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：森林和沙漠</title>
@@ -109,17 +109,7 @@
     像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genai模式：检索增强发电（RAG）</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
-      <description><![CDATA[  预先训练的Genai模型缺乏有关A的最新和具体信息
-      领域。  bharani subramaniam ，我解释了如何检索
-      增强发电（RAG）可以填补该空白。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:02 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:50 GMT</pubDate>
     </item>
     <item>
       <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
@@ -131,7 +121,17 @@
       职业的未来。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:01 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：检索增强发电（RAG）</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
+      <description><![CDATA[  预先训练的Genai模型缺乏有关A的最新和具体信息
+      领域。  bharani subramaniam ，我解释了如何检索
+      增强发电（RAG）可以填补该空白。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
+      <pubDate>Mon, 21 Apr 2025 15:03:49 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
@@ -143,22 +143,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Thu, 17 Apr 2025 15:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek系列：技术概述</title>
-      <link>https://martinfowler.com/articles/deepseek-papers.html</link>
-      <description><![CDATA[ DeepSeek大型语言模型的外观引起了很多
-      讨论和焦虑以来，他们的最新版本出现在一开始
-      2025年。但是，DeepSeek的作品的大部分价值都来自论文
-      他们在去年发表了。  Shayan Mohanty 
-      提供这些论文的概述，突出显示了其中的三个主要弧线
-      研究：专注于提高成本和记忆效率，使用HPC
-      共同设计在有限的硬件和开发方面训练大型型号
-      大规模增强学习的紧急推理
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:59 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:48 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -168,7 +153,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:58 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:47 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -179,7 +164,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:57 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:46 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -190,7 +175,7 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:56 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:44 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：护栏和抹布概述</title>
@@ -205,7 +190,7 @@
       组件模式合并在一起。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:55 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:43 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
@@ -217,7 +202,20 @@
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:54 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>评论在美国护照上删除“ X”</title>
+      <link>https://martinfowler.com/articles/2025-passport-x.html</link>
+      <description><![CDATA[新的美国政府决定消除护照上性别/性别的“ X”选项。我有几个非二进制朋友，我不明白为什么他们应该选择一个对他们没有意义的选项。我也看不到身份文档上的“ X”选项如何给其他任何人带来重大问题。我无能为力地反对这一变化，但是一小件事是对联邦登记册进行此类规则更改的评论。有三个这样的页面：
+ DS-11新护照应用程序：（截止日期3/17/25） https://www.federalregister.gov/documents/2025/02/02/14/2025-02648/30-day-notice-notice-of-propsoped-inforpose-information-information-information-collection-collection-for-application-for-a-a-us-passport   
+ DS-82护照更新：（截止日期为3/20/25）
+ https://www.federalregister.gov/documents/2025/202/02/2025-02697/30-Day-nay-notice-of-propsoped-inforpose-information-information-information-collection-collection-us-passport-renewal-application-for-for-for-for-clible-for-comible-cible      
+ DS-5504名称更改或数据更正：（截止日期3/20/25）
+ https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
+在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
+      <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
+      <pubDate>Mon, 21 Apr 2025 15:03:41 GMT</pubDate>
     </item>
     <item>
       <title>开发人员技能在代理编码中的作用</title>
@@ -231,20 +229,7 @@
       我们目前需要纠正工具失误的技能类型。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论在美国护照上删除“ X”</title>
-      <link>https://martinfowler.com/articles/2025-passport-x.html</link>
-      <description><![CDATA[新的美国政府决定消除护照上性别/性别的“ X”选项。我有几个非二进制朋友，我不明白为什么他们应该选择一个对他们没有意义的选项。我也看不到身份文档上的“ X”选项如何给其他任何人带来重大问题。我无能为力地反对这一变化，但是一小件事是对联邦登记册进行此类规则更改的评论。有三个这样的页面：
- DS-11新护照应用程序：（截止日期3/17/25） https://www.federalregister.gov/documents/2025/02/02/14/2025-02648/30-day-notice-notice-of-propsoped-inforpose-information-information-information-collection-collection-for-application-for-a-a-us-passport   
- DS-82护照更新：（截止日期为3/20/25）
- https://www.federalregister.gov/documents/2025/202/02/2025-02697/30-Day-nay-notice-of-propsoped-inforpose-information-information-information-collection-collection-us-passport-renewal-application-for-for-for-for-clible-for-comible-cible      
- DS-5504名称更改或数据更正：（截止日期3/20/25）
- https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
-在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
-      <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:52 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:40 GMT</pubDate>
     </item>
     <item>
       <title>我被罗伯特·卡罗绑架了</title>
@@ -256,7 +241,7 @@
       书籍对我来说太好了，无法逃脱。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-caro.html</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:50 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:39 GMT</pubDate>
     </item>
     <item>
       <title>更新昨天的社交媒体参与帖子</title>
@@ -268,7 +253,7 @@
       网站流量的源数据。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-social-traffic.html</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:47 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:38 GMT</pubDate>
     </item>
     <item>
       <title>指导LLM稳健的Java Bittebuffer代码</title>
@@ -284,7 +269,19 @@
       不安全的代码片段成可靠的，可以使用系统的组件。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</guid>
-      <pubDate>Thu, 17 Apr 2025 15:02:46 GMT</pubDate>
+      <pubDate>Mon, 21 Apr 2025 15:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek概述的其他解释材料</title>
+      <link>https://martinfowler.com/articles/deepseek-papers.html</link>
+      <description><![CDATA[几个月前，我的同事 shayan Mohanty 
+      发布a 技术概述一系列描述的论文
+      DeepSeek AI模型。他现在已经浏览了这篇文章，补充了
+      更多的解释使我们中的人更容易消化
+      在构建这类模型方面具有背景。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
+      <pubDate>Mon, 21 Apr 2025 15:03:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

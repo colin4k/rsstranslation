@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 21 Apr 2025 12:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 15:02:15 GMT</lastBuildDate>
+    <item>
+      <title>引擎盖下查看我们如何为工具构建MCP服务器 - 所有技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4fhmu/an_under_the_hood_look_at_how_we_built_an_mcp/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ally_piccolo5736       [link]        [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4fhmu/an_under_the_hood_look_at_how_we_built_an_mcp/</guid>
+      <pubDate>Mon, 21 Apr 2025 14:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>将聊天组与Coreml和Gemini分类以匹配兴趣组</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4f723/classifying_chat_groups_with_coreml_and_gemini_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   untayWalled：https://programmers.fyi/classifying-chat-groups-with-coreml-and-gemini-to-match-interest-groups &lt;!-- SC_ON - &gt;＆＃32;提交由＆＃32; /u/u/u/derjanni     &lt;A href =“ https://www.reddit.com/r/programming/comments/1k4f723/classifying_chat_groups_with_with_coreml_and_gemini_to/”]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4f723/classifying_chat_groups_with_coreml_and_gemini_to/</guid>
+      <pubDate>Mon, 21 Apr 2025 14:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>当心单点的人</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4em69/beware_the_singlepurpose_people/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  &#39;...您可能会面对单用途的人或SPP，aka aka purity警察。 These folks love to bring up “first principles,” which is funny because they seem to only have one principle: “Make everything as small and atomic as possible.&quot; [Full article]    提交由＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4em69/beware_the_singlepurpose_people/</guid>
+      <pubDate>Mon, 21 Apr 2025 14:16:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>法典</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4e83j/codehs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  没有一个hacks; Codehs的代码并为您提供每个编码的正确分析器？我现在需要它，我再也找不到了。如果有人有任何想法，请随时发表评论。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chemistryasy1268      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4e83j/codehs/</guid>
+      <pubDate>Mon, 21 Apr 2025 14:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过背景作业处理大型CSV下载| Tejaya Tech</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4e521/how_to_handle_large_csv_downloads_with_background/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://tejaya.tech/p/handling-large-csv-downloads-grace-with-queues-background-jobs”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4e521/how_to_handle_large_csv_downloads_with_background/</guid>
+      <pubDate>Mon, 21 Apr 2025 13:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何将AI集成到代码审核过程中？</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4ddbf/how_are_you_integrating_ai_into_your_code_review/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们的团队在冗长的代码审查和偶尔对关键问题的监督下面临挑战。我们正在考虑集成AI工具来简化此过程。  这里有人实施了AI驱动的代码审查工具吗？您发现哪些有效，它们如何影响您的工作流程？  任何建议或警告都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rajloveleil      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4ddbf/how_are_you_integrating_ai_into_your_code_review/</guid>
+      <pubDate>Mon, 21 Apr 2025 13:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有符号抽象的多语言代码库 - 会喜欢系统思想家的反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4c7g8/a_multilanguage_codebase_with_symbolic/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我一直在构建一个复杂的系统，该系统将多种语言（Python，ruby，typecript/react）融合在一起，以探索软件如何不仅可以建模逻辑，而且可以分层含义建模。这不是您典型的CRUD堆栈 - 该项目使用辩证结构，每个知识条目都有一个要点，对立面和反事实。还有一个自定义的词汇网络（想想茎和熟悉的术语的动态本体论）和受数学结构启发的实验逻辑层。  我刚刚发表了一种深入的研究，将这种方法与常规最佳实践进行了比较，尤其是斯坦福大学风格的建筑，模块化，命名和测试能力。我不拒绝最佳实践 - 我很重视它 - 但是该系统采用了一种更具实验性的，递归的方法，我希望从思考结构，语义和系统设计的开发人员那里进行关键，周到的反馈。 。 如果这听起来很有趣，则文章在这里：  我知道该系统似乎设计过过度甚至怪异，但它并不是聪明的 - 它的构建是为了以平坦的逻辑有时会错过的方式建模思想之间的关系。也就是说，我仍在寻找可以帮助完善它，简化零件并将其连接回更多标准工具的合作者。如果您已经从事DSL，象征性推理，递归数据或只是为了弯曲通常的范式 - 很喜欢您的看法。 （是的，我知道有些命名惯例是非常常规的。非常常规。对想法开放。 ＆＃32;提交由＆＃32; /u/u/u/gulliblegilbert      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4c7g8/a_multilanguage_codebase_with_symbolic/</guid>
+      <pubDate>Mon, 21 Apr 2025 12:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>管道可能是我最喜欢的编程语言功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4c5g5/pipelining_might_be_my_favorite_programming/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/SphircityAdults      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4c5g5/pipelining_might_be_my_favorite_programming/</guid>
+      <pubDate>Mon, 21 Apr 2025 12:20:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>得到微软分叉</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4c4t0/getting_forked_by_microsoft/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/starlevel01      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4c4t0/getting_forked_by_microsoft/</guid>
+      <pubDate>Mon, 21 Apr 2025 12:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个软件工程师都必须了解有关势力概念的</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4c3bf/every_software_engineer_must_know_about/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sivakumar00     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4c3bf/every_software_engineer_must_know_about/</guid>
+      <pubDate>Mon, 21 Apr 2025 12:17:43 GMT</pubDate>
+    </item>
     <item>
       <title>1个图中的API网关和147个单词</title>
       <link>https://www.reddit.com/r/programming/comments/1k4b3i2/api_gateway_in_1_diagram_and_147_words/</link>
@@ -32,13 +102,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/Adventurous-salt8514      [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k48mey/postgresql_jsonb_powerful_storage_for/</guid>
       <pubDate>Mon, 21 Apr 2025 08:35:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的Python程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1k48lel/simple_python_program/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个简单的python程序，适用于初学者。提交由＆＃32; /u/u/useast8968      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k48lel/simple_python_program/</guid>
-      <pubDate>Mon, 21 Apr 2025 08:33:36 GMT</pubDate>
     </item>
     <item>
       <title>使用点亮的网络组件构建简单的电子商务网站</title>
@@ -81,69 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bluegoliath     link&gt; link&gt; link&gt; link&gt;      [commist]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k3xz7r/where_is_the_java_language_going/</guid>
       <pubDate>Sun, 20 Apr 2025 22:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>DART不仅是为了扑朔迷离，还该开始在服务器上使用它了。我构建了一个受Express.js启发的开源Web框架，以帮助那些想从JS到Dart的人。</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3wymf/dart_is_not_just_for_flutter_its_time_we_start/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  为什么在服务器上使用DART？  1- unified language for full stack as Flutter now supports almost all platforms + web 2- compiled language 3- null safety and type safe 4- a strong community with a variety of packages that server almost every scenario I think it&#39;s time dart gets more recognition on the server, so I built wailuku, a lightweight backend framework that模拟express.js语法。如果我能得到一些反馈，建议和贡献，我会非常有帮助。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/palecontribution6199       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3wymf/dart_is_not_just_for_flutter_its_time_we_start/</guid>
-      <pubDate>Sun, 20 Apr 2025 21:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025年工程团队的顶级AI编码工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3sqj0/top_ai_coding_tools_for_engineering_teams_in_2025/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gregorojstersek      [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3sqj0/top_ai_coding_tools_for_engineering_teams_in_2025/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程中的简单性与复杂性：哪个更好？</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3sqbh/simplicity_vs_complexity_in_software_engineering/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gregorojstersek      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3sqbh/simplicity_vs_complexity_in_software_engineering/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scala中的通用：协方差和违反</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3soky/genéricos_en_scala_covarianza_y_contravarianza/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/emanuelpeg     [注释] ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3soky/genéricos_en_scala_covarianza_y_contravarianza/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们做游戏吧！ 252：测试战斗</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3s77g/lets_make_a_game_252_testing_combat/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/apeloverage      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3s77g/lets_make_a_game_252_testing_combat/</guid>
-      <pubDate>Sun, 20 Apr 2025 17:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以说是VSCODE/CODIUM/CURSOR用户的更好的文件选择器体验</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3rygg/an_arguably_better_file_picker_experience_for/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/damien__f1       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3rygg/an_arguably_better_file_picker_experience_for/</guid>
-      <pubDate>Sun, 20 Apr 2025 17:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想要的当地OpenAi API前端。 500行HTML，CSS，JS。没有框架。没有框架。没有动词。没有部署。</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3qevw/the_local_openai_api_frontend_i_wanted_500_lines/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   将html复制到文件 用.html扩展名保存文件 在桌面浏览器上将其打开选择您的模型加载后（默认GPT 4.1） 隐藏设置 享受    Quick Rant ..应该已经存在。也许它在某个地方做，我只是找不到它。我确实发现至少有六个项目比单个500行文件更糟糕的是。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sad_produce_347      &lt;a href =“ https://www.reddit.com/r/programming/comments/1k3qevw/1k3qevw/the_local_openai_api_frontend_i_wanted_500_lines/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3qevw/the_local_openai_api_frontend_i_wanted_500_lines/</guid>
-      <pubDate>Sun, 20 Apr 2025 16:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>与MCP群调试</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3q0st/swarm_debugging_with_mcp/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  每个人都将MCP视为将LLMS连接到工具的一种方式。 将LLMS连接到其他LLM代理？ 我构建了Deebo，这是有史以来第一个代理MCP服务器。当您的编码代理遇到一个棘手的错误时，它可以通过MCP与Deebo启动会话，允许其卸载任务并在其他方面进行工作，而Deebo则将其异步弄清楚。  deebo通过传递多个子处理方法来工作，每个子过程都在其自身的git git分支中测试一个不同的修复想法。它使用任何LLM通过错误进行推理，并返回日志，提出的修复程序和详细说明。整个系统都以零共享状态或并发管理为零的自然过程隔离。您自己查看代码，这非常简单。 如果您在Cline或Claude桌面上，安装就像NPX Deebo-Setup@最新。看看代码！   您可以在此处找到该运行的完整登录方式。 AI驱动开发过程中的错误。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/klawisnotwashed      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3q0st/swarm_debugging_with_mcp/</guid>
-      <pubDate>Sun, 20 Apr 2025 16:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化器的TensorFlow实现</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3odxr/tensorflow_implementation_for_optimizers/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/notedancing       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3odxr/tensorflow_implementation_for_optimizers/</guid>
-      <pubDate>Sun, 20 Apr 2025 14:57:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

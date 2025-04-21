@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 21 Apr 2025 12:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 15:02:25 GMT</lastBuildDate>
+    <item>
+      <title>自托管文档，变频器和路线图（node.js + Pocketbase）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k4f24o/selfhosted_docs_changelogs_roadmaps_nodejs/</link>
+      <description><![CDATA[Hey r/opensource! I wanted to share Content Hub, an open-source project I&#39;ve built. The backstory: I started this because I需要一种简单的方法来为我公司的项目创建文档和更改。大多数现有的选项对应该简单的选择感到过于复杂。自然，我将本来可以快速解决方案转变为一个更大的项目...   它的作用：  这是一个使用node.js和Pocketbase的自我托管系统，用于管理文档，变更&gt;  projects in Divstance    easign 上传＆amp; Mermaid diagram support. Roadmap Management with stages (Planned -&gt; Done) + public Kanban board view. Staging for published entries (edit safely before going live). Custom HTML Headers/Footers per project/content type. Project Access控制（公共/私人/密码）。  易于设置：包括一个脚本（ node build_pb.js ），以自动配置PocketBase集合。  当前版本涵盖我的核心需求，但我肯定有更多的想法。 href =“ https://github.com/devalphasystem/alpha-system-contenthub”&gt; https://github.com/devalphasystem/alpha-system-contenthub       很乐意获得您的反馈，建议，建议或贡献！让我知道您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/midnightsun727     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k4f24o/selfhosted_docs_changelogs_roadmaps_nodejs/</guid>
+      <pubDate>Mon, 21 Apr 2025 14:35:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很无聊，所以我创建了一个Reddit CLI客户端（只读）。您不能投票或发表评论，但是总比没有好 - 当然，这是我快速窥视我最喜欢的Subreddit的选择，以检查有关关税的新内容或新闻，哈哈。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_i_created_a_reddit_cli_client/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   有关更多信息，请查看github存储库并恒星！它将帮助我创建更多奇怪的项目。    https：//github.com/samundersingh12/redcli 提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_so_i_i_created_a_reddit_cli_client/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_i_so_created_a_reddit_cli_cli_client/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_i_created_a_reddit_cli_client/</guid>
+      <pubDate>Mon, 21 Apr 2025 12:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>一种开源元数据删除工具，用于隐私意识的人</title>
       <link>https://www.reddit.com/r/opensource/comments/1k4b03d/an_opensource_metadata_removal_tool_for/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我一直在研究  kubepeek    - 一种轻量级的Web UI，可实时可见 EKS节点组。。。。。这是一个简单的V1，重点放在这一差距上 - 途中有更多功能。  https://github.com/captain-sangam/kubepeek 提交由＆＃32; /u/u/captain_sangam    href =“ https://www.reddit.com/r/opensource/comments/1k3nb7e/built_a_simple_ui_ui_tool_tool_for_node_grouplevel/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k3nb7e/built_a_simple_ui_tool_for_node_grouplevel/</guid>
       <pubDate>Sun, 20 Apr 2025 14:06:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代VLC</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k3myww/modern_vlc/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有VLC皮肤或叉子使其更现代？我使用kubuntu，所以它遵循我的黑暗模式主题，但是如果锥体更像Android应用程序，也许是更现代的话，我更喜欢使用。如果可能的话，我不想只有一些替代应用程序。我还想保留其赋予的功能及其隐私。  编辑：就像我在上面写的那样，因为我使用的是KDE，它使用了我的Dark Mode QT/GTK主题。我也知道，大多数VLC主题都不好，但是我问您是否知道任何一个好  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/super2061      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k3myww/modern_vlc/</guid>
-      <pubDate>Sun, 20 Apr 2025 13:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>引入Asyar：开源，可扩展的发射器（Tauri/Rust + Sveltekit） - 寻求反馈和贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k3mk8o/introducing_asyar_an_opensource_extensible/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kurdipeshmarga     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k3mk8o/introducing_asyar_an_opensource_extensible/</guid>
-      <pubDate>Sun, 20 Apr 2025 13:28:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
