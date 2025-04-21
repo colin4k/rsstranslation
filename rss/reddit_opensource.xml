@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 21 Apr 2025 00:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 03:19:48 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个用于存储库的聊天平台。这是为了帮助开发人员潜入他们在网上找到的存储库时，当他们无法手动将其克隆到他们的计算机上时。它被称为Indocify ..我想开源它来帮助改善开发人员的研究...</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k40mhp/i_built_a_chat_platform_for_repositories_this_is/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  链接： https：//wwwww.indocify.com/ 关于开放采购以及我们如何改进...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kwesi_dev     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k40mhp/i_built_a_chat_chat_platform_repositor_for_reposories_this_is_is/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k40mhp/i_built_a_chat_platform_for_repositories_this_is/</guid>
+      <pubDate>Mon, 21 Apr 2025 00:26:12 GMT</pubDate>
+    </item>
     <item>
       <title>制作了一个开源输入可视化器，但Defender会标记它 - 有什么建议吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1k4002t/made_an_opensource_input_visualizer_but_defender/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/bleedingxiko     [links]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k39u7c/built_my_own_lightweight_media_server_with_tiktok/</guid>
       <pubDate>Sat, 19 Apr 2025 23:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stepstrack：OpenSource TypeScript/Python可观察性库，该库跟踪和可视化管道执行以进行调试和监视。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k394te/stepstrack_opensource_typescriptpython/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好， 我一直在优化生产的LLM/RAG管道，以提高负载速度，提高加载速度并确保在管道中的预期流中处理了用户的问题。但是，由于基于LLM的管道的非确定性（复杂的逻辑流，动态LLM输出，实时数据，随机用户查询等），我发现中间数据的可观察力至关重要（尤其是在产品上），但在某种程度上具有挑战性和烦人。 href =“ https://github.com/lokwkin/steps-track”&gt; https://github.com/lokwkin/steps-track ，一个Open-Source typexcript/python库，可以让您跟踪，检查和可视化管道中的步骤。不久前我分享了第一个版本，现在我已经开发了更多功能。图  带有分析仪表板  to 检查数据在特定管道运行或查看统计范围内的特定步骤多运行的特定步骤。 易于与 es6/python功能  请求输入，输出和用法。  注意：尽管我为我的抹布管道应用了stepstrack，但实际上，它也是任何类型的管道式流量或逻辑中使用一系列步骤的Integnatabtle。 欢迎任何想法，评论或建议！谢谢！ 😊  ---   P.S。该工具不是在诸如Langchain等流行的RAG框架上开发的，但是如果您在不使用特定框架的情况下从头开始构建管道，请随时检查一下！！！  如果您喜欢此工具，则会赞赏github star或upvote！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/feistyCommermentic3932       [注释]     ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k394te/stepstrack_opensource_typescriptpython/</guid>
-      <pubDate>Sat, 19 Apr 2025 23:22:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
