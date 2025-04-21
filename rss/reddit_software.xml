@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 21 Apr 2025 03:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 06:02:36 GMT</lastBuildDate>
+    <item>
+      <title>麦克风在更改音频驱动器时停止工作</title>
+      <link>https://www.reddit.com/r/software/comments/1k46atj/microphone_stops_working_when_changing_audio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   heyo希望这非常容易修复。但是默认情况下，我的声音系统不能让我使用音频增强功能，似乎唯一的访问它们的方法是安装其他驱动程序   Realtek是默认值，并且没有音频增强功能。无论如何，当我安装驱动程序时，我可以访问增强功能，并且它的工作原理就像预期的那样，但副作用是PC不再汇总我有一个麦克风，而是使用笔记本电脑默认麦克风，甚至没有向我显示我在       如果我返回并重新安装默认驱动程序的音频驱动器，则麦克风可以恢复正常工作。有什么方法可以两者都可以？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/cyruim     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k46atj/microphone_stops_working_when_changing_audio/</guid>
+      <pubDate>Mon, 21 Apr 2025 05:48:11 GMT</pubDate>
+    </item>
     <item>
       <title>强制黑暗模式任何应用</title>
       <link>https://www.reddit.com/r/software/comments/1k41u7i/force_dark_mode_any_app/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在将一些视频转换为mp3文件，以获取使用FreeConvert的某些内容，我只想知道它是否安全，有很多广告，网站似乎是100％合法的，只是确保我不想获得病毒或其他任何东西       &lt;！提交由＆＃32; /u/u/wild hand145      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k31ts7/is_freeconvert_safe/</guid>
       <pubDate>Sat, 19 Apr 2025 17:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVD燃烧</title>
-      <link>https://www.reddit.com/r/software/comments/1k2zs4f/dvd_burn/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我有大量的MKV，并给定了最近的Hu•lu+dis.ne.ne•y对，我试图燃烧几部电影，让我的孩子们玩DVD并远离淫秽的爪子，远远更长。但是Brasero（IM在Linux上）使我陷入困境，它“烧毁”了一个视频项目，但将其作为数据燃烧而输出，因此媒体不会在DVD播放器上播放，我尝试解决此问题，但似乎Brasero似乎无法正常工作。我应该使用K3B是常规的Brasero Shenanigan还是我只是被卡住了？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mission_neat_3485     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k2zs4f/dvd_burn/</guid>
-      <pubDate>Sat, 19 Apr 2025 16:09:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
