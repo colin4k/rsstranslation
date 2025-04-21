@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 21 Apr 2025 06:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 09:02:17 GMT</lastBuildDate>
+    <item>
+      <title>GitHub-Mohammadsf7293/Golang-Boilerplate：一个简单且结构良好的golang项目，适用于社区最佳实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1k48mvd/github_mohammadsf7293golangboilerplate_a_simple/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mohammad7293       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k48mvd/github_mohammadsf7293golangboilerplate_a_simple/</guid>
+      <pubDate>Mon, 21 Apr 2025 08:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL JSONB-半结构化数据的强大存储空间</title>
+      <link>https://www.reddit.com/r/programming/comments/1k48mey/postgresql_jsonb_powerful_storage_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/Adventurous-salt8514      [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k48mey/postgresql_jsonb_powerful_storage_for/</guid>
+      <pubDate>Mon, 21 Apr 2025 08:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的Python程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1k48lel/simple_python_program/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个简单的python程序，适用于初学者。提交由＆＃32; /u/u/useast8968      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k48lel/simple_python_program/</guid>
+      <pubDate>Mon, 21 Apr 2025 08:33:36 GMT</pubDate>
+    </item>
     <item>
       <title>使用点亮的网络组件构建简单的电子商务网站</title>
       <link>https://www.reddit.com/r/programming/comments/1k45nqt/build_simple_ecommerce_site_using_lit_web/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>2025年工程团队的顶级AI编码工具</title>
       <link>https://www.reddit.com/r/programming/comments/1k3sqj0/top_ai_coding_tools_for_engineering_teams_in_2025/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/gregorojstersek   [link] ＆＃32;   [注释]    ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gregorojstersek      [注释]    ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k3sqj0/top_ai_coding_tools_for_engineering_teams_in_2025/</guid>
       <pubDate>Sun, 20 Apr 2025 18:11:03 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/indeyets      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k3mjlz/jujutsu_different_approach_to_versioning/</guid>
       <pubDate>Sun, 20 Apr 2025 13:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>一小段潜入虚拟记忆</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3m3oy/a_small_dive_into_virtual_memory/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我最近对虚拟内存进行了小简介。我计划进行后续行动，如果某些人感兴趣：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/1337axxo      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3m3oy/a_small_dive_into_virtual_memory/</guid>
-      <pubDate>Sun, 20 Apr 2025 13:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>F1种族预测算法（WIP）：一种复杂的配方赛仿真工具，该工具模拟并预测了F1种族结果，具有基于驾驶员技能，团队绩效，轨道特征和动态天气状况的现实参数的现实参数。</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3m2fd/f1_race_prediction_algorithm_wip_a_sophisticated/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mehmettkahya     link”   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3m2fd/f1_race_prediction_algorithm_wip_a_sophisticated/</guid>
-      <pubDate>Sun, 20 Apr 2025 13:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>领事MCP服务器（ModelContextProtocol）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k3i9i6/a_consul_mcp_server_modelcontextprotocol/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我很高兴分享一个我一直在开发的项目：领事 -  MCP-Server  - 一个用于领事的MCP接口。 您可以使用自然或结构化命令来编程和控制基础架构。键值存储 🔐sessions  📣事件  🧭准备好查询   status     agent     qutmemate 🖥项目 如果您可以免费贡献或给它造成贡献或觉得有用。总是欢迎反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/deedarworkerChoice68      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k3i9i6/a_consul_mcp_server_modelcontextprotocol/</guid>
-      <pubDate>Sun, 20 Apr 2025 08:45:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
