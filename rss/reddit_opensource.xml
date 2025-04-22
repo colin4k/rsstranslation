@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 22 Apr 2025 00:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 03:15:59 GMT</lastBuildDate>
+    <item>
+      <title>我为Django开放了一个由AI驱动的Web应用程序防火墙，该防火墙是为非营利组织和独立开发人员建造的 - 欢迎反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k4wavx/ive_opensourced_an_aipowered_web_application/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mediocre_scallion_99      [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k4wavx/ive_opensourced_an_aipowered_web_application/</guid>
+      <pubDate>Tue, 22 Apr 2025 03:07:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github -Masutaka/github -nippou：打印今天的GitHub活动，以解决问题并提取请求。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k4vzap/github_masutakagithubnippou_print_todays_your/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  这是一个有用的CLI，当您参考GitHub编写每日报告时。 Nippou是日语单词，意为每日报告。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/masutakanet       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k4vzap/github_masutakagithubnippou_print_todays_your/</guid>
+      <pubDate>Tue, 22 Apr 2025 02:49:59 GMT</pubDate>
+    </item>
     <item>
       <title>开源Android应用程序滚动滚动</title>
       <link>https://www.reddit.com/r/opensource/comments/1k4sd9m/open_source_android_app_to_scroll_by_tilting_your/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经维护了一个多个月的开源回购，我今天收到了同一问题的PR。 Github似乎不允许任何人将问题分配给自己。我想知道是否在问题模板上写下“如果您正在研究的话，请发表评论”会很好吗？是否有任何建议的方法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/totle-assignment6240     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k3y8j7/whats_the_best_practice_to_communicate_if_a/</guid>
       <pubDate>Sun, 20 Apr 2025 22:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为流行的Anyflip下载器命令行创建了一个GUI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k3y78f/i_created_a_gui_for_the_popular_anyflip/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  不确定这是正确的位置，但是当想从Anyflip下载某些内容时，我发现Lofter1的Anyflip下载器工具。我看到很多人遇到了了解如何从命令行运行的问题，所以我为此写了一个GUI，并包括了许多基本工具所没有的自动化。   https://github.com/trialanderrorops/trialanderrops/trialanderrops/anyflip-gui-downloader/tree/tree/main/main/main 提交由＆＃32; /u/u/cccontent     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k3y78f/i_created_a_gui_for_the_popular_anyflip/</guid>
-      <pubDate>Sun, 20 Apr 2025 22:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了Ubichain  - 一个打字稿库，用于生成和验证多个区块链的密钥，地址和钱包（BTC，ETH，SOL，SOI，SUI，更多）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k3y4v0/i_created_ubichain_a_typescript_library_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿devs！ 👋我一直在构建  ubichain    - 一个开放式式输入式库，使用一致的，最小值和可扩展的API            比特币（p2pkh，p2sh，segwit v0＆amp; v1  -  taproot，testnet支持）   以太坊＆amp; EVM链（EIP-55校验和密钥生成 地址验证和格式化  HD钱包推导（BIP32＆amp; Slip-0010） 所有链中的统一的API  类型安全和最小依赖性设计      💻github中包含的游乐场： github.com/oritwoen/ubichain    喜欢反馈和提出建议。贡献欢迎〜🧙‍♂️   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iredni     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k3y4v0/i_created_ubichain_a_typescript_library_to/</guid>
-      <pubDate>Sun, 20 Apr 2025 22:22:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
