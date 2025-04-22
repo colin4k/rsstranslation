@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 22 Apr 2025 12:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 15:03:05 GMT</lastBuildDate>
+    <item>
+      <title>Github Copilot使用行为调查 -  18岁以上，所有国家，程序员，开发人员或具有一些编程经验 - 调查需要5-8分钟</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k58hq6/github_copilot_use_behaviour_survey_18_years_old/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在进行有关GitHub副副行为的调查。这是对我的硕士论文的调查，所有回答都是匿名的，除了学术研究外没有其他目的。回答调查的唯一要求是您必须年满18岁。调查将花费您5-8分钟。感谢您的宝贵时间。   https：//novaims.eu.qualtrics.com.qualtrics.com.qualtrics.com/jfe/jfe/sv_9gjndq_ndsc1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 q1 Q1 Q1 Q1 Q1。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/koalasamuraituga     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k58hq6/github_copilot_behaviour_survey_survey_18_years_old/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k58hq6/github_copilot_use_behaviour_survey_18_years_old/</guid>
+      <pubDate>Tue, 22 Apr 2025 15:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DESENT PYTHON项目（去中心化文本消息系统）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k586dw/desent_python_project_decentralized_text/</link>
+      <description><![CDATA[Hey all, I’ve been working on a project called DeSent, a decentralized, privacy-first text messaging service that uses NGROK tunneling and (soon) onion-style routing to enable secure, anonymous communication without centralized servers or logs. 🔐 What is DeSent? DeSent is designed to make secure messaging accessible, resilient, and censorship-resistant, even for people without deep networking experience. Here’s what it does: 🛰️ Decentralized Messaging via NGROK Tunnels  Users can host their own servers — no central infrastructure.  NAT和ISP限制的NGrok隧道，让您旋转一个无需端口转发或防火墙调整的消息传递节点。     在磁盘上记录或存储任何消息 - 一切都是短暂的。      tor-tor-tor-inspired inion inion inion inion inion/in li in li in li and li and h1  与Tor相似：每条消息逐层加密/解密，因此没有一个服务器知道完整的路径。 这将有助于防止跟踪或拦截消息，从而在监测或持续的环境中保护用户。 encryption are still in development — if you’re interested in helping build this, I’d love to collaborate! 🌐 Public Indexing (Testing Phase)  Servers can opt to be listed on a public index site. Example: Will’s Server – b1ac-216-126-34-147 (NGROK tunnel地址） 该索引可帮助用户发现主动服务器，监视受欢迎程度，并在节点下降（如果下降）下降。欢迎！ 这不是一家公司，而是一个激情的项目。尽可能少地提供帮助。没有压力。  Raspberry Pi 3-5首选希望托管自己的节点的人（请记住，我现在正在使用SystemCtl，但会更改）   github repo：    👉 https://github.com/kaiserwilhelm23/desent    如果这听起来很有趣，请查看或删除答复。很想听听反馈或想法，或者只是关于隐私协议和分散基础设施的书呆子。 ✌️Heyall，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hugues-de-paynes     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k586dw/desent_python_project_decentralized_text/</guid>
+      <pubDate>Tue, 22 Apr 2025 14:49:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个最小的项目，我可以在很小的时间内直接参与</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k56sx6/looking_for_a_minimal_project_which_i_can/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  正如我在标题中所说的那样，我正在寻找一个OSS项目，但目前我无法阅读很长的文档和代码，也可以认为我是OSS贡献者工作的初学者。我对台式环境和网络安全（尤其是Websec）      &lt;！提交由＆＃32; /u/pacman0026     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k56sx6/looking_for_a_minimal_project_which_i_can/</guid>
+      <pubDate>Tue, 22 Apr 2025 13:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍BlazeCast  - 一个用Tauri + Rust构建的快速，开源生产力应用程序（早期Beta）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k54oo6/introducing_blazecast_a_fast_opensource/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我很高兴分享我的开放式项目的早期beta  React. ⚡ What is Blazecast? Blazecast is a lightweight tools inspired by Raycast built for Windows users who want speed, simplicity, and powerful workflows. It’s completely open-source and licensed under the MIT许可。 ✨关键功能   应用程序启动器  - 立即使用 alt&gt; alt + Space      clipboard Manager 立即启动您喜欢的应用为网站，文件夹或工作流创建快捷方式，您使用每天使用 最小UI，本机速度  - 使用Rust + Tauri构建的天然速度   📅路线图&gt; ROADMAP         spippets＆ampets＆amp＆amp＆amp＆amp;文本扩展 插件生态系统 主题＆amp;暗模式  🤝贡献＆amp; Feedback If BlazeCast sounds useful to you, I’d love:  ⭐ GitHub stars 🐞 Bug reports 🧠 Feature suggestions 👩‍💻 Contributors!  Open to all ideas or feedback feel free to open an issue or reach out.让我们一起为Windows生产力构建一些很棒的东西！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/select_potato_6232      [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k54oo6/introducing_blazecast_a_fast_opensource/</guid>
+      <pubDate>Tue, 22 Apr 2025 12:08:37 GMT</pubDate>
+    </item>
     <item>
       <title>最后通：在Android上支持Webextensions的铬</title>
       <link>https://www.reddit.com/r/opensource/comments/1k54gyl/ultimatum_chromium_with_webextensions_support_on/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   有关更多信息，请查看github存储库并恒星！它将帮助我创建更多奇怪的项目。    https：//github.com/samundersingh12/redcli 提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_so_i_i_created_a_reddit_cli_client/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_i_so_created_a_reddit_cli_cli_client/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k4c3d9/i_was_bored_so_i_created_a_reddit_cli_client/</guid>
       <pubDate>Mon, 21 Apr 2025 12:17:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种开源元数据删除工具，用于隐私意识的人</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4b03d/an_opensource_metadata_removal_tool_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 作为一个对隐私有点偏执的人，我一直发现它不安，这令人不安，有多少工具要求您将文件上传到随机的服务器上，即使是对基本的东西进行基本的删除元数据。 href =“ https://privmeta.com/”&gt;  priveta    - 一个轻巧的开放式浏览器应用程序，从文档，图像和pdfs 完全可以完全处理           Wi-Fi使用它 它是免费的开放源代码（这是 repo ）   ，它本来应该是超级简单的隐私工具。将来，我正在考虑制造更多类似的工具 - 也许是文件转换器，PDF修复，类似的东西 - 所有这些都在本地运行，服务器端处理。 我很想听听您的想法。在这样的东西中，您是否会发现任何功能？还是您期望但看不到的东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/twpinguu     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4b03d/an_opensource_metadata_removal_tool_for/</guid>
-      <pubDate>Mon, 21 Apr 2025 11:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>github -iondodon/时间轴：一种交互式可视化工具，该工具通过互连的时间表和地图接口将历史记录带入生活。该项目允许用户探索跨时间和空间的历史事件，为每个事件提供丰富的上下文和详细信息。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k497co/github_iondodontimeline_an_interactive/</link>
-      <description><![CDATA[   &lt;img alt=&quot;GitHub - iondodon/timeline: An interactive visualization tool that brings history to life through an interconnected timeline and map interface. This project allows users to跨时空探索历史事件，为每个事件提供丰富的上下文和详细信息。” src =“ https://external-preview.redd.it/x-qdkqqqatgmvk87tjskcre1ikonz-lohnll6lll6utrxh5s.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 7187e97ae62Eece6eece6e4e2fd521ae06a058aad2cdb“ title =“ github -iondodon/时间轴：一种交互式可视化工具，通过互连的时间轴和地图接口将历史带入生活。此项目允许用户跨时和空间探索历史事件，为每个事件提供丰富的上下文和详细信息。” /&gt;   ＆＃32;提交由＆＃32; /u/u/aggressivebee4152      [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k497co/github_iondodontimeline_an_interactive/</guid>
-      <pubDate>Mon, 21 Apr 2025 09:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我改善了OpenHabitTracker</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k48qru/i_improved_openhabittracker/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   OpenHabitTracker是一种免费的广告，开源，集中的隐私（所有数据都存储在您的设备上）应用程序（均为宣传），任务和习惯，习惯，以及在Android，iOS，iOS，iOS，iOS，MacOS，MacOS，Linux，Windows，Windows，Windows和Web（AS PWA）上。请通过 https://openhabittracker.net    在线启用您可以下载您可以下载并将其部署在您的服务器上。这样，您所有数据都在您控制之下。 两个月前，您给了我很好的反馈，非常感谢您！ 应用程序中的更改：  改进的过滤器 在隐藏已完成的任务         添加了docker Image in docker Image      。 href =“ http：// localhost：5000/login％e2％81％a0”&gt; http：// localhost：5000/login⁠您可以使用相同的浏览器选项卡来访问：    logs： http：// localhost：5000/watchdog⁠   openapi json： http：// localhost：5000/openapi/v1.json⁠ href =“ http：// localhost：5000/scalar/v1％e2％81％a0”&gt; http：// localhost：5000/stalcar/v1⁠     ，我很想听到您的想法或想法或想法，以使您的想法或想法！提交由＆＃32; /u/u/jinjinov     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k48qru/i_improved_openhabittracker/</guid>
-      <pubDate>Mon, 21 Apr 2025 08:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀潜水V0.8.0在这里 - 重大建筑大修和功能升级！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k480sh/dive_v080_is_here_major_architecture_overhaul_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   潜水是一个开源AI代理桌面应用程序，旨在无缝集成LLM，以支持与MCP服务器进行支持的工具。作为开放代理平台项目的一部分，Dive旨在创建灵活且可扩展的AI代理生态系统。  现在尝试最新版本： &gt; https://github.com/openagentplatform/dive/releases   &gt; 🔄v0.8.0中的亮点：    llm功能更新       启用或跳过模型验证。 对具有工具/功能呼叫功能的模型的全力支持。   🛠️MCPMCP功能增强功能增强  用户现在可以在MCP Server中添加，编辑或删除MCP Server中的SONED和FLIES CORVITION INDER EDERS。格式。  🔧divehost体系结构更新 从0.8.0版本开始，DiveHost已完全从打字稿迁移到Python。 Although this technical transition temporarily paused development for about two weeks, we’re happy to report it was successfully completed and opens up exciting new possibilities. (*Why the switch to Python? We encountered several limitations using LangChain in TypeScript—particularly with integration in LM Studio. The Python version of LangChain, on the other hand, works smoothly. After evaluating our团队的资源和工程优先级，我们选择过渡到Python，不是因为一种语言本质上是更好的，而是因为它更好地适合我们当前的开发需求。） 💡divehost现在是独立的divehost dive to and and to and and and to and and and and and and and，部署。 👉 https://github.com/openagentplatform/dive-mcp-host/dive-mcp-host      是一个开放式服务器台式台式应用程序，该应用程序供不应求。作为开放代理平台项目的一部分，Dive旨在创建灵活且可扩展的AI代理生态系统。  现在尝试最新版本： &gt; https://github.com/openagentplatform/dive/releases    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/biggo_official     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k480sh/dive_v080_is_here_major_architecture_overhaul_and/</guid>
-      <pubDate>Mon, 21 Apr 2025 07:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
