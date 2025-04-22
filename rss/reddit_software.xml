@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 22 Apr 2025 09:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 12:02:33 GMT</lastBuildDate>
+    <item>
+      <title>使用网络摄像头作为条形码扫描仪？不是QR码。</title>
+      <link>https://www.reddit.com/r/software/comments/1k545kt/use_webcam_as_barcode_scanner_not_qr_code/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   tl; dr：我想将条形码（不是qr code）持续到我的网络摄像头，并立即将数字写入集中的文本字段中。  hello hell hell。在我的工作中，我偶尔必须扫描条形码并将其输入文本字段。我经常这样做以至于我想自动化它，但是在办公桌上放一个手动扫描仪是有意义的。 理想情况下，我想单击文本字段，握住条形码（不是qr code）   在相机上，并立即将文本填充到文本框中。 全部。似乎他们无法使用我的相机或看不到条形码。 您知道有什么方法可以实现这一目标？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/sjarri     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k545kt/use_webcam_as_barcode_scanner_not_qr_code/</guid>
+      <pubDate>Tue, 22 Apr 2025 11:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebChatagent：100％免费的AI聊天机器人在几分钟内学习您的网站</title>
+      <link>https://www.reddit.com/r/software/comments/1k545ds/webchatagent_the_100_free_ai_chatbot_that_learns/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  去年为聊天小部件付费。 🤖 webChatagent可让您旋转 free &lt; /em&gt; ai助手，该助手会爬行您的页面或摄入文档，然后以零成本以零成本为gpt -4或gemini提供的上下文意识回复的访客，以零成本，没有收获。 &lt; /p&gt; 🔹插入自定义工具 /API，以便机器人不仅可以聊天。🔹drop -ind js spippet或wordpress插件=在五分钟内实时。🔹多语言和WCAG 2.2 AA可访问。  检查一下→ webchatagent.com 。 您与之构建？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/doweb       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k545ds/webchatagent_the_100_free_ai_chatbot_that_learns/</guid>
+      <pubDate>Tue, 22 Apr 2025 11:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最近发现的最好的免费软件是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1k532fl/whats_the_best_free_software_youve_discovered/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在寻找很棒的免费软件，这可以使我的生活更轻松，更有生产力或更有趣。无论是用于生产力，组织，媒体管理的软件，还是我很好奇您最近遇到的哪些免费工具给您留下了深刻印象的任何其他工具。 您最近发现的最佳免费软件程序是什么？也许您甚至都不知道您需要的东西，但是现在一直使用？ 让我们分享我们最喜欢的免费宝石！预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/xavierfern3751     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k532fl/whats_the_best_free_software_youve_discovered/</guid>
+      <pubDate>Tue, 22 Apr 2025 10:34:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习编码的最佳软件（自学成才）？</title>
+      <link>https://www.reddit.com/r/software/comments/1k52lmq/best_software_for_learning_to_code_selftaught/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在研究编程和自学途径的世界。有这么多的资源和平台，我想问： 我主要是在寻找提供的东西的最佳软件工具或平台是什么？ 涵盖了Python，JavaScript或HTML/CSS    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/redlion8472     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k52lmq/best_software_for_learning_to_code_selftaught/</guid>
+      <pubDate>Tue, 22 Apr 2025 10:03:15 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用OBS记录？说真的，我在做什么错？</title>
       <link>https://www.reddit.com/r/software/comments/1k4wmn3/how_to_record_with_obs_seriously_what_am_i_doing/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！  有人知道，在需要登录并包含高度机密数据的平台上构建使用Selenium进行网络刮擦的软件是否是违法的？ 这个想法是将来自多个帐户的数据集中到单个平台中。当然，只有帐户所有者才能访问自己的敏感数据 - 没有第三方会看到或存储任何内容。 这最初是客户的自定义请求，但是现在我正在考虑将其转变为商业产品，因为我知道很多人可以从中受益。在进行前进之前，我想了解这样做的法律含义。 我找不到他们平台使用条款中有关此事的任何特定内容，因此我不确定项目的可行性。  预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/almeida2233    href =“ https://www.reddit.com/r/software/comments/1k4at30/legal_issues_with_web_scraping/”&gt; [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k4at30/legal_issues_with_web_scraping/</guid>
       <pubDate>Mon, 21 Apr 2025 11:04:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 16让Linux终端使用手机的整个存储空间 - “使用最新的Android 16 beta，您现在可以分配尽可能多的存储空间，并将其分配给Linux终端”</title>
-      <link>https://www.reddit.com/r/software/comments/1k49m21/android_16_lets_the_linux_terminal_use_your/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k49m21/android_16_lets_the_linux_terminal_use_your/</guid>
-      <pubDate>Mon, 21 Apr 2025 09:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于精确YouTube视频切割与转换的在线工具（视频剪辑，MP3，GIF）</title>
-      <link>https://www.reddit.com/r/software/comments/1k48zzz/online_tool_for_precise_youtube_video_cutting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/software ， 共享基于网络的工具，我经常通过桌面编辑器来处理&lt;台式  将特定于特定于youtpe的pots confers y youtube confers y youtube confers y youtpe  。  工具名称： appsgolem youtube切割机 平台： Web浏览器 链接：      YouTube URL输入：直接从YouTube链接中加载视频。    集成的预览播放​​器：允许您擦洗并找到所需的确切点并找到所需的确切点。       timeTemp  extem Multiple Export Formats:  Standard Video Clip (with original audio) Audio-Only Extraction (MP3) Video-Only Extraction (Silent) Animated GIF Creation  Video Quality Options: Selectable resolution for video exports (e.g., 4K,1080p, 720p, etc., based on source availability).  Important Consideration: ⚠️ A free user registration is required to process and download the final output files. Potential Use Cases / Comparison: While dedicated video editors offer more power, this online tool provides a convenient,用于以下常见任务的无安装替代方法：  迅速从长时间视频中抓住特定的报价或场景。 而无需单独的软件提取音频轨道。 直接从YouTube源中生成反应GIF。在下载之前，一个位置的多个输出选项是强制性注册。 对于那些喜欢Web应用程序或需要快速解决方案而不安装专用软件的人可能很有用。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shieldBearer300     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k48zzz/online_tool_for_precise_youtube_video_cutting/</guid>
-      <pubDate>Mon, 21 Apr 2025 09:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>麦克风在更改音频驱动器时停止工作</title>
-      <link>https://www.reddit.com/r/software/comments/1k46atj/microphone_stops_working_when_changing_audio/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   heyo希望这非常容易修复。但是默认情况下，我的声音系统不能让我使用音频增强功能，似乎唯一的访问它们的方法是安装其他驱动程序   Realtek是默认值，并且没有音频增强功能。无论如何，当我安装驱动程序时，我可以访问增强功能，并且它的工作原理就像预期的那样，但副作用是PC不再汇总我有一个麦克风，而是使用笔记本电脑默认麦克风，甚至没有向我显示我在       如果我返回并重新安装默认驱动程序的音频驱动器，则麦克风可以恢复正常工作。有什么方法可以两者都可以？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/cyruim     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k46atj/microphone_stops_working_when_changing_audio/</guid>
-      <pubDate>Mon, 21 Apr 2025 05:48:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>强制黑暗模式任何应用</title>
-      <link>https://www.reddit.com/r/software/comments/1k41u7i/force_dark_mode_any_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  编辑：感谢 u/gcredditor136 ， 有10美元的Instabuy  有一个应用程序（3U工具），该应用程序并未带有黑暗主题。  如果有一种至少倒转颜色的方法，我正在徘徊，或者可以编辑EXE文件的某些资源以用黑色替换白色？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/landxhent      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k41u7i/force_dark_mode_any_app/</guid>
-      <pubDate>Mon, 21 Apr 2025 01:29:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
