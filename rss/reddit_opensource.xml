@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 23 Apr 2025 00:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 03:16:45 GMT</lastBuildDate>
+    <item>
+      <title>Secret.rs-与其他本地分享秘密</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k5ozr9/secretrs_share_secrets_with_others_onpremises/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hi！我刚刚在Github上发布了我的第一个“有用”（我希望）Rust Project。这是一个简单的Web应用程序和API，可让您与他人分享秘密。 秘密被存储了加密，并且只能用正确的密码键进行加速/解密。 如果您想看看它，它在github [there]上[&lt; href =“ https://github.com/edvm/secrets-on-premises”&gt; https://github.com/edvm/secrets-on-premises ）：  ps：  ps：再次，这是我的第一个生锈项目，这是我的第一个rust项目，因此，反馈和建议是32个    提交由＆＃32; /u/u/edvmreddit     [link link]&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k5ozr9/secretrs_share_secrets_with_others_onpremises/</guid>
+      <pubDate>Wed, 23 Apr 2025 02:59:14 GMT</pubDate>
+    </item>
     <item>
       <title>SIDEM-用于管理.ENV文件的TUI</title>
       <link>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，开放式旅行者， 我在月球上宣布充满了越来越多的生产准备，设计精美且高度可定制的组件，以增强您的Android应用程序。 我已经从事此工作已经很长时了。您可能还记得大约一周前发布的有关此文章的偷看帖子。光滑，可扩展的，并且在各个设备之间都可以很好地运行。 wizards. Toggle Buttons Group or standalone toggle buttons with clear state feedback, animations and full theming support—perfect for creating intuitive and responsive UIs. Modern Toast Sleek and customizable toast messages with support for different variants, icons, actions, and durations—designed to feel right at现代Android应用中的房屋。  网格系统 一个轻巧但功能强大的网格布局系统，其功能与CSS Grid相似，使您能够使用Compose构建灵活的，响应式的布局，并使用Compose构建灵活的，        contrape for for andibion​​  collaps  collaps  collaps  collaps  contrape  FAQ，设置或空间管理为关键的任何上下文。  过滤芯片 可自定义的过滤芯片，这些芯片支持多选择，活动/非活动状态，并且具有完全风格的状态。   多功能文本输入 清洁，易于访问且可主题的输入字段，包括：        标准输入   标签输入&lt; /strong&gt; 让用户使用直观的标签输入组件轻松地输入和管理标签。包括支持键盘快捷键，重复处理和验证的支持。  权限处理程序 一个可靠的权限处理程序，该处理程序有助于有条件地渲染或启用基于系统级别的许可证的UI元素。   按钮 手柄运行时许可。随附对脸部，指纹和后退流动的内置支撑 - 最小的样板，最大安全性。  日期组件    incly：    日期输入字段 一个精美设计的日期访问者              表单或日历。  下一步是什么？   kwikui才刚刚开始。期望更多的组件甚至更深的集成。，我是否也提到了Kotlin Multiplatform在路线图上？是的，期望在不久的将来支持KMP。 迫不及待地想看到您使用它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_v10_an_open_source_ui_library/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_vikui_v10_an_open_source_source_ui_library/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_v10_an_open_source_ui_library/</guid>
       <pubDate>Mon, 21 Apr 2025 18:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟OS：欧洲公共部门Linux桌面的提案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_os_a_european_proposal_for_a_public_sector/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/crankybear     ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_o_a_eulopopoal_europopolopopal_for_a_public_sector/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_os_a_european_proposal_for_a_public_sector/</guid>
-      <pubDate>Mon, 21 Apr 2025 17:21:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
