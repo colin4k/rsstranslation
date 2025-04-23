@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 22 Apr 2025 18:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:03:49 GMT</lastBuildDate>
+    <item>
+      <title>可以将模拟游戏板操纵杆映射到脉冲宽度调制的钥匙宏的键映射软件</title>
+      <link>https://www.reddit.com/r/software/comments/1k5k1xs/key_mapping_software_that_can_map_an_analog/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   a  pwm 麦克罗可以授予任何数字输入的模拟类模拟的控制程度（例如任何数字输入）（例如，键盘键或游戏键）。它基本上是固定的频率涡轮宏，但是按下钥匙的周期与未经压力是可调的（又称占空比）。在这种情况下，将通过推动模拟棒的距离进行调整。例如，当将棒推到北方的10％时，宏将W键按宏观周期的10％按下W键，并以剩余的90％的速度将其不满。在60％的情况下，W键被压缩为60％，未受40％的未受解注，依此类推。按下100％推杆的棍子等于将钥匙像正常一样按下。我的想法是用它将模拟播放器移动添加到不支持GamePads的某些PC游戏中；只有通过WASD/箭头键进行播放器移动。我知道这可能是由于AntimaCro实施，或者只是游戏本身的设计，这可能对某些游戏不起作用。但是除此之外，还有任何可以执行此操作的软件吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gery-genderous     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k5k1xs/key_mapping_software_that_can_map_an_analog/</guid>
+      <pubDate>Tue, 22 Apr 2025 22:53:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个工具来修复远程狩猎最令人沮丧的部分</title>
+      <link>https://www.reddit.com/r/software/comments/1k5goie/i_built_a_tool_to_fix_the_most_frustrating_part/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的妻子最近正在寻找工作，并一直遇到同一问题：她将“远程”的过滤器设置为“遥控器”，但结果充满了混合动力，甚至充满了现场工作。最重要的是，她不得不不断刷新多个标签并一次又一次地滚动浏览相同的列表。 ，所以我构建了 first2apply ，轻量级桌面应用程序在一个新工作时会在新职位上发出新的职务，并在大型职位上发表了新的工作，该应用程序会迅速发出。它可以在本地运行，并监视无需存储个人数据而保存的搜索。当它检测到新的清单时，它会捕获完整的职位描述，以便您可以快速扫描并确定是否值得应用。 它也是开源的，您也可以在此处查看：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/drakedemon       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k5goie/i_built_a_tool_to_fix_the_most_frustrating_part/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:29:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>感觉很好使用的软件？ （表演者，响应迅速）</title>
+      <link>https://www.reddit.com/r/software/comments/1k5gcvh/software_that_feels_good_to_use_performant/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  使用文件试验器（文件资源管理器替换）后，我意识到我的价值速度，响应能力和整体性能的程度。不仅与您的普通网络应用程序（如Discord等）进行比较，还可以像使用本机Windows文件资源管理器之类的东西。提交由＆＃32; /u/yelov     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k5gcvh/software_that_feels_good_to_use_performant/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1k5g07n/need_advice/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您认为哪对找到工作的机会更高并产生高质量的个人项目？ 注意：我有C＃背景。但是我对js   dotnet+react   ＆gt; node+react+react  实际上，我的主要疑问是我能否与dotnet+react？     &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/upious-ad6502      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k5g07n/need_advice/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了Tabify-选项卡管理的镀铬扩展</title>
+      <link>https://www.reddit.com/r/software/comments/1k5f9zk/i_built_tabify_a_chrome_extension_for_tab/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我最近构建了 自定义快捷方式：导航选项卡更有效地 新标签自定义：为新标签设置首选URL   我会感谢任何反馈请求 - 功能请求，错误报告或一般想法，例如您最大的标签疼痛点是什么？什么功能会使Tabify对您的工作流有用？  链接：    https://chromewebstore.google.com/detail/tabify/bokfkclamoepkmhjncgkdldmhfpgfdmo     https://tabify.dev       &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/alajmo     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k5f9zk/i_built_tabify_a_chrome_extension_for_tab/</guid>
+      <pubDate>Tue, 22 Apr 2025 19:32:43 GMT</pubDate>
+    </item>
     <item>
       <title>介绍Antiyandex-安全删除Yandex浏览器的工具</title>
       <link>https://www.reddit.com/r/software/comments/1k5cvlq/introducing_antiyandex_a_tool_to_remove_yandex/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  显然 alfred   除了剪贴板的历史范围之外，这是我个人最大的好处之一。  我环顾四周，但是我真的只想要像阿尔弗雷德这样的东西，我可以在这里做一个热键（例如win + v），然后查看我的文本并复制零件，或者使用整个东西，然后在发布之前在大窗口中查看图像。  我发现的最接近的是一些“智能”启动器，该发射器在后台使用同上/其他应用程序。但是理想情况下，我只想要一个简单的应用程序。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mx772     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k4nh2z/clipboard_manager_for_windows_like_alfred/</guid>
       <pubDate>Mon, 21 Apr 2025 20:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网页监视软件，例如网站观察者</title>
-      <link>https://www.reddit.com/r/software/comments/1k4kyt8/looking_for_web_page_monitoring_software_like/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找Windows友好软件，这些软件会告诉我，当我的特定页面在第二个或min上更改时，并且不是基于订阅的。  网站观察者在当天对此非常有用，但已经陷入困境。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tapthisbong     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k4kyt8/looking_for_web_page_monitoring_software_like/</guid>
-      <pubDate>Mon, 21 Apr 2025 18:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11的非常紧凑，可自定义的EPUB读取器</title>
-      <link>https://www.reddit.com/r/software/comments/1k4ijjv/very_compact_customizable_epub_reader_for_windows/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我正在寻找笔记本电脑的Epub读取器，并遇到了一些问题。我的计算机遇到了一个问题，使应用程序窗口很大，切断了窗口的边界，而通常不可用的缩放选项。我已经尝试修复它，但是这似乎是这台笔记本电脑的故意设计选择，我找不到通用修复程序。这很烦人，但是幸运的是，某些应用程序具有内置的缩放功能。 因此，我一直在尝试使用具有允许完整重新续订应用程序的设置的应用程序。我需要应用程序中的所有元素才能缩放到尺寸要小得多（想想初始尺寸的30％），否则它不起作用。这里有人知道EPUB读取器可以使我可以将所有内容扩展到更可管理的规模吗？我尝试了thorum，但在我的屏幕上很有趣，我的主页上的每本书图像大约是整个显示器的三分之一，并且所有书籍在每个页面上只显示一个或两个句子。 谢谢！    &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/iyonia     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k4ijjv/very_compact_customizable_epub_reader_for_windows/</guid>
-      <pubDate>Mon, 21 Apr 2025 17:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>RANT：当Windows应用程序设计时，我讨厌它的外观，感觉，Mac应用程序的UI行为</title>
-      <link>https://www.reddit.com/r/software/comments/1k4hhxj/rant_i_hate_it_when_windows_apps_are_designed/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚安装了MarkText，并立即注意到它看起来和感觉与Windows App一样。点击寄存器的方式，上下文菜单渲染方式以及整体窗口设计仅仅是Mac的smacks。我还注意到了大多数DAW。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jarlballnuts     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k4hhxj/rant_i_hate_it_when_windows_apps_are_designed/</guid>
-      <pubDate>Mon, 21 Apr 2025 16:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>cookie解释了🍪为什么每个网站都会询问有关cookie的信息（以及为什么要关心）</title>
-      <link>https://www.reddit.com/r/software/comments/1k4gjmt/cookies_explained_why_every_website_asks_about/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/caffeined_coder_       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k4gjmt/cookies_explained_why_every_website_asks_about/</guid>
-      <pubDate>Mon, 21 Apr 2025 15:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读技术报告的最佳方法？</title>
-      <link>https://www.reddit.com/r/software/comments/1k4fasn/best_way_to_read_technical_reports/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在我的组织中获得了晋升。在我的新角色中，我希望提供更多的架构级别解决方案，而不是编码。为了擅长工作，我意识到我需要阅读许多技术报告和文档。我开始这样做，并很快意识到我是不好的读者，要么是不正确的方法。  我开始阅读规格，然后去干草，因为规格具有我不知道的技术概念。因此，我切换到阅读有关的内容，还有其他内容。在不知不觉中，我最终进入了《无人土地》。  你们面对这个吗？您如何克服这个？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/apocalypse-2     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k4fasn/best_way_to_read_technical_reports/</guid>
-      <pubDate>Mon, 21 Apr 2025 14:45:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

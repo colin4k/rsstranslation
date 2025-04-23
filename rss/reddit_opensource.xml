@@ -4,20 +4,34 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 22 Apr 2025 18:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:04:06 GMT</lastBuildDate>
+    <item>
+      <title>SIDEM-用于管理.ENV文件的TUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我很大程度上依靠.env文件，并且常常发现自己在同一变量（dev vs. vs. vs. vs. vs. vs. vsse，不同的特征标志等）中都在嘲笑不同的值。为了使自己的生活更轻松，我构建了Sidem（简单的Dotenv Manager），这是一个使管理.ENV文件更容易的TUI应用程序。它使您可以快速打开或关闭变量，如果您在文件注释中设置了预定义值，则可以从预定义值中进行选择。它通过在.env文件中直接评论/未注释线路来起作用，因此没有单独的状态可以管理。如果您经常在不同的配置之间切换或只是想要一种视觉方式来管理环境设置，则可能会很方便。它写在旅途中。  您可以在此处查看： https：//github.com/taha-yassine/sidem    提交由＆＃32; /u/u/v0dros       [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</guid>
+      <pubDate>Tue, 22 Apr 2025 22:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个开源个人记录跟踪应用程序，用于举重 / CrossFit</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！ 当我启动CrossFit时，我们使用Boxplanner记录所有PRS。但是，我们几次更改了系统，所以我正在寻找一个独立于此的应用程序。我尝试了几个应用程序，但是它们要么太复杂，太贵，要么不友好。因此，我决定开发我的应用程序并将其开源，以便其他人可以做出贡献。  UI非常简单。您定义动作，添加PR，并可以编辑或删除它们。在单独的视图中，您还可以看到所有最大值。跟踪锻炼的功能将很快遵循。我希望能够将锻炼定义为AMRAP，并在重量，代表计数和时间上定义锻炼。输入的视图和良好的结构化数据非常欢迎。 它在Google Play上发布，任何人都可以下载并使用它。  Google Play： https://play.google.com/store/store/papps/apps/details?id=com.ramo.ramo.ramo.personalrecord  href=&quot;https://github.com/Ramo-Y/PersonalRecord&quot;&gt;https://github.com/Ramo-Y/PersonalRecord Advantages:  Free of charge No ads Data is only on the device (can be backed up by Android backup, but未同步） 开源 无需登录  代码在github上，目前已部署到Android的Play商店。使用和开发文档也在GitHub上，您可以报告错误，提出功能请求并在此处开始讨论。我是后端开发人员，但我尽了最大的努力来拥有一个不错的UI。这也是我的第一个.NET MAUI应用程序和移动应用程序。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/</guid>
+      <pubDate>Tue, 22 Apr 2025 18:36:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>好的UI数据库查看器软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k5dusl/good_ui_database_viewer_software/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我只从喷气机中找到了datagrip，但现在使用试验付费，但是真的没有好的选择吗？为什么所有其他DB观众都这么丑？大声笑  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/general-carrot-4624     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k5dusl/good_ui_database_viewer_software/</guid>
+      <pubDate>Tue, 22 Apr 2025 18:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>开源框</title>
       <link>https://www.reddit.com/r/opensource/comments/1k5cypf/open_source_box_like/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有一个像框一样的开源？ 我可以在哪里创建一个单独的文件夹。与一个人分享。只有那个人才能访问。 并有许多文件夹。与许多不同的人分享。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k5cypf/open_source_box_like/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k5cypf/open_source_box_like/</guid>
       <pubDate>Tue, 22 Apr 2025 18:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用此开源AI工具自动化电子邮件草稿</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k5ctnb/automate_your_email_drafts_with_this_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我做了一个AI电子邮件助手，任何人都可以免费使用。设置后，这就是它的作用：  上传电子邮件发送到私人数据库中，以培训AI，以了解您如何响应消息。 创建基于语气，声音和过去的邮件和过去的消息，供您快速审查和发送的信息，并在下载    https：//github.com/ericropernberg1/eericrosenberg1/ai-email-ashia-email-assistant-sassistant-sascestant---      和/或Docker版本，因此更易于使用和为较少技术人员设置。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k5ctnb/automate_your_your_email_email_drafts_with_with_this_open_source/&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k5ctnb/automate_your_email_drafts_with_this_open_source/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:55:38 GMT</pubDate>
     </item>
     <item>
       <title>鉴于许多专有社交网络几乎没有隐私，是否有开源社交网络？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/crankybear     ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_o_a_eulopopoal_europopolopopal_for_a_public_sector/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_os_a_european_proposal_for_a_public_sector/</guid>
       <pubDate>Mon, 21 Apr 2025 17:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不登录Google的情况下使用YouTube。所有数据均在本地保存在浏览器中。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4h5o2/use_youtube_without_signing_into_google_all_data/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  为我的个人用例创建了此扩展名，在我的个人用例中，我拥有一个带有大量喜欢的视频和播放列表的YouTube帐户，这些列表和播放列表我多年来精心构建。我忘记了密码，无法登录。Google提供了无法恢复的方法。我的整个收藏都像那样消失了。  同样，每当您登录YouTube时，Google都会强迫您登录Gmail，照片，驱动器以及他们所有其他服务，即使您不想并跟踪所有内容。      https://github.com/abhisheky495/localtube-manager-manager-manager href =“ https://localtubemanager.pages.dev/”&gt;  LocalTube Manager  通过让您使用YouTube的功能而无需Google帐户来解决这些问题。    喜欢＆amp;订阅  - 喜欢您喜欢的视频，并照常订阅频道。    YouTube播放列表  - 保存YouTube播放列表以后观看，不需要登录。   本地播放列表  - 创建自己的本地播放列表并组织您喜欢的视频。   进口/导出  - 导出所有数据并导入它们以接收您关闭的位置。在提交由＆＃32; /u/u/abhisheky495    href =“ https://www.reddit.com/r/opensource/comments/1k4h5o2/use_youtube_withoube_without_signing_into_google_all_all_data/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4h5o2/use_youtube_without_signing_into_google_all_data/</guid>
-      <pubDate>Mon, 21 Apr 2025 16:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频编辑软件，用于在YouTube上上传FLAC撕裂</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4goij/video_editing_software_for_uploading_flac_rips_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在归档音频和音乐，尤其是来自日本的音乐和音乐，如果您能帮助我找到开源视频编辑软件，而不是使用其臭名昭著的水印。 我的视频编辑将是简单的，请显示专辑封面和播放音乐范围 -   [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4goij/video_editing_software_for_uploading_flac_rips_on/</guid>
-      <pubDate>Mon, 21 Apr 2025 15:41:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
