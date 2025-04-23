@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 23 Apr 2025 03:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 09:04:35 GMT</lastBuildDate>
+    <item>
+      <title>异步卓越：使用Kafka解锁可伸缩性-Devoxx Greece 2025</title>
+      <link>https://www.reddit.com/r/programming/comments/1k5txpr/async_excellence_unlocking_scalability_with_kafka/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  查看四个关键模式，以提高可伸缩性和开发人员速度：     集成事件：减少预取用的延迟。        task queeue 延迟任务的规模调度。  迭代器：在块中管理长期运行的作业。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/natan-sil      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k5txpr/async_excellence_unlocking_scalability_with_kafka/</guid>
+      <pubDate>Wed, 23 Apr 2025 08:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>好像新的Openai模型在生成的文字中留下了隐形的水印</title>
+      <link>https://www.reddit.com/r/programming/comments/1k5th7h/seems_like_new_openai_models_leave_invisible/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  似乎像新的Openai型号在生成的文本中留下无形的水印： https://rumidocs.com/newsroom/new-chatgpt-chatgpt-chatgpt-models-seem-to-seem-to-seem-to-leave-leave-lbrors brors brors brors brors brors问题： https://github.com/bytemastermind/mark-gpt      &lt;！提交由＆＃32; /u/u/ogi__       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k5th7h/seems_like_new_openai_models_leave_invisible/</guid>
+      <pubDate>Wed, 23 Apr 2025 07:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java设计模式基于现实世界的采访问题实践测试MCQ</title>
+      <link>https://www.reddit.com/r/programming/comments/1k5smuu/java_design_patterns_real_world_scenariobased/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/erdsingh24   [link] ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k5smuu/java_design_patterns_real_world_scenariobased/</guid>
+      <pubDate>Wed, 23 Apr 2025 06:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>授权状态-2025</title>
+      <link>https://www.reddit.com/r/programming/comments/1k5rtlu/the_state_of_authorization_2025/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/per_io      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k5rtlu/the_state_of_authorization_2025/</guid>
+      <pubDate>Wed, 23 Apr 2025 05:46:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>解释：L1正则化如何执行特征选择？ |迈向数据科学</title>
+      <link>https://www.reddit.com/r/programming/comments/1k5rfb5/explained_how_does_l1_regularization_perform/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在阅读有关正则化的信息，并发现了一条&#39;l1正则化执行功能选择&#39;和“正则化是嵌入式特征选择方法”。我不确定正则化与功能选择的关系如何，最终阅读了有关该主题的一些书籍/博客/论坛。 提示L1正则化力“一些”参数将变为零的资源之一，因此使这些功能对模型输出的影响无效。这种“自动”删除特征通过将其相应参数归为零来归类为嵌入式特征选择方法。一个问题持续存在：“ L1正则化如何确定哪些参数要零？”，换句话说，“ L1正则化如何知道哪些功能是多余的？”。 互联网上的大多数博客/视频都集中在&#39;此功能选择“如何发生”，讨论L1正则化的sparsition sparsity如何发生。我想更多地了解问题的“为什么”部分，这迫使我进行了一些更深入的分析。此博客中包含“为什么”部分的说明。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shubham0204_dev    href =“ https://towardsdatascience.com/explaining-how-does-l1-regularization-perforn-feature-selection/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k5rfb5/explained_how_does_l1_regularization_perform/</guid>
+      <pubDate>Wed, 23 Apr 2025 05:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在C/C ++程序中利用不确定的行为进行优化：有关绩效影响的研究[PDF]</title>
+      <link>https://www.reddit.com/r/programming/comments/1k5pt17/exploiting_undefined_behavior_in_cc_programs_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k5pt17/exploiting_undefined_behavior_in_cc_programs_for/</guid>
+      <pubDate>Wed, 23 Apr 2025 03:43:27 GMT</pubDate>
+    </item>
     <item>
       <title>为什么TCP需要3个握手</title>
       <link>https://www.reddit.com/r/programming/comments/1k5okeu/why_tcp_needs_3_handshakes/</link>
@@ -57,7 +99,7 @@
     <item>
       <title>Targetjs：一种新颖的JavaScript UI框架，用于简化开发和增强的用户体验</title>
       <link>https://www.reddit.com/r/programming/comments/1k5it2y/targetjs_a_novel_javascript_ui_framework_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直被javaScript文字对象绘制。如果只有一种方法可以执行它，则表现出表达，紧凑且可读。但是直到ES2015，JavaScript才长期保证了房地产订单，这最终使该订单可预测。它还引入了较短的方法语法。这使得对象的字面意义更强大，更紧凑。 这启发了targetjs背后的核心思想：  提供了内部包装器（称为“目标”（“目标”），用于字面对象的属性和方法。   按照li ection emection  使用firction  将生命周期，循环和定时添加到目标中，以便在满足条件或时间时可以执行或重新执行自己。这也使功能性管道更加强大。  这是基本的想法。 使该框架适合于前端开发，TargetJ允许将CSS样式集成到同一对象中，因为CSS作为CSS样式紧密地集中了JavaScript对象对象对象对象文字。 To enhance style property utility, we added value iteration, so we can animate styles easily. What does TargetJS solve? TargetJS addresses several common pain points in front-end development:  Complexity of Asynchronous Operations: TargetJS addresses this by providing a structured, synchronous, and predictable execution flow, allowing developers为了完全避免异步操作。 零散的状态管理：在目标j中，国家管理是通过其目标的核心概念来固有地处理的。  blobseyplate和verbosity anderbosity：targetjs code是紧凑的，遵循可预测的执行流。不允许使用方法调用，很少需要循环和条件语句。  html的刚性静态层：targetjs最小化对传统的HTML和CSS的依赖，从而使JavaScript成为主要播放器，允许JavaScript成为主要播放器，从而获得更好的动态用户体验。图书馆，州经理，活动处理人员）。 Targetjs提供了统一的解决方案，简化了学习曲线和开发过程。 困难的动画控制：targetjs使动画成为一流的公民。 具有大列表的性能瓶颈：targetjs：targetjs通过使用诸如可见的分支机构的树结构来渲染大型列表，从而优化大型列表。 他们。我也对改进或建设性批评的想法开放。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/distion-beautiful417       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直被javaScript文字对象绘制。如果只有一种方法可以执行它，则表现出表达，紧凑且可读。但是直到ES2015，JavaScript才长期保证了房地产订单，这最终使该订单可预测。它还引入了较短的方法语法。这使得对象的字面意义更强大，更紧凑。 这启发了targetjs背后的核心思想：  提供了内部包装器（称为“目标”（“目标”），用于字面对象的属性和方法。   按照li ection emection  使用firction  将生命周期，循环和定时添加到目标中，以便在满足条件或时间时可以执行或重新执行自己。这也使功能性管道更加强大。  这是基本的想法。 使该框架适合于前端开发，TargetJ允许将CSS样式集成到同一对象中，因为CSS作为CSS样式紧密地集中了JavaScript对象对象对象对象文字。 To enhance style property utility, we added value iteration, so we can animate styles easily. What does TargetJS solve? TargetJS addresses several common pain points in front-end development:  Complexity of Asynchronous Operations: TargetJS addresses this by providing a structured, synchronous, and predictable execution flow, allowing developers为了完全避免异步操作。 零散的状态管理：在目标j中，国家管理是通过其目标的核心概念来固有地处理的。  blobseyplate和verbosity anderbosity：targetjs code是紧凑的，遵循可预测的执行流。不允许使用方法调用，很少需要循环和条件语句。  html的刚性静态层：targetjs最小化对传统的HTML和CSS的依赖，从而使JavaScript成为主要播放器，允许JavaScript成为主要播放器，从而获得更好的动态用户体验。图书馆，州经理，活动处理人员）。 Targetjs提供了统一的解决方案，简化了学习曲线和开发过程。 困难的动画控制：targetjs使动画成为一流的公民。 带有大列表的性能瓶颈：targetjs通过使用像           &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/distion-beautiful417       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k5it2y/targetjs_a_novel_javascript_ui_framework_for/</guid>
       <pubDate>Tue, 22 Apr 2025 21:58:03 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yangzhou1993      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k5c83f/confusing_python_code_snippets/</guid>
       <pubDate>Tue, 22 Apr 2025 17:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebAssembly：如何分配分配器</title>
-      <link>https://www.reddit.com/r/programming/comments/1k5c1q5/webassembly_how_to_allocate_your_allocator/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k5c1q5/webassembly_how_to_allocate_your_allocator/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>切|修改了用于教学的划痕</title>
-      <link>https://www.reddit.com/r/programming/comments/1k5bl2t/scritch_modified_scratch_optimised_for_teaching/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k5bl2t/scritch_modified_scratch_optimised_for_teaching/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>事件隐蔽的体系结构</title>
-      <link>https://www.reddit.com/r/programming/comments/1k5bkbk/eventhidden_architectures/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k5bkbk/eventhidden_architectures/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>检测表表达在c中是否恒定</title>
-      <link>https://www.reddit.com/r/programming/comments/1k5bk2y/detecting_if_an_expression_is_constant_in_c/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k5bk2y/detecting_if_an_expression_is_constant_in_c/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>从干净的板岩开始：与PostgreSQL进行集成测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1k5bk1s/start_with_a_clean_slate_integration_testing_with/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k5bk1s/start_with_a_clean_slate_integration_testing_with/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>101基本电脑游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1k5bgjv/101_basic_computer_games/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k5bgjv/101_basic_computer_games/</guid>
-      <pubDate>Tue, 22 Apr 2025 17:01:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
