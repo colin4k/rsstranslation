@@ -4,7 +4,70 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 23 Apr 2025 15:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 06:03:00 GMT</lastBuildDate>
+    <item>
+      <title>如何在Spotsube上登录Spotify帐户？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6iwp5/how_to_log_in_spotify_account_on_spotube/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当我单击与Spotify连接时，该页面仅显示帐户概述，Wen Player并注销。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coralistic-sky-7858     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6iwp5/how_to_log_in_spotify_account_on_spotube/</guid>
+      <pubDate>Thu, 24 Apr 2025 03:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络档案喜欢</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6gmgi/web_archive_like/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有自托管Web档案软件？您可以在其中创建网页实例  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jeffsmith202     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6gmgi/web_archive_like/</guid>
+      <pubDate>Thu, 24 Apr 2025 01:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[OC] Anirra，一个自我托管，动漫监视列表，搜索和建议应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6gm54/oc_anirra_a_selfhosted_anime_watchlist_search_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     [发行] anirra  - 自托管的动漫监视列表，搜索和推荐应用程序，sonarr/radarr Integration    我刚刚发布了 🔧功能       手表列表管理  - 将动漫组织为类别：计划，观看或完成。  建议  - 根据您的手表历史记录获取建议。   sonarr/radarr/radarr Integration   -   - 从应用程序中的媒体服务器直接添加动漫或电影。     mal Impor  mal Impor  t-您现在可以从mal xml xml exptrult中导入mal xml xml   json   进口监视列表  - 并将其从JSON TO TO TO TO TO TO TOCAD IMPOT    速率动漫  - 添加了一个简单的评分系统（1-10，没有半星）         如果您从Mal中进口  移动友好的UI   jellyfin集成以跟踪手表进度 漫画跟踪和基于阅读漫画的建议和建议href =“ https://github.com/jaypyles/anirra”&gt; https://github.com/jaypyles/anirra    让我知道您是否遇到问题或有特征建议。欢迎反馈，以及拉动请求和错误报告。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bluesanoo     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6gm54/oc_anirra_a_selfhosted_anime_watchlist_search_and/</guid>
+      <pubDate>Thu, 24 Apr 2025 01:53:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔恩！您的JQ包装器可读</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6eq80/jonq_your_jq_wrapper_thats_readable/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   yo！  这是某人在此处提出的工具，该工具 r/opensource 。不记得是谁，但是无论如何，我大约在2个月左右开始使用v0.0.1，最后一个月一直在使用V0.0.2。因此，简要介绍Jonq，它是一种工具，可让您使用SQLish/pythonic like语法查询JSON数据。  为什么我构建了这个 我喜欢 jq ，但是每次我需要使用它时，我的头都会旋转。因此，由于一个好人建议我们尝试在JQ周围写包装器，所以我想，当然为什么不。   jonq做什么？    jonq 本质上是围绕 JQ 的Python包装器，将熟悉的SQL样语法转化为  jq 过滤器。这个想法很简单：   bash jonq data.json＆quort“ select name，年龄＆gt; gt; 30排序年龄desc;   而不是：   bash jq&#39;。[] |选择（.age＆gt; 30）| {name，age}&#39;data.json | jq&#39;Strot_by（.age）| reverse&#39;  Features  SQL-like syntax: select, if, sort, group by, etc. Aggregations: sum, avg, count, max, min Nested data: Dot notation for nested fields, bracket notation for arrays Export formats: Output as JSON (default) or CSV (previously CSV wasn&#39;t an option)  示例 基本过滤：    ##获取用户的名称和电子邮件（如果Active jonq users.json＆quort&#39;select&#39;select name;   嵌套数据：   ##从每个用户的订单中获取订单项jonq data.json＆quot; select user.name，order.item，order.item。   聚合＆amp;分组：    ## ## city jonq用户的平均年龄。   更复杂的查询    ## ##前3个城市按总订单值jonq data.json＆quort&#39;select city，sum（orders.price）作为city by count the count in Count的count and count_value grout（*）＆gt; 5排序total_value desc 3＆quot;   安装   pip install jonq   （需要python 3.8+，请确保在系统上安装 jq 是在系统上安装的）   它本质上是生锈包装器。  为什么jonq像大熊猫或鸭子一样？ 我们轻巧，更有效，利用JQ的力量。其他一切，请参考文档或读书。  下一步是什么？ 我对下一个版本有一些想法：  更好地处理日期/时间字段 多个文件支持（union，join，join） 自定义功能定义      github链接： https://github.com/duriantaco/jonq     docs： https://jonq.readthedocs.io/en/latest/     让我让我知道你们的想法，寻找反馈，以及您想贡献我的贡献，如果您想在这里做出贡献，如果您觉得有用，请留下明星，例如分享并订阅大声笑。如果您想抨击我，请认为这是一个愚蠢的主意，想放弃一些Steam Yada Yada，也可以在这里随意这样做。这就是我对你们的全部。感谢您的阅读。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k6eq80/jonq_your_jq_wrapper_thats_thats_readable/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6eq80/jonq_your_jq_wrapper_thats_readable/</guid>
+      <pubDate>Thu, 24 Apr 2025 00:18:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>用LLM和MCP构建的开源零代码测试跑者称为AETHR</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6ef2g/open_source_zerocode_test_runner_built_with_llm/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在四处挖掘使用CI中的AI运行测试的方法，我偶然发现了这个名为 aethr“&gt; aethr”&gt; aethr         。以前从未听说过它，但是它非常干净，并且可以做我想要的测试跑步者。 它具有自己的CLI和设置，感觉比我以前所说的更轻巧。我注意到的一些很酷的东西：  测试完全通过自然语言 零含量的启动（只需将其指向您的测试和GO） 不错的内置并行化，而无需任何额外的配置 即可直接插入CI/CD（li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;）不值得 大大降低维护和实施成本  当然有限制  某些非确定性行为 与任何AI一样，与任何AI一样，您可以在 测试设置，复杂的测试用例，或者只是想在E2E测试空间中尝试新的东西，这可能值得一看。我确实认为这是软件测试的发展方式。自然语言和基于及时的工程。我们正朝着一个世界上描述以普通英语的测试流并让AI工具运行这些测试的世界。 以下是回购： https://github.com/autifyhq/autifyhq/aethr  ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k6ef2g/open_source_zerocode_zerocode_test_runner_built_built_with_llm/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6ef2g/open_source_zerocode_test_runner_built_with_llm/</guid>
+      <pubDate>Thu, 24 Apr 2025 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>必不可少的开源Android应用？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6bv80/essential_open_source_android_apps/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是 r/opensource ，我很好奇，我很好奇地听到社区听到有关您已经在播放商店中发现的开源Android应用程序的信息，这些应用程序已被播放了，该应用程序已被录制了，该应用程序已被录制了，该应用程序已被录制了，该应用程序已被录制了。哪些FOSS Android应用程序已经达到了“没有它们”。给你的水平？是什么使它们如此重要？我不是在谈论Spotify/YouTube ECC   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/silly_speaker2076     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6bv80/essential_open_source_android_apps/</guid>
+      <pubDate>Wed, 23 Apr 2025 22:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是问：如果您只有一个主意，就没有技术技能来启动开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6ajpq/just_asking_how_to_start_an_open_source_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  问题在标题中。 只是为了通知您：这是一个欧洲项目的想法，该项目将完全免费使用，只有基于Web，它可能会吸引成千上万的人使用它。     &lt;！ -  sc_on--&gt;＆＃32;提交由＆＃32; /u/u/wimster_tri     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k6ajpq/just_asking_how_how_to_start_an_open_open_open_source_procce_project/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6ajpq/just_asking_how_to_start_an_open_source_project/</guid>
+      <pubDate>Wed, 23 Apr 2025 21:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源多用户事件驱动的异步内部浏览器启用语音拥拥的AI编排</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6ahk3/open_source_multiuser_eventdriven_asynchronous/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  开源的多用户事件驱动的异步在浏览器内部启用语音启用的人群众群体AI编排 我花了将近一年的时间才能开发  v1和v2，我没有得到100％的kert-kern-kern in-kern in v2-几乎 - 几乎是      。 drived    https://github.com/jimpames/jimpames/rentahal-foundation       &lt;！提交由＆＃32; /u/chevision     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6ahk3/open_source_multiuser_eventdriven_asynchronous/</guid>
+      <pubDate>Wed, 23 Apr 2025 21:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCAT：用于嘲笑图像/视频/文档的开源CAT命令等等！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k63tcy/mcat_open_source_cat_command_for_catting/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/skardyyy       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k63tcy/mcat_open_source_cat_command_for_catting/</guid>
+      <pubDate>Wed, 23 Apr 2025 16:40:20 GMT</pubDate>
+    </item>
     <item>
       <title>SHADCN/Studio-最佳开源组件和块</title>
       <link>https://www.reddit.com/r/opensource/comments/1k5z7o1/shadcnstudio_best_open_source_components_and/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/opensourceinitiative     [link]   ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k5b0zl/may_is_maintainer_month_celebrating_those_who/</guid>
       <pubDate>Tue, 22 Apr 2025 16:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>将您的整个项目目录变成一个干净，可读和友好的输出 - 毫不费力。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k592x4/turn_your_entire_project_directory_into_a_clean/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   i构建了dir2txt  - 一种简单但功能强大的CLI工具，将目录树变成干净的，结构化的文本或JSON DUMP。                •注释（评论（智能检测评论块 +模式） •🎯尊敬的尊重.gitignore，.dockerignore，.npmignore等href =“ https://github.com/shubhamoy/dir2txt”&gt; https://github.com/shubhamoy/dir2txt     &lt;！ -  sc_on-&gt; sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/shubhamoy     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k592x4/turn_your_entire_project_directory_into_a_clean/</guid>
-      <pubDate>Tue, 22 Apr 2025 15:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DESENT PYTHON项目（去中心化文本消息系统）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k586dw/desent_python_project_decentralized_text/</link>
-      <description><![CDATA[Hey all, I’ve been working on a project called DeSent, a decentralized, privacy-first text messaging service that uses NGROK tunneling and (soon) onion-style routing to enable secure, anonymous communication without centralized servers or logs. 🔐 What is DeSent? DeSent is designed to make secure messaging accessible, resilient, and censorship-resistant, even for people without deep networking experience. Here’s what it does: 🛰️ Decentralized Messaging via NGROK Tunnels  Users can host their own servers — no central infrastructure.  NAT和ISP限制的NGrok隧道，让您旋转一个无需端口转发或防火墙调整的消息传递节点。     在磁盘上记录或存储任何消息 - 一切都是短暂的。      tor-tor-tor-inspired inion inion inion inion inion/in li in li in li and li and h1  与Tor相似：每条消息逐层加密/解密，因此没有一个服务器知道完整的路径。 这将有助于防止跟踪或拦截消息，从而在监测或持续的环境中保护用户。 encryption are still in development — if you’re interested in helping build this, I’d love to collaborate! 🌐 Public Indexing (Testing Phase)  Servers can opt to be listed on a public index site. Example: Will’s Server – b1ac-216-126-34-147 (NGROK tunnel地址） 该索引可帮助用户发现主动服务器，监视受欢迎程度，并在节点下降（如果下降）下降。欢迎！ 这不是一家公司，而是一个激情的项目。尽可能少地提供帮助。没有压力。  Raspberry Pi 3-5首选希望托管自己的节点的人（请记住，我现在正在使用SystemCtl，但会更改）   github repo：    👉 https://github.com/kaiserwilhelm23/desent    如果这听起来很有趣，请查看或删除答复。很想听听反馈或想法，或者只是关于隐私协议和分散基础设施的书呆子。 ✌️Heyall，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hugues-de-paynes     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k586dw/desent_python_project_decentralized_text/</guid>
-      <pubDate>Tue, 22 Apr 2025 14:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个最小的项目，我可以在很小的时间内直接参与</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k56sx6/looking_for_a_minimal_project_which_i_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  正如我在标题中所说的那样，我正在寻找一个OSS项目，但目前我无法阅读很长的文档和代码，也可以认为我是OSS贡献者工作的初学者。我对台式环境和网络安全（尤其是Websec）      &lt;！提交由＆＃32; /u/pacman0026     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k56sx6/looking_for_a_minimal_project_which_i_can/</guid>
-      <pubDate>Tue, 22 Apr 2025 13:50:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍BlazeCast  - 一个用Tauri + Rust构建的快速，开源生产力应用程序（早期Beta）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k54oo6/introducing_blazecast_a_fast_opensource/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我很高兴分享我的开放式项目的早期beta  React. ⚡ What is Blazecast? Blazecast is a lightweight tools inspired by Raycast built for Windows users who want speed, simplicity, and powerful workflows. It’s completely open-source and licensed under the MIT许可。 ✨关键功能   应用程序启动器  - 立即使用 alt&gt; alt + Space      clipboard Manager 立即启动您喜欢的应用为网站，文件夹或工作流创建快捷方式，您使用每天使用 最小UI，本机速度  - 使用Rust + Tauri构建的天然速度   📅路线图&gt; ROADMAP         spippets＆ampets＆amp＆amp＆amp＆amp;文本扩展 插件生态系统 主题＆amp;暗模式  🤝贡献＆amp; Feedback If BlazeCast sounds useful to you, I’d love:  ⭐ GitHub stars 🐞 Bug reports 🧠 Feature suggestions 👩‍💻 Contributors!  Open to all ideas or feedback feel free to open an issue or reach out.让我们一起为Windows生产力构建一些很棒的东西！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/select_potato_6232      [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k54oo6/introducing_blazecast_a_fast_opensource/</guid>
-      <pubDate>Tue, 22 Apr 2025 12:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后通：在Android上支持Webextensions的铬</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k54gyl/ultimatum_chromium_with_webextensions_support_on/</link>
-      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/dpyi6n2fb6g1wbjd8bskecgnnmhdgs6zcrgpqoxpfls.jpgs.jpgs.jpg” title =“ uttimatum：chromium with webexention提交由＆＃32;态href =“ https://www.reddit.com/r/u_gonzazoid/comments/1k54gft/1k54gft/ultimatum_chromium_chromium_with_webextensions_support_on/&gt;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k54gyl/ultimatum_chromium_with_webextensions_support_on/</guid>
-      <pubDate>Tue, 22 Apr 2025 11:57:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>引入Swiftnet V0.1.0 [预释放]</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k54azt/introducing_swiftnet_v010_prerelease/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。&lt; /p&gt; 我很高兴最终宣布我的开源网络库的预先释放。您可能会问：什么是库，什么是用例？这是一个轻度的网络图书馆，旨在将小型和大型数据发送给数据的轻量级网络图书馆，并将库置于一小段范围内。它的理想选择是：   多人游戏     应用程序需要网络通信而无需管理套接字的麻烦          绩效重要但简单性很重要的是关键&gt;         它只是很快就开始了。它非常可读性和用户友好。 如果有人有兴趣，我真的很感谢您的帮助。我真的很喜欢这个想法，因为我自己正在制作多人游戏游戏，而且我讨厌手动管理插座。我想扩展此库，以便可以在大规模的应用程序中使用并保持稳定。 如果您有任何疑问或建议，请将它们放在下面。我希望您过得愉快。  github： https://github.com/deadlightreal/swiftnet    版本： https：//github.com/deadeadlightreal/swiftnet/swiftnet/releases/tag/tag/0.1.1.1.0.1.0 提交由＆＃32; /u/u/deadlightreal     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k54azt/introducing_swiftnet_v010_prerelease/</guid>
-      <pubDate>Tue, 22 Apr 2025 11:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>TICKERQ  -  hangfire和Quartz.net的新替代方案。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k53m1a/tickerq_a_new_alternative_to_hangfire_and/</link>
-      <description><![CDATA[    It’s a new take on background execution patterns — aiming to solve issues like: Silent failures from reflection-heavy logic Lack of control over execution timing No compile-time guarantees in popular libraries What makes it different?通过罗斯林分析仪的编译时间安全性 没有反思 - 更好的性能和更少的运行时惊喜  cron +基于时间的执行 实时仪表板跟踪运行的内容 自定义的节点，突发控制，以及EF核心支持和EF核心支持                        希望获得一些社区反馈 - 乐于回答问题或聊天有关架构/设计选择。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/neonatenaruto       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k53m1a/tickerq_a_new_alternative_to_hangfire_and/</guid>
-      <pubDate>Tue, 22 Apr 2025 11:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>从$ 20万美元的ASPM迁移到开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4xra9/migrating_from_200k_aspm_to_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  网络攻击和数据泄露是如今的常见发生。由于资源和预算有限，许多企业努力优先考虑网络安全。对于没有大量网络资金的组织来说，高级安全工具通常是遥不可及的。 我们认为，无论大小，每个业务都应该访问一流的安全性，这些安全性也易于使用并且不会破坏银行。我们的大想法很简单：创建强大的，企业级的安全工具，任何人都可以轻松地开始并理解。  github：      feature   fireewall project   semgrep enterprise    snyk Enterprise      Enterprise功能               neft&gt; neft&gt; neft&gt; intempations（slack/jira）✓ ✓     vcs（github/gitlab/bitbucket） ✓    rbac  ✓  ✓ ✓✓✓     align =“ left”&gt;✓ ✓ ✓      left&#39;&gt; unlimited users/assets  align =“ left”&gt;  -      风险管理               employment&#39;&gt; epporlment&#39;&gt; employment＆amp＆amp＆amp; amp; amp; amp; amp; amp;符合性               self ost host  hosted     align =“ left”&gt;  -      sboms   ✓  ✓  ✓✓✓✓          align =“左”&gt;✓ ✓ ✓      api支持   ✓   开源 ✓    -    -     -    -      /u/u/uneviate_explorer6     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4xra9/migrating_from_200k_aspm_to_open_source/</guid>
-      <pubDate>Tue, 22 Apr 2025 04:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为Django开放了一个由AI驱动的Web应用程序防火墙，该防火墙是为非营利组织和独立开发人员建造的 - 欢迎反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4wavx/ive_opensourced_an_aipowered_web_application/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mediocre_scallion_99      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4wavx/ive_opensourced_an_aipowered_web_application/</guid>
-      <pubDate>Tue, 22 Apr 2025 03:07:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
