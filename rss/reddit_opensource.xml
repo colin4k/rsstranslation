@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 24 Apr 2025 12:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 15:02:26 GMT</lastBuildDate>
+    <item>
+      <title>遇到Anagram，这是Darkglass电子产品的Linux驱动的低音FX处理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6rzrp/meet_anagram_a_linuxpowered_bass_fx_processor_by/</link>
+      <description><![CDATA[      Anagram uses Buildroot (via the MOD Build System layer), JACK2 sound server, LV2 plugin host, a neural network amp emulator (open-source NAM and AIDA-X tech), and several免费/打开插件（用于全局均衡器的FIL4.LV2，内置循环的Sooperlooper等）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/prokoudine      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6rzrp/meet_anagram_a_linuxpowered_bass_fx_processor_by/</guid>
+      <pubDate>Thu, 24 Apr 2025 13:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>将文件夹大小显示到我的目录树可视化工具中！ - 动力室</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k6rtk1/added_the_folder_size_display_to_my_directory/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  几周前，我发布了Powertree，这是PowerShell的高级目录树可视化工具，该工具使用功能强大的过滤和显示选项显示您的目录结构。基本上，这是标准“树”命令的增压版本，具有文件大小显示，日期过滤和排序功能之类的功能。 刚刚发货的最新更新带有最新要求的功能，文件夹大小计算！现在，您可以准确地看到每个目录在树视图中占用多少空间。这使得在不切换不同工具之间的情况下，找到耗尽磁盘空间的东西非常容易。 此处  也可以从 ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k6rtk1/added_the_folder_size_size_display_to_my_directory/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k6rtk1/added_the_folder_size_display_to_my_directory/</guid>
+      <pubDate>Thu, 24 Apr 2025 13:10:25 GMT</pubDate>
+    </item>
     <item>
       <title>我为想要在Rust中构建Web应用程序的人建立了一个网络工具包</title>
       <link>https://www.reddit.com/r/opensource/comments/1k6pwt3/i_built_a_web_toolkit_for_people_who_want_to/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>必不可少的开源Android应用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1k6bv80/essential_open_source_android_apps/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是 r/opensource ，我很好奇社区听到有关您已经在播放商店中发现的开源Android Apps的消息，我很好奇。哪些FOSS Android应用程序已经达到了“没有它们”。给你的水平？是什么使它们如此重要？我不是在谈论Spotify/YouTube ECC   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/silly_speaker2076     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是 r/opensource ，我很好奇，我很好奇地听到社区听到有关您已经在播放商店中发现的开源Android应用程序的信息，这些应用程序已被播放了，该应用程序已被录制了，该应用程序已被录制了，该应用程序已被录制了，该应用程序已被录制了。哪些FOSS Android应用程序已经达到了“没有它们”。给你的水平？是什么使它们如此重要？我不是在谈论Spotify/YouTube ECC   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/silly_speaker2076     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k6bv80/essential_open_source_android_apps/</guid>
       <pubDate>Wed, 23 Apr 2025 22:07:03 GMT</pubDate>
     </item>
@@ -111,7 +125,7 @@
       <pubDate>Wed, 23 Apr 2025 07:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub-Migliori/Visual-Diff-Merge：Visual Diff-Merge：毫不费力地比较和合并代码在响应式拆分界面中，以及交互式更改的选择和对180多种编程语言的支持。</title>
+      <title>github-migliori/visual-diff-merge：Visual Diff-Merge：毫不费力地比较和合并代码在响应式拆分界面中，并为超过180种编程语言提供交互式更改的选择和支持。</title>
       <link>https://www.reddit.com/r/opensource/comments/1k5svne/github_migliorivisualdiffmerge_visual_diffmerge/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;     showcase：visual diff-merge  - 交互式代码比较的开源工具    hello  Visual Diff-Merge ，一种开放式，基于Web的工具，旨在开发人员有效地比较和合并代码。       关键功能：         侧面。  语法突出显示：支持超过180个编程语言，以增强可读性。    灵活输入：通过文件上传，直接糊状或url fetch或url获取。  href=&quot;https://github.com/migliori/visual-diff-merge&quot;&gt;https://github.com/migliori/visual-diff-merge.  Visual Diff-Merge aims to streamline the code review and merging process.它轻巧，用户友好，不需要安装。 我会感谢这个社区的任何反馈，建议或贡献。 感谢您的时间和支持！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/miglisoft     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k5svne/github_migliorivisualdiffmerge_visual_diffmerge/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;   hi！我刚刚在Github上发布了我的第一个“有用”（我希望）Rust Project。这是一个简单的Web应用程序和API，可让您与他人分享秘密。 秘密被存储了加密，并且只能用正确的密码键进行加速/解密。 如果您想看看它，它在github [there]上[&lt; href =“ https://github.com/edvm/secrets-on-premises”&gt; https://github.com/edvm/secrets-on-premises ）：  ps：  ps：再次，这是我的第一个生锈项目，这是我的第一个rust项目，因此，反馈和建议是32个    提交由＆＃32; /u/u/edvmreddit     [link link]&gt; [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k5ozr9/secretrs_share_secrets_with_others_onpremises/</guid>
       <pubDate>Wed, 23 Apr 2025 02:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SIDEM-用于管理.ENV文件的TUI</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我很大程度上依靠.env文件，并且常常发现自己在同一变量（dev vs. vs. vs. vs. vs. vs. vsse，不同的特征标志等）中都在嘲笑不同的值。为了使自己的生活更轻松，我构建了Sidem（简单的Dotenv Manager），这是一个使管理.ENV文件更容易的TUI应用程序。它使您可以快速打开或关闭变量，如果您在文件注释中设置了预定义值，则可以从预定义值中进行选择。它通过在.env文件中直接评论/未注释线路来起作用，因此没有单独的状态可以管理。如果您经常在不同的配置之间切换或只是想要一种视觉方式来管理环境设置，则可能会很方便。它写在旅途中。  您可以在此处查看： https：//github.com/taha-yassine/sidem    提交由＆＃32; /u/u/v0dros       [注释]             ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</guid>
-      <pubDate>Tue, 22 Apr 2025 22:49:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个开源个人记录跟踪应用程序，用于举重 / CrossFit</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！ 当我启动CrossFit时，我们使用Boxplanner记录所有PRS。但是，我们几次更改了系统，所以我正在寻找一个独立于此的应用程序。我尝试了几个应用程序，但是它们要么太复杂，太贵，要么不友好。因此，我决定开发我的应用程序并将其开源，以便其他人可以做出贡献。  UI非常简单。您定义动作，添加PR，并可以编辑或删除它们。在单独的视图中，您还可以看到所有最大值。跟踪锻炼的功能将很快遵循。我希望能够将锻炼定义为AMRAP，并在重量，代表计数和时间上定义锻炼。输入的视图和良好的结构化数据非常欢迎。 它在Google Play上发布，任何人都可以下载并使用它。  Google Play： https://play.google.com/store/store/papps/apps/details?id=com.ramo.ramo.ramo.personalrecord  href=&quot;https://github.com/Ramo-Y/PersonalRecord&quot;&gt;https://github.com/Ramo-Y/PersonalRecord Advantages:  Free of charge No ads Data is only on the device (can be backed up by Android backup, but未同步） 开源 无需登录  代码在github上，目前已部署到Android的Play商店。使用和开发文档也在GitHub上，您可以报告错误，提出功能请求并在此处开始讨论。我是后端开发人员，但我尽了最大的努力来拥有一个不错的UI。这也是我的第一个.NET MAUI应用程序和移动应用程序。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/</guid>
-      <pubDate>Tue, 22 Apr 2025 18:36:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
