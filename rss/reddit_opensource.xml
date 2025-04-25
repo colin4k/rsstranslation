@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 25 Apr 2025 06:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 09:03:12 GMT</lastBuildDate>
+    <item>
+      <title>aphantasia.io</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k7g1ua/aphantasiaio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   aphantasia是一个社区，其内容在图表视图中呈现。 该项目开始是一种尝试创建“多人浸入式”。 href =“ https://github.com/0rbit3r/aphantasia”&gt; https://github.com/0rbit3r/aphantasia      &lt;！ -  sc_on-&gt; sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/aikaros      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k7g1ua/aphantasiaio/</guid>
+      <pubDate>Fri, 25 Apr 2025 08:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个工具，将CSV→分析→共享应用程序管道崩溃成一个步骤</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k7ekdx/built_a_tool_to_collapse_the_csv_analysis/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的通常流程看起来像：  在笔记本中加载csv  写下清洁/检查 切换到另一个工具（或hack topty plotly），以可视化  li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;   这将其减少到聊天接口 +实时执行引擎。一切都是透明的。没有黑匣子的东西。您会看到代码，拥有它，修改它  btw，如果您有兴趣尝试我们构建的一些实验功能，请给我拍摄DM。一直在寻找实际上每天与数据一起工作的人们的反馈， https://app.preswald.com/      &lt;！ -  sc_on-&gt; sc_on-&gt; 32;提交由＆＃32; /u/u/signal-indication859     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k7ekdx/built_a_tool_to_collapse_the_csv_analysis/</guid>
+      <pubDate>Fri, 25 Apr 2025 06:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我很无聊，所以我创建了一个简单但功能强大的，完全模块化的终端代码编辑器。即使为了保存文件，您也需要插入“保存”模块 - 哈哈，享受！我使代码易于理解，因此即使是初学者也可以创建自己的模块，例如对特定语言的语法突出显示。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k7e1h1/i_was_bored_so_i_created_a_simple_yet_powerful/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  等等。可能性是无限的！有关更多详细信息，请查看我的github。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k7e1h1/i_was_bored_so_so_i_i_i_i_created_a_simple_yet_yet_poperul/”&gt; [link]   [注释]       ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k7e1h1/i_was_bored_so_i_created_a_simple_yet_powerful/</guid>
+      <pubDate>Fri, 25 Apr 2025 06:15:38 GMT</pubDate>
+    </item>
     <item>
       <title>MLH禁止印度贡献者参加奖学金计划（2025年夏季）</title>
       <link>https://www.reddit.com/r/opensource/comments/1k7cfiw/mlh_bans_indian_contributors_to_participate_in/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！如果有人有兴趣，我创建了一个简单的Docker应用程序来监视您的服务器上的资源。您可以获得CPU，RAM，GPU使用情况，图表，设置浏览器或推动力通知的指标，将数据导出为CSV等。监视   - 🟢*容器的实时监控**    - 📊** **可视化模式：**    -  **表格视图：**带有进度栏的详细指标    -  **  -  **历史图表：** cpu/pan pan/pan pan/pan pan/pan p&gt; **    - 🎮** gpu指标与NVIDIA支持**（见下文）   - 📄 bar   ###控制＆amp;管理   - ⚙**控制按钮：**启动，停止和重新启动容器从UI    - 🌐*快速访问暴露端口** **（在新的选项卡中打开）   -  p&gt;   - ⬆* - ⬆***更新检查：*链接  ###自定义＆amp; Usability - 🧠 **Advanced filtering and sorting:** - Filters by name, status, and project - Sort by any column (name, CPU, RAM, processes, status, uptime, restarts, memory limit, I/O, update availability) - 🌗 **Light/Dark mode** (☀️ / 🌙) - 🔝**滚动到顶按钮**有关长列表   - ⏱️**刷新间隔控制**（5s，10s，10s，30s等）    - 🛠️**设置持久：**恢复过滤器，主题，主题，图表，图表，ISTALS，IPLADE和PROVECT collaps＆local collaps pp pp pp&gt;/project p p p p pp&gt;＃/um    -  ** **导出选定的指标    - 🔔**可配置的通知：**    - 桌面通知CPU/RAM/RAM THENSHOLDS或状态的桌面通知（browser the browsefific interification the Option the Opplion the Opplion the Opplion the Opplion   -  ****************************************************************************************** ** CPU/RAM阈值或更改状态。 （请参阅下面的配置）   - 💬**状态消息：**视觉反馈，例如保存设置，检查更新或错误 您可以在GitHub上看到一些屏幕截图：   https://github.com/drakonis96/dockerstats      https://hub.docker.com/r/drakonis96/dockerstats       &lt;！提交由＆＃32; /u/u/drakonis96     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k6mt92/opensource_docker_monitor_with_notifications/</guid>
       <pubDate>Thu, 24 Apr 2025 08:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个学生应该知道的最被低估的开源计划是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k6lxdi/whats_the_most_underrated_opensource_program/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试编译一份强大的，被低估的开源工具的清单，这些工具是针对学生的游戏规则，尤其是那些开始编程，AI/ML，AI/ML，写作，研究或只是井井有条。 ＆＃32;提交由＆＃32; /u/u/fluffy_sheepherder76     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k6lxdi/whats_the_most_underrated_opensource_program/</guid>
-      <pubDate>Thu, 24 Apr 2025 06:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在Spotsube上登录Spotify帐户？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k6iwp5/how_to_log_in_spotify_account_on_spotube/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当我单击与Spotify连接时，该页面仅显示帐户概述，Wen Player并注销。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coralistic-sky-7858     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k6iwp5/how_to_log_in_spotify_account_on_spotube/</guid>
-      <pubDate>Thu, 24 Apr 2025 03:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络档案喜欢</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k6gmgi/web_archive_like/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有自托管Web档案软件？您可以在其中创建网页实例  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jeffsmith202     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k6gmgi/web_archive_like/</guid>
-      <pubDate>Thu, 24 Apr 2025 01:54:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
