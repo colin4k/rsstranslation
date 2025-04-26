@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 26 Apr 2025 03:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 06:02:41 GMT</lastBuildDate>
+    <item>
+      <title>从问题描述中构建和部署机器学习模型的开源代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k842g8/opensource_agent_that_builds_deploys_machine/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   repo链接： https://github.com/plexe-ai/plexe/plexe      i  i构建了开放式机器学习机器的型号，该型号的模型是一个不同的型号，该模型是一个不同的模型。它评估模型，完善它们，记录MLFlow上的所有实验，然后创建一个预测因子。它目前暂时使用表格数据的预测问题，但也努力添加对非结构化数据的支持。 很想在上面获得任何反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k842g8/opensource_agent_that_that_builds_deploys_machine/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k842g8/opensource_agent_that_builds_deploys_machine/</guid>
+      <pubDate>Sat, 26 Apr 2025 03:56:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在尝试建立一个COSS项目。通过企业许可，可以维持开源的一些技巧？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k83p72/we_are_trying_to_build_a_coss_project_what_are/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们正在尝试构建一个COSS项目。在保持项目OSS的同时，我们应该考虑一些技巧，但是为了更好地维持该项目，我们也想制定企业许可计划。建议一些许可和文档提示，以免我们最终与用户混淆，误导或错误的广告。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lvalue_required     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k83p72/we_are_trying_to_build_a_coss_project_what_are/</guid>
+      <pubDate>Sat, 26 Apr 2025 03:35:46 GMT</pubDate>
+    </item>
     <item>
       <title>[ANN] Cleverb.ee  - 开源AI研究助理，您可以在本地运行</title>
       <link>https://www.reddit.com/r/opensource/comments/1k82f2n/ann_cleverbee_open_source_ai_research_assistant/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家。 上周，我正在使用一种称为 Mithra“&gt; mithra”的演示工具，我可以全力以赴地找到一个尖端的编辑。我研究了Tiptap和其他人之类的选择，但老实说，我觉得他们对我需要的东西过于杀伤。大量的扩展，复杂的配置，甚至某些功能锁定在Pro计划后面 - 只是我的氛围。 ，所以我构建了自己的。它被称为 runik   - 一种轻巧，一个摘要，基于块的编辑器。但这是事情：这是有意抽象的。我没有对文本，图像或任何具体的任何文本支持。相反，它使您可以定义“块”。甚至是。这意味着您确定数据的结构，外观的外观以及其行为方式。 它是用打字稿编写的，使用强烈键入的配置系统，并为您提供对渲染和插件的全部控制。重点是拥有一个编辑骨架，我可以塑造出适合密特拉需求的东西。 That might be presentation slides, maybe collaborative lecture writing, or who knows—interactive blog engines? Here’s what it currently supports:  Fully type-safe block definitions Custom rendering logic (render any block however you want) Plugin and theme support (very early stage) Full control over block lifecycle: add,删除，移动，清晰  html渲染，您可以直接插入前端  我使它保持简单，以便其他人可以将其扩展，以便 如果您很好奇，请在此处查看： 我很喜欢您对此的想法。如果您要构建自己的编辑器或演示工具：  在这样的抽象编辑器中，您会想要什么功能？ 值得一试，它值得一试，或者现在可以使其保持视觉上的ecy e e e e e e e e e e e e e e&gt;分散注意力？  这已经很早了，但是如果你们中有人想尝试或做出贡献，我会很喜欢支持。删除想法，反馈甚至抱怨 - 我全部耳朵。 感谢您的阅读，  -  Kid a   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thepolystyrenekida    href =“ https://www.reddit.com/r/opensource/comments/1k7gsop/runik_abstract_web_blockbestrockbeastaped_editor/”&gt; [link]    ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k7gsop/runik_abstract_web_blockbased_editor/</guid>
       <pubDate>Fri, 25 Apr 2025 09:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>aphantasia.io</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k7g1ua/aphantasiaio/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   aphantasia是一个社区，其内容在图表视图中呈现。 该项目开始是一种尝试创建“多人浸入式”。 href =“ https://github.com/0rbit3r/aphantasia”&gt; https://github.com/0rbit3r/aphantasia      &lt;！ -  sc_on-&gt; sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/aikaros      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k7g1ua/aphantasiaio/</guid>
-      <pubDate>Fri, 25 Apr 2025 08:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我很无聊，所以我创建了一个简单但功能强大的，完全模块化的终端代码编辑器。即使为了保存文件，您也需要插入“保存”模块 - 哈哈，享受！我使代码易于理解，因此即使是初学者也可以创建自己的模块，例如对特定语言的语法突出显示。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k7e1h1/i_was_bored_so_i_created_a_simple_yet_powerful/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  等等。可能性是无限的！有关更多详细信息，请查看我的github。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k7e1h1/i_was_bored_so_so_i_i_i_i_created_a_simple_yet_yet_poperul/”&gt; [link]   [注释]       ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k7e1h1/i_was_bored_so_i_created_a_simple_yet_powerful/</guid>
-      <pubDate>Fri, 25 Apr 2025 06:15:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
