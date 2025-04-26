@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 26 Apr 2025 09:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 12:03:12 GMT</lastBuildDate>
+    <item>
+      <title>oracle sql中的等级和dense_rank之间的差异</title>
+      <link>https://www.reddit.com/r/programming/comments/1k8aurh/difference_between_rank_and_dense_rank_in_oracle/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.javainhand.com/2025/04/difference-betneion-rank-and-anderank-ink-anderank-in-oracle-sql.html”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k8aurh/difference_between_rank_and_dense_rank_in_oracle/</guid>
+      <pubDate>Sat, 26 Apr 2025 11:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux/内核的良好代码设计</title>
+      <link>https://www.reddit.com/r/programming/comments/1k8a6ri/good_code_design_from_linuxkernel/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/uctive-fuel-49     [link]    32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k8a6ri/good_code_design_from_linuxkernel/</guid>
+      <pubDate>Sat, 26 Apr 2025 10:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>预先绑定了我的第一个项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1k8a16l/prerelesed_my_first_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我刚刚推出了我一直在开发的项目的 0.1.0 释放我一直在开发的项目 jtp   -  a  a  java java传输协议框架。这是一个轻巧的库，用于处理旨在扩展未来项目的客户服务器通信。  Right now, it&#39;s still super early but I have big plans, my roadmap:    Version 0.2.0 - Authentication and permissions with API keys Version 0.3.0 - Database integration Version 0.4.0 - File/Stream communication  I&#39;d love any feedback or advice you might have.我的目的是保持轻巧，易于集成到其他Java项目中。 感谢您查看！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/360-iq-gaming       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k8a16l/prerelesed_my_first_project/</guid>
+      <pubDate>Sat, 26 Apr 2025 10:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>兔子 - 一个死去的简单Web代理（开源）</title>
+      <link>https://www.reddit.com/r/programming/comments/1k89su3/rabbit_a_dead_simple_web_agent_open_source/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/codemaven_       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k89su3/rabbit_a_dead_simple_web_agent_open_source/</guid>
+      <pubDate>Sat, 26 Apr 2025 10:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 3.14的语法更新将使您的代码更安全，更好</title>
+      <link>https://www.reddit.com/r/programming/comments/1k89sov/syntax_updates_of_python_314_that_will_make_your/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/wyhjsbyb    [link] ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1k89sov/syntax_updates_of_python_314_that_will_make_your/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k89sov/syntax_updates_of_python_314_that_will_make_your/</guid>
+      <pubDate>Sat, 26 Apr 2025 10:22:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>丢失的信件</title>
+      <link>https://www.reddit.com/r/programming/comments/1k89mqj/lost_letters/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我刚刚制作了丢失的字母，一个小网站，您可以匿名写和分享短信。 它很简单，个人，个人和一种治疗性。 😄   https://lostletters.arvie.tech/     如果您能帮助我可以通过发布字母或两个字母或两个！ 💌 任何事情都会给朋友，一个陌生人，您过去的自我或只是一些随机的想法传达信息。 感谢一吨！ 💙  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/inevitableAct9628       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k89mqj/lost_letters/</guid>
+      <pubDate>Sat, 26 Apr 2025 10:11:12 GMT</pubDate>
+    </item>
     <item>
       <title>开放社区经营的域注册表</title>
       <link>https://www.reddit.com/r/programming/comments/1k8859g/an_open_communityrun_domain_registry/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link]   [注释]    ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k7w0my/some_recent_changes_to_choice_of_l10n_and_i18n_in/</guid>
       <pubDate>Fri, 25 Apr 2025 21:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Ruby中写一个口译员</title>
-      <link>https://www.reddit.com/r/programming/comments/1k7vzoz/write_an_interpreter_in_ruby/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      link”   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k7vzoz/write_an_interpreter_in_ruby/</guid>
-      <pubDate>Fri, 25 Apr 2025 21:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>下一代GPU编程：与Mojo和Max Modular HQ实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1k7vznx/nextgen_gpu_programming_handson_with_mojo_and_max/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ketralnis      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k7vznx/nextgen_gpu_programming_handson_with_mojo_and_max/</guid>
-      <pubDate>Fri, 25 Apr 2025 21:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>D：教程和参考中的编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1k7vz0o/programming_in_d_tutorial_and_reference/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k7vz0o/programming_in_d_tutorial_and_reference/</guid>
-      <pubDate>Fri, 25 Apr 2025 21:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paper2Code：从科学论文中生成自动代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1k7vyqn/paper2code_automating_code_generation_from/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k7vyqn/paper2code_automating_code_generation_from/</guid>
-      <pubDate>Fri, 25 Apr 2025 21:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>python中使用异常组的5个级别</title>
-      <link>https://www.reddit.com/r/programming/comments/1k7vx73/5_levels_of_using_exception_groups_in_python/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yangzhou1993     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k7vx73/5_levels_of_using_exception_groups_in_python/</guid>
-      <pubDate>Fri, 25 Apr 2025 21:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>watercooler关于常见软件自动化主题的讨论</title>
-      <link>https://www.reddit.com/r/programming/comments/1k7s3f6/watercooler_discussions_about_common_software/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hola朋友，上面的链接是从这个subreddit，r/QualityAssurance收集的大约多年的水库讨论， 请随时发表有关那里的任何主题的评论，我很乐意将其添加到WaterCooler的讨论中，因此本文档可以始终通过所有社区的常见问题和答案来增长，谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/basecase_     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k7s3f6/watercooler_discussions_about_common_software/</guid>
-      <pubDate>Fri, 25 Apr 2025 18:25:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

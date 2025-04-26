@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sat, 26 Apr 2025 09:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 12:03:27 GMT</lastBuildDate>
+    <item>
+      <title>Relaticle-完全免费的开源CRM，用Laravel 12 +细丝3</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k8aqeq/relaticle_a_totally_free_opensource_crm_built/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;    hey hey folks👋， 我已经在&lt;强度 shot for  • 100％开源（MIT）  - 代码居住在这里→ https://github.com/relaticle/relaticle/relaticle/relaticle/relaticle  灯丝3  UI组件，因此开发人员可以在不重新发明车轮的情况下进行模拟。•与“常规”的好东西（联系人，公司，公司，任务，注释）•和 drag-n-Drop sales销售委员会  （不需要Docker swarm崇拜），但对于不想每月不想在SaaS上丢$$$的小型团队/初创公司仍然足够有用。另外，在Laravel中编写它意味着我实际上可以阅读我自己的代码tomorow。   People↔公司链接：请参阅一个地方的每一次互动（不再有Tab-Hell）。   简单管道：快速自定义阶段，无需复杂的BPMN Wizardry。      self-host＆lt in＆lt in＆lt; lt; 5分钟在$ 5 vps上 - 字面意思是 git克隆＆amp;＆amp;作曲家安装。我试图保留读书人的范围，但我敢肯定我错过了东西。  寻找反馈/合作 我仍在抛光文档＆amp;测试（我知道！），因此：  如果您将其旋转并击中虫子，请我或打开问题。 好奇它如何堆叠起来，vs suitecrm，vtiger，vtiger，尚未尚未尚未尚待等等。  干杯＆amp;感谢您阅读！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/us local-comparison-one      ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k8aqeq/relaticle_a_totally_free_opensource_crm_built/</guid>
+      <pubDate>Sat, 26 Apr 2025 11:24:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>更好的加密数据存储</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k88z22/better_encrypted_datastore/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在搜索libs以在加密数据存储中存储数据时找到了这个库。作者声称，他的库避免将未加密的数据存储在RAM中，并且只有在用户需要时才能解密数据。图书馆现在在Alpha中，尽管它似乎有效。这不是自我促进的（甚至不是我的图书馆），只是分享您的人们可能对此感兴趣的重要内容。如果您是Android Dev，则特别有用。    https://github.com/bakad3v/betterencryptercrypteddatastore  提交由＆＃32; /u/u/ivkik55     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k88z22/better_encrypted_datastore/</guid>
+      <pubDate>Sat, 26 Apr 2025 09:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Newelle 0.9.5发布：互联网访问，改进的文档阅读</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k88wkz/newelle_095_released_internet_access_improved/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   newelle 0.9.5发布！ Newelle是一名高级AI助手，用于支持任何LLM（本地或在线），语音命令，扩展等等！   🔎使用Searxng，DuckDuckgo和Tavyily           🌐聊天占位符 📎改进的文档阅读：只有在文档太长 💭 💭新思维窗口    🧠添加对groq上的llama4的愿景支持的可能性，并且有可能在OpenRouter   p&gt;          源代码： https://github.com/qwersyk/newelle/  href =“ https://flathub.org/apps/io.github.qwersyk.newelle”&gt; https://flathub.org/apps/io.github.qwersyk.qwersyk.newelle  提交由＆＃32; /u/u/itzsilver_yt     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k88wkz/newelle_095_released_internet_access_improved/</guid>
+      <pubDate>Sat, 26 Apr 2025 09:18:29 GMT</pubDate>
+    </item>
     <item>
       <title>华盛顿特区的美国律师指控维基百科“宣传”威胁非营利地位</title>
       <link>https://www.reddit.com/r/opensource/comments/1k86q2h/us_attorney_for_dc_accuses_wikipedia_of/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[The Cloud Native Computing Foundation (CNCF) published a post yesterday essentially accusing Synadia, the lead maintainers of NATS (a powerful and popular messaging system for connecting distributed systems, streaming data, and enabling event driven communication) of a rugpull (moving from Apache to Business Source License - BSL), trademark fraud (promised to transfer trademarks to CNCF，这是会员的条件，从未做到）等等。  https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the--integrity-op--open-source-cncfs-commitment-to-to-to-the-community/     cncf还分享了过去几周发生的各种（有时是合法的）对应关系：除了说他们会做出回应并打算继续支持开源软件外，还没有做出真正的回应。 我还从一段时间前发现了这一讨论，在该讨论中，Synadia毕业了CNCF计划的申请最终被拒绝，理由是由一家公司完全由一家公司确定。  https://github.com/cncf/cncf/toc/pull/168 他们试图在当时争辩说这是一个非问题的争论，因为有一个多样化的客户库Ecosystem。我想这可以通过这一消息来以两种方式来解释：   Synadia值得从CNCF退出，因为它显然从来没有真正是一个社区项目。         synadia从来没有真正打算成为一个社区项目。 Redis，Elasticsearch，Hashicorp等。显然，这是该行业正在发展的方向，而钱不再那么丰富。就像大多数情况下一样，希望这只是防止其他人在其上构建全球SaaS产品的举动。  我曾经与Synadia的团队进行过出色的互动，因此我期待看到他们的响应，尤其是BSL所包含的内容。 更新：Synadia的初始响应。不是特别有用。  https://www.synadia.com/blog/synadia-respons-to-cons-cons-cons-con-cncf    href =“ https://github.com/nats-io/nats-server/issues/6832”&gt; https://github.com/nats-io/nats-io/nats-server/issues/6832     显然下周会有AMA     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k7lein/cncf_has_accused_nats_of_a_rugpull_and_more/</guid>
       <pubDate>Fri, 25 Apr 2025 13:49:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程下载</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k7jb9p/remote_download/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一天中大部分时间（例如a点）都没有无限的互联网。我确实在其他地方（B点）无限。我只想从一个点控制下载，以便在点下载下载。这可能吗？ PC和Android在这两个方面都可以使用！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sonulob      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k7jb9p/remote_download/</guid>
-      <pubDate>Fri, 25 Apr 2025 12:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源MCP工具EVAL</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k7iset/open_source_mcp_tool_evals/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我正在构建新的MCP服务器，并决定在处理它时开发的评估工具。希望其他人发现它有帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/thisguy123123       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k7iset/open_source_mcp_tool_evals/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:39:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目的志愿者开发人员</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k7ijqz/volunteer_developer_for_open_source_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开发了一个开源项目：高度鲁棒的AES 256的应用程序256诸如PDF MP4 RAR等任何文件类型的Encryption，该项目的主要概念是简单的，它使任何人都可以让任何人在PC上本地使用任何类型的数据。它具有简单且用户友好的GUI。 我的请求是为志愿者开发人员提供项目，并为代码库做出改进。自然，该项目尚未完成，并且缺少诸如拖放支持之类的缺失功能。   绝对没有提交捐款的截止日期或限制。志愿者拥有创新的创意自由，可以创新和增强应用程序。我相信为这样一个项目做出贡献可能是其专业投资组合和经验的宝贵补充。 该项目的链接： https://github.com/logand.com/logand166/encryptor/encryptor/tree/tree/tree/v2.0?tab=meReadMeReadMeReadme-me-ov-file  - &gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k7ijqz/volunteer_developer_for_open_source_source_project/”&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k7ijqz/volunteer_developer_for_open_source_project/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:26:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

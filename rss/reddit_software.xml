@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 26 Apr 2025 09:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 12:02:53 GMT</lastBuildDate>
+    <item>
+      <title>dockerized samarium：生成发票，跟踪财务，创建网站，在一个应用程序中编写简单博客，任务管理</title>
+      <link>https://www.reddit.com/r/software/comments/1k8ax8w/dockerized_samarium_generate_invoice_track/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 最后，我有一个最小的docker设置，以便任何人都可以轻松地使用Docker安装该应用程序。这是一个最小的设置。  关于应用程序  它是一个像Web软件这样的ERP，您可以从那里生成发票，跟踪购买和费用，创建和管理网站（一个简单的网站）（一个简单的网站），写博客，创建任务，创建任务和更多功能。它是使用PHP Laravel框架构建的，并使用LiveWire软件包。   github repo   它是开源的，可在GitHub中使用。  https://github.com/oitcode/samarium Dockerization Whenever I was sharing this github repo, many had asked if I could also share Dockerfile so that they could run the application inside Docker.尝试后，我使用了最小的Docker设置，以便您可以在Docker内运行应用程序。 Instructions to install the app in docker are provided in README file. Here is summarize steps: ``` cp .env.docker.example .env docker-compose up --build -d  After the containers are running run below steps (required only for first time):  docker exec -it samarium_app npm run dev docker exec -it samarium_app composer dump-autoload docker exec -it samarium_app php artisan migrate docker exec -it samarium_app php artisan key:generate docker exec -it samarium_app php artisan storage:link docker exec -it samarium_app php工匠DB：种子 注意：您需要在基于Linux的OS中使用Sudo与Docker命令一起使用。我知道这是一个最小的设置，可以进一步改进Dockerfile和Docker-Compose.yml的许多东西。  结论  最后，为该应用程序提供了最小的Docker设置。它涉及一些关于Docker概念本身很好的学习。现在，任何人都可以使用Docker安装并尝试该应用程序。欢迎有关应用程序或Dockerization过程的任何反馈。   谢谢，大家都有愉快的时光。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/southbaseball7761     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k8ax8w/dockerized_samarium_generate_invoice_track/</guid>
+      <pubDate>Sat, 26 Apr 2025 11:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>IDM仅显示YouTube的360下载选项</title>
+      <link>https://www.reddit.com/r/software/comments/1k89pac/idm_only_showing_360_download_option_for_youtube/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    我到处寻找解决方案，这无济于事，我希望这个潜艇是我找到该解决方案的地方。我感谢任何形式的响应：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flaky-internal9161     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k89pac/idm_only_showing_360_download_option_for_youtube/</guid>
+      <pubDate>Sat, 26 Apr 2025 10:16:16 GMT</pubDate>
+    </item>
     <item>
       <title>Balabolka死了？</title>
       <link>https://www.reddit.com/r/software/comments/1k84xym/balabolka_dead/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  您对过去三年中软件行业的整体动态有何观察？ 在2022年部分裁员之后，该行业的收缩在2022年对主要科技公司的部分裁员之后继续进行，例如Google，Meta，Meta，Meta，Amazon，Microsoft等人的意见？ C＃，PHP，JavaScript等）正在下降，而与AI，机器学习，数据科学和BI工具有关的领域的需求正在增长？ 您认为未来几年还会经历哪些其他领域？提交由＆＃32; /u/u/pamir_miren     [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k6ru5m/in_your_opinion_what_are_the_trends_in_the/</guid>
       <pubDate>Thu, 24 Apr 2025 13:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有绿色Axolotl的适配器程序作为徽标</title>
-      <link>https://www.reddit.com/r/software/comments/1k6rkl7/adapter_program_with_green_axolotl_as_logo/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我的计算机死了，我不得不进行工厂重置，不幸的是，我找不到一个我以前安装的程序之一。&lt; /p&gt; 它被称为适配器，它被称为适配器，图标是一个可爱的green green Axolotl-creature。  我主要使用它来拿起视频剪辑，然后逐帧将它们拆分，以便我有可以用于各种事物的图像，但是如果我没记错的话，它也有大约十亿个其他用途。我可能在五年前下载了它。  UI是非常基本的，没有花哨的事情，但是它做得很好并且做得很好，所以如果我能再次找到它，那真是太棒了。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/plutoniumisanelement     [link]     32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k6rkl7/adapter_program_with_green_axolotl_as_logo/</guid>
-      <pubDate>Thu, 24 Apr 2025 12:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源HTML电子邮件编辑器。</title>
-      <link>https://www.reddit.com/r/software/comments/1k6qg2t/open_source_html_email_editor/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  源代码： https://github.com/sendwithses/sendwithses/drag-and-drag-and-drop-drop-ddrop-drop-designer-deesigner-p-  https://designer.sendune.com/     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sendune     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k6qg2t/open_source_html_email_editor/</guid>
-      <pubDate>Thu, 24 Apr 2025 12:02:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
