@@ -4,13 +4,27 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 28 Apr 2025 18:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 21:02:41 GMT</lastBuildDate>
     <item>
-      <title>使用LLMS更快的浏览器自动化</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ka1ob9/faster_browser_automation_with_llms/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/lawlynessflat9560       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ka1ob9/faster_browser_automation_with_llms/</guid>
-      <pubDate>Mon, 28 Apr 2025 17:43:43 GMT</pubDate>
+      <title>为什么没有开源电子邮件归档项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ka39zt/why_arent_there_any_open_source_email_archiving/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  像大多数人一样，电子邮件已成为信息和记录保存的巨大来源。我熟悉PaperlessNGX和类似的文档归档工具（它们很好），但是我找不到任何开源的电子邮件。我一直在使用一种名为Mailstore（专有，有限的产品）的产品，该产品可让您在1个个人许可下进行1个邮箱。服务器升级具有订阅之类的支持。问题就像很多人一样，我收到了许多电子邮件 - 工作，个人工作，个人，扔掉等。 我试图弄清楚您是否可以在Synology上使用MailPlus或Mailserver之类的内容来简单地存档基于云的邮箱（例如Office365或其他ISPS WebMail），但尚不清楚。我不在乎它是否也在说PC上 - 只是在某个地方是1）不在IMAP服务器上，而2）档案可以长期访问。   其他选项中还有其他选项，但看起来大多数是订阅，或者特定于Mac或Gmail。  有什么想法吗？我无法想象这并不是很多人会发现有用的，而且有人尚未使用开源工具来解决。那里的任何建议或产品都会欣赏这些想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ka39zt/why_arent_there_there_there_ony_open_source_email_archiver/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ka39zt/why_arent_there_any_open_source_email_archiving/</guid>
+      <pubDate>Mon, 28 Apr 2025 18:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源APACHE KAFKA到ClickHouse重复数据删除并加入</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ka366e/opensource_apache_kafka_to_clickhouse/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，我刚刚与团队一起启动了一个产品，以帮助Kafka用户重复删除并加入数据流，然后再将其摄取到Clickhouse以进行实时分析。源系统通常会产生重复项，而即时清洁数据流非常复杂。因此，我们想使数据人员仅摄入清洁数据并减少Clickhouse上的负载。  您通过连接器从Apache Kafka摄入数据。 用户定义了应重复重复和/或加入的字段。该产品存储逻辑并在选定的时间窗口（小时或几天）中执行它。每个新事件都将在时间窗口中与逻辑进行检查。 数据将通过优化的水槽连接器摄入Clickhouse。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/um1end     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ka366e/opensource_apache_kafka_to_clickhouse/</guid>
+      <pubDate>Mon, 28 Apr 2025 18:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议请求：开放式回复（完整的社区和内容管理生态系统），同时建立可持续业务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ka2kzc/advice_request_opensourcing_replyke_full/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ka2kzc/advice_request_opensourcing_replyke_full/</guid>
+      <pubDate>Mon, 28 Apr 2025 18:19:52 GMT</pubDate>
     </item>
     <item>
       <title>在为Web应用程序开发实时视频聊天功能时，使用PEERJS而不是SimplePer可以接受吗？</title>
@@ -64,7 +78,7 @@
     <item>
       <title>开源计划细节 - 代理生成计划的飞行前安全检查器</title>
       <link>https://www.reddit.com/r/opensource/comments/1k9t5rs/opensourcing_planlint_a_preflight_safety_checker/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 刚刚发货 plan-lint“&gt; plan-lint”&gt; plan-lint ，一个小型的oss工具，可以检查机器 - 可读取的“计划”的“计划”我们的Angent&#39;Angent&#39;Plans&#39;我们的Angents&#39;&#39;&#39;Ancents&#39;&#39;我们的Angent&#39;&#39;我们的Angent&#39;&#39;我们的Angents&#39;&#39;我们的Angents&#39;&#39;我们的Angent&#39;&#39;call  It spots the easy-to-miss stuff—loops, over-broad SQL, raw secrets, crazy refund values—then returns pass / fail plus a risk score, so your orchestrator can re-plan or HITL instead of torching prod. Quick specs  JSONSchema / Pydantic validation YAML / OPA允许/拒绝规则＆amp;边界  data-flow检查pii/secrets  步骤图上的循环检测 在＆lt; 50 ms in＆lt; 50 ms in t; speps，零标记     context/design href =“ https://substack.yourdomain.com/p/no-safe-words”&gt; https://substack.yourdomain.com/p/no-safe-words       apache-2.0，插件欢迎。  会喜欢关于产品侧面计划的反馈，错误报告或战争故事。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/baradas     [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 刚刚发货 plan-lint“&gt; plan-lint”&gt; plan-lint ，一个小型的oss工具，可以检查机器 - 可读取的“计划”的“计划”我们的Angent&#39;Angent&#39;Plans&#39;我们的Angents&#39;&#39;&#39;Ancents&#39;&#39;我们的Angent&#39;&#39;我们的Angent&#39;&#39;我们的Angents&#39;&#39;我们的Angents&#39;&#39;我们的Angent&#39;&#39;call  It spots the easy-to-miss stuff—loops, over-broad SQL, raw secrets, crazy refund values—then returns pass / fail plus a risk score, so your orchestrator can re-plan or HITL instead of torching prod. Quick specs  JSONSchema / Pydantic validation YAML / OPA允许/拒绝规则＆amp;边界  data-flow检查pii/secrets  步骤图上的循环检测 在＆lt; 50 ms in＆lt; 50 ms in t; spep，零标记     context/design href =“ https://substack.yourdomain.com/p/no-safe-words”&gt; https://substack.yourdomain.com/p/no-safe-words       apache-2.0，插件欢迎。  会喜欢关于产品侧面计划的反馈，错误报告或战争故事。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/baradas     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k9t5rs/opensourcing_planlint_a_preflight_safety_checker/</guid>
       <pubDate>Mon, 28 Apr 2025 11:25:20 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我很高兴分享一个新的 beta 0.2.0   blazecast“&gt; blazecast”&gt; blazecast   -  这个更新主要集中在 clipboard comprivements  Fixes ！ ✨✨    &lt;️图像剪贴板的支持 t您现在可以直接从剪贴板上复制和粘贴image  s ，而不仅仅是文本！ No crashes, no hiccups. 🐛 Bug Fixes Fixed an issue where searching clipboard history caused crashes when non-text items (like images) were present and more others.  📥 Get the new version: You can grab the new .msi installer here: 🔗下载” ＆＃32;提交由＆＃32; /u/u/select_potato_6232      [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k95ton/new_beta_release_version_020/</guid>
       <pubDate>Sun, 27 Apr 2025 14:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Homeshare：您房屋的公共文件服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k94fbg/homeshare_a_public_file_server_for_your_home/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https：//github.com/jugeekuz/jugeekuz/homeshare  提交由＆＃32; /u/u/u/kuzakuzakuzuza61       &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k94fbg/homeshare_a_public_public_file_server_server_for_your_home/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k94fbg/homeshare_a_public_file_server_for_your_home/</guid>
-      <pubDate>Sun, 27 Apr 2025 13:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pewdiepie现在是开源社区的一部分！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k91zz9/pewdiepie_is_now_part_of_the_opensource_community/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/jwk6iekklegcdamnmd76www82uoqfdechijz4qtrli30.jpg？ width = 320＆amp; crop = smart＆amp; auto = webp＆amp; s = 2D0CC35D20E07BA1AB7C252B74222AF72A699999504“ title =“ Pewdiepie现在是开源社区的一部分！” /&gt;   ＆＃32;提交由＆＃32; /u/u/omer-ash     ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k91zz9/pewdiepie_is_now_part_of_the_opensource_community/</guid>
-      <pubDate>Sun, 27 Apr 2025 11:40:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
