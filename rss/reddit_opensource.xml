@@ -4,11 +4,25 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 27 Apr 2025 18:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 03:19:11 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个简单的点文件管理器来同步我的Linux配置</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k9d9y6/built_a_simple_dot_files_manager_to_sync_my_linux/</link>
+      <description><![CDATA[I recently made a small dotfiles manager that can sync your Linux config files and folders easily.  It automatically checks for changes or new files in your registered dotfiles and folders If differences are found, it syncs them to an emit_folder you set  我知道那里有很大的工具，但是我想从头开始构建自己的学习项目。  repo： sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hades2202     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k9d9y6/built_a_simple_dot_dot_files_manager_manager_to_sync_my_my_my_my_my_linux/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k9d9y6/built_a_simple_dot_files_manager_to_sync_my_linux/</guid>
+      <pubDate>Sun, 27 Apr 2025 20:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>麋鹿堆栈 +清漆可在HTTP流量上获得谷物见解</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k9d0ts/elk_stack_varnish_to_get_grained_insights_on_http/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，&lt; /p&gt;  &lt; /p&gt; 在内部向我的公司，我开发了一种在任何网站 /Restful API上获得完全可观察到的方法，基本上是任何HTTP服务器。  然后将所有内容存储在麋鹿堆中，创建仪表板，并对表演，错误率，大多数要求的页面，机器人活动等实时见解。 我正在考虑将所有内容包装到docker的形象中，将其包装到一个docker的图像中，将其释放为开源。 任何人都在这种情况下对某些人感兴趣。还是有类似的解决方案？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k9d0ts/elk_stack_stack_stack_varnish_to_to_get_graining_insights_insights_on_http/”&gt;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k9d0ts/1k9d0ts/elk_stack_stack_varnish_to_get_get_gerained_insights_insights_on_http/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k9d0ts/elk_stack_varnish_to_get_grained_insights_on_http/</guid>
+      <pubDate>Sun, 27 Apr 2025 20:01:47 GMT</pubDate>
+    </item>
     <item>
       <title>您发现的开源工具是什么，现在无法没有？</title>
       <link>https://www.reddit.com/r/opensource/comments/1k99hk5/whats_an_opensource_tool_you_discovered_and_now/</link>
-      <description><![CDATA[Hey everyone, what’s one open-source tool you stumbled on that ended up being way more useful than you expected? Could be for coding, AI/ML, writing, research, staying organized, whatever helped you out big time but you don&#39;t hear people talk about much.  Always feels like there are so many hidden gems that deserve more love. Would be awesome to hear your picks, maybe even find some new favorites myself    提交由＆＃32; /u/u/fitheron1933     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，您偶然发现的一种开源工具最终比您预期的更有用吗？ 用于编码，AI/ML，AI/ML，写作，研究，研究，保持有组织的时间，但您对您没有帮助，但您不会听到您会听到很多人在谈论人们很多。  总是觉得有很多隐藏的宝石应该得到更多的爱。 听到您的选择很棒，甚至可能自己找到了一些新的收藏夹  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fitheron1933     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k99hk5/whats_an_opensource_tool_you_discovered_and_now/</guid>
       <pubDate>Sun, 27 Apr 2025 17:31:46 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource ， 找到干净的SVG或PNG应该不那么困难。 一段时间以来，我一直在 dashboard图标，，专门用于应用程序和服务的1800多个ICONS集合。 Think icons for databases, CI/CD tools, cloud services, media servers, APIs, etc. It started as a personal project but grew quite a bit. Recently, collaborating with the Homarr team, we&#39;ve pushed out some major updates focused on making these icons easier to find and use:   新网站：    https://dashboardicons.com  我们构建了一个适当的网站，可以轻松搜索，filter，preview，preview（light/dark），并以svg，png，png或webp formate下载图标。 Copying SVG code directly is also an option. Metadata for integration: This is pretty useful for devs – every icon now has a corresponding .json file (and a global tree.json) with metadata like names, aliases, and categories.将图标集以编程方式集成到您自己的组件，图标选择器或设计系统中变得更加容易。  优化＆amp;标准化：所有图标均已优化，并具有标准化格式，包括WebP。  整个集合都是开源的，可在GitHub上使用。如果您要构建仪表板，管理面板或任何需要徽标的特定服务徽标的UI，这可能会节省您的时间。 您可以在网站上浏览所有内容并查看。如果您看到缺少的东西，请随时进行通过github问题建议一个图标。 希望这对您的某些人有帮助！提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k8k3vh/finding_a_good_good_svg_svg_shouldntnnt_be_a_side_quest_mequest_my/”&gt; [link]   [注释]    ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k8k3vh/finding_a_good_svg_shouldnt_be_a_side_quest_my/</guid>
       <pubDate>Sat, 26 Apr 2025 18:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Itensor是Live！打开张量，物理和模拟的科学计算器 - 寻找支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k8jbsy/itensor_is_live_open_scientific_calculator_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我刚刚启动了 itensor   - 一种免费的，开放的科学工具，用于张量计算，差异操作和基本物理模拟，所有这些都可以在浏览器中直接尝试。 href =“ https://itensor.online”&gt; https://itensor.online      itensor计算诸如爱因斯坦张量，ricci张量，ricci张量，基督教符号，基督教符号之类的数量，并且还可以模拟磁性系统（MHD）。对于学生，研究人员和任何对宇宙好奇的人来说，都更容易实验。 如果您觉得它有用或相信这个想法，那么对项目（共享，反馈或捐赠）的任何支持都意味着我会继续开发它。 🙏 感谢您检查它！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fealplayer69     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k8jbsy/itensor_is_live_open_scientific_calculator_for/</guid>
-      <pubDate>Sat, 26 Apr 2025 18:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>github- eoinocal/halite：halite（以矿物质命名）是基于Arvid Norberg开发的出色的Libtorrent库的C ++ Bittorrent客户端。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k8iy70/github_eoinocalhalite_halite_named_after_the/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/zero3k       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k8iy70/github_eoinocalhalite_halite_named_after_the/</guid>
-      <pubDate>Sat, 26 Apr 2025 17:55:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
