@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 29 Apr 2025 12:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 15:02:25 GMT</lastBuildDate>
+    <item>
+      <title>避免使用语义元数据的API破坏变化</title>
+      <link>https://www.reddit.com/r/programming/comments/1kapv80/avoiding_breaking_changes_in_apis_with_semantic/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  披露：我没有写这篇文章，但是我确实在作者正在讨论的开源框架上工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/martypitt      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kapv80/avoiding_breaking_changes_in_apis_with_semantic/</guid>
+      <pubDate>Tue, 29 Apr 2025 14:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clickhouse和OpentElemetry</title>
+      <link>https://www.reddit.com/r/programming/comments/1kapezq/clickhouse_and_opentelemetry/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/mmaksimovic   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kapezq/clickhouse_and_opentelemetry/</guid>
+      <pubDate>Tue, 29 Apr 2025 14:33:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一直在独自建立一个工具，用于不互联网，可以使用反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1kaoww3/ive_been_solobuilding_a_tool_for_syncing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     tl; dr：&lt; /em&gt;  sietch是一个脱机，加密的库级系统，用于跨设备同步敏感数据，即使您在网格上或被关注的情况下也是如此。想象一下，如果git，rsync和gpg生了一个孩子，并且是由偏执狂幸存者在沙漠中长大的。那是锡奇。为在艰难环境中运作的人们建造：记者，激进主义者和隐私书呆子。 嘿，伙计， ，所以在过去的几个月中，我一直在建立一个叫做 sietch vault 的东西，我终于在我可以分享的地方感到沮丧的是，我终于感到自己可以在某个地方进行一些反馈。云存储，处理糟糕的网络或监视网络，并且只想在互联网熄灭时不会破裂的东西。 I’m aiming this at people who work in high-risk environments: journalists, sysadmins, activists, or just anyone who really cares about keeping their stuff secure and resilient. 🌵 Key Features  Offline-First: Works over LAN, USB drives, or anything you can throw data through—no internet required End-to-End加密： AES-256-GCM或GPG  - 您选择。在同步之前，一切都块和加密，  分散的发现：同伴使用轻量级八卦协议   rsync-style同步彼此相互发现：仅转移更改的块。超级弹性，即使在片状连接上 零信任体系结构：默认情况下，所有事物都敌对了 - 加密元数据，验证一切     cli-first： 构建的bloated gui gui（bloated gui），却是bloated gui（却是）      &gt;使用：  ＃＃创建保险库sietch init -name secure-vault -encrypt aes256＃添加文件sietch add \〜/documents/sensive-research.pdf/research/research/＃discuse peacer on lan sietch on lan sietch in lan sietch discuply＃sync disculct＃sync sync sync sync sync sync-peer sync sync sync sync sync sync sync sync sync sync sync sync [192.168.1.42]（http://192.168.1.42）  它是生存 - 首先，而不是云首位。我构建了所有假设：  可以监视网络或下降 该连接可能是通过Sneakernet（USB） 您的数据需要生存，加密和安全的         this状态  这是一个solo的项目。基础知识工作 - 拱顶系统，块，加密和基本同步就位。现在，我深深地倾向于提高同步可靠性和lan peer发现。 out！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sidtds       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kaoww3/ive_been_solobuilding_a_tool_for_syncing/</guid>
+      <pubDate>Tue, 29 Apr 2025 14:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>四树：在该区域找到（第2部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1kaoov8/quad_trees_find_in_the_area_part_2/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ab-azure      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kaoov8/quad_trees_find_in_the_area_part_2/</guid>
+      <pubDate>Tue, 29 Apr 2025 14:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们是Arizonagames/Arizonatechnologiesit</title>
+      <link>https://www.reddit.com/r/programming/comments/1kanrfg/we_are_arizonagamesarizonatechnologiesit/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  编程很容易，但是chatgpt/其他AI非常有用，我会尝试使用一个，因为大多数AI都是免费的！并帮助您进行编码（这不是促销，而只是为了帮助您）！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unationarizonagames      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kanrfg/we_are_arizonagamesarizonatechnologiesit/</guid>
+      <pubDate>Tue, 29 Apr 2025 13:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Ellipsis（...）进行Python编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1kamapm/python_programming_using_ellipsis/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/symbolicard       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kamapm/python_programming_using_ellipsis/</guid>
+      <pubDate>Tue, 29 Apr 2025 12:07:51 GMT</pubDate>
+    </item>
     <item>
       <title>为什么绩效优化是艰苦的工作</title>
       <link>https://www.reddit.com/r/programming/comments/1kam686/why_performance_optimization_is_hard_work/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yegor256     ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kafz3n/let_the_bug_reporter_have_the_last_word/</guid>
       <pubDate>Tue, 29 Apr 2025 04:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何解决表达问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1kafyha/how_i_solved_the_expression_problem/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gavinhoward      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kafyha/how_i_solved_the_expression_problem/</guid>
-      <pubDate>Tue, 29 Apr 2025 04:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程语言应具有树遍历原始的</title>
-      <link>https://www.reddit.com/r/programming/comments/1kafxa1/programming_languages_should_have_a_tree/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/foxintheredbox     link&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kafxa1/programming_languages_should_have_a_tree/</guid>
-      <pubDate>Tue, 29 Apr 2025 04:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rae Sremmurd的“无类型”模仿歌曲，用于动态键入编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaf6dx/a_parody_song_of_no_type_by_rae_sremmurd_for_a/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yevbar     &lt;a href =“ https://www.reddit.com/r/programming/comments/1kaf6dx/a_parody_song_song_no_no_no_type_by_rae_sre_sremmurd_for_a/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaf6dx/a_parody_song_of_no_type_by_rae_sremmurd_for_a/</guid>
-      <pubDate>Tue, 29 Apr 2025 04:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用JWT进行授权：最佳实践和常见错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaf3v5/how_to_use_jwts_for_authorization_best_practices/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/uper_io      [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaf3v5/how_to_use_jwts_for_authorization_best_practices/</guid>
-      <pubDate>Tue, 29 Apr 2025 04:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么又是什么？</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaeuyd/what_the_heck_is_aead_again/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaeuyd/what_the_heck_is_aead_again/</guid>
-      <pubDate>Tue, 29 Apr 2025 03:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haskell中包装的数据支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaeuj0/packed_data_support_in_haskell/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaeuj0/packed_data_support_in_haskell/</guid>
-      <pubDate>Tue, 29 Apr 2025 03:49:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 29 Apr 2025 12:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 15:02:37 GMT</lastBuildDate>
+    <item>
+      <title>🚀我开源了一个实时实时聊天支持启动器套件（next.js + socket.io）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kapxb6/i_opensourced_a_realtime_live_chat_support/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 在过去的几周中，我建造了一个实时的实时聊天支持启动器套件 - 只是在github上开放了它！ 它是由以下方式构建的：           Main features: • Real-time chat between visitors and admins • Separate admin and visitor UIs • Persistence with localStorage/sessionStorage • Admins can end conversations, visitors can resume later • Deploy-ready for Vercel + Railway  ✅ It’s lightweight, fast, modular, and fully customizable. ✅ Designed for developers who want to add  🔗github repo： ⸻——————————————————————————  我想对以下内容进行任何反馈：  •您会添加哪些功能？ •任何可以使其更容易自定义的东西吗？ •V2改进的想法？   感谢您检查它！ 🚀  opensource #webdev #nextjs #socketio   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kapxb6/i_opensourced_a_realtime_a_rive_chat_chat_support/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kapxb6/i_opensourced_a_realtime_live_chat_support/</guid>
+      <pubDate>Tue, 29 Apr 2025 14:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求指导以升级和开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kap34c/seeking_guidance_to_level_up_in_flutter_and_open/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我开始通过安吉拉Yu的Udemy课程学习颤抖，这是一个很好的介绍。最近，我做出了一些开源贡献，作为我为GSOC 2025选出的一部分。虽然这是一次宝贵的经历，但它也使我意识到要学习多少更多。 我的目标是足够熟练地变得有意义地做出有意义的贡献，而不是为了开放的贡献，但最终从我的flutter flutter开发中获得了任何建议。社区或策略 - 我非常感谢您的指导。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_dragonslayer2_      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kap34c/seeking_guidance_to_level_up_in_flutter_and_open/</guid>
+      <pubDate>Tue, 29 Apr 2025 14:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国致力于ODF和开放文件标准</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kanqat/germany_committing_to_odf_and_open_document/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/doener23     [link]        [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kanqat/germany_committing_to_odf_and_open_document/</guid>
+      <pubDate>Tue, 29 Apr 2025 13:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PYPI上的绿洲 - 一个开源的百万个代理社会模拟器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kamq2b/oasis_on_pypian_opensource_millionagent_social/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  发现 oasis ，用于大规模社交媒体模拟的PYPI软件包。 Highlights:  One-line install: pip install camel-oasis Ready-made Reddit-like environment Customizable agent behaviors (post, like, comment, follow, etc.) Scale up to 1 000 000 agents in minutes  Great for research on network效果，负载测试的社区功能或原型审核工具。  Check out the quickstart here: 🔗 https://docs.oasis.camel-ai.org/introduction Apache-2.0 licensed and community-driven, can’t wait to see what you all创建！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kamq2b/oasis_on_pypian_opensource_millionagent_social/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kamq2b/oasis_on_pypian_opensource_millionagent_social/</guid>
+      <pubDate>Tue, 29 Apr 2025 12:30:20 GMT</pubDate>
+    </item>
     <item>
       <title>微小的促销 - 创建很少的项目/几个概念以获取来源的时间（ +旧项目的复兴） +我对未来计划的想法</title>
       <link>https://www.reddit.com/r/opensource/comments/1kakiy3/tiny_promotion_creating_few_projectsfew_concepts/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我构建了一个标记编辑器，因为我找不到足够好的wysiwyg markdown编辑器来快速编辑和共享我的内容！  I write blogs in Markdown, so I built Slate to make it easy for me to write, edit, and quickly share drafts with my friends. How it works: You open Slate in your browser, and it:  Lets you write and edit Markdown with a clean, distraction-free WYSIWYG interface Provides AI writing assistance whenever you need help structuring or improving text — just press Cmd/Ctrl + K Stores everything locally in your browser — no servers, unless you choose to publish it 允许您导出您的内容作为Markdown或HTML    仅需要登录，如果您想使用AI功能或发布文档并获得草稿  用 nuxtjs ❤️   确实在上查看它： href =“ https://github.com/thetronjohnson/slate/”&gt; https://github.com/thetronjohnson/slate/        🎉  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k9yx48/opensource_localfirst_web_web_wybased_wysiwyg_marksmarkdown/”&gt; [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k9yx48/opensource_localfirst_web_based_wysiwyg_markdown/</guid>
       <pubDate>Mon, 28 Apr 2025 15:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的Tilbuci版本，一种用于交互式内容创建的免费软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k9uyud/new_tilbuci_version_a_free_software_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我一直在开发用于创建交互式内容（MPL-2.0）的免费软件Tilbuci的新版本。版本12包括几个新功能，可以简化内容创建，包括封面和背景图像和音乐曲目的装置。此外，两个新工具扩展了软件的用法：表单和全局接口创建者。另一个新功能是改进PWA应用程序出口商。查看存储库中的新功能：    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chokito76     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k9uyud/new_tilbuci_version_a_free_software_for/</guid>
-      <pubDate>Mon, 28 Apr 2025 13:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如今，普通消费者 /生产商的普通想法是如何认真对待的？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k9udhq/how_seriously_are_stallmans_ideas_taken_nowadays/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  时不时地，我偶然发现了斯塔尔曼（Stallman）的文章和有关斯塔尔曼（Stallman）文章的文章。经过大约20多年的行业和FOSS经验，有时两次交织在一起，我觉得他的大多数工作都是单方面而又天真的，但我不知道我是否曾经被“腐败”通过企业还是...长大了？普通消费者（用户）和生产者（贡献者）如何与这组想法相互作用？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/skwyckl     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k9udhq/how_seriously_are_stallmans_ideas_taken_nowadays/</guid>
-      <pubDate>Mon, 28 Apr 2025 12:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的开源.NET MAUI预算应用程序（Profocracy）需要Beta测试器 - 在Google Play上发布！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k9twag/need_betatesters_for_my_opensource_net_maui/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿！   不久前，我分享了我的开源个人预算应用程序， Profit ，用 .net maui byard 。 href =“ https://github.com/krawmire/profitocracy”&gt; github ！ 现在，我正准备在 Google Play商店上发布它，但是我需要一组Beta-Testers来满足他们的要求。如果您有兴趣尝试早期版本并提供反馈，我将非常感谢您的帮助！ 加入Android，请点击链接： https://play.google.com/store/store/papps/paptore/apps/details?id=com.krawmire.profitocracy.profitocracy  href =“ https://play.google.com/apps/testing/com.krawmire.profitocracy”&gt; https://play.google.com/apps/testing/testing/testing/com.krawmire.profitocracy一下致测试人员组。  如何帮助：     install＆amp;测试  - 检查Android设备上的错误/可用性问题。 给出反馈  - 分享您对功能，UI或性能的想法。✔传播单词  - 如果您喜欢的话，可能会发现它有用的其他人，请告诉您有用！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/krawmire     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k9twag/need_betatesters_for_my_opensource_net_maui/</guid>
-      <pubDate>Mon, 28 Apr 2025 12:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源计划细节 - 代理生成计划的飞行前安全检查器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k9t5rs/opensourcing_planlint_a_preflight_safety_checker/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 刚刚发货 plan-lint“&gt; plan-lint”&gt; plan-lint ，一个小型的oss工具，可以检查机器 - 可读取的“计划”的“计划”我们的Angent&#39;Angent&#39;Plans&#39;我们的Angents&#39;&#39;&#39;Ancents&#39;&#39;我们的Angent&#39;&#39;我们的Angent&#39;&#39;我们的Angents&#39;&#39;我们的Angents&#39;&#39;我们的Angent&#39;&#39;call  It spots the easy-to-miss stuff—loops, over-broad SQL, raw secrets, crazy refund values—then returns pass / fail plus a risk score, so your orchestrator can re-plan or HITL instead of torching prod. Quick specs  JSONSchema / Pydantic validation YAML / OPA允许/拒绝规则＆amp;边界  data-flow检查pii/secrets  步骤图上的循环检测 在＆lt; 50 ms in＆lt; 50 ms in t; spep，零标记     context/design href =“ https://substack.yourdomain.com/p/no-safe-words”&gt; https://substack.yourdomain.com/p/no-safe-words       apache-2.0，插件欢迎。  会喜欢关于产品侧面计划的反馈，错误报告或战争故事。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/baradas     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k9t5rs/opensourcing_planlint_a_preflight_safety_checker/</guid>
-      <pubDate>Mon, 28 Apr 2025 11:25:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
