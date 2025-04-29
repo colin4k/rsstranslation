@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 29 Apr 2025 09:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 12:02:47 GMT</lastBuildDate>
+    <item>
+      <title>为什么绩效优化是艰苦的工作</title>
+      <link>https://www.reddit.com/r/programming/comments/1kam686/why_performance_optimization_is_hard_work/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/imachug      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kam686/why_performance_optimization_is_hard_work/</guid>
+      <pubDate>Tue, 29 Apr 2025 12:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>废墟的建筑师</title>
+      <link>https://www.reddit.com/r/programming/comments/1kaltns/architect_of_ruin/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/xadartt      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kaltns/architect_of_ruin/</guid>
+      <pubDate>Tue, 29 Apr 2025 11:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在老式的Powerbook二重奏中重新创建Joey的Gibson病毒</title>
+      <link>https://www.reddit.com/r/programming/comments/1kakdvj/recreating_joeys_gibson_virus_on_a_vintage/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/syxa     link&gt; link&gt; link&gt; [link]&gt; [&gt;     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kakdvj/recreating_joeys_gibson_virus_on_a_vintage/</guid>
+      <pubDate>Tue, 29 Apr 2025 10:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助小兄弟</title>
+      <link>https://www.reddit.com/r/programming/comments/1kakb5l/help_a_lil_brother/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，希望您过得愉快。我以前从未做过编程，但是我发现许多人从这条路谋生，所以我决定加入并效法他们的榜样。我希望您能帮助我了解如何入门，以及如何最终找到公司雇用我的公司或如何提供我的服务。请给我详细信息，因为我试图帮助父亲的债务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/worth_ad7784      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kakb5l/help_a_lil_brother/</guid>
+      <pubDate>Tue, 29 Apr 2025 10:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>用Rathole Tunnel和Traefik暴露家庭服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1kajpm0/expose_home_server_with_rathole_tunnel_and_traefik/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。 我为每个想在家中尝试自托管网站但由于缺乏公众静态IP地址而无法尝试的每个人都简单地指南。 The reality is that most consumer-grade IPv4 addresses are behind CGNAT, and IPv6 is still not widely adopted. Code is also included, you can run everything and have your home server available online in less than 30 minutes, whether it is a virtual machine, an LXC container in Proxmox, or a Raspberry Pi - anywhere you can run Docker. I used Rathole for tunneling due to performance reasons and Docker的灵活性和可重复性。 traefik在本地网络上运行，因此您的家用服务器是隧道 -  agnostic。 这是文章的链接：   https://neghjamitic.com.com/blog/2025-04-29-rathole-traefik-home-server-server 我很想听听您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/neMANJA_CODES      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kajpm0/expose_home_server_with_rathole_tunnel_and_traefik/</guid>
+      <pubDate>Tue, 29 Apr 2025 09:23:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle PLSQL中隐式和显式光标之间的区别</title>
+      <link>https://www.reddit.com/r/programming/comments/1kajk0g/difference_between_implicit_and_explicit_cursor/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.javainhand.com/2025/04/difference-between-implitic-and-plitic-and-epplitic-cursor-in-oracle-oracle-plsql.html”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kajk0g/difference_between_implicit_and_explicit_cursor/</guid>
+      <pubDate>Tue, 29 Apr 2025 09:11:41 GMT</pubDate>
+    </item>
     <item>
       <title>Python Web应用程序部署而不会失去您的生存意愿：Reflex + Docker + Caddy</title>
       <link>https://www.reddit.com/r/programming/comments/1kajaa3/python_web_app_deployment_without_losing_your/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kaeuj0/packed_data_support_in_haskell/</guid>
       <pubDate>Tue, 29 Apr 2025 03:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scala中下划线（_）的力量</title>
-      <link>https://www.reddit.com/r/programming/comments/1kad5b3/el_poder_del_underscore_en_scala/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/emanuelpeg      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kad5b3/el_poder_del_underscore_en_scala/</guid>
-      <pubDate>Tue, 29 Apr 2025 02:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在Java中创建自定义字段验证器注释</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaaxwp/how_to_create_custom_field_validator_annotation/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/decuntional-ad2036     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaaxwp/how_to_create_custom_field_validator_annotation/</guid>
-      <pubDate>Tue, 29 Apr 2025 00:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>vectorvfs：您的文件系统作为矢量数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1ka7emx/vectorvfs_your_filesystem_as_a_vector_database/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，仅共享vectorvfs，这是一个新的开源项目，该项目使用文件系统扩展属性直接将嵌入到inodes中，然后可以用于语义搜索。它不需要元数据文件，守护程序或外部索引。希望您喜欢它，欢迎贡献=）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/perone       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ka7emx/vectorvfs_your_filesystem_as_a_vector_database/</guid>
-      <pubDate>Mon, 28 Apr 2025 21:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Odin + Raylib的无引擎Gamedev</title>
-      <link>https://www.reddit.com/r/programming/comments/1ka6klb/noengine_gamedev_using_odin_raylib/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ka6klb/noengine_gamedev_using_odin_raylib/</guid>
-      <pubDate>Mon, 28 Apr 2025 21:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>与graalvm一起在WASM中运行Clojure</title>
-      <link>https://www.reddit.com/r/programming/comments/1ka6jhz/running_clojure_in_wasm_with_graalvm/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ka6jhz/running_clojure_in_wasm_with_graalvm/</guid>
-      <pubDate>Mon, 28 Apr 2025 21:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zig与GO中的错误处理</title>
-      <link>https://www.reddit.com/r/programming/comments/1ka5luo/error_handling_in_zig_vs_go/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/der_gopher      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ka5luo/error_handling_in_zig_vs_go/</guid>
-      <pubDate>Mon, 28 Apr 2025 20:24:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
