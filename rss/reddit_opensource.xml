@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 30 Apr 2025 06:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 09:02:45 GMT</lastBuildDate>
+    <item>
+      <title>想要新的安全工具的反馈！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kbb159/feedbacks_wanted_for_a_new_security_tool/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ Manu在这里 - 我在 Squirrel服务器管理器，开放式监视＆amp; configuration management platform some of you might know from here or Github. I am starting to build a lightweight security feature for self-hosted / on-prem Linux boxes. The idea: scan your servers over SSH, spot common config issues or weak points (CIS-style stuff), and suggest ready-to-run Ansible playbooks to修复它们。没有代理商，没有魔法 - 更快，更清洁的硬化。 在我走得太远之前花太多周末花了太多周末:-)我很喜欢您的投入：  现在最大的安全挫败感/需要吗？ 今天，您如何处理服务的服务器吗？跟踪基准？写作修复？安全测试？ 这样的工作流程会节省您的时间还是只添加噪声？ ssh-key   scan （cis-ish checks + top cves）➜获取排名的列表＆amp＆amp;匹配Ansible/YAML片段➜批准/调整/运行30分钟后的成功/失败ping   如果您很想早点尝试或有意见，我很想听到您的来信。 -  manu   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kbb159/feedbacks_wanted_for_a_new_new_security_tool/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kbb159/feedbacks_wanted_for_a_new_security_tool/</guid>
+      <pubDate>Wed, 30 Apr 2025 07:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dnakov/anon-kode github repo被人类删除。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kbal2b/dnakovanonkode_github_repo_taken_down_by_anthropic/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     https://github.com/dnakov/dnakov/dnakov/anon-kode 拟人。 链接到通知：https://github.com/github/dmca/blob/master/2025/04/2025-04-28-anthropic.md Repo不再公开访问和所有叉子。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/cranca-fact-8362     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kbal2b/dnakovanonkode_github_repo_taken_down_by_anthropic/</guid>
+      <pubDate>Wed, 30 Apr 2025 07:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>X的客户</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kb9qv8/client_of_x/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有x平台的客户端？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/animeotaku426    href =“ https://www.reddit.com/r/opensource/comments/1kb9qv8/client_of_x/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kb9qv8/client_of_x/</guid>
+      <pubDate>Wed, 30 Apr 2025 06:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>保存此软件包！ - 扑面注册表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kb9igv/save_this_package_flutter_registry/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gladblade      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kb9igv/save_this_package_flutter_registry/</guid>
+      <pubDate>Wed, 30 Apr 2025 06:06:26 GMT</pubDate>
+    </item>
     <item>
       <title>使用PYQT5的代码提取器</title>
       <link>https://www.reddit.com/r/opensource/comments/1kb8v3g/code_extractor_using_pyqt5/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kakiy3/tiny_promotion_creating_few_projectsfew_concepts/</guid>
       <pubDate>Tue, 29 Apr 2025 10:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis和Valkey OSS基准测试比较</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kak24z/redis_and_valkey_oss_benchmarking_comparison/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   redis vs vs valkey：开源叉式绩效基准（开源fork benchmark（drop-in替换） redis  redis最近移动了允许的驾驶范围，从（RSALV2和SSPLV1）。这种重大的转变影响了企业和云提供商如何提供基于重新的服务，并导致包括AWS和Linux基金会在内的开源社区做出回应。  输入Valkey：Redis 7.2的一个由社区驱动的开源（BSD许可）叉，旨在在真正的开源模型下继续Redis的开发。但是，它如何与原始作品相抵触呢？ &lt; /p&gt; 在此视频中，我们可以了解：🚀快速概述REDIS许可证更改。💜valkey及其目标介绍及其目标。 🧑‍💻  🧑‍💻动手绩效基准测试与Redis和Valkey进行了使用官方Docker Images的Redis和Valkey进行比较。基准的结果可以查看Valkey是否真的作为置换式替换。   Valkey是开源Redis用户的未来吗？观看基准并自己决定！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/severalseat2176      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kak24z/redis_and_valkey_oss_benchmarking_comparison/</guid>
-      <pubDate>Tue, 29 Apr 2025 09:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kai92c/pdf_recommendations/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  什么更易于使用，pdf格式或pdf，免费的软件，可以使用ttrpgs来创建ttrpgs？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/detter_nectarine727     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kai92c/pdf_recommendations/</guid>
-      <pubDate>Tue, 29 Apr 2025 07:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>变质核心v1.6是现场：一个自动驾驶AI开发生态系统，内置具有道德和安全性</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kaftj1/metamorphic_core_v16_is_live_a_selfdriving_ai_dev/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource   - 任何人都对负责AI的未来AI开发的未来感到兴奋。 href =“ https://github.com/tomwolfe/metamorphic-core”&gt; https://github.com/tomwolfe/tomwolfe/metamorphic-core ），我们的使命是建立一个**开放式AI开发框架，以嵌入每个级别的伦理和安全性，而不是以后的*生命周期。 今天，我们很荣幸分享**阶段1.6  - &#39;闭环自动化&#39;&#39; - 现在是现场**，它使我们比以往任何时候都更加接近**完全自主，值得信赖的AI驱动软件创建。自主软件开发刚刚获得了 我们已经关闭了自动开发的循环。有了此更新，变质核心现在可以：   **从`roadmap.json.json`   **在使用llms（当前python）（当前使用python的go/rust support in Pia-li&gt;    ** distal vistrigation **）的“ Roadmap.json”   **生成计划**。 `pytest`-🔒安全检查（``bandit&#39;，&#39;owasp zap`） - 🧭道德 +法律依从性（偏见检测，透明度，GDPR等） - 📏代码质量执行（`flake8`，linters，linters）  每种验证的结果**要更新自己的路线图 - 无需人工干预即可进行自我追踪进度。  ＆gt; 💡简而言之：您给它一个任务。它构建代码。它验证它。它报告了它是否成功了 - 全部自主。   ###🧠  ###🧠&lt;从自身学习 如果检测到瑕疵，该系统会更新其自身验证规则并随着时间的推移而改进 -   使每个周期更加聪明，更安全。   ####＃parter，临时，协作  ## tech stack＆amp;未来的目标   -  **主要语言：** Python（用于ML/AI灵活性）   -  **  -  **下一步：**引入性能至关重要的模块（例如验证管道验证管道）&gt;   -  **当前的焦点： inter-agent coordination. ## 🤝 Want to Help Shape the Future? We&#39;re looking for contributors across disciplines: - **Developers** – Improve integrations, optimize agents, expand test coverage. - **Ethicists** – Define bias thresholds, shape policy logic, ensure ethical alignment. - **安全专家**  - 加强扫描管道和威胁建模。   -  **测试人员**  - 探索边缘案例和应力测试自动化可靠性。  ➡️回购：（ https://github.com/tomwolfe/metamorphic-core-core ）     ➡ href =“ https://github.com/tomwolfe/metamorphic-core/blob/main/main/contributing.md”&gt; https://github.com/tomwolfe/tomwolfe/metamorphic-core/blob/blob/blob/main/main/contributing.md/contributing.md-.md your in塑造自主ai的未来：  我们如何平衡**自动化**与有意义的人类监督？ 当AI系统*建立自己*但继承有害偏见时，会发生什么？ 自动驾驶系统是否应该具有a自主系统具有a＆quot;谁控制它？  在下面放下您的想法！这不仅是一个项目，而且是朝着**道德，可持续，AI驱动的发展发展的运动。提交由＆＃32; /u/u/metamorphic-core    href =“ https://www.reddit.com/r/opensource/comments/comments/1kaftj1/metamorphic_core_core_v16_is_is_a_a_eflive_a _selfdriving_ai_ai_dev/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kaftj1/metamorphic_core_v16_is_live_a_selfdriving_ai_dev/</guid>
-      <pubDate>Tue, 29 Apr 2025 04:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在Godot上建造一款Riot Games替代启动器！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kaez8b/im_building_a_riot_games_alternative_launcher_on/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/any-recording3042      [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kaez8b/im_building_a_riot_games_alternative_launcher_on/</guid>
-      <pubDate>Tue, 29 Apr 2025 03:57:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
