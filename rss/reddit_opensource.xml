@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 30 Apr 2025 12:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 15:04:16 GMT</lastBuildDate>
+    <item>
+      <title>每天共享开源项目的博客</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kbi3c4/a_blog_for_sharing_open_source_projects_everyday/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我创建了一个博客，每天共享开源项目，以将其介绍给人们。我从已知的项目开始，但是我会及时分享不同且鲜为人知的项目。如果您访问并订阅我会很高兴，请提前感谢您。提交由＆＃32; /u/u/jondonessa     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kbi3c4/a_blog_for_sharing_open_source_projects_everyday/</guid>
+      <pubDate>Wed, 30 Apr 2025 14:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要“突出链接”又称广告的许可？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kbgog8/licenses_that_require_prominent_links_aka/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道是否有任何开源许可证允许指定突出链接。以及这种事情是否以前出现；诸如GITHUB页面顶部的主页链接，飞溅屏幕等。这样做的原因很明显 - 该项目的作者从创建项目中获得了更多的回报。这与BSD许可证没有什么不同，除了该许可证被显着显示。 这与开源哲学根本不相容吗？以前尝试过并发现有问题 - 例如BSD反广告条款。我可以看到，这对在项目之间移动代码部分提出了问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/readwithai     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kbgog8/licenses_that_require_prominent_links_aka/</guid>
+      <pubDate>Wed, 30 Apr 2025 13:35:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSource软件有利可图吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kbgobh/is_opensource_software_profitable/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  为什么Google会努力创建Kubernetes或Chromium之类的东西，只是为了打开它并使竞争对手能够使用它（Microsoft Edge）。诸如Visual Studio Code和TensorFlow之类的软件如何？  YES是一件有利可图的事情？他们如何通过开放采购内部产品赚钱？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Gumpolator   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kbgobh/is_opensource_software_profitable/</guid>
+      <pubDate>Wed, 30 Apr 2025 13:35:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>活动显示器的内存压力和统计数据 - 就在您的菜单栏中！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kbesk0/memory_pressure_and_stats_from_activity_monitor/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  前端是用swiftui构建的，是开源的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ods-show-3972      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kbesk0/memory_pressure_and_stats_from_activity_monitor/</guid>
+      <pubDate>Wed, 30 Apr 2025 12:06:17 GMT</pubDate>
+    </item>
     <item>
       <title>您明天醒来，每个开源工具都会消失。您首先带回来的一个项目是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1kbcjba/you_wake_up_tomorrow_and_every_opensource_tool/</link>
@@ -92,7 +120,7 @@
     <item>
       <title>Oneuptime：开源事件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1kauecv/oneuptime_opensource_incidentio_alternative/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Oneuptime（ https://github.com/oneuptime/oneuptime/oneuptime/oneuptime/oneuptime/oneuptime/oneuptime ）是与Indist.io + stauspage.io + uptimobobery + pog + pogy + pogy + pogy + pogy + loboberyy +它是100％免费的，您可以在VM / Server上自助架。 OnePuttime具有正常运行时间监控，日志管理，状态页面，跟踪，呼叫软件，事件管理等。   更新：   本机集成与Slack：现在您可以与Salking salliptime（即使您是自我主持的！）。当事件发生时，一次点可以创建新的频道，通知在待命的宽松用户，甚至基于松弛的频道对话为您编写邮政草案，等等！  dashboards（就像datadog一样）：收集您喜欢的任何指标，并与您的团队建立仪表板并与您的团队共享！在代码支持中，请使用您选择的LLM自动修复您的操作问题。 开源源代码承诺：与其他公司不同，我们将始终在Apache许可证上成为FOSS。我们是100％开源的，Oneuptime的一部分没有围墙的花园后面。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/oupanut     [link]    32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Oneuptime（ https：//github.com/oneuptime/oneuptime/oneuptime/oneuptime/oneuptime/oneuptime ）是与Indist.io + stauspage.io + uptimobery + lobobery + lobobery + lobobery + lobobery + lobobery +它是100％免费的，您可以在VM / Server上自助架。 OnePuttime具有正常运行时间监控，日志管理，状态页面，跟踪，呼叫软件，事件管理等。   更新：   本机集成与Slack：现在您可以与Salking salliptime（即使您是自我主持的！）。当事件发生时，一次点可以创建新的频道，通知在待命的宽松用户，甚至基于松弛的频道对话为您编写邮政草案，等等！  dashboards（就像datadog一样）：收集您喜欢的任何指标，并与您的团队建立仪表板并与您的团队共享！在代码支持中，请使用您选择的LLM自动修复您的操作问题。 开源源代码承诺：与其他公司不同，我们将始终在Apache许可证上成为FOSS。我们是100％开源的，Oneuptime的一部分没有围墙的花园后面。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/oupanut     [link]    32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kauecv/oneuptime_opensource_incidentio_alternative/</guid>
       <pubDate>Tue, 29 Apr 2025 17:56:37 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   ltgm   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usextness682682     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kaqrpy/i_found_an_opensource_ai_notetaker/</guid>
       <pubDate>Tue, 29 Apr 2025 15:29:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀我开源了一个实时实时聊天支持启动器套件（next.js + socket.io）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kapxb6/i_opensourced_a_realtime_live_chat_support/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 在过去的几周中，我建造了一个实时的实时聊天支持启动器套件 - 只是在github上开放了它！ 它是由以下方式构建的：           Main features: • Real-time chat between visitors and admins • Separate admin and visitor UIs • Persistence with localStorage/sessionStorage • Admins can end conversations, visitors can resume later • Deploy-ready for Vercel + Railway  ✅ It’s lightweight, fast, modular, and fully customizable. ✅ Designed for developers who want to add  🔗github repo： ⸻——————————————————————————  我想对以下内容进行任何反馈：  •您会添加哪些功能？ •任何可以使其更容易自定义的东西吗？ •V2改进的想法？   感谢您检查它！ 🚀  opensource #webdev #nextjs #socketio   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kapxb6/i_opensourced_a_realtime_a_rive_chat_chat_support/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kapxb6/i_opensourced_a_realtime_live_chat_support/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求指导以升级和开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kap34c/seeking_guidance_to_level_up_in_flutter_and_open/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我开始通过安吉拉Yu的Udemy课程学习颤抖，这是一个很好的介绍。最近，我做出了一些开源贡献，作为我为GSOC 2025选出的一部分。虽然这是一次宝贵的经历，但它也使我意识到要学习多少更多。 我的目标是足够熟练地变得有意义地做出有意义的贡献，而不是为了开放的贡献，但最终从我的flutter flutter开发中获得了任何建议。社区或策略 - 我非常感谢您的指导。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_dragonslayer2_      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kap34c/seeking_guidance_to_level_up_in_flutter_and_open/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国致力于ODF和开放文件标准</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kanqat/germany_committing_to_odf_and_open_document/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/doener23     [link]        [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kanqat/germany_committing_to_odf_and_open_document/</guid>
-      <pubDate>Tue, 29 Apr 2025 13:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>PYPI上的绿洲 - 一个开源的百万个代理社会模拟器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kamq2b/oasis_on_pypian_opensource_millionagent_social/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  发现 oasis ，用于大规模社交媒体模拟的PYPI软件包。 Highlights:  One-line install: pip install camel-oasis Ready-made Reddit-like environment Customizable agent behaviors (post, like, comment, follow, etc.) Scale up to 1 000 000 agents in minutes  Great for research on network效果，负载测试的社区功能或原型审核工具。  Check out the quickstart here: 🔗 https://docs.oasis.camel-ai.org/introduction Apache-2.0 licensed and community-driven, can’t wait to see what you all创建！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kamq2b/oasis_on_pypian_opensource_millionagent_social/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kamq2b/oasis_on_pypian_opensource_millionagent_social/</guid>
-      <pubDate>Tue, 29 Apr 2025 12:30:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
