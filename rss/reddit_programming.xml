@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 29 Apr 2025 21:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 00:05:11 GMT</lastBuildDate>
+    <item>
+      <title>序言</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb2iyr/prolog_notes/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb2iyr/prolog_notes/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:43:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现Lispworks IDE</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb2in9/discovering_the_lispworks_ide/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb2in9/discovering_the_lispworks_ide/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:42:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在不变性和回忆之间，您可能必须选择</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb2i8o/between_immutability_and_memoization_you_might/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/ketralnis   [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb2i8o/between_immutability_and_memoization_you_might/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>APL：与传统数学的比较</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb2i1s/apl_comparison_with_traditional_mathematics/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb2i1s/apl_comparison_with_traditional_mathematics/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将其全部丢弃 - 极端重写如何改变了我构建数据库的方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb2htu/throwing_it_all_away_how_extreme_rewriting/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis    [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb2htu/throwing_it_all_away_how_extreme_rewriting/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jepsen：Amazon RDS for Postgresql 17.4</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb2fpk/jepsen_amazon_rds_for_postgresql_174/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/craigkerstiens      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb2fpk/jepsen_amazon_rds_for_postgresql_174/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过应用程序脚本将Google Analytics（分析数据）导出到表</title>
+      <link>https://www.reddit.com/r/programming/comments/1kb1md6/export_google_analytics_data_to_sheets_via_apps/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/kaycebasques      &lt;a href =“ https://www.reddit.com/r/programming/comments/1kb1md6/1kb1md6/export_google_analytics_data_data_to_to_to_sheets_via_apps/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kb1md6/export_google_analytics_data_to_sheets_via_apps/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:01:03 GMT</pubDate>
+    </item>
     <item>
       <title>为什么要维护个人LLM编码基准</title>
       <link>https://www.reddit.com/r/programming/comments/1kayh28/why_you_should_maintain_a_personal_llm_coding/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/jordiolle11     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1karp34/building_with_purpose_5_configuring_husky_for/</guid>
       <pubDate>Tue, 29 Apr 2025 16:07:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免使用语义元数据的API破坏变化</title>
-      <link>https://www.reddit.com/r/programming/comments/1kapv80/avoiding_breaking_changes_in_apis_with_semantic/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  披露：我没有写这篇文章，但是我确实在作者正在讨论的开源框架上工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/martypitt      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kapv80/avoiding_breaking_changes_in_apis_with_semantic/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:52:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clickhouse和OpentElemetry</title>
-      <link>https://www.reddit.com/r/programming/comments/1kapezq/clickhouse_and_opentelemetry/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/mmaksimovic   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kapezq/clickhouse_and_opentelemetry/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>四树：在该区域找到（第2部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaoov8/quad_trees_find_in_the_area_part_2/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ab-azure      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaoov8/quad_trees_find_in_the_area_part_2/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Ellipsis（...）进行Python编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1kamapm/python_programming_using_ellipsis/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/symbolicard       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kamapm/python_programming_using_ellipsis/</guid>
-      <pubDate>Tue, 29 Apr 2025 12:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么绩效优化是艰苦的工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1kam686/why_performance_optimization_is_hard_work/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/imachug      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kam686/why_performance_optimization_is_hard_work/</guid>
-      <pubDate>Tue, 29 Apr 2025 12:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>废墟的建筑师</title>
-      <link>https://www.reddit.com/r/programming/comments/1kaltns/architect_of_ruin/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/xadartt      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kaltns/architect_of_ruin/</guid>
-      <pubDate>Tue, 29 Apr 2025 11:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在老式的Powerbook二重奏中重新创建Joey的Gibson病毒</title>
-      <link>https://www.reddit.com/r/programming/comments/1kakdvj/recreating_joeys_gibson_virus_on_a_vintage/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/syxa     link&gt; link&gt;      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kakdvj/recreating_joeys_gibson_virus_on_a_vintage/</guid>
-      <pubDate>Tue, 29 Apr 2025 10:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
