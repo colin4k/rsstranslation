@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 30 Apr 2025 15:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 18:03:44 GMT</lastBuildDate>
+    <item>
+      <title>实验：使用歧管的Java中的向量数学</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbn1ka/experimental_vector_math_in_java_using_manifold/</link>
+      <description><![CDATA[An experimental library for more concise, readable vector syntax in Java--built on the Manifold project, which enables operator overloading and dimensional arithmetic. Length vectors are expressed naturally using rational numbers with SI units like meters (m) and angular units like degrees, including directions such as N, S, E和W.向量操作（如加法）直接与操作员一起编写：``````````````````````````````````````````````````````````` ``````````通过歧视对用户定义的单元常数的支持和 vector类型，例如长度向量：````````java公共最终班级长度向量向量扩展了vector＆lt; length，lengthunit，length vortector＆gt; {公共长度向量（长度大小，角度角）{super（幅度，角度）; }   @Override public Lengusvector Make（长度大小，角度角）{返回新长度向量（幅度，角度）; }   @Override public length vector副本（理性幅度）{返回新的长度向量（new Length（agent getsMagnitude（）。getBaseunit（）。getBaseunit（），getMagnitude（）。getDisPlayunit（）），getangle（getAngle（）），getangle（））; }}```` 也可以使用其他向量类型，包括 timeVector 和 velocityvector 。 探索 cistrold-science 库库来了解更多。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://github.com/manifold-systems/manifold/blob/master/manifold-deps-parent/manifold-science/readme.md”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbn1ka/experimental_vector_math_in_java_using_manifold/</guid>
+      <pubDate>Wed, 30 Apr 2025 18:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了手动删除随机照片？尝试我们的应用程序 -  iOS＆Android的智能照片清洁剂📱✨</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbmxt6/tired_of_deleting_random_photos_manually_try_our/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，朋友， 我们厌倦了无休止的滚动和随机删除手机的垃圾照片 - 因此我们构建了智能照片清洁器 - 免费。现在可以在App Store和Google Play上使用 - 我们希望您能尝试分享您的反馈！ 🙏 🔥🔥这就是它的作用：   - 清理清理 - 删除或保留照片（例如使用Tinder  ） - 喜欢您的最佳镜头 - 将最爱保存到私人的照片中，然后将最喜欢的照片保存到“喜欢的照片”中。 Library    - 深色主题 +超级清洁UI  - 最小，友好且容易在眼睛上   - 私密 - 首先 - 我们什么都不存储。您的照片留在您的设备上 让它旋转，清理存储空间，并让我们知道您的想法。您的反馈将帮助我们改善！ 😊 谢谢，快乐的刷！    - 峰ai   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sdkabeta      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbmxt6/tired_of_deleting_random_photos_manually_try_our/</guid>
+      <pubDate>Wed, 30 Apr 2025 17:58:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>认为FIFO保证将防止比赛状况，直到我遇到这个问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbmsb4/thought_fifo_guarantee_would_prevent_race/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，我开始建立基于筏算法的分布式钥匙值商店。   和关于筏的事物是您编写将复制的日志...达成共识之后 - 嗯，这是很好的 筏本身并不是问题，但是我对FIFO保证做出的假设有点欺骗了我相信没有种族条件 - 情况并非如此。  例如，   - 第一个请求介绍：   x y      - 第二请求是为了将值增加1     green x       如果这些命令在这些命令中均为有效，则它们在ikement中有效。但是，当应用时，实际状态可能已更改 -  e.g。， engry 现在可以应用于非数字字符串。 这会使用挑战引入并迫使我选择：     - 允许登录无论如何，并在applip   proke中进行验证  这次是第一个。 这个分布式的东西是一个真正的乐趣，我觉得我对定时假设，异步，持久性，网络，伐木等了解了很多。  查看我目前正在从事的项目： https://github.com/migorithm/duva    ，如果您对您有兴趣，请贡献！我们需要您的支持。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/letmegomigo    href =“ https://migorithm.github.io/duva/posts/2025/04/29/deferred_validation.html”&gt; [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbmsb4/thought_fifo_guarantee_would_prevent_race/</guid>
+      <pubDate>Wed, 30 Apr 2025 17:51:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我试图将坏苹果作为噪音渲染</title>
+      <link>https://www.reddit.com/r/programming/comments/1kblw0p/i_tried_rendering_bad_apple_as_a_noise/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://youtu.be/yj3xdm5pm7g   提交由＆＃32; /u/u/i_code_chaos       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kblw0p/i_tried_rendering_bad_apple_as_a_noise/</guid>
+      <pubDate>Wed, 30 Apr 2025 17:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>售价30万美元的Devinai Secret现在是开源的</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbkymy/the_300k_devinai_secret_is_now_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您可能已经听说过Devinai的新版本DeepWiki-A工具，该工具分析了GitHub Repos并生成了AI驱动的文档。捕获？ It reportedly cost $300K in compute and is soon gonna be locked behind a paywall. I thought: why not make this accessible to everyone? Introducing Open DeepWiki: An open-source, self-hosted alternative that turns any GitHub repo into a comprehensive wiki with AI-generated docs, architecture diagrams, and code解释。   没有云锁定，没有付费墙，只有本地，私人分析。功能：    ai生成的文档（支持GPT，Gemini和本地模型） 视觉图（使用Mermeraid.js）   li&gt; li&gt; li&gt; li&gt;＆amp;私人存储库，完全在您的机器上运行    repo： 提交由＆＃32; /u/u/noad5720      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbkymy/the_300k_devinai_secret_is_now_open_source/</guid>
+      <pubDate>Wed, 30 Apr 2025 16:36:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要让实施详细信息破坏您的微服务测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbkwlq/dont_let_implementation_details_ruin_your/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nejcko      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbkwlq/dont_let_implementation_details_ruin_your/</guid>
+      <pubDate>Wed, 30 Apr 2025 16:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代版本控制应用程序和平台 - 备忘单</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbkf6q/modern_version_control_apps_platforms_a_cheatsheet/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/hereiClife       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbkf6q/modern_version_control_apps_platforms_a_cheatsheet/</guid>
+      <pubDate>Wed, 30 Apr 2025 16:14:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI时代的Java：建立具有开源力的AI模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbj644/java_in_the_age_of_ai_building_ai_models_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我写了一篇文章，讲述了java是如何用来构建AI模型的文章，如果用于构建AI模型以及您应该感兴趣的原因，Java强度是什么，本文是由网络研讨会启发的。提交由＆＃32; /u/u/lolmaz    [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbj644/java_in_the_age_of_ai_building_ai_models_with/</guid>
+      <pubDate>Wed, 30 Apr 2025 15:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minecraft像不到一条推文的景观</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbiu8w/minecraft_like_landscape_in_less_than_a_tweet/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbiu8w/minecraft_like_landscape_in_less_than_a_tweet/</guid>
+      <pubDate>Wed, 30 Apr 2025 15:08:39 GMT</pubDate>
+    </item>
     <item>
       <title>使用双子座自动化代码删除（和一点python）</title>
       <link>https://www.reddit.com/r/programming/comments/1kbhy7c/automating_code_deletion_with_gemini_and_a_little/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/foxintheredbox      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kbckil/vectorizing_ml_models_for_fun/</guid>
       <pubDate>Wed, 30 Apr 2025 09:50:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mariadb 11.8矢量功能是新的，但已经具有一堆集成</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb90rt/mariadb_118_vector_features_are_new_but_already/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/ottokekalainen      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb90rt/mariadb_118_vector_features_are_new_but_already/</guid>
-      <pubDate>Wed, 30 Apr 2025 05:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用PYQT5的代码提取器</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb8u9o/code_extractor_using_pyqt5/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建了一个基于PYQT5的代码提取器，该代码提取器扫描，过滤和导出整个代码库作为Markdown。   github repo： https://github.com/adco30/codeextractor  href =“ https://www.youtube.com/watch?v=nwzmap8d0sm”&gt; https://www.youtube.com/watch?v=nwzmap8d0sm    排除列表和扩展过滤器，然后显示可折叠的凹痕视图。特定于语言的解析器提取详细大纲的类和功能签名。 Markdown服务将每个文件的内容都包装到带有代码栅栏的单个文档中。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/small_trife_2309      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb8u9o/code_extractor_using_pyqt5/</guid>
-      <pubDate>Wed, 30 Apr 2025 05:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>合同软件开发的糟糕状态</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb7ubh/the_abysmal_state_of_contract_software_development/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/reeses_boi     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb7ubh/the_abysmal_state_of_contract_software_development/</guid>
-      <pubDate>Wed, 30 Apr 2025 04:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动稀疏分化指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb7bp2/an_illustrated_guide_to_automatic_sparse/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb7bp2/an_illustrated_guide_to_automatic_sparse/</guid>
-      <pubDate>Wed, 30 Apr 2025 03:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>build.js.dev.build</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb4lu0/buildjsdevbuild/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/90s_dev     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb4lu0/buildjsdevbuild/</guid>
-      <pubDate>Wed, 30 Apr 2025 01:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux上的路径不是真实的</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb4gjw/path_isnt_real_on_linux/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nxgz       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb4gjw/path_isnt_real_on_linux/</guid>
-      <pubDate>Wed, 30 Apr 2025 01:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线支付系统的实施装饰器模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb32av/implement_decorator_pattern_for_online_payment/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/decuntional-ad2036      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb32av/implement_decorator_pattern_for_online_payment/</guid>
-      <pubDate>Wed, 30 Apr 2025 00:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>序言</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb2iyr/prolog_notes/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb2iyr/prolog_notes/</guid>
-      <pubDate>Tue, 29 Apr 2025 23:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现Lispworks IDE</title>
-      <link>https://www.reddit.com/r/programming/comments/1kb2in9/discovering_the_lispworks_ide/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kb2in9/discovering_the_lispworks_ide/</guid>
-      <pubDate>Tue, 29 Apr 2025 23:42:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
