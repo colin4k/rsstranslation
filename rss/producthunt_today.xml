@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 30 Apr 2025 09:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 12:03:54 GMT</lastBuildDate>
     <item>
       <title>TAB FINDER LITE</title>
       <link>https://www.producthunt.com/posts/tab-finder-lite</link>
@@ -24,7 +24,7 @@
             在Mac上执行任务的AI代理
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/vy-by-vercept</guid>
       <pubDate>Wed, 30 Apr 2025 06:40:46 GMT</pubDate>
@@ -84,22 +84,10 @@
             使用Strava数据生成的自托统计数据
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/statistics-for-strava</guid>
       <pubDate>Tue, 29 Apr 2025 19:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>cnify</title>
-      <link>https://www.producthunt.com/posts/cnify</link>
-      <description><![CDATA[
-            使用单个图像为Shadcn应用程序设计
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/cnify</guid>
-      <pubDate>Tue, 29 Apr 2025 18:29:08 GMT</pubDate>
     </item>
     <item>
       <title>meta你有应用</title>
@@ -108,7 +96,7 @@
             了解您的个人AI
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/meta-ai-app</guid>
       <pubDate>Tue, 29 Apr 2025 17:50:43 GMT</pubDate>
@@ -124,6 +112,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/gym-spatial</guid>
       <pubDate>Tue, 29 Apr 2025 17:12:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS时钟</title>
+      <link>https://www.producthunt.com/posts/clocks-for-ios</link>
+      <description><![CDATA[
+            将手机转换为美丽的时钟显示器
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/clocks-for-ios</guid>
+      <pubDate>Tue, 29 Apr 2025 14:51:02 GMT</pubDate>
     </item>
     <item>
       <title>PROMPTREPO</title>
@@ -180,7 +180,7 @@
             任何屏幕截图的明智答案
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/synthanswer-ai</guid>
       <pubDate>Sun, 27 Apr 2025 11:38:00 GMT</pubDate>
@@ -240,7 +240,7 @@
             上传视频，链接，文件，PDF并搜索它们
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ragobble-2</guid>
       <pubDate>Fri, 14 Mar 2025 15:58:48 GMT</pubDate>
