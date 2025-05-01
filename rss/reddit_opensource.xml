@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 01 May 2025 09:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 12:02:57 GMT</lastBuildDate>
+    <item>
+      <title>满足VARMQ-最简单的消息队列系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kc5n3a/meet_varmq_a_simplest_message_queue_system_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  经过一个月的密集开发，我很高兴分享我的项目的最新版本（以前是GOCQ），该版本已重命名为VARMQ。  varmq是零依赖性的同时工作的工作队列系统，该系统是由GO的简单哲学设计的。它的目的是通过队列和工人类型的变体解决任务处理中的特定问题。  某些亮点：  纯pure Go实现，没有外部依赖关系 可扩展的可扩展体系结构（用于持久和分布式queue）。即使您也可以构建自己的适配器 支持高级并发管理，而无需任何开销  我希望您能签出并分享您的想法！您认为像这样的包装对您的项目很有用吗？任何反馈或功能建议都将不胜感激。 👉️github链接到提交由＆＃32; /u/u/extension_layer1825     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kc5n3a/meet_varmq_a_simplest_message_queue_system_for/</guid>
+      <pubDate>Thu, 01 May 2025 10:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>动漫/漫画/漫画创建工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kc52ze/animemangacomic_creation_tools/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，任何意识到漫画创建工具的人，具有创建能力，但更重要的是存储模板图形，例如场景，对象，角色，角色，面部表情，武器等。   具有AI集成的东西都会很酷。提交由＆＃32; /u/u/johnerp     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kc52ze/animemangacomic_creation_tools/</guid>
+      <pubDate>Thu, 01 May 2025 10:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开源贡献者的苛刻现实</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kc4ef7/the_harsh_reality_of_getting_contributors_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  很多人认为制作项目开源会自动带来贡献者。它几乎从来没有这样起作用，尤其是如果该项目小或小众。 大多数开源工具，尤其是附带项目，都难以引起注意。不是因为它们很糟糕，而是因为人们甚至很难找到它们。老实说，大多数贡献者都是由自我利益驱动的。仅将代码放在github上是不够的。即使没有人知道它们存在，即使是真正稳定的项目也是看不见的。您仍然必须谈论它。将其发布在Reddit，Hacker News，X或您的观众花费时间的任何地方。 人们通常会在帮助他们时做出贡献。也许他们需要修复一个错误，想要一项新功能，正在构建其投资组合或他们的公司使用它。很少有人参与回馈，尤其是早期。 如果您的项目没有明确解决问题，节省时间或帮助某人赚钱，那么可能不会得到太多帮助。人们不会因为开放而跳进去。他们之所以跳入，是因为它很有用。 开发人员工具通常可以更好地吸引贡献者。但是，如果您正在研究媒体播放器，个人工具或针对非技术用户的东西，那么潜在贡献者的库会越来越快。大多数用户要么无法贡献或看不到理由。  tldr：仅开源不会带来贡献者。建造有价值的东西，将其放在合适的人面前，并向他们展示为什么它很重要。人们在帮助他们时会做出贡献。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kc4ef7/the_harsh_reality_getting_getting_contributors_for/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kc4ef7/the_harsh_reality_of_getting_contributors_for/</guid>
+      <pubDate>Thu, 01 May 2025 09:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个异步的Python Cli实用程序来枚举子域，发现漏洞利用，与LLM相互作用等等。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kc4ds0/i_created_an_asynchronous_python_cli_utility_to/</link>
+      <description><![CDATA[    LLM等等。” src =“ https://external-preview.redd.it/im_kut26xw7vdzlybk96qsa7fojanxa9lkbha60iiti.jpg？ width=640&amp;crop=smart&amp;auto=webp&amp;s=eaa0b781638c13bb9f3d88861edc9ccd794dc9e4&quot; title =“我创建了一个异步的python cli实用程序来列举子域，发现漏洞利用，与llm互动等等。” /&gt;   ＆＃32;提交由＆＃32; /u/u/u/glatisantbeast       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kc4ds0/i_created_an_asynchronous_python_cli_utility_to/</guid>
+      <pubDate>Thu, 01 May 2025 09:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>信号和github在地点命名的ICE监视承包商正在监视？ 200多个站点</title>
       <link>https://www.reddit.com/r/opensource/comments/1kbyt40/signal_github_named_in_sites_ice_surveillance/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  前端是用swiftui构建的，是开源的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ods-show-3972      [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kbesk0/memory_pressure_and_stats_from_activity_monitor/</guid>
       <pubDate>Wed, 30 Apr 2025 12:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您明天醒来，每个开源工具都会消失。您首先带回来的一个项目是什么？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kbcjba/you_wake_up_tomorrow_and_every_opensource_tool/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/edward_ge     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kbcjba/you_wake_up_tomorrow_and_every_opensource_tool/</guid>
-      <pubDate>Wed, 30 Apr 2025 09:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要新的安全工具的反馈！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kbb159/feedbacks_wanted_for_a_new_security_tool/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ Manu在这里 - 我在 Squirrel服务器管理器，开放式监视＆amp; configuration management platform some of you might know from here or Github. I am starting to build a lightweight security feature for self-hosted / on-prem Linux boxes. The idea: scan your servers over SSH, spot common config issues or weak points (CIS-style stuff), and suggest ready-to-run Ansible playbooks to修复它们。没有代理商，没有魔法 - 更快，更清洁的硬化。 在我走得太远之前花太多周末花了太多周末:-)我很喜欢您的投入：  现在最大的安全挫败感/需要吗？ 今天，您如何处理服务的服务器吗？跟踪基准？写作修复？安全测试？ 这样的工作流程会节省您的时间还是只添加噪声？ ssh-key   scan （cis-ish checks + top cves）➜获取排名的列表＆amp＆amp;匹配Ansible/YAML片段➜批准/调整/运行30分钟后的成功/失败ping   如果您很想早点尝试或有意见，我很想听到您的来信。 -  manu   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kbb159/feedbacks_wanted_for_a_new_new_security_tool/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kbb159/feedbacks_wanted_for_a_new_security_tool/</guid>
-      <pubDate>Wed, 30 Apr 2025 07:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dnakov/anon-kode github repo被人类删除。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kbal2b/dnakovanonkode_github_repo_taken_down_by_anthropic/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     https://github.com/dnakov/dnakov/dnakov/anon-kode 拟人。 链接到通知：https://github.com/github/dmca/blob/master/2025/04/2025-04-28-anthropic.md Repo不再公开访问和所有叉子。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/cranca-fact-8362     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kbal2b/dnakovanonkode_github_repo_taken_down_by_anthropic/</guid>
-      <pubDate>Wed, 30 Apr 2025 07:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>X的客户</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kb9qv8/client_of_x/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有x平台的客户端？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/animeotaku426    href =“ https://www.reddit.com/r/opensource/comments/1kb9qv8/client_of_x/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kb9qv8/client_of_x/</guid>
-      <pubDate>Wed, 30 Apr 2025 06:22:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
