@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 01 May 2025 15:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 18:03:22 GMT</lastBuildDate>
+    <item>
+      <title>Sriracha-图像板和论坛</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kcdaml/sriracha_imageboard_and_forum/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/tslocum       [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kcdaml/sriracha_imageboard_and_forum/</guid>
+      <pubDate>Thu, 01 May 2025 16:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有开发软件是恶意的？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kcbq7a/has_there_been_a_open_sourced_software_that/</link>
+      <description><![CDATA[Curious if a an open sourced software has been downloaded by thousands if not millions of people and it turned out to be malicous ? or i guess if someone create and named a software the same and uploaded to an app store but with malicous code installed and it took a while for people to notice. Always wondered about stuff like this, i know its highly与众不同，但错误或不被查看代码100％ 编辑：我喜欢开源的，我认为审查它的人很棒，我宁愿我们拥有每个人都可以使用的代码，因为我确定封闭的封闭式软件会发生恶意的事情，而且我们可能永远不会知道，否则它会在没有几年之前就知道了。 Open Souce＆gt;封闭源  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/o0-1     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kcbq7a/has_there_been_a_open_sourced_software_that/</guid>
+      <pubDate>Thu, 01 May 2025 15:36:03 GMT</pubDate>
+    </item>
     <item>
       <title>REDIS现在可以在OSI批准的AGPLV3开源许可下获得</title>
       <link>https://www.reddit.com/r/opensource/comments/1kcaa1k/redis_is_now_available_under_the_the_osiapproved/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  他们说开源项目建立在人们来并为该项目做出贡献的社区。  我了解的一种方式是，社区随着口口相传而成长，不同的人使用它。还有其他方法来发展开源社区吗？想知道我是否应该构建有意义的东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/unexpeed-tea3834     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kbodtw/growth_of_open_source/</guid>
       <pubDate>Wed, 30 Apr 2025 18:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看边缘可管理性框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kbnlg2/check_out_the_edge_manageability_framework/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我想与您分享的每个人，Edge可管理性框架。 The repo is now live on GitHub: https://github.com/open-edge-platform/edge-manageability-framework Essentially, this framework aims to make managing and orchestrating edge stuff a bit less of a 头痛。如果您正在处理IoT，分发AI或任何其他边缘部署，这可能会提供一些有用的构建块来简化内容。 它有助于： 更轻松的设备管理更简单的设备管理更简单的应用程序管理更好地监控，以更好地监控，该监控旨在为您提供的，可以为您提供帮助，以便您能够为您提供贡献，并让我知道，请让我知道，并让我想到！欢迎任何反馈   https://www.intel.com/content/www/us/en/developer/tools/tiber/edge-platform/overview.html    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mosquito90     [link]    ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kbnlg2/check_out_the_edge_manageability_framework/</guid>
-      <pubDate>Wed, 30 Apr 2025 18:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关电子邮件的更新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kbmi1c/update_on_emailsleuth/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  想要分享一个巨大的更新。通常，我们对SMTP进行验证。但是问题是有些提供商确实会抓住一切（尽管不存在Event Event Mail，但请接受所有事件）。因此，我通过Fantaoccini板条箱对Yahoo和Outlook实施了无头浏览器验证。这只是等于从前端键入电子邮件并检查是否存在。  我认为他们让我们这样做很愚蠢。例如，Google具有强大的机器人检测。目前我无法绕过这一点。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/consenent_equal5327       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kbmi1c/update_on_emailsleuth/</guid>
-      <pubDate>Wed, 30 Apr 2025 17:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
