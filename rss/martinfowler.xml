@@ -4,18 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Wed, 30 Apr 2025 15:07:04 GMT</lastBuildDate>
-    <item>
-      <title>其他语言的codemods</title>
-      <link>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</link>
-      <description><![CDATA[    
-  juntao qiu 完成了他对codemods的描述
-      查看其他一些在Javascript World之外接近
-      Javaparser和OpenRewrite。
- 更多…  ]]></description>
-      <guid>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</guid>
-      <pubDate>Wed, 30 Apr 2025 15:07:02 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 May 2025 15:03:14 GMT</lastBuildDate>
     <item>
       <title>与卢卡·罗西（Luca Rossi）的播客</title>
       <link>https://refactoring.fm/p/growing-the-development-forest-with</link>
@@ -26,7 +15,7 @@
       债务和敏捷软件开发的现状。
  更多… ]]></description>
       <guid>https://refactoring.fm/p/growing-the-development-forest-with</guid>
-      <pubDate>Wed, 30 Apr 2025 15:07:00 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:14 GMT</pubDate>
     </item>
     <item>
       <title>建造Genai产品的新兴模式</title>
@@ -43,7 +32,7 @@
       evals。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:58 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:13 GMT</pubDate>
     </item>
     <item>
       <title>Genai产品中的嵌入</title>
@@ -56,7 +45,7 @@
       概念
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:37 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:12 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：森林和沙漠</title>
@@ -97,7 +86,7 @@
     像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:36 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:11 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：检索增强发电（RAG）</title>
@@ -107,7 +96,7 @@
       增强发电（RAG）可以填补该空白。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:34 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:10 GMT</pubDate>
     </item>
     <item>
       <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
@@ -119,7 +108,7 @@
       职业的未来。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:32 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:09 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
@@ -131,7 +120,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:30 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:08 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -141,7 +130,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:28 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:06 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -152,7 +141,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:26 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:05 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -163,21 +152,7 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genai模式：护栏和抹布概述</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
-      <description><![CDATA[   gen ai系统是可欺骗的，很容易被欺骗到响应
-      以违反企业的政策或泄漏的方式
-      机密信息。  bharani
-      Subramaniam 我描述了如何通过添加
-       Guardrails 在请求/响应流的边界处。我们也是
-      总结我们对抹布的讨论，概述了所有抹布
-      组件模式合并在一起。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:23 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:02 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
@@ -189,7 +164,22 @@
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:21 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：护栏和抹布概述</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
+      <description><![CDATA[  
+ gen ai系统是可欺骗的，很容易被欺骗到响应
+      以违反企业的政策或泄漏的方式
+      机密信息。  bharani
+      Subramaniam 我描述了如何通过添加
+       Guardrails 在请求/响应流的边界处。我们也是
+      总结我们对抹布的讨论，概述了所有抹布
+      组件模式合并在一起。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
+      <pubDate>Tue, 06 May 2025 15:03:01 GMT</pubDate>
     </item>
     <item>
       <title>评论在美国护照上删除“ X”</title>
@@ -202,7 +192,7 @@
  https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
 在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
       <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:18 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:02:58 GMT</pubDate>
     </item>
     <item>
       <title>开发人员技能在代理编码中的作用</title>
@@ -216,7 +206,7 @@
       我们目前需要纠正工具失误的技能类型。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:16 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:02:57 GMT</pubDate>
     </item>
     <item>
       <title>我被罗伯特·卡罗绑架了</title>
@@ -228,7 +218,7 @@
       书籍对我来说太好了，无法逃脱。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-caro.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:14 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:02:56 GMT</pubDate>
     </item>
     <item>
       <title>更新昨天的社交媒体参与帖子</title>
@@ -240,7 +230,19 @@
       网站流量的源数据。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-social-traffic.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:11 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek概述的其他解释材料</title>
+      <link>https://martinfowler.com/articles/deepseek-papers.html</link>
+      <description><![CDATA[几个月前，我的同事 shayan Mohanty 
+      发布a 技术概述一系列描述的论文
+      DeepSeek AI模型。他现在已经浏览了这篇文章，补充了
+      更多的解释使我们中的人更容易消化
+      在构建这类模型方面具有背景。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
+      <pubDate>Tue, 06 May 2025 15:02:54 GMT</pubDate>
     </item>
     <item>
       <title>指导LLM稳健的Java Bittebuffer代码</title>
@@ -256,19 +258,22 @@
       不安全的代码片段成可靠的，可以使用系统的组件。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:09 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek概述的其他解释材料</title>
-      <link>https://martinfowler.com/articles/deepseek-papers.html</link>
-      <description><![CDATA[几个月前，我的同事 shayan Mohanty 
-      发布a 技术概述一系列描述的论文
-      DeepSeek AI模型。他现在已经浏览了这篇文章，补充了
-      更多的解释使我们中的人更容易消化
-      在构建这类模型方面具有背景。
+      <title>使用LLMS调用功能</title>
+      <link>https://martinfowler.com/articles/function-call-LLM.html</link>
+      <description><![CDATA[   llms excel在基于培训的基础上生成有力的文本
+      数据，他们也可能需要与外部系统进行交互。 基兰
+      prakash 描述了我们如何使它们构造外部函数
+      打电话这样做。 LLM不直接执行这些呼叫，而是
+      它创建了描述呼叫的数据结构，将其传递给
+      单独的程序进行执行和进一步处理。 LLM的提示
+      包括有关可能的函数调用以及何时应该的详细信息
+      使用。
  更多… ]]></description>
-      <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:07 GMT</pubDate>
+      <guid>https://martinfowler.com/articles/function-call-LLM.html</guid>
+      <pubDate>Tue, 06 May 2025 15:02:52 GMT</pubDate>
     </item>
     <item>
       <title>用LLM构建TMT镜像可视化</title>
@@ -283,7 +288,7 @@
        不熟悉基础技术。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html</guid>
-      <pubDate>Wed, 30 Apr 2025 15:06:06 GMT</pubDate>
+      <pubDate>Tue, 06 May 2025 15:02:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
