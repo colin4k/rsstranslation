@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 08 May 2025 03:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 06:03:32 GMT</lastBuildDate>
+    <item>
+      <title>寻找可能替代“ Redear的字体重命名器”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1khhfxc/looking_for_possible_alternative_to_redears_font/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/davyper     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1khhfxc/looking_for_possible_alternative_to_redears_font/</guid>
+      <pubDate>Thu, 08 May 2025 04:21:16 GMT</pubDate>
+    </item>
     <item>
       <title>[WIP]牛角：开源AI股票交易策略助理 - 反馈欢迎！</title>
       <link>https://www.reddit.com/r/opensource/comments/1khdvt6/wip_bullvision_an_open_source_ai_stock_trading/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 08 May 2025 01:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>需要的建议：重构杂乱的节点 + python项目以进行开源发布</title>
+      <title>需要的建议：重构杂乱节点 + python项目开源发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1khdjpy/advice_needed_refactoring_messy_nodejs_python/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，伙计们，我正在领导一个小型开发团队，我们准备为我们的内部工具之一开放。技术堆栈包含：  node.js后端（REST API）服务于下一个。 flow is inefficient and performance bottlenecks are popping up Some routes mix business logic, validation, and DB access in one pile Mixed code quality due to a mostly junior team, no enforced styleguide No unit tests, poor separation of concerns, inconsistent naming We want to: Clean and modularize the代码库 改进API设计和数据处理 编写适当的文档和测试 使其成为贡献者和现实世界的稳固基础 问题： 问题： 您会在这样的范围内首先在prime prow/pers prow/with prow/with prow/with pod prow/with pod prow/with pod pod pod 您建议您推荐作为结构参考的开源准备好的样板存储盘吗？ 如果您以前这样做了 - 什么是错误或正确的？ 感谢任何想法，尤其是那些与贡献者保持公共存储库的想法。   &lt;！提交由＆＃32; /u/u/hieuhash     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1khdjpy/advice_needed_refactoring_messy_nodejs_python/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/linux_gaming/comment/comments/1kggi8y/cachyos_gaming_guide_guide_for_steam/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kggkbb/cachyos_gaming_guide_for_steam/</guid>
       <pubDate>Tue, 06 May 2025 21:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要社区的建议，关于我正在考虑的项目。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kgcdm8/i_need_advice_from_the_community_about_a_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，社区，首先，我从未为开源贡献，其次，我尽可能多地使用开源。我使用Debian，Neovim，Inkscape等。 Neovim。即使很少有人使用它与其他IDE相比，插件也经常讨论，因为它们易于插件，测试，播放和插入。 冲突： ： 已经有可用的开源选项，他们只是没有被采用，或者用户完全不知道它们。一个特别是Bahmi，即使我在两个小时前我都听到了，它仅在500个站点中使用，问题是它的设置期望您成为技术素养，使用它，您需要学习... Docker ！！！什么？ 为什么Bahmi是我感兴趣的目标？因为它是由我国家的人们开发的。我是唯一的一个。  我仍然从事这个项目吗？ Bahmi明天要开会，我还是应该加入吗？就像直接与他们交谈吗？  tldr：我想制作开源医院管理软件，发现已经存在少数人，但是人们不使用太多，我该怎么办？仍然开拓我还是离开？因为要做出贡献，我首先必须知道他们的代码库，该代码库是对我的外国编程语言。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/narayanduttpurohit     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kgcdm8/1kgcdm8/i_need_advice_from_from_the_community_abounity_about_about_a_project/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kgcdm8/i_need_advice_from_the_community_about_a_project/</guid>
-      <pubDate>Tue, 06 May 2025 18:48:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

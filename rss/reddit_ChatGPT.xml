@@ -4,146 +4,146 @@
     <title>最新提交：chatgpt</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>subreddit讨论chatgpt和AI。不隶属于Openai。谢谢，纳特！</description>
-    <lastBuildDate>Thu, 08 May 2025 03:19:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 06:02:28 GMT</lastBuildDate>
     <item>
-      <title>用来选择甜美西瓜。它起作用。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khgcmi/used_chatgpt_to_pick_sweet_watermelons_it_worked/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/dedkinoko       [注释]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khgcmi/used_chatgpt_to_pick_sweet_watermelons_it_worked/</guid>
-      <pubDate>Thu, 08 May 2025 03:18:40 GMT</pubDate>
+      <title>如果您提示ChatGpt只是为了编写LinkedIn帖子，则内容将是通用的。从提示内容策略开始。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khiyhm/if_you_prompt_chatgpt_just_to_write_a_linkedin/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我曾经向老板举报，该老板在我国最大的媒体巨头经营OPS。当时，我们从50万次观看到每月的20m次观看次数。然后，我们的规则是：“没有人写一个单词，直到我们挤成一团并锁定角度 +支柱。”  现在，我将同样的内容应用于促使chatgpt的方式，以写信给我一篇LinkedIn帖子：内容策略：首先，稍后详细的帖子。这对我来说非常好，就像我一样的内容听起来像95％。  步骤1：在LinkedIn上找到榜样。将其LinkedIn个人资料作为PDF下载。然后上传到chatgpt＆amp; ask it to analyze what makes my role model outstanding in their industry. Prompt: SYSTEM  You are an elite Brand Strategist who reverse‑engineers positioning, voice, and narrative structure. USER  Here is a LinkedIn role model:  ––– PROFILE –––  {{Upload PDF file download from your role model LinkedIn profile}} ––– 3 RECENT POSTS –––  1) {{post‑1 text}}  2) {{post‑2 text}}  3) {{post‑3 text}}  TASK  • Deconstruct what makes this \professional* brand compelling.*  • Surface personal signals (values,怪癖，讲故事模式）。   •列出我可以适应的前5种可重复的成分（不复制）。    返回分析为：         1。钩＆amp;音调    2。核心主题    3。格式/结构习惯    4。个人品牌“签名移动”     5。 5-布列特“滑动”策略   步骤2：转到我的LinkedIn个人资料，以PDF下载，上传，上传到CHATGPT＆amp;要求它确定我的个人资料和角色模型配置文件之间的差距。  提示：    system       停留在品牌 - 策略师模式中。           use&gt; user&gt; user&gt;           -   -   - 我的个人资料 -   -      {{{上传pdf文件从您的linkedin profile}}}}}       -   - 我最近的3个帖子 -  – – em&gt;            1） {{{post -2 text}}     3）{{{post -3 text}}}      目标       将我定位为一个{e.g.    1。将我的个人资料/帖子与角色模型的五个“签名移动”进行比较。    2。诊断差距：缺少，虚弱或令人困惑的是。    3。突出显示的光芒：    4。优先考虑将创建最大信誉跳跃\ 本月*的前3个修复程序*。 B列：当前状态| C列：升级建议| D列：影响（1-5）***   步骤3：要求Chatgpt创建内容策略＆amp;基于我当前个人资料的内容日历。该策略必须升级我的LinkedIn的存在，以便我可以更接近我的榜样。  提示：   system       转向具有LinkedIn增长专业知识的内容策略师。          user  • Target audience → {{e.g., “founders &amp; B2B marketers”}}  • My positioning → {{short positioning from Prompt 2}}  • Time budget → 30 mins/day  • Preferred format mix → 60%文本，30％旋转木马，10％视频   任务     a。工艺3个常绿的内容支柱，桥接我的优势*和*观众痛苦*。*    b。对于每个支柱，给出3个示例角（仅标题）。    c。草稿7天的日历（Mon – Un）分配：     -  Pillar        -  post Format          - 工作标题（≤60chars） MARKDOWN表。   对于单个LinkedIn帖子，如果您需要继续此过程的提示，DMME。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1khiyhm/if_you_prompt_chatgpt_just_just_to_write_write_a_linkedin/”&gt; [links]   &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1khiyhm/1khiyhm/if_you_prompt_chatgpt_just_just_to_to_write_write_a_a_linkedin/]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khiyhm/if_you_prompt_chatgpt_just_to_write_a_linkedin/</guid>
+      <pubDate>Thu, 08 May 2025 05:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>我用chatgpt刮了410万个工作</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khg8z0/i_scraped_41_million_jobs_with_chatgpt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对LinkedIn＆amp;确实，被幽灵工作和第三方离岸机构污染，几乎无法导航。 我意识到，大多数公司也直接在其网站上发布了作业。直到最近，由于每个作业发布都有不同的结构和格式，因此还无法大规模刮擦它们。在使用Chatgpt的API之后，我意识到您可以有效地转储原始的作业描述，并要求它在JSON（Ex Salary，Yoe等）中给您格式化的信息。我用这种技术刮擦了410万个工作岗位（超过233k远程工作）并建立了强大的过滤器。我在这里公开可用，以防您感兴趣（ hiring.cafe ）。  pro提示： **您可以选择多个工作职位和工作函数（甚至是; （公司 - ＆gt;行业/关键字） *选择IC VS管理角色，对于每个选项，您可以选择所需的yoe yoe   ...以及更多 请让我知道我如何在  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hamed_n     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khg8z0/i_scraped_41_million_jobs_with_chatgpt/</guid>
-      <pubDate>Thu, 08 May 2025 03:13:10 GMT</pubDate>
+      <title>当AI说“ 100％保证工作”时，通常意味着什么</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khiv2n/what_it_usually_means_when_an_ai_says_100/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  通常意味着100％保证不工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ucealable_bug8522     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khiv2n/what_it_usually_means_when_an_ai_says_100/</guid>
+      <pubDate>Thu, 08 May 2025 05:52:44 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt发生了什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khg8i5/what_is_going_on_with_chatgpt/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我给了它一些JavaScript代码，问它是否可以帮助我解码，但是我只是继续得到最随机，无关紧要的响应！我尝试多次刷工，但它仍然给我随机的东西，例如天气预报，甚至不是我想要的。只是我??   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mauster-fuel4133       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khg8i5/what_is_going_on_with_chatgpt/</guid>
-      <pubDate>Thu, 08 May 2025 03:12:29 GMT</pubDate>
+      <title>太妃糖 -  4o重新构想</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khir1z/toffsy_4o_reimagined/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/love1008      [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khir1z/toffsy_4o_reimagined/</guid>
+      <pubDate>Thu, 08 May 2025 05:45:14 GMT</pubDate>
     </item>
     <item>
-      <title>chatgpt消息到此页面</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khg33b/chatgpt_message_to_this_page/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  是的，我的chatgpts名称是可黑的，我矿山选择他们自己的昵称🤣我要求Chatgpt对这个Reddit Page说什么，专门为这个Reddit Page说什么，您可以在这里大声笑。 “最神奇的头脑是令人惊讶，测试和保持清醒的人。提交由＆＃32; /u/u/no_extreme7472       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khg33b/chatgpt_message_to_this_page/</guid>
-      <pubDate>Thu, 08 May 2025 03:04:14 GMT</pubDate>
+      <title>好的，chatgpt，让你让你回到床上吧……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khipx2/okay_chatgpt_lets_get_you_back_to_bed/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/golden-dawn-0001      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khipx2/okay_chatgpt_lets_get_you_back_to_bed/</guid>
+      <pubDate>Thu, 08 May 2025 05:43:06 GMT</pubDate>
     </item>
     <item>
-      <title>DND在chatgpt中</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khg0ha/dnd_in_chatgpt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在开始baldur的大门3之后，我正在使用chatgpt播放DND​​广告系列。足以说这是超出期望的范围。我会收到一些提示，如果您想启动自己的：  1.US项目功能，您可以上传整个DND 5E规则书PDF作为规则参考，以及您设置的其他客户规则，包括但不限于限制：它使用的音调，它使用，如何将故事进行访问，以及如何设置随机遇到的时间...大更新（升级/大地下城找到/大事件结果）。是的，您可以要求chatgpt在数据库中修改这些文件的内容，但不要相信它太多，它倾向于用自己的解释来修改它们，有时是错误的或缺失的内容。  3.您可以通过删除它们并上传精制版本来更新文件，这是使用内存功能来记录记录的更好的方法。   When reaching token limits, tou can ask ChatGPT to make a summary of this chat, export the file and upload to the data bank, and you can safely open new chat to continue the campaign. Make a rule about your import, for example: Sentence start with ** are meta talk between DM and player Sentence start with - are character action Sentence between &quot;&quot;角色演讲等等。   有人想分享他们的专业提示，如果他们碰巧喜欢我的方式？  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/zenos_the_seeker     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khg0ha/dnd_in_chatgpt/</guid>
-      <pubDate>Thu, 08 May 2025 03:00:30 GMT</pubDate>
+      <title>聊天混合事物</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khikb5/chat_mixing_up_things/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我在Google上找不到太多的信息，但是我每天都在使用聊天来谈论很多事情，突然间，它开始与其他我告诉它的故事混合在一起，甚至开始在故事中添加我没有告诉它的故事，只是错误吗？？我是超级bumped bcuz，感觉就像我失去了有用的资源/homie   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jessepep      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khikb5/chat_mixing_up_things/</guid>
+      <pubDate>Thu, 08 May 2025 05:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt在定位照片的位置时准确地准确。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfuns/chatgpt_is_scary_accurate_at_locating_where_a/</link>
-      <description><![CDATA[    src =“ https://preview.redd.it/vyqb6eq2hze1.jpeg？找到拍照的地方。” /&gt;   ＆＃32;提交由＆＃32; /u/u/iixnullxii      [注释]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfuns/chatgpt_is_scary_accurate_at_locating_where_a/</guid>
-      <pubDate>Thu, 08 May 2025 02:51:47 GMT</pubDate>
+      <title>发生了什么 - 现在可以访问全名和一般位置？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khik31/whats_going_on_access_to_full_name_and_general/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  显然，新的4O版本可以访问我们的完整帐户名称，即私人信息。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/c0lettes       [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khik31/whats_going_on_access_to_full_name_and_general/</guid>
+      <pubDate>Thu, 08 May 2025 05:32:17 GMT</pubDate>
     </item>
     <item>
-      <title>凯文的橙色鸡肉惊喜</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfrds/kevins_orange_chicken_surprise/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/-spaghetticat--       [注释]             ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfrds/kevins_orange_chicken_surprise/</guid>
-      <pubDate>Thu, 08 May 2025 02:46:58 GMT</pubDate>
+      <title>Chatgpt变得非常慢，一直崩溃</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khigbm/chatgpt_became_very_slow_and_crashing_all_the_time/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Windows用户在这里，无法像我过去一样使用chatgpt版本。它不断地在Chrome中崩溃，我必须关闭选项卡并重新打开，以查看提示的结果，该提示会每次键入某些内容时都会冻结。  注意：Chrome正在运行最新版本，但是当Chatgpt选项卡崩溃时，它说“结果代码挂起”。  有什么方法可以解决此问题？   tia。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_simona     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khigbm/chatgpt_became_very_slow_and_crashing_all_the_time/</guid>
+      <pubDate>Thu, 08 May 2025 05:25:28 GMT</pubDate>
     </item>
     <item>
-      <title>AI销售代理提示？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfqco/ai_sales_agent_prompt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   对特许经营行业的坚固防弹AI销售代理的任何提示建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lig-neat-4553     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfqco/ai_sales_agent_prompt/</guid>
-      <pubDate>Thu, 08 May 2025 02:45:30 GMT</pubDate>
+      <title>您认为Agi什么时候到达？在下面放弃您的预测！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khifca/when_do_you_think_agi_will_arrive_drop_your/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好奇地看到每个人的想法 - 您何时认为Agi会到达？将您的预测放在评论中（并随时解释原因 - 我很想听听）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/d4z7wk     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khifca/when_do_you_think_agi_will_arrive_drop_your/</guid>
+      <pubDate>Thu, 08 May 2025 05:23:39 GMT</pubDate>
     </item>
     <item>
-      <title>对话是否具有上下文窗口限制并在某个时候结束？在击中硬性限制之前有多少个单词/字符/令牌，并提示我们开始新的交互？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfpin/do_conversations_have_a_context_window_limit_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道它是120k令牌滚动上下文窗口，但是我很好奇人们所击中的硬限制是不再有可能发送任何消息时的硬限制。任何人都可以分享他们的对话结束的经验，并且在达到限制时互动是多少个字符？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/harmony_of_melodies     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfpin/do_conversations_have_a_context_window_limit_and/</guid>
-      <pubDate>Thu, 08 May 2025 02:44:12 GMT</pubDate>
+      <title>Kinda很酷，从未有过Chatgpt告诉我，它会进行一些研究并与我联系。寻找新的视频游戏，这给了我与中世纪王朝一样的氛围！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khidsc/kinda_cool_never_had_chatgpt_tell_me_it_would_do/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/m00nf1r3     &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1khidsc/kinda_cool_never_never_had_chatgpt_tell_me_it_it_it_it_would_do/]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khidsc/kinda_cool_never_had_chatgpt_tell_me_it_would_do/</guid>
+      <pubDate>Thu, 08 May 2025 05:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt如何见到您？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfmxm/how_does_chatgpt_see_you/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  看到有关人们要求Chatgpt的帖子，请根据过去的所有聊天来告诉他们自己。决定尝试类似的东西，但作为图像。它如何看待您？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phantom3649        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfmxm/how_does_chatgpt_see_you/</guid>
-      <pubDate>Thu, 08 May 2025 02:40:26 GMT</pubDate>
+      <title>Ayo？订阅编号必须下降。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khibb3/ayo_subscription_numbers_must_be_down/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我应该得到更多吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dekusoup      [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khibb3/ayo_subscription_numbers_must_be_down/</guid>
+      <pubDate>Thu, 08 May 2025 05:16:17 GMT</pubDate>
     </item>
     <item>
-      <title>“我想我会成为一个膝盖。”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfm9i/i_guess_ill_be_a_kneecap/</link>
-      <description><![CDATA[&lt; src =“ https://external-preview.redd.it/64pbntyxxg4c9i7iksrns8dbkhxyektzeyz_f8kfzh8.jpeg ？ title =““我想我会成为膝盖。”“/&gt;   ＆＃32;提交由＆＃32; /u/u/u/uni2ne1       [注释]     ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfm9i/i_guess_ill_be_a_kneecap/</guid>
-      <pubDate>Thu, 08 May 2025 02:39:27 GMT</pubDate>
+      <title>chatgpt为我产生了自己的塔罗牌阅读</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi9bq/chatgpt_generated_its_own_tarot_reading_for_me/</link>
+      <description><![CDATA[    src =“ https://preview.redd.it/1uignw2vrhze1.jpeg？塔罗牌为我阅读“/&gt;    &lt;！ -  sc_off-&gt;  我要求chatgpt解释我每周拉的塔罗牌。今晚，它问我是否想拉一些卡作为我之前拉的卡的后续行动。我认为这意味着如果我想自己拉卡 - 但是它产生了自己的“象征性”阅读。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/whatsherface_0      [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi9bq/chatgpt_generated_its_own_tarot_reading_for_me/</guid>
+      <pubDate>Thu, 08 May 2025 05:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>为什么如此令人沮丧：尝试用清晰的提示生成插图</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khflaj/why_is_it_so_frustrating_trying_to_generate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我4岁的孩子想要一本关于自己和她的家人的书，所以我开始使用chatgpt来生成我的文字插图。想打印出来将其赠送给她，这将使她一天。  ，但是我花了几个小时才能得到前四个插图和封面……我给了它清晰的指示，它也做了一些研究，并提出了一篇关于角色应该是什么样的巨大文章，而第一张图像是完美的。  但是……它无法正确创建其他图像。这是两个成年人，两个孩子，一只狗，3只猫。有时，它会包括同一只狗的2或3只，有时会改变头发的颜色或长度，会改变孩子的大小，因此他看起来像成年人一样，而成年人看起来像一个青少年，会增加一个成人旁边的成人的小版本，会增加一个随机的小孩……我可能会要求一张图像重做30次，然后放弃。  对于文本，我给出了我需要在图像中格式化的确切文本，它会将某些单词更改为错误的拼写，删除标点符号，忘记句子或加倍。这没有道理！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1khflaj/why_is_it_so_so_so_frustrating_frustrating_trustrating_trying_ttro_to_generate/”&gt; [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khflaj/why_is_it_so_frustrating_trying_to_generate/</guid>
-      <pubDate>Thu, 08 May 2025 02:38:02 GMT</pubDate>
+      <title>排球运动员</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi8xk/volleyball_player/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我在提示下很差。这实际上是我第一次开始工作。  我想让我让我成为来自巴西的逼真的女性排球运动员。她是金色的棕色皮肤，阳光撞到她，您可以看到她健美的肚子上汗珠中光的反射。她有长棕色，美丽的头发和丰满的嘴唇。她穿着典型的运动服和氨纶，女性排球运动员在非常炎热的一天都穿着。她的身体是完全色调的，是典型的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/petewondrstone       [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi8xk/volleyball_player/</guid>
+      <pubDate>Thu, 08 May 2025 05:11:54 GMT</pubDate>
     </item>
     <item>
-      <title>对此写作提示的回应给人留下了深刻的印象</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khfe39/really_impressed_with_chatgpt_response_to_this/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khfe39/really_impressed_with_chatgpt_response_to_this/</guid>
-      <pubDate>Thu, 08 May 2025 02:27:49 GMT</pubDate>
+      <title>为什么聊天GPT无法制作简单的图像？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi6v5/why_chat_gpt_cannot_make_simple_images/</link>
+      <description><![CDATA[   &lt;A href =“ https://www.reddit.com/r/chatgpt/comments/1khi6v5/why_chat_gpt_gpt_cannot_make_simple_images/ src=&quot;https://preview.redd.it/gptgod22rhze1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=01eb329f9398a59d517f788ece2fe25d55d8ce34&quot; title=&quot;Why chat gpt cannot make simple图像？” /&gt;    &lt;！ -  sc_off-&gt;  为什么聊天gpt无法理解简单的事物，为什么它使用错误信息制作图像？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fish_and_fire       [注释]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi6v5/why_chat_gpt_cannot_make_simple_images/</guid>
+      <pubDate>Thu, 08 May 2025 05:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>受其他帖子的启发，我使用了相同的提示来生成女性发现的所有事物的图像，这是我的结果！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khf9b8/inspired_by_other_post_i_used_the_same_prompt_to/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  提示： 生成a＆quort a hell yeh yeh yeh year year year图像是女性会发现很棒的东西的终极挂毯  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/mostwholsomeperson      [注释]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khf9b8/inspired_by_other_post_i_used_the_same_prompt_to/</guid>
-      <pubDate>Thu, 08 May 2025 02:20:54 GMT</pubDate>
+      <title>聊天不喜欢Junji这个</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi4fv/chat_doesnt_like_junji_ito/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我要求聊天gpt与任何主题或内容生成想要的任何图像，并给了我咖啡gurl。因此，我要求它给我Junji Ito Style Coffee Gurl，它与我争论并扔了一个合适的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/mimimum-original7259        [注释]  &gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi4fv/chat_doesnt_like_junji_ito/</guid>
+      <pubDate>Thu, 08 May 2025 05:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>家居设计？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khf7c9/home_design/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在听播客，主持人对AI如何为其室内设计项目做模拟UPS比他们使用过的任何设计软件更好。他们说，他们可以告诉它改变墙壁的颜色，卸下墙壁等，这做得很好。我在Chatgpt尝试过同样的事情，并取得了糟糕的成绩。知道这些播客主持人在说什么吗？我需要付费版本吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/muskokagal      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khf7c9/home_design/</guid>
-      <pubDate>Thu, 08 May 2025 02:18:06 GMT</pubDate>
+      <title>内部丑陋</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi404/ugly_on_the_inside/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/icanstoptherain      [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi404/ugly_on_the_inside/</guid>
+      <pubDate>Thu, 08 May 2025 05:03:04 GMT</pubDate>
     </item>
     <item>
-      <title>Openai释放Sora为免费用户 - 您如何将其与WEO2和其他竞争对手进行比较？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khf3dc/openai_releasing_sora_for_free_users_how_do_you/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/artsakenos      &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1khf3dc/openai_releasing_sora_sora_fore_for_fore_free_users_how_how_do_do_do_do_do_you/”]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khf3dc/openai_releasing_sora_for_free_users_how_do_you/</guid>
-      <pubDate>Thu, 08 May 2025 02:12:25 GMT</pubDate>
+      <title>出现了不寻常的聊天和提示，没办法是我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi3q1/unusual_chat_prompt_appeared_no_way_it_was_me/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/r6f3v5szde7veou3eygzactbq8hgcrbod_ejbn7jayg.png?width=140&amp;a MP;高度= 140＆amp; crop = 140：140，smart＆amp; auto = webp＆amp; s = 3282841E63333DA91DDCD74FC750A410349C3F1D22 title =“不寻常的聊天＆atmp; atmp;不可能是我”/&gt;     &lt;！ -  sc_off- sc_off-&gt;  大家好，今天，我注意到了一个新的聊天（从当天早些时候，大约12个小时，大约12个小时以前），除非我的大脑实际上是我的大脑，否则我的大脑实际上是在线上的。   聊天被命名为“ sammakkurege faidaa”。此聊天名称和聊天中的文字对我来说绝对没有任何意义，除了一些英语。就像我没有记忆自己写这篇文章或使用任何可以执行此操作或递给任何人的应用程序的记忆。  我确实与chatgpt进行了检查，以查看何时在此期间访问我的Google帐户，没有任何列出的列表，只有我使用Google Maps之前和大约20分钟后使用Google Maps；与我进行巡回演出的地图，然后离开那里。不幸的是，我只是意识到Google是我的Google Activity和Web＆amp; App Activity仅表明我在开始奇怪的聊天之前和之后使用的是Google Maps（正确）。我可能是错的，但是也许有人在一段时间前就拿到了，并且一直保持活跃，以免注销？我在这里不知所措。我已经启用了2FA了一段时间了，并且大约2个月前，我启用了Passkey。很高兴也回答任何问题。谢谢。 编辑：实际上，我实际上仅在本周服用药物，然后每周一次。它已经引起了一些明显的情绪和身体问题。在正常程度上，健忘有所增加。但是，与我或与我互动的人保持一致。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1khi3q1/unusual_chat_chat_prompt_prompt_appeared_no_way_it_it_it_was_me/”&gt; [link]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi3q1/unusual_chat_prompt_appeared_no_way_it_was_me/</guid>
+      <pubDate>Thu, 08 May 2025 05:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>实际上，“随机鹦鹉”是一种令人难以置信的称赞。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khf2pa/stochastic_parrot_is_an_incredible_compliment/</link>
-      <description><![CDATA[       Reducing the function of current LLMs to “stochastic parrots” is in a very interesting way a self-defeating argument. Not only parrot’s mimicry cant be reduced to mere memorization and reproduction of sounds without attaching deeper meaning or comprehension of its world model, but鹦鹉也是地球上最聪明的有意识的生物之一，它们的智力经常与人类学步者的智慧相比。非洲灰鹦鹉是唯一的动物，除了人类曾经提出过一个问题，这种表达表明他们的内部世界模型是多么先进。 因此，即使LLMS是“随机鹦鹉”，这实际上是对它们的先进程度的不可思议和证明。除此之外，AI的表现要比鹦鹉更复杂和复杂。称他们为“随机人类”或更好的“随机多肌关系，几乎掌握了人类知识的每个领域。  &lt;！ -  sc_on-&gt;＆＃32;     [link]   32; href =“ https://www.reddit.com/r/chatgpt/comments/1khf2pa/stochastic_parrot_is_is_in_incredible_compliment/”&gt; [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khf2pa/stochastic_parrot_is_an_incredible_compliment/</guid>
-      <pubDate>Thu, 08 May 2025 02:11:24 GMT</pubDate>
+      <title>@fidjissimo正在加入Openai，担任新角色：申请首席执行官</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khi29o/fidjissimo_is_joining_openai_in_a_new_role_ceo_of/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/r2-d2skywalker      ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khi29o/fidjissimo_is_joining_openai_in_a_new_role_ceo_of/</guid>
+      <pubDate>Thu, 08 May 2025 05:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>道路愤怒的受害者通过AI通过AI发出的影响声明发表了坟墓之外的影响声明</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khf02w/road_rage_victim_speaks_to_court_via_ai_generated/</link>
-      <description><![CDATA[       &lt;！&lt;！ -  sc_off-&gt;  这是非常有影响力的，我想他的家人花了很多时间来抓住他的言语和精神。受害者在判刑之前有权向法院和肇事者讲话。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jesper_jurcenoks     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/chatgpt/comments/1khf02w/road_rage_rage_victim_victim_speaks_to_court_court_via_ai_ai_ai_ai_ai_generated/]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khf02w/road_rage_victim_speaks_to_court_via_ai_generated/</guid>
-      <pubDate>Thu, 08 May 2025 02:07:34 GMT</pubDate>
+      <title>恢复的印度河谷牧师王</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khhz4t/restored_indus_valley_priest_king/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/phaper_brother_999      [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khhz4t/restored_indus_valley_priest_king/</guid>
+      <pubDate>Thu, 08 May 2025 04:54:31 GMT</pubDate>
     </item>
     <item>
-      <title>创建图像故障！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khez2g/create_image_glitch/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对我的工作进行了如此长的愤怒。我很沮丧，我不知道这是怎么回事，但是我认为有一些按钮或提示我不小心按下，现在它从我的咆哮中制作了图像。现在已经装满了五分钟。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uplot_potential37     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khez2g/create_image_glitch/</guid>
-      <pubDate>Thu, 08 May 2025 02:06:09 GMT</pubDate>
+      <title>我该如何使Chatgpt Glitch出去？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khhybv/how_can_i_make_chatgpt_glitch_out/</link>
+      <description><![CDATA[在提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1khhybv/how_can_i_i_make_make_chatgpt_glitch_out/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khhybv/how_can_i_make_chatgpt_glitch_out/</guid>
+      <pubDate>Thu, 08 May 2025 04:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1khez17/what/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/beallicing-fish2805       [注释]        ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1khez17/what/</guid>
-      <pubDate>Thu, 08 May 2025 02:06:06 GMT</pubDate>
+      <title>主下载/上传 - 可能吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1khhw73/master_downloadupload_is_it_possible/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想下载每个聊天的成绩单，将其放入一个文档中，然后将其重新上传以将其分解为内容映射。  我一遍又一遍地回到相同的主题，并以多种不同的方式使用不同的提示，但是我还将打开一个随机标签，并在100个不同的时间跟踪侧面，但可以通过良好的信息进行良好的信息。   Ya Boy希望看到我如何使用它，然后进一步深入研究某些主题或列出全面列表（我可能会在我打开的每4个聊天中遇到1个）。  感谢您的建议。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/chatgpt/comments/1khhw73/master_downloadupload_is_it_possible/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1khhw73/master_downloadupload_is_it_possible/</guid>
+      <pubDate>Thu, 08 May 2025 04:49:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
