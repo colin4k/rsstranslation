@@ -4,27 +4,34 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 08 May 2025 06:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 09:02:52 GMT</lastBuildDate>
+    <item>
+      <title>[呼叫测试人员] SATTY V0.18.0-屏幕截图注释工具，灵感来自Swappy和Flameshot</title>
+      <link>https://www.reddit.com/r/opensource/comments/1khkoxl/call_for_testers_satty_v0180_a_screenshot/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/swaywm/comments/1khko7e/call_for_testers_satty_v0180_a_screenshot/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1khkoxl/call_for_testers_satty_v0180_a_screenshot/</guid>
+      <pubDate>Thu, 08 May 2025 08:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>背景删除微调个人资料图片</title>
+      <link>https://www.reddit.com/r/opensource/comments/1khkmjo/background_removal_fine_tuned_for_profile_pictures/</link>
+      <description><![CDATA[I’ve been working on a tool called RemBack for removing backgrounds from face images (more specifically for profile pics), and I wanted to share it here. About   For face detection: It uses MTCNN to detect the面部并创建一个围绕它的边界盒  分段：我们现在微调一个sam（段的任何模型），它将该盒子作为提示为face       yli&gt;  subs subm ask up   strong     为什么面对面更好     专门用于面孔的：与 rembg 不同，它使用通用模型（U2NET）用于任何图像，Remback纯粹集中在面孔上。我们将MTCNN的面部检测与面部数据（Celebamaskhqdataset）微调的SAM模型相结合。从技术上讲，这应该使特定于面部的细节变得更加准确（你们可以看下面的图像）  超越检测到： mtcnn 仅仅检测到面孔 - 它不会删除背景。重新段并删除背景。  微调精度：SAM模型用盒子提示，正/负点以及BCE，BCE，骰子和边界损失以及锐化边缘精确度的混合物进行微调 - 像REMBG（如REMBG）一样，诸如REMBG（如REMBG）不适合for for for for for for for for for for for for for for。   remback -image_path/path/path/to/input.jpg-----------------path/to/to/to/output.jpg-checkpoint/path/path/path/path/checkpoint.pth    将自动下载。   要求   python 3.9-3.11  比较在下面的github链接中。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1khkmjo/background_removal_fine_fine_fine_fine_fine_for_for_for_for_for_profile_pictures/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1khkmjo/background_removal_fine_tuned_for_profile_pictures/</guid>
+      <pubDate>Thu, 08 May 2025 07:57:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索-SDK：任何Web-Search API的打字稿接口</title>
+      <link>https://www.reddit.com/r/opensource/comments/1khkjze/searchsdk_one_typescript_interface_for_any/</link>
+      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  我被卡住了，试图将不同的Web搜索API实现到我的Web应用程序中，因此我使这个库变得容易。希望您也能找到它有用：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/colustedbutternut     link&gt; [link]&gt; [link]   [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1khkjze/searchsdk_one_typescript_interface_for_any/</guid>
+      <pubDate>Thu, 08 May 2025 07:51:59 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可能替代“ Redear的字体重命名器”</title>
       <link>https://www.reddit.com/r/opensource/comments/1khhfxc/looking_for_possible_alternative_to_redears_font/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/davyper     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1khhfxc/looking_for_possible_alternative_to_redears_font/</guid>
       <pubDate>Thu, 08 May 2025 04:21:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[WIP]牛角：开源AI股票交易策略助理 - 反馈欢迎！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khdvt6/wip_bullvision_an_open_source_ai_stock_trading/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我正在构建一个名为 目标是创建一个有用的助手，该助手：  获取实时库存数据 +新闻 分析技术信号 使用基于LLM的代理商来生成战略见解  stac  k：  代理商SDK（与OSS模型完全交换） 使用MCP（模型上下文协议）  Python + Mongodb + Telegram用于初始界面       ，我仍然会从事它，我仍然会从中开发出来，但是我仍然是forme fuld，但是我是forme fuld，foreve for是  python + python + mongodb +我仍然是fuck for的fuld for。  建筑改进  LLM代理编排设计 用例建议或想法 任何有兴趣贡献或协作的人？        github.com/cognitive-stack/bull-vision-vision-agent     如果对您来说这很有趣，请欣赏任何想法或明星 - 让我们对交易者和小说者建立一些有用的东西。 🙌  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hieuhash     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khdvt6/wip_bullvision_an_open_source_ai_stock_trading/</guid>
-      <pubDate>Thu, 08 May 2025 01:10:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要的建议：重构杂乱节点 + python项目开源发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khdjpy/advice_needed_refactoring_messy_nodejs_python/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，伙计们，我正在领导一个小型开发团队，我们准备为我们的内部工具之一开放。技术堆栈包含：  node.js后端（REST API）服务于下一个。 flow is inefficient and performance bottlenecks are popping up Some routes mix business logic, validation, and DB access in one pile Mixed code quality due to a mostly junior team, no enforced styleguide No unit tests, poor separation of concerns, inconsistent naming We want to: Clean and modularize the代码库 改进API设计和数据处理 编写适当的文档和测试 使其成为贡献者和现实世界的稳固基础 问题： 问题： 您会在这样的范围内首先在prime prow/pers prow/with prow/with prow/with pod prow/with pod prow/with pod pod pod 您建议您推荐作为结构参考的开源准备好的样板存储盘吗？ 如果您以前这样做了 - 什么是错误或正确的？ 感谢任何想法，尤其是那些与贡献者保持公共存储库的想法。   &lt;！提交由＆＃32; /u/u/hieuhash     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khdjpy/advice_needed_refactoring_messy_nodejs_python/</guid>
-      <pubDate>Thu, 08 May 2025 00:53:08 GMT</pubDate>
     </item>
     <item>
       <title>您如何分配捐款（如果捐款）</title>
@@ -36,7 +43,7 @@
     <item>
       <title>国防部CIO宣布开源战争</title>
       <link>https://www.reddit.com/r/opensource/comments/1kh99kn/dod_cio_declares_war_on_open_source/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  &#39;rarrington也指出，开源软件的使用;由于缺乏对软件代码的起源和安全性的可见性，特别是令人不安的。“  作为国际网络系统上的Unix Sys管理员，我维护和编译了开源代码。尽管我不是开发人员，但我从来没有对开源感到紧张，因为我可以阅读。我什至可以用阿拉伯数字处理ASCII表！ （⌐■_■）。编写代码在世界范围内都没关系。如果它清晰可见，则可以阅读，理解和编译。 丢失了多少知识，因为不再认为开源代码被认为是安全的？如果我们训练它们阅读。  &lt;！ -  sc_on-&gt;＆＃32;也许AI系统可以审查代码。提交由＆＃32; /u/phflupp      [注释]]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  &#39;rarrington也指出，开源软件的使用;由于缺乏对软件代码的起源和安全性的可见性，特别是令人不安的。“  作为国际网络系统上的Unix Sys管理员，我维护和编译了开源代码。尽管我不是开发人员，但我从来没有对开源感到紧张，因为我可以阅读。我什至可以用阿拉伯数字处理ASCII表！ （⌐■_■）。编写代码在世界范围内都没关系。如果它清晰可见，则可以阅读，理解和编译。 丢失了多少知识，因为不再认为开源代码被认为是安全的？如果我们训练它们阅读，也许AI系统可以审查代码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phflupp      [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kh99kn/dod_cio_declares_war_on_open_source/</guid>
       <pubDate>Wed, 07 May 2025 21:33:10 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   akita adstream是一个基于python的应用程序，旨在捕获Linux主机机器的屏幕（或选定的窗口）运行Wayland的屏幕（或选择的窗口），并将其实时流式传输到同一本地网络上的一个或多个客户端机。通信和服务发现由网状网络堆栈确保加密且弹性的连接。视频流是使用FFMPEG处理的，用于在服务器上捕获和编码，并在客户端上进行播放。 此工具主要用于以下场景：    本地广告显示。   信息kiosks。 AkitaEngineering/Akita-AdStream: Akita AdStream is a Python-based application designed to capture the screen (or a selected window) of a Linux host machine running Wayland and stream it in real-time to one or more client machines on the same local network.通信和服务发现由网状网络堆栈处理，确保加密和弹性的连接。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kggkyd/akita_adstream_realtime_screen_screen_sharing_within_a/&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kggkyd/akita_adstream_realtime_screen_sharing_within_a/</guid>
       <pubDate>Tue, 06 May 2025 21:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cachyos蒸汽游戏指南！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kggkbb/cachyos_gaming_guide_for_steam/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/linux_gaming/comment/comments/1kggi8y/cachyos_gaming_guide_guide_for_steam/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kggkbb/cachyos_gaming_guide_for_steam/</guid>
-      <pubDate>Tue, 06 May 2025 21:40:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
