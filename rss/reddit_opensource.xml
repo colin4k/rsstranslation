@@ -4,13 +4,83 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 09 May 2025 03:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 09:02:45 GMT</lastBuildDate>
     <item>
-      <title>浏览器代码预览器 /编辑器快速完善和注释AI聊天的Web代码以进行进一步的迭代 - 也许有人会发现它很有用。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ki2j0h/a_browser_code_previewer_editor_to_quickly_refine/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这个想法是预览并轻松地将目标注释添加到AI代码中以进行进一步迭代以及快速调整文本，重复/删除/删除元素，在AI生成的Web代码中更改/添加CSS，以供某人和wordpress，尤其是在静止的情况下，尤其是在静置HTML用于桌子，嵌套元素等。打算使与AI在聊天接口中使用AI更轻松一些（比API + API + APA构建器或诸如AIDER/CURSOR之类的编码环境便宜，当然，具有两个领先的编码模型-SONNET 3.7 Thinking 3.7 Thinking和Gemini 2.5 Pro）。它还包括一个及时的生成器和将预设保存为JSON的能力 - 生成始终如一的样式内容。   github  href =“ https://notes2llm.liniewicz.info/”&gt; https://notes2llm.liniewicz.info/ （（所有处理都在本地完成，什么都没发送到任何服务器，任何服务器都发送到任何服务器，它是纯html/css/css/js/js/js）   /u/u/u/black_cat90     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ki2j0h/a_browser_code_previewer_editor_editor_quickly_refine/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ki2j0h/a_browser_code_previewer_editor_to_quickly_refine/</guid>
-      <pubDate>Thu, 08 May 2025 22:00:40 GMT</pubDate>
+      <title>关于在没有PR的情况下合并叉子更改的问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kj5jlq/a_question_about_incorporating_changes_from_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我写了一个简单的纸牌游戏，在AGPL下获得许可。最近，有人在Github上分配了它，并添加了一种算法来生成可解决的游戏等。但是，他们在叉子上遇到了问题和讨论，并且没有回应我通过GitHub的提及系统伸出援手的尝试。从那以后，他们更改了应用程序的名称，图标等。很明显，他们打算单独发布叉子而不是贡献。令人沮丧的是，但是哦。 我想将它们添加到我自己的版本中。由于代码是AGPL，因此我应该能够这样做。但是，您如何看待这种情况？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mimoguz     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kj5jlq/a_question_about_incorporating_changes_from_a/</guid>
+      <pubDate>Sat, 10 May 2025 08:32:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在Golang中建立存储无关消息队列的故事</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kj04cz/a_story_of_building_a_storageagnostic_message/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/extension_layer1825     [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kj04cz/a_story_of_building_a_storageagnostic_message/</guid>
+      <pubDate>Sat, 10 May 2025 02:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否使用Scylladb的开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kixgu6/any_open_source_projects_that_uses_scylladb/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上是标题。想知道你们是否知道我的研究案例使用Scylladb（或Cassandra）的任何开源分布式系统项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mrchaos1306     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kixgu6/any_open_source_projects_that_uses_scylladb/</guid>
+      <pubDate>Sat, 10 May 2025 00:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何学习Terraform，K8S和Docker，然后编码氛围（+开源！）我的第一个AI基础架构项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kiuctr/how_i_vibe_learned_terraform_k8s_and_docker_then/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  直到几周前，我都认为自己是“ Vibe Coder”。我只完成了简单的完整堆栈CRUD项目。我的工作流程非常简单：前端上的next.js，一键式部署到Vercel。对于后端，基本的node.js服务器，用零配置部署到渲染上。数据库的supabase-基本上抽象所有数据库复杂性。我从来没有碰过码头机。从未想过服务器。下属只是我发送的代码并付费以为不考虑的黑框。 快速变化。 我迷上了计算机使用代理：像人类一样控制计算机的AI（OpenAi Operator，Claude Cua等）。我想将这个新的AI类部署到云虚拟桌面上（而不是我自己的计算机，以免它们删除我的文件系统或其他内容）。这种好奇心使我陷入了虚拟化，编排，配置等的兔子洞中，目的是构建 cyberdesk“&gt; cyberdesk”&gt; cyberdesk ，一个完全开放的基础式基础台式服务，以ai ai ai agents nis sully stluly stluly stluly stly Is in Is ogem i i i i p&gt;  在另一个台式机内启动桌面（真正疯狂的东西）。但是很快我发现Qemu主要用于启动一个桌面。我需要一些叫做kubevirt的东西，它可以包裹Qemu，并将虚拟桌面部署到Kubernetes上。这意味着... kubernetes。 我与Nana的K8S教程一起使用了Techworld（4小时的一个，绝对是惊人的）。学习的部署，吊舱，服务等，当然，我必须与之一起学习Docker，因此我实际上可以包装我的应用程序代码并将其发送给Kubernetes。一旦我进入Kubernetes Land，我意识到我需要一种部署和管理簇的方法 - 输入Terraform。在三个星期内，我从“我什至不知道什么是什么码头”到使用Terraform + K8S + Docker旋转虚拟桌面Infra堆栈。 这是残酷的。下属比完整堆栈更复杂 - 更多的活动部件，更少的视觉调试，更多的兔子孔。我有很多WTF时刻，我丢失了数量。但是一件事使学习曲线实际上可行：  ai。严重地。我与Chatgpt和Cursor进行了300多次聊天。我像对待他们一样对待他们，当我第十次不了解某些东西时，他们并没有生气。并没有强调良好的提示 - 我只是和他们交谈，就像我要和一位高级工程师交谈。他们帮助我调试了1000多个问题（老实说，我不夸张，这太疯狂了）。他们帮助我学习的速度比我想象的要快。应该花6个月的时间被压缩到3周。 最终，这一切都被点击了 - 一旦我对Docker，Kubernetes和Terraform有了一个努力的了解，我终于可以将整个系统固定在脑海中。代码→容器→群集→VM→控制层。   ，经过所有这些，我终于完成了开源项目的第一个版本： 一个面向开发人员的API服务，使您可以通过单个API呼叫来旋转完整的Linux台式机，并可以通过简单的命令来控制它。您可以通过API发送类似人类的操作（单击，键入，滚动等），您的AI代理可以像真实用户一样使用它。它使构建计算机代理变得更加容易，将所有 抽象仍然抛光，但是如果有人愿意 star the Project 和 如果您是一个想潜入基础架构的氛围编码器，我的建议是：不要被行话吓倒。从第一原则中对其进行处理 - 您有可以在笔记本电脑上使用的代码，并且您只希望它可以可靠地进行规模运行。 Terraform，Docker和Kubernetes只是帮助您做到这一点的工具。 并倾斜进入AI。这不是作弊 - 这是超级大国。像对待聪明的耐心队友一样对待它。对您不知道的诚实。不要过度思考提示。只是说话。这些错误很难，但是当一切都起作用时 - 感觉令人难以置信。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/womptune     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kiuctr/how_i_vibe_learned_terraform_k8s_and_docker_then/</guid>
+      <pubDate>Fri, 09 May 2025 21:51:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个用于FPS游戏的开源网站</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kisz1m/i_created_an_open_source_website_for_fps_games/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi！ 第一次举办操作系统项目，显然我为此选择了GitHub。该项目的主要重点是为我玩过的游戏之一（Rainbow6围攻）之一建立一个网站（rainbow6围攻），可以在所有项目中进行扩展并重新播放，以便在所有的project！以及我应该考虑的标准操作系统！我已经进行了一些研究，但我肯定我错过了一些良好的标准实践！ 也是如此。是什么可以帮助我成功这个项目？意义;帮助将该项目扩展到更大的受众群体：） 项目；  https://github.com/the-stratbook/stratbook/stratbook     &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/devoeps     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kisz1m/i_created_an_open_source_website_for_fps_games/</guid>
+      <pubDate>Fri, 09 May 2025 20:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开源的logwhisperer  - 一种自托管的AI CLI工具，总结并解释了您的系统日志（除其他外）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kisuqk/i_opensourced_logwhisperer_a_selfhosted_ai_cli/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource ， 我一直在做一个名为  logwhisperer    - 这是一种自我host的CLI工具，使用本地LLM（通过 ollama.com“&gt; ollama&gt; ollama&gt; ollama&gt; ollama&gt; ollama  syslog, Docker logs, and more. The main goal is to give DevOps/SREs a fast way to figure out:  What’s going wrong What it means What action (if any) is recommended  Key Features:  Runs完全安装后，完全离线（没有将日志发送到云） 解析并总结了普通英语的日志文件 支持从 journe&gt; journal&gt; journalctl  docker logs  或任何标准输入 firpair  firable  docker logs   还有一个早期路线图：   通知触发（即标记已知问题）  异常检测    松弛/不和谐集成（可选，适用于连接的环境）  ci ci ci友好友好型JSON输出    完全通过了一个完全的空间启动           数千行。如果您喜欢DevOps，本地LLM或AI可观察性工具。   github repo   ＆＃32;提交由＆＃32; /u/u/snoo_15979     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kisuqk/i_opensourced_logwhisperer_a_selfhosted_ai_cli/</guid>
+      <pubDate>Fri, 09 May 2025 20:45:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的站点监视器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kirdc7/simple_site_monitor/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  具有一个用例，我需要监视站点响应性和代币年龄。所以我做了这个。我最终可能会在工作中使用它，因此，如果需要，可以单独启动跑步者，然后使用Grafana显示网站数据。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lord_tigerson      [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kirdc7/simple_site_monitor/</guid>
+      <pubDate>Fri, 09 May 2025 19:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>轻巧的CLI编码剂</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kilb5r/lightweight_cli_coding_agent/</link>
+      <description><![CDATA[https://github.com/iBz-04/Devseeker : I&#39;ve been working on a series of agents and today i finished with the Coding agent as a lightweight version of aider and claude code, I also made a great它的文档  不要忘记饰演仓库，引用或贡献它很有趣！感谢  功能包括：  在命令上创建和编辑代码 管理代码文件和文件夹 将代码存储在短期存储器中 &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ibz04     ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kilb5r/lightweight_cli_coding_agent/</guid>
+      <pubDate>Fri, 09 May 2025 15:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Iago：一种新的面向返回的编程工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kikvyz/iago_a_new_returnorientedprogramming_tool/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     https：//github.com/chris-sahyouni/iago/iago/iago  - &gt;＆＃32;提交由＆＃32; /u/u/beagle_licker     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kikvyz/iago_a_new_returnorientedprogramming_tool/</guid>
+      <pubDate>Fri, 09 May 2025 15:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我自动化了大部分打字！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kihijt/i_automated_most_of_my_typing/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kihijt/i_automated_most_of_my_typing/</guid>
+      <pubDate>Fri, 09 May 2025 12:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了Cutieapi，这是一家基于终端的，对初学者友好的API经理。大多数初学者都被卷曲命令吓倒了 - 我也是其中之一！这就是为什么我构建了此工具来简化终端中的API交互。检查一下，让我知道您的想法！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kidyx0/i_created_cutieapi_a_terminalbased/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有关更多详细信息，请先查看我的github repo：   https：&gt; https：&gt; https：&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kidyx0/i_created_cutieapi_a_ternicalbased/”&gt; [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kidyx0/i_created_cutieapi_a_terminalbased/</guid>
+      <pubDate>Fri, 09 May 2025 09:04:14 GMT</pubDate>
     </item>
     <item>
       <title>好的硬盘成像软件？</title>
@@ -74,76 +144,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/swaywm/comments/1khko7e/call_for_testers_satty_v0180_a_screenshot/”&gt; [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1khkoxl/call_for_testers_satty_v0180_a_screenshot/</guid>
       <pubDate>Thu, 08 May 2025 08:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>背景删除微调个人资料图片</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khkmjo/background_removal_fine_tuned_for_profile_pictures/</link>
-      <description><![CDATA[I’ve been working on a tool called RemBack for removing backgrounds from face images (more specifically for profile pics), and I wanted to share it here. About   For face detection: It uses MTCNN to detect the面部并创建一个围绕它的边界盒  分段：我们现在微调一个sam（段的任何模型），它将该盒子作为提示为face       yli&gt;  subs subm ask up   strong     为什么面对面更好     专门用于面孔的：与 rembg 不同，它使用通用模型（U2NET）用于任何图像，Remback纯粹集中在面孔上。我们将MTCNN的面部检测与面部数据（Celebamaskhqdataset）微调的SAM模型相结合。从技术上讲，这应该使特定于面部的细节变得更加准确（你们可以看下面的图像）  超越检测到： mtcnn 仅仅检测到面孔 - 它不会删除背景。重新段并删除背景。  微调精度：SAM模型用盒子提示，正/负点以及BCE，BCE，骰子和边界损失以及锐化边缘精确度的混合物进行微调 - 像REMBG（如REMBG）一样，诸如REMBG（如REMBG）不适合for for for for for for for for for for for for for for。   remback -image_path/path/path/to/input.jpg-----------------path/to/to/to/output.jpg-checkpoint/path/path/path/path/checkpoint.pth    将自动下载。   要求   python 3.9-3.11  比较在下面的github链接中。     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1khkmjo/background_removal_fine_fine_fine_fine_fine_for_for_for_for_for_profile_pictures/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khkmjo/background_removal_fine_tuned_for_profile_pictures/</guid>
-      <pubDate>Thu, 08 May 2025 07:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索-SDK：任何Web-Search API的打字稿接口</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khkjze/searchsdk_one_typescript_interface_for_any/</link>
-      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  我被卡住了，试图将不同的Web搜索API实现到我的Web应用程序中，因此我使这个库变得容易。希望您也能找到它有用：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/colustedbutternut     link&gt; [link]&gt; [link]   [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khkjze/searchsdk_one_typescript_interface_for_any/</guid>
-      <pubDate>Thu, 08 May 2025 07:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可能替代“ Redear的字体重命名器”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khhfxc/looking_for_possible_alternative_to_redears_font/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/davyper     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khhfxc/looking_for_possible_alternative_to_redears_font/</guid>
-      <pubDate>Thu, 08 May 2025 04:21:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何分配捐款（如果捐款）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khbiei/how_do_you_split_your_donations_if_you_donate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您有许多您真正喜欢的应用程序，并且他们依靠捐款来捐款，以供收入的很大一部分，您如何在预算受到限制时选择捐赠的捐款？    &lt;！ -  sc_on--&gt;＆＃32＆＃32;提交由＆＃32; /u/en344     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1khbiei/how_do_do_you_split_your_your_your_donations_if_you_donate/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khbiei/how_do_you_split_your_donations_if_you_donate/</guid>
-      <pubDate>Wed, 07 May 2025 23:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>国防部CIO宣布开源战争</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kh99kn/dod_cio_declares_war_on_open_source/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  &#39;rarrington也指出，开源软件的使用;由于缺乏对软件代码的起源和安全性的可见性，特别是令人不安的。“  作为国际网络系统上的Unix Sys管理员，我维护和编译了开源代码。尽管我不是开发人员，但我从来没有对开源感到紧张，因为我可以阅读。我什至可以用阿拉伯数字处理ASCII表！ （⌐■_■）。编写代码在世界范围内都没关系。如果它清晰可见，则可以阅读，理解和编译。 丢失了多少知识，因为不再认为开源代码被认为是安全的？如果我们训练它们阅读，也许AI系统可以审查代码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phflupp      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kh99kn/dod_cio_declares_war_on_open_source/</guid>
-      <pubDate>Wed, 07 May 2025 21:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的爆头发电机</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kh5slk/free_headshot_generator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都知道。 Fulls应用不仅是一张图片，然后是$$$。使用我们自己的钥匙和模型。  谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mrtcarson      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kh5slk/free_headshot_generator/</guid>
-      <pubDate>Wed, 07 May 2025 19:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQLITEQ：轻量级SQLITE队列适配器供电VARMQ</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kh2d5y/sqliteq_the_lightweight_sqlite_queue_adapter/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/extension_layer1825     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kh2d5y/sqliteq_the_lightweight_sqlite_queue_adapter/</guid>
-      <pubDate>Wed, 07 May 2025 16:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到行业赞助商？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kh27rx/how_to_find_industry_sponsors/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我是一个相当成功的开源项目的维护者。我们已经启用了GitHub赞助商一段时间了，现在能够为运行该项目所需的基础架构提供资金。我们的赞助商很棒！ 话虽如此，我们希望能够做更多的事情，购买硬件，参加会议，甚至雇用开发人员。 为了做到这一点，我不认为定期的赞助能够解决项目的范围。    exporters of docordition toe exportation indoy neturn exportation in of indy of行业企业范围的人都在努力。简而言之，发起人将使用我们的东西并关心它的维护，固定和扩展。 到目前为止，我们的答案为零。 我不确定我们是否有正确的建议，您是否可以在此处阅读我们的沟通方式，如果您可以在这里阅读我们的沟通，如果您想要： https://f3d.app/doc/doc/doc/sponsor.html#industry-ponsor.html#industry-sponsors 提交由＆＃32; /u/u/glowondub     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kh27rx/how_to_find_industry_sponsors/</guid>
-      <pubDate>Wed, 07 May 2025 16:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>殖民应用程序 - 新的开源平台，用于查找和列出殖民地空间</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kh27bj/coliving_app_new_opensource_platform_for_finding/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  大家好， 我只是开放式的coliving应用程序 - 一个免费的，可以自由的，可以找到的，                          并旨在保持核心平台自由和以社区为导向。  源代码： https：//github.com/github.com/colivingapp/coliving-com/coliving-com/coliving-papp/coliving-app-coliving-app-live          https://coliving.app   我很想听听您的想法！随意叉，贡献或建议改进。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/giekaton      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kh27bj/coliving_app_new_opensource_platform_for_finding/</guid>
-      <pubDate>Wed, 07 May 2025 16:48:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pytorch Foundation欢迎VLLM和DeepSpeed作为托管项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kh0wsl/pytorch_foundation_welcomes_vllm_and_deepspeed_as/</link>
-      <description><![CDATA[       &lt;！&lt;！ -  sc_off-&gt;   Pytorch基金会希望成为所有人的住所href =“ https://bsky.app/hashtag/ai”&gt; #ai 软件程序。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/crankybear      ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kh0wsl/pytorch_foundation_welcomes_vllm_and_deepspeed_as/</guid>
-      <pubDate>Wed, 07 May 2025 15:57:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
