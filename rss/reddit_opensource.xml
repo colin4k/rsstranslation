@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 11 May 2025 06:02:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 09:02:12 GMT</lastBuildDate>
+    <item>
+      <title>Tamagotchi风格的ESP32项目：完全开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kjvv3w/tamagotchistyle_esp32_project_fully_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始使用ESP32构建tamagotchi启发的项目。这个想法很简单：一个生活在本地Web服务器上的虚拟宠物，您可以在其中与之交互，检查它的心情并观察它的发展。 一切都是开源的，我的目标是创建一个有趣而有意义的小伴侣，以鼓励互动和本地第一技术。我正在探索诸如行为随着时间的变化，模块化组件的变化，甚至是集成了小型ML模型（在ESP32的限制内）的可能性。 我分享这一点，希望与其他喜欢建立具有嬉戏，私密意识的开放性技术的人建立联系。无论您是喜欢嵌入式系统，重新启发的想法还是创意UI/UX，我都希望反馈或想法。  /u/u/cecucatedai​​kon3794     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kjvv3w/tamagotchistyle_esp32_project_fully_open_source/</guid>
+      <pubDate>Sun, 11 May 2025 08:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找FOSS跨平台音乐播放器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kjur0e/looking_for_a_foss_cross_platform_music_player/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个非常可自定义的跨平台（主要是Windows和MacOS）音乐播放器。我一直在Windows上使用MusicBee，并且真的很想就类似的内容提出建议。  我尝试过Foobar2000，但我想探索更多选择。我会感谢我能为此获得的所有帮助：）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/an_existential_owl      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kjur0e/looking_for_a_foss_cross_platform_music_player/</guid>
+      <pubDate>Sun, 11 May 2025 06:46:35 GMT</pubDate>
+    </item>
     <item>
       <title>📚为GitHub项目文档提供免费帮助 - 让我为您写！</title>
       <link>https://www.reddit.com/r/opensource/comments/1kjsd8t/offering_free_help_with_github_project/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我仍然使用我几十年来的幽灵副本，但认为是时候与时代在一起了。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1KI2676/good_hard_hard_drive_imaging_software/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ki2676/good_hard_drive_imaging_software/</guid>
       <pubDate>Thu, 08 May 2025 21:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GHOSTHUB：您可以在几秒钟内运行并共享开源媒体服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khxiku/ghosthub_open_source_media_server_you_can_run_and/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  否，没有帐户，没有设置。只需像Tiktok一样运行它并在文件夹中滑动即可。与Python，Docker或Portable Windows Exe一起使用。它支持实时同步，滑动导航，隧道共享（Pinggy或Cloudflare），聊天和移动优先设计。 刚刚删除了1.4版。它添加了滚轮导航，会话密码支持以及用于隧道和设置的配置UI。 Sync尚未受到密码的保护，但接下来是Sync。 这是MIT许可的，我仍在每周进行改进。反馈和贡献者欢迎。 演示： https://ghosthub.net      &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bleedingxiko      ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khxiku/ghosthub_open_source_media_server_you_can_run_and/</guid>
-      <pubDate>Thu, 08 May 2025 18:32:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>NEDC现在也可用于iOS和MACOS的加密和用户管理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1khu6yr/sentc_the_encryption_and_user_management_now/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/joern281     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1khu6yr/sentc_the_encryption_and_user_management_now/</guid>
-      <pubDate>Thu, 08 May 2025 16:19:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
