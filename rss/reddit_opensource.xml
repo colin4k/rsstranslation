@@ -4,7 +4,42 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 12 May 2025 09:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 12:05:02 GMT</lastBuildDate>
+    <item>
+      <title>由Python和Gemini AI提供动力的开源WhatsApp聊天机器人 - 每月只需6美元</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkpubz/open_source_whatsapp_chatbot_powered_by_python/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我最近使用google的Gemini AI和Wasenderapi开发了开源的WhatsApp Chatbot。 The goal was to create an affordable yet powerful chatbot solution. Key Features:  AI-Powered Responses: Utilizes Google&#39;s Gemini AI to generate intelligent and context-aware replies. WhatsApp Integration: Handles sending and receiving messages through WaSenderAPI.  成本效益：使用Wasenderapi以每月6美元的价格运行，Gemini的免费级别提供1,500个请求/月。    开源：在Github上完全可用。 href =“ http://github.com/yonkosam/whatsapp-python-chatbot”&gt; github.com/yonkosam/yonkosam/whatsapp-python-chatbot   我期待您的反馈和建议！提交由＆＃32; /u/u/samla123li     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkpubz/open_source_whatsapp_chatbot_powered_by_python/</guid>
+      <pubDate>Mon, 12 May 2025 11:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我打开了用Python编写的终端端模因播放器。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkpmm8/i_opensourced_a_terminalside_meme_player_written/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在认真寻找可以看的人。 🎉在您的终端中玩nyan cat  -  python ascii动画项目       github ： Billloic/nyan-cat-cat-in-terminal   🐱音乐使用ffplay。 The video is processed frame by frame using OpenCV, and the terminal updates at full speed to display it like a retro media player. 💡 Why did I make this? The original Nyan Cat meme was created by prguitarman with music by daniwell (&quot;Nyanyanyanyanyanyanya!&quot;), and it became a symbol of joy and resilience after the 2011 Tohoku地震。 上个月标志着其14周年纪念日，作为长期的嗓音/utau的迷，我想通过建立python的乐趣和怀旧的东西来庆祝。 &gt;   🧑‍💻终端黑客或ASCII Art  复古互联网文化和模因的粉丝 任何想在其终端工具中添加轻松的复活节式    &gt;  🔍  这个版本是：    完全写在python  中，使其易于理解或扩展 使用 opencv 现代框架处理    🎨可能使用  在您的CLI工具中将其添加为隐藏的复活节式  在启动脚本 时将其用作有趣的介绍，以便将其运行以恢复MEME历史              &lt;！提交由＆＃32; /u/u/unartial_garbage8557     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkpmm8/i_opensourced_a_terminalside_meme_player_written/</guid>
+      <pubDate>Mon, 12 May 2025 10:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布Keyed-Emaphore的第一个版本：基于密钥的并发限制的GO库！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkpm1a/announcing_the_first_release_of_keyedsemaphore_a/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/tibfromparis     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkpm1a/announcing_the_first_release_of_keyedsemaphore_a/</guid>
+      <pubDate>Mon, 12 May 2025 10:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何支持和捐赠给开源开发人员？ （非常感谢大家！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkpjwo/how_can_i_support_and_donate_to_opensource/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我只是想花点时间对所有开源开发人员表示深刻的赞赏。 Over the years, I&#39;ve come to rely on so many amazing tools, libraries, and applications—many of which are completely free and maintained by people who are generously giving their time, skill, and energy to make technology better for everyone. Whether it&#39;s a command-line tool that saves me hours, a beautiful UI library that simplifies development, or a rock-solid backend framework that powers a personal project, I know none of this would be possible without the incredible open-source 社区。我什至无法想象如果他们不存在的话，我的生活会是什么样。我知道有些项目在Github上具有捐赠链接或赞助商，但并不总是清楚如何以有意义的方式在财务上贡献。因此，我想问：  在财务上支持开源开发人员的最佳方法是什么？ 是否有公平平台或资金可以公平地分配支持？我是否应该专注于我使用的特定维护人员或项目？严重地。您的工作比您可能意识到的更多。 期待听到其他人如何接近这一点，也许可以得到一些具体的帮助。 再次感谢。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unartial_garbage8557     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkpjwo/how_can_i_support_and_donate_to_opensource/</guid>
+      <pubDate>Mon, 12 May 2025 10:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>引入无检测的YouTube广告块Zen🛡️</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkp4d6/introducing_detectionfree_youtube_adblocking_in/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/anfragment     [link]        [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkp4d6/introducing_detectionfree_youtube_adblocking_in/</guid>
+      <pubDate>Mon, 12 May 2025 10:27:55 GMT</pubDate>
+    </item>
     <item>
       <title>Rclone Manager v0.1.0 Beta发布！ 🎉</title>
       <link>https://www.reddit.com/r/opensource/comments/1kknlv6/rclone_manager_v010_beta_released/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[        &lt;！ -  sc_off-&gt;  如果您住在终端中，您知道痛苦。 FCAT是我的解决方案：结合目录智能（Zoxide），模糊发现（FZF）和漂亮打印（BAT）的外壳功能，使查看文件变得轻而易举。欢迎反馈！ 有关更多详细信息，请查看我的github repo：   https：//github.com/samunders.com/samundersingh12/samundersingh12/fcat.git  /u/u/u/nisternal-pagal      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kk462n/fcat_cat_cat_cat_cat_on_protein_with_with_fzf_zoxide_smarts/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kk462n/fcat_cat_on_protein_with_fzf_zoxide_smarts/</guid>
       <pubDate>Sun, 11 May 2025 15:52:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>MIDA：对于那些勇敢的灵魂仍在2025年仍在写C</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kk4244/mida_for_those_brave_souls_still_writing_c_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于那些仍在记忆安全的语言时代（我和你在一起）的人，我想分享一个我制作的小图书馆，这些库有助于C解决一个最令人讨厌的怪癖之一 - 完全缺乏阵列元数据。 Augmentation）是一个仅小型标头的C库，它将元数据附加到您的阵列和结构上，因此您实际上可以知道它们的大小而无需手动跟踪此信息。我知道革命性的概念。 为什么有人会这样做？ ，因为有时您卡住了维护旧版C代码。或在嵌入式系统上工作。或者，您只是喜欢偶尔的Segfault，以使您保持谦虚。 Whatever your reasons for using C in 2024, MIDA tries to make one specific aspect less painful. If you&#39;ve ever written code like this: c void process_data(int *data, size_t data_length) { // pray that the caller remembered the right length for (size_t i = 0; i &lt; data_length; i++) { // do stuff } }  并希望您可以做： c void process_data（int *data）{size_t data_length = mida_length（data）; // ✨ magic ✨ for (size_t i = 0; i &lt; data_length; i++) { // do stuff without 27 redundant size parameters } }  Then this might be for you! How it works In true C fashion, it&#39;s all just pointer arithmetic and memory trickery. MIDA attaches a small metadata header before your actual data, so your pointers work exactly like normal C arrays: ```c // For the brave C99 users int *numbers = mida_array(int, { 1, 2, 3, 4, 5 }); // For C89 holdouts (respect for maintaining 35-year-old code) int data[] = {1, 2, 3、4、5}; MIDA_BYTEMAP（bytemap，sizeof（data））; int *包装= mida_wrap（数据，bytemap）; ```` 但是，等等，还有更多！ 您甚至可以添加自己的自定义元数据字段： ``c // c //定义自己的元数据结构packet_metadata {uint16_t packet_id; //您自己的字段uint32_t crc; uint8_t标志; MIDA_EXT_METADATA; //标准元数据字段是最后一个};   //现在每个阵列都可以随身携带您的自定义信息uint8_t *packet = mida_ext_malloc（struct packet_metadata，sizeof（uint8_t），128），128），     // packet_metadata，数据包）; meta-＆gt; packet_id = 0x1234; meta-＆gt; flags = flag_urgent | flag_encrypted; ```` &#39;但是我在一个嵌入式平台上，不能使用malloc！＆quot&#39; 没问题！ MIDA可与堆栈分配的内存（或任何预先分配的缓冲区）： ```````c //带有元数据Uint8_t uint8_t Raw_buffer [64]; MIDA_BYTEMAP（bytemap，sizeof（raw_buffer））; uint8_t *buffer = mida_wrap（raw_buffer，bytemap）;    //现在您可以假装像C具有适当的阵列printf（“缓冲长度：％zu” zu \ n＆quort&#39;＆quort&#39;＆quid&#39;mida_length（buffer（buffer））; ```` 这是个玩笑吗？ 仅部分！虽然我认识到C更优雅地解决这些问题的现代替代方案，但有时您只需要与C一起工作。   整个事情都在单个标头文件（〜600行）中，已获得MIT许可，并且可用： https://github.com/lcsmuller/mida     ，如果像我一样，您会发现自己喃喃自语“我希望C知道它的阵列有多大，第1000次，也许尝试一下。 ，或者您知道，使用Rust/Go/任何现代语言，并从内存安全的高度嘲笑我们C程序员。那也很好。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/lucasmull     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kk4244/mida_for_those_brave_souls_still_writing_c_in/</guid>
-      <pubDate>Sun, 11 May 2025 15:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了顾问 - 由AI驱动的学生辅导员您可以在自己的机器上私下运行！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kk3pp7/i_built_counseltron_an_aipowered_student/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我最近完成了一个名为 Counseltron 的项目 - 一位专门为学生设计的轻便，本地第一的AI辅导员。它的目的是帮助学术压力，情绪激动，或者只是在您希望某人背靠背的时候。  是什么： 是由 phi语言模型驱动的虚拟辅导员（通过  为什么我建造它： 作为学生，我知道事情会变得多么艰难，与真正的顾问交谈并不总是那么容易，负担得起或立即。咨询顾问本来应该成为同伴 - 无判断，随时可用，并且完全私密。   功能：    明智，善解人意的对话，由ai  启动由AI  没有数据     li&gt; li&gt; li&gt; li ful/li ful/li  li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;   尝试/star it  这是回购：👉想法！也可以为协作开放，如果有人想通过日记，情绪跟踪或语音功能扩展它。 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rylenletfthechat      [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kk3pp7/i_built_counseltron_an_aipowered_student/</guid>
-      <pubDate>Sun, 11 May 2025 15:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应？朝约如何？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kk2tqt/reacttoastify_how_about_untoastify/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了一个更简单，更轻，更快的react-tostify版本。您可以使用＆quot＆quot＆quort＆quot＆quot＆quot＆quot selport install distall untotatify＆quot＆quort＆quot＆quot＆quot; href =“ https://github.com/clouds440/untoastify”&gt; utoastify    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kk2tqt/reacttoastify_how_how_about_untoastify/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kk2tqt/reacttoastify_how_about_untoastify/</guid>
-      <pubDate>Sun, 11 May 2025 14:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>AirStation：自托住的互联网广播电台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kk23cy/airstation_selfhosted_internet_radio_station/</link>
-      <description><![CDATA[      Hello everyone ✌️ I’d like to share my new open-source project that makes it quick and easy to deploy your own Internet radio station. The application features a clean and intuitive interface with only the essential functionality.它包括一个控制面板，您可以在其中上传轨道并为您的车站创建播放队列。也有一个内置的播放器，可供听众进行调整并查看播放历史记录。一切都包装在紧凑的Docker容器中，以进行快速和简单的部署。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/yurace       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kk23cy/airstation_selfhosted_internet_radio_station/</guid>
-      <pubDate>Sun, 11 May 2025 14:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>在您看来，有什么很棒的读数文件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kk1wd8/what_in_your_opinion_makes_for_a_great_readme_file/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正式正处于开放式项目的最后阶段 - 编写readme文件。 我会喜欢社区的输入 - 您认为什么会造成一个很棒的读数文件？您首先要寻找什么？有什么需要的？ 我注意到流行套餐之间有一些很大的差异。似乎并没有清楚的格式。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/yantab     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kk1wd8/what_in_in_your_opinion_makes_makes_for_a_great_great_great_readme_file/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kk1wd8/what_in_your_opinion_makes_for_a_great_readme_file/</guid>
-      <pubDate>Sun, 11 May 2025 14:10:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

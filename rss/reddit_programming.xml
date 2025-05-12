@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 12 May 2025 09:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 12:04:27 GMT</lastBuildDate>
     <item>
-      <title>github-codexu/note-gen：一个跨平台标记记录提取应用程序，专门用于使用AI桥接记录和写作，将零散的知识组织成可读的音符。</title>
-      <link>https://www.reddit.com/r/programming/comments/1kknhpb/github_codexunotegen_a_crossplatform_markdown/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/guadeok5229       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kknhpb/github_codexunotegen_a_crossplatform_markdown/</guid>
-      <pubDate>Mon, 12 May 2025 08:34:51 GMT</pubDate>
+      <title>实现Graylog的根本简单替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkqnx9/implementing_a_radically_simple_alternative_to/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/rflurker       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkqnx9/implementing_a_radically_simple_alternative_to/</guid>
+      <pubDate>Mon, 12 May 2025 11:58:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GTA 6完全在X86组件中手工编码？</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkqj7d/gta_6_coded_entirely_in_x86_assembly_by_hand/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您可能听说过即将推出的视频游戏《侠盗猎车手6》。有传言说，开发人员正在手工编码它，该线路是线条，for Line for Line。这样，他们就可以从控制台中获得最大值。这也是为什么他们要花13年才能完成的原因。这有多大的可能性？有可能吗？我本人不是程序员。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stdlib_h     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkqj7d/gta_6_coded_entirely_in_x86_assembly_by_hand/</guid>
+      <pubDate>Mon, 12 May 2025 11:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>平台工程：演变还是重塑DevOps？</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkqbc2/platform_engineering_evolution_or_just_a/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/agbell      [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkqbc2/platform_engineering_evolution_or_just_a/</guid>
+      <pubDate>Mon, 12 May 2025 11:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astronoby v0.7.0</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkpdaj/astronoby_v070/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/rhannequin      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkpdaj/astronoby_v070/</guid>
+      <pubDate>Mon, 12 May 2025 10:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tanstack查询RFC：统一的命令查询方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkobvz/tanstack_query_rfc_unified_imperative_query/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/um commination-plum-5970       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkobvz/tanstack_query_rfc_unified_imperative_query/</guid>
+      <pubDate>Mon, 12 May 2025 09:35:42 GMT</pubDate>
     </item>
     <item>
       <title>光标如何索引代码库（使用默克尔树）</title>
@@ -85,7 +113,7 @@
     <item>
       <title>如何轻松测量python脚本的每行需要多长时间运行？</title>
       <link>https://www.reddit.com/r/programming/comments/1kk9u31/how_to_easily_measure_how_long_each_line_of_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我所有我已经建立了这个项目 lblprof 能够非常迅速地概述我的python python python pyto pyem pyem pyem py     pep669     我的项目做什么？ 目标是能够很快地知道在我的代码执行过程中，在我的代码执行过程中，每一个级别的时间都在            precip.    precip.  i，真的很在乎很容易花了100毫秒。我构建了这个项目，以替换我正在滥用的旧良好 print（start -time.time（））。 此软件包配置文件并在终端中显示一棵树（显示每行的持续时间） href =“ https://raw.githubusercontent.com/le-codeur-rapide/lblprof/refs/heads/main/main/docs/terminalui_showcase.png”&gt; terminalui_showcase.png（1210×523）他们的代码的执行时间是分发的。 （最长的行是什么？并发有效吗？以下哪些导入需要太多时间？...） 安装    pip install lblprof    此软件包的唯一依赖性是pydantic的，其余是标准库。 functions:  start_tracing(): Start the tracing of the code. stop_tracing(): Stop the tracing of the code, build the tree and compute stats show_interactive_tree(min_time_s: float = 0.1): show the终端中的交互式持续时间树。   show_tree（）：将树打印到控制台。             来自lblprof import intim stop_tracing（）show_tree（）＃＃将树打印到控制台show_interactive_tree（）＃在终端中显示互动树   交互式终端基于库中  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usemopherwrong6851       [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我所有我已经建立了这个项目 lblprof 能够非常迅速地概述我的python python python pyto pyem pyem pyem py     pep669     我的项目做什么？ 目标是能够很快地知道在我的代码执行过程中，在我的代码执行过程中，每一个级别的时间都在            precip.    precip.  i，真的很在乎很容易花了100毫秒。我构建了这个项目以替换我正在滥用的旧良好 print（start -time.time（））。 此软件包配置文件并在终端中显示一棵树（显示每行的持续时间） href =“ https://raw.githubusercontent.com/le-codeur-rapide/lblprof/refs/heads/main/main/docs/terminalui_showcase.png”&gt; terminalui_showcase.png（1210×523）他们的代码的执行时间是分发的。 （最长的行是什么？并发有效吗？以下哪些导入需要太多时间？...） 安装    pip install lblprof    此软件包的唯一依赖性是pydantic的，其余的是标准库。 functions:  start_tracing(): Start the tracing of the code. stop_tracing(): Stop the tracing of the code, build the tree and compute stats show_interactive_tree(min_time_s: float = 0.1): show the终端中的交互式持续时间树。   show_tree（）：将树打印到控制台。     ＆＃8203;        来自lblprof import intim stop_tracing（）show_tree（）＃＃将树打印到控制台show_interactive_tree（）＃在终端中显示互动树   交互式终端基于库中  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usemopherwrong6851       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kk9u31/how_to_easily_measure_how_long_each_line_of_a/</guid>
       <pubDate>Sun, 11 May 2025 19:58:55 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kk5wap/microservices_on_unison_cloud_statically_typed/</guid>
       <pubDate>Sun, 11 May 2025 17:08:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程神话我们迫切需要退休</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk5j0m/programming_myths_we_desperately_need_to_retire/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/waozen      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk5j0m/programming_myths_we_desperately_need_to_retire/</guid>
-      <pubDate>Sun, 11 May 2025 16:52:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>由python启发的Rust API，由Serde提供支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk5bz4/a_rust_api_inspired_by_python_powered_by_serde/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/foxintheredbox      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk5bz4/a_rust_api_inspired_by_python_powered_by_serde/</guid>
-      <pubDate>Sun, 11 May 2025 16:43:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>MIDA：对于那些勇敢的灵魂仍在2025年仍在写C</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk47gl/mida_for_those_brave_souls_still_writing_c_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于那些仍在记忆安全的语言时代（我和你在一起）的人，我想分享一个我制作的小图书馆，这些库有助于C解决一个最令人讨厌的怪癖之一 - 完全缺乏阵列元数据。 Augmentation）是一个仅小型标头的C库，它将元数据附加到您的阵列和结构上，因此您实际上可以知道它们的大小而无需手动跟踪此信息。我知道革命性的概念。 为什么有人会这样做？ ，因为有时您卡住了维护旧版C代码。或在嵌入式系统上工作。或者，您只是喜欢偶尔的Segfault，以使您保持谦虚。 Whatever your reasons for using C in 2024, MIDA tries to make one specific aspect less painful. If you&#39;ve ever written code like this: c void process_data(int *data, size_t data_length) { // pray that the caller remembered the right length for (size_t i = 0; i &lt; data_length; i++) { // do stuff } }  并希望您可以做： c void process_data（int *data）{size_t data_length = mida_length（data）; // ✨ magic ✨ for (size_t i = 0; i &lt; data_length; i++) { // do stuff without 27 redundant size parameters } }  Then this might be for you! How it works In true C fashion, it&#39;s all just pointer arithmetic and memory trickery. MIDA attaches a small metadata header before your actual data, so your pointers work exactly like normal C arrays: ```c // For the brave C99 users int *numbers = mida_array(int, { 1, 2, 3, 4, 5 }); // For C89 holdouts (respect for maintaining 35-year-old code) int data[] = {1, 2, 3、4、5}; MIDA_BYTEMAP（bytemap，sizeof（data））; int *包装= mida_wrap（数据，bytemap）; ```` 但是，等等，还有更多！ 您甚至可以添加自己的自定义元数据字段： ``c // c //定义自己的元数据结构packet_metadata {uint16_t packet_id; //您自己的字段uint32_t crc; uint8_t标志; MIDA_EXT_METADATA; //标准元数据字段是最后一个};   //现在每个阵列都可以随身携带您的自定义信息uint8_t *packet = mida_ext_malloc（struct packet_metadata，sizeof（uint8_t），128），128），     // packet_metadata，数据包）; meta-＆gt; packet_id = 0x1234; meta-＆gt; flags = flag_urgent | flag_encrypted; ```` &#39;但是我在一个嵌入式平台上，不能使用malloc！＆quot&#39; 没问题！ MIDA可与堆栈分配的内存（或任何预先分配的缓冲区）： ```````c //带有元数据Uint8_t uint8_t Raw_buffer [64]; MIDA_BYTEMAP（bytemap，sizeof（raw_buffer））; uint8_t *buffer = mida_wrap（raw_buffer，bytemap）;    //现在您可以假装像C具有适当的阵列printf（“缓冲长度：％zu” zu \ n＆quort&#39;＆quort&#39;＆quid&#39;mida_length（buffer（buffer））; ```` 这是个玩笑吗？ 仅部分！虽然我认识到C更优雅地解决这些问题的现代替代方案，但有时您只需要与C一起工作。   整个事情都在单个标头文件（〜600行）中，已获得MIT许可，并且可用： https://github.com/lcsmuller/mida     ，如果像我一样，您会发现自己喃喃自语“我希望C知道它的阵列有多大，第1000次，也许尝试一下。 ，或者您知道，使用Rust/Go/任何现代语言，并从内存安全的高度嘲笑我们C程序员。那也很好。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lucasmull       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk47gl/mida_for_those_brave_souls_still_writing_c_in/</guid>
-      <pubDate>Sun, 11 May 2025 15:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>赢得克鲁德</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk44bo/winning_cluedo/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/knaapje      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk44bo/winning_cluedo/</guid>
-      <pubDate>Sun, 11 May 2025 15:50:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
