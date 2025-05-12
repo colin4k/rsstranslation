@@ -4,7 +4,84 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 12 May 2025 12:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 15:02:49 GMT</lastBuildDate>
+    <item>
+      <title>DDD：AI应用程序一代中缺少的作品？</title>
+      <link>https://www.reddit.com/r/programming/comments/1kku7zb/ddd_the_missing_piece_in_ai_app_generation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近一直在尝试使用Bolt and lodable.ai等工具。 A16Z文章（ https://a16z.com/ai-web-app-builders/  - 对于简单的应用程序，我同意！ ，但我已经达到了精确的限制，文章描述了：“与了解基础知识但可以很容易地陷入“毁灭性循环”的初级开发人员相当由于以下问题：   - 找到合适的调试代码是“推理和搜索问题”    - 代码具有深度的依赖关系，“系统的一部分中的变化可能会变得不可预测地“  我的经验”。这些工具非常适合快速原型，但是在实现真实的业务逻辑时会崩溃 - 尤其是对于规则复杂且相互联系的企业应用程序。 这使我考虑了域驱动的设计（DDD）作为可能的解决方案。如果我们使用AI来帮助建模业务领域，然后从该模型中生成一个应用程序？ 我们一直在构建一个名为Swoft的工具，该应用程序使用该方法，该怎么办，该怎么办。它使用AI来帮助定义您的域模型（实体，价值对象，聚合），然后生成一个遵循DDD/CQRS模式的完整应用程序。   早期结果即使对我们来说也令人惊讶 - 技术债务比率仅为0.2％（与行业平均水平＆GT相比; 10％; 10％），以及降低了95％的市场。我们已经为有兴趣尝试这种方法的开发人员打开了一个候补名单（我没想到的是3000多种注册）。 关键区别：而不是生成原始代码，而是为实施清洁体系结构的框架生成一种配置。 我很好奇，如果其他人遇到了与这些工具相似的工具，则在尝试构建复杂的应用程序时，我会遇到类似的限制？或者，如果有人尝试将DDD原理应用于AI生成的代码？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usimal_working6841      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kku7zb/ddd_the_missing_piece_in_ai_app_generation/</guid>
+      <pubDate>Mon, 12 May 2025 14:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么春天比节点好8倍（不，这不是辩论）</title>
+      <link>https://www.reddit.com/r/programming/comments/1kktzf7/why_spring_is_8x_better_than_node_and_no_thats/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  春季要比开发人员体验和功能中的nodejs好得多！ 在媒体上查看文章： https://medium.com/p/9938d2e238e4      &lt;！ -  sc_on- sc_on-提交由＆＃32; /u/u/doubleface2121      &lt;a href =“ https://www.reddit.com/r/programming/comments/1kktzf7/why_spring_is_8x_8x_better_than_than_node_node_and_no_thats/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kktzf7/why_spring_is_8x_better_than_node_and_no_thats/</guid>
+      <pubDate>Mon, 12 May 2025 14:31:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>R中的R：宣布我们的WebAssembly发行</title>
+      <link>https://www.reddit.com/r/programming/comments/1kktr8t/r_in_the_browser_announcing_our_webassembly/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://blog.jupyter.org/r-in-the-the-browser-announcing-ir-webassembly-distribution-9450E9539ED5”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kktr8t/r_in_the_browser_announcing_our_webassembly/</guid>
+      <pubDate>Mon, 12 May 2025 14:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕斯卡（Pascal）编程粉丝第四次出现了新的拉撒路</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkt7wd/a_new_lazarus_arises_for_the_fourth_time_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/waozen        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkt7wd/a_new_lazarus_arises_for_the_fourth_time_for/</guid>
+      <pubDate>Mon, 12 May 2025 13:59:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>USERTOUR v0.1.10  - 开源用户入门平台现在支持REST API</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkt0fb/usertour_v0110_opensource_user_onboarding/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/Crafty_Impression_37   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkt0fb/usertour_v0110_opensource_user_onboarding/</guid>
+      <pubDate>Mon, 12 May 2025 13:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub暴露了什么：名称，位置等等</title>
+      <link>https://www.reddit.com/r/programming/comments/1kksew2/what_github_exposes_about_you_name_location_and/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/persianmg      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kksew2/what_github_exposes_about_you_name_location_and/</guid>
+      <pubDate>Mon, 12 May 2025 13:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解带有真实示例的node.js流</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkrzu4/understanding_nodejs_streams_with_a_real_example/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/myssiriouseye8494     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkrzu4/understanding_nodejs_streams_with_a_real_example/</guid>
+      <pubDate>Mon, 12 May 2025 13:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库中的1个图和204个单词</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkrsyl/database_sharding_in_1_diagram_and_204_words/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/stmoreau      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkrsyl/database_sharding_in_1_diagram_and_204_words/</guid>
+      <pubDate>Mon, 12 May 2025 12:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何通过反向工程WSC毁了假期</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkrqos/how_i_ruined_my_vacation_by_reverse_engineering/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nxgz      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkrqos/how_i_ruined_my_vacation_by_reverse_engineering/</guid>
+      <pubDate>Mon, 12 May 2025 12:52:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>集中化HTTP错误处理</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkr9mb/centralize_http_error_handling_in_go/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/softwarecitadel      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkr9mb/centralize_http_error_handling_in_go/</guid>
+      <pubDate>Mon, 12 May 2025 12:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>16年的CloudWatch和........邻里发生了变化吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1kkqtmb/16_years_of_cloudwatch_and_has_the_neighbourhood/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/elizobserves     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kkqtmb/16_years_of_cloudwatch_and_has_the_neighbourhood/</guid>
+      <pubDate>Mon, 12 May 2025 12:05:52 GMT</pubDate>
+    </item>
     <item>
       <title>实现Graylog的根本简单替代方案</title>
       <link>https://www.reddit.com/r/programming/comments/1kkqnx9/implementing_a_radically_simple_alternative_to/</link>
@@ -50,7 +127,7 @@
     <item>
       <title>为什么构建软件框架</title>
       <link>https://www.reddit.com/r/programming/comments/1kkj5vb/why_build_software_frameworks/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/N1ghtCod3r   [link] ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/n1ghtcod3r      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kkj5vb/why_build_software_frameworks/</guid>
       <pubDate>Mon, 12 May 2025 03:47:02 GMT</pubDate>
     </item>
@@ -67,83 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  不是我的。我一直想对此做些事情，但是它从未与个人或专业匹配。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/esdraelon      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kkhxcp/libcello_a_cool_project_to_modernize_c/</guid>
       <pubDate>Mon, 12 May 2025 02:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust Devs认为我们是绝望的。让我们证明它们是错误的（使用C ++内存泄漏）！</title>
-      <link>https://www.reddit.com/r/programming/comments/1kkhgtq/rust_devs_think_were_hopeless_lets_prove_them/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.babaei.net/blog/rust-devs-think-we-we-are-are-hopeless-rebless-lesles-prove-them-withem-with-with-with-with-with-with-cpp-memory-leaks/#a-_crtdump-mememoryleaks-dump-mememoryleaks-1-  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kkhgtq/rust_devs_think_were_hopeless_lets_prove_them/</guid>
-      <pubDate>Mon, 12 May 2025 02:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>第40天：您在JavaScript中使用`json.stringify（）吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1kkha8d/day_40_are_you_underusing_jsonstringify_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/myssiriouseye8494     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kkha8d/day_40_are_you_underusing_jsonstringify_in/</guid>
-      <pubDate>Mon, 12 May 2025 02:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>S4F3-C0D3S：恢复代码管理器</title>
-      <link>https://www.reddit.com/r/programming/comments/1kkfy14/s4f3c0d3s_recovery_codes_manager/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     s4f3-c0d3s 是一个安全的，加密的，离线的，无云的，免费的，免费的，开放式的恢复代码（2FA）管理器，没有订阅，没有数据收集，没有数据收集，交叉平台，和Port-Platform和Port-P&gt;       s4f3-c0d3s 是源于对储存恢复代码（2FA）的真实和个人需求诞生的。很多时候，我们最终将这些敏感的信息保存在记事本，屏幕截图，照片或未受保护的文件中，这使我们的数字安全处于风险状态。  尽管密码 bite  strong&gt; strong&gt; strong&gt; strong&gt; strong&gt; strong  “不要将所有鸡蛋都放在一个篮子里； 提醒我们，将不同类型的敏感数据（例如2FA恢复代码）分开很重要。使用 S4F3-C0D3S ，您可以将此信息存储在专用的加密保险库中，从而降低了一次损害多个安全层的风险。     &lt;！ -  sc_on-&gt;＆&gt; 32;提交由＆＃32; /u/u/fajremvp      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kkfy14/s4f3c0d3s_recovery_codes_manager/</guid>
-      <pubDate>Mon, 12 May 2025 00:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>从工程师到领导角色成长时的7个常见错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1kkao8a/7_common_mistakes_when_growing_from_engineer_to_a/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gregorojstersek      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kkao8a/7_common_mistakes_when_growing_from_engineer_to_a/</guid>
-      <pubDate>Sun, 11 May 2025 20:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用AI成为出色的工程领导者</title>
-      <link>https://www.reddit.com/r/programming/comments/1kkan4l/how_to_use_ai_to_be_a_great_engineering_leader/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/u/gregorojstersek     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kkan4l/how_to_use_ai_to_be_a_great_engineering_leader/</guid>
-      <pubDate>Sun, 11 May 2025 20:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>XKCD的“值得花时间吗？”被认为有害</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk9u45/xkcds_is_it_worth_the_time_considered_harmful/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/agumonkey       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk9u45/xkcds_is_it_worth_the_time_considered_harmful/</guid>
-      <pubDate>Sun, 11 May 2025 19:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何轻松测量python脚本的每行需要多长时间运行？</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk9u31/how_to_easily_measure_how_long_each_line_of_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我所有我已经建立了这个项目 lblprof 能够非常迅速地概述我的python python python pyto pyem pyem pyem py     pep669     我的项目做什么？ 目标是能够很快地知道在我的代码执行过程中，在我的代码执行过程中，每一个级别的时间都在            precip.    precip.  i，真的很在乎很容易花了100毫秒。我构建了这个项目以替换我正在滥用的旧良好 print（start -time.time（））。 此软件包配置文件并在终端中显示一棵树（显示每行的持续时间） href =“ https://raw.githubusercontent.com/le-codeur-rapide/lblprof/refs/heads/main/main/docs/terminalui_showcase.png”&gt; terminalui_showcase.png（1210×523）他们的代码的执行时间是分发的。 （最长的行是什么？并发有效吗？以下哪些导入需要太多时间？...） 安装    pip install lblprof    此软件包的唯一依赖性是pydantic的，其余的是标准库。 functions:  start_tracing(): Start the tracing of the code. stop_tracing(): Stop the tracing of the code, build the tree and compute stats show_interactive_tree(min_time_s: float = 0.1): show the终端中的交互式持续时间树。   show_tree（）：将树打印到控制台。     ＆＃8203;        来自lblprof import intim stop_tracing（）show_tree（）＃＃将树打印到控制台show_interactive_tree（）＃在终端中显示互动树   交互式终端基于库中  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usemopherwrong6851       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk9u31/how_to_easily_measure_how_long_each_line_of_a/</guid>
-      <pubDate>Sun, 11 May 2025 19:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starguard  - 发现伪造GitHub星星，危险依赖和许可陷阱的CLI</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk9fy6/starguard_cli_that_spots_fake_github_stars_risky/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当我遇到一项跟踪 450万个假github星星的研究证实，我证实了我对一段时间的努力：noisy noisy noisy。 The issue is they’re visible, they’re persuasive, and they still shape hiring decisions, VC term sheets, and dependency choices—but they say very little about actual quality. I wrote StarGuard to put that number in perspective based on my own methodology inspired with what they did and to fold a broader supply-chain check into one command-line run. It starts with the simplest raw input: every  Starred_at  Timestamp Github将提供。它采用中位数排除测试来定位突然的爆发。对于每个尖峰，Starguard都会随机抽取其背后的帐户样本，并问：用户几岁？有追随者吗？有贡献历史吗？仍在使用默认的头像吗？由此，它计算出一个假星指数，在0（有机）和1（完全合成）之间。 ，但膨胀的恒星只是一个问题。同时，Starguard Parses依赖性表现出来或SBOMS和标志常见的风险标志：未添加版本，直接的GIT URL，loughike套件的包装名称。它还扫描许可证 -  AGPL潜入声称MIT的存储库，或其他可能会变成合规性头痛的不一致之处。 它也检查了贡献者模式。如果90％的提交来自一个几个月没有推动的人，那就标记了。它浏览了明显的代码危险信号：评估呼叫，缩小斑点，粗略的安装脚本 - 因为有时问题隐藏在明显的视线中。 所有这些都将其输入加权评分模型。最终的信任得分（0-100）一目了然地反映了回购健康，对假星行为的直接处罚，因此，一个漂亮的识别徽章无法掩盖无机的炒作。 我为此而添加了它为它带来了一个很酷的小徽章，为它带来了一个很酷的小徽章。在任何公共回购上运行以下方式以：   python starguard.py所有者/repo -format markdown    它可以没有令牌工作，但是您会尽快点击率限制。  repo is：存储库    这也是研究的存储库，并让人们表现出一些爱。        请提供任何您可以的反馈。 我主要对未来的两件事感兴趣：  当您尝试在您已经知道的存储库上，假星索引是否会感到准确？ 实际上还有哪些其他质量信号是什么其他有用的信号？打开问题比率？社区响应？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/welecomemysterious122       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk9fy6/starguard_cli_that_spots_fake_github_stars_risky/</guid>
-      <pubDate>Sun, 11 May 2025 19:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Colibri和干净的建筑 -  Swift中的声明性编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk8zph/colibri_and_clean_architecture_declarative_coding/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/vikingosegundo    href =“ https://decodemeester.medium.com/colibri-and-clean-architecture-declarative-coding-coding-in-swift-c4246ccf9f21”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk8zph/colibri_and_clean_architecture_declarative_coding/</guid>
-      <pubDate>Sun, 11 May 2025 19:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix建立在Java上</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk88p8/netflix_is_built_on_java/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是Netflix如何构建Java以及他们如何与Spring Boot团队合作以构建自定义内容的摘要。  对于想要观看Netflix团队的完整视频的人：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stealth_master01      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk88p8/netflix_is_built_on_java/</guid>
-      <pubDate>Sun, 11 May 2025 18:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unison Cloud上的微服务：静态键入，动态部署•Runar Bjarnason</title>
-      <link>https://www.reddit.com/r/programming/comments/1kk5wap/microservices_on_unison_cloud_statically_typed/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kk5wap/microservices_on_unison_cloud_statically_typed/</guid>
-      <pubDate>Sun, 11 May 2025 17:08:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
