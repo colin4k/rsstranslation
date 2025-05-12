@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 12 May 2025 03:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 06:02:31 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个镀铬扩展名，可在16倍上跳过YT广告</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkl8zv/built_a_chrome_extension_that_skips_yt_ads_on_16x/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 所以我是一名大学生，我以2.5倍的速度观看YT讲座，有时还会使用其他Chrome扩展名来提高视频速度。但是我注意到，当广告降临时，它的速度也提高了，我很早就得到了跳过按钮。  这单击了我，我想为什么不构建一个扩展程序，该扩展名可以检测其广告并在16倍中自动播放，然后您可以轻松地跳过它并再次回到视频。 我的意思是，我的意思是，有广告阻滞剂，但对我而言，它并不能总是工作。是的，我构建了它，尚未发布它，而是添加了我的GitHub存储库，以便您可以下载并在浏览器中使用它。 https://github.com/anshaneja5/yt-ads-skipper If you have any review, please write in the comments Thanks   提交由＆＃32; /u/u/u/clear_reserve_8089     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kkl8zv/built_a_a_chrome_extension_that_skips_skips_yt_yt_ads_ads_onds_on_on_16x/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkl8zv/built_a_chrome_extension_that_skips_yt_ads_on_16x/</guid>
+      <pubDate>Mon, 12 May 2025 05:57:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>MixClick：cookie clicker样式游戏。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkkd18/mixclick_a_cookie_clicker_style_game/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我一直在制作一个简单而令人上瘾的游戏，可以在名为MixClick的浏览器中玩。 这个项目是一年前创建的，但是我从未真正更新它。我很想有一些贡献者，或者只是人们喜欢游戏并给我反馈。该项目的某些内容是：  - 以不同的升级购物 - 要转换的不同样式点  - 赌博 *（是的，赌博大声笑） *  - 以及更多。 href =“ https://github.com/mixtapejaxson/mixclick/”&gt; https://github.com/mixtapejaxson/mixclick/  href =“ https://mixtapejaxson.github.io/mixclick/”&gt; https://mixtapejaxson.github.io/mixclick/ 提交由＆＃32; /u/u/low_television_4498       [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkkd18/mixclick_a_cookie_clicker_style_game/</guid>
+      <pubDate>Mon, 12 May 2025 04:59:01 GMT</pubDate>
+    </item>
     <item>
       <title>我只是打开PeerSuite，这是一种分散的松弛/不和谐替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1kkftut/i_just_opensourced_peersuite_a_decentralized/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[      We gave Vircadia a full Gen 2 overhaul (big thanks to our sponsors such as Linux Professional Institute, Deutsche Telekom, etc. for enabling this), aiming to cut down on code bloat并提高性能。主要的转变是将我们的自定义后端基础架构换成经过战斗测试的高性能系统，例如PostgreSQL，其中包裹着BUN包装和管理。  对于诸如Game Dev（更喜欢自定义解决方案）之类的事情是闻所未闻的，但是它可以正常工作并使事情更容易管理。 The shape of the data in a database affects how well it works for a use case, and that model scales well for virtually every kind of software ever, the same should apply here! Feel free to prototype some game ideas you might have been tossing around, our priority is DX for the project as a whole to enable more developers with less resources to build bigger worlds, so please do share feedback here and/or in GH issues! Our路线图用于更多的SDK，并在可能的情况下减少膨胀，其明确的目标是给开发人员当天更多的周期，以专注于实际的游戏玩法而不是工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kaliqt      [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kjwuig/introducing_vircadia_a_bun_and_postgresqlpowered/</guid>
       <pubDate>Sun, 11 May 2025 09:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tamagotchi风格的ESP32项目：完全开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kjvv3w/tamagotchistyle_esp32_project_fully_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始使用ESP32构建tamagotchi启发的项目。这个想法很简单：一个生活在本地Web服务器上的虚拟宠物，您可以在其中与之交互，检查它的心情并观察它的发展。 一切都是开源的，我的目标是创建一个有趣而有意义的小伴侣，以鼓励互动和本地第一技术。我正在探索诸如行为随着时间的变化，模块化组件的变化，甚至是集成了小型ML模型（在ESP32的限制内）的可能性。 我分享这一点，希望与其他喜欢建立具有嬉戏，私密意识的开放性技术的人建立联系。无论您是喜欢嵌入式系统，重新启发的想法还是创意UI/UX，我都希望反馈或想法。  /u/u/cecucatedai​​kon3794     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kjvv3w/tamagotchistyle_esp32_project_fully_open_source/</guid>
-      <pubDate>Sun, 11 May 2025 08:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找FOSS跨平台音乐播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kjur0e/looking_for_a_foss_cross_platform_music_player/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个非常可自定义的跨平台（主要是Windows和MacOS）音乐播放器。我一直在Windows上使用MusicBee，并且真的很想就类似的内容提出建议。  我尝试过Foobar2000，但我想探索更多选择。我会感谢我能为此获得的所有帮助：）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/an_existential_owl      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kjur0e/looking_for_a_foss_cross_platform_music_player/</guid>
-      <pubDate>Sun, 11 May 2025 06:46:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
