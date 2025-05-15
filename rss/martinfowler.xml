@@ -4,7 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Wed, 14 May 2025 15:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 18:03:54 GMT</lastBuildDate>
     <item>
       <title>Genai产品中的嵌入</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#embedding</link>
@@ -16,7 +16,7 @@
       概念
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#embedding</guid>
-      <pubDate>Wed, 14 May 2025 15:04:44 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:53 GMT</pubDate>
     </item>
     <item>
       <title>Bliki：森林和沙漠</title>
@@ -57,17 +57,7 @@
     像素。是否。
 ]]></description>
       <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genai模式：检索增强发电（RAG）</title>
-      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
-      <description><![CDATA[  预先训练的Genai模型缺乏有关A的最新和具体信息
-      领域。  bharani subramaniam ，我解释了如何检索
-      增强发电（RAG）可以填补该空白。
- 更多… ]]></description>
-      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Wed, 14 May 2025 15:04:41 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:52 GMT</pubDate>
     </item>
     <item>
       <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
@@ -79,7 +69,17 @@
       职业的未来。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Wed, 14 May 2025 15:04:40 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genai模式：检索增强发电（RAG）</title>
+      <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
+      <description><![CDATA[  预先训练的Genai模型缺乏有关A的最新和具体信息
+      领域。  bharani subramaniam ，我解释了如何检索
+      增强发电（RAG）可以填补该空白。
+ 更多… ]]></description>
+      <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
+      <pubDate>Thu, 15 May 2025 18:03:51 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
@@ -91,7 +91,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Wed, 14 May 2025 15:04:39 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:50 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -101,7 +101,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Wed, 14 May 2025 15:04:37 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:48 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -112,7 +112,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Wed, 14 May 2025 15:04:35 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:47 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -123,7 +123,7 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Wed, 14 May 2025 15:04:32 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:45 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：护栏和抹布概述</title>
@@ -138,7 +138,7 @@
       组件模式合并在一起。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Wed, 14 May 2025 15:04:31 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:44 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
@@ -150,7 +150,7 @@
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Wed, 14 May 2025 15:04:30 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:43 GMT</pubDate>
     </item>
     <item>
       <title>评论在美国护照上删除“ X”</title>
@@ -163,7 +163,7 @@
  https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
 在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
       <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:27 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:42 GMT</pubDate>
     </item>
     <item>
       <title>开发人员技能在代理编码中的作用</title>
@@ -177,7 +177,7 @@
       我们目前需要纠正工具失误的技能类型。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
-      <pubDate>Wed, 14 May 2025 15:04:26 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:41 GMT</pubDate>
     </item>
     <item>
       <title>我被罗伯特·卡罗绑架了</title>
@@ -189,7 +189,7 @@
       书籍对我来说太好了，无法逃脱。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-caro.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:25 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:40 GMT</pubDate>
     </item>
     <item>
       <title>更新昨天的社交媒体参与帖子</title>
@@ -201,7 +201,7 @@
       网站流量的源数据。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-social-traffic.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:22 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:38 GMT</pubDate>
     </item>
     <item>
       <title>指导LLM稳健的Java Bittebuffer代码</title>
@@ -217,7 +217,7 @@
       不安全的代码片段成可靠的，可以使用系统的组件。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:20 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:37 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek概述的其他解释材料</title>
@@ -229,7 +229,7 @@
       在构建这类模型方面具有背景。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:19 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:36 GMT</pubDate>
     </item>
     <item>
       <title>用LLM构建TMT镜像可视化</title>
@@ -244,7 +244,7 @@
        不熟悉基础技术。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:18 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:35 GMT</pubDate>
     </item>
     <item>
       <title>使用LLMS调用功能</title>
@@ -259,7 +259,7 @@
       使用。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/function-call-LLM.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:17 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:34 GMT</pubDate>
     </item>
     <item>
       <title>编码助手威胁软件供应链</title>
@@ -272,7 +272,7 @@
        使用时保障安全。
  更多…  ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:16 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:33 GMT</pubDate>
     </item>
     <item>
       <title>使用LLM构建自定义工具</title>
@@ -285,13 +285,13 @@
        通常涉及重要的初始设置 - 解析挂钩，构建脚本，
        查看器代码，包装 - 足够阻止快速原型。
 他现在讲述了他使用llm来构建一个小型扩展
-       播放到Plantuml序列图。这说明了如何
-       语法设计，解析，SVG生成，构建自动化和HTML
+       将逐步播放添加到Plantuml序列图中。这说明了
+       语法设计，解析，SVG生成，构建自动化和HTML如何
        观众是通过与LLM的对话进行迭代开发的 - 
        将繁琐的任务变成可管理的步骤。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html</guid>
-      <pubDate>Wed, 14 May 2025 15:04:15 GMT</pubDate>
+      <pubDate>Thu, 15 May 2025 18:03:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
