@@ -4,7 +4,7 @@
     <title>发布独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是indiehackers.com的非官方提要</description>
-    <lastBuildDate>Sun, 18 May 2025 03:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 06:01:58 GMT</lastBuildDate>
     <item>
       <title>QuickMock 2.0  - 将任何LinkedIn职位职位变成与AI的模拟面试</title>
       <link>https://feed.indiehackers.world/post/63f0c7e031</link>
@@ -88,6 +88,16 @@
       <pubDate>Wed, 14 May 2025 12:59:53 GMT</pubDate>
     </item>
     <item>
+      <title>寻求已经建立AI SaaS的营销联合创始人</title>
+      <link>https://feed.indiehackers.world/post/dfc2bdff7a</link>
+      <description><![CDATA[我是Microsoft的软件工程师，我在侧面建立了AI SaaS WebApp。 WebApp是AI代理，可帮助业务消化法律文件。  https://legalclarityai.com  
+我正在寻找一个可以进行0到1个营销和销售的营销联合创始人。最好在太平洋时区。愿意与合适的人分配50/50的股权。
+如果这是引起您共鸣的东西，请发表评论告诉我有关您自己的信息，我们可以联系。
+    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
+      <guid>https://feed.indiehackers.world/post/dfc2bdff7a</guid>
+      <pubDate>Wed, 14 May 2025 01:00:19 GMT</pubDate>
+    </item>
+    <item>
       <title>我建立了一个“假办公室”系统，以使独自工作更加专注。</title>
       <link>https://feed.indiehackers.world/post/6e00cd78f4</link>
       <description><![CDATA[→还有许多其他有趣的功能，可用于正念和生产力，您可以选择哪些功能最适合您。 
@@ -109,7 +119,7 @@
       <title>通过AI（寻求开发人员＆AI专家）彻底改变DIY！</title>
       <link>https://feed.indiehackers.world/post/5beff4a2e9</link>
       <description><![CDATA[使用AI建立DIY的未来 - 寻求PWA的技术联合创始人！
-🚀嘿独立黑客！我正在开发一个由AI支持的进步网络应用程序（PWA），以彻底改变DIY空间，以使大型消费者市场更聪明，更易于访问和参与。 
+🚀嘿独立黑客！我正在开发一个由AI提供支持的渐进式网络应用程序（PWA），以彻底改变DIY空间，以使大型消费者市场更加智能，更易于访问和参与。 
 🔍寻找：熟练的网络＆amp; PWA专业知识的移动开发人员，AI爱好者和内容汇总专家，以帮助将这一愿景栩栩如生。
 💡为什么令人兴奋：
 巨大的未开发市场
@@ -164,7 +174,7 @@ AI驱动的PWA =无摩擦，跨平台体验
       <title>B2B销售AI无法取代代表，只会使其更快！ [YC]</title>
       <link>https://feed.indiehackers.world/post/d34e3d89d8</link>
       <description><![CDATA[销售工具今天尝试用AI替换代表。我认为这是一个错误。
- First Quadrant是一种不同的AI平台，以帮助代表更快地关闭，而不是更换它们。
+ First Quadrant是一种不同的AI平台，可帮助代表更快地关闭，而不是更换它们。
 它处理所有幕后工作：
 
 后续行动，会议重新安排，领先资格
@@ -176,6 +186,14 @@ AI驱动的PWA =无摩擦，跨平台体验
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
       <guid>https://feed.indiehackers.world/post/d34e3d89d8</guid>
       <pubDate>Mon, 12 May 2025 06:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一个安静的乡村小镇建造</title>
+      <link>https://feed.indiehackers.world/post/a2200cc6f1</link>
+      <description><![CDATA[建于Kyneton。用心脏运行。
+    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
+      <guid>https://feed.indiehackers.world/post/a2200cc6f1</guid>
+      <pubDate>Sun, 11 May 2025 22:24:52 GMT</pubDate>
     </item>
     <item>
       <title>建于5个小时，现在赚了$ 60k：工作库的故事</title>
@@ -229,33 +247,6 @@ AI驱动的PWA =无摩擦，跨平台体验
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
       <guid>https://feed.indiehackers.world/post/08f9530d36</guid>
       <pubDate>Wed, 07 May 2025 14:58:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何在3天内与Chatgpt（以及20年的开发经验）一起运送我的第一个Chrome扩展</title>
-      <link>https://feed.indiehackers.world/post/160fda4e4d</link>
-      <description><![CDATA[ chatgpt放大了我的生产力，但没有取代经验或声音工程判断的需求。
-
- 钥匙要点： 
-
-  chatgpt可以大大加快您的速度，但是它需要监督和不断的上下文管理。  
- 快速原型制作是关键：构建快速的东西，玩它，发现出了什么问题并改进它。  
-  20年的开发经验仍然很重要  - 不要更快地编码，而是要知道什么时候出错了，即使没有明显的破裂。  
- 首先验证这个想法（即使使用快速的PHP原型）使一切都遵循的速度更快，更加专注。  
- 有时解决技术问题的最佳方法是重新考虑基础，而不是调整症状。
-
-
-您可以在此处获取扩展名：    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
-      <guid>https://feed.indiehackers.world/post/160fda4e4d</guid>
-      <pubDate>Wed, 07 May 2025 11:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何生成固定持续时间窗口列表并使用ESPROC执行统计信息</title>
-      <link>https://feed.indiehackers.world/post/899dee9513</link>
-      <description><![CDATA[ IFN（〜。min（value），sv）表示占据此窗口的最小值。如果值为null，则采用SV。最大值是此窗口的最大值，并且代码相似。
-体验ESPROC SPL  - 免费试用，无麻烦 esproc spl免费下载。
-    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
-      <guid>https://feed.indiehackers.world/post/899dee9513</guid>
-      <pubDate>Wed, 07 May 2025 07:51:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
