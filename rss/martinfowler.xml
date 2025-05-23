@@ -4,48 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Tue, 20 May 2025 15:03:05 GMT</lastBuildDate>
-    <item>
-      <title>Bliki：森林和沙漠</title>
-      <link>https://martinfowler.com/bliki/ForestAndDesert.html</link>
-      <description><![CDATA[ 
- 
-
-森林和沙漠是思考软件的隐喻
-  开发过程，由贝丝·安德雷斯·贝克（Beth Andres-Beck）和父亲肯特·贝克（Kent Beck）开发。
-  它认为两个软件开发人员社区有很大的困难
-  彼此交流是因为他们生活在非常不同的环境中，所以
-  适用于另一个声音的建议对另一个声音。
-沙漠是软件开发的共同世界，虫子在这里
-  丰富的技能没有培养，并且与用户的沟通很困难。
-  森林是一个运行良好的团队的世界，它使用 Extreme编程，开发人员迅速将更改投入
-  在受其测试保护的生产中，代码被投资以保持健康状况，
-  并且与客户定期联系。
-显然，贝丝和肯特更喜欢森林（就像我一样）。但是隐喻更多
-  关于如何经常对森林的描述以及有关如何在那里工作的建议
-  对于那些唯一的经历是沙漠的人来说，听起来荒谬。它提醒我们
-  我们借鉴了有关软件开发实践或建筑的任何教训
-  模式受我们经历的环境所支配。可能
-  将沙漠变成森林，但这很难 - 通常要求人们这样做
-  既坚硬又违反直觉的事物。 （似乎很容易
-  森林服从荒漠化。）
-在这个框架中，我绝对是森林居民，并与Thoughtworks一起寻找
-  为我们和我们的客户耕种健康的森林。我努力解释森林到沙漠
-  居民，并帮助我的同胞森林居民使他们的森林更加
-  丰富。
-
-进一步阅读
-贝丝和肯特的最佳简短摘要是 kent的替代。要获得更多深度，请看一下
-    他们的Øredev的Keynote。 
-
-
-确认
-肯特·贝克（Kent Beck）提供了图像，他可能会艰苦地画出像素
-    像素。是否。
-]]></description>
-      <guid>https://martinfowler.com/bliki/ForestAndDesert.html</guid>
-      <pubDate>Tue, 20 May 2025 15:03:05 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 May 2025 18:04:04 GMT</lastBuildDate>
     <item>
       <title>Genai模式：检索增强发电（RAG）</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#rag</link>
@@ -54,7 +13,7 @@
       增强发电（RAG）可以填补该空白。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#rag</guid>
-      <pubDate>Tue, 20 May 2025 15:03:03 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:04:03 GMT</pubDate>
     </item>
     <item>
       <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
@@ -66,7 +25,7 @@
       职业的未来。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Tue, 20 May 2025 15:03:02 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:04:02 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
@@ -78,7 +37,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Tue, 20 May 2025 15:03:01 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:04:01 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -88,7 +47,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Tue, 20 May 2025 15:03:00 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:58 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -99,7 +58,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Tue, 20 May 2025 15:02:59 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:57 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -110,13 +69,12 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Tue, 20 May 2025 15:02:57 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:55 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：护栏和抹布概述</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
-      <description><![CDATA[  
- gen ai系统是可欺骗的，很容易被欺骗到响应
+      <description><![CDATA[   gen ai系统是可欺骗的，很容易被欺骗到响应
       以违反企业的政策或泄漏的方式
       机密信息。  bharani
       Subramaniam 我描述了如何通过添加
@@ -125,7 +83,7 @@
       组件模式合并在一起。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Tue, 20 May 2025 15:02:56 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:54 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
@@ -137,7 +95,7 @@
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Tue, 20 May 2025 15:02:55 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:52 GMT</pubDate>
     </item>
     <item>
       <title>评论在美国护照上删除“ X”</title>
@@ -150,7 +108,7 @@
  https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
 在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
       <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:53 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:50 GMT</pubDate>
     </item>
     <item>
       <title>开发人员技能在代理编码中的作用</title>
@@ -164,7 +122,7 @@
       我们目前需要纠正工具失误的技能类型。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
-      <pubDate>Tue, 20 May 2025 15:02:52 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:48 GMT</pubDate>
     </item>
     <item>
       <title>我被罗伯特·卡罗绑架了</title>
@@ -176,7 +134,7 @@
       书籍对我来说太好了，无法逃脱。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-caro.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:51 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:46 GMT</pubDate>
     </item>
     <item>
       <title>更新昨天的社交媒体参与帖子</title>
@@ -188,7 +146,7 @@
       网站流量的源数据。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-social-traffic.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:50 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:44 GMT</pubDate>
     </item>
     <item>
       <title>指导LLM稳健的Java Bittebuffer代码</title>
@@ -204,7 +162,7 @@
       不安全的代码片段成可靠的，可以使用系统的组件。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:49 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:43 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek概述的其他解释材料</title>
@@ -216,7 +174,7 @@
       在构建这类模型方面具有背景。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:48 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:41 GMT</pubDate>
     </item>
     <item>
       <title>用LLM构建TMT镜像可视化</title>
@@ -231,7 +189,7 @@
        不熟悉基础技术。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:47 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:40 GMT</pubDate>
     </item>
     <item>
       <title>使用LLMS调用功能</title>
@@ -246,7 +204,7 @@
       使用。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/function-call-LLM.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:45 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:38 GMT</pubDate>
     </item>
     <item>
       <title>编码助手威胁软件供应链</title>
@@ -259,7 +217,7 @@
        使用时保障安全。
  更多…  ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:44 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:37 GMT</pubDate>
     </item>
     <item>
       <title>使用LLM构建自定义工具</title>
@@ -278,7 +236,7 @@
        将繁琐的任务变成可管理的步骤。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:43 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:36 GMT</pubDate>
     </item>
     <item>
       <title>敏捷威胁建模</title>
@@ -287,7 +245,7 @@
       数据如何流过系统以识别可能出问题的问题 -  a
       看似简单的行为，揭示了自动化工具的安全风险
       无法预料。通常，这是由安全分析师作为独立的
-      或前期活动，但是 jim gumbly 在
+      或前期活动，但是 jim gumbley 在
       2020解释团队如何通过小型和常规
       工作。
 现在 gayathri mohan 已加入吉姆（Jim
@@ -297,7 +255,22 @@
       团队。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/agile-threat-modelling.html</guid>
-      <pubDate>Tue, 20 May 2025 15:02:42 GMT</pubDate>
+      <pubDate>Fri, 23 May 2025 18:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>詹姆斯·刘易斯（James Lewis）在Goto Copenhagen接受了采访</title>
+      <link>https://www.youtube.com/watch?v=xsMUuOwv7IA</link>
+      <description><![CDATA[  去年在哥本哥本哈根，我的朋友詹姆斯·刘易斯接受采访
+      我和Goto刚刚发布了视频。我谈论我什么时候
+      从肯特·贝克（Kent Beck）那里了解了迭代设计的危险
+      业主干涉业务发展者的交流，并编写
+      敏捷宣言。在此期间，他特别询问了我的论文是
+      设计死了。还有一些观众的问题问是否配对
+      对于像我们这样的性格内向的人（不）和（不可避免的），编程是一件坏事
+      LLM今天对程序员的作用。
+ 更多… ]]></description>
+      <guid>https://www.youtube.com/watch?v=xsMUuOwv7IA</guid>
+      <pubDate>Fri, 23 May 2025 18:03:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
