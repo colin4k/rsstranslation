@@ -4,7 +4,7 @@
     <title>发布独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是indiehackers.com的非官方提要</description>
-    <lastBuildDate>Sun, 25 May 2025 09:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 12:03:28 GMT</lastBuildDate>
     <item>
       <title>我们解决了加密货币的最大问题！</title>
       <link>https://feed.indiehackers.world/post/91d8f6ae86</link>
@@ -46,6 +46,14 @@
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
       <guid>https://feed.indiehackers.world/post/9bf0eeb0c6</guid>
       <pubDate>Thu, 22 May 2025 11:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的Saas之旅 - 第1章</title>
+      <link>https://feed.indiehackers.world/post/157872b1da</link>
+      <description><![CDATA[我不在乎有人会读这篇文章。因为这不是给你的...这是给我的。您知道，我决定启动自己的SaaS，它不会像许多人现在所做的那样编码AI ...它将通过手工编码。当然，我可能会在这里和那里使用偶尔的Chatgpt或Claude，但重要的是，我不能冒险将客户的数据危险，而只是较早地启动我的应用程序。尽管我的前端很可能是通过AI制成的，因为为了制作易于浏览的网站，AI是最好的。现在，您可以选择在这段旅程中关注我的博客，但是我对您选择的旅程以及不喜欢您是否喜欢，这是残酷的事实。除了亲人，没有人会关心我的旅程。因此，开展业务。我的萨斯是什么？好吧，我还没有发布它，所以我不会谈论这个想法本身太多。但是，我的技术堆栈在我可以开始的某个地方，因此我正在使用条纹进行付款，后端生锈，数据库的PostgreSQL和网站的HTML / CSS / JS（Vanilla，YUP）。为什么所有这些，好吧，我喜欢Rust，知道如何使用PostgreSQL和HTML CSS和JS进行前端，这使它变得简单。现在有些人可能反对这个，但您会做到。如果您对我有任何建议，这一切都欢迎，但是，如果您对我，我的技术堆栈或我的非专业主义感到讨厌，那么欢迎您在评论部分被忽略。我会在这个想法上发表一篇更详细的文章，但要等一点，因为我也有学业。
+    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
+      <guid>https://feed.indiehackers.world/post/157872b1da</guid>
+      <pubDate>Thu, 22 May 2025 10:26:00 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个破裂的伴侣，以与</title>
@@ -227,21 +235,6 @@
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
       <guid>https://feed.indiehackers.world/post/4319857ebe</guid>
       <pubDate>Thu, 15 May 2025 13:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI代理是产品主导增长的下一个演变</title>
-      <link>https://feed.indiehackers.world/post/12ab1fe1f5</link>
-      <description><![CDATA[这是最好的部分：AI代理不仅会做出回应；他们学习。
-
-他们跟踪用户行为并调整他们的建议。
-他们根据过去的互动来完善他们的回答。
-他们确定了增强产品采用策略的模式。
-
-结果？一种自优化的增长引擎，AI代理人不断完善用户的保留，升级和倡导的旅程。
-这仅仅是开始。 PLG正在不断发展，AI代理正在引导。
-    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
-      <guid>https://feed.indiehackers.world/post/12ab1fe1f5</guid>
-      <pubDate>Wed, 14 May 2025 16:07:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
