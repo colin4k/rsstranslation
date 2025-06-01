@@ -4,146 +4,146 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 31 May 2025 12:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 09:03:16 GMT</lastBuildDate>
     <item>
-      <title>将每个Nestjs模块部署为单独的燃料函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzuzd4/deploy_each_nestjs_module_as_a_separate_firebase/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我想分享我发现的最佳方法来编程firebase函数。当我们使用Firebase功能时，Firebase只会给我们一个文件夹。没有明确的结构，没有依赖注入，也没有单独的层。这使我们有很高的代码的高风险，而代码很难维护并且充满了错误。 解决方案是Nestjs。使用此框架，我们将获得一个清晰的结构，并解决了所有这些问题。它用于大型项目，并且具有强大的社区。 但是我们如何将Nestjs与Firebase功能结合在一起？ 我们可以将整个后端部署到Firebase功能中，但它会非常大，很重，很慢。最好的解决方案是与常规的Nestjs后端一起工作，但分别部署它。将每个模块部署在燃料函数中，以确保每个模块仅具有所需的内容。这样，我们会变得更小，更快，更便宜，较便宜的Firebase功能实例。 您可以自己尝试，但是我制作了一个NPM以使其变得非常容易。只需添加要部署的每个模块上方的@firebasehttps（）`  module exmaple：    import&gt; import {module}从&#39;@nestjs/common&#39;&#39;;从&#39;./user.service&#39;导入{uservice};从&#39;./user.controller&#39;导入{userController};从“ nestfire”导入{enumfirebaseFunctionverion，firebasehttps}; @firebasehttps（EnumfireBaseFunctionversion.v1，{memory：&#39;256MB&#39;}）@module（{controllers：[usercontroller]，提供者：[userervice]，}，userVice]，}）导出class userModule usermodule {}      装饰器的部署  npm： https：//www.npmjs.com/package/package/nestfire                       在几个步骤中，您可以创建一个Nestjs项目并在Firebase函数中部署模块： https：//github.com/github.com/felipeososano/nestfire-nestfire-nestfire-example-example-example-example-example  href =“ https://medium.com/p/dfb1472fd3”&gt; https://medium.com/p/dfb1472fd3      &lt;！ -  sc_on-sc_on-提交由＆＃32; /u/u/felipeo25     &lt;a href =“ https://www.reddit.com/r/programming/comments/1kzuzd4/1kzuzd4/deploy_each_each_nestjs_module_as_a_a_a_separate_firebase/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzuzd4/deploy_each_nestjs_module_as_a_separate_firebase/</guid>
-      <pubDate>Sat, 31 May 2025 11:35:52 GMT</pubDate>
+      <title>1975年论文：某些交替组的发电机，以及应用程序应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0kdmf/1975_paper_generators_for_certain_alternating/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/databaebee     link&gt; link&gt; link&gt; link&gt; link&gt;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0kdmf/1975_paper_generators_for_certain_alternating/</guid>
+      <pubDate>Sun, 01 Jun 2025 08:54:44 GMT</pubDate>
     </item>
     <item>
-      <title>编程贴纸生成器</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzuwgt/programming_sticker_generator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我构建了一个技术贴纸生成器（MVP），如果尝试一下，我会很兴奋，并给我您（很难）对UI/UX，产品本身，设计和价格的诚实评论。 您有兴趣获得类似的东西吗？  /u/u/u/cormallent-alarm-875      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzuwgt/programming_sticker_generator/</guid>
-      <pubDate>Sat, 31 May 2025 11:30:55 GMT</pubDate>
+      <title>让我们做游戏吧！ 271：循环战斗</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0jt08/lets_make_a_game_271_looping_combat/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0jt08/lets_make_a_game_271_looping_combat/</guid>
+      <pubDate>Sun, 01 Jun 2025 08:15:08 GMT</pubDate>
     </item>
     <item>
-      <title>为我们的微服务介绍一个小混沌猴子</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzuu48/introducing_a_baby_chaos_monkey_for_our/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://webdev-sb.blogspot.com/2025/05/introducing-baby-chaos-chaos-monkey-for-our-our.html?m=1”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzuu48/introducing_a_baby_chaos_monkey_for_our/</guid>
-      <pubDate>Sat, 31 May 2025 11:26:58 GMT</pubDate>
+      <title>解决Queuedle</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0iszg/solving_queuedle/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/candurz       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0iszg/solving_queuedle/</guid>
+      <pubDate>Sun, 01 Jun 2025 07:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>我尝试了单一解释器</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzubky/my_attempt_at_a_monad_explainer/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/daedaluscommunity     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzubky/my_attempt_at_a_monad_explainer/</guid>
-      <pubDate>Sat, 31 May 2025 10:55:25 GMT</pubDate>
+      <title>H2Tunnel -HTTP/2上的TCP</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0ibgg/h2tunnel_tcp_over_http2/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/boronine      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0ibgg/h2tunnel_tcp_over_http2/</guid>
+      <pubDate>Sun, 01 Jun 2025 06:35:38 GMT</pubDate>
     </item>
     <item>
-      <title>这辆自行车永远不会失控 - 故事驱动的解释是对开放式封闭原则的解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzttlu/this_bike_never_goes_out_of_control_a_storydriven/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  它不是教程或教科书，而是一种讲故事的方法来解释为什么这些事情很重要，尤其是随着您的项目成长。 会喜欢您的反馈   &lt;！ -  sc_on--&gt;＆＃32＆＃32;提交由＆＃32; /u/u/u/kudchikarsk      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzttlu/this_bike_never_goes_out_of_control_a_storydriven/</guid>
-      <pubDate>Sat, 31 May 2025 10:22:02 GMT</pubDate>
+      <title>TLTSS：在打字稿类型系统中制作的一种编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0gjjw/tltss_a_programming_language_made_in_typescripts/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/skearryw       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0gjjw/tltss_a_programming_language_made_in_typescripts/</guid>
+      <pubDate>Sun, 01 Jun 2025 04:44:30 GMT</pubDate>
     </item>
     <item>
-      <title>如何不按平均评分进行排序</title>
-      <link>https://www.reddit.com/r/programming/comments/1kztgyk/how_not_to_sort_by_average_rating/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/big_hole_energy     ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kztgyk/how_not_to_sort_by_average_rating/</guid>
-      <pubDate>Sat, 31 May 2025 09:58:40 GMT</pubDate>
+      <title>Harpoom：当然可以将Apple Network Server入侵到运行DOOM</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0fxa5/harpoom_of_course_the_apple_network_server_can_be/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nxgz      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0fxa5/harpoom_of_course_the_apple_network_server_can_be/</guid>
+      <pubDate>Sun, 01 Jun 2025 04:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>AI没有杀死堆栈溢出</title>
-      <link>https://www.reddit.com/r/programming/comments/1kztdph/ai_didnt_kill_stack_overflow/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  可以很容易地说，人工智能杀死了堆栈溢出，但是可以说AI给予了最后的打击。真正发生的是人类社区的寓言和自治方面的实验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/asimpwz      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kztdph/ai_didnt_kill_stack_overflow/</guid>
-      <pubDate>Sat, 31 May 2025 09:52:28 GMT</pubDate>
+      <title>AI的简单宏观经济学 - 相关论文的扩展摘要</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0dxpc/the_simple_macroeconomics_of_ai_extended_summary/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   acemoglu的最新论文介绍了一个基于任务的宏观经济模型，以显示AI驱动的认知任务自动化如何重塑生产率，工作和收入分配。通过超越传统框架，它为AI带来的机遇和挑战提供了新的见解。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/greedy_principle5345      [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0dxpc/the_simple_macroeconomics_of_ai_extended_summary/</guid>
+      <pubDate>Sun, 01 Jun 2025 02:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>六月的新网络研讨会有关Spark来自Adacore：Spark正式验证简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzr5im/a_new_june_webinar_about_spark_from_adacore/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/dragon_spirit_wtp      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzr5im/a_new_june_webinar_about_spark_from_adacore/</guid>
-      <pubDate>Sat, 31 May 2025 07:17:13 GMT</pubDate>
+      <title>GWQ：用于平行AI编码的模糊查找器的GIT Worktree Manager</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0d37t/gwq_git_worktree_manager_with_fuzzy_finder_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  构建的GWQ以更有效地管理GIT工作室，尤其是用于平行AI的开发。  **问题：**手动管理多个工作者是乏味的，并且AI编码工具可以更好地使用孤立的工作空间。 -b feature/auth gwq add -b feature/api # Navigate with fuzzy finder cd $(gwq get) # Run AI agents in parallel gwq exec --stay auth -- claude gwq exec --stay api -- claude  Key features:  Fuzzy finder interface Global worktree discovery 选项卡完成  GHQ风格的组织   install： Go install    github.com/d-kuro./d-kuro/gwq/cmd/gwq/gwq@latest@latest     href =“ https://github.com/d-kuro/gwq”&gt; https://github.com/d-kuro/gwq    思想？   &lt;！&lt;！提交由＆＃32; /u/u/d-kuro      &lt;a href =“ https://www.reddit.com/r/programming/comments/1l0d37t/gwq_git_worktree_manager_with_with_fuzzy_finder_finder_finder_finder/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0d37t/gwq_git_worktree_manager_with_fuzzy_finder_for/</guid>
+      <pubDate>Sun, 01 Jun 2025 01:32:19 GMT</pubDate>
     </item>
     <item>
-      <title>新的0.7.0释放Ironclad-用Spark和Ada编写的正式验证，实时的，类似于Unix的操作系统内核。</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzr470/new_070_release_of_ironclad_a_formally_verified/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/dragon_spirit_wtp       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzr470/new_070_release_of_ironclad_a_formally_verified/</guid>
-      <pubDate>Sat, 31 May 2025 07:14:43 GMT</pubDate>
+      <title>一直在写一个编译器...</title>
+      <link>https://www.reddit.com/r/programming/comments/1l09u6l/been_writing_a_compiler/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  刚刚在语言中添加了一个外函数接口。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/0m0g1     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l09u6l/been_writing_a_compiler/</guid>
+      <pubDate>Sat, 31 May 2025 22:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>我在C中构建了自己的Live Server，从头开始重写整个前端堆栈。没有框架。没有库。没有NPM。只是c和裸露的javascript。</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzqdsl/i_built_my_own_live_server_in_c_rewrote_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我厌倦了缓慢的开发工具，所以我扔掉了一切并从头开始建造了自己的东西。 ，但我对不太好的事物表示歉意。我有一个github存储库，让您看到它的外观。 对简单的着陆页来说，这过大吗？或许。 它很有趣，快速和我吗？ 100％。    peakk2011/mintteams_landing-page   如果您想克隆此repo                  href =“ https://github.com/peakk2011/mintteams_landing-page.git”&gt;  https://github.com/peakk2011/mintteams_landing-page.git-page.git-page.git    提交由＆＃32; /u/u/stricalSource8942      &lt;a href =“ https://www.reddit.com/r/programming/comments/1kzqdsl/i_built_my_own_own_ser_server_server_in_c_rewrote_the/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzqdsl/i_built_my_own_live_server_in_c_rewrote_the/</guid>
-      <pubDate>Sat, 31 May 2025 06:26:45 GMT</pubDate>
+      <title>递归，简单地解释了</title>
+      <link>https://www.reddit.com/r/programming/comments/1l09qwa/recursion_explained_simply/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nicbarkeragain       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l09qwa/recursion_explained_simply/</guid>
+      <pubDate>Sat, 31 May 2025 22:44:32 GMT</pubDate>
     </item>
     <item>
-      <title>自学习CS61A，寻求帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzq4sp/self_learning_cs61a_seeking_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不是一个尝试自己学习CS61A的注册学生。那么这是否意味着我可以用好的检查我的作业吗？如果是这样，我是否有检查我的错误？如果您可以帮助我摆脱困难  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/electronic_mirror800        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzq4sp/self_learning_cs61a_seeking_help/</guid>
-      <pubDate>Sat, 31 May 2025 06:10:21 GMT</pubDate>
+      <title>python中的9个懒惰评估功能，可以悄悄优化您的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1l08ly1/9_lazy_evaluation_features_in_python_that/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yangzhou1993     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l08ly1/9_lazy_evaluation_features_in_python_that/</guid>
+      <pubDate>Sat, 31 May 2025 21:52:03 GMT</pubDate>
     </item>
     <item>
-      <title>什么是？ |抹布|什么是|易于理解</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzq1be/what_is_rag_series_of_whats_easy_to_understand/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/apease_ad4699       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzq1be/what_is_rag_series_of_whats_easy_to_understand/</guid>
-      <pubDate>Sat, 31 May 2025 06:04:01 GMT</pubDate>
+      <title>升级节点打破了我的构建，但拯救了我的婚姻</title>
+      <link>https://www.reddit.com/r/programming/comments/1l07yk8/upgrading_node_broke_my_build_but_saved_my/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/deepCelibateValue     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l07yk8/upgrading_node_broke_my_build_but_saved_my/</guid>
+      <pubDate>Sat, 31 May 2025 21:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>宣布Dotnet Run App.cs-从C＃和.NET 10- .NET博客开始的一种简单方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzpuif/announcing_dotnet_run_appcs_a_simpler_way_to/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/atulin      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzpuif/announcing_dotnet_run_appcs_a_simpler_way_to/</guid>
-      <pubDate>Sat, 31 May 2025 05:51:52 GMT</pubDate>
+      <title>寻找开发工具的反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1l06mde/looking_for_feedback_for_dev_tools/</link>
+      <description><![CDATA[Hey everyone, I’ve built a small, minimalistic web app that includes a bunch of dev utilities I use daily in my workflow. I got tired of bloated tools filled with ads, trackers, or clunky interfaces—so I decided to make my own, with simplicity and speed in mind. You can check it在此处： https://dev.zanoski.com    我很想得到您的反馈 - 可以改进什么工具，以及您想添加了什么工具或功能？提交由＆＃32; /u/u/zanoshky      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l06mde/looking_for_feedback_for_dev_tools/</guid>
+      <pubDate>Sat, 31 May 2025 20:22:57 GMT</pubDate>
     </item>
     <item>
-      <title>langflow rce漏洞：python exec（）失误如何导致未身份验证的代码执行</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzp1z6/langflow_rce_vulnerability_how_a_python_exec/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/namit2111      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzp1z6/langflow_rce_vulnerability_how_a_python_exec/</guid>
-      <pubDate>Sat, 31 May 2025 05:02:32 GMT</pubDate>
+      <title>揭露多个家庭服务器 - 负载平衡多个Rathole隧道与Traefik HTTP和TCP路由器</title>
+      <link>https://www.reddit.com/r/programming/comments/1l022ql/expose_multiple_home_servers_load_balancing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我写了一个关于使用rathole隧道从Homelab暴露服务器的延续教程。 This time, I explain how to add a Traefik load balancer (HTTP and TCP routers) to reuse the same VPS for multiple Rathole tunnels. This can be very useful and practical to reuse the same VPS and Rathole container to expose many servers you have in your homelab, e.g., Raspberry Pis, PC servers, virtual machines, LXC containers, etc. 代码包含在文章的底部，您可以在10分钟内完成Traefik Load Balancer运行并开始公开您的家庭服务器。 这是文章的链接：   https://neghjamitic.com.com/blog/2025-05-05-29-traefik-load-load-balancer-balancer        您对您有什么相似的方法，这是您自己的方法吗？我很想听听您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nemanja_codes      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l022ql/expose_multiple_home_servers_load_balancing/</guid>
+      <pubDate>Sat, 31 May 2025 17:06:18 GMT</pubDate>
     </item>
     <item>
-      <title>基于DL的股票关闭价格预测模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzoyua/dl_based_stock_closing_price_prediction_model/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在过去的3-4个月中，我一直在制作一个基于Python的机器学习项目，我很高兴分享它终于可以产生令人有希望的结果！ 该模型旨在预测第二天的库存盘价，并准确地将其重复使用1.5％。最受欢迎的反馈，建议和贡献。如果您发现它有用或有趣，请随时使用！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Vodka-Tequilla   [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzoyua/dl_based_stock_closing_price_prediction_model/</guid>
-      <pubDate>Sat, 31 May 2025 04:57:39 GMT</pubDate>
+      <title>我写的一个程序将C变成脚本语言| runc</title>
+      <link>https://www.reddit.com/r/programming/comments/1l01o7y/a_program_i_wrote_to_turn_c_into_a_scripting/</link>
+      <description><![CDATA[在提交由＆＃32; /u/u/u/eccsoheccsseven       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l01o7y/a_program_i_wrote_to_turn_c_into_a_scripting/</guid>
+      <pubDate>Sat, 31 May 2025 16:49:26 GMT</pubDate>
     </item>
     <item>
-      <title>微服务中的共享数据库模式：当规则违反时</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzopew/shared_database_pattern_in_microservices_when/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  每个人都说“切勿在微服务之间共享数据库”。但是有时现实迫使您的手 - 传统迁移，紧迫的截止日期或绩效要求使得共享数据库必要。问题不是它是否理想（不是），而是当您别无选择时如何安全地执行。 共享数据库模式意味着多个微服务访问相同的数据库实例。这就像多个室友共享厨房 - 它可以工作，但需要严格的规则和仔细的协调。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vturan23     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzopew/shared_database_pattern_in_microservices_when/</guid>
-      <pubDate>Sat, 31 May 2025 04:42:15 GMT</pubDate>
+      <title>进步的JSON  - 反应过度</title>
+      <link>https://www.reddit.com/r/programming/comments/1l01i6b/progressive_json_overreacted/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/gaearon      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l01i6b/progressive_json_overreacted/</guid>
+      <pubDate>Sat, 31 May 2025 16:42:13 GMT</pubDate>
     </item>
     <item>
-      <title>最终的Java并发和多线程路线图（深，可转移，永恒）</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzmx32/the_ultimate_java_concurrency_multithreading/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我已经在Java中发布了一个有关并发和多线程的博客。请检查一下并分享您的意见。  并发＆amp; Multithreading │ ├── 1. Mutual Exclusion → Locking, reentrancy, intrinsic monitors ├── 2. Visibility → Volatile, memory model, happens-before ├── 3. Atomicity → Compare-and-swap,原子原始原子&lt; /code&gt;  ├ -  4。协调→等待 /通知，锁存，信号范围&lt; /code&gt;  ├├├├├。 ├── 7. Immutability → final fields, value objects, collections ├── 8. Parallelism → Fork/Join, Streams, Spliterators └── 9. Thread Lifecycle → States, interrupt, daemon, priority   提交由＆＃32; /u/u/nikhiltiwari005     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzmx32/the_ultimate_java_concurrency_multithreading/</guid>
-      <pubDate>Sat, 31 May 2025 03:01:22 GMT</pubDate>
+      <title>不要使用ModelMapper库的家伙，这很可怕</title>
+      <link>https://www.reddit.com/r/programming/comments/1kzzqe0/dont_use_modelmapper_library_guys_it_is_scary/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/suraideveloder21      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kzzqe0/dont_use_modelmapper_library_guys_it_is_scary/</guid>
+      <pubDate>Sat, 31 May 2025 15:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>我们使用AI重写了API的大部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzla24/we_rewrote_large_parts_of_our_api_in_go_using_ai/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/karagenit     &lt;a href =“ https://www.reddit.com/r/programming/comments/1kzla24/we_rewrote_parts_parts_of_our_api_in_go_using_using_ai/”]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzla24/we_rewrote_large_parts_of_our_api_in_go_using_ai/</guid>
-      <pubDate>Sat, 31 May 2025 01:32:47 GMT</pubDate>
+      <title>让我们做游戏吧！ 270：敌人运动</title>
+      <link>https://www.reddit.com/r/programming/comments/1kzzbem/lets_make_a_game_270_enemy_movement/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kzzbem/lets_make_a_game_270_enemy_movement/</guid>
+      <pubDate>Sat, 31 May 2025 15:08:58 GMT</pubDate>
     </item>
     <item>
-      <title>TinyAPL第1部分：介绍和数组</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzjpjz/tinyapl_part_1_introduction_and_arrays/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzjpjz/tinyapl_part_1_introduction_and_arrays/</guid>
-      <pubDate>Sat, 31 May 2025 00:13:33 GMT</pubDate>
+      <title>在无服务器环境中部署Nestjs（Firebase功能）</title>
+      <link>https://www.reddit.com/r/programming/comments/1kzyvlm/deploying_nestjs_in_a_serverless_environment/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在使用Firebase功能两年多后，我发现了最适合我的东西。 我想知道是否有人有其他良好的方法可以使用Firebase功能或在维护代码方面遇到麻烦。      &lt;！&lt;！ -  sc_on-&gt;&gt; 32222222222;提交由＆＃32; /u/u/felipeo25       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kzyvlm/deploying_nestjs_in_a_serverless_environment/</guid>
+      <pubDate>Sat, 31 May 2025 14:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>Java虚拟线程吃了我的内存：网络爬网的速度与记忆的故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzjpbk/java_virtual_threads_ate_my_memory_a_web_crawlers/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]        &lt;a href =“ https://www.reddit.com/r/programming/comments/1kzjpbk/java_virtual_threads_ate_my_my_memory_memory_a_web_crawlers/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzjpbk/java_virtual_threads_ate_my_memory_a_web_crawlers/</guid>
-      <pubDate>Sat, 31 May 2025 00:13:15 GMT</pubDate>
+      <title>极简主义的克隆GIT存储库指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1kzy23u/a_minimalists_guide_to_cloning_git_repositories/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bhupeshv      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kzy23u/a_minimalists_guide_to_cloning_git_repositories/</guid>
+      <pubDate>Sat, 31 May 2025 14:13:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
