@@ -4,7 +4,24 @@
     <title>发布独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是indiehackers.com的非官方提要</description>
-    <lastBuildDate>Tue, 03 Jun 2025 06:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 09:02:35 GMT</lastBuildDate>
+    <item>
+      <title>独立黑客很奇怪</title>
+      <link>https://feed.indiehackers.world/post/2331520db2</link>
+      <description><![CDATA[这绝对是笨蛋
+让我们清楚：这不是迷人的。
+您将：
+花4个小时修复布局错误，只是意识到这是一个缺失的半月
+启动您认为很棒的东西，只听到板球
+有生存危机，因为黑客新闻上的某人说您的着陆页有“ 1998年的共鸣” 
+，但您也将：
+运送东西
+一周内学习的学习比四分之一多
+醒来到您的第一个$ 9条纹通知，感觉就像您是Jeff Bezos 
+    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
+      <guid>https://feed.indiehackers.world/post/2331520db2</guid>
+      <pubDate>Mon, 02 Jun 2025 16:55:45 GMT</pubDate>
+    </item>
     <item>
       <title>我如何在不雇用任何人的情况下自动化我的第一次销售</title>
       <link>https://feed.indiehackers.world/post/91d5e54e77</link>
@@ -34,7 +51,7 @@
 选择“每个星期日晚上8点”（或任何适合您的时间）
  步骤3：添加RSS模块*
 单击“+”，搜索“ RSS”，然后选择“观看RSS feed项目” 
-粘贴在from rss.app中（例如reddit，产品狩猎，独立黑客）
+粘贴在您的提要URL中，来自RSS.App（例如Reddit，产品Hunt，Indie Hackers）
 将其设置为仅拉新项目
 
  步骤4：添加文本聚合器模块 
@@ -225,16 +242,6 @@
     Discord IndieHackers Chat     ads &lt;a href =“]]></description>
       <guid>https://feed.indiehackers.world/post/9cbfd6131c</guid>
       <pubDate>Thu, 22 May 2025 08:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>独奏创始人的创意操作系统：将AI代理插入您的想法到发出管道的每个阶段</title>
-      <link>https://feed.indiehackers.world/post/4663efcba9</link>
-      <description><![CDATA[  start small  
-您不需要一次建造所有五个代理商，您可能不应该。 
-从研究代理开始，然后建立起草代理，然后建立出版代理。这三个将创建一个工作系统。其他两个可以稍后添加。然后，您可以在Idea生成和编辑中分层。
-    Discord IndieHackers Chat     ads &lt;a href =“]]></description>
-      <guid>https://feed.indiehackers.world/post/4663efcba9</guid>
-      <pubDate>Wed, 21 May 2025 18:58:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
