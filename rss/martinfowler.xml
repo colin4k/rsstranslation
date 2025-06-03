@@ -4,19 +4,7 @@
     <title>马丁·福勒</title>
     <link>https://martinfowler.com</link>
     <description>Martinfowler.com的新闻和更新的主供稿</description>
-    <lastBuildDate>Thu, 29 May 2025 18:03:07 GMT</lastBuildDate>
-    <item>
-      <title>Goto哥本哈根的小组：“ SW开发在哪里</title>
-      <link>https://www.youtube.com/watch?v=86-Dy5U2p5Y</link>
-      <description><![CDATA[  去年9月与霍莉·卡明斯（Holly Cummings）一起在哥本哥本哈根（Goto Copenhagen）的一个面板上
-      Trisha Gee，Dave Farley和Daniel Terhorst-North。我们讨论了
-      当前软件开发的状态及其前进方向。鉴于
-      时机，关于AI在我们的角色中的作用有很多讨论
-      职业的未来。
- 更多… ]]></description>
-      <guid>https://www.youtube.com/watch?v=86-Dy5U2p5Y</guid>
-      <pubDate>Thu, 29 May 2025 18:03:07 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Jun 2025 15:07:36 GMT</lastBuildDate>
     <item>
       <title>Genai模式：抹布限制和混合猎犬</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</link>
@@ -27,7 +15,7 @@
       搜索技术。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</guid>
-      <pubDate>Thu, 29 May 2025 18:03:06 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:34 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：查询重写</title>
@@ -37,7 +25,7 @@
        bharani subramaniam ，我解释了
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</guid>
-      <pubDate>Thu, 29 May 2025 18:03:04 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:31 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：reranker</title>
@@ -48,7 +36,7 @@
       猎犬的碎片，并根据其有用性进行对。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#reranker</guid>
-      <pubDate>Thu, 29 May 2025 18:03:03 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:28 GMT</pubDate>
     </item>
     <item>
       <title>LLM推理在软件任务中扮演什么角色？</title>
@@ -59,13 +47,12 @@
       到目前为止还没有发现这样的功能。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</guid>
-      <pubDate>Thu, 29 May 2025 18:03:01 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:26 GMT</pubDate>
     </item>
     <item>
       <title>Genai模式：护栏和抹布概述</title>
       <link>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</link>
-      <description><![CDATA[  
- gen ai系统是可欺骗的，很容易被欺骗到响应
+      <description><![CDATA[   gen ai系统是可欺骗的，很容易被欺骗到响应
       以违反企业的政策或泄漏的方式
       机密信息。  bharani
       Subramaniam 我描述了如何通过添加
@@ -74,7 +61,7 @@
       组件模式合并在一起。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</guid>
-      <pubDate>Thu, 29 May 2025 18:03:00 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:25 GMT</pubDate>
     </item>
     <item>
       <title>基因模式：微调</title>
@@ -86,7 +73,7 @@
       策划高质量数据。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</guid>
-      <pubDate>Thu, 29 May 2025 18:02:59 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:22 GMT</pubDate>
     </item>
     <item>
       <title>评论在美国护照上删除“ X”</title>
@@ -99,7 +86,7 @@
  https://www.federalregister.gov/documents/2025/02/02/2025-02696/30-30-day-notice-notice-of-propsoped-inforpose-information-information-collection-collection-collection-for-application-for-a-us-us-passport-for-for-for-for-for-comible-imible     
 在这三篇文章的前三个句子中，我没有花费几分钟以上的时间（本质上是本文的前三个句子）。与我的非二进制朋友面临的问题相比，相当无关紧要。]]></description>
       <guid>https://martinfowler.com/articles/2025-passport-x.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:58 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:19 GMT</pubDate>
     </item>
     <item>
       <title>开发人员技能在代理编码中的作用</title>
@@ -113,7 +100,7 @@
       我们目前需要纠正工具失误的技能类型。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</guid>
-      <pubDate>Thu, 29 May 2025 18:02:57 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:18 GMT</pubDate>
     </item>
     <item>
       <title>我被罗伯特·卡罗绑架了</title>
@@ -125,7 +112,7 @@
       书籍对我来说太好了，无法逃脱。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-caro.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:56 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:14 GMT</pubDate>
     </item>
     <item>
       <title>更新昨天的社交媒体参与帖子</title>
@@ -137,7 +124,7 @@
       网站流量的源数据。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/2025-social-traffic.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:54 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:09 GMT</pubDate>
     </item>
     <item>
       <title>指导LLM稳健的Java Bittebuffer代码</title>
@@ -153,7 +140,7 @@
       不安全的代码片段成可靠的，可以使用系统的组件。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:53 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:07 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek概述的其他解释材料</title>
@@ -165,7 +152,7 @@
       在构建这类模型方面具有背景。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/deepseek-papers.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:52 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:06 GMT</pubDate>
     </item>
     <item>
       <title>用LLM构建TMT镜像可视化</title>
@@ -180,7 +167,7 @@
        不熟悉基础技术。 
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:51 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:04 GMT</pubDate>
     </item>
     <item>
       <title>使用LLMS调用功能</title>
@@ -195,7 +182,7 @@
       使用。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/function-call-LLM.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:50 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:07:00 GMT</pubDate>
     </item>
     <item>
       <title>编码助手威胁软件供应链</title>
@@ -208,7 +195,7 @@
        使用时保障安全。
  更多…  ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:49 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:06:58 GMT</pubDate>
     </item>
     <item>
       <title>使用LLM构建自定义工具</title>
@@ -227,7 +214,7 @@
        将繁琐的任务变成可管理的步骤。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:48 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:06:56 GMT</pubDate>
     </item>
     <item>
       <title>敏捷威胁建模</title>
@@ -246,7 +233,7 @@
       团队。
  更多… ]]></description>
       <guid>https://martinfowler.com/articles/agile-threat-modelling.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:47 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:06:54 GMT</pubDate>
     </item>
     <item>
       <title>詹姆斯·刘易斯（James Lewis）在Goto Copenhagen接受了采访</title>
@@ -261,7 +248,7 @@
       LLM今天对程序员的作用。
  更多… ]]></description>
       <guid>https://www.youtube.com/watch?v=xsMUuOwv7IA</guid>
-      <pubDate>Thu, 29 May 2025 18:02:46 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:06:52 GMT</pubDate>
     </item>
     <item>
       <title>布里基：说你的写作</title>
@@ -301,7 +288,7 @@
   2：
       我选择埃森哲，因为他们是一家大型咨询公司，因此
       听起来很普遍的公司所需的所有事情。我跑的最坏情况
-      多年前，我的一位同事的一些闪闪发光的散文
+      很多年前，我的一位同事的散文
       由微软的编辑转变为一个无味的布丁。有一个
       可感知的企业写作方式，通常是潜意识的，这真是盛行
       和毁了。
@@ -309,7 +296,35 @@
 
 ]]></description>
       <guid>https://martinfowler.com/bliki/SayYourWriting.html</guid>
-      <pubDate>Thu, 29 May 2025 18:02:45 GMT</pubDate>
+      <pubDate>Tue, 03 Jun 2025 15:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我还应该使用分析吗？</title>
+      <link>https://martinfowler.com/articles/202506-whither-analytics.html</link>
+      <description><![CDATA[我在2010年在我的网站上设置了Google Analytics（Analytics），此后使用它来跟踪页面视图到我的网站。我只关心页面视图，我发现这很有用，可以找出哪些页面获得最多的流量。这是有趣的数据，有时相当有用。但是Google收集的信息不仅仅是页面视图，而且跟踪比我想要的更具侵入性。但是我还有其他东西我宁愿花时间花时间，所以做任何事情从来没有使它变得足够高。 
+但是上个月我终于做了一些事情，遇到了一些我认为做了我想要的信息。从本质上讲，我希望设置物品，以便我不需要打扰饼干横幅，因为我只会跟踪某人说“拒绝所有人”时可跟踪的内容。基于一些Google文档
+
+ ＆lt; script async src =“ https://www.googletagmanager.com/gtag/js?id=g-6d51f4bdvf”
+＆lt; script＆gt;
+  window.datalayer = window.datalayer || [];
+  函数gtag（）{datalayer.push（gragments）;}
+  gtag（&#39;同意&#39;，“默认”，{
+    &#39;ad_user_data&#39;：&#39;dened&#39;，
+    “ ad_personalization”：“拒绝”，
+    &#39;ad_storage&#39;：“拒绝”，
+    &#39;Analytics_storage&#39;：“拒绝”，
+    &#39;wait_for_update&#39;：500，
+  }）;
+  gtag（&#39;js&#39;，new Date（））;
+
+  gtag（&#39;config&#39;，&#39;g-6d51f4bdvf&#39;）;
+＆lt;/script＆gt;
+ 
+我了解文档，这应该关闭最有问题的跟踪，但仍会发送页面视图事件。第二天，我看了一下，一切似乎都还可以，但是现在，几周后，Google Analytics（分析）报告的页面视图大幅下降。不是零，而是接近零。
+我花了一些时间试图找出正在发生的事情。我使用 Google标签助手，它指示页面视图事件已正确发送。但这并没有解释为什么我没有在Google数据中看到页面视图。
+我不确定下一步该怎么做。毕竟，我不想花太多时间在这方面，毕竟我宁愿在写作和编辑上。我确实考虑过其他服务来进行跟踪，但是看来我们每月谈论100美元 - 这对我来说并不值得。我可以在服务器上尝试使用配置的开源设置，但是这又是我真的不想进入的努力。也许我只是没有分析数据。]]></description>
+      <guid>https://martinfowler.com/articles/202506-whither-analytics.html</guid>
+      <pubDate>Tue, 03 Jun 2025 15:06:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
